@@ -4,6 +4,7 @@ import sqlite3
 from pathlib import Path
 from itertools import cycle
 from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 import yt_dlp
@@ -199,3 +200,35 @@ def marca_falhou(video_id: str, db_path: Path):
     conn.execute("UPDATE videos SET status = 'falhou' WHERE video_id = ?", (video_id,))
     conn.commit()
     conn.close()
+
+
+# download em paralelo pq eh i/o bound, ajuda bastante quando tem 500+ videos
+# nao da pra compartilhar o mesmo objeto ytdlp entre threads, entao cada thread
+# cria o seu proprio - como eh so inicializacao, overhead eh baixo
+
+
+def baixa_audios_em_paralelo(
+    videos: list[dict],
+    out_dir: Path,
+    workers: int = 4,
+) -> list[tuple[dict, Path | None]]:
+    # retorna lista de tuplas (video_meta, caminho_audio_ou_None)
+    # a ordem NAO eh garantida de ser igual ao input pq usa as_completed
+    if not videos:
+        return []
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    resultados: list[tuple[dict, Path | None]] = []
+
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(baixa_audio, v["url"], out_dir): v for v in videos}
+        for fut in as_completed(futures):
+            v = futures[fut]
+            try:
+                path = fut.result()
+            except Exception as e:
+                print(f"thread morreu em {v['video_id']}: {e}")
+                path = None
+            resultados.append((v, path))
+
+    return resultados
