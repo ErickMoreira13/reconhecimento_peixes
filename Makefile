@@ -1,8 +1,9 @@
 # atalhos pro pipeline. tudo assume que o venv ta em .venv/
 
 PY := .venv/bin/python
+PYTEST := .venv/bin/pytest
 
-.PHONY: help setup check models status buscar baixar transcrever extrair verificar exportar limpar reset
+.PHONY: help setup check models status buscar baixar transcrever extrair verificar exportar dashboard tests limpar reset
 
 help:
 	@echo "comandos disponiveis:"
@@ -10,10 +11,12 @@ help:
 	@echo "  make check       - verifica pre-requisitos (python, ffmpeg, ollama, gpu)"
 	@echo "  make models      - baixa os modelos ollama (qwen, llama, gemma)"
 	@echo "  make status      - mostra quantos videos estao em cada etapa"
+	@echo "  make dashboard   - abre dashboard web em localhost:8000"
+	@echo "  make tests       - roda testes unitarios"
 	@echo ""
 	@echo "pipeline (roda em sequencia, cada um depende do anterior):"
 	@echo "  make buscar Q='pesca com ceva' N=50    - acha videos no youtube"
-	@echo "  make baixar N=50                         - baixa audio dos pendentes"
+	@echo "  make baixar N=50 W=4                     - baixa audio (W workers paralelos)"
 	@echo "  make transcrever N=50                    - whisper nos baixados"
 	@echo "  make extrair N=50                        - gliner + qwen nos transcritos"
 	@echo "  make verificar N=50                      - regras + llama critic nos extraidos"
@@ -38,12 +41,13 @@ status:
 # parametros padrao, pode sobrescrever com make buscar Q="..." N=100
 Q ?= "pesca com ceva"
 N ?= 50
+W ?= 4
 
 buscar:
 	@$(PY) -m src.main buscar --queries $(Q) --max-por-query $(N)
 
 baixar:
-	@$(PY) -m src.main baixar --limit $(N)
+	@$(PY) -m src.main baixar --limit $(N) --workers $(W)
 
 transcrever:
 	@$(PY) -m src.main transcrever --limit $(N)
@@ -57,11 +61,18 @@ verificar:
 exportar:
 	@$(PY) -m src.main exportar
 
+dashboard:
+	@echo "abrindo dashboard em http://localhost:8000 (ctrl+c pra parar)"
+	@$(PY) -m uvicorn src.dashboard.server:app --host 0.0.0.0 --port 8000 --reload
+
+tests:
+	@$(PYTEST)
+
 # atalhao pra rodar tudo em sequencia com valores default
 # util pra um teste rapido com poucos videos
 run-tudo:
 	@$(PY) -m src.main buscar --queries $(Q) --max-por-query $(N)
-	@$(PY) -m src.main baixar --limit $(N)
+	@$(PY) -m src.main baixar --limit $(N) --workers $(W)
 	@$(PY) -m src.main transcrever --limit $(N)
 	@$(PY) -m src.main extrair --limit $(N)
 	@$(PY) -m src.main verificar --limit $(N)
