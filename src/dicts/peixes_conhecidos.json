@@ -1,4 +1,5 @@
 {
+  "__doc__": "EXEMPLOS de nomes comuns de peixes BR, NAO eh lista fechada. Se o video menciona especie nao listada aqui, capturar mesmo assim. Lista herdada do projeto antigo do erick, serve so de hint pra canonizar girias tipo 'tucunazao' -> 'tucunare'.",
   "nomes_comuns_peixes": [
     "Abadejo",
     "Abotoado",

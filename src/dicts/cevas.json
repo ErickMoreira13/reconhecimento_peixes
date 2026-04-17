@@ -1,4 +1,5 @@
 {
+  "__doc__": "EXEMPLOS de cevas comuns, NAO eh lista fechada. Serve pra dar contexto pro modelo canonizar termos coloquiais. Se o video menciona uma ceva que nao ta aqui, capturar o valor livre do texto mesmo assim.",
   "categorias": {
     "garrafa_pet_perfurada": [
       "garrafa pet perfurada",

@@ -1,4 +1,5 @@
 {
+    "__doc__": "EXEMPLOS de bacias/rios, NAO eh lista fechada. Se o video menciona bacia ou rio que nao ta aqui, capturar mesmo assim. Serve so de hint pro modelo normalizar.",
     "basins": [
         "Rio Madeira",
         "Alto rio Madeira",

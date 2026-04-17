@@ -1,4 +1,5 @@
 {
+  "__doc__": "UNICO gazetteer que eh enum fechado de verdade — sao 27 UFs e ponto, nao vai aparecer um estado novo.",
   "ufs": [
     {"sigla": "AC", "nome": "Acre"},
     {"sigla": "AL", "nome": "Alagoas"},
