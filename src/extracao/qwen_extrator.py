@@ -7,6 +7,7 @@ from src import config
 from src.schemas import CampoExtraido
 from src.extracao.prompts import monta_prompt_extrator
 from src.extracao import gliner_client
+from src.extracao.utils import parse_json_safe as _parse_json_safe
 
 
 # extrator principal: ollama/qwen single-prompt pra sair os 8 campos
@@ -14,32 +15,6 @@ from src.extracao import gliner_client
 #
 # 1 chamada por video eh mt mais rapido que 8 agentes separados (5s vs 13s no 4060)
 # se o json vier quebrado, tenta retry com temp maior
-
-
-def _parse_json_safe(raw: str) -> dict | None:
-    # ollama as vezes cospe texto antes/depois do json, tenta achar o objeto
-    raw = raw.strip()
-    if raw.startswith("```"):
-        # remove cercas de markdown se tiver
-        raw = raw.split("```", 2)[1]
-        if raw.startswith("json"):
-            raw = raw[4:]
-        raw = raw.strip()
-        if raw.endswith("```"):
-            raw = raw[:-3].strip()
-
-    try:
-        return json.loads(raw)
-    except json.JSONDecodeError:
-        # ultima tentativa: pega do primeiro { ate o ultimo }
-        i = raw.find("{")
-        j = raw.rfind("}")
-        if i >= 0 and j > i:
-            try:
-                return json.loads(raw[i:j+1])
-            except json.JSONDecodeError:
-                return None
-        return None
 
 
 def _chama_ollama(prompt: str, temperature: float = 0.0, seed: int = 42) -> tuple[str, int]:

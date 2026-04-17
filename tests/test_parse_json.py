@@ -1,4 +1,4 @@
-from src.extracao.qwen_extrator import _parse_json_safe
+from src.extracao.utils import parse_json_safe as _parse_json_safe
 
 
 def test_json_limpo():
