@@ -1,0 +1,21 @@
+# youtube + download de audio
+yt-dlp>=2024.12.0
+google-api-python-client>=2.100.0
+
+# transcricao
+faster-whisper>=1.0.0
+
+# llms locais
+ollama>=0.3.0
+
+# ner
+gliner>=0.2.10
+onnxruntime-gpu>=1.17.0
+
+# utils
+rapidfuzz>=3.5.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# processamento
+pandas>=2.1.0
