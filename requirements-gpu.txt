@@ -3,3 +3,8 @@
 #   pip install -r requirements-gpu.txt
 
 onnxruntime-gpu>=1.17.0
+
+# libs cuda que o faster-whisper precisa pra rodar na gpu
+# sem isso da erro "libcublas.so.12 not found" no load do modelo
+nvidia-cublas-cu12>=12.4.0
+nvidia-cudnn-cu12>=9.0.0

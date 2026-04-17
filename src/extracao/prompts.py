@@ -48,100 +48,42 @@ def monta_prompt_extrator(
     transcricao: str,
     spans_gliner: dict[str, list[dict]],
 ) -> str:
-    # carrega exemplos dos dicts pra passar como contexto
-    cevas = _carrega_dict("cevas.json")["categorias"]
-    graos = _carrega_dict("graos.json")["graos"]
-    ufs = _carrega_dict("estados.json")["ufs"]
-    top_peixes = _top_peixes_por_bm25(transcricao, k=20)
+    # carrega exemplos mas deixa o prompt curto pra nao explodir o prefill do qwen
+    peixes_ner = [s["text"] for s in spans_gliner.get("peixe", [])][:10]
+    bacias_ner = [s["text"] for s in spans_gliner.get("bacia hidrografica", [])][:5]
 
-    # spans crus do gliner (peixes + bacias candidatos)
-    peixes_ner = [s["text"] for s in spans_gliner.get("peixe", [])]
-    bacias_ner = [s["text"] for s in spans_gliner.get("bacia hidrografica", [])]
+    # hint curtinho dos top peixes no texto (pra canonizar girias)
+    top_peixes = _top_peixes_por_bm25(transcricao, k=10)
 
-    # monta exemplos de ceva (nome canonico + gírias)
-    cevas_desc = []
-    for cat, vars_ in cevas.items():
-        cevas_desc.append(f"- {cat}: variacoes tipo {', '.join(vars_[:3])}")
-    cevas_block = "\n".join(cevas_desc)
+    prompt = f"""Analise a transcricao de um video de pescaria brasileira e extraia 8 campos em JSON.
 
-    # graos exemplos
-    graos_desc = []
-    for g, vars_ in graos.items():
-        graos_desc.append(f"- {g}: {', '.join(vars_)}")
-    graos_block = "\n".join(graos_desc)
-
-    # lista ufs
-    ufs_siglas = ", ".join(u["sigla"] for u in ufs)
-
-    prompt = f"""Voce eh um analista especialista em pesca esportiva brasileira.
-
-Leia a transcricao abaixo e extraia 8 campos em formato JSON.
-
-REGRA CENTRAL — VOCABULARIO ABERTO:
-- se o texto menciona algo (peixe, bacia, rio, ceva, grao) que NAO esta nos exemplos abaixo, RETORNE O VALOR BRUTO DO TEXTO mesmo assim
-- os exemplos servem SO pra canonizar (ex: "velho chico" -> "Rio Sao Francisco", "tucunazao" -> "tucunare-acu")
-- se nao for parecido com nenhum exemplo, use o valor literal do texto
-- marque "fora_do_gazetteer": true quando o valor NAO casa com os exemplos
-- se o campo nao foi mencionado, use null
+REGRA: vocabulario aberto. Se o texto menciona algo fora dos exemplos, retorne o valor bruto. Marque fora_do_gazetteer=true quando nao casar com exemplos. Se nao mencionado, null.
 
 CAMPOS:
+1. estado: sigla UF (AC,AL,AM,AP,BA,CE,DF,ES,GO,MA,MG,MS,MT,PA,PB,PE,PI,PR,RJ,RN,RO,RR,RS,SC,SE,SP,TO) ou null
+2. municipio: nome livre ou null
+3. rio: nome com prefixo "Rio " ou null. Normalizar "velho chico" -> "Rio Sao Francisco"
+4. bacia: nome livre ou null. Candidatos NER: {bacias_ner or "nenhum"}
+5. tipo_ceva: garrafa_pet_perfurada | ceva_de_chao | ceva_solta_na_agua | bola_de_massa | saco_de_ceva | cano_pvc_perfurado | outro texto livre | null
+6. grao: soja | milho | trigo | arroz | sorgo | aveia | outro texto livre | null
+7. especies: lista de peixes. NER candidatos: {peixes_ner or "nenhum"}. Canonicos similares: {top_peixes}
+8. observacoes: resumo 1-2 frases sobre horario/clima/dicas/resultado, 20-80 palavras, senao "Sem observacoes adicionais relevantes."
 
-1. estado (UF brasileira) — LISTA FECHADA de 27 UFs (essa eh unica excecao):
-{ufs_siglas}
-   Deduza pelo municipio ou rio se nao for citada direto. Se ambiguo, null.
-
-2. municipio — string LIVRE, capture o nome mencionado (ex: "Porto Velho", "Caceres").
-   Se nao foi citado, null.
-
-3. rio — string LIVRE com prefixo "Rio " (ex: "Rio Madeira").
-   Normalize: "velho chico" -> "Rio Sao Francisco".
-   Se nao foi citado, null.
-
-4. bacia — string LIVRE. Exemplos de candidatos (NAO eh lista fechada):
-   Bacia Amazonica, Bacia do Parana, Bacia do Sao Francisco, Bacia Tocantins-Araguaia,
-   Bacia do Paraguai, Bacia do Uruguai, outras possiveis.
-   Extraido por NER, candidatos: {bacias_ner or "nenhum"}
-   Se nao foi citada, null.
-
-5. tipo_ceva — string. Tenta canonizar em:
-{cevas_block}
-   Se mencionar ceva diferente (ex: "gororoba de farelo e sardinha"), RETORNE O TEXTO LIVRE.
-   Se nao foi citada, null.
-
-6. grao — string. Exemplos:
-{graos_block}
-   Se mencionar grao diferente (amendoim, milhete, etc), RETORNE O TEXTO LIVRE.
-   Se nao foi citado, null.
-
-7. especies — LISTA de strings. Nomes canonicos de peixes mencionados.
-   NER candidatos: {peixes_ner or "nenhum"}
-   Top-20 canonicos similares pra ajudar (NAO eh lista fechada): {top_peixes}
-   Girias: "tucunazao" -> "tucunare-acu", "pirambeba" -> "piranha-vermelha" (quando contexto permitir).
-   Se mencionar especie nao listada, USE O TEXTO LIVRE (ex: "piabanha", "mapara").
-   Se nenhuma citada, [].
-
-8. observacoes — resumo em 1-2 frases de coisas NAO capturadas nos campos acima:
-   horario/periodo, clima, comportamento dos peixes, resultado, dicas, etc.
-   Entre 20 e 80 palavras.
-   Cite pelo menos 1 entidade real da transcricao pra nao alucinar.
-   Se nada relevante alem dos campos, retorne "Sem observacoes adicionais relevantes."
-
-FORMATO DE SAIDA (JSON estrito):
+FORMATO JSON:
 {{
-  "estado": {{"valor": "<sigla UF ou null>", "confianca": <0-1>, "evidencia": "<trecho literal>", "fora_do_gazetteer": false}},
-  "municipio": {{"valor": "<nome ou null>", "confianca": <0-1>, "evidencia": "<trecho>", "fora_do_gazetteer": <bool>}},
-  "rio": {{"valor": "<Rio X ou null>", "confianca": <0-1>, "evidencia": "<trecho>", "fora_do_gazetteer": <bool>}},
-  "bacia": {{"valor": "<bacia ou null>", "confianca": <0-1>, "evidencia": "<trecho>", "fora_do_gazetteer": <bool>}},
-  "tipo_ceva": {{"valor": "<categoria canonica OU texto livre OU null>", "confianca": <0-1>, "evidencia": "<trecho>", "fora_do_gazetteer": <bool>}},
-  "grao": {{"valor": "<grao ou null>", "confianca": <0-1>, "evidencia": "<trecho>", "fora_do_gazetteer": <bool>}},
-  "especies": {{"valor": [{{"nome": "<especie>", "evidencia": "<trecho>", "fora_do_gazetteer": <bool>}}], "confianca": <0-1>}},
-  "observacoes": {{"valor": "<texto 1-2 frases ou 'Sem observacoes adicionais relevantes.'>", "confianca": <0-1>, "evidencia": "<trecho>"}}
+  "estado":{{"valor":null,"confianca":0,"evidencia":"","fora_do_gazetteer":false}},
+  "municipio":{{"valor":null,"confianca":0,"evidencia":"","fora_do_gazetteer":false}},
+  "rio":{{"valor":null,"confianca":0,"evidencia":"","fora_do_gazetteer":false}},
+  "bacia":{{"valor":null,"confianca":0,"evidencia":"","fora_do_gazetteer":false}},
+  "tipo_ceva":{{"valor":null,"confianca":0,"evidencia":"","fora_do_gazetteer":false}},
+  "grao":{{"valor":null,"confianca":0,"evidencia":"","fora_do_gazetteer":false}},
+  "especies":{{"valor":[],"confianca":0}},
+  "observacoes":{{"valor":null,"confianca":0,"evidencia":""}}
 }}
 
-Regra dura: NUNCA inventar valor que nao aparece no texto. Evidencia deve ser trecho LITERAL.
-Responda APENAS o JSON.
+Evidencia = trecho LITERAL do texto. Nunca inventar. Responda apenas o JSON.
 
-TRANSCRICAO:
+TEXTO:
 \"\"\"
 {transcricao}
 \"\"\"

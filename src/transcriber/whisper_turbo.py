@@ -3,6 +3,10 @@ import sqlite3
 from pathlib import Path
 from datetime import datetime
 
+# importa antes do faster-whisper pra garantir que as libs cuda estao visiveis
+from src.transcriber.cuda_libs import pre_carrega_libs_cuda
+pre_carrega_libs_cuda()
+
 from faster_whisper import WhisperModel
 
 from src import config
