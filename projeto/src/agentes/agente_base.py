@@ -1,1 +1,0 @@
-# Aqui deve ser uma classe base para os demais agentes

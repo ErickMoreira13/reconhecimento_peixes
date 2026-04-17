@@ -1,0 +1,66 @@
+# venv
+.venv/
+venv/
+env/
+.env
+.env.local
+.env.*.local
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# notebooks
+.ipynb_checkpoints/
+
+# dados pesados
+data/raw_audio/
+data/transcriptions/
+data/mp4_cache/
+*.wav
+*.opus
+*.mp3
+*.mp4
+*.m4a
+
+# resultados
+data/results/*.json
+data/results/*.csv
+
+# modelos baixados (whisper/gliner/ollama)
+models/
+*.gguf
+*.onnx
+*.bin
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+logs/
+
+# secrets / api keys
+secrets/
+*.key
+*.pem
+api_keys.txt
+youtube_keys.txt

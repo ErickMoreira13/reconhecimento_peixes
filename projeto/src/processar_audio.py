@@ -1,1 +1,0 @@
-# Demais processamentos do audio (limpeza da transcricao, retirada de palavras repetidas e etc) antes de se input para as pipelines
