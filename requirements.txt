@@ -21,3 +21,8 @@ pydantic>=2.5.0
 python-dotenv>=1.0.0
 pandas>=2.1.0
 rich>=13.7.0
+
+# dashboard web (opcional, so precisa se for rodar make dashboard)
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+jinja2>=3.1.0

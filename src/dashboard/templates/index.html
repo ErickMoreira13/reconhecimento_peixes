@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>reconhecimento_peixes — pipeline</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --bg2: #161b22;
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+    --ok: #3fb950;
+    --warn: #d29922;
+    --err: #f85149;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 32px;
+    background: var(--bg); color: var(--fg);
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-size: 14px;
+  }
+  h1 { margin: 0 0 8px 0; font-size: 18px; font-weight: 600; }
+  .sub { color: var(--muted); font-size: 12px; margin-bottom: 24px; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 32px;
+  }
+  .card {
+    background: var(--bg2);
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 16px;
+  }
+  .card .label {
+    color: var(--muted);
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+  }
+  .card .num {
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 4px;
+  }
+  .pendente .num { color: var(--warn); }
+  .baixado .num { color: var(--accent); }
+  .transcrito .num { color: var(--accent); }
+  .extraido .num { color: var(--ok); }
+  .verificado .num { color: var(--ok); }
+  .falhou .num { color: var(--err); }
+  .total .num { color: var(--fg); }
+
+  .section { margin-bottom: 32px; }
+  .section h2 {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin: 0 0 12px 0;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--bg2);
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  th, td {
+    padding: 10px 12px;
+    text-align: left;
+    border-bottom: 1px solid #21262d;
+    font-size: 12px;
+  }
+  th { color: var(--muted); font-weight: 500; background: #161b22; }
+  tr:last-child td { border-bottom: 0; }
+  .vid { color: var(--accent); font-family: inherit; }
+  .title { color: var(--fg); max-width: 400px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .when { color: var(--muted); font-size: 11px; }
+
+  .barra {
+    background: #21262d; height: 8px; border-radius: 4px; overflow: hidden;
+    margin-top: 16px;
+  }
+  .barra .fill {
+    height: 100%; background: linear-gradient(90deg, var(--accent), var(--ok));
+    transition: width 0.4s;
+  }
+
+  .aviso {
+    background: #2d1f0f;
+    border: 1px solid #5a3e00;
+    color: var(--warn);
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+
+  .flag-item {
+    display: inline-block;
+    margin: 2px 4px 2px 0;
+    padding: 3px 8px;
+    background: #1c2128;
+    border: 1px solid #30363d;
+    border-radius: 4px;
+    font-size: 11px;
+  }
+  .flag-campo { color: var(--warn); font-weight: 600; margin-right: 4px; }
+</style>
+</head>
+<body>
+
+<h1>pipeline reconhecimento_peixes</h1>
+<div class="sub">atualiza a cada 3s • <span id="last-update">-</span></div>
+
+<div id="erro" style="display: none;" class="aviso"></div>
+
+<div class="section">
+  <h2>status</h2>
+  <div id="cards" class="grid"></div>
+  <div class="barra"><div class="fill" id="fill" style="width: 0%;"></div></div>
+</div>
+
+<div class="section">
+  <h2>ultimos extraidos</h2>
+  <table>
+    <thead><tr><th>video</th><th>titulo</th><th>quando</th></tr></thead>
+    <tbody id="ultimos-extraidos"></tbody>
+  </table>
+</div>
+
+<div class="section">
+  <h2>ultimos transcritos</h2>
+  <table>
+    <thead><tr><th>video</th><th>titulo</th><th>quando</th></tr></thead>
+    <tbody id="ultimos-transcritos"></tbody>
+  </table>
+</div>
+
+<div class="section">
+  <h2>termos fora do gazetteer (vocabulario novo descoberto)</h2>
+  <div id="flags">carregando...</div>
+</div>
+
+<script>
+function fmtData(iso) {
+  if (!iso) return "-";
+  try {
+    const d = new Date(iso);
+    return d.toLocaleTimeString("pt-BR");
+  } catch { return iso; }
+}
+
+function card(label, num, cls) {
+  return `<div class="card ${cls}">
+    <div class="label">${label}</div>
+    <div class="num">${num}</div>
+  </div>`;
+}
+
+function linhaVideo(v) {
+  return `<tr>
+    <td><a class="vid" target="_blank" href="https://www.youtube.com/watch?v=${v.video_id}">${v.video_id}</a></td>
+    <td class="title">${v.title || ""}</td>
+    <td class="when">${fmtData(v.quando)}</td>
+  </tr>`;
+}
+
+async function atualiza() {
+  try {
+    const r = await fetch("/api/status");
+    if (!r.ok) {
+      const j = await r.json().catch(() => ({erro: "nao rolou"}));
+      document.getElementById("erro").style.display = "block";
+      document.getElementById("erro").textContent = j.erro || "erro";
+      return;
+    }
+    document.getElementById("erro").style.display = "none";
+    const d = await r.json();
+
+    // cards
+    const cards = document.getElementById("cards");
+    cards.innerHTML = "";
+    const ordem = ["pendente", "baixado", "transcrito", "extraido", "verificado", "falhou"];
+    for (const st of ordem) {
+      if (d.por_status[st] !== undefined) {
+        cards.innerHTML += card(st, d.por_status[st], st);
+      }
+    }
+    cards.innerHTML += card("total", d.total, "total");
+
+    // barra de progresso: verificados/total
+    const verif = d.por_status.verificado || 0;
+    const pct = d.total > 0 ? Math.round(verif / d.total * 100) : 0;
+    document.getElementById("fill").style.width = pct + "%";
+
+    // tabelas
+    document.getElementById("ultimos-extraidos").innerHTML = d.ultimos_extraidos.map(linhaVideo).join("");
+    document.getElementById("ultimos-transcritos").innerHTML = d.ultimos_transcritos.map(linhaVideo).join("");
+
+    document.getElementById("last-update").textContent = fmtData(d.atualizado_em);
+  } catch (e) {
+    console.error(e);
+    document.getElementById("erro").style.display = "block";
+    document.getElementById("erro").textContent = "erro: " + e.message;
+  }
+
+  // flags fora do gazetteer
+  try {
+    const r2 = await fetch("/api/flags");
+    const f = await r2.json();
+    const div = document.getElementById("flags");
+    if (Object.keys(f).length === 0) {
+      div.innerHTML = '<span style="color: var(--muted)">nada por enquanto. conforme extrair videos aparecem termos novos aqui</span>';
+    } else {
+      let html = "";
+      for (const [campo, items] of Object.entries(f)) {
+        html += `<div style="margin-bottom: 10px;"><span class="flag-campo">${campo}:</span>`;
+        const vistos = new Set();
+        for (const it of items) {
+          const key = typeof it.valor === "string" ? it.valor : JSON.stringify(it.valor);
+          if (vistos.has(key)) continue;
+          vistos.add(key);
+          html += `<span class="flag-item" title="${(it.evidencia || "").replace(/"/g, '&quot;')}">${key}</span>`;
+        }
+        html += `</div>`;
+      }
+      div.innerHTML = html;
+    }
+  } catch (e) {
+    console.error("flags error", e);
+  }
+}
+
+atualiza();
+setInterval(atualiza, 3000);
+</script>
+
+</body>
+</html>
