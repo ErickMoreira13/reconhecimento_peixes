@@ -37,12 +37,12 @@ usa o makefile pra atalho ou chama o python direto.
 source .venv/bin/activate
 
 # fluxo padrao (cada etapa depende da anterior)
-make buscar Q="pesca com ceva" N=50   # busca na api do youtube
-make baixar N=50                       # yt-dlp baixa o audio
-make transcrever N=50                  # whisper turbo
-make extrair N=50                      # gliner + qwen (8 campos em 1 chamada)
-make verificar N=50                    # regras + llama critic (2 retries)
-make exportar                          # gera csv final
+make buscar Q="pesca com ceva" N=50        # busca na api do youtube
+make baixar N=50 W=4                        # yt-dlp baixa o audio (W workers paralelos)
+make transcrever N=50                       # whisper turbo
+make extrair N=50                           # gliner + qwen (8 campos em 1 chamada)
+make verificar N=50                         # regras + llama critic (2 retries)
+make exportar                               # gera csv final
 
 # ver como ta
 make status
@@ -56,13 +56,32 @@ make run-tudo Q="pesca com ceva" N=20
 
 o csv final sai em `data/results/planilha_YYYYMMDD_HHMM.csv` com coluna `flags_fora_do_gazetteer` pra ver quais campos vieram de texto livre (nao bateram com dict).
 
+### dashboard web
+
+pra acompanhar o pipeline em tempo real:
+
+```bash
+make dashboard       # abre em http://localhost:8000
+```
+
+tem cards de status por etapa, barra de progresso geral, tabelas de ultimos processados, e uma secao que mostra os **termos novos** (fora do dict) que foram descobertos — util pra ver que vocabulario novo ta aparecendo nos videos.
+
+### testes
+
+```bash
+make tests           # pytest
+```
+
+testa o parse de json, regras do verificador, schemas, dicts. nao precisa de rede nem modelo baixado.
+
 ## estrutura
 
 ```
 src/
   config.py              - carrega .env, detecta gpu auto
   schemas.py             - dataclasses comuns (CampoExtraido, Veredito)
-  harvester/youtube.py   - busca api + download via yt-dlp
+  ui.py                  - wrapper do rich (progress, tabelas, cores)
+  harvester/youtube.py   - busca api + download via yt-dlp (threadpool)
   transcriber/           - whisper turbo
   extracao/
     gliner_client.py     - ner (spans de peixe e bacia)
@@ -72,12 +91,17 @@ src/
     regras.py            - smith-waterman + cross-field + pos filter
     critic.py            - llama 3.1 8b (familia diferente do qwen)
     retry_loop.py        - budget 2, temp escalation, feedback injection
+  dashboard/
+    server.py            - fastapi pra monitorar em tempo real
+    templates/index.html - pagina com status + termos novos
   dicts/                 - peixes, bacias, estados (EXEMPLOS, nao filtro)
   main.py                - cli
 
 scripts/
   check-env.sh           - valida pre-requisitos
   models.sh              - baixa modelos ollama
+
+tests/                   - pytest (regras, schemas, parse_json, dicts)
 
 data/
   raw_audio/             - .opus 32kbps
