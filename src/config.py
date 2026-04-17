@@ -17,7 +17,28 @@ MODEL_VERIFICADOR = os.getenv("MODEL_VERIFICADOR", "llama3.1:8b")
 
 # whisper
 WHISPER_MODEL = os.getenv("WHISPER_MODEL", "large-v3-turbo")
-WHISPER_DEVICE = os.getenv("WHISPER_DEVICE", "cuda")
+_device_pref = os.getenv("WHISPER_DEVICE", "auto")
+
+
+def _detecta_device():
+    # se o user forcar, respeita
+    if _device_pref in ("cuda", "cpu"):
+        return _device_pref
+    # auto: tenta descobrir se tem gpu disponivel
+    # evito importar torch so pra isso, uso nvidia-smi se existir
+    import shutil
+    import subprocess
+    if shutil.which("nvidia-smi"):
+        try:
+            r = subprocess.run(["nvidia-smi"], capture_output=True, timeout=3)
+            if r.returncode == 0:
+                return "cuda"
+        except Exception:
+            pass
+    return "cpu"
+
+
+WHISPER_DEVICE = _detecta_device()
 
 # paths
 DATA_DIR = Path(os.getenv("DATA_DIR", ROOT / "data"))
