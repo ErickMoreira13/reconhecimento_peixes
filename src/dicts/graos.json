@@ -1,0 +1,10 @@
+{
+  "graos": {
+    "soja": ["soja", "farelo de soja", "soja torrada", "soja cozida"],
+    "milho": ["milho", "milharal", "milhinho", "canjica", "fuba", "milho verde", "milho cozido"],
+    "trigo": ["trigo", "farelo de trigo", "farinha de trigo"],
+    "arroz": ["arroz", "arroz cozido", "quirera de arroz"],
+    "sorgo": ["sorgo"],
+    "aveia": ["aveia"]
+  }
+}
