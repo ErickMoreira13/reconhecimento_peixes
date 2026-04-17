@@ -1,0 +1,201 @@
+import time
+import json
+import sqlite3
+from pathlib import Path
+from itertools import cycle
+from datetime import datetime, timezone
+
+import requests
+import yt_dlp
+
+from src import config
+
+
+# busca na api do youtube usando as keys rotativas
+# cada key tem quota de ~10k/dia, entao rotar bastante
+# se todas estouraram quota retorna o que ja pegou
+
+
+def _search_page(query: str, key: str, page_token: str | None = None, published_after: str | None = None) -> dict | None:
+    url = "https://www.googleapis.com/youtube/v3/search"
+    params = {
+        "part": "snippet",
+        "q": query,
+        "maxResults": 50,
+        "type": "video",
+        "key": key,
+    }
+    if page_token:
+        params["pageToken"] = page_token
+    if published_after:
+        params["publishedAfter"] = published_after
+
+    try:
+        r = requests.get(url, params=params, timeout=20)
+    except Exception as e:
+        print(f"erro na request youtube: {e}")
+        return None
+
+    if r.status_code == 200:
+        return r.json()
+
+    # 403 geralmente eh quota estourada
+    if r.status_code == 403:
+        print(f"key {key[:12]}... deve ter estourado quota ({r.status_code})")
+        return None
+
+    print(f"resposta estranha da api: {r.status_code} - {r.text[:200]}")
+    return None
+
+
+def busca_videos(query: str, max_videos: int = 50, ultimos_anos: int = 10) -> list[dict]:
+    # usa rotacao simples, se uma key falha vai pra proxima
+    if not config.YOUTUBE_API_KEYS:
+        raise RuntimeError("sem keys configuradas, olha o .env")
+
+    ano_lim = datetime.now(timezone.utc).year - ultimos_anos
+    published_after = f"{ano_lim}-01-01T00:00:00Z"
+
+    videos: list[dict] = []
+    keys_cycle = cycle(config.YOUTUBE_API_KEYS)
+    keys_queimadas: set[str] = set()
+    page_token = None
+
+    while len(videos) < max_videos:
+        if len(keys_queimadas) == len(config.YOUTUBE_API_KEYS):
+            print("todas as keys queimaram, para por aqui")
+            break
+
+        key = next(keys_cycle)
+        if key in keys_queimadas:
+            continue
+
+        data = _search_page(query, key, page_token, published_after)
+        if data is None:
+            keys_queimadas.add(key)
+            continue
+
+        for it in data.get("items", []):
+            sn = it["snippet"]
+            videos.append({
+                "video_id": it["id"]["videoId"],
+                "url": f"https://www.youtube.com/watch?v={it['id']['videoId']}",
+                "title": sn["title"],
+                "channel": sn.get("channelTitle", ""),
+                "published_at": sn["publishedAt"],
+                "description": sn.get("description", ""),
+                "query_origem": query,
+            })
+            if len(videos) >= max_videos:
+                break
+
+        page_token = data.get("nextPageToken")
+        if not page_token:
+            # acabou as paginas dessa query
+            break
+
+    return videos
+
+
+# baixa so o audio em opus, menor tamanho que whisper aguenta
+# outro formato bom eh m4a mas opus da arquivos muito menores
+
+
+def baixa_audio(url: str, out_dir: Path) -> Path | None:
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    ydl_opts = {
+        "format": "bestaudio/best",
+        "postprocessors": [{
+            "key": "FFmpegExtractAudio",
+            "preferredcodec": "opus",
+            "preferredquality": "32",
+        }],
+        "outtmpl": str(out_dir / "%(id)s.%(ext)s"),
+        "quiet": True,
+        "no_warnings": True,
+    }
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(url, download=True)
+    except Exception as e:
+        # as vezes da ruim em canais com drm ou idade
+        print(f"falhou baixar {url}: {e}")
+        return None
+
+    vid = info.get("id")
+    path = out_dir / f"{vid}.opus"
+
+    if not path.exists():
+        # as vezes o ytdlp baixa em outro formato mesmo pedindo opus ?????
+        # procura pelo id em qualquer extensao
+        achados = list(out_dir.glob(f"{vid}.*"))
+        if achados:
+            return achados[0]
+        print(f"nao achei arquivo baixado pra {vid}")
+        return None
+
+    return path
+
+
+# checkpoint simples em sqlite pra saber o que ja foi baixado
+# reinicio seguro se cair no meio do processamento
+
+
+def _get_db(db_path: Path) -> sqlite3.Connection:
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(db_path)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS videos (
+            video_id TEXT PRIMARY KEY,
+            url TEXT,
+            title TEXT,
+            channel TEXT,
+            published_at TEXT,
+            query_origem TEXT,
+            audio_path TEXT,
+            status TEXT DEFAULT 'pendente',
+            baixado_em TEXT
+        )
+    """)
+    conn.commit()
+    return conn
+
+
+def salva_metadata(videos: list[dict], db_path: Path):
+    conn = _get_db(db_path)
+    cur = conn.cursor()
+    for v in videos:
+        cur.execute("""
+            INSERT OR IGNORE INTO videos (video_id, url, title, channel, published_at, query_origem)
+            VALUES (?, ?, ?, ?, ?, ?)
+        """, (v["video_id"], v["url"], v["title"], v["channel"], v["published_at"], v.get("query_origem", "")))
+    conn.commit()
+    conn.close()
+
+
+def pega_pendentes(db_path: Path, limit: int = 100) -> list[dict]:
+    conn = _get_db(db_path)
+    cur = conn.cursor()
+    cur.execute("SELECT video_id, url FROM videos WHERE status = 'pendente' LIMIT ?", (limit,))
+    rows = [{"video_id": r[0], "url": r[1]} for r in cur.fetchall()]
+    conn.close()
+    return rows
+
+
+def marca_baixado(video_id: str, audio_path: Path, db_path: Path):
+    conn = _get_db(db_path)
+    conn.execute("""
+        UPDATE videos SET audio_path = ?, status = 'baixado', baixado_em = ?
+        WHERE video_id = ?
+    """, (str(audio_path), datetime.utcnow().isoformat(), video_id))
+    conn.commit()
+    conn.close()
+
+
+def marca_falhou(video_id: str, db_path: Path):
+    conn = _get_db(db_path)
+    conn.execute("UPDATE videos SET status = 'falhou' WHERE video_id = ?", (video_id,))
+    conn.commit()
+    conn.close()
