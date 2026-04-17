@@ -1,0 +1,5 @@
+# extras pra quando tiver gpu nvidia disponivel
+# rodar DEPOIS do requirements.txt base:
+#   pip install -r requirements-gpu.txt
+
+onnxruntime-gpu>=1.17.0

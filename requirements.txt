@@ -1,21 +1,22 @@
+# coisa base que roda em qualquer maquina (cpu ou gpu)
+# se tiver gpu/cuda disponivel, o setup.sh tb instala o requirements-gpu.txt
+
 # youtube + download de audio
 yt-dlp>=2024.12.0
 google-api-python-client>=2.100.0
 
-# transcricao
+# transcricao - faster-whisper funciona em cpu com int8 (lento mas funciona)
 faster-whisper>=1.0.0
 
-# llms locais
+# llms locais via ollama (cliente)
 ollama>=0.3.0
 
-# ner
+# ner - onnxruntime base funciona em cpu, gpu-only ta no requirements-gpu.txt
 gliner>=0.2.10
-onnxruntime-gpu>=1.17.0
+onnxruntime>=1.17.0
 
 # utils
 rapidfuzz>=3.5.0
 pydantic>=2.5.0
 python-dotenv>=1.0.0
-
-# processamento
 pandas>=2.1.0

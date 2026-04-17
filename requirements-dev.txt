@@ -1,0 +1,3 @@
+# so pra dev local, nao precisa rodar o pipeline
+pytest>=7.4.0
+ruff>=0.3.0
