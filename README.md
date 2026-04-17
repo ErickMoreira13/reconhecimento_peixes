@@ -3,63 +3,111 @@
 coleta e analise de videos de pescaria brasileira pra montar uma planilha com:
 plataforma, autor, link, data, estado, municipio, rio, bacia, tipo de ceva, grao, especies capturadas, observacoes.
 
-roda em maquina pessoal, sem cloud. usa whisper pra transcrever e modelos locais (ollama) pra extrair as infos do texto.
+roda em maquina pessoal (cpu ou gpu nvidia). usa whisper pra transcrever e modelos locais (ollama) pra extrair as infos do texto.
 
-## setup
+## setup rapido
 
-precisa de: python 3.11+, ffmpeg, ollama (com qwen2.5:7b e llama3.1:8b baixados), cuda (opcional mas recomendado pra whisper).
-
-```bash
-# deps python
-pip install -r requirements.txt
-
-# config
-cp .env.example .env
-# edita .env e poe suas keys do youtube
-
-# modelos ollama (se ainda nao tiver)
-ollama pull qwen2.5:7b
-ollama pull llama3.1:8b
-```
-
-## uso basico
+clona o repo e roda **uma linha**:
 
 ```bash
-# 1. busca videos no youtube (salva metadata no db)
-python -m src.main buscar --queries "pesca com ceva" --max-por-query 50
-
-# 2. baixa audio dos pendentes
-python -m src.main baixar --limit 50
-
-# 3. transcreve os audios
-python -m src.main transcrever --limit 50
-
-# ver status
-python -m src.main status
+git clone https://github.com/ErickMoreira13/reconhecimento_peixes
+cd reconhecimento_peixes
+bash setup.sh
 ```
 
-os audios vao pra `data/raw_audio/`, transcricoes pra `data/transcriptions/`, e o estado do pipeline fica em `data/videos.db`.
+o script cuida de tudo: checa pre-requisitos, cria venv, instala deps (base e gpu se der), copia `.env`, baixa modelos ollama.
+
+depois abre o `.env` e poe suas keys do youtube.
+
+## pre-requisitos
+
+- python 3.11+
+- ffmpeg (pra yt-dlp extrair audio)
+- ollama ([install](https://ollama.com/download))
+- gpu nvidia **opcional** (acelera whisper, mas roda em cpu tb)
+
+na duvida roda `bash scripts/check-env.sh` que lista o que ta faltando.
+
+## uso
+
+usa o makefile pra atalho ou chama o python direto.
+
+```bash
+# ativa o venv
+source .venv/bin/activate
+
+# fluxo padrao (cada etapa depende da anterior)
+make buscar Q="pesca com ceva" N=50   # busca na api do youtube
+make baixar N=50                       # yt-dlp baixa o audio
+make transcrever N=50                  # whisper turbo
+make extrair N=50                      # gliner + qwen (8 campos em 1 chamada)
+make verificar N=50                    # regras + llama critic (2 retries)
+make exportar                          # gera csv final
+
+# ver como ta
+make status
+```
+
+ou rodar tudo de uma vez:
+
+```bash
+make run-tudo Q="pesca com ceva" N=20
+```
+
+o csv final sai em `data/results/planilha_YYYYMMDD_HHMM.csv` com coluna `flags_fora_do_gazetteer` pra ver quais campos vieram de texto livre (nao bateram com dict).
 
 ## estrutura
 
 ```
 src/
-  config.py              # carrega .env
-  harvester/youtube.py   # busca + download via yt-dlp
-  transcriber/           # whisper turbo
-  extracao/              # gliner + qwen (a fazer)
-  verificador/           # regras + llm critic (a fazer)
-  dicts/                 # peixes, bacias, estados, cevas, graos
-  main.py
+  config.py              - carrega .env, detecta gpu auto
+  schemas.py             - dataclasses comuns (CampoExtraido, Veredito)
+  harvester/youtube.py   - busca api + download via yt-dlp
+  transcriber/           - whisper turbo
+  extracao/
+    gliner_client.py     - ner (spans de peixe e bacia)
+    qwen_extrator.py     - qwen 2.5 single-prompt, 8 campos
+    prompts.py           - template do prompt, vocabulario aberto
+  verificador/
+    regras.py            - smith-waterman + cross-field + pos filter
+    critic.py            - llama 3.1 8b (familia diferente do qwen)
+    retry_loop.py        - budget 2, temp escalation, feedback injection
+  dicts/                 - peixes, bacias, estados (EXEMPLOS, nao filtro)
+  main.py                - cli
+
+scripts/
+  check-env.sh           - valida pre-requisitos
+  models.sh              - baixa modelos ollama
+
 data/
-  raw_audio/
-  transcriptions/
-  results/
+  raw_audio/             - .opus 32kbps
+  transcriptions/        - json por video
+  results/               - json de extracao + csv final
+  videos.db              - sqlite com checkpoint do pipeline
 ```
+
+## modelos usados
+
+- **whisper large-v3-turbo** (2.5gb vram, fp16) - transcricao
+- **gliner multi-v2.1** - ner zero-shot (ou fine-tuned se tiver local)
+- **qwen 2.5 7b** (q4_k_m, 4.7gb vram) - extrator de 8 campos
+- **llama 3.1 8b** (q4_k_m, 4.9gb vram) - verificador (familia diferente pra evitar vies)
+- **gemma 3 4b** (q4, 2.6gb vram) - fallback de retry
+
+roda tudo no mesmo ollama em localhost:11434, alternando em memoria no 4060 8gb.
+
+## notas
+
+- os dicts em `src/dicts/` sao **exemplos**, nao lista fechada. se o video menciona peixe/ceva/bacia que nao ta la, a gente captura mesmo assim
+- o verificador tem 2 camadas: regras (barato, ~10ms) e llm critic (caro, so se passar regras)
+- se rejeitar, re-extrai o campo isolado com temperatura maior e feedback da razao
+- todo o pipeline tem checkpoint em sqlite, pode parar e retomar a vontade
 
 ## referencias
 
-- base inicial veio do tcc antigo do erick (projeto-erick no meu github)
+base inicial veio do tcc antigo do erick (projeto-erick no meu github), mas ficou bem diferente.
+
 - whisper: https://github.com/SYSTRAN/faster-whisper
 - gliner: https://github.com/urchade/GLiNER
 - yt-dlp: https://github.com/yt-dlp/yt-dlp
+- ollama: https://ollama.com
