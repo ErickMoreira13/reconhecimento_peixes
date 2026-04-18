@@ -1,55 +1,67 @@
-# onde a gente parou — 2026-04-18
+# onde a gente parou — 2026-04-18 (noite)
 
 ## o que ja ta pronto
 
-- pipeline completo end-to-end funcional (buscar -> baixar -> transcrever -> extrair -> verificar -> exportar)
-- 52 videos de pescaria ja baixados e transcritos em data/transcriptions/
-- benchmark feito dos 3 modelos (qwen 2.5 7b, llama 3.1 8b, gemma 3 4b)
-  em docs/benchmark-modelos-2026-04-18.md
-- config default do .env atualizada pra recomendacao: llama extrai, qwen verifica
-- dashboard web (make dashboard) com auto-refresh 3s
-- testes pytest (36/36 passando)
+- pipeline completo end-to-end funcional
+- 52 videos de pescaria baixados e transcritos
+- **benchmark** dos 3 modelos extratores em docs/benchmark-modelos-2026-04-18.md
+- **validacao da opcao 1** rodada a noite do 2026-04-18 em docs/validacao-opcao1-2026-04-18_0333/
+- config default .env com llama extrator + qwen verificador (opcao vencedora)
+- dashboard web (make dashboard)
+- **138 testes pytest passando**, coverage ~60% do codigo testavel sem externo
+- ruff config frouxa (lint so pega bugs)
+- scripts auxiliares: check-env, models, benchmark, comparar-resultados, analise
+
+## decisao final sobre extrator/verificador
+
+comparacao feita nos 51 videos (1 parse fail na nova extracao):
+
+| campo       | qwen-extrator (velho) | llama-extrator (novo) | delta |
+|-------------|-----------------------|-------------------------|-------|
+| rio         | 10 (19%)              | **24 (47%)**            | +28pp |
+| municipio   | 2 (4%)                | 3 (6%)                  | +2pp  |
+| grao        | 13 (25%)              | 14 (27%)                | +2pp  |
+| tipo_ceva   | 25 (48%)              | 25 (49%)                | +1pp  |
+| estado      | 3 (6%)                | 3 (6%)                  | 0pp   |
+| bacia       | 9 (17%)               | 7 (14%)                 | -4pp  |
+| especies    | 35 (67%)              | 31 (61%)                | -7pp  |
+| observacoes | 41 (79%)              | 27 (53%)                | -26pp |
+
+ganho grande em rio. perda em observacoes eh correta (verificador qwen
+rejeitou resumos genericos sem entidade ancorada). net positivo.
+
+**manter config atual no .env** (llama extrator + qwen verificador).
 
 ## o que falta fazer
 
-1. **validar a inversao da config** (prioridade alta, ~1h de compute):
+1. **escalar pra 500+ videos** com a config validada:
    ```bash
-   bash scripts/validar-opcao1.sh
-   ```
-   vai gerar docs/validacao-opcao1-DATA/ com planilha.csv + stats.json.
-   comparar com docs/benchmark-modelos-2026-04-18.csv pra ver se melhorou.
-
-2. **se validacao deu certo**, escalar pra 500 videos:
-   ```bash
-   make buscar Q="pesca com ceva" "pescaria" "pesca no rio" ... N=100
+   make buscar Q="pesca com ceva" "pescaria tucunare" "pesca rio" N=100
    make baixar N=500 W=8
    make transcrever N=500
    make extrair N=500
    make verificar N=500
    make exportar
    ```
-   tempo esperado: ~15h wall-clock (pode rodar a noite)
+   tempo esperado: ~15h (pode rodar a noite)
 
-3. **se validacao piorou** em algum campo, investigar e ajustar prompt
-   do extrator llama ou do verificador qwen. depois re-rodar validacao.
+2. **fine-tune do gliner local** (opcional, melhoraria especies/bacia):
+   - dataset de 7011 exemplos ja existe (do projeto antigo)
+   - ~3-5h treino em rtx 4060
+   - substituiria o gliner zero-shot que a gente usa hoje
 
-## como retomar
+3. **testar chatbode7b** como extrator (pt-br nativo):
+   - ja baixado na maquina
+   - rodar `make benchmark MODELOS="llama3.1:8b chatbode7b" N=30`
+   - ver se ganha em pt-br especificamente
 
-- ver o que ja rodou: `make status`
-- se precisar, rodar `make dashboard` e abrir http://localhost:8000
-  pra ver estado em tempo real enquanto extrair/verificar rodam
+## comandos pra retomar
 
-## dados que ficam preservados
-
-tudo que eh resultado do benchmark ja ta em:
-- `data/results/<vid>_extracao_qwen2.5_7b.json` (52 arquivos)
-- `data/results/<vid>_extracao_llama3.1_8b.json` (51 arquivos)
-- `data/results/<vid>_extracao_gemma3_4b.json` (45 arquivos)
-- `data/results/benchmark_TIMESTAMP.json` (relatorio rich)
-- `docs/benchmark-modelos-2026-04-18.csv`
-
-o script validar-opcao1.sh NAO apaga nenhum desses. so gera novos em
-`data/results/<vid>_extracao.json` (sem suffix).
+- `make status` - ver etapa atual
+- `make dashboard` - http://localhost:8000
+- `make tests` - 138 testes
+- `make comparar A=qwen2.5_7b B=_default_` - diff entre resultados
+- `make analise` - detalhe do ultimo benchmark
 
 ## config atual (.env)
 
@@ -60,11 +72,10 @@ WHISPER_MODEL=large-v3-turbo
 WHISPER_DEVICE=auto
 ```
 
-## notas soltas
+## arquivos que importam
 
-- o .notes/ (ignorado pelo git, local only) tem as convencoes de estilo
-  e a regra do vocabulario aberto. sempre ler quando voltar pro repo
-- os modelos ollama ja estao baixados na maquina atual (qwen2.5, llama3.1,
-  gemma3, gemma3:4b, llama3.2:3b, chatbode7b, gaia4b)
-- se quiser testar outros modelos no benchmark depois:
-  `python -m src.benchmark --modelos chatbode7b gaia4b llama3.2:3b --limit 52`
+- `docs/ARQUITETURA.md` - fluxo de dados, modulos, estados do video
+- `docs/DESENVOLVIMENTO.md` - como rodar testes, padroes, gotchas
+- `docs/benchmark-modelos-2026-04-18.md` - baseline dos 3 modelos
+- `docs/validacao-opcao1-2026-04-18_0333/RELATORIO.md` - resultado da noite
+- `docs/validacao-opcao1-2026-04-18_0333/planilha.csv` - dados extraidos
