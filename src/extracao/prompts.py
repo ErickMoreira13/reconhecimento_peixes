@@ -1,4 +1,5 @@
 import json
+import unicodedata
 from pathlib import Path
 
 from src import config
@@ -14,29 +15,41 @@ from src import config
 
 DICTS_DIR = Path(__file__).parent.parent / "dicts"
 
+# palavras comuns que viram stop words pra nao pontuar tudo
+_STOP = {"de", "da", "do", "das", "dos", "e", "o", "a", "os", "as", "um", "uma",
+         "no", "na", "nos", "nas", "em", "pra", "para", "que", "com"}
+
 
 def _carrega_dict(nome: str) -> dict:
     with open(DICTS_DIR / nome, encoding="utf-8") as f:
         return json.load(f)
 
 
+def _sem_acento(s: str) -> str:
+    # normaliza pra nao falhar em "tucunaré" vs "tucunare"
+    # whisper as vezes transcreve sem acento, o dict tem com acento
+    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+
+
 def _top_peixes_por_bm25(texto: str, k: int = 20) -> list[str]:
-    # retorna os top-k nomes canonicos mais parecidos com o texto, por bm25 simples
-    # (bm25 de biblioteca seria melhor mas pra comecar uso soup-match por tokens em comum)
-    # depois vejo se vale trocar pra rank_bm25 ou algo parecido, se a qualidade ficar ruim
+    # retorna os top-k nomes canonicos mais parecidos com o texto
+    # normaliza acentos pra matching mais robusto
     d = _carrega_dict("peixes_conhecidos.json")
     nomes = d.get("nomes_comuns_peixes", [])
 
-    texto_lower = texto.lower()
-    scored = []
+    texto_norm = _sem_acento(texto.lower())
+    scored: list[tuple[str, int]] = []
     for n in nomes:
-        if n.lower() in texto_lower:
-            # match direto = score maximo
+        n_norm = _sem_acento(n.lower())
+        # match direto (substring) tem score bem alto
+        if n_norm in texto_norm:
             scored.append((n, 999))
             continue
-        # fallback: quantas palavras do nome aparecem no texto
-        tokens = n.lower().split()
-        score = sum(1 for t in tokens if t in texto_lower)
+        # fallback: quantas palavras do nome (ignorando stop words) aparecem
+        tokens = [t for t in n_norm.split() if t not in _STOP and len(t) > 2]
+        if not tokens:
+            continue
+        score = sum(1 for t in tokens if t in texto_norm)
         if score > 0:
             scored.append((n, score))
 
