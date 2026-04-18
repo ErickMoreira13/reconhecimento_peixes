@@ -46,20 +46,32 @@ def _monta_prompt_batch(
     # monta um prompt unico pro llama avaliar todos os campos de uma vez
     blocos = []
     for nome, c in campos.items():
-        # especies tem estrutura de lista, resto eh escalar
+        # especies tem estrutura de lista com evidencia por item, passar junto
         if nome == "especies":
             if not c.valor:
                 valor_str = "[]"
+                ev_str = json.dumps(c.evidencia, ensure_ascii=False)
             else:
-                nomes = [e.get("nome") if isinstance(e, dict) else str(e) for e in c.valor]
-                valor_str = json.dumps(nomes, ensure_ascii=False)
+                itens = []
+                evidencias_items = []
+                for e in c.valor:
+                    if isinstance(e, dict):
+                        itens.append(e.get("nome", ""))
+                        ev = e.get("evidencia", "")
+                        if ev:
+                            evidencias_items.append(f'"{e.get("nome","")}" -> "{ev}"')
+                    else:
+                        itens.append(str(e))
+                valor_str = json.dumps(itens, ensure_ascii=False)
+                ev_str = " | ".join(evidencias_items) if evidencias_items else json.dumps(c.evidencia, ensure_ascii=False)
         else:
             valor_str = json.dumps(c.valor, ensure_ascii=False) if c.valor is not None else "null"
+            ev_str = json.dumps(c.evidencia, ensure_ascii=False)
 
         blocos.append(
             f"- {nome}:\n"
             f"    valor: {valor_str}\n"
-            f"    evidencia: {json.dumps(c.evidencia, ensure_ascii=False)}\n"
+            f"    evidencia: {ev_str}\n"
             f"    confianca: {c.confianca:.2f}\n"
             f"    fora_do_gazetteer: {c.fora_do_gazetteer}"
         )
@@ -70,12 +82,16 @@ Avalie se cada campo foi extraido CORRETAMENTE a partir da transcricao.
 
 REGRA CENTRAL (vocabulario aberto):
 - se o valor nao esta em nenhum dicionario pre-definido, isso NAO eh motivo de rejeicao
-- so rejeite se:
-  a) a evidencia NAO aparece no texto (alucinacao/invencao)
-  b) o valor eh claramente uma palavra inventada que nao existe (ex: "filapossauro")
+- NOMES DE PEIXES BR sao MUITOS (tilapia, traira, pacu, piau, tucunare, pirarucu, tambaqui,
+  chimbore, pacu manteiga, pacu peva, piau flamengo, piraputanga etc etc). ACEITA os nomes
+  se eles aparecerem como palavra/trecho na transcricao
+- so rejeite se TIVER CERTEZA que:
+  a) a evidencia NAO aparece literalmente no texto (alucinacao comprovada)
+  b) o valor eh uma palavra claramente inventada/nonsense (ex: "filapossauro", "trabozucador")
+     que nao eh nome real de peixe nem sabe o que eh
   c) o valor eh nome proprio humano confundido com entidade (ex: "Joao" como peixe)
-  d) os campos conflitam geograficamente (ex: UF=RS com bacia Amazonica)
-  e) o valor nao faz sentido no contexto do texto (confianca reportada muito baixa)
+  d) os campos conflitam geograficamente (ex: UF=RS com bacia Amazonica, impossivel)
+- em DUVIDA, aceite. Prefiro dado com flag do que perder informacao real.
 
 CAMPOS EXTRAIDOS:
 {blocos_str}

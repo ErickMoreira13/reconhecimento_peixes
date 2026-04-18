@@ -18,7 +18,9 @@ from src.extracao.qwen_extrator import _parse_json_safe, _chama_ollama
 # tentativa 3: temp 0.4 + fallback pra gemma 3 4b (vies diferente)
 
 
-BUDGET_RETRIES = 2
+# budget baixo de proposito: cada retry custa ~20s de ollama, entao 1 so ja ajuda
+# o caso de erro grosseiro e nao ficamos presos num loop caro
+BUDGET_RETRIES = 1
 TEMPS_ESCALACAO = [0.0, 0.2, 0.4]
 MODEL_FALLBACK = "gemma3:4b"
 
