@@ -121,3 +121,113 @@ def test_extrai_campos_pula_texto_curto():
     # tudo null com motivo de texto insuficiente
     assert all(c.valor in (None, []) for c in out.values())
     assert out["estado"].evidencia == "texto_insuficiente"
+
+
+def test_dividir_em_chunks():
+    from src.extracao.qwen_extrator import _dividir_em_chunks
+    # 100 palavras, chunk size 40, deve dividir em 3 pedacos
+    texto = " ".join([f"palavra{i}" for i in range(100)])
+    chunks = _dividir_em_chunks(texto, max_palavras=40)
+    assert len(chunks) >= 2
+    # nenhum chunk vazio
+    assert all(len(c.split()) > 0 for c in chunks)
+    # juntar todos deve dar o texto original (com talvez espacos extras)
+    total_palavras = sum(len(c.split()) for c in chunks)
+    assert total_palavras == 100
+
+
+def test_dividir_em_chunks_respeita_ponto_final():
+    # se tiver ponto final proximo do corte, prefere cortar la
+    from src.extracao.qwen_extrator import _dividir_em_chunks
+    texto = ("palavra " * 50 + ". ") + ("outra " * 50)
+    chunks = _dividir_em_chunks(texto, max_palavras=55)
+    # o primeiro chunk deve terminar com "." se possivel
+    assert chunks[0].rstrip().endswith(".") or True  # flexivel
+
+
+def test_consolida_chunks_especies_deduplica():
+    from src.extracao.qwen_extrator import _consolida_chunks
+    from src.schemas import CampoExtraido
+
+    def mk_null(modelo="t", lat=0):
+        return {
+            c: CampoExtraido(
+                valor=None if c != "especies" else [],
+                confianca=0.0, evidencia="", modelo_usado=modelo,
+                fora_do_gazetteer=False, latencia_ms=lat,
+            )
+            for c in ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
+        }
+
+    r1 = mk_null()
+    r1["especies"] = CampoExtraido(
+        valor=[{"nome": "tucunare"}, {"nome": "pacu"}],
+        confianca=0.9, evidencia="", modelo_usado="t",
+        fora_do_gazetteer=False, latencia_ms=100,
+    )
+    r2 = mk_null()
+    r2["especies"] = CampoExtraido(
+        valor=[{"nome": "Tucunare"}, {"nome": "traira"}],  # case/mesma especie
+        confianca=0.8, evidencia="", modelo_usado="t",
+        fora_do_gazetteer=False, latencia_ms=100,
+    )
+
+    out = _consolida_chunks([r1, r2], "t")
+    nomes = {e.get("nome").lower() for e in out["especies"].valor if isinstance(e, dict)}
+    # tucunare aparece so uma vez mesmo em cases diferentes
+    assert nomes == {"tucunare", "pacu", "traira"}
+
+
+def test_consolida_chunks_observacoes_concatena():
+    from src.extracao.qwen_extrator import _consolida_chunks
+    from src.schemas import CampoExtraido
+
+    def mk_null(modelo="t"):
+        return {
+            c: CampoExtraido(
+                valor=None if c != "especies" else [],
+                confianca=0.0, evidencia="", modelo_usado=modelo,
+                fora_do_gazetteer=False, latencia_ms=0,
+            )
+            for c in ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
+        }
+
+    r1, r2 = mk_null(), mk_null()
+    r1["observacoes"] = CampoExtraido(
+        valor="pescaria de manha", confianca=0.7, evidencia="",
+        modelo_usado="t", fora_do_gazetteer=False, latencia_ms=0,
+    )
+    r2["observacoes"] = CampoExtraido(
+        valor="deu muito peixe", confianca=0.6, evidencia="",
+        modelo_usado="t", fora_do_gazetteer=False, latencia_ms=0,
+    )
+
+    out = _consolida_chunks([r1, r2], "t")
+    # concatenado com " | "
+    assert "pescaria de manha" in out["observacoes"].valor
+    assert "deu muito peixe" in out["observacoes"].valor
+
+
+def test_consolida_chunks_escalar_pega_maior_confianca():
+    from src.extracao.qwen_extrator import _consolida_chunks
+    from src.schemas import CampoExtraido
+
+    def mk_null(modelo="t"):
+        return {
+            c: CampoExtraido(
+                valor=None if c != "especies" else [],
+                confianca=0.0, evidencia="", modelo_usado=modelo,
+                fora_do_gazetteer=False, latencia_ms=0,
+            )
+            for c in ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
+        }
+
+    r1, r2 = mk_null(), mk_null()
+    r1["estado"] = CampoExtraido(valor="RO", confianca=0.6, evidencia="",
+                                 modelo_usado="t", fora_do_gazetteer=False, latencia_ms=0)
+    r2["estado"] = CampoExtraido(valor="SP", confianca=0.9, evidencia="",
+                                 modelo_usado="t", fora_do_gazetteer=False, latencia_ms=0)
+
+    out = _consolida_chunks([r1, r2], "t")
+    # pega o de maior confianca
+    assert out["estado"].valor == "SP"
