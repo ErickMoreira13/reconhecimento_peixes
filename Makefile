@@ -12,7 +12,6 @@ help:
 	@echo "  make models      - baixa os modelos ollama (qwen, llama, gemma)"
 	@echo "  make status      - mostra quantos videos estao em cada etapa"
 	@echo "  make dashboard   - abre dashboard web em localhost:8000"
-	@echo "  make tests       - roda testes unitarios"
 	@echo ""
 	@echo "pipeline (roda em sequencia, cada um depende do anterior):"
 	@echo "  make buscar Q='pesca com ceva' N=50    - acha videos no youtube"
@@ -21,6 +20,15 @@ help:
 	@echo "  make extrair N=50                        - gliner + qwen nos transcritos"
 	@echo "  make verificar N=50                      - regras + llama critic nos extraidos"
 	@echo "  make exportar                            - gera csv final da planilha"
+	@echo "  make run-tudo    - roda tudo em sequencia"
+	@echo ""
+	@echo "qualidade / debug:"
+	@echo "  make tests       - roda testes unitarios"
+	@echo "  make test-fast   - testes sem verbose"
+	@echo "  make test-cov    - testes com coverage report"
+	@echo "  make lint        - roda ruff"
+	@echo "  make analise     - analise detalhada do ultimo benchmark"
+	@echo "  make benchmark MODELOS='qwen2.5:7b llama3.1:8b' N=50"
 	@echo ""
 	@echo "util:"
 	@echo "  make limpar      - apaga pastas data/ e db (NAO volta)"
@@ -67,6 +75,21 @@ dashboard:
 
 tests:
 	@$(PYTEST)
+
+test-cov:
+	@$(PY) -m pytest tests/ --cov=src --cov-report=term-missing 2>&1 | tail -40
+
+test-fast:
+	@$(PYTEST) -q --tb=no
+
+lint:
+	@$(PY) -m ruff check src/ tests/ 2>&1 || echo "ruff reportou issues acima"
+
+analise:
+	@$(PY) scripts/analise_benchmark.py
+
+benchmark:
+	@$(PY) -m src.benchmark --modelos $(MODELOS) --limit $(N)
 
 # atalhao pra rodar tudo em sequencia com valores default
 # util pra um teste rapido com poucos videos
