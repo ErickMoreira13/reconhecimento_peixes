@@ -25,7 +25,9 @@ THRESHOLD_CONF = {
     "tipo_ceva": 0.6,
     "grao": 0.7,
     "especies": 0.5,
-    "observacoes": 0.4,
+    # obs: threshold baixo pq resumos sao de baixa confianca mesmo quando bons.
+    # pior caso: resumo borderline vai pro csv (user ve). melhor que perder.
+    "observacoes": 0.3,
 }
 
 ALINHAMENTO_MIN = 0.70  # levenshtein-ratio
@@ -134,7 +136,9 @@ def _passa_length_obs(nome_campo: str, campo: CampoExtraido) -> tuple[bool, Tipo
     if not isinstance(campo.valor, str):
         return True, None
     n_palavras = len(campo.valor.split())
-    if n_palavras < 10:
+    # minimo baixado de 10 pra 6 pra salvar resumos curtos mas legitimos
+    # tipo "pesca de manha com ceva de milho rendeu tucunare"
+    if n_palavras < 6:
         # mt curto, provavel alucinacao
         return False, "contexto_irrelevante"
     # limite superior de 80 ta no prompt mas nao eh falha grave se passar um pouco
