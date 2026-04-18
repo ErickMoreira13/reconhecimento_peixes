@@ -1,7 +1,6 @@
 import argparse
 import csv
 import json
-import sqlite3
 import traceback
 from dataclasses import asdict
 from pathlib import Path
@@ -12,9 +11,10 @@ from src.harvester import youtube as yt
 from src.transcriber import whisper_turbo as wt
 from src.extracao import qwen_extrator, gliner_client
 from src.verificador import retry_loop
+from src.storage import db as storage
 
 
-DB_PATH = config.DATA_DIR / "videos.db"
+DB_PATH = storage.DB_PATH
 
 
 def cmd_buscar(args):
@@ -109,36 +109,18 @@ def cmd_transcrever(args):
 
 
 def _pega_pra_extrair(limit: int) -> list[dict]:
-    conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
-    cur.execute("""
-        SELECT video_id, transcricao_path, url, channel, published_at
-        FROM videos WHERE status = 'transcrito' LIMIT ?
-    """, (limit,))
-    rows = [
-        {"video_id": r[0], "transcricao_path": r[1], "url": r[2], "channel": r[3], "published_at": r[4]}
-        for r in cur.fetchall()
-    ]
-    conn.close()
-    return rows
+    return storage.pega_por_status(
+        "transcrito", limit,
+        ["video_id", "transcricao_path", "url", "channel", "published_at"],
+    )
 
 
 def _marca_extraido(video_id: str, resultado_path: Path):
-    conn = sqlite3.connect(DB_PATH)
-    try:
-        conn.execute("ALTER TABLE videos ADD COLUMN resultado_path TEXT")
-    except sqlite3.OperationalError:
-        pass
-    try:
-        conn.execute("ALTER TABLE videos ADD COLUMN extraido_em TEXT")
-    except sqlite3.OperationalError:
-        pass
-    conn.execute("""
-        UPDATE videos SET resultado_path=?, status='extraido', extraido_em=?
-        WHERE video_id=?
-    """, (str(resultado_path), datetime.utcnow().isoformat(), video_id))
-    conn.commit()
-    conn.close()
+    storage.atualiza(video_id, {
+        "resultado_path": str(resultado_path),
+        "status": "extraido",
+        "extraido_em": datetime.utcnow().isoformat(),
+    })
 
 
 def cmd_extrair(args):
@@ -197,29 +179,17 @@ def cmd_extrair(args):
 
 
 def _pega_pra_verificar(limit: int) -> list[dict]:
-    conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
-    cur.execute("""
-        SELECT video_id, transcricao_path, resultado_path
-        FROM videos WHERE status = 'extraido' LIMIT ?
-    """, (limit,))
-    rows = [{"video_id": r[0], "transcricao_path": r[1], "resultado_path": r[2]} for r in cur.fetchall()]
-    conn.close()
-    return rows
+    return storage.pega_por_status(
+        "extraido", limit,
+        ["video_id", "transcricao_path", "resultado_path"],
+    )
 
 
 def _marca_verificado(video_id: str):
-    conn = sqlite3.connect(DB_PATH)
-    try:
-        conn.execute("ALTER TABLE videos ADD COLUMN verificado_em TEXT")
-    except sqlite3.OperationalError:
-        pass
-    conn.execute("""
-        UPDATE videos SET status='verificado', verificado_em=?
-        WHERE video_id=?
-    """, (datetime.utcnow().isoformat(), video_id))
-    conn.commit()
-    conn.close()
+    storage.atualiza(video_id, {
+        "status": "verificado",
+        "verificado_em": datetime.utcnow().isoformat(),
+    })
 
 
 def cmd_verificar(args):
@@ -286,14 +256,11 @@ def cmd_verificar(args):
 
 def cmd_exportar(args):
     ui.titulo("exportar csv final")
-    conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
-    cur.execute("""
-        SELECT video_id, url, channel, published_at, resultado_path
-        FROM videos WHERE status IN ('extraido', 'verificado')
-    """)
-    linhas = cur.fetchall()
-    conn.close()
+    with storage.conectar() as conn:
+        linhas = conn.execute("""
+            SELECT video_id, url, channel, published_at, resultado_path
+            FROM videos WHERE status IN ('extraido', 'verificado')
+        """).fetchall()
 
     if not linhas:
         ui.aviso("nao tem nada pra exportar, roda extrair/verificar antes")
@@ -357,16 +324,10 @@ def cmd_exportar(args):
 
 
 def cmd_status(args):
-    conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
-    cur.execute("SELECT status, COUNT(*) FROM videos GROUP BY status")
-    rows = cur.fetchall()
-    conn.close()
-
+    rows = storage.contagem_por_status()
     if not rows:
         ui.aviso("db vazio, ainda nao rodou 'buscar'")
         return
-
     ui.tabela_status(rows)
 
 

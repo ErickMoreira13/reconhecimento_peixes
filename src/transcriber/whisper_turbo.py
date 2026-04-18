@@ -1,5 +1,4 @@
 import json
-import sqlite3
 from pathlib import Path
 from datetime import datetime
 
@@ -10,6 +9,7 @@ pre_carrega_libs_cuda()
 from faster_whisper import WhisperModel
 
 from src import config
+from src.storage import db as storage
 
 
 # carrega o whisper uma vez so e reusa pra todos os videos
@@ -70,39 +70,16 @@ def salva_transcricao(video_id: str, resultado: dict, out_dir: Path) -> Path:
 
 
 # atualiza o status do video no banco depois que transcreveu
-# mesmo banco do harvester
+# mesmo banco do harvester. schema mora em src/storage/db.py
 
 
 def marca_transcrito(video_id: str, transcricao_path: Path, db_path: Path):
-    conn = sqlite3.connect(db_path)
-    # adiciona coluna se ainda nao existe, ignora se ja tem
-    try:
-        conn.execute("ALTER TABLE videos ADD COLUMN transcricao_path TEXT")
-    except sqlite3.OperationalError:
-        pass
-    try:
-        conn.execute("ALTER TABLE videos ADD COLUMN transcrito_em TEXT")
-    except sqlite3.OperationalError:
-        pass
-
-    conn.execute("""
-        UPDATE videos
-        SET transcricao_path = ?, status = 'transcrito', transcrito_em = ?
-        WHERE video_id = ?
-    """, (str(transcricao_path), datetime.utcnow().isoformat(), video_id))
-    conn.commit()
-    conn.close()
+    storage.atualiza(video_id, {
+        "transcricao_path": str(transcricao_path),
+        "status": "transcrito",
+        "transcrito_em": datetime.utcnow().isoformat(),
+    }, db_path)
 
 
 def pega_pra_transcrever(db_path: Path, limit: int = 100) -> list[dict]:
-    conn = sqlite3.connect(db_path)
-    cur = conn.cursor()
-    cur.execute("""
-        SELECT video_id, audio_path
-        FROM videos
-        WHERE status = 'baixado'
-        LIMIT ?
-    """, (limit,))
-    rows = [{"video_id": r[0], "audio_path": r[1]} for r in cur.fetchall()]
-    conn.close()
-    return rows
+    return storage.pega_por_status("baixado", limit, ["video_id", "audio_path"], db_path)
