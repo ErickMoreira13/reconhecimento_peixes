@@ -127,6 +127,67 @@ def atualiza(video_id: str, campos: dict, db_path: Path | None = None):
         conn.execute(f"UPDATE videos SET {sets} WHERE video_id = ?", vals)
 
 
+# ========== queries ==========
+# crud basico da tabela queries usada pelo harvester loop.
+# uma query eh so o texto mesmo (ex "pesca com ceva"), status default = ativa.
+
+
+def upsert_queries(textos: list[str], db_path: Path | None = None):
+    # adiciona queries novas, ignora duplicatas. usa iso-like no criado_em
+    from src.utils.tempo import agora_iso
+    with conectar(db_path) as conn:
+        for t in textos:
+            conn.execute("""
+                INSERT OR IGNORE INTO queries (texto, status, criado_em, atualizado_em)
+                VALUES (?, 'ativa', ?, ?)
+            """, (t.strip(), agora_iso(), agora_iso()))
+
+
+def pega_query_ativa(db_path: Path | None = None) -> str | None:
+    # retorna uma query ativa qualquer. ordem por menos buscados primeiro pra
+    # dar vazao parelha entre queries novas e antigas
+    with conectar(db_path) as conn:
+        row = conn.execute("""
+            SELECT texto FROM queries
+            WHERE status = 'ativa'
+            ORDER BY total_buscados ASC, criado_em ASC
+            LIMIT 1
+        """).fetchone()
+    return row[0] if row else None
+
+
+def atualiza_query(texto: str, campos: dict, db_path: Path | None = None):
+    if not campos:
+        return
+    from src.utils.tempo import agora_iso
+    campos = {**campos, "atualizado_em": agora_iso()}
+    sets = ", ".join(f"{k} = ?" for k in campos)
+    vals = list(campos.values()) + [texto]
+    with conectar(db_path) as conn:
+        conn.execute(f"UPDATE queries SET {sets} WHERE texto = ?", vals)
+
+
+def marca_query_saturada(texto: str, motivo: str, db_path: Path | None = None):
+    # saturada = nao entra mais na fila. motivo em texto livre ("dedup_alto" /
+    # "rejeicao_alta" / "manual")
+    atualiza_query(texto, {"status": "saturada", "motivo_saturacao": motivo}, db_path)
+
+
+def lista_queries(status: str | None = None, db_path: Path | None = None) -> list[dict]:
+    # lista tudo ou filtra por status. usado pelo dashboard e debug
+    cols = ["texto", "status", "total_buscados", "total_novos",
+            "dedup_rate_ultima", "rejeicao_rate_ultima", "motivo_saturacao"]
+    sql = f"SELECT {', '.join(cols)} FROM queries"
+    params: tuple = ()
+    if status:
+        sql += " WHERE status = ?"
+        params = (status,)
+    sql += " ORDER BY total_buscados DESC"
+    with conectar(db_path) as conn:
+        rows = conn.execute(sql, params).fetchall()
+    return [dict(zip(cols, r)) for r in rows]
+
+
 def reconcilia_status(results_dir: Path, db_path: Path | None = None) -> dict:
     # fix pra videos orfaos: a gente pode ter um video em status='transcrito'
     # mas com arquivo <vid>_extracao.json existente (extracao rodou mas nao
