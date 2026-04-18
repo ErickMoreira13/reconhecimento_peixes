@@ -1,0 +1,31 @@
+# config do ruff deliberadamente frouxa. nao quero que o linter force
+# estilo AI-perfeito no codigo. so pega bugs obvios tipo import nao usado,
+# variavel nao definida etc.
+
+line-length = 120
+target-version = "py311"
+
+[lint]
+select = [
+    "F",    # pyflakes (import nao usado, nome indefinido)
+    "E9",   # syntax error
+    "W6",   # line ending
+]
+
+# ignora tudo que eh "opiniao de estilo"
+ignore = [
+    "E501",   # line too long
+    "E302",   # blank lines
+    "E305",   # blank lines
+    "W291",   # trailing whitespace
+    "W293",   # whitespace in blank line
+    "F401",   # import nao usado (tolera em __init__.py)
+]
+
+[lint.per-file-ignores]
+"__init__.py" = ["F401"]
+"tests/*" = ["F401", "F811"]  # testes podem reusar nome de fixture
+
+[format]
+# nao vou forçar formatter, mantem o estilo casual do codigo
+quote-style = "double"
