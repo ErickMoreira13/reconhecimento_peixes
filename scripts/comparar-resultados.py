@@ -11,10 +11,18 @@ from pathlib import Path
 
 def carrega_extracoes(results_dir: Path, suffix: str = "") -> dict[str, dict]:
     # retorna {video_id: dict com campos}
-    pat = f"*_extracao_{suffix}.json" if suffix else "*_extracao.json"
+    # suffix vazio ou "_default_" (sentinela do makefile) = arquivos sem suffix
+    if suffix in ("", "_default_", "default"):
+        pat = "*_extracao.json"
+    else:
+        pat = f"*_extracao_{suffix}.json"
     out: dict[str, dict] = {}
     for p in results_dir.glob(pat):
-        vid = p.stem.split("_extracao")[0]
+        # filtra out arquivos com suffix quando a gente quer os sem suffix
+        stem = p.stem
+        if pat == "*_extracao.json" and "_extracao_" in stem:
+            continue
+        vid = stem.split("_extracao")[0]
         out[vid] = json.loads(p.read_text(encoding="utf-8"))
     return out
 
