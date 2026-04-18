@@ -1,0 +1,4 @@
+modelo,videos_processados,latencia_media_s,latencia_p95_s,parse_fail_pct,especies_unicas,obs_palavras_medio,obs_palavras_max,vram_gb,cob_bacia_pct,cob_especies_pct,cob_estado_pct,cob_grao_pct,cob_municipio_pct,cob_observacoes_pct,cob_rio_pct,cob_tipo_ceva_pct,divergencias_geo,evidencias_desalinhadas,evidencias_checadas,taxa_desalinhamento_pct
+qwen2.5:7b,52,17.8,26.0,15.4,56,14,41,4.7,17,67,6,25,4,79,19,48,1,2,51,3.9
+llama3.1:8b,51,18.4,35.2,9.8,53,12,38,4.9,14,73,6,27,12,88,55,69,6,21,72,29.2
+gemma3:4b,45,20.2,9.9,11.1,66,8,72,2.6,47,76,49,53,40,87,60,69,52,4,37,10.8
