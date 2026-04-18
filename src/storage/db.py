@@ -29,7 +29,19 @@ CREATE TABLE IF NOT EXISTS videos (
     transcrito_em TEXT,
     extraido_em TEXT,
     verificado_em TEXT
-)
+);
+
+CREATE TABLE IF NOT EXISTS queries (
+    texto TEXT PRIMARY KEY,
+    status TEXT DEFAULT 'ativa',
+    total_buscados INTEGER DEFAULT 0,
+    total_novos INTEGER DEFAULT 0,
+    dedup_rate_ultima REAL DEFAULT 0.0,
+    rejeicao_rate_ultima REAL DEFAULT 0.0,
+    criado_em TEXT,
+    atualizado_em TEXT,
+    motivo_saturacao TEXT
+);
 """
 
 
@@ -47,7 +59,8 @@ COLUNAS_OPCIONAIS = [
 
 
 def _ensure_schema(conn: sqlite3.Connection):
-    conn.execute(SCHEMA_INICIAL)
+    # executescript pra rodar os 2 CREATE TABLE de uma vez
+    conn.executescript(SCHEMA_INICIAL)
     # garante que db antigo tenha todas as colunas
     for nome, tipo in COLUNAS_OPCIONAIS:
         try:
