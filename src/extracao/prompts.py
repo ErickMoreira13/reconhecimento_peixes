@@ -64,6 +64,10 @@ def monta_prompt_extrator(
     # carrega exemplos mas deixa o prompt curto pra nao explodir o prefill do qwen
     peixes_ner = [s["text"] for s in spans_gliner.get("peixe", [])][:10]
     bacias_ner = [s["text"] for s in spans_gliner.get("bacia hidrografica", [])][:5]
+    # rio/municipio eh gliner zero-shot, pode vir barulho. limita em 5 cada
+    # se ficar ruim aumenta o threshold do gliner pra 0.6+ em vez de diminuir essa lista
+    rios_ner = [s["text"] for s in spans_gliner.get("rio", [])][:5]
+    municipios_ner = [s["text"] for s in spans_gliner.get("municipio", [])][:5]
 
     # hint curtinho dos top peixes no texto (pra canonizar girias)
     top_peixes = _top_peixes_por_bm25(transcricao, k=10)
@@ -84,8 +88,8 @@ fora_do_gazetteer=false SO quando o valor casa exatamente com um dos exemplos.
 
 CAMPOS:
 1. estado: sigla UF (AC,AL,AM,AP,BA,CE,DF,ES,GO,MA,MG,MS,MT,PA,PB,PE,PI,PR,RJ,RN,RO,RR,RS,SC,SE,SP,TO) ou null
-2. municipio: nome livre ou null
-3. rio: nome com prefixo "Rio " ou null. Normalizar "velho chico" -> "Rio Sao Francisco"
+2. municipio: nome livre ou null. Candidatos NER (pode ser barulho): {municipios_ner or "nenhum"}
+3. rio: nome com prefixo "Rio " ou null. Normalizar "velho chico" -> "Rio Sao Francisco". Candidatos NER: {rios_ner or "nenhum"}
 4. bacia: nome livre ou null. Candidatos NER: {bacias_ner or "nenhum"}
 5. tipo_ceva: garrafa_pet_perfurada | ceva_de_chao | ceva_solta_na_agua | bola_de_massa | saco_de_ceva | cano_pvc_perfurado | outro texto livre | null
 6. grao: soja | milho | trigo | arroz | sorgo | aveia | outro texto livre | null
