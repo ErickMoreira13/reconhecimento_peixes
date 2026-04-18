@@ -1,0 +1,125 @@
+# guia de desenvolvimento
+
+notas pra quem for mexer no codigo desse repo.
+
+## setup de dev
+
+```bash
+bash setup.sh                      # bootstrap: venv + deps + modelos
+source .venv/bin/activate
+pip install -r requirements-dev.txt  # pytest, ruff, pytest-cov
+```
+
+## rodar testes
+
+```bash
+make tests              # roda pytest completo verbose
+make test-fast          # sem verbose (pra loop rapido)
+make test-cov           # com report de coverage
+```
+
+testes nao precisam de:
+- rede (mocks do requests/yt-dlp)
+- gpu (whisper_turbo e gliner_client nao sao testados)
+- ollama rodando (qwen_extrator so testa parse e normalizadores)
+
+cobertura real do que da pra testar sem externo: ~60%.
+
+## lint
+
+```bash
+make lint
+```
+
+usa ruff com config frouxa (so pega bugs obvios: `F` pyflakes + `E9` syntax).
+nao forca estilo — comentarios, line length, blank lines ficam como o dev
+quer.
+
+## estrutura de teste
+
+```
+tests/
+  conftest.py              - fixtures globais (db_isolado, videos_exemplo)
+  test_schemas.py          - dataclasses CampoExtraido/Veredito
+  test_dicts.py            - json dos gazetteers
+  test_tempo.py            - utils/tempo.py
+  test_storage.py          - src/storage/db.py (sqlite crud)
+  test_config.py           - src/config.py (env vars)
+  test_ui.py               - src/ui.py (rich wrapper)
+  test_cuda_libs.py        - whitelist de libs cuda (zero libnvblas!)
+  test_parse_json.py       - parse_json_safe casos tipicos
+  test_utils_extracao.py   - parse_json_safe edge cases
+  test_prompts.py          - monta_prompt_extrator e bm25
+  test_qwen_extrator.py    - _normaliza_especies, _monta_resultado
+  test_regras.py           - regras deterministicas do verificador
+  test_retry_loop.py       - loop de retry com mocks
+  test_benchmark.py        - analisa_suffix com arquivos fake
+  test_harvester.py        - youtube api com mocks (sem rede)
+  test_dashboard.py        - endpoints http com TestClient
+```
+
+## padroes que o repo segue
+
+### SOLID
+cada modulo tem uma responsabilidade (ver docs/ARQUITETURA.md).
+harvester nao sabe que existe verificador. storage eh o unico que mexe
+com schema do sqlite.
+
+### DRY + SSOT
+- schema do sqlite: **so** em `src/storage/db.py`
+- timestamps: `src/utils/tempo.py`
+- gazetteers: `src/dicts/*.json`
+- parse json: `src/extracao/utils.py`
+
+se vc for replicar uma logica mais de 2 vezes, extrai pra modulo.
+
+### KISS
+- evita abstracoes que tu vai usar uma vez so
+- try/except simples com print, nao hierarquia de excecoes custom
+- preferir funcao de 20 linhas a 3 classes pequenas
+- logging eh print() em script, nao logger configurado com handler
+
+### vocabulario aberto (regra hard do projeto)
+os dicts em `src/dicts/` sao exemplos, nao filtros. se o video menciona
+peixe/bacia que nao ta na lista, a gente captura mesmo assim e marca
+`fora_do_gazetteer=true`. unica excecao: `estados.json` (27 UFs).
+
+**NUNCA** adicionar `"valor_fora_gazetteer"` ao TipoRejeicao do verificador.
+tem teste guardiao em `tests/test_schemas.py::test_tipo_rejeicao_nao_inclui_fora_gazetteer`
+que quebra se alguem fizer isso.
+
+## como adicionar um campo novo no resultado
+
+roteiro:
+
+1. adicionar o campo no prompt em `src/extracao/prompts.py::monta_prompt_extrator`
+2. adicionar em `src/extracao/qwen_extrator.py::_monta_resultado` (na lista `campos`)
+3. adicionar regra especifica em `src/verificador/regras.py` se precisa validar algo
+4. adicionar coluna no csv em `src/main.py::cmd_exportar`
+5. adicionar teste em `tests/test_qwen_extrator.py`
+6. update `docs/ARQUITETURA.md`
+
+## como adicionar um modelo extrator novo
+
+1. `ollama pull <modelo>`
+2. `python -m src.main extrair --modelo <modelo> --suffix <nome_curto>`
+   (flag --suffix salva em arquivo separado, nao polui o default)
+3. rodar benchmark pra comparar:
+   `python -m src.benchmark --modelos <antigo> <novo> --limit 50 --so-analise`
+4. se melhor, atualizar `.env`:
+   `MODEL_EXTRATOR=<novo>`
+5. atualizar `docs/benchmark-modelos-*.md`
+
+## gotchas conhecidos
+
+- **gliner trunca em 384 tokens**: textos muito longos podem perder info.
+  loga warning mas nao divide automaticamente
+- **json do llm as vezes quebra**: `src/extracao/utils.parse_json_safe`
+  tem fallback pra recuperar {...} de textos com ruido antes/depois
+- **ollama cold start**: primeira chamada num modelo demora uns 10s a
+  mais pra carregar em vram. normal
+- **faster-whisper precisa de cuBLAS/cuDNN**: o `src/transcriber/cuda_libs.py`
+  pre-carrega via ctypes. filtra `libnvblas.so` que se carregar causa
+  segfault no numpy de todo o app
+- **nao pre-carregar TODAS as .so do pacote nvidia-***: tem libnvblas
+  junto. use o filtro de whitelist em `cuda_libs._eh_lib_permitida`
