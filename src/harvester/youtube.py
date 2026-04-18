@@ -3,6 +3,8 @@ import json
 from pathlib import Path
 from itertools import cycle
 from datetime import datetime, timezone
+
+from src.utils.tempo import agora_iso
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
@@ -158,7 +160,7 @@ def marca_baixado(video_id: str, audio_path: Path, db_path: Path):
     storage.atualiza(video_id, {
         "audio_path": str(audio_path),
         "status": "baixado",
-        "baixado_em": datetime.utcnow().isoformat(),
+        "baixado_em": agora_iso(),
     }, db_path)
 
 

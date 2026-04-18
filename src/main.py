@@ -4,7 +4,7 @@ import json
 import traceback
 from dataclasses import asdict
 from pathlib import Path
-from datetime import datetime
+from src.utils.tempo import agora_iso, agora_compact
 
 from src import config, ui
 from src.harvester import youtube as yt
@@ -119,7 +119,7 @@ def _marca_extraido(video_id: str, resultado_path: Path):
     storage.atualiza(video_id, {
         "resultado_path": str(resultado_path),
         "status": "extraido",
-        "extraido_em": datetime.utcnow().isoformat(),
+        "extraido_em": agora_iso(),
     })
 
 
@@ -188,7 +188,7 @@ def _pega_pra_verificar(limit: int) -> list[dict]:
 def _marca_verificado(video_id: str):
     storage.atualiza(video_id, {
         "status": "verificado",
-        "verificado_em": datetime.utcnow().isoformat(),
+        "verificado_em": agora_iso(),
     })
 
 
@@ -266,7 +266,7 @@ def cmd_exportar(args):
         ui.aviso("nao tem nada pra exportar, roda extrair/verificar antes")
         return
 
-    out_csv = config.RESULTS_DIR / f"planilha_{datetime.utcnow().strftime('%Y%m%d_%H%M')}.csv"
+    out_csv = config.RESULTS_DIR / f"planilha_{agora_compact()}.csv"
 
     cols = [
         "plataforma", "autor", "link", "data_publicacao",

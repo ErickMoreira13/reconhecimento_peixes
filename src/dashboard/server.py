@@ -1,11 +1,11 @@
 import json
-from datetime import datetime
 from pathlib import Path
 
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse, JSONResponse
 
 from src.storage import db as storage
+from src.utils.tempo import agora_iso
 
 
 # dashboard simples pra ver o pipeline rodando em tempo real
@@ -53,7 +53,7 @@ def api_status():
         "ultimos_baixados": ultimos_baixados,
         "ultimos_transcritos": ultimos_transcritos,
         "ultimos_extraidos": ultimos_extraidos,
-        "atualizado_em": datetime.utcnow().isoformat(),
+        "atualizado_em": agora_iso(),
     }
 
 

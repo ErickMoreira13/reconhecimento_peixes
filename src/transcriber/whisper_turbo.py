@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from datetime import datetime
+from src.utils.tempo import agora_iso
 
 # importa antes do faster-whisper pra garantir que as libs cuda estao visiveis
 from src.transcriber.cuda_libs import pre_carrega_libs_cuda
@@ -77,7 +77,7 @@ def marca_transcrito(video_id: str, transcricao_path: Path, db_path: Path):
     storage.atualiza(video_id, {
         "transcricao_path": str(transcricao_path),
         "status": "transcrito",
-        "transcrito_em": datetime.utcnow().isoformat(),
+        "transcrito_em": agora_iso(),
     }, db_path)
 
 
