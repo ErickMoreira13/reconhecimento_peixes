@@ -112,3 +112,42 @@ def atualiza(video_id: str, campos: dict, db_path: Path | None = None):
     vals = list(campos.values()) + [video_id]
     with conectar(db_path) as conn:
         conn.execute(f"UPDATE videos SET {sets} WHERE video_id = ?", vals)
+
+
+def reconcilia_status(results_dir: Path, db_path: Path | None = None) -> dict:
+    # fix pra videos orfaos: a gente pode ter um video em status='transcrito'
+    # mas com arquivo <vid>_extracao.json existente (extracao rodou mas nao
+    # marcou o db direito). ou vice-versa: status='extraido' mas sem arquivo.
+    #
+    # roda esse metodo antes de comecar uma nova etapa pra limpar inconsistencias
+    mudancas = {"marcados_extraido": 0, "voltados_transcrito": 0}
+
+    with conectar(db_path) as conn:
+        # caso 1: arquivo de extracao existe mas status != extraido/verificado
+        rows = conn.execute("""
+            SELECT video_id, status FROM videos
+            WHERE status IN ('transcrito', 'baixado')
+        """).fetchall()
+        for vid, st in rows:
+            p = results_dir / f"{vid}_extracao.json"
+            if p.exists():
+                conn.execute(
+                    "UPDATE videos SET status='extraido', resultado_path=? WHERE video_id=?",
+                    (str(p), vid),
+                )
+                mudancas["marcados_extraido"] += 1
+
+        # caso 2: status extraido/verificado mas arquivo sumiu
+        rows = conn.execute("""
+            SELECT video_id, resultado_path FROM videos
+            WHERE status IN ('extraido', 'verificado')
+        """).fetchall()
+        for vid, rp in rows:
+            if not rp or not Path(rp).exists():
+                conn.execute(
+                    "UPDATE videos SET status='transcrito', resultado_path=NULL WHERE video_id=?",
+                    (vid,),
+                )
+                mudancas["voltados_transcrito"] += 1
+
+    return mudancas

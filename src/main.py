@@ -331,6 +331,18 @@ def cmd_status(args):
     ui.tabela_status(rows)
 
 
+def cmd_reconciliar(args):
+    # fix pra videos orfaos: db diz uma coisa mas os arquivos em disco dizem outra
+    ui.titulo("reconciliando status do db com arquivos em disco")
+    mudancas = storage.reconcilia_status(config.RESULTS_DIR)
+    if mudancas["marcados_extraido"]:
+        ui.ok(f"{mudancas['marcados_extraido']} videos: status -> extraido (tinham arquivo mas status antigo)")
+    if mudancas["voltados_transcrito"]:
+        ui.aviso(f"{mudancas['voltados_transcrito']} videos: status -> transcrito (arquivo sumiu)")
+    if not any(mudancas.values()):
+        ui.ok("nada pra reconciliar, db ja ta consistente")
+
+
 def main():
     p = argparse.ArgumentParser()
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -367,6 +379,9 @@ def main():
 
     sp = sub.add_parser("status")
     sp.set_defaults(func=cmd_status)
+
+    rp = sub.add_parser("reconciliar", help="sincroniza status do db com arquivos em disco")
+    rp.set_defaults(func=cmd_reconciliar)
 
     args = p.parse_args()
 
