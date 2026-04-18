@@ -98,3 +98,26 @@ def test_monta_resultado_especies_string_eh_normalizada():
     out = _monta_resultado(data, 0, "test")
     assert isinstance(out["especies"].valor, list)
     assert len(out["especies"].valor) == 2
+
+
+def test_tudo_null_com_motivo():
+    # o motivo vai no campo evidencia pra ficar distinguivel
+    # (alem de todos os campos serem null)
+    from src.extracao.qwen_extrator import _tudo_null
+    out = _tudo_null(0, "test", motivo="texto_insuficiente")
+    assert out["estado"].evidencia == "texto_insuficiente"
+    assert out["observacoes"].evidencia == "texto_insuficiente"
+
+
+def test_extrai_campos_pula_texto_curto():
+    # transcricao com menos que MIN_PALAVRAS_PRA_EXTRAIR nao chama ollama
+    # evita gastar ~10s de inferencia em video que nao tem info mesmo
+    from src.extracao.qwen_extrator import extrai_campos, MIN_PALAVRAS_PRA_EXTRAIR
+    texto_curto = "oi galera pesca massa " * 3  # bem menos que o minimo
+    n_pal = len(texto_curto.split())
+    assert n_pal < MIN_PALAVRAS_PRA_EXTRAIR
+
+    out = extrai_campos(texto_curto, modelo="fake:model")
+    # tudo null com motivo de texto insuficiente
+    assert all(c.valor in (None, []) for c in out.values())
+    assert out["estado"].evidencia == "texto_insuficiente"

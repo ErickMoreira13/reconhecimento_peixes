@@ -17,6 +17,12 @@ from src.extracao.utils import parse_json_safe as _parse_json_safe
 # se o json vier quebrado, tenta retry com temp maior
 
 
+# se texto tem menos que isso nao vale nem chamar o llm, retorna null direto.
+# alguns videos sao shorts de 15s ou audios com falha de transcricao —
+# whisper as vezes retorna 0 palavras em cortes publicitarios
+MIN_PALAVRAS_PRA_EXTRAIR = 30
+
+
 def _chama_ollama(prompt: str, modelo: str, temperature: float = 0.0, seed: int = 42) -> tuple[str, int]:
     # retorna (resposta, latencia_ms)
     cliente = ollama.Client(host=config.OLLAMA_HOST)
@@ -44,6 +50,13 @@ def extrai_campos(
     # se nao passar modelo usa o do .env
     modelo = modelo or config.MODEL_EXTRATOR
 
+    # 0. pula cedo se texto muito curto. whisper as vezes cuspe ""
+    # em cortes publicitarios ou audios com so musica, nao vale rodar llm.
+    n_palavras = len(transcricao.split())
+    if n_palavras < MIN_PALAVRAS_PRA_EXTRAIR:
+        print(f"transcricao muito curta ({n_palavras} palavras), pulando llm")
+        return _tudo_null(0, modelo, motivo="texto_insuficiente")
+
     # 1. roda gliner pra pegar spans de peixe e bacia (contexto pro prompt)
     spans = gliner_client.extrai_por_label(transcricao, checkpoint_path=gliner_checkpoint)
 
@@ -64,20 +77,21 @@ def extrai_campos(
     if data is None:
         # ja era, retorna tudo null pra nao travar o pipeline
         print(f"{modelo} nao gerou json valido, resposta: {raw[:300]}")
-        return _tudo_null(lat_ms, modelo)
+        return _tudo_null(lat_ms, modelo, motivo="llm_json_invalido")
 
     return _monta_resultado(data, lat_ms, modelo)
 
 
-def _tudo_null(latencia_ms: int, modelo: str) -> dict[str, CampoExtraido]:
+def _tudo_null(latencia_ms: int, modelo: str, motivo: str = "") -> dict[str, CampoExtraido]:
     # fallback quando o llm nao respondeu nada util
+    # motivo ajuda a distinguir no csv final se foi culpa do llm ou texto insuficiente
     campos = ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
     out = {}
     for c in campos:
         out[c] = CampoExtraido(
             valor=None if c != "especies" else [],
             confianca=0.0,
-            evidencia="",
+            evidencia=motivo,
             modelo_usado=modelo,
             fora_do_gazetteer=False,
             latencia_ms=latencia_ms,
