@@ -1,7 +1,6 @@
 [run]
 source = src
 omit =
-    src/main.py
     src/benchmark.py
     src/dashboard/templates/*
     src/transcriber/cuda_libs.py
