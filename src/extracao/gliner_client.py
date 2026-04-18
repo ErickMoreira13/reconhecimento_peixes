@@ -4,14 +4,18 @@ from typing import Iterable
 from gliner import GLiNER
 
 
-# cliente do gliner pra extrair spans de peixe e bacia
+# cliente do gliner pra extrair spans de peixe, bacia, rio e municipio
 # se tiver um checkpoint fine-tuned local, usa ele
 # senao cai no base multilingue zero-shot (nao eh tao bom mas quebra galho)
 #
-# labels que o fine-tune do erick cobre: peixe, bacia hidrografica
-# se expandir pra rio/municipio depois, adiciona nessa lista
+# fine-tune antigo do erick cobria so peixe e bacia. rio e municipio sao
+# zero-shot msm, gliner multi-v2.1 tem label "city" e "river" em ingles pq
+# foi treinado nelas, mas aqui tamo em pt-br — testando se bate
+#
+# motivacao de expandir: tirar do llm a extracao de rio/municipio, cortar latencia.
+# ver issue #10
 
-LABELS_PADRAO = ["peixe", "bacia hidrografica"]
+LABELS_PADRAO = ["peixe", "bacia hidrografica", "rio", "municipio"]
 
 _modelo: GLiNER | None = None
 
@@ -59,10 +63,17 @@ def extrai_spans(
     return spans
 
 
-def extrai_por_label(texto: str, checkpoint_path: str | Path | None = None) -> dict[str, list[dict]]:
-    # util pra separar peixes e bacias
-    spans = extrai_spans(texto, checkpoint_path=checkpoint_path)
-    out: dict[str, list[dict]] = {lbl: [] for lbl in LABELS_PADRAO}
+def extrai_por_label(
+    texto: str,
+    checkpoint_path: str | Path | None = None,
+    labels: Iterable[str] | None = None,
+) -> dict[str, list[dict]]:
+    # separa spans por label num dict {label: [spans]}
+    # se labels=None, usa LABELS_PADRAO (peixe, bacia, rio, municipio)
+    # passar labels explicito eh util pra testes ou pra rodar so com subset
+    labels_list = list(labels) if labels is not None else list(LABELS_PADRAO)
+    spans = extrai_spans(texto, labels=labels_list, checkpoint_path=checkpoint_path)
+    out: dict[str, list[dict]] = {lbl: [] for lbl in labels_list}
     for s in spans:
         lbl = s.get("label", "")
         if lbl in out:
