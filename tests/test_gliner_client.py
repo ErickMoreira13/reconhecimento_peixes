@@ -1,0 +1,65 @@
+from unittest.mock import MagicMock, patch
+
+import pytest
+
+from src.extracao import gliner_client
+
+
+def test_labels_padrao():
+    # sanity check do que o gliner espera extrair
+    assert "peixe" in gliner_client.LABELS_PADRAO
+    assert "bacia hidrografica" in gliner_client.LABELS_PADRAO
+
+
+def test_extrai_por_label_agrupa_spans(monkeypatch):
+    # mocka _carrega e extrai_spans pra nao chamar gliner real
+    fake_spans = [
+        {"text": "tucunare", "label": "peixe", "start": 0, "end": 8, "score": 0.9},
+        {"text": "pacu", "label": "peixe", "start": 10, "end": 14, "score": 0.85},
+        {"text": "bacia amazonica", "label": "bacia hidrografica", "start": 20, "end": 35, "score": 0.8},
+    ]
+    monkeypatch.setattr(gliner_client, "extrai_spans", lambda *a, **k: fake_spans)
+
+    result = gliner_client.extrai_por_label("texto qualquer")
+
+    assert "peixe" in result
+    assert "bacia hidrografica" in result
+    assert len(result["peixe"]) == 2
+    assert len(result["bacia hidrografica"]) == 1
+
+
+def test_extrai_por_label_vazio_quando_sem_spans(monkeypatch):
+    monkeypatch.setattr(gliner_client, "extrai_spans", lambda *a, **k: [])
+
+    result = gliner_client.extrai_por_label("texto sem peixe nem bacia")
+
+    assert result["peixe"] == []
+    assert result["bacia hidrografica"] == []
+
+
+def test_extrai_por_label_ignora_labels_desconhecidos(monkeypatch):
+    # se o modelo por algum motivo retornar spans de outros tipos, filtra
+    fake_spans = [
+        {"text": "tucunare", "label": "peixe"},
+        {"text": "invasor", "label": "label_maluco_nao_esperado"},
+    ]
+    monkeypatch.setattr(gliner_client, "extrai_spans", lambda *a, **k: fake_spans)
+
+    result = gliner_client.extrai_por_label("x")
+    assert len(result["peixe"]) == 1
+    # label desconhecido nao entra
+    assert "label_maluco_nao_esperado" not in result
+
+
+def test_extrai_spans_falha_graceful(monkeypatch):
+    # se o modelo falhar, deve retornar [] nao levantar excecao
+    class FakeModel:
+        def predict_entities(self, texto, labels, threshold):
+            raise RuntimeError("gliner quebrou")
+
+    monkeypatch.setattr(gliner_client, "_carrega", lambda ckpt=None: FakeModel())
+    monkeypatch.setattr(gliner_client, "_modelo", FakeModel())
+
+    # nao deve levantar
+    result = gliner_client.extrai_spans("texto")
+    assert result == []
