@@ -1,5 +1,4 @@
 import sqlite3
-import tempfile
 from pathlib import Path
 
 import pytest
@@ -10,6 +9,8 @@ from src.storage import db as storage
 @pytest.fixture
 def db_temp(tmp_path):
     # sqlite temporario pra cada teste nao contaminar outros
+    # (fixture local aqui porque muitos testes abaixo usam o path direto em vez
+    # do DB_PATH global que o db_isolado substitui)
     return tmp_path / "teste.db"
 
 
