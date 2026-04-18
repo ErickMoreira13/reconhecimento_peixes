@@ -1,0 +1,9 @@
+campo,baseline_qwen_count,baseline_qwen_pct,opcao1_llama_qwen_count,opcao1_llama_qwen_pct,delta_pp
+estado,3,6,3,6,0
+municipio,2,4,3,6,2
+rio,10,19,24,47,28
+bacia,9,17,7,14,-4
+tipo_ceva,25,48,25,49,1
+grao,13,25,14,27,2
+especies,35,67,31,61,-7
+observacoes,41,79,27,53,-26
