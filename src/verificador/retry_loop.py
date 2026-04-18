@@ -160,18 +160,63 @@ def verifica_todos_os_campos(
     transcricao: str,
     spans_gliner: dict,
 ) -> dict[str, dict]:
-    # aplica verificacao em todos os 8 campos
-    # retorna dict com campo final + veredito + tentativas pra cada um
+    # nova versao: aplica regras 1x por campo, depois 1 chamada batch no critic
+    # com vereditos de todos os 8 campos, depois faz retry so nos rejeitados.
+    # tres a quatro chamadas ollama no pior caso, em vez de 8+ no velho
     out: dict[str, dict] = {}
+
+    # 1. aplica regras em todos primeiro (cheap gate)
+    vereditos_regras: dict[str, Veredito] = {}
     for nome, c in campos.items():
-        # passa os outros campos ja verificados como contexto (cross-field)
-        outros = {n: o["campo"] for n, o in out.items()}
-        novo_campo, veredito, tents = verifica_campo_com_retry(
-            nome, c, transcricao, outros, spans_gliner
-        )
-        out[nome] = {
-            "campo": novo_campo,
-            "veredito": veredito,
-            "tentativas": tents,
-        }
+        # passa os outros ja avaliados como contexto (pra cross-field)
+        outros_ja = {n: out_nome["campo"] for n, out_nome in out.items()}
+        v = regras.aplica_regras(nome, c, transcricao, outros_ja)
+        vereditos_regras[nome] = v
+        out[nome] = {"campo": c, "veredito": v, "tentativas": 0}
+
+    # 2. critic batch nos que passaram nas regras (1 chamada ollama so)
+    passaram = {nome: out[nome]["campo"] for nome, v in vereditos_regras.items() if v.aceito}
+    if passaram:
+        vereditos_critic = critic.avalia_batch(passaram, transcricao)
+        for nome, v_crit in vereditos_critic.items():
+            if not v_crit.aceito:
+                out[nome]["veredito"] = v_crit
+
+    # 3. retry nos rejeitados (regras OU critic)
+    for nome in list(out.keys()):
+        v = out[nome]["veredito"]
+        if v.aceito:
+            continue
+
+        # tenta re-extrair ate esgotar o budget
+        for tentativa in range(1, BUDGET_RETRIES + 1):
+            novo = _reextrai_campo(transcricao, spans_gliner, nome, v, tentativa)
+            if novo is None:
+                break
+
+            # checa regras de novo
+            outros_ja = {n: out[n]["campo"] for n in out if n != nome}
+            v_reg = regras.aplica_regras(nome, novo, transcricao, outros_ja)
+            if not v_reg.aceito:
+                v = v_reg
+                out[nome].update({"campo": novo, "veredito": v_reg, "tentativas": tentativa})
+                continue
+
+            # passou nas regras, critic so nesse campo
+            v_crit = critic.avalia(nome, novo, transcricao, outros_ja)
+            if v_crit.aceito:
+                out[nome].update({"campo": novo, "veredito": v_crit, "tentativas": tentativa})
+                break
+            v = v_crit
+            out[nome].update({"campo": novo, "veredito": v_crit, "tentativas": tentativa})
+
+        # se ainda rejeitado apos retries, anula o valor
+        if not out[nome]["veredito"].aceito:
+            c_final = out[nome]["campo"]
+            c_final.evidencia = f"[rejeitado_{out[nome]['tentativas']}x] {c_final.evidencia}"
+            if isinstance(c_final.valor, list):
+                c_final.valor = []
+            else:
+                c_final.valor = None
+
     return out
