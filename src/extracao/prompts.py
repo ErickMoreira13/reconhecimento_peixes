@@ -70,7 +70,17 @@ def monta_prompt_extrator(
 
     prompt = f"""Analise a transcricao de um video de pescaria brasileira e extraia 8 campos em JSON.
 
-REGRA: vocabulario aberto. Se o texto menciona algo fora dos exemplos, retorne o valor bruto. Marque fora_do_gazetteer=true quando nao casar com exemplos. Se nao mencionado, null.
+== REGRA CENTRAL: VOCABULARIO ABERTO ==
+Os exemplos abaixo NAO sao lista fechada. Se o video menciona peixe/bacia/rio/
+ceva/grao que NAO esta nos exemplos, CAPTURE MESMO ASSIM usando o valor LITERAL
+do texto. Essa captura eh VALIOSA, nao um erro.
+
+FLAG fora_do_gazetteer=true: marque ASSIM quando o valor que voce retornou NAO
+aparece nos exemplos listados nesta instrucao. Por exemplo, se o peixe
+"piabanha" nao esta na lista top-20 abaixo, retorne especies=[{{"nome":
+"piabanha", ...}}] com fora_do_gazetteer=true. Isso vale pra todos os campos.
+
+fora_do_gazetteer=false SO quando o valor casa exatamente com um dos exemplos.
 
 CAMPOS:
 1. estado: sigla UF (AC,AL,AM,AP,BA,CE,DF,ES,GO,MA,MG,MS,MT,PA,PB,PE,PI,PR,RJ,RN,RO,RR,RS,SC,SE,SP,TO) ou null
@@ -94,7 +104,8 @@ FORMATO JSON:
   "observacoes":{{"valor":null,"confianca":0,"evidencia":""}}
 }}
 
-Evidencia = trecho LITERAL do texto. Nunca inventar. Responda apenas o JSON.
+Evidencia = trecho LITERAL do texto. Nunca inventar. Lembre de marcar
+fora_do_gazetteer=true quando o valor nao esta na lista. Responda apenas o JSON.
 
 TEXTO:
 \"\"\"
