@@ -1,7 +1,6 @@
 import ctypes
 import os
 import site
-import sys
 from pathlib import Path
 
 
@@ -9,16 +8,38 @@ from pathlib import Path
 # via pip nos pacotes nvidia-*
 #
 # sem isso da "libcublas.so.12 not found" mesmo com as libs no venv, pq
-# o libcblas nao ta no LD_LIBRARY_PATH padrao do sistema.
+# as libs nao estao no LD_LIBRARY_PATH padrao do sistema.
 #
-# o truque eh usar ctypes pra abrir as .so com RTLD_GLOBAL antes do faster-whisper
-# carregar o modelo. ai quando o faster-whisper procurar as libs, elas ja estao
-# no namespace global do processo.
-#
-# chamar uma vez antes de importar WhisperModel
+# CUIDADO: tem que FILTRAR bem quais .so pre-carregar.
+# nunca pre-carregar libnvblas.so pq ela fica ativa pra todo numpy/scipy do
+# processo e causa "cublasXtSgemm failed" em qualquer operacao blas, ate
+# segfault em alguns casos.
 
 
 _ja_rodou = False
+
+
+# so essas sao carregadas. o resto (principalmente libnvblas) fica de fora
+LIBS_OK = (
+    "libcublas.so",
+    "libcublasLt.so",
+    "libcudart.so",
+    "libcudnn.so",
+    "libcudnn_cnn.so",
+    "libcudnn_ops.so",
+    "libcudnn_graph.so",
+    "libcudnn_engines_runtime_compiled.so",
+    "libcudnn_engines_precompiled.so",
+    "libcudnn_heuristic.so",
+    "libcudnn_adv.so",
+)
+
+
+def _eh_lib_permitida(nome: str) -> bool:
+    # nvblas NUNCA, nem em sonho
+    if "nvblas" in nome:
+        return False
+    return any(nome.startswith(ok) for ok in LIBS_OK)
 
 
 def pre_carrega_libs_cuda():
@@ -42,14 +63,7 @@ def pre_carrega_libs_cuda():
     if not candidatos:
         return
 
-    # ordem importa: cublas depende de cudart, cudnn tem varios modulos internos
-    # entao a gente so adiciona TODAS as pastas ao LD_LIBRARY_PATH e preload as .so
-    paths_str = ":".join(str(p) for p in candidatos)
-    atual = os.environ.get("LD_LIBRARY_PATH", "")
-    if paths_str not in atual:
-        os.environ["LD_LIBRARY_PATH"] = f"{paths_str}:{atual}".rstrip(":")
-
-    # dlopen com RTLD_GLOBAL pra gerar visibilidade global
+    # preload com filtro, so libs que interessam pro faster-whisper
     # ordem: cublas/cudart primeiro, cudnn depois
     ordem_preferida = ["cublas", "cudart", "cudnn"]
     pastas_ordenadas = sorted(candidatos, key=lambda p: next(
@@ -58,6 +72,8 @@ def pre_carrega_libs_cuda():
 
     for lib_dir in pastas_ordenadas:
         for so in sorted(lib_dir.glob("*.so*")):
+            if not _eh_lib_permitida(so.name):
+                continue
             try:
                 ctypes.CDLL(str(so), mode=ctypes.RTLD_GLOBAL)
             except OSError:

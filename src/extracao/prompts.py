@@ -67,7 +67,7 @@ CAMPOS:
 5. tipo_ceva: garrafa_pet_perfurada | ceva_de_chao | ceva_solta_na_agua | bola_de_massa | saco_de_ceva | cano_pvc_perfurado | outro texto livre | null
 6. grao: soja | milho | trigo | arroz | sorgo | aveia | outro texto livre | null
 7. especies: lista de peixes. NER candidatos: {peixes_ner or "nenhum"}. Canonicos similares: {top_peixes}
-8. observacoes: resumo 1-2 frases sobre horario/clima/dicas/resultado, 20-80 palavras, senao "Sem observacoes adicionais relevantes."
+8. observacoes: RESUMO CURTO em 1-2 frases (MAXIMO 50 palavras) sobre horario/clima/dicas/resultado. NUNCA copiar trechos longos da transcricao. Se nada relevante, "Sem observacoes adicionais relevantes."
 
 FORMATO JSON:
 {{
