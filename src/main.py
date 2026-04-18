@@ -164,9 +164,14 @@ def cmd_extrair(args):
                     transc = json.load(f)
                 texto = transc["texto"]
 
-                campos = qwen_extrator.extrai_campos(texto, gliner_checkpoint=args.gliner_ckpt)
+                campos = qwen_extrator.extrai_campos(
+                    texto,
+                    gliner_checkpoint=args.gliner_ckpt,
+                    modelo=args.modelo,
+                )
 
-                out_path = config.RESULTS_DIR / f"{v['video_id']}_extracao.json"
+                suffix = f"_{args.suffix}" if args.suffix else ""
+                out_path = config.RESULTS_DIR / f"{v['video_id']}_extracao{suffix}.json"
                 with open(out_path, "w", encoding="utf-8") as f:
                     json.dump({
                         "video_id": v["video_id"],
@@ -177,7 +182,9 @@ def cmd_extrair(args):
                         "verificado": False,
                     }, f, ensure_ascii=False, indent=2)
 
-                _marca_extraido(v["video_id"], out_path)
+                # so marca como extraido quando nao tem suffix (benchmark nao muda status do db)
+                if not args.suffix:
+                    _marca_extraido(v["video_id"], out_path)
                 ok_count += 1
                 lat_med = sum(c.latencia_ms for c in campos.values()) // len(campos)
                 prog.console.log(f"[green]ok[/] {v['video_id']} (lat med {lat_med}ms)")
@@ -385,6 +392,8 @@ def main():
     ep = sub.add_parser("extrair")
     ep.add_argument("--limit", type=int, default=50)
     ep.add_argument("--gliner-ckpt", default=None)
+    ep.add_argument("--modelo", default=None, help="sobrescreve MODEL_EXTRATOR do .env")
+    ep.add_argument("--suffix", default="", help="sufixo no nome do json de saida (pra benchmark)")
     ep.set_defaults(func=cmd_extrair)
 
     vp = sub.add_parser("verificar")
