@@ -83,10 +83,10 @@ video F6AcoBAAsXI (pescaria generica de tilapia):
 
 | campo     | qwen            | llama           | gemma            |
 |-----------|-----------------|-----------------|------------------|
-| estado    | null            | null            | **SP (inventado!)** |
-| rio       | null            | null            | **Rio Sao Francisco (inventado!)** |
-| tipo_ceva | cano_pvc ❌     | saco_de_ceva ✅ | saco_de_ceva ✅  |
-| grao      | milho ✅        | milho ✅        | milho ✅         |
+| estado    | null            | null            | SP (inventado)   |
+| rio       | null            | null            | Rio Sao Francisco (inventado) |
+| tipo_ceva | cano_pvc (errado) | saco_de_ceva (ok) | saco_de_ceva (ok) |
+| grao      | milho (ok)      | milho (ok)      | milho (ok)       |
 | especies  | [castilapia, tilapia] | [tilapia] | [castilapia, tilapia] |
 | obs       | bom resumo      | vazio           | "sem obs"        |
 

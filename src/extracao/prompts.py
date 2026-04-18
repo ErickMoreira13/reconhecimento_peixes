@@ -23,7 +23,7 @@ def _carrega_dict(nome: str) -> dict:
 def _top_peixes_por_bm25(texto: str, k: int = 20) -> list[str]:
     # retorna os top-k nomes canonicos mais parecidos com o texto, por bm25 simples
     # (bm25 de biblioteca seria melhor mas pra comecar uso soup-match por tokens em comum)
-    # TODO trocar pra rank_bm25 ou similar se a qualidade ficar ruim
+    # depois vejo se vale trocar pra rank_bm25 ou algo parecido, se a qualidade ficar ruim
     d = _carrega_dict("peixes_conhecidos.json")
     nomes = d.get("nomes_comuns_peixes", [])
 

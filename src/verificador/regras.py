@@ -124,7 +124,7 @@ def _passa_enum_estado(campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]
 def _passa_cross_field(nome_campo: str, campo: CampoExtraido, outros: dict[str, CampoExtraido]) -> tuple[bool, TipoRejeicao | None]:
     # por enquanto so checa estado vs municipio (mais simples)
     # pra fazer bacia x UF direito precisa de tabela bacia->UFs, fica pra depois
-    # TODO expandir quando tiver tabela ibge completa
+    # quando tiver tabela ibge completa volto aqui
     return True, None
 
 
