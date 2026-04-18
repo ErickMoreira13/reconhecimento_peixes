@@ -3,24 +3,28 @@
 PY := .venv/bin/python
 PYTEST := .venv/bin/pytest
 
-.PHONY: help setup check models status buscar baixar transcrever extrair verificar exportar dashboard tests limpar reset
+.PHONY: help setup check models status buscar baixar transcrever extrair verificar exportar dashboard tests test-fast test-cov lint analise benchmark comparar limpar reset
 
 help:
 	@echo "comandos disponiveis:"
+	@echo ""
+	@echo "setup inicial:"
 	@echo "  make setup       - bootstrap completo (venv, deps, modelos, .env)"
 	@echo "  make check       - verifica pre-requisitos (python, ffmpeg, ollama, gpu)"
 	@echo "  make models      - baixa os modelos ollama (qwen, llama, gemma)"
-	@echo "  make status      - mostra quantos videos estao em cada etapa"
-	@echo "  make dashboard   - abre dashboard web em localhost:8000"
 	@echo ""
-	@echo "pipeline (roda em sequencia, cada um depende do anterior):"
+	@echo "rodando o pipeline:"
 	@echo "  make buscar Q='pesca com ceva' N=50    - acha videos no youtube"
 	@echo "  make baixar N=50 W=4                     - baixa audio (W workers paralelos)"
 	@echo "  make transcrever N=50                    - whisper nos baixados"
 	@echo "  make extrair N=50                        - gliner + qwen nos transcritos"
 	@echo "  make verificar N=50                      - regras + llama critic nos extraidos"
 	@echo "  make exportar                            - gera csv final da planilha"
-	@echo "  make run-tudo    - roda tudo em sequencia"
+	@echo "  make run-tudo                            - roda tudo em sequencia"
+	@echo ""
+	@echo "observabilidade:"
+	@echo "  make status      - mostra quantos videos estao em cada etapa"
+	@echo "  make dashboard   - abre dashboard web em localhost:8000"
 	@echo ""
 	@echo "qualidade / debug:"
 	@echo "  make tests       - roda testes unitarios"
@@ -29,6 +33,7 @@ help:
 	@echo "  make lint        - roda ruff"
 	@echo "  make analise     - analise detalhada do ultimo benchmark"
 	@echo "  make benchmark MODELOS='qwen2.5:7b llama3.1:8b' N=50"
+	@echo "  make comparar A=qwen2.5_7b B=_default_  - diff cobertura entre dois sets"
 	@echo ""
 	@echo "util:"
 	@echo "  make limpar      - apaga pastas data/ e db (NAO volta)"
@@ -50,6 +55,9 @@ status:
 Q ?= "pesca com ceva"
 N ?= 50
 W ?= 4
+MODELOS ?= qwen2.5:7b llama3.1:8b
+A ?= qwen2.5_7b
+B ?= _default_
 
 buscar:
 	@$(PY) -m src.main buscar --queries $(Q) --max-por-query $(N)
@@ -76,11 +84,11 @@ dashboard:
 tests:
 	@$(PYTEST)
 
-test-cov:
-	@$(PY) -m pytest tests/ --cov=src --cov-report=term-missing 2>&1 | tail -40
-
 test-fast:
 	@$(PYTEST) -q --tb=no
+
+test-cov:
+	@$(PY) -m pytest tests/ --cov=src --cov-report=term-missing 2>&1 | tail -40
 
 lint:
 	@$(PY) -m ruff check src/ tests/ 2>&1 || echo "ruff reportou issues acima"
@@ -91,8 +99,9 @@ analise:
 benchmark:
 	@$(PY) -m src.benchmark --modelos $(MODELOS) --limit $(N)
 
-# atalhao pra rodar tudo em sequencia com valores default
-# util pra um teste rapido com poucos videos
+comparar:
+	@$(PY) scripts/comparar-resultados.py --a $(A) --b $(B)
+
 run-tudo:
 	@$(PY) -m src.main buscar --queries $(Q) --max-por-query $(N)
 	@$(PY) -m src.main baixar --limit $(N) --workers $(W)
