@@ -78,6 +78,33 @@ def _tudo_null(latencia_ms: int) -> dict[str, CampoExtraido]:
     return out
 
 
+def _normaliza_especies(valor) -> list[dict]:
+    # forca especies a ser sempre lista de dicts, pra nao aceitar string solta
+    # (qwen as vezes cospe "especies": "peixe_x" em vez de lista — se deixar passar,
+    # uma alucinacao tipo "só filapossauro" entra como string e ninguem pega)
+    if valor is None or valor == "":
+        return []
+    if isinstance(valor, list):
+        normalizada = []
+        for item in valor:
+            if isinstance(item, dict):
+                normalizada.append({
+                    "nome": str(item.get("nome", "")).strip(),
+                    "evidencia": str(item.get("evidencia", "")).strip(),
+                    "fora_do_gazetteer": bool(item.get("fora_do_gazetteer", False)),
+                })
+            elif isinstance(item, str):
+                normalizada.append({"nome": item.strip(), "evidencia": "", "fora_do_gazetteer": False})
+        # tira entradas vazias
+        return [e for e in normalizada if e.get("nome")]
+    if isinstance(valor, str):
+        # qwen cuspiu string solta, tenta separar por virgula/ponto-e-virgula
+        # se for algo muito estranho, a camada seguinte (critic) deve pegar
+        partes = [p.strip() for p in valor.replace(";", ",").split(",") if p.strip()]
+        return [{"nome": p, "evidencia": "", "fora_do_gazetteer": False} for p in partes]
+    return []
+
+
 def _monta_resultado(data: dict, latencia_ms: int) -> dict[str, CampoExtraido]:
     # converte o dict cru do qwen em CampoExtraido pra cada um
     campos = ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
@@ -85,7 +112,11 @@ def _monta_resultado(data: dict, latencia_ms: int) -> dict[str, CampoExtraido]:
 
     for c in campos:
         item = data.get(c, {}) or {}
-        valor = item.get("valor") if c != "especies" else item.get("valor", [])
+
+        if c == "especies":
+            valor = _normaliza_especies(item.get("valor"))
+        else:
+            valor = item.get("valor")
 
         out[c] = CampoExtraido(
             valor=valor,
