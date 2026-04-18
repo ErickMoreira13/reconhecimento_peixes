@@ -100,10 +100,26 @@ MODEL_EXTRATOR=llama3.1:8b
 MODEL_VERIFICADOR=qwen2.5:7b
 ```
 
+## extra: tentativa com chatbode7b (descartado)
+
+rodei tambem o chatbode7b (modelo pt-br fine-tuned pra dialogo) como
+extrator, pra ver se especializacao em portugues ajudaria. resultado:
+nao funciona pro nosso caso.
+
+de 3 videos processados antes de encerrar:
+- cobertura: 1 estado, 1 observacoes, resto tudo null
+- ~200s por video (muito mais lento que llama/qwen)
+- parece nao conseguir seguir json schema estrito via ollama `format="json"`
+
+**descartado**: chatbode eh mais pra dialogo livre, nao pra extracao
+estruturada. os nossos prompts tem schema e exemplos formais que ele nao
+sabe preencher.
+
 ## proximos passos
 
 - [x] validar config invertida
 - [x] medir ganhos
+- [x] testar chatbode7b (descartado)
 - [ ] escalar pra 500+ videos
 - [ ] se possivel, fazer fine-tune do gliner local (ja tem dataset de 7011
   exemplos) pra subir precisao de especies/bacia na primeira passada
