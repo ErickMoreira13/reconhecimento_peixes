@@ -8,6 +8,7 @@ from src.schemas import CampoExtraido
 from src.extracao.prompts import monta_prompt_extrator
 from src.extracao import gliner_client
 from src.extracao.utils import parse_json_safe as _parse_json_safe
+from src.extracao.gazetteer_check import aplica_flag_fora_do_gazetteer
 
 
 # extrator principal: ollama/qwen single-prompt pra sair os 8 campos
@@ -94,7 +95,10 @@ def _extrai_chunk_unico(
         print(f"{modelo} nao gerou json valido, resposta: {raw[:300]}")
         return _tudo_null(lat_ms, modelo, motivo="llm_json_invalido")
 
-    return _monta_resultado(data, lat_ms, modelo)
+    campos = _monta_resultado(data, lat_ms, modelo)
+    # pos-processa: marca fora_do_gazetteer quando o valor nao bate com dict
+    # (o llm nao eh confiavel pra essa flag, usa check deterministico)
+    return aplica_flag_fora_do_gazetteer(campos)
 
 
 def _dividir_em_chunks(texto: str, max_palavras: int) -> list[str]:
@@ -131,7 +135,10 @@ def _extrai_com_chunking(
         print(f"  chunk {i}/{len(chunks)} ({len(ch.split())} palavras)")
         resultados.append(_extrai_chunk_unico(ch, gliner_checkpoint, modelo))
 
-    return _consolida_chunks(resultados, modelo)
+    consolidado = _consolida_chunks(resultados, modelo)
+    # aplica flag pos-consolidacao (cada chunk ja aplicou, mas a uniao das
+    # especies pode ter novos valores que precisam de re-check)
+    return aplica_flag_fora_do_gazetteer(consolidado)
 
 
 def _consolida_chunks(
