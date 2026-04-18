@@ -114,11 +114,27 @@ data/
 
 - **whisper large-v3-turbo** (2.5gb vram, fp16) - transcricao
 - **gliner multi-v2.1** - ner zero-shot (ou fine-tuned se tiver local)
-- **qwen 2.5 7b** (q4_k_m, 4.7gb vram) - extrator de 8 campos
-- **llama 3.1 8b** (q4_k_m, 4.9gb vram) - verificador (familia diferente pra evitar vies)
+- **llama 3.1 8b** (q4_k_m, 4.9gb vram) - extrator de 8 campos (melhor cobertura)
+- **qwen 2.5 7b** (q4_k_m, 4.7gb vram) - verificador conservador (familia diferente)
 - **gemma 3 4b** (q4, 2.6gb vram) - fallback de retry
 
 roda tudo no mesmo ollama em localhost:11434, alternando em memoria no 4060 8gb.
+
+### por que essa combinacao
+
+fiz um benchmark dos 3 modelos em 52 videos reais (ver
+[docs/benchmark-modelos-2026-04-18.md](docs/benchmark-modelos-2026-04-18.md)):
+
+- **qwen** extrai poucos campos (rio 19%, ceva 48%) mas quase nao alucina (3.9%)
+- **llama** extrai bem mais (rio 55%, ceva 69%) com canonizacao ok
+- **gemma** extrai muito mas alucina estado/municipio/rio — descartado
+
+entao llama vira extrator (cobertura) e qwen vira verificador (filtro conservador).
+
+pra rodar a validacao dessa combinacao no pipeline completo:
+```bash
+bash scripts/validar-opcao1.sh
+```
 
 ## notas
 
