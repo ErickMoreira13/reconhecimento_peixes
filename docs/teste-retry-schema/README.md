@@ -73,15 +73,29 @@ o extrator tem 3 camadas de defesa:
 |-------|--------|-------------|---------|---------|------------|----------------|
 | smoke 1 (1-10) | 10 | 141.4 | 14.1 | 0 | 0 | 0 |
 | smoke 2 (11-20) | 10 | 209.2 | 20.9 | 0 | 0 | 0 |
-| smoke 3 (21-30) | 10 | — | — | — | — | — |
+| smoke 3 (21-30) | 10 | 295.7 | 29.6 | 1 | 0 | 1 |
 
-conclusao parcial: com llama3.1:8b + prompt atual, a incidencia de
-schema errado eh **zero** em producao normal. o retry fica como rede
-de seguranca. o caso que motivou o fix original era especifico do
-qwen2.5:7b rodando com monkey-patch de labels (via
-`scripts/comparar-gliner-labels.py`), nao acontece na rotina.
+acumulado: 30 videos, 1 retry (3.3%).
 
-isso sugere que o parse robusto (camada 1) eh suficiente pra 99%+
-dos casos. a camada 2 (retry) eh justificada como defesa pra modelos
-menores ou menos capazes — ficar com ela eh barato (zero custo quando
-nao dispara) e cobre backdoor de mudancas de modelo no futuro.
+### caso real que ativou retry (smoke 3)
+
+video VZ_n0XWOP54 tem 5650 palavras, passou por chunking em 2 pedacos.
+o chunk 1 (4494 palavras) veio com o campo `rio` em schema errado.
+
+fluxo:
+- parse 1 detectou `corrigidos=['rio']` → disparou retry
+- retry chegou com `rio` ainda errado → caiu no fallback (parse corrigido,
+  confianca=0 no rio do chunk 1)
+- chunk 2 rodou normal, veio com rio em schema certo
+- `_consolida_chunks` pegou o valor do chunk 2 (maior confianca)
+- resultado final: coerente, sem crash, sem loop
+
+confirmacao em producao real de que as 3 camadas funcionam exatamente
+como projetado. camadas de defesa:
+
+1. **parse robusto** pegou o schema errado no chunk 1 sem crashar
+2. **retry 1x com feedback** tentou recuperar (nao deu, mas nao
+   piorou — ficou no mesmo valor do parse corrigido)
+3. **consolidacao de chunks** usou o valor do chunk 2 que veio certo
+
+sem o fix, chunk 1 teria crashado. com o fix, o pipeline se auto-recupera.
