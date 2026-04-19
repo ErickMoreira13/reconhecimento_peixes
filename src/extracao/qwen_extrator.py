@@ -256,7 +256,14 @@ def _monta_resultado(data: dict, latencia_ms: int, modelo: str) -> dict[str, Cam
     out = {}
 
     for c in campos:
-        item = data.get(c, {}) or {}
+        item = data.get(c, {})
+        # as vezes o llm cospe direto a lista/string em vez do objeto envelope
+        # ex: "especies": ["tucunare", "pacu"]  em vez de {"valor": [...], ...}
+        # nesse caso trata como valor puro e deixa confianca=0
+        if isinstance(item, list) or isinstance(item, str):
+            item = {"valor": item}
+        elif not isinstance(item, dict):
+            item = {}
 
         if c == "especies":
             valor = _normaliza_especies(item.get("valor"))
