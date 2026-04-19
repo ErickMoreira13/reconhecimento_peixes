@@ -4,18 +4,15 @@ from typing import Iterable
 from gliner import GLiNER
 
 
-# cliente do gliner pra extrair spans de peixe, bacia, rio e municipio
+# cliente do gliner pra extrair spans de peixe e bacia
 # se tiver um checkpoint fine-tuned local, usa ele
 # senao cai no base multilingue zero-shot (nao eh tao bom mas quebra galho)
 #
-# fine-tune antigo do erick cobria so peixe e bacia. rio e municipio sao
-# zero-shot msm, gliner multi-v2.1 tem label "city" e "river" em ingles pq
-# foi treinado nelas, mas aqui tamo em pt-br — testando se bate
-#
-# motivacao de expandir: tirar do llm a extracao de rio/municipio, cortar latencia.
-# ver issue #10
+# tentei expandir pra 4 labels (issue #10) mas latencia explodiu +261% e
+# cobertura de bacia regrediu -16pp. voltei pra 2. ficou documentado
+# em docs/comparacao-gliner-labels/
 
-LABELS_PADRAO = ["peixe", "bacia hidrografica", "rio", "municipio"]
+LABELS_PADRAO = ["peixe", "bacia hidrografica"]
 
 _modelo: GLiNER | None = None
 
