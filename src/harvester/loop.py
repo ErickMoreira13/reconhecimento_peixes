@@ -25,6 +25,7 @@ except ImportError:
 from src.harvester import youtube as yt
 from src.harvester import saturacao
 from src.storage import db as storage
+from src import ui_banners
 
 
 PAUSA_ENTRE_BUSCAS_S = 5  # respeitar api
@@ -87,6 +88,7 @@ def roda_loop(
     pausa_s: int = PAUSA_ENTRE_BUSCAS_S,
     db_path: Path | None = None,
 ):
+    print(ui_banners.banner_harvester())
     # carrega queries do yaml pro sqlite (idempotente)
     textos = carrega_queries_yaml(queries_yaml)
     storage.upsert_queries(textos, db_path)
@@ -116,8 +118,11 @@ def roda_loop(
     # relatorio final
     ativas = storage.lista_queries("ativa", db_path)
     satur = storage.lista_queries("saturada", db_path)
-    print()
-    print(f"[loop] fim. ativas={len(ativas)} saturadas={len(satur)} iteracoes={it}")
+    print(ui_banners.caixa("fim do loop", [
+        f"iteracoes:  {it}",
+        f"ativas:     {len(ativas)}",
+        f"saturadas:  {len(satur)}",
+    ]))
 
 
 def main():
