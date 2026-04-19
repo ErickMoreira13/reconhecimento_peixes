@@ -1,4 +1,4 @@
-# onde a gente parou — 2026-04-18 (noite)
+# onde a gente parou — 2026-04-19
 
 ## o que ja ta pronto
 
@@ -47,23 +47,35 @@ rejeitou resumos genericos sem entidade ancorada). net positivo.
    harvester loop rotaciona automaticamente entre ~30 queries em `data/queries.yaml`,
    detectando saturacao por dedup (>= 0.8) e por taxa de rejeicao (> 0.7).
 
-2. **testar gliner 2 -> 4 labels** (issue #10, ja implementado):
-   ```bash
-   .venv/bin/python scripts/comparar-gliner-labels.py --limit 20
-   ```
-   roda extrator com 2 labels vs 4 labels (+rio +municipio), compara cobertura e
-   latencia. se 4 labels ganhar (criterio: lat -20% ou cob +5pp), mantem. senao,
-   reverte a mudanca em gliner_client.LABELS_PADRAO.
+2. **~~testar gliner 2 -> 4 labels~~** (issue #10): **REJEITADO** apos teste em
+   50 videos. latencia +261%, cobertura de bacia -16pp. revertido em `e188759`.
+   resultado em `docs/comparacao-gliner-labels/RESULTADO.md`.
 
 3. **fine-tune do gliner local** (issue #9, adiado):
    - precisa ~20k exemplos validados antes, hoje so tem 7k do v1
    - reabrir quando dataset validado pelo pipeline atual chegar la
 
+4. **anotacoes manuais dos 50 videos** (feito 2026-04-19) —
+   `docs/anotacoes-manuais/sumario.md` tem 8 padroes de erro ranqueados,
+   com recomendacoes de fix. destaque: apenas 10% dos videos tem extracao
+   aproveitavel sem correcao. alvos principais:
+   - tipo_ceva=ceva_solta_na_agua como default errado (50% dos videos)
+   - alucinacao de "Rio Sao Francisco" (5 de 7 casos falsos)
+   - isca confundida com especie alvo (piau, camarao, piabao)
+   - bacia=nome do rio (6 casos)
+   - palavras genericas como especie (pai tainha, cimprao, paca)
+
+5. **retry de schema errado** (feito 2026-04-19) — 3 camadas de defesa no
+   extrator: parse robusto + retry 1x com feedback + budget estrito. visivel
+   em `docs/teste-retry-schema/`. detalhes do caso que originou em
+   `commit 888a990`.
+
 ## comandos pra retomar
 
 - `make status` - ver etapa atual
 - `make dashboard` - http://localhost:8000
-- `make tests` - 194 testes (~9s)
+- `make tests` - 217 testes (~14s)
+- `.venv/bin/python scripts/testar-retry-schema.py --limit 10` - smoke retry schema
 - `make harvester-loop` - loop perpetuo de coleta
 - `make queries` - status das queries do loop
 - `make comparar A=qwen2.5_7b B=_default_` - diff entre resultados
@@ -85,3 +97,6 @@ WHISPER_DEVICE=auto
 - `docs/benchmark-modelos-2026-04-18.md` - baseline dos 3 modelos
 - `docs/validacao-opcao1-2026-04-18_0333/RELATORIO.md` - resultado da noite
 - `docs/validacao-opcao1-2026-04-18_0333/planilha.csv` - dados extraidos
+- `docs/anotacoes-manuais/sumario.md` - padroes de erro consolidados dos 50 videos
+- `docs/comparacao-gliner-labels/RESULTADO.md` - motivo da rejeicao 4 labels
+- `docs/teste-retry-schema/README.md` - smoke test do retry de schema
