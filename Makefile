@@ -3,7 +3,7 @@
 PY := .venv/bin/python
 PYTEST := .venv/bin/pytest
 
-.PHONY: help setup check models status buscar baixar transcrever extrair verificar exportar dashboard tests test-fast test-cov lint analise benchmark comparar limpar reset
+.PHONY: help setup check models status buscar harvester-loop baixar transcrever extrair verificar exportar dashboard tests test-fast test-cov lint analise benchmark comparar queries limpar reset
 
 help:
 	@echo "comandos disponiveis:"
@@ -15,6 +15,8 @@ help:
 	@echo ""
 	@echo "rodando o pipeline:"
 	@echo "  make buscar Q='pesca com ceva' N=50    - acha videos no youtube"
+	@echo "  make harvester-loop                      - loop perpetuo de coleta c/ saturacao"
+	@echo "  make queries                             - lista status de cada query do loop"
 	@echo "  make baixar N=50 W=4                     - baixa audio (W workers paralelos)"
 	@echo "  make transcrever N=50                    - whisper nos baixados"
 	@echo "  make extrair N=50                        - gliner + qwen nos transcritos"
@@ -61,6 +63,18 @@ B ?= _default_
 
 buscar:
 	@$(PY) -m src.main buscar --queries $(Q) --max-por-query $(N)
+
+# loop perpetuo. pode rodar com MAX_ITER pra teste (ex: make harvester-loop MAX_ITER=3)
+MAX_ITER ?=
+PAUSA ?= 5
+
+harvester-loop:
+	@$(PY) -m src.harvester.loop $(if $(MAX_ITER),--max-iter $(MAX_ITER),) --pausa $(PAUSA)
+
+queries:
+	@$(PY) -c "from src.storage import db; \
+	rows = db.lista_queries(); \
+	[print(f'{r[\"status\"]:10s} buscados={r[\"total_buscados\"]:4d} novos={r[\"total_novos\"]:3d} dedup={r[\"dedup_rate_ultima\"]:.2f} {r[\"texto\"]}') for r in rows]"
 
 baixar:
 	@$(PY) -m src.main baixar --limit $(N) --workers $(W)
