@@ -30,6 +30,28 @@ MIN_PALAVRAS_PRA_EXTRAIR = 30
 MAX_PALAVRAS_SEM_CHUNKING = 4500
 
 
+# telemetria simples pra saber se o retry de schema ta acontecendo demais.
+# se videos_com_retry > 10% do total processado, vale revisar o prompt base
+# pra reduzir schema errado de primeira. acesso via get_stats_retry()
+_stats_retry: dict[str, int] = {
+    "videos_com_retry": 0,
+    "retries_ok": 0,
+    "retries_falhos": 0,
+}
+
+
+def get_stats_retry() -> dict[str, int]:
+    # snapshot atual dos contadores de retry de schema
+    return dict(_stats_retry)
+
+
+def reset_stats_retry() -> None:
+    # util pra teste ou quando comecar novo batch
+    _stats_retry["videos_com_retry"] = 0
+    _stats_retry["retries_ok"] = 0
+    _stats_retry["retries_falhos"] = 0
+
+
 def _chama_ollama(prompt: str, modelo: str, temperature: float = 0.0, seed: int = 42) -> tuple[str, int]:
     # retorna (resposta, latencia_ms)
     cliente = ollama.Client(host=config.OLLAMA_HOST)
@@ -101,6 +123,8 @@ def _extrai_chunk_unico(
     # budget ESTRITO de 1 retry (nao vira loop nem se a LLM insistir no erro).
     # se o retry tbm vier errado, usa o parse corrigido do primeiro try.
     if corrigidos:
+        _stats_retry["videos_com_retry"] += 1
+        print(f"[schema-retry] campos {corrigidos} vieram errados, tentando 1x com feedback")
         prompt_retry = monta_prompt_retry_schema(transcricao, spans, corrigidos)
         raw2, lat_retry = _chama_ollama(prompt_retry, modelo, temperature=0.0)
         lat_ms += lat_retry
@@ -110,8 +134,16 @@ def _extrai_chunk_unico(
             if not corrigidos2:
                 # retry deu bom, usa ele
                 campos = campos2
-            # se o retry ainda veio com erro, fica com o primeiro parse
-            # (ja corrigido automaticamente, confianca zerada nos campos ruins)
+                _stats_retry["retries_ok"] += 1
+                print("[schema-retry] retry deu bom, usando o novo resultado")
+            else:
+                # retry ainda veio errado, fica com o parse corrigido do 1o
+                _stats_retry["retries_falhos"] += 1
+                print(f"[schema-retry] retry tbm veio com erro em {corrigidos2}, usando parse corrigido")
+        else:
+            # retry nao gerou json valido, fica com primeiro parse
+            _stats_retry["retries_falhos"] += 1
+            print("[schema-retry] retry gerou json invalido, usando parse corrigido")
 
     # pos-processa: marca fora_do_gazetteer quando o valor nao bate com dict
     # (o llm nao eh confiavel pra essa flag, usa check deterministico)
