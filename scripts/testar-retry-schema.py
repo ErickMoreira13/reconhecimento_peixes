@@ -21,6 +21,7 @@ from src.extracao import qwen_extrator
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--limit", type=int, default=10)
+    p.add_argument("--offset", type=int, default=0, help="pula os N primeiros videos (dataset ordenado)")
     p.add_argument("--out", type=Path, default=Path("docs/teste-retry-schema"))
     args = p.parse_args()
 
@@ -28,11 +29,13 @@ def main():
 
     print(ui_banners.caixa("smoke test: retry de schema errado", [
         f"modelo extrator: {config.MODEL_EXTRATOR}",
-        f"videos a processar: {args.limit}",
+        f"videos a processar: {args.limit} (offset={args.offset})",
         f"salvando resultados em: {args.out}",
     ]))
 
-    transcrs = sorted(config.TRANSCR_DIR.glob("*.json"))[:args.limit]
+    # aplica offset e limit. pular os ja rodados eh util pra testar mais amplo
+    # sem refazer os 10 primeiros
+    transcrs = sorted(config.TRANSCR_DIR.glob("*.json"))[args.offset:args.offset + args.limit]
     if not transcrs:
         print("sem transcricoes, rode make transcrever primeiro")
         return
