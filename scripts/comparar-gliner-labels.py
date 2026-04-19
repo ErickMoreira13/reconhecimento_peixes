@@ -13,6 +13,7 @@ import time
 from pathlib import Path
 
 from src import config
+from src import ui_banners
 from src.extracao import gliner_client
 from src.extracao.qwen_extrator import extrai_todos_campos
 from src.extracao.prompts import monta_prompt_extrator
@@ -99,16 +100,17 @@ def main():
     args = p.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
+    print(ui_banners.banner_gliner_labels())
 
     transcrs = lista_transcricoes(args.limit)
     if not transcrs:
         print("sem transcricoes na pasta, rode make transcrever primeiro")
         return
 
-    print(f"rodando em {len(transcrs)} transcricoes")
-    print("=== 2 labels (peixe, bacia) ===")
+    print(f"rodando em {len(transcrs)} transcricoes\n")
+    print("   ><(((o>  rodada 1: 2 labels (peixe, bacia)")
     r2 = [roda_com_labels(t, LABELS_2) for t in transcrs]
-    print("=== 4 labels (+rio +municipio) ===")
+    print("\n   ><((((((((o>  rodada 2: 4 labels (+rio +municipio)")
     r4 = [roda_com_labels(t, LABELS_4) for t in transcrs]
 
     s2 = resume(r2, "2-labels")
@@ -135,14 +137,17 @@ def main():
         w.writerow(["latencia_gliner_ms", s2["lat_gliner_ms_media"], s4["lat_gliner_ms_media"], ""])
         w.writerow(["latencia_llm_ms", s2["lat_llm_ms_media"], s4["lat_llm_ms_media"], ""])
 
-    print(f"comparacao salva em {csv_path}")
-    print()
-    print("sumario:")
+    print(f"\ncomparacao salva em {csv_path}\n")
+    linhas = []
+    linhas.append(f"{'campo':15s} {'2lab':>5s} {'4lab':>5s} {'delta':>6s}")
+    linhas.append("-" * 40)
     for c in campos:
         c2 = s2["cobertura"].get(c, 0)
         c4 = s4["cobertura"].get(c, 0)
-        print(f"  {c:15s} 2lab={c2:3d}  4lab={c4:3d}  delta={c4 - c2:+d}")
-    print(f"  lat_total_media {s2['lat_total_ms_media']}ms -> {s4['lat_total_ms_media']}ms")
+        linhas.append(f"{c:15s} {c2:5d} {c4:5d} {c4 - c2:+6d}")
+    linhas.append("")
+    linhas.append(f"lat total media: {s2['lat_total_ms_media']}ms -> {s4['lat_total_ms_media']}ms")
+    print(ui_banners.caixa("sumario cobertura + latencia", linhas))
 
 
 if __name__ == "__main__":
