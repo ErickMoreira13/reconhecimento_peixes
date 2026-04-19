@@ -1,4 +1,5 @@
 from src.extracao.qwen_extrator import _normaliza_especies, _monta_resultado, _tudo_null
+from src.schemas import CampoExtraido
 
 
 def test_normaliza_especies_none():
@@ -231,3 +232,40 @@ def test_consolida_chunks_escalar_pega_maior_confianca():
     out = _consolida_chunks([r1, r2], "t")
     # pega o de maior confianca
     assert out["estado"].valor == "SP"
+
+
+def test_monta_resultado_llm_cospe_lista_direta():
+    # regressao: antes crashava se o llm cuspia 'especies': ['tucunare', 'pacu']
+    # em vez do envelope {'valor': [...], 'confianca': ...}
+    data = {
+        "estado": {"valor": "RO", "confianca": 0.9, "evidencia": "x"},
+        "especies": ["tucunare", "pacu"],  # lista direto, sem envelope
+    }
+    out = _monta_resultado(data, latencia_ms=100, modelo="t")
+    # especies foi tratada: valor virou lista normalizada
+    assert isinstance(out["especies"].valor, list)
+    assert len(out["especies"].valor) == 2
+    # confianca fica 0 pq o llm nao informou
+    assert out["especies"].confianca == 0.0
+    # estado normal continua funcionando
+    assert out["estado"].valor == "RO"
+    assert out["estado"].confianca == 0.9
+
+
+def test_monta_resultado_llm_cospe_string_direta():
+    # variante do bug: llm cospe string solta em vez de envelope
+    data = {
+        "municipio": "porto velho",  # string direto
+    }
+    out = _monta_resultado(data, latencia_ms=100, modelo="t")
+    assert out["municipio"].valor == "porto velho"
+    assert out["municipio"].confianca == 0.0
+
+
+def test_monta_resultado_tipo_bizarro_vira_null():
+    # se vier algum tipo totalmente fora (int, bool), trata como null sem crashar
+    data = {
+        "estado": 42,  # int aleatorio
+    }
+    out = _monta_resultado(data, latencia_ms=100, modelo="t")
+    assert out["estado"].valor is None
