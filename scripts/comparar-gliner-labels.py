@@ -45,6 +45,19 @@ def _roda_robusto(transcrs, labels: list[str], tag: str, parcial_dir: Path) -> l
     out = []
     for i, t in enumerate(transcrs, 1):
         arquivo_parcial = out_dir / f"{t.stem}.json"
+
+        # se ja tem o json parcial, carrega em vez de reprocessar
+        # permite retomar run interrompido sem perder tempo
+        if arquivo_parcial.exists():
+            try:
+                r = json.loads(arquivo_parcial.read_text(encoding="utf-8"))
+                out.append(r)
+                print(f"    [{i}/{len(transcrs)}] skip (ja tem) {t.stem}")
+                continue
+            except Exception:
+                # json corrompido, reprocessa
+                print(f"    [{i}/{len(transcrs)}] parcial corrompido, refazendo {t.stem}")
+
         try:
             r = roda_com_labels(t, labels)
             # grava na hora pra sobreviver a cancelamento
