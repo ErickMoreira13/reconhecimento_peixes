@@ -72,9 +72,7 @@ harvester-loop:
 	@$(PY) -m src.harvester.loop $(if $(MAX_ITER),--max-iter $(MAX_ITER),) --pausa $(PAUSA)
 
 queries:
-	@$(PY) -c "from src.storage import db; \
-	rows = db.lista_queries(); \
-	[print(f'{r[\"status\"]:10s} buscados={r[\"total_buscados\"]:4d} novos={r[\"total_novos\"]:3d} dedup={r[\"dedup_rate_ultima\"]:.2f} {r[\"texto\"]}') for r in rows]"
+	@$(PY) scripts/mostrar-queries.py
 
 baixar:
 	@$(PY) -m src.main baixar --limit $(N) --workers $(W)
