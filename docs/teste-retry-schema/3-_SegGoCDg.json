@@ -1,0 +1,76 @@
+{
+  "video_id": "3-_SegGoCDg",
+  "latencia_s": 20.42,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19076
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19076
+    },
+    "rio": {
+      "valor": "Riozão",
+      "confianca": 1.0,
+      "evidencia": "tem peixe para caramba, quem não viu, tem vários vídeos pescando aqui e pegando uma tilápia monstruosa",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 19076
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19076
+    },
+    "tipo_ceva": {
+      "valor": "galão",
+      "confianca": 1.0,
+      "evidencia": "furo pequeno para sair o cheiro e furo grande para sair o milho",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 19076
+    },
+    "grao": {
+      "valor": "milho duro azedo",
+      "confianca": 1.0,
+      "evidencia": "o milho duro azedo, não está cozinhado, está azedo",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 19076
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "tilápia",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19076
+    },
+    "observacoes": {
+      "valor": "A ceva deve ser feita com milho duro azedo e colocada na água para que o peixe comece a encostar.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19076
+    }
+  }
+}

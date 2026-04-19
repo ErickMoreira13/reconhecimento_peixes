@@ -1,0 +1,76 @@
+{
+  "video_id": "8QAuO2lt2ro",
+  "latencia_s": 17.86,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16546
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16546
+    },
+    "rio": {
+      "valor": "Rio Sao Francisco",
+      "confianca": 1.0,
+      "evidencia": "Olha o riozão aí, top demais, hein?",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 16546
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16546
+    },
+    "tipo_ceva": {
+      "valor": "ceva_de_chao",
+      "confianca": 1.0,
+      "evidencia": "Fiz uma ceva top com milho azedo curtido, tá?",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16546
+    },
+    "grao": {
+      "valor": "soja",
+      "confianca": 1.0,
+      "evidencia": "Milho azedo, tá?",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16546
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "tilápia",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16546
+    },
+    "observacoes": {
+      "valor": "Pescaria foi top hoje. Foi umas quatro, cinco. Uma atrás da outra aí, ó.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16546
+    }
+  }
+}

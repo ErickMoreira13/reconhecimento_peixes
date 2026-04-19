@@ -1,0 +1,81 @@
+{
+  "video_id": "A-Vvt3krj14",
+  "latencia_s": 22.86,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21548
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21548
+    },
+    "rio": {
+      "valor": "Lago da Balbina",
+      "confianca": 1.0,
+      "evidencia": "Vamos ver agora se aqui no Lago da Balbina tem peixe.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 21548
+    },
+    "bacia": {
+      "valor": "Lago da Balbina",
+      "confianca": 1.0,
+      "evidencia": "A isca que eu estou usando aqui, ó. É um piabão, deixa eu mostrar bem direitinho pra vocês verem.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 21548
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "Eu vou colocar um anzol muito grande, aí vai vir um pequeno.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21548
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21548
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "piabão",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "piranha preta",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21548
+    },
+    "observacoes": {
+      "valor": "A pescaria vai ficar boa agora. Eu vou arriscar tirar com a mão.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21548
+    }
+  }
+}

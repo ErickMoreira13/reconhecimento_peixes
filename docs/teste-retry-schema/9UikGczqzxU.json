@@ -1,0 +1,81 @@
+{
+  "video_id": "9UikGczqzxU",
+  "latencia_s": 18.21,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16862
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 16862
+    },
+    "rio": {
+      "valor": "Rio Sao Francisco",
+      "confianca": 1.0,
+      "evidencia": "velho chico",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 16862
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16862
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "joguei uma canequinha só de milho azedo",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16862
+    },
+    "grao": {
+      "valor": "milho",
+      "confianca": 1.0,
+      "evidencia": "fiz a trouxa de milho duro lá",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16862
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "lambarizão",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "tilápia",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 16862
+    },
+    "observacoes": {
+      "valor": "Foi só um teste para ver como que estava a ceva depois de três dias de ter colocado ela. Vamos esperar daqui uns dois dias.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16862
+    }
+  }
+}

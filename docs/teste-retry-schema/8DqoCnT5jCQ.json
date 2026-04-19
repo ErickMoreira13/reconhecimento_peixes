@@ -1,0 +1,81 @@
+{
+  "video_id": "8DqoCnT5jCQ",
+  "latencia_s": 18.72,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17380
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17380
+    },
+    "rio": {
+      "valor": "Rio Sao Francisco",
+      "confianca": 1.0,
+      "evidencia": "velho chico",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 17380
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17380
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "bola de massa",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17380
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17380
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "Piranha caju",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Tucunaré",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 17380
+    },
+    "observacoes": {
+      "valor": "Fizemos uma pescaria no Rio Sao Francisco e pegamos muitos peixes, incluindo Piranha caju e Tucunaré. Almoçamos com a banana assada e o peixe frito.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17380
+    }
+  }
+}

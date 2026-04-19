@@ -1,0 +1,10 @@
+{
+  "n": 10,
+  "elapsed_s": 141.4,
+  "stats_retry": {
+    "videos_com_retry": 0,
+    "retries_ok": 0,
+    "retries_falhos": 0
+  },
+  "modelo": "llama3.1:8b"
+}

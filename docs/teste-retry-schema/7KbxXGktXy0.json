@@ -1,0 +1,76 @@
+{
+  "video_id": "7KbxXGktXy0",
+  "latencia_s": 14.7,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 14404
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 14404
+    },
+    "rio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 14404
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 14404
+    },
+    "tipo_ceva": {
+      "valor": "garrafa_pet_perfurada",
+      "confianca": 1.0,
+      "evidencia": "pega uma garrafa e amarra e joga na água pra sinalizar onde tá a ceva",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 14404
+    },
+    "grao": {
+      "valor": "milho",
+      "confianca": 1.0,
+      "evidencia": "ração de coelho, milho e quirera",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 14404
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "peixe grande",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 14404
+    },
+    "observacoes": {
+      "valor": "Pega muito peixe grande, fácil de fazer.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 14404
+    }
+  }
+}
