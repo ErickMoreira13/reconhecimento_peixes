@@ -19,8 +19,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from src import config
 from src import ui_banners
 from src.extracao import gliner_client
-from src.extracao.qwen_extrator import extrai_todos_campos
-from src.extracao.prompts import monta_prompt_extrator
+from src.extracao import qwen_extrator
 
 
 LABELS_2 = ["peixe", "bacia hidrografica"]
@@ -34,27 +33,35 @@ def lista_transcricoes(limit: int) -> list[Path]:
 
 
 def roda_com_labels(transcr_path: Path, labels: list[str]) -> dict:
-    # le transcricao, roda gliner com labels escolhidas, roda extrator, retorna
-    # dict com {campos, latencia_total_ms, latencia_gliner_ms, latencia_llm_ms}
+    # le transcricao, roda extracao completa (gliner + llm) com labels escolhidas
+    # nao tem como passar labels diferentes sem mexer no extrai_campos, entao
+    # faz monkeypatch do LABELS_PADRAO temporario — feio mas funciona pro teste
     data = json.loads(transcr_path.read_text(encoding="utf-8"))
     texto = data.get("texto", "")
 
-    t0 = time.time()
-    spans = gliner_client.extrai_por_label(texto, labels=labels)
-    t_gliner = time.time() - t0
+    # backup do estado global
+    labels_antes = list(gliner_client.LABELS_PADRAO)
+    modelo_cache = gliner_client._modelo
+    try:
+        gliner_client.LABELS_PADRAO = list(labels)
+        # limpa cache do modelo so se as labels mudaram significativamente
+        # (gliner reusa o mesmo modelo, labels sao passadas em cada predict)
 
-    t1 = time.time()
-    # o prompt sempre pede 8 campos, gliner so injeta hints diferentes
-    prompt = monta_prompt_extrator(texto, spans)
-    campos = extrai_todos_campos(texto, spans)
-    t_llm = time.time() - t1
+        t0 = time.time()
+        campos = qwen_extrator.extrai_campos(texto)
+        elapsed = time.time() - t0
+    finally:
+        gliner_client.LABELS_PADRAO = labels_antes
+        gliner_client._modelo = modelo_cache
 
+    # nao da pra separar latencia gliner vs llm sem instrumentar o extrai_campos
+    # entao por enquanto so o total. se precisar desagregar, adicionar hooks depois
     return {
         "video_id": transcr_path.stem,
         "campos": campos,
-        "latencia_total_ms": int((t_gliner + t_llm) * 1000),
-        "latencia_gliner_ms": int(t_gliner * 1000),
-        "latencia_llm_ms": int(t_llm * 1000),
+        "latencia_total_ms": int(elapsed * 1000),
+        "latencia_gliner_ms": 0,
+        "latencia_llm_ms": int(elapsed * 1000),
     }
 
 
