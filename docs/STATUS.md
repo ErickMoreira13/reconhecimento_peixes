@@ -34,32 +34,38 @@ rejeitou resumos genericos sem entidade ancorada). net positivo.
 
 ## o que falta fazer
 
-1. **escalar pra 500+ videos** com a config validada:
+1. **escalar pra 500+ videos** com harvester infinito (issue #11, ja implementado):
    ```bash
-   make buscar Q="pesca com ceva" "pescaria tucunare" "pesca rio" N=100
+   make harvester-loop        # roda em loop, para quando tudo saturar
+   make queries               # acompanha status das queries
    make baixar N=500 W=8
    make transcrever N=500
    make extrair N=500
    make verificar N=500
    make exportar
    ```
-   tempo esperado: ~15h (pode rodar a noite)
+   harvester loop rotaciona automaticamente entre ~30 queries em `data/queries.yaml`,
+   detectando saturacao por dedup (>= 0.8) e por taxa de rejeicao (> 0.7).
 
-2. **fine-tune do gliner local** (opcional, melhoraria especies/bacia):
-   - dataset de 7011 exemplos ja existe (do projeto antigo)
-   - ~3-5h treino em rtx 4060
-   - substituiria o gliner zero-shot que a gente usa hoje
+2. **testar gliner 2 -> 4 labels** (issue #10, ja implementado):
+   ```bash
+   .venv/bin/python scripts/comparar-gliner-labels.py --limit 20
+   ```
+   roda extrator com 2 labels vs 4 labels (+rio +municipio), compara cobertura e
+   latencia. se 4 labels ganhar (criterio: lat -20% ou cob +5pp), mantem. senao,
+   reverte a mudanca em gliner_client.LABELS_PADRAO.
 
-3. **testar chatbode7b** como extrator (pt-br nativo):
-   - ja baixado na maquina
-   - rodar `make benchmark MODELOS="llama3.1:8b chatbode7b" N=30`
-   - ver se ganha em pt-br especificamente
+3. **fine-tune do gliner local** (issue #9, adiado):
+   - precisa ~20k exemplos validados antes, hoje so tem 7k do v1
+   - reabrir quando dataset validado pelo pipeline atual chegar la
 
 ## comandos pra retomar
 
 - `make status` - ver etapa atual
 - `make dashboard` - http://localhost:8000
-- `make tests` - 138 testes
+- `make tests` - 194 testes (~9s)
+- `make harvester-loop` - loop perpetuo de coleta
+- `make queries` - status das queries do loop
 - `make comparar A=qwen2.5_7b B=_default_` - diff entre resultados
 - `make analise` - detalhe do ultimo benchmark
 
