@@ -132,3 +132,59 @@ def test_regra_nao_rejeita_por_fora_do_gazetteer():
     assert v.aceito
     # e a razao NAO deve ser valor_fora_gazetteer
     assert v.tipo_rejeicao != "valor_fora_gazetteer"
+
+
+def test_ceva_keywords_aceita_com_ceva_no_texto():
+    # fix 1: tipo_ceva so eh valido se texto mencionar ceva/seva/ceba/cevar
+    c = CampoExtraido(
+        valor="bola_de_massa",
+        confianca=0.8,
+        evidencia="fiz uma ceva",
+        modelo_usado="qwen",
+    )
+    transc = "fala galera, fiz uma ceva top com milho pra pegar tilapia"
+    v = regras.aplica_regras("tipo_ceva", c, transc, {})
+    assert v.aceito
+
+
+def test_ceva_keywords_rejeita_sem_ceva_no_texto():
+    # video sem mencao explicita a ceva nao pode ter tipo_ceva preenchido
+    c = CampoExtraido(
+        valor="ceva_solta_na_agua",
+        confianca=0.8,
+        evidencia="",
+        modelo_usado="qwen",
+    )
+    # texto nao menciona ceva, so pesca com isca viva
+    transc = "peguei um tucunare com isca de lambari e linha fininha"
+    v = regras.aplica_regras("tipo_ceva", c, transc, {})
+    assert not v.aceito
+    assert v.tipo_rejeicao == "evidencia_nao_alinha"
+
+
+def test_ceva_keywords_aceita_variacoes_coloquiais():
+    # ceba, seva sao grafias coloquiais frequentes nas transcricoes do whisper
+    for keyword in ["ceva", "seva", "ceba", "cevar", "cevando", "cevador"]:
+        c = CampoExtraido(
+            valor="bola_de_massa",
+            confianca=0.8,
+            evidencia=keyword,
+            modelo_usado="qwen",
+        )
+        transc = f"fala galera, hoje a gente vai {keyword} com milho"
+        v = regras.aplica_regras("tipo_ceva", c, transc, {})
+        assert v.aceito, f"falhou pra keyword {keyword}"
+
+
+def test_ceva_keywords_nao_afeta_outros_campos():
+    # regra de ceva so roda pra tipo_ceva, outros campos nao tem a restricao
+    c = CampoExtraido(
+        valor="tucunare",
+        confianca=0.8,
+        evidencia="um tucunare",
+        modelo_usado="qwen",
+    )
+    transc = "peguei um tucunare bonito"  # sem palavra "ceva"
+    v = regras.aplica_regras("especies", c, transc, {})
+    # aceita mesmo sem ceva no texto pq especies nao precisa
+    assert v.aceito or v.tipo_rejeicao != "evidencia_nao_alinha"
