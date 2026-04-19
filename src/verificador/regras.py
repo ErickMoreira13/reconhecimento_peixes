@@ -42,6 +42,11 @@ NOMES_PROPRIOS_COMUNS = {
     "daniel", "jorge", "marcelo", "eduardo", "adriano", "edson",
 }
 
+# palavras-chave que DEVEM aparecer na transcricao pra tipo_ceva ser valido
+# (fix 1 do sumario-manual: 50% dos videos tinham ceva errada por default)
+# ceba eh grafia coloquial de ceva, whisper as vezes transcreve assim
+CEVA_KEYWORDS = {"ceva", "seva", "ceba", "cevar", "cevando", "cevador", "cevamos"}
+
 
 _estados_cache: set[str] | None = None
 
@@ -130,6 +135,19 @@ def _passa_cross_field(nome_campo: str, campo: CampoExtraido, outros: dict[str, 
     return True, None
 
 
+def _passa_ceva_keywords(nome_campo: str, campo: CampoExtraido, transcricao: str) -> tuple[bool, TipoRejeicao | None]:
+    # tipo_ceva so eh valido se o texto mencionar ceva/seva/ceba/cevar/cevador
+    # pescaria com so isca viva/artificial nao tem ceva, extrator chuta essa
+    # campo e enche com "ceva_solta_na_agua" default
+    if nome_campo != "tipo_ceva" or campo.valor is None:
+        return True, None
+    texto_norm = transcricao.lower()
+    for kw in CEVA_KEYWORDS:
+        if kw in texto_norm:
+            return True, None
+    return False, "evidencia_nao_alinha"
+
+
 def _passa_length_obs(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
     if nome_campo != "observacoes" or campo.valor is None:
         return True, None
@@ -161,6 +179,7 @@ def aplica_regras(
         lambda nc, c, t, o: _passa_enum_estado(c) if nc == "estado" else (True, None),
         _passa_cross_field,
         _passa_length_obs,
+        lambda nc, c, t, o: _passa_ceva_keywords(nc, c, t),
     ]
 
     for regra in ordem:
