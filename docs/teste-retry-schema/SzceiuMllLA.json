@@ -1,0 +1,96 @@
+{
+  "video_id": "SzceiuMllLA",
+  "latencia_s": 28.99,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 22796
+    },
+    "municipio": {
+      "valor": "Fernandópolis",
+      "confianca": 1.0,
+      "evidencia": "Eu estou na cidade de Fernandópolis, São Paulo",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 22796
+    },
+    "rio": {
+      "valor": "Rio Grande",
+      "confianca": 1.0,
+      "evidencia": "Pescar no Rio Grande, tá?",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 22796
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 22796
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "Pegar um camarão aqui E já parti pra pescaria Saímos do estado de São Paulo E já estamos em outro estado Estado de Minas Gerais Rio Grande",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 22796
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 22796
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "Tucunaré",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Porquinho",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Zoiudo",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Bicudo",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Jacundá",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 22796
+    },
+    "observacoes": {
+      "valor": "Pescaria que não tem CD Não é pescaria, né Pegou ainda por fora ainda do corpo Vai simbora, garoto Vai ser outro porco Ah, bico Zoiudo agora, ó O tamanho do Zoiudo Uns fala Zoiudo Uns fala Bicudo É da mesma Da mesma família que o Que o porquinho É o Verdão",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 22796
+    }
+  }
+}

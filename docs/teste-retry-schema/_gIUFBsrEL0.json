@@ -1,0 +1,81 @@
+{
+  "video_id": "_gIUFBsrEL0",
+  "latencia_s": 18.27,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16957
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16957
+    },
+    "rio": {
+      "valor": "Rio Sao Francisco",
+      "confianca": 1.0,
+      "evidencia": "velho chico",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 16957
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16957
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "isca",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16957
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16957
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "matrinchã",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "piranha",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16957
+    },
+    "observacoes": {
+      "valor": "Pescaria incrível pra mim. Tô muito satisfeita.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 16957
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "video_id": "VZ_n0XWOP54",
+  "latencia_s": 53.23,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33226
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33226
+    },
+    "rio": {
+      "valor": "Rio Sao Francisco",
+      "confianca": 1.0,
+      "evidencia": "Normalizar \"velho chico\" -> \"Rio Sao Francisco\"",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 33226
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33226
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "Puxar para ver o que vem.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33226
+    },
+    "grao": {
+      "valor": "arroz",
+      "confianca": 1.0,
+      "evidencia": "Vamos fazer uma galinha com arroz né.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33226
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "cimprão",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "mandi",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 33226
+    },
+    "observacoes": {
+      "valor": "Pescaria produtiva, tempo bom e peixes grandes.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33226
+    }
+  }
+}

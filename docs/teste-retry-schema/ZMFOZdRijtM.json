@@ -1,0 +1,70 @@
+{
+  "video_id": "ZMFOZdRijtM",
+  "latencia_s": 0.0,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "texto_insuficiente",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 0
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "texto_insuficiente",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 0
+    },
+    "rio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "texto_insuficiente",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 0
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "texto_insuficiente",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 0
+    },
+    "tipo_ceva": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "texto_insuficiente",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 0
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "texto_insuficiente",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 0
+    },
+    "especies": {
+      "valor": [],
+      "confianca": 0.0,
+      "evidencia": "texto_insuficiente",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 0
+    },
+    "observacoes": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "texto_insuficiente",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 0
+    }
+  }
+}

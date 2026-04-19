@@ -1,0 +1,86 @@
+{
+  "video_id": "T1xHA1ONgYw",
+  "latencia_s": 35.55,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33074
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33074
+    },
+    "rio": {
+      "valor": "Rio Araguaia",
+      "confianca": 1.0,
+      "evidencia": "\"Rio Araguaia\"",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 33074
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33074
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "\"ceva solta na água\"",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33074
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33074
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "piranha",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "mandi",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "mandubé",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33074
+    },
+    "observacoes": {
+      "valor": "Pescaria no Rio Araguaia, pegando piranhas e mandis. O grupo está usando varas de bambu e cevas soltas na água para pescar. | Pescaria foi muito boa, pegamos muitos piranhas e alguns peixes de couro. O rio estava descendo rápido o que dificultou a pesca.",
+      "confianca": 0.5,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33074
+    }
+  }
+}

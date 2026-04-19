@@ -1,0 +1,76 @@
+{
+  "video_id": "VZkXv5_BFKk",
+  "latencia_s": 21.24,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19918
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 19918
+    },
+    "rio": {
+      "valor": "Igapó",
+      "confianca": 1.0,
+      "evidencia": "Agora nesse momento aqui já estou preparado, já são seis e quarenta da manhã, olha como é que está o tempo aqui, aí eu já estou preparado aqui para fazer...",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 19918
+    },
+    "bacia": {
+      "valor": "Lago do Anzol",
+      "confianca": 1.0,
+      "evidencia": "Vou passar lá pelo Lago do Anzol, por aí tudo, vou botar uns espinhel e ver o que eu pego...",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 19918
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "Vou botar um espinhão aqui, desse galho lá para aquele outro lá...",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19918
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19918
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "peixe bonito",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 19918
+    },
+    "observacoes": {
+      "valor": "Foi uma pescaria maravilhosa, valeu a pena.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 19918
+    }
+  }
+}

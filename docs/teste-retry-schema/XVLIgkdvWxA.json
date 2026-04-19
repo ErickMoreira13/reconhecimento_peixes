@@ -1,0 +1,81 @@
+{
+  "video_id": "XVLIgkdvWxA",
+  "latencia_s": 21.33,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20031
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20031
+    },
+    "rio": {
+      "valor": "Rio Negro",
+      "confianca": 1.0,
+      "evidencia": "salve rapaziada, tranquilo? tô passando aqui no final do vídeo pra dar dois recados pra vocês...",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 20031
+    },
+    "bacia": {
+      "valor": "Amazônia",
+      "confianca": 1.0,
+      "evidencia": "na Amazônia, que coisa boa, o calor que fez hoje, tinha que chover mesmo nossa pegou...",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 20031
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "tem muito anzol aí coisa linda já tá pronto já pode botar na régua 72 72 lindo lindo...",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20031
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20031
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "paca",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Tupunaré",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 20031
+    },
+    "observacoes": {
+      "valor": "pegou, meu deus que que é isso, nossa senhora, cara que ele pegou aqui, no meio e é um açu cara, muito louco, que peixe louco...",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20031
+    }
+  }
+}

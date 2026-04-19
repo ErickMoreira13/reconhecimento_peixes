@@ -1,0 +1,86 @@
+{
+  "video_id": "YcCP4cvTS3I",
+  "latencia_s": 85.06,
+  "campos": {
+    "estado": {
+      "valor": "PA",
+      "confianca": 1.0,
+      "evidencia": "Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 83663
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 83663
+    },
+    "rio": {
+      "valor": "Rio Bonito",
+      "confianca": 1.0,
+      "evidencia": "Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 83663
+    },
+    "bacia": {
+      "valor": "Rio Bonito",
+      "confianca": 1.0,
+      "evidencia": "Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 83663
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "Aí vou pegar aqui bastante milho e vou fazer o seguinte aqui é um poço, e aí eu vou colocar assim devagar para não fazer muita zoada na água.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 83663
+    },
+    "grao": {
+      "valor": "milho",
+      "confianca": 1.0,
+      "evidencia": "Aí eu vou jogar um pouco dessa água azeda aqui na água para começar o chama dos peixes. Aí vou pegar aqui bastante milho e vou fazer o seguinte aqui é um poço, e aí eu vou colocar assim devagar para não fazer muita zoada na água.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 83663
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "piau flamengo",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "pacu",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "chimboré",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "saiu um cacharinho aqui vem aqui ó tá aqui o bicho olha ó bem ativo esse aqui pessoal não vou ficar com ele tá esse aqui eu vou soltar ele é muito pequenininho vai lá tchau obrigado vai lá ele quer vencer olha como ele não é bobo olha como ele não é bobo foi se proteger embaixo da balsa aqui embaixo do flutuante é escurinho ele foi se proteger lá embaixo que ele não é besta que ele vai bem cansado para o meio do rio para as piranhas e dá um grau nele bora ver se nós pega o maior bora limpar peixe a pauta ainda está pesada está pesando vai levar assim pessoal botei aqui meus peixes do passaguá e vamos limpar peixe.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 83663
+    },
+    "observacoes": {
+      "valor": "Fizemos uma pescaria completa na ceva, pegamos vários peixes incluindo piau flamengo, pacu e chimboré. Os peixes estavam comendo muito milho e os patos também.",
+      "confianca": 1.0,
+      "evidencia": "pessoal botei aqui meus peixes do passaguá e vamos limpar peixe pessoal antes de de começar a tirar o peixe vou dar uma limpadinha aqui está cheio de areia olha aí deixa eu mostrar agora quais foram os peixes pegos na nossa pescaria de hoje um pacu mais pacu olha o tamanho desse piau um piau até bonito e também mais piau só que esse aqui é o cabeça gorda um piau flamengo mais um flamengo mais um chimboré o pessoal chama de piau vara também e um cabeça gorda e mais um pacu e mais pacu e mais pacu e mais pacu vamos começar a limpar nossa os peixes ficaram cheios de areia quando eu descansei eu passei água ali e aí ficaram cheios de areia eita olha eu achei que tinha acabado a areia o tanto de areia que tem aqui desse lado e vamos começar o serviço aqui o serviço é grande e mal bastou eu chegar aqui para começar a limpar os peixes olha quem está aqui eles estão só esperando o momento gente esses peixes comem muito milho e esses patos também e eles não saem lá de cima do flutuante comendo milho esses pestinhas e esses filhotes que escaparam do gavião que comem os patinhos daqui e os pintinhos já estão tudo adultos né estão bem grandes já aquele aquele grandão lá pessoal a gente está pensando em fazer um pato no tucupi com ele aquele ali aquele preto lá de trás esse que balançou o rabo é tu mesmo tá vendo como os bichos daqui de casa os bichos daqui de casa são tudo inteligentes olha quer ver a alegria deles olha o que eles estão esperando olha sabe por que que eles ficam assim porque normalmente a barriga do peixe está cheia de milho e aí eles ficam desesperados querendo comer ai meu Deus do céu os bichos gente um conselho que eu dou para vocês aí em casa se vocês tem ceva mexe com ceva eles não criam pato não pelo amor de Deus que o pato bagunça demais a ceva as vezes você está tratando o peixe e ele está lá perturbando e outra coisa minha gata está chegando aí no setor mas não é atrás de peixe não é porque ela é carente ela não vive sem mim chama princesa deve estar com saudade de você saudade não essa daí é um grude só que nem como é o nome desse pacu aí esse aqui é o pacu peva pacu peva ela não sai do pé viu vou te contar nem peixe tu não gosta acho que ela quer ajudar você a pescar peixe acho bom você eu acho bom você comprar uma vara adequada para ela pescar eu sabe o que ela está atrás sim ela está querendo que eu vou lá botar a ração para ela você acha que não quer ver bora ver se ela vai comer bora ver se ela come ela lambe você comeu porém não vai comer mais porque senão mais tarde você vai vomitar em cima da minha cama não senhora é mas esses patinhos aí esse bicho então é crescente tanto comer comer milho e peixe milho e peixe coisa de peixe trabalhares não querem não esse aí você prefere usar o garfo prefiro prefiro amor porque eu boto o garfo aqui na contramão ele vai saindo bem direitinho olha só um luxo arrumar um garfo para a charla te ajudar também aí olha ela quer te ajudar charla a charla eu sou eu sou empregada dela charla vai ajudar tua mãe charla mas tá tu quer ração tem que ajudar essa daí você pode passar sal isso aí é igual aqueles meninos que o pai e a mãe acostumam eles dando tudo do bom e do melhor acostumado o menino nunca ouvi não aí quando o menino cresce eu vou te dar eu vou te dar você eu vou te dar",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 83663
+    }
+  }
+}
