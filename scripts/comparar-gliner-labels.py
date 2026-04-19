@@ -32,13 +32,27 @@ def lista_transcricoes(limit: int) -> list[Path]:
     return todas[:limit]
 
 
-def _roda_robusto(transcrs, labels: list[str]) -> list[dict]:
+def _roda_robusto(transcrs, labels: list[str], tag: str, parcial_dir: Path) -> list[dict]:
     # envelope de roda_com_labels que pula videos com erro em vez de matar tudo
     # 1 video quebrado nao pode inviabilizar a comparacao em 50 videos
+    #
+    # save incremental: cada video processado grava um json em parcial_dir/tag/
+    # assim se cancelar no meio nao perde tudo, e pode retomar pulando os ja
+    # processados
+    out_dir = parcial_dir / tag
+    out_dir.mkdir(parents=True, exist_ok=True)
+
     out = []
     for i, t in enumerate(transcrs, 1):
+        arquivo_parcial = out_dir / f"{t.stem}.json"
         try:
-            out.append(roda_com_labels(t, labels))
+            r = roda_com_labels(t, labels)
+            # grava na hora pra sobreviver a cancelamento
+            arquivo_parcial.write_text(
+                json.dumps(r, ensure_ascii=False, indent=2, default=str),
+                encoding="utf-8",
+            )
+            out.append(r)
             print(f"    [{i}/{len(transcrs)}] ok {t.stem}")
         except Exception as e:
             print(f"    [{i}/{len(transcrs)}] FALHOU {t.stem}: {type(e).__name__}: {e}")
@@ -133,10 +147,11 @@ def main():
         return
 
     print(f"rodando em {len(transcrs)} transcricoes\n")
+    parcial = args.out / "parciais"
     print("   ><(((o>  rodada 1: 2 labels (peixe, bacia)")
-    r2 = _roda_robusto(transcrs, LABELS_2)
+    r2 = _roda_robusto(transcrs, LABELS_2, "2labels", parcial)
     print("\n   ><((((((((o>  rodada 2: 4 labels (+rio +municipio)")
-    r4 = _roda_robusto(transcrs, LABELS_4)
+    r4 = _roda_robusto(transcrs, LABELS_4, "4labels", parcial)
 
     s2 = resume(r2, "2-labels")
     s4 = resume(r4, "4-labels")
