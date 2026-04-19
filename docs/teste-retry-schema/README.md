@@ -67,7 +67,21 @@ o extrator tem 3 camadas de defesa:
 3. **budget estrito**: max 1 retry por video. se retry falhar, fica com
    parse corrigido — zero risco de loop
 
-## historico
+## historico de execucoes
 
-- smoke 1 (videos 1-10): zero retries, llama3.1:8b respeitou schema
-- smoke 2 (videos 11-20): rodando...
+| batch | videos | elapsed (s) | s/video | retries | retries_ok | retries_falhos |
+|-------|--------|-------------|---------|---------|------------|----------------|
+| smoke 1 (1-10) | 10 | 141.4 | 14.1 | 0 | 0 | 0 |
+| smoke 2 (11-20) | 10 | 209.2 | 20.9 | 0 | 0 | 0 |
+| smoke 3 (21-30) | 10 | — | — | — | — | — |
+
+conclusao parcial: com llama3.1:8b + prompt atual, a incidencia de
+schema errado eh **zero** em producao normal. o retry fica como rede
+de seguranca. o caso que motivou o fix original era especifico do
+qwen2.5:7b rodando com monkey-patch de labels (via
+`scripts/comparar-gliner-labels.py`), nao acontece na rotina.
+
+isso sugere que o parse robusto (camada 1) eh suficiente pra 99%+
+dos casos. a camada 2 (retry) eh justificada como defesa pra modelos
+menores ou menos capazes — ficar com ela eh barato (zero custo quando
+nao dispara) e cobre backdoor de mudancas de modelo no futuro.
