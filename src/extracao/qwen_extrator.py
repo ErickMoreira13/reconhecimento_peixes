@@ -5,7 +5,7 @@ import ollama
 
 from src import config
 from src.schemas import CampoExtraido
-from src.extracao.prompts import monta_prompt_extrator
+from src.extracao.prompts import monta_prompt_extrator, monta_prompt_retry_schema
 from src.extracao import gliner_client
 from src.extracao.utils import parse_json_safe as _parse_json_safe
 from src.extracao.gazetteer_check import aplica_flag_fora_do_gazetteer
@@ -95,7 +95,24 @@ def _extrai_chunk_unico(
         print(f"{modelo} nao gerou json valido, resposta: {raw[:300]}")
         return _tudo_null(lat_ms, modelo, motivo="llm_json_invalido")
 
-    campos, _corrigidos = _monta_resultado(data, lat_ms, modelo)
+    campos, corrigidos = _monta_resultado(data, lat_ms, modelo)
+
+    # retry com feedback se algum campo veio com schema errado.
+    # budget ESTRITO de 1 retry (nao vira loop nem se a LLM insistir no erro).
+    # se o retry tbm vier errado, usa o parse corrigido do primeiro try.
+    if corrigidos:
+        prompt_retry = monta_prompt_retry_schema(transcricao, spans, corrigidos)
+        raw2, lat_retry = _chama_ollama(prompt_retry, modelo, temperature=0.0)
+        lat_ms += lat_retry
+        data2 = _parse_json_safe(raw2)
+        if data2 is not None:
+            campos2, corrigidos2 = _monta_resultado(data2, lat_ms, modelo)
+            if not corrigidos2:
+                # retry deu bom, usa ele
+                campos = campos2
+            # se o retry ainda veio com erro, fica com o primeiro parse
+            # (ja corrigido automaticamente, confianca zerada nos campos ruins)
+
     # pos-processa: marca fora_do_gazetteer quando o valor nao bate com dict
     # (o llm nao eh confiavel pra essa flag, usa check deterministico)
     return aplica_flag_fora_do_gazetteer(campos)
