@@ -9,8 +9,12 @@
 import argparse
 import csv
 import json
+import sys
 import time
 from pathlib import Path
+
+# ajeita path pro script achar src/ quando rodado direto do terminal
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src import config
 from src import ui_banners
