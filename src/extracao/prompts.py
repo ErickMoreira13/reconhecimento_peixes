@@ -113,3 +113,29 @@ TEXTO:
 \"\"\"
 """
     return prompt
+
+
+def monta_prompt_retry_schema(
+    transcricao: str,
+    spans_gliner: dict[str, list[dict]],
+    campos_errados: list[str],
+) -> str:
+    # retry focado quando o llm cuspiu campo com schema ruim (list/str direto
+    # em vez de envelope {valor, confianca, evidencia, fora_do_gazetteer}).
+    #
+    # reusa o prompt principal e prefixa um recado curto dizendo o que deu
+    # errado e como corrigir. tentei manter sucinto — prompt muito grande
+    # nao ajuda, ja dobrou o prefill
+    base = monta_prompt_extrator(transcricao, spans_gliner)
+    lista = ", ".join(campos_errados)
+    aviso = f"""ATENCAO: tentativa anterior veio com schema errado nos campos: {lista}.
+Cada um desses campos DEVE ser um objeto com as chaves valor, confianca e evidencia.
+NAO retorne o campo direto como lista ou string — embrulhe no objeto.
+
+exemplo errado:  "especies": ["tucunare"]
+exemplo certo:   "especies": {{"valor": [{{"nome": "tucunare", "evidencia": "..."}}], "confianca": 0.9}}
+
+Agora gere o JSON correto:
+
+"""
+    return aviso + base
