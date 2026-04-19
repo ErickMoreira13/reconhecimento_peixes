@@ -1,0 +1,47 @@
+# lista inicial de queries pro harvester_loop
+# ideia: variar ceva, grao, peixe-alvo, regiao, contexto (rio/represa/lagoa)
+# pra cobrir todo tipo de video. se uma query saturar rapido, adiciona variantes.
+#
+# cada entrada aqui vira uma linha na tabela queries do sqlite na primeira rodada
+
+queries:
+  # ceva + grao (genericas)
+  - pesca com ceva
+  - pesca com ceva de milho
+  - pesca com ceva de trigo
+  - pesca com ceva de soja
+  - pesca ceva pet perfurada
+  - pesca ceva de chao
+  - pesca bola de massa
+
+  # especies alvo mais comuns
+  - pescaria tucunare
+  - pescaria pacu
+  - pescaria tambaqui
+  - pescaria dourado
+  - pescaria pirarucu
+  - pescaria traira
+  - pescaria tilapia com ceva
+  - pescaria pintado
+  - pescaria curimba
+
+  # regiao / bacia
+  - pescaria rio madeira
+  - pescaria rio amazonas
+  - pescaria rio sao francisco
+  - pescaria rio tocantins
+  - pescaria rio parana
+  - pescaria pantanal
+  - pescaria amazonia
+
+  # contexto de agua
+  - pescaria em represa com ceva
+  - pescaria em lagoa
+  - pesca em rio grande
+
+  # coloquial / regional
+  - pescaria no nortao
+  - pesca com mistura
+  - ceva caseira pescaria
+  - como fazer ceva pra pescaria
+  - ceva pra peixe redondo
