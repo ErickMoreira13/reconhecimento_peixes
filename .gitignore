@@ -37,6 +37,11 @@ data/mp4_cache/
 data/results/*.json
 data/results/*.csv
 
+# sqlite runtime
+data/videos.db
+data/*.db
+data/*.db-journal
+
 # modelos baixados (whisper/gliner/ollama)
 models/
 *.gguf
