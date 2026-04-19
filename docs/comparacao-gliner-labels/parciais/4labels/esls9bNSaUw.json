@@ -1,0 +1,16 @@
+{
+  "video_id": "esls9bNSaUw",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)",
+    "rio": "CampoExtraido(valor='Rio Turvo', confianca=1.0, evidencia='Estou aqui no Rio Turvo', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16983)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)",
+    "tipo_ceva": "CampoExtraido(valor='varinha telescópica', confianca=1.0, evidencia='Eu estou aqui com a varinha telescópica', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16983)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)",
+    "especies": "CampoExtraido(valor=[{'nome': 'tucunaré', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'lambarizinho', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16983)",
+    "observacoes": "CampoExtraido(valor='Pescaria de tucunaré utilizando varinha telescópica. O pescador acredita que há um cardume de tucunaré na área.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)"
+  },
+  "latencia_total_ms": 23078,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 23078
+}

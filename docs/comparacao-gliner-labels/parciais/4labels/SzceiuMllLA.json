@@ -1,0 +1,16 @@
+{
+  "video_id": "SzceiuMllLA",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+    "municipio": "CampoExtraido(valor='Fernandópolis', confianca=1.0, evidencia='E aí família de pescadores, como é que vocês estão? Espero que vocês estejam bem, sejam bem-vindos a mais um vídeo E hoje eu vou iniciar o vídeo de uma forma diferente Na verdade eu nem estou na minha cidade Eu estou na cidade de Fernandópolis', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+    "rio": "CampoExtraido(valor='Rio Grande', confianca=1.0, evidencia='Pescar no Rio Grande, tá?', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22166)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='Vamos lá pro Rio?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+    "especies": "CampoExtraido(valor=[{'nome': 'Tucunaré', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Porquinho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Zoiudo', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Bicudo', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Jacundá', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22166)",
+    "observacoes": "CampoExtraido(valor='Pescaria que não tem CD. Pegou ainda por fora ainda do corpo.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)"
+  },
+  "latencia_total_ms": 28273,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 28273
+}

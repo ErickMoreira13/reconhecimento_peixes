@@ -1,0 +1,16 @@
+{
+  "video_id": "GV_FY3MM_IA",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=31340)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=31340)",
+    "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='Normalizar \"velho chico\" -> \"Rio Sao Francisco\"', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=31340)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=31340)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='Coloquei aqui o barco apoiado aqui nessa ponta Mas o rio pode mudar aí o nível no decorrer da noite E aí eu vou ali procurar um pau pra fincar aqui Pra poder deixar ele bem amarrado e bem garantido', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=31340)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=31340)",
+    "especies": "CampoExtraido(valor=[{'nome': 'Piau', 'evidencia': 'A isca que eu vou usar É um piau Flamengo Cortar aqui umas rodelas Pra ver como é que vai se sair Opa Ah, esse é bom, hein? Ah, vai levar pro mato É peixe bom Acredito Uhul Meu Deus Que cachara bonito Calma Ah, tá aqui Tirei Não acredito, gente Olha que cachara bonito Hoje vai sair o meu cozido Meu Deus Eu não acredito Ih, quase que não dá tempo De eu filmar pra vocês Eu tava ali ajeitando o acampamento Tive que sair as carreiras Ai, Jesus Olha aqui Que cachara bonito O bicho é barbudo Ai, obrigada, meu Deus', 'fora_do_gazetteer': False}, {'nome': 'Surubim', 'evidencia': 'Peguei um surubim Depois, com certeza Aquele lá que eu perdi Era um surubim grande', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=31340)",
+    "observacoes": "CampoExtraido(valor='Sem observacoes adicionais relevantes.', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=31340)"
+  },
+  "latencia_total_ms": 37412,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 37412
+}

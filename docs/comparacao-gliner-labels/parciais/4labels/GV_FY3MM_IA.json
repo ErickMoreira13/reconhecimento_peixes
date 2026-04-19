@@ -1,0 +1,16 @@
+{
+  "video_id": "GV_FY3MM_IA",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=20681)",
+    "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='Normalizar \"velho chico\" -> \"Rio Sao Francisco\"', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=20681)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='Coloquei aqui o barco apoiado aqui nessa ponta Mas o rio pode mudar aí o nível no decorrer da noite E aí eu vou ali procurar um pau pra fincar aqui Pra poder deixar ele bem amarrado e bem garantido', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+    "especies": "CampoExtraido(valor=[{'nome': 'Piau', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+    "observacoes": "CampoExtraido(valor='Vamos aí tentar pegar um peixe de couro Se Deus quiser vai dar certo E curtam o vídeo, já se inscrevam no canal', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)"
+  },
+  "latencia_total_ms": 26722,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 26722
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "dJt0bE7QLQ0",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=68818)",
+    "municipio": "CampoExtraido(valor='Santarém', confianca=1.0, evidencia='A gente vai lá hoje Só que antes disso nós vamos ter que fazer umas compritias De algumas coisas, corda, vara de bambu Que a gente vai ver se pegam as isquinhas Vai ser tudo de bom Vocês fiquem no vídeo Calma que a nossa aventura só está começando Bora lá Já deixa o like logo É, já deixa o like Já se inscreve no canal Porque esse é só o começo da nossa saga Pescando com o casal WK E curte aí e se inscreve porque vai ser uma sequência de vídeos Nós vamos entrar aqui no Mercadão 2000 Pra ver se a gente consegue encontrar o camarão', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=68818)",
+    "rio": "CampoExtraido(valor='Tapajós', confianca=1.0, evidencia='Estamos atravessando o Tapajós de volta pra Santarém, olha lá, ó Tá se aproximando uma tempestade ali E pela segurança dos nossos amigos Que a gente priva muito também Pela segurança das pessoas As pessoas que a gente ama E que são parceiros da gente Nós resolvemos por bem O rio tá calmo Por enquanto tá mais calmo do que aquela hora que a gente atravessou Ih, bem mais calminho O rio tá de boa pra navegar Mas quando aquela nuvem ali, ó Meia branca Chegar no rumo de cá A coisa vai ficar feia Então resolvemos atravessar pra ir pra casa Antes do problema chegar Segurança em primeiro lugar Não tem peixe que seja melhor Né não, Kessy? É verdade Falou tudo Rapaz, a água tá fria Tá fria Mas tá mais tranquilo Tá mais tranquilo do que aquela hora, não tá?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=68818)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=68818)",
+    "tipo_ceva": "CampoExtraido(valor='vara de bambu', confianca=1.0, evidencia='Pegou uma pacuna, acredito Vou voltar na praia e pesquendo Rapaz, a primeira vez que eu vejo alguém vindo pescar de vara de bambu', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=68818)",
+    "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Com milho, ó lá, mostra a isca, Dedê Milhozinho Milho verde Os seis dois pegaram É o charuto O charuto O meu é? Não, o meu é o charuto Ó Tu viu que o meu era o charuto?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=68818)",
+    "especies": "CampoExtraido(valor=[{'nome': 'pacuna', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'charuto', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=68818)",
+    "observacoes": "CampoExtraido(valor='Pegou uma pacuna, acredito Vou voltar na praia e pesquendo Rapaz, a primeira vez que eu vejo alguém vindo pescar de vara de bambu', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=68818)"
+  },
+  "latencia_total_ms": 76286,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 76286
+}

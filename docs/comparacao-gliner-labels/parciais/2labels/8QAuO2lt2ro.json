@@ -1,0 +1,16 @@
+{
+  "video_id": "8QAuO2lt2ro",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18865)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18865)",
+    "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='Olha o riozão aí, top demais, hein?', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=18865)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18865)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='Na beira do rio lá, fiz uma ceva top com milho azedo curtido, tá?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18865)",
+    "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Fiz a ceva com milho, galera. Milho azedo.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18865)",
+    "especies": "CampoExtraido(valor=[{'nome': 'tilápia', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18865)",
+    "observacoes": "CampoExtraido(valor='Pescaria foi top hoje. Vocês viram aí, hein? Foi umas quatro, cinco. Uma atrás da outra aí, ó.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18865)"
+  },
+  "latencia_total_ms": 24969,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 24969
+}

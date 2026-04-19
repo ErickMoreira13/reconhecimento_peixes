@@ -1,0 +1,16 @@
+{
+  "video_id": "uEVUMnSMcTI",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+    "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+    "tipo_ceva": "CampoExtraido(valor='cano_pvc_perfurado', confianca=1.0, evidencia='Nós temos um balde aqui que está com milho. Esse milho foi preparado de que maneira? Ele foi colocado no milho seco de molho por 24 horas.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+    "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Ele foi colocado no milho seco de molho por 24 horas. Depois de 24 horas de molho, ele foi fervido na água por uma hora.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+    "especies": "CampoExtraido(valor=[{'nome': 'piapara', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'pacu', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+    "observacoes": "CampoExtraido(valor='Aula teórica e prática sobre como fazer uma ceba para pescar piaparas e pacus.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)"
+  },
+  "latencia_total_ms": 24877,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 24877
+}

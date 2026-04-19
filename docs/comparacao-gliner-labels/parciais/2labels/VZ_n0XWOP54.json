@@ -1,0 +1,16 @@
+{
+  "video_id": "VZ_n0XWOP54",
+  "campos": {
+    "estado": "CampoExtraido(valor='São Paulo', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=1412085)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=1412085)",
+    "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=1412085)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=1412085)",
+    "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=1412085)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=1412085)",
+    "especies": "CampoExtraido(valor=[{'nome': 'cimprão', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'mandi', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=1412085)",
+    "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=1412085)"
+  },
+  "latencia_total_ms": 1419713,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 1419713
+}

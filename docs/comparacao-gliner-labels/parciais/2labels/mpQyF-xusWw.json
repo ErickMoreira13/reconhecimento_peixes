@@ -1,0 +1,16 @@
+{
+  "video_id": "mpQyF-xusWw",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14835)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14835)",
+    "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14835)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14835)",
+    "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14835)",
+    "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Milho, né?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14835)",
+    "especies": "CampoExtraido(valor=[{'nome': 'piapara', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14835)",
+    "observacoes": "CampoExtraido(valor='Para não inchar na barriga do peixe.', confianca=1.0, evidencia='E tem um pouquinho de quirela aí com sangue, hein?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14835)"
+  },
+  "latencia_total_ms": 19787,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 19787
+}

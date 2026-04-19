@@ -1,0 +1,16 @@
+{
+  "video_id": "3-_SegGoCDg",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+    "rio": "CampoExtraido(valor='Riozão', confianca=1.0, evidencia='tem peixe para caramba, quem não viu, tem vários vídeos pescando aqui e pegando uma tilápia monstruosa, certo?', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22744)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+    "tipo_ceva": "CampoExtraido(valor='galão', confianca=1.0, evidencia='Vou colocar metade do balde no saco, para ela comer, para mim, porque eu quero ter resultado rápido.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22744)",
+    "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Eu servo com milho e com mandioca. Vou pescar, uso o grãozinho de milho azedo, o mesmo grão de milho azedo, para pescar.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+    "especies": "CampoExtraido(valor=[{'nome': 'tilápia', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+    "observacoes": "CampoExtraido(valor='Agora são 5 horas da tarde. Até o peixe voltar a encostar, depois dessa capivara está aqui, segunda vez que eu grudo ela, hein? Segunda vez.', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)"
+  },
+  "latencia_total_ms": 28915,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 28915
+}

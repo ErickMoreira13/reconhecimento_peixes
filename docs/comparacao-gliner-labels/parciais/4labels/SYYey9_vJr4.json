@@ -1,0 +1,16 @@
+{
+  "video_id": "SYYey9_vJr4",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=15327)",
+    "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='solta no rio', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+    "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+    "observacoes": "CampoExtraido(valor='Pra você que é pescador de ceva e acha que quanto mais ceva você solta no rio, mais peixe você vai atrair até o barco, você tá enganado.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)"
+  },
+  "latencia_total_ms": 20288,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 20288
+}

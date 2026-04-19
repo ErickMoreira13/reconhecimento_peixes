@@ -1,0 +1,16 @@
+{
+  "video_id": "dJt0bE7QLQ0",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+    "municipio": "CampoExtraido(valor='Santarém', confianca=1.0, evidencia='A Kézia e o Deva vieram achando que estavam espreitando Ah, o Pacuzinho também 40 metros mais ou menos de água 40 metros de profundidade, meu amigo Sejam todos bem-vindos a mais um vídeo do canal Pescadora Amazônica Hoje estamos aqui meu esposo e eu, Bira, Kézia e Deva do casal WK Vou levá-los para a gente pescar na frente da cidade de Santarém', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+    "rio": "CampoExtraido(valor='Tapajós', confianca=1.0, evidencia='Vamos fazer uma pescaria de Piau se der tudo certo E vamos também fazer uma pescaria no Amazonas', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+    "tipo_ceva": "CampoExtraido(valor='vara de bambu', confianca=1.0, evidencia='Pegou uma pacuna, acredito Vou voltar na praia e pesquendo Rapaz, a primeira vez que eu vejo alguém vindo pescar de vara de bambu', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=4094766)",
+    "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Com milho, ó lá, mostra a isca, Dedê Milhozinho Milho verde Os seis dois pegaram É o charuto O charuto O meu é? Não, o meu é o charuto Ó Tu viu que o meu era o charuto?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+    "especies": "CampoExtraido(valor=[{'nome': 'pacuna', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'charuto', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=4094766)",
+    "observacoes": "CampoExtraido(valor='Pegou uma pacuna, acredito Vou voltar na praia e pesquendo Rapaz, a primeira vez que eu vejo alguém vindo pescar de vara de bambu', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)"
+  },
+  "latencia_total_ms": 4101996,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 4101996
+}

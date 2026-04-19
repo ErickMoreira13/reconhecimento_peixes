@@ -1,0 +1,16 @@
+{
+  "video_id": "f-AIQY6Hqok",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)",
+    "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='velho chico', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=45152)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)",
+    "tipo_ceva": "CampoExtraido(valor='cobaia', confianca=1.0, evidencia='ceba', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=45152)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)",
+    "especies": "CampoExtraido(valor=[{'nome': 'Ceba', 'evidencia': 'Ceba sem gancho, né', 'fora_do_gazetteer': False}, {'nome': 'Peixe de sérgio', 'evidencia': 'Peixe de sérgio Só quieta aí, doidão', 'fora_do_gazetteer': False}, {'nome': 'Pacu', 'evidencia': 'Olha o tanto de pacu que a gente já pegou', 'fora_do_gazetteer': False}, {'nome': 'Curupeté', 'evidencia': 'Essa daí eu conheço como Rosada ou ferruz Eu conheço como pacu frita É igual o pacu frita Todas elas pra mim é pacu frita', 'fora_do_gazetteer': False}, {'nome': 'Piau flamengo', 'evidencia': 'Nós chamamos de piau flamengo Mas tem gente que chama ele de piau bananinha Bananinha É Isso é verdade mesmo', 'fora_do_gazetteer': False}, {'nome': 'Jacundá', 'evidencia': 'Joana também Joana também É isso aí Cada um com o seu nome', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=45152)",
+    "observacoes": "CampoExtraido(valor='Pescaria sensacional, hein? Tá doido?', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)"
+  },
+  "latencia_total_ms": 52456,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 52456
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "hRVlgQX5ohA",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14864)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14864)",
+    "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14864)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14864)",
+    "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14864)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14864)",
+    "especies": "CampoExtraido(valor=[{'nome': 'camarãozinho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'tucuna', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=14864)",
+    "observacoes": "CampoExtraido(valor='Sem observacoes adicionais relevantes.', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14864)"
+  },
+  "latencia_total_ms": 19940,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 19940
+}

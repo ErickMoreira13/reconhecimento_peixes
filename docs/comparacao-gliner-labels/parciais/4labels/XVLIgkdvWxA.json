@@ -1,0 +1,16 @@
+{
+  "video_id": "XVLIgkdvWxA",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+    "rio": "CampoExtraido(valor='Rio Negro', confianca=1.0, evidencia='salve rapaziada, tranquilo? tô passando aqui no final do vídeo pra dar dois recados pra vocês...', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=17894)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='tem que mostrar a régua todinha gente...', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+    "especies": "CampoExtraido(valor=[{'nome': 'paca', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Tupunaré', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=17894)",
+    "observacoes": "CampoExtraido(valor='pegou um paca de 75 e meio, 76, lindo, lindo, lindo, lindo, emocionante viu...', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)"
+  },
+  "latencia_total_ms": 23812,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 23812
+}

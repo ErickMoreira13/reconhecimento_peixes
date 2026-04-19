@@ -1,0 +1,16 @@
+{
+  "video_id": "XZI5fBhsrLA",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)",
+    "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)",
+    "tipo_ceva": "CampoExtraido(valor='Isquinha Hunter Bait', confianca=1.0, evidencia='Essa é um stick Isquinha transparente E a carretilha Avenado GS', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21596)",
+    "grao": "CampoExtraido(valor='avena', confianca=1.0, evidencia='A varinha, uma trio light 20 libras Vou tentar fazer um vídeo diferente, galera Vocês deixam o comentário desse vídeo aqui se vocês gostaram', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21596)",
+    "especies": "CampoExtraido(valor=[{'nome': 'tucunaré', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Hunter Bait', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'tucuninho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Tocanarezinho', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21596)",
+    "observacoes": "CampoExtraido(valor='Pegar o máximo de tucunaré na superfície Com essa isca aqui, galera Na superfície Fazer um Galera, já peguei isso Calma aí, tucuna Galera, isso aqui é azul, galera Azulzinho Galera, é azulzinho Galera, aí No meio dessa Piga toda Só uma dentuça Olha o tamanho dessa dentuça', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)"
+  },
+  "latencia_total_ms": 27598,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 27598
+}

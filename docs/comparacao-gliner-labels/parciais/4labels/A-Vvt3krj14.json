@@ -1,0 +1,16 @@
+{
+  "video_id": "A-Vvt3krj14",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+    "rio": "CampoExtraido(valor='Lago da Balbina', confianca=1.0, evidencia='Vamos ver agora se aqui no Lago da Balbina tem peixe.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21074)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='A isca que eu estou usando aqui, ó. É um piabão...', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+    "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+    "especies": "CampoExtraido(valor=[{'nome': 'piabão', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'piranha preta', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+    "observacoes": "CampoExtraido(valor='A pescaria vai ficar boa agora. Eu vou arriscar tirar com a mão.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)"
+  },
+  "latencia_total_ms": 27273,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 27273
+}

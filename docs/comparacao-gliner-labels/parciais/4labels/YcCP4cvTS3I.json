@@ -1,0 +1,16 @@
+{
+  "video_id": "YcCP4cvTS3I",
+  "campos": {
+    "estado": "CampoExtraido(valor='PA', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=28398)",
+    "rio": "CampoExtraido(valor='Rio Bonito', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=28398)",
+    "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='Hoje vamos fazer uma pescaria completa na ceva vou mostrar o meu dia inteiro aí na ceva,', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)",
+    "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Aí eu vou jogar um pouco dessa água azeda aqui na água para começar o chama dos peixes. Aí vou pegar aqui bastante milho e vou fazer o seguinte aqui é um poço,', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)",
+    "especies": "CampoExtraido(valor=[{'nome': 'piauzinho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'chimboré', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='saindo aqui uns piauzinhos chimboré, que o povo chama chimboré,', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=28398)",
+    "observacoes": "CampoExtraido(valor='Fizemos uma pescaria completa na ceva e pegamos vários peixes, incluindo pacus, piaus e chimborés. Os peixes estavam comendo muito milho e os patos também.', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)"
+  },
+  "latencia_total_ms": 34329,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 34329
+}

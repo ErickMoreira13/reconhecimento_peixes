@@ -1,0 +1,13 @@
+campo,cobertura_2labels,cobertura_4labels,delta_pp
+bacia,11,3,-16.0
+especies,35,35,+0.0
+estado,2,2,+0.0
+grao,15,17,+4.0
+municipio,3,6,+6.0
+observacoes,34,36,+4.0
+rio,20,22,+4.0
+tipo_ceva,29,32,+6.0
+
+latencia_media_total_ms,51716,186776,+261.2%
+latencia_gliner_ms,0,0,
+latencia_llm_ms,51716,186776,

@@ -1,0 +1,16 @@
+{
+  "video_id": "bdKr7GC3Q_w",
+  "campos": {
+    "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)",
+    "municipio": "CampoExtraido(valor='Entrevazante', confianca=1.0, evidencia='Alô meu povo, um abraço para vocês que estão assistindo mais um vídeo de pesca Temporada 2025, no Rio Escurão, município mineiro Entrevazante', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)",
+    "rio": "CampoExtraido(valor='Rio Escurão', confianca=1.0, evidencia='Alô meu povo, um abraço para vocês que estão assistindo mais um vídeo de pesca Temporada 2025, no Rio Escurão', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=36943)",
+    "bacia": "CampoExtraido(valor='Bacia do São Francisco', confianca=1.0, evidencia='Olha o tamburaco que você já fez aí Meu né Bebeza Ó Não precisa de trator não Você tá igual uma anta parar Dá pra plantar mandioca, cana aí né Não Dá Dá Dá Planta cana aqui se você ver se essa cana não vai embora E você tá descalço né Eu tô descalço Perigo de anzol aí né Anzol e toco no barro né Pode não né Você já é acostumado né É meu costume que leva a vaga pro breve Oi Só alegria né Só alegria Graças a Deus né Jogamos a selva na paz da manhã E Esperança é de um pra cozinha e entrou', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=36943)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='Vamos lá começar a fazer a ceba Pé do formigueiro Vamos colocar aqui Milho moído Vamos colocar também Soja moída, curtida Ração de coelho azeda Também Ração de coelho azeda Mesmo que ainda use para servar Use também para fazer a massa', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)",
+    "grao": "CampoExtraido(valor='soja', confianca=1.0, evidencia='Vamos lá começar a fazer a ceba Pé do formigueiro Vamos colocar aqui Milho moído Vamos colocar também Soja moída, curtida Ração de coelho azeda Também Ração de coelho azeda Mesmo que ainda use para servar Use também para fazer a massa', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)",
+    "especies": "CampoExtraido(valor=[{'nome': 'ceba', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Pacu', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Curimbo', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=36943)",
+    "observacoes": "CampoExtraido(valor='A água está muito churra, né Tony? Não, a água não A água está muito churra? Não, está não Está mais ou menos? A água está mais ou menos, não é acostumado a pegar curimbo desse tipo aí, ó', confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)"
+  },
+  "latencia_total_ms": 42881,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 42881
+}

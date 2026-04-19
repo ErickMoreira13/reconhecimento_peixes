@@ -1,0 +1,16 @@
+{
+  "video_id": "YcCP4cvTS3I",
+  "campos": {
+    "estado": "CampoExtraido(valor='PA', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=33306)",
+    "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=33306)",
+    "rio": "CampoExtraido(valor='Rio Bonito', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=33306)",
+    "bacia": "CampoExtraido(valor='Rio Bonito', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=33306)",
+    "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='Hoje vamos fazer uma pescaria completa na ceva vou mostrar o meu dia inteiro aí na ceva,', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=33306)",
+    "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Aí eu vou jogar um pouco dessa água azeda aqui na água para começar o chama dos peixes. Aí vou pegar aqui bastante milho e vou fazer o seguinte aqui é um poço,', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=33306)",
+    "especies": "CampoExtraido(valor=[{'nome': 'piau flamengo', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'pacu', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'chimboré', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='saiu um piauzinho chimboré, que o povo chama chimboré, caracu piau esse aqui é muito miudinho eu estou atrás de uns maiores já falei para vocês,', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=33306)",
+    "observacoes": "CampoExtraido(valor='Fizemos uma pescaria completa na ceva e pegamos vários peixes, incluindo pacu, chimboré e piau flamengo. Os peixes estavam comendo muito milho e os patos também.', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=33306)"
+  },
+  "latencia_total_ms": 39417,
+  "latencia_gliner_ms": 0,
+  "latencia_llm_ms": 39417
+}
