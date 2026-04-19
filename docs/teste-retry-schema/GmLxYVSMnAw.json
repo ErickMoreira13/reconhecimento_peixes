@@ -1,0 +1,101 @@
+{
+  "video_id": "GmLxYVSMnAw",
+  "latencia_s": 18.43,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17100
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17100
+    },
+    "rio": {
+      "valor": "Rio Sao Francisco",
+      "confianca": 1.0,
+      "evidencia": "velho chico",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 17100
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17100
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "isca aqui na região",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17100
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17100
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "camarão",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "tucunaré",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "porquinho",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "curvina",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "tilápia",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "piau",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 17100
+    },
+    "observacoes": {
+      "valor": "Pegar os camarões aqui, tem bastante camarão. Jogar aqui, tem um toco.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 17100
+    }
+  }
+}

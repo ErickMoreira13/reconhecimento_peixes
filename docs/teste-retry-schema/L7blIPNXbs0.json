@@ -1,0 +1,81 @@
+{
+  "video_id": "L7blIPNXbs0",
+  "latencia_s": 19.71,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 18498
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 18498
+    },
+    "rio": {
+      "valor": "Rio Piracema",
+      "confianca": 1.0,
+      "evidencia": "Piracema chegou.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 18498
+    },
+    "bacia": {
+      "valor": "Piracema",
+      "confianca": 1.0,
+      "evidencia": "Piracema chegou.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 18498
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "Com essa ceva aqui, rapaziada, às vezes o resultado é de imediato.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 18498
+    },
+    "grao": {
+      "valor": "arroz",
+      "confianca": 1.0,
+      "evidencia": "O nosso farelo de arroz.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 18498
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "Tilápia selvagem",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Cará",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 18498
+    },
+    "observacoes": {
+      "valor": "Pega essa dica aí que funciona muito bem na pescaria de barranco. Tilápia. Cará, traíra. Qualquer peixe encosta na ceva aí.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 18498
+    }
+  }
+}
