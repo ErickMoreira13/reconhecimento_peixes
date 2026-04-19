@@ -32,6 +32,20 @@ def lista_transcricoes(limit: int) -> list[Path]:
     return todas[:limit]
 
 
+def _roda_robusto(transcrs, labels: list[str]) -> list[dict]:
+    # envelope de roda_com_labels que pula videos com erro em vez de matar tudo
+    # 1 video quebrado nao pode inviabilizar a comparacao em 50 videos
+    out = []
+    for i, t in enumerate(transcrs, 1):
+        try:
+            out.append(roda_com_labels(t, labels))
+            print(f"    [{i}/{len(transcrs)}] ok {t.stem}")
+        except Exception as e:
+            print(f"    [{i}/{len(transcrs)}] FALHOU {t.stem}: {type(e).__name__}: {e}")
+            # nao conta esse video no sumario
+    return out
+
+
 def roda_com_labels(transcr_path: Path, labels: list[str]) -> dict:
     # le transcricao, roda extracao completa (gliner + llm) com labels escolhidas
     # nao tem como passar labels diferentes sem mexer no extrai_campos, entao
@@ -120,9 +134,9 @@ def main():
 
     print(f"rodando em {len(transcrs)} transcricoes\n")
     print("   ><(((o>  rodada 1: 2 labels (peixe, bacia)")
-    r2 = [roda_com_labels(t, LABELS_2) for t in transcrs]
+    r2 = _roda_robusto(transcrs, LABELS_2)
     print("\n   ><((((((((o>  rodada 2: 4 labels (+rio +municipio)")
-    r4 = [roda_com_labels(t, LABELS_4) for t in transcrs]
+    r4 = _roda_robusto(transcrs, LABELS_4)
 
     s2 = resume(r2, "2-labels")
     s4 = resume(r4, "4-labels")
