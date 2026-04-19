@@ -95,7 +95,7 @@ def _extrai_chunk_unico(
         print(f"{modelo} nao gerou json valido, resposta: {raw[:300]}")
         return _tudo_null(lat_ms, modelo, motivo="llm_json_invalido")
 
-    campos = _monta_resultado(data, lat_ms, modelo)
+    campos, _corrigidos = _monta_resultado(data, lat_ms, modelo)
     # pos-processa: marca fora_do_gazetteer quando o valor nao bate com dict
     # (o llm nao eh confiavel pra essa flag, usa check deterministico)
     return aplica_flag_fora_do_gazetteer(campos)
@@ -250,20 +250,32 @@ def _normaliza_especies(valor) -> list[dict]:
     return []
 
 
-def _monta_resultado(data: dict, latencia_ms: int, modelo: str) -> dict[str, CampoExtraido]:
+def _monta_resultado(
+    data: dict, latencia_ms: int, modelo: str
+) -> tuple[dict[str, CampoExtraido], list[str]]:
     # converte o dict cru do llm em CampoExtraido pra cada um
-    campos = ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
+    #
+    # retorna tupla (campos, campos_corrigidos):
+    #   campos = dict normal com os 8 CampoExtraido
+    #   campos_corrigidos = lista com os nomes dos campos em que o llm
+    #     cuspiu schema errado (list/str direto em vez de envelope dict).
+    #     se vier vazia ta tudo ok. se vier com itens, o caller pode decidir
+    #     fazer retry com feedback pro llm
+    campos_esperados = ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
     out = {}
+    corrigidos: list[str] = []
 
-    for c in campos:
+    for c in campos_esperados:
         item = data.get(c, {})
         # as vezes o llm cospe direto a lista/string em vez do objeto envelope
         # ex: "especies": ["tucunare", "pacu"]  em vez de {"valor": [...], ...}
         # nesse caso trata como valor puro e deixa confianca=0
         if isinstance(item, list) or isinstance(item, str):
             item = {"valor": item}
+            corrigidos.append(c)
         elif not isinstance(item, dict):
             item = {}
+            corrigidos.append(c)
 
         if c == "especies":
             valor = _normaliza_especies(item.get("valor"))
@@ -279,4 +291,4 @@ def _monta_resultado(data: dict, latencia_ms: int, modelo: str) -> dict[str, Cam
             latencia_ms=latencia_ms,
         )
 
-    return out
+    return out, corrigidos

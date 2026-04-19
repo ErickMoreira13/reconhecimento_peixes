@@ -75,13 +75,15 @@ def test_monta_resultado_converte_dict_para_campo_extraido():
         "especies": {"valor": [{"nome": "tilapia", "evidencia": "tilapias"}], "confianca": 1.0},
         "observacoes": {"valor": "pesca de tarde", "confianca": 0.6, "evidencia": ""},
     }
-    out = _monta_resultado(data_qwen, latencia_ms=500, modelo="test")
+    out, corrigidos = _monta_resultado(data_qwen, latencia_ms=500, modelo="test")
 
     assert out["estado"].valor == "SP"
     assert out["estado"].confianca == 0.9
     assert out["rio"].valor == "Rio Tiete"
     assert out["especies"].valor[0]["nome"] == "tilapia"
     assert out["grao"].modelo_usado == "test"
+    # schema ta todo certo, nao tem correcao
+    assert corrigidos == []
 
 
 def test_monta_resultado_especies_string_eh_normalizada():
@@ -96,7 +98,7 @@ def test_monta_resultado_especies_string_eh_normalizada():
         "especies": {"valor": "tilapia, pacu"},
         "observacoes": {"valor": None},
     }
-    out = _monta_resultado(data, 0, "test")
+    out, _ = _monta_resultado(data, 0, "test")
     assert isinstance(out["especies"].valor, list)
     assert len(out["especies"].valor) == 2
 
@@ -241,7 +243,7 @@ def test_monta_resultado_llm_cospe_lista_direta():
         "estado": {"valor": "RO", "confianca": 0.9, "evidencia": "x"},
         "especies": ["tucunare", "pacu"],  # lista direto, sem envelope
     }
-    out = _monta_resultado(data, latencia_ms=100, modelo="t")
+    out, corrigidos = _monta_resultado(data, latencia_ms=100, modelo="t")
     # especies foi tratada: valor virou lista normalizada
     assert isinstance(out["especies"].valor, list)
     assert len(out["especies"].valor) == 2
@@ -250,6 +252,9 @@ def test_monta_resultado_llm_cospe_lista_direta():
     # estado normal continua funcionando
     assert out["estado"].valor == "RO"
     assert out["estado"].confianca == 0.9
+    # especies teve schema corrigido, deve aparecer na lista
+    assert "especies" in corrigidos
+    assert "estado" not in corrigidos
 
 
 def test_monta_resultado_llm_cospe_string_direta():
@@ -257,9 +262,10 @@ def test_monta_resultado_llm_cospe_string_direta():
     data = {
         "municipio": "porto velho",  # string direto
     }
-    out = _monta_resultado(data, latencia_ms=100, modelo="t")
+    out, corrigidos = _monta_resultado(data, latencia_ms=100, modelo="t")
     assert out["municipio"].valor == "porto velho"
     assert out["municipio"].confianca == 0.0
+    assert "municipio" in corrigidos
 
 
 def test_monta_resultado_tipo_bizarro_vira_null():
@@ -267,5 +273,6 @@ def test_monta_resultado_tipo_bizarro_vira_null():
     data = {
         "estado": 42,  # int aleatorio
     }
-    out = _monta_resultado(data, latencia_ms=100, modelo="t")
+    out, corrigidos = _monta_resultado(data, latencia_ms=100, modelo="t")
     assert out["estado"].valor is None
+    assert "estado" in corrigidos
