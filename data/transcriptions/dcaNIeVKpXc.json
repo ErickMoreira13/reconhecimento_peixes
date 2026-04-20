@@ -1,0 +1,67 @@
+{
+  "texto": "Pessoal, a isca aqui é o Piau Flamengo vivo, ó. Vou pegar a cachorra, as práticas adoram aqui do Rio Telespires. Nozol 12 barra zero. A gente vai passar aqui na boca dele aqui. Sai na guelva. A gente vem aqui tirar um escaminho do robicó. Passa aqui o onzol, ó. Puxou aqui, ó. Aí, ó. A cachorra vai vir, vai bater a boca. E aí vai se enroscar, né? O que vocês acham?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Pessoal, a isca aqui é o Piau Flamengo vivo, ó."
+    },
+    {
+      "start": 3.34,
+      "end": 6.62,
+      "text": "Vou pegar a cachorra, as práticas adoram aqui do Rio Telespires."
+    },
+    {
+      "start": 7.58,
+      "end": 12.5,
+      "text": "Nozol 12 barra zero."
+    },
+    {
+      "start": 14.21,
+      "end": 17.16,
+      "text": "A gente vai passar aqui na boca dele aqui."
+    },
+    {
+      "start": 18.14,
+      "end": 18.88,
+      "text": "Sai na guelva."
+    },
+    {
+      "start": 24.86,
+      "end": 26.62,
+      "text": "A gente vem aqui tirar um escaminho do robicó."
+    },
+    {
+      "start": 28.03,
+      "end": 29.23,
+      "text": "Passa aqui o onzol, ó."
+    },
+    {
+      "start": 31.46,
+      "end": 32.18,
+      "text": "Puxou aqui, ó."
+    },
+    {
+      "start": 33.39,
+      "end": 33.77,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 34.5,
+      "end": 36.32,
+      "text": "A cachorra vai vir, vai bater a boca."
+    },
+    {
+      "start": 37.56,
+      "end": 38.84,
+      "text": "E aí vai se enroscar, né?"
+    },
+    {
+      "start": 38.94,
+      "end": 39.52,
+      "text": "O que vocês acham?"
+    }
+  ],
+  "duracao_seg": 40.81,
+  "idioma_detectado": "pt"
+}

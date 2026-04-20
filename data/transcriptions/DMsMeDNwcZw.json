@@ -1,0 +1,47 @@
+{
+  "texto": "Pessoal, acabei de pegar uma traíra aqui, e é uma traíra bonita, né? Aqui, pessoal, essa traíra, linda, muito bonita. Deixa eu mostrar aqui bem pertinho para vocês, acompanhar aqui, ó, essa pescaria de choque ou socorro direto da Baixada Maranhense. Uma linda traíra, vai para o cofo agora, nesse momento. É isso, você também tem coragem de pescar de choque? Curru ou socorro? Venha mostrar sua habilidade aqui comigo, vem aqui para a gente pescar.",
+  "segmentos": [
+    {
+      "start": 1.65,
+      "end": 8.81,
+      "text": "Pessoal, acabei de pegar uma traíra aqui, e é uma traíra bonita, né?"
+    },
+    {
+      "start": 10.77,
+      "end": 16.92,
+      "text": "Aqui, pessoal, essa traíra, linda, muito bonita."
+    },
+    {
+      "start": 17.36,
+      "end": 21.06,
+      "text": "Deixa eu mostrar aqui bem pertinho para vocês, acompanhar aqui, ó,"
+    },
+    {
+      "start": 22.32,
+      "end": 26.46,
+      "text": "essa pescaria de choque ou socorro direto da Baixada Maranhense."
+    },
+    {
+      "start": 28.96,
+      "end": 32.42,
+      "text": "Uma linda traíra, vai para o cofo agora, nesse momento."
+    },
+    {
+      "start": 32.42,
+      "end": 39.0,
+      "text": "É isso, você também tem coragem de pescar de choque?"
+    },
+    {
+      "start": 39.46,
+      "end": 41.26,
+      "text": "Curru ou socorro?"
+    },
+    {
+      "start": 42.78,
+      "end": 46.02,
+      "text": "Venha mostrar sua habilidade aqui comigo, vem aqui para a gente pescar."
+    }
+  ],
+  "duracao_seg": 46.75,
+  "idioma_detectado": "pt"
+}

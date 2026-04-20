@@ -1,0 +1,17 @@
+{
+  "texto": "Em meio a ressaca, a patrona começando a trabalhar aqui, ó aí Aô, rapaz, diretamente do recanto, ó, isso dá água",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.26,
+      "text": "Em meio a ressaca, a patrona começando a trabalhar aqui, ó aí"
+    },
+    {
+      "start": 4.26,
+      "end": 12.86,
+      "text": "Aô, rapaz, diretamente do recanto, ó, isso dá água"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

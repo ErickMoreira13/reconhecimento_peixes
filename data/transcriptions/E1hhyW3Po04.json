@@ -1,0 +1,137 @@
+{
+  "texto": "Segunda-feira de tarde, tava caindo garoa Cheguei na beira do rio, peguei a velha canoa E a canoa foi rodando Eu fui sentado na proa Lá no porto das araras, que o rio claro desagoa Vou entrando na vazão, água pesada recua Jogo a tarrafa na água Tira peixe, a gente soa No lugar que não dá nada, a gente desacorçoa Deixo o meu anzor de espera, onde os peixe grande amua Volto alegre pro rancho Quando faço pesca boa O vento forte do sul Vem deitando as tabuas A garçada meia volta Para descer na lagoa Ela vem de manhã cedo Ai, ai, quando é de tarde ela voa Sou violeiro e pirangueiro Que só canto modas boas Todas modas que eu invento Quem escuta não enjoa Estando com o meu companheiro Ai, ai, garanto a minha coroa Ai, ai, garanto a minha coroa Eu vou te dar nada, eu vou te dar nada",
+  "segmentos": [
+    {
+      "start": 15.31,
+      "end": 21.0,
+      "text": "Segunda-feira de tarde, tava caindo garoa"
+    },
+    {
+      "start": 21.0,
+      "end": 26.85,
+      "text": "Cheguei na beira do rio, peguei a velha canoa"
+    },
+    {
+      "start": 26.85,
+      "end": 30.25,
+      "text": "E a canoa foi rodando"
+    },
+    {
+      "start": 30.25,
+      "end": 40.05,
+      "text": "Eu fui sentado na proa"
+    },
+    {
+      "start": 40.05,
+      "end": 62.11,
+      "text": "Lá no porto das araras, que o rio claro desagoa"
+    },
+    {
+      "start": 62.11,
+      "end": 67.97,
+      "text": "Vou entrando na vazão, água pesada recua"
+    },
+    {
+      "start": 67.97,
+      "end": 71.75,
+      "text": "Jogo a tarrafa na água"
+    },
+    {
+      "start": 71.75,
+      "end": 81.34,
+      "text": "Tira peixe, a gente soa"
+    },
+    {
+      "start": 81.34,
+      "end": 103.48,
+      "text": "No lugar que não dá nada, a gente desacorçoa"
+    },
+    {
+      "start": 103.48,
+      "end": 109.34,
+      "text": "Deixo o meu anzor de espera, onde os peixe grande amua"
+    },
+    {
+      "start": 109.34,
+      "end": 113.4,
+      "text": "Volto alegre pro rancho"
+    },
+    {
+      "start": 113.4,
+      "end": 122.32,
+      "text": "Quando faço pesca boa"
+    },
+    {
+      "start": 122.32,
+      "end": 141.52,
+      "text": "O vento forte do sul"
+    },
+    {
+      "start": 141.52,
+      "end": 144.96,
+      "text": "Vem deitando as tabuas"
+    },
+    {
+      "start": 144.96,
+      "end": 147.52,
+      "text": "A garçada meia volta"
+    },
+    {
+      "start": 147.52,
+      "end": 150.99,
+      "text": "Para descer na lagoa"
+    },
+    {
+      "start": 150.99,
+      "end": 154.45,
+      "text": "Ela vem de manhã cedo"
+    },
+    {
+      "start": 154.45,
+      "end": 164.35,
+      "text": "Ai, ai, quando é de tarde ela voa"
+    },
+    {
+      "start": 164.35,
+      "end": 183.28,
+      "text": "Sou violeiro e pirangueiro"
+    },
+    {
+      "start": 183.28,
+      "end": 186.64,
+      "text": "Que só canto modas boas"
+    },
+    {
+      "start": 186.64,
+      "end": 189.38,
+      "text": "Todas modas que eu invento"
+    },
+    {
+      "start": 189.38,
+      "end": 192.57,
+      "text": "Quem escuta não enjoa"
+    },
+    {
+      "start": 192.57,
+      "end": 196.13,
+      "text": "Estando com o meu companheiro"
+    },
+    {
+      "start": 196.13,
+      "end": 205.51,
+      "text": "Ai, ai, garanto a minha coroa"
+    },
+    {
+      "start": 205.51,
+      "end": 207.51,
+      "text": "Ai, ai, garanto a minha coroa"
+    },
+    {
+      "start": 207.51,
+      "end": 209.57,
+      "text": "Eu vou te dar nada, eu vou te dar nada"
+    }
+  ],
+  "duracao_seg": 213.15,
+  "idioma_detectado": "pt"
+}

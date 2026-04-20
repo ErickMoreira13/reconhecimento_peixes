@@ -1,0 +1,22 @@
+{
+  "texto": "Chicotão de duas braçadas bem abertas, anzolzinho número 7, passo uma ração furadinha macia, abaixo a boinha aqui e deixa dois dedinhos para cima da ração. Está aí um sisteminha para você pegar muito peixe em pesqueiro.",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 4.41,
+      "text": "Chicotão de duas braçadas bem abertas, anzolzinho número 7,"
+    },
+    {
+      "start": 4.63,
+      "end": 11.21,
+      "text": "passo uma ração furadinha macia, abaixo a boinha aqui e deixa dois dedinhos para cima da ração."
+    },
+    {
+      "start": 11.55,
+      "end": 14.37,
+      "text": "Está aí um sisteminha para você pegar muito peixe em pesqueiro."
+    }
+  ],
+  "duracao_seg": 14.45,
+  "idioma_detectado": "pt"
+}

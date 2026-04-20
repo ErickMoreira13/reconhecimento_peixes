@@ -1,0 +1,22 @@
+{
+  "texto": "tá limpo o bicho mano eu rogo lá para pegar ele fica sim mano",
+  "segmentos": [
+    {
+      "start": 4.56,
+      "end": 6.75,
+      "text": "tá limpo o bicho"
+    },
+    {
+      "start": 14.12,
+      "end": 18.66,
+      "text": "mano eu rogo lá para pegar ele fica"
+    },
+    {
+      "start": 18.66,
+      "end": 22.06,
+      "text": "sim mano"
+    }
+  ],
+  "duracao_seg": 22.33,
+  "idioma_detectado": "pt"
+}

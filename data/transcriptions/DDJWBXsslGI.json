@@ -1,0 +1,372 @@
+{
+  "texto": "é que você vai quebrar a vara ai, gente isso é bonito, hein isso aqui é cadê? pegue bem aqui, mãe é da senhora, ó mãe, mãe como é que é o nome desse peixe mesmo? é a baixa vai lá, Rios, joga lá de novo vai lá, guarda a dona Eva já pegou, dona Eva? pegou não? Ainda não. Saiu a isca, saiu? Saiu a isca. Saiu a isca. Deixa o a isca jogar pra senhora. O anzol. Tem uma de... 300 reais. Lá as terras é boas, Dilso. Ali as terras é pretinhas, cara. Ali no Marajai. Vai, vai, que eu quero ver. Já tá com a senhora. Não, mesmo não. Quero filmar vocês primeiro pescando. Depois tem que jogar na boca da bicha. Esse aí tem boia, né? Ó, o tamanho daquela. Cuidado, oi, moço. Ota! Tamanho das bichas. É porque eu não tô pescando ainda. Se eu tivesse pescando, já tava indo embora. Já tinha pegado um monte. Aí, ó. Só jogar e tirar. Eita, vai essa escapulitura agora. Essa é maior disso, ó. Cuidado, hein, bicho. Tem uma navalha nas costas, né? Ela não é a papa terra que tem, né? É a papa terra que tem, né? A bicha é a bicha, né? A papa terra é a bicha. Ela é valente, né? Aí, meu cumpadre gosta de açaí dessa daí, ó. É? É. Tá lá, grandona. Compra mais de quilo, assim. Tem quase dois quilos. Segura o pechinho. Olha lá, vou filmar mais um pra mim pescar. Pegou, Donévo? Pai. O da Divina é bom porque ele tem boia. É pra pescar, assim, é bom com a boia. Ó, meu. Aí, que eu tô só. Eita. Opa, mas. Tá caindo, hein, Luzo? Ó, ó, o peixe aí. Ó, o peixe tava fora, Doné. Ai, olha. Mas, ó. Pra esse anzol da Divina aí é bom, viu? Eita, segura o peixe, mané. Do balde. Pra o vídeo não ficar muito grande, vou cortar aqui e depois fazer outra parte.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 6.84,
+      "text": "é que você vai quebrar a vara"
+    },
+    {
+      "start": 6.84,
+      "end": 12.55,
+      "text": "ai, gente"
+    },
+    {
+      "start": 12.55,
+      "end": 15.52,
+      "text": "isso é bonito, hein"
+    },
+    {
+      "start": 15.52,
+      "end": 16.68,
+      "text": "isso aqui é"
+    },
+    {
+      "start": 16.68,
+      "end": 17.58,
+      "text": "cadê?"
+    },
+    {
+      "start": 18.36,
+      "end": 23.3,
+      "text": "pegue bem aqui, mãe"
+    },
+    {
+      "start": 23.3,
+      "end": 24.18,
+      "text": "é da senhora, ó"
+    },
+    {
+      "start": 24.18,
+      "end": 27.0,
+      "text": "mãe, mãe"
+    },
+    {
+      "start": 27.0,
+      "end": 28.12,
+      "text": "como é que é o nome desse peixe mesmo?"
+    },
+    {
+      "start": 28.54,
+      "end": 29.56,
+      "text": "é a baixa"
+    },
+    {
+      "start": 29.56,
+      "end": 35.15,
+      "text": "vai lá, Rios, joga lá de novo"
+    },
+    {
+      "start": 35.15,
+      "end": 39.58,
+      "text": "vai lá, guarda a dona Eva"
+    },
+    {
+      "start": 39.58,
+      "end": 48.21,
+      "text": "já pegou, dona Eva? pegou não?"
+    },
+    {
+      "start": 48.35,
+      "end": 50.2,
+      "text": "Ainda não."
+    },
+    {
+      "start": 50.48,
+      "end": 52.12,
+      "text": "Saiu a isca, saiu?"
+    },
+    {
+      "start": 52.6,
+      "end": 53.83,
+      "text": "Saiu a isca."
+    },
+    {
+      "start": 54.01,
+      "end": 54.63,
+      "text": "Saiu a isca."
+    },
+    {
+      "start": 56.21,
+      "end": 57.75,
+      "text": "Deixa o a isca jogar pra senhora."
+    },
+    {
+      "start": 58.7,
+      "end": 59.48,
+      "text": "O anzol."
+    },
+    {
+      "start": 59.92,
+      "end": 76.24,
+      "text": "Tem uma de..."
+    },
+    {
+      "start": 76.24,
+      "end": 77.08,
+      "text": "300 reais."
+    },
+    {
+      "start": 81.85,
+      "end": 83.29,
+      "text": "Lá as terras é boas, Dilso."
+    },
+    {
+      "start": 83.37,
+      "end": 84.57,
+      "text": "Ali as terras é pretinhas, cara."
+    },
+    {
+      "start": 84.77,
+      "end": 86.21,
+      "text": "Ali no Marajai."
+    },
+    {
+      "start": 89.84,
+      "end": 91.02,
+      "text": "Vai, vai, que eu quero ver."
+    },
+    {
+      "start": 91.84,
+      "end": 92.6,
+      "text": "Já tá com a senhora."
+    },
+    {
+      "start": 93.2,
+      "end": 94.06,
+      "text": "Não, mesmo não."
+    },
+    {
+      "start": 94.82,
+      "end": 96.34,
+      "text": "Quero filmar vocês primeiro pescando."
+    },
+    {
+      "start": 96.42,
+      "end": 102.88,
+      "text": "Depois tem que jogar na boca da bicha."
+    },
+    {
+      "start": 105.55,
+      "end": 106.51,
+      "text": "Esse aí tem boia, né?"
+    },
+    {
+      "start": 106.51,
+      "end": 107.23,
+      "text": "Ó, o tamanho daquela."
+    },
+    {
+      "start": 115.02,
+      "end": 115.96,
+      "text": "Cuidado, oi, moço."
+    },
+    {
+      "start": 121.61,
+      "end": 122.01,
+      "text": "Ota!"
+    },
+    {
+      "start": 122.55,
+      "end": 123.43,
+      "text": "Tamanho das bichas."
+    },
+    {
+      "start": 132.74,
+      "end": 134.34,
+      "text": "É porque eu não tô pescando ainda."
+    },
+    {
+      "start": 134.48,
+      "end": 136.5,
+      "text": "Se eu tivesse pescando, já tava indo embora."
+    },
+    {
+      "start": 139.02,
+      "end": 140.94,
+      "text": "Já tinha pegado um monte."
+    },
+    {
+      "start": 144.09,
+      "end": 144.69,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 145.99,
+      "end": 146.95,
+      "text": "Só jogar e tirar."
+    },
+    {
+      "start": 155.03,
+      "end": 156.95,
+      "text": "Eita, vai essa escapulitura agora."
+    },
+    {
+      "start": 157.57,
+      "end": 158.65,
+      "text": "Essa é maior disso, ó."
+    },
+    {
+      "start": 159.23,
+      "end": 159.97,
+      "text": "Cuidado, hein, bicho."
+    },
+    {
+      "start": 160.01,
+      "end": 161.31,
+      "text": "Tem uma navalha nas costas, né?"
+    },
+    {
+      "start": 161.9,
+      "end": 163.56,
+      "text": "Ela não é a papa terra que tem, né?"
+    },
+    {
+      "start": 163.56,
+      "end": 166.58,
+      "text": "É a papa terra que tem, né?"
+    },
+    {
+      "start": 166.72,
+      "end": 167.96,
+      "text": "A bicha é a bicha, né?"
+    },
+    {
+      "start": 168.04,
+      "end": 169.02,
+      "text": "A papa terra é a bicha."
+    },
+    {
+      "start": 169.48,
+      "end": 170.77,
+      "text": "Ela é valente, né?"
+    },
+    {
+      "start": 170.77,
+      "end": 173.53,
+      "text": "Aí, meu cumpadre gosta de açaí dessa daí, ó."
+    },
+    {
+      "start": 173.65,
+      "end": 173.85,
+      "text": "É?"
+    },
+    {
+      "start": 174.11,
+      "end": 174.35,
+      "text": "É."
+    },
+    {
+      "start": 175.74,
+      "end": 177.1,
+      "text": "Tá lá, grandona."
+    },
+    {
+      "start": 177.22,
+      "end": 178.48,
+      "text": "Compra mais de quilo, assim."
+    },
+    {
+      "start": 178.54,
+      "end": 179.36,
+      "text": "Tem quase dois quilos."
+    },
+    {
+      "start": 181.0,
+      "end": 181.82,
+      "text": "Segura o pechinho."
+    },
+    {
+      "start": 185.35,
+      "end": 187.09,
+      "text": "Olha lá, vou filmar mais um pra mim pescar."
+    },
+    {
+      "start": 187.75,
+      "end": 188.33,
+      "text": "Pegou, Donévo?"
+    },
+    {
+      "start": 192.93,
+      "end": 193.29,
+      "text": "Pai."
+    },
+    {
+      "start": 193.29,
+      "end": 200.25,
+      "text": "O da Divina é bom porque ele tem boia."
+    },
+    {
+      "start": 200.39,
+      "end": 201.91,
+      "text": "É pra pescar, assim, é bom com a boia."
+    },
+    {
+      "start": 204.26,
+      "end": 204.66,
+      "text": "Ó, meu."
+    },
+    {
+      "start": 206.12,
+      "end": 231.5,
+      "text": "Aí, que eu tô só."
+    },
+    {
+      "start": 234.04,
+      "end": 234.4,
+      "text": "Eita."
+    },
+    {
+      "start": 236.96,
+      "end": 237.66,
+      "text": "Opa, mas."
+    },
+    {
+      "start": 238.52,
+      "end": 239.8,
+      "text": "Tá caindo, hein, Luzo?"
+    },
+    {
+      "start": 240.28,
+      "end": 241.3,
+      "text": "Ó, ó, o peixe aí."
+    },
+    {
+      "start": 242.88,
+      "end": 244.58,
+      "text": "Ó, o peixe tava fora, Doné."
+    },
+    {
+      "start": 249.31,
+      "end": 249.93,
+      "text": "Ai, olha."
+    },
+    {
+      "start": 251.17,
+      "end": 251.75,
+      "text": "Mas, ó."
+    },
+    {
+      "start": 253.72,
+      "end": 255.62,
+      "text": "Pra esse anzol da Divina aí é bom, viu?"
+    },
+    {
+      "start": 255.62,
+      "end": 260.55,
+      "text": "Eita, segura o peixe, mané."
+    },
+    {
+      "start": 267.53,
+      "end": 268.41,
+      "text": "Do balde."
+    },
+    {
+      "start": 270.48,
+      "end": 273.82,
+      "text": "Pra o vídeo não ficar muito grande, vou cortar aqui e depois fazer outra parte."
+    }
+  ],
+  "duracao_seg": 275.71,
+  "idioma_detectado": "pt"
+}

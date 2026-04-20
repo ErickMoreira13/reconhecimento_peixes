@@ -1,0 +1,87 @@
+{
+  "texto": "Segura pra mim, senão precisa apertar nada. Deu aperto aqui no meio, né? Não precisa apertar nada. Não aperta nada. Nada? Apertou não? Não, não pegou todo o peixe. Olha o tamanhinho da criança, esse gorzinho pegou na linha ali, ó. Um anzolzinho de lá pra pegar lambari, cara. Olha aí, ó. Olha aí, ó. Uns 10 quilos. Não dá mais. 10 quilos só a chumbada. Tá na mão. Olha que ele tirou a foto.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Segura pra mim, senão precisa apertar nada."
+    },
+    {
+      "start": 2.56,
+      "end": 3.68,
+      "text": "Deu aperto aqui no meio, né?"
+    },
+    {
+      "start": 3.68,
+      "end": 4.6,
+      "text": "Não precisa apertar nada."
+    },
+    {
+      "start": 5.06,
+      "end": 6.12,
+      "text": "Não aperta nada."
+    },
+    {
+      "start": 6.56,
+      "end": 7.08,
+      "text": "Nada?"
+    },
+    {
+      "start": 7.42,
+      "end": 7.96,
+      "text": "Apertou não?"
+    },
+    {
+      "start": 7.96,
+      "end": 10.1,
+      "text": "Não, não pegou todo o peixe."
+    },
+    {
+      "start": 10.18,
+      "end": 15.16,
+      "text": "Olha o tamanhinho da criança, esse gorzinho pegou na linha ali, ó."
+    },
+    {
+      "start": 15.48,
+      "end": 17.78,
+      "text": "Um anzolzinho de lá pra pegar lambari, cara."
+    },
+    {
+      "start": 17.86,
+      "end": 18.4,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 18.82,
+      "end": 19.74,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 20.74,
+      "end": 21.8,
+      "text": "Uns 10 quilos."
+    },
+    {
+      "start": 22.06,
+      "end": 22.64,
+      "text": "Não dá mais."
+    },
+    {
+      "start": 23.42,
+      "end": 25.5,
+      "text": "10 quilos só a chumbada."
+    },
+    {
+      "start": 25.66,
+      "end": 25.98,
+      "text": "Tá na mão."
+    },
+    {
+      "start": 26.64,
+      "end": 27.72,
+      "text": "Olha que ele tirou a foto."
+    }
+  ],
+  "duracao_seg": 27.81,
+  "idioma_detectado": "pt"
+}

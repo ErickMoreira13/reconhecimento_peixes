@@ -1,0 +1,17 @@
+{
+  "texto": "A gente pega um saco de batata, coloca umas pedras dentro, depois bota o miga, a gente faz um nó no saco e depois amarra a linha.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 35.4,
+      "text": "A gente pega um saco de batata, coloca umas pedras dentro, depois bota o miga, a gente"
+    },
+    {
+      "start": 35.4,
+      "end": 49.15,
+      "text": "faz um nó no saco e depois amarra a linha."
+    }
+  ],
+  "duracao_seg": 50.19,
+  "idioma_detectado": "pt"
+}

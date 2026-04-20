@@ -1,0 +1,32 @@
+{
+  "texto": "E quando eu falo em pescaria, já me imagino fisgando O peixe tomando linha, molinete descarregando Meus amigos admirando, vibrando, muita emoção Zandãozal de lambari, fisgando até tubarão Remessando igual na cabura, com habilidade orientada",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "E quando eu falo em pescaria, já me imagino fisgando"
+    },
+    {
+      "start": 3.02,
+      "end": 5.8,
+      "text": "O peixe tomando linha, molinete descarregando"
+    },
+    {
+      "start": 5.8,
+      "end": 8.54,
+      "text": "Meus amigos admirando, vibrando, muita emoção"
+    },
+    {
+      "start": 8.54,
+      "end": 11.28,
+      "text": "Zandãozal de lambari, fisgando até tubarão"
+    },
+    {
+      "start": 11.28,
+      "end": 13.94,
+      "text": "Remessando igual na cabura, com habilidade orientada"
+    }
+  ],
+  "duracao_seg": 13.91,
+  "idioma_detectado": "pt"
+}

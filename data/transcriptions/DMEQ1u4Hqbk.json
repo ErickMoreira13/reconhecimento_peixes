@@ -1,0 +1,27 @@
+{
+  "texto": "e aí galera mais um do aço bateu com a sua aqui menino é para primeira sua que eu pego aí na o tamanho do aço no fundo bateu que bateu bonito aí mãe ó o bicho cansou já nesse aqui não foge não tá bem fisgado rapaz bateu o açude demorou mas bateu tamanho do bichinho menino é tamanho do e aí",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 9.87,
+      "text": "e aí galera mais um do aço bateu com a sua aqui menino é para primeira sua que eu pego aí na"
+    },
+    {
+      "start": 9.87,
+      "end": 18.83,
+      "text": "o tamanho do aço no fundo bateu que bateu bonito aí mãe ó o bicho cansou já nesse aqui não foge"
+    },
+    {
+      "start": 18.83,
+      "end": 38.12,
+      "text": "não tá bem fisgado rapaz bateu o açude demorou mas bateu tamanho do bichinho menino é tamanho do"
+    },
+    {
+      "start": 38.12,
+      "end": 43.8,
+      "text": "e aí"
+    }
+  ],
+  "duracao_seg": 45.65,
+  "idioma_detectado": "pt"
+}

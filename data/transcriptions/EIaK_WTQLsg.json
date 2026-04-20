@@ -1,0 +1,32 @@
+{
+  "texto": "Olha pra ponta na vara, rapaz Puxa o peixe, moço Puxa o peixe Esse é grande, é? Esse é grande?",
+  "segmentos": [
+    {
+      "start": 1.58,
+      "end": 3.74,
+      "text": "Olha pra ponta na vara, rapaz"
+    },
+    {
+      "start": 3.74,
+      "end": 15.18,
+      "text": "Puxa o peixe, moço"
+    },
+    {
+      "start": 15.18,
+      "end": 17.08,
+      "text": "Puxa o peixe"
+    },
+    {
+      "start": 17.08,
+      "end": 18.48,
+      "text": "Esse é grande, é?"
+    },
+    {
+      "start": 20.02,
+      "end": 20.6,
+      "text": "Esse é grande?"
+    }
+  ],
+  "duracao_seg": 20.67,
+  "idioma_detectado": "pt"
+}

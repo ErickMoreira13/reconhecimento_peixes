@@ -1,0 +1,17 @@
+{
+  "texto": "Aí galera, pescaria na Vale de Bom, com sarapó, conseguimos pegar esse peixe aí, ó, aproximadamente 10 quilos. Januária, Minas Gerais!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.02,
+      "text": "Aí galera, pescaria na Vale de Bom, com sarapó, conseguimos pegar esse peixe aí, ó, aproximadamente 10 quilos."
+    },
+    {
+      "start": 8.62,
+      "end": 10.26,
+      "text": "Januária, Minas Gerais!"
+    }
+  ],
+  "duracao_seg": 12.85,
+  "idioma_detectado": "pt"
+}
