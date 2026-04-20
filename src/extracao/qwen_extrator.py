@@ -4,6 +4,7 @@ import time
 import ollama
 
 from src import config
+from src.log import get_logger
 from src.schemas import CampoExtraido
 from src.extracao.prompts import monta_prompt_extrator, monta_prompt_retry_schema
 from src.extracao import gliner_client
@@ -34,6 +35,9 @@ MIN_PALAVRAS_PRA_EXTRAIR = 30
 # folga. custo: videos muito grandes viram 3 chunks em vez de 2 (+1 chamada
 # llm), mas ganha robustez em nao perder o conteudo inteiro
 MAX_PALAVRAS_SEM_CHUNKING = 3000
+
+
+_log = get_logger()
 
 
 # telemetria simples pra saber se o retry de schema ta acontecendo demais.
@@ -89,12 +93,12 @@ def extrai_campos(
     # em cortes publicitarios ou audios com so musica, nao vale rodar llm.
     n_palavras = len(transcricao.split())
     if n_palavras < MIN_PALAVRAS_PRA_EXTRAIR:
-        print(f"transcricao muito curta ({n_palavras} palavras), pulando llm")
+        _log.info("transcricao muito curta (%d palavras), pulando llm", n_palavras)
         return _tudo_null(0, modelo, motivo="texto_insuficiente")
 
     # se texto for gigante, chunking: extrai de cada metade e consolida
     if n_palavras > MAX_PALAVRAS_SEM_CHUNKING:
-        print(f"transcricao grande ({n_palavras} palavras), dividindo em chunks")
+        _log.info("transcricao grande (%d palavras), dividindo em chunks", n_palavras)
         return _extrai_com_chunking(transcricao, gliner_checkpoint, modelo)
 
     return _extrai_chunk_unico(transcricao, gliner_checkpoint, modelo)
