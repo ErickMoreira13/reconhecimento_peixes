@@ -65,6 +65,18 @@ rejeitou resumos genericos sem entidade ancorada). net positivo.
    em `docs/teste-retry-schema/`. detalhes do caso que originou em
    `commit 888a990`.
 
+7. **polish visual + logging + pre-commit** (feito 2026-04-19) —
+   - `src/ascii_art.py`: banners coloridos ANSI, progress_bar, marcas
+     ok/erro/warn/info, 3 tamanhos de peixe, arte peixe-pulando
+   - `src/log.py`: logger silencioso por default, ligado via PEIXES_LOG env
+   - prints internos migrados pra log em qwen_extrator, gliner_client,
+     youtube, critic, retry_loop, whisper_turbo
+   - pre-commit: `.pre-commit-config.yaml` com pytest + json-check + ruff
+   - `.editorconfig` pra padronizar indent/line-ending
+   - docs/DESENVOLVIMENTO.md atualizado (PEIXES_LOG, NO_COLOR,
+     pre-commit, smoke test)
+   - CHANGELOG.md com historico consolidado
+
 6. **8 FIXES APLICADOS** (feito 2026-04-19, issues #12-#19) — todos os
    padroes do sumario-manual atacados. ver `docs/fixes-aplicados-2026-04-19.md`:
    - fix 1 (#12): tipo_ceva exige evidencia (prompt + verificador)
