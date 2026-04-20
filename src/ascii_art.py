@@ -155,3 +155,17 @@ def progress_bar_colorido(atual: int, total: int, largura: int = 30) -> str:
     vazio = largura - cheio
     barra = colore("#" * cheio, VERDE_CLARO) + colore("-" * vazio, DIM)
     return f"[{barra}] {int(pct*100)}% ({atual}/{total})"
+
+
+def titulo_grande(texto: str, cor: str = CIANO_CLARO) -> str:
+    # titulo centralizado em caixa simples. usado em relatorios do dashboard
+    largura = max(60, len(texto) + 8)
+    linha = "=" * largura
+    padding = (largura - len(texto)) // 2
+    meio = " " * padding + texto + " " * (largura - len(texto) - padding)
+    return colore(f"{linha}\n{meio}\n{linha}", cor)
+
+
+def tag(texto: str, cor: str = AZUL_CLARO) -> str:
+    # tag em estilo [TAG] colorida pra labels rapidas
+    return colore(f"[{texto.upper()}]", cor)
