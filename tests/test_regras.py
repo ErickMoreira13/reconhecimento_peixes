@@ -297,3 +297,67 @@ def test_tipo_ceva_blacklist_aceita_valor_legitimo():
     transc = "fiz uma ceva com bola de massa de milho"
     v = regras.aplica_regras("tipo_ceva", c, transc, {})
     assert v.aceito
+
+
+def test_eh_especie_generica_bonito_adjetivo():
+    # fix 4: "bonito" como adjetivo nao eh peixe
+    assert regras._eh_especie_generica("bonito")
+    assert regras._eh_especie_generica("peixe bonito")
+
+
+def test_eh_especie_generica_paca_mamifero():
+    assert regras._eh_especie_generica("paca")
+
+
+def test_eh_especie_generica_girias():
+    for g in ["cimprao", "pai tainha", "galera", "rapaziada", "peixe grande"]:
+        assert regras._eh_especie_generica(g), f"falhou pra {g}"
+
+
+def test_eh_especie_generica_aceita_peixe_real():
+    # tucunare nao contem nenhum stop term, aceita
+    assert not regras._eh_especie_generica("tucunare")
+    assert not regras._eh_especie_generica("pacu")
+    assert not regras._eh_especie_generica("traira")
+    assert not regras._eh_especie_generica("pirarucu")
+
+
+def test_especies_stop_terms_rejeita_generico():
+    # fix 4: especies com termo generico sao rejeitadas
+    c = CampoExtraido(
+        valor=[{"nome": "peixe grande", "evidencia": "peguei um peixe grande"}],
+        confianca=0.8,
+        evidencia="peixe grande",
+        modelo_usado="qwen",
+    )
+    transc = "fala galera, hoje peguei um peixe grande la no rio"
+    v = regras.aplica_regras("especies", c, transc, {})
+    assert not v.aceito
+    assert v.tipo_rejeicao == "contexto_irrelevante"
+
+
+def test_especies_stop_terms_rejeita_mix_com_generico():
+    # se UM item for generico, rejeita o campo inteiro
+    c = CampoExtraido(
+        valor=[
+            {"nome": "tucunare", "evidencia": "tucunare"},
+            {"nome": "peixe grande", "evidencia": "peixe grande"},
+        ],
+        confianca=0.85,
+        evidencia="tucunare e peixe grande",
+        modelo_usado="qwen",
+    )
+    transc = "peguei tucunare e peixe grande"
+    v = regras.aplica_regras("especies", c, transc, {})
+    assert not v.aceito
+
+
+def test_especies_stop_terms_aceita_so_peixe_real():
+    c = CampoExtraido(
+        valor=[{"nome": "tucunare", "evidencia": "tucunare"}],
+        confianca=0.85,
+        evidencia="tucunare",
+        modelo_usado="qwen",
+    )
+    v = regras.aplica_regras("especies", c, TRANSC_EXEMPLO, {})
+    assert v.aceito
