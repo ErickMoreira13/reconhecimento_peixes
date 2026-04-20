@@ -5,6 +5,7 @@ from pathlib import Path
 from rapidfuzz import fuzz
 
 from src.schemas import CampoExtraido, Veredito, TipoRejeicao
+from src.texto import sem_acento
 
 
 # camada 1 do verificador: regras deterministicas (gratas, ~10ms)
@@ -91,15 +92,9 @@ def rio_aparece_no_texto(rio: str, transcricao: str) -> bool:
 
     # normaliza: tira prefixo "Rio ", lowercase, tira acento
     nome_sem_prefixo = re.sub(r"^rio\s+", "", rio.lower().strip())
-    # remove acentos do nome e do texto pra evitar falso negativo
-    def _tira_ac(s: str) -> str:
-        import unicodedata
-        return "".join(c for c in unicodedata.normalize("NFD", s)
-                       if unicodedata.category(c) != "Mn")
-
-    nome_norm = _tira_ac(nome_sem_prefixo)
-    nome_completo_norm = _tira_ac(rio.lower().strip())
-    texto_norm = _tira_ac(transcricao.lower())
+    nome_norm = sem_acento(nome_sem_prefixo)
+    nome_completo_norm = sem_acento(rio.lower().strip())
+    texto_norm = sem_acento(transcricao.lower())
 
     # match literal direto
     if nome_norm in texto_norm:
@@ -147,13 +142,11 @@ def bacia_reconhecida(valor: str) -> bool:
         return False
 
     def _norm(s: str) -> str:
-        import unicodedata
+        # remove prefixos de bacia/rio e normaliza acento/case
         s = s.lower().strip()
-        # remove prefixos comuns
         s = re.sub(r"^(bacia\s+(do\s+|da\s+|dos\s+|das\s+)?)", "", s)
         s = re.sub(r"^rio\s+", "", s)
-        return "".join(c for c in unicodedata.normalize("NFD", s)
-                       if unicodedata.category(c) != "Mn")
+        return sem_acento(s)
 
     v = _norm(valor)
     for b in _bacias():
