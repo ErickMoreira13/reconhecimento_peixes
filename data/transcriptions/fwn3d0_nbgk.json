@@ -1,0 +1,32 @@
+{
+  "texto": "Aê, que abanho Grande mão Bonito Show, show, agarrou no olho, povo No olho",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 5.09,
+      "text": "Aê, que abanho"
+    },
+    {
+      "start": 5.09,
+      "end": 9.42,
+      "text": "Grande mão"
+    },
+    {
+      "start": 9.42,
+      "end": 12.48,
+      "text": "Bonito"
+    },
+    {
+      "start": 12.48,
+      "end": 14.48,
+      "text": "Show, show, agarrou no olho, povo"
+    },
+    {
+      "start": 14.48,
+      "end": 16.48,
+      "text": "No olho"
+    }
+  ],
+  "duracao_seg": 19.01,
+  "idioma_detectado": "pt"
+}

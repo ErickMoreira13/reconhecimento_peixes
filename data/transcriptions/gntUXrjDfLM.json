@@ -1,0 +1,47 @@
+{
+  "texto": "E aí, e aí, e aí, Fernando aí, ó, tá mesmo? Traz alicate aí, mano, tá ali, ó, o alicate te pega a pesca aí, ó, nossa aí. Vai, Fernando, dá um alô aqui, mano. Ali, rapaziada, eu acho que ele é aqui no Rio de Janeiro. E aí, como é que tá a vara? Caraca, é maceta, mano, não? Diveram um pouquinho de linha pra me furar, pô. Puxa logo pra terra aí, ó. Filma aqui, filma aqui, filma aqui, que eu vou pegar alicate. Filma aqui, mano. Falei que eu ia pegar e peguei.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 13.86,
+      "text": "E aí, e aí, e aí, Fernando aí, ó, tá mesmo? Traz alicate aí, mano, tá ali, ó, o alicate te pega a pesca aí, ó, nossa aí."
+    },
+    {
+      "start": 14.64,
+      "end": 15.98,
+      "text": "Vai, Fernando, dá um alô aqui, mano."
+    },
+    {
+      "start": 16.68,
+      "end": 19.35,
+      "text": "Ali, rapaziada, eu acho que ele é aqui no Rio de Janeiro."
+    },
+    {
+      "start": 21.19,
+      "end": 27.26,
+      "text": "E aí, como é que tá a vara? Caraca, é maceta, mano, não?"
+    },
+    {
+      "start": 28.06,
+      "end": 29.46,
+      "text": "Diveram um pouquinho de linha pra me furar, pô."
+    },
+    {
+      "start": 31.13,
+      "end": 32.17,
+      "text": "Puxa logo pra terra aí, ó."
+    },
+    {
+      "start": 32.61,
+      "end": 38.5,
+      "text": "Filma aqui, filma aqui, filma aqui, que eu vou pegar alicate. Filma aqui, mano."
+    },
+    {
+      "start": 50.16,
+      "end": 51.48,
+      "text": "Falei que eu ia pegar e peguei."
+    }
+  ],
+  "duracao_seg": 55.45,
+  "idioma_detectado": "pt"
+}

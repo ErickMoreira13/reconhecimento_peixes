@@ -1,0 +1,22 @@
+{
+  "texto": "Ai, meu Deus. Olha o tamanho. Não se mexe agora. Tá cheirando minha perna.",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 2.38,
+      "text": "Ai, meu Deus. Olha o tamanho."
+    },
+    {
+      "start": 3.36,
+      "end": 4.08,
+      "text": "Não se mexe agora."
+    },
+    {
+      "start": 5.72,
+      "end": 6.82,
+      "text": "Tá cheirando minha perna."
+    }
+  ],
+  "duracao_seg": 10.11,
+  "idioma_detectado": "pt"
+}

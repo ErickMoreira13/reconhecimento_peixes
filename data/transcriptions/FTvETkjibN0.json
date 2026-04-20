@@ -1,0 +1,62 @@
+{
+  "texto": "Nosso amigo André, bariz da carne. Bom dia. Enfisgado. Passaram aí nos peixes. Douradão. Fala aí, Batata. Agora foi de leite. O professor lá. Cadê? Fica aí, ó. Diz que nós só pescamos hoje, né? Porque ontem... Não é, Batata? O Batata é que a mão na massa. Desce aí, veja pra ele.",
+  "segmentos": [
+    {
+      "start": 36.69,
+      "end": 43.68,
+      "text": "Nosso amigo André, bariz da carne."
+    },
+    {
+      "start": 43.68,
+      "end": 100.94,
+      "text": "Bom dia."
+    },
+    {
+      "start": 100.94,
+      "end": 194.98,
+      "text": "Enfisgado."
+    },
+    {
+      "start": 194.98,
+      "end": 396.94,
+      "text": "Passaram aí nos peixes. Douradão."
+    },
+    {
+      "start": 396.94,
+      "end": 403.1,
+      "text": "Fala aí, Batata. Agora foi de leite."
+    },
+    {
+      "start": 403.1,
+      "end": 414.29,
+      "text": "O professor lá."
+    },
+    {
+      "start": 414.29,
+      "end": 425.63,
+      "text": "Cadê? Fica aí, ó."
+    },
+    {
+      "start": 425.63,
+      "end": 430.38,
+      "text": "Diz que nós só pescamos hoje, né? Porque ontem..."
+    },
+    {
+      "start": 430.38,
+      "end": 447.62,
+      "text": "Não é, Batata?"
+    },
+    {
+      "start": 447.62,
+      "end": 449.62,
+      "text": "O Batata é que a mão na massa."
+    },
+    {
+      "start": 449.62,
+      "end": 451.62,
+      "text": "Desce aí, veja pra ele."
+    }
+  ],
+  "duracao_seg": 474.99,
+  "idioma_detectado": "pt"
+}

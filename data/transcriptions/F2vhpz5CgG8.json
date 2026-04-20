@@ -1,0 +1,117 @@
+{
+  "texto": "Fala galera, aqui quem tá falando é Bob Guerreiro, eu tô aqui na beira do rio com Barnaíba Fica próximo aqui da minha casa, gente, aqui é muito bom É só lavar, aí vem pegar umas piabazinhas aqui, meu filho É pra tomar com o cafezinho de manhã, ó É só dar de boa Pegou, pegou, pegou, pegou, pegou Pegou, pegou, pegou, pegou Um pedaço de passa, digamos Aqui é muito bom, galera, aqui Agora vai Agora pegou Pegou Pega lá Por causa dos bastinhos Isso aqui é Isso aqui é Tá enfermojado Olha aí, ensina aí pra galera como é que bota isso Olha aí como é que bota É muito fácil, galera, ó Pronto Tá?",
+  "segmentos": [
+    {
+      "start": 1.68,
+      "end": 6.4,
+      "text": "Fala galera, aqui quem tá falando é Bob Guerreiro, eu tô aqui na beira do rio com Barnaíba"
+    },
+    {
+      "start": 6.4,
+      "end": 9.82,
+      "text": "Fica próximo aqui da minha casa, gente, aqui é muito bom"
+    },
+    {
+      "start": 9.82,
+      "end": 17.07,
+      "text": "É só lavar, aí vem pegar umas piabazinhas aqui, meu filho"
+    },
+    {
+      "start": 17.07,
+      "end": 20.57,
+      "text": "É pra tomar com o cafezinho de manhã, ó"
+    },
+    {
+      "start": 20.57,
+      "end": 24.56,
+      "text": "É só dar de boa"
+    },
+    {
+      "start": 24.56,
+      "end": 39.29,
+      "text": "Pegou, pegou, pegou, pegou, pegou"
+    },
+    {
+      "start": 39.29,
+      "end": 45.52,
+      "text": "Pegou, pegou, pegou, pegou"
+    },
+    {
+      "start": 45.52,
+      "end": 48.48,
+      "text": "Um pedaço de passa, digamos"
+    },
+    {
+      "start": 48.48,
+      "end": 52.99,
+      "text": "Aqui é muito bom, galera, aqui"
+    },
+    {
+      "start": 52.99,
+      "end": 59.21,
+      "text": "Agora vai"
+    },
+    {
+      "start": 59.21,
+      "end": 101.46,
+      "text": "Agora pegou"
+    },
+    {
+      "start": 101.46,
+      "end": 102.79,
+      "text": "Pegou"
+    },
+    {
+      "start": 102.79,
+      "end": 109.58,
+      "text": "Pega lá"
+    },
+    {
+      "start": 109.58,
+      "end": 129.44,
+      "text": "Por causa dos bastinhos"
+    },
+    {
+      "start": 129.44,
+      "end": 133.38,
+      "text": "Isso aqui é"
+    },
+    {
+      "start": 133.38,
+      "end": 135.16,
+      "text": "Isso aqui é"
+    },
+    {
+      "start": 135.16,
+      "end": 138.12,
+      "text": "Tá enfermojado"
+    },
+    {
+      "start": 138.12,
+      "end": 142.6,
+      "text": "Olha aí, ensina aí pra galera como é que bota isso"
+    },
+    {
+      "start": 142.6,
+      "end": 150.76,
+      "text": "Olha aí como é que bota"
+    },
+    {
+      "start": 150.76,
+      "end": 152.85,
+      "text": "É muito fácil, galera, ó"
+    },
+    {
+      "start": 152.85,
+      "end": 156.18,
+      "text": "Pronto"
+    },
+    {
+      "start": 156.18,
+      "end": 156.34,
+      "text": "Tá?"
+    }
+  ],
+  "duracao_seg": 171.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,82 @@
+{
+  "texto": "Aqui é o meu parceiro Zeg, né cara? O Zeg, o Dunga, parceiro aqui de pescaria, dizendo ele que não vem mais, que não aguentou o trampo. Olha aí, mostra aí Zeg. O que é isso aí, pô? Tá doido, joga isso fora, pô. Tá quase já. Tá meio abatido? Mas o porra não vigiou a malhadeira toda, cara. Onde que vai sair, amor, pô? Porra. Tá bom. Vigiu até ali. Tirar aqui. Falou. Boa noite, bom dia a todos.",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.88,
+      "text": "Aqui é o meu parceiro Zeg, né cara?"
+    },
+    {
+      "start": 4.73,
+      "end": 16.43,
+      "text": "O Zeg, o Dunga, parceiro aqui de pescaria, dizendo ele que não vem mais, que não aguentou o trampo."
+    },
+    {
+      "start": 20.09,
+      "end": 20.95,
+      "text": "Olha aí, mostra aí Zeg."
+    },
+    {
+      "start": 25.68,
+      "end": 26.34,
+      "text": "O que é isso aí, pô?"
+    },
+    {
+      "start": 26.7,
+      "end": 29.93,
+      "text": "Tá doido, joga isso fora, pô."
+    },
+    {
+      "start": 38.23,
+      "end": 38.83,
+      "text": "Tá quase já."
+    },
+    {
+      "start": 40.03,
+      "end": 40.91,
+      "text": "Tá meio abatido?"
+    },
+    {
+      "start": 40.93,
+      "end": 43.37,
+      "text": "Mas o porra não vigiou a malhadeira toda, cara."
+    },
+    {
+      "start": 45.22,
+      "end": 46.88,
+      "text": "Onde que vai sair, amor, pô?"
+    },
+    {
+      "start": 48.87,
+      "end": 49.27,
+      "text": "Porra."
+    },
+    {
+      "start": 50.07,
+      "end": 50.39,
+      "text": "Tá bom."
+    },
+    {
+      "start": 50.63,
+      "end": 51.55,
+      "text": "Vigiu até ali."
+    },
+    {
+      "start": 52.43,
+      "end": 52.95,
+      "text": "Tirar aqui."
+    },
+    {
+      "start": 53.31,
+      "end": 53.59,
+      "text": "Falou."
+    },
+    {
+      "start": 53.77,
+      "end": 55.07,
+      "text": "Boa noite, bom dia a todos."
+    }
+  ],
+  "duracao_seg": 55.47,
+  "idioma_detectado": "pt"
+}

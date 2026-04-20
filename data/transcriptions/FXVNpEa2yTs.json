@@ -1,0 +1,17 @@
+{
+  "texto": "Você vê, pessoal, aí falam que aqui no sul não pega lambari de 10 quilos. E não é a história de pescador, viu?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "Você vê, pessoal, aí falam que aqui no sul não pega lambari de 10 quilos."
+    },
+    {
+      "start": 5.9,
+      "end": 7.54,
+      "text": "E não é a história de pescador, viu?"
+    }
+  ],
+  "duracao_seg": 8.01,
+  "idioma_detectado": "pt"
+}

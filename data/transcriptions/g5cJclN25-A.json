@@ -1,0 +1,37 @@
+{
+  "texto": "eu ficaria com piaba com isca viva olha o peixe aí cunaré aqui sabe cunaré com isca viva",
+  "segmentos": [
+    {
+      "start": 1.36,
+      "end": 3.36,
+      "text": "eu ficaria com piaba"
+    },
+    {
+      "start": 3.36,
+      "end": 8.24,
+      "text": "com isca viva"
+    },
+    {
+      "start": 12.83,
+      "end": 15.06,
+      "text": "olha o peixe aí"
+    },
+    {
+      "start": 15.06,
+      "end": 20.48,
+      "text": "cunaré"
+    },
+    {
+      "start": 20.48,
+      "end": 25.52,
+      "text": "aqui sabe"
+    },
+    {
+      "start": 25.52,
+      "end": 27.52,
+      "text": "cunaré com isca viva"
+    }
+  ],
+  "duracao_seg": 27.39,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Deus eu tenho tantas bênçãos Gosto em minha vida e chega Mas vejo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.58,
+      "text": "Deus eu tenho tantas bênçãos"
+    },
+    {
+      "start": 3.58,
+      "end": 6.71,
+      "text": "Gosto em minha vida e chega"
+    },
+    {
+      "start": 6.71,
+      "end": 10.33,
+      "text": "Mas vejo"
+    }
+  ],
+  "duracao_seg": 10.71,
+  "idioma_detectado": "pt"
+}

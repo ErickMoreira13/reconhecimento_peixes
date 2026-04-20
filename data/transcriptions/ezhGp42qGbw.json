@@ -1,0 +1,22 @@
+{
+  "texto": "Fala Juninho, e aí? Como é que o Fábio pescaria? Não, tô brincando com o problema, mas eu tenho que dar um beijo. Chega, é doce!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "Fala Juninho, e aí? Como é que o Fábio pescaria?"
+    },
+    {
+      "start": 2.98,
+      "end": 6.42,
+      "text": "Não, tô brincando com o problema, mas eu tenho que dar um beijo."
+    },
+    {
+      "start": 8.94,
+      "end": 10.0,
+      "text": "Chega, é doce!"
+    }
+  ],
+  "duracao_seg": 10.35,
+  "idioma_detectado": "pt"
+}

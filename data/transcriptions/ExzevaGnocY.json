@@ -1,0 +1,22 @@
+{
+  "texto": "Olha o que é a piranha, galera. O cara pegou a pirarara aí, mas chegou só as piranhas, porque a pirarara já era, bicho. Você tá doido?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Olha o que é a piranha, galera."
+    },
+    {
+      "start": 2.18,
+      "end": 6.48,
+      "text": "O cara pegou a pirarara aí, mas chegou só as piranhas, porque a pirarara já era, bicho."
+    },
+    {
+      "start": 7.08,
+      "end": 8.24,
+      "text": "Você tá doido?"
+    }
+  ],
+  "duracao_seg": 8.49,
+  "idioma_detectado": "pt"
+}

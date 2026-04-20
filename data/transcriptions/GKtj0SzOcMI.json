@@ -1,0 +1,102 @@
+{
+  "texto": "o futebol já foi tudo sabatinho e o futebol já foi um futebol vai dar tendência, vai dar tendência vai dar tendência bate o peixe para fora aí que o negócio fica melhor o peixe está indo um azol pequeno viu um azol pequeno aqui ó, fiaudinho de mar de nozinha vou segurar, um azol fiaudinho aqui da mar de nozinha rapaz, é um fiava de fio está com a fiavia dentro isso aqui dá uns quilos dois quilos, dá mais vou olhar se não der mais uns pescadores, a tabaqui está aí ainda aí",
+  "segmentos": [
+    {
+      "start": 4.75,
+      "end": 6.75,
+      "text": "o futebol já foi tudo sabatinho"
+    },
+    {
+      "start": 6.75,
+      "end": 9.84,
+      "text": "e o futebol já foi um futebol"
+    },
+    {
+      "start": 9.84,
+      "end": 32.19,
+      "text": "vai dar tendência, vai dar tendência"
+    },
+    {
+      "start": 32.19,
+      "end": 41.3,
+      "text": "vai dar tendência"
+    },
+    {
+      "start": 41.3,
+      "end": 43.3,
+      "text": "bate o peixe para fora aí"
+    },
+    {
+      "start": 43.3,
+      "end": 45.3,
+      "text": "que o negócio fica melhor"
+    },
+    {
+      "start": 45.3,
+      "end": 49.73,
+      "text": "o peixe está indo"
+    },
+    {
+      "start": 49.73,
+      "end": 54.03,
+      "text": "um azol pequeno viu"
+    },
+    {
+      "start": 54.03,
+      "end": 75.14,
+      "text": "um azol pequeno"
+    },
+    {
+      "start": 75.14,
+      "end": 78.42,
+      "text": "aqui ó, fiaudinho de mar de nozinha"
+    },
+    {
+      "start": 78.42,
+      "end": 80.93,
+      "text": "vou segurar, um azol"
+    },
+    {
+      "start": 80.93,
+      "end": 82.93,
+      "text": "fiaudinho aqui da mar de nozinha"
+    },
+    {
+      "start": 82.93,
+      "end": 84.93,
+      "text": "rapaz, é um fiava de fio"
+    },
+    {
+      "start": 84.93,
+      "end": 86.93,
+      "text": "está com a fiavia dentro"
+    },
+    {
+      "start": 86.93,
+      "end": 95.74,
+      "text": "isso aqui dá uns quilos"
+    },
+    {
+      "start": 95.74,
+      "end": 97.74,
+      "text": "dois quilos, dá mais"
+    },
+    {
+      "start": 97.74,
+      "end": 103.46,
+      "text": "vou olhar se não der mais"
+    },
+    {
+      "start": 103.46,
+      "end": 105.46,
+      "text": "uns pescadores, a tabaqui está aí ainda"
+    },
+    {
+      "start": 105.46,
+      "end": 107.46,
+      "text": "aí"
+    }
+  ],
+  "duracao_seg": 116.81,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Nossa, comeu que lararinha. Meu Deus do céu.",
+  "segmentos": [
+    {
+      "start": 3.06,
+      "end": 4.6,
+      "text": "Nossa, comeu que lararinha."
+    },
+    {
+      "start": 4.94,
+      "end": 5.84,
+      "text": "Meu Deus do céu."
+    }
+  ],
+  "duracao_seg": 7.67,
+  "idioma_detectado": "pt"
+}

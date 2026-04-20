@@ -1,0 +1,42 @@
+{
+  "texto": "Olha só o tamanho do peixe que esses caras pegaram lá no rio Araguaia. Esse aqui é bitelo mesmo, viu? Eu só não sei direito que tipo de peixe é esse daqui. Tô achando que isso é um tucunaré. E que baita tucunaré, meus amigos. Eu nunca tinha visto um desse tamanho. Deve dar bem uns 200 quilos.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Olha só o tamanho do peixe que esses caras pegaram lá no rio Araguaia."
+    },
+    {
+      "start": 3.72,
+      "end": 5.3,
+      "text": "Esse aqui é bitelo mesmo, viu?"
+    },
+    {
+      "start": 5.82,
+      "end": 8.46,
+      "text": "Eu só não sei direito que tipo de peixe é esse daqui."
+    },
+    {
+      "start": 9.24,
+      "end": 10.72,
+      "text": "Tô achando que isso é um tucunaré."
+    },
+    {
+      "start": 11.2,
+      "end": 13.1,
+      "text": "E que baita tucunaré, meus amigos."
+    },
+    {
+      "start": 13.72,
+      "end": 15.88,
+      "text": "Eu nunca tinha visto um desse tamanho."
+    },
+    {
+      "start": 16.46,
+      "end": 18.22,
+      "text": "Deve dar bem uns 200 quilos."
+    }
+  ],
+  "duracao_seg": 19.03,
+  "idioma_detectado": "pt"
+}

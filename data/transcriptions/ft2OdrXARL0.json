@@ -1,0 +1,17 @@
+{
+  "texto": "Agora ficou fácil pescar, pois agora eu aprendi como prender um simples milho no anzol. Agora com uma latinha de milho, eu faço a festa à pescaria inteira.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.82,
+      "text": "Agora ficou fácil pescar, pois agora eu aprendi como prender um simples milho no anzol."
+    },
+    {
+      "start": 6.36,
+      "end": 10.4,
+      "text": "Agora com uma latinha de milho, eu faço a festa à pescaria inteira."
+    }
+  ],
+  "duracao_seg": 11.11,
+  "idioma_detectado": "pt"
+}

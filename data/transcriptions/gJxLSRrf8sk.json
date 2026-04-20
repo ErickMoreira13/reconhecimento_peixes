@@ -1,0 +1,27 @@
+{
+  "texto": "Amor, que saudade de você Vem me ensinar a perceber Os segredos desse amor Oh, oh, oh, oh, oh, pequena",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 5.3,
+      "text": "Amor, que saudade de você"
+    },
+    {
+      "start": 5.3,
+      "end": 8.24,
+      "text": "Vem me ensinar a perceber"
+    },
+    {
+      "start": 8.24,
+      "end": 11.39,
+      "text": "Os segredos desse amor"
+    },
+    {
+      "start": 11.39,
+      "end": 14.71,
+      "text": "Oh, oh, oh, oh, oh, pequena"
+    }
+  ],
+  "duracao_seg": 16.85,
+  "idioma_detectado": "pt"
+}

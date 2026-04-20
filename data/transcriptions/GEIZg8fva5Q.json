@@ -1,0 +1,492 @@
+{
+  "texto": "E é verdade, é sim senhor Depois de 400 quilômetros chegamos no Rancho da Aquaria Onde estamos desembarcando nosso barco Para começar a nossa pescaria Pescaria entre amigos, com meu filho Lucas, meu primo Wagner e demais amigos Vamos começar agora a nossa busca às piraputangas Essa força que nos move Nos faz vencer desafios Seja pescando nos lagos Nas represas ou nos rios Coração salta no peito Seja no frio ou calor O sangue corre na veia É veia de pescador Iraí, Bijaú Vai também Pacu Nosso rei do rio Pintaria o sul É veia de pescador Pescando de norte a sul Pisgada a solto Queima emoção Carreia de mar Nos pescando e soltando Deservação É veia de pescador Com a gente meu irmão Pescando e soltando Deservação É veia de pescador Com a gente meu irmão Vem com a gente meu irmão Pega essa pera Tira da água não Que se não ela escapa Põe o tamanho da pera Quando o Lucas pegou Põe a bicha na mão aí Pra ver se tá a pera Pega e você vai levantar ela Pega e você vai levantar ela Pega e você vai levantar ela Pega e você vai levantar ela Pega e você vai levantar ela Pega e depois nós filmamos Você quase caiu na água Aqui né Na massa Não, se você não puxar Aqui é o meu irmão Pega e você vai levantar Fala alguma coisa aí Como é que o tamanhozinho Da bichinha Isso aí você tá filmando O brinco tá gravando Fica atingido Ah, sabia que tinha um trem errado O sul É veia de pescador Pescando de norte a sul Pisgada a soltura Queima emoção Carrete Varinha de mar Pescando e soltando Reservação É veia de pescador Vem com a gente meu irmão Voltamos para o rancho Para confraternizar com os amigos Fazendo as nossas refeições E depois seguirmos em destino A nossa cidade de novo Cidade de Jataí Muito feliz com o passeio Passeio com a família Com os amigos E que Deus esteja no comando De nossas vidas Todo o tempo Dessa nossa existência O calor O sangue corre na veia É veia de pescador É piraíba Iapa e Jaú Esportiva Contraí Rimba e Tampacu O rei do rio Doi Pintado E pia O sul É veia de pescador Pescando de norte a sul",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.86,
+      "text": "E é verdade, é sim senhor"
+    },
+    {
+      "start": 2.86,
+      "end": 124.42,
+      "text": "Depois de 400 quilômetros chegamos no Rancho da Aquaria"
+    },
+    {
+      "start": 124.42,
+      "end": 126.3,
+      "text": "Onde estamos desembarcando nosso barco"
+    },
+    {
+      "start": 126.3,
+      "end": 128.24,
+      "text": "Para começar a nossa pescaria"
+    },
+    {
+      "start": 128.24,
+      "end": 133.38,
+      "text": "Pescaria entre amigos, com meu filho Lucas, meu primo Wagner e demais amigos"
+    },
+    {
+      "start": 133.38,
+      "end": 138.48,
+      "text": "Vamos começar agora a nossa busca às piraputangas"
+    },
+    {
+      "start": 138.48,
+      "end": 159.37,
+      "text": "Essa força que nos move"
+    },
+    {
+      "start": 159.37,
+      "end": 162.99,
+      "text": "Nos faz vencer desafios"
+    },
+    {
+      "start": 162.99,
+      "end": 166.71,
+      "text": "Seja pescando nos lagos"
+    },
+    {
+      "start": 166.71,
+      "end": 170.03,
+      "text": "Nas represas ou nos rios"
+    },
+    {
+      "start": 170.03,
+      "end": 175.14,
+      "text": "Coração salta no peito"
+    },
+    {
+      "start": 175.14,
+      "end": 178.5,
+      "text": "Seja no frio ou calor"
+    },
+    {
+      "start": 178.5,
+      "end": 182.38,
+      "text": "O sangue corre na veia"
+    },
+    {
+      "start": 182.38,
+      "end": 187.18,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 187.18,
+      "end": 197.3,
+      "text": "Iraí, Bijaú"
+    },
+    {
+      "start": 197.3,
+      "end": 204.11,
+      "text": "Vai também Pacu"
+    },
+    {
+      "start": 204.11,
+      "end": 209.58,
+      "text": "Nosso rei do rio"
+    },
+    {
+      "start": 209.58,
+      "end": 212.82,
+      "text": "Pintaria o sul"
+    },
+    {
+      "start": 212.82,
+      "end": 216.14,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 216.14,
+      "end": 221.61,
+      "text": "Pescando de norte a sul"
+    },
+    {
+      "start": 221.61,
+      "end": 227.71,
+      "text": "Pisgada a solto"
+    },
+    {
+      "start": 227.71,
+      "end": 231.51,
+      "text": "Queima emoção"
+    },
+    {
+      "start": 231.51,
+      "end": 238.37,
+      "text": "Carreia de mar"
+    },
+    {
+      "start": 238.37,
+      "end": 243.22,
+      "text": "Nos pescando e soltando"
+    },
+    {
+      "start": 243.22,
+      "end": 246.86,
+      "text": "Deservação"
+    },
+    {
+      "start": 246.86,
+      "end": 250.2,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 250.2,
+      "end": 255.6,
+      "text": "Com a gente meu irmão"
+    },
+    {
+      "start": 255.6,
+      "end": 260.78,
+      "text": "Pescando e soltando"
+    },
+    {
+      "start": 260.78,
+      "end": 263.96,
+      "text": "Deservação"
+    },
+    {
+      "start": 263.96,
+      "end": 267.54,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 267.54,
+      "end": 272.19,
+      "text": "Com a gente meu irmão"
+    },
+    {
+      "start": 272.19,
+      "end": 282.91,
+      "text": "Vem com a gente meu irmão"
+    },
+    {
+      "start": 282.91,
+      "end": 294.61,
+      "text": "Pega essa pera"
+    },
+    {
+      "start": 294.61,
+      "end": 298.02,
+      "text": "Tira da água não"
+    },
+    {
+      "start": 298.02,
+      "end": 298.52,
+      "text": "Que se não ela escapa"
+    },
+    {
+      "start": 298.52,
+      "end": 299.6,
+      "text": "Põe o tamanho da pera"
+    },
+    {
+      "start": 299.6,
+      "end": 300.3,
+      "text": "Quando o Lucas pegou"
+    },
+    {
+      "start": 300.3,
+      "end": 305.74,
+      "text": "Põe a bicha na mão aí"
+    },
+    {
+      "start": 305.74,
+      "end": 306.58,
+      "text": "Pra ver se tá a pera"
+    },
+    {
+      "start": 306.58,
+      "end": 352.13,
+      "text": "Pega e você vai levantar ela"
+    },
+    {
+      "start": 352.13,
+      "end": 352.25,
+      "text": "Pega e você vai levantar ela"
+    },
+    {
+      "start": 352.25,
+      "end": 352.83,
+      "text": "Pega e você vai levantar ela"
+    },
+    {
+      "start": 352.83,
+      "end": 354.92,
+      "text": "Pega e você vai levantar ela"
+    },
+    {
+      "start": 354.92,
+      "end": 355.82,
+      "text": "Pega e você vai levantar ela"
+    },
+    {
+      "start": 355.82,
+      "end": 361.44,
+      "text": "Pega e depois nós filmamos"
+    },
+    {
+      "start": 361.44,
+      "end": 363.44,
+      "text": "Você quase caiu na água"
+    },
+    {
+      "start": 363.44,
+      "end": 368.01,
+      "text": "Aqui né"
+    },
+    {
+      "start": 368.01,
+      "end": 369.44,
+      "text": "Na massa"
+    },
+    {
+      "start": 369.44,
+      "end": 373.56,
+      "text": "Não, se você não puxar"
+    },
+    {
+      "start": 373.56,
+      "end": 374.4,
+      "text": "Aqui é o meu irmão"
+    },
+    {
+      "start": 374.4,
+      "end": 375.87,
+      "text": "Pega e você vai levantar"
+    },
+    {
+      "start": 375.87,
+      "end": 381.37,
+      "text": "Fala alguma coisa aí"
+    },
+    {
+      "start": 381.37,
+      "end": 382.58,
+      "text": "Como é que o tamanhozinho"
+    },
+    {
+      "start": 382.58,
+      "end": 383.06,
+      "text": "Da bichinha"
+    },
+    {
+      "start": 383.06,
+      "end": 388.96,
+      "text": "Isso aí você tá filmando"
+    },
+    {
+      "start": 388.96,
+      "end": 412.83,
+      "text": "O brinco tá gravando"
+    },
+    {
+      "start": 412.83,
+      "end": 415.07,
+      "text": "Fica atingido"
+    },
+    {
+      "start": 415.07,
+      "end": 444.23,
+      "text": "Ah, sabia que tinha um trem errado"
+    },
+    {
+      "start": 444.23,
+      "end": 470.74,
+      "text": "O sul"
+    },
+    {
+      "start": 470.74,
+      "end": 474.18,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 474.18,
+      "end": 479.56,
+      "text": "Pescando de norte a sul"
+    },
+    {
+      "start": 479.56,
+      "end": 486.48,
+      "text": "Pisgada a soltura"
+    },
+    {
+      "start": 486.48,
+      "end": 489.39,
+      "text": "Queima emoção"
+    },
+    {
+      "start": 489.39,
+      "end": 493.18,
+      "text": "Carrete"
+    },
+    {
+      "start": 493.18,
+      "end": 496.84,
+      "text": "Varinha de mar"
+    },
+    {
+      "start": 496.84,
+      "end": 501.92,
+      "text": "Pescando e soltando"
+    },
+    {
+      "start": 501.92,
+      "end": 505.22,
+      "text": "Reservação"
+    },
+    {
+      "start": 505.22,
+      "end": 508.66,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 508.66,
+      "end": 514.03,
+      "text": "Vem com a gente meu irmão"
+    },
+    {
+      "start": 514.03,
+      "end": 526.0,
+      "text": "Voltamos para o rancho"
+    },
+    {
+      "start": 526.0,
+      "end": 528.5,
+      "text": "Para confraternizar com os amigos"
+    },
+    {
+      "start": 528.5,
+      "end": 530.72,
+      "text": "Fazendo as nossas refeições"
+    },
+    {
+      "start": 530.72,
+      "end": 534.92,
+      "text": "E depois seguirmos em destino"
+    },
+    {
+      "start": 534.92,
+      "end": 536.06,
+      "text": "A nossa cidade de novo"
+    },
+    {
+      "start": 536.06,
+      "end": 537.02,
+      "text": "Cidade de Jataí"
+    },
+    {
+      "start": 537.02,
+      "end": 539.78,
+      "text": "Muito feliz com o passeio"
+    },
+    {
+      "start": 539.78,
+      "end": 541.64,
+      "text": "Passeio com a família"
+    },
+    {
+      "start": 541.64,
+      "end": 542.54,
+      "text": "Com os amigos"
+    },
+    {
+      "start": 542.54,
+      "end": 545.38,
+      "text": "E que Deus esteja no comando"
+    },
+    {
+      "start": 545.38,
+      "end": 546.36,
+      "text": "De nossas vidas"
+    },
+    {
+      "start": 546.36,
+      "end": 548.79,
+      "text": "Todo o tempo"
+    },
+    {
+      "start": 548.79,
+      "end": 550.37,
+      "text": "Dessa nossa existência"
+    },
+    {
+      "start": 550.37,
+      "end": 554.5,
+      "text": "O calor"
+    },
+    {
+      "start": 554.5,
+      "end": 558.7,
+      "text": "O sangue corre na veia"
+    },
+    {
+      "start": 558.7,
+      "end": 563.31,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 563.31,
+      "end": 570.36,
+      "text": "É piraíba"
+    },
+    {
+      "start": 570.36,
+      "end": 573.47,
+      "text": "Iapa e Jaú"
+    },
+    {
+      "start": 573.47,
+      "end": 575.96,
+      "text": "Esportiva"
+    },
+    {
+      "start": 575.96,
+      "end": 576.5,
+      "text": "Contraí"
+    },
+    {
+      "start": 576.5,
+      "end": 580.42,
+      "text": "Rimba e Tampacu"
+    },
+    {
+      "start": 580.42,
+      "end": 584.42,
+      "text": "O rei do rio"
+    },
+    {
+      "start": 584.42,
+      "end": 584.78,
+      "text": "Doi"
+    },
+    {
+      "start": 584.78,
+      "end": 587.08,
+      "text": "Pintado"
+    },
+    {
+      "start": 587.08,
+      "end": 587.96,
+      "text": "E pia"
+    },
+    {
+      "start": 587.96,
+      "end": 589.04,
+      "text": "O sul"
+    },
+    {
+      "start": 589.04,
+      "end": 592.42,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 592.42,
+      "end": 597.43,
+      "text": "Pescando de norte a sul"
+    }
+  ],
+  "duracao_seg": 604.05,
+  "idioma_detectado": "pt"
+}

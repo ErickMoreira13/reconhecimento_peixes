@@ -1,0 +1,27 @@
+{
+  "texto": "Música To find some distance Higher my lights Light my",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 2.18,
+      "text": "Música"
+    },
+    {
+      "start": 92.0,
+      "end": 94.42,
+      "text": "To find some distance"
+    },
+    {
+      "start": 94.42,
+      "end": 95.96,
+      "text": "Higher my lights"
+    },
+    {
+      "start": 95.96,
+      "end": 97.45,
+      "text": "Light my"
+    }
+  ],
+  "duracao_seg": 151.93,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Há só um grau no trabalho que essa isca artificial aí faz, ó Topzera, topzera Hã? Que peixe resiste",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.96,
+      "text": "Há só um grau no trabalho que essa isca artificial aí faz, ó"
+    },
+    {
+      "start": 3.96,
+      "end": 6.32,
+      "text": "Topzera, topzera"
+    },
+    {
+      "start": 6.32,
+      "end": 7.14,
+      "text": "Hã?"
+    },
+    {
+      "start": 7.6,
+      "end": 9.13,
+      "text": "Que peixe resiste"
+    }
+  ],
+  "duracao_seg": 9.87,
+  "idioma_detectado": "pt"
+}

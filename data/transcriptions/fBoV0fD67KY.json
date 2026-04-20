@@ -1,0 +1,17 @@
+{
+  "texto": "Olha o tamanho da criança, tira a mão aí para ver o tamanho da cabeça do bicho. Meu Deus do céu!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Olha o tamanho da criança, tira a mão aí para ver o tamanho da cabeça do bicho."
+    },
+    {
+      "start": 4.0,
+      "end": 8.77,
+      "text": "Meu Deus do céu!"
+    }
+  ],
+  "duracao_seg": 8.77,
+  "idioma_detectado": "pt"
+}

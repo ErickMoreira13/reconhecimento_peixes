@@ -1,0 +1,32 @@
+{
+  "texto": "Japa, qual é a melhor massa para pescar, aliado? Eu não vou responder, não. Ué? Deixa o profissional responder ali, ok? Quem?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Japa, qual é a melhor massa para pescar, aliado?"
+    },
+    {
+      "start": 2.24,
+      "end": 3.1,
+      "text": "Eu não vou responder, não."
+    },
+    {
+      "start": 3.36,
+      "end": 3.56,
+      "text": "Ué?"
+    },
+    {
+      "start": 3.9,
+      "end": 5.34,
+      "text": "Deixa o profissional responder ali, ok?"
+    },
+    {
+      "start": 5.34,
+      "end": 5.48,
+      "text": "Quem?"
+    }
+  ],
+  "duracao_seg": 10.17,
+  "idioma_detectado": "pt"
+}

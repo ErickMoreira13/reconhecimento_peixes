@@ -1,0 +1,87 @@
+{
+  "texto": "Ele não desceu Está lá ele É ali, está levando É uma tambique, olha Um bicho grande Esse vai para a panela Aqui Esse aqui envergou a vara Eu achei que é uma tambique, mas não estava brigando muito Beleza Rapaz, esse aqui baixou a ponta da vara Vai, vale a pena Olha, ameaça que vai descer e levanta de novo Ele está treinando Barbada É",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 5.13,
+      "text": "Ele não desceu"
+    },
+    {
+      "start": 5.13,
+      "end": 7.0,
+      "text": "Está lá ele"
+    },
+    {
+      "start": 7.0,
+      "end": 9.44,
+      "text": "É ali, está levando"
+    },
+    {
+      "start": 9.44,
+      "end": 17.39,
+      "text": "É uma tambique, olha"
+    },
+    {
+      "start": 17.39,
+      "end": 18.43,
+      "text": "Um bicho grande"
+    },
+    {
+      "start": 18.43,
+      "end": 21.56,
+      "text": "Esse vai para a panela"
+    },
+    {
+      "start": 21.56,
+      "end": 23.49,
+      "text": "Aqui"
+    },
+    {
+      "start": 23.49,
+      "end": 28.87,
+      "text": "Esse aqui envergou a vara"
+    },
+    {
+      "start": 28.87,
+      "end": 34.07,
+      "text": "Eu achei que é uma tambique, mas não estava brigando muito"
+    },
+    {
+      "start": 34.07,
+      "end": 40.01,
+      "text": "Beleza"
+    },
+    {
+      "start": 40.01,
+      "end": 71.94,
+      "text": "Rapaz, esse aqui baixou a ponta da vara"
+    },
+    {
+      "start": 71.94,
+      "end": 76.47,
+      "text": "Vai, vale a pena"
+    },
+    {
+      "start": 76.47,
+      "end": 82.5,
+      "text": "Olha, ameaça que vai descer e levanta de novo"
+    },
+    {
+      "start": 82.5,
+      "end": 84.2,
+      "text": "Ele está treinando"
+    },
+    {
+      "start": 84.2,
+      "end": 90.76,
+      "text": "Barbada"
+    },
+    {
+      "start": 90.76,
+      "end": 92.26,
+      "text": "É"
+    }
+  ],
+  "duracao_seg": 133.55,
+  "idioma_detectado": "pt"
+}

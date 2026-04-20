@@ -1,0 +1,42 @@
+{
+  "texto": "Mais uma semana brava, tô chegando em casa, assisto eu vou da linha Já tá do jeito as minhas traias, arrumei as malas pra passar três dias Enchi o tanque do carro, engatei o meu barco Carreguei de cerveja, pinga, carne e cigarro E quando eu tava saindo, ela chegou emburrada Já vai gastar dinheiro, não tem vergonha na cara Frigando onde seba, irresponsa, dinheiro não tem vergonha na cara",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 12.06,
+      "text": "Mais uma semana brava, tô chegando em casa, assisto eu vou da linha"
+    },
+    {
+      "start": 12.06,
+      "end": 19.72,
+      "text": "Já tá do jeito as minhas traias, arrumei as malas pra passar três dias"
+    },
+    {
+      "start": 19.72,
+      "end": 25.04,
+      "text": "Enchi o tanque do carro, engatei o meu barco"
+    },
+    {
+      "start": 25.04,
+      "end": 30.28,
+      "text": "Carreguei de cerveja, pinga, carne e cigarro"
+    },
+    {
+      "start": 30.28,
+      "end": 35.22,
+      "text": "E quando eu tava saindo, ela chegou emburrada"
+    },
+    {
+      "start": 35.22,
+      "end": 40.4,
+      "text": "Já vai gastar dinheiro, não tem vergonha na cara"
+    },
+    {
+      "start": 40.4,
+      "end": 117.02,
+      "text": "Frigando onde seba, irresponsa, dinheiro não tem vergonha na cara"
+    }
+  ],
+  "duracao_seg": 177.99,
+  "idioma_detectado": "pt"
+}

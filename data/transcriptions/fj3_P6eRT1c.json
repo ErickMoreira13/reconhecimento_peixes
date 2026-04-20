@@ -1,0 +1,17 @@
+{
+  "texto": "E aí galera, pescando aqui no Rio das Mortes Faz um pouquinho",
+  "segmentos": [
+    {
+      "start": 5.36,
+      "end": 8.54,
+      "text": "E aí galera, pescando aqui no Rio das Mortes"
+    },
+    {
+      "start": 8.54,
+      "end": 48.54,
+      "text": "Faz um pouquinho"
+    }
+  ],
+  "duracao_seg": 57.99,
+  "idioma_detectado": "pt"
+}
