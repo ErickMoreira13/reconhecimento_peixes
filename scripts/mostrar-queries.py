@@ -2,6 +2,7 @@
 # lista as queries do harvester loop em tabela legivel no terminal
 # chamado pelo `make queries`
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -23,6 +24,11 @@ def _status_label(status: str) -> str:
 
 
 def main():
+    # argparse so pro --help funcionar. nao tem flag real, so info
+    argparse.ArgumentParser(
+        description="lista queries do harvester loop com status colorido"
+    ).parse_args()
+
     rows = storage.lista_queries()
     print(ui_banners.banner_queries())
 
