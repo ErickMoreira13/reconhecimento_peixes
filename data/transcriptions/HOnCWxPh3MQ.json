@@ -1,0 +1,317 @@
+{
+  "texto": "Tá agitado aqui, hein? Aqui eu acho que eu pego, hein? Ó o rapaz aqui. Brabo, meu amigo. Brabo. Calma aí, meu primo. Calma. Brabo, desse tamanho. Pensei no peixe bonito, cara. Muito lindo. Bora soltar, bora soltar. Foi embora. Essa skin aqui é muito boa. Tem uns 3,5 gramas, se eu não me engano. Olha isso, cara. Uma piranha. Pegou minha articulada. Era isso que tava atacando. Cara, isso aqui é perigoso. Então, como é muito perigoso, vou tentar tirar com isso aqui. Tá reinando. Piranha. Isso aqui, meu amigo, cresce, que é uma desgraça. Estranhando a isca articulada. Bora ver se a gente pega mais um aqui. Peixe não, mas mata. Tem de quilo. Olha, rapaz. Mas olha já. Pequenininha. Bora soltar. E fui. Vou atrás de outro. Olha o safado. Esse peixe aqui, ele é muito sensível. Qualquer negocinho mata ele. Cara, isso aqui não dá pra meter a mão na boca, não. Saiu. Esse bichinho aqui, meu amigo, é brabo. Nossa, esse é grande, hein? Esse é grande. Puxa vida, saiu. Nossa, velho. Puxa. Se era maior, escapou. Aqui tem de quilo agora. E aí, mano, tranquilo? Uma bicuda isso aqui, meu amigo. É cachorro. Caramba. Um gato de matar o forro, meu amigo. Caramba, entrou no osso. Qual? Não. Não existe, não. Caramba. Esse aqui vai ter que... Não vai salvar. É, infelizmente, não vai dar pra liberar as casas. Que pena. Até morreu já. E aí, eu vou dar pra isso aqui. É isso aí, galera.",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 134.22,
+      "text": "Tá agitado aqui, hein?"
+    },
+    {
+      "start": 134.52,
+      "end": 161.54,
+      "text": "Aqui eu acho que eu pego, hein?"
+    },
+    {
+      "start": 250.01,
+      "end": 250.99,
+      "text": "Ó o rapaz aqui."
+    },
+    {
+      "start": 253.17,
+      "end": 254.75,
+      "text": "Brabo, meu amigo. Brabo."
+    },
+    {
+      "start": 261.27,
+      "end": 263.8,
+      "text": "Calma aí, meu primo. Calma."
+    },
+    {
+      "start": 264.24,
+      "end": 275.59,
+      "text": "Brabo, desse tamanho."
+    },
+    {
+      "start": 280.56,
+      "end": 282.06,
+      "text": "Pensei no peixe bonito, cara."
+    },
+    {
+      "start": 283.76,
+      "end": 284.38,
+      "text": "Muito lindo."
+    },
+    {
+      "start": 287.31,
+      "end": 288.65,
+      "text": "Bora soltar, bora soltar."
+    },
+    {
+      "start": 297.18,
+      "end": 298.56,
+      "text": "Foi embora."
+    },
+    {
+      "start": 301.52,
+      "end": 302.52,
+      "text": "Essa skin aqui é muito boa."
+    },
+    {
+      "start": 307.78,
+      "end": 310.12,
+      "text": "Tem uns 3,5 gramas, se eu não me engano."
+    },
+    {
+      "start": 384.99,
+      "end": 385.95,
+      "text": "Olha isso, cara."
+    },
+    {
+      "start": 386.03,
+      "end": 391.32,
+      "text": "Uma piranha."
+    },
+    {
+      "start": 394.45,
+      "end": 395.79,
+      "text": "Pegou minha articulada."
+    },
+    {
+      "start": 395.79,
+      "end": 401.97,
+      "text": "Era isso que tava atacando."
+    },
+    {
+      "start": 404.81,
+      "end": 405.95,
+      "text": "Cara, isso aqui é perigoso."
+    },
+    {
+      "start": 406.09,
+      "end": 414.03,
+      "text": "Então, como é muito perigoso,"
+    },
+    {
+      "start": 416.34,
+      "end": 417.6,
+      "text": "vou tentar tirar com isso aqui."
+    },
+    {
+      "start": 418.18,
+      "end": 443.47,
+      "text": "Tá reinando."
+    },
+    {
+      "start": 449.56,
+      "end": 450.04,
+      "text": "Piranha."
+    },
+    {
+      "start": 451.07,
+      "end": 454.27,
+      "text": "Isso aqui, meu amigo, cresce, que é uma desgraça."
+    },
+    {
+      "start": 462.58,
+      "end": 464.94,
+      "text": "Estranhando a isca articulada."
+    },
+    {
+      "start": 465.74,
+      "end": 469.66,
+      "text": "Bora ver se a gente pega mais um aqui."
+    },
+    {
+      "start": 482.24,
+      "end": 483.46,
+      "text": "Peixe não, mas mata."
+    },
+    {
+      "start": 486.87,
+      "end": 487.59,
+      "text": "Tem de quilo."
+    },
+    {
+      "start": 519.61,
+      "end": 520.35,
+      "text": "Olha, rapaz."
+    },
+    {
+      "start": 534.97,
+      "end": 535.71,
+      "text": "Mas olha já."
+    },
+    {
+      "start": 547.02,
+      "end": 547.62,
+      "text": "Pequenininha."
+    },
+    {
+      "start": 554.86,
+      "end": 555.54,
+      "text": "Bora soltar."
+    },
+    {
+      "start": 555.54,
+      "end": 561.51,
+      "text": "E fui."
+    },
+    {
+      "start": 566.74,
+      "end": 567.62,
+      "text": "Vou atrás de outro."
+    },
+    {
+      "start": 581.1,
+      "end": 582.1,
+      "text": "Olha o safado."
+    },
+    {
+      "start": 593.2,
+      "end": 594.98,
+      "text": "Esse peixe aqui, ele é muito sensível."
+    },
+    {
+      "start": 595.84,
+      "end": 597.2,
+      "text": "Qualquer negocinho mata ele."
+    },
+    {
+      "start": 614.21,
+      "end": 620.67,
+      "text": "Cara, isso aqui não dá pra meter a mão na boca, não."
+    },
+    {
+      "start": 624.84,
+      "end": 625.28,
+      "text": "Saiu."
+    },
+    {
+      "start": 625.76,
+      "end": 629.74,
+      "text": "Esse bichinho aqui, meu amigo, é brabo."
+    },
+    {
+      "start": 676.94,
+      "end": 678.12,
+      "text": "Nossa, esse é grande, hein?"
+    },
+    {
+      "start": 682.06,
+      "end": 682.86,
+      "text": "Esse é grande."
+    },
+    {
+      "start": 683.28,
+      "end": 684.88,
+      "text": "Puxa vida, saiu."
+    },
+    {
+      "start": 684.88,
+      "end": 687.79,
+      "text": "Nossa, velho."
+    },
+    {
+      "start": 688.29,
+      "end": 692.99,
+      "text": "Puxa."
+    },
+    {
+      "start": 693.55,
+      "end": 715.72,
+      "text": "Se era maior, escapou."
+    },
+    {
+      "start": 744.88,
+      "end": 746.18,
+      "text": "Aqui tem de quilo agora."
+    },
+    {
+      "start": 750.96,
+      "end": 751.72,
+      "text": "E aí, mano, tranquilo?"
+    },
+    {
+      "start": 752.24,
+      "end": 757.01,
+      "text": "Uma bicuda isso aqui, meu amigo."
+    },
+    {
+      "start": 757.09,
+      "end": 757.67,
+      "text": "É cachorro."
+    },
+    {
+      "start": 780.2,
+      "end": 780.72,
+      "text": "Caramba."
+    },
+    {
+      "start": 780.72,
+      "end": 788.77,
+      "text": "Um gato de matar o forro, meu amigo."
+    },
+    {
+      "start": 808.26,
+      "end": 809.66,
+      "text": "Caramba, entrou no osso."
+    },
+    {
+      "start": 812.31,
+      "end": 812.59,
+      "text": "Qual?"
+    },
+    {
+      "start": 812.85,
+      "end": 813.13,
+      "text": "Não."
+    },
+    {
+      "start": 813.47,
+      "end": 814.05,
+      "text": "Não existe, não."
+    },
+    {
+      "start": 816.52,
+      "end": 816.96,
+      "text": "Caramba."
+    },
+    {
+      "start": 817.08,
+      "end": 818.04,
+      "text": "Esse aqui vai ter que..."
+    },
+    {
+      "start": 818.04,
+      "end": 818.68,
+      "text": "Não vai salvar."
+    },
+    {
+      "start": 826.56,
+      "end": 830.35,
+      "text": "É, infelizmente, não vai dar pra liberar as casas."
+    },
+    {
+      "start": 832.58,
+      "end": 832.98,
+      "text": "Que pena."
+    },
+    {
+      "start": 833.44,
+      "end": 837.79,
+      "text": "Até morreu já."
+    },
+    {
+      "start": 837.79,
+      "end": 844.48,
+      "text": "E aí, eu vou dar pra isso aqui."
+    },
+    {
+      "start": 845.04,
+      "end": 845.82,
+      "text": "É isso aí, galera."
+    }
+  ],
+  "duracao_seg": 849.89,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,92 @@
+{
+  "texto": "Dá pra pirarucu. Vai pegar o pirarucu ali, ó. Aí, dá pra ele aqui, ó. Olha lá o bichão lá, ó. Filma, dá pra pirarucuzão aí, ó. Joga na água. Joga lá, joga lá nele lá, joga nele lá, joga nele lá. Joga, deixa ele bocanhar. Vai. Vou pegar os pés da mão, vai, aqui, ó. Tem que jogar perto da boca dele. Aí, ó. Aí, ó. Segura, segura, segura. Aí, garoto. Mano, ele é cão, não. É isso aí, garoto. Será que ele pode me puxar por aí?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "Dá pra pirarucu. Vai pegar o pirarucu ali, ó."
+    },
+    {
+      "start": 3.26,
+      "end": 4.32,
+      "text": "Aí, dá pra ele aqui, ó."
+    },
+    {
+      "start": 4.44,
+      "end": 5.9,
+      "text": "Olha lá o bichão lá, ó."
+    },
+    {
+      "start": 7.46,
+      "end": 8.78,
+      "text": "Filma, dá pra pirarucuzão aí, ó."
+    },
+    {
+      "start": 10.04,
+      "end": 10.7,
+      "text": "Joga na água."
+    },
+    {
+      "start": 16.95,
+      "end": 18.69,
+      "text": "Joga lá, joga lá nele lá, joga nele lá, joga nele lá."
+    },
+    {
+      "start": 22.25,
+      "end": 23.57,
+      "text": "Joga, deixa ele bocanhar."
+    },
+    {
+      "start": 24.58,
+      "end": 24.9,
+      "text": "Vai."
+    },
+    {
+      "start": 26.35,
+      "end": 27.95,
+      "text": "Vou pegar os pés da mão, vai, aqui, ó."
+    },
+    {
+      "start": 28.57,
+      "end": 29.51,
+      "text": "Tem que jogar perto da boca dele."
+    },
+    {
+      "start": 29.97,
+      "end": 30.31,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 30.59,
+      "end": 30.95,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 32.29,
+      "end": 33.41,
+      "text": "Segura, segura, segura."
+    },
+    {
+      "start": 33.49,
+      "end": 34.41,
+      "text": "Aí, garoto."
+    },
+    {
+      "start": 35.75,
+      "end": 36.91,
+      "text": "Mano, ele é cão, não."
+    },
+    {
+      "start": 36.91,
+      "end": 37.97,
+      "text": "É isso aí, garoto."
+    },
+    {
+      "start": 37.97,
+      "end": 39.81,
+      "text": "Será que ele pode me puxar por aí?"
+    }
+  ],
+  "duracao_seg": 39.85,
+  "idioma_detectado": "pt"
+}

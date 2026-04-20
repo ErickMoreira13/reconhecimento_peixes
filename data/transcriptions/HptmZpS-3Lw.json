@@ -1,0 +1,17 @@
+{
+  "texto": "E a caminar, uma noite hermosa, mas de repente se quedou sem luz a cidade E iluminou tudo o que será, o que será, e eu quero contar",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 46.92,
+      "text": "E a caminar, uma noite hermosa, mas de repente se quedou sem luz a cidade"
+    },
+    {
+      "start": 46.92,
+      "end": 59.33,
+      "text": "E iluminou tudo o que será, o que será, e eu quero contar"
+    }
+  ],
+  "duracao_seg": 59.35,
+  "idioma_detectado": "pt"
+}

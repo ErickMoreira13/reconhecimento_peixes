@@ -1,0 +1,42 @@
+{
+  "texto": "O que é bom? O que eu estou fazendo? O que é bom? O que é bom? O que é bom? O que é bom? O que é bom?",
+  "segmentos": [
+    {
+      "start": 1.71,
+      "end": 2.45,
+      "text": "O que é bom?"
+    },
+    {
+      "start": 2.45,
+      "end": 2.75,
+      "text": "O que eu estou fazendo?"
+    },
+    {
+      "start": 2.75,
+      "end": 2.97,
+      "text": "O que é bom?"
+    },
+    {
+      "start": 2.97,
+      "end": 4.54,
+      "text": "O que é bom?"
+    },
+    {
+      "start": 4.54,
+      "end": 4.98,
+      "text": "O que é bom?"
+    },
+    {
+      "start": 4.98,
+      "end": 5.08,
+      "text": "O que é bom?"
+    },
+    {
+      "start": 5.08,
+      "end": 5.24,
+      "text": "O que é bom?"
+    }
+  ],
+  "duracao_seg": 18.09,
+  "idioma_detectado": "pt"
+}

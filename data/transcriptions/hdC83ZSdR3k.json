@@ -1,0 +1,72 @@
+{
+  "texto": "Esse aqui é uma caçapa. Não é aquele dia que eu tava... Saltou aqui, mano. Rapaz. Já era aqui da... No meio da canela. Aí. Opa, já tava saltando aí. Olha aí, galera. Essa primeira aqui vai pro meu amigo lá de Roraio. Vai lá, ô. Olha aí. Pastura aqui, galera.",
+  "segmentos": [
+    {
+      "start": 10.22,
+      "end": 20.38,
+      "text": "Esse aqui é uma caçapa."
+    },
+    {
+      "start": 28.66,
+      "end": 30.66,
+      "text": "Não é aquele dia que eu tava..."
+    },
+    {
+      "start": 30.66,
+      "end": 32.66,
+      "text": "Saltou aqui, mano."
+    },
+    {
+      "start": 32.66,
+      "end": 35.58,
+      "text": "Rapaz."
+    },
+    {
+      "start": 35.58,
+      "end": 37.58,
+      "text": "Já era aqui da..."
+    },
+    {
+      "start": 37.58,
+      "end": 39.97,
+      "text": "No meio da canela."
+    },
+    {
+      "start": 39.97,
+      "end": 45.9,
+      "text": "Aí."
+    },
+    {
+      "start": 45.9,
+      "end": 49.7,
+      "text": "Opa, já tava saltando aí."
+    },
+    {
+      "start": 49.7,
+      "end": 59.76,
+      "text": "Olha aí, galera."
+    },
+    {
+      "start": 59.76,
+      "end": 61.76,
+      "text": "Essa primeira aqui vai pro meu amigo lá de Roraio."
+    },
+    {
+      "start": 61.76,
+      "end": 64.43,
+      "text": "Vai lá, ô."
+    },
+    {
+      "start": 64.43,
+      "end": 66.72,
+      "text": "Olha aí."
+    },
+    {
+      "start": 66.72,
+      "end": 68.72,
+      "text": "Pastura aqui, galera."
+    }
+  ],
+  "duracao_seg": 68.31,
+  "idioma_detectado": "pt"
+}

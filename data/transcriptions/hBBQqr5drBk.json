@@ -1,0 +1,17 @@
+{
+  "texto": "tilápia. É tilápia? Olha quem tá ali no meio, ó. Duas traíra. Duas traíra. É no meio das ovelhas. No meio das ovelhas. No meio das ovelhas tem. Elas tragam na hora.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.73,
+      "text": "tilápia. É tilápia? Olha quem tá ali no meio, ó. Duas traíra. Duas traíra. É no meio das ovelhas."
+    },
+    {
+      "start": 9.73,
+      "end": 14.73,
+      "text": "No meio das ovelhas. No meio das ovelhas tem. Elas tragam na hora."
+    }
+  ],
+  "duracao_seg": 14.85,
+  "idioma_detectado": "pt"
+}

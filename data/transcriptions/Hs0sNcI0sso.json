@@ -1,0 +1,47 @@
+{
+  "texto": "E aí, juridinho! Levanta aí, Marcelo! E aí, que beijo! E aí! Fica só um mole de encordo! Fica ligado, sacado! Oh, beleza! Aqui é rápido! Aqui é até carca pequeno! E aí, juridinho!",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 2.7,
+      "text": "E aí, juridinho! Levanta aí, Marcelo!"
+    },
+    {
+      "start": 3.74,
+      "end": 5.4,
+      "text": "E aí, que beijo!"
+    },
+    {
+      "start": 5.8,
+      "end": 6.16,
+      "text": "E aí!"
+    },
+    {
+      "start": 6.62,
+      "end": 13.13,
+      "text": "Fica só um mole de encordo!"
+    },
+    {
+      "start": 13.45,
+      "end": 14.27,
+      "text": "Fica ligado, sacado!"
+    },
+    {
+      "start": 15.12,
+      "end": 16.78,
+      "text": "Oh, beleza! Aqui é rápido!"
+    },
+    {
+      "start": 17.02,
+      "end": 17.94,
+      "text": "Aqui é até carca pequeno!"
+    },
+    {
+      "start": 19.21,
+      "end": 20.65,
+      "text": "E aí, juridinho!"
+    }
+  ],
+  "duracao_seg": 21.95,
+  "idioma_detectado": "pt"
+}

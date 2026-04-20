@@ -1,0 +1,27 @@
+{
+  "texto": "E o conto, pra nas igrejas pregar Os irmão tudo pagando Pra ouvir ele falar Ficam aí, vai, vai",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "E o conto, pra nas igrejas pregar"
+    },
+    {
+      "start": 2.22,
+      "end": 4.16,
+      "text": "Os irmão tudo pagando"
+    },
+    {
+      "start": 4.16,
+      "end": 5.94,
+      "text": "Pra ouvir ele falar"
+    },
+    {
+      "start": 5.94,
+      "end": 18.62,
+      "text": "Ficam aí, vai, vai"
+    }
+  ],
+  "duracao_seg": 39.55,
+  "idioma_detectado": "pt"
+}

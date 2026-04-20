@@ -1,0 +1,17 @@
+{
+  "texto": "Tem uma tarrafa aí, mas é uma tarrafa aquela menina. Se ela lá gostar a queda, o cara não quer mais.",
+  "segmentos": [
+    {
+      "start": 5.33,
+      "end": 7.71,
+      "text": "Tem uma tarrafa aí, mas é uma tarrafa aquela menina."
+    },
+    {
+      "start": 8.58,
+      "end": 10.62,
+      "text": "Se ela lá gostar a queda, o cara não quer mais."
+    }
+  ],
+  "duracao_seg": 11.81,
+  "idioma_detectado": "pt"
+}

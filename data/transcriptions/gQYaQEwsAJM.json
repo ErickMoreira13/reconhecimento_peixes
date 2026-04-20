@@ -1,0 +1,217 @@
+{
+  "texto": "E gente, a pescaria de hoje vai ser com camarão vivo. Bora lá pra ver se tem. Vou pegar só os maiorzinhos. Olha o tamanho de cada um. Agora vamos chegando aqui no ponto de pesca. E vamos ver se dá alguma coisa hoje. Opa, beliscou. Bate-lapinha. Opa, beliscou. Traeira. Oh, perdeu. O senhor quase levou minha vara embora. Roubalo? Eu acho que é um roubalo. Não tô nada. Hoje eu não vim pra mim, trouxa. Eu acho que é. É um roubalo. Rapaz, bicho bonito, hein? Se eu não seguro, se eu não piso na varinha na hora que ele puxou, não segurava. Porque eu tô pescando aqui a tilapinha, né? E ver se roubalo. Deixa ela crescer, vamos soltar ela. Bateu nas varas duas vezes, ó. Traeira. Traeirinha. Vai crescer, traeirinha. Aí, ó. Bichinha bonita. A tilapinha boa. Tamanho bom. Traeirinha. Fim de tarde. Acabou a pescaria. Espero que vocês tenham gostado. E se inscreve lá. Valeu. Tchau. Tchau. Tchau. Tchau. Tchau.",
+  "segmentos": [
+    {
+      "start": 18.93,
+      "end": 22.83,
+      "text": "E gente, a pescaria de hoje vai ser com camarão vivo."
+    },
+    {
+      "start": 23.57,
+      "end": 24.57,
+      "text": "Bora lá pra ver se tem."
+    },
+    {
+      "start": 51.28,
+      "end": 52.6,
+      "text": "Vou pegar só os maiorzinhos."
+    },
+    {
+      "start": 75.31,
+      "end": 76.35,
+      "text": "Olha o tamanho de cada um."
+    },
+    {
+      "start": 105.1,
+      "end": 108.32,
+      "text": "Agora vamos chegando aqui no ponto de pesca."
+    },
+    {
+      "start": 109.24,
+      "end": 111.14,
+      "text": "E vamos ver se dá alguma coisa hoje."
+    },
+    {
+      "start": 138.46,
+      "end": 139.26,
+      "text": "Opa, beliscou."
+    },
+    {
+      "start": 139.88,
+      "end": 143.6,
+      "text": "Bate-lapinha."
+    },
+    {
+      "start": 144.18,
+      "end": 154.49,
+      "text": "Opa, beliscou."
+    },
+    {
+      "start": 158.54,
+      "end": 159.1,
+      "text": "Traeira."
+    },
+    {
+      "start": 159.58,
+      "end": 214.15,
+      "text": "Oh, perdeu."
+    },
+    {
+      "start": 233.88,
+      "end": 235.2,
+      "text": "O senhor quase levou minha vara embora."
+    },
+    {
+      "start": 238.59,
+      "end": 239.07,
+      "text": "Roubalo?"
+    },
+    {
+      "start": 239.61,
+      "end": 240.75,
+      "text": "Eu acho que é um roubalo."
+    },
+    {
+      "start": 240.75,
+      "end": 256.44,
+      "text": "Não tô nada."
+    },
+    {
+      "start": 258.3,
+      "end": 259.5,
+      "text": "Hoje eu não vim pra mim, trouxa."
+    },
+    {
+      "start": 271.12,
+      "end": 271.84,
+      "text": "Eu acho que é."
+    },
+    {
+      "start": 272.22,
+      "end": 275.06,
+      "text": "É um roubalo."
+    },
+    {
+      "start": 318.74,
+      "end": 320.82,
+      "text": "Rapaz, bicho bonito, hein?"
+    },
+    {
+      "start": 321.64,
+      "end": 326.32,
+      "text": "Se eu não seguro, se eu não piso na varinha na hora que ele puxou, não segurava."
+    },
+    {
+      "start": 326.68,
+      "end": 328.44,
+      "text": "Porque eu tô pescando aqui a tilapinha, né?"
+    },
+    {
+      "start": 329.5,
+      "end": 331.28,
+      "text": "E ver se roubalo."
+    },
+    {
+      "start": 378.86,
+      "end": 380.26,
+      "text": "Deixa ela crescer, vamos soltar ela."
+    },
+    {
+      "start": 412.35,
+      "end": 489.77,
+      "text": "Bateu nas varas duas vezes, ó."
+    },
+    {
+      "start": 490.17,
+      "end": 492.17,
+      "text": "Traeira."
+    },
+    {
+      "start": 493.89,
+      "end": 494.49,
+      "text": "Traeirinha."
+    },
+    {
+      "start": 494.91,
+      "end": 501.02,
+      "text": "Vai crescer, traeirinha."
+    },
+    {
+      "start": 524.29,
+      "end": 524.63,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 524.63,
+      "end": 525.53,
+      "text": "Bichinha bonita."
+    },
+    {
+      "start": 526.78,
+      "end": 528.18,
+      "text": "A tilapinha boa."
+    },
+    {
+      "start": 528.4,
+      "end": 528.88,
+      "text": "Tamanho bom."
+    },
+    {
+      "start": 559.68,
+      "end": 560.2,
+      "text": "Traeirinha."
+    },
+    {
+      "start": 621.28,
+      "end": 622.14,
+      "text": "Fim de tarde."
+    },
+    {
+      "start": 622.96,
+      "end": 623.98,
+      "text": "Acabou a pescaria."
+    },
+    {
+      "start": 624.56,
+      "end": 626.02,
+      "text": "Espero que vocês tenham gostado."
+    },
+    {
+      "start": 626.58,
+      "end": 627.28,
+      "text": "E se inscreve lá."
+    },
+    {
+      "start": 628.17,
+      "end": 628.63,
+      "text": "Valeu."
+    },
+    {
+      "start": 628.63,
+      "end": 629.63,
+      "text": "Tchau."
+    },
+    {
+      "start": 629.63,
+      "end": 630.63,
+      "text": "Tchau."
+    },
+    {
+      "start": 630.63,
+      "end": 631.63,
+      "text": "Tchau."
+    },
+    {
+      "start": 631.63,
+      "end": 632.63,
+      "text": "Tchau."
+    },
+    {
+      "start": 632.63,
+      "end": 633.63,
+      "text": "Tchau."
+    }
+  ],
+  "duracao_seg": 633.97,
+  "idioma_detectado": "pt"
+}

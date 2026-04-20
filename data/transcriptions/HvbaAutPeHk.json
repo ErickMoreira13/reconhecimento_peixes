@@ -1,0 +1,142 @@
+{
+  "texto": "Aí, essa é boa. Boa, e o Passaguá? É isso que eu falo pra você. Tamanho. Falei pra você, cadê o Passaguá? Não, não, tem a mão dela, não, cadê? Cadê o Passaguá? Peguei debaixo da ponte, peguei uma de 4 quilos, sem Passaguá também. Consegui tirar porque tinha, ó, ovo. Ela deitou assim, ela veio por cima. Lambarizinho. No fundo. Chegou no fundo uma enroladinha. Ele tá meio emocionado. Rapaz, mas essa aqui é grandinha. No meio dos dois. Rapaz, tudo nesse porte. Tudo as isca com piranha. Por fim, nós foi ali e pescamos ali. Eu mostrei. Aí, ó. Briga. Gostoso, hein? Valeu. Deve sair lá. Não, não, cabe aqui sim. Essas aqui são as mais miúdas.",
+  "segmentos": [
+    {
+      "start": 8.75,
+      "end": 10.47,
+      "text": "Aí, essa é boa."
+    },
+    {
+      "start": 18.95,
+      "end": 19.75,
+      "text": "Boa, e o Passaguá?"
+    },
+    {
+      "start": 20.37,
+      "end": 22.18,
+      "text": "É isso que eu falo pra você."
+    },
+    {
+      "start": 35.0,
+      "end": 35.44,
+      "text": "Tamanho."
+    },
+    {
+      "start": 36.46,
+      "end": 37.7,
+      "text": "Falei pra você, cadê o Passaguá?"
+    },
+    {
+      "start": 38.18,
+      "end": 45.58,
+      "text": "Não, não, tem a mão dela, não, cadê?"
+    },
+    {
+      "start": 48.69,
+      "end": 49.75,
+      "text": "Cadê o Passaguá?"
+    },
+    {
+      "start": 50.19,
+      "end": 61.87,
+      "text": "Peguei debaixo da ponte, peguei uma de 4 quilos, sem Passaguá também."
+    },
+    {
+      "start": 65.47,
+      "end": 68.14,
+      "text": "Consegui tirar porque tinha, ó, ovo."
+    },
+    {
+      "start": 68.76,
+      "end": 70.78,
+      "text": "Ela deitou assim, ela veio por cima."
+    },
+    {
+      "start": 73.42,
+      "end": 74.1,
+      "text": "Lambarizinho."
+    },
+    {
+      "start": 76.76,
+      "end": 77.6,
+      "text": "No fundo."
+    },
+    {
+      "start": 77.98,
+      "end": 79.46,
+      "text": "Chegou no fundo uma enroladinha."
+    },
+    {
+      "start": 79.46,
+      "end": 149.29,
+      "text": "Ele tá meio emocionado."
+    },
+    {
+      "start": 154.39,
+      "end": 155.73,
+      "text": "Rapaz, mas essa aqui é grandinha."
+    },
+    {
+      "start": 156.15,
+      "end": 171.87,
+      "text": "No meio dos dois."
+    },
+    {
+      "start": 172.7,
+      "end": 174.02,
+      "text": "Rapaz, tudo nesse porte."
+    },
+    {
+      "start": 174.48,
+      "end": 244.65,
+      "text": "Tudo as isca com piranha."
+    },
+    {
+      "start": 245.31,
+      "end": 248.17,
+      "text": "Por fim, nós foi ali e pescamos ali."
+    },
+    {
+      "start": 248.61,
+      "end": 252.44,
+      "text": "Eu mostrei."
+    },
+    {
+      "start": 253.48,
+      "end": 253.96,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 260.64,
+      "end": 261.12,
+      "text": "Briga."
+    },
+    {
+      "start": 261.28,
+      "end": 261.88,
+      "text": "Gostoso, hein?"
+    },
+    {
+      "start": 265.92,
+      "end": 266.36,
+      "text": "Valeu."
+    },
+    {
+      "start": 272.26,
+      "end": 273.08,
+      "text": "Deve sair lá."
+    },
+    {
+      "start": 276.23,
+      "end": 277.23,
+      "text": "Não, não, cabe aqui sim."
+    },
+    {
+      "start": 278.15,
+      "end": 279.13,
+      "text": "Essas aqui são as mais miúdas."
+    }
+  ],
+  "duracao_seg": 279.21,
+  "idioma_detectado": "pt"
+}

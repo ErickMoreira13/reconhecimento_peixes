@@ -1,0 +1,27 @@
+{
+  "texto": "Velho guardado no seio das matas sem fim Pisouro perdido de nós Distante do bem e do mal Filho do Pantanal",
+  "segmentos": [
+    {
+      "start": 1.94,
+      "end": 7.33,
+      "text": "Velho guardado no seio das matas sem fim"
+    },
+    {
+      "start": 7.33,
+      "end": 11.29,
+      "text": "Pisouro perdido de nós"
+    },
+    {
+      "start": 11.29,
+      "end": 14.41,
+      "text": "Distante do bem e do mal"
+    },
+    {
+      "start": 14.41,
+      "end": 16.77,
+      "text": "Filho do Pantanal"
+    }
+  ],
+  "duracao_seg": 16.99,
+  "idioma_detectado": "pt"
+}

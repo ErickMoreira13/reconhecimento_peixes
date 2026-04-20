@@ -1,0 +1,17 @@
+{
+  "texto": "Para pegar esse tanto de tucunaré, se foi de anzol, é certeza que o pescador estava usando lambari vivo. É uma isca difícil de conseguir, mas para pescar tucunaré não tem erro.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 7.74,
+      "text": "Para pegar esse tanto de tucunaré, se foi de anzol, é certeza que o pescador estava usando lambari vivo."
+    },
+    {
+      "start": 7.74,
+      "end": 13.68,
+      "text": "É uma isca difícil de conseguir, mas para pescar tucunaré não tem erro."
+    }
+  ],
+  "duracao_seg": 13.83,
+  "idioma_detectado": "pt"
+}

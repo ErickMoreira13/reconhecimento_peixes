@@ -1,0 +1,27 @@
+{
+  "texto": "Vamos ver Olha o rodelo Agora já foi Agora já foi",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "Vamos ver"
+    },
+    {
+      "start": 0.96,
+      "end": 2.26,
+      "text": "Olha o rodelo"
+    },
+    {
+      "start": 2.26,
+      "end": 13.96,
+      "text": "Agora já foi"
+    },
+    {
+      "start": 13.96,
+      "end": 15.6,
+      "text": "Agora já foi"
+    }
+  ],
+  "duracao_seg": 15.73,
+  "idioma_detectado": "pt"
+}

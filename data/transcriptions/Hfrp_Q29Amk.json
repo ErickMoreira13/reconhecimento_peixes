@@ -1,0 +1,22 @@
+{
+  "texto": "Aí galera, pescaria hoje na Mini Robusta Pra mostrar que tamanho não é documento Bora pegar o peixe",
+  "segmentos": [
+    {
+      "start": 3.66,
+      "end": 6.46,
+      "text": "Aí galera, pescaria hoje na Mini Robusta"
+    },
+    {
+      "start": 6.46,
+      "end": 9.56,
+      "text": "Pra mostrar que tamanho não é documento"
+    },
+    {
+      "start": 9.56,
+      "end": 56.97,
+      "text": "Bora pegar o peixe"
+    }
+  ],
+  "duracao_seg": 57.11,
+  "idioma_detectado": "pt"
+}

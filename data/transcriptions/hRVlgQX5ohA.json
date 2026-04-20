@@ -1,0 +1,97 @@
+{
+  "texto": "O bicho pega o camarãozinho, ó E fica aqui, ó Na bundinha do camarão, ó E ele vai ficar assim Vai ficar assim E é só jogar lá Arremesso lá Bora esperar os tucuna bater Tá? No toque, ó E no toque o bicho pega aí, ó Olha aí, ó Olha aí Ô, tucuna bom Cuida Olha aí o amarelinho Viu, rapaziada? É assim que se pega o tucunar, né?",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 1.72,
+      "text": "O bicho pega o camarãozinho, ó"
+    },
+    {
+      "start": 1.72,
+      "end": 2.9,
+      "text": "E fica aqui, ó"
+    },
+    {
+      "start": 2.9,
+      "end": 5.62,
+      "text": "Na bundinha do camarão, ó"
+    },
+    {
+      "start": 5.62,
+      "end": 6.76,
+      "text": "E ele vai ficar assim"
+    },
+    {
+      "start": 6.76,
+      "end": 11.03,
+      "text": "Vai ficar assim"
+    },
+    {
+      "start": 11.03,
+      "end": 12.63,
+      "text": "E é só jogar lá"
+    },
+    {
+      "start": 12.63,
+      "end": 16.72,
+      "text": "Arremesso lá"
+    },
+    {
+      "start": 16.72,
+      "end": 21.03,
+      "text": "Bora esperar os tucuna bater"
+    },
+    {
+      "start": 21.03,
+      "end": 24.43,
+      "text": "Tá?"
+    },
+    {
+      "start": 24.73,
+      "end": 26.13,
+      "text": "No toque, ó"
+    },
+    {
+      "start": 26.13,
+      "end": 29.48,
+      "text": "E no toque o bicho pega aí, ó"
+    },
+    {
+      "start": 29.48,
+      "end": 31.24,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 31.24,
+      "end": 32.18,
+      "text": "Olha aí"
+    },
+    {
+      "start": 32.18,
+      "end": 35.34,
+      "text": "Ô, tucuna bom"
+    },
+    {
+      "start": 35.34,
+      "end": 36.52,
+      "text": "Cuida"
+    },
+    {
+      "start": 36.52,
+      "end": 44.24,
+      "text": "Olha aí o amarelinho"
+    },
+    {
+      "start": 44.24,
+      "end": 49.38,
+      "text": "Viu, rapaziada?"
+    },
+    {
+      "start": 49.38,
+      "end": 51.42,
+      "text": "É assim que se pega o tucunar, né?"
+    }
+  ],
+  "duracao_seg": 59.03,
+  "idioma_detectado": "pt"
+}

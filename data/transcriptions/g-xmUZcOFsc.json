@@ -1,0 +1,27 @@
+{
+  "texto": "Ando devagar porque já tive pressa e não veste sorriso Porque já chorei demais Hoje me sinto mais forte, mais feliz, quem sabe Só levo a certeza de que muito pouco eu sei",
+  "segmentos": [
+    {
+      "start": 2.13,
+      "end": 8.03,
+      "text": "Ando devagar porque já tive pressa e não veste sorriso"
+    },
+    {
+      "start": 8.03,
+      "end": 10.71,
+      "text": "Porque já chorei demais"
+    },
+    {
+      "start": 10.71,
+      "end": 17.65,
+      "text": "Hoje me sinto mais forte, mais feliz, quem sabe"
+    },
+    {
+      "start": 17.65,
+      "end": 22.71,
+      "text": "Só levo a certeza de que muito pouco eu sei"
+    }
+  ],
+  "duracao_seg": 29.81,
+  "idioma_detectado": "pt"
+}

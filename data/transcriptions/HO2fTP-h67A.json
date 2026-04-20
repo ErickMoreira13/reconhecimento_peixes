@@ -1,0 +1,77 @@
+{
+  "texto": "Olha a bruta. Olha aí, ó. Eu, Marcelão. Olha aí, Léo. Léo Nakamura. Essa é para você, hein? Aí sim, hein? Passei nela aqui. Olha. Olha. Top demais. Valeu, galera. Ficha em compra e chama Aris Pesca. Tamo junto.",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 1.4,
+      "text": "Olha a bruta."
+    },
+    {
+      "start": 2.9,
+      "end": 3.46,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 3.54,
+      "end": 4.42,
+      "text": "Eu, Marcelão."
+    },
+    {
+      "start": 4.92,
+      "end": 5.44,
+      "text": "Olha aí, Léo."
+    },
+    {
+      "start": 5.52,
+      "end": 6.22,
+      "text": "Léo Nakamura."
+    },
+    {
+      "start": 6.42,
+      "end": 7.24,
+      "text": "Essa é para você, hein?"
+    },
+    {
+      "start": 7.8,
+      "end": 8.5,
+      "text": "Aí sim, hein?"
+    },
+    {
+      "start": 9.26,
+      "end": 10.12,
+      "text": "Passei nela aqui."
+    },
+    {
+      "start": 10.32,
+      "end": 10.52,
+      "text": "Olha."
+    },
+    {
+      "start": 11.56,
+      "end": 11.84,
+      "text": "Olha."
+    },
+    {
+      "start": 13.48,
+      "end": 14.22,
+      "text": "Top demais."
+    },
+    {
+      "start": 14.4,
+      "end": 14.98,
+      "text": "Valeu, galera."
+    },
+    {
+      "start": 15.42,
+      "end": 16.9,
+      "text": "Ficha em compra e chama Aris Pesca."
+    },
+    {
+      "start": 17.52,
+      "end": 18.1,
+      "text": "Tamo junto."
+    }
+  ],
+  "duracao_seg": 18.87,
+  "idioma_detectado": "pt"
+}

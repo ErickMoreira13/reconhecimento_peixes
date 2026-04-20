@@ -1,0 +1,37 @@
+{
+  "texto": "o larana rosa que orando eu eu sou a eu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.02,
+      "text": "o larana rosa"
+    },
+    {
+      "start": 4.02,
+      "end": 6.02,
+      "text": "que"
+    },
+    {
+      "start": 6.02,
+      "end": 8.27,
+      "text": "orando"
+    },
+    {
+      "start": 8.27,
+      "end": 11.14,
+      "text": "eu"
+    },
+    {
+      "start": 11.14,
+      "end": 13.14,
+      "text": "eu sou a"
+    },
+    {
+      "start": 13.14,
+      "end": 15.14,
+      "text": "eu"
+    }
+  ],
+  "duracao_seg": 15.49,
+  "idioma_detectado": "pt"
+}

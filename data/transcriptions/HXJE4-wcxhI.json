@@ -1,0 +1,27 @@
+{
+  "texto": "Boa tarde galera, vou dar uma mergulhada aqui no rio Xingu Estamos aqui agora na parte da tarde Vamos fazer um teste aqui pessoal Esse eu pergunto com maré",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 5.62,
+      "text": "Boa tarde galera, vou dar uma mergulhada aqui no rio Xingu"
+    },
+    {
+      "start": 5.62,
+      "end": 8.23,
+      "text": "Estamos aqui agora na parte da tarde"
+    },
+    {
+      "start": 8.23,
+      "end": 12.5,
+      "text": "Vamos fazer um teste aqui pessoal"
+    },
+    {
+      "start": 12.5,
+      "end": 14.5,
+      "text": "Esse eu pergunto com maré"
+    }
+  ],
+  "duracao_seg": 118.69,
+  "idioma_detectado": "pt"
+}

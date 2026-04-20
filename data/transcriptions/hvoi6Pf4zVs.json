@@ -1,0 +1,22 @@
+{
+  "texto": "aí eu vou mais de pertinho pegou no xad cara ela gosta ainda nem que ela não comeu um rabino entrou no nariz um show que eu mostrar aqui pra galera é muito grande é grande um",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 6.37,
+      "text": "aí eu vou mais de pertinho pegou no xad"
+    },
+    {
+      "start": 6.37,
+      "end": 10.37,
+      "text": "cara ela gosta ainda nem que ela não comeu um rabino entrou no nariz"
+    },
+    {
+      "start": 10.37,
+      "end": 17.51,
+      "text": "um show que eu mostrar aqui pra galera é muito grande é grande um"
+    }
+  ],
+  "duracao_seg": 17.53,
+  "idioma_detectado": "pt"
+}

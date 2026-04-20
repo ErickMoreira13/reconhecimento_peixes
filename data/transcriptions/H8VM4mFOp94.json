@@ -1,0 +1,27 @@
+{
+  "texto": "E aí entrou o primeiro ai que que vem meu Deus do céu tô com um anzol pequeno entrou o primeiro entrou o primeiro entrou o primeiro entrou o primeiro barbadinho barbadinho o primeiro da temporada escapou escapou anzolzinho pequeno eu uso anzol pequeno fino mas já animou já animou já animou vamos bater mais",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 7.61,
+      "text": "E aí entrou o primeiro ai que que vem meu Deus do céu tô com um anzol pequeno entrou o primeiro"
+    },
+    {
+      "start": 7.61,
+      "end": 15.72,
+      "text": "entrou o primeiro entrou o primeiro entrou o primeiro barbadinho barbadinho o primeiro"
+    },
+    {
+      "start": 15.72,
+      "end": 23.9,
+      "text": "da temporada escapou escapou anzolzinho pequeno eu uso anzol pequeno fino mas já animou já animou já"
+    },
+    {
+      "start": 23.9,
+      "end": 25.1,
+      "text": "animou vamos bater mais"
+    }
+  ],
+  "duracao_seg": 25.07,
+  "idioma_detectado": "pt"
+}

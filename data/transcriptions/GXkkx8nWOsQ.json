@@ -1,0 +1,27 @@
+{
+  "texto": "Aí estamos aqui na Lagoa da Lama Preta E aí Lucas, como é que é? Aí ó Já já vamos ver o que vai dar aqui",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 2.88,
+      "text": "Aí estamos aqui na Lagoa da Lama Preta"
+    },
+    {
+      "start": 2.88,
+      "end": 5.26,
+      "text": "E aí Lucas, como é que é?"
+    },
+    {
+      "start": 7.15,
+      "end": 7.69,
+      "text": "Aí ó"
+    },
+    {
+      "start": 7.69,
+      "end": 14.18,
+      "text": "Já já vamos ver o que vai dar aqui"
+    }
+  ],
+  "duracao_seg": 14.65,
+  "idioma_detectado": "pt"
+}

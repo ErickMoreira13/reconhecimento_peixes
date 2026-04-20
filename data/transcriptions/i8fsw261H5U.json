@@ -1,0 +1,17 @@
+{
+  "texto": "Esse peixe é um swordfish e esse carequinha está prestes a fazer besteira. Só poderia dar nisso.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "text": "Esse peixe é um swordfish e esse carequinha está prestes a fazer besteira."
+    },
+    {
+      "start": 6.24,
+      "end": 7.46,
+      "text": "Só poderia dar nisso."
+    }
+  ],
+  "duracao_seg": 7.91,
+  "idioma_detectado": "pt"
+}

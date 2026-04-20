@@ -1,0 +1,47 @@
+{
+  "texto": "Pelo celular, não tem noção do tamanho da bicha não Isso aqui é um vaso de 2 litros, velho Pelo amor de Deus, pô Aqui na ponta do vaso de 2 litros, olha pra ir Olha pra isso Olha pra ir Pra não dizer que é minha mentira, olha lá, vou botar certinho Tá vendo? Olha pra ir",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 3.1,
+      "text": "Pelo celular, não tem noção do tamanho da bicha não"
+    },
+    {
+      "start": 3.1,
+      "end": 4.38,
+      "text": "Isso aqui é um vaso de 2 litros, velho"
+    },
+    {
+      "start": 4.38,
+      "end": 6.32,
+      "text": "Pelo amor de Deus, pô"
+    },
+    {
+      "start": 6.32,
+      "end": 8.56,
+      "text": "Aqui na ponta do vaso de 2 litros, olha pra ir"
+    },
+    {
+      "start": 8.56,
+      "end": 9.52,
+      "text": "Olha pra isso"
+    },
+    {
+      "start": 9.52,
+      "end": 10.9,
+      "text": "Olha pra ir"
+    },
+    {
+      "start": 10.9,
+      "end": 14.8,
+      "text": "Pra não dizer que é minha mentira, olha lá, vou botar certinho"
+    },
+    {
+      "start": 14.8,
+      "end": 16.54,
+      "text": "Tá vendo? Olha pra ir"
+    }
+  ],
+  "duracao_seg": 17.21,
+  "idioma_detectado": "pt"
+}

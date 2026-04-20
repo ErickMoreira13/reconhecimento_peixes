@@ -1,0 +1,97 @@
+{
+  "texto": "Agarrado, agarrado com o brabo aqui, velho, brabo. Olha lá, Tota também, dublê, triplê, esse brabo. Olha o xarazão aí, ó. Qual foi aí, Nakamura? Rapaz, tá engatado com o brabo aí, velho. Só faz tomar linha aí, velho. Rapaz, o peixe tá mandando linha, velho. Olha lá, olha lá, deu coxa, xarazão. Tota agarrado também. Eita, porra. Porra. Isso é brabo, velho, esse é brabo. Brabo, velho. Olha o tamanho da bichona lá. Me ajuda aí. Eita, aracanguíra, caceteira. Me ajuda aí, me ajuda aí, velho. Caceteira.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.83,
+      "text": "Agarrado, agarrado com o brabo aqui, velho, brabo."
+    },
+    {
+      "start": 3.05,
+      "end": 7.29,
+      "text": "Olha lá, Tota também, dublê, triplê, esse brabo."
+    },
+    {
+      "start": 8.05,
+      "end": 8.95,
+      "text": "Olha o xarazão aí, ó."
+    },
+    {
+      "start": 9.55,
+      "end": 10.63,
+      "text": "Qual foi aí, Nakamura?"
+    },
+    {
+      "start": 11.03,
+      "end": 13.05,
+      "text": "Rapaz, tá engatado com o brabo aí, velho."
+    },
+    {
+      "start": 13.83,
+      "end": 15.13,
+      "text": "Só faz tomar linha aí, velho."
+    },
+    {
+      "start": 15.69,
+      "end": 16.95,
+      "text": "Rapaz, o peixe tá mandando linha, velho."
+    },
+    {
+      "start": 17.37,
+      "end": 19.61,
+      "text": "Olha lá, olha lá, deu coxa, xarazão."
+    },
+    {
+      "start": 19.95,
+      "end": 21.05,
+      "text": "Tota agarrado também."
+    },
+    {
+      "start": 21.85,
+      "end": 22.89,
+      "text": "Eita, porra."
+    },
+    {
+      "start": 23.88,
+      "end": 24.36,
+      "text": "Porra."
+    },
+    {
+      "start": 24.84,
+      "end": 26.44,
+      "text": "Isso é brabo, velho, esse é brabo."
+    },
+    {
+      "start": 26.94,
+      "end": 27.62,
+      "text": "Brabo, velho."
+    },
+    {
+      "start": 28.26,
+      "end": 29.66,
+      "text": "Olha o tamanho da bichona lá."
+    },
+    {
+      "start": 29.66,
+      "end": 30.22,
+      "text": "Me ajuda aí."
+    },
+    {
+      "start": 30.64,
+      "end": 32.28,
+      "text": "Eita, aracanguíra, caceteira."
+    },
+    {
+      "start": 32.3,
+      "end": 33.34,
+      "text": "Me ajuda aí, me ajuda aí, velho."
+    },
+    {
+      "start": 36.83,
+      "end": 37.19,
+      "text": "Caceteira."
+    }
+  ],
+  "duracao_seg": 37.39,
+  "idioma_detectado": "pt"
+}
