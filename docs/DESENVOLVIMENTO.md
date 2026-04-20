@@ -143,6 +143,23 @@ roteiro:
    `MODEL_EXTRATOR=<novo>`
 5. atualizar `docs/benchmark-modelos-*.md`
 
+## pre-commit hooks
+
+instala os hooks uma vez:
+
+```bash
+make install-hooks
+```
+
+a partir daí, todo `git commit` roda:
+
+1. **pytest -q** — falha se algum teste quebrou
+2. **valida json dos dicts** — pega corrupcao em src/dicts/*.json
+3. **ruff check** — pega bugs obvios (F + E9)
+
+se precisar commitar mesmo com hook falhando (raro): `git commit --no-verify`.
+melhor consertar o erro antes.
+
 ## fixes aplicados 2026-04-19
 
 revisamos 50 videos e aplicamos 8 fixes pros padroes de erro comuns.
