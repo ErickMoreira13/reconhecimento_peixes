@@ -57,6 +57,27 @@ EQUIPAMENTO_BLACKLIST = {
     "rede", "caiaque", "barco",
 }
 
+# palavras/expressoes genericas que NAO sao especies (fix 4).
+# vi 10+ casos nos 50 videos: bonito (adjetivo), paca (exclamacao/mamifero),
+# cimprao (giria de companheiro), pai tainha (saudacao), ceba (=ceva mal
+# transcrita), escar-viva (=isca viva mal transcrita), peixe grande,
+# peixe bonito, piau sul (=variedade, nao peixe especifico)
+ESPECIES_STOP_TERMS = {
+    # genericos
+    "peixe", "peixes", "bicho", "bichos", "especie", "especies",
+    "peixao", "peixinho", "peixaria",
+    # adjetivos confundidos
+    "bonito", "grande", "pequeno", "gigante", "bruto", "bruta",
+    # giriais/exclamacoes
+    "paca", "cimprao", "ceba", "escar",
+    # saudacoes/vocativos
+    "pai", "tainha",  # cuidado: tainha eh peixe marinho real. mas "pai tainha"
+                     # eh saudacao. a combinacao eh que eh suspeita. filtro
+                     # por tokens vai pegar "pai" -> rejeita.
+                     # false positive aceitavel ate lista melhor
+    "parceiro", "amigo", "galera", "rapaziada", "moleque",
+}
+
 
 def rio_aparece_no_texto(rio: str, transcricao: str) -> bool:
     # fix 2: rio precisa aparecer LITERALMENTE na transcricao.
@@ -178,6 +199,33 @@ def _passa_cross_field(nome_campo: str, campo: CampoExtraido, outros: dict[str, 
     return True, None
 
 
+def _eh_especie_generica(nome: str) -> bool:
+    # fix 4: detecta especies que sao na verdade palavras genericas/girai
+    if not nome:
+        return False
+    tokens = re.findall(r"\w+", nome.lower())
+    for t in tokens:
+        if t in ESPECIES_STOP_TERMS:
+            return True
+    return False
+
+
+def _passa_especies_stop_terms(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
+    # rejeita especies genericas. lista tipo [{"nome": "peixe grande"}] todas
+    # ou so algumas?
+    # politica atual: se QUALQUER item da lista for generico, rejeita o campo
+    # inteiro. melhor aceitar menos do que deixar lixo passar.
+    if nome_campo != "especies" or campo.valor is None:
+        return True, None
+    if not isinstance(campo.valor, list):
+        return True, None
+    for e in campo.valor:
+        nome = e.get("nome", "") if isinstance(e, dict) else str(e)
+        if _eh_especie_generica(nome):
+            return False, "contexto_irrelevante"
+    return True, None
+
+
 def _passa_tipo_ceva_blacklist(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
     # fix 3: rejeita tipo_ceva com termo de equipamento.
     # "vara de bambu", "carretilha avenado", "hunter bait" sao coisas de
@@ -251,6 +299,7 @@ def aplica_regras(
         lambda nc, c, t, o: _passa_ceva_keywords(nc, c, t),
         lambda nc, c, t, o: _passa_rio_aparece(nc, c, t),
         lambda nc, c, t, o: _passa_tipo_ceva_blacklist(nc, c),
+        lambda nc, c, t, o: _passa_especies_stop_terms(nc, c),
     ]
 
     for regra in ordem:
