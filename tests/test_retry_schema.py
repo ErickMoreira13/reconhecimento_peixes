@@ -153,7 +153,7 @@ def test_telemetria_acumula_entre_videos(monkeypatch):
     _patch_gliner(monkeypatch)
     _patch_gazetteer(monkeypatch)
     # video 1: schema ok. video 2: schema errado + retry ok. video 3: ok.
-    chamadas = _patch_ollama(monkeypatch, [
+    _patch_ollama(monkeypatch, [
         _json_ok(),
         _json_schema_errado(), _json_ok(),
         _json_ok(),
