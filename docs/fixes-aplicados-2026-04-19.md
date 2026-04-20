@@ -10,6 +10,8 @@ de erro. fix por fix:
 
 ## fix 1: tipo_ceva exige evidencia literal
 
+**issue**: [#12](https://github.com/ErickMoreira13/reconhecimento_peixes/issues/12)
+
 - **problema**: 50% dos videos tinham tipo_ceva errado (ceva_solta_na_agua
   como default quando nao havia ceva)
 - **solucao**:
@@ -19,6 +21,8 @@ de erro. fix por fix:
 
 ## fix 2: rio precisa aparecer no texto
 
+**issue**: [#13](https://github.com/ErickMoreira13/reconhecimento_peixes/issues/13)
+
 - **problema**: "Rio Sao Francisco" alucinado em 5 videos sem evidencia
 - **solucao**: funcao `rio_aparece_no_texto` (substring + fuzzy 85%) +
   regra `_passa_rio_aparece` que rejeita com `alucinacao_suspeita`
@@ -26,12 +30,16 @@ de erro. fix por fix:
 
 ## fix 3: blacklist de equipamento em tipo_ceva
 
+**issue**: [#14](https://github.com/ErickMoreira13/reconhecimento_peixes/issues/14)
+
 - **problema**: "vara de bambu", "Avenado GS" (carretilha), "Isquinha
   Hunter Bait" viraram tipo_ceva em 3 videos
 - **solucao**: `EQUIPAMENTO_BLACKLIST` + regra `_passa_tipo_ceva_blacklist`
 - **commits**: `cbb56a6`, `f0445d9`
 
 ## fix 4: stop-words de especies genericas
+
+**issue**: [#15](https://github.com/ErickMoreira13/reconhecimento_peixes/issues/15)
 
 - **problema**: 10+ casos de "bonito" (adjetivo), "paca" (mamifero),
   "cimprao" (giria), "pai tainha" (saudacao), "ceba" (ceva mal
@@ -41,6 +49,8 @@ de erro. fix por fix:
 
 ## fix 5: prompt isca vs especie alvo
 
+**issue**: [#16](https://github.com/ErickMoreira13/reconhecimento_peixes/issues/16)
+
 - **problema**: 7 videos com isca (camarao, piabao, lambari, piau)
   confundidas com especie alvo
 - **solucao**: prompt lista iscas tipicas (camarao, piabao, lambari,
@@ -48,6 +58,8 @@ de erro. fix por fix:
 - **commits**: `d6aee1c`, `8aaceb5`
 
 ## fix 6: UF nome -> sigla no prompt
+
+**issue**: [#17](https://github.com/ErickMoreira13/reconhecimento_peixes/issues/17)
 
 - **problema**: so 4 dos 50 videos tinham estado extraido, mesmo com
   mencao explicita a UF
@@ -57,6 +69,8 @@ de erro. fix por fix:
 
 ## fix 7: dicionario de bacias BR
 
+**issue**: [#18](https://github.com/ErickMoreira13/reconhecimento_peixes/issues/18)
+
 - **problema**: bacia=nome do rio em 6 casos (bacia=Rio Turvo etc) +
   bacia inventada ("Piracema", "Piau Sul")
 - **solucao**: `bacias_principais.json` com 12 bacias oficiais + aliases +
@@ -65,6 +79,8 @@ de erro. fix por fix:
 - **commits**: `72a768e`, `f4866d0`, `60a2b13`, `1642a74`
 
 ## fix 8: investigar bug chunking >4500 palavras
+
+**issue**: [#19](https://github.com/ErickMoreira13/reconhecimento_peixes/issues/19)
 
 - **problema**: 4 videos com >4500 palavras tinham TODOS os campos null
 - **hipotese**: prompt inflado (com hints dos fixes 1-7) + transcricao
