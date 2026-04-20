@@ -111,6 +111,9 @@ def busca_videos(query: str, max_videos: int = 50, ultimos_anos: int = 10) -> li
 def baixa_audio(url: str, out_dir: Path) -> Path | None:
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    # 2026-04-20: youtube endureceu o anti-bot. yt-dlp precisa de cookies
+    # do browser (brave aqui) + js_runtime (node) pra resolver os challenges
+    # de assinatura. sem isso da "Requested format is not available"
     ydl_opts = {
         "format": "bestaudio/best",
         "postprocessors": [{
@@ -121,6 +124,10 @@ def baixa_audio(url: str, out_dir: Path) -> Path | None:
         "outtmpl": str(out_dir / "%(id)s.%(ext)s"),
         "quiet": True,
         "no_warnings": True,
+        # cookies do brave logado no youtube
+        "cookiesfrombrowser": ("brave",),
+        # runtime pro challenge solver (precisa node no path)
+        "js_runtimes": {"node": {}},
     }
 
     try:

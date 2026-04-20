@@ -1,11 +1,9 @@
-# lista inicial de queries pro harvester_loop
-# ideia: variar ceva, grao, peixe-alvo, regiao, contexto (rio/represa/lagoa)
-# pra cobrir todo tipo de video. se uma query saturar rapido, adiciona variantes.
-#
-# cada entrada aqui vira uma linha na tabela queries do sqlite na primeira rodada
+# lista de queries pro harvester_loop
+# cada entrada vira uma linha na tabela queries do sqlite (upsert idempotente)
+# lista expandida 04:27 → 06:00 apos primeiras 31 saturarem
 
 queries:
-  # ceva + grao (genericas)
+  # -------- ceva + grao (originais) --------
   - pesca com ceva
   - pesca com ceva de milho
   - pesca com ceva de trigo
@@ -14,7 +12,7 @@ queries:
   - pesca ceva de chao
   - pesca bola de massa
 
-  # especies alvo mais comuns
+  # -------- especies alvo mais comuns (originais) --------
   - pescaria tucunare
   - pescaria pacu
   - pescaria tambaqui
@@ -25,7 +23,7 @@ queries:
   - pescaria pintado
   - pescaria curimba
 
-  # regiao / bacia
+  # -------- regiao / bacia (originais) --------
   - pescaria rio madeira
   - pescaria rio amazonas
   - pescaria rio sao francisco
@@ -34,14 +32,159 @@ queries:
   - pescaria pantanal
   - pescaria amazonia
 
-  # contexto de agua
+  # -------- contexto de agua (originais) --------
   - pescaria em represa com ceva
   - pescaria em lagoa
   - pesca em rio grande
 
-  # coloquial / regional
+  # -------- coloquial / regional (originais) --------
   - pescaria no nortao
   - pesca com mistura
   - ceva caseira pescaria
   - como fazer ceva pra pescaria
   - ceva pra peixe redondo
+
+  # -------- EXPANSAO BATCH 2 (06:00) --------
+
+  # especies menos comuns
+  - pescaria matrinxa
+  - pescaria jaraqui
+  - pescaria piau
+  - pescaria piapara
+  - pescaria pirapitinga
+  - pescaria pirarara
+  - pescaria surubim
+  - pescaria cachara
+  - pescaria cachorra peixe
+  - pescaria corvina
+  - pescaria piavuçu
+  - pescaria piabanha
+  - pescaria dourado rio
+  - pescaria lambari vivo
+  - pescaria jundia
+
+  # rios especificos (nao-populares)
+  - pescaria rio araguaia
+  - pescaria rio xingu
+  - pescaria rio tapajos
+  - pescaria rio negro amazonas
+  - pescaria rio branco
+  - pescaria rio grande sul
+  - pescaria rio iguacu
+  - pescaria rio parnaiba
+  - pescaria rio doce
+  - pescaria rio jaguaribe
+  - pescaria rio uruguai
+  - pescaria rio ivinhema
+  - pescaria rio miranda
+  - pescaria rio taquari
+
+  # estados/regioes
+  - pescaria rondonia
+  - pescaria mato grosso
+  - pescaria mato grosso do sul
+  - pescaria para
+  - pescaria amazonas
+  - pescaria tocantins
+  - pescaria goias
+  - pescaria minas gerais
+  - pescaria bahia
+  - pescaria maranhao
+  - pescaria piaui
+  - pescaria sao paulo interior
+  - pescaria parana rios
+  - pescaria santa catarina
+
+  # iscas e tecnicas
+  - pescaria isca viva
+  - pescaria isca artificial
+  - pescaria isca natural
+  - pesca com minhoca
+  - pesca com lambari
+  - pesca com piabinha
+  - pesca com camarao
+  - pesca com calabresa
+  - pesca com massa de pao
+  - pesca com milho verde
+  - pesca com trigo para tilapia
+
+  # tipos de pesca
+  - pescaria barranco
+  - pescaria caiaque
+  - pescaria embarcado
+  - pescaria margem rio
+  - pescaria represa tilapia
+  - pescaria pesqueiro pago
+  - pescaria artesanal
+  - pescaria amadora
+  - pescaria noturna
+  - pescaria madrugada
+
+  # youtubers/canais conhecidos (queries que tendem a dar video diferente)
+  - anderson lucas pescaria
+  - pescador brasileiro
+  - pesca raiz nordeste
+  - pescador amador
+  - pesca selvagem brasil
+
+  # coloquial extra
+  - pescar de vara
+  - pescaria com rapaziada
+  - pescaria familia
+  - dia de pescaria
+  - pescaria de fim de semana
+  - amigos na pescaria
+  - pescaria de sexta
+  - pescaria interior
+
+  # temporada / clima
+  - pescaria chuva
+  - pescaria seca rio
+  - pescaria cheia
+  - pescaria inverno
+  - pescaria verao
+  - pescaria ventania
+
+  # equipamento especifico
+  - pescaria molinete
+  - pescaria carretilha
+  - pescaria vara telescopica
+  - pescaria chumbada grande
+  - pescaria boia
+  - pescaria espinhel
+
+  # cevas variadas
+  - ceva de trigo azedo
+  - ceva de milho cozido
+  - ceva de racao de coelho
+  - ceva pra curimba
+  - ceva com fuba
+  - ceva com farinha de trigo
+  - ceva em ponto fixo
+  - massa pra pesca
+  - massa de trigo pra pesca
+  - farinhada pescaria
+
+  # tamanho / categoria
+  - pesca peixe grande
+  - pesca monstro
+  - pescaria troféu
+  - peixe gigante pescaria
+  - dourado monstro
+  - tucunare monstro
+  - pirarucu monstro
+
+  # ambientes
+  - pescaria lagoa amazonica
+  - pescaria baia rio
+  - pescaria poco profundo
+  - pescaria corredeira
+  - pescaria igarape
+  - pescaria garapa amazonia
+  - pescaria reservatorio
+
+  # habitos
+  - pescaria soltura
+  - pesca esportiva
+  - pesca com soltura
+  - pesque e solte
