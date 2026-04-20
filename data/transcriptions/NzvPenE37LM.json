@@ -1,0 +1,37 @@
+{
+  "texto": "Aô galera da pesca! Tá às vidas que é mais barata, mas não presta né? Aí pra você ver ó, vim pescar aqui sozinho hoje Peguei umas piabanha né? Só no artificial aqui ó Que não galera!",
+  "segmentos": [
+    {
+      "start": 0.26,
+      "end": 2.14,
+      "text": "Aô galera da pesca!"
+    },
+    {
+      "start": 2.84,
+      "end": 5.32,
+      "text": "Tá às vidas que é mais barata, mas não presta né?"
+    },
+    {
+      "start": 5.84,
+      "end": 8.68,
+      "text": "Aí pra você ver ó, vim pescar aqui sozinho hoje"
+    },
+    {
+      "start": 8.68,
+      "end": 11.41,
+      "text": "Peguei umas piabanha né?"
+    },
+    {
+      "start": 12.49,
+      "end": 14.13,
+      "text": "Só no artificial aqui ó"
+    },
+    {
+      "start": 14.13,
+      "end": 17.61,
+      "text": "Que não galera!"
+    }
+  ],
+  "duracao_seg": 24.23,
+  "idioma_detectado": "pt"
+}

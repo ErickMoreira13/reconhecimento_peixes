@@ -1,0 +1,97 @@
+{
+  "texto": "Aniversário do Yuji. Ah, meu aniversário. Ah, Johnny, eu quero um peixe de presente. Já pegou várias, várias e várias cachorras. Uma de 90 e agora a gente aqui, ó. Peguei uma de um metro agora. Um metro agora aí, ó. Vamos. É o Yuji. E o Johnny Hoffman. Vamos soltar. Nossa, bichona aí, ó. Nossa senhora, o tamanho. Beleza? Olha o tamanho da criança. Olha aí. Nossa. Tem que pegar aí, Yuji.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Aniversário do Yuji."
+    },
+    {
+      "start": 2.5,
+      "end": 3.5,
+      "text": "Ah, meu aniversário."
+    },
+    {
+      "start": 3.5,
+      "end": 5.2,
+      "text": "Ah, Johnny, eu quero um peixe de presente."
+    },
+    {
+      "start": 5.2,
+      "end": 7.3,
+      "text": "Já pegou várias, várias e várias cachorras."
+    },
+    {
+      "start": 7.3,
+      "end": 9.2,
+      "text": "Uma de 90 e agora a gente aqui, ó."
+    },
+    {
+      "start": 9.2,
+      "end": 10.2,
+      "text": "Peguei uma de um metro agora."
+    },
+    {
+      "start": 10.2,
+      "end": 11.5,
+      "text": "Um metro agora aí, ó."
+    },
+    {
+      "start": 11.5,
+      "end": 12.0,
+      "text": "Vamos."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "É o Yuji."
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "E o Johnny Hoffman."
+    },
+    {
+      "start": 14.0,
+      "end": 14.5,
+      "text": "Vamos soltar."
+    },
+    {
+      "start": 15.3,
+      "end": 16.3,
+      "text": "Nossa, bichona aí, ó."
+    },
+    {
+      "start": 16.3,
+      "end": 18.0,
+      "text": "Nossa senhora, o tamanho."
+    },
+    {
+      "start": 18.7,
+      "end": 19.3,
+      "text": "Beleza?"
+    },
+    {
+      "start": 19.8,
+      "end": 21.0,
+      "text": "Olha o tamanho da criança."
+    },
+    {
+      "start": 21.0,
+      "end": 21.2,
+      "text": "Olha aí."
+    },
+    {
+      "start": 21.2,
+      "end": 22.0,
+      "text": "Nossa."
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "text": "Tem que pegar aí, Yuji."
+    }
+  ],
+  "duracao_seg": 25.37,
+  "idioma_detectado": "pt"
+}

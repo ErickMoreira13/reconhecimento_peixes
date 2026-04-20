@@ -1,0 +1,27 @@
+{
+  "texto": "E esse peixão aqui, ó, o peixinho que invadiu a ceva. Esse peixão, porque o CD fica pequenininho, né? Mas esse aqui eu achei ele bem grandão, ó. Esse é o Pacu CD.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 4.12,
+      "text": "E esse peixão aqui, ó, o peixinho que invadiu a ceva."
+    },
+    {
+      "start": 4.84,
+      "end": 6.9,
+      "text": "Esse peixão, porque o CD fica pequenininho, né?"
+    },
+    {
+      "start": 7.4,
+      "end": 9.38,
+      "text": "Mas esse aqui eu achei ele bem grandão, ó."
+    },
+    {
+      "start": 10.72,
+      "end": 12.24,
+      "text": "Esse é o Pacu CD."
+    }
+  ],
+  "duracao_seg": 12.83,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Olha o trato usado em questão, ó. Milho, né? É de um dia para o outro, só molhado, tá? Para não inchar na barriga do peixe. E tem um pouquinho de quirela aí com sangue, hein? Pouquinha coisa que dizem quem tem piapara.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.48,
+      "text": "Olha o trato usado em questão, ó. Milho, né? É de um dia para o outro, só molhado, tá?"
+    },
+    {
+      "start": 7.7,
+      "end": 11.72,
+      "text": "Para não inchar na barriga do peixe. E tem um pouquinho de quirela aí com sangue, hein?"
+    },
+    {
+      "start": 11.82,
+      "end": 14.9,
+      "text": "Pouquinha coisa que dizem quem tem piapara."
+    }
+  ],
+  "duracao_seg": 14.99,
+  "idioma_detectado": "pt"
+}

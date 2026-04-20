@@ -1,0 +1,57 @@
+{
+  "texto": "Já! Eu não consigo levantar! Não tem mais força, não! Vem! Vem! Vem! Vem! Vem! Isso é rápido, moleque! Isso é rápido, isso é rápido! Isso é rápido!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Já!"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Eu não consigo levantar!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Não tem mais força, não!"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Vem! Vem!"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Vem!"
+    },
+    {
+      "start": 6.0,
+      "end": 9.05,
+      "text": "Vem!"
+    },
+    {
+      "start": 9.05,
+      "end": 11.14,
+      "text": "Vem!"
+    },
+    {
+      "start": 11.14,
+      "end": 14.03,
+      "text": "Isso é rápido, moleque!"
+    },
+    {
+      "start": 14.03,
+      "end": 16.9,
+      "text": "Isso é rápido, isso é rápido!"
+    },
+    {
+      "start": 16.9,
+      "end": 17.9,
+      "text": "Isso é rápido!"
+    }
+  ],
+  "duracao_seg": 18.07,
+  "idioma_detectado": "pt"
+}

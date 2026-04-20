@@ -1,0 +1,22 @@
+{
+  "texto": "travessia do rio parnaíba na balsa boa noite no inverno aqui é a água menina mas pra frente no verão a gente vai vim aqui dar uma pescada nessa região",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 4.4,
+      "text": "travessia do rio parnaíba na balsa"
+    },
+    {
+      "start": 5.71,
+      "end": 16.74,
+      "text": "boa noite no inverno aqui é a água menina"
+    },
+    {
+      "start": 16.74,
+      "end": 21.74,
+      "text": "mas pra frente no verão a gente vai vim aqui dar uma pescada nessa região"
+    }
+  ],
+  "duracao_seg": 20.93,
+  "idioma_detectado": "pt"
+}

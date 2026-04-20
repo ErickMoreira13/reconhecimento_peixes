@@ -1,0 +1,37 @@
+{
+  "texto": "solta o barco, vai acabar a menina vai ter que soltar ixi, é grande, não adianta não é vai, gente, solta peraí",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 2.08,
+      "text": "solta o barco, vai acabar a menina"
+    },
+    {
+      "start": 2.08,
+      "end": 4.59,
+      "text": "vai ter que soltar"
+    },
+    {
+      "start": 4.59,
+      "end": 8.06,
+      "text": "ixi, é grande, não adianta não"
+    },
+    {
+      "start": 8.06,
+      "end": 8.92,
+      "text": "é"
+    },
+    {
+      "start": 8.92,
+      "end": 10.48,
+      "text": "vai, gente, solta"
+    },
+    {
+      "start": 10.48,
+      "end": 11.12,
+      "text": "peraí"
+    }
+  ],
+  "duracao_seg": 11.61,
+  "idioma_detectado": "pt"
+}

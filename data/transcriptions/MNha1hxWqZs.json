@@ -1,0 +1,42 @@
+{
+  "texto": "Aí galera, hoje a gente saiu de São Félix, estamos subindo o rio mais ou menos umas duas horas e meia pra pescar na outra pousada, a pousada Pirarucum, local aí que não tem cidade, então é pouco pescado. Pegamos umas papaterras e agora estamos pescando pirarara. Estamos parando, escolhendo uns beiradão, soltando as linhas pras pirarara. E eu acho que tá bom de isca, né? Por miséria, não é?",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 5.68,
+      "text": "Aí galera, hoje a gente saiu de São Félix, estamos subindo o rio mais ou menos umas"
+    },
+    {
+      "start": 5.68,
+      "end": 10.3,
+      "text": "duas horas e meia pra pescar na outra pousada, a pousada Pirarucum, local aí que não tem"
+    },
+    {
+      "start": 10.3,
+      "end": 11.98,
+      "text": "cidade, então é pouco pescado."
+    },
+    {
+      "start": 13.36,
+      "end": 16.42,
+      "text": "Pegamos umas papaterras e agora estamos pescando pirarara."
+    },
+    {
+      "start": 17.31,
+      "end": 21.96,
+      "text": "Estamos parando, escolhendo uns beiradão, soltando as linhas pras pirarara."
+    },
+    {
+      "start": 23.16,
+      "end": 24.72,
+      "text": "E eu acho que tá bom de isca, né?"
+    },
+    {
+      "start": 27.08,
+      "end": 28.6,
+      "text": "Por miséria, não é?"
+    }
+  ],
+  "duracao_seg": 44.07,
+  "idioma_detectado": "pt"
+}

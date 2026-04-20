@@ -1,0 +1,122 @@
+{
+  "texto": "Achei que tinha filmado tudo, o arremesso, a pegada, mas tava na foto. Tá bom, fica pra próxima. No primeiro arremesso, lambarizinha. Lambarizinha não, piaba no spinner. Olha, cardume, cardume, cardume. Não faz barulho, eu vou voltar ali. É o cardume, você viu? Vai ali, João. Calma, calma, que a gente vai voltar lá. Tá lambarizinha. Ih, que a banha bonita. Ah, garoto. Aí, jogou pra dentro. Rapaz, é grande, hein? Vamos lá. Olha o duplê. Vou soltar o bocado. Tem dente, tá, gente? Tem dente, hein? Tem dente. Ah, garoto. Que bonita, hein? Vou voltar lá, né?",
+  "segmentos": [
+    {
+      "start": 40.78,
+      "end": 48.8,
+      "text": "Achei que tinha filmado tudo, o arremesso, a pegada, mas tava na foto."
+    },
+    {
+      "start": 49.98,
+      "end": 51.04,
+      "text": "Tá bom, fica pra próxima."
+    },
+    {
+      "start": 51.46,
+      "end": 87.48,
+      "text": "No primeiro arremesso, lambarizinha."
+    },
+    {
+      "start": 88.37,
+      "end": 90.11,
+      "text": "Lambarizinha não, piaba no spinner."
+    },
+    {
+      "start": 118.24,
+      "end": 120.08,
+      "text": "Olha, cardume, cardume, cardume."
+    },
+    {
+      "start": 120.58,
+      "end": 122.06,
+      "text": "Não faz barulho, eu vou voltar ali."
+    },
+    {
+      "start": 122.93,
+      "end": 123.71,
+      "text": "É o cardume, você viu?"
+    },
+    {
+      "start": 125.75,
+      "end": 126.27,
+      "text": "Vai ali, João."
+    },
+    {
+      "start": 130.18,
+      "end": 131.32,
+      "text": "Calma, calma, que a gente vai voltar lá."
+    },
+    {
+      "start": 131.68,
+      "end": 158.94,
+      "text": "Tá lambarizinha."
+    },
+    {
+      "start": 223.0,
+      "end": 224.04,
+      "text": "Ih, que a banha bonita."
+    },
+    {
+      "start": 226.12,
+      "end": 227.26,
+      "text": "Ah, garoto."
+    },
+    {
+      "start": 227.26,
+      "end": 234.44,
+      "text": "Aí, jogou pra dentro."
+    },
+    {
+      "start": 234.66,
+      "end": 236.14,
+      "text": "Rapaz, é grande, hein?"
+    },
+    {
+      "start": 238.1,
+      "end": 238.58,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 238.9,
+      "end": 239.56,
+      "text": "Olha o duplê."
+    },
+    {
+      "start": 239.84,
+      "end": 246.56,
+      "text": "Vou soltar o bocado."
+    },
+    {
+      "start": 249.67,
+      "end": 250.63,
+      "text": "Tem dente, tá, gente?"
+    },
+    {
+      "start": 250.67,
+      "end": 251.45,
+      "text": "Tem dente, hein?"
+    },
+    {
+      "start": 251.55,
+      "end": 252.23,
+      "text": "Tem dente."
+    },
+    {
+      "start": 252.81,
+      "end": 256.51,
+      "text": "Ah, garoto."
+    },
+    {
+      "start": 259.72,
+      "end": 267.0,
+      "text": "Que bonita, hein?"
+    },
+    {
+      "start": 267.46,
+      "end": 280.6,
+      "text": "Vou voltar lá, né?"
+    }
+  ],
+  "duracao_seg": 290.35,
+  "idioma_detectado": "pt"
+}

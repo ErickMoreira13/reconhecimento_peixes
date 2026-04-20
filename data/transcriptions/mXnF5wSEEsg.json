@@ -1,0 +1,42 @@
+{
+  "texto": "Pô, aquelas lambarizinhas que você tem lá, deu pra fazer pra me pegar. Peraí, eu tô filmando, tô filmando. Tira um pouquinho fora do pau, não, aqui. O pau não tem. Aê! Essa aqui é a décima terceira por apitanga hoje. E a décima quinta cerveja.",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 4.08,
+      "text": "Pô, aquelas lambarizinhas que você tem lá, deu pra fazer pra me pegar."
+    },
+    {
+      "start": 6.4,
+      "end": 7.82,
+      "text": "Peraí, eu tô filmando, tô filmando."
+    },
+    {
+      "start": 10.98,
+      "end": 12.84,
+      "text": "Tira um pouquinho fora do pau, não, aqui."
+    },
+    {
+      "start": 13.08,
+      "end": 13.68,
+      "text": "O pau não tem."
+    },
+    {
+      "start": 13.98,
+      "end": 14.42,
+      "text": "Aê!"
+    },
+    {
+      "start": 15.42,
+      "end": 18.8,
+      "text": "Essa aqui é a décima terceira por apitanga hoje."
+    },
+    {
+      "start": 19.42,
+      "end": 20.92,
+      "text": "E a décima quinta cerveja."
+    }
+  ],
+  "duracao_seg": 25.05,
+  "idioma_detectado": "pt"
+}

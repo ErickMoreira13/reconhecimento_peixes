@@ -1,0 +1,62 @@
+{
+  "texto": "Olha que peixe interessante, esse é o pirandirá, a cachorra larga. Tem mais na região da Amazônia, lá pra cima sim. Na nossa região que é o Paraná, aqui tem a cachorra normal, que seria a cachorra facão, né? Olha que interessante o que esse rapaz está mostrando. Ele está mostrando pra gente ali que a cachorra tem aqueles caninos grandão, aqueles dentes muito grandes. E volta e meia acaba quebrando, por ser um dente muito comprido, né? Olha que sensacional, enquanto um dente já está quebradinho ali, ela já está com mais um pronto pra subir no lugar. Ela já sobe o outro dente ali. E fora o segundo dente, ele já tem o terceiro dente pronto. É um peixe fenomenal, é um negócio que eu não sabia, fiquei muito admirado e vim trazer aqui pra vocês. Olha que legal isso.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "Olha que peixe interessante, esse é o pirandirá, a cachorra larga."
+    },
+    {
+      "start": 5.16,
+      "end": 8.02,
+      "text": "Tem mais na região da Amazônia, lá pra cima sim."
+    },
+    {
+      "start": 8.6,
+      "end": 14.22,
+      "text": "Na nossa região que é o Paraná, aqui tem a cachorra normal, que seria a cachorra facão, né?"
+    },
+    {
+      "start": 14.96,
+      "end": 17.52,
+      "text": "Olha que interessante o que esse rapaz está mostrando."
+    },
+    {
+      "start": 18.18,
+      "end": 23.98,
+      "text": "Ele está mostrando pra gente ali que a cachorra tem aqueles caninos grandão, aqueles dentes muito grandes."
+    },
+    {
+      "start": 24.8,
+      "end": 28.72,
+      "text": "E volta e meia acaba quebrando, por ser um dente muito comprido, né?"
+    },
+    {
+      "start": 28.72,
+      "end": 38.82,
+      "text": "Olha que sensacional, enquanto um dente já está quebradinho ali, ela já está com mais um pronto pra subir no lugar."
+    },
+    {
+      "start": 39.52,
+      "end": 41.22,
+      "text": "Ela já sobe o outro dente ali."
+    },
+    {
+      "start": 41.78,
+      "end": 47.12,
+      "text": "E fora o segundo dente, ele já tem o terceiro dente pronto."
+    },
+    {
+      "start": 47.7,
+      "end": 54.06,
+      "text": "É um peixe fenomenal, é um negócio que eu não sabia, fiquei muito admirado e vim trazer aqui pra vocês."
+    },
+    {
+      "start": 54.18,
+      "end": 55.2,
+      "text": "Olha que legal isso."
+    }
+  ],
+  "duracao_seg": 56.01,
+  "idioma_detectado": "pt"
+}

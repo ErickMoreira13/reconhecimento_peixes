@@ -1,0 +1,32 @@
+{
+  "texto": "E aí, galera do Vigo, a isquinha aí pra piabanha, hein? Essa poca, hein? Se alguém conheceu uma melhor do que essa, me manda aí, deixa aí nos comentários, porque eu não conheço não, hein? A piabanha, essa é a isca, matadeira mesmo. Valeu!",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.96,
+      "text": "E aí, galera do Vigo, a isquinha aí pra piabanha, hein?"
+    },
+    {
+      "start": 3.62,
+      "end": 4.48,
+      "text": "Essa poca, hein?"
+    },
+    {
+      "start": 4.48,
+      "end": 9.62,
+      "text": "Se alguém conheceu uma melhor do que essa, me manda aí, deixa aí nos comentários, porque eu não conheço não, hein?"
+    },
+    {
+      "start": 10.16,
+      "end": 13.46,
+      "text": "A piabanha, essa é a isca, matadeira mesmo."
+    },
+    {
+      "start": 13.96,
+      "end": 14.44,
+      "text": "Valeu!"
+    }
+  ],
+  "duracao_seg": 15.13,
+  "idioma_detectado": "pt"
+}

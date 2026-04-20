@@ -1,0 +1,37 @@
+{
+  "texto": "Você observa nesse exato momento, no amanhã, depois de uma manhã de boas chuvas aqui na cidade de Tauá, o bom volume de água aqui que desce com Arneiroz 2, a gente observa já um bom volume de água. Não é muita coisa, porém, aqui estava praticamente seco. Você observa aqui as manilhas com bastante água aí descendo, próximo de Arneiroz 2, como você pode observar depois de uma manhã boa de chuva. Obrigado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.02,
+      "text": "Você observa nesse exato momento, no amanhã, depois de uma manhã de boas chuvas aqui na cidade de Tauá,"
+    },
+    {
+      "start": 6.34,
+      "end": 12.66,
+      "text": "o bom volume de água aqui que desce com Arneiroz 2, a gente observa já um bom volume de água."
+    },
+    {
+      "start": 12.66,
+      "end": 18.38,
+      "text": "Não é muita coisa, porém, aqui estava praticamente seco."
+    },
+    {
+      "start": 18.74,
+      "end": 25.28,
+      "text": "Você observa aqui as manilhas com bastante água aí descendo, próximo de Arneiroz 2,"
+    },
+    {
+      "start": 25.54,
+      "end": 29.61,
+      "text": "como você pode observar depois de uma manhã boa de chuva."
+    },
+    {
+      "start": 30.03,
+      "end": 31.03,
+      "text": "Obrigado."
+    }
+  ],
+  "duracao_seg": 30.31,
+  "idioma_detectado": "pt"
+}

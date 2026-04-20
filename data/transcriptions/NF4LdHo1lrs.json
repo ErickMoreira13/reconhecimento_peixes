@@ -1,0 +1,42 @@
+{
+  "texto": "Esse é o menino pra tomar banho aqui, ó. O matadorzinho aqui, ó. Esse é minha caritilhazinha velhinha. Seis anos já de uso. Aí, brinquei hoje e peguei isso aqui. Ainda deu alguns ataques, mas eu perdi. Não atacou, não pegou perfeito.",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 2.72,
+      "text": "Esse é o menino pra tomar banho aqui, ó."
+    },
+    {
+      "start": 4.51,
+      "end": 5.91,
+      "text": "O matadorzinho aqui, ó."
+    },
+    {
+      "start": 6.88,
+      "end": 8.32,
+      "text": "Esse é minha caritilhazinha velhinha."
+    },
+    {
+      "start": 8.92,
+      "end": 10.04,
+      "text": "Seis anos já de uso."
+    },
+    {
+      "start": 11.32,
+      "end": 13.32,
+      "text": "Aí, brinquei hoje e peguei isso aqui."
+    },
+    {
+      "start": 13.42,
+      "end": 15.0,
+      "text": "Ainda deu alguns ataques, mas eu perdi."
+    },
+    {
+      "start": 15.64,
+      "end": 17.12,
+      "text": "Não atacou, não pegou perfeito."
+    }
+  ],
+  "duracao_seg": 17.93,
+  "idioma_detectado": "pt"
+}

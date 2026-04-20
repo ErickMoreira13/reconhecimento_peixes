@@ -1,0 +1,217 @@
+{
+  "texto": "Estamos aqui para mais uma pescaria no Rio dos Bois E hoje a pescaria de Piauáçu Ontem amarrei esse trato aqui, ó Aqui são milhos, né E hoje observei, o trato já está bem comido, viu gente E estou aqui, ó, pescando com uma varinha curtinha Linha de um metro, ó Anzolzinho duplo, peito de frango Então aqui, ó, é nesses cantinhos aqui que pega o Piauáçu Ele dá só uma tremidinha Nessa tremidinha a gente confere e ferra os bichos Então logo logo eu mostro para vocês aí As ações dos grandes Piau do Rio dos Bois Goiás Piauáçu aí, moçada Ó, ó, ferrei Ferrei, que deve ser grande Deve ser grande, ó Hum, ô bichão, hein Ó, desceu Vamos atrás dele Ih, está no pulsar, galera Olha o tamanho desse Piau Ô, bichão bonito, ó Que maravilha, ó Pescando com anzolzinho duplo aqui, galera Olha o peitinho de frango Piau aí, tranquilamente aí, ó Seus três quilos Olha o tamanho, galera Olha o tamanho desse Piau A largura dele Que bonito, hein Deixa eu virar ele aqui Esse aqui merece a vida, né Aí, ó Aí o tamanho dele Lindo Piauáçu do Rio dos Bois, ó Foi para a vida Show de bola, gente Pescaria só está começando, hein Pescaria só está começando, hein",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.48,
+      "text": "Estamos aqui para mais uma pescaria no Rio dos Bois"
+    },
+    {
+      "start": 2.48,
+      "end": 4.52,
+      "text": "E hoje a pescaria de Piauáçu"
+    },
+    {
+      "start": 4.52,
+      "end": 7.28,
+      "text": "Ontem amarrei esse trato aqui, ó"
+    },
+    {
+      "start": 7.28,
+      "end": 8.28,
+      "text": "Aqui são milhos, né"
+    },
+    {
+      "start": 8.28,
+      "end": 11.42,
+      "text": "E hoje observei, o trato já está bem comido, viu gente"
+    },
+    {
+      "start": 11.42,
+      "end": 14.88,
+      "text": "E estou aqui, ó, pescando com uma varinha curtinha"
+    },
+    {
+      "start": 14.88,
+      "end": 16.2,
+      "text": "Linha de um metro, ó"
+    },
+    {
+      "start": 16.2,
+      "end": 17.9,
+      "text": "Anzolzinho duplo, peito de frango"
+    },
+    {
+      "start": 17.9,
+      "end": 22.04,
+      "text": "Então aqui, ó, é nesses cantinhos aqui que pega o Piauáçu"
+    },
+    {
+      "start": 22.04,
+      "end": 23.94,
+      "text": "Ele dá só uma tremidinha"
+    },
+    {
+      "start": 23.94,
+      "end": 27.3,
+      "text": "Nessa tremidinha a gente confere e ferra os bichos"
+    },
+    {
+      "start": 27.3,
+      "end": 29.66,
+      "text": "Então logo logo eu mostro para vocês aí"
+    },
+    {
+      "start": 29.66,
+      "end": 32.94,
+      "text": "As ações dos grandes Piau do Rio dos Bois Goiás"
+    },
+    {
+      "start": 32.94,
+      "end": 36.34,
+      "text": "Piauáçu aí, moçada"
+    },
+    {
+      "start": 36.34,
+      "end": 40.75,
+      "text": "Ó, ó, ferrei"
+    },
+    {
+      "start": 40.75,
+      "end": 43.08,
+      "text": "Ferrei, que deve ser grande"
+    },
+    {
+      "start": 43.08,
+      "end": 48.25,
+      "text": "Deve ser grande, ó"
+    },
+    {
+      "start": 48.25,
+      "end": 68.22,
+      "text": "Hum, ô bichão, hein"
+    },
+    {
+      "start": 68.22,
+      "end": 72.46,
+      "text": "Ó, desceu"
+    },
+    {
+      "start": 72.46,
+      "end": 74.12,
+      "text": "Vamos atrás dele"
+    },
+    {
+      "start": 74.12,
+      "end": 102.52,
+      "text": "Ih, está no pulsar, galera"
+    },
+    {
+      "start": 102.52,
+      "end": 103.46,
+      "text": "Olha o tamanho desse Piau"
+    },
+    {
+      "start": 103.46,
+      "end": 106.71,
+      "text": "Ô, bichão bonito, ó"
+    },
+    {
+      "start": 106.71,
+      "end": 110.48,
+      "text": "Que maravilha, ó"
+    },
+    {
+      "start": 110.48,
+      "end": 120.02,
+      "text": "Pescando com anzolzinho duplo aqui, galera"
+    },
+    {
+      "start": 120.02,
+      "end": 122.24,
+      "text": "Olha o peitinho de frango"
+    },
+    {
+      "start": 122.24,
+      "end": 125.83,
+      "text": "Piau aí, tranquilamente aí, ó"
+    },
+    {
+      "start": 125.83,
+      "end": 127.58,
+      "text": "Seus três quilos"
+    },
+    {
+      "start": 127.58,
+      "end": 129.28,
+      "text": "Olha o tamanho, galera"
+    },
+    {
+      "start": 129.28,
+      "end": 130.96,
+      "text": "Olha o tamanho desse Piau"
+    },
+    {
+      "start": 130.96,
+      "end": 132.52,
+      "text": "A largura dele"
+    },
+    {
+      "start": 132.52,
+      "end": 134.28,
+      "text": "Que bonito, hein"
+    },
+    {
+      "start": 134.28,
+      "end": 136.08,
+      "text": "Deixa eu virar ele aqui"
+    },
+    {
+      "start": 136.08,
+      "end": 139.26,
+      "text": "Esse aqui merece a vida, né"
+    },
+    {
+      "start": 139.26,
+      "end": 141.93,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 141.93,
+      "end": 143.93,
+      "text": "Aí o tamanho dele"
+    },
+    {
+      "start": 143.93,
+      "end": 145.96,
+      "text": "Lindo"
+    },
+    {
+      "start": 145.96,
+      "end": 148.87,
+      "text": "Piauáçu do Rio dos Bois, ó"
+    },
+    {
+      "start": 148.87,
+      "end": 152.93,
+      "text": "Foi para a vida"
+    },
+    {
+      "start": 152.93,
+      "end": 155.29,
+      "text": "Show de bola, gente"
+    },
+    {
+      "start": 155.29,
+      "end": 157.11,
+      "text": "Pescaria só está começando, hein"
+    },
+    {
+      "start": 157.11,
+      "end": 160.77,
+      "text": "Pescaria só está começando, hein"
+    }
+  ],
+  "duracao_seg": 158.23,
+  "idioma_detectado": "pt"
+}

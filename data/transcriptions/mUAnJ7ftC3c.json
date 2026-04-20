@@ -1,0 +1,62 @@
+{
+  "texto": "Errou outro pessoal É peixe bruto de novo Olha ali Olha lá Olha lá o bichão pulando Olha o bichão pulando Olha o bichão pulando Peixe bruto Olha o bichão pulando Olha outro bruto pessoal É outro bruto",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 1.66,
+      "text": "Errou outro pessoal"
+    },
+    {
+      "start": 1.66,
+      "end": 4.82,
+      "text": "É peixe bruto de novo"
+    },
+    {
+      "start": 4.82,
+      "end": 6.34,
+      "text": "Olha ali"
+    },
+    {
+      "start": 6.34,
+      "end": 7.88,
+      "text": "Olha lá"
+    },
+    {
+      "start": 7.88,
+      "end": 9.4,
+      "text": "Olha lá o bichão pulando"
+    },
+    {
+      "start": 9.4,
+      "end": 11.18,
+      "text": "Olha o bichão pulando"
+    },
+    {
+      "start": 11.18,
+      "end": 13.02,
+      "text": "Olha o bichão pulando"
+    },
+    {
+      "start": 13.02,
+      "end": 16.3,
+      "text": "Peixe bruto"
+    },
+    {
+      "start": 16.3,
+      "end": 19.22,
+      "text": "Olha o bichão pulando"
+    },
+    {
+      "start": 19.22,
+      "end": 25.6,
+      "text": "Olha outro bruto pessoal"
+    },
+    {
+      "start": 25.6,
+      "end": 27.89,
+      "text": "É outro bruto"
+    }
+  ],
+  "duracao_seg": 28.49,
+  "idioma_detectado": "pt"
+}

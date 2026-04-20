@@ -1,0 +1,22 @@
+{
+  "texto": "Domingos de tardezinha, eu estava mesmo à toa Convidei meu companheiro pra ir pescar na lagoa Levamos a rede de lances, pescar de canoa",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 6.31,
+      "text": "Domingos de tardezinha, eu estava mesmo à toa"
+    },
+    {
+      "start": 6.31,
+      "end": 12.07,
+      "text": "Convidei meu companheiro pra ir pescar na lagoa"
+    },
+    {
+      "start": 12.07,
+      "end": 23.75,
+      "text": "Levamos a rede de lances, pescar de canoa"
+    }
+  ],
+  "duracao_seg": 24.03,
+  "idioma_detectado": "pt"
+}

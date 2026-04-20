@@ -1,0 +1,32 @@
+{
+  "texto": "então hoje ela vai ficar aqui eu chamei pra pegar na vara vamos lá pra você pegar na vara eu vou pegar na vara pega na minhoca então",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.09,
+      "text": "então hoje ela vai ficar aqui"
+    },
+    {
+      "start": 2.09,
+      "end": 5.11,
+      "text": "eu chamei pra pegar na vara"
+    },
+    {
+      "start": 5.11,
+      "end": 6.65,
+      "text": "vamos lá pra você pegar na vara"
+    },
+    {
+      "start": 6.65,
+      "end": 8.39,
+      "text": "eu vou pegar na vara"
+    },
+    {
+      "start": 8.39,
+      "end": 9.49,
+      "text": "pega na minhoca então"
+    }
+  ],
+  "duracao_seg": 10.91,
+  "idioma_detectado": "pt"
+}

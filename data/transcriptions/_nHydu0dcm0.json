@@ -1,0 +1,17 @@
+{
+  "texto": "Caco do Júlia Crê em Deus, Pai",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Caco do Júlia"
+    },
+    {
+      "start": 2.54,
+      "end": 6.7,
+      "text": "Crê em Deus, Pai"
+    }
+  ],
+  "duracao_seg": 10.87,
+  "idioma_detectado": "pt"
+}

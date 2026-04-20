@@ -1,0 +1,22 @@
+{
+  "texto": "Aquele vim para cá está acelera. Doido, né? Bora, embora, cara.",
+  "segmentos": [
+    {
+      "start": 2.26,
+      "end": 3.72,
+      "text": "Aquele vim para cá está acelera."
+    },
+    {
+      "start": 4.16,
+      "end": 16.2,
+      "text": "Doido, né?"
+    },
+    {
+      "start": 18.66,
+      "end": 19.88,
+      "text": "Bora, embora, cara."
+    }
+  ],
+  "duracao_seg": 22.13,
+  "idioma_detectado": "pt"
+}

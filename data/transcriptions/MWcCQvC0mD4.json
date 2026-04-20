@@ -1,0 +1,47 @@
+{
+  "texto": "Esse cara tava pescando no meio dessas pedras, mas algo incrível aconteceu com ele. Essa moreia acabou pegando seu polvo e ele não iria deixar a moreia comer. O grande problema é que ela começou a se enrolar nas linhas e formou um nó. Então a sua esperança era a moreia se desenrolar, porque ele não queria matar ela na esperança dela vomitar o seu polvo. No fim das contas, ele desiste de esperar e acaba cortando a linha, perdendo seu onzol para ela se desenrolar e tirando seu polvo de dentro da moreia. Você já viu algo parecido com isso?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "Esse cara tava pescando no meio dessas pedras, mas algo incrível aconteceu com ele."
+    },
+    {
+      "start": 3.76,
+      "end": 7.16,
+      "text": "Essa moreia acabou pegando seu polvo e ele não iria deixar a moreia comer."
+    },
+    {
+      "start": 7.32,
+      "end": 10.2,
+      "text": "O grande problema é que ela começou a se enrolar nas linhas e formou um nó."
+    },
+    {
+      "start": 10.32,
+      "end": 12.42,
+      "text": "Então a sua esperança era a moreia se desenrolar,"
+    },
+    {
+      "start": 12.52,
+      "end": 15.56,
+      "text": "porque ele não queria matar ela na esperança dela vomitar o seu polvo."
+    },
+    {
+      "start": 15.68,
+      "end": 18.46,
+      "text": "No fim das contas, ele desiste de esperar e acaba cortando a linha,"
+    },
+    {
+      "start": 18.58,
+      "end": 22.66,
+      "text": "perdendo seu onzol para ela se desenrolar e tirando seu polvo de dentro da moreia."
+    },
+    {
+      "start": 22.78,
+      "end": 24.32,
+      "text": "Você já viu algo parecido com isso?"
+    }
+  ],
+  "duracao_seg": 24.43,
+  "idioma_detectado": "pt"
+}

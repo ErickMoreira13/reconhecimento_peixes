@@ -1,0 +1,47 @@
+{
+  "texto": "Essa aqui é a pirarara, um dos monstros do rio Araguaia. A gente acabou de encontrar ela desse jeito aqui. Um dos maiores predadores aquáticos do rio encontrado desse jeito. Qual que é o palpite do pessoal da região que um boto predou ela? E como ele não comeu tudo, o resto provavelmente vai ficar para as piranhas. E por incrível que pareça, ela ainda está viva. Está mexendo a boca. Enfim, agora eu vou soltar ela aqui e deixar a cadeia alimentar cuidar do rosto.",
+  "segmentos": [
+    {
+      "start": 1.14,
+      "end": 4.86,
+      "text": "Essa aqui é a pirarara, um dos monstros do rio Araguaia."
+    },
+    {
+      "start": 5.24,
+      "end": 8.0,
+      "text": "A gente acabou de encontrar ela desse jeito aqui."
+    },
+    {
+      "start": 8.38,
+      "end": 12.66,
+      "text": "Um dos maiores predadores aquáticos do rio encontrado desse jeito."
+    },
+    {
+      "start": 12.78,
+      "end": 15.9,
+      "text": "Qual que é o palpite do pessoal da região que um boto predou ela?"
+    },
+    {
+      "start": 16.32,
+      "end": 19.74,
+      "text": "E como ele não comeu tudo, o resto provavelmente vai ficar para as piranhas."
+    },
+    {
+      "start": 20.18,
+      "end": 22.78,
+      "text": "E por incrível que pareça, ela ainda está viva."
+    },
+    {
+      "start": 23.54,
+      "end": 24.64,
+      "text": "Está mexendo a boca."
+    },
+    {
+      "start": 25.02,
+      "end": 28.92,
+      "text": "Enfim, agora eu vou soltar ela aqui e deixar a cadeia alimentar cuidar do rosto."
+    }
+  ],
+  "duracao_seg": 40.19,
+  "idioma_detectado": "pt"
+}

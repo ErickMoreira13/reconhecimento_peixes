@@ -1,0 +1,122 @@
+{
+  "texto": "Mostra a cara, mostra a cara, vai Davi Ih, tomou linha Olha, olha cara, eita lasqueira Davi, vai Dumbi Charutou a isca, cara Charutou a isca, velho Top, top, top Davi Aí galera Peixão que o Davi pegou Levanta aí, olha o tamanho do pintado Top demais Perto, vocês viram, olha isso Bonito, bonito demais Agora o Davi vai fazer a soltura Pesar demais, hein, toma Davi Mais a soltura, isso é um lixo E aqui ele batiza, tá? Não, não batiza não Aí pessoal, esse daqui vai pra vida E é dedicado pra vocês Agora é errado Aí sim, agora vai Agora vai",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 3.17,
+      "text": "Mostra a cara, mostra a cara, vai Davi"
+    },
+    {
+      "start": 3.17,
+      "end": 3.99,
+      "text": "Ih, tomou linha"
+    },
+    {
+      "start": 3.99,
+      "end": 21.38,
+      "text": "Olha, olha cara, eita lasqueira"
+    },
+    {
+      "start": 21.38,
+      "end": 35.73,
+      "text": "Davi, vai Dumbi"
+    },
+    {
+      "start": 35.73,
+      "end": 39.38,
+      "text": "Charutou a isca, cara"
+    },
+    {
+      "start": 39.38,
+      "end": 45.04,
+      "text": "Charutou a isca, velho"
+    },
+    {
+      "start": 45.04,
+      "end": 48.11,
+      "text": "Top, top, top Davi"
+    },
+    {
+      "start": 48.11,
+      "end": 50.46,
+      "text": "Aí galera"
+    },
+    {
+      "start": 50.46,
+      "end": 53.0,
+      "text": "Peixão que o Davi pegou"
+    },
+    {
+      "start": 53.0,
+      "end": 56.1,
+      "text": "Levanta aí, olha o tamanho do pintado"
+    },
+    {
+      "start": 56.1,
+      "end": 57.68,
+      "text": "Top demais"
+    },
+    {
+      "start": 57.68,
+      "end": 59.74,
+      "text": "Perto, vocês viram, olha isso"
+    },
+    {
+      "start": 59.74,
+      "end": 62.02,
+      "text": "Bonito, bonito demais"
+    },
+    {
+      "start": 62.02,
+      "end": 63.78,
+      "text": "Agora o Davi vai fazer a soltura"
+    },
+    {
+      "start": 63.78,
+      "end": 67.07,
+      "text": "Pesar demais, hein, toma Davi"
+    },
+    {
+      "start": 67.07,
+      "end": 69.01,
+      "text": "Mais a soltura, isso é um lixo"
+    },
+    {
+      "start": 69.01,
+      "end": 70.79,
+      "text": "E aqui ele batiza, tá?"
+    },
+    {
+      "start": 71.62,
+      "end": 73.46,
+      "text": "Não, não batiza não"
+    },
+    {
+      "start": 73.46,
+      "end": 76.06,
+      "text": "Aí pessoal, esse daqui vai pra vida"
+    },
+    {
+      "start": 76.06,
+      "end": 77.89,
+      "text": "E é dedicado pra vocês"
+    },
+    {
+      "start": 77.89,
+      "end": 84.7,
+      "text": "Agora é errado"
+    },
+    {
+      "start": 84.7,
+      "end": 91.89,
+      "text": "Aí sim, agora vai"
+    },
+    {
+      "start": 91.89,
+      "end": 92.99,
+      "text": "Agora vai"
+    }
+  ],
+  "duracao_seg": 93.07,
+  "idioma_detectado": "pt"
+}

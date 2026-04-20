@@ -1,0 +1,137 @@
+{
+  "texto": "É galera, os cachorros tão me roubando piau Vou dar motivo agora Pra elas roubar Agora ela vai roubar piau Como é que vocês gostam? Então toma, deixa levar Agora eu bato Nossa, grande Nossa É bitela, tá Igor? É Agora eu conheci quem tá roubando meus piau É essa aqui Peixão, mano Olha o tamanho desse cachorro, mano Nossa É isso aqui que tá roubando nosso piau, mano Uou Muito grande, velho Peixe aí de uns 8kg Olha, tá aí Que nave, mano Uou Muita ação de peixe Que nave Vai não",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.08,
+      "text": "É galera, os cachorros tão me roubando piau"
+    },
+    {
+      "start": 2.08,
+      "end": 4.2,
+      "text": "Vou dar motivo agora"
+    },
+    {
+      "start": 4.2,
+      "end": 6.36,
+      "text": "Pra elas roubar"
+    },
+    {
+      "start": 6.36,
+      "end": 10.26,
+      "text": "Agora ela vai roubar piau"
+    },
+    {
+      "start": 10.26,
+      "end": 13.97,
+      "text": "Como é que vocês gostam?"
+    },
+    {
+      "start": 15.24,
+      "end": 27.79,
+      "text": "Então toma, deixa levar"
+    },
+    {
+      "start": 27.79,
+      "end": 41.5,
+      "text": "Agora eu bato"
+    },
+    {
+      "start": 41.5,
+      "end": 49.91,
+      "text": "Nossa, grande"
+    },
+    {
+      "start": 49.91,
+      "end": 54.82,
+      "text": "Nossa"
+    },
+    {
+      "start": 54.82,
+      "end": 59.9,
+      "text": "É bitela, tá Igor?"
+    },
+    {
+      "start": 65.16,
+      "end": 65.44,
+      "text": "É"
+    },
+    {
+      "start": 65.44,
+      "end": 69.75,
+      "text": "Agora eu conheci quem tá roubando meus piau"
+    },
+    {
+      "start": 69.75,
+      "end": 78.16,
+      "text": "É essa aqui"
+    },
+    {
+      "start": 78.16,
+      "end": 84.43,
+      "text": "Peixão, mano"
+    },
+    {
+      "start": 84.43,
+      "end": 89.8,
+      "text": "Olha o tamanho desse cachorro, mano"
+    },
+    {
+      "start": 89.8,
+      "end": 92.46,
+      "text": "Nossa"
+    },
+    {
+      "start": 92.46,
+      "end": 97.35,
+      "text": "É isso aqui que tá roubando nosso piau, mano"
+    },
+    {
+      "start": 97.35,
+      "end": 98.89,
+      "text": "Uou"
+    },
+    {
+      "start": 98.89,
+      "end": 106.74,
+      "text": "Muito grande, velho"
+    },
+    {
+      "start": 106.74,
+      "end": 107.92,
+      "text": "Peixe aí de uns 8kg"
+    },
+    {
+      "start": 107.92,
+      "end": 109.56,
+      "text": "Olha, tá aí"
+    },
+    {
+      "start": 109.56,
+      "end": 113.54,
+      "text": "Que nave, mano"
+    },
+    {
+      "start": 113.54,
+      "end": 115.54,
+      "text": "Uou"
+    },
+    {
+      "start": 115.54,
+      "end": 117.4,
+      "text": "Muita ação de peixe"
+    },
+    {
+      "start": 117.4,
+      "end": 122.78,
+      "text": "Que nave"
+    },
+    {
+      "start": 122.78,
+      "end": 123.94,
+      "text": "Vai não"
+    }
+  ],
+  "duracao_seg": 124.37,
+  "idioma_detectado": "pt"
+}
