@@ -83,7 +83,19 @@ aparece nos exemplos listados nesta instrucao. Por exemplo, se o peixe
 fora_do_gazetteer=false SO quando o valor casa exatamente com um dos exemplos.
 
 CAMPOS:
-1. estado: sigla UF (AC,AL,AM,AP,BA,CE,DF,ES,GO,MA,MG,MS,MT,PA,PB,PE,PI,PR,RJ,RN,RO,RR,RS,SC,SE,SP,TO) ou null
+1. estado: sigla UF (AC,AL,AM,AP,BA,CE,DF,ES,GO,MA,MG,MS,MT,PA,PB,PE,PI,PR,RJ,RN,RO,RR,RS,SC,SE,SP,TO) ou null.
+   IMPORTANTE: se o texto mencionar nome completo ou adjetivo regional,
+   converta pra sigla. exemplos:
+   - "Sao Paulo" ou "paulista" ou "paulistano" -> SP
+   - "Minas Gerais" ou "mineiro" -> MG
+   - "Rondonia" ou "rondoniense" -> RO
+   - "Amazonas" ou "amazonense" -> AM
+   - "Rio Grande do Sul" ou "gaucho" -> RS
+   - "Mato Grosso do Sul" ou "sul-mato-grossense" -> MS
+   - "Para" ou "paraense" -> PA
+   - "Bahia" ou "baiano" -> BA
+   - "Goias" ou "goiano" -> GO
+   - etc. qualquer uma das 27 UFs
 2. municipio: nome livre ou null
 3. rio: nome com prefixo "Rio " ou null. Normalizar "velho chico" -> "Rio Sao Francisco"
 4. bacia: nome livre ou null. Candidatos NER: {bacias_ner or "nenhum"}
