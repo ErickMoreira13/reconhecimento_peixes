@@ -1,0 +1,27 @@
+{
+  "texto": "Refoljo de água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua Meu rancho fica na beira de cá escuto bater Daqui da porta do rancho",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 5.43,
+      "text": "Refoljo de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 5.43,
+      "end": 10.17,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 10.17,
+      "end": 15.65,
+      "text": "Meu rancho fica na beira de cá escuto bater"
+    },
+    {
+      "start": 15.65,
+      "end": 18.03,
+      "text": "Daqui da porta do rancho"
+    }
+  ],
+  "duracao_seg": 18.03,
+  "idioma_detectado": "pt"
+}

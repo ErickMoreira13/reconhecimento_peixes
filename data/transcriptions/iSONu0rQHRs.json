@@ -1,0 +1,812 @@
+{
+  "texto": "Só o moio né, faz só o moio. Olha, parece que pode ter um pouquinho, é o certo né, a pôndria lá que ela tá mapeada né. Tá pra não pular ainda né. Na volta, aham. Pegou! Dois. Pegou só dois. Uma vez que você não fez jogar na cara não. Não, o que que você? Ah, foi boa essa. Ainda bem que tinha a foia. Pegou. Que as foias ela, não machuca muito. Meu Deus pai, tu vacilou o feio. Quase um, quase um peixe caindo. Um, um, um, um, um peixe caindo. Quase um, um, um, um, um peixe caindo. Um, um, um, um peixe caindo. Um, um, um, um peixe caindo. Um, um, um peixe caindo. Um, um, um peixe caindo. Um, um, um, um peixe caindo. Um peixe caindo. Meu Deus. Fique ao nosso peixe caindo. E estou compensando a capimora. Ai, ai. Meu Deus do céu. Meu Deus do céu. Meu Deus do céu. é verdade olha o teu pé ai parece que eu vou partir um salto mortal foi bem engraçado a gente acabou de rir mas tem rapaz esse banho não estava agravado não viu tem cheiro de jogar fora parece cari mas não é cari não cachimbo olha o jeito dele nossa ele é diferente é diferente meu deus vai não para comer peixe peitinho entendeu pretinho lá na geladeira começa que não chega a hora dele não é isso é isso ai no mínimo 10 de cada fritada o peixe é gostoso é verdade até já comi um peixinho é um peixinho que não vem é um peixinho é um peixinho é um passarinho o que significa? oi pai sardinha sardinha do Pará sardinha do Maranhão sardinha do Pará sardinha do Pará sardinha do Pará sardinha do Pará sardinha do Pará sardinha do Pará sardinha do Pinaré maranhão esse aqui é bom demais fritinho, arroz misturado é isso ai mais outro muito bonito vai abaixa a cabeça nunca ouvi olha gravou agora eu não sei onde ela apareceu aqui no vídeo não, essa é a oportunidade olha a batarrafa só sobe a batarrafa também está gravando olha o que? olha o Pedro se não tornou o Pedro é o Pedro se não tornou o Pedro rapaz porque não abriu chefe olha ai rapaz foi igual o Pedro Simão não nossa pegar mais? ali ó caí do lado a tapa do outro ó ó ótimo foi bom agora que tem viu repara ai repara, prepara bagunça a multidão a multidão abalou tá pronto ai? tá tô só no jeito já tô pronto olha só urra urra urra urra urra te doido cardume urra tá vendo ai? que luxo ui te doido agora sim foi premiado premiado aqui ó exato pula peixe pula pula consegue peixe o jogador de tarrafa caindo dentro da água o jogador é tu o jogador é tu os terceiros peixes diferentes pega mais um ali tá olá meu povo estamos encerrando por aqui esse vídeo se você está gostando curte se inscreva viu assinem o sininho lá pra você ver mais vídeos então é isso ai valeu tamo junto aqui pescando aqui no Maranhão rio Pindaré tchau o Flamengo não vai perder",
+  "segmentos": [
+    {
+      "start": 3.47,
+      "end": 16.98,
+      "text": "Só o moio né, faz só o moio."
+    },
+    {
+      "start": 16.98,
+      "end": 44.94,
+      "text": "Olha, parece que pode ter um pouquinho, é o certo né, a pôndria lá que ela tá mapeada né."
+    },
+    {
+      "start": 44.94,
+      "end": 46.94,
+      "text": "Tá pra não pular ainda né."
+    },
+    {
+      "start": 46.94,
+      "end": 49.52,
+      "text": "Na volta, aham."
+    },
+    {
+      "start": 49.52,
+      "end": 60.06,
+      "text": "Pegou!"
+    },
+    {
+      "start": 60.06,
+      "end": 61.7,
+      "text": "Dois."
+    },
+    {
+      "start": 61.7,
+      "end": 62.7,
+      "text": "Pegou só dois."
+    },
+    {
+      "start": 62.7,
+      "end": 65.79,
+      "text": "Uma vez que você não fez jogar na cara não."
+    },
+    {
+      "start": 65.79,
+      "end": 69.26,
+      "text": "Não, o que que você?"
+    },
+    {
+      "start": 69.26,
+      "end": 91.46,
+      "text": "Ah, foi boa essa."
+    },
+    {
+      "start": 91.46,
+      "end": 100.43,
+      "text": "Ainda bem que tinha a foia."
+    },
+    {
+      "start": 100.43,
+      "end": 101.43,
+      "text": "Pegou."
+    },
+    {
+      "start": 101.43,
+      "end": 105.59,
+      "text": "Que as foias ela, não machuca muito."
+    },
+    {
+      "start": 105.59,
+      "end": 108.59,
+      "text": "Meu Deus pai, tu vacilou o feio."
+    },
+    {
+      "start": 108.59,
+      "end": 111.59,
+      "text": "Quase um, quase um peixe caindo."
+    },
+    {
+      "start": 111.59,
+      "end": 114.59,
+      "text": "Um, um, um, um, um peixe caindo."
+    },
+    {
+      "start": 114.59,
+      "end": 116.59,
+      "text": "Quase um, um, um, um, um peixe caindo."
+    },
+    {
+      "start": 116.59,
+      "end": 118.82,
+      "text": "Um, um, um, um peixe caindo."
+    },
+    {
+      "start": 118.82,
+      "end": 120.82,
+      "text": "Um, um, um, um peixe caindo."
+    },
+    {
+      "start": 120.82,
+      "end": 123.65,
+      "text": "Um, um, um peixe caindo."
+    },
+    {
+      "start": 123.65,
+      "end": 125.74,
+      "text": "Um, um, um peixe caindo."
+    },
+    {
+      "start": 125.74,
+      "end": 126.78,
+      "text": "Um, um, um, um peixe caindo."
+    },
+    {
+      "start": 128.22,
+      "end": 129.22,
+      "text": "Um peixe caindo."
+    },
+    {
+      "start": 129.22,
+      "end": 130.22,
+      "text": "Meu Deus."
+    },
+    {
+      "start": 133.26,
+      "end": 134.26,
+      "text": "Fique ao nosso peixe caindo."
+    },
+    {
+      "start": 134.26,
+      "end": 138.26,
+      "text": "E estou compensando a capimora."
+    },
+    {
+      "start": 140.26,
+      "end": 142.26,
+      "text": "Ai, ai."
+    },
+    {
+      "start": 142.26,
+      "end": 143.26,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 143.26,
+      "end": 151.26,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 151.26,
+      "end": 155.49,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 155.49,
+      "end": 158.42,
+      "text": "é verdade"
+    },
+    {
+      "start": 158.42,
+      "end": 160.42,
+      "text": "olha o teu pé ai"
+    },
+    {
+      "start": 160.42,
+      "end": 164.42,
+      "text": "parece que eu vou partir um salto mortal"
+    },
+    {
+      "start": 164.42,
+      "end": 166.42,
+      "text": "foi bem engraçado"
+    },
+    {
+      "start": 168.42,
+      "end": 170.42,
+      "text": "a gente acabou de rir"
+    },
+    {
+      "start": 170.42,
+      "end": 172.42,
+      "text": "mas tem"
+    },
+    {
+      "start": 172.42,
+      "end": 174.42,
+      "text": "rapaz"
+    },
+    {
+      "start": 176.42,
+      "end": 178.42,
+      "text": "esse banho não estava"
+    },
+    {
+      "start": 178.42,
+      "end": 181.06,
+      "text": "agravado não viu"
+    },
+    {
+      "start": 181.06,
+      "end": 184.5,
+      "text": "tem cheiro de jogar fora"
+    },
+    {
+      "start": 184.5,
+      "end": 186.5,
+      "text": "parece cari mas não é cari não"
+    },
+    {
+      "start": 186.5,
+      "end": 188.5,
+      "text": "cachimbo"
+    },
+    {
+      "start": 188.5,
+      "end": 190.5,
+      "text": "olha o jeito dele"
+    },
+    {
+      "start": 190.5,
+      "end": 192.5,
+      "text": "nossa ele é diferente"
+    },
+    {
+      "start": 192.5,
+      "end": 194.5,
+      "text": "é diferente"
+    },
+    {
+      "start": 194.5,
+      "end": 201.68,
+      "text": "meu deus"
+    },
+    {
+      "start": 201.68,
+      "end": 204.16,
+      "text": "vai não"
+    },
+    {
+      "start": 204.16,
+      "end": 213.17,
+      "text": "para comer peixe"
+    },
+    {
+      "start": 213.17,
+      "end": 215.17,
+      "text": "peitinho"
+    },
+    {
+      "start": 215.17,
+      "end": 217.17,
+      "text": "entendeu"
+    },
+    {
+      "start": 217.17,
+      "end": 219.52,
+      "text": "pretinho"
+    },
+    {
+      "start": 219.52,
+      "end": 222.7,
+      "text": "lá na geladeira"
+    },
+    {
+      "start": 222.7,
+      "end": 224.7,
+      "text": "começa que não chega a hora dele"
+    },
+    {
+      "start": 224.7,
+      "end": 226.7,
+      "text": "não é isso"
+    },
+    {
+      "start": 226.7,
+      "end": 228.7,
+      "text": "é isso ai"
+    },
+    {
+      "start": 228.7,
+      "end": 230.7,
+      "text": "no mínimo 10 de cada fritada"
+    },
+    {
+      "start": 230.7,
+      "end": 232.7,
+      "text": "o peixe é gostoso"
+    },
+    {
+      "start": 232.7,
+      "end": 234.7,
+      "text": "é verdade"
+    },
+    {
+      "start": 234.7,
+      "end": 236.86,
+      "text": "até já comi um peixinho"
+    },
+    {
+      "start": 236.86,
+      "end": 238.86,
+      "text": "é um peixinho"
+    },
+    {
+      "start": 238.86,
+      "end": 240.86,
+      "text": "que não vem"
+    },
+    {
+      "start": 240.86,
+      "end": 243.89,
+      "text": "é um peixinho"
+    },
+    {
+      "start": 243.89,
+      "end": 245.89,
+      "text": "é um peixinho"
+    },
+    {
+      "start": 245.89,
+      "end": 252.05,
+      "text": "é um passarinho"
+    },
+    {
+      "start": 252.05,
+      "end": 279.88,
+      "text": "o que significa?"
+    },
+    {
+      "start": 279.88,
+      "end": 282.3,
+      "text": "oi pai"
+    },
+    {
+      "start": 282.3,
+      "end": 295.31,
+      "text": "sardinha"
+    },
+    {
+      "start": 295.31,
+      "end": 299.31,
+      "text": "sardinha do Pará"
+    },
+    {
+      "start": 299.31,
+      "end": 301.31,
+      "text": "sardinha do Maranhão"
+    },
+    {
+      "start": 301.31,
+      "end": 303.31,
+      "text": "sardinha do Pará"
+    },
+    {
+      "start": 303.31,
+      "end": 305.31,
+      "text": "sardinha do Pará"
+    },
+    {
+      "start": 305.31,
+      "end": 307.31,
+      "text": "sardinha do Pará"
+    },
+    {
+      "start": 307.31,
+      "end": 310.46,
+      "text": "sardinha do Pará"
+    },
+    {
+      "start": 310.46,
+      "end": 312.46,
+      "text": "sardinha do Pará"
+    },
+    {
+      "start": 312.46,
+      "end": 314.46,
+      "text": "sardinha do Pará"
+    },
+    {
+      "start": 314.46,
+      "end": 316.46,
+      "text": "sardinha do Pinaré"
+    },
+    {
+      "start": 316.46,
+      "end": 319.87,
+      "text": "maranhão"
+    },
+    {
+      "start": 319.87,
+      "end": 321.87,
+      "text": "esse aqui é bom demais"
+    },
+    {
+      "start": 321.87,
+      "end": 323.87,
+      "text": "fritinho, arroz misturado"
+    },
+    {
+      "start": 323.87,
+      "end": 327.06,
+      "text": "é isso ai"
+    },
+    {
+      "start": 327.06,
+      "end": 329.06,
+      "text": "mais outro"
+    },
+    {
+      "start": 329.06,
+      "end": 333.62,
+      "text": "muito bonito"
+    },
+    {
+      "start": 333.62,
+      "end": 338.4,
+      "text": "vai abaixa a cabeça"
+    },
+    {
+      "start": 338.4,
+      "end": 340.43,
+      "text": "nunca ouvi"
+    },
+    {
+      "start": 340.43,
+      "end": 342.43,
+      "text": "olha"
+    },
+    {
+      "start": 342.43,
+      "end": 344.43,
+      "text": "gravou"
+    },
+    {
+      "start": 344.43,
+      "end": 346.43,
+      "text": "agora eu não sei onde ela apareceu"
+    },
+    {
+      "start": 346.43,
+      "end": 348.43,
+      "text": "aqui no vídeo"
+    },
+    {
+      "start": 348.43,
+      "end": 350.43,
+      "text": "não, essa é a oportunidade"
+    },
+    {
+      "start": 350.43,
+      "end": 354.58,
+      "text": "olha a batarrafa"
+    },
+    {
+      "start": 354.58,
+      "end": 356.58,
+      "text": "só sobe a batarrafa"
+    },
+    {
+      "start": 356.58,
+      "end": 367.38,
+      "text": "também está gravando"
+    },
+    {
+      "start": 367.38,
+      "end": 369.38,
+      "text": "olha o que?"
+    },
+    {
+      "start": 369.38,
+      "end": 372.98,
+      "text": "olha o Pedro"
+    },
+    {
+      "start": 372.98,
+      "end": 376.03,
+      "text": "se não tornou o Pedro"
+    },
+    {
+      "start": 376.03,
+      "end": 378.03,
+      "text": "é o Pedro"
+    },
+    {
+      "start": 378.03,
+      "end": 380.03,
+      "text": "se não tornou o Pedro"
+    },
+    {
+      "start": 380.03,
+      "end": 382.03,
+      "text": "rapaz porque não abriu chefe"
+    },
+    {
+      "start": 382.03,
+      "end": 384.03,
+      "text": "olha ai"
+    },
+    {
+      "start": 384.03,
+      "end": 386.13,
+      "text": "rapaz"
+    },
+    {
+      "start": 386.13,
+      "end": 388.13,
+      "text": "foi igual o Pedro Simão"
+    },
+    {
+      "start": 388.13,
+      "end": 391.02,
+      "text": "não"
+    },
+    {
+      "start": 395.02,
+      "end": 398.43,
+      "text": "nossa"
+    },
+    {
+      "start": 398.43,
+      "end": 401.14,
+      "text": "pegar mais?"
+    },
+    {
+      "start": 401.14,
+      "end": 403.14,
+      "text": "ali ó"
+    },
+    {
+      "start": 403.14,
+      "end": 405.14,
+      "text": "caí do lado a tapa do outro"
+    },
+    {
+      "start": 405.14,
+      "end": 407.39,
+      "text": "ó"
+    },
+    {
+      "start": 407.39,
+      "end": 413.02,
+      "text": "ó"
+    },
+    {
+      "start": 413.02,
+      "end": 415.02,
+      "text": "ótimo"
+    },
+    {
+      "start": 415.02,
+      "end": 419.42,
+      "text": "foi bom"
+    },
+    {
+      "start": 419.42,
+      "end": 421.42,
+      "text": "agora que tem viu"
+    },
+    {
+      "start": 421.42,
+      "end": 423.42,
+      "text": "repara ai"
+    },
+    {
+      "start": 423.42,
+      "end": 425.42,
+      "text": "repara, prepara bagunça"
+    },
+    {
+      "start": 425.42,
+      "end": 427.42,
+      "text": "a multidão"
+    },
+    {
+      "start": 427.42,
+      "end": 429.42,
+      "text": "a multidão"
+    },
+    {
+      "start": 429.42,
+      "end": 431.19,
+      "text": "abalou"
+    },
+    {
+      "start": 431.19,
+      "end": 432.19,
+      "text": "tá pronto ai?"
+    },
+    {
+      "start": 432.19,
+      "end": 433.19,
+      "text": "tá"
+    },
+    {
+      "start": 433.19,
+      "end": 434.19,
+      "text": "tô só no jeito"
+    },
+    {
+      "start": 434.19,
+      "end": 436.19,
+      "text": "já tô pronto"
+    },
+    {
+      "start": 436.19,
+      "end": 438.19,
+      "text": "olha só"
+    },
+    {
+      "start": 438.19,
+      "end": 440.19,
+      "text": "urra"
+    },
+    {
+      "start": 440.19,
+      "end": 441.42,
+      "text": "urra"
+    },
+    {
+      "start": 441.42,
+      "end": 442.42,
+      "text": "urra"
+    },
+    {
+      "start": 442.42,
+      "end": 443.42,
+      "text": "urra"
+    },
+    {
+      "start": 443.42,
+      "end": 444.42,
+      "text": "urra"
+    },
+    {
+      "start": 444.42,
+      "end": 446.42,
+      "text": "te doido"
+    },
+    {
+      "start": 446.42,
+      "end": 448.42,
+      "text": "cardume"
+    },
+    {
+      "start": 448.42,
+      "end": 450.42,
+      "text": "urra"
+    },
+    {
+      "start": 450.42,
+      "end": 452.86,
+      "text": "tá vendo ai?"
+    },
+    {
+      "start": 452.86,
+      "end": 454.86,
+      "text": "que luxo"
+    },
+    {
+      "start": 454.86,
+      "end": 456.9,
+      "text": "ui"
+    },
+    {
+      "start": 456.9,
+      "end": 459.6,
+      "text": "te doido"
+    },
+    {
+      "start": 459.6,
+      "end": 461.6,
+      "text": "agora sim"
+    },
+    {
+      "start": 461.6,
+      "end": 463.6,
+      "text": "foi premiado"
+    },
+    {
+      "start": 463.6,
+      "end": 466.53,
+      "text": "premiado aqui ó"
+    },
+    {
+      "start": 466.53,
+      "end": 471.82,
+      "text": "exato"
+    },
+    {
+      "start": 471.82,
+      "end": 472.82,
+      "text": "pula peixe"
+    },
+    {
+      "start": 472.82,
+      "end": 473.82,
+      "text": "pula"
+    },
+    {
+      "start": 473.82,
+      "end": 474.82,
+      "text": "pula"
+    },
+    {
+      "start": 474.82,
+      "end": 475.82,
+      "text": "consegue peixe"
+    },
+    {
+      "start": 475.82,
+      "end": 480.48,
+      "text": "o jogador de tarrafa caindo dentro da água"
+    },
+    {
+      "start": 480.48,
+      "end": 482.48,
+      "text": "o jogador é tu"
+    },
+    {
+      "start": 482.48,
+      "end": 484.48,
+      "text": "o jogador é tu"
+    },
+    {
+      "start": 484.48,
+      "end": 489.5,
+      "text": "os terceiros peixes diferentes"
+    },
+    {
+      "start": 489.5,
+      "end": 491.92,
+      "text": "pega mais um ali"
+    },
+    {
+      "start": 491.92,
+      "end": 496.51,
+      "text": "tá"
+    },
+    {
+      "start": 496.51,
+      "end": 499.95,
+      "text": "olá meu povo"
+    },
+    {
+      "start": 499.95,
+      "end": 501.95,
+      "text": "estamos encerrando por aqui esse vídeo"
+    },
+    {
+      "start": 501.95,
+      "end": 504.34,
+      "text": "se você está gostando curte"
+    },
+    {
+      "start": 504.34,
+      "end": 506.34,
+      "text": "se inscreva viu"
+    },
+    {
+      "start": 506.34,
+      "end": 508.34,
+      "text": "assinem"
+    },
+    {
+      "start": 508.34,
+      "end": 510.62,
+      "text": "o sininho lá pra você"
+    },
+    {
+      "start": 510.62,
+      "end": 512.88,
+      "text": "ver mais vídeos"
+    },
+    {
+      "start": 512.88,
+      "end": 514.88,
+      "text": "então é isso ai"
+    },
+    {
+      "start": 514.88,
+      "end": 515.88,
+      "text": "valeu"
+    },
+    {
+      "start": 515.88,
+      "end": 516.88,
+      "text": "tamo junto"
+    },
+    {
+      "start": 516.88,
+      "end": 518.88,
+      "text": "aqui pescando aqui no Maranhão"
+    },
+    {
+      "start": 518.88,
+      "end": 520.01,
+      "text": "rio Pindaré"
+    },
+    {
+      "start": 520.01,
+      "end": 521.01,
+      "text": "tchau"
+    },
+    {
+      "start": 521.01,
+      "end": 523.68,
+      "text": "o Flamengo não vai perder"
+    }
+  ],
+  "duracao_seg": 664.41,
+  "idioma_detectado": "pt"
+}

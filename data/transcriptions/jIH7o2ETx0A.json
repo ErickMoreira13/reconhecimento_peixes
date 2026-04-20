@@ -1,0 +1,42 @@
+{
+  "texto": "Quem disse que Minas não tem mar, está errado. A 299 quilômetros da capital, já tem mar com camping, tomadas, energia, banheiro com chuveiros aquecidos. Tudo a 0,800 se você não paga nada. E também tem quiosques na beira da prainha de Três Marias. Lugar foda pra refrescar, passear de final de semana, pescando, passeando, andando de barco ou de jet ski. Comendo bom e tradicional filé de tilápia e aquela gelada de frente pro mar de Minas. Já marca aí a galera que vai fazer esse rolê com você.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.26,
+      "text": "Quem disse que Minas não tem mar, está errado."
+    },
+    {
+      "start": 3.46,
+      "end": 10.32,
+      "text": "A 299 quilômetros da capital, já tem mar com camping, tomadas, energia, banheiro com chuveiros aquecidos."
+    },
+    {
+      "start": 10.46,
+      "end": 13.12,
+      "text": "Tudo a 0,800 se você não paga nada."
+    },
+    {
+      "start": 13.22,
+      "end": 16.36,
+      "text": "E também tem quiosques na beira da prainha de Três Marias."
+    },
+    {
+      "start": 16.44,
+      "end": 23.32,
+      "text": "Lugar foda pra refrescar, passear de final de semana, pescando, passeando, andando de barco ou de jet ski."
+    },
+    {
+      "start": 23.38,
+      "end": 29.06,
+      "text": "Comendo bom e tradicional filé de tilápia e aquela gelada de frente pro mar de Minas."
+    },
+    {
+      "start": 29.06,
+      "end": 32.68,
+      "text": "Já marca aí a galera que vai fazer esse rolê com você."
+    }
+  ],
+  "duracao_seg": 34.01,
+  "idioma_detectado": "pt"
+}

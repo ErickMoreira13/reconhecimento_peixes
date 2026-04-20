@@ -1,0 +1,42 @@
+{
+  "texto": "Ceva que garante tamba trintada no Goiás. Aça um pouco de carne e coloca no cevador. Pode encher porque o cheiro atrai os maiores e faça-os arremesso no lago. Coloca um pedaço da mesma carne no anzol e faz o arremesso em cima da ceva. Que em poucos minutos você já vai estar engatado num tamba bem gordo. Esse exemplar tinha 30 kg e gosta de carne assada. E não esquece de nos seguir.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "Ceva que garante tamba trintada no Goiás."
+    },
+    {
+      "start": 2.76,
+      "end": 5.24,
+      "text": "Aça um pouco de carne e coloca no cevador."
+    },
+    {
+      "start": 5.62,
+      "end": 9.84,
+      "text": "Pode encher porque o cheiro atrai os maiores e faça-os arremesso no lago."
+    },
+    {
+      "start": 9.92,
+      "end": 14.42,
+      "text": "Coloca um pedaço da mesma carne no anzol e faz o arremesso em cima da ceva."
+    },
+    {
+      "start": 14.44,
+      "end": 18.46,
+      "text": "Que em poucos minutos você já vai estar engatado num tamba bem gordo."
+    },
+    {
+      "start": 18.56,
+      "end": 22.36,
+      "text": "Esse exemplar tinha 30 kg e gosta de carne assada."
+    },
+    {
+      "start": 22.36,
+      "end": 23.84,
+      "text": "E não esquece de nos seguir."
+    }
+  ],
+  "duracao_seg": 24.17,
+  "idioma_detectado": "pt"
+}

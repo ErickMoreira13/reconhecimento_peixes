@@ -1,0 +1,27 @@
+{
+  "texto": "Aí pessoal, camarão vivo. Só mostrar aqui a eficiência da montagem do anzal duplo. Dá um detalhezinho, ó. O camarão, ele fica aqui, nesse anzal aqui. Olha onde pegou. Ele atacou, não fez mão de cima, mas o de baixo que ficou de assiste hook, ó. Aí, ó, a bolinha.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 5.95,
+      "text": "Aí pessoal, camarão vivo. Só mostrar aqui a eficiência da montagem do anzal duplo."
+    },
+    {
+      "start": 7.36,
+      "end": 11.3,
+      "text": "Dá um detalhezinho, ó. O camarão, ele fica aqui, nesse anzal aqui."
+    },
+    {
+      "start": 11.9,
+      "end": 19.27,
+      "text": "Olha onde pegou. Ele atacou, não fez mão de cima, mas o de baixo que ficou de assiste hook, ó."
+    },
+    {
+      "start": 20.21,
+      "end": 20.93,
+      "text": "Aí, ó, a bolinha."
+    }
+  ],
+  "duracao_seg": 22.47,
+  "idioma_detectado": "pt"
+}

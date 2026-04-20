@@ -1,0 +1,57 @@
+{
+  "texto": "Essa é a melhor ceba para a sua pescaria, simples, fácil e barato para fazer, vem comigo aprender. E para fazer essa ceba vamos utilizar a quireira grossa, bora jogar o saco inteiro já. Aqui tem aproximadamente uns 3 quilos, vamos utilizar também 1 quilo de ração de coelho, já comprei esse pacotinho aqui que tem 1 quilo certinho, vamos despejar lá dentro do balde. Aqui está o pulo do gato, massinha de amendoim, banana e mel. Essa massa vai ajudar a chamar muito peixe, vamos colocar mais ou menos metade do pacote aqui, vai ficar desse jeito. Agora vamos pegar um pouco da água do rio e mexer tudo isso aqui, é importante mexer muito bem. Feito isso, agora é só jogar na beira do barranco, pegar de punhado pessoal. Para estar pescando nessa ceba você vai utilizar o bichinho da laranja, milho verde e minhoca, se preferir pode utilizar também camarão de água doce que você vai ter muito resultado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "Essa é a melhor ceba para a sua pescaria, simples, fácil e barato para fazer, vem comigo aprender."
+    },
+    {
+      "start": 6.7,
+      "end": 12.49,
+      "text": "E para fazer essa ceba vamos utilizar a quireira grossa, bora jogar o saco inteiro já."
+    },
+    {
+      "start": 15.42,
+      "end": 20.94,
+      "text": "Aqui tem aproximadamente uns 3 quilos, vamos utilizar também 1 quilo de ração de coelho,"
+    },
+    {
+      "start": 21.1,
+      "end": 24.72,
+      "text": "já comprei esse pacotinho aqui que tem 1 quilo certinho, vamos despejar lá dentro do balde."
+    },
+    {
+      "start": 28.32,
+      "end": 32.26,
+      "text": "Aqui está o pulo do gato, massinha de amendoim, banana e mel."
+    },
+    {
+      "start": 32.26,
+      "end": 42.79,
+      "text": "Essa massa vai ajudar a chamar muito peixe, vamos colocar mais ou menos metade do pacote aqui, vai ficar desse jeito."
+    },
+    {
+      "start": 43.52,
+      "end": 50.86,
+      "text": "Agora vamos pegar um pouco da água do rio e mexer tudo isso aqui, é importante mexer muito bem."
+    },
+    {
+      "start": 54.04,
+      "end": 58.0,
+      "text": "Feito isso, agora é só jogar na beira do barranco, pegar de punhado pessoal."
+    },
+    {
+      "start": 58.58,
+      "end": 73.16,
+      "text": "Para estar pescando nessa ceba você vai utilizar o bichinho da laranja, milho verde e minhoca,"
+    },
+    {
+      "start": 73.16,
+      "end": 77.82,
+      "text": "se preferir pode utilizar também camarão de água doce que você vai ter muito resultado."
+    }
+  ],
+  "duracao_seg": 78.01,
+  "idioma_detectado": "pt"
+}

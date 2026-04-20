@@ -1,0 +1,37 @@
+{
+  "texto": "Fala amigo pescador, firmeza Saca só, mais uma saicanga Pescada com a mini crank Acabei de pescar, já vamos fazer a soltura dela Que a pobrezinha tem que voltar pra água Adeus peixinha, até uma próxima",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 1.93,
+      "text": "Fala amigo pescador, firmeza"
+    },
+    {
+      "start": 1.93,
+      "end": 3.75,
+      "text": "Saca só, mais uma saicanga"
+    },
+    {
+      "start": 3.75,
+      "end": 5.33,
+      "text": "Pescada com a mini crank"
+    },
+    {
+      "start": 5.33,
+      "end": 8.05,
+      "text": "Acabei de pescar, já vamos fazer a soltura dela"
+    },
+    {
+      "start": 8.05,
+      "end": 10.13,
+      "text": "Que a pobrezinha tem que voltar pra água"
+    },
+    {
+      "start": 10.13,
+      "end": 15.0,
+      "text": "Adeus peixinha, até uma próxima"
+    }
+  ],
+  "duracao_seg": 15.85,
+  "idioma_detectado": "pt"
+}

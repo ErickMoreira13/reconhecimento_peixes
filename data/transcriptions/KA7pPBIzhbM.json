@@ -1,0 +1,27 @@
+{
+  "texto": "Renivaldo, amanhã a gente faz 50 anos de casado. Vamos matar um porco? Que culpa tem um porco, Creuza, da besteira que a gente fez? Vamos matar seu irmão, que foi ele que apresentou a gente.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Renivaldo, amanhã a gente faz 50 anos de casado."
+    },
+    {
+      "start": 2.06,
+      "end": 2.88,
+      "text": "Vamos matar um porco?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.3,
+      "text": "Que culpa tem um porco, Creuza, da besteira que a gente fez?"
+    },
+    {
+      "start": 5.36,
+      "end": 7.28,
+      "text": "Vamos matar seu irmão, que foi ele que apresentou a gente."
+    }
+  ],
+  "duracao_seg": 10.47,
+  "idioma_detectado": "pt"
+}

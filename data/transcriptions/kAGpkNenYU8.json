@@ -1,0 +1,32 @@
+{
+  "texto": "Tem peixe aí, pai? Um pouquinhozinho Fazendo a mamita, né? Esse é de hoje? De hoje",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.86,
+      "text": "Tem peixe aí, pai?"
+    },
+    {
+      "start": 9.26,
+      "end": 10.02,
+      "text": "Um pouquinhozinho"
+    },
+    {
+      "start": 10.02,
+      "end": 12.46,
+      "text": "Fazendo a mamita, né?"
+    },
+    {
+      "start": 12.88,
+      "end": 13.48,
+      "text": "Esse é de hoje?"
+    },
+    {
+      "start": 13.66,
+      "end": 14.54,
+      "text": "De hoje"
+    }
+  ],
+  "duracao_seg": 16.31,
+  "idioma_detectado": "pt"
+}

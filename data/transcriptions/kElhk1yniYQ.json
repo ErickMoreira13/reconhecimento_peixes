@@ -1,0 +1,37 @@
+{
+  "texto": "Paulo, recolha essa aqui, por favor. Acho que é melhorzinho essa aqui. É também. Deixa eu me ajeitar aqui. Deixa eu só medir ela só pra ver. Cinquenta dá um quilo e seiscentos. Veja quantos libros dá. Ah não, quatro aqui em cima. Três, cento e meio. Três. Três libros.",
+  "segmentos": [
+    {
+      "start": 14.8,
+      "end": 42.06,
+      "text": "Paulo, recolha essa aqui, por favor. Acho que é melhorzinho essa aqui."
+    },
+    {
+      "start": 42.06,
+      "end": 43.06,
+      "text": "É também."
+    },
+    {
+      "start": 43.06,
+      "end": 166.74,
+      "text": "Deixa eu me ajeitar aqui. Deixa eu só medir ela só pra ver."
+    },
+    {
+      "start": 166.74,
+      "end": 193.17,
+      "text": "Cinquenta dá um quilo e seiscentos. Veja quantos libros dá."
+    },
+    {
+      "start": 193.17,
+      "end": 197.7,
+      "text": "Ah não, quatro aqui em cima."
+    },
+    {
+      "start": 197.7,
+      "end": 200.89,
+      "text": "Três, cento e meio. Três. Três libros."
+    }
+  ],
+  "duracao_seg": 202.15,
+  "idioma_detectado": "pt"
+}

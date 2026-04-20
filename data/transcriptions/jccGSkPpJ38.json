@@ -1,0 +1,57 @@
+{
+  "texto": "Peguei minha primeira cachorrinha, tá vendo? Chamada cachorra, porque ela tem dente grande. Primeira cachorra do rio da minha vida. Tá dando um palmo e meio essa. Top. Vou soltar ela. Vou soltar ela porque eu deixei no carro lá o negócio pra frutar. Depois eu vou lá pegar. Essa aqui vai pra vida. Vou pegar mais.",
+  "segmentos": [
+    {
+      "start": 1.13,
+      "end": 3.91,
+      "text": "Peguei minha primeira cachorrinha, tá vendo?"
+    },
+    {
+      "start": 4.37,
+      "end": 6.43,
+      "text": "Chamada cachorra, porque ela tem dente grande."
+    },
+    {
+      "start": 7.33,
+      "end": 9.17,
+      "text": "Primeira cachorra do rio da minha vida."
+    },
+    {
+      "start": 11.03,
+      "end": 12.82,
+      "text": "Tá dando um palmo e meio essa."
+    },
+    {
+      "start": 15.04,
+      "end": 15.6,
+      "text": "Top."
+    },
+    {
+      "start": 17.12,
+      "end": 18.0,
+      "text": "Vou soltar ela."
+    },
+    {
+      "start": 18.48,
+      "end": 22.7,
+      "text": "Vou soltar ela porque eu deixei no carro lá o negócio pra frutar."
+    },
+    {
+      "start": 23.66,
+      "end": 24.52,
+      "text": "Depois eu vou lá pegar."
+    },
+    {
+      "start": 25.32,
+      "end": 26.18,
+      "text": "Essa aqui vai pra vida."
+    },
+    {
+      "start": 26.89,
+      "end": 27.79,
+      "text": "Vou pegar mais."
+    }
+  ],
+  "duracao_seg": 29.33,
+  "idioma_detectado": "pt"
+}

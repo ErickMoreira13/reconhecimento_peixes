@@ -1,0 +1,17 @@
+{
+  "texto": "Puto, cheiroso, marrento e posturado Vários invejosos",
+  "segmentos": [
+    {
+      "start": 6.0,
+      "end": 8.32,
+      "text": "Puto, cheiroso, marrento e posturado"
+    },
+    {
+      "start": 8.32,
+      "end": 9.54,
+      "text": "Vários invejosos"
+    }
+  ],
+  "duracao_seg": 9.55,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "Oh Gromata! Irmão Budilho tá do lado ainda Fica quieto aí Achei que não era tão grande Papai Noel foi forte Sim mas o ajudante não ajuda nada Só o Papai Noel que tira O cascudo, tá o cascudo Beleza? Um abraço Chiruzada",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 2.72,
+      "text": "Oh Gromata!"
+    },
+    {
+      "start": 9.01,
+      "end": 11.01,
+      "text": "Irmão Budilho tá do lado ainda"
+    },
+    {
+      "start": 15.02,
+      "end": 20.54,
+      "text": "Fica quieto aí"
+    },
+    {
+      "start": 20.54,
+      "end": 23.98,
+      "text": "Achei que não era tão grande"
+    },
+    {
+      "start": 32.38,
+      "end": 34.45,
+      "text": "Papai Noel foi forte"
+    },
+    {
+      "start": 34.45,
+      "end": 36.45,
+      "text": "Sim mas o ajudante não ajuda nada"
+    },
+    {
+      "start": 36.45,
+      "end": 38.45,
+      "text": "Só o Papai Noel que tira"
+    },
+    {
+      "start": 38.45,
+      "end": 40.45,
+      "text": "O cascudo, tá o cascudo"
+    },
+    {
+      "start": 42.45,
+      "end": 44.45,
+      "text": "Beleza? Um abraço Chiruzada"
+    }
+  ],
+  "duracao_seg": 45.95,
+  "idioma_detectado": "pt"
+}

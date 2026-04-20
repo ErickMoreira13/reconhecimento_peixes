@@ -1,0 +1,17 @@
+{
+  "texto": "Olha o fogo na areia trazendo lá também Caraca, eu filmei cara",
+  "segmentos": [
+    {
+      "start": 10.35,
+      "end": 12.35,
+      "text": "Olha o fogo na areia trazendo lá também"
+    },
+    {
+      "start": 12.35,
+      "end": 14.35,
+      "text": "Caraca, eu filmei cara"
+    }
+  ],
+  "duracao_seg": 13.55,
+  "idioma_detectado": "pt"
+}

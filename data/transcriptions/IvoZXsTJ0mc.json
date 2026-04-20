@@ -1,0 +1,32 @@
+{
+  "texto": "Amigos, Vara Venza Big Game e Carretilha Titã 300. Excelente para você fazer isso aqui. Grandes dourados aqui na Argentina e peixes em geral na Bacia do Prata, lá no Pantanal. Está dada a dica. Se é a marine, pode confiar que o bicho é gigante.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.88,
+      "text": "Amigos, Vara Venza Big Game e Carretilha Titã 300."
+    },
+    {
+      "start": 4.54,
+      "end": 5.92,
+      "text": "Excelente para você fazer isso aqui."
+    },
+    {
+      "start": 6.9,
+      "end": 13.9,
+      "text": "Grandes dourados aqui na Argentina e peixes em geral na Bacia do Prata, lá no Pantanal."
+    },
+    {
+      "start": 14.1,
+      "end": 14.7,
+      "text": "Está dada a dica."
+    },
+    {
+      "start": 14.9,
+      "end": 18.1,
+      "text": "Se é a marine, pode confiar que o bicho é gigante."
+    }
+  ],
+  "duracao_seg": 19.03,
+  "idioma_detectado": "pt"
+}

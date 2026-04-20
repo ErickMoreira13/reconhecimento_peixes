@@ -1,0 +1,17 @@
+{
+  "texto": "Eita caramba, cadê o arpão? Meu pai do céu",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 19.84,
+      "text": "Eita caramba, cadê o arpão?"
+    },
+    {
+      "start": 20.3,
+      "end": 25.88,
+      "text": "Meu pai do céu"
+    }
+  ],
+  "duracao_seg": 43.01,
+  "idioma_detectado": "pt"
+}

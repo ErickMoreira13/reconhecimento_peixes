@@ -1,0 +1,27 @@
+{
+  "texto": "Quando o sol chegar, venha me encontrar Seu sorriso é tudo que eu preciso Venha me abraçar, vou me entregar Seu sorriso é inteira",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 6.04,
+      "text": "Quando o sol chegar, venha me encontrar"
+    },
+    {
+      "start": 6.04,
+      "end": 9.08,
+      "text": "Seu sorriso é tudo que eu preciso"
+    },
+    {
+      "start": 9.08,
+      "end": 11.92,
+      "text": "Venha me abraçar, vou me entregar"
+    },
+    {
+      "start": 11.92,
+      "end": 13.78,
+      "text": "Seu sorriso é inteira"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

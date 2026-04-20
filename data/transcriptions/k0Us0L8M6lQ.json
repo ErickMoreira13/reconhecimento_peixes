@@ -1,0 +1,42 @@
+{
+  "texto": "Hoje o de água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua Meu rancho fica na beira, de cá escuto bater Daqui da porta do rancho eu vejo a galha tremer Cadu pisar mansinho no barranco Chega devagar na selva pra ir pra esperar E como amar",
+  "segmentos": [
+    {
+      "start": 2.26,
+      "end": 13.94,
+      "text": "Hoje o de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 13.94,
+      "end": 18.72,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 18.72,
+      "end": 24.16,
+      "text": "Meu rancho fica na beira, de cá escuto bater"
+    },
+    {
+      "start": 24.16,
+      "end": 29.7,
+      "text": "Daqui da porta do rancho eu vejo a galha tremer"
+    },
+    {
+      "start": 29.7,
+      "end": 39.92,
+      "text": "Cadu pisar mansinho no barranco"
+    },
+    {
+      "start": 39.92,
+      "end": 50.0,
+      "text": "Chega devagar na selva pra ir pra esperar"
+    },
+    {
+      "start": 50.0,
+      "end": 55.87,
+      "text": "E como amar"
+    }
+  ],
+  "duracao_seg": 58.03,
+  "idioma_detectado": "pt"
+}

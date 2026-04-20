@@ -1,0 +1,17 @@
+{
+  "texto": "Aí rapaziada, pescador Vida Mansa, pescaria de carpa em cava hoje pessoal, aí ó, inovando novamente aí ó, sisteminha de ceba congelada com chicote com dois milho artificial, é nóis galera, tamo junto ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "Aí rapaziada, pescador Vida Mansa, pescaria de carpa em cava hoje pessoal, aí ó, inovando novamente aí ó,"
+    },
+    {
+      "start": 6.5,
+      "end": 11.56,
+      "text": "sisteminha de ceba congelada com chicote com dois milho artificial, é nóis galera, tamo junto ó."
+    }
+  ],
+  "duracao_seg": 11.89,
+  "idioma_detectado": "pt"
+}

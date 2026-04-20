@@ -1,0 +1,82 @@
+{
+  "texto": "Tá aí ainda? Rapaz, coisa boa, cara. Porque até agora você não puxou. Olhou a lapa. Olha o tamanho do xarel pro lago. Olha. Ah, o bicho engoliu o anzal também. Olha o tamanho do bicho. Ah, Fabrício, segura aí. Ele tá embolando tudo. Ah, esse aqui também botou o anzal pra dentro. Vamos tirar e vamos ver se ele ainda aguenta. Vamos te comer ele. Quer dizer, Fabrício, né? A cara dele.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Tá aí ainda?"
+    },
+    {
+      "start": 5.12,
+      "end": 6.18,
+      "text": "Rapaz, coisa boa, cara."
+    },
+    {
+      "start": 6.24,
+      "end": 7.04,
+      "text": "Porque até agora você não puxou."
+    },
+    {
+      "start": 9.01,
+      "end": 10.07,
+      "text": "Olhou a lapa."
+    },
+    {
+      "start": 11.16,
+      "end": 12.62,
+      "text": "Olha o tamanho do xarel pro lago."
+    },
+    {
+      "start": 15.49,
+      "end": 15.75,
+      "text": "Olha."
+    },
+    {
+      "start": 18.16,
+      "end": 19.74,
+      "text": "Ah, o bicho engoliu o anzal também."
+    },
+    {
+      "start": 20.54,
+      "end": 21.36,
+      "text": "Olha o tamanho do bicho."
+    },
+    {
+      "start": 22.47,
+      "end": 23.05,
+      "text": "Ah, Fabrício, segura aí."
+    },
+    {
+      "start": 23.19,
+      "end": 23.85,
+      "text": "Ele tá embolando tudo."
+    },
+    {
+      "start": 24.69,
+      "end": 26.25,
+      "text": "Ah, esse aqui também botou o anzal pra dentro."
+    },
+    {
+      "start": 26.73,
+      "end": 30.54,
+      "text": "Vamos tirar e vamos ver se ele ainda aguenta."
+    },
+    {
+      "start": 31.04,
+      "end": 33.06,
+      "text": "Vamos te comer ele."
+    },
+    {
+      "start": 33.92,
+      "end": 34.64,
+      "text": "Quer dizer, Fabrício, né?"
+    },
+    {
+      "start": 35.88,
+      "end": 36.46,
+      "text": "A cara dele."
+    }
+  ],
+  "duracao_seg": 37.29,
+  "idioma_detectado": "pt"
+}

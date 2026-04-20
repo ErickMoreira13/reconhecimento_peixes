@@ -1,0 +1,62 @@
+{
+  "texto": "Pousada com pensão completa e aquele clima de fazenda pertinho de São Paulo. Há só 50 minutos da capital, essa pousada é um refúgio ideal para quem quer dar uma pausa, relaxar, comer bem e curtir a natureza. Além da hospedagem, tem opção de day use com almoço no fogão a lenha e várias atividades ao ar livre. Quem se hospeda por aqui aproveita um café da manhã colonial, almoço estilo banquete e à noite a tradicional noite da pizza no forno a lenha. E para curtir o dia todo tem piscinas, passeio a cavalo, trilha, salão de jogos, playground, recriação, cinema ao ar livre e até luau com fogueira, marshmallow e música ao vivo. Tem ainda um lago gigante para pesca esportiva, fazendinha e visita a casa da baronesa com mais de 300 anos de história. Os chalés são rústicos, super confortáveis e integrados à natureza. Essa é a pousada Tio Oscar em Itu. Todos os valores eu deixei na descrição.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 4.26,
+      "text": "Pousada com pensão completa e aquele clima de fazenda pertinho de São Paulo."
+    },
+    {
+      "start": 4.42,
+      "end": 9.42,
+      "text": "Há só 50 minutos da capital, essa pousada é um refúgio ideal para quem quer dar uma pausa,"
+    },
+    {
+      "start": 9.6,
+      "end": 12.12,
+      "text": "relaxar, comer bem e curtir a natureza."
+    },
+    {
+      "start": 12.2,
+      "end": 17.6,
+      "text": "Além da hospedagem, tem opção de day use com almoço no fogão a lenha e várias atividades ao ar livre."
+    },
+    {
+      "start": 17.7,
+      "end": 22.02,
+      "text": "Quem se hospeda por aqui aproveita um café da manhã colonial, almoço estilo banquete"
+    },
+    {
+      "start": 22.02,
+      "end": 25.0,
+      "text": "e à noite a tradicional noite da pizza no forno a lenha."
+    },
+    {
+      "start": 25.0,
+      "end": 30.4,
+      "text": "E para curtir o dia todo tem piscinas, passeio a cavalo, trilha, salão de jogos, playground,"
+    },
+    {
+      "start": 30.92,
+      "end": 36.04,
+      "text": "recriação, cinema ao ar livre e até luau com fogueira, marshmallow e música ao vivo."
+    },
+    {
+      "start": 36.2,
+      "end": 42.96,
+      "text": "Tem ainda um lago gigante para pesca esportiva, fazendinha e visita a casa da baronesa com mais de 300 anos de história."
+    },
+    {
+      "start": 43.04,
+      "end": 47.02,
+      "text": "Os chalés são rústicos, super confortáveis e integrados à natureza."
+    },
+    {
+      "start": 47.2,
+      "end": 50.78,
+      "text": "Essa é a pousada Tio Oscar em Itu. Todos os valores eu deixei na descrição."
+    }
+  ],
+  "duracao_seg": 51.29,
+  "idioma_detectado": "pt"
+}

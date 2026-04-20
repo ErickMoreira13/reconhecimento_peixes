@@ -1,0 +1,27 @@
+{
+  "texto": "Vamos fazer o que é bonito Hunter, Jig A isca que garante o seu troféu Vai embora garoto",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "Vamos fazer o que é bonito"
+    },
+    {
+      "start": 1.06,
+      "end": 6.36,
+      "text": "Hunter, Jig"
+    },
+    {
+      "start": 6.36,
+      "end": 10.26,
+      "text": "A isca que garante o seu troféu"
+    },
+    {
+      "start": 10.26,
+      "end": 12.56,
+      "text": "Vai embora garoto"
+    }
+  ],
+  "duracao_seg": 12.89,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Olha só o que que eu vou aprontar aqui vou ficar aqui o lambari de isca para tentar pegar traíra aqui ó ó o sistema para não morrer tá dá para ficar aqui em cima é muito bom também tá e dá para ficar aqui ó tá vendo o narizinho dele aqui ó você passa bem aqui no narizinho ó tá vendo e continua vivo tá",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.72,
+      "text": "Olha só o que que eu vou aprontar aqui vou ficar aqui o lambari de isca para tentar pegar traíra"
+    },
+    {
+      "start": 7.72,
+      "end": 16.82,
+      "text": "aqui ó ó o sistema para não morrer tá dá para ficar aqui em cima é muito bom também tá e dá"
+    },
+    {
+      "start": 16.82,
+      "end": 25.18,
+      "text": "para ficar aqui ó tá vendo o narizinho dele aqui ó você passa bem aqui no narizinho ó tá vendo e"
+    },
+    {
+      "start": 25.18,
+      "end": 28.84,
+      "text": "continua vivo tá"
+    }
+  ],
+  "duracao_seg": 26.51,
+  "idioma_detectado": "pt"
+}

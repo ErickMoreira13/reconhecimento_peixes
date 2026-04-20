@@ -1,0 +1,27 @@
+{
+  "texto": "Os peixes cachorro tem dentes enormes. Os cachorros são peixes de água doce das bacias Amazônica, Araguaia e Tocantins. Eles possuem dentes caninos enormes que são tão longos que ficam alojados em dois buracos no crânio desses animais quando eles estão de boca fechada. Esses peixes podem alcançar quase um metro de comprimento e eles se alimentam de outros peixes.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": "Os peixes cachorro tem dentes enormes."
+    },
+    {
+      "start": 2.11,
+      "end": 5.53,
+      "text": "Os cachorros são peixes de água doce das bacias Amazônica, Araguaia e Tocantins."
+    },
+    {
+      "start": 5.61,
+      "end": 12.01,
+      "text": "Eles possuem dentes caninos enormes que são tão longos que ficam alojados em dois buracos no crânio desses animais quando eles estão de boca fechada."
+    },
+    {
+      "start": 12.07,
+      "end": 15.77,
+      "text": "Esses peixes podem alcançar quase um metro de comprimento e eles se alimentam de outros peixes."
+    }
+  ],
+  "duracao_seg": 15.97,
+  "idioma_detectado": "pt"
+}
