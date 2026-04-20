@@ -14,7 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src import config, ui_banners
+from src import ascii_art, config, ui_banners
 from src.extracao import qwen_extrator
 
 
@@ -27,7 +27,9 @@ def main():
 
     args.out.mkdir(parents=True, exist_ok=True)
 
-    print(ui_banners.caixa("smoke test: retry de schema errado", [
+    print(ascii_art.banner_projeto())
+    print(ascii_art.banner_pipeline("smoke test: retry de schema errado"))
+    print(ui_banners.caixa("parametros", [
         f"modelo extrator: {config.MODEL_EXTRATOR}",
         f"videos a processar: {args.limit} (offset={args.offset})",
         f"salvando resultados em: {args.out}",
