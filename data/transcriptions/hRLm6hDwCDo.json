@@ -1,0 +1,27 @@
+{
+  "texto": "Todo fim de semana, milhares de cidadãos cansados do trabalho procuram o litoral para esquecer os problemas, relaxando-se ao sol e, quem sabe, pegando até uns peixinhos. Estão sentados aqui há quatro horas sem nenhuma fisgadinha. Acho que não tem um só peixe nessa droga de mar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.91,
+      "text": "Todo fim de semana, milhares de cidadãos cansados do trabalho procuram o litoral para esquecer os problemas,"
+    },
+    {
+      "start": 6.13,
+      "end": 10.21,
+      "text": "relaxando-se ao sol e, quem sabe, pegando até uns peixinhos."
+    },
+    {
+      "start": 11.19,
+      "end": 14.03,
+      "text": "Estão sentados aqui há quatro horas sem nenhuma fisgadinha."
+    },
+    {
+      "start": 14.49,
+      "end": 17.09,
+      "text": "Acho que não tem um só peixe nessa droga de mar."
+    }
+  ],
+  "duracao_seg": 19.51,
+  "idioma_detectado": "pt"
+}

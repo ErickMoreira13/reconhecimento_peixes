@@ -1,0 +1,37 @@
+{
+  "texto": "Vamos tirar foto do que é esse dela. Contou, tá? Calma aí. Por que tem esse negócio aqui? Parado. Manda para a Tânia.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 2.27,
+      "text": "Vamos tirar foto do que é esse dela."
+    },
+    {
+      "start": 2.27,
+      "end": 5.39,
+      "text": "Contou, tá?"
+    },
+    {
+      "start": 5.39,
+      "end": 7.55,
+      "text": "Calma aí."
+    },
+    {
+      "start": 7.55,
+      "end": 9.58,
+      "text": "Por que tem esse negócio aqui?"
+    },
+    {
+      "start": 9.58,
+      "end": 12.29,
+      "text": "Parado."
+    },
+    {
+      "start": 12.29,
+      "end": 16.62,
+      "text": "Manda para a Tânia."
+    }
+  ],
+  "duracao_seg": 16.07,
+  "idioma_detectado": "pt"
+}

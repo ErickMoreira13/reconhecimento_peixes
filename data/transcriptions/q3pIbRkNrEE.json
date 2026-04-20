@@ -1,0 +1,42 @@
+{
+  "texto": "É que é pequeno? Clarinha, tá pouquinho para os 16 meses. Clarinha, se inscreve no canal e deixa o link. Clarinha, o tamanho desse peixe. Será que é pequeno? Será que é pequeno? Será que é pequeno?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "É que é pequeno?"
+    },
+    {
+      "start": 1.9,
+      "end": 4.6,
+      "text": "Clarinha, tá pouquinho para os 16 meses."
+    },
+    {
+      "start": 5.38,
+      "end": 7.72,
+      "text": "Clarinha, se inscreve no canal e deixa o link."
+    },
+    {
+      "start": 8.42,
+      "end": 10.12,
+      "text": "Clarinha, o tamanho desse peixe."
+    },
+    {
+      "start": 11.0,
+      "end": 11.78,
+      "text": "Será que é pequeno?"
+    },
+    {
+      "start": 12.58,
+      "end": 14.48,
+      "text": "Será que é pequeno?"
+    },
+    {
+      "start": 14.48,
+      "end": 16.48,
+      "text": "Será que é pequeno?"
+    }
+  ],
+  "duracao_seg": 19.59,
+  "idioma_detectado": "pt"
+}

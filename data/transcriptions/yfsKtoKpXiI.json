@@ -1,0 +1,17 @@
+{
+  "texto": "Pau a sobe isso, o povo é na sexta-feira, se enzissem o nome.",
+  "segmentos": [
+    {
+      "start": 2.58,
+      "end": 5.96,
+      "text": "Pau a sobe isso, o povo é na sexta-feira,"
+    },
+    {
+      "start": 5.96,
+      "end": 7.34,
+      "text": "se enzissem o nome."
+    }
+  ],
+  "duracao_seg": 14.77,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Vamos tentar tirar um pouco mais para que vocês vejam bem, amigas. Isso aqui no chão, ele se chama babia. Muito, muito bicholão. Amigo, é que está muito grande esse animal. Vamos ir a soltar como para a orilla.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Vamos tentar tirar um pouco mais para que vocês vejam bem, amigas."
+    },
+    {
+      "start": 3.6,
+      "end": 5.62,
+      "text": "Isso aqui no chão, ele se chama babia."
+    },
+    {
+      "start": 6.72,
+      "end": 8.42,
+      "text": "Muito, muito bicholão."
+    },
+    {
+      "start": 8.9,
+      "end": 11.02,
+      "text": "Amigo, é que está muito grande esse animal."
+    },
+    {
+      "start": 11.28,
+      "end": 12.72,
+      "text": "Vamos ir a soltar como para a orilla."
+    }
+  ],
+  "duracao_seg": 12.99,
+  "idioma_detectado": "pt"
+}

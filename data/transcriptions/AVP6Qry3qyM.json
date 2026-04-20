@@ -1,0 +1,27 @@
+{
+  "texto": "Responde com alegria das coisas que eu mais gosto Que alegram meu dia a dia Gosto de mulher bonita, de viola e canaria Pra completar meu prazer, gosto de pescaria",
+  "segmentos": [
+    {
+      "start": 17.94,
+      "end": 23.14,
+      "text": "Responde com alegria das coisas que eu mais gosto"
+    },
+    {
+      "start": 23.14,
+      "end": 25.68,
+      "text": "Que alegram meu dia a dia"
+    },
+    {
+      "start": 25.68,
+      "end": 31.19,
+      "text": "Gosto de mulher bonita, de viola e canaria"
+    },
+    {
+      "start": 31.19,
+      "end": 45.26,
+      "text": "Pra completar meu prazer, gosto de pescaria"
+    }
+  ],
+  "duracao_seg": 57.69,
+  "idioma_detectado": "pt"
+}

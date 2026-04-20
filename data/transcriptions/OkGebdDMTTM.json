@@ -1,0 +1,47 @@
+{
+  "texto": "Estos homens estavam pescando em alta mar e não acreditarás o que les aconteceu. Um dia de pesca rutinaria tomou um giro repentino quando miles de peças começaram a revolotear no ar. De repente, uma gigantesca ballena jorobada emergiu com força. Este colosal animal, que pesa toneladas, quase aplasta seu barco. Mas, apesar do susto, continuaram sem imaginar o que estava por vir. Umas horas depois, a mesma ballena apareceu de novo. E esta vez, hundiu o barco que tinham ao frente. Os pescadores não tiveram outra opção que uma huida desesperada para salvar suas vidas.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "Estos homens estavam pescando em alta mar e não acreditarás o que les aconteceu."
+    },
+    {
+      "start": 4.52,
+      "end": 10.5,
+      "text": "Um dia de pesca rutinaria tomou um giro repentino quando miles de peças começaram a revolotear"
+    },
+    {
+      "start": 10.5,
+      "end": 15.36,
+      "text": "no ar. De repente, uma gigantesca ballena jorobada emergiu com força."
+    },
+    {
+      "start": 15.68,
+      "end": 19.38,
+      "text": "Este colosal animal, que pesa toneladas, quase aplasta seu barco."
+    },
+    {
+      "start": 19.68,
+      "end": 23.72,
+      "text": "Mas, apesar do susto, continuaram sem imaginar o que estava por vir."
+    },
+    {
+      "start": 24.1,
+      "end": 27.1,
+      "text": "Umas horas depois, a mesma ballena apareceu de novo."
+    },
+    {
+      "start": 27.1,
+      "end": 29.98,
+      "text": "E esta vez, hundiu o barco que tinham ao frente."
+    },
+    {
+      "start": 29.98,
+      "end": 34.68,
+      "text": "Os pescadores não tiveram outra opção que uma huida desesperada para salvar suas vidas."
+    }
+  ],
+  "duracao_seg": 34.89,
+  "idioma_detectado": "pt"
+}

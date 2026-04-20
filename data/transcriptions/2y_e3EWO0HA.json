@@ -1,0 +1,112 @@
+{
+  "texto": "O cedinho em dia de pescaria Tomo meu café quentinho Pra encarar a brisa fria Vou pela estrada batida A passarada sovia Levo a traia e a matula Só volto no fim do dia Mesa é minha E eu sou da natureza Tenho tudo o que preciso Minha vida é uma beleza Esse pedaço de chão É a minha maior riqueza Chego na beira do rio Ainda ao raiar do dia Não uso rede nem barco Nem tarrafa ou armadilha Uma vara e uma pinga Faz a minha alegria Só Deus e a natureza Eu tenho companhia Mesa é minha E eu sou da natureza Tenho tudo o que preciso Minha vida é uma beleza Esse pedaço de chão É a minha maior riqueza Aqui eu não tenho pressa Não existe correria Eu sou um bicho do mato Toma tudo sem quantia Se o povo da cidade Não vier pra cá um dia Não vai chegar por aqui Essa tal de pandemia A natureza é minha E eu sou da natureza Tenho tudo o que preciso Minha vida é uma beleza Esse pedaço de chão É a minha maior riqueza",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 17.94,
+      "text": "O cedinho em dia de pescaria Tomo meu café quentinho"
+    },
+    {
+      "start": 17.94,
+      "end": 23.86,
+      "text": "Pra encarar a brisa fria Vou pela estrada batida"
+    },
+    {
+      "start": 23.86,
+      "end": 32.94,
+      "text": "A passarada sovia Levo a traia e a matula"
+    },
+    {
+      "start": 32.94,
+      "end": 41.8,
+      "text": "Só volto no fim do dia Mesa é minha"
+    },
+    {
+      "start": 41.8,
+      "end": 47.66,
+      "text": "E eu sou da natureza Tenho tudo o que preciso"
+    },
+    {
+      "start": 47.66,
+      "end": 53.9,
+      "text": "Minha vida é uma beleza Esse pedaço de chão"
+    },
+    {
+      "start": 53.9,
+      "end": 69.2,
+      "text": "É a minha maior riqueza Chego na beira do rio"
+    },
+    {
+      "start": 69.2,
+      "end": 74.62,
+      "text": "Ainda ao raiar do dia Não uso rede nem barco"
+    },
+    {
+      "start": 74.62,
+      "end": 80.12,
+      "text": "Nem tarrafa ou armadilha Uma vara e uma pinga"
+    },
+    {
+      "start": 80.12,
+      "end": 89.64,
+      "text": "Faz a minha alegria Só Deus e a natureza"
+    },
+    {
+      "start": 89.64,
+      "end": 98.33,
+      "text": "Eu tenho companhia Mesa é minha"
+    },
+    {
+      "start": 98.33,
+      "end": 104.18,
+      "text": "E eu sou da natureza Tenho tudo o que preciso"
+    },
+    {
+      "start": 104.18,
+      "end": 110.46,
+      "text": "Minha vida é uma beleza Esse pedaço de chão"
+    },
+    {
+      "start": 110.46,
+      "end": 125.32,
+      "text": "É a minha maior riqueza Aqui eu não tenho pressa"
+    },
+    {
+      "start": 125.32,
+      "end": 131.12,
+      "text": "Não existe correria Eu sou um bicho do mato"
+    },
+    {
+      "start": 131.12,
+      "end": 136.99,
+      "text": "Toma tudo sem quantia Se o povo da cidade"
+    },
+    {
+      "start": 136.99,
+      "end": 145.75,
+      "text": "Não vier pra cá um dia Não vai chegar por aqui"
+    },
+    {
+      "start": 145.75,
+      "end": 154.87,
+      "text": "Essa tal de pandemia A natureza é minha"
+    },
+    {
+      "start": 154.87,
+      "end": 160.78,
+      "text": "E eu sou da natureza Tenho tudo o que preciso"
+    },
+    {
+      "start": 160.78,
+      "end": 166.97,
+      "text": "Minha vida é uma beleza Esse pedaço de chão"
+    },
+    {
+      "start": 166.97,
+      "end": 171.27,
+      "text": "É a minha maior riqueza"
+    }
+  ],
+  "duracao_seg": 177.59,
+  "idioma_detectado": "pt"
+}

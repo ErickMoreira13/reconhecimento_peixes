@@ -1,0 +1,57 @@
+{
+  "texto": "Fui pescar. Café da manhã. Peixes, consigo pescar. Aconteceu isso quando eu pescar um peixe? Deixa eu ver... Onde estão escondidos os desenhos animados? Eu acho que eu vou começar uma investigação. Um e dois e três, o desenho é procurado. Microfone, a peixe e o urso, vamos lá! E o socorro é muito fácil e agora você é peixe!",
+  "segmentos": [
+    {
+      "start": 6.1,
+      "end": 15.17,
+      "text": "Fui pescar."
+    },
+    {
+      "start": 15.17,
+      "end": 267.76,
+      "text": "Café da manhã."
+    },
+    {
+      "start": 267.76,
+      "end": 270.53,
+      "text": "Peixes, consigo pescar."
+    },
+    {
+      "start": 270.53,
+      "end": 376.9,
+      "text": "Aconteceu isso quando eu pescar um peixe?"
+    },
+    {
+      "start": 376.9,
+      "end": 379.15,
+      "text": "Deixa eu ver..."
+    },
+    {
+      "start": 379.15,
+      "end": 381.15,
+      "text": "Onde estão escondidos os desenhos animados?"
+    },
+    {
+      "start": 381.15,
+      "end": 386.37,
+      "text": "Eu acho que eu vou começar uma investigação."
+    },
+    {
+      "start": 386.37,
+      "end": 391.36,
+      "text": "Um e dois e três, o desenho é procurado."
+    },
+    {
+      "start": 391.36,
+      "end": 395.29,
+      "text": "Microfone, a peixe e o urso, vamos lá!"
+    },
+    {
+      "start": 395.29,
+      "end": 399.29,
+      "text": "E o socorro é muito fácil e agora você é peixe!"
+    }
+  ],
+  "duracao_seg": 403.57,
+  "idioma_detectado": "pt"
+}

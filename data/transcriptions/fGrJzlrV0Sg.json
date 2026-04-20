@@ -1,0 +1,17 @@
+{
+  "texto": "Pisa mansinho no barranco, chega devagar na selva pra evitar os... Tira a branca da capanga, toma um gole pra esperar, linha balançou, não mexe, deixa...",
+  "segmentos": [
+    {
+      "start": 4.05,
+      "end": 12.42,
+      "text": "Pisa mansinho no barranco, chega devagar na selva pra evitar os..."
+    },
+    {
+      "start": 12.42,
+      "end": 20.46,
+      "text": "Tira a branca da capanga, toma um gole pra esperar, linha balançou, não mexe, deixa..."
+    }
+  ],
+  "duracao_seg": 20.49,
+  "idioma_detectado": "pt"
+}

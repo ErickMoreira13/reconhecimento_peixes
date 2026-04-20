@@ -1,0 +1,42 @@
+{
+  "texto": "é meu amigo Claudomir aqui é o criador do sítio criador do sítio Rio Azul e daqui ó aí tamanho desse piau é o ombro pescador e daí é o responsável pelo azul é dono, toma conta é dono",
+  "segmentos": [
+    {
+      "start": 0.78,
+      "end": 3.78,
+      "text": "é meu amigo Claudomir"
+    },
+    {
+      "start": 3.78,
+      "end": 6.78,
+      "text": "aqui é o criador do sítio"
+    },
+    {
+      "start": 6.78,
+      "end": 10.07,
+      "text": "criador do sítio Rio Azul e daqui ó"
+    },
+    {
+      "start": 10.07,
+      "end": 12.07,
+      "text": "aí tamanho desse piau"
+    },
+    {
+      "start": 12.07,
+      "end": 14.07,
+      "text": "é o ombro pescador e daí"
+    },
+    {
+      "start": 14.07,
+      "end": 16.07,
+      "text": "é o responsável pelo azul"
+    },
+    {
+      "start": 16.07,
+      "end": 18.07,
+      "text": "é dono, toma conta é dono"
+    }
+  ],
+  "duracao_seg": 18.61,
+  "idioma_detectado": "pt"
+}
