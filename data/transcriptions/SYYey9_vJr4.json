@@ -1,0 +1,22 @@
+{
+  "texto": "Pra você que é pescador de ceva e acha que quanto mais ceva você solta no rio, mais peixe você vai atrair até o barco, você tá enganado. Na verdade, você pode até cevar com a regulagem do cevador assim mais aberto quando você chega no ponto. Dessa maneira, você solta dois, três cevadores com mais...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.54,
+      "text": "Pra você que é pescador de ceva e acha que quanto mais ceva você solta no rio, mais peixe você vai atrair até o barco, você tá enganado."
+    },
+    {
+      "start": 7.86,
+      "end": 12.06,
+      "text": "Na verdade, você pode até cevar com a regulagem do cevador assim mais aberto quando você chega no ponto."
+    },
+    {
+      "start": 12.44,
+      "end": 15.0,
+      "text": "Dessa maneira, você solta dois, três cevadores com mais..."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

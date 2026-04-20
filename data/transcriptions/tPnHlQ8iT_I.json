@@ -1,0 +1,22 @@
+{
+  "texto": "Pra quem não conhece essa piabanha, é a prata aqui do Paraíba. Parece um simples exoles, mas não é. Serra do Mar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "Pra quem não conhece essa piabanha, é a prata aqui do Paraíba."
+    },
+    {
+      "start": 11.16,
+      "end": 14.88,
+      "text": "Parece um simples exoles, mas não é."
+    },
+    {
+      "start": 17.19,
+      "end": 18.17,
+      "text": "Serra do Mar."
+    }
+  ],
+  "duracao_seg": 23.01,
+  "idioma_detectado": "pt"
+}

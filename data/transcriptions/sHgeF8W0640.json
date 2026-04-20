@@ -1,0 +1,22 @@
+{
+  "texto": "Aquele ali não é fraco não, ele anda em cima da madeira, ó, tá vendo? Em cima do pau, ó, ó. Cuidado, cuidado, pra não cair aí, até, bum, dentro da água aí.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Aquele ali não é fraco não, ele anda em cima da madeira, ó, tá vendo?"
+    },
+    {
+      "start": 3.12,
+      "end": 6.19,
+      "text": "Em cima do pau, ó, ó."
+    },
+    {
+      "start": 7.62,
+      "end": 10.7,
+      "text": "Cuidado, cuidado, pra não cair aí, até, bum, dentro da água aí."
+    }
+  ],
+  "duracao_seg": 26.73,
+  "idioma_detectado": "pt"
+}

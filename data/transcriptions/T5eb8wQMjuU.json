@@ -1,0 +1,52 @@
+{
+  "texto": "Aí 30, pô, 80 e quanto a pessoa vai cuidar. Caraca, mano. Não vai ficar com raiva de mim, não, hein, bicho. Tá bonito, olha como ele tá aí. Tá bravo. Tá mesmo, ó, tá retadão, ó. Falta mais pra... Isso, assim, ó. Aí tá pra essa distância.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Aí 30, pô, 80 e quanto a pessoa vai cuidar."
+    },
+    {
+      "start": 5.5,
+      "end": 6.1,
+      "text": "Caraca, mano."
+    },
+    {
+      "start": 6.72,
+      "end": 8.44,
+      "text": "Não vai ficar com raiva de mim, não, hein, bicho."
+    },
+    {
+      "start": 8.74,
+      "end": 9.88,
+      "text": "Tá bonito, olha como ele tá aí."
+    },
+    {
+      "start": 9.96,
+      "end": 10.36,
+      "text": "Tá bravo."
+    },
+    {
+      "start": 10.38,
+      "end": 11.7,
+      "text": "Tá mesmo, ó, tá retadão, ó."
+    },
+    {
+      "start": 12.06,
+      "end": 12.66,
+      "text": "Falta mais pra..."
+    },
+    {
+      "start": 12.66,
+      "end": 13.84,
+      "text": "Isso, assim, ó."
+    },
+    {
+      "start": 14.08,
+      "end": 14.9,
+      "text": "Aí tá pra essa distância."
+    }
+  ],
+  "duracao_seg": 14.97,
+  "idioma_detectado": "pt"
+}

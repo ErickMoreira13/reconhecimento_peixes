@@ -1,0 +1,27 @@
+{
+  "texto": "Desde que eu comecei a pescar, eu nunca vi um pacu desse tamanho na minha vida. Olha o tamanho disso aqui. Isso aqui é um pacu, não é um tamba não. É gigante, olha.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Desde que eu comecei a pescar, eu nunca vi um pacu desse tamanho na minha vida."
+    },
+    {
+      "start": 6.49,
+      "end": 7.67,
+      "text": "Olha o tamanho disso aqui."
+    },
+    {
+      "start": 9.25,
+      "end": 10.77,
+      "text": "Isso aqui é um pacu, não é um tamba não."
+    },
+    {
+      "start": 12.16,
+      "end": 13.42,
+      "text": "É gigante, olha."
+    }
+  ],
+  "duracao_seg": 15.35,
+  "idioma_detectado": "pt"
+}

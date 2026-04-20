@@ -1,0 +1,72 @@
+{
+  "texto": "Barriga Cadê, cadê? Vai Arromaram aí, arrombaram aí Aí, vai Cadê? Ah, rapaz, olha Grande Aí, aí, aí Vai pro lixo Tá na mão, papai Aí, erram Aí, erram",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 1.11,
+      "text": "Barriga"
+    },
+    {
+      "start": 1.11,
+      "end": 4.03,
+      "text": "Cadê, cadê?"
+    },
+    {
+      "start": 5.3,
+      "end": 6.14,
+      "text": "Vai"
+    },
+    {
+      "start": 6.14,
+      "end": 9.96,
+      "text": "Arromaram aí, arrombaram aí"
+    },
+    {
+      "start": 9.96,
+      "end": 11.3,
+      "text": "Aí, vai"
+    },
+    {
+      "start": 11.3,
+      "end": 13.84,
+      "text": "Cadê?"
+    },
+    {
+      "start": 14.72,
+      "end": 16.22,
+      "text": "Ah, rapaz, olha"
+    },
+    {
+      "start": 16.22,
+      "end": 17.28,
+      "text": "Grande"
+    },
+    {
+      "start": 17.28,
+      "end": 19.84,
+      "text": "Aí, aí, aí"
+    },
+    {
+      "start": 19.84,
+      "end": 24.34,
+      "text": "Vai pro lixo"
+    },
+    {
+      "start": 24.34,
+      "end": 33.04,
+      "text": "Tá na mão, papai"
+    },
+    {
+      "start": 35.04,
+      "end": 35.86,
+      "text": "Aí, erram"
+    },
+    {
+      "start": 35.86,
+      "end": 36.68,
+      "text": "Aí, erram"
+    }
+  ],
+  "duracao_seg": 39.09,
+  "idioma_detectado": "pt"
+}

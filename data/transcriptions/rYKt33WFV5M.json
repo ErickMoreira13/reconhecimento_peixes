@@ -1,0 +1,187 @@
+{
+  "texto": "Tá gravando Vai, Evaldo Pegou, pegou Opa Oh, porra Meu Deus Piauçu Piauçu, rapaz Rapaz Olha o tamanho de pauleira Evaldo, aí é mais de... Aí é mais de um quilo Olha aí, galera Na linha de mão, rapaz Olha a alegria aqui Bora, Evaldo Esse aqui é grande, viu Piauçu, tá Bora pra ali, Evaldo, bora pra ali Que bichão aí, Evaldo, é grande Entrou na linha de mão, pessoal Olha aí Piauçu Esse aqui era o tambaquinho Tá de perto Vim pra ele aqui pra dar uma aliviada Muito lindo, ó Pauleira Olha o tamanho Olha o tamanho da pauleira Aí Olha o bicho do bicho, tá grande Grande Eita Valeu, galera Tamo junto",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "text": "Tá gravando"
+    },
+    {
+      "start": 0.64,
+      "end": 1.96,
+      "text": "Vai, Evaldo"
+    },
+    {
+      "start": 1.96,
+      "end": 10.89,
+      "text": "Pegou, pegou"
+    },
+    {
+      "start": 10.89,
+      "end": 11.69,
+      "text": "Opa"
+    },
+    {
+      "start": 11.69,
+      "end": 14.29,
+      "text": "Oh, porra"
+    },
+    {
+      "start": 14.29,
+      "end": 15.41,
+      "text": "Meu Deus"
+    },
+    {
+      "start": 15.41,
+      "end": 16.41,
+      "text": "Piauçu"
+    },
+    {
+      "start": 16.41,
+      "end": 18.87,
+      "text": "Piauçu, rapaz"
+    },
+    {
+      "start": 18.87,
+      "end": 19.95,
+      "text": "Rapaz"
+    },
+    {
+      "start": 19.95,
+      "end": 21.03,
+      "text": "Olha o tamanho de pauleira"
+    },
+    {
+      "start": 21.03,
+      "end": 24.62,
+      "text": "Evaldo, aí é mais de..."
+    },
+    {
+      "start": 24.62,
+      "end": 25.6,
+      "text": "Aí é mais de um quilo"
+    },
+    {
+      "start": 25.6,
+      "end": 27.2,
+      "text": "Olha aí, galera"
+    },
+    {
+      "start": 27.2,
+      "end": 30.14,
+      "text": "Na linha de mão, rapaz"
+    },
+    {
+      "start": 30.14,
+      "end": 32.13,
+      "text": "Olha a alegria aqui"
+    },
+    {
+      "start": 32.13,
+      "end": 32.77,
+      "text": "Bora, Evaldo"
+    },
+    {
+      "start": 32.77,
+      "end": 33.95,
+      "text": "Esse aqui é grande, viu"
+    },
+    {
+      "start": 33.95,
+      "end": 35.89,
+      "text": "Piauçu, tá"
+    },
+    {
+      "start": 35.89,
+      "end": 36.95,
+      "text": "Bora pra ali, Evaldo, bora pra ali"
+    },
+    {
+      "start": 36.95,
+      "end": 40.64,
+      "text": "Que bichão aí, Evaldo, é grande"
+    },
+    {
+      "start": 40.64,
+      "end": 42.91,
+      "text": "Entrou na linha de mão, pessoal"
+    },
+    {
+      "start": 42.91,
+      "end": 43.47,
+      "text": "Olha aí"
+    },
+    {
+      "start": 43.47,
+      "end": 44.29,
+      "text": "Piauçu"
+    },
+    {
+      "start": 44.29,
+      "end": 46.48,
+      "text": "Esse aqui era o tambaquinho"
+    },
+    {
+      "start": 46.48,
+      "end": 47.18,
+      "text": "Tá de perto"
+    },
+    {
+      "start": 47.18,
+      "end": 49.7,
+      "text": "Vim pra ele aqui pra dar uma aliviada"
+    },
+    {
+      "start": 49.7,
+      "end": 52.12,
+      "text": "Muito lindo, ó"
+    },
+    {
+      "start": 52.12,
+      "end": 54.12,
+      "text": "Pauleira"
+    },
+    {
+      "start": 54.12,
+      "end": 55.18,
+      "text": "Olha o tamanho"
+    },
+    {
+      "start": 55.18,
+      "end": 56.64,
+      "text": "Olha o tamanho da pauleira"
+    },
+    {
+      "start": 56.64,
+      "end": 57.38,
+      "text": "Aí"
+    },
+    {
+      "start": 57.38,
+      "end": 59.04,
+      "text": "Olha o bicho do bicho, tá grande"
+    },
+    {
+      "start": 59.04,
+      "end": 59.98,
+      "text": "Grande"
+    },
+    {
+      "start": 59.98,
+      "end": 61.42,
+      "text": "Eita"
+    },
+    {
+      "start": 61.42,
+      "end": 62.46,
+      "text": "Valeu, galera"
+    },
+    {
+      "start": 62.46,
+      "end": 63.4,
+      "text": "Tamo junto"
+    }
+  ],
+  "duracao_seg": 64.67,
+  "idioma_detectado": "pt"
+}

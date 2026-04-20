@@ -1,0 +1,227 @@
+{
+  "texto": "Aí, hoje a gente quer vir pegar a Piau. Aí, olha o tamanho do Piau que o cara pegou. Mostra o Piau aí, Will. Olha aqui, ó. É Piau? Ó, é com P também, mas é piranha. Olha isso aqui. Nossa, cara. Olha esse dente, cara. Olha isso aqui, ó. Olha o dente da piranha. É grande, Will? Caraca, velho, muito grande. Vamos ver o tamanho dela. É perigosa, né? Perigosíssima. Isso aqui bateu num dedo. Tchau. Nunca façam isso, crianças. Por favor. Olha, olha. Tá vendo a instalada? Uhum. Olha, olha. Essa é a piranha branca, né? Piranha beba, isso. Olha o que você se faz, Will. Um dedinho. Olha aí. Olha aqui. Vai. Ela não vai pegar. Ela não vai pegar. Onde é que você tá? Cuidado aí, meu. Cara, olha. Se ela fechar, já era. Olha isso aqui. Olha isso, ó. É a piranha. A piranha. A piranha. Esse é o eu, pescador de piranha. Caraca, velho.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 2.56,
+      "text": "Aí, hoje a gente quer vir pegar a Piau."
+    },
+    {
+      "start": 3.33,
+      "end": 4.95,
+      "text": "Aí, olha o tamanho do Piau que o cara pegou."
+    },
+    {
+      "start": 5.01,
+      "end": 5.81,
+      "text": "Mostra o Piau aí, Will."
+    },
+    {
+      "start": 6.25,
+      "end": 6.91,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 7.15,
+      "end": 7.67,
+      "text": "É Piau?"
+    },
+    {
+      "start": 8.05,
+      "end": 10.23,
+      "text": "Ó, é com P também, mas é piranha."
+    },
+    {
+      "start": 10.81,
+      "end": 11.31,
+      "text": "Olha isso aqui."
+    },
+    {
+      "start": 11.45,
+      "end": 11.99,
+      "text": "Nossa, cara."
+    },
+    {
+      "start": 11.99,
+      "end": 12.93,
+      "text": "Olha esse dente, cara."
+    },
+    {
+      "start": 12.97,
+      "end": 13.51,
+      "text": "Olha isso aqui, ó."
+    },
+    {
+      "start": 13.53,
+      "end": 14.77,
+      "text": "Olha o dente da piranha."
+    },
+    {
+      "start": 15.59,
+      "end": 16.11,
+      "text": "É grande, Will?"
+    },
+    {
+      "start": 16.41,
+      "end": 17.33,
+      "text": "Caraca, velho, muito grande."
+    },
+    {
+      "start": 17.43,
+      "end": 18.09,
+      "text": "Vamos ver o tamanho dela."
+    },
+    {
+      "start": 19.23,
+      "end": 19.85,
+      "text": "É perigosa, né?"
+    },
+    {
+      "start": 20.79,
+      "end": 21.19,
+      "text": "Perigosíssima."
+    },
+    {
+      "start": 21.25,
+      "end": 22.13,
+      "text": "Isso aqui bateu num dedo."
+    },
+    {
+      "start": 22.69,
+      "end": 22.97,
+      "text": "Tchau."
+    },
+    {
+      "start": 23.81,
+      "end": 24.91,
+      "text": "Nunca façam isso, crianças."
+    },
+    {
+      "start": 26.38,
+      "end": 26.96,
+      "text": "Por favor."
+    },
+    {
+      "start": 27.3,
+      "end": 27.66,
+      "text": "Olha, olha."
+    },
+    {
+      "start": 27.74,
+      "end": 28.36,
+      "text": "Tá vendo a instalada?"
+    },
+    {
+      "start": 28.46,
+      "end": 28.78,
+      "text": "Uhum."
+    },
+    {
+      "start": 29.48,
+      "end": 30.02,
+      "text": "Olha, olha."
+    },
+    {
+      "start": 30.02,
+      "end": 32.6,
+      "text": "Essa é a piranha branca, né?"
+    },
+    {
+      "start": 33.0,
+      "end": 33.96,
+      "text": "Piranha beba, isso."
+    },
+    {
+      "start": 34.44,
+      "end": 35.52,
+      "text": "Olha o que você se faz, Will."
+    },
+    {
+      "start": 35.76,
+      "end": 36.44,
+      "text": "Um dedinho."
+    },
+    {
+      "start": 37.14,
+      "end": 37.4,
+      "text": "Olha aí."
+    },
+    {
+      "start": 38.21,
+      "end": 38.67,
+      "text": "Olha aqui."
+    },
+    {
+      "start": 40.5,
+      "end": 40.76,
+      "text": "Vai."
+    },
+    {
+      "start": 42.38,
+      "end": 43.02,
+      "text": "Ela não vai pegar."
+    },
+    {
+      "start": 43.16,
+      "end": 43.36,
+      "text": "Ela não vai pegar."
+    },
+    {
+      "start": 43.36,
+      "end": 43.84,
+      "text": "Onde é que você tá?"
+    },
+    {
+      "start": 44.08,
+      "end": 44.6,
+      "text": "Cuidado aí, meu."
+    },
+    {
+      "start": 45.88,
+      "end": 46.18,
+      "text": "Cara, olha."
+    },
+    {
+      "start": 46.18,
+      "end": 47.16,
+      "text": "Se ela fechar, já era."
+    },
+    {
+      "start": 47.58,
+      "end": 48.04,
+      "text": "Olha isso aqui."
+    },
+    {
+      "start": 48.44,
+      "end": 49.14,
+      "text": "Olha isso, ó."
+    },
+    {
+      "start": 50.41,
+      "end": 51.05,
+      "text": "É a piranha."
+    },
+    {
+      "start": 51.27,
+      "end": 51.89,
+      "text": "A piranha."
+    },
+    {
+      "start": 52.03,
+      "end": 52.49,
+      "text": "A piranha."
+    },
+    {
+      "start": 54.15,
+      "end": 55.35,
+      "text": "Esse é o eu, pescador de piranha."
+    },
+    {
+      "start": 56.92,
+      "end": 57.74,
+      "text": "Caraca, velho."
+    }
+  ],
+  "duracao_seg": 58.11,
+  "idioma_detectado": "pt"
+}

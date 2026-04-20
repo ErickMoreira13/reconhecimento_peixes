@@ -1,0 +1,52 @@
+{
+  "texto": "fala pessoal e aí tudo beleza com vocês hoje aproveitei aqui hoje eu parei mais cedo o serviço lá tá e eu vim dar uma limpada aqui na ceba olha aí ó olha lá que a parte ali ainda tá meio sujo né eu vim dar uma limpada aqui na minha ceba tá e eu aproveitei né eu já trouxe esse resto de mandioca que eu tinha lá em casa aí ó coloquei nesse saquinho aqui deu uma quebrada nela né e eu vou usar ela para servir aqui né para jogar lá na frente e agora deixar lá acho que no final de semana já vai estar bom aqui e isso se não chover mais né eu espero que não chova né então abraço a todos",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 9.82,
+      "text": "fala pessoal e aí tudo beleza com vocês hoje aproveitei aqui"
+    },
+    {
+      "start": 9.82,
+      "end": 16.11,
+      "text": "hoje eu parei mais cedo o serviço lá tá e eu vim dar uma limpada aqui na ceba"
+    },
+    {
+      "start": 16.11,
+      "end": 21.39,
+      "text": "olha aí ó olha lá que a parte ali ainda tá meio sujo né"
+    },
+    {
+      "start": 21.39,
+      "end": 29.61,
+      "text": "eu vim dar uma limpada aqui na minha ceba tá e eu aproveitei né eu já trouxe esse"
+    },
+    {
+      "start": 29.61,
+      "end": 36.67,
+      "text": "resto de mandioca que eu tinha lá em casa aí ó coloquei nesse saquinho aqui deu uma"
+    },
+    {
+      "start": 36.67,
+      "end": 42.73,
+      "text": "quebrada nela né e eu vou usar ela para servir aqui né"
+    },
+    {
+      "start": 42.73,
+      "end": 52.5,
+      "text": "para jogar lá na frente e agora deixar lá acho que no final de semana já vai estar"
+    },
+    {
+      "start": 52.5,
+      "end": 58.78,
+      "text": "bom aqui e isso se não chover mais né eu espero que não chova né então abraço a"
+    },
+    {
+      "start": 58.78,
+      "end": 61.12,
+      "text": "todos"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

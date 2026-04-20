@@ -1,0 +1,382 @@
+{
+  "texto": "Boa tarde galera Estão mais uma vez aqui Nesse momento Na cima da entrada do Arapichuna Aqui com meu amigo Jô Nilso Jô Nilso de Cáprio E também nós temos aqui O nosso amigo Que é a rede Nosso amigo Missionário Elito Fazendo aqui Um assado Das 4 horas da tarde Para a gente merendar Jô Nilso aqui Jô Nilso querendo puxar uma piranha Que até agora não pegou nada Olha o tamanho da piranha Que ele pegou aqui Esse aqui é a piranha Que ele pegou É o filhote de piranha ainda E aqui E aqui é o assado Que ele está fazendo aqui Olha só o fogão aqui Queria pendurar a panela Queria pendurar a panela aí Para fazer o caldote Aí Quando você está reclamando Que não tem gás na sua casa Que não pode cozinhar Porque não tem gás Nós estamos provando Para você Que aqui você pode fazer comida Sem gás Aqui Diretamente Da floresta Nacional do Tapajós No meio da selva Aqui é água Malhadeira já está na água Aqui está a rede E aqui É a abajara A figueirinha Nós estamos aqui Com a malhadeira já na água Se Deus quiser Daqui a pouco Eu vou tirar um peixe E nós estamos fazendo aqui A merenda das 3 horas Para as 4 horas da tarde 5 horas Com o assado Aí A gente estamos aqui Para Ver a malhadeira Para cuidar do peixe Bacana Para amanhã A gente ir para Santarém Se Deus quiser Paisagem muito linda aqui Muito bacana Poxa, parceiro Um abraço Fica com Deus",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 2.91,
+      "text": "Boa tarde galera"
+    },
+    {
+      "start": 2.91,
+      "end": 5.54,
+      "text": "Estão mais uma vez aqui"
+    },
+    {
+      "start": 5.54,
+      "end": 6.48,
+      "text": "Nesse momento"
+    },
+    {
+      "start": 6.48,
+      "end": 9.84,
+      "text": "Na cima da entrada do Arapichuna"
+    },
+    {
+      "start": 9.84,
+      "end": 12.35,
+      "text": "Aqui com meu amigo"
+    },
+    {
+      "start": 12.35,
+      "end": 13.29,
+      "text": "Jô Nilso"
+    },
+    {
+      "start": 13.29,
+      "end": 15.91,
+      "text": "Jô Nilso de Cáprio"
+    },
+    {
+      "start": 15.91,
+      "end": 18.65,
+      "text": "E também nós temos aqui"
+    },
+    {
+      "start": 18.65,
+      "end": 19.61,
+      "text": "O nosso amigo"
+    },
+    {
+      "start": 19.61,
+      "end": 20.45,
+      "text": "Que é a rede"
+    },
+    {
+      "start": 20.45,
+      "end": 23.79,
+      "text": "Nosso amigo"
+    },
+    {
+      "start": 23.79,
+      "end": 26.17,
+      "text": "Missionário Elito"
+    },
+    {
+      "start": 26.17,
+      "end": 27.21,
+      "text": "Fazendo aqui"
+    },
+    {
+      "start": 27.21,
+      "end": 31.7,
+      "text": "Um assado"
+    },
+    {
+      "start": 31.7,
+      "end": 33.24,
+      "text": "Das 4 horas da tarde"
+    },
+    {
+      "start": 33.24,
+      "end": 34.76,
+      "text": "Para a gente merendar"
+    },
+    {
+      "start": 34.76,
+      "end": 36.64,
+      "text": "Jô Nilso aqui"
+    },
+    {
+      "start": 36.64,
+      "end": 38.16,
+      "text": "Jô Nilso querendo puxar uma piranha"
+    },
+    {
+      "start": 38.16,
+      "end": 39.74,
+      "text": "Que até agora não pegou nada"
+    },
+    {
+      "start": 39.74,
+      "end": 42.0,
+      "text": "Olha o tamanho da piranha"
+    },
+    {
+      "start": 42.0,
+      "end": 42.6,
+      "text": "Que ele pegou aqui"
+    },
+    {
+      "start": 42.6,
+      "end": 44.58,
+      "text": "Esse aqui é a piranha"
+    },
+    {
+      "start": 44.58,
+      "end": 45.44,
+      "text": "Que ele pegou"
+    },
+    {
+      "start": 45.44,
+      "end": 48.22,
+      "text": "É o filhote de piranha ainda"
+    },
+    {
+      "start": 48.22,
+      "end": 50.77,
+      "text": "E aqui"
+    },
+    {
+      "start": 50.77,
+      "end": 53.64,
+      "text": "E aqui é o assado"
+    },
+    {
+      "start": 53.64,
+      "end": 54.74,
+      "text": "Que ele está fazendo aqui"
+    },
+    {
+      "start": 54.74,
+      "end": 56.62,
+      "text": "Olha só o fogão aqui"
+    },
+    {
+      "start": 56.62,
+      "end": 58.96,
+      "text": "Queria pendurar a panela"
+    },
+    {
+      "start": 58.96,
+      "end": 60.42,
+      "text": "Queria pendurar a panela aí"
+    },
+    {
+      "start": 60.42,
+      "end": 62.02,
+      "text": "Para fazer o caldote"
+    },
+    {
+      "start": 62.02,
+      "end": 63.8,
+      "text": "Aí"
+    },
+    {
+      "start": 63.8,
+      "end": 66.42,
+      "text": "Quando você está reclamando"
+    },
+    {
+      "start": 66.42,
+      "end": 67.68,
+      "text": "Que não tem gás na sua casa"
+    },
+    {
+      "start": 67.68,
+      "end": 68.42,
+      "text": "Que não pode cozinhar"
+    },
+    {
+      "start": 68.42,
+      "end": 69.26,
+      "text": "Porque não tem gás"
+    },
+    {
+      "start": 69.26,
+      "end": 70.32,
+      "text": "Nós estamos provando"
+    },
+    {
+      "start": 70.32,
+      "end": 70.8,
+      "text": "Para você"
+    },
+    {
+      "start": 70.8,
+      "end": 72.26,
+      "text": "Que aqui você pode fazer comida"
+    },
+    {
+      "start": 72.26,
+      "end": 72.9,
+      "text": "Sem gás"
+    },
+    {
+      "start": 72.9,
+      "end": 73.16,
+      "text": "Aqui"
+    },
+    {
+      "start": 73.16,
+      "end": 75.0,
+      "text": "Diretamente"
+    },
+    {
+      "start": 75.0,
+      "end": 76.66,
+      "text": "Da floresta"
+    },
+    {
+      "start": 76.66,
+      "end": 79.08,
+      "text": "Nacional do Tapajós"
+    },
+    {
+      "start": 79.08,
+      "end": 80.6,
+      "text": "No meio da selva"
+    },
+    {
+      "start": 80.6,
+      "end": 82.46,
+      "text": "Aqui é água"
+    },
+    {
+      "start": 82.46,
+      "end": 84.4,
+      "text": "Malhadeira já está na água"
+    },
+    {
+      "start": 84.4,
+      "end": 85.28,
+      "text": "Aqui está a rede"
+    },
+    {
+      "start": 85.28,
+      "end": 87.28,
+      "text": "E aqui"
+    },
+    {
+      "start": 87.28,
+      "end": 88.38,
+      "text": "É a abajara"
+    },
+    {
+      "start": 88.38,
+      "end": 89.38,
+      "text": "A figueirinha"
+    },
+    {
+      "start": 89.38,
+      "end": 91.4,
+      "text": "Nós estamos aqui"
+    },
+    {
+      "start": 91.4,
+      "end": 93.6,
+      "text": "Com a malhadeira já na água"
+    },
+    {
+      "start": 93.6,
+      "end": 94.06,
+      "text": "Se Deus quiser"
+    },
+    {
+      "start": 94.06,
+      "end": 94.52,
+      "text": "Daqui a pouco"
+    },
+    {
+      "start": 94.52,
+      "end": 95.26,
+      "text": "Eu vou tirar um peixe"
+    },
+    {
+      "start": 95.26,
+      "end": 97.4,
+      "text": "E nós estamos fazendo aqui"
+    },
+    {
+      "start": 97.4,
+      "end": 99.78,
+      "text": "A merenda das 3 horas"
+    },
+    {
+      "start": 99.78,
+      "end": 101.1,
+      "text": "Para as 4 horas da tarde"
+    },
+    {
+      "start": 101.1,
+      "end": 102.0,
+      "text": "5 horas"
+    },
+    {
+      "start": 102.0,
+      "end": 103.78,
+      "text": "Com o assado"
+    },
+    {
+      "start": 103.78,
+      "end": 105.67,
+      "text": "Aí"
+    },
+    {
+      "start": 105.67,
+      "end": 108.66,
+      "text": "A gente estamos aqui"
+    },
+    {
+      "start": 108.66,
+      "end": 108.88,
+      "text": "Para"
+    },
+    {
+      "start": 108.88,
+      "end": 112.97,
+      "text": "Ver a malhadeira"
+    },
+    {
+      "start": 112.97,
+      "end": 113.69,
+      "text": "Para cuidar do peixe"
+    },
+    {
+      "start": 113.69,
+      "end": 114.27,
+      "text": "Bacana"
+    },
+    {
+      "start": 114.27,
+      "end": 115.7,
+      "text": "Para amanhã"
+    },
+    {
+      "start": 115.7,
+      "end": 116.56,
+      "text": "A gente ir para Santarém"
+    },
+    {
+      "start": 116.56,
+      "end": 117.3,
+      "text": "Se Deus quiser"
+    },
+    {
+      "start": 117.3,
+      "end": 119.92,
+      "text": "Paisagem muito linda aqui"
+    },
+    {
+      "start": 119.92,
+      "end": 121.88,
+      "text": "Muito bacana"
+    },
+    {
+      "start": 121.88,
+      "end": 122.68,
+      "text": "Poxa, parceiro"
+    },
+    {
+      "start": 122.68,
+      "end": 124.26,
+      "text": "Um abraço"
+    },
+    {
+      "start": 124.26,
+      "end": 124.84,
+      "text": "Fica com Deus"
+    }
+  ],
+  "duracao_seg": 125.71,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Outro lugar comum, outro lugar qualquer O aporé, o aporé Qualquer outro lugar ao sol, outro lugar ao sul",
+  "segmentos": [
+    {
+      "start": 3.79,
+      "end": 6.57,
+      "text": "Outro lugar comum, outro lugar qualquer"
+    },
+    {
+      "start": 6.57,
+      "end": 10.1,
+      "text": "O aporé, o aporé"
+    },
+    {
+      "start": 10.1,
+      "end": 13.92,
+      "text": "Qualquer outro lugar ao sol, outro lugar ao sul"
+    }
+  ],
+  "duracao_seg": 14.79,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,197 @@
+{
+  "texto": "Vem aí nossos irmãos, Bento e Mamãe! Vou fazer o meu ranchinho na beira do rio só pra me pescar Pra fugir do barulhão da cidade grande pra não estressar Lá eu fico amoitado, jogo um farelinho pra cevar o poço Até esqueço que no banco eu tô atolado até o pescoço Ai como é difícil a vida do pescador De noite ele rosca o anzor na gaiada da taboca De dia ele queima no sol, dando banho na minhoca Levanto de madrugada, pego a minha inchada e começo a cavar Mas é pra arrancar minhoca, pra fisgar os pagos e pra nós almoçar Depois arranco umas bandioca e jogo na água pra elas estragar Pra cevar peixe graúdo eu faço de tudo pra não trabalhar Ai como é difícil a vida do pescador De noite ele rosca o anzor na gaiada da taboca De dia ele queima no sol, dando banho na minhoca Vou chamar o anizião, o caboclo bom, pra tarrafiar Ele dá uma tarrafiada que precisa quatro pra poder puxar Dia desses lá no corgo ele afichou a sua tarrafinha Pegou cinco giripoca, o irmão sapar de dezoito galinha Ai como é difícil a vida do pescador De noite ele rosca o anzor na gaiada da taboca De dia ele queima no sol, dando banho na minhoca Tudo aqui no meu ranchinho é bem simplesinho Vou falar pra vocês É um farturão danado, nós pega dourado e sorta outra vez Pra peixar e amar miúda, nós tem uma vara que é pra comparar Se não der um metro e meio, nós sorta o bichinho pra eles melhorar Ai como é difícil a vida do pescador De noite ele rosca o anzor na gaiada da taboca De dia ele queima no sol, dando banho na minhoca Vai esturecendo, nós volta pro rancho é hora de jantar Um arroz com um cambuquino, um franguinho, um caipira que é pra varmear Depois nós ferra no troco, joga umas partidas que é pra relaxar Aí nós vai dormir tranquilo, pra no outro dia nós voltar a pescar Ai como é difícil a vida do pescador De noite ele rosca o anzor na gaiada da taboca De dia ele queima no sol, dando banho na minhoca Valeu, Betão!",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 5.0,
+      "text": "Vem aí nossos irmãos, Bento e Mamãe!"
+    },
+    {
+      "start": 5.0,
+      "end": 23.62,
+      "text": "Vou fazer o meu ranchinho na beira do rio só pra me pescar"
+    },
+    {
+      "start": 23.62,
+      "end": 29.39,
+      "text": "Pra fugir do barulhão da cidade grande pra não estressar"
+    },
+    {
+      "start": 29.39,
+      "end": 35.38,
+      "text": "Lá eu fico amoitado, jogo um farelinho pra cevar o poço"
+    },
+    {
+      "start": 35.38,
+      "end": 40.94,
+      "text": "Até esqueço que no banco eu tô atolado até o pescoço"
+    },
+    {
+      "start": 40.94,
+      "end": 46.76,
+      "text": "Ai como é difícil a vida do pescador"
+    },
+    {
+      "start": 46.76,
+      "end": 52.76,
+      "text": "De noite ele rosca o anzor na gaiada da taboca"
+    },
+    {
+      "start": 52.76,
+      "end": 58.74,
+      "text": "De dia ele queima no sol, dando banho na minhoca"
+    },
+    {
+      "start": 58.74,
+      "end": 70.21,
+      "text": "Levanto de madrugada, pego a minha inchada e começo a cavar"
+    },
+    {
+      "start": 70.21,
+      "end": 75.77,
+      "text": "Mas é pra arrancar minhoca, pra fisgar os pagos e pra nós almoçar"
+    },
+    {
+      "start": 75.77,
+      "end": 81.81,
+      "text": "Depois arranco umas bandioca e jogo na água pra elas estragar"
+    },
+    {
+      "start": 81.81,
+      "end": 87.22,
+      "text": "Pra cevar peixe graúdo eu faço de tudo pra não trabalhar"
+    },
+    {
+      "start": 87.22,
+      "end": 93.02,
+      "text": "Ai como é difícil a vida do pescador"
+    },
+    {
+      "start": 93.02,
+      "end": 99.02,
+      "text": "De noite ele rosca o anzor na gaiada da taboca"
+    },
+    {
+      "start": 99.02,
+      "end": 104.84,
+      "text": "De dia ele queima no sol, dando banho na minhoca"
+    },
+    {
+      "start": 104.84,
+      "end": 115.94,
+      "text": "Vou chamar o anizião, o caboclo bom, pra tarrafiar"
+    },
+    {
+      "start": 115.94,
+      "end": 121.82,
+      "text": "Ele dá uma tarrafiada que precisa quatro pra poder puxar"
+    },
+    {
+      "start": 121.82,
+      "end": 127.48,
+      "text": "Dia desses lá no corgo ele afichou a sua tarrafinha"
+    },
+    {
+      "start": 127.48,
+      "end": 132.7,
+      "text": "Pegou cinco giripoca, o irmão sapar de dezoito galinha"
+    },
+    {
+      "start": 132.7,
+      "end": 138.3,
+      "text": "Ai como é difícil a vida do pescador"
+    },
+    {
+      "start": 138.3,
+      "end": 144.17,
+      "text": "De noite ele rosca o anzor na gaiada da taboca"
+    },
+    {
+      "start": 144.17,
+      "end": 149.99,
+      "text": "De dia ele queima no sol, dando banho na minhoca"
+    },
+    {
+      "start": 149.99,
+      "end": 159.6,
+      "text": "Tudo aqui no meu ranchinho é bem simplesinho"
+    },
+    {
+      "start": 159.6,
+      "end": 161.04,
+      "text": "Vou falar pra vocês"
+    },
+    {
+      "start": 161.04,
+      "end": 166.78,
+      "text": "É um farturão danado, nós pega dourado e sorta outra vez"
+    },
+    {
+      "start": 166.78,
+      "end": 172.35,
+      "text": "Pra peixar e amar miúda, nós tem uma vara que é pra comparar"
+    },
+    {
+      "start": 172.35,
+      "end": 178.04,
+      "text": "Se não der um metro e meio, nós sorta o bichinho pra eles melhorar"
+    },
+    {
+      "start": 178.04,
+      "end": 183.74,
+      "text": "Ai como é difícil a vida do pescador"
+    },
+    {
+      "start": 183.74,
+      "end": 189.63,
+      "text": "De noite ele rosca o anzor na gaiada da taboca"
+    },
+    {
+      "start": 189.63,
+      "end": 195.69,
+      "text": "De dia ele queima no sol, dando banho na minhoca"
+    },
+    {
+      "start": 195.69,
+      "end": 206.86,
+      "text": "Vai esturecendo, nós volta pro rancho é hora de jantar"
+    },
+    {
+      "start": 206.86,
+      "end": 212.28,
+      "text": "Um arroz com um cambuquino, um franguinho, um caipira que é pra varmear"
+    },
+    {
+      "start": 212.28,
+      "end": 217.9,
+      "text": "Depois nós ferra no troco, joga umas partidas que é pra relaxar"
+    },
+    {
+      "start": 217.9,
+      "end": 223.22,
+      "text": "Aí nós vai dormir tranquilo, pra no outro dia nós voltar a pescar"
+    },
+    {
+      "start": 223.22,
+      "end": 228.9,
+      "text": "Ai como é difícil a vida do pescador"
+    },
+    {
+      "start": 228.9,
+      "end": 234.76,
+      "text": "De noite ele rosca o anzor na gaiada da taboca"
+    },
+    {
+      "start": 234.76,
+      "end": 240.8,
+      "text": "De dia ele queima no sol, dando banho na minhoca"
+    },
+    {
+      "start": 240.8,
+      "end": 247.76,
+      "text": "Valeu, Betão!"
+    }
+  ],
+  "duracao_seg": 249.73,
+  "idioma_detectado": "pt"
+}

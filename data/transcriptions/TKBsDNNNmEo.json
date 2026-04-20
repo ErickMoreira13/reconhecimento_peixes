@@ -1,0 +1,27 @@
+{
+  "texto": "Vai Filipe Vai Filipe Vai Filipe Aê",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 2.66,
+      "text": "Vai Filipe"
+    },
+    {
+      "start": 8.26,
+      "end": 10.26,
+      "text": "Vai Filipe"
+    },
+    {
+      "start": 10.26,
+      "end": 12.26,
+      "text": "Vai Filipe"
+    },
+    {
+      "start": 15.26,
+      "end": 17.26,
+      "text": "Aê"
+    }
+  ],
+  "duracao_seg": 17.31,
+  "idioma_detectado": "pt"
+}

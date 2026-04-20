@@ -1,0 +1,42 @@
+{
+  "texto": "A sogra é como vai se esclarecer Ela ficou desconfiada Depois que me conheceu Ela ficou gamada Porque eu dei uma botada Botada concentrada Porque eu dei uma botada",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "A sogra é como vai se esclarecer"
+    },
+    {
+      "start": 1.86,
+      "end": 3.22,
+      "text": "Ela ficou desconfiada"
+    },
+    {
+      "start": 3.22,
+      "end": 4.54,
+      "text": "Depois que me conheceu"
+    },
+    {
+      "start": 4.54,
+      "end": 5.84,
+      "text": "Ela ficou gamada"
+    },
+    {
+      "start": 5.84,
+      "end": 7.24,
+      "text": "Porque eu dei uma botada"
+    },
+    {
+      "start": 7.24,
+      "end": 8.5,
+      "text": "Botada concentrada"
+    },
+    {
+      "start": 8.5,
+      "end": 9.46,
+      "text": "Porque eu dei uma botada"
+    }
+  ],
+  "duracao_seg": 15.75,
+  "idioma_detectado": "pt"
+}

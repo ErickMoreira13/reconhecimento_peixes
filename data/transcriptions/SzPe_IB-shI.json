@@ -1,0 +1,67 @@
+{
+  "texto": "para você ver o peixe comendo olha o que aconteceu, pegou esse peixe e esse peixe estava amarrado em alguma gaia, alguma corda, olha aqui a corda olha lá, amarrado na boca do peixe olha para você ver aqui, olha para vocês ver está vendo? amarrado, pegou aqui no táxi aéreo, esse peixe estava amarrado em alguma gaia de pau aí para poder ser abatido, mas olha aqui peguei o meu, ele deve ter quebrado, olha a corda aqui amarrada na boca do peixe, olha para vocês ver",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "para você ver o peixe comendo"
+    },
+    {
+      "start": 1.62,
+      "end": 3.82,
+      "text": "olha o que aconteceu, pegou esse peixe"
+    },
+    {
+      "start": 3.82,
+      "end": 5.96,
+      "text": "e esse peixe estava amarrado em alguma"
+    },
+    {
+      "start": 5.96,
+      "end": 8.02,
+      "text": "gaia, alguma corda, olha aqui a corda"
+    },
+    {
+      "start": 8.02,
+      "end": 9.44,
+      "text": "olha lá, amarrado na boca do peixe"
+    },
+    {
+      "start": 9.44,
+      "end": 11.2,
+      "text": "olha para você ver aqui, olha para vocês ver"
+    },
+    {
+      "start": 11.2,
+      "end": 13.02,
+      "text": "está vendo?"
+    },
+    {
+      "start": 13.92,
+      "end": 15.76,
+      "text": "amarrado, pegou aqui no táxi aéreo, esse peixe estava"
+    },
+    {
+      "start": 15.76,
+      "end": 17.94,
+      "text": "amarrado em alguma gaia de pau aí para poder"
+    },
+    {
+      "start": 17.94,
+      "end": 19.08,
+      "text": "ser abatido, mas olha aqui"
+    },
+    {
+      "start": 19.08,
+      "end": 21.72,
+      "text": "peguei o meu, ele deve ter quebrado, olha a corda aqui"
+    },
+    {
+      "start": 21.72,
+      "end": 23.56,
+      "text": "amarrada na boca do peixe, olha para vocês ver"
+    }
+  ],
+  "duracao_seg": 24.39,
+  "idioma_detectado": "pt"
+}

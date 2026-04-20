@@ -1,0 +1,62 @@
+{
+  "texto": "As piaparas estão pegando no milho cozido com açúcar. Separamos aqui um pouco de milho, duro, né? Milho do saco, ó. Vamos botar um pouquinho. Ele me falou uma xícara de açúcar. Eu coloquei nesse recipiente aqui e colocar a água até cobrir o milho. Olha o fogão aí, ó. Fogo alto e cinco minutos após ela começar a dar a pressão, né? Você deixa cinco minutos depois que der a pressão, você retira, escorre o milho e leva pra pescaria. E agora vamos escorrer o milho. Como é que fabrica, como é que faz esse milho? Tá aí, pronto. E o resultado tá aqui, ó. Eee!",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 4.78,
+      "text": "As piaparas estão pegando no milho cozido com açúcar."
+    },
+    {
+      "start": 5.2,
+      "end": 9.22,
+      "text": "Separamos aqui um pouco de milho, duro, né? Milho do saco, ó."
+    },
+    {
+      "start": 9.58,
+      "end": 12.28,
+      "text": "Vamos botar um pouquinho."
+    },
+    {
+      "start": 18.14,
+      "end": 20.88,
+      "text": "Ele me falou uma xícara de açúcar."
+    },
+    {
+      "start": 21.08,
+      "end": 27.56,
+      "text": "Eu coloquei nesse recipiente aqui e colocar a água até cobrir o milho."
+    },
+    {
+      "start": 27.56,
+      "end": 36.93,
+      "text": "Olha o fogão aí, ó. Fogo alto e cinco minutos após ela começar a dar a pressão, né?"
+    },
+    {
+      "start": 36.93,
+      "end": 43.53,
+      "text": "Você deixa cinco minutos depois que der a pressão, você retira, escorre o milho e leva pra pescaria."
+    },
+    {
+      "start": 43.93,
+      "end": 45.89,
+      "text": "E agora vamos escorrer o milho."
+    },
+    {
+      "start": 48.98,
+      "end": 52.98,
+      "text": "Como é que fabrica, como é que faz esse milho? Tá aí, pronto."
+    },
+    {
+      "start": 52.98,
+      "end": 55.33,
+      "text": "E o resultado tá aqui, ó."
+    },
+    {
+      "start": 55.77,
+      "end": 56.25,
+      "text": "Eee!"
+    }
+  ],
+  "duracao_seg": 56.53,
+  "idioma_detectado": "pt"
+}

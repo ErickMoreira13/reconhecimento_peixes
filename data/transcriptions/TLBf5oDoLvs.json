@@ -1,0 +1,17 @@
+{
+  "texto": "Meu rio pequeno, braço líquido dos cante e a ilusão vai arrastando Folhas mortes, saudar do sol e tastar o sonho e desengan do vapador",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 23.16,
+      "text": "Meu rio pequeno, braço líquido dos cante e a ilusão vai arrastando"
+    },
+    {
+      "start": 23.16,
+      "end": 44.8,
+      "text": "Folhas mortes, saudar do sol e tastar o sonho e desengan do vapador"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

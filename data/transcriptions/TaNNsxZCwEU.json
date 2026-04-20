@@ -1,0 +1,27 @@
+{
+  "texto": "Olha o balde de milhão cozido. Esse pega as tilápias gigantes, hein? Esse aqui não tem como não pegar a tilápia grande, hein? Ó.",
+  "segmentos": [
+    {
+      "start": 2.16,
+      "end": 4.16,
+      "text": "Olha o balde de milhão cozido."
+    },
+    {
+      "start": 7.97,
+      "end": 9.69,
+      "text": "Esse pega as tilápias gigantes, hein?"
+    },
+    {
+      "start": 10.21,
+      "end": 13.09,
+      "text": "Esse aqui não tem como não pegar a tilápia grande, hein?"
+    },
+    {
+      "start": 13.37,
+      "end": 13.59,
+      "text": "Ó."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

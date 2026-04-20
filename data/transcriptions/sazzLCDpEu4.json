@@ -1,0 +1,32 @@
+{
+  "texto": "Olha aí, eu dei uma passada aí com o passaguá. Olha a quantidade de turvira ainda que tem. Bastante turvira ainda que tem ali. Eita, aqui está o balde. Vou colocar elas agora no balde.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 4.23,
+      "text": "Olha aí, eu dei uma passada aí com o passaguá."
+    },
+    {
+      "start": 4.35,
+      "end": 5.79,
+      "text": "Olha a quantidade de turvira ainda que tem."
+    },
+    {
+      "start": 7.21,
+      "end": 8.91,
+      "text": "Bastante turvira ainda que tem ali."
+    },
+    {
+      "start": 10.03,
+      "end": 10.89,
+      "text": "Eita, aqui está o balde."
+    },
+    {
+      "start": 11.33,
+      "end": 13.78,
+      "text": "Vou colocar elas agora no balde."
+    }
+  ],
+  "duracao_seg": 14.51,
+  "idioma_detectado": "pt"
+}

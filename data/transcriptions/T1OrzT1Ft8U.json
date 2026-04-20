@@ -1,0 +1,32 @@
+{
+  "texto": "Olha galera, olha a corimbo aí que saiu hoje Olha, show de bola Olha o tamanho dela Mas é mais linda, bicho Linda mesmo, show de bola, galerinha",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 3.04,
+      "text": "Olha galera, olha a corimbo aí que saiu hoje"
+    },
+    {
+      "start": 3.04,
+      "end": 4.08,
+      "text": "Olha, show de bola"
+    },
+    {
+      "start": 4.08,
+      "end": 6.56,
+      "text": "Olha o tamanho dela"
+    },
+    {
+      "start": 6.56,
+      "end": 8.28,
+      "text": "Mas é mais linda, bicho"
+    },
+    {
+      "start": 8.28,
+      "end": 10.56,
+      "text": "Linda mesmo, show de bola, galerinha"
+    }
+  ],
+  "duracao_seg": 10.75,
+  "idioma_detectado": "pt"
+}

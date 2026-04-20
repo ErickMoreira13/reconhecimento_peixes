@@ -1,0 +1,22 @@
+{
+  "texto": "É bom, hein? Isso! Vou dar vídeo real, hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 68.18,
+      "text": "É bom, hein?"
+    },
+    {
+      "start": 68.28,
+      "end": 112.42,
+      "text": "Isso!"
+    },
+    {
+      "start": 112.94,
+      "end": 146.12,
+      "text": "Vou dar vídeo real, hein?"
+    }
+  ],
+  "duracao_seg": 510.67,
+  "idioma_detectado": "pt"
+}

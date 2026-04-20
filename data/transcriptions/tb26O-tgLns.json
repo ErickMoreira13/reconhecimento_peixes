@@ -1,0 +1,22 @@
+{
+  "texto": "E também tem chumbada na cabeça Do peço a rede no mar Se você ver no mar da boca",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.52,
+      "text": "E também tem chumbada na cabeça"
+    },
+    {
+      "start": 5.52,
+      "end": 13.34,
+      "text": "Do peço a rede no mar"
+    },
+    {
+      "start": 13.34,
+      "end": 15.94,
+      "text": "Se você ver no mar da boca"
+    }
+  ],
+  "duracao_seg": 15.99,
+  "idioma_detectado": "pt"
+}

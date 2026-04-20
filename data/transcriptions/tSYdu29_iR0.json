@@ -1,0 +1,22 @@
+{
+  "texto": "a coisa linda né olha que pranchão meu deus do céu não ele vai vim ele vai vir ele é para nós ele vai vir tem que ter calma não adianta fubá eu já tá cansado já tá cansado escolhe mais um pouquinho",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 16.02,
+      "text": "a coisa linda né olha que pranchão meu deus do céu não ele vai vim ele vai"
+    },
+    {
+      "start": 16.02,
+      "end": 27.87,
+      "text": "vir ele é para nós ele vai vir tem que ter calma não adianta fubá"
+    },
+    {
+      "start": 27.87,
+      "end": 46.64,
+      "text": "eu já tá cansado já tá cansado escolhe mais um pouquinho"
+    }
+  ],
+  "duracao_seg": 59.69,
+  "idioma_detectado": "pt"
+}

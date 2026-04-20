@@ -1,0 +1,327 @@
+{
+  "texto": "Tô! Tô, tô, pai! Tô, tô, tô! Tá arregando, Caleb! Pega, pede! Não faz hora não pra tu pegar uma cindada! Tá arregando, Caleb, e agora? Deixa eu pegar ela! Deixa eu pegar ela! Vê, Caleb! Deixa eu pegar ela! Vou pegar, Caleb! Espera, Caleb! Vem! Vem! Vem! Vem! Vem! Sumiu, Caleb! Cadê? Boiabinha! A gente tá no meio do rio! Olha ela, pai! Vem! Vem! Olha que pariu, pai! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Devagar, Caleb! Vem! Vem! Vem! Vem! Vem! Vem! Vem! Vara de bambu e na flecha também, ó. Aqui é o certificador mais completo do Pará e do Brasil, ó. É, mergulha tudo enquanto ele é completo. E o frito tá garantido, né, Caixa? Aham. Bruta, bruta, bruta. Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não.",
+  "segmentos": [
+    {
+      "start": 5.81,
+      "end": 6.81,
+      "text": "Tô!"
+    },
+    {
+      "start": 6.81,
+      "end": 8.81,
+      "text": "Tô, tô, pai!"
+    },
+    {
+      "start": 8.81,
+      "end": 11.22,
+      "text": "Tô, tô, tô!"
+    },
+    {
+      "start": 11.22,
+      "end": 12.22,
+      "text": "Tá arregando, Caleb!"
+    },
+    {
+      "start": 12.22,
+      "end": 13.22,
+      "text": "Pega, pede!"
+    },
+    {
+      "start": 13.22,
+      "end": 25.73,
+      "text": "Não faz hora não pra tu pegar uma cindada!"
+    },
+    {
+      "start": 25.73,
+      "end": 29.78,
+      "text": "Tá arregando, Caleb, e agora?"
+    },
+    {
+      "start": 29.78,
+      "end": 32.9,
+      "text": "Deixa eu pegar ela!"
+    },
+    {
+      "start": 32.9,
+      "end": 33.9,
+      "text": "Deixa eu pegar ela!"
+    },
+    {
+      "start": 33.9,
+      "end": 34.9,
+      "text": "Vê, Caleb!"
+    },
+    {
+      "start": 34.9,
+      "end": 38.41,
+      "text": "Deixa eu pegar ela!"
+    },
+    {
+      "start": 38.41,
+      "end": 39.41,
+      "text": "Vou pegar, Caleb!"
+    },
+    {
+      "start": 39.41,
+      "end": 42.3,
+      "text": "Espera, Caleb!"
+    },
+    {
+      "start": 42.3,
+      "end": 45.19,
+      "text": "Vem!"
+    },
+    {
+      "start": 45.19,
+      "end": 46.19,
+      "text": "Vem!"
+    },
+    {
+      "start": 46.19,
+      "end": 48.76,
+      "text": "Vem!"
+    },
+    {
+      "start": 48.76,
+      "end": 56.0,
+      "text": "Vem!"
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "text": "Vem!"
+    },
+    {
+      "start": 57.0,
+      "end": 59.0,
+      "text": "Sumiu, Caleb!"
+    },
+    {
+      "start": 59.0,
+      "end": 61.44,
+      "text": "Cadê?"
+    },
+    {
+      "start": 61.44,
+      "end": 62.44,
+      "text": "Boiabinha!"
+    },
+    {
+      "start": 62.44,
+      "end": 65.89,
+      "text": "A gente tá no meio do rio!"
+    },
+    {
+      "start": 65.89,
+      "end": 69.77,
+      "text": "Olha ela, pai!"
+    },
+    {
+      "start": 69.77,
+      "end": 71.12,
+      "text": "Vem!"
+    },
+    {
+      "start": 71.12,
+      "end": 73.53,
+      "text": "Vem!"
+    },
+    {
+      "start": 73.53,
+      "end": 74.53,
+      "text": "Olha que pariu, pai!"
+    },
+    {
+      "start": 74.53,
+      "end": 75.62,
+      "text": "Vem!"
+    },
+    {
+      "start": 75.62,
+      "end": 76.62,
+      "text": "Vem!"
+    },
+    {
+      "start": 76.62,
+      "end": 77.88,
+      "text": "Vem!"
+    },
+    {
+      "start": 77.88,
+      "end": 81.09,
+      "text": "Vem!"
+    },
+    {
+      "start": 81.09,
+      "end": 82.76,
+      "text": "Vem!"
+    },
+    {
+      "start": 82.76,
+      "end": 83.76,
+      "text": "Vem!"
+    },
+    {
+      "start": 83.76,
+      "end": 84.86,
+      "text": "Vem!"
+    },
+    {
+      "start": 84.86,
+      "end": 85.86,
+      "text": "Vem!"
+    },
+    {
+      "start": 85.86,
+      "end": 90.06,
+      "text": "Vem!"
+    },
+    {
+      "start": 90.06,
+      "end": 91.06,
+      "text": "Vem!"
+    },
+    {
+      "start": 91.06,
+      "end": 94.97,
+      "text": "Vem!"
+    },
+    {
+      "start": 94.97,
+      "end": 95.97,
+      "text": "Vem!"
+    },
+    {
+      "start": 95.97,
+      "end": 97.22,
+      "text": "Vem!"
+    },
+    {
+      "start": 97.22,
+      "end": 98.22,
+      "text": "Vem!"
+    },
+    {
+      "start": 98.22,
+      "end": 100.73,
+      "text": "Vem!"
+    },
+    {
+      "start": 100.73,
+      "end": 101.73,
+      "text": "Vem!"
+    },
+    {
+      "start": 101.73,
+      "end": 111.85,
+      "text": "Vem!"
+    },
+    {
+      "start": 111.85,
+      "end": 112.85,
+      "text": "Vem!"
+    },
+    {
+      "start": 112.85,
+      "end": 113.85,
+      "text": "Vem!"
+    },
+    {
+      "start": 113.85,
+      "end": 115.3,
+      "text": "Vem!"
+    },
+    {
+      "start": 115.3,
+      "end": 119.0,
+      "text": "Vem!"
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "text": "Vem!"
+    },
+    {
+      "start": 120.0,
+      "end": 121.51,
+      "text": "Vem!"
+    },
+    {
+      "start": 121.51,
+      "end": 122.51,
+      "text": "Devagar, Caleb!"
+    },
+    {
+      "start": 122.51,
+      "end": 124.22,
+      "text": "Vem!"
+    },
+    {
+      "start": 124.22,
+      "end": 126.85,
+      "text": "Vem!"
+    },
+    {
+      "start": 126.85,
+      "end": 127.85,
+      "text": "Vem!"
+    },
+    {
+      "start": 127.85,
+      "end": 128.85,
+      "text": "Vem!"
+    },
+    {
+      "start": 128.85,
+      "end": 129.85,
+      "text": "Vem!"
+    },
+    {
+      "start": 129.85,
+      "end": 130.85,
+      "text": "Vem!"
+    },
+    {
+      "start": 130.85,
+      "end": 132.49,
+      "text": "Vem!"
+    },
+    {
+      "start": 132.49,
+      "end": 134.45,
+      "text": "Vara de bambu e na flecha também, ó."
+    },
+    {
+      "start": 135.63,
+      "end": 139.09,
+      "text": "Aqui é o certificador mais completo do Pará e do Brasil, ó."
+    },
+    {
+      "start": 139.77,
+      "end": 141.65,
+      "text": "É, mergulha tudo enquanto ele é completo."
+    },
+    {
+      "start": 143.4,
+      "end": 144.78,
+      "text": "E o frito tá garantido, né, Caixa?"
+    },
+    {
+      "start": 144.92,
+      "end": 145.32,
+      "text": "Aham."
+    },
+    {
+      "start": 148.3,
+      "end": 149.48,
+      "text": "Bruta, bruta, bruta."
+    },
+    {
+      "start": 149.48,
+      "end": 156.5,
+      "text": "Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não."
+    }
+  ],
+  "duracao_seg": 156.77,
+  "idioma_detectado": "pt"
+}

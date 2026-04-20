@@ -1,0 +1,27 @@
+{
+  "texto": "Olha agora na pinheira Coisa linda 12 mil tainhos Quai, seu app de vídeos curtos",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 2.26,
+      "text": "Olha agora na pinheira"
+    },
+    {
+      "start": 2.26,
+      "end": 3.98,
+      "text": "Coisa linda"
+    },
+    {
+      "start": 3.98,
+      "end": 5.72,
+      "text": "12 mil tainhos"
+    },
+    {
+      "start": 5.72,
+      "end": 11.74,
+      "text": "Quai, seu app de vídeos curtos"
+    }
+  ],
+  "duracao_seg": 11.81,
+  "idioma_detectado": "pt"
+}

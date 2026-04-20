@@ -1,0 +1,47 @@
+{
+  "texto": "até cobrir pessoal, um pouquinho, pronto, tá vendo aí pessoal, ó, tá cheio de água, o que que vai acontecer? Daqui a pouquinho, o milho vai começar a enxugar essa água, vai penetrar no milho essa água, e o milho vai começar a inchar, e a água vai descer, vai descer, vai começar a secar a água, vocês vão sempre completando, sempre completando, tá bom pessoal? Não deixa nunca ficar abaixo, a água ficar abaixo do milho não, deixa sempre um fiozinho acima, do nível do milho, tá bom? E o milho vai chupando a água, e ele vai começar a encher aqui, ó, esse espaço que tá vazio aqui, ó, ele vai encher, quase todo ele vai encher, tá bom? E é isso, e aí a gente vai cobrir aqui,",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 23.65,
+      "text": "até cobrir pessoal, um pouquinho, pronto, tá vendo aí pessoal, ó, tá cheio de água, o que que vai acontecer?"
+    },
+    {
+      "start": 24.96,
+      "end": 31.16,
+      "text": "Daqui a pouquinho, o milho vai começar a enxugar essa água, vai penetrar no milho essa água,"
+    },
+    {
+      "start": 31.26,
+      "end": 35.92,
+      "text": "e o milho vai começar a inchar, e a água vai descer, vai descer, vai começar a secar a água,"
+    },
+    {
+      "start": 36.44,
+      "end": 39.32,
+      "text": "vocês vão sempre completando, sempre completando, tá bom pessoal?"
+    },
+    {
+      "start": 39.32,
+      "end": 45.28,
+      "text": "Não deixa nunca ficar abaixo, a água ficar abaixo do milho não, deixa sempre um fiozinho acima,"
+    },
+    {
+      "start": 45.66,
+      "end": 50.62,
+      "text": "do nível do milho, tá bom? E o milho vai chupando a água, e ele vai começar a encher aqui, ó,"
+    },
+    {
+      "start": 50.96,
+      "end": 55.9,
+      "text": "esse espaço que tá vazio aqui, ó, ele vai encher, quase todo ele vai encher, tá bom?"
+    },
+    {
+      "start": 57.17,
+      "end": 59.85,
+      "text": "E é isso, e aí a gente vai cobrir aqui,"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

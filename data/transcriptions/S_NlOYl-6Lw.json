@@ -1,0 +1,22 @@
+{
+  "texto": "Ela tinha que ser aqui, ela tinha que ficar. Sim. Traz aqui junto.",
+  "segmentos": [
+    {
+      "start": 3.54,
+      "end": 5.54,
+      "text": "Ela tinha que ser aqui, ela tinha que ficar."
+    },
+    {
+      "start": 5.54,
+      "end": 6.54,
+      "text": "Sim."
+    },
+    {
+      "start": 6.54,
+      "end": 9.75,
+      "text": "Traz aqui junto."
+    }
+  ],
+  "duracao_seg": 9.25,
+  "idioma_detectado": "pt"
+}

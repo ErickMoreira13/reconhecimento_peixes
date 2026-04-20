@@ -1,0 +1,52 @@
+{
+  "texto": "Você não vai acreditar o que esse peixe fez. Olha isso aqui, gente. Olha ele aí. Olha ele aí. Olha ele aí. Olha isso aqui, gente. Desistiu e foi embora. E foi embora. Filho da mãe.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "Você não vai acreditar o que esse peixe fez."
+    },
+    {
+      "start": 2.9,
+      "end": 3.28,
+      "text": "Olha isso aqui, gente."
+    },
+    {
+      "start": 11.22,
+      "end": 11.66,
+      "text": "Olha ele aí."
+    },
+    {
+      "start": 12.06,
+      "end": 12.46,
+      "text": "Olha ele aí."
+    },
+    {
+      "start": 12.64,
+      "end": 13.04,
+      "text": "Olha ele aí."
+    },
+    {
+      "start": 13.9,
+      "end": 16.75,
+      "text": "Olha isso aqui, gente."
+    },
+    {
+      "start": 16.91,
+      "end": 18.07,
+      "text": "Desistiu e foi embora."
+    },
+    {
+      "start": 18.13,
+      "end": 18.51,
+      "text": "E foi embora."
+    },
+    {
+      "start": 18.51,
+      "end": 19.05,
+      "text": "Filho da mãe."
+    }
+  ],
+  "duracao_seg": 19.13,
+  "idioma_detectado": "pt"
+}
