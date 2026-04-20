@@ -67,14 +67,16 @@ def rio_aparece_no_texto(rio: str, transcricao: str) -> bool:
                        if unicodedata.category(c) != "Mn")
 
     nome_norm = _tira_ac(nome_sem_prefixo)
+    nome_completo_norm = _tira_ac(rio.lower().strip())
     texto_norm = _tira_ac(transcricao.lower())
 
     # match literal direto
     if nome_norm in texto_norm:
         return True
-    # tolera fuzzy alto pra erros pequenos do whisper (ex: "iriri" vs "iriry")
-    # partial_ratio >= 90% = praticamente substring
-    if fuzz.partial_ratio(nome_norm, texto_norm) >= 90:
+    # fuzzy no nome sem prefixo costuma falhar em palavra curta pq o
+    # partial_ratio olha string inteira. fuzzy no nome com "rio " dilui
+    # o typo e pega casos como "rio iriri" vs "rio iriry"
+    if fuzz.partial_ratio(nome_completo_norm, texto_norm) >= 85:
         return True
     return False
 

@@ -188,3 +188,62 @@ def test_ceva_keywords_nao_afeta_outros_campos():
     v = regras.aplica_regras("especies", c, transc, {})
     # aceita mesmo sem ceva no texto pq especies nao precisa
     assert v.aceito or v.tipo_rejeicao != "evidencia_nao_alinha"
+
+
+def test_rio_aparece_direto_no_texto():
+    # fix 2: rio precisa aparecer literalmente na transcricao
+    assert regras.rio_aparece_no_texto("Rio Madeira", "pescando no rio madeira top")
+    assert regras.rio_aparece_no_texto("Rio Negro", "estamos aqui no rio negro amazonico")
+
+
+def test_rio_sem_prefixo_tambem_bate():
+    # "Madeira" sozinho bate se texto menciona "rio madeira"
+    assert regras.rio_aparece_no_texto("Madeira", "aqui eh o rio madeira")
+
+
+def test_rio_alucinado_nao_bate():
+    # rio que nao aparece no texto = alucinacao
+    assert not regras.rio_aparece_no_texto(
+        "Rio Sao Francisco",
+        "pescaria linda aqui no amazonas com tucunare",
+    )
+
+
+def test_rio_vazio_retorna_false():
+    assert not regras.rio_aparece_no_texto("", "qualquer texto")
+    assert not regras.rio_aparece_no_texto(None, "qualquer")
+
+
+def test_rio_tolera_erro_whisper_leve():
+    # fuzzy partial >= 90% pega typo pequeno do whisper
+    # "iriri" vs "iriry" por exemplo
+    assert regras.rio_aparece_no_texto("Rio Iriri", "acampamento na beira do rio iriry")
+
+
+def test_regra_rejeita_rio_alucinado():
+    # integra com aplica_regras. evidencia bate no texto (rio) mas o valor
+    # extraido nao aparece, entao pega na regra de rio_aparece.
+    # uso "Rio Araguaia" em vez de "Rio Sao Francisco" pra evitar que o
+    # pos_filter dispare primeiro (Francisco ta na lista de nomes comuns)
+    c = CampoExtraido(
+        valor="Rio Araguaia",
+        confianca=0.9,
+        evidencia="no rio",  # evidencia curta que existe no texto
+        modelo_usado="llama3.1:8b",
+    )
+    transc = "fala galera, pescaria em rondonia no rio madeira"
+    v = regras.aplica_regras("rio", c, transc, {})
+    assert not v.aceito
+    assert v.tipo_rejeicao == "alucinacao_suspeita"
+
+
+def test_regra_aceita_rio_que_aparece_no_texto():
+    c = CampoExtraido(
+        valor="Rio Madeira",
+        confianca=0.9,
+        evidencia="rio madeira",
+        modelo_usado="llama3.1:8b",
+    )
+    transc = "fala galera, pescaria no rio madeira em rondonia"
+    v = regras.aplica_regras("rio", c, transc, {})
+    assert v.aceito
