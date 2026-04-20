@@ -111,10 +111,12 @@ def roda_loop(
             break
 
         res = processa_query(q, db_path)
-        print(f"[loop] '{q}': +{res['novos']} novos, dedup={res['dedup_rate']:.2f}")
+        print(ascii_art.marca_ok(
+            f"'{q}': +{res['novos']} novos, dedup={res['dedup_rate']:.2f}"
+        ))
 
         if res["saturou"]:
-            print(f"[loop] '{q}' saturou ({res['motivo']}), marcando")
+            print(ascii_art.marca_warn(f"'{q}' saturou ({res['motivo']}), marcando"))
             storage.marca_query_saturada(q, res["motivo"] or "desconhecido", db_path)
 
         it += 1
