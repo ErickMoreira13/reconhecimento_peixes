@@ -198,24 +198,24 @@ def _extrai_com_chunking(
     # divide em 2 partes (ou mais se mt grande), extrai cada, merge no final.
     # custos: 2x chamadas ao llm, mas nao perde info do final do video.
     chunks = _dividir_em_chunks(transcricao, MAX_PALAVRAS_SEM_CHUNKING)
-    print(f"  dividido em {len(chunks)} chunks")
+    _log.info("  dividido em %d chunks", len(chunks))
 
     resultados: list[dict[str, CampoExtraido]] = []
     vazio_count = 0
     for i, ch in enumerate(chunks, 1):
-        print(f"  chunk {i}/{len(chunks)} ({len(ch.split())} palavras)")
+        _log.info("  chunk %d/%d (%d palavras)", i, len(chunks), len(ch.split()))
         r = _extrai_chunk_unico(ch, gliner_checkpoint, modelo)
         resultados.append(r)
         n_campos = _chunk_tem_dados(r)
         if n_campos == 0:
             vazio_count += 1
-            print(f"  [chunking-warn] chunk {i} retornou TUDO null — possivel estouro de contexto")
+            _log.warning("  [chunking-warn] chunk %d retornou TUDO null — possivel estouro de contexto", i)
         else:
-            print(f"  chunk {i} preencheu {n_campos}/8 campos")
+            _log.info("  chunk %d preencheu %d/8 campos", i, n_campos)
 
     # warn pra investigar bug real do chunking (fix 8 do sumario-manual)
     if vazio_count == len(chunks):
-        print(f"  [chunking-bug] TODOS os {len(chunks)} chunks retornaram null — video perdido!")
+        _log.error("  [chunking-bug] TODOS os %d chunks retornaram null — video perdido!", len(chunks))
 
     consolidado = _consolida_chunks(resultados, modelo)
     # aplica flag pos-consolidacao (cada chunk ja aplicou, mas a uniao das
