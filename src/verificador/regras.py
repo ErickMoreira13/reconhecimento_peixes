@@ -369,7 +369,10 @@ def aplica_regras(
         _passa_cross_field,
         _passa_length_obs,
         _passa_ceva_keywords,
-        _passa_rio_aparece,
+        # _passa_rio_aparece REMOVIDA: bloqueava canonizacao legitima tipo
+        # "velho chico"->"Rio Sao Francisco". smith_waterman + critic llm
+        # dao conta melhor do caso. funcao rio_aparece_no_texto() segue
+        # no modulo pra quem quiser usar como feature (flag) no futuro
         _passa_tipo_ceva_blacklist,
         _passa_especies_stop_terms,
     ]
