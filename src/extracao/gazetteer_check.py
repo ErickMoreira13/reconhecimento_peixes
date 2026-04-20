@@ -1,8 +1,9 @@
 import json
-import unicodedata
 from pathlib import Path
 
 from rapidfuzz import fuzz
+
+from src.texto import normaliza as _normaliza
 
 
 # verificacao deterministica: dado o valor que o llm retornou, confere se
@@ -13,14 +14,6 @@ from rapidfuzz import fuzz
 
 
 DICTS_DIR = Path(__file__).parent.parent / "dicts"
-
-
-def _sem_acento(s: str) -> str:
-    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
-
-
-def _normaliza(s: str) -> str:
-    return _sem_acento(str(s)).lower().strip()
 
 
 _peixes_cache: set[str] | None = None
