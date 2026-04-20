@@ -1,0 +1,32 @@
+{
+  "texto": "Esse é o segredo que eu utilizo pra pegar os meus tambas aqui no lago. Salsicha de fundo e chumbo bem levinho. Aí, na hora que a vara começar a mexer a pontinha, é só fisgar e escutar essa maravilha que é ele comendo linha. E olha como aqueles tambinhas pequenininhos estão crescendo. Agora me segue pra acompanhar o desenvolvimento deles.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Esse é o segredo que eu utilizo pra pegar os meus tambas aqui no lago."
+    },
+    {
+      "start": 2.76,
+      "end": 4.36,
+      "text": "Salsicha de fundo e chumbo bem levinho."
+    },
+    {
+      "start": 4.44,
+      "end": 8.66,
+      "text": "Aí, na hora que a vara começar a mexer a pontinha, é só fisgar e escutar essa maravilha que é ele comendo linha."
+    },
+    {
+      "start": 10.31,
+      "end": 12.59,
+      "text": "E olha como aqueles tambinhas pequenininhos estão crescendo."
+    },
+    {
+      "start": 12.67,
+      "end": 14.41,
+      "text": "Agora me segue pra acompanhar o desenvolvimento deles."
+    }
+  ],
+  "duracao_seg": 14.91,
+  "idioma_detectado": "pt"
+}

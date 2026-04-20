@@ -1,0 +1,37 @@
+{
+  "texto": "Essa ceva aqui é muito boa galera e pega muito peixe grande, é muito fácil de fazer Você vai pegar um galão, fazer uns furos neles, vai colocar ração de coelho, milho e quirera Coloca separadamente galera, aí você vai pegar o caiaque, achar um ponto bom de pesca E olha só, pega o galão, já amarra uma corda, joga na água E no final galera, bem simples, pega uma garrafa e amarra e joga na água pra sinalizar onde tá a ceva Aí é só pegar muito peixe",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.74,
+      "text": "Essa ceva aqui é muito boa galera e pega muito peixe grande, é muito fácil de fazer"
+    },
+    {
+      "start": 4.74,
+      "end": 9.52,
+      "text": "Você vai pegar um galão, fazer uns furos neles, vai colocar ração de coelho, milho e quirera"
+    },
+    {
+      "start": 9.52,
+      "end": 13.74,
+      "text": "Coloca separadamente galera, aí você vai pegar o caiaque, achar um ponto bom de pesca"
+    },
+    {
+      "start": 13.74,
+      "end": 18.24,
+      "text": "E olha só, pega o galão, já amarra uma corda, joga na água"
+    },
+    {
+      "start": 18.24,
+      "end": 24.6,
+      "text": "E no final galera, bem simples, pega uma garrafa e amarra e joga na água pra sinalizar onde tá a ceva"
+    },
+    {
+      "start": 24.6,
+      "end": 25.82,
+      "text": "Aí é só pegar muito peixe"
+    }
+  ],
+  "duracao_seg": 25.85,
+  "idioma_detectado": "pt"
+}

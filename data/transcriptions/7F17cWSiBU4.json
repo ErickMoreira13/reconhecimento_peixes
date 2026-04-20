@@ -1,0 +1,42 @@
+{
+  "texto": "O Piraibona! Nossa senhora! Pesada! Saiu a moça! Vamos fazer soltar esse peixe! Pesada! Tá vendo?",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 2.72,
+      "text": "O Piraibona!"
+    },
+    {
+      "start": 11.05,
+      "end": 12.05,
+      "text": "Nossa senhora!"
+    },
+    {
+      "start": 13.05,
+      "end": 17.28,
+      "text": "Pesada!"
+    },
+    {
+      "start": 18.38,
+      "end": 19.38,
+      "text": "Saiu a moça!"
+    },
+    {
+      "start": 20.63,
+      "end": 21.63,
+      "text": "Vamos fazer soltar esse peixe!"
+    },
+    {
+      "start": 22.63,
+      "end": 23.63,
+      "text": "Pesada!"
+    },
+    {
+      "start": 24.63,
+      "end": 25.63,
+      "text": "Tá vendo?"
+    }
+  ],
+  "duracao_seg": 29.21,
+  "idioma_detectado": "pt"
+}

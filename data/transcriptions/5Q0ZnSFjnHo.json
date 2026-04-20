@@ -1,0 +1,17 @@
+{
+  "texto": "Olha aqui pra não falar que é história de pescador Pescando pacu, olha o tamanho da criança",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Olha aqui pra não falar que é história de pescador"
+    },
+    {
+      "start": 3.44,
+      "end": 7.56,
+      "text": "Pescando pacu, olha o tamanho da criança"
+    }
+  ],
+  "duracao_seg": 14.19,
+  "idioma_detectado": "pt"
+}

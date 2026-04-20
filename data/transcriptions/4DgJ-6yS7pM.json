@@ -1,0 +1,77 @@
+{
+  "texto": "Olha só como um indígena prepara um tambaqui pescado na hora. Com toda a habilidade, ele já começa limpando o peixe, cortando, abrindo e retirando as tripas. Agora, com todo o cuidado, ele vai cortando o peixe em pedaços menores, aproveita para dar uma boa lavada na água e reserva tudo numa panela. Agora ele pega uns limõezinhos, corta e dá uma boa espremida no peixe para dar aquela matada nas bactérias. Para temperar, mete um salzinho, adiciona água e deixa cozinhar. E para dar aquela aproveitada enquanto o peixe cozinha, o índio ainda dá um mergulho para refrescar o caneco. Agora sim, é hora de montar o banquete. Com uma farinhazinha no prato, ele manda o caldinho por cima para fazer um pirão e coloca um pedaço do peixe. É, minha gente, esses indígenas são ricos e eu nem estou falando de dinheiro, viu? E olha só, todos os filhos do indígenas aproveitando o banquete, isso sim é vida. Eu aqui estou é com inveja, viu? Vou no mercado agora mesmo comprar um peixinho para comer cozido. E aí você teria coragem de...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Olha só como um indígena prepara um tambaqui pescado na hora."
+    },
+    {
+      "start": 2.9,
+      "end": 8.22,
+      "text": "Com toda a habilidade, ele já começa limpando o peixe, cortando, abrindo e retirando as tripas."
+    },
+    {
+      "start": 8.42,
+      "end": 12.38,
+      "text": "Agora, com todo o cuidado, ele vai cortando o peixe em pedaços menores,"
+    },
+    {
+      "start": 12.58,
+      "end": 16.2,
+      "text": "aproveita para dar uma boa lavada na água e reserva tudo numa panela."
+    },
+    {
+      "start": 16.32,
+      "end": 22.08,
+      "text": "Agora ele pega uns limõezinhos, corta e dá uma boa espremida no peixe para dar aquela matada nas bactérias."
+    },
+    {
+      "start": 22.08,
+      "end": 25.56,
+      "text": "Para temperar, mete um salzinho, adiciona água e deixa cozinhar."
+    },
+    {
+      "start": 25.56,
+      "end": 32.04,
+      "text": "E para dar aquela aproveitada enquanto o peixe cozinha, o índio ainda dá um mergulho para refrescar o caneco."
+    },
+    {
+      "start": 34.1,
+      "end": 36.64,
+      "text": "Agora sim, é hora de montar o banquete."
+    },
+    {
+      "start": 36.74,
+      "end": 42.2,
+      "text": "Com uma farinhazinha no prato, ele manda o caldinho por cima para fazer um pirão e coloca um pedaço do peixe."
+    },
+    {
+      "start": 42.4,
+      "end": 48.06,
+      "text": "É, minha gente, esses indígenas são ricos e eu nem estou falando de dinheiro, viu?"
+    },
+    {
+      "start": 48.06,
+      "end": 53.38,
+      "text": "E olha só, todos os filhos do indígenas aproveitando o banquete, isso sim é vida."
+    },
+    {
+      "start": 53.58,
+      "end": 55.18,
+      "text": "Eu aqui estou é com inveja, viu?"
+    },
+    {
+      "start": 55.18,
+      "end": 58.54,
+      "text": "Vou no mercado agora mesmo comprar um peixinho para comer cozido."
+    },
+    {
+      "start": 58.64,
+      "end": 60.04,
+      "text": "E aí você teria coragem de..."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

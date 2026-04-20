@@ -1,0 +1,37 @@
+{
+  "texto": "É um peixe grande. É uma casinha. É branquinha? Ah, é branquinha mesmo. É família. Tem um bocado de peixe pra cá. Tem um bocado de peixe pra cá.",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 175.04,
+      "text": "É um peixe grande."
+    },
+    {
+      "start": 175.04,
+      "end": 222.38,
+      "text": "É uma casinha."
+    },
+    {
+      "start": 222.38,
+      "end": 224.38,
+      "text": "É branquinha? Ah, é branquinha mesmo."
+    },
+    {
+      "start": 224.38,
+      "end": 247.82,
+      "text": "É família."
+    },
+    {
+      "start": 247.82,
+      "end": 333.41,
+      "text": "Tem um bocado de peixe pra cá."
+    },
+    {
+      "start": 333.41,
+      "end": 336.3,
+      "text": "Tem um bocado de peixe pra cá."
+    }
+  ],
+  "duracao_seg": 485.75,
+  "idioma_detectado": "pt"
+}

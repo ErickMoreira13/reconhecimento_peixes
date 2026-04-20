@@ -1,0 +1,27 @@
+{
+  "texto": "Estou filmando já. Pode embarcar ela. Não é mais jogo subir ela por trás no motor? Tem um ganchinho ali.",
+  "segmentos": [
+    {
+      "start": 5.52,
+      "end": 7.5,
+      "text": "Estou filmando já."
+    },
+    {
+      "start": 8.48,
+      "end": 9.36,
+      "text": "Pode embarcar ela."
+    },
+    {
+      "start": 15.52,
+      "end": 17.56,
+      "text": "Não é mais jogo subir ela por trás no motor?"
+    },
+    {
+      "start": 35.62,
+      "end": 36.34,
+      "text": "Tem um ganchinho ali."
+    }
+  ],
+  "duracao_seg": 36.57,
+  "idioma_detectado": "pt"
+}

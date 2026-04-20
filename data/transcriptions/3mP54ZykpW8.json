@@ -1,0 +1,17 @@
+{
+  "texto": "Vamos dar uma alinhada aqui Se for ao gás, pega na linha e coloca pra dentro",
+  "segmentos": [
+    {
+      "start": 3.22,
+      "end": 8.77,
+      "text": "Vamos dar uma alinhada aqui"
+    },
+    {
+      "start": 8.77,
+      "end": 13.05,
+      "text": "Se for ao gás, pega na linha e coloca pra dentro"
+    }
+  ],
+  "duracao_seg": 27.43,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,237 @@
+{
+  "texto": "Pedroquinha Começou cedo papai Comecei Também fiz o gubão aí Ih Mas a linha pega no barco É tampa Pedroca Não deixa a linha encostar no barco Você consegue ficar em pé? Ela não vai te derrubar não? Segura essa vara direito Não quer mostrar a cara não hein papai Desse jeito é isso, se eu for pro lado você gira Entendeu? A linha não mude menino Pesado meu filho? Você queria pegar o tamba Uh grandona Pedroca Vai pra lá, vira pra cá Isso, pro outro lado, pro outro lado Pro lado, pra lá, pra lá Você já tá saçando a mamãe hein Chegou um peixão pra ela? Mostra aqui o peixão que você pegou pra ela Acho que é a maior que é do tio Divaldo hein Sempre a linha tem que ser do tamanho da vara Isso, nunca recolhe aqui a criança Você vai dar a cabeça da arrebentadinha Mostra aqui pra cá Vê essa figura firme que vai dar pancada com você hein Aquele é do raçado que o Pedroca pegou Bebezinho o fiote dele Vai crescer pra ficar daquele tamanho não Vai no ar bichinho Parabéns Conta pros outros, não é que tá aqui não viu Chama sua avó lá pra nós Chama sua avó, vai lá Ai pescado velho Eu quero pegar a vó dele Ok É Tchau Tchau Tchau Tchau",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Pedroquinha"
+    },
+    {
+      "start": 0.72,
+      "end": 2.42,
+      "text": "Começou cedo papai"
+    },
+    {
+      "start": 2.42,
+      "end": 3.52,
+      "text": "Comecei"
+    },
+    {
+      "start": 3.52,
+      "end": 4.54,
+      "text": "Também fiz o gubão aí"
+    },
+    {
+      "start": 4.54,
+      "end": 8.04,
+      "text": "Ih"
+    },
+    {
+      "start": 8.04,
+      "end": 9.96,
+      "text": "Mas a linha pega no barco"
+    },
+    {
+      "start": 9.96,
+      "end": 12.93,
+      "text": "É tampa Pedroca"
+    },
+    {
+      "start": 12.93,
+      "end": 15.73,
+      "text": "Não deixa a linha encostar no barco"
+    },
+    {
+      "start": 15.73,
+      "end": 19.17,
+      "text": "Você consegue ficar em pé?"
+    },
+    {
+      "start": 20.42,
+      "end": 21.3,
+      "text": "Ela não vai te derrubar não?"
+    },
+    {
+      "start": 22.29,
+      "end": 23.53,
+      "text": "Segura essa vara direito"
+    },
+    {
+      "start": 23.53,
+      "end": 27.54,
+      "text": "Não quer mostrar a cara não hein papai"
+    },
+    {
+      "start": 27.54,
+      "end": 29.6,
+      "text": "Desse jeito é isso, se eu for pro lado você gira"
+    },
+    {
+      "start": 29.6,
+      "end": 29.94,
+      "text": "Entendeu?"
+    },
+    {
+      "start": 35.1,
+      "end": 36.9,
+      "text": "A linha não mude menino"
+    },
+    {
+      "start": 36.9,
+      "end": 39.51,
+      "text": "Pesado meu filho?"
+    },
+    {
+      "start": 39.89,
+      "end": 43.64,
+      "text": "Você queria pegar o tamba"
+    },
+    {
+      "start": 43.64,
+      "end": 47.47,
+      "text": "Uh grandona Pedroca"
+    },
+    {
+      "start": 47.47,
+      "end": 49.03,
+      "text": "Vai pra lá, vira pra cá"
+    },
+    {
+      "start": 49.03,
+      "end": 50.39,
+      "text": "Isso, pro outro lado, pro outro lado"
+    },
+    {
+      "start": 50.39,
+      "end": 52.21,
+      "text": "Pro lado, pra lá, pra lá"
+    },
+    {
+      "start": 52.21,
+      "end": 59.02,
+      "text": "Você já tá saçando a mamãe hein"
+    },
+    {
+      "start": 59.02,
+      "end": 60.0,
+      "text": "Chegou um peixão pra ela?"
+    },
+    {
+      "start": 61.21,
+      "end": 62.67,
+      "text": "Mostra aqui o peixão que você pegou pra ela"
+    },
+    {
+      "start": 62.67,
+      "end": 65.98,
+      "text": "Acho que é a maior que é do tio Divaldo hein"
+    },
+    {
+      "start": 65.98,
+      "end": 69.43,
+      "text": "Sempre a linha tem que ser do tamanho da vara"
+    },
+    {
+      "start": 69.43,
+      "end": 70.81,
+      "text": "Isso, nunca recolhe aqui a criança"
+    },
+    {
+      "start": 70.81,
+      "end": 71.81,
+      "text": "Você vai dar a cabeça da arrebentadinha"
+    },
+    {
+      "start": 71.81,
+      "end": 74.39,
+      "text": "Mostra aqui pra cá"
+    },
+    {
+      "start": 74.39,
+      "end": 76.49,
+      "text": "Vê essa figura firme que vai dar pancada com você hein"
+    },
+    {
+      "start": 76.49,
+      "end": 92.7,
+      "text": "Aquele é do raçado que o Pedroca pegou"
+    },
+    {
+      "start": 92.7,
+      "end": 94.9,
+      "text": "Bebezinho o fiote dele"
+    },
+    {
+      "start": 94.9,
+      "end": 96.48,
+      "text": "Vai crescer pra ficar daquele tamanho não"
+    },
+    {
+      "start": 96.48,
+      "end": 98.17,
+      "text": "Vai no ar bichinho"
+    },
+    {
+      "start": 98.17,
+      "end": 98.77,
+      "text": "Parabéns"
+    },
+    {
+      "start": 98.77,
+      "end": 101.38,
+      "text": "Conta pros outros, não é que tá aqui não viu"
+    },
+    {
+      "start": 101.38,
+      "end": 103.02,
+      "text": "Chama sua avó lá pra nós"
+    },
+    {
+      "start": 103.02,
+      "end": 103.86,
+      "text": "Chama sua avó, vai lá"
+    },
+    {
+      "start": 103.86,
+      "end": 107.52,
+      "text": "Ai pescado velho"
+    },
+    {
+      "start": 107.52,
+      "end": 108.82,
+      "text": "Eu quero pegar a vó dele"
+    },
+    {
+      "start": 108.82,
+      "end": 109.66,
+      "text": "Ok"
+    },
+    {
+      "start": 109.66,
+      "end": 110.08,
+      "text": "É"
+    },
+    {
+      "start": 110.08,
+      "end": 111.66,
+      "text": "Tchau"
+    },
+    {
+      "start": 111.66,
+      "end": 112.66,
+      "text": "Tchau"
+    },
+    {
+      "start": 112.66,
+      "end": 113.66,
+      "text": "Tchau"
+    },
+    {
+      "start": 113.66,
+      "end": 114.66,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 109.73,
+  "idioma_detectado": "pt"
+}

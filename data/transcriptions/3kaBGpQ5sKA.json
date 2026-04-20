@@ -1,0 +1,32 @@
+{
+  "texto": "Peraí, Dimes, calma. Caramba, que a bichinha é até encatada aqui, encatada. Que desgraçado. Ela é fenomenal. Ela voltou pro lugar dela, a avó dela. Ela é muito mexida, não deu pra enrolar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Peraí, Dimes, calma."
+    },
+    {
+      "start": 1.8,
+      "end": 4.9,
+      "text": "Caramba, que a bichinha é até encatada aqui, encatada."
+    },
+    {
+      "start": 7.15,
+      "end": 8.21,
+      "text": "Que desgraçado."
+    },
+    {
+      "start": 8.96,
+      "end": 11.96,
+      "text": "Ela é fenomenal. Ela voltou pro lugar dela, a avó dela."
+    },
+    {
+      "start": 11.96,
+      "end": 13.36,
+      "text": "Ela é muito mexida, não deu pra enrolar."
+    }
+  ],
+  "duracao_seg": 14.99,
+  "idioma_detectado": "pt"
+}

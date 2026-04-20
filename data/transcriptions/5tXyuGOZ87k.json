@@ -1,0 +1,17 @@
+{
+  "texto": "Mais um joia aí pra filmagem. Olha o pescador aí.",
+  "segmentos": [
+    {
+      "start": 14.26,
+      "end": 16.12,
+      "text": "Mais um joia aí pra filmagem."
+    },
+    {
+      "start": 16.76,
+      "end": 17.56,
+      "text": "Olha o pescador aí."
+    }
+  ],
+  "duracao_seg": 30.95,
+  "idioma_detectado": "pt"
+}

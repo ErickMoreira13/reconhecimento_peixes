@@ -1,0 +1,22 @@
+{
+  "texto": "Piauzão bruto, três pintas, com a soltura, só que aqui é o seguinte, o Piau tem que cuidar, porque tem predadores esperando ele, mas não tem o que fazer, vou soltar ele, eles se viram, foi. Olha lá, olha ele correndo a cachorra, olha lá, infelizmente, infelizmente é a natureza, vou fazer o que, olha lá.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.05,
+      "text": "Piauzão bruto, três pintas, com a soltura, só que aqui é o seguinte, o Piau tem que cuidar,"
+    },
+    {
+      "start": 10.81,
+      "end": 16.11,
+      "text": "porque tem predadores esperando ele, mas não tem o que fazer, vou soltar ele, eles se viram, foi."
+    },
+    {
+      "start": 16.83,
+      "end": 25.31,
+      "text": "Olha lá, olha ele correndo a cachorra, olha lá, infelizmente, infelizmente é a natureza, vou fazer o que, olha lá."
+    }
+  ],
+  "duracao_seg": 25.85,
+  "idioma_detectado": "pt"
+}

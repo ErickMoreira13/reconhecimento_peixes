@@ -1,0 +1,27 @@
+{
+  "texto": "Nasai até pintado Ninguém pra tirar deu trabalho Mais de cinco pessoas E canoa vai, canoa vai",
+  "segmentos": [
+    {
+      "start": 1.87,
+      "end": 65.16,
+      "text": "Nasai até pintado"
+    },
+    {
+      "start": 65.16,
+      "end": 73.4,
+      "text": "Ninguém pra tirar deu trabalho"
+    },
+    {
+      "start": 73.4,
+      "end": 77.39,
+      "text": "Mais de cinco pessoas"
+    },
+    {
+      "start": 77.39,
+      "end": 178.26,
+      "text": "E canoa vai, canoa vai"
+    }
+  ],
+  "duracao_seg": 239.29,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,197 @@
+{
+  "texto": "Oi, rapaz, que peso. Pouco, deixa eu ver. Olha o pacu, é pacu. É pacu, é pacu. Bonito. Nossa, que sepa de pacu, moço. Nossa, olha lá. Olha o tamanho do pacu, moço. Rapaz do céu. Ele não se entrega ainda não, ainda não, ainda não. Calma, vamos. Oi, que sepa, rapaz. Nossa Senhora. Sobe, garoto, sobe, garoto. Olha o tamanho do pacu. Bicho brabo, moço. Olha o tamanho do pacu. Olha aí, gente. Olha só o tamanho do pacu. Olha só. Olha que coisa mais linda, gente. Ah, não. Vamos medir esse peixe aqui, porque está grande demais. 45, certinho, olha. Olha o tamanho do bruto, gente. Coisa linda, né? Bom, vou levar para comer um frito, né? Pacuzão desse, hein? Hum, top demais, hein? coi. Tchau, tchau, tchau. Total. ato. Tchau. Tchau, tchau, tchau. Fui. E aí, tchau.",
+  "segmentos": [
+    {
+      "start": 2.06,
+      "end": 3.68,
+      "text": "Oi, rapaz, que peso."
+    },
+    {
+      "start": 5.22,
+      "end": 12.8,
+      "text": "Pouco, deixa eu ver."
+    },
+    {
+      "start": 13.54,
+      "end": 14.72,
+      "text": "Olha o pacu, é pacu."
+    },
+    {
+      "start": 15.02,
+      "end": 16.68,
+      "text": "É pacu, é pacu."
+    },
+    {
+      "start": 18.28,
+      "end": 18.84,
+      "text": "Bonito."
+    },
+    {
+      "start": 20.39,
+      "end": 22.83,
+      "text": "Nossa, que sepa de pacu, moço."
+    },
+    {
+      "start": 23.35,
+      "end": 24.39,
+      "text": "Nossa, olha lá."
+    },
+    {
+      "start": 24.95,
+      "end": 27.19,
+      "text": "Olha o tamanho do pacu, moço."
+    },
+    {
+      "start": 29.6,
+      "end": 30.98,
+      "text": "Rapaz do céu."
+    },
+    {
+      "start": 32.36,
+      "end": 35.26,
+      "text": "Ele não se entrega ainda não, ainda não, ainda não."
+    },
+    {
+      "start": 36.78,
+      "end": 37.5,
+      "text": "Calma, vamos."
+    },
+    {
+      "start": 37.8,
+      "end": 39.4,
+      "text": "Oi, que sepa, rapaz."
+    },
+    {
+      "start": 39.4,
+      "end": 42.4,
+      "text": "Nossa Senhora."
+    },
+    {
+      "start": 44.32,
+      "end": 46.0,
+      "text": "Sobe, garoto, sobe, garoto."
+    },
+    {
+      "start": 46.92,
+      "end": 47.82,
+      "text": "Olha o tamanho do pacu."
+    },
+    {
+      "start": 48.72,
+      "end": 50.22,
+      "text": "Bicho brabo, moço."
+    },
+    {
+      "start": 50.3,
+      "end": 51.24,
+      "text": "Olha o tamanho do pacu."
+    },
+    {
+      "start": 51.88,
+      "end": 52.58,
+      "text": "Olha aí, gente."
+    },
+    {
+      "start": 53.44,
+      "end": 55.5,
+      "text": "Olha só o tamanho do pacu."
+    },
+    {
+      "start": 56.96,
+      "end": 58.32,
+      "text": "Olha só."
+    },
+    {
+      "start": 59.38,
+      "end": 61.8,
+      "text": "Olha que coisa mais linda, gente."
+    },
+    {
+      "start": 62.92,
+      "end": 63.66,
+      "text": "Ah, não."
+    },
+    {
+      "start": 64.4,
+      "end": 65.68,
+      "text": "Vamos medir esse peixe aqui,"
+    },
+    {
+      "start": 66.52,
+      "end": 67.7,
+      "text": "porque está grande demais."
+    },
+    {
+      "start": 72.82,
+      "end": 74.84,
+      "text": "45, certinho, olha."
+    },
+    {
+      "start": 75.94,
+      "end": 78.08,
+      "text": "Olha o tamanho do bruto, gente."
+    },
+    {
+      "start": 79.03,
+      "end": 79.91,
+      "text": "Coisa linda, né?"
+    },
+    {
+      "start": 80.63,
+      "end": 83.86,
+      "text": "Bom, vou levar para comer um frito, né?"
+    },
+    {
+      "start": 84.66,
+      "end": 85.78,
+      "text": "Pacuzão desse, hein?"
+    },
+    {
+      "start": 85.9,
+      "end": 87.78,
+      "text": "Hum, top demais, hein?"
+    },
+    {
+      "start": 87.78,
+      "end": 88.14,
+      "text": "coi."
+    },
+    {
+      "start": 88.32,
+      "end": 88.38,
+      "text": "Tchau, tchau, tchau."
+    },
+    {
+      "start": 88.38,
+      "end": 88.66,
+      "text": "Total."
+    },
+    {
+      "start": 88.66,
+      "end": 89.02,
+      "text": "ato."
+    },
+    {
+      "start": 89.04,
+      "end": 89.3,
+      "text": "Tchau."
+    },
+    {
+      "start": 89.3,
+      "end": 90.2,
+      "text": "Tchau, tchau, tchau."
+    },
+    {
+      "start": 91.08,
+      "end": 92.4,
+      "text": "Fui."
+    },
+    {
+      "start": 98.72,
+      "end": 100.86,
+      "text": "E aí, tchau."
+    }
+  ],
+  "duracao_seg": 87.81,
+  "idioma_detectado": "pt"
+}

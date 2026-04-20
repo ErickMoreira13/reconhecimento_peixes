@@ -1,0 +1,17 @@
+{
+  "texto": "It's about to get crazy To go down",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "It's about to get crazy"
+    },
+    {
+      "start": 2.0,
+      "end": 4.96,
+      "text": "To go down"
+    }
+  ],
+  "duracao_seg": 12.45,
+  "idioma_detectado": "pt"
+}

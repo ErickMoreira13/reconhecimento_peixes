@@ -1,0 +1,47 @@
+{
+  "texto": "Porque o Rio Negro tem uma água muito ácida, o que faz que seja maravilhoso. Os banhos que a gente faz, nossa, já está com saudade já de lá. O banho, você entra na água. A gente nasce na Amazônia, é Manauara, né? Que chama, é Manauara, né? Os Manauaras ficam fascinados com a água. Está doido. Ali os balneários, coisa, é o reino das águas, né?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.66,
+      "text": "Porque o Rio Negro tem uma água muito ácida, o que faz que seja maravilhoso."
+    },
+    {
+      "start": 5.74,
+      "end": 8.24,
+      "text": "Os banhos que a gente faz, nossa, já está com saudade já de lá."
+    },
+    {
+      "start": 8.88,
+      "end": 10.46,
+      "text": "O banho, você entra na água."
+    },
+    {
+      "start": 10.52,
+      "end": 12.32,
+      "text": "A gente nasce na Amazônia, é Manauara, né?"
+    },
+    {
+      "start": 12.36,
+      "end": 13.46,
+      "text": "Que chama, é Manauara, né?"
+    },
+    {
+      "start": 14.14,
+      "end": 16.7,
+      "text": "Os Manauaras ficam fascinados com a água."
+    },
+    {
+      "start": 16.7,
+      "end": 17.36,
+      "text": "Está doido."
+    },
+    {
+      "start": 17.56,
+      "end": 20.46,
+      "text": "Ali os balneários, coisa, é o reino das águas, né?"
+    }
+  ],
+  "duracao_seg": 20.93,
+  "idioma_detectado": "pt"
+}

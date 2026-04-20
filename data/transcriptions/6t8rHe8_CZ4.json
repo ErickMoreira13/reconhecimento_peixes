@@ -1,0 +1,27 @@
+{
+  "texto": "Pescador que pescador pisa mansinho no barranco Chega devagar na selva pra evitar o girabranca da capanga Não gole pra esperar, linha balançou, não mexe, deixa o bicho mamar Desgraça que é minhoco sul, o braço tem que ser forte pra cortar o bãozol bem em",
+  "segmentos": [
+    {
+      "start": 1.78,
+      "end": 6.82,
+      "text": "Pescador que pescador pisa mansinho no barranco"
+    },
+    {
+      "start": 6.82,
+      "end": 14.52,
+      "text": "Chega devagar na selva pra evitar o girabranca da capanga"
+    },
+    {
+      "start": 14.52,
+      "end": 23.51,
+      "text": "Não gole pra esperar, linha balançou, não mexe, deixa o bicho mamar"
+    },
+    {
+      "start": 23.51,
+      "end": 39.52,
+      "text": "Desgraça que é minhoco sul, o braço tem que ser forte pra cortar o bãozol bem em"
+    }
+  ],
+  "duracao_seg": 39.57,
+  "idioma_detectado": "pt"
+}

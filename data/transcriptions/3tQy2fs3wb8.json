@@ -1,0 +1,37 @@
+{
+  "texto": "Gente, minha mãe falou que eu tava mexendo ali, que não ia pegar, que não sei o que, eu falei, ia pegar. Só ser positivo, e eu peguei, ó. E a grande, e a grande. Olha como é o tamanho, ó. Ó o Black Eagle aqui, ó, ó, ó. Vamos, bebê!",
+  "segmentos": [
+    {
+      "start": 21.17,
+      "end": 25.43,
+      "text": "Gente, minha mãe falou que eu tava mexendo ali, que não ia pegar, que não sei o que, eu falei, ia pegar."
+    },
+    {
+      "start": 26.05,
+      "end": 27.43,
+      "text": "Só ser positivo, e eu peguei, ó."
+    },
+    {
+      "start": 28.5,
+      "end": 30.55,
+      "text": "E a grande, e a grande."
+    },
+    {
+      "start": 31.13,
+      "end": 31.99,
+      "text": "Olha como é o tamanho, ó."
+    },
+    {
+      "start": 32.29,
+      "end": 33.99,
+      "text": "Ó o Black Eagle aqui, ó, ó, ó."
+    },
+    {
+      "start": 34.84,
+      "end": 35.72,
+      "text": "Vamos, bebê!"
+    }
+  ],
+  "duracao_seg": 36.85,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Que vem, vem, oi moca cê deixa pra quem não faz as notas Não corre o bigode se que pode, fala doutor, passa mó que é nóis de novo Fatura vai ver, nóis no desenrope, tá ligado que nóis vai tacar machi A gatona tá querendo pá, e ela vem quer saber, me alocaliza E ela vem tá na reta pra me dar, de navona potente Faz barulho na quebra",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "Que vem, vem, oi moca cê deixa pra quem não faz as notas"
+    },
+    {
+      "start": 4.08,
+      "end": 7.8,
+      "text": "Não corre o bigode se que pode, fala doutor, passa mó que é nóis de novo"
+    },
+    {
+      "start": 7.8,
+      "end": 12.34,
+      "text": "Fatura vai ver, nóis no desenrope, tá ligado que nóis vai tacar machi"
+    },
+    {
+      "start": 12.34,
+      "end": 16.08,
+      "text": "A gatona tá querendo pá, e ela vem quer saber, me alocaliza"
+    },
+    {
+      "start": 16.08,
+      "end": 19.64,
+      "text": "E ela vem tá na reta pra me dar, de navona potente"
+    },
+    {
+      "start": 19.64,
+      "end": 20.84,
+      "text": "Faz barulho na quebra"
+    }
+  ],
+  "duracao_seg": 20.85,
+  "idioma_detectado": "pt"
+}

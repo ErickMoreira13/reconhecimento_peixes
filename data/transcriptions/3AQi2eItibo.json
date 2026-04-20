@@ -1,0 +1,47 @@
+{
+  "texto": "Fala aí moçada, bom dia Hoje de tarde a partir das 3h30 Tem vídeo novo no canal Não perca, entra lá e confere E ó, quer pescar Final de semana? Já começa a se preparar na semana Valeu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Fala aí moçada, bom dia"
+    },
+    {
+      "start": 2.66,
+      "end": 5.5,
+      "text": "Hoje de tarde a partir das 3h30"
+    },
+    {
+      "start": 5.5,
+      "end": 7.3,
+      "text": "Tem vídeo novo no canal"
+    },
+    {
+      "start": 7.3,
+      "end": 9.52,
+      "text": "Não perca, entra lá e confere"
+    },
+    {
+      "start": 9.52,
+      "end": 11.3,
+      "text": "E ó, quer pescar"
+    },
+    {
+      "start": 11.3,
+      "end": 12.32,
+      "text": "Final de semana?"
+    },
+    {
+      "start": 13.08,
+      "end": 15.08,
+      "text": "Já começa a se preparar na semana"
+    },
+    {
+      "start": 15.08,
+      "end": 17.62,
+      "text": "Valeu"
+    }
+  ],
+  "duracao_seg": 18.89,
+  "idioma_detectado": "pt"
+}
