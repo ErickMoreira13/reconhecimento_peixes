@@ -1,0 +1,22 @@
+{
+  "texto": "Caralho, bicho, só ataque e show Peraí, a gente pega esse peixe ali Peraí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "Caralho, bicho, só ataque e show"
+    },
+    {
+      "start": 3.48,
+      "end": 5.59,
+      "text": "Peraí, a gente pega esse peixe ali"
+    },
+    {
+      "start": 5.59,
+      "end": 6.89,
+      "text": "Peraí"
+    }
+  ],
+  "duracao_seg": 15.69,
+  "idioma_detectado": "pt"
+}

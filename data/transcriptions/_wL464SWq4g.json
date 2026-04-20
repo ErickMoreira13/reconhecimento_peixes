@@ -1,0 +1,42 @@
+{
+  "texto": "TAP 6 iscas para traíra, PARK 2 Lambari Carnes Sapinho Jig Criatura soft Minhocas",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.26,
+      "text": "TAP 6 iscas para traíra, PARK 2"
+    },
+    {
+      "start": 3.26,
+      "end": 5.72,
+      "text": "Lambari"
+    },
+    {
+      "start": 5.72,
+      "end": 9.14,
+      "text": "Carnes"
+    },
+    {
+      "start": 9.14,
+      "end": 12.24,
+      "text": "Sapinho"
+    },
+    {
+      "start": 12.24,
+      "end": 14.88,
+      "text": "Jig"
+    },
+    {
+      "start": 14.88,
+      "end": 18.58,
+      "text": "Criatura soft"
+    },
+    {
+      "start": 18.58,
+      "end": 21.58,
+      "text": "Minhocas"
+    }
+  ],
+  "duracao_seg": 23.21,
+  "idioma_detectado": "pt"
+}

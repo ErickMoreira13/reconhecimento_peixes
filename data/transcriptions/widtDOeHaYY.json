@@ -1,0 +1,47 @@
+{
+  "texto": "Esse é o teu ou meu, gente? O maior é o meu, né? Guilherme, segura Guilherme Quem fez, fez Quem não fez, aqui ó Isso aqui é o ouro O ouro! O ouro de Guaira O ouro do Rio Paraná",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.4,
+      "text": "Esse é o teu ou meu, gente?"
+    },
+    {
+      "start": 2.4,
+      "end": 4.4,
+      "text": "O maior é o meu, né?"
+    },
+    {
+      "start": 9.74,
+      "end": 11.74,
+      "text": "Guilherme, segura Guilherme"
+    },
+    {
+      "start": 13.74,
+      "end": 15.74,
+      "text": "Quem fez, fez"
+    },
+    {
+      "start": 15.74,
+      "end": 17.74,
+      "text": "Quem não fez, aqui ó"
+    },
+    {
+      "start": 17.74,
+      "end": 19.84,
+      "text": "Isso aqui é o ouro"
+    },
+    {
+      "start": 19.84,
+      "end": 21.84,
+      "text": "O ouro! O ouro de Guaira"
+    },
+    {
+      "start": 21.84,
+      "end": 23.84,
+      "text": "O ouro do Rio Paraná"
+    }
+  ],
+  "duracao_seg": 25.09,
+  "idioma_detectado": "pt"
+}

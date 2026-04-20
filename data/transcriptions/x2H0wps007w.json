@@ -1,0 +1,72 @@
+{
+  "texto": "Agora o Caio perdeu, perdeu o dedo, pelo menos uma vez né Caio? Pequenininho. Vai, Anto tá seguro. Bonito aí ó. Vai Caio. Aqui ó, o binho tem goiabinha. Vai aqui uma vez, vai de novo. Tira daí. Vai, vai. Vai de novo, vamos uma vez. Tá bom. Ainda bem aqui. Vai.",
+  "segmentos": [
+    {
+      "start": 18.35,
+      "end": 24.6,
+      "text": "Agora o Caio perdeu, perdeu o dedo, pelo menos uma vez né Caio?"
+    },
+    {
+      "start": 24.6,
+      "end": 31.5,
+      "text": "Pequenininho."
+    },
+    {
+      "start": 31.5,
+      "end": 32.5,
+      "text": "Vai, Anto tá seguro."
+    },
+    {
+      "start": 32.5,
+      "end": 36.12,
+      "text": "Bonito aí ó."
+    },
+    {
+      "start": 36.12,
+      "end": 37.54,
+      "text": "Vai Caio."
+    },
+    {
+      "start": 37.54,
+      "end": 40.54,
+      "text": "Aqui ó, o binho tem goiabinha."
+    },
+    {
+      "start": 40.54,
+      "end": 44.91,
+      "text": "Vai aqui uma vez, vai de novo."
+    },
+    {
+      "start": 44.91,
+      "end": 48.25,
+      "text": "Tira daí."
+    },
+    {
+      "start": 48.25,
+      "end": 49.25,
+      "text": "Vai, vai."
+    },
+    {
+      "start": 49.25,
+      "end": 53.46,
+      "text": "Vai de novo, vamos uma vez."
+    },
+    {
+      "start": 53.46,
+      "end": 55.22,
+      "text": "Tá bom."
+    },
+    {
+      "start": 55.22,
+      "end": 56.22,
+      "text": "Ainda bem aqui."
+    },
+    {
+      "start": 56.22,
+      "end": 57.54,
+      "text": "Vai."
+    }
+  ],
+  "duracao_seg": 58.13,
+  "idioma_detectado": "pt"
+}

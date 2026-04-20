@@ -1,0 +1,37 @@
+{
+  "texto": "Dei uma pausa no vídeo Para o vídeo não ficar muito grande A nossa massa está pronta Nossa massa para pescar pial está pronta Certo? Então",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 1.68,
+      "text": "Dei uma pausa no vídeo"
+    },
+    {
+      "start": 1.68,
+      "end": 6.02,
+      "text": "Para o vídeo não ficar muito grande"
+    },
+    {
+      "start": 6.02,
+      "end": 8.04,
+      "text": "A nossa massa está pronta"
+    },
+    {
+      "start": 8.04,
+      "end": 12.27,
+      "text": "Nossa massa para pescar pial está pronta"
+    },
+    {
+      "start": 12.27,
+      "end": 13.68,
+      "text": "Certo?"
+    },
+    {
+      "start": 14.5,
+      "end": 14.94,
+      "text": "Então"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

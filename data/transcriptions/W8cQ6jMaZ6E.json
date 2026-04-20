@@ -1,0 +1,47 @@
+{
+  "texto": "Misto de temporada, né Coisa? Dois saquinhos tá bom aí, ó. Um saco de quireira, um saco de milho. Mais um saco misto aí, ó. Aí, ó. Beleza, pessoal? Daqui a pouco eu vou montar mexendo no rancho aí, ó. Beleza, pessoal?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.98,
+      "text": "Misto de temporada, né Coisa?"
+    },
+    {
+      "start": 1.82,
+      "end": 2.82,
+      "text": "Dois saquinhos tá bom aí, ó."
+    },
+    {
+      "start": 3.06,
+      "end": 4.64,
+      "text": "Um saco de quireira, um saco de milho."
+    },
+    {
+      "start": 5.53,
+      "end": 6.71,
+      "text": "Mais um saco misto aí, ó."
+    },
+    {
+      "start": 7.8,
+      "end": 8.44,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 10.11,
+      "end": 10.81,
+      "text": "Beleza, pessoal?"
+    },
+    {
+      "start": 11.81,
+      "end": 13.19,
+      "text": "Daqui a pouco eu vou montar mexendo no rancho aí, ó."
+    },
+    {
+      "start": 14.25,
+      "end": 14.85,
+      "text": "Beleza, pessoal?"
+    }
+  ],
+  "duracao_seg": 16.59,
+  "idioma_detectado": "pt"
+}

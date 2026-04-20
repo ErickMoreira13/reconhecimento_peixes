@@ -1,0 +1,27 @@
+{
+  "texto": "e aí rapaziada vamos fazer um teste aqui da sojinha daqui três minutinhos eu volto e mostro para vocês o resultado beleza rapaziada ao resultado aí ó três minutinhos na água o tamanho desse grão e vocês viram que fica amarelinha chamativa três minutinhos",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.19,
+      "text": "e aí rapaziada vamos fazer um teste aqui da sojinha daqui três minutinhos eu"
+    },
+    {
+      "start": 6.19,
+      "end": 10.83,
+      "text": "volto e mostro para vocês o resultado beleza rapaziada ao resultado aí ó"
+    },
+    {
+      "start": 10.83,
+      "end": 16.3,
+      "text": "três minutinhos na água o tamanho desse grão e vocês viram que fica amarelinha"
+    },
+    {
+      "start": 16.3,
+      "end": 19.82,
+      "text": "chamativa três minutinhos"
+    }
+  ],
+  "duracao_seg": 18.39,
+  "idioma_detectado": "pt"
+}

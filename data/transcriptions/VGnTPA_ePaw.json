@@ -1,0 +1,27 @@
+{
+  "texto": "Não, não, pode pegar Pode pegar, pode pegar O chingue é abençoado Uh!",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 7.74,
+      "text": "Não, não, pode pegar"
+    },
+    {
+      "start": 7.74,
+      "end": 9.74,
+      "text": "Pode pegar, pode pegar"
+    },
+    {
+      "start": 10.48,
+      "end": 12.48,
+      "text": "O chingue é abençoado"
+    },
+    {
+      "start": 12.48,
+      "end": 14.93,
+      "text": "Uh!"
+    }
+  ],
+  "duracao_seg": 14.99,
+  "idioma_detectado": "pt"
+}

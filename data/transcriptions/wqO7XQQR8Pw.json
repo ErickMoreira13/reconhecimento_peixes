@@ -1,0 +1,32 @@
+{
+  "texto": "Turma, uma das coisas mais importantes que tem aqui, ó, às vezes o pessoal pergunta por que não vai pegar peixe, mas ó, olha que ceva top. Três dias aí, ó. Olha, já, olha os medidos que deu aí, cara. Olha, top. Isso é uma ceva pra Piau Sul, ó, Piau, Piapara, ó, top, hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.64,
+      "text": "Turma, uma das coisas mais importantes que tem aqui, ó, às vezes o pessoal pergunta por que não vai pegar peixe, mas ó, olha que ceva top."
+    },
+    {
+      "start": 6.92,
+      "end": 7.94,
+      "text": "Três dias aí, ó."
+    },
+    {
+      "start": 8.1,
+      "end": 9.84,
+      "text": "Olha, já, olha os medidos que deu aí, cara."
+    },
+    {
+      "start": 10.54,
+      "end": 11.8,
+      "text": "Olha, top."
+    },
+    {
+      "start": 11.9,
+      "end": 15.16,
+      "text": "Isso é uma ceva pra Piau Sul, ó, Piau, Piapara, ó, top, hein?"
+    }
+  ],
+  "duracao_seg": 17.19,
+  "idioma_detectado": "pt"
+}

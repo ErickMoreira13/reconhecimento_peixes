@@ -1,0 +1,77 @@
+{
+  "texto": "Estrada movimentada. Por aqui, entre o barulho dos carros e a calmaria das águas, um lugar sem muita estrutura, mas perfeito para lazer. Agno resolveu dar uma volta para fugir da rotina. Para descontrair um pouco, sair um pouco da cidade. A gente estressa muito, a gente trabalha muito e não tira um dia de lazer. A semana toda trabalhando. A gente vem para cá se distrair um pouco, pegar um pouco de vento, um sol na cabeça. Quem está em busca de pesca esportiva não precisa ir tão longe para se divertir. Com a subida dos rios, esta região, logo após a ponte sobre o Rio Negro, tem atraído várias pessoas aos fins de semana, com a esperança de pegar algum peixe. Como é o caso da dona Rose, acostumada a pescar em outras regiões, veio até o local pela primeira vez. Espero pegar o mais bonito que for. Só para diversão mesmo. Eu gosto muito de pescar um pouco a cabeça. Fila de carros na beira da pista, que está com a água do rio bem próxima. É num trecho da rodovia que seu Hélio parou em busca de diversão e ainda trouxe uma caixa cheia de equipamentos de pesca. Esse material eu já tenho há anos já, entendeu? Porque eu sou apaixonado por pescaria e hoje eu vim sem destino, entendeu? Eu só sei que horas eu vou voltar, se vou voltar amanhã, se volto hoje. Então já venho todo preparado com tudo dentro do carro. Onde eu achar que está bom para brincar, lá é meu acampamento. Eu vou lá que eu vou ficar. Seja sozinho, com a família ou amigos, o importante é se divertir. Aguardar peixes pode não ser uma tarefa fácil, mas nesse caso, perseverar pode ser o melhor caminho. Peguei um, já fiz até isca, mas peguei um. Estamos na fé de pegar mais outro, né? Está indo. Está indo devagar, tem que ter paciência. Pescaria é paciência. Se não tiver paciência, não é melhor nem vir. E aí",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 14.38,
+      "text": "Estrada movimentada. Por aqui, entre o barulho dos carros e a calmaria das águas, um lugar sem muita estrutura, mas perfeito para lazer. Agno resolveu dar uma volta para fugir da rotina."
+    },
+    {
+      "start": 14.38,
+      "end": 31.07,
+      "text": "Para descontrair um pouco, sair um pouco da cidade. A gente estressa muito, a gente trabalha muito e não tira um dia de lazer. A semana toda trabalhando. A gente vem para cá se distrair um pouco, pegar um pouco de vento, um sol na cabeça."
+    },
+    {
+      "start": 31.07,
+      "end": 46.45,
+      "text": "Quem está em busca de pesca esportiva não precisa ir tão longe para se divertir. Com a subida dos rios, esta região, logo após a ponte sobre o Rio Negro, tem atraído várias pessoas aos fins de semana, com a esperança de pegar algum peixe."
+    },
+    {
+      "start": 46.77,
+      "end": 53.25,
+      "text": "Como é o caso da dona Rose, acostumada a pescar em outras regiões, veio até o local pela primeira vez."
+    },
+    {
+      "start": 53.57,
+      "end": 60.53,
+      "text": "Espero pegar o mais bonito que for. Só para diversão mesmo. Eu gosto muito de pescar um pouco a cabeça."
+    },
+    {
+      "start": 60.53,
+      "end": 72.59,
+      "text": "Fila de carros na beira da pista, que está com a água do rio bem próxima. É num trecho da rodovia que seu Hélio parou em busca de diversão e ainda trouxe uma caixa cheia de equipamentos de pesca."
+    },
+    {
+      "start": 72.83,
+      "end": 79.39,
+      "text": "Esse material eu já tenho há anos já, entendeu? Porque eu sou apaixonado por pescaria e hoje eu vim sem destino, entendeu?"
+    },
+    {
+      "start": 79.39,
+      "end": 85.95,
+      "text": "Eu só sei que horas eu vou voltar, se vou voltar amanhã, se volto hoje. Então já venho todo preparado com tudo dentro do carro."
+    },
+    {
+      "start": 85.95,
+      "end": 91.25,
+      "text": "Onde eu achar que está bom para brincar, lá é meu acampamento. Eu vou lá que eu vou ficar."
+    },
+    {
+      "start": 91.49,
+      "end": 103.17,
+      "text": "Seja sozinho, com a família ou amigos, o importante é se divertir. Aguardar peixes pode não ser uma tarefa fácil, mas nesse caso, perseverar pode ser o melhor caminho."
+    },
+    {
+      "start": 103.17,
+      "end": 109.09,
+      "text": "Peguei um, já fiz até isca, mas peguei um. Estamos na fé de pegar mais outro, né?"
+    },
+    {
+      "start": 109.79,
+      "end": 110.65,
+      "text": "Está indo."
+    },
+    {
+      "start": 110.77,
+      "end": 115.61,
+      "text": "Está indo devagar, tem que ter paciência. Pescaria é paciência. Se não tiver paciência, não é melhor nem vir."
+    },
+    {
+      "start": 115.61,
+      "end": 129.29,
+      "text": "E aí"
+    }
+  ],
+  "duracao_seg": 115.99,
+  "idioma_detectado": "pt"
+}

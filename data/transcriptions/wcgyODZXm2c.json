@@ -1,0 +1,22 @@
+{
+  "texto": "E aí galera, já armei umas varinhas aqui para piar o Coringa e Piapara. Vamos ver qual dos três vai sair. Estamos aqui e a patroa já está ali, cuidando as varinhas.",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 7.89,
+      "text": "E aí galera, já armei umas varinhas aqui para piar o Coringa e Piapara."
+    },
+    {
+      "start": 7.99,
+      "end": 9.37,
+      "text": "Vamos ver qual dos três vai sair."
+    },
+    {
+      "start": 10.56,
+      "end": 14.7,
+      "text": "Estamos aqui e a patroa já está ali, cuidando as varinhas."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

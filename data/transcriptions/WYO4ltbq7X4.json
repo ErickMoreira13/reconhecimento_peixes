@@ -1,0 +1,47 @@
+{
+  "texto": "O bom salsicha falaram que putua. Vamos ver se ela putua? Putua, putua. Vamos lá, nós vamos pegar a salsicha aqui, ó. Eu sei que eu vou usar a ponta pra ser a ispa. Vou cortar um dedo, mais ou menos, ó. Vim, cortei elas. Corta pra trás aqui, ó. Pega o canudinho, vem. É trabalhoso? É. Mas pelo menos você não vai perder seu dinheiro. Ó, pega a raçãozinha que a gente usa pra ceba mesmo e colocou aqui. Vamos lá, pra vocês verem? Tá aí, a bicha putua. Solucionado aí o problema. Agora tem o salsicha que flutua.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 7.33,
+      "text": "O bom salsicha falaram que putua. Vamos ver se ela putua? Putua, putua."
+    },
+    {
+      "start": 9.48,
+      "end": 13.08,
+      "text": "Vamos lá, nós vamos pegar a salsicha aqui, ó. Eu sei que eu vou usar a ponta pra ser a ispa."
+    },
+    {
+      "start": 13.4,
+      "end": 16.67,
+      "text": "Vou cortar um dedo, mais ou menos, ó. Vim, cortei elas."
+    },
+    {
+      "start": 16.95,
+      "end": 19.55,
+      "text": "Corta pra trás aqui, ó. Pega o canudinho, vem."
+    },
+    {
+      "start": 21.95,
+      "end": 24.43,
+      "text": "É trabalhoso? É. Mas pelo menos você não vai perder seu dinheiro."
+    },
+    {
+      "start": 25.15,
+      "end": 32.66,
+      "text": "Ó, pega a raçãozinha que a gente usa pra ceba mesmo e colocou aqui."
+    },
+    {
+      "start": 32.66,
+      "end": 46.22,
+      "text": "Vamos lá, pra vocês verem? Tá aí, a bicha putua."
+    },
+    {
+      "start": 46.3,
+      "end": 49.84,
+      "text": "Solucionado aí o problema. Agora tem o salsicha que flutua."
+    }
+  ],
+  "duracao_seg": 50.93,
+  "idioma_detectado": "pt"
+}

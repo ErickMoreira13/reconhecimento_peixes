@@ -1,0 +1,22 @@
+{
+  "texto": "na linha, não dobra muita ponta, vai trazer o sol ah, bichão caraca, ficou aqui",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.45,
+      "text": "na linha, não dobra muita ponta, vai trazer o sol"
+    },
+    {
+      "start": 3.45,
+      "end": 17.72,
+      "text": "ah, bichão"
+    },
+    {
+      "start": 17.72,
+      "end": 22.17,
+      "text": "caraca, ficou aqui"
+    }
+  ],
+  "duracao_seg": 23.65,
+  "idioma_detectado": "pt"
+}

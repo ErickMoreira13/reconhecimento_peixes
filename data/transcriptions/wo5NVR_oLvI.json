@@ -1,0 +1,27 @@
+{
+  "texto": "Pessoal, vou mostrar para vocês a diferença entre a traíra e o trairão, para você descobrir rápido. O trairão não encosta o queixo e a traíra o queixo encosta aqui, está vendo? Faz um V, sendo que o trairão faz um U, tá? Duas pés diferentes.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Pessoal, vou mostrar para vocês a diferença entre a traíra e o trairão, para você descobrir rápido."
+    },
+    {
+      "start": 4.48,
+      "end": 10.11,
+      "text": "O trairão não encosta o queixo e a traíra o queixo encosta aqui, está vendo?"
+    },
+    {
+      "start": 10.21,
+      "end": 13.17,
+      "text": "Faz um V, sendo que o trairão faz um U, tá?"
+    },
+    {
+      "start": 13.89,
+      "end": 14.91,
+      "text": "Duas pés diferentes."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

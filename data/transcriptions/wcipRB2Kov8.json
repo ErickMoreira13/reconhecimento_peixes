@@ -1,0 +1,17 @@
+{
+  "texto": "E aí meu povo, e aí meu povo, tá se batendo bicho velho, que tadão e um bagre aí ó, Rio Uruguai, é alegria, grande abraço a todos.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.4,
+      "text": "E aí meu povo, e aí meu povo, tá se batendo bicho velho, que tadão e um bagre aí ó,"
+    },
+    {
+      "start": 8.4,
+      "end": 13.6,
+      "text": "Rio Uruguai, é alegria, grande abraço a todos."
+    }
+  ],
+  "duracao_seg": 15.79,
+  "idioma_detectado": "pt"
+}

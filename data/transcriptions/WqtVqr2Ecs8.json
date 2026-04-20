@@ -1,0 +1,282 @@
+{
+  "texto": "Aqui, atraíra, atraíra, atraíra. Aí, galera, aí, ó. Atraíraão, atraíraão, atraíraão. Uhul! Obitela! Briga, briga, briga pro papai, briga. Dá só um confere aqui só. Papai! Falei com vocês que eu amo pescar, é de criatura, galera. Olha o tamanho, ó. Olha aí o tamanho da bichona. Ó. Olha. Ai, papai. Vem cá, papai, vem. Peguei. Ah, filmado. Aí, aí, aí, tá filmado. Valeu. Tá filmado. Não tem problema, não. Vamos sair da zona de perigo, galera. Olha aí, ó. Olha que top. Aí, ó. Véi, sou apaixonado com essas iscas aqui, ó. Olha aí. Que top, mano. Falei, vamos continuar com a criatura. Deixa eu tirar aqui a câmera. Olha aí, pai. Deixa eu ver se tá gravando. Tá gravando. Olha. Ainda bem que tá filmado, ó. Tamanho da bicha. Tamanho do meu pé. Ó. Lô. Cansei que agora. Top, top, top, top, viu, galera? Vamos continuar mais pra baixo? O dia de hoje tá top, ó. Aí é onde eu peguei ela. Hoje é quinta-feira, viu? Aí, ó. Naquele cantinho ali, ó. Falei que eu ia pegar com ela. Peguei uma rã. Peguei uma treirosa. Boa. Bruta. Valeu. Ô, Pro, para de gravar. Obrigado.",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 2.4,
+      "text": "Aqui, atraíra, atraíra, atraíra."
+    },
+    {
+      "start": 2.68,
+      "end": 3.46,
+      "text": "Aí, galera, aí, ó."
+    },
+    {
+      "start": 3.96,
+      "end": 4.96,
+      "text": "Atraíraão, atraíraão, atraíraão."
+    },
+    {
+      "start": 5.7,
+      "end": 6.18,
+      "text": "Uhul!"
+    },
+    {
+      "start": 8.57,
+      "end": 8.93,
+      "text": "Obitela!"
+    },
+    {
+      "start": 9.96,
+      "end": 11.48,
+      "text": "Briga, briga, briga pro papai, briga."
+    },
+    {
+      "start": 12.32,
+      "end": 13.4,
+      "text": "Dá só um confere aqui só."
+    },
+    {
+      "start": 15.76,
+      "end": 16.16,
+      "text": "Papai!"
+    },
+    {
+      "start": 16.44,
+      "end": 18.94,
+      "text": "Falei com vocês que eu amo pescar, é de criatura, galera."
+    },
+    {
+      "start": 19.82,
+      "end": 20.52,
+      "text": "Olha o tamanho, ó."
+    },
+    {
+      "start": 21.47,
+      "end": 22.77,
+      "text": "Olha aí o tamanho da bichona."
+    },
+    {
+      "start": 23.94,
+      "end": 24.12,
+      "text": "Ó."
+    },
+    {
+      "start": 25.02,
+      "end": 25.3,
+      "text": "Olha."
+    },
+    {
+      "start": 29.09,
+      "end": 30.29,
+      "text": "Ai, papai."
+    },
+    {
+      "start": 31.05,
+      "end": 31.93,
+      "text": "Vem cá, papai, vem."
+    },
+    {
+      "start": 35.53,
+      "end": 35.89,
+      "text": "Peguei."
+    },
+    {
+      "start": 36.13,
+      "end": 38.29,
+      "text": "Ah, filmado."
+    },
+    {
+      "start": 38.79,
+      "end": 40.94,
+      "text": "Aí, aí, aí, tá filmado."
+    },
+    {
+      "start": 41.98,
+      "end": 42.5,
+      "text": "Valeu."
+    },
+    {
+      "start": 42.8,
+      "end": 43.48,
+      "text": "Tá filmado."
+    },
+    {
+      "start": 45.18,
+      "end": 46.08,
+      "text": "Não tem problema, não."
+    },
+    {
+      "start": 46.92,
+      "end": 49.0,
+      "text": "Vamos sair da zona de perigo, galera."
+    },
+    {
+      "start": 51.07,
+      "end": 52.05,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 53.02,
+      "end": 54.7,
+      "text": "Olha que top."
+    },
+    {
+      "start": 55.62,
+      "end": 56.38,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 57.42,
+      "end": 61.37,
+      "text": "Véi, sou apaixonado com essas iscas aqui, ó."
+    },
+    {
+      "start": 62.7,
+      "end": 63.14,
+      "text": "Olha aí."
+    },
+    {
+      "start": 64.66,
+      "end": 65.72,
+      "text": "Que top, mano."
+    },
+    {
+      "start": 66.74,
+      "end": 68.36,
+      "text": "Falei, vamos continuar com a criatura."
+    },
+    {
+      "start": 69.42,
+      "end": 70.44,
+      "text": "Deixa eu tirar aqui a câmera."
+    },
+    {
+      "start": 70.44,
+      "end": 73.79,
+      "text": "Olha aí, pai."
+    },
+    {
+      "start": 75.21,
+      "end": 75.99,
+      "text": "Deixa eu ver se tá gravando."
+    },
+    {
+      "start": 76.19,
+      "end": 76.79,
+      "text": "Tá gravando."
+    },
+    {
+      "start": 77.59,
+      "end": 77.79,
+      "text": "Olha."
+    },
+    {
+      "start": 80.36,
+      "end": 81.86,
+      "text": "Ainda bem que tá filmado, ó."
+    },
+    {
+      "start": 82.56,
+      "end": 83.34,
+      "text": "Tamanho da bicha."
+    },
+    {
+      "start": 83.44,
+      "end": 84.06,
+      "text": "Tamanho do meu pé."
+    },
+    {
+      "start": 85.18,
+      "end": 85.36,
+      "text": "Ó."
+    },
+    {
+      "start": 87.27,
+      "end": 87.51,
+      "text": "Lô."
+    },
+    {
+      "start": 87.51,
+      "end": 89.76,
+      "text": "Cansei que agora."
+    },
+    {
+      "start": 90.93,
+      "end": 92.63,
+      "text": "Top, top, top, top, viu, galera?"
+    },
+    {
+      "start": 93.49,
+      "end": 94.79,
+      "text": "Vamos continuar mais pra baixo?"
+    },
+    {
+      "start": 96.16,
+      "end": 97.18,
+      "text": "O dia de hoje tá top, ó."
+    },
+    {
+      "start": 98.12,
+      "end": 99.12,
+      "text": "Aí é onde eu peguei ela."
+    },
+    {
+      "start": 100.82,
+      "end": 102.1,
+      "text": "Hoje é quinta-feira, viu?"
+    },
+    {
+      "start": 103.57,
+      "end": 104.01,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 104.51,
+      "end": 105.55,
+      "text": "Naquele cantinho ali, ó."
+    },
+    {
+      "start": 106.07,
+      "end": 107.45,
+      "text": "Falei que eu ia pegar com ela."
+    },
+    {
+      "start": 108.88,
+      "end": 109.52,
+      "text": "Peguei uma rã."
+    },
+    {
+      "start": 109.84,
+      "end": 110.68,
+      "text": "Peguei uma treirosa."
+    },
+    {
+      "start": 110.92,
+      "end": 111.28,
+      "text": "Boa."
+    },
+    {
+      "start": 111.44,
+      "end": 111.72,
+      "text": "Bruta."
+    },
+    {
+      "start": 112.68,
+      "end": 113.04,
+      "text": "Valeu."
+    },
+    {
+      "start": 114.29,
+      "end": 115.23,
+      "text": "Ô, Pro, para de gravar."
+    },
+    {
+      "start": 115.23,
+      "end": 116.23,
+      "text": "Obrigado."
+    }
+  ],
+  "duracao_seg": 116.09,
+  "idioma_detectado": "pt"
+}

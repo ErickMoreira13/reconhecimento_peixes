@@ -1,0 +1,22 @@
+{
+  "texto": "Tá rodando muito, Zé, já é uma cobra. Zé, Zé, já é cobra. Pode deixar, pode ficar quieto.",
+  "segmentos": [
+    {
+      "start": 6.7,
+      "end": 8.16,
+      "text": "Tá rodando muito, Zé, já é uma cobra."
+    },
+    {
+      "start": 8.66,
+      "end": 9.34,
+      "text": "Zé, Zé, já é cobra."
+    },
+    {
+      "start": 9.74,
+      "end": 10.62,
+      "text": "Pode deixar, pode ficar quieto."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

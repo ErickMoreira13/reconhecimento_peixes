@@ -1,0 +1,27 @@
+{
+  "texto": "Muito peixe hoje, seu varejo, vamos pegar? Vamos pegar muito peixe hoje? Muito! E 30, 40 peixes mais ou menos.",
+  "segmentos": [
+    {
+      "start": 3.44,
+      "end": 17.02,
+      "text": "Muito peixe hoje, seu varejo, vamos pegar?"
+    },
+    {
+      "start": 17.32,
+      "end": 18.82,
+      "text": "Vamos pegar muito peixe hoje?"
+    },
+    {
+      "start": 19.06,
+      "end": 19.44,
+      "text": "Muito!"
+    },
+    {
+      "start": 20.32,
+      "end": 22.26,
+      "text": "E 30, 40 peixes mais ou menos."
+    }
+  ],
+  "duracao_seg": 73.65,
+  "idioma_detectado": "pt"
+}

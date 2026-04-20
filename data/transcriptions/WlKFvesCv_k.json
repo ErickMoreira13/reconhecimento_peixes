@@ -1,0 +1,27 @@
+{
+  "texto": "O homem é preparado, viu? Olha o bitelo Não veio, perdeu O homem é preparado",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "O homem é preparado, viu?"
+    },
+    {
+      "start": 4.91,
+      "end": 6.49,
+      "text": "Olha o bitelo"
+    },
+    {
+      "start": 6.49,
+      "end": 10.66,
+      "text": "Não veio, perdeu"
+    },
+    {
+      "start": 10.66,
+      "end": 12.9,
+      "text": "O homem é preparado"
+    }
+  ],
+  "duracao_seg": 13.13,
+  "idioma_detectado": "pt"
+}

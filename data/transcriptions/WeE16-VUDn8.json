@@ -1,0 +1,17 @@
+{
+  "texto": "Cachorra. Não. Juma. Aí a Juma, ó a Juma, ó a Juma, que bonita. Não, não é pra comer, quem vai comer sou eu. Depois eu dou um pedacinho pra você.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.74,
+      "text": "Cachorra. Não. Juma. Aí a Juma, ó a Juma, ó a Juma, que bonita. Não, não é pra comer, quem vai comer sou eu."
+    },
+    {
+      "start": 7.94,
+      "end": 9.02,
+      "text": "Depois eu dou um pedacinho pra você."
+    }
+  ],
+  "duracao_seg": 10.09,
+  "idioma_detectado": "pt"
+}

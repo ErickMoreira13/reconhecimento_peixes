@@ -1,0 +1,37 @@
+{
+  "texto": "Olha só, estou usando uma vara de pesqueira aqui, uma Black Eagle, e uma carretilha Black Eagle também, olha aí a Aronar, quer ver? É um surubi, um caparari, será? Eu peguei um caparari, peguei um caparari, não é uma alionê, rapaz, olha que beleza, é um surubi, é um caparari, é um cachara, é um cachara. Olha aqui que engraçado, agora eu quero que vocês falem comigo, cadê a lista dessa cachara? Não existe lista, só tem poucas pintas, e aí? Você acharia que é uma, que peixe é esse, cachara ou pintado? Vou explicar para vocês uma coisa, pintado e o caparari não tem pinta na cabeça, mas agora eu vou achar uma única pinta que tem na cabeça desse peixe aqui para provar para vocês, não pode ter nenhuma, na testa dele aqui tem uma pintinha, está vendo aqui, Ziba? Bota o dedo na tela para ficar na, é, bota na tela da câmera aí que é para dar foco, está vendo? Tem uma única pinta que provou que ele é um cachara.",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 9.06,
+      "text": "Olha só, estou usando uma vara de pesqueira aqui, uma Black Eagle, e uma carretilha Black Eagle também, olha aí a Aronar, quer ver?"
+    },
+    {
+      "start": 9.94,
+      "end": 24.92,
+      "text": "É um surubi, um caparari, será? Eu peguei um caparari, peguei um caparari, não é uma alionê, rapaz, olha que beleza, é um surubi, é um caparari, é um cachara, é um cachara."
+    },
+    {
+      "start": 24.92,
+      "end": 32.82,
+      "text": "Olha aqui que engraçado, agora eu quero que vocês falem comigo, cadê a lista dessa cachara? Não existe lista, só tem poucas pintas, e aí?"
+    },
+    {
+      "start": 33.12,
+      "end": 40.36,
+      "text": "Você acharia que é uma, que peixe é esse, cachara ou pintado? Vou explicar para vocês uma coisa, pintado e o caparari não tem pinta na cabeça,"
+    },
+    {
+      "start": 40.36,
+      "end": 47.9,
+      "text": "mas agora eu vou achar uma única pinta que tem na cabeça desse peixe aqui para provar para vocês, não pode ter nenhuma, na testa dele aqui tem uma pintinha, está vendo aqui, Ziba?"
+    },
+    {
+      "start": 47.9,
+      "end": 59.08,
+      "text": "Bota o dedo na tela para ficar na, é, bota na tela da câmera aí que é para dar foco, está vendo? Tem uma única pinta que provou que ele é um cachara."
+    }
+  ],
+  "duracao_seg": 59.65,
+  "idioma_detectado": "pt"
+}

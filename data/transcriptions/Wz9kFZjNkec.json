@@ -1,0 +1,77 @@
+{
+  "texto": "Os peixes, que podemos pescar, na piracema. Confira. Tilápia comum. Tilápia rendale. Tucunaré amarelo. Tucunaré azul. Bagre africano. Acará ou porquinho. Carpa cabeçuda. Carpa capim. Carpa comum. Piranha preta. Apaiari ou oscar. Corvina ou pescada.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Os peixes, que podemos pescar, na piracema."
+    },
+    {
+      "start": 7.28,
+      "end": 7.82,
+      "text": "Confira."
+    },
+    {
+      "start": 9.05,
+      "end": 9.91,
+      "text": "Tilápia comum."
+    },
+    {
+      "start": 12.79,
+      "end": 13.83,
+      "text": "Tilápia rendale."
+    },
+    {
+      "start": 17.86,
+      "end": 18.94,
+      "text": "Tucunaré amarelo."
+    },
+    {
+      "start": 24.24,
+      "end": 25.12,
+      "text": "Tucunaré azul."
+    },
+    {
+      "start": 27.89,
+      "end": 28.85,
+      "text": "Bagre africano."
+    },
+    {
+      "start": 32.04,
+      "end": 33.24,
+      "text": "Acará ou porquinho."
+    },
+    {
+      "start": 36.13,
+      "end": 37.09,
+      "text": "Carpa cabeçuda."
+    },
+    {
+      "start": 39.91,
+      "end": 40.69,
+      "text": "Carpa capim."
+    },
+    {
+      "start": 44.22,
+      "end": 44.94,
+      "text": "Carpa comum."
+    },
+    {
+      "start": 48.3,
+      "end": 49.22,
+      "text": "Piranha preta."
+    },
+    {
+      "start": 52.5,
+      "end": 53.74,
+      "text": "Apaiari ou oscar."
+    },
+    {
+      "start": 56.5,
+      "end": 57.74,
+      "text": "Corvina ou pescada."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,512 @@
+{
+  "texto": "Bom dia, bom dia, bom dia meu povo Tudo certo aí? Tamo indo pra mais uma pescaria aí Bom dia pra todo mundo que tá acompanhando nosso canal aí Fico muito agradecido, gente E tamo aí pra mais uma pescaria aí, ó Hoje tamo no município de Estrela, Rio Grande do Sul No Rio Taquari Vamos ver se saem uns brutos aí, gente Quero agradecer e todo mundo que tá escrevendo nosso canal aí Que tá compartilhando, que tá curtindo aí Muito obrigado pela ajuda aí, gente Continua acompanhando nosso canal aí E vamo, bora pros vídeos E não frouxa a linha, cheirosrado Bora pros brutos Hoje tamo com nossos amigos que acompanham nosso canal aí De Campo Bom Tamo aqui uma pescaria junto aí Tamo aí, ó Vamos meter ficha aí, ver se saem os brutos aí, gente Mostrando pra vocês aí Aí que lugar top, gente, ó Na lida aí E aí, galera, montando churrasqueiro aí Agora vou meter a carne na capa aí, ó Vou churrasco porque peixe não dá Frito não vai deu Frito não vai ter hoje, né Vamos lá Aí, gente Tamo na pesca aí Vamos ver se dá uns brutinhos Cheguei meio tarde aí Rodemos muito, gente O ponto que nós queria ter achado Nós não conseguimos achar Então Esse foi o ponto que nós achemos Agora tamo tentando aí Vamos ver se dá uns brutos aí Vamos almoçar agora também Ah, só um negócio que nós chegamos agora há pouco, né Vamos ver o que sai aí, gente O que sai aí nós vamos mostrar pra vocês aí Fique com nós ligado aí Grande abraço Vamos lá Carne na capa aí, né Tem um plastiquito pra fazer Que eu aproveito Essa largura dá, né Aí Opa Aí ele olhou assim Meu Deus, a lombada eletrônica Eu acho que eu levei uma multa Daqui a pouco a Célia me liga Que a multa já foi lá em casa Não, eu não me aguentei Ele disse que quando ele leva Só concordo O Hilario disse que ele só concordava Não Só pesca mesmo Só pesca Aham Mas é que assim, a família tem que ajudar ele Tem um franguinho, né, pessoal Aí, ó Deixando o jeito Não E tu sabe que ele contou Nosso amigo velho tá ali no fogo ali Bombando Sim, e tu viu o que ele contou Ele contou que foi lá na ex-namorada dele Pra Célia Se perdemos aí, pessoal Do lugar aí do nosso pesqueiro E aí, vamos parar aqui em Estrela Mas não se apertemos Já chegam água Já tô pequenozinho Tem muito gai É, mas Tirem água Tinha em qualquer lugar Se vai pegar É outros 500 O pescado de farolão Tá pouco, né Tem um zene sem álcool aí Já viu o zene sem álcool Que não cair aí, senão É que é só o farelo, né Assim de goiaba Agora acho que vai Às vezes é peixe pequeno É, ele só fica fazendo assim Valeu, obrigado",
+  "segmentos": [
+    {
+      "start": 68.02,
+      "end": 69.68,
+      "text": "Bom dia, bom dia, bom dia meu povo"
+    },
+    {
+      "start": 69.68,
+      "end": 71.3,
+      "text": "Tudo certo aí?"
+    },
+    {
+      "start": 71.44,
+      "end": 72.72,
+      "text": "Tamo indo pra mais uma pescaria aí"
+    },
+    {
+      "start": 72.72,
+      "end": 76.12,
+      "text": "Bom dia pra todo mundo que tá acompanhando nosso canal aí"
+    },
+    {
+      "start": 76.12,
+      "end": 78.18,
+      "text": "Fico muito agradecido, gente"
+    },
+    {
+      "start": 78.18,
+      "end": 80.93,
+      "text": "E tamo aí pra mais uma pescaria aí, ó"
+    },
+    {
+      "start": 80.93,
+      "end": 84.79,
+      "text": "Hoje tamo no município de Estrela, Rio Grande do Sul"
+    },
+    {
+      "start": 84.79,
+      "end": 87.25,
+      "text": "No Rio Taquari"
+    },
+    {
+      "start": 87.25,
+      "end": 89.23,
+      "text": "Vamos ver se saem uns brutos aí, gente"
+    },
+    {
+      "start": 89.23,
+      "end": 92.01,
+      "text": "Quero agradecer e todo mundo que tá escrevendo nosso canal aí"
+    },
+    {
+      "start": 92.01,
+      "end": 94.17,
+      "text": "Que tá compartilhando, que tá curtindo aí"
+    },
+    {
+      "start": 94.17,
+      "end": 95.91,
+      "text": "Muito obrigado pela ajuda aí, gente"
+    },
+    {
+      "start": 95.91,
+      "end": 98.46,
+      "text": "Continua acompanhando nosso canal aí"
+    },
+    {
+      "start": 98.46,
+      "end": 99.68,
+      "text": "E vamo, bora pros vídeos"
+    },
+    {
+      "start": 99.68,
+      "end": 101.24,
+      "text": "E não frouxa a linha, cheirosrado"
+    },
+    {
+      "start": 101.24,
+      "end": 102.52,
+      "text": "Bora pros brutos"
+    },
+    {
+      "start": 102.52,
+      "end": 106.16,
+      "text": "Hoje tamo com nossos amigos que acompanham nosso canal aí"
+    },
+    {
+      "start": 106.16,
+      "end": 107.2,
+      "text": "De Campo Bom"
+    },
+    {
+      "start": 107.2,
+      "end": 109.91,
+      "text": "Tamo aqui uma pescaria junto aí"
+    },
+    {
+      "start": 109.91,
+      "end": 110.69,
+      "text": "Tamo aí, ó"
+    },
+    {
+      "start": 110.69,
+      "end": 114.55,
+      "text": "Vamos meter ficha aí, ver se saem os brutos aí, gente"
+    },
+    {
+      "start": 114.55,
+      "end": 117.02,
+      "text": "Mostrando pra vocês aí"
+    },
+    {
+      "start": 117.02,
+      "end": 137.31,
+      "text": "Aí que lugar top, gente, ó"
+    },
+    {
+      "start": 137.31,
+      "end": 145.54,
+      "text": "Na lida aí"
+    },
+    {
+      "start": 145.54,
+      "end": 154.62,
+      "text": "E aí, galera, montando churrasqueiro aí"
+    },
+    {
+      "start": 154.62,
+      "end": 157.48,
+      "text": "Agora vou meter a carne na capa aí, ó"
+    },
+    {
+      "start": 157.48,
+      "end": 159.44,
+      "text": "Vou churrasco porque peixe não dá"
+    },
+    {
+      "start": 159.44,
+      "end": 162.04,
+      "text": "Frito não vai deu"
+    },
+    {
+      "start": 162.04,
+      "end": 164.82,
+      "text": "Frito não vai ter hoje, né"
+    },
+    {
+      "start": 164.82,
+      "end": 176.06,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 176.06,
+      "end": 178.04,
+      "text": "Aí, gente"
+    },
+    {
+      "start": 178.04,
+      "end": 179.5,
+      "text": "Tamo na pesca aí"
+    },
+    {
+      "start": 179.5,
+      "end": 180.74,
+      "text": "Vamos ver se dá uns brutinhos"
+    },
+    {
+      "start": 180.74,
+      "end": 182.04,
+      "text": "Cheguei meio tarde aí"
+    },
+    {
+      "start": 182.04,
+      "end": 183.97,
+      "text": "Rodemos muito, gente"
+    },
+    {
+      "start": 183.97,
+      "end": 185.85,
+      "text": "O ponto que nós queria ter achado"
+    },
+    {
+      "start": 185.85,
+      "end": 186.89,
+      "text": "Nós não conseguimos achar"
+    },
+    {
+      "start": 186.89,
+      "end": 188.99,
+      "text": "Então"
+    },
+    {
+      "start": 188.99,
+      "end": 191.09,
+      "text": "Esse foi o ponto que nós achemos"
+    },
+    {
+      "start": 191.09,
+      "end": 192.41,
+      "text": "Agora tamo tentando aí"
+    },
+    {
+      "start": 192.41,
+      "end": 193.67,
+      "text": "Vamos ver se dá uns brutos aí"
+    },
+    {
+      "start": 193.67,
+      "end": 196.1,
+      "text": "Vamos almoçar agora também"
+    },
+    {
+      "start": 196.1,
+      "end": 197.98,
+      "text": "Ah, só um negócio que nós chegamos agora há pouco, né"
+    },
+    {
+      "start": 197.98,
+      "end": 201.12,
+      "text": "Vamos ver o que sai aí, gente"
+    },
+    {
+      "start": 201.12,
+      "end": 203.2,
+      "text": "O que sai aí nós vamos mostrar pra vocês aí"
+    },
+    {
+      "start": 203.2,
+      "end": 206.0,
+      "text": "Fique com nós ligado aí"
+    },
+    {
+      "start": 206.0,
+      "end": 207.16,
+      "text": "Grande abraço"
+    },
+    {
+      "start": 207.16,
+      "end": 207.96,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 207.96,
+      "end": 238.0,
+      "text": "Carne na capa aí, né"
+    },
+    {
+      "start": 238.0,
+      "end": 257.35,
+      "text": "Tem um plastiquito pra fazer"
+    },
+    {
+      "start": 257.35,
+      "end": 258.03,
+      "text": "Que eu aproveito"
+    },
+    {
+      "start": 258.03,
+      "end": 282.33,
+      "text": "Essa largura dá, né"
+    },
+    {
+      "start": 282.33,
+      "end": 282.55,
+      "text": "Aí"
+    },
+    {
+      "start": 282.55,
+      "end": 316.3,
+      "text": "Opa"
+    },
+    {
+      "start": 316.3,
+      "end": 317.3,
+      "text": "Aí ele olhou assim"
+    },
+    {
+      "start": 317.3,
+      "end": 319.06,
+      "text": "Meu Deus, a lombada eletrônica"
+    },
+    {
+      "start": 319.06,
+      "end": 320.74,
+      "text": "Eu acho que eu levei uma multa"
+    },
+    {
+      "start": 320.74,
+      "end": 322.7,
+      "text": "Daqui a pouco a Célia me liga"
+    },
+    {
+      "start": 322.7,
+      "end": 324.94,
+      "text": "Que a multa já foi lá em casa"
+    },
+    {
+      "start": 324.94,
+      "end": 326.72,
+      "text": "Não, eu não me aguentei"
+    },
+    {
+      "start": 326.72,
+      "end": 329.82,
+      "text": "Ele disse que quando ele leva"
+    },
+    {
+      "start": 329.82,
+      "end": 335.68,
+      "text": "Só concordo"
+    },
+    {
+      "start": 335.68,
+      "end": 337.76,
+      "text": "O Hilario disse que ele só concordava"
+    },
+    {
+      "start": 337.76,
+      "end": 338.04,
+      "text": "Não"
+    },
+    {
+      "start": 338.04,
+      "end": 339.34,
+      "text": "Só pesca mesmo"
+    },
+    {
+      "start": 339.34,
+      "end": 340.16,
+      "text": "Só pesca"
+    },
+    {
+      "start": 340.16,
+      "end": 340.46,
+      "text": "Aham"
+    },
+    {
+      "start": 340.46,
+      "end": 355.82,
+      "text": "Mas é que assim, a família tem que ajudar ele"
+    },
+    {
+      "start": 355.82,
+      "end": 357.04,
+      "text": "Tem um franguinho, né, pessoal"
+    },
+    {
+      "start": 357.04,
+      "end": 357.4,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 357.4,
+      "end": 359.65,
+      "text": "Deixando o jeito"
+    },
+    {
+      "start": 359.65,
+      "end": 360.25,
+      "text": "Não"
+    },
+    {
+      "start": 360.25,
+      "end": 361.89,
+      "text": "E tu sabe que ele contou"
+    },
+    {
+      "start": 361.89,
+      "end": 363.51,
+      "text": "Nosso amigo velho tá ali no fogo ali"
+    },
+    {
+      "start": 363.51,
+      "end": 364.53,
+      "text": "Bombando"
+    },
+    {
+      "start": 364.53,
+      "end": 367.19,
+      "text": "Sim, e tu viu o que ele contou"
+    },
+    {
+      "start": 367.19,
+      "end": 370.25,
+      "text": "Ele contou que foi lá na ex-namorada dele"
+    },
+    {
+      "start": 370.25,
+      "end": 371.03,
+      "text": "Pra Célia"
+    },
+    {
+      "start": 371.03,
+      "end": 372.01,
+      "text": "Se perdemos aí, pessoal"
+    },
+    {
+      "start": 372.01,
+      "end": 373.71,
+      "text": "Do lugar aí do nosso pesqueiro"
+    },
+    {
+      "start": 373.71,
+      "end": 375.49,
+      "text": "E aí, vamos parar aqui em Estrela"
+    },
+    {
+      "start": 375.49,
+      "end": 377.28,
+      "text": "Mas não se apertemos"
+    },
+    {
+      "start": 377.28,
+      "end": 377.92,
+      "text": "Já chegam água"
+    },
+    {
+      "start": 377.92,
+      "end": 378.74,
+      "text": "Já tô pequenozinho"
+    },
+    {
+      "start": 378.74,
+      "end": 382.0,
+      "text": "Tem muito gai"
+    },
+    {
+      "start": 382.0,
+      "end": 383.97,
+      "text": "É, mas"
+    },
+    {
+      "start": 383.97,
+      "end": 385.37,
+      "text": "Tirem água"
+    },
+    {
+      "start": 385.37,
+      "end": 386.53,
+      "text": "Tinha em qualquer lugar"
+    },
+    {
+      "start": 386.53,
+      "end": 388.17,
+      "text": "Se vai pegar"
+    },
+    {
+      "start": 388.17,
+      "end": 388.79,
+      "text": "É outros 500"
+    },
+    {
+      "start": 388.79,
+      "end": 452.46,
+      "text": "O pescado de farolão"
+    },
+    {
+      "start": 452.46,
+      "end": 465.77,
+      "text": "Tá pouco, né"
+    },
+    {
+      "start": 465.77,
+      "end": 516.74,
+      "text": "Tem um zene sem álcool aí"
+    },
+    {
+      "start": 516.74,
+      "end": 520.44,
+      "text": "Já viu o zene sem álcool"
+    },
+    {
+      "start": 520.44,
+      "end": 527.84,
+      "text": "Que não cair aí, senão"
+    },
+    {
+      "start": 527.84,
+      "end": 563.83,
+      "text": "É que é só o farelo, né"
+    },
+    {
+      "start": 563.83,
+      "end": 748.77,
+      "text": "Assim de goiaba"
+    },
+    {
+      "start": 748.77,
+      "end": 749.43,
+      "text": "Agora acho que vai"
+    },
+    {
+      "start": 749.43,
+      "end": 891.67,
+      "text": "Às vezes é peixe pequeno"
+    },
+    {
+      "start": 891.67,
+      "end": 893.77,
+      "text": "É, ele só fica fazendo assim"
+    },
+    {
+      "start": 893.77,
+      "end": 939.09,
+      "text": "Valeu, obrigado"
+    }
+  ],
+  "duracao_seg": 943.95,
+  "idioma_detectado": "pt"
+}

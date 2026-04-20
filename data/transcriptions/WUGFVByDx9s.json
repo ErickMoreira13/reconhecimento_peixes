@@ -1,0 +1,17 @@
+{
+  "texto": "Sente aqui comigo no sofá, e vamos conversar, é hora de abrir o jogo Nosso amor está indo água abaixo, se deixar vira relaxo, temporal apaga o fogo",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 7.96,
+      "text": "Sente aqui comigo no sofá, e vamos conversar, é hora de abrir o jogo"
+    },
+    {
+      "start": 7.96,
+      "end": 17.6,
+      "text": "Nosso amor está indo água abaixo, se deixar vira relaxo, temporal apaga o fogo"
+    }
+  ],
+  "duracao_seg": 18.51,
+  "idioma_detectado": "pt"
+}

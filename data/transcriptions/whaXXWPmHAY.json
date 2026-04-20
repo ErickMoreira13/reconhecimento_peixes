@@ -1,0 +1,27 @@
+{
+  "texto": "E cumprir a vida, seja simplesmente compreender a margem E tocando em frente, com o tocando os dias Pela longa estrada eu vou, estrada eu sou Conhecer as manhas",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.06,
+      "text": "E cumprir a vida, seja simplesmente compreender a margem"
+    },
+    {
+      "start": 5.06,
+      "end": 15.76,
+      "text": "E tocando em frente, com o tocando os dias"
+    },
+    {
+      "start": 15.76,
+      "end": 22.04,
+      "text": "Pela longa estrada eu vou, estrada eu sou"
+    },
+    {
+      "start": 22.04,
+      "end": 26.81,
+      "text": "Conhecer as manhas"
+    }
+  ],
+  "duracao_seg": 26.85,
+  "idioma_detectado": "pt"
+}

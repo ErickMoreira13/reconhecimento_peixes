@@ -1,0 +1,27 @@
+{
+  "texto": "Puto cheiroso, marrento e posturado Vários invejosos querem atrasar o meu lado Sei que é só questão de tempo, pra mim fica milionário Nego, olha pro meu bolso, por que que tá tão",
+  "segmentos": [
+    {
+      "start": 6.0,
+      "end": 8.32,
+      "text": "Puto cheiroso, marrento e posturado"
+    },
+    {
+      "start": 8.32,
+      "end": 10.96,
+      "text": "Vários invejosos querem atrasar o meu lado"
+    },
+    {
+      "start": 10.96,
+      "end": 13.56,
+      "text": "Sei que é só questão de tempo, pra mim fica milionário"
+    },
+    {
+      "start": 13.56,
+      "end": 15.84,
+      "text": "Nego, olha pro meu bolso, por que que tá tão"
+    }
+  ],
+  "duracao_seg": 15.85,
+  "idioma_detectado": "pt"
+}
