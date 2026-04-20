@@ -1,0 +1,22 @@
+{
+  "texto": "Caralho viado, não sei não viu. Mas é peixe, irmão. Olha, sério, velho. Até chegar lá eu acho que não dá para limpar tudo não. Aliás, sobe o barco direto, né? Não.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 6.05,
+      "text": "Caralho viado, não sei não viu. Mas é peixe, irmão. Olha, sério, velho."
+    },
+    {
+      "start": 6.05,
+      "end": 9.18,
+      "text": "Até chegar lá eu acho que não dá para limpar tudo não."
+    },
+    {
+      "start": 9.18,
+      "end": 15.04,
+      "text": "Aliás, sobe o barco direto, né? Não."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

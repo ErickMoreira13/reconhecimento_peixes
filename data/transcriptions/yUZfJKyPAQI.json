@@ -1,0 +1,37 @@
+{
+  "texto": "O que acontece quando o maior rio do mundo encontra o oceano? A força do Amazonas é tão colossal que ele despeja 20% de toda a água doce dos rios do mundo no oceano. Ele empurra o mar para trás, deixando a água doce por mais de 100 quilômetros mar adentro. E nesse encontro de gigantes, nasce a Pororoca, uma onda poderosa que viaja rio adentro, atraindo surfistas de todo o mundo. Um fenômeno único no planeta.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "text": "O que acontece quando o maior rio do mundo encontra o oceano?"
+    },
+    {
+      "start": 4.7,
+      "end": 13.06,
+      "text": "A força do Amazonas é tão colossal que ele despeja 20% de toda a água doce dos rios do mundo no oceano."
+    },
+    {
+      "start": 13.62,
+      "end": 20.0,
+      "text": "Ele empurra o mar para trás, deixando a água doce por mais de 100 quilômetros mar adentro."
+    },
+    {
+      "start": 20.44,
+      "end": 23.94,
+      "text": "E nesse encontro de gigantes, nasce a Pororoca,"
+    },
+    {
+      "start": 23.94,
+      "end": 29.78,
+      "text": "uma onda poderosa que viaja rio adentro, atraindo surfistas de todo o mundo."
+    },
+    {
+      "start": 30.0,
+      "end": 31.94,
+      "text": "Um fenômeno único no planeta."
+    }
+  ],
+  "duracao_seg": 32.17,
+  "idioma_detectado": "pt"
+}
