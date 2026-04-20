@@ -44,6 +44,27 @@ check_disco() {
     return 0
 }
 
+cleanup_audios_orfaos() {
+    # audios que ficaram em disco mas nao tem mais correspondencia no db
+    # (ex: transcrever falhou, ou pipeline interrompido). deleta.
+    $PY -c "
+from src.storage import db
+from pathlib import Path
+with db.conectar() as conn:
+    ativos = {r[0] for r in conn.execute('SELECT video_id FROM videos WHERE status=\"baixado\"').fetchall()}
+d = Path('data/raw_audio')
+n = 0
+b = 0
+for f in d.iterdir():
+    if f.is_file() and f.stem not in ativos:
+        b += f.stat().st_size
+        f.unlink()
+        n += 1
+if n:
+    print(f'cleanup: {n} audios orfaos ({b/1024/1024:.0f}MB)')
+" 2>>"$LOG" || true
+}
+
 ciclo() {
     # um ciclo completo do pipeline. retorna 0 sempre (erros tratados internamente)
     local i=$1
@@ -52,6 +73,9 @@ ciclo() {
     if ! check_disco; then
         return 1
     fi
+
+    # limpa audios que ficaram pra tras entre ciclos anteriores
+    cleanup_audios_orfaos
 
     # 1) busca (rotacao automatica de queries saturada pela lib)
     log "busca: harvester-loop por 5 iteracoes"
