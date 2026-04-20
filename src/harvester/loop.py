@@ -26,7 +26,7 @@ from src.harvester import youtube as yt
 from src.harvester import saturacao
 from src.log import get_logger
 from src.storage import db as storage
-from src import ui_banners
+from src import ascii_art, ui_banners
 
 
 _log = get_logger()
@@ -92,11 +92,12 @@ def roda_loop(
     pausa_s: int = PAUSA_ENTRE_BUSCAS_S,
     db_path: Path | None = None,
 ):
-    print(ui_banners.banner_harvester())
+    print(ascii_art.banner_projeto())
+    print(ascii_art.banner_pipeline("harvester loop — coleta ate saturar"))
     # carrega queries do yaml pro sqlite (idempotente)
     textos = carrega_queries_yaml(queries_yaml)
     storage.upsert_queries(textos, db_path)
-    print(f"[loop] {len(textos)} queries no yaml, storage pronto")
+    print(ascii_art.marca_info(f"{len(textos)} queries no yaml, storage pronto"))
 
     it = 0
     while True:
