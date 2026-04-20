@@ -5,6 +5,8 @@
 
 PEIXE = r"   ><(((o>"
 PEIXE_GRANDE = r"  ><((((((((o>"
+PEIXE_ESQUERDA = r"<o)))><"    # peixe olhando pra esquerda
+PEIXE_CARDUME = r"><(((o>  ><(((o>  ><(((o>"   # tres peixes em cardume
 
 # onda de rio, 3 variacoes pra alternar e parecer menos mecanico
 ONDA = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
