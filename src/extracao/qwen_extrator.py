@@ -25,9 +25,15 @@ MIN_PALAVRAS_PRA_EXTRAIR = 30
 
 # acima disso o contexto do qwen (8192 tokens) nao aguenta a transcricao
 # inteira mais o prompt. divide em chunks.
-# 1 palavra ~ 1.4 tokens em pt-br, entao 4500 palavras ~ 6300 tokens + prompt
-# pode chegar em ~7800 tokens. deixa margem de seguranca.
-MAX_PALAVRAS_SEM_CHUNKING = 4500
+# 1 palavra ~ 1.4 tokens em pt-br, entao 3000 palavras ~ 4200 tokens + prompt
+# (~1500 tokens com os hints) pode chegar em ~5700 tokens. margem folgada.
+#
+# antes tava 4500 mas videos grandes (>8000 palavras) perdiam TUDO — todos
+# os chunks voltavam null. hipotese: prefill apertado + hint da sumario-manual
+# inflaram o prompt, estourando num_ctx. fix 8: reduzir pra 3000 pra dar
+# folga. custo: videos muito grandes viram 3 chunks em vez de 2 (+1 chamada
+# llm), mas ganha robustez em nao perder o conteudo inteiro
+MAX_PALAVRAS_SEM_CHUNKING = 3000
 
 
 # telemetria simples pra saber se o retry de schema ta acontecendo demais.
