@@ -1,0 +1,17 @@
+{
+  "texto": "Eu e Deus dá a mão pra mim Abra nesse pé",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 3.44,
+      "text": "Eu e Deus dá a mão pra mim"
+    },
+    {
+      "start": 3.44,
+      "end": 10.87,
+      "text": "Abra nesse pé"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

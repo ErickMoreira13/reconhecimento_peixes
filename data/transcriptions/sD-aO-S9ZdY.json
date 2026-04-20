@@ -1,0 +1,32 @@
+{
+  "texto": "Quase a fisga, mais um pouquinho. Opa, o que foi isso? Sai, sai, sai! Socorro! Quase que ele me pega!",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 1.82,
+      "text": "Quase a fisga, mais um pouquinho."
+    },
+    {
+      "start": 2.18,
+      "end": 2.92,
+      "text": "Opa, o que foi isso?"
+    },
+    {
+      "start": 3.44,
+      "end": 6.66,
+      "text": "Sai, sai, sai!"
+    },
+    {
+      "start": 6.86,
+      "end": 7.34,
+      "text": "Socorro!"
+    },
+    {
+      "start": 8.39,
+      "end": 9.39,
+      "text": "Quase que ele me pega!"
+    }
+  ],
+  "duracao_seg": 10.11,
+  "idioma_detectado": "pt"
+}

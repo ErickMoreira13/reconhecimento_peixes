@@ -1,0 +1,42 @@
+{
+  "texto": "Pesca esportiva é assim A gente pega E depois solta Já pera de gravar? Peraí Trabalho que deu pra pegar esse peixe Eu vou comer ele fritinho com a cerveja",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 1.8,
+      "text": "Pesca esportiva é assim"
+    },
+    {
+      "start": 1.8,
+      "end": 3.38,
+      "text": "A gente pega"
+    },
+    {
+      "start": 3.38,
+      "end": 5.22,
+      "text": "E depois solta"
+    },
+    {
+      "start": 5.22,
+      "end": 7.31,
+      "text": "Já pera de gravar?"
+    },
+    {
+      "start": 7.81,
+      "end": 8.25,
+      "text": "Peraí"
+    },
+    {
+      "start": 8.25,
+      "end": 16.11,
+      "text": "Trabalho que deu pra pegar esse peixe"
+    },
+    {
+      "start": 16.11,
+      "end": 18.23,
+      "text": "Eu vou comer ele fritinho com a cerveja"
+    }
+  ],
+  "duracao_seg": 20.95,
+  "idioma_detectado": "pt"
+}

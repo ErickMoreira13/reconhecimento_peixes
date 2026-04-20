@@ -1,0 +1,42 @@
+{
+  "texto": "Vai subindo, Bira! Sobe mais! Caraca! Que isso, mano! Está vivo a gente! Puxa devagar! Bira, tem uma baleia na rede! Devolve para o mar! Segura aí!",
+  "segmentos": [
+    {
+      "start": 1.87,
+      "end": 3.87,
+      "text": "Vai subindo, Bira! Sobe mais!"
+    },
+    {
+      "start": 3.87,
+      "end": 6.29,
+      "text": "Caraca!"
+    },
+    {
+      "start": 6.29,
+      "end": 8.29,
+      "text": "Que isso, mano!"
+    },
+    {
+      "start": 8.29,
+      "end": 10.29,
+      "text": "Está vivo a gente!"
+    },
+    {
+      "start": 10.29,
+      "end": 12.29,
+      "text": "Puxa devagar!"
+    },
+    {
+      "start": 12.29,
+      "end": 14.29,
+      "text": "Bira, tem uma baleia na rede! Devolve para o mar!"
+    },
+    {
+      "start": 14.29,
+      "end": 16.29,
+      "text": "Segura aí!"
+    }
+  ],
+  "duracao_seg": 15.13,
+  "idioma_detectado": "pt"
+}

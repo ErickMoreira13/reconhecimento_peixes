@@ -1,0 +1,37 @@
+{
+  "texto": "ele está vindo a coisa mais linda do mundo que você quer ver a natureza de pantanal gatinho olá tudo bem como você vai em você vai bem não vem aqui perto aqui perto é que o velho aqui é nunca estive tão perto de uma onça nunca freder se liga esse barco vai roubar de novo liga-se tem que ser barco por favor é que se barco não é o ladrão coisa mais linda do mundo",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 9.65,
+      "text": "ele está vindo a coisa mais linda do mundo que você quer ver a natureza de"
+    },
+    {
+      "start": 9.65,
+      "end": 19.07,
+      "text": "pantanal gatinho olá tudo bem como você vai"
+    },
+    {
+      "start": 19.07,
+      "end": 38.66,
+      "text": "em você vai bem não vem aqui perto aqui perto é que o velho aqui é nunca estive tão"
+    },
+    {
+      "start": 38.66,
+      "end": 45.14,
+      "text": "perto de uma onça nunca freder se liga esse barco vai roubar de novo"
+    },
+    {
+      "start": 45.14,
+      "end": 52.25,
+      "text": "liga-se tem que ser barco por favor é que se barco não é o ladrão"
+    },
+    {
+      "start": 52.25,
+      "end": 59.65,
+      "text": "coisa mais linda do mundo"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

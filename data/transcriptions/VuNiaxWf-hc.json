@@ -1,0 +1,32 @@
+{
+  "texto": "O milho ia pra aqui, beleza? O objetivo aqui, ó, que eu preparei. O milho ia pra aqui, beleza? Essa daqui que vai para a Terela, rapaziada, ó. Essa daqui, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "O milho ia pra aqui, beleza?"
+    },
+    {
+      "start": 2.3,
+      "end": 10.21,
+      "text": "O objetivo aqui, ó, que eu preparei."
+    },
+    {
+      "start": 10.93,
+      "end": 12.65,
+      "text": "O milho ia pra aqui, beleza?"
+    },
+    {
+      "start": 13.29,
+      "end": 16.65,
+      "text": "Essa daqui que vai para a Terela, rapaziada, ó."
+    },
+    {
+      "start": 17.11,
+      "end": 19.35,
+      "text": "Essa daqui, ó."
+    }
+  ],
+  "duracao_seg": 23.69,
+  "idioma_detectado": "pt"
+}

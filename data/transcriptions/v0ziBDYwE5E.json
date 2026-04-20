@@ -1,0 +1,32 @@
+{
+  "texto": "galera olha só o que veio nessa linha daí olha aí galera meu Jesus olha só o tamanho desse peixe leão aí galera meu Jesus esse aqui galera esse aqui tá se alimentando do coral aqui viu que tá ficando crescida mas tem um negócio assim para ele agora aqui era aí os pernas e bairro galera peixe leão que não tem tamanho aí ela também desfecho muito venenoso esse peixe galera eu vou ter que ela aí vamos tirar ela agora galera",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 12.79,
+      "text": "galera olha só o que veio nessa linha daí olha aí galera meu Jesus olha só o tamanho desse peixe"
+    },
+    {
+      "start": 12.79,
+      "end": 22.69,
+      "text": "leão aí galera meu Jesus esse aqui galera esse aqui tá se alimentando do coral aqui viu que tá"
+    },
+    {
+      "start": 22.69,
+      "end": 41.13,
+      "text": "ficando crescida mas tem um negócio assim para ele agora aqui era aí os pernas e bairro galera peixe"
+    },
+    {
+      "start": 41.13,
+      "end": 58.71,
+      "text": "leão que não tem tamanho aí ela também desfecho muito venenoso esse peixe galera eu vou ter que"
+    },
+    {
+      "start": 58.71,
+      "end": 60.45,
+      "text": "ela aí vamos tirar ela agora galera"
+    }
+  ],
+  "duracao_seg": 62.91,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "E não vá tentar nesse mar E diz em qualquer pescador Com essa rede no mar Você vê, quero meu cantinho pra surfar E eu pescador, quero com essa rede no mar Você vê, mas pode não vá tentar nesse mar Faz tanto tempo E diz em qualquer meu cantinho pra surfar Eu quero meu cantinho pra surfar",
+  "segmentos": [
+    {
+      "start": 30.16,
+      "end": 32.46,
+      "text": "E não vá tentar nesse mar"
+    },
+    {
+      "start": 32.46,
+      "end": 53.72,
+      "text": "E diz em qualquer pescador"
+    },
+    {
+      "start": 53.72,
+      "end": 58.03,
+      "text": "Com essa rede no mar"
+    },
+    {
+      "start": 58.03,
+      "end": 63.92,
+      "text": "Você vê, quero meu cantinho pra surfar"
+    },
+    {
+      "start": 63.92,
+      "end": 68.98,
+      "text": "E eu pescador, quero com essa rede no mar"
+    },
+    {
+      "start": 69.97,
+      "end": 77.93,
+      "text": "Você vê, mas pode não vá tentar nesse mar"
+    },
+    {
+      "start": 77.93,
+      "end": 87.99,
+      "text": "Faz tanto tempo"
+    },
+    {
+      "start": 87.99,
+      "end": 109.16,
+      "text": "E diz em qualquer meu cantinho pra surfar"
+    },
+    {
+      "start": 109.16,
+      "end": 120.49,
+      "text": "Eu quero meu cantinho pra surfar"
+    }
+  ],
+  "duracao_seg": 197.25,
+  "idioma_detectado": "pt"
+}

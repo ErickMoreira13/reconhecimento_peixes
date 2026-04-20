@@ -1,0 +1,27 @@
+{
+  "texto": "Mais uma situação chata aconteceu aqui no meu lago, eu vi esse tambacu boiando aí na água Ele ainda tava vivo e eu percebi que ele apresentava muito fungo e alguns machucados no corpo E como eu crio outros tambas aqui no lago, esse infelizmente precisou ser sacrificado Para que não transmita essa doença para outros peixes que ainda estão saudáveis",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Mais uma situação chata aconteceu aqui no meu lago, eu vi esse tambacu boiando aí na água"
+    },
+    {
+      "start": 3.8,
+      "end": 7.78,
+      "text": "Ele ainda tava vivo e eu percebi que ele apresentava muito fungo e alguns machucados no corpo"
+    },
+    {
+      "start": 7.78,
+      "end": 11.66,
+      "text": "E como eu crio outros tambas aqui no lago, esse infelizmente precisou ser sacrificado"
+    },
+    {
+      "start": 11.66,
+      "end": 14.88,
+      "text": "Para que não transmita essa doença para outros peixes que ainda estão saudáveis"
+    }
+  ],
+  "duracao_seg": 15.55,
+  "idioma_detectado": "pt"
+}

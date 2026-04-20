@@ -1,0 +1,77 @@
+{
+  "texto": "Manda carô quando o fulorá na seca É um sinal que a chuva chega no sertão Toda menina que enjoa da boneca É sinal que o amor já chegou no coração Meia comprida, não quer mais tapato baixo Vestido bem sentado, não quer mais vestir de mão Ela só quer, só pensa em namorar Ela só quer, só pensa em namorar De manhã cedo já tá pintada Só vive suspirando, sonhando acordada O pai leva o doutor, a filha doentada Não come nem estuda, não dorme nem quer nada Ela só quer, só pensa em namorar Ela só quer",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "Manda carô quando o fulorá na seca"
+    },
+    {
+      "start": 2.86,
+      "end": 5.6,
+      "text": "É um sinal que a chuva chega no sertão"
+    },
+    {
+      "start": 5.6,
+      "end": 8.3,
+      "text": "Toda menina que enjoa da boneca"
+    },
+    {
+      "start": 8.3,
+      "end": 11.14,
+      "text": "É sinal que o amor já chegou no coração"
+    },
+    {
+      "start": 11.14,
+      "end": 14.02,
+      "text": "Meia comprida, não quer mais tapato baixo"
+    },
+    {
+      "start": 14.02,
+      "end": 16.74,
+      "text": "Vestido bem sentado, não quer mais vestir de mão"
+    },
+    {
+      "start": 16.74,
+      "end": 19.66,
+      "text": "Ela só quer, só pensa em namorar"
+    },
+    {
+      "start": 19.66,
+      "end": 22.54,
+      "text": "Ela só quer, só pensa em namorar"
+    },
+    {
+      "start": 22.54,
+      "end": 25.64,
+      "text": "De manhã cedo já tá pintada"
+    },
+    {
+      "start": 25.64,
+      "end": 28.36,
+      "text": "Só vive suspirando, sonhando acordada"
+    },
+    {
+      "start": 28.36,
+      "end": 31.38,
+      "text": "O pai leva o doutor, a filha doentada"
+    },
+    {
+      "start": 31.38,
+      "end": 34.1,
+      "text": "Não come nem estuda, não dorme nem quer nada"
+    },
+    {
+      "start": 34.1,
+      "end": 36.88,
+      "text": "Ela só quer, só pensa em namorar"
+    },
+    {
+      "start": 36.88,
+      "end": 38.32,
+      "text": "Ela só quer"
+    }
+  ],
+  "duracao_seg": 38.63,
+  "idioma_detectado": "pt"
+}

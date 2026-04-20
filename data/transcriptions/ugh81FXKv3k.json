@@ -1,0 +1,22 @@
+{
+  "texto": "Para o intério, me deu saudade, eu tô voltando para o intério E deu saudade do gado, saudades da minha flor Deus capital, eu vou lá pro sertão, pra Deus para...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 30.3,
+      "text": "Para o intério, me deu saudade, eu tô voltando para o intério"
+    },
+    {
+      "start": 30.3,
+      "end": 37.64,
+      "text": "E deu saudade do gado, saudades da minha flor"
+    },
+    {
+      "start": 37.64,
+      "end": 54.1,
+      "text": "Deus capital, eu vou lá pro sertão, pra Deus para..."
+    }
+  ],
+  "duracao_seg": 59.97,
+  "idioma_detectado": "pt"
+}
