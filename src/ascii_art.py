@@ -95,3 +95,40 @@ def marca_warn(texto: str) -> str:
 
 def marca_info(texto: str) -> str:
     return colore(f"[info] {texto}", CIANO_CLARO)
+
+
+# -------- arte de peixe em varios tamanhos --------
+
+PEIXE_PEQUENO = "><(((o>"
+PEIXE_MEDIO = "><((((((o>"
+PEIXE_GRANDE = "><((((((((((o>"
+
+# peixe pulando fora dagua, mais elaborado
+PEIXE_PULANDO = r"""
+     \
+      \_
+       \
+   _.-""  ""-._
+  /           \
+ |    .-.      \
+  \  (o_o)    _|
+   \   v    .-'
+    "'-____.'
+"""
+
+# anzol com isca
+ANZOL = r"""
+   |
+   |
+   |
+  _J
+  |
+  `-.__
+        \_
+          `.__
+              (o)
+"""
+
+
+def separador(char: str = "~", largura: int = 60, cor: str = CIANO) -> str:
+    return colore(char * largura, cor)
