@@ -23,6 +23,22 @@ def banner_harvester() -> str:
 """
 
 
+def banner_extrator() -> str:
+    return f"""
+{ONDAS_ALT}
+   extrator: gliner + qwen/llama
+{ONDAS_ALT}
+"""
+
+
+def banner_verificador() -> str:
+    return f"""
+{ONDAS_ALT}
+   verificador: regras + critic (llama 3.1)
+{ONDAS_ALT}
+"""
+
+
 def banner_gliner_labels() -> str:
     return f"""
 {LINHA}
