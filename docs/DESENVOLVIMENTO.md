@@ -143,6 +143,33 @@ roteiro:
    `MODEL_EXTRATOR=<novo>`
 5. atualizar `docs/benchmark-modelos-*.md`
 
+## controlar verbosidade via env
+
+o codigo usa `src/log.py` pra logs internos (progresso, erros). por default
+os logs sao silenciados (level=WARNING). ligue setando `PEIXES_LOG`:
+
+```bash
+PEIXES_LOG=info make extrair N=10
+PEIXES_LOG=debug make harvester-loop
+```
+
+valores aceitos: `debug`, `info`, `warn`, `error`.
+
+prints diretos no terminal (sem logger) continuam visiveis sempre —
+sao mensagens user-facing (banners, tabelas, resumos finais).
+
+## cores ANSI nos banners
+
+`src/ascii_art.py` usa cores ANSI (verde pra ok, amarelo pra warn,
+vermelho pra erro). se o terminal nao suporta ou voce quer output plain
+(ex: pra grepar em log file):
+
+```bash
+NO_COLOR=1 make queries
+```
+
+a convencao `NO_COLOR` eh padrao de facto pra desligar cores.
+
 ## pre-commit hooks
 
 instala os hooks uma vez:
