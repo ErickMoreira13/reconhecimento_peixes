@@ -24,8 +24,12 @@ except ImportError:
 
 from src.harvester import youtube as yt
 from src.harvester import saturacao
+from src.log import get_logger
 from src.storage import db as storage
 from src import ui_banners
+
+
+_log = get_logger()
 
 
 PAUSA_ENTRE_BUSCAS_S = 5  # respeitar api
@@ -55,7 +59,7 @@ def processa_query(query: str, db_path: Path | None = None) -> dict:
         resultados = yt.busca_videos(query, max_videos=BATCH_POR_QUERY)
     except Exception as e:
         # youtube as vezes rate-limita ou tem instabilidade, nao mata o loop
-        print(f"[loop] busca deu erro: {e}")
+        _log.warning("[loop] busca deu erro: %s", e)
         return {"resultados": [], "dedup_rate": 0.0, "novos": 0, "saturou": False, "motivo": None}
 
     ja = ids_ja_vistos(db_path)
