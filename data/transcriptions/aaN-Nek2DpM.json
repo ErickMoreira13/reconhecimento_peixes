@@ -1,0 +1,67 @@
+{
+  "texto": "Quanto é que tá a dúzia aí? 25 25 Postrinha, meu povo Ele abre na hora, fresca Tá todo naturalzinho, né? Cervejinha no ponto Que é o seguinte, ó Botou limão Vai aqui com sal e pimenta do rei Dá uma misturadinha Bom demais",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "Quanto é que tá a dúzia aí?"
+    },
+    {
+      "start": 1.14,
+      "end": 1.6,
+      "text": "25"
+    },
+    {
+      "start": 1.6,
+      "end": 2.04,
+      "text": "25"
+    },
+    {
+      "start": 2.04,
+      "end": 3.66,
+      "text": "Postrinha, meu povo"
+    },
+    {
+      "start": 3.66,
+      "end": 6.38,
+      "text": "Ele abre na hora, fresca"
+    },
+    {
+      "start": 6.38,
+      "end": 13.28,
+      "text": "Tá todo naturalzinho, né?"
+    },
+    {
+      "start": 14.16,
+      "end": 15.84,
+      "text": "Cervejinha no ponto"
+    },
+    {
+      "start": 15.84,
+      "end": 17.24,
+      "text": "Que é o seguinte, ó"
+    },
+    {
+      "start": 17.24,
+      "end": 18.04,
+      "text": "Botou limão"
+    },
+    {
+      "start": 18.04,
+      "end": 20.2,
+      "text": "Vai aqui com sal e pimenta do rei"
+    },
+    {
+      "start": 20.2,
+      "end": 24.29,
+      "text": "Dá uma misturadinha"
+    },
+    {
+      "start": 24.29,
+      "end": 28.12,
+      "text": "Bom demais"
+    }
+  ],
+  "duracao_seg": 28.27,
+  "idioma_detectado": "pt"
+}

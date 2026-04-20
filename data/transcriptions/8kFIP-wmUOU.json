@@ -1,0 +1,27 @@
+{
+  "texto": "eu sei da outra aqui na minha frente galera trairão ali ó trairão ali eu não vi ai ai escapou ai bicho doido a câmera desarrumou aqui galera para um pouquinho agora estamos na fita de novo trairão passando meu pé e eu não vi a mostrão",
+  "segmentos": [
+    {
+      "start": 2.48,
+      "end": 8.26,
+      "text": "eu sei da outra aqui na minha frente galera trairão ali ó"
+    },
+    {
+      "start": 8.26,
+      "end": 35.66,
+      "text": "trairão ali eu não vi ai ai escapou ai bicho doido a câmera desarrumou aqui"
+    },
+    {
+      "start": 35.66,
+      "end": 43.42,
+      "text": "galera para um pouquinho agora estamos na fita de novo trairão passando meu pé e eu"
+    },
+    {
+      "start": 43.42,
+      "end": 48.18,
+      "text": "não vi a mostrão"
+    }
+  ],
+  "duracao_seg": 56.09,
+  "idioma_detectado": "pt"
+}

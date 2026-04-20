@@ -1,0 +1,182 @@
+{
+  "texto": "Valeu. Meu Deus do céu, o que é isso, gente? Cara, é dum... Meu Deus do céu. Vou começar a gravar. Você tá doido, galera. Eu vou arremessar lá de novo. E agora vai sair, ó. Fica ligado. Ó, montou. Aí, galera. Você tá doido. Ei, querido, ó, velho. Aqui tem peixe, meu parceiro. Aqui é dois arremessos, dois peixes. Tem ação o tempo todo. Tamo na temporada das grandes traironas aqui, ó. No São Francisco. É só chegar e vir ver as bichas. Olha só o tamanho dessa molecona aqui. Bora aqui, galera. Se liga nessa nave aqui. Ah, papai, eu vim atrás de você hoje, negona. Vem cá, não vamos espantar as outras ali não, que tem mais. Você tá doido? Aí sim, cara. Muito obrigado, papai do céu. Você tá doido? Olha o tamanho dessa bicha. Isso. Briga. Bora, bora. Tá bem pego, hein? Tá bem pego, hein? Tá bem pego, hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "text": "Valeu."
+    },
+    {
+      "start": 1.02,
+      "end": 3.16,
+      "text": "Meu Deus do céu, o que é isso, gente?"
+    },
+    {
+      "start": 3.58,
+      "end": 4.64,
+      "text": "Cara, é dum..."
+    },
+    {
+      "start": 4.64,
+      "end": 6.36,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 7.24,
+      "end": 8.28,
+      "text": "Vou começar a gravar."
+    },
+    {
+      "start": 8.86,
+      "end": 10.28,
+      "text": "Você tá doido, galera."
+    },
+    {
+      "start": 10.74,
+      "end": 11.96,
+      "text": "Eu vou arremessar lá de novo."
+    },
+    {
+      "start": 12.62,
+      "end": 13.76,
+      "text": "E agora vai sair, ó."
+    },
+    {
+      "start": 13.96,
+      "end": 14.74,
+      "text": "Fica ligado."
+    },
+    {
+      "start": 15.14,
+      "end": 16.24,
+      "text": "Ó, montou."
+    },
+    {
+      "start": 16.74,
+      "end": 17.9,
+      "text": "Aí, galera."
+    },
+    {
+      "start": 18.52,
+      "end": 19.72,
+      "text": "Você tá doido."
+    },
+    {
+      "start": 20.46,
+      "end": 21.98,
+      "text": "Ei, querido, ó, velho."
+    },
+    {
+      "start": 22.06,
+      "end": 23.7,
+      "text": "Aqui tem peixe, meu parceiro."
+    },
+    {
+      "start": 23.7,
+      "end": 25.68,
+      "text": "Aqui é dois arremessos, dois peixes."
+    },
+    {
+      "start": 26.2,
+      "end": 28.36,
+      "text": "Tem ação o tempo todo."
+    },
+    {
+      "start": 28.36,
+      "end": 31.18,
+      "text": "Tamo na temporada das grandes traironas aqui, ó."
+    },
+    {
+      "start": 31.44,
+      "end": 32.48,
+      "text": "No São Francisco."
+    },
+    {
+      "start": 32.9,
+      "end": 35.66,
+      "text": "É só chegar e vir ver as bichas."
+    },
+    {
+      "start": 35.72,
+      "end": 37.34,
+      "text": "Olha só o tamanho dessa molecona aqui."
+    },
+    {
+      "start": 37.94,
+      "end": 38.58,
+      "text": "Bora aqui, galera."
+    },
+    {
+      "start": 39.16,
+      "end": 41.34,
+      "text": "Se liga nessa nave aqui."
+    },
+    {
+      "start": 42.0,
+      "end": 45.56,
+      "text": "Ah, papai, eu vim atrás de você hoje, negona."
+    },
+    {
+      "start": 46.12,
+      "end": 48.54,
+      "text": "Vem cá, não vamos espantar as outras ali não, que tem mais."
+    },
+    {
+      "start": 49.45,
+      "end": 50.47,
+      "text": "Você tá doido?"
+    },
+    {
+      "start": 50.85,
+      "end": 52.15,
+      "text": "Aí sim, cara."
+    },
+    {
+      "start": 52.23,
+      "end": 53.83,
+      "text": "Muito obrigado, papai do céu."
+    },
+    {
+      "start": 54.74,
+      "end": 55.6,
+      "text": "Você tá doido?"
+    },
+    {
+      "start": 55.64,
+      "end": 56.72,
+      "text": "Olha o tamanho dessa bicha."
+    },
+    {
+      "start": 57.62,
+      "end": 58.1,
+      "text": "Isso."
+    },
+    {
+      "start": 58.1,
+      "end": 58.86,
+      "text": "Briga."
+    },
+    {
+      "start": 59.56,
+      "end": 60.28,
+      "text": "Bora, bora."
+    },
+    {
+      "start": 60.99,
+      "end": 62.09,
+      "text": "Tá bem pego, hein?"
+    },
+    {
+      "start": 62.09,
+      "end": 62.39,
+      "text": "Tá bem pego, hein?"
+    },
+    {
+      "start": 62.39,
+      "end": 62.41,
+      "text": "Tá bem pego, hein?"
+    }
+  ],
+  "duracao_seg": 62.43,
+  "idioma_detectado": "pt"
+}

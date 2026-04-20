@@ -1,0 +1,37 @@
+{
+  "texto": "Agora vai sair o peixe Parece que é muito grande o peixe Parece ser muito grande o peixe Trabalha Agora você tem que recolher Olha que pena",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 3.42,
+      "text": "Agora vai sair o peixe"
+    },
+    {
+      "start": 3.42,
+      "end": 6.16,
+      "text": "Parece que é muito grande o peixe"
+    },
+    {
+      "start": 6.16,
+      "end": 15.14,
+      "text": "Parece ser muito grande o peixe"
+    },
+    {
+      "start": 15.14,
+      "end": 24.18,
+      "text": "Trabalha"
+    },
+    {
+      "start": 24.18,
+      "end": 29.61,
+      "text": "Agora você tem que recolher"
+    },
+    {
+      "start": 29.61,
+      "end": 44.94,
+      "text": "Olha que pena"
+    }
+  ],
+  "duracao_seg": 51.07,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Puto cheiroso, marrento e posturado Vários invejosos querem atrasar o meu lado Sei que é só questão de tempo pra me ficar",
+  "segmentos": [
+    {
+      "start": 6.0,
+      "end": 8.3,
+      "text": "Puto cheiroso, marrento e posturado"
+    },
+    {
+      "start": 8.3,
+      "end": 10.96,
+      "text": "Vários invejosos querem atrasar o meu lado"
+    },
+    {
+      "start": 10.96,
+      "end": 12.82,
+      "text": "Sei que é só questão de tempo pra me ficar"
+    }
+  ],
+  "duracao_seg": 12.83,
+  "idioma_detectado": "pt"
+}

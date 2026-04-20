@@ -1,0 +1,32 @@
+{
+  "texto": "Aí, olha assim. Pra trás, pra trás. Ele tá bem ferrado não, né? Segura, segura. Aê, moleque.",
+  "segmentos": [
+    {
+      "start": 38.38,
+      "end": 39.34,
+      "text": "Aí, olha assim."
+    },
+    {
+      "start": 52.38,
+      "end": 53.38,
+      "text": "Pra trás, pra trás."
+    },
+    {
+      "start": 66.44,
+      "end": 67.6,
+      "text": "Ele tá bem ferrado não, né?"
+    },
+    {
+      "start": 68.52,
+      "end": 69.26,
+      "text": "Segura, segura."
+    },
+    {
+      "start": 72.68,
+      "end": 73.96,
+      "text": "Aê, moleque."
+    }
+  ],
+  "duracao_seg": 82.73,
+  "idioma_detectado": "pt"
+}

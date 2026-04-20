@@ -1,0 +1,47 @@
+{
+  "texto": "Mostrando aqui a piranha que ele pescou aqui, ó. Uma técnica tradicional, né, tio? Meu nome é Dito Marco, Benedito Marco, Dito Marco, Benedito. Essa técnica é antiga, né? Mostra aí pro Brasil e pro mundo. Aqui pra você saber que no Rio de Janeiro tem piranha, tá coberto de piranha. Peixe. É isso aí.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "Mostrando aqui a piranha que ele pescou aqui, ó."
+    },
+    {
+      "start": 2.76,
+      "end": 4.52,
+      "text": "Uma técnica tradicional, né, tio?"
+    },
+    {
+      "start": 4.6,
+      "end": 8.48,
+      "text": "Meu nome é Dito Marco, Benedito Marco, Dito Marco, Benedito."
+    },
+    {
+      "start": 8.52,
+      "end": 9.92,
+      "text": "Essa técnica é antiga, né?"
+    },
+    {
+      "start": 10.2,
+      "end": 12.54,
+      "text": "Mostra aí pro Brasil e pro mundo."
+    },
+    {
+      "start": 13.06,
+      "end": 16.02,
+      "text": "Aqui pra você saber que no Rio de Janeiro tem piranha, tá coberto de piranha."
+    },
+    {
+      "start": 16.36,
+      "end": 16.8,
+      "text": "Peixe."
+    },
+    {
+      "start": 17.5,
+      "end": 17.98,
+      "text": "É isso aí."
+    }
+  ],
+  "duracao_seg": 18.01,
+  "idioma_detectado": "pt"
+}

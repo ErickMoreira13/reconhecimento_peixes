@@ -1,0 +1,27 @@
+{
+  "texto": "O cara com uma rede desse tamanho vai acabar com os peixes do rio, pô. Uma passada só. Aí, tá aguentando nem levantar? Olha lá.",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 4.01,
+      "text": "O cara com uma rede desse tamanho vai acabar com os peixes do rio, pô."
+    },
+    {
+      "start": 4.39,
+      "end": 5.27,
+      "text": "Uma passada só."
+    },
+    {
+      "start": 5.63,
+      "end": 7.11,
+      "text": "Aí, tá aguentando nem levantar?"
+    },
+    {
+      "start": 8.66,
+      "end": 8.98,
+      "text": "Olha lá."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

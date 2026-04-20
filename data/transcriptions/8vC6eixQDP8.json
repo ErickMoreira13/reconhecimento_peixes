@@ -1,0 +1,27 @@
+{
+  "texto": "Vai! Filmou? Como é que não vai? Capricha Duarte!",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 2.11,
+      "text": "Vai!"
+    },
+    {
+      "start": 2.11,
+      "end": 9.52,
+      "text": "Filmou?"
+    },
+    {
+      "start": 9.52,
+      "end": 28.26,
+      "text": "Como é que não vai?"
+    },
+    {
+      "start": 28.26,
+      "end": 30.26,
+      "text": "Capricha Duarte!"
+    }
+  ],
+  "duracao_seg": 43.39,
+  "idioma_detectado": "pt"
+}

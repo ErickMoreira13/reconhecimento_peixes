@@ -1,0 +1,22 @@
+{
+  "texto": "e a própria tanga da mãe olha aqui ó o tamanho de pacu o tamanho o tanto de pacu velho olha o tanto olha o tanto olha o tanto da vida olha o tanto olha o tanto galera vem cá corre galera corre galera o tanto de pacu olha aqui ó olha aqui da vida você viu galera eu falo que você não acredita",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.54,
+      "text": "e a própria tanga da mãe olha aqui ó o tamanho de pacu o tamanho o tanto de pacu velho olha o"
+    },
+    {
+      "start": 6.54,
+      "end": 11.76,
+      "text": "tanto olha o tanto olha o tanto da vida olha o tanto olha o tanto galera vem cá corre galera"
+    },
+    {
+      "start": 11.76,
+      "end": 23.94,
+      "text": "corre galera o tanto de pacu olha aqui ó olha aqui da vida você viu galera eu falo que você não acredita"
+    }
+  ],
+  "duracao_seg": 24.51,
+  "idioma_detectado": "pt"
+}

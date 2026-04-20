@@ -1,0 +1,92 @@
+{
+  "texto": "Milho processado, é bom pra tá pescando antilápia e carpa? Bom, não é recomendado, mas hoje eu vou ensinar você a como preparar esse milho pra ele ficar bom. Vamos pegar uma vasilhinha aí, pessoal, também conhecida como pote. Vamos jogar esse milho aqui. Pessoal, veio o negócio treinando o milho. Ó, ao vivo, pra vocês verem que eu não tô mentindo. O que que é isso aqui, pessoal? Pessoal, olha o que que veio no meio do milho da Fujini aqui, ó. Vou processar. Pessoal, o milho vai ficar assim, ó. Tá? A própria água do milho a gente vai usar, tá bom? Vamos estar adicionando aqui, pessoal, umas três colheres de açúcar, tá? Uma, duas, três colheres. Vamos mexer bem essa mistura aqui, tá? Agora a gente vai deixar essa mistura azedar por um ou dois dias, tá bom? Então faça um ou dois dias antes da sua pescaria, tá? E esse milho aqui vai tá pronto pra você utilizar, tá pescando antilápia.",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 3.42,
+      "text": "Milho processado, é bom pra tá pescando antilápia e carpa?"
+    },
+    {
+      "start": 3.72,
+      "end": 8.5,
+      "text": "Bom, não é recomendado, mas hoje eu vou ensinar você a como preparar esse milho pra ele ficar bom."
+    },
+    {
+      "start": 8.6,
+      "end": 11.86,
+      "text": "Vamos pegar uma vasilhinha aí, pessoal, também conhecida como pote."
+    },
+    {
+      "start": 12.48,
+      "end": 13.6,
+      "text": "Vamos jogar esse milho aqui."
+    },
+    {
+      "start": 16.76,
+      "end": 18.18,
+      "text": "Pessoal, veio o negócio treinando o milho."
+    },
+    {
+      "start": 18.58,
+      "end": 21.04,
+      "text": "Ó, ao vivo, pra vocês verem que eu não tô mentindo."
+    },
+    {
+      "start": 23.58,
+      "end": 24.36,
+      "text": "O que que é isso aqui, pessoal?"
+    },
+    {
+      "start": 24.76,
+      "end": 27.38,
+      "text": "Pessoal, olha o que que veio no meio do milho da Fujini aqui, ó."
+    },
+    {
+      "start": 28.4,
+      "end": 29.24,
+      "text": "Vou processar."
+    },
+    {
+      "start": 29.42,
+      "end": 30.84,
+      "text": "Pessoal, o milho vai ficar assim, ó."
+    },
+    {
+      "start": 31.36,
+      "end": 33.68,
+      "text": "Tá? A própria água do milho a gente vai usar, tá bom?"
+    },
+    {
+      "start": 33.68,
+      "end": 36.94,
+      "text": "Vamos estar adicionando aqui, pessoal, umas três colheres de açúcar, tá?"
+    },
+    {
+      "start": 37.72,
+      "end": 42.1,
+      "text": "Uma, duas, três colheres."
+    },
+    {
+      "start": 42.56,
+      "end": 47.08,
+      "text": "Vamos mexer bem essa mistura aqui, tá?"
+    },
+    {
+      "start": 50.06,
+      "end": 53.5,
+      "text": "Agora a gente vai deixar essa mistura azedar por um ou dois dias, tá bom?"
+    },
+    {
+      "start": 53.54,
+      "end": 56.56,
+      "text": "Então faça um ou dois dias antes da sua pescaria, tá?"
+    },
+    {
+      "start": 56.78,
+      "end": 60.02,
+      "text": "E esse milho aqui vai tá pronto pra você utilizar, tá pescando antilápia."
+    }
+  ],
+  "duracao_seg": 60.07,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Olha o anzolzinho. Olha. Ai, ai.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Olha o anzolzinho."
+    },
+    {
+      "start": 2.14,
+      "end": 2.32,
+      "text": "Olha."
+    },
+    {
+      "start": 5.56,
+      "end": 6.26,
+      "text": "Ai, ai."
+    }
+  ],
+  "duracao_seg": 6.33,
+  "idioma_detectado": "pt"
+}

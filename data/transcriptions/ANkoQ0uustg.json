@@ -1,0 +1,22 @@
+{
+  "texto": "Vai pescar traíra? É dessa forma que você deve iscar o lambari para manter ele vivo na sua pescaria. Passe o anzol de cima para baixo na ponta do nariz, passando pela boca do lambari e seja feliz na sua pescaria. Me siga para mais dicas.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "Vai pescar traíra? É dessa forma que você deve iscar o lambari para manter ele vivo na sua pescaria."
+    },
+    {
+      "start": 4.26,
+      "end": 11.06,
+      "text": "Passe o anzol de cima para baixo na ponta do nariz, passando pela boca do lambari e seja feliz na sua pescaria."
+    },
+    {
+      "start": 11.16,
+      "end": 11.94,
+      "text": "Me siga para mais dicas."
+    }
+  ],
+  "duracao_seg": 11.95,
+  "idioma_detectado": "pt"
+}

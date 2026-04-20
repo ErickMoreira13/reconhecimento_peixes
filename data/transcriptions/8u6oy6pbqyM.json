@@ -1,0 +1,372 @@
+{
+  "texto": "Quase um quilo, hein? Aí, galera, ó, viemos no rochedo aqui hoje Nós chegamos aqui, eram as quatro horas da tarde Pouca horinha de pesca Já são uns peixinhos bons aí, ó Pra vocês verem, ó O Gabriel tirou o dedo aí, desenhado Gredinho, pegou o dedo Nós estamos aqui, ó Amatona aí, fechada aí pra cima Riozão, a água tá bem escura, viu, gente? Pra vocês verem como é que tá a água ali, ó Uns pescadores ali pescando Um rapaz ali, ó Que é o rochedão, galera A ponte lá pra cima pra vocês verem, ó Pessoal lá naquele meizinho, ó Pra vocês verem lá, ó Aqui pra quem não conhece, é a usina hidrelétrica Do rochedo Goiás Ele tá saindo uns peixinhos aí, galera O povo tá pegando Enquanto não escurece, nós vamos ver se pegamos os peixinhos Ainda vai mostrar pra vocês Ué, achei que era dois, ó Achei que era dois de uma vez, rapaz Ó o rei dos mandias aí, ó Seu creito, ó Agora é comé aqui, ó Bora, Belfi Você não vai pescar, não? Tenta, mais uma tentativa Não pode existir, não O próximo Olha lá, moçada O Gredinho pegou um lá, ó Vamos ver o que ele tá tirando lá Cuidado, bambia não Olha lá, ó O Gredinho pegou o mandizão dele, ó Bom, hein? Aô, lepo, ó Olha lá, galera Quase um quilo, ó Quase um quilo, hein? Aí, galera Ó, a água suja Só os mandizão tá saindo aqui, ó Vamos pro próximo Galera, meu pai pegou um peixe aqui, ó Não é sem pressão, não Tá dentro da bolsona Sério? Bico de pato O que que eu li caixa aqui, ó? Isso aqui grande, hein? Grande, viu? Isso aqui, né? Não posso passar a guarda pra mim Ele é bruto, né? Ele é pro ferrão Caravão, bichão Olha aí Isso aqui dá um morro, viu? Não, isso aqui já tá mal pra mim Olha aí, moçada Olha o tamanho do bichão aqui, ó Bico de pato É bico de pato, né? Tá doido, menino Olha aí, mostra o ovo, velho A selo, velho Rapaz, bruto, hein?",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 11.14,
+      "text": "Quase um quilo, hein?"
+    },
+    {
+      "start": 16.0,
+      "end": 18.18,
+      "text": "Aí, galera, ó, viemos no rochedo aqui hoje"
+    },
+    {
+      "start": 18.18,
+      "end": 22.1,
+      "text": "Nós chegamos aqui, eram as quatro horas da tarde"
+    },
+    {
+      "start": 22.1,
+      "end": 24.87,
+      "text": "Pouca horinha de pesca"
+    },
+    {
+      "start": 24.87,
+      "end": 26.47,
+      "text": "Já são uns peixinhos bons aí, ó"
+    },
+    {
+      "start": 26.47,
+      "end": 28.95,
+      "text": "Pra vocês verem, ó"
+    },
+    {
+      "start": 28.95,
+      "end": 32.94,
+      "text": "O Gabriel tirou o dedo aí, desenhado"
+    },
+    {
+      "start": 32.94,
+      "end": 35.16,
+      "text": "Gredinho, pegou o dedo"
+    },
+    {
+      "start": 35.16,
+      "end": 37.7,
+      "text": "Nós estamos aqui, ó"
+    },
+    {
+      "start": 37.7,
+      "end": 41.1,
+      "text": "Amatona aí, fechada aí pra cima"
+    },
+    {
+      "start": 41.1,
+      "end": 44.1,
+      "text": "Riozão, a água tá bem escura, viu, gente?"
+    },
+    {
+      "start": 45.41,
+      "end": 46.99,
+      "text": "Pra vocês verem como é que tá a água ali, ó"
+    },
+    {
+      "start": 46.99,
+      "end": 50.1,
+      "text": "Uns pescadores ali pescando"
+    },
+    {
+      "start": 50.1,
+      "end": 52.44,
+      "text": "Um rapaz ali, ó"
+    },
+    {
+      "start": 52.44,
+      "end": 54.84,
+      "text": "Que é o rochedão, galera"
+    },
+    {
+      "start": 54.84,
+      "end": 56.76,
+      "text": "A ponte lá pra cima pra vocês verem, ó"
+    },
+    {
+      "start": 56.76,
+      "end": 61.9,
+      "text": "Pessoal lá naquele meizinho, ó"
+    },
+    {
+      "start": 61.9,
+      "end": 62.96,
+      "text": "Pra vocês verem lá, ó"
+    },
+    {
+      "start": 62.96,
+      "end": 66.74,
+      "text": "Aqui pra quem não conhece, é a usina hidrelétrica"
+    },
+    {
+      "start": 66.74,
+      "end": 68.02,
+      "text": "Do rochedo Goiás"
+    },
+    {
+      "start": 68.02,
+      "end": 71.44,
+      "text": "Ele tá saindo uns peixinhos aí, galera"
+    },
+    {
+      "start": 71.44,
+      "end": 72.54,
+      "text": "O povo tá pegando"
+    },
+    {
+      "start": 72.54,
+      "end": 78.31,
+      "text": "Enquanto não escurece, nós vamos ver se pegamos os peixinhos"
+    },
+    {
+      "start": 78.31,
+      "end": 79.17,
+      "text": "Ainda vai mostrar pra vocês"
+    },
+    {
+      "start": 79.17,
+      "end": 86.11,
+      "text": "Ué, achei que era dois, ó"
+    },
+    {
+      "start": 86.11,
+      "end": 92.42,
+      "text": "Achei que era dois de uma vez, rapaz"
+    },
+    {
+      "start": 92.42,
+      "end": 96.44,
+      "text": "Ó o rei dos mandias aí, ó"
+    },
+    {
+      "start": 96.44,
+      "end": 100.49,
+      "text": "Seu creito, ó"
+    },
+    {
+      "start": 100.49,
+      "end": 103.6,
+      "text": "Agora é comé aqui, ó"
+    },
+    {
+      "start": 103.6,
+      "end": 109.4,
+      "text": "Bora, Belfi"
+    },
+    {
+      "start": 109.4,
+      "end": 111.36,
+      "text": "Você não vai pescar, não?"
+    },
+    {
+      "start": 111.82,
+      "end": 114.18,
+      "text": "Tenta, mais uma tentativa"
+    },
+    {
+      "start": 114.18,
+      "end": 115.98,
+      "text": "Não pode existir, não"
+    },
+    {
+      "start": 115.98,
+      "end": 119.92,
+      "text": "O próximo"
+    },
+    {
+      "start": 119.92,
+      "end": 122.41,
+      "text": "Olha lá, moçada"
+    },
+    {
+      "start": 122.41,
+      "end": 123.95,
+      "text": "O Gredinho pegou um lá, ó"
+    },
+    {
+      "start": 123.95,
+      "end": 128.7,
+      "text": "Vamos ver o que ele tá tirando lá"
+    },
+    {
+      "start": 128.7,
+      "end": 133.68,
+      "text": "Cuidado, bambia não"
+    },
+    {
+      "start": 133.68,
+      "end": 144.62,
+      "text": "Olha lá, ó"
+    },
+    {
+      "start": 144.62,
+      "end": 146.42,
+      "text": "O Gredinho pegou o mandizão dele, ó"
+    },
+    {
+      "start": 146.42,
+      "end": 151.49,
+      "text": "Bom, hein?"
+    },
+    {
+      "start": 152.64,
+      "end": 153.98,
+      "text": "Aô, lepo, ó"
+    },
+    {
+      "start": 153.98,
+      "end": 155.9,
+      "text": "Olha lá, galera"
+    },
+    {
+      "start": 155.9,
+      "end": 157.95,
+      "text": "Quase um quilo, ó"
+    },
+    {
+      "start": 157.95,
+      "end": 158.67,
+      "text": "Quase um quilo, hein?"
+    },
+    {
+      "start": 162.05,
+      "end": 162.51,
+      "text": "Aí, galera"
+    },
+    {
+      "start": 162.51,
+      "end": 163.37,
+      "text": "Ó, a água suja"
+    },
+    {
+      "start": 163.37,
+      "end": 165.19,
+      "text": "Só os mandizão tá saindo aqui, ó"
+    },
+    {
+      "start": 165.19,
+      "end": 169.09,
+      "text": "Vamos pro próximo"
+    },
+    {
+      "start": 169.09,
+      "end": 173.3,
+      "text": "Galera, meu pai pegou um peixe aqui, ó"
+    },
+    {
+      "start": 173.3,
+      "end": 181.18,
+      "text": "Não é sem pressão, não"
+    },
+    {
+      "start": 181.18,
+      "end": 183.24,
+      "text": "Tá dentro da bolsona"
+    },
+    {
+      "start": 183.24,
+      "end": 189.89,
+      "text": "Sério?"
+    },
+    {
+      "start": 193.1,
+      "end": 193.88,
+      "text": "Bico de pato"
+    },
+    {
+      "start": 193.88,
+      "end": 208.33,
+      "text": "O que que eu li caixa aqui, ó?"
+    },
+    {
+      "start": 208.79,
+      "end": 214.08,
+      "text": "Isso aqui grande, hein?"
+    },
+    {
+      "start": 224.66,
+      "end": 225.2,
+      "text": "Grande, viu?"
+    },
+    {
+      "start": 225.74,
+      "end": 227.3,
+      "text": "Isso aqui, né?"
+    },
+    {
+      "start": 227.3,
+      "end": 228.74,
+      "text": "Não posso passar a guarda pra mim"
+    },
+    {
+      "start": 228.74,
+      "end": 260.95,
+      "text": "Ele é bruto, né?"
+    },
+    {
+      "start": 263.97,
+      "end": 264.65,
+      "text": "Ele é pro ferrão"
+    },
+    {
+      "start": 264.65,
+      "end": 267.39,
+      "text": "Caravão, bichão"
+    },
+    {
+      "start": 267.39,
+      "end": 269.39,
+      "text": "Olha aí"
+    },
+    {
+      "start": 269.39,
+      "end": 272.46,
+      "text": "Isso aqui dá um morro, viu?"
+    },
+    {
+      "start": 272.94,
+      "end": 274.42,
+      "text": "Não, isso aqui já tá mal pra mim"
+    },
+    {
+      "start": 274.42,
+      "end": 279.45,
+      "text": "Olha aí, moçada"
+    },
+    {
+      "start": 279.45,
+      "end": 281.39,
+      "text": "Olha o tamanho do bichão aqui, ó"
+    },
+    {
+      "start": 281.39,
+      "end": 283.43,
+      "text": "Bico de pato"
+    },
+    {
+      "start": 283.43,
+      "end": 284.65,
+      "text": "É bico de pato, né?"
+    },
+    {
+      "start": 285.74,
+      "end": 287.8,
+      "text": "Tá doido, menino"
+    },
+    {
+      "start": 287.8,
+      "end": 290.29,
+      "text": "Olha aí, mostra o ovo, velho"
+    },
+    {
+      "start": 290.29,
+      "end": 292.77,
+      "text": "A selo, velho"
+    },
+    {
+      "start": 292.77,
+      "end": 298.2,
+      "text": "Rapaz, bruto, hein?"
+    }
+  ],
+  "duracao_seg": 298.83,
+  "idioma_detectado": "pt"
+}

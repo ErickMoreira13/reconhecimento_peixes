@@ -1,0 +1,22 @@
+{
+  "texto": "Aí galera da Matuto, cachorra na Bomberzona, viu uma cachoeira lá? Aqui é Rio Aripuanã, pautada na Piraçu, gigante, bom tamanho. Valeu!",
+  "segmentos": [
+    {
+      "start": 2.0,
+      "end": 8.03,
+      "text": "Aí galera da Matuto, cachorra na Bomberzona, viu uma cachoeira lá?"
+    },
+    {
+      "start": 8.03,
+      "end": 15.66,
+      "text": "Aqui é Rio Aripuanã, pautada na Piraçu, gigante, bom tamanho."
+    },
+    {
+      "start": 15.66,
+      "end": 16.66,
+      "text": "Valeu!"
+    }
+  ],
+  "duracao_seg": 17.33,
+  "idioma_detectado": "pt"
+}

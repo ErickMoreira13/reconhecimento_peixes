@@ -1,0 +1,32 @@
+{
+  "texto": "Vem pega, ó. Olha a zora. Vem pega, ó. Aham. Vá bem do lado dos vecinhos.",
+  "segmentos": [
+    {
+      "start": 2.16,
+      "end": 3.16,
+      "text": "Vem pega, ó."
+    },
+    {
+      "start": 3.16,
+      "end": 4.16,
+      "text": "Olha a zora."
+    },
+    {
+      "start": 8.34,
+      "end": 9.34,
+      "text": "Vem pega, ó."
+    },
+    {
+      "start": 9.34,
+      "end": 10.34,
+      "text": "Aham."
+    },
+    {
+      "start": 10.34,
+      "end": 12.34,
+      "text": "Vá bem do lado dos vecinhos."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Tá nervoso? Vai pescar, fica frio, não há de esquentar Tá nervoso? Vai pescar, cabeça fria, bota as coisas no lugar Dinheiro pouco e tanta coisa pra pagar Desempregado, doidinho pra...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.18,
+      "text": "Tá nervoso? Vai pescar, fica frio, não há de esquentar"
+    },
+    {
+      "start": 7.18,
+      "end": 15.58,
+      "text": "Tá nervoso? Vai pescar, cabeça fria, bota as coisas no lugar"
+    },
+    {
+      "start": 15.58,
+      "end": 19.69,
+      "text": "Dinheiro pouco e tanta coisa pra pagar"
+    },
+    {
+      "start": 19.69,
+      "end": 23.1,
+      "text": "Desempregado, doidinho pra..."
+    }
+  ],
+  "duracao_seg": 23.09,
+  "idioma_detectado": "pt"
+}

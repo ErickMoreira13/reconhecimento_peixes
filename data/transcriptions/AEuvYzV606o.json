@@ -1,0 +1,72 @@
+{
+  "texto": "Ó, turma tá aqui fazendo a massinha, vai lá, explica pra nós aí, senhor Como que é aqui? Um copo de trigo sem fermento, tá meio copo de fubá Ih, tem um segredo aí, é o que? O suco? O suco Suco, olha lá, o bolinho O sabor é que sabe Mas qual sabor que o peixe gosta? Maracujá, goiaba É? Vai ter um que eles gostam mais ou não? Não O peixe tá ficando mesmo, eu corta de meio hoje",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.88,
+      "text": "Ó, turma tá aqui fazendo a massinha, vai lá, explica pra nós aí, senhor"
+    },
+    {
+      "start": 3.88,
+      "end": 5.66,
+      "text": "Como que é aqui?"
+    },
+    {
+      "start": 6.88,
+      "end": 11.02,
+      "text": "Um copo de trigo sem fermento, tá meio copo de fubá"
+    },
+    {
+      "start": 11.02,
+      "end": 13.58,
+      "text": "Ih, tem um segredo aí, é o que?"
+    },
+    {
+      "start": 13.98,
+      "end": 14.56,
+      "text": "O suco?"
+    },
+    {
+      "start": 14.7,
+      "end": 15.36,
+      "text": "O suco"
+    },
+    {
+      "start": 15.36,
+      "end": 17.26,
+      "text": "Suco, olha lá, o bolinho"
+    },
+    {
+      "start": 17.26,
+      "end": 18.48,
+      "text": "O sabor é que sabe"
+    },
+    {
+      "start": 18.48,
+      "end": 20.7,
+      "text": "Mas qual sabor que o peixe gosta?"
+    },
+    {
+      "start": 21.12,
+      "end": 23.06,
+      "text": "Maracujá, goiaba"
+    },
+    {
+      "start": 23.06,
+      "end": 25.54,
+      "text": "É? Vai ter um que eles gostam mais ou não?"
+    },
+    {
+      "start": 26.1,
+      "end": 26.36,
+      "text": "Não"
+    },
+    {
+      "start": 26.36,
+      "end": 29.26,
+      "text": "O peixe tá ficando mesmo, eu corta de meio hoje"
+    }
+  ],
+  "duracao_seg": 29.75,
+  "idioma_detectado": "pt"
+}

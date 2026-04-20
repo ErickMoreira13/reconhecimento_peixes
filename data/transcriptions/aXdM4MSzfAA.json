@@ -1,0 +1,22 @@
+{
+  "texto": "Vou lhe apresentar a melhor isca que tem para pescar ração de coelho. Essa isca aqui é infalível. Você joga ela na água e daqui a pouco gruda um peixe.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 7.02,
+      "text": "Vou lhe apresentar a melhor isca que tem para pescar ração de coelho."
+    },
+    {
+      "start": 8.35,
+      "end": 9.99,
+      "text": "Essa isca aqui é infalível."
+    },
+    {
+      "start": 12.02,
+      "end": 14.72,
+      "text": "Você joga ela na água e daqui a pouco gruda um peixe."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}
