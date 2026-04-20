@@ -18,7 +18,7 @@ DB_PATH = storage.DB_PATH
 
 
 def cmd_buscar(args):
-    ui.titulo("buscar no youtube")
+    print(ascii_art.banner_pipeline("buscar videos no youtube"))
     todos = []
     with ui.progresso(len(args.queries), "queries") as (prog, task):
         for q in args.queries:
@@ -37,7 +37,7 @@ def cmd_buscar(args):
 
 
 def cmd_baixar(args):
-    ui.titulo("baixar audio dos videos")
+    print(ascii_art.banner_pipeline("baixar audio dos videos"))
     pendentes = yt.pega_pendentes(DB_PATH, limit=args.limit)
     ui.info(f"tem {len(pendentes)} videos pra baixar")
     if not pendentes:
