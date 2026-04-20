@@ -9,7 +9,11 @@ pre_carrega_libs_cuda()
 from faster_whisper import WhisperModel
 
 from src import config
+from src.log import get_logger
 from src.storage import db as storage
+
+
+_log = get_logger()
 
 
 # carrega o whisper uma vez so e reusa pra todos os videos
@@ -20,7 +24,7 @@ _modelo: WhisperModel | None = None
 def _get_model() -> WhisperModel:
     global _modelo
     if _modelo is None:
-        print(f"carregando whisper {config.WHISPER_MODEL} em {config.WHISPER_DEVICE}...")
+        _log.info("carregando whisper %s em %s...", config.WHISPER_MODEL, config.WHISPER_DEVICE)
         _modelo = WhisperModel(
             config.WHISPER_MODEL,
             device=config.WHISPER_DEVICE,
