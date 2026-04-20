@@ -223,6 +223,43 @@ def _extrai_com_chunking(
     return aplica_flag_fora_do_gazetteer(consolidado)
 
 
+def _merge_especies(com_valor: list[CampoExtraido], modelo: str, lat: int) -> CampoExtraido:
+    # uniao deduplicando por nome (case-insensitive)
+    vistos: set[str] = set()
+    uniao: list = []
+    for campo in com_valor:
+        for item in (campo.valor or []):
+            nome = (item.get("nome") if isinstance(item, dict) else str(item)).strip().lower()
+            if nome and nome not in vistos:
+                vistos.add(nome)
+                uniao.append(item)
+    conf = max(c.confianca for c in com_valor)
+    return CampoExtraido(
+        valor=uniao, confianca=conf, evidencia="",
+        modelo_usado=modelo, fora_do_gazetteer=False, latencia_ms=lat,
+    )
+
+
+def _merge_observacoes(com_valor: list[CampoExtraido], modelo: str, lat: int) -> CampoExtraido:
+    textos = [campo.valor for campo in com_valor if campo.valor]
+    texto = " | ".join(textos)
+    conf = sum(c.confianca for c in com_valor) / len(com_valor)
+    return CampoExtraido(
+        valor=texto, confianca=conf, evidencia="",
+        modelo_usado=modelo, fora_do_gazetteer=False, latencia_ms=lat,
+    )
+
+
+def _merge_escalar(com_valor: list[CampoExtraido], modelo: str, lat: int) -> CampoExtraido:
+    # pega o chunk de maior confianca pra esse campo
+    melhor = max(com_valor, key=lambda x: x.confianca)
+    return CampoExtraido(
+        valor=melhor.valor, confianca=melhor.confianca,
+        evidencia=melhor.evidencia, modelo_usado=modelo,
+        fora_do_gazetteer=melhor.fora_do_gazetteer, latencia_ms=lat,
+    )
+
+
 def _consolida_chunks(
     resultados: list[dict[str, CampoExtraido]],
     modelo: str,
@@ -232,11 +269,10 @@ def _consolida_chunks(
     #   com maior confianca
     # - especies: uniao dos nomes, deduplicado
     # - observacoes: concatena resumos curtos com " | "
-    campos = CAMPOS_PIPELINE
     out: dict[str, CampoExtraido] = {}
     lat_total = sum(r.get("estado").latencia_ms for r in resultados if r.get("estado"))
 
-    for c in campos:
+    for c in CAMPOS_PIPELINE:
         # pega so os chunks que tem valor pra esse campo
         com_valor = [
             r[c] for r in resultados
@@ -252,38 +288,11 @@ def _consolida_chunks(
             continue
 
         if c == "especies":
-            # uniao deduplicando por nome
-            vistos = set()
-            uniao = []
-            for campo in com_valor:
-                for item in (campo.valor or []):
-                    nome = (item.get("nome") if isinstance(item, dict) else str(item)).strip().lower()
-                    if nome and nome not in vistos:
-                        vistos.add(nome)
-                        uniao.append(item)
-            conf = max(c.confianca for c in com_valor)
-            out[c] = CampoExtraido(
-                valor=uniao, confianca=conf, evidencia="",
-                modelo_usado=modelo, fora_do_gazetteer=False, latencia_ms=lat_total,
-            )
+            out[c] = _merge_especies(com_valor, modelo, lat_total)
         elif c == "observacoes":
-            # concatena
-            textos = [campo.valor for campo in com_valor if campo.valor]
-            texto = " | ".join(textos)
-            conf = sum(c.confianca for c in com_valor) / len(com_valor)
-            out[c] = CampoExtraido(
-                valor=texto, confianca=conf, evidencia="",
-                modelo_usado=modelo, fora_do_gazetteer=False, latencia_ms=lat_total,
-            )
+            out[c] = _merge_observacoes(com_valor, modelo, lat_total)
         else:
-            # escalares: pega o de maior confianca
-            melhor = max(com_valor, key=lambda x: x.confianca)
-            out[c] = CampoExtraido(
-                valor=melhor.valor, confianca=melhor.confianca,
-                evidencia=melhor.evidencia, modelo_usado=modelo,
-                fora_do_gazetteer=melhor.fora_do_gazetteer,
-                latencia_ms=lat_total,
-            )
+            out[c] = _merge_escalar(com_valor, modelo, lat_total)
 
     return out
 
