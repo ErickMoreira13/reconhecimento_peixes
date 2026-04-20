@@ -13,10 +13,12 @@ pip install -r requirements-dev.txt  # pytest, ruff, pytest-cov
 ## rodar testes
 
 ```bash
-make tests              # roda pytest completo verbose
+make tests              # roda pytest completo verbose (~14s, 247 testes)
 make test-fast          # sem verbose (pra loop rapido)
 make test-cov           # com report de coverage
 ```
+
+testes usam mocks, nao precisam de ollama/gpu/rede rodando.
 
 testes nao precisam de:
 - rede (mocks do requests/yt-dlp)
