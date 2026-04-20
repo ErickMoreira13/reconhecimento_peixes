@@ -113,6 +113,7 @@ def rio_aparece_no_texto(rio: str, transcricao: str) -> bool:
 
 
 _estados_cache: set[str] | None = None
+_bacias_cache: list[dict] | None = None
 
 
 def _ufs() -> set[str]:
@@ -123,6 +124,50 @@ def _ufs() -> set[str]:
             d = json.load(f)
         _estados_cache = {u["sigla"] for u in d["ufs"]}
     return _estados_cache
+
+
+def _bacias() -> list[dict]:
+    # lista de dicts {nome, aliases, rios_principais}
+    global _bacias_cache
+    if _bacias_cache is None:
+        p = Path(__file__).parent.parent / "dicts" / "bacias_principais.json"
+        with open(p, encoding="utf-8") as f:
+            d = json.load(f)
+        _bacias_cache = d["bacias"]
+    return _bacias_cache
+
+
+def bacia_reconhecida(valor: str) -> bool:
+    # fix 7: checa se o valor extraido bate com alguma bacia conhecida.
+    # matching em 3 niveis:
+    # 1. nome principal ou alias (fuzzy >= 85%)
+    # 2. "bacia do X" onde X eh nome de bacia
+    # 3. rio principal (ex: "Sao Francisco" extraido bate bacia Sao Francisco)
+    if not valor:
+        return False
+
+    def _norm(s: str) -> str:
+        import unicodedata
+        s = s.lower().strip()
+        # remove prefixos comuns
+        s = re.sub(r"^(bacia\s+(do\s+|da\s+|dos\s+|das\s+)?)", "", s)
+        s = re.sub(r"^rio\s+", "", s)
+        return "".join(c for c in unicodedata.normalize("NFD", s)
+                       if unicodedata.category(c) != "Mn")
+
+    v = _norm(valor)
+    for b in _bacias():
+        nome_norm = _norm(b["nome"])
+        if v == nome_norm or fuzz.ratio(v, nome_norm) >= 85:
+            return True
+        for alias in b.get("aliases", []):
+            if v == _norm(alias) or fuzz.ratio(v, _norm(alias)) >= 85:
+                return True
+        # rio principal — se extraiu nome de rio como bacia, pode ser esse
+        for rio in b.get("rios_principais", []):
+            if v == _norm(rio) or fuzz.ratio(v, _norm(rio)) >= 90:
+                return True
+    return False
 
 
 def evidencia_alinha(evidencia: str, transcricao: str) -> float:
