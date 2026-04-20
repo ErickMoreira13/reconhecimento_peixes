@@ -1,0 +1,42 @@
+{
+  "texto": "Cadê essa buca piaba? Aí galera, ó Piabinha pequena demais Hoje nós fomos ali num açudinho ali Mas só deu piaba pequena Mas já veio um tucuna Tucunarém aqui",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Cadê essa buca piaba?"
+    },
+    {
+      "start": 1.66,
+      "end": 2.4,
+      "text": "Aí galera, ó"
+    },
+    {
+      "start": 2.4,
+      "end": 5.79,
+      "text": "Piabinha pequena demais"
+    },
+    {
+      "start": 5.79,
+      "end": 8.05,
+      "text": "Hoje nós fomos ali num açudinho ali"
+    },
+    {
+      "start": 8.05,
+      "end": 10.05,
+      "text": "Mas só deu piaba pequena"
+    },
+    {
+      "start": 10.05,
+      "end": 12.36,
+      "text": "Mas já veio um tucuna"
+    },
+    {
+      "start": 12.36,
+      "end": 13.68,
+      "text": "Tucunarém aqui"
+    }
+  ],
+  "duracao_seg": 14.01,
+  "idioma_detectado": "pt"
+}

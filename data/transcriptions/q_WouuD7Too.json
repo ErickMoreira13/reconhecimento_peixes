@@ -1,0 +1,17 @@
+{
+  "texto": "Paguei um armadilhinho pra poder pegar piaba, cortei uma garrafa pet, virei o bico pra baixo aqui, amarrei com linha pra não descer mais, coloquei uma ração aqui dentro, aparelho de milho e ração de coelho, vamos ver se vai dar resultado.",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 9.61,
+      "text": "Paguei um armadilhinho pra poder pegar piaba, cortei uma garrafa pet, virei o bico pra baixo aqui, amarrei com linha pra não descer mais,"
+    },
+    {
+      "start": 9.75,
+      "end": 13.77,
+      "text": "coloquei uma ração aqui dentro, aparelho de milho e ração de coelho, vamos ver se vai dar resultado."
+    }
+  ],
+  "duracao_seg": 25.25,
+  "idioma_detectado": "pt"
+}

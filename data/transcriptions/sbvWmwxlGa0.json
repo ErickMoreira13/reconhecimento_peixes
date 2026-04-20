@@ -1,0 +1,122 @@
+{
+  "texto": "em poucos segundos eu vou tirar essa garrafa aqui lotada de piaba gente olha aí, olha aí gente é bem rápido olha de jeito que está de piaba aqui gente olha aí gente, aí eu não vou esperar nem eu colocar a garrafa aqui elas já vão entrar para dentro olha aí gente, eu segurando aqui a garrafa não vou nem soltar a garrafa olha aí eu acho que só vai parar de entrar a piaba para dentro dela quando não couber mais olha aí gente, olha quantas piabas que tem aqui nesse tanque eu acho que já encheu, né gente vamos ver gente, como é que está aqui vamos lá gente olha aqui quanta piaba tem dentro dessa garrafa olha aí gente, olha olha aí, chega vem mesmo que não entrou mais porque não coube gente, valeu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "em poucos segundos eu vou tirar"
+    },
+    {
+      "start": 2.0,
+      "end": 4.24,
+      "text": "essa garrafa aqui lotada de piaba"
+    },
+    {
+      "start": 4.24,
+      "end": 5.68,
+      "text": "gente olha aí, olha aí gente"
+    },
+    {
+      "start": 5.68,
+      "end": 7.2,
+      "text": "é bem rápido"
+    },
+    {
+      "start": 7.2,
+      "end": 9.73,
+      "text": "olha de jeito que está de piaba aqui gente"
+    },
+    {
+      "start": 9.73,
+      "end": 12.19,
+      "text": "olha aí gente, aí eu não vou esperar nem"
+    },
+    {
+      "start": 12.19,
+      "end": 13.93,
+      "text": "eu colocar a garrafa aqui"
+    },
+    {
+      "start": 13.93,
+      "end": 17.12,
+      "text": "elas já vão entrar para dentro"
+    },
+    {
+      "start": 17.12,
+      "end": 19.22,
+      "text": "olha aí gente, eu segurando aqui a garrafa"
+    },
+    {
+      "start": 19.22,
+      "end": 21.18,
+      "text": "não vou nem soltar a garrafa"
+    },
+    {
+      "start": 21.18,
+      "end": 22.44,
+      "text": "olha aí"
+    },
+    {
+      "start": 22.44,
+      "end": 24.82,
+      "text": "eu acho que só vai parar de entrar a piaba"
+    },
+    {
+      "start": 24.82,
+      "end": 26.38,
+      "text": "para dentro dela quando não couber mais"
+    },
+    {
+      "start": 26.38,
+      "end": 29.62,
+      "text": "olha aí gente, olha"
+    },
+    {
+      "start": 29.62,
+      "end": 32.65,
+      "text": "quantas piabas"
+    },
+    {
+      "start": 32.65,
+      "end": 34.39,
+      "text": "que tem aqui nesse tanque"
+    },
+    {
+      "start": 34.39,
+      "end": 38.25,
+      "text": "eu acho que já encheu, né gente"
+    },
+    {
+      "start": 38.25,
+      "end": 39.93,
+      "text": "vamos ver gente, como é que está aqui"
+    },
+    {
+      "start": 39.93,
+      "end": 44.11,
+      "text": "vamos lá gente"
+    },
+    {
+      "start": 44.11,
+      "end": 47.79,
+      "text": "olha aqui quanta piaba tem dentro dessa garrafa"
+    },
+    {
+      "start": 47.79,
+      "end": 51.3,
+      "text": "olha aí gente, olha"
+    },
+    {
+      "start": 51.3,
+      "end": 55.04,
+      "text": "olha aí, chega vem mesmo"
+    },
+    {
+      "start": 55.04,
+      "end": 57.32,
+      "text": "que não entrou mais porque não coube gente, valeu"
+    }
+  ],
+  "duracao_seg": 57.39,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "já é diferente essa aqui também olha aí pessoal",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.26,
+      "text": "já é diferente essa aqui também"
+    },
+    {
+      "start": 3.26,
+      "end": 8.0,
+      "text": "olha aí pessoal"
+    }
+  ],
+  "duracao_seg": 8.05,
+  "idioma_detectado": "pt"
+}

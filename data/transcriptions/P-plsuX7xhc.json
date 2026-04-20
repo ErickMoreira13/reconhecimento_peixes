@@ -1,0 +1,62 @@
+{
+  "texto": "Ué, puxa, desamarra e puxa pra cá, ó 20 minutos, rapaz, 20 minutos de lance Talvez nem deu, hein Puxa, puxa pra não cair na água Puxa Opa, vai cair na água aí, ó Deixa cair, pra dentro não foi mal Joga lá pros cantos Pra dentro pode deixar cair Deu, deu rapaz, é isso aí mesmo Glória a Deus, aleluia ao Senhor",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.12,
+      "text": "Ué, puxa, desamarra e puxa pra cá, ó"
+    },
+    {
+      "start": 6.12,
+      "end": 9.78,
+      "text": "20 minutos, rapaz, 20 minutos de lance"
+    },
+    {
+      "start": 9.78,
+      "end": 11.59,
+      "text": "Talvez nem deu, hein"
+    },
+    {
+      "start": 11.59,
+      "end": 17.24,
+      "text": "Puxa, puxa pra não cair na água"
+    },
+    {
+      "start": 17.24,
+      "end": 19.32,
+      "text": "Puxa"
+    },
+    {
+      "start": 19.32,
+      "end": 23.48,
+      "text": "Opa, vai cair na água aí, ó"
+    },
+    {
+      "start": 23.48,
+      "end": 28.2,
+      "text": "Deixa cair, pra dentro não foi mal"
+    },
+    {
+      "start": 28.2,
+      "end": 29.92,
+      "text": "Joga lá pros cantos"
+    },
+    {
+      "start": 29.92,
+      "end": 32.12,
+      "text": "Pra dentro pode deixar cair"
+    },
+    {
+      "start": 32.12,
+      "end": 35.58,
+      "text": "Deu, deu rapaz, é isso aí mesmo"
+    },
+    {
+      "start": 35.58,
+      "end": 37.68,
+      "text": "Glória a Deus, aleluia ao Senhor"
+    }
+  ],
+  "duracao_seg": 38.51,
+  "idioma_detectado": "pt"
+}

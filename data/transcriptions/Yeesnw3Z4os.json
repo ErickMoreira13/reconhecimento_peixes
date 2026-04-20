@@ -1,0 +1,22 @@
+{
+  "texto": "Aê, ó, ó, tamanhão Ah, não, na bari mesmo Aham",
+  "segmentos": [
+    {
+      "start": 4.21,
+      "end": 6.71,
+      "text": "Aê, ó, ó, tamanhão"
+    },
+    {
+      "start": 6.71,
+      "end": 9.44,
+      "text": "Ah, não, na bari mesmo"
+    },
+    {
+      "start": 9.44,
+      "end": 12.06,
+      "text": "Aham"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

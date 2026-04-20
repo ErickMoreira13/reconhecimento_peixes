@@ -1,0 +1,97 @@
+{
+  "texto": "eu vou mostrar pra vocês como é que eu pego as piabas. Aqui tá a farinha. Eu vou botar aqui dentro do litro, ó. Eu vou botar tudo, só um pouco, ó. E eu vou mostrar pra vocês aqui como é que pega. Pronto. Agora eu vou botar aqui na água, pessoal. Tá aqui a farinha, ó. Pra vocês ver o tanto de piaba que eu vou pegar. Mostra lá, minha polícia. Segura meu celular pra não cair. Gente, ó o tanto de piaba que eu peguei. Ó o tanto, ó. Tá vendo? Vocês já pescaram assim, ó. Bora lá pegar o peixe.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "eu vou mostrar pra vocês como é que eu pego"
+    },
+    {
+      "start": 2.16,
+      "end": 4.42,
+      "text": "as piabas. Aqui tá"
+    },
+    {
+      "start": 4.42,
+      "end": 6.44,
+      "text": "a farinha. Eu vou botar aqui dentro do"
+    },
+    {
+      "start": 6.44,
+      "end": 9.45,
+      "text": "litro, ó. Eu vou botar tudo,"
+    },
+    {
+      "start": 9.51,
+      "end": 10.37,
+      "text": "só um pouco, ó."
+    },
+    {
+      "start": 15.15,
+      "end": 17.41,
+      "text": "E eu vou mostrar pra vocês aqui como é que pega."
+    },
+    {
+      "start": 18.07,
+      "end": 19.49,
+      "text": "Pronto. Agora eu vou"
+    },
+    {
+      "start": 19.49,
+      "end": 21.57,
+      "text": "botar aqui na água, pessoal. Tá aqui a farinha, ó."
+    },
+    {
+      "start": 22.21,
+      "end": 23.53,
+      "text": "Pra vocês ver o tanto de piaba que eu vou"
+    },
+    {
+      "start": 23.53,
+      "end": 44.26,
+      "text": "pegar. Mostra lá,"
+    },
+    {
+      "start": 44.26,
+      "end": 48.94,
+      "text": "minha polícia. Segura"
+    },
+    {
+      "start": 48.94,
+      "end": 50.0,
+      "text": "meu celular pra não cair."
+    },
+    {
+      "start": 84.73,
+      "end": 85.13,
+      "text": "Gente,"
+    },
+    {
+      "start": 86.67,
+      "end": 87.93,
+      "text": "ó o tanto de piaba"
+    },
+    {
+      "start": 87.93,
+      "end": 90.13,
+      "text": "que eu peguei. Ó o tanto,"
+    },
+    {
+      "start": 90.25,
+      "end": 92.26,
+      "text": "ó. Tá vendo?"
+    },
+    {
+      "start": 93.52,
+      "end": 94.84,
+      "text": "Vocês já pescaram assim, ó."
+    },
+    {
+      "start": 95.91,
+      "end": 96.93,
+      "text": "Bora lá pegar o peixe."
+    }
+  ],
+  "duracao_seg": 97.95,
+  "idioma_detectado": "pt"
+}

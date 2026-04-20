@@ -1,0 +1,502 @@
+{
+  "texto": "Pessoal, estamos prontos aí para iniciar a pescaria Ó pessoal, hoje eu vou estar utilizando como uísca A minhoca, vou mostrar aqui para vocês Está utilizando como uísca minhoca Usoca melhor, rapaz Está usando minhoca pessoal, como uísca E vou estar utilizando pessoal, esse anzózinho aqui Anzózinho Xingu Esse é o número, acredito que é o número 2 ou é o número 3 Usando anzózinho Xingu Pequenininho E minhoca como uísca Por que pessoal? Porque o intuito hoje é o lambari Pode bater outro peixe aí Mas a pescaria vai ser focada em lambari Beleza? Então acompanha aí Os lambari está atacando bem Você está doido Trairinha pessoal, não grito cor direito Ó, trairinha Deixa eu ver, acho que acabou com a linha aqui Vai ter que matar Vai ter que matar Vai para o frito Angulinho demais Vou tirar ela aqui e já volto Ó, trairinha Ó Para procurar um lugar bom Lá estava ventando muito pessoal Aí eu vim para esse lado de cá Está ventando menos Os maiores Saiu os brutos aqui hein Ó Saiu os brutos aqui Ó Saiu os brutos aqui Rapaz, está saindo só os bons aqui Top Água paradinha pessoal Para lá está ventando demais E a água está paradinha Pode estar batendo grande aqui Deixa eu ver se está gravando pessoal Nem olhei se está gravando Deixa eu ver Tá Está gravando Ó Esse bruto hein Ó Olha os brutos É só jogar Só bruto hein rapaz Rapaz, ó Ó Ó Bruto Olha Olha Olha o tamanho Brutão Brutão Bruto Vai embora na água Pessoal Vou mostrar o resultado aqui para vocês E vou estar encerrando Beleza Acabou demais Tem lambari com força aqui pessoal Tem lambari com força Rola aí na frente É Mostrar aí para vocês O resultado Encerrar os vidros Jogar esse Os minhoca aqui para você Lavar A bacinha Vou mostrar o resultado da pescaria para vocês Encerrar Acompanha aí Pessoal Esse foi o resultado da pescaria ó Bastante lambari ó Só lambarizão bruto ó Você está doido rapaz Top demais essa pescaria hein Só lambarizão bruto pessoal Olha isso Então É isso É isso É isso",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 3.5,
+      "text": "Pessoal, estamos prontos aí para iniciar a pescaria"
+    },
+    {
+      "start": 3.5,
+      "end": 7.36,
+      "text": "Ó pessoal, hoje eu vou estar utilizando como uísca"
+    },
+    {
+      "start": 7.36,
+      "end": 11.59,
+      "text": "A minhoca, vou mostrar aqui para vocês"
+    },
+    {
+      "start": 11.59,
+      "end": 14.27,
+      "text": "Está utilizando como uísca minhoca"
+    },
+    {
+      "start": 14.27,
+      "end": 23.01,
+      "text": "Usoca melhor, rapaz"
+    },
+    {
+      "start": 23.01,
+      "end": 32.58,
+      "text": "Está usando minhoca pessoal, como uísca"
+    },
+    {
+      "start": 32.58,
+      "end": 36.78,
+      "text": "E vou estar utilizando pessoal, esse anzózinho aqui"
+    },
+    {
+      "start": 36.78,
+      "end": 37.94,
+      "text": "Anzózinho Xingu"
+    },
+    {
+      "start": 37.94,
+      "end": 44.28,
+      "text": "Esse é o número, acredito que é o número 2 ou é o número 3"
+    },
+    {
+      "start": 44.28,
+      "end": 49.39,
+      "text": "Usando anzózinho Xingu"
+    },
+    {
+      "start": 49.39,
+      "end": 50.39,
+      "text": "Pequenininho"
+    },
+    {
+      "start": 50.39,
+      "end": 52.52,
+      "text": "E minhoca como uísca"
+    },
+    {
+      "start": 52.52,
+      "end": 53.55,
+      "text": "Por que pessoal?"
+    },
+    {
+      "start": 53.55,
+      "end": 56.55,
+      "text": "Porque o intuito hoje é o lambari"
+    },
+    {
+      "start": 56.55,
+      "end": 59.68,
+      "text": "Pode bater outro peixe aí"
+    },
+    {
+      "start": 59.68,
+      "end": 61.68,
+      "text": "Mas a pescaria vai ser focada em lambari"
+    },
+    {
+      "start": 61.68,
+      "end": 62.68,
+      "text": "Beleza?"
+    },
+    {
+      "start": 62.68,
+      "end": 64.8,
+      "text": "Então acompanha aí"
+    },
+    {
+      "start": 64.8,
+      "end": 82.45,
+      "text": "Os lambari está atacando bem"
+    },
+    {
+      "start": 82.45,
+      "end": 177.31,
+      "text": "Você está doido"
+    },
+    {
+      "start": 177.31,
+      "end": 208.15,
+      "text": "Trairinha pessoal, não grito cor direito"
+    },
+    {
+      "start": 208.15,
+      "end": 213.57,
+      "text": "Ó, trairinha"
+    },
+    {
+      "start": 213.57,
+      "end": 215.57,
+      "text": "Deixa eu ver, acho que acabou com a linha aqui"
+    },
+    {
+      "start": 215.57,
+      "end": 223.2,
+      "text": "Vai ter que matar"
+    },
+    {
+      "start": 223.2,
+      "end": 224.2,
+      "text": "Vai ter que matar"
+    },
+    {
+      "start": 224.2,
+      "end": 225.2,
+      "text": "Vai para o frito"
+    },
+    {
+      "start": 225.2,
+      "end": 227.73,
+      "text": "Angulinho demais"
+    },
+    {
+      "start": 227.73,
+      "end": 228.73,
+      "text": "Vou tirar ela aqui e já volto"
+    },
+    {
+      "start": 228.73,
+      "end": 229.73,
+      "text": "Ó, trairinha"
+    },
+    {
+      "start": 229.73,
+      "end": 231.12,
+      "text": "Ó"
+    },
+    {
+      "start": 231.12,
+      "end": 232.12,
+      "text": "Para procurar um lugar bom"
+    },
+    {
+      "start": 232.12,
+      "end": 233.98,
+      "text": "Lá estava ventando muito pessoal"
+    },
+    {
+      "start": 233.98,
+      "end": 238.95,
+      "text": "Aí eu vim para esse lado de cá"
+    },
+    {
+      "start": 238.95,
+      "end": 239.95,
+      "text": "Está ventando menos"
+    },
+    {
+      "start": 239.95,
+      "end": 241.52,
+      "text": "Os maiores"
+    },
+    {
+      "start": 241.52,
+      "end": 242.52,
+      "text": "Saiu os brutos aqui hein"
+    },
+    {
+      "start": 242.52,
+      "end": 244.93,
+      "text": "Ó"
+    },
+    {
+      "start": 244.93,
+      "end": 246.8,
+      "text": "Saiu os brutos aqui"
+    },
+    {
+      "start": 246.8,
+      "end": 466.9,
+      "text": "Ó"
+    },
+    {
+      "start": 466.9,
+      "end": 541.53,
+      "text": "Saiu os brutos aqui"
+    },
+    {
+      "start": 541.53,
+      "end": 581.49,
+      "text": "Rapaz, está saindo só os bons aqui"
+    },
+    {
+      "start": 581.49,
+      "end": 582.49,
+      "text": "Top"
+    },
+    {
+      "start": 582.49,
+      "end": 584.56,
+      "text": "Água paradinha pessoal"
+    },
+    {
+      "start": 584.56,
+      "end": 586.56,
+      "text": "Para lá está ventando demais"
+    },
+    {
+      "start": 586.56,
+      "end": 587.84,
+      "text": "E a água está paradinha"
+    },
+    {
+      "start": 587.84,
+      "end": 590.84,
+      "text": "Pode estar batendo grande aqui"
+    },
+    {
+      "start": 590.84,
+      "end": 608.91,
+      "text": "Deixa eu ver se está gravando pessoal"
+    },
+    {
+      "start": 608.91,
+      "end": 613.47,
+      "text": "Nem olhei se está gravando"
+    },
+    {
+      "start": 613.47,
+      "end": 614.47,
+      "text": "Deixa eu ver"
+    },
+    {
+      "start": 614.47,
+      "end": 619.37,
+      "text": "Tá"
+    },
+    {
+      "start": 619.37,
+      "end": 623.23,
+      "text": "Está gravando"
+    },
+    {
+      "start": 623.23,
+      "end": 652.58,
+      "text": "Ó"
+    },
+    {
+      "start": 652.58,
+      "end": 654.35,
+      "text": "Esse bruto hein"
+    },
+    {
+      "start": 654.35,
+      "end": 655.35,
+      "text": "Ó"
+    },
+    {
+      "start": 655.35,
+      "end": 821.19,
+      "text": "Olha os brutos"
+    },
+    {
+      "start": 821.19,
+      "end": 922.4,
+      "text": "É só jogar"
+    },
+    {
+      "start": 922.4,
+      "end": 938.8,
+      "text": "Só bruto hein rapaz"
+    },
+    {
+      "start": 938.8,
+      "end": 939.8,
+      "text": "Rapaz, ó"
+    },
+    {
+      "start": 939.8,
+      "end": 941.22,
+      "text": "Ó"
+    },
+    {
+      "start": 941.22,
+      "end": 942.22,
+      "text": "Ó"
+    },
+    {
+      "start": 942.22,
+      "end": 960.72,
+      "text": "Bruto"
+    },
+    {
+      "start": 960.72,
+      "end": 961.72,
+      "text": "Olha"
+    },
+    {
+      "start": 961.72,
+      "end": 962.72,
+      "text": "Olha"
+    },
+    {
+      "start": 962.72,
+      "end": 963.72,
+      "text": "Olha o tamanho"
+    },
+    {
+      "start": 963.72,
+      "end": 1013.36,
+      "text": "Brutão"
+    },
+    {
+      "start": 1013.36,
+      "end": 1015.42,
+      "text": "Brutão"
+    },
+    {
+      "start": 1015.42,
+      "end": 1194.85,
+      "text": "Bruto"
+    },
+    {
+      "start": 1194.85,
+      "end": 1214.32,
+      "text": "Vai embora na água"
+    },
+    {
+      "start": 1214.32,
+      "end": 1219.84,
+      "text": "Pessoal"
+    },
+    {
+      "start": 1219.84,
+      "end": 1222.99,
+      "text": "Vou mostrar o resultado aqui para vocês"
+    },
+    {
+      "start": 1222.99,
+      "end": 1223.99,
+      "text": "E vou estar encerrando"
+    },
+    {
+      "start": 1223.99,
+      "end": 1224.99,
+      "text": "Beleza"
+    },
+    {
+      "start": 1224.99,
+      "end": 1228.84,
+      "text": "Acabou demais"
+    },
+    {
+      "start": 1228.84,
+      "end": 1231.84,
+      "text": "Tem lambari com força aqui pessoal"
+    },
+    {
+      "start": 1231.84,
+      "end": 1235.08,
+      "text": "Tem lambari com força"
+    },
+    {
+      "start": 1235.08,
+      "end": 1243.52,
+      "text": "Rola aí na frente"
+    },
+    {
+      "start": 1243.52,
+      "end": 1245.12,
+      "text": "É"
+    },
+    {
+      "start": 1245.12,
+      "end": 1246.12,
+      "text": "Mostrar aí para vocês"
+    },
+    {
+      "start": 1246.12,
+      "end": 1247.12,
+      "text": "O resultado"
+    },
+    {
+      "start": 1247.12,
+      "end": 1249.22,
+      "text": "Encerrar os vidros"
+    },
+    {
+      "start": 1249.22,
+      "end": 1250.22,
+      "text": "Jogar esse"
+    },
+    {
+      "start": 1250.22,
+      "end": 1252.64,
+      "text": "Os minhoca aqui para você"
+    },
+    {
+      "start": 1252.64,
+      "end": 1253.67,
+      "text": "Lavar"
+    },
+    {
+      "start": 1253.67,
+      "end": 1255.67,
+      "text": "A bacinha"
+    },
+    {
+      "start": 1255.67,
+      "end": 1272.64,
+      "text": "Vou mostrar o resultado da pescaria para vocês"
+    },
+    {
+      "start": 1272.64,
+      "end": 1273.64,
+      "text": "Encerrar"
+    },
+    {
+      "start": 1273.64,
+      "end": 1278.68,
+      "text": "Acompanha aí"
+    },
+    {
+      "start": 1278.68,
+      "end": 1285.55,
+      "text": "Pessoal"
+    },
+    {
+      "start": 1285.55,
+      "end": 1287.55,
+      "text": "Esse foi o resultado da pescaria ó"
+    },
+    {
+      "start": 1287.55,
+      "end": 1290.12,
+      "text": "Bastante lambari ó"
+    },
+    {
+      "start": 1290.12,
+      "end": 1292.12,
+      "text": "Só lambarizão bruto ó"
+    },
+    {
+      "start": 1292.12,
+      "end": 1294.44,
+      "text": "Você está doido rapaz"
+    },
+    {
+      "start": 1294.44,
+      "end": 1297.44,
+      "text": "Top demais essa pescaria hein"
+    },
+    {
+      "start": 1297.44,
+      "end": 1301.24,
+      "text": "Só lambarizão bruto pessoal"
+    },
+    {
+      "start": 1301.24,
+      "end": 1307.72,
+      "text": "Olha isso"
+    },
+    {
+      "start": 1307.72,
+      "end": 1309.72,
+      "text": "Então"
+    },
+    {
+      "start": 1309.72,
+      "end": 1310.72,
+      "text": "É isso"
+    },
+    {
+      "start": 1310.72,
+      "end": 1311.72,
+      "text": "É isso"
+    },
+    {
+      "start": 1311.72,
+      "end": 1312.72,
+      "text": "É isso"
+    }
+  ],
+  "duracao_seg": 1314.15,
+  "idioma_detectado": "pt"
+}

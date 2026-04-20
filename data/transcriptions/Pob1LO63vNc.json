@@ -1,0 +1,17 @@
+{
+  "texto": "É desse jeitinho que eu pego aí as iscas vivas, eu faço uma armadilha com garrafa pet. Pensa num trem eficiente pra pescaria de lambari, só pôr um faralhinho ali dentro, olha só, enche.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "É desse jeitinho que eu pego aí as iscas vivas, eu faço uma armadilha com garrafa pet."
+    },
+    {
+      "start": 5.46,
+      "end": 11.3,
+      "text": "Pensa num trem eficiente pra pescaria de lambari, só pôr um faralhinho ali dentro, olha só, enche."
+    }
+  ],
+  "duracao_seg": 12.09,
+  "idioma_detectado": "pt"
+}

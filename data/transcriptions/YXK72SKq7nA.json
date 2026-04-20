@@ -1,0 +1,107 @@
+{
+  "texto": "E aí, rapaziada? Hoje eu vou ensinar vocês a fazer uma armadilha para pegar esses camarão. Cola com o pai. Você só vai precisar de duas garrafas pequenas e um garrafão. Essa é a melhor armadilha para pegar camarão. Vamos cortar os bicos das garrafas pequenas assim. Em seguida, vamos pegar qualquer coisa que possa perfurar a garrafa grande. Eu peguei uma chave de fenda velha. Esquente ela bem para perfurar a garrafa com facilidade. Para ela ficar toda furada assim. Em seguida, faça dois buracos adicionais para colocar os bicos das garrafas que cortamos. Com tudo pronto, vou descer para o rio para colocar a armadilha em ação. Você vai se surpreender com o resultado. Essa é uma das melhores armadilhas para pegar camarão que já fiz. Vocês não vão se arrepender. Pronto, cheguei. Esse lugar aqui vai dar bom. Vamos usar ração de cachorro. Comprei a mais barata que tinha. Não precisa ser cara. Pode colocar bastante ração. Quanto mais, melhor. Não precisa colocar muito no fundo a nossa armadilha. O camarão fica mais no raso. Amanhã mostro o resultado. Fiquem ligados.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "E aí, rapaziada? Hoje eu vou ensinar vocês a fazer uma armadilha para pegar esses camarão."
+    },
+    {
+      "start": 5.1,
+      "end": 9.1,
+      "text": "Cola com o pai. Você só vai precisar de duas garrafas pequenas e um garrafão."
+    },
+    {
+      "start": 9.5,
+      "end": 11.56,
+      "text": "Essa é a melhor armadilha para pegar camarão."
+    },
+    {
+      "start": 11.94,
+      "end": 14.34,
+      "text": "Vamos cortar os bicos das garrafas pequenas assim."
+    },
+    {
+      "start": 14.8,
+      "end": 18.38,
+      "text": "Em seguida, vamos pegar qualquer coisa que possa perfurar a garrafa grande."
+    },
+    {
+      "start": 18.9,
+      "end": 20.72,
+      "text": "Eu peguei uma chave de fenda velha."
+    },
+    {
+      "start": 21.16,
+      "end": 24.06,
+      "text": "Esquente ela bem para perfurar a garrafa com facilidade."
+    },
+    {
+      "start": 24.64,
+      "end": 26.46,
+      "text": "Para ela ficar toda furada assim."
+    },
+    {
+      "start": 26.46,
+      "end": 32.08,
+      "text": "Em seguida, faça dois buracos adicionais para colocar os bicos das garrafas que cortamos."
+    },
+    {
+      "start": 32.54,
+      "end": 35.66,
+      "text": "Com tudo pronto, vou descer para o rio para colocar a armadilha em ação."
+    },
+    {
+      "start": 36.06,
+      "end": 37.8,
+      "text": "Você vai se surpreender com o resultado."
+    },
+    {
+      "start": 38.48,
+      "end": 41.64,
+      "text": "Essa é uma das melhores armadilhas para pegar camarão que já fiz."
+    },
+    {
+      "start": 41.92,
+      "end": 43.24,
+      "text": "Vocês não vão se arrepender."
+    },
+    {
+      "start": 43.74,
+      "end": 45.76,
+      "text": "Pronto, cheguei. Esse lugar aqui vai dar bom."
+    },
+    {
+      "start": 46.18,
+      "end": 47.68,
+      "text": "Vamos usar ração de cachorro."
+    },
+    {
+      "start": 48.24,
+      "end": 50.72,
+      "text": "Comprei a mais barata que tinha. Não precisa ser cara."
+    },
+    {
+      "start": 51.02,
+      "end": 53.1,
+      "text": "Pode colocar bastante ração. Quanto mais, melhor."
+    },
+    {
+      "start": 53.22,
+      "end": 56.32,
+      "text": "Não precisa colocar muito no fundo a nossa armadilha."
+    },
+    {
+      "start": 56.58,
+      "end": 58.08,
+      "text": "O camarão fica mais no raso."
+    },
+    {
+      "start": 58.54,
+      "end": 60.02,
+      "text": "Amanhã mostro o resultado. Fiquem ligados."
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

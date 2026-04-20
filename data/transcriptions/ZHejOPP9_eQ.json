@@ -1,0 +1,52 @@
+{
+  "texto": "Bom, pessoal, agora nós vamos retirar a nossa isqueira, né? Vamos ver o que nós conseguimos. Olha aí, ó. Tem bastante, né? Bastante, vocês estão vendo aí, ó? Aqui nós vamos tentar pegar o tupu na areia agora com essa iscavia. Agora, é importante dizer para vocês, essa piadinha aqui, ela não passa desse tamanho, tá? Então, eu não...",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 3.57,
+      "text": "Bom, pessoal, agora nós vamos retirar a nossa isqueira, né?"
+    },
+    {
+      "start": 3.61,
+      "end": 4.99,
+      "text": "Vamos ver o que nós conseguimos."
+    },
+    {
+      "start": 5.94,
+      "end": 6.52,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 7.28,
+      "end": 8.42,
+      "text": "Tem bastante, né?"
+    },
+    {
+      "start": 9.72,
+      "end": 10.96,
+      "text": "Bastante, vocês estão vendo aí, ó?"
+    },
+    {
+      "start": 11.94,
+      "end": 14.58,
+      "text": "Aqui nós vamos tentar pegar o tupu na areia agora com essa iscavia."
+    },
+    {
+      "start": 14.72,
+      "end": 16.44,
+      "text": "Agora, é importante dizer para vocês,"
+    },
+    {
+      "start": 17.2,
+      "end": 19.94,
+      "text": "essa piadinha aqui, ela não passa desse tamanho, tá?"
+    },
+    {
+      "start": 20.5,
+      "end": 21.14,
+      "text": "Então, eu não..."
+    }
+  ],
+  "duracao_seg": 21.09,
+  "idioma_detectado": "pt"
+}

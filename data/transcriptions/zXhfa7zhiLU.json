@@ -1,0 +1,47 @@
+{
+  "texto": "Hoje, dia 22 de maio de 2022, nós estamos aqui em um pedacinho do município do Tangará da Serra, na beira do rio Siputuba, um lugar conhecido como igrejinha. E hoje tem muito lambari, tem muito pescador que não sabe essa técnica de pegar lambari, que está tendo muito lambari, ele prepara um anzolzinho com onça. Eu faço com linha e super bonde, fica tipo uma isquinha. Aí depois tem que saber bater, é só bater e puxar e jogar fora. Isso aqui você pega lambari de monte rapidinho, só pega os graúdos, não pega lambari pequenininho. Então tem muito pescador que pesca há muitos anos e essa técnica...",
+  "segmentos": [
+    {
+      "start": 3.95,
+      "end": 20.66,
+      "text": "Hoje, dia 22 de maio de 2022, nós estamos aqui em um pedacinho do município do Tangará da Serra,"
+    },
+    {
+      "start": 20.66,
+      "end": 28.39,
+      "text": "na beira do rio Siputuba, um lugar conhecido como igrejinha."
+    },
+    {
+      "start": 28.39,
+      "end": 35.81,
+      "text": "E hoje tem muito lambari, tem muito pescador que não sabe essa técnica de pegar lambari,"
+    },
+    {
+      "start": 35.81,
+      "end": 41.38,
+      "text": "que está tendo muito lambari, ele prepara um anzolzinho com onça."
+    },
+    {
+      "start": 41.38,
+      "end": 45.38,
+      "text": "Eu faço com linha e super bonde, fica tipo uma isquinha."
+    },
+    {
+      "start": 45.38,
+      "end": 50.45,
+      "text": "Aí depois tem que saber bater, é só bater e puxar e jogar fora."
+    },
+    {
+      "start": 50.45,
+      "end": 55.45,
+      "text": "Isso aqui você pega lambari de monte rapidinho, só pega os graúdos, não pega lambari pequenininho."
+    },
+    {
+      "start": 55.45,
+      "end": 59.99,
+      "text": "Então tem muito pescador que pesca há muitos anos e essa técnica..."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

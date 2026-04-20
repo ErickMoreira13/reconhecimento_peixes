@@ -1,0 +1,92 @@
+{
+  "texto": "Pessoal, olha aí, ó, lambari e piaba. Eu vou mostrar a diferença a vocês do lambari pra piaba, ó. O pessoal, muita gente fala assim, ah, lambari e piaba não é a mesma coisa? Não. Lambari, o lambari mesmo, ele é assim, ó. Ele tem essas bichinhas, ele tem essas bichinhas vermelhas, ó. Assim? Tá vendo? Vermelhadinha. Eles vão ficando adultos, vai ficando amarelado. Mas tem uns que permanece essa cor aqui, ó, bonita. E a piaba é essa aqui, ó, clarinha. Ó, tem essa coisinha aqui, tá vendo? Tem um pontinho, um risco preto no rabinho. E ela é clara, totalmente diferente do lambari. Olha a diferença dela pro lambari aí, ó. Aqui, ó. Diferença, né, pessoal? Mas cresce muito também.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Pessoal, olha aí, ó, lambari e piaba."
+    },
+    {
+      "start": 3.88,
+      "end": 7.52,
+      "text": "Eu vou mostrar a diferença a vocês do lambari pra piaba, ó."
+    },
+    {
+      "start": 8.08,
+      "end": 11.76,
+      "text": "O pessoal, muita gente fala assim, ah, lambari e piaba não é a mesma coisa?"
+    },
+    {
+      "start": 11.92,
+      "end": 16.41,
+      "text": "Não. Lambari, o lambari mesmo, ele é assim, ó."
+    },
+    {
+      "start": 17.37,
+      "end": 23.82,
+      "text": "Ele tem essas bichinhas, ele tem essas bichinhas vermelhas, ó."
+    },
+    {
+      "start": 23.84,
+      "end": 24.04,
+      "text": "Assim?"
+    },
+    {
+      "start": 24.64,
+      "end": 26.34,
+      "text": "Tá vendo? Vermelhadinha."
+    },
+    {
+      "start": 26.42,
+      "end": 29.28,
+      "text": "Eles vão ficando adultos, vai ficando amarelado."
+    },
+    {
+      "start": 29.28,
+      "end": 32.72,
+      "text": "Mas tem uns que permanece essa cor aqui, ó, bonita."
+    },
+    {
+      "start": 33.7,
+      "end": 36.42,
+      "text": "E a piaba é essa aqui, ó, clarinha."
+    },
+    {
+      "start": 37.04,
+      "end": 40.82,
+      "text": "Ó, tem essa coisinha aqui, tá vendo?"
+    },
+    {
+      "start": 41.02,
+      "end": 44.38,
+      "text": "Tem um pontinho, um risco preto no rabinho."
+    },
+    {
+      "start": 44.96,
+      "end": 47.38,
+      "text": "E ela é clara, totalmente diferente do lambari."
+    },
+    {
+      "start": 48.52,
+      "end": 50.84,
+      "text": "Olha a diferença dela pro lambari aí, ó."
+    },
+    {
+      "start": 51.5,
+      "end": 51.82,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 53.84,
+      "end": 54.72,
+      "text": "Diferença, né, pessoal?"
+    },
+    {
+      "start": 55.34,
+      "end": 56.58,
+      "text": "Mas cresce muito também."
+    }
+  ],
+  "duracao_seg": 58.77,
+  "idioma_detectado": "pt"
+}

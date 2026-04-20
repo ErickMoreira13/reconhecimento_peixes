@@ -1,0 +1,57 @@
+{
+  "texto": "Pessoal, essas são as iscas de pesca do meu marido. Se quiser vir comprar, essa daqui foi que o meu marido pagou mais caro. Ele pagou 20 reais. É uma tal de Puga Cheves. Eu faço por 10. Estou precisando levantar um dinheiro. As outras iscas, ele pagou 2,99. Se quiser vir olhar, tem mais de 150 iscas. Eu faço tudo por 50 reais. Se quiser vir buscar.",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 3.54,
+      "text": "Pessoal, essas são as iscas de pesca do meu marido."
+    },
+    {
+      "start": 3.86,
+      "end": 8.97,
+      "text": "Se quiser vir comprar, essa daqui foi que o meu marido pagou mais caro."
+    },
+    {
+      "start": 9.25,
+      "end": 10.29,
+      "text": "Ele pagou 20 reais."
+    },
+    {
+      "start": 10.97,
+      "end": 13.87,
+      "text": "É uma tal de Puga Cheves."
+    },
+    {
+      "start": 14.43,
+      "end": 15.37,
+      "text": "Eu faço por 10."
+    },
+    {
+      "start": 15.73,
+      "end": 17.13,
+      "text": "Estou precisando levantar um dinheiro."
+    },
+    {
+      "start": 17.85,
+      "end": 20.99,
+      "text": "As outras iscas, ele pagou 2,99."
+    },
+    {
+      "start": 21.59,
+      "end": 26.69,
+      "text": "Se quiser vir olhar, tem mais de 150 iscas."
+    },
+    {
+      "start": 27.39,
+      "end": 29.05,
+      "text": "Eu faço tudo por 50 reais."
+    },
+    {
+      "start": 29.05,
+      "end": 30.03,
+      "text": "Se quiser vir buscar."
+    }
+  ],
+  "duracao_seg": 31.19,
+  "idioma_detectado": "pt"
+}
