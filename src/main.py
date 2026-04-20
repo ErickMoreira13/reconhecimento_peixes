@@ -10,6 +10,7 @@ from src import ascii_art, config, ui
 from src.harvester import youtube as yt
 from src.transcriber import whisper_turbo as wt
 from src.extracao import qwen_extrator, gliner_client
+from src.schemas import CAMPOS_PIPELINE
 from src.verificador import retry_loop
 from src.storage import db as storage
 
@@ -268,12 +269,12 @@ def cmd_exportar(args):
 
     out_csv = config.RESULTS_DIR / f"planilha_{agora_compact()}.csv"
 
-    cols = [
-        "plataforma", "autor", "link", "data_publicacao",
-        "estado", "municipio", "rio", "bacia",
-        "tipo_ceva", "grao", "especies", "observacoes",
-        "verificado", "flags_fora_do_gazetteer",
-    ]
+    # header = metadata do video + 8 campos extraidos (SSOT em schemas) + flags
+    cols = (
+        ["plataforma", "autor", "link", "data_publicacao"]
+        + list(CAMPOS_PIPELINE)
+        + ["verificado", "flags_fora_do_gazetteer"]
+    )
 
     escritos = 0
     with open(out_csv, "w", encoding="utf-8", newline="") as f:
