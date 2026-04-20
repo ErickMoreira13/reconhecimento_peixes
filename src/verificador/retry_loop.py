@@ -3,10 +3,14 @@ import time
 import ollama
 
 from src import config
+from src.log import get_logger
 from src.schemas import CampoExtraido, Veredito
 from src.verificador import regras, critic
 from src.extracao.prompts import monta_prompt_extrator
 from src.extracao.qwen_extrator import _parse_json_safe, _chama_ollama
+
+
+_log = get_logger()
 
 
 # loop do verificador com retry budget
@@ -83,7 +87,7 @@ TRANSCRICAO:
             options={"temperature": temp, "num_ctx": 8192},
         )
     except Exception as e:
-        print(f"retry falhou: {e}")
+        _log.warning("retry falhou: %s", e)
         return None
     lat_ms = int((time.monotonic() - t0) * 1000)
 
