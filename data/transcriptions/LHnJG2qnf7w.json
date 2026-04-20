@@ -1,0 +1,22 @@
+{
+  "texto": "E compreender, amar E tocando os dias Pela longa",
+  "segmentos": [
+    {
+      "start": 3.15,
+      "end": 4.99,
+      "text": "E compreender, amar"
+    },
+    {
+      "start": 4.99,
+      "end": 15.56,
+      "text": "E tocando os dias"
+    },
+    {
+      "start": 15.56,
+      "end": 16.8,
+      "text": "Pela longa"
+    }
+  ],
+  "duracao_seg": 16.81,
+  "idioma_detectado": "pt"
+}

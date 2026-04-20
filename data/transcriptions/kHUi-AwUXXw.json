@@ -1,0 +1,107 @@
+{
+  "texto": "Como é que foi a situação? Aí, ó. Traído o touro, o eosão que eu peguei. Xa, mano. Mostra ali. Aí. Paranaíba, agora. Pato de Minas. Xa, mano. Tamo junto, a tropa. Ao vivo. A tropa, a tropa, a tropa. Aí, ó. Todo mundo. Xa, mano. É muita ação de piso. Pato de Minas, Paranaíba. Que dia é hoje? Dois de setembro de dois mil e três. Mais um.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Como é que foi a situação?"
+    },
+    {
+      "start": 1.38,
+      "end": 1.74,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 1.9,
+      "end": 3.66,
+      "text": "Traído o touro, o eosão que eu peguei."
+    },
+    {
+      "start": 3.76,
+      "end": 4.12,
+      "text": "Xa, mano."
+    },
+    {
+      "start": 4.48,
+      "end": 4.96,
+      "text": "Mostra ali."
+    },
+    {
+      "start": 4.96,
+      "end": 5.18,
+      "text": "Aí."
+    },
+    {
+      "start": 6.08,
+      "end": 7.0,
+      "text": "Paranaíba, agora."
+    },
+    {
+      "start": 7.14,
+      "end": 7.76,
+      "text": "Pato de Minas."
+    },
+    {
+      "start": 7.92,
+      "end": 8.28,
+      "text": "Xa, mano."
+    },
+    {
+      "start": 8.4,
+      "end": 9.34,
+      "text": "Tamo junto, a tropa."
+    },
+    {
+      "start": 9.44,
+      "end": 9.92,
+      "text": "Ao vivo."
+    },
+    {
+      "start": 9.98,
+      "end": 11.02,
+      "text": "A tropa, a tropa, a tropa."
+    },
+    {
+      "start": 11.12,
+      "end": 11.52,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 11.76,
+      "end": 12.36,
+      "text": "Todo mundo."
+    },
+    {
+      "start": 13.26,
+      "end": 13.72,
+      "text": "Xa, mano."
+    },
+    {
+      "start": 14.2,
+      "end": 15.52,
+      "text": "É muita ação de piso."
+    },
+    {
+      "start": 15.88,
+      "end": 17.24,
+      "text": "Pato de Minas, Paranaíba."
+    },
+    {
+      "start": 18.02,
+      "end": 18.5,
+      "text": "Que dia é hoje?"
+    },
+    {
+      "start": 18.56,
+      "end": 20.1,
+      "text": "Dois de setembro de dois mil e três."
+    },
+    {
+      "start": 21.0,
+      "end": 21.52,
+      "text": "Mais um."
+    }
+  ],
+  "duracao_seg": 22.29,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "é rapaziada, tô aqui com o parceiro aqui ó, daí veio pra pescar aqui, escureceu, turvou, né, tá sem farolete mas escuta o barulho dela aí ó a bichona aí ó quem que fica aqui, lagô, mato, lá pra riba lá tudo lá ó, aqui ó, tô até com o tripé na mão pra gravar e gravar nada, vambora",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 3.33,
+      "text": "é rapaziada, tô aqui com o parceiro"
+    },
+    {
+      "start": 3.33,
+      "end": 5.13,
+      "text": "aqui ó, daí veio pra pescar"
+    },
+    {
+      "start": 5.13,
+      "end": 7.33,
+      "text": "aqui, escureceu, turvou, né, tá sem farolete"
+    },
+    {
+      "start": 7.33,
+      "end": 8.77,
+      "text": "mas escuta o barulho dela aí ó"
+    },
+    {
+      "start": 8.77,
+      "end": 10.19,
+      "text": "a bichona aí ó"
+    },
+    {
+      "start": 10.19,
+      "end": 13.46,
+      "text": "quem que fica aqui, lagô, mato, lá pra riba"
+    },
+    {
+      "start": 13.46,
+      "end": 15.16,
+      "text": "lá tudo lá ó, aqui ó, tô até"
+    },
+    {
+      "start": 15.16,
+      "end": 16.96,
+      "text": "com o tripé na mão pra gravar"
+    },
+    {
+      "start": 16.96,
+      "end": 18.5,
+      "text": "e gravar nada, vambora"
+    }
+  ],
+  "duracao_seg": 18.83,
+  "idioma_detectado": "pt"
+}

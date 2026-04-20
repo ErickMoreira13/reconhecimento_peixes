@@ -1,0 +1,737 @@
+{
+  "texto": "Fala galera, boa tarde, beleza? Aí ó, mais uma pescaria Aí quem tá hoje aí ó Aí galera aí ó Juninho, Yuri, Credinho Aí galera ó Camisa nova do canal Que bacana aí ó Camisa nova, olha lá os meninos com a camisa nova lá Aí ó E aí, camisa bonita tá O Yuri falou que a dela vai chegar esses dias Isso aí Aqui uns dias chega a sua né Isso aí Ô galera, é isso aí ó Viemos fazer mais uma pescaria de curimbo aqui Não sabemos se vai dar alguma coisa não Porque tá ventando demais Mas vamos tentar aqui, beleza? Vamos pescar com massa, né? Massinha do canal aí, todo mundo já conhece Beleza? E vamos ver Se sai alguma coisa nós mostramos pra vocês aí Enquanto isso galera, se vocês puderem Deixar o joinha e se inscrever no nosso canal aí Quem não é inscrito, beleza? Tamo junto aí, daqui a pouco Se sair peixe nós mostramos pra vocês aí Valeu? Tchau, tchau galera Fala galera, beleza? Vou mostrar pra vocês aqui o meu sistema aqui ó Nós estamos pescando as curimbo aqui hoje Aqui ó É no que bom Tá vendo? No que bom eu coloco aqui ó O chuveirinho Com o ciguinho, tá vendo? Olha lá ó Ciguinho Beleza? Fica penduradinho ó E aqui ó Bacaninha Tem um estém por cima aqui Porque aqui tá meio corrente de água um pouquinho Aí ó Que belezinha Show galera ó Facinho É o chuveirinho Por dentro Coloco a massa E os figuinhos ó Beleza? Bora lá Jogar lá pra nós ver Bora esperar agora Esse bate as curimbo Beleza? Enquanto as curimbo não bate galera Deixa o seu joinha aí pra gente Se inscreve no nosso canal Se você não é inscrito Dá aquela moral Valeu? Tamo junto galera Galera Pegou uma bichona aqui galera Pegou uma vitela aqui galera Eita galera É grande viu galera Nossa Tamanho da bicha galera Você quer que tira aí? Aê galera Curimbo na bonita Bonita hein Tinha toda vida Aê galera Que bonita Filé toda Show de bola hein Vambora ver se nós pegamos mais Fala galera Bom dia Beleza? Galera Nós viemos Fazer uma pescaria de curimbo aqui hoje Mas Ontem né na verdade Foi ontem da tarde Nós procuramos uns pontos aqui Mas tá tudo ocupado Nós vem num pontinho aqui Mas Garrador puro Perdemos Uns 20 anzol aqui Mas Pelo menos Deu pra salvar o dia Pegamos duas curimbo boas Mas teve bom Deu Pra fazer pelo menos um videozinho Pra mostrar pra vocês aí Galera Nós não tava fazendo o vídeo Porque Tava muito frio Não tava tendo como pescar não Tava frio demais E aqui Olha pra você ver Hoje não tá ventando tanto E olha como é que tá ventando Aí não tem jeito de pescar né Mas até agora pra frente Vamos começar a pescaria de novo E vou mostrar pra vocês Beleza? Vou mostrar pra vocês Que é o peixinho que nós pegamos aqui Aí galera Que bichinho bonito Aí ó Essa aí faz duas que saiu Já deu uns 3,5kg mais ou menos Bão demais Beleza? E essa aqui eu vou oferecer pra vocês Tá galera? Pra todos os inscritos do canal Essa aí pra vocês que nos seguem Nos assistem todos os videos Beleza galera? Que um forte abraço pra vocês E vamos esperar a próxima pescaria Tomara que seja boa Beleza? Um abraço galera Tchau, tchau Tchau",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 2.91,
+      "text": "Fala galera, boa tarde, beleza?"
+    },
+    {
+      "start": 3.61,
+      "end": 5.05,
+      "text": "Aí ó, mais uma pescaria"
+    },
+    {
+      "start": 5.05,
+      "end": 6.83,
+      "text": "Aí quem tá hoje aí ó"
+    },
+    {
+      "start": 6.83,
+      "end": 8.71,
+      "text": "Aí galera aí ó"
+    },
+    {
+      "start": 8.71,
+      "end": 11.59,
+      "text": "Juninho, Yuri, Credinho"
+    },
+    {
+      "start": 11.59,
+      "end": 12.91,
+      "text": "Aí galera ó"
+    },
+    {
+      "start": 12.91,
+      "end": 14.75,
+      "text": "Camisa nova do canal"
+    },
+    {
+      "start": 14.75,
+      "end": 17.65,
+      "text": "Que bacana aí ó"
+    },
+    {
+      "start": 17.65,
+      "end": 20.09,
+      "text": "Camisa nova, olha lá os meninos com a camisa nova lá"
+    },
+    {
+      "start": 20.09,
+      "end": 21.99,
+      "text": "Aí ó"
+    },
+    {
+      "start": 21.99,
+      "end": 23.99,
+      "text": "E aí, camisa bonita tá"
+    },
+    {
+      "start": 23.99,
+      "end": 26.11,
+      "text": "O Yuri falou que a dela vai chegar esses dias"
+    },
+    {
+      "start": 26.11,
+      "end": 27.03,
+      "text": "Isso aí"
+    },
+    {
+      "start": 27.03,
+      "end": 28.21,
+      "text": "Aqui uns dias chega a sua né"
+    },
+    {
+      "start": 28.21,
+      "end": 29.17,
+      "text": "Isso aí"
+    },
+    {
+      "start": 29.17,
+      "end": 31.57,
+      "text": "Ô galera, é isso aí ó"
+    },
+    {
+      "start": 31.57,
+      "end": 33.85,
+      "text": "Viemos fazer mais uma pescaria de curimbo aqui"
+    },
+    {
+      "start": 33.85,
+      "end": 35.73,
+      "text": "Não sabemos se vai dar alguma coisa não"
+    },
+    {
+      "start": 35.73,
+      "end": 37.87,
+      "text": "Porque tá ventando demais"
+    },
+    {
+      "start": 37.87,
+      "end": 40.07,
+      "text": "Mas vamos tentar aqui, beleza?"
+    },
+    {
+      "start": 40.57,
+      "end": 42.21,
+      "text": "Vamos pescar com massa, né?"
+    },
+    {
+      "start": 42.33,
+      "end": 44.23,
+      "text": "Massinha do canal aí, todo mundo já conhece"
+    },
+    {
+      "start": 44.23,
+      "end": 45.61,
+      "text": "Beleza? E vamos ver"
+    },
+    {
+      "start": 45.61,
+      "end": 47.39,
+      "text": "Se sai alguma coisa nós mostramos pra vocês aí"
+    },
+    {
+      "start": 47.39,
+      "end": 49.49,
+      "text": "Enquanto isso galera, se vocês puderem"
+    },
+    {
+      "start": 49.49,
+      "end": 51.57,
+      "text": "Deixar o joinha e se inscrever no nosso canal aí"
+    },
+    {
+      "start": 51.57,
+      "end": 53.13,
+      "text": "Quem não é inscrito, beleza?"
+    },
+    {
+      "start": 53.37,
+      "end": 55.11,
+      "text": "Tamo junto aí, daqui a pouco"
+    },
+    {
+      "start": 55.11,
+      "end": 56.85,
+      "text": "Se sair peixe nós mostramos pra vocês aí"
+    },
+    {
+      "start": 56.85,
+      "end": 58.55,
+      "text": "Valeu? Tchau, tchau galera"
+    },
+    {
+      "start": 61.38,
+      "end": 62.64,
+      "text": "Fala galera, beleza?"
+    },
+    {
+      "start": 62.92,
+      "end": 64.48,
+      "text": "Vou mostrar pra vocês aqui o meu sistema aqui ó"
+    },
+    {
+      "start": 64.48,
+      "end": 66.1,
+      "text": "Nós estamos pescando as curimbo aqui hoje"
+    },
+    {
+      "start": 66.1,
+      "end": 67.32,
+      "text": "Aqui ó"
+    },
+    {
+      "start": 67.32,
+      "end": 68.6,
+      "text": "É no que bom"
+    },
+    {
+      "start": 68.6,
+      "end": 69.66,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 70.7,
+      "end": 72.28,
+      "text": "No que bom eu coloco aqui ó"
+    },
+    {
+      "start": 72.28,
+      "end": 74.12,
+      "text": "O chuveirinho"
+    },
+    {
+      "start": 74.12,
+      "end": 75.74,
+      "text": "Com o ciguinho, tá vendo?"
+    },
+    {
+      "start": 76.65,
+      "end": 77.51,
+      "text": "Olha lá ó"
+    },
+    {
+      "start": 77.51,
+      "end": 78.03,
+      "text": "Ciguinho"
+    },
+    {
+      "start": 78.03,
+      "end": 80.12,
+      "text": "Beleza?"
+    },
+    {
+      "start": 80.28,
+      "end": 81.38,
+      "text": "Fica penduradinho ó"
+    },
+    {
+      "start": 81.38,
+      "end": 82.92,
+      "text": "E aqui ó"
+    },
+    {
+      "start": 82.92,
+      "end": 83.48,
+      "text": "Bacaninha"
+    },
+    {
+      "start": 83.48,
+      "end": 84.66,
+      "text": "Tem um estém por cima aqui"
+    },
+    {
+      "start": 84.66,
+      "end": 86.38,
+      "text": "Porque aqui tá meio corrente de água um pouquinho"
+    },
+    {
+      "start": 86.38,
+      "end": 87.53,
+      "text": "Aí ó"
+    },
+    {
+      "start": 87.53,
+      "end": 88.23,
+      "text": "Que belezinha"
+    },
+    {
+      "start": 88.23,
+      "end": 90.53,
+      "text": "Show galera ó"
+    },
+    {
+      "start": 90.53,
+      "end": 91.15,
+      "text": "Facinho"
+    },
+    {
+      "start": 91.15,
+      "end": 93.14,
+      "text": "É o chuveirinho"
+    },
+    {
+      "start": 93.14,
+      "end": 94.48,
+      "text": "Por dentro"
+    },
+    {
+      "start": 94.48,
+      "end": 96.72,
+      "text": "Coloco a massa"
+    },
+    {
+      "start": 96.72,
+      "end": 98.26,
+      "text": "E os figuinhos ó"
+    },
+    {
+      "start": 98.26,
+      "end": 98.7,
+      "text": "Beleza?"
+    },
+    {
+      "start": 99.82,
+      "end": 100.32,
+      "text": "Bora lá"
+    },
+    {
+      "start": 100.32,
+      "end": 102.1,
+      "text": "Jogar lá pra nós ver"
+    },
+    {
+      "start": 102.1,
+      "end": 117.48,
+      "text": "Bora esperar agora"
+    },
+    {
+      "start": 117.48,
+      "end": 118.32,
+      "text": "Esse bate as curimbo"
+    },
+    {
+      "start": 118.32,
+      "end": 119.14,
+      "text": "Beleza?"
+    },
+    {
+      "start": 120.0,
+      "end": 121.94,
+      "text": "Enquanto as curimbo não bate galera"
+    },
+    {
+      "start": 121.94,
+      "end": 124.18,
+      "text": "Deixa o seu joinha aí pra gente"
+    },
+    {
+      "start": 124.18,
+      "end": 125.16,
+      "text": "Se inscreve no nosso canal"
+    },
+    {
+      "start": 125.16,
+      "end": 126.22,
+      "text": "Se você não é inscrito"
+    },
+    {
+      "start": 126.22,
+      "end": 127.74,
+      "text": "Dá aquela moral"
+    },
+    {
+      "start": 127.74,
+      "end": 128.28,
+      "text": "Valeu?"
+    },
+    {
+      "start": 128.42,
+      "end": 129.14,
+      "text": "Tamo junto galera"
+    },
+    {
+      "start": 129.14,
+      "end": 142.6,
+      "text": "Galera"
+    },
+    {
+      "start": 142.6,
+      "end": 143.82,
+      "text": "Pegou uma bichona aqui galera"
+    },
+    {
+      "start": 143.82,
+      "end": 148.56,
+      "text": "Pegou uma vitela aqui galera"
+    },
+    {
+      "start": 148.56,
+      "end": 157.62,
+      "text": "Eita galera"
+    },
+    {
+      "start": 157.62,
+      "end": 167.25,
+      "text": "É grande viu galera"
+    },
+    {
+      "start": 167.25,
+      "end": 176.9,
+      "text": "Nossa"
+    },
+    {
+      "start": 176.9,
+      "end": 186.21,
+      "text": "Tamanho da bicha galera"
+    },
+    {
+      "start": 186.21,
+      "end": 221.15,
+      "text": "Você quer que tira aí?"
+    },
+    {
+      "start": 221.63,
+      "end": 234.06,
+      "text": "Aê galera"
+    },
+    {
+      "start": 234.06,
+      "end": 237.19,
+      "text": "Curimbo na bonita"
+    },
+    {
+      "start": 237.19,
+      "end": 242.98,
+      "text": "Bonita hein"
+    },
+    {
+      "start": 242.98,
+      "end": 250.55,
+      "text": "Tinha toda vida"
+    },
+    {
+      "start": 250.55,
+      "end": 264.78,
+      "text": "Aê galera"
+    },
+    {
+      "start": 264.78,
+      "end": 266.94,
+      "text": "Que bonita"
+    },
+    {
+      "start": 266.94,
+      "end": 269.25,
+      "text": "Filé toda"
+    },
+    {
+      "start": 269.25,
+      "end": 271.77,
+      "text": "Show de bola hein"
+    },
+    {
+      "start": 271.77,
+      "end": 274.38,
+      "text": "Vambora ver se nós pegamos mais"
+    },
+    {
+      "start": 274.38,
+      "end": 283.61,
+      "text": "Fala galera"
+    },
+    {
+      "start": 283.61,
+      "end": 284.07,
+      "text": "Bom dia"
+    },
+    {
+      "start": 284.07,
+      "end": 284.75,
+      "text": "Beleza?"
+    },
+    {
+      "start": 285.55,
+      "end": 285.99,
+      "text": "Galera"
+    },
+    {
+      "start": 285.99,
+      "end": 286.93,
+      "text": "Nós viemos"
+    },
+    {
+      "start": 286.93,
+      "end": 288.83,
+      "text": "Fazer uma pescaria de curimbo aqui hoje"
+    },
+    {
+      "start": 288.83,
+      "end": 289.09,
+      "text": "Mas"
+    },
+    {
+      "start": 289.09,
+      "end": 290.63,
+      "text": "Ontem né na verdade"
+    },
+    {
+      "start": 290.63,
+      "end": 291.41,
+      "text": "Foi ontem da tarde"
+    },
+    {
+      "start": 291.41,
+      "end": 293.25,
+      "text": "Nós procuramos uns pontos aqui"
+    },
+    {
+      "start": 293.25,
+      "end": 294.37,
+      "text": "Mas tá tudo ocupado"
+    },
+    {
+      "start": 294.37,
+      "end": 295.41,
+      "text": "Nós vem num pontinho aqui"
+    },
+    {
+      "start": 295.41,
+      "end": 295.69,
+      "text": "Mas"
+    },
+    {
+      "start": 295.69,
+      "end": 297.39,
+      "text": "Garrador puro"
+    },
+    {
+      "start": 297.39,
+      "end": 298.78,
+      "text": "Perdemos"
+    },
+    {
+      "start": 298.78,
+      "end": 300.0,
+      "text": "Uns 20 anzol aqui"
+    },
+    {
+      "start": 300.0,
+      "end": 301.22,
+      "text": "Mas"
+    },
+    {
+      "start": 301.22,
+      "end": 302.08,
+      "text": "Pelo menos"
+    },
+    {
+      "start": 302.08,
+      "end": 302.96,
+      "text": "Deu pra salvar o dia"
+    },
+    {
+      "start": 302.96,
+      "end": 304.58,
+      "text": "Pegamos duas curimbo boas"
+    },
+    {
+      "start": 304.58,
+      "end": 306.0,
+      "text": "Mas teve bom"
+    },
+    {
+      "start": 306.0,
+      "end": 306.36,
+      "text": "Deu"
+    },
+    {
+      "start": 306.36,
+      "end": 307.76,
+      "text": "Pra fazer pelo menos um videozinho"
+    },
+    {
+      "start": 307.76,
+      "end": 308.46,
+      "text": "Pra mostrar pra vocês aí"
+    },
+    {
+      "start": 308.46,
+      "end": 309.16,
+      "text": "Galera"
+    },
+    {
+      "start": 309.16,
+      "end": 310.38,
+      "text": "Nós não tava fazendo o vídeo"
+    },
+    {
+      "start": 310.38,
+      "end": 310.74,
+      "text": "Porque"
+    },
+    {
+      "start": 310.74,
+      "end": 312.06,
+      "text": "Tava muito frio"
+    },
+    {
+      "start": 312.06,
+      "end": 313.9,
+      "text": "Não tava tendo como pescar não"
+    },
+    {
+      "start": 313.9,
+      "end": 315.58,
+      "text": "Tava frio demais"
+    },
+    {
+      "start": 315.58,
+      "end": 316.06,
+      "text": "E aqui"
+    },
+    {
+      "start": 316.06,
+      "end": 316.6,
+      "text": "Olha pra você ver"
+    },
+    {
+      "start": 316.6,
+      "end": 318.44,
+      "text": "Hoje não tá ventando tanto"
+    },
+    {
+      "start": 318.44,
+      "end": 319.36,
+      "text": "E olha como é que tá ventando"
+    },
+    {
+      "start": 319.36,
+      "end": 320.56,
+      "text": "Aí não tem jeito de pescar né"
+    },
+    {
+      "start": 320.56,
+      "end": 321.72,
+      "text": "Mas até agora pra frente"
+    },
+    {
+      "start": 321.72,
+      "end": 323.12,
+      "text": "Vamos começar a pescaria de novo"
+    },
+    {
+      "start": 323.12,
+      "end": 324.88,
+      "text": "E vou mostrar pra vocês"
+    },
+    {
+      "start": 324.88,
+      "end": 325.26,
+      "text": "Beleza?"
+    },
+    {
+      "start": 325.52,
+      "end": 326.06,
+      "text": "Vou mostrar pra vocês"
+    },
+    {
+      "start": 326.06,
+      "end": 327.18,
+      "text": "Que é o peixinho que nós pegamos aqui"
+    },
+    {
+      "start": 327.18,
+      "end": 330.52,
+      "text": "Aí galera"
+    },
+    {
+      "start": 330.52,
+      "end": 332.36,
+      "text": "Que bichinho bonito"
+    },
+    {
+      "start": 332.36,
+      "end": 334.34,
+      "text": "Aí ó"
+    },
+    {
+      "start": 334.34,
+      "end": 336.06,
+      "text": "Essa aí faz duas que saiu"
+    },
+    {
+      "start": 336.06,
+      "end": 339.17,
+      "text": "Já deu uns 3,5kg mais ou menos"
+    },
+    {
+      "start": 339.17,
+      "end": 340.11,
+      "text": "Bão demais"
+    },
+    {
+      "start": 340.11,
+      "end": 341.35,
+      "text": "Beleza?"
+    },
+    {
+      "start": 341.87,
+      "end": 343.23,
+      "text": "E essa aqui eu vou oferecer pra vocês"
+    },
+    {
+      "start": 343.23,
+      "end": 343.69,
+      "text": "Tá galera?"
+    },
+    {
+      "start": 344.05,
+      "end": 346.11,
+      "text": "Pra todos os inscritos do canal"
+    },
+    {
+      "start": 346.11,
+      "end": 348.97,
+      "text": "Essa aí pra vocês que nos seguem"
+    },
+    {
+      "start": 348.97,
+      "end": 350.73,
+      "text": "Nos assistem todos os videos"
+    },
+    {
+      "start": 350.73,
+      "end": 351.83,
+      "text": "Beleza galera?"
+    },
+    {
+      "start": 352.23,
+      "end": 353.73,
+      "text": "Que um forte abraço pra vocês"
+    },
+    {
+      "start": 353.73,
+      "end": 355.69,
+      "text": "E vamos esperar a próxima pescaria"
+    },
+    {
+      "start": 355.69,
+      "end": 356.51,
+      "text": "Tomara que seja boa"
+    },
+    {
+      "start": 356.51,
+      "end": 357.31,
+      "text": "Beleza?"
+    },
+    {
+      "start": 357.79,
+      "end": 358.43,
+      "text": "Um abraço galera"
+    },
+    {
+      "start": 358.43,
+      "end": 358.73,
+      "text": "Tchau, tchau"
+    },
+    {
+      "start": 358.73,
+      "end": 358.91,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 360.41,
+  "idioma_detectado": "pt"
+}

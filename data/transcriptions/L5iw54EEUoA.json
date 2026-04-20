@@ -1,0 +1,67 @@
+{
+  "texto": "Vou mostrar aí para vocês o tamanho da chumbada que a gente está usando aqui e o tamanho do anzol. Esse aqui é o tamanho do anzol para os peixes que tem aqui, nesse lugar aqui. Até dá para botar anzol maior, mas aqui está bom já. Vamos lá, gurizada. Vamos pescar. Aí, uma buchinha de fígado de galinha com elástico. A chumbada aqui e aí um tanto de linha para baixo da chumbada. Vamos experimentar aí para ver. O bom é que faz uma bolota de fígado e aí o peixe pequeno fica beliscando na volta e o grande vem. Dá tempo para o grande vir. Aí, aí pegou. Esse aqui não é muito grande, mas já está valendo. Vamos ver na sequência do dia aí se a gente consegue pegar os maiores.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.52,
+      "text": "Vou mostrar aí para vocês o tamanho da chumbada que a gente está usando aqui e o tamanho do anzol."
+    },
+    {
+      "start": 11.8,
+      "end": 16.4,
+      "text": "Esse aqui é o tamanho do anzol para os peixes que tem aqui, nesse lugar aqui."
+    },
+    {
+      "start": 16.76,
+      "end": 20.45,
+      "text": "Até dá para botar anzol maior, mas aqui está bom já."
+    },
+    {
+      "start": 21.03,
+      "end": 23.37,
+      "text": "Vamos lá, gurizada. Vamos pescar."
+    },
+    {
+      "start": 23.91,
+      "end": 26.97,
+      "text": "Aí, uma buchinha de fígado de galinha com elástico."
+    },
+    {
+      "start": 28.56,
+      "end": 33.94,
+      "text": "A chumbada aqui e aí um tanto de linha para baixo da chumbada."
+    },
+    {
+      "start": 33.94,
+      "end": 35.18,
+      "text": "Vamos experimentar aí para ver."
+    },
+    {
+      "start": 35.92,
+      "end": 43.34,
+      "text": "O bom é que faz uma bolota de fígado e aí o peixe pequeno fica beliscando na volta e o grande vem."
+    },
+    {
+      "start": 44.19,
+      "end": 45.23,
+      "text": "Dá tempo para o grande vir."
+    },
+    {
+      "start": 46.21,
+      "end": 47.83,
+      "text": "Aí, aí pegou."
+    },
+    {
+      "start": 48.92,
+      "end": 51.42,
+      "text": "Esse aqui não é muito grande, mas já está valendo."
+    },
+    {
+      "start": 53.77,
+      "end": 58.59,
+      "text": "Vamos ver na sequência do dia aí se a gente consegue pegar os maiores."
+    }
+  ],
+  "duracao_seg": 59.19,
+  "idioma_detectado": "pt"
+}

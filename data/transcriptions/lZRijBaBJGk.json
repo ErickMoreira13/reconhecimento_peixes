@@ -1,0 +1,17 @@
+{
+  "texto": "aí galera, tem uma traída aqui isso aqui pra mim é a da maior pescaria que tem no Maranhão",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 1.58,
+      "text": "aí galera, tem uma traída aqui"
+    },
+    {
+      "start": 1.58,
+      "end": 4.73,
+      "text": "isso aqui pra mim é a da maior pescaria que tem no Maranhão"
+    }
+  ],
+  "duracao_seg": 5.69,
+  "idioma_detectado": "pt"
+}

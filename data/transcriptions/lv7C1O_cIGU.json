@@ -1,0 +1,32 @@
+{
+  "texto": "Com o matãozinho aqui, no terreno do Bacorota aqui ó, o riacho aqui ó, lotado com o matão aqui, a gente tá escolhendo só as melhores, essas ribellas a gente deixa passar. Ricardo, com o matão, rodazinho ó. Mostra essa manhã, ó. Aqui, Ricardo, ó. Não sei se eu levo pra Rodrigo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.7,
+      "text": "Com o matãozinho aqui, no terreno do Bacorota aqui ó, o riacho aqui ó, lotado com o matão aqui, a gente tá escolhendo só as melhores, essas ribellas a gente deixa passar."
+    },
+    {
+      "start": 8.28,
+      "end": 9.84,
+      "text": "Ricardo, com o matão, rodazinho ó."
+    },
+    {
+      "start": 10.1,
+      "end": 10.98,
+      "text": "Mostra essa manhã, ó."
+    },
+    {
+      "start": 11.16,
+      "end": 12.12,
+      "text": "Aqui, Ricardo, ó."
+    },
+    {
+      "start": 13.04,
+      "end": 15.0,
+      "text": "Não sei se eu levo pra Rodrigo."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

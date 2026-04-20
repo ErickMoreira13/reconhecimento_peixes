@@ -1,0 +1,27 @@
+{
+  "texto": "essa é uma top gun da marina esportes é um skin de 8 centímetros e pesa 8 gramas é a tsunami da lisa de fish galera essa é a destroy 95 transparente de grada galera até parece um camarãozinho essa também galera destroy mas só que essa é a 75 transparente cabeça verde galera e essa outra galera brava 77 branca tive resultado também",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 11.07,
+      "text": "essa é uma top gun da marina esportes é um skin de 8 centímetros e pesa 8 gramas é a tsunami da"
+    },
+    {
+      "start": 11.07,
+      "end": 20.48,
+      "text": "lisa de fish galera essa é a destroy 95 transparente de grada galera até parece um camarãozinho essa"
+    },
+    {
+      "start": 20.48,
+      "end": 27.24,
+      "text": "também galera destroy mas só que essa é a 75 transparente cabeça verde galera e essa outra"
+    },
+    {
+      "start": 27.24,
+      "end": 33.64,
+      "text": "galera brava 77 branca tive resultado também"
+    }
+  ],
+  "duracao_seg": 32.25,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "O menino de vovó vai deixar vovô Vai deixar, vai deixar, vai deixar, vai deixar vovô O menino de vovó vai deixar vovô O menino de vovô vai deixar vovô Vai deixar vovô Na casa de vovô, só nasceu de uma talada Semana, como billos, vai deixar vovô",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "O menino de vovó vai deixar vovô"
+    },
+    {
+      "start": 4.46,
+      "end": 9.56,
+      "text": "Vai deixar, vai deixar, vai deixar, vai deixar vovô"
+    },
+    {
+      "start": 9.56,
+      "end": 13.02,
+      "text": "O menino de vovó vai deixar vovô"
+    },
+    {
+      "start": 13.04,
+      "end": 15.2,
+      "text": "O menino de vovô vai deixar vovô"
+    },
+    {
+      "start": 15.22,
+      "end": 20.75,
+      "text": "Vai deixar vovô"
+    },
+    {
+      "start": 20.77,
+      "end": 24.51,
+      "text": "Na casa de vovô, só nasceu de uma talada"
+    },
+    {
+      "start": 24.53,
+      "end": 32.96,
+      "text": "Semana, como billos, vai deixar vovô"
+    }
+  ],
+  "duracao_seg": 33.01,
+  "idioma_detectado": "pt"
+}

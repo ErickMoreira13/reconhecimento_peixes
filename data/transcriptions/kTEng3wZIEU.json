@@ -1,0 +1,17 @@
+{
+  "texto": "Aê Dirceu, provado que tem né? Tem ou não tem? Aê companheiro, tem? Tem, alevino pequenininho aí ó, pegamos, vai pra vida, olha só o bichão, aê, show de bola",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 4.51,
+      "text": "Aê Dirceu, provado que tem né? Tem ou não tem?"
+    },
+    {
+      "start": 5.17,
+      "end": 14.59,
+      "text": "Aê companheiro, tem? Tem, alevino pequenininho aí ó, pegamos, vai pra vida, olha só o bichão, aê, show de bola"
+    }
+  ],
+  "duracao_seg": 14.97,
+  "idioma_detectado": "pt"
+}

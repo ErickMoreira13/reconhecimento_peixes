@@ -1,0 +1,47 @@
+{
+  "texto": "Quem sabe este nome seja o seu Esse alguém que o Senhor vai levantar Talvez seja o menor que está aqui De repente ele seja o último a sentar à mesa como fez Davi E esse novo vencedor que vai surgir Tem no peito um coração cheio de amor Capaz de perdoar quem lhe feriu E de amar alguém que só lhe despegue",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Quem sabe este nome seja o seu"
+    },
+    {
+      "start": 3.24,
+      "end": 6.7,
+      "text": "Esse alguém que o Senhor vai levantar"
+    },
+    {
+      "start": 6.7,
+      "end": 9.68,
+      "text": "Talvez seja o menor que está aqui"
+    },
+    {
+      "start": 9.68,
+      "end": 16.44,
+      "text": "De repente ele seja o último a sentar à mesa como fez Davi"
+    },
+    {
+      "start": 16.44,
+      "end": 21.29,
+      "text": "E esse novo vencedor que vai surgir"
+    },
+    {
+      "start": 21.29,
+      "end": 24.39,
+      "text": "Tem no peito um coração cheio de amor"
+    },
+    {
+      "start": 24.39,
+      "end": 27.61,
+      "text": "Capaz de perdoar quem lhe feriu"
+    },
+    {
+      "start": 27.61,
+      "end": 30.13,
+      "text": "E de amar alguém que só lhe despegue"
+    }
+  ],
+  "duracao_seg": 30.37,
+  "idioma_detectado": "pt"
+}

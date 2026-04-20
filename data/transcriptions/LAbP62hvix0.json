@@ -1,0 +1,27 @@
+{
+  "texto": "Estamos aqui no cantinho aqui. Olha lá, olha lá, olha lá. 35 mil. Olha lá, olha lá. Olha lá.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Estamos aqui no cantinho aqui. Olha lá, olha lá, olha lá."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "35 mil."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Olha lá, olha lá."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Olha lá."
+    }
+  ],
+  "duracao_seg": 8.57,
+  "idioma_detectado": "pt"
+}

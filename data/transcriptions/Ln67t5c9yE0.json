@@ -1,0 +1,27 @@
+{
+  "texto": "Aí, pessoal, aí meu professor aí, pimpicã, viu? Material bom, é hoje. O robalo frecha. Show!",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 4.32,
+      "text": "Aí, pessoal, aí meu professor aí, pimpicã, viu?"
+    },
+    {
+      "start": 5.18,
+      "end": 7.08,
+      "text": "Material bom, é hoje."
+    },
+    {
+      "start": 7.72,
+      "end": 9.08,
+      "text": "O robalo frecha."
+    },
+    {
+      "start": 10.42,
+      "end": 11.1,
+      "text": "Show!"
+    }
+  ],
+  "duracao_seg": 11.81,
+  "idioma_detectado": "pt"
+}

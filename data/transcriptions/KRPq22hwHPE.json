@@ -1,0 +1,42 @@
+{
+  "texto": "E aí pessoal, um despilhinho pra perguntar como é que eu peço com o corimba aqui, ó Coloca a massinha no chuveirinho, ó E no zanzó, coloca o fígado, ó Cinca anzó, tá com o fígado, ó Beleza? Só que o fígado não tá legal, galera O fígado tá meio...",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 4.5,
+      "text": "E aí pessoal, um despilhinho pra perguntar como é que eu peço com o corimba aqui, ó"
+    },
+    {
+      "start": 4.5,
+      "end": 7.2,
+      "text": "Coloca a massinha no chuveirinho, ó"
+    },
+    {
+      "start": 7.2,
+      "end": 9.52,
+      "text": "E no zanzó, coloca o fígado, ó"
+    },
+    {
+      "start": 9.52,
+      "end": 11.34,
+      "text": "Cinca anzó, tá com o fígado, ó"
+    },
+    {
+      "start": 11.34,
+      "end": 11.84,
+      "text": "Beleza?"
+    },
+    {
+      "start": 12.74,
+      "end": 14.42,
+      "text": "Só que o fígado não tá legal, galera"
+    },
+    {
+      "start": 14.42,
+      "end": 15.26,
+      "text": "O fígado tá meio..."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

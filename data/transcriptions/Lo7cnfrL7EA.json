@@ -1,0 +1,77 @@
+{
+  "texto": "Eu vou azedar o milho Vou levar duas garrafas De cinco litros Dois quilos e meio de milho cada garrafa E vamos tentar azedar Eu nunca fiz isso Mas vamos ver se dá certo Então assim Aí pessoal Eu coloquei Para estar respirando aqui Coloquei um paninho para não dar bicho E agora vamos esperar aí Para ver o que vai acontecer nesses 25 dias",
+  "segmentos": [
+    {
+      "start": 1.33,
+      "end": 6.16,
+      "text": "Eu vou azedar o milho"
+    },
+    {
+      "start": 6.16,
+      "end": 8.71,
+      "text": "Vou levar duas garrafas"
+    },
+    {
+      "start": 8.71,
+      "end": 9.99,
+      "text": "De cinco litros"
+    },
+    {
+      "start": 9.99,
+      "end": 12.37,
+      "text": "Dois quilos e meio de milho cada garrafa"
+    },
+    {
+      "start": 12.37,
+      "end": 13.35,
+      "text": "E vamos tentar azedar"
+    },
+    {
+      "start": 13.35,
+      "end": 15.87,
+      "text": "Eu nunca fiz isso"
+    },
+    {
+      "start": 15.87,
+      "end": 18.32,
+      "text": "Mas vamos ver se dá certo"
+    },
+    {
+      "start": 18.32,
+      "end": 18.94,
+      "text": "Então assim"
+    },
+    {
+      "start": 18.94,
+      "end": 48.18,
+      "text": "Aí pessoal"
+    },
+    {
+      "start": 48.18,
+      "end": 49.4,
+      "text": "Eu coloquei"
+    },
+    {
+      "start": 49.4,
+      "end": 51.3,
+      "text": "Para estar respirando aqui"
+    },
+    {
+      "start": 51.3,
+      "end": 52.72,
+      "text": "Coloquei um paninho para não dar bicho"
+    },
+    {
+      "start": 52.72,
+      "end": 56.54,
+      "text": "E agora vamos esperar aí"
+    },
+    {
+      "start": 56.54,
+      "end": 59.14,
+      "text": "Para ver o que vai acontecer nesses 25 dias"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

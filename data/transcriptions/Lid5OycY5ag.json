@@ -1,0 +1,377 @@
+{
+  "texto": "Caranha, foi na boca mesmo. Rapaz, bem que o cara falou que os caras estavam pegando caranha aqui no grude. Bonita, ó. Cuidado. A pessoa já quer um pior amarelo. Ele estava pensando que era um pior amarelo. Rapaz, aí não dá medo de... Dá uns quatro quilos e meio. Quatro quilos e cinco. Eu peguei uma... Uma espaçada aqui. Boa. Isso aí está top, viu? Isso aí é bom. Rapaz, aí o cara está pensando que era um piau, mas eu acho que ele está mais feliz agora. Oi? Está mais feliz que pensava que era um piau, hein? Eu? Não, eu não sabia que era ela. Ela estava aqui hoje cedo batendo nas iscas. E os caras não estavam conseguindo pegar a piau. Eu tenho um alicatezinho, vem para tu puxar esse coisa aí. Isso aí dá para tirar. Isso aí espanta o piau, mano. Ai, meu filho. Ele está andando. Pega o alicate branco que está bem na bolsa. Ele já tirou. Não tirou, não. Tirou o anzol já. Tirou, não. Lá dentro do... Tirou, não. Lá dentro da sacola... Pega bem ali o alicate. Lá dentro da sacola tem um cordão azul. Daquele não serve, não? Um curtinho. É para mim só encabrestar ela. Lá dentro da sacola. É. Olha o tamanho da cara, hein, azona. O cara pegando com medo, não foi? Foi. Bonito. Olha, bicho, mano. Que hora é essa? Não, não vou tirar ela do anzol agora, não? Ah, tu não vai tirar, não. Porque ele foi buscar o cordão. Mas fecha ela bem aqui, só para que tu veja uma coisa. Só para que tu veja uma coisa, ó. Isso aí só. Espera aí. Fechou no oi dela? Já fechou. Isso aqui ela é... Olha, olha. Aqui não solta mais não, patrão. Aqui não tem para onde ela ir. Vocês estão pensando ali embaixo? Não, a gente chegou no instantinho. Chegou agora? É na hora que tu pegou. Olha isso que eu estou pegando o teu grito fino no celular. Olha o pé amarelo, o pé amarelo. Pega o celular. Pode segurar, não solta não. Olha, faz medo é quebrar aqui esse bicho é frágilzinho. Hum. Tchau. Tchau. Tchau. Tchau. Tchau.",
+  "segmentos": [
+    {
+      "start": 10.22,
+      "end": 28.58,
+      "text": "Caranha, foi na boca mesmo."
+    },
+    {
+      "start": 30.32,
+      "end": 33.12,
+      "text": "Rapaz, bem que o cara falou que os caras estavam pegando caranha aqui no grude."
+    },
+    {
+      "start": 45.28,
+      "end": 46.1,
+      "text": "Bonita, ó."
+    },
+    {
+      "start": 51.78,
+      "end": 52.3,
+      "text": "Cuidado."
+    },
+    {
+      "start": 54.08,
+      "end": 55.64,
+      "text": "A pessoa já quer um pior amarelo."
+    },
+    {
+      "start": 59.96,
+      "end": 61.6,
+      "text": "Ele estava pensando que era um pior amarelo."
+    },
+    {
+      "start": 62.8,
+      "end": 64.9,
+      "text": "Rapaz, aí não dá medo de..."
+    },
+    {
+      "start": 64.9,
+      "end": 65.8,
+      "text": "Dá uns quatro quilos e meio."
+    },
+    {
+      "start": 65.9,
+      "end": 66.7,
+      "text": "Quatro quilos e cinco."
+    },
+    {
+      "start": 67.36,
+      "end": 68.96,
+      "text": "Eu peguei uma..."
+    },
+    {
+      "start": 68.96,
+      "end": 69.86,
+      "text": "Uma espaçada aqui."
+    },
+    {
+      "start": 70.77,
+      "end": 71.09,
+      "text": "Boa."
+    },
+    {
+      "start": 71.33,
+      "end": 72.15,
+      "text": "Isso aí está top, viu?"
+    },
+    {
+      "start": 72.29,
+      "end": 73.15,
+      "text": "Isso aí é bom."
+    },
+    {
+      "start": 73.25,
+      "end": 76.21,
+      "text": "Rapaz, aí o cara está pensando que era um piau, mas eu acho que ele está mais feliz agora."
+    },
+    {
+      "start": 77.24,
+      "end": 77.46,
+      "text": "Oi?"
+    },
+    {
+      "start": 77.92,
+      "end": 79.88,
+      "text": "Está mais feliz que pensava que era um piau, hein?"
+    },
+    {
+      "start": 79.94,
+      "end": 81.18,
+      "text": "Eu? Não, eu não sabia que era ela."
+    },
+    {
+      "start": 82.26,
+      "end": 84.46,
+      "text": "Ela estava aqui hoje cedo batendo nas iscas."
+    },
+    {
+      "start": 85.52,
+      "end": 87.02,
+      "text": "E os caras não estavam conseguindo pegar a piau."
+    },
+    {
+      "start": 87.04,
+      "end": 89.2,
+      "text": "Eu tenho um alicatezinho, vem para tu puxar esse coisa aí."
+    },
+    {
+      "start": 89.22,
+      "end": 89.74,
+      "text": "Isso aí dá para tirar."
+    },
+    {
+      "start": 89.86,
+      "end": 91.1,
+      "text": "Isso aí espanta o piau, mano."
+    },
+    {
+      "start": 91.1,
+      "end": 91.56,
+      "text": "Ai, meu filho."
+    },
+    {
+      "start": 92.67,
+      "end": 93.21,
+      "text": "Ele está andando."
+    },
+    {
+      "start": 95.18,
+      "end": 96.82,
+      "text": "Pega o alicate branco que está bem na bolsa."
+    },
+    {
+      "start": 96.82,
+      "end": 97.84,
+      "text": "Ele já tirou."
+    },
+    {
+      "start": 97.86,
+      "end": 98.88,
+      "text": "Não tirou, não."
+    },
+    {
+      "start": 99.02,
+      "end": 99.5,
+      "text": "Tirou o anzol já."
+    },
+    {
+      "start": 100.04,
+      "end": 100.4,
+      "text": "Tirou, não."
+    },
+    {
+      "start": 101.04,
+      "end": 101.88,
+      "text": "Lá dentro do..."
+    },
+    {
+      "start": 101.88,
+      "end": 102.34,
+      "text": "Tirou, não."
+    },
+    {
+      "start": 102.82,
+      "end": 103.74,
+      "text": "Lá dentro da sacola..."
+    },
+    {
+      "start": 103.74,
+      "end": 104.66,
+      "text": "Pega bem ali o alicate."
+    },
+    {
+      "start": 105.34,
+      "end": 108.42,
+      "text": "Lá dentro da sacola tem um cordão azul."
+    },
+    {
+      "start": 108.48,
+      "end": 109.22,
+      "text": "Daquele não serve, não?"
+    },
+    {
+      "start": 109.22,
+      "end": 109.78,
+      "text": "Um curtinho."
+    },
+    {
+      "start": 109.88,
+      "end": 111.0,
+      "text": "É para mim só encabrestar ela."
+    },
+    {
+      "start": 111.5,
+      "end": 112.36,
+      "text": "Lá dentro da sacola."
+    },
+    {
+      "start": 112.44,
+      "end": 112.62,
+      "text": "É."
+    },
+    {
+      "start": 113.08,
+      "end": 114.46,
+      "text": "Olha o tamanho da cara, hein, azona."
+    },
+    {
+      "start": 114.7,
+      "end": 115.84,
+      "text": "O cara pegando com medo, não foi?"
+    },
+    {
+      "start": 116.12,
+      "end": 116.36,
+      "text": "Foi."
+    },
+    {
+      "start": 117.45,
+      "end": 117.77,
+      "text": "Bonito."
+    },
+    {
+      "start": 118.01,
+      "end": 118.59,
+      "text": "Olha, bicho, mano."
+    },
+    {
+      "start": 118.97,
+      "end": 119.43,
+      "text": "Que hora é essa?"
+    },
+    {
+      "start": 119.43,
+      "end": 121.85,
+      "text": "Não, não vou tirar ela do anzol agora, não?"
+    },
+    {
+      "start": 121.91,
+      "end": 122.63,
+      "text": "Ah, tu não vai tirar, não."
+    },
+    {
+      "start": 122.71,
+      "end": 123.83,
+      "text": "Porque ele foi buscar o cordão."
+    },
+    {
+      "start": 123.83,
+      "end": 129.12,
+      "text": "Mas fecha ela bem aqui, só para que tu veja uma coisa."
+    },
+    {
+      "start": 129.86,
+      "end": 130.78,
+      "text": "Só para que tu veja uma coisa, ó."
+    },
+    {
+      "start": 135.36,
+      "end": 136.02,
+      "text": "Isso aí só."
+    },
+    {
+      "start": 136.34,
+      "end": 136.62,
+      "text": "Espera aí."
+    },
+    {
+      "start": 137.02,
+      "end": 137.66,
+      "text": "Fechou no oi dela?"
+    },
+    {
+      "start": 138.66,
+      "end": 139.26,
+      "text": "Já fechou."
+    },
+    {
+      "start": 140.52,
+      "end": 141.84,
+      "text": "Isso aqui ela é..."
+    },
+    {
+      "start": 141.84,
+      "end": 142.14,
+      "text": "Olha, olha."
+    },
+    {
+      "start": 142.24,
+      "end": 143.52,
+      "text": "Aqui não solta mais não, patrão."
+    },
+    {
+      "start": 145.54,
+      "end": 146.58,
+      "text": "Aqui não tem para onde ela ir."
+    },
+    {
+      "start": 151.52,
+      "end": 152.62,
+      "text": "Vocês estão pensando ali embaixo?"
+    },
+    {
+      "start": 152.68,
+      "end": 154.18,
+      "text": "Não, a gente chegou no instantinho."
+    },
+    {
+      "start": 155.24,
+      "end": 155.76,
+      "text": "Chegou agora?"
+    },
+    {
+      "start": 155.82,
+      "end": 156.44,
+      "text": "É na hora que tu pegou."
+    },
+    {
+      "start": 156.44,
+      "end": 159.12,
+      "text": "Olha isso que eu estou pegando o teu grito fino no celular."
+    },
+    {
+      "start": 159.22,
+      "end": 160.44,
+      "text": "Olha o pé amarelo, o pé amarelo."
+    },
+    {
+      "start": 160.88,
+      "end": 161.56,
+      "text": "Pega o celular."
+    },
+    {
+      "start": 163.42,
+      "end": 164.5,
+      "text": "Pode segurar, não solta não."
+    },
+    {
+      "start": 164.5,
+      "end": 168.34,
+      "text": "Olha, faz medo é quebrar aqui esse bicho é frágilzinho."
+    },
+    {
+      "start": 168.78,
+      "end": 169.04,
+      "text": "Hum."
+    },
+    {
+      "start": 169.04,
+      "end": 170.04,
+      "text": "Tchau."
+    },
+    {
+      "start": 170.04,
+      "end": 171.04,
+      "text": "Tchau."
+    },
+    {
+      "start": 171.04,
+      "end": 172.04,
+      "text": "Tchau."
+    },
+    {
+      "start": 172.04,
+      "end": 172.18,
+      "text": "Tchau."
+    },
+    {
+      "start": 172.18,
+      "end": 172.22,
+      "text": "Tchau."
+    }
+  ],
+  "duracao_seg": 169.37,
+  "idioma_detectado": "pt"
+}

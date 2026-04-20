@@ -1,0 +1,17 @@
+{
+  "texto": "Na margem do São Francisco nasceu a beleza E a natureza ela conservou Jesus abençoou com sua mão divina Pra não morrer de saudade eu vou voltar pra Petrolinha",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 8.16,
+      "text": "Na margem do São Francisco nasceu a beleza E a natureza ela conservou"
+    },
+    {
+      "start": 8.16,
+      "end": 15.06,
+      "text": "Jesus abençoou com sua mão divina Pra não morrer de saudade eu vou voltar pra Petrolinha"
+    }
+  ],
+  "duracao_seg": 15.15,
+  "idioma_detectado": "pt"
+}
