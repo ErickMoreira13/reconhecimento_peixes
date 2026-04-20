@@ -5,7 +5,7 @@ import ollama
 
 from src import config
 from src.log import get_logger
-from src.schemas import CampoExtraido
+from src.schemas import CAMPOS_PIPELINE, CampoExtraido
 from src.extracao.prompts import monta_prompt_extrator, monta_prompt_retry_schema
 from src.extracao import gliner_client
 from src.extracao.utils import parse_json_safe as _parse_json_safe
@@ -232,7 +232,7 @@ def _consolida_chunks(
     #   com maior confianca
     # - especies: uniao dos nomes, deduplicado
     # - observacoes: concatena resumos curtos com " | "
-    campos = ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
+    campos = CAMPOS_PIPELINE
     out: dict[str, CampoExtraido] = {}
     lat_total = sum(r.get("estado").latencia_ms for r in resultados if r.get("estado"))
 
@@ -291,9 +291,8 @@ def _consolida_chunks(
 def _tudo_null(latencia_ms: int, modelo: str, motivo: str = "") -> dict[str, CampoExtraido]:
     # fallback quando o llm nao respondeu nada util
     # motivo ajuda a distinguir no csv final se foi culpa do llm ou texto insuficiente
-    campos = ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
     out = {}
-    for c in campos:
+    for c in CAMPOS_PIPELINE:
         out[c] = CampoExtraido(
             valor=None if c != "especies" else [],
             confianca=0.0,
@@ -343,11 +342,10 @@ def _monta_resultado(
     #     cuspiu schema errado (list/str direto em vez de envelope dict).
     #     se vier vazia ta tudo ok. se vier com itens, o caller pode decidir
     #     fazer retry com feedback pro llm
-    campos_esperados = ["estado", "municipio", "rio", "bacia", "tipo_ceva", "grao", "especies", "observacoes"]
     out = {}
     corrigidos: list[str] = []
 
-    for c in campos_esperados:
+    for c in CAMPOS_PIPELINE:
         item = data.get(c, {})
         # as vezes o llm cospe direto a lista/string em vez do objeto envelope
         # ex: "especies": ["tucunare", "pacu"]  em vez de {"valor": [...], ...}
