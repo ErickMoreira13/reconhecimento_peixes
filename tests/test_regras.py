@@ -361,3 +361,51 @@ def test_especies_stop_terms_aceita_so_peixe_real():
     )
     v = regras.aplica_regras("especies", c, TRANSC_EXEMPLO, {})
     assert v.aceito
+
+
+def test_bacia_reconhecida_nome_principal():
+    # fix 7: bacias principais do BR
+    assert regras.bacia_reconhecida("Amazonica")
+    assert regras.bacia_reconhecida("Sao Francisco")
+    assert regras.bacia_reconhecida("Parana")
+    assert regras.bacia_reconhecida("Uruguai")
+    assert regras.bacia_reconhecida("Tocantins-Araguaia")
+
+
+def test_bacia_reconhecida_com_acento():
+    # texto do whisper nem sempre tem acento, funcao normaliza
+    assert regras.bacia_reconhecida("Amazônica")
+    assert regras.bacia_reconhecida("São Francisco")
+    assert regras.bacia_reconhecida("Paraná")
+
+
+def test_bacia_reconhecida_com_prefixo_bacia():
+    assert regras.bacia_reconhecida("Bacia do Parana")
+    assert regras.bacia_reconhecida("Bacia do Sao Francisco")
+    assert regras.bacia_reconhecida("bacia da amazonica")
+
+
+def test_bacia_reconhecida_alias_coloquial():
+    # "velho chico" eh o Sao Francisco
+    assert regras.bacia_reconhecida("velho chico")
+    # "pantanal" eh a bacia do paraguai
+    assert regras.bacia_reconhecida("pantanal")
+
+
+def test_bacia_reconhecida_rio_principal_da_bacia():
+    # se extraiu "Sao Francisco" como bacia (aparece como rio tambem),
+    # eh reconhecido (nome de bacia = nome de rio principal)
+    assert regras.bacia_reconhecida("Tapajos")  # rio da amazonica
+    assert regras.bacia_reconhecida("Tiete")    # rio da parana
+
+
+def test_bacia_reconhecida_rejeita_termo_invalido():
+    # casos que apareceram nas anotacoes manuais
+    assert not regras.bacia_reconhecida("Lago do Anzol")  # lago, nao bacia
+    assert not regras.bacia_reconhecida("Piracema")        # epoca de desova
+    assert not regras.bacia_reconhecida("Piau Sul")        # variedade de peixe
+
+
+def test_bacia_reconhecida_vazio():
+    assert not regras.bacia_reconhecida("")
+    assert not regras.bacia_reconhecida(None)
