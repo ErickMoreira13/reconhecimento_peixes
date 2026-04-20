@@ -27,6 +27,22 @@ testes nao precisam de:
 
 cobertura real do que da pra testar sem externo: ~60%.
 
+### smoke test contra ollama (opcional)
+
+quando a GPU estiver livre (sem jogo rodando), da pra validar que o
+pipeline funciona end-to-end com modelo real:
+
+```bash
+# roda extracao em 10 videos e mostra stats de retry schema
+.venv/bin/python scripts/testar-retry-schema.py --limit 10
+
+# com offset pra testar subset diferente
+.venv/bin/python scripts/testar-retry-schema.py --limit 10 --offset 20
+```
+
+gera `docs/teste-retry-schema/_sumario.json` + 1 json por video. ver
+`docs/teste-retry-schema/README.md` pros detalhes.
+
 ## lint
 
 ```bash
