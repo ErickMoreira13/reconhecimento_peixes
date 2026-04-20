@@ -37,3 +37,31 @@ def test_colore_envolve_em_ansi():
     s = ascii_art.colore("oi", ascii_art.VERDE)
     # deve ter RESET no fim
     assert s.endswith(ascii_art.RESET) or s == "oi"
+
+
+def test_progress_bar_completo():
+    b = ascii_art.progress_bar(10, 10)
+    assert "100%" in b
+    assert "(10/10)" in b
+
+
+def test_progress_bar_meio():
+    b = ascii_art.progress_bar(5, 10, largura=10)
+    assert "50%" in b
+    # 5 hashes, 5 dashes
+    assert "#####-----" in b
+
+
+def test_progress_bar_zero():
+    b = ascii_art.progress_bar(0, 10)
+    assert "0%" in b
+
+
+def test_progress_bar_total_zero_retorna_vazio():
+    assert ascii_art.progress_bar(0, 0) == ""
+
+
+def test_separador_repete_char():
+    s = ascii_art.separador("-", 5, cor="")
+    # 5 traços (cor='' desliga ansi)
+    assert "-----" in s
