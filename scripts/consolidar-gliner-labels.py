@@ -13,7 +13,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src import ui_banners
+from src import ascii_art, ui_banners
 
 
 def carrega_parciais(pasta: Path) -> list[dict]:
@@ -58,6 +58,7 @@ def main():
     p.add_argument("--out", type=Path, default=Path("docs/comparacao-gliner-labels"))
     args = p.parse_args()
 
+    print(ascii_art.banner_projeto())
     print(ui_banners.banner_gliner_labels())
 
     r2 = carrega_parciais(args.dir / "2labels")
