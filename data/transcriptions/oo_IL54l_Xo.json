@@ -1,0 +1,27 @@
+{
+  "texto": "Desenrola, bate, joga de ladinho Desenrola, bate, joga de ladinho Tá banhando, tá lançando essa outra bota Menosinho, tá banhando essa outra bota",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.92,
+      "text": "Desenrola, bate, joga de ladinho"
+    },
+    {
+      "start": 4.92,
+      "end": 8.62,
+      "text": "Desenrola, bate, joga de ladinho"
+    },
+    {
+      "start": 8.62,
+      "end": 11.27,
+      "text": "Tá banhando, tá lançando essa outra bota"
+    },
+    {
+      "start": 11.27,
+      "end": 14.99,
+      "text": "Menosinho, tá banhando essa outra bota"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,447 @@
+{
+  "texto": "Eita, olha, perdeu o peixe Tá dando trabalho até pra tu Homem é ruim de passar a casa Rapaz, o cabo desse tamanzinho aqui, meu irmão Eita, miséria Chama, papai Isso é boa, é boa Cadê meu filho, pro lado de cá? Vai correr pra cá, olha Desconto, desconto Desconto, desconto Desconto, desconto Eita, agora desconto Ah, ladrão Cadê o filho? Solta, solta, solta Valeu já Gostou, mamãe? Eu disse, Cláudia, essa é a hora, Cláudia Na primeira que não pegou Agora eu quero pegar o meu Que peninha Olha aí galera, olha o balinho Flecha, lindo Olha aí galinha Olha aí galerinha Pescaria aqui no delta Chama, papai Olha o bicho cheiroso da porra Olha o nosso amigo querido aí Nossa amiga Eduardo Chama menino Agora eu vou trocar meu camarão Pega o passagem aí Agora é pra soltar esse aí É o maior é pra soltar Levanta, calma Vai nas mães, vai nas mães É porque é a farinha É a verdade porque é a farinha Chama papai Ah ladrão, ladrão, ladrão Ladrão Rapaz pegou no mesmo lugar Rapaz pegou no mesmo lugar Rapaz pegou o outro cara Não No canivete mesmo, tá preso, preso, preso Atividade aqui no delta Calma pô Deixa ele levantar Não, pega pra frente Pera aí, pera aí Pela cabeça Pera aí Soltou bem na hora É meu, viu É meu, tu perdeu Soltou bem na hora Você perdeu, ele é meu Quem é que pega peixe aqui? Quem é meu filho? Toda vez Cadê a câmera Cadê o celular? Cadê? Olha aí galera Com a balinha Coisinha mais linda Cheirosa Cadê o celular? Cadê? Olha aí meu filho Segura aqui a câmera Segura Segura Olha aí galera Coisinha mais linda Vá pra vida Falar meu filho Foi É muito pequeno pai A gente Tem que pegar E soltar Que é pra poder Quando tu crescer Tu vir pega ele grandão Pô, tá entendendo? Hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.69,
+      "text": "Eita, olha, perdeu o peixe"
+    },
+    {
+      "start": 8.69,
+      "end": 13.61,
+      "text": "Tá dando trabalho até pra tu"
+    },
+    {
+      "start": 13.61,
+      "end": 17.25,
+      "text": "Homem é ruim de passar a casa"
+    },
+    {
+      "start": 17.25,
+      "end": 23.47,
+      "text": "Rapaz, o cabo desse tamanzinho aqui, meu irmão"
+    },
+    {
+      "start": 23.47,
+      "end": 25.59,
+      "text": "Eita, miséria"
+    },
+    {
+      "start": 25.59,
+      "end": 27.61,
+      "text": "Chama, papai"
+    },
+    {
+      "start": 27.61,
+      "end": 32.08,
+      "text": "Isso é boa, é boa"
+    },
+    {
+      "start": 32.08,
+      "end": 35.97,
+      "text": "Cadê meu filho, pro lado de cá?"
+    },
+    {
+      "start": 35.97,
+      "end": 39.12,
+      "text": "Vai correr pra cá, olha"
+    },
+    {
+      "start": 39.12,
+      "end": 43.78,
+      "text": "Desconto, desconto"
+    },
+    {
+      "start": 43.78,
+      "end": 45.78,
+      "text": "Desconto, desconto"
+    },
+    {
+      "start": 45.78,
+      "end": 47.78,
+      "text": "Desconto, desconto"
+    },
+    {
+      "start": 47.78,
+      "end": 49.78,
+      "text": "Eita, agora desconto"
+    },
+    {
+      "start": 49.78,
+      "end": 57.28,
+      "text": "Ah, ladrão"
+    },
+    {
+      "start": 57.28,
+      "end": 59.28,
+      "text": "Cadê o filho?"
+    },
+    {
+      "start": 59.28,
+      "end": 61.38,
+      "text": "Solta, solta, solta"
+    },
+    {
+      "start": 61.38,
+      "end": 65.27,
+      "text": "Valeu já"
+    },
+    {
+      "start": 65.27,
+      "end": 67.27,
+      "text": "Gostou, mamãe?"
+    },
+    {
+      "start": 67.27,
+      "end": 69.27,
+      "text": "Eu disse, Cláudia, essa é a hora, Cláudia"
+    },
+    {
+      "start": 69.27,
+      "end": 71.33,
+      "text": "Na primeira que não pegou"
+    },
+    {
+      "start": 71.33,
+      "end": 73.33,
+      "text": "Agora eu quero pegar o meu"
+    },
+    {
+      "start": 73.33,
+      "end": 75.62,
+      "text": "Que peninha"
+    },
+    {
+      "start": 75.62,
+      "end": 77.94,
+      "text": "Olha aí galera, olha o balinho"
+    },
+    {
+      "start": 77.94,
+      "end": 83.01,
+      "text": "Flecha, lindo"
+    },
+    {
+      "start": 83.01,
+      "end": 85.01,
+      "text": "Olha aí galinha"
+    },
+    {
+      "start": 87.46,
+      "end": 89.46,
+      "text": "Olha aí galerinha"
+    },
+    {
+      "start": 89.46,
+      "end": 91.46,
+      "text": "Pescaria aqui no delta"
+    },
+    {
+      "start": 91.46,
+      "end": 93.46,
+      "text": "Chama, papai"
+    },
+    {
+      "start": 93.46,
+      "end": 95.46,
+      "text": "Olha o bicho cheiroso da porra"
+    },
+    {
+      "start": 95.46,
+      "end": 97.46,
+      "text": "Olha o nosso amigo querido aí"
+    },
+    {
+      "start": 97.46,
+      "end": 99.46,
+      "text": "Nossa amiga Eduardo"
+    },
+    {
+      "start": 99.46,
+      "end": 101.59,
+      "text": "Chama menino"
+    },
+    {
+      "start": 101.59,
+      "end": 103.59,
+      "text": "Agora eu vou trocar meu camarão"
+    },
+    {
+      "start": 103.59,
+      "end": 107.32,
+      "text": "Pega o passagem aí"
+    },
+    {
+      "start": 107.32,
+      "end": 109.32,
+      "text": "Agora é pra soltar esse aí"
+    },
+    {
+      "start": 109.32,
+      "end": 111.32,
+      "text": "É o maior é pra soltar"
+    },
+    {
+      "start": 111.32,
+      "end": 113.41,
+      "text": "Levanta, calma"
+    },
+    {
+      "start": 113.41,
+      "end": 115.41,
+      "text": "Vai nas mães, vai nas mães"
+    },
+    {
+      "start": 115.41,
+      "end": 117.41,
+      "text": "É porque é a farinha"
+    },
+    {
+      "start": 117.41,
+      "end": 119.48,
+      "text": "É a verdade porque é a farinha"
+    },
+    {
+      "start": 119.48,
+      "end": 121.89,
+      "text": "Chama papai"
+    },
+    {
+      "start": 121.89,
+      "end": 123.89,
+      "text": "Ah ladrão, ladrão, ladrão"
+    },
+    {
+      "start": 123.89,
+      "end": 125.89,
+      "text": "Ladrão"
+    },
+    {
+      "start": 125.89,
+      "end": 129.17,
+      "text": "Rapaz pegou no mesmo lugar"
+    },
+    {
+      "start": 129.17,
+      "end": 131.3,
+      "text": "Rapaz pegou no mesmo lugar"
+    },
+    {
+      "start": 131.3,
+      "end": 133.3,
+      "text": "Rapaz pegou o outro cara"
+    },
+    {
+      "start": 133.3,
+      "end": 135.3,
+      "text": "Não"
+    },
+    {
+      "start": 135.3,
+      "end": 137.3,
+      "text": "No canivete mesmo, tá preso, preso, preso"
+    },
+    {
+      "start": 137.3,
+      "end": 139.65,
+      "text": "Atividade aqui no delta"
+    },
+    {
+      "start": 139.65,
+      "end": 142.93,
+      "text": "Calma pô"
+    },
+    {
+      "start": 142.93,
+      "end": 145.25,
+      "text": "Deixa ele levantar"
+    },
+    {
+      "start": 145.25,
+      "end": 147.25,
+      "text": "Não, pega pra frente"
+    },
+    {
+      "start": 147.25,
+      "end": 149.25,
+      "text": "Pera aí, pera aí"
+    },
+    {
+      "start": 149.25,
+      "end": 151.25,
+      "text": "Pela cabeça"
+    },
+    {
+      "start": 151.25,
+      "end": 153.38,
+      "text": "Pera aí"
+    },
+    {
+      "start": 153.38,
+      "end": 154.38,
+      "text": "Soltou bem na hora"
+    },
+    {
+      "start": 154.38,
+      "end": 155.38,
+      "text": "É meu, viu"
+    },
+    {
+      "start": 155.38,
+      "end": 157.38,
+      "text": "É meu, tu perdeu"
+    },
+    {
+      "start": 157.38,
+      "end": 159.38,
+      "text": "Soltou bem na hora"
+    },
+    {
+      "start": 159.38,
+      "end": 164.71,
+      "text": "Você perdeu, ele é meu"
+    },
+    {
+      "start": 164.71,
+      "end": 165.71,
+      "text": "Quem é que pega peixe aqui?"
+    },
+    {
+      "start": 165.71,
+      "end": 166.71,
+      "text": "Quem é meu filho?"
+    },
+    {
+      "start": 166.71,
+      "end": 168.86,
+      "text": "Toda vez"
+    },
+    {
+      "start": 168.86,
+      "end": 170.86,
+      "text": "Cadê a câmera"
+    },
+    {
+      "start": 170.86,
+      "end": 172.02,
+      "text": "Cadê o celular? Cadê?"
+    },
+    {
+      "start": 172.02,
+      "end": 173.02,
+      "text": "Olha aí galera"
+    },
+    {
+      "start": 173.02,
+      "end": 174.02,
+      "text": "Com a balinha"
+    },
+    {
+      "start": 174.02,
+      "end": 175.28,
+      "text": "Coisinha mais linda"
+    },
+    {
+      "start": 175.28,
+      "end": 176.28,
+      "text": "Cheirosa"
+    },
+    {
+      "start": 176.28,
+      "end": 177.88,
+      "text": "Cadê o celular? Cadê?"
+    },
+    {
+      "start": 177.88,
+      "end": 178.88,
+      "text": "Olha aí meu filho"
+    },
+    {
+      "start": 178.88,
+      "end": 179.88,
+      "text": "Segura aqui a câmera"
+    },
+    {
+      "start": 179.88,
+      "end": 180.88,
+      "text": "Segura"
+    },
+    {
+      "start": 180.88,
+      "end": 181.88,
+      "text": "Segura"
+    },
+    {
+      "start": 181.88,
+      "end": 183.72,
+      "text": "Olha aí galera"
+    },
+    {
+      "start": 183.72,
+      "end": 186.29,
+      "text": "Coisinha mais linda"
+    },
+    {
+      "start": 186.29,
+      "end": 187.29,
+      "text": "Vá pra vida"
+    },
+    {
+      "start": 187.29,
+      "end": 191.3,
+      "text": "Falar meu filho"
+    },
+    {
+      "start": 191.3,
+      "end": 193.68,
+      "text": "Foi"
+    },
+    {
+      "start": 193.68,
+      "end": 194.68,
+      "text": "É muito pequeno pai"
+    },
+    {
+      "start": 194.68,
+      "end": 200.16,
+      "text": "A gente"
+    },
+    {
+      "start": 200.16,
+      "end": 201.16,
+      "text": "Tem que pegar"
+    },
+    {
+      "start": 201.16,
+      "end": 202.16,
+      "text": "E soltar"
+    },
+    {
+      "start": 202.16,
+      "end": 203.16,
+      "text": "Que é pra poder"
+    },
+    {
+      "start": 203.16,
+      "end": 204.16,
+      "text": "Quando tu crescer"
+    },
+    {
+      "start": 204.16,
+      "end": 205.16,
+      "text": "Tu vir pega ele grandão"
+    },
+    {
+      "start": 205.16,
+      "end": 206.44,
+      "text": "Pô, tá entendendo?"
+    },
+    {
+      "start": 206.44,
+      "end": 207.44,
+      "text": "Hein?"
+    }
+  ],
+  "duracao_seg": 206.81,
+  "idioma_detectado": "pt"
+}

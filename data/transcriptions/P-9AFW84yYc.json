@@ -1,0 +1,32 @@
+{
+  "texto": "Essa é minha filha, Mariazinha. Ela é uma carpinha muito especial e foi crescendo bem rapidinho. Além de ser linda, come a bastante. Um dia ela foi pega e sem querer caiu na lagoa de novo. Aí com o passar dos anos, ela foi pescada novamente e já estava uma gigante.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Essa é minha filha, Mariazinha."
+    },
+    {
+      "start": 2.36,
+      "end": 5.74,
+      "text": "Ela é uma carpinha muito especial e foi crescendo bem rapidinho."
+    },
+    {
+      "start": 6.16,
+      "end": 7.78,
+      "text": "Além de ser linda, come a bastante."
+    },
+    {
+      "start": 8.22,
+      "end": 11.08,
+      "text": "Um dia ela foi pega e sem querer caiu na lagoa de novo."
+    },
+    {
+      "start": 11.56,
+      "end": 15.52,
+      "text": "Aí com o passar dos anos, ela foi pescada novamente e já estava uma gigante."
+    }
+  ],
+  "duracao_seg": 16.89,
+  "idioma_detectado": "pt"
+}

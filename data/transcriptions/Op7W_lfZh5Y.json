@@ -1,0 +1,37 @@
+{
+  "texto": "Aí, rapaziada, o que tem pra segunda-feira aí, ó? Daquele jeito, hein? Aquele perfuminho francês. Chanel número 2. Atrás delas, segunda-feira. Atrás delas, paredão, irmão.",
+  "segmentos": [
+    {
+      "start": 0.82,
+      "end": 3.7,
+      "text": "Aí, rapaziada, o que tem pra segunda-feira aí, ó?"
+    },
+    {
+      "start": 3.92,
+      "end": 5.14,
+      "text": "Daquele jeito, hein?"
+    },
+    {
+      "start": 5.97,
+      "end": 8.65,
+      "text": "Aquele perfuminho francês."
+    },
+    {
+      "start": 9.47,
+      "end": 10.73,
+      "text": "Chanel número 2."
+    },
+    {
+      "start": 11.09,
+      "end": 12.99,
+      "text": "Atrás delas, segunda-feira."
+    },
+    {
+      "start": 13.41,
+      "end": 15.01,
+      "text": "Atrás delas, paredão, irmão."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

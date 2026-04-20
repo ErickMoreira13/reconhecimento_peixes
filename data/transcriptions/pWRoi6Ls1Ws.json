@@ -1,0 +1,37 @@
+{
+  "texto": "Depois de uma intensa batalha nas profundidades, a Gran Corvina emerge, rendida ante a destreza do pescador. Su tamanho é impressionante. E isso que vemos saírem de sua boca é sua vejiga natatória, inflada por a descompressão ao subir tão rápido desde as águas profundas. Um verdadeiro gigante do mar, uma captura que ficará na memória.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Depois de uma intensa batalha nas profundidades,"
+    },
+    {
+      "start": 3.16,
+      "end": 6.86,
+      "text": "a Gran Corvina emerge, rendida ante a destreza do pescador."
+    },
+    {
+      "start": 7.44,
+      "end": 8.76,
+      "text": "Su tamanho é impressionante."
+    },
+    {
+      "start": 9.34,
+      "end": 12.78,
+      "text": "E isso que vemos saírem de sua boca é sua vejiga natatória,"
+    },
+    {
+      "start": 13.38,
+      "end": 17.78,
+      "text": "inflada por a descompressão ao subir tão rápido desde as águas profundas."
+    },
+    {
+      "start": 18.34,
+      "end": 22.08,
+      "text": "Um verdadeiro gigante do mar, uma captura que ficará na memória."
+    }
+  ],
+  "duracao_seg": 22.73,
+  "idioma_detectado": "pt"
+}

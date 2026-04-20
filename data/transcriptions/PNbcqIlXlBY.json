@@ -1,0 +1,97 @@
+{
+  "texto": "Que a gente tá arremessando pertinho, ó. Só pra esconder um azar, ok? Isso aqui, ó. Vai encaixar direitinho na boca do peixe. Olha isso aqui, ó. Isso que vai acontecer na boca do peixe. Beleza? Pegou. Piscou. Eu só entro aqui, ó. Já era, ó. Sentiu um azar aqui, ó. Já era, beleza? Assim vai ficar escadinha. Sabe o que o peixe vai fazer depois? Já era! Chama! Agora vamos lá, vamos pegar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Que a gente tá arremessando pertinho, ó."
+    },
+    {
+      "start": 2.02,
+      "end": 3.12,
+      "text": "Só pra esconder um azar, ok?"
+    },
+    {
+      "start": 3.26,
+      "end": 3.78,
+      "text": "Isso aqui, ó."
+    },
+    {
+      "start": 4.06,
+      "end": 5.66,
+      "text": "Vai encaixar direitinho na boca do peixe."
+    },
+    {
+      "start": 5.74,
+      "end": 6.26,
+      "text": "Olha isso aqui, ó."
+    },
+    {
+      "start": 6.78,
+      "end": 10.05,
+      "text": "Isso que vai acontecer na boca do peixe."
+    },
+    {
+      "start": 10.57,
+      "end": 10.97,
+      "text": "Beleza?"
+    },
+    {
+      "start": 11.11,
+      "end": 11.47,
+      "text": "Pegou."
+    },
+    {
+      "start": 12.27,
+      "end": 12.67,
+      "text": "Piscou."
+    },
+    {
+      "start": 13.15,
+      "end": 14.27,
+      "text": "Eu só entro aqui, ó."
+    },
+    {
+      "start": 14.83,
+      "end": 15.31,
+      "text": "Já era, ó."
+    },
+    {
+      "start": 15.63,
+      "end": 16.71,
+      "text": "Sentiu um azar aqui, ó."
+    },
+    {
+      "start": 17.31,
+      "end": 18.05,
+      "text": "Já era, beleza?"
+    },
+    {
+      "start": 18.97,
+      "end": 21.03,
+      "text": "Assim vai ficar escadinha."
+    },
+    {
+      "start": 21.51,
+      "end": 22.35,
+      "text": "Sabe o que o peixe vai fazer depois?"
+    },
+    {
+      "start": 25.69,
+      "end": 26.29,
+      "text": "Já era!"
+    },
+    {
+      "start": 26.47,
+      "end": 26.77,
+      "text": "Chama!"
+    },
+    {
+      "start": 27.17,
+      "end": 28.27,
+      "text": "Agora vamos lá, vamos pegar."
+    }
+  ],
+  "duracao_seg": 33.03,
+  "idioma_detectado": "pt"
+}

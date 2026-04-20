@@ -1,0 +1,607 @@
+{
+  "texto": "Estaria no Rio Iguaçu hoje, bora que bora. Estamos aí hoje, galera, no Rio Iguaçu, traíra, traíra aí. Vamos ver se sai as trairinhas aí. Vamos ver se sai as trairinhas hoje, Gabi. Tá difícil, hein? Hoje vai dar boa. Nos machucou? Perigoso, né? O parceiro Biel ali. Soneca lá na frente também, de canhaquinha, já foi. E bora que bora, hein? Canhaque já na água. Vamos matar as traíra aí. Fazia tempo que não remava. Aqui você tem que se obrigar, cara. No Rio, aqui não tem o que fazer. O rim, parece que você quer mais seguro ainda, né? Mas, digo, você consegue controlar ali o leme rápido, né? Eu acho. E aí o lugar que for pedreira, raseira, o pedal fica inútil, né? Vamos pôr o pedalzinho. Galera, então, aí, ó. Estamos hoje em uma pescareira no Rio Iguaçu, em uma pescareira traíra aí. Estamos usando aí uma varinha 17, frogzinho. Estamos lá com uma isquinha de fundo. Também. Oi? Escura? Isso, vamos lá. Se eu coloco uma escura, isso vai uma clarinha. E daí eu coloquei um frog também, de repente. Olha pra cima, tem estrutura bastante também. Pescareira tá difícil hoje, galera. Estamos aqui no Rio Iguaçu, tentando as traíra. E eu tô meio baixo. Mas nada de ação ainda. Bastante peixinho. Mandizinho, bagrinho, morto, na verdade. Isso é uma poluição aí. Afetou a água aí, os peixes tão... Os pequenos tão morrendo. Uma traída nada até agora. Corredeira na frente, vamos ver se... Bater uma guaisca de dourado ali. Bater um douradinho, né? Começar um douradinho. Corredeirinha aqui no Iguaçu. Olha o Gabi. Conseguiu, Gabi? Essa corredeira forte pra cacete aqui, né? Você tá doido. O Gabi não vai voltar. Perdi! Traíra. Primeira açãozinha, galera. Traíra pegou ali, mas levou pra Pauleira. Mas tá bom, já animou já. Vamos ver se tem mais algum laço. Superfície, ó. Já deu uma animada. Ela bateu, errou. Daí ela vê e xerutou. No Frog, mas daí ela desceu pra Pauleira aqui, ó. Do jeito que ela veio e pegou aí, você já desceu pra Pauleira. Mas já animou já. Tá aqui, o bicho. Tá aqui. É marcado. Saiu. Suada, trairinha, saiu. Ele tá doido. Vamos lá. Aqui, o bicho. Não dá pra ficar parado, cara. Não dá pra ficar parado aqui. Frogzão, eu. Cara, eles estão no limpo, acredita, Soneca? No limpo. Engola lá. Tipo, você bate a vegetação, não bate, bate num barranco assim, com limpo. Tá aí, a trairinha. Isso. Vamos fazer a soltura da bicho aí. Tá aí, a trairinha, galera. 45. Vamos mandar a bichinha pra vida aí. Foi que foi. Muito custo. No frog. Olha só, Soneca, vamos comer? Um patezinho de frango. Um patezinho de frango. Tem. Tem. Só passeio. Tá de boa. Mas já sai, né? Tá bom, né? Isso aí, galera. Pescaria aí no Rio Iguaçu hoje aí. No Serrano já, pescaria aí. Bem, colocação. Saiu um peixinho, outro aí. De dia difícil. Mas tamo na água. Valeu. Até a próxima. É isso aí, galera. Pescaria hoje no Rio Iguaçu. Dia bem difícil. Saiu uma traíra aí, boa. Teve umas açãozinhas ali. Mas deu boa. O que vale é tá na água aí. Beleza? Valeu. Até a próxima.",
+  "segmentos": [
+    {
+      "start": 144.3,
+      "end": 148.01,
+      "text": "Estaria no Rio Iguaçu hoje, bora que bora."
+    },
+    {
+      "start": 166.45,
+      "end": 170.59,
+      "text": "Estamos aí hoje, galera, no Rio Iguaçu, traíra, traíra aí."
+    },
+    {
+      "start": 170.97,
+      "end": 178.55,
+      "text": "Vamos ver se sai as trairinhas aí."
+    },
+    {
+      "start": 180.84,
+      "end": 182.34,
+      "text": "Vamos ver se sai as trairinhas hoje, Gabi."
+    },
+    {
+      "start": 182.74,
+      "end": 184.92,
+      "text": "Tá difícil, hein?"
+    },
+    {
+      "start": 186.08,
+      "end": 193.1,
+      "text": "Hoje vai dar boa."
+    },
+    {
+      "start": 203.18,
+      "end": 203.76,
+      "text": "Nos machucou?"
+    },
+    {
+      "start": 205.86,
+      "end": 206.44,
+      "text": "Perigoso, né?"
+    },
+    {
+      "start": 213.21,
+      "end": 214.21,
+      "text": "O parceiro Biel ali."
+    },
+    {
+      "start": 219.89,
+      "end": 221.75,
+      "text": "Soneca lá na frente também, de canhaquinha, já foi."
+    },
+    {
+      "start": 223.02,
+      "end": 223.9,
+      "text": "E bora que bora, hein?"
+    },
+    {
+      "start": 225.28,
+      "end": 226.08,
+      "text": "Canhaque já na água."
+    },
+    {
+      "start": 227.57,
+      "end": 228.41,
+      "text": "Vamos matar as traíra aí."
+    },
+    {
+      "start": 238.66,
+      "end": 240.02,
+      "text": "Fazia tempo que não remava."
+    },
+    {
+      "start": 240.02,
+      "end": 245.81,
+      "text": "Aqui você tem que se obrigar, cara."
+    },
+    {
+      "start": 245.83,
+      "end": 246.87,
+      "text": "No Rio, aqui não tem o que fazer."
+    },
+    {
+      "start": 249.2,
+      "end": 250.98,
+      "text": "O rim, parece que você quer mais seguro ainda, né?"
+    },
+    {
+      "start": 253.66,
+      "end": 257.54,
+      "text": "Mas, digo, você consegue controlar ali o leme rápido, né?"
+    },
+    {
+      "start": 257.54,
+      "end": 258.26,
+      "text": "Eu acho."
+    },
+    {
+      "start": 264.06,
+      "end": 266.98,
+      "text": "E aí o lugar que for pedreira, raseira, o pedal fica inútil, né?"
+    },
+    {
+      "start": 267.56,
+      "end": 277.18,
+      "text": "Vamos pôr o pedalzinho."
+    },
+    {
+      "start": 278.28,
+      "end": 300.26,
+      "text": "Galera, então, aí, ó."
+    },
+    {
+      "start": 301.21,
+      "end": 303.37,
+      "text": "Estamos hoje em uma pescareira no Rio Iguaçu,"
+    },
+    {
+      "start": 303.45,
+      "end": 305.67,
+      "text": "em uma pescareira traíra aí."
+    },
+    {
+      "start": 305.89,
+      "end": 309.83,
+      "text": "Estamos usando aí uma varinha 17,"
+    },
+    {
+      "start": 310.47,
+      "end": 311.15,
+      "text": "frogzinho."
+    },
+    {
+      "start": 313.5,
+      "end": 314.52,
+      "text": "Estamos lá com uma isquinha de fundo."
+    },
+    {
+      "start": 314.52,
+      "end": 314.82,
+      "text": "Também."
+    },
+    {
+      "start": 341.66,
+      "end": 341.88,
+      "text": "Oi?"
+    },
+    {
+      "start": 343.82,
+      "end": 344.18,
+      "text": "Escura?"
+    },
+    {
+      "start": 348.01,
+      "end": 348.75,
+      "text": "Isso, vamos lá."
+    },
+    {
+      "start": 348.81,
+      "end": 350.43,
+      "text": "Se eu coloco uma escura, isso vai uma clarinha."
+    },
+    {
+      "start": 352.38,
+      "end": 354.08,
+      "text": "E daí eu coloquei um frog também, de repente."
+    },
+    {
+      "start": 355.48,
+      "end": 356.86,
+      "text": "Olha pra cima, tem estrutura bastante também."
+    },
+    {
+      "start": 445.17,
+      "end": 446.65,
+      "text": "Pescareira tá difícil hoje, galera."
+    },
+    {
+      "start": 447.69,
+      "end": 448.73,
+      "text": "Estamos aqui no Rio Iguaçu,"
+    },
+    {
+      "start": 448.81,
+      "end": 449.63,
+      "text": "tentando as traíra."
+    },
+    {
+      "start": 451.29,
+      "end": 452.17,
+      "text": "E eu tô meio baixo."
+    },
+    {
+      "start": 455.29,
+      "end": 456.39,
+      "text": "Mas nada de ação ainda."
+    },
+    {
+      "start": 457.68,
+      "end": 458.46,
+      "text": "Bastante peixinho."
+    },
+    {
+      "start": 459.66,
+      "end": 461.16,
+      "text": "Mandizinho, bagrinho, morto, na verdade."
+    },
+    {
+      "start": 461.16,
+      "end": 464.09,
+      "text": "Isso é uma poluição aí."
+    },
+    {
+      "start": 464.09,
+      "end": 467.46,
+      "text": "Afetou a água aí, os peixes tão..."
+    },
+    {
+      "start": 467.46,
+      "end": 470.65,
+      "text": "Os pequenos tão morrendo."
+    },
+    {
+      "start": 471.94,
+      "end": 473.08,
+      "text": "Uma traída nada até agora."
+    },
+    {
+      "start": 475.06,
+      "end": 476.52,
+      "text": "Corredeira na frente, vamos ver se..."
+    },
+    {
+      "start": 476.52,
+      "end": 479.7,
+      "text": "Bater uma guaisca de dourado ali."
+    },
+    {
+      "start": 494.46,
+      "end": 495.78,
+      "text": "Bater um douradinho, né?"
+    },
+    {
+      "start": 496.99,
+      "end": 498.01,
+      "text": "Começar um douradinho."
+    },
+    {
+      "start": 499.36,
+      "end": 500.48,
+      "text": "Corredeirinha aqui no Iguaçu."
+    },
+    {
+      "start": 500.48,
+      "end": 617.99,
+      "text": "Olha o Gabi."
+    },
+    {
+      "start": 628.88,
+      "end": 629.78,
+      "text": "Conseguiu, Gabi?"
+    },
+    {
+      "start": 632.17,
+      "end": 634.69,
+      "text": "Essa corredeira forte pra cacete aqui, né?"
+    },
+    {
+      "start": 639.55,
+      "end": 640.43,
+      "text": "Você tá doido."
+    },
+    {
+      "start": 642.04,
+      "end": 643.2,
+      "text": "O Gabi não vai voltar."
+    },
+    {
+      "start": 676.99,
+      "end": 677.43,
+      "text": "Perdi!"
+    },
+    {
+      "start": 682.06,
+      "end": 682.46,
+      "text": "Traíra."
+    },
+    {
+      "start": 683.0,
+      "end": 691.73,
+      "text": "Primeira açãozinha, galera."
+    },
+    {
+      "start": 693.3,
+      "end": 695.16,
+      "text": "Traíra pegou ali, mas levou pra Pauleira."
+    },
+    {
+      "start": 696.78,
+      "end": 697.88,
+      "text": "Mas tá bom, já animou já."
+    },
+    {
+      "start": 699.38,
+      "end": 700.52,
+      "text": "Vamos ver se tem mais algum laço."
+    },
+    {
+      "start": 703.04,
+      "end": 703.7,
+      "text": "Superfície, ó."
+    },
+    {
+      "start": 714.69,
+      "end": 715.87,
+      "text": "Já deu uma animada."
+    },
+    {
+      "start": 717.49,
+      "end": 718.55,
+      "text": "Ela bateu, errou."
+    },
+    {
+      "start": 720.1,
+      "end": 721.34,
+      "text": "Daí ela vê e xerutou."
+    },
+    {
+      "start": 721.34,
+      "end": 726.26,
+      "text": "No Frog, mas daí ela desceu pra Pauleira aqui, ó."
+    },
+    {
+      "start": 727.94,
+      "end": 730.0,
+      "text": "Do jeito que ela veio e pegou aí, você já desceu pra Pauleira."
+    },
+    {
+      "start": 732.61,
+      "end": 733.47,
+      "text": "Mas já animou já."
+    },
+    {
+      "start": 820.75,
+      "end": 821.45,
+      "text": "Tá aqui, o bicho."
+    },
+    {
+      "start": 830.02,
+      "end": 830.52,
+      "text": "Tá aqui."
+    },
+    {
+      "start": 831.24,
+      "end": 832.46,
+      "text": "É marcado."
+    },
+    {
+      "start": 836.26,
+      "end": 836.66,
+      "text": "Saiu."
+    },
+    {
+      "start": 842.24,
+      "end": 843.64,
+      "text": "Suada, trairinha, saiu."
+    },
+    {
+      "start": 845.07,
+      "end": 846.21,
+      "text": "Ele tá doido."
+    },
+    {
+      "start": 848.07,
+      "end": 848.95,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 862.12,
+      "end": 862.72,
+      "text": "Aqui, o bicho."
+    },
+    {
+      "start": 863.18,
+      "end": 881.9,
+      "text": "Não dá pra ficar parado, cara."
+    },
+    {
+      "start": 883.28,
+      "end": 884.52,
+      "text": "Não dá pra ficar parado aqui."
+    },
+    {
+      "start": 885.92,
+      "end": 886.54,
+      "text": "Frogzão, eu."
+    },
+    {
+      "start": 892.28,
+      "end": 894.06,
+      "text": "Cara, eles estão no limpo, acredita, Soneca?"
+    },
+    {
+      "start": 895.26,
+      "end": 895.76,
+      "text": "No limpo."
+    },
+    {
+      "start": 895.88,
+      "end": 896.38,
+      "text": "Engola lá."
+    },
+    {
+      "start": 897.22,
+      "end": 900.12,
+      "text": "Tipo, você bate a vegetação, não bate, bate num barranco assim, com limpo."
+    },
+    {
+      "start": 906.8,
+      "end": 907.54,
+      "text": "Tá aí, a trairinha."
+    },
+    {
+      "start": 909.0,
+      "end": 909.36,
+      "text": "Isso."
+    },
+    {
+      "start": 925.76,
+      "end": 927.32,
+      "text": "Vamos fazer a soltura da bicho aí."
+    },
+    {
+      "start": 929.14,
+      "end": 930.04,
+      "text": "Tá aí, a trairinha, galera."
+    },
+    {
+      "start": 932.93,
+      "end": 933.33,
+      "text": "45."
+    },
+    {
+      "start": 935.63,
+      "end": 937.99,
+      "text": "Vamos mandar a bichinha pra vida aí."
+    },
+    {
+      "start": 982.17,
+      "end": 982.69,
+      "text": "Foi que foi."
+    },
+    {
+      "start": 982.69,
+      "end": 988.44,
+      "text": "Muito custo."
+    },
+    {
+      "start": 989.44,
+      "end": 990.28,
+      "text": "No frog."
+    },
+    {
+      "start": 990.74,
+      "end": 1146.46,
+      "text": "Olha só, Soneca, vamos comer?"
+    },
+    {
+      "start": 1150.55,
+      "end": 1151.59,
+      "text": "Um patezinho de frango."
+    },
+    {
+      "start": 1153.08,
+      "end": 1154.42,
+      "text": "Um patezinho de frango."
+    },
+    {
+      "start": 1159.12,
+      "end": 1159.38,
+      "text": "Tem."
+    },
+    {
+      "start": 1159.92,
+      "end": 1160.36,
+      "text": "Tem."
+    },
+    {
+      "start": 1160.36,
+      "end": 1198.63,
+      "text": "Só passeio."
+    },
+    {
+      "start": 1198.99,
+      "end": 1199.49,
+      "text": "Tá de boa."
+    },
+    {
+      "start": 1200.79,
+      "end": 1202.26,
+      "text": "Mas já sai, né?"
+    },
+    {
+      "start": 1202.76,
+      "end": 1203.54,
+      "text": "Tá bom, né?"
+    },
+    {
+      "start": 1204.02,
+      "end": 1263.02,
+      "text": "Isso aí, galera."
+    },
+    {
+      "start": 1263.2,
+      "end": 1264.5,
+      "text": "Pescaria aí no Rio Iguaçu hoje aí."
+    },
+    {
+      "start": 1267.33,
+      "end": 1268.71,
+      "text": "No Serrano já, pescaria aí."
+    },
+    {
+      "start": 1270.89,
+      "end": 1272.01,
+      "text": "Bem, colocação."
+    },
+    {
+      "start": 1272.21,
+      "end": 1273.33,
+      "text": "Saiu um peixinho, outro aí."
+    },
+    {
+      "start": 1274.49,
+      "end": 1275.39,
+      "text": "De dia difícil."
+    },
+    {
+      "start": 1276.6,
+      "end": 1277.34,
+      "text": "Mas tamo na água."
+    },
+    {
+      "start": 1277.84,
+      "end": 1278.28,
+      "text": "Valeu."
+    },
+    {
+      "start": 1278.5,
+      "end": 1279.26,
+      "text": "Até a próxima."
+    },
+    {
+      "start": 1282.35,
+      "end": 1282.99,
+      "text": "É isso aí, galera."
+    },
+    {
+      "start": 1283.53,
+      "end": 1284.77,
+      "text": "Pescaria hoje no Rio Iguaçu."
+    },
+    {
+      "start": 1286.9,
+      "end": 1287.52,
+      "text": "Dia bem difícil."
+    },
+    {
+      "start": 1287.52,
+      "end": 1291.19,
+      "text": "Saiu uma traíra aí, boa."
+    },
+    {
+      "start": 1292.67,
+      "end": 1293.73,
+      "text": "Teve umas açãozinhas ali."
+    },
+    {
+      "start": 1298.01,
+      "end": 1298.49,
+      "text": "Mas deu boa."
+    },
+    {
+      "start": 1299.39,
+      "end": 1300.31,
+      "text": "O que vale é tá na água aí."
+    },
+    {
+      "start": 1300.55,
+      "end": 1300.95,
+      "text": "Beleza?"
+    },
+    {
+      "start": 1301.11,
+      "end": 1301.47,
+      "text": "Valeu."
+    },
+    {
+      "start": 1301.67,
+      "end": 1302.21,
+      "text": "Até a próxima."
+    }
+  ],
+  "duracao_seg": 1305.29,
+  "idioma_detectado": "pt"
+}

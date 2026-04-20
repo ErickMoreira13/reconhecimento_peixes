@@ -1,0 +1,77 @@
+{
+  "texto": "Não vai não, não vai não. Não vai não, ele vai. Ele vai. Deixa eu pegar ele. Ele vai pegar. Ele não vai entrar nesse passego. Vou tentar te dar um apoio para poder levantar ele. Olha o anzol. Eu também achei que era um danado. O tamanho do anzol? Nossa, só uma viradinha. Era? Olha isso aqui. Olha isso aqui. Olha o tamanho do anzol.",
+  "segmentos": [
+    {
+      "start": 1.71,
+      "end": 3.71,
+      "text": "Não vai não, não vai não."
+    },
+    {
+      "start": 3.71,
+      "end": 5.71,
+      "text": "Não vai não, ele vai."
+    },
+    {
+      "start": 5.71,
+      "end": 7.84,
+      "text": "Ele vai."
+    },
+    {
+      "start": 7.84,
+      "end": 10.16,
+      "text": "Deixa eu pegar ele."
+    },
+    {
+      "start": 10.16,
+      "end": 13.47,
+      "text": "Ele vai pegar."
+    },
+    {
+      "start": 13.47,
+      "end": 15.47,
+      "text": "Ele não vai entrar nesse passego."
+    },
+    {
+      "start": 15.47,
+      "end": 22.0,
+      "text": "Vou tentar te dar um apoio para poder levantar ele."
+    },
+    {
+      "start": 22.0,
+      "end": 38.94,
+      "text": "Olha o anzol."
+    },
+    {
+      "start": 38.94,
+      "end": 40.94,
+      "text": "Eu também achei que era um danado."
+    },
+    {
+      "start": 40.94,
+      "end": 47.42,
+      "text": "O tamanho do anzol?"
+    },
+    {
+      "start": 47.42,
+      "end": 49.42,
+      "text": "Nossa, só uma viradinha."
+    },
+    {
+      "start": 49.42,
+      "end": 51.42,
+      "text": "Era? Olha isso aqui."
+    },
+    {
+      "start": 51.42,
+      "end": 54.0,
+      "text": "Olha isso aqui."
+    },
+    {
+      "start": 54.0,
+      "end": 56.0,
+      "text": "Olha o tamanho do anzol."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

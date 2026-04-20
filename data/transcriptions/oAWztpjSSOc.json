@@ -1,0 +1,62 @@
+{
+  "texto": "Aí pessoal, 5 horas da manhã rapaz, amanhecendo o dia agora, acabei de tomar um café, já tinha uns caboclo aqui na beira do rio. Jão, já pegou alguma coisa já? Ah, um pouquinho. Mas você é ligeiro demais moço, isso aí foi só agora de manhã? Só agora. Rapaz, você é maluco aí pai, pegou alguma coisa ou não? Hã? Pegando. Ih, o Gilson, pegou na vara Gilson? Eu peguei quatro vezes na vara. Ah, então tá bom.",
+  "segmentos": [
+    {
+      "start": 1.17,
+      "end": 8.93,
+      "text": "Aí pessoal, 5 horas da manhã rapaz, amanhecendo o dia agora, acabei de tomar um café, já tinha uns caboclo aqui na beira do rio."
+    },
+    {
+      "start": 9.33,
+      "end": 10.57,
+      "text": "Jão, já pegou alguma coisa já?"
+    },
+    {
+      "start": 10.81,
+      "end": 11.51,
+      "text": "Ah, um pouquinho."
+    },
+    {
+      "start": 11.53,
+      "end": 15.17,
+      "text": "Mas você é ligeiro demais moço, isso aí foi só agora de manhã?"
+    },
+    {
+      "start": 15.43,
+      "end": 16.03,
+      "text": "Só agora."
+    },
+    {
+      "start": 16.69,
+      "end": 18.79,
+      "text": "Rapaz, você é maluco aí pai, pegou alguma coisa ou não?"
+    },
+    {
+      "start": 19.81,
+      "end": 19.99,
+      "text": "Hã?"
+    },
+    {
+      "start": 20.31,
+      "end": 20.69,
+      "text": "Pegando."
+    },
+    {
+      "start": 21.11,
+      "end": 22.43,
+      "text": "Ih, o Gilson, pegou na vara Gilson?"
+    },
+    {
+      "start": 22.69,
+      "end": 24.15,
+      "text": "Eu peguei quatro vezes na vara."
+    },
+    {
+      "start": 24.35,
+      "end": 25.41,
+      "text": "Ah, então tá bom."
+    }
+  ],
+  "duracao_seg": 26.05,
+  "idioma_detectado": "pt"
+}

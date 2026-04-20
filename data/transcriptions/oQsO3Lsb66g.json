@@ -1,0 +1,27 @@
+{
+  "texto": "Aí pessoal, mais um sisteminha na bolinha aí, ó. Lembrando, pessoal, que esse saquinho, na hora que cair na água ali, ele vai dissolver. Aí, ó, a quireira vai ficar tudo junto com a isca aí, ó. Beleza, galerita!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "Aí pessoal, mais um sisteminha na bolinha aí, ó."
+    },
+    {
+      "start": 2.98,
+      "end": 6.74,
+      "text": "Lembrando, pessoal, que esse saquinho, na hora que cair na água ali, ele vai dissolver."
+    },
+    {
+      "start": 7.68,
+      "end": 10.4,
+      "text": "Aí, ó, a quireira vai ficar tudo junto com a isca aí, ó."
+    },
+    {
+      "start": 11.6,
+      "end": 13.1,
+      "text": "Beleza, galerita!"
+    }
+  ],
+  "duracao_seg": 17.25,
+  "idioma_detectado": "pt"
+}

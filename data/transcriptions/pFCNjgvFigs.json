@@ -1,0 +1,32 @@
+{
+  "texto": "Tá virando modinha esse negócio de laçar o peixe, né? Tá virando aquelas trends, né? Que é o que o povo fala que fica na modinha. É que tem alguns que não tem o jeito, né? Olha lá.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Tá virando modinha esse negócio de laçar o peixe, né?"
+    },
+    {
+      "start": 3.24,
+      "end": 4.96,
+      "text": "Tá virando aquelas trends, né?"
+    },
+    {
+      "start": 5.12,
+      "end": 6.66,
+      "text": "Que é o que o povo fala que fica na modinha."
+    },
+    {
+      "start": 7.34,
+      "end": 9.1,
+      "text": "É que tem alguns que não tem o jeito, né?"
+    },
+    {
+      "start": 9.34,
+      "end": 9.64,
+      "text": "Olha lá."
+    }
+  ],
+  "duracao_seg": 11.15,
+  "idioma_detectado": "pt"
+}

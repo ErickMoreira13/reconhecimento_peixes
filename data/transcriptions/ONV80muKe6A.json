@@ -1,0 +1,42 @@
+{
+  "texto": "Arrozinho, básico, piauzinho voador Mais uma vez o tamanho do anzol Pertinho, a cevinha de piau Pronto, facinho, facinho Já pegou parceiro, filma só o peixe Filma só o peixe Piauzinho voador, é nóis, pronto",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "Arrozinho, básico, piauzinho voador"
+    },
+    {
+      "start": 3.86,
+      "end": 6.72,
+      "text": "Mais uma vez o tamanho do anzol"
+    },
+    {
+      "start": 6.72,
+      "end": 12.27,
+      "text": "Pertinho, a cevinha de piau"
+    },
+    {
+      "start": 12.27,
+      "end": 17.05,
+      "text": "Pronto, facinho, facinho"
+    },
+    {
+      "start": 17.05,
+      "end": 19.99,
+      "text": "Já pegou parceiro, filma só o peixe"
+    },
+    {
+      "start": 19.99,
+      "end": 25.25,
+      "text": "Filma só o peixe"
+    },
+    {
+      "start": 25.25,
+      "end": 33.77,
+      "text": "Piauzinho voador, é nóis, pronto"
+    }
+  ],
+  "duracao_seg": 33.83,
+  "idioma_detectado": "pt"
+}

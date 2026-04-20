@@ -1,0 +1,52 @@
+{
+  "texto": "Esse aqui é o único pintado puro, Pseudoplatos Thomas Corunscans, tá? Todos os outros são híbridos ou não são pintados, tá? Vamos esclarecer essa história. Então aqui a gente tem os puros, o pintado surubim, a caixara, o suruvi e o jundiaonça. E aqui embaixo a gente tem os híbridos, o pincaxara, o pintado real e o pintado gaúcho. Todos esses híbridos são comercializados como pintados. Porém o único que realmente é fruto do pintado é o pincaxara, que vem do pintado e da caixara. E também a caixara junto com o jundiaonça fazem o pintado real. E o cruzamento de novo da caixara com o suruvi dessa vez faz o pintado gaúcho.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Esse aqui é o único pintado puro, Pseudoplatos Thomas Corunscans, tá?"
+    },
+    {
+      "start": 3.46,
+      "end": 5.88,
+      "text": "Todos os outros são híbridos ou não são pintados, tá?"
+    },
+    {
+      "start": 6.16,
+      "end": 7.24,
+      "text": "Vamos esclarecer essa história."
+    },
+    {
+      "start": 7.44,
+      "end": 12.26,
+      "text": "Então aqui a gente tem os puros, o pintado surubim, a caixara, o suruvi e o jundiaonça."
+    },
+    {
+      "start": 12.34,
+      "end": 16.12,
+      "text": "E aqui embaixo a gente tem os híbridos, o pincaxara, o pintado real e o pintado gaúcho."
+    },
+    {
+      "start": 16.14,
+      "end": 18.52,
+      "text": "Todos esses híbridos são comercializados como pintados."
+    },
+    {
+      "start": 18.58,
+      "end": 22.96,
+      "text": "Porém o único que realmente é fruto do pintado é o pincaxara, que vem do pintado e da caixara."
+    },
+    {
+      "start": 22.96,
+      "end": 26.02,
+      "text": "E também a caixara junto com o jundiaonça fazem o pintado real."
+    },
+    {
+      "start": 26.02,
+      "end": 30.26,
+      "text": "E o cruzamento de novo da caixara com o suruvi dessa vez faz o pintado gaúcho."
+    }
+  ],
+  "duracao_seg": 30.57,
+  "idioma_detectado": "pt"
+}

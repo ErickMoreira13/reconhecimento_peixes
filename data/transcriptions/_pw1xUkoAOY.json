@@ -1,0 +1,37 @@
+{
+  "texto": "Pra soltar outra fêmea aqui, ó No meio porte, ó Moisés tá aqui, ó O Moisés da pesca E o que é que nós vamos fazer? Soltar de novo",
+  "segmentos": [
+    {
+      "start": 2.74,
+      "end": 4.98,
+      "text": "Pra soltar outra fêmea aqui, ó"
+    },
+    {
+      "start": 4.98,
+      "end": 6.02,
+      "text": "No meio porte, ó"
+    },
+    {
+      "start": 6.02,
+      "end": 7.52,
+      "text": "Moisés tá aqui, ó"
+    },
+    {
+      "start": 7.52,
+      "end": 8.64,
+      "text": "O Moisés da pesca"
+    },
+    {
+      "start": 8.64,
+      "end": 11.79,
+      "text": "E o que é que nós vamos fazer?"
+    },
+    {
+      "start": 11.99,
+      "end": 13.05,
+      "text": "Soltar de novo"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}
