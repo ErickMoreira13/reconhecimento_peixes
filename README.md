@@ -1,5 +1,18 @@
 # reconhecimento_peixes
 
+```
+   ____   ____  _
+  |  _ \ | ___|(_)_  __ ___ ___
+  | |_) ||  _| | \ \/ // _ | __|
+  |  __/ | |___| |>  <|  __|__ \
+  |_|    |_____|_/_/\_\\___|___/
+     reconhecimento_peixes
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ><(((o>       ~  ~     ><((((((((o>
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
 coleta e analise de videos de pescaria brasileira pra montar uma planilha com:
 plataforma, autor, link, data, estado, municipio, rio, bacia, tipo de ceva, grao, especies capturadas, observacoes.
 
