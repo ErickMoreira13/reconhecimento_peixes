@@ -13,3 +13,10 @@ repos:
         language: system
         pass_filenames: false
         types: [python]
+
+      - id: check-json-dicts
+        name: valida json dos dicts
+        entry: .venv/bin/python -c "import json, sys, pathlib; [json.loads(p.read_text('utf-8')) for p in pathlib.Path('src/dicts').glob('*.json')]; print('dicts ok')"
+        language: system
+        pass_filenames: false
+        files: ^src/dicts/.*\.json$
