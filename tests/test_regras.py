@@ -247,3 +247,53 @@ def test_regra_aceita_rio_que_aparece_no_texto():
     transc = "fala galera, pescaria no rio madeira em rondonia"
     v = regras.aplica_regras("rio", c, transc, {})
     assert v.aceito
+
+
+def test_tipo_ceva_blacklist_rejeita_vara():
+    # fix 3: "vara de bambu" eh equipamento, nao tipo de ceva
+    c = CampoExtraido(
+        valor="vara de bambu",
+        confianca=0.8,
+        evidencia="vara de bambu",
+        modelo_usado="qwen",
+    )
+    transc = "fala galera, usando vara de bambu com ceva"  # tem "ceva" pra passar keywords
+    v = regras.aplica_regras("tipo_ceva", c, transc, {})
+    assert not v.aceito
+    assert v.tipo_rejeicao == "contexto_irrelevante"
+
+
+def test_tipo_ceva_blacklist_rejeita_carretilha():
+    c = CampoExtraido(
+        valor="Avenado GS",  # modelo de carretilha
+        confianca=0.9,
+        evidencia="avenado",
+        modelo_usado="qwen",
+    )
+    transc = "pesca com carretilha avenado gs e ceva de milho"
+    v = regras.aplica_regras("tipo_ceva", c, transc, {})
+    assert not v.aceito
+
+
+def test_tipo_ceva_blacklist_rejeita_nome_comercial_de_isca():
+    c = CampoExtraido(
+        valor="Isquinha Hunter Bait",
+        confianca=0.9,
+        evidencia="hunter bait",
+        modelo_usado="qwen",
+    )
+    transc = "pesca com hunter bait na ceva"  # tem ceva pra passar keywords
+    v = regras.aplica_regras("tipo_ceva", c, transc, {})
+    assert not v.aceito
+
+
+def test_tipo_ceva_blacklist_aceita_valor_legitimo():
+    c = CampoExtraido(
+        valor="bola_de_massa",
+        confianca=0.8,
+        evidencia="bola de massa",
+        modelo_usado="qwen",
+    )
+    transc = "fiz uma ceva com bola de massa de milho"
+    v = regras.aplica_regras("tipo_ceva", c, transc, {})
+    assert v.aceito
