@@ -1,0 +1,17 @@
+{
+  "texto": "rapaz aqui é a equipe nota 10 rapaz ó é dois pegando piapara e três pegando pacu e isso aqui não tem tamanho não tem medida isso aqui é um tambaqui qualquer tamanho você pode levar",
+  "segmentos": [
+    {
+      "start": 1.2,
+      "end": 10.17,
+      "text": "rapaz aqui é a equipe nota 10 rapaz ó é dois pegando piapara e três pegando pacu"
+    },
+    {
+      "start": 10.17,
+      "end": 17.13,
+      "text": "e isso aqui não tem tamanho não tem medida isso aqui é um tambaqui qualquer tamanho você pode levar"
+    }
+  ],
+  "duracao_seg": 17.03,
+  "idioma_detectado": "pt"
+}

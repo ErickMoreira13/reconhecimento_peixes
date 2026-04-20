@@ -1,0 +1,37 @@
+{
+  "texto": "Peguei uma. Esse é dourado Mike. Meu primeiro aremeço cara. Meu deus. Obrigado meu pai. Olha que toma de linha. O primeiro aremeço cara. Meu pai do amado. Vai acabar a linha porra. Recuperei. Recuperei. É um monstro de 17, 18kg né. É grande o bicho. Coração do pescador vai a mil cara. Meu deus. Isso aqui não tem preço que pague cara. Que grossura. Terminou a linha e não escapou né. Meu deus do céu.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 9.45,
+      "text": "Peguei uma. Esse é dourado Mike. Meu primeiro aremeço cara. Meu deus. Obrigado meu pai."
+    },
+    {
+      "start": 9.45,
+      "end": 21.46,
+      "text": "Olha que toma de linha. O primeiro aremeço cara. Meu pai do amado. Vai acabar a linha porra."
+    },
+    {
+      "start": 21.46,
+      "end": 41.02,
+      "text": "Recuperei. Recuperei. É um monstro de 17, 18kg né. É grande o bicho. Coração do pescador vai a mil cara."
+    },
+    {
+      "start": 41.02,
+      "end": 45.39,
+      "text": "Meu deus. Isso aqui não tem preço que pague cara."
+    },
+    {
+      "start": 45.39,
+      "end": 49.8,
+      "text": "Que grossura."
+    },
+    {
+      "start": 49.8,
+      "end": 58.32,
+      "text": "Terminou a linha e não escapou né. Meu deus do céu."
+    }
+  ],
+  "duracao_seg": 58.07,
+  "idioma_detectado": "pt"
+}

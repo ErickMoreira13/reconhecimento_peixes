@@ -1,0 +1,27 @@
+{
+  "texto": "Olha o que esse cara fez para pegar lambaris. Talvez não seja uma invenção nova, mas usar a criatividade no momento certo faz toda a diferença. Ele já garantiu a farofa. E aí me conta, você já comeu uma farofa de lambari?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Olha o que esse cara fez para pegar lambaris."
+    },
+    {
+      "start": 3.06,
+      "end": 8.88,
+      "text": "Talvez não seja uma invenção nova, mas usar a criatividade no momento certo faz toda a diferença."
+    },
+    {
+      "start": 9.44,
+      "end": 10.82,
+      "text": "Ele já garantiu a farofa."
+    },
+    {
+      "start": 11.26,
+      "end": 14.3,
+      "text": "E aí me conta, você já comeu uma farofa de lambari?"
+    }
+  ],
+  "duracao_seg": 15.73,
+  "idioma_detectado": "pt"
+}

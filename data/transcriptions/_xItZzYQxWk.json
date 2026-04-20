@@ -1,0 +1,17 @@
+{
+  "texto": "Aqui, vou mostrar pra vocês, a gente trata a piabanha, já entrega tratadinha na cidade. Em água corrente, água limpa, as caixas tudo cheias de peixe.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "Aqui, vou mostrar pra vocês, a gente trata a piabanha, já entrega tratadinha na cidade."
+    },
+    {
+      "start": 6.54,
+      "end": 10.84,
+      "text": "Em água corrente, água limpa, as caixas tudo cheias de peixe."
+    }
+  ],
+  "duracao_seg": 13.87,
+  "idioma_detectado": "pt"
+}

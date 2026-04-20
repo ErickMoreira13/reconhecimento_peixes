@@ -1,0 +1,312 @@
+{
+  "texto": "Tainha viva com anzolzinho. Olha que coisa linda essa tainhotinha. Vamos ver se a gente consegue pegar um robalo aqui com essa tainha. Pegou, galera. Pegou. Pegou. Pegou. Meu Deus do céu. Grande, galera. Tomando linha. Meu Deus do céu. Que robalaço. E toma linha. E toma linha. E toma linha. Olha, tomando linha. Na tainha viva, cara. Vem, garotão. Vem que eu vou botar ali. Peguei, galera. Nossa, que peixaço, galera. Olha isso. Isso aqui dá uns 90 centímetros, hein. Olha o tamanho da nave, galera. O balão. No pôr do sol, fim de tarde. Lindo peixe. Vamos mandar ele pra vida. Vai, menino. Vai embora. Vai embora, garoto. Pesca insana é o nome disso. O canal de pesca mais insano do Brasil. É nóis. Valeu. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Tainha viva com anzolzinho."
+    },
+    {
+      "start": 2.8,
+      "end": 5.12,
+      "text": "Olha que coisa linda essa tainhotinha."
+    },
+    {
+      "start": 5.76,
+      "end": 8.52,
+      "text": "Vamos ver se a gente consegue pegar um robalo aqui com essa tainha."
+    },
+    {
+      "start": 9.78,
+      "end": 11.42,
+      "text": "Pegou, galera."
+    },
+    {
+      "start": 11.66,
+      "end": 11.96,
+      "text": "Pegou."
+    },
+    {
+      "start": 12.48,
+      "end": 12.8,
+      "text": "Pegou."
+    },
+    {
+      "start": 13.55,
+      "end": 13.91,
+      "text": "Pegou."
+    },
+    {
+      "start": 16.04,
+      "end": 16.84,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 16.96,
+      "end": 17.54,
+      "text": "Grande, galera."
+    },
+    {
+      "start": 18.1,
+      "end": 18.72,
+      "text": "Tomando linha."
+    },
+    {
+      "start": 19.14,
+      "end": 20.5,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 21.16,
+      "end": 22.3,
+      "text": "Que robalaço."
+    },
+    {
+      "start": 23.65,
+      "end": 24.37,
+      "text": "E toma linha."
+    },
+    {
+      "start": 24.53,
+      "end": 25.11,
+      "text": "E toma linha."
+    },
+    {
+      "start": 25.43,
+      "end": 25.97,
+      "text": "E toma linha."
+    },
+    {
+      "start": 26.61,
+      "end": 28.05,
+      "text": "Olha, tomando linha."
+    },
+    {
+      "start": 28.61,
+      "end": 30.13,
+      "text": "Na tainha viva, cara."
+    },
+    {
+      "start": 30.13,
+      "end": 32.11,
+      "text": "Vem, garotão."
+    },
+    {
+      "start": 33.01,
+      "end": 34.33,
+      "text": "Vem que eu vou botar ali."
+    },
+    {
+      "start": 34.99,
+      "end": 36.01,
+      "text": "Peguei, galera."
+    },
+    {
+      "start": 36.75,
+      "end": 38.35,
+      "text": "Nossa, que peixaço, galera."
+    },
+    {
+      "start": 38.41,
+      "end": 38.85,
+      "text": "Olha isso."
+    },
+    {
+      "start": 39.05,
+      "end": 40.43,
+      "text": "Isso aqui dá uns 90 centímetros, hein."
+    },
+    {
+      "start": 41.05,
+      "end": 42.27,
+      "text": "Olha o tamanho da nave, galera."
+    },
+    {
+      "start": 42.93,
+      "end": 43.43,
+      "text": "O balão."
+    },
+    {
+      "start": 45.39,
+      "end": 46.73,
+      "text": "No pôr do sol, fim de tarde."
+    },
+    {
+      "start": 47.76,
+      "end": 48.28,
+      "text": "Lindo peixe."
+    },
+    {
+      "start": 48.6,
+      "end": 49.4,
+      "text": "Vamos mandar ele pra vida."
+    },
+    {
+      "start": 49.92,
+      "end": 50.42,
+      "text": "Vai, menino."
+    },
+    {
+      "start": 50.8,
+      "end": 51.22,
+      "text": "Vai embora."
+    },
+    {
+      "start": 51.92,
+      "end": 53.08,
+      "text": "Vai embora, garoto."
+    },
+    {
+      "start": 54.06,
+      "end": 55.48,
+      "text": "Pesca insana é o nome disso."
+    },
+    {
+      "start": 55.86,
+      "end": 57.62,
+      "text": "O canal de pesca mais insano do Brasil."
+    },
+    {
+      "start": 57.94,
+      "end": 58.5,
+      "text": "É nóis."
+    },
+    {
+      "start": 58.68,
+      "end": 59.06,
+      "text": "Valeu."
+    },
+    {
+      "start": 59.06,
+      "end": 60.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 60.06,
+      "end": 61.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 61.06,
+      "end": 62.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 62.06,
+      "end": 63.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 63.06,
+      "end": 64.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 64.06,
+      "end": 65.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 65.06,
+      "end": 66.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 66.06,
+      "end": 67.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 67.06,
+      "end": 68.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 68.06,
+      "end": 69.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 69.06,
+      "end": 70.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 70.06,
+      "end": 71.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 71.06,
+      "end": 72.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 72.06,
+      "end": 73.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 73.06,
+      "end": 74.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 74.06,
+      "end": 75.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 75.06,
+      "end": 76.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 76.06,
+      "end": 77.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 77.06,
+      "end": 78.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 78.06,
+      "end": 79.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 79.06,
+      "end": 80.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 80.06,
+      "end": 81.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 81.06,
+      "end": 82.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 82.06,
+      "end": 83.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 83.06,
+      "end": 84.06,
+      "text": "Tchau."
+    },
+    {
+      "start": 84.06,
+      "end": 85.06,
+      "text": "Tchau."
+    }
+  ],
+  "duracao_seg": 59.89,
+  "idioma_detectado": "pt"
+}

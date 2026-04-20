@@ -1,0 +1,57 @@
+{
+  "texto": "O Leandro aí vai jogar uns milhos ali, ó. Vamos ver, ó. E aí, Leandro? Foi? Opa! Ele pegando milho, colocando. Equipe danada aí, ó. Chama! Tá vendo? Vai.",
+  "segmentos": [
+    {
+      "start": 1.78,
+      "end": 4.32,
+      "text": "O Leandro aí vai jogar uns milhos ali, ó."
+    },
+    {
+      "start": 5.29,
+      "end": 5.85,
+      "text": "Vamos ver, ó."
+    },
+    {
+      "start": 14.47,
+      "end": 14.91,
+      "text": "E aí, Leandro?"
+    },
+    {
+      "start": 15.45,
+      "end": 15.73,
+      "text": "Foi?"
+    },
+    {
+      "start": 15.83,
+      "end": 16.51,
+      "text": "Opa!"
+    },
+    {
+      "start": 25.96,
+      "end": 30.21,
+      "text": "Ele pegando milho, colocando."
+    },
+    {
+      "start": 31.56,
+      "end": 32.68,
+      "text": "Equipe danada aí, ó."
+    },
+    {
+      "start": 43.63,
+      "end": 44.15,
+      "text": "Chama!"
+    },
+    {
+      "start": 50.01,
+      "end": 50.45,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 53.35,
+      "end": 53.65,
+      "text": "Vai."
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Hoje o diabo a suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua Meu rancho fica na beira de cá escuto bater Daqui da porta...",
+  "segmentos": [
+    {
+      "start": 9.62,
+      "end": 13.86,
+      "text": "Hoje o diabo a suja é lugar de peixe juntar"
+    },
+    {
+      "start": 13.86,
+      "end": 18.7,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 18.7,
+      "end": 24.08,
+      "text": "Meu rancho fica na beira de cá escuto bater"
+    },
+    {
+      "start": 24.08,
+      "end": 26.22,
+      "text": "Daqui da porta..."
+    }
+  ],
+  "duracao_seg": 26.25,
+  "idioma_detectado": "pt"
+}

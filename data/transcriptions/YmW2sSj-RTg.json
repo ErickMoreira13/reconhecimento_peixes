@@ -1,0 +1,67 @@
+{
+  "texto": "Pescaria de Corvina Com Garmin Striker 4 Elas estão aqui de 10 até 15 metros Vou soltar o camarãozinho aqui no pé do motor Pode soltar Está descendo, pode descer mais Pode parar, vamos ver se A Corvina já veio pegar Vamos ver E é grande Opa É grande a Corvina",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.16,
+      "text": "Pescaria de Corvina"
+    },
+    {
+      "start": 2.16,
+      "end": 3.78,
+      "text": "Com Garmin Striker 4"
+    },
+    {
+      "start": 3.78,
+      "end": 7.12,
+      "text": "Elas estão aqui de 10 até 15 metros"
+    },
+    {
+      "start": 7.12,
+      "end": 9.28,
+      "text": "Vou soltar o camarãozinho aqui no pé do motor"
+    },
+    {
+      "start": 9.28,
+      "end": 9.96,
+      "text": "Pode soltar"
+    },
+    {
+      "start": 9.96,
+      "end": 20.32,
+      "text": "Está descendo, pode descer mais"
+    },
+    {
+      "start": 20.32,
+      "end": 26.58,
+      "text": "Pode parar, vamos ver se"
+    },
+    {
+      "start": 26.58,
+      "end": 28.64,
+      "text": "A Corvina já veio pegar"
+    },
+    {
+      "start": 28.64,
+      "end": 29.76,
+      "text": "Vamos ver"
+    },
+    {
+      "start": 29.76,
+      "end": 35.32,
+      "text": "E é grande"
+    },
+    {
+      "start": 35.32,
+      "end": 37.12,
+      "text": "Opa"
+    },
+    {
+      "start": 37.12,
+      "end": 40.13,
+      "text": "É grande a Corvina"
+    }
+  ],
+  "duracao_seg": 44.61,
+  "idioma_detectado": "pt"
+}

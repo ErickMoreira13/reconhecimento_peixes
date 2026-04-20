@@ -1,0 +1,32 @@
+{
+  "texto": "Toda é chata Com a cabulosa junto Jundiazão, velho, não se aguentou E gordo Ah, cabulosa, velho",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 1.3,
+      "text": "Toda é chata"
+    },
+    {
+      "start": 1.3,
+      "end": 3.28,
+      "text": "Com a cabulosa junto"
+    },
+    {
+      "start": 3.28,
+      "end": 5.75,
+      "text": "Jundiazão, velho, não se aguentou"
+    },
+    {
+      "start": 5.75,
+      "end": 9.31,
+      "text": "E gordo"
+    },
+    {
+      "start": 9.31,
+      "end": 14.03,
+      "text": "Ah, cabulosa, velho"
+    }
+  ],
+  "duracao_seg": 14.09,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Cuida pessoal, bora preparar a selva aqui ó, para tilápia, piau, tá aqui ó, o milho, o xerém de milho já azedo, bota colocar macaxeira também, ração de peixe, mas hoje estou colocando só o milho e o xerém, ó. Vou colocar aqui dentro desse saco de cebola, ó, vestido em dois sacos, vou encher aqui ó, de milho e xerém. Colocar uma pedra dentro, bora dar uma amarrar aqui, uma cordinha ó, e vamos jogar ali no açude. Aqui a selva fixa, aí no dia você traz mais um xerém de milho, uma raçãozinha de coelho e joga no ponto.",
+  "segmentos": [
+    {
+      "start": 4.02,
+      "end": 11.82,
+      "text": "Cuida pessoal, bora preparar a selva aqui ó, para tilápia, piau, tá aqui ó, o milho, o xerém de milho já azedo,"
+    },
+    {
+      "start": 12.4,
+      "end": 18.48,
+      "text": "bota colocar macaxeira também, ração de peixe, mas hoje estou colocando só o milho e o xerém, ó."
+    },
+    {
+      "start": 19.52,
+      "end": 28.0,
+      "text": "Vou colocar aqui dentro desse saco de cebola, ó, vestido em dois sacos, vou encher aqui ó, de milho e xerém."
+    },
+    {
+      "start": 28.0,
+      "end": 39.47,
+      "text": "Colocar uma pedra dentro, bora dar uma amarrar aqui, uma cordinha ó, e vamos jogar ali no açude."
+    },
+    {
+      "start": 40.53,
+      "end": 48.68,
+      "text": "Aqui a selva fixa, aí no dia você traz mais um xerém de milho, uma raçãozinha de coelho e joga no ponto."
+    }
+  ],
+  "duracao_seg": 59.01,
+  "idioma_detectado": "pt"
+}

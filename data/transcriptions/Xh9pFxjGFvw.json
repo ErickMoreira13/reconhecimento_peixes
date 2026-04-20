@@ -1,0 +1,22 @@
+{
+  "texto": "Correndo atrás e ninguém tá entendendo nada Minha mãe sempre orando e eu sou filho na estrada Meu Deus vai na frente enfrentando qualquer barulho",
+  "segmentos": [
+    {
+      "start": 3.54,
+      "end": 6.28,
+      "text": "Correndo atrás e ninguém tá entendendo nada"
+    },
+    {
+      "start": 6.28,
+      "end": 9.58,
+      "text": "Minha mãe sempre orando e eu sou filho na estrada"
+    },
+    {
+      "start": 9.58,
+      "end": 12.22,
+      "text": "Meu Deus vai na frente enfrentando qualquer barulho"
+    }
+  ],
+  "duracao_seg": 12.25,
+  "idioma_detectado": "pt"
+}

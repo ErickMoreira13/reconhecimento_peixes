@@ -1,0 +1,17 @@
+{
+  "texto": "Eu sou filho do mato, eu venho da roça O meu pai foi vaqueiro, minhas mãos regrossas Eu não sou doutor, doutor de rei",
+  "segmentos": [
+    {
+      "start": 2.13,
+      "end": 8.53,
+      "text": "Eu sou filho do mato, eu venho da roça O meu pai foi vaqueiro, minhas mãos regrossas"
+    },
+    {
+      "start": 8.53,
+      "end": 11.17,
+      "text": "Eu não sou doutor, doutor de rei"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

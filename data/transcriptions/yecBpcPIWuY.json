@@ -1,0 +1,27 @@
+{
+  "texto": "Olha lá, ó, sucuri lá. Não dá pra ver muito bem, mas... Olha a bicha lá, descendo. Paradona lá, tomando uma água.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 1.87,
+      "text": "Olha lá, ó, sucuri lá."
+    },
+    {
+      "start": 5.1,
+      "end": 7.52,
+      "text": "Não dá pra ver muito bem, mas..."
+    },
+    {
+      "start": 7.52,
+      "end": 10.4,
+      "text": "Olha a bicha lá, descendo."
+    },
+    {
+      "start": 13.86,
+      "end": 16.22,
+      "text": "Paradona lá, tomando uma água."
+    }
+  ],
+  "duracao_seg": 19.13,
+  "idioma_detectado": "pt"
+}

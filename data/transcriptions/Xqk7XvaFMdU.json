@@ -1,0 +1,27 @@
+{
+  "texto": "Esse é o peixe cachorro. Muito bonito ele. Olha só aí. Olha os dentes dele aí.",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 1.92,
+      "text": "Esse é o peixe cachorro."
+    },
+    {
+      "start": 3.4,
+      "end": 4.7,
+      "text": "Muito bonito ele."
+    },
+    {
+      "start": 9.77,
+      "end": 10.59,
+      "text": "Olha só aí."
+    },
+    {
+      "start": 11.88,
+      "end": 13.4,
+      "text": "Olha os dentes dele aí."
+    }
+  ],
+  "duracao_seg": 21.19,
+  "idioma_detectado": "pt"
+}

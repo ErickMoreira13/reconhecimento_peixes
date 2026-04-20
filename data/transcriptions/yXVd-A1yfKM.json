@@ -1,0 +1,22 @@
+{
+  "texto": "calma calma calma deixa ele subir mais calma deixa ele subir tá muito fundo é pessoal aí pode ver galera aqui ó você é bom ontem pescador outro é o mesmo não é outro flash e pescador o capitão henrique aí ó a capricha",
+  "segmentos": [
+    {
+      "start": 16.5,
+      "end": 53.18,
+      "text": "calma calma calma deixa ele subir mais calma deixa ele subir tá muito fundo é pessoal aí"
+    },
+    {
+      "start": 53.18,
+      "end": 106.38,
+      "text": "pode ver galera aqui ó você é bom ontem pescador outro é o mesmo não é outro flash e pescador"
+    },
+    {
+      "start": 106.38,
+      "end": 161.97,
+      "text": "o capitão henrique aí ó a capricha"
+    }
+  ],
+  "duracao_seg": 305.01,
+  "idioma_detectado": "pt"
+}

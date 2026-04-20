@@ -1,0 +1,22 @@
+{
+  "texto": "Tá aí, galera, ó. Piauzão coqueirão, ó. Acabado de pegar nesse tanto, ó. Olha o tamanho do coqueiro. Graúdo, viu? Olha aí, ó.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 5.04,
+      "text": "Tá aí, galera, ó. Piauzão coqueirão, ó. Acabado de pegar nesse tanto, ó."
+    },
+    {
+      "start": 6.08,
+      "end": 11.37,
+      "text": "Olha o tamanho do coqueiro. Graúdo, viu?"
+    },
+    {
+      "start": 12.42,
+      "end": 12.84,
+      "text": "Olha aí, ó."
+    }
+  ],
+  "duracao_seg": 14.87,
+  "idioma_detectado": "pt"
+}

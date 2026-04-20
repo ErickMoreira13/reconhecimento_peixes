@@ -1,0 +1,82 @@
+{
+  "texto": "Hoje vamos falar de 9 tipos de peixe pacu, que talvez você não conhecia. Vamos para mais um vídeo. Primeiro, pacu caranha. Segundo, pacu marreca. Terceiro, pacu cadete. Quarto, pacu peva. Quinto, pacu borracha. Na minha opinião, esse é o mais bonito de todos. Ele tem uma coloração muito bonita. Agora vamos para o sexto. Já em sexto lugar temos o pacu comum. Vamos para o próximo que ainda tem mais três tipos de pacu. Sétimo, já em sétimo lugar temos o pacu prata. Agora em oitavo, pacu branco. Agora vamos para o último lugar, nono, pacu manteiga.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "Hoje vamos falar de 9 tipos de peixe pacu, que talvez você não conhecia."
+    },
+    {
+      "start": 5.48,
+      "end": 6.9,
+      "text": "Vamos para mais um vídeo."
+    },
+    {
+      "start": 7.24,
+      "end": 8.82,
+      "text": "Primeiro, pacu caranha."
+    },
+    {
+      "start": 11.04,
+      "end": 12.88,
+      "text": "Segundo, pacu marreca."
+    },
+    {
+      "start": 15.12,
+      "end": 16.94,
+      "text": "Terceiro, pacu cadete."
+    },
+    {
+      "start": 19.35,
+      "end": 20.87,
+      "text": "Quarto, pacu peva."
+    },
+    {
+      "start": 23.03,
+      "end": 24.99,
+      "text": "Quinto, pacu borracha."
+    },
+    {
+      "start": 25.45,
+      "end": 28.23,
+      "text": "Na minha opinião, esse é o mais bonito de todos."
+    },
+    {
+      "start": 28.57,
+      "end": 30.75,
+      "text": "Ele tem uma coloração muito bonita."
+    },
+    {
+      "start": 30.75,
+      "end": 33.39,
+      "text": "Agora vamos para o sexto."
+    },
+    {
+      "start": 33.71,
+      "end": 36.75,
+      "text": "Já em sexto lugar temos o pacu comum."
+    },
+    {
+      "start": 39.13,
+      "end": 42.65,
+      "text": "Vamos para o próximo que ainda tem mais três tipos de pacu."
+    },
+    {
+      "start": 43.09,
+      "end": 47.19,
+      "text": "Sétimo, já em sétimo lugar temos o pacu prata."
+    },
+    {
+      "start": 49.62,
+      "end": 52.3,
+      "text": "Agora em oitavo, pacu branco."
+    },
+    {
+      "start": 54.6,
+      "end": 58.66,
+      "text": "Agora vamos para o último lugar, nono, pacu manteiga."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

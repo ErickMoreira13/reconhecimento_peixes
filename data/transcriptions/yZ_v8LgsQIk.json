@@ -1,0 +1,27 @@
+{
+  "texto": "She say, do you love me? I tell her only partly I only love my bed and my mama, I'm sorry 50 dub, I even got it, had it on me 81, they bring the crushers to the party",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "She say, do you love me? I tell her only partly"
+    },
+    {
+      "start": 3.68,
+      "end": 6.8,
+      "text": "I only love my bed and my mama, I'm sorry"
+    },
+    {
+      "start": 6.8,
+      "end": 9.98,
+      "text": "50 dub, I even got it, had it on me"
+    },
+    {
+      "start": 9.98,
+      "end": 12.84,
+      "text": "81, they bring the crushers to the party"
+    }
+  ],
+  "duracao_seg": 12.85,
+  "idioma_detectado": "pt"
+}

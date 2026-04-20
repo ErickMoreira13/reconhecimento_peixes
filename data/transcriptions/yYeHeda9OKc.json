@@ -1,0 +1,17 @@
+{
+  "texto": "Eu não gosto que falam que minhas pescarias são histórias de pescador. Aqui provamos que pegamos lambari de até 50 quilos.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.22,
+      "text": "Eu não gosto que falam que minhas pescarias são histórias de pescador."
+    },
+    {
+      "start": 4.66,
+      "end": 8.16,
+      "text": "Aqui provamos que pegamos lambari de até 50 quilos."
+    }
+  ],
+  "duracao_seg": 10.79,
+  "idioma_detectado": "pt"
+}

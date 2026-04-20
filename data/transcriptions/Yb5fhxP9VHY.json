@@ -1,0 +1,22 @@
+{
+  "texto": "Ela vem deslizando Ela vem sentando gostosinho pro pai E vem jogando de ladinho",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 2.14,
+      "text": "Ela vem deslizando"
+    },
+    {
+      "start": 2.14,
+      "end": 12.0,
+      "text": "Ela vem sentando gostosinho pro pai"
+    },
+    {
+      "start": 12.0,
+      "end": 14.62,
+      "text": "E vem jogando de ladinho"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Fala galerinha, vou ensinar como pegamos tainha no litro descartável. Adicionamos farinha de trigo e soltamos na água. O peixe entra para comer o trigo, sentimos e logo puxamos e o peixe não consegue voltar. Se o trigo não der sertão na sua região, usa fubá, miolo de pão ou até mesmo logro verde. Uma ótima pescaria e não se esqueça de seguir o Pesca Colatina.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.96,
+      "text": "Fala galerinha, vou ensinar como pegamos tainha no litro descartável."
+    },
+    {
+      "start": 4.54,
+      "end": 7.56,
+      "text": "Adicionamos farinha de trigo e soltamos na água."
+    },
+    {
+      "start": 7.56,
+      "end": 14.22,
+      "text": "O peixe entra para comer o trigo, sentimos e logo puxamos e o peixe não consegue voltar."
+    },
+    {
+      "start": 14.9,
+      "end": 22.24,
+      "text": "Se o trigo não der sertão na sua região, usa fubá, miolo de pão ou até mesmo logro verde."
+    },
+    {
+      "start": 22.74,
+      "end": 26.9,
+      "text": "Uma ótima pescaria e não se esqueça de seguir o Pesca Colatina."
+    }
+  ],
+  "duracao_seg": 27.31,
+  "idioma_detectado": "pt"
+}

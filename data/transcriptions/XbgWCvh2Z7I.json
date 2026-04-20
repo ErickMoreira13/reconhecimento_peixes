@@ -1,0 +1,42 @@
+{
+  "texto": "que nem rosco é peixe galera aí ó tava pego muita sujeira pescando e conversando bem felizinho",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "que nem rosco"
+    },
+    {
+      "start": 1.0,
+      "end": 5.57,
+      "text": "é peixe galera"
+    },
+    {
+      "start": 5.57,
+      "end": 6.51,
+      "text": "aí ó"
+    },
+    {
+      "start": 6.51,
+      "end": 9.38,
+      "text": "tava pego"
+    },
+    {
+      "start": 9.38,
+      "end": 10.26,
+      "text": "muita sujeira"
+    },
+    {
+      "start": 10.26,
+      "end": 12.93,
+      "text": "pescando e conversando"
+    },
+    {
+      "start": 12.93,
+      "end": 13.87,
+      "text": "bem felizinho"
+    }
+  ],
+  "duracao_seg": 14.77,
+  "idioma_detectado": "pt"
+}

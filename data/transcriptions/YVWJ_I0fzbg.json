@@ -1,0 +1,32 @@
+{
+  "texto": "O que não tivesses a felicidade, deixa a cidade bem conhecer Meu sertão querido, meu reino encantado, meu berço adorado que me viu nascer Venha mais depressa, não fique pensado, estou te esperando para te mostrar Os velhos lindos e os de águas claras e as belezas raras do nosso luar Atrás da mata, fica cor de praia, imensidão, raras olhando",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 6.98,
+      "text": "O que não tivesses a felicidade, deixa a cidade bem conhecer"
+    },
+    {
+      "start": 6.98,
+      "end": 13.74,
+      "text": "Meu sertão querido, meu reino encantado, meu berço adorado que me viu nascer"
+    },
+    {
+      "start": 13.74,
+      "end": 20.84,
+      "text": "Venha mais depressa, não fique pensado, estou te esperando para te mostrar"
+    },
+    {
+      "start": 20.84,
+      "end": 30.67,
+      "text": "Os velhos lindos e os de águas claras e as belezas raras do nosso luar"
+    },
+    {
+      "start": 30.67,
+      "end": 43.77,
+      "text": "Atrás da mata, fica cor de praia, imensidão, raras olhando"
+    }
+  ],
+  "duracao_seg": 55.31,
+  "idioma_detectado": "pt"
+}
