@@ -1,0 +1,632 @@
+{
+  "texto": "O cara do prego Voltou da peça aí de reboca Voltou do Pernambuco de reboca esse moço Chegou-se Tira a foto nossa aqui Vamos aqui, vamos embora Não é para cá não para aparecer o mar Horrível Lá vai, lá vai Deixa eu botar lá para cá Lá vai outra Vamos ver, vamos ver Vamos ver o que é essa aí É o tarpa, é? Oxê Tá Eita Essa foi ligeira Tá Olha aí galera Vou botar isso aqui Para ver se bate os tarpa aí Tem tarpa Beijo com força Beijo com força Oxê Oxê Aí Não pegou alguma coisa Olha ele baga aqui Eu pensava que era o tarpa Mas demorou a saltar É não Tá E aí outro Olha Isso aí pelo bucho Tá doido O meu largou ali também Tá pescando com o sapinho né É Eu tô pescando com esse aqui ó Com o peixinho É o peixinho Esse aí é grandão Tá O cara tá soltando tudo ou não? Hein? O cara tá soltando, tá levando O que você vai fazer? Rapaz, esse aí não O que você vai fazer? Eu não gosto não Nem de pêmo Nem de camurinho Cuidados Cuidados O bicho vem com Pra comer mesmo Tá Tá travado hein É Esse aí grandão Só o cabeção do bicho Ah levei muita furadição Tá doido Isso dói hein? Puxa tá doido Pode ficar quieta aí É temo E ninho Isso, fica aí Tem que ficar e não tem nem como né Oi Tem que ficar e não tem nem como né Paceando Tá dando rolê? É Aí ele aí Olha aí ó Depois mostra aqui Pra Puxa Puxa Puxa Puxa Olha aí Olha aí Olha que bonito É uma recalca Eu tô virando Peraí, peraí Deixa eu fazer assim Aí, aí Aqui na outra Peraí Bonito ou não? É Pegou ó Vai Mente passar água nele Olha O tamanho do outro né Eu quis levar uns dois O tamanho do outro né É o tamanho daquele outro né É o tamanho daquele outro né É o tamanho daquele outro É bom pra comer, Sérgio? Eu comi e não gostei muito não Não gostou muito? Não tem espinha Vou levar só um então pra experimentar Tem espinha com força É Agora é bom pra fazer na pressão Que nem sardinha Ah é? É Peraí tem que tirar o buff, galera Então a poléia vai ver que nada aqui Ei, ô ô ô Tchau Tchau Tchau",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "O cara do prego"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Voltou da peça aí de reboca"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Voltou do Pernambuco de reboca esse moço"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Chegou-se"
+    },
+    {
+      "start": 8.0,
+      "end": 11.25,
+      "text": "Tira a foto nossa aqui"
+    },
+    {
+      "start": 11.25,
+      "end": 13.34,
+      "text": "Vamos aqui, vamos embora"
+    },
+    {
+      "start": 13.34,
+      "end": 15.34,
+      "text": "Não é para cá não para aparecer o mar"
+    },
+    {
+      "start": 15.34,
+      "end": 18.43,
+      "text": "Horrível"
+    },
+    {
+      "start": 22.43,
+      "end": 24.66,
+      "text": "Lá vai, lá vai"
+    },
+    {
+      "start": 24.66,
+      "end": 27.3,
+      "text": "Deixa eu botar lá para cá"
+    },
+    {
+      "start": 27.3,
+      "end": 33.65,
+      "text": "Lá vai outra"
+    },
+    {
+      "start": 33.65,
+      "end": 52.48,
+      "text": "Vamos ver, vamos ver"
+    },
+    {
+      "start": 52.48,
+      "end": 69.94,
+      "text": "Vamos ver o que é essa aí"
+    },
+    {
+      "start": 69.94,
+      "end": 75.74,
+      "text": "É o tarpa, é?"
+    },
+    {
+      "start": 75.74,
+      "end": 77.74,
+      "text": "Oxê"
+    },
+    {
+      "start": 77.74,
+      "end": 80.1,
+      "text": "Tá"
+    },
+    {
+      "start": 80.1,
+      "end": 83.66,
+      "text": "Eita"
+    },
+    {
+      "start": 83.66,
+      "end": 86.05,
+      "text": "Essa foi ligeira"
+    },
+    {
+      "start": 86.05,
+      "end": 88.05,
+      "text": "Tá"
+    },
+    {
+      "start": 88.05,
+      "end": 123.42,
+      "text": "Olha aí galera"
+    },
+    {
+      "start": 123.42,
+      "end": 126.35,
+      "text": "Vou botar isso aqui"
+    },
+    {
+      "start": 126.35,
+      "end": 128.35,
+      "text": "Para ver se bate os tarpa aí"
+    },
+    {
+      "start": 128.35,
+      "end": 131.06,
+      "text": "Tem tarpa"
+    },
+    {
+      "start": 131.06,
+      "end": 133.38,
+      "text": "Beijo com força"
+    },
+    {
+      "start": 133.38,
+      "end": 136.82,
+      "text": "Beijo com força"
+    },
+    {
+      "start": 136.82,
+      "end": 164.16,
+      "text": "Oxê"
+    },
+    {
+      "start": 164.16,
+      "end": 168.43,
+      "text": "Oxê"
+    },
+    {
+      "start": 168.43,
+      "end": 170.43,
+      "text": "Aí"
+    },
+    {
+      "start": 170.43,
+      "end": 173.04,
+      "text": "Não pegou alguma coisa"
+    },
+    {
+      "start": 173.04,
+      "end": 176.03,
+      "text": "Olha ele baga aqui"
+    },
+    {
+      "start": 176.03,
+      "end": 178.93,
+      "text": "Eu pensava que era o tarpa"
+    },
+    {
+      "start": 178.93,
+      "end": 180.93,
+      "text": "Mas demorou a saltar"
+    },
+    {
+      "start": 180.93,
+      "end": 185.36,
+      "text": "É não"
+    },
+    {
+      "start": 185.36,
+      "end": 235.94,
+      "text": "Tá"
+    },
+    {
+      "start": 235.94,
+      "end": 237.94,
+      "text": "E aí outro"
+    },
+    {
+      "start": 238.35,
+      "end": 240.64,
+      "text": "Olha"
+    },
+    {
+      "start": 240.64,
+      "end": 248.5,
+      "text": "Isso aí pelo bucho"
+    },
+    {
+      "start": 248.5,
+      "end": 250.5,
+      "text": "Tá doido"
+    },
+    {
+      "start": 250.5,
+      "end": 276.94,
+      "text": "O meu largou ali também"
+    },
+    {
+      "start": 276.94,
+      "end": 280.06,
+      "text": "Tá pescando com o sapinho né"
+    },
+    {
+      "start": 280.06,
+      "end": 281.06,
+      "text": "É"
+    },
+    {
+      "start": 281.06,
+      "end": 282.61,
+      "text": "Eu tô pescando com esse aqui ó"
+    },
+    {
+      "start": 282.61,
+      "end": 283.61,
+      "text": "Com o peixinho"
+    },
+    {
+      "start": 283.61,
+      "end": 285.06,
+      "text": "É o peixinho"
+    },
+    {
+      "start": 285.06,
+      "end": 286.06,
+      "text": "Esse aí é grandão"
+    },
+    {
+      "start": 286.06,
+      "end": 287.06,
+      "text": "Tá"
+    },
+    {
+      "start": 287.06,
+      "end": 291.42,
+      "text": "O cara tá soltando tudo ou não?"
+    },
+    {
+      "start": 291.42,
+      "end": 292.42,
+      "text": "Hein?"
+    },
+    {
+      "start": 292.42,
+      "end": 293.52,
+      "text": "O cara tá soltando, tá levando"
+    },
+    {
+      "start": 293.52,
+      "end": 294.52,
+      "text": "O que você vai fazer?"
+    },
+    {
+      "start": 294.52,
+      "end": 295.52,
+      "text": "Rapaz, esse aí não"
+    },
+    {
+      "start": 295.52,
+      "end": 296.94,
+      "text": "O que você vai fazer?"
+    },
+    {
+      "start": 296.94,
+      "end": 298.94,
+      "text": "Eu não gosto não"
+    },
+    {
+      "start": 298.94,
+      "end": 301.35,
+      "text": "Nem de pêmo"
+    },
+    {
+      "start": 301.35,
+      "end": 303.35,
+      "text": "Nem de camurinho"
+    },
+    {
+      "start": 303.35,
+      "end": 304.48,
+      "text": "Cuidados"
+    },
+    {
+      "start": 304.48,
+      "end": 307.31,
+      "text": "Cuidados"
+    },
+    {
+      "start": 307.31,
+      "end": 310.3,
+      "text": "O bicho vem com"
+    },
+    {
+      "start": 310.3,
+      "end": 311.3,
+      "text": "Pra comer mesmo"
+    },
+    {
+      "start": 311.3,
+      "end": 312.3,
+      "text": "Tá"
+    },
+    {
+      "start": 312.3,
+      "end": 318.35,
+      "text": "Tá travado hein"
+    },
+    {
+      "start": 318.35,
+      "end": 320.89,
+      "text": "É"
+    },
+    {
+      "start": 320.89,
+      "end": 321.89,
+      "text": "Esse aí grandão"
+    },
+    {
+      "start": 321.89,
+      "end": 322.89,
+      "text": "Só o cabeção do bicho"
+    },
+    {
+      "start": 322.89,
+      "end": 324.95,
+      "text": "Ah levei muita furadição"
+    },
+    {
+      "start": 324.95,
+      "end": 325.95,
+      "text": "Tá doido"
+    },
+    {
+      "start": 325.95,
+      "end": 326.95,
+      "text": "Isso dói hein?"
+    },
+    {
+      "start": 326.95,
+      "end": 327.95,
+      "text": "Puxa tá doido"
+    },
+    {
+      "start": 327.95,
+      "end": 329.24,
+      "text": "Pode ficar quieta aí"
+    },
+    {
+      "start": 329.24,
+      "end": 330.24,
+      "text": "É temo"
+    },
+    {
+      "start": 330.24,
+      "end": 331.24,
+      "text": "E ninho"
+    },
+    {
+      "start": 331.24,
+      "end": 333.3,
+      "text": "Isso, fica aí"
+    },
+    {
+      "start": 333.3,
+      "end": 339.01,
+      "text": "Tem que ficar e não tem nem como né"
+    },
+    {
+      "start": 339.01,
+      "end": 340.17,
+      "text": "Oi"
+    },
+    {
+      "start": 340.17,
+      "end": 342.17,
+      "text": "Tem que ficar e não tem nem como né"
+    },
+    {
+      "start": 342.17,
+      "end": 345.25,
+      "text": "Paceando"
+    },
+    {
+      "start": 345.25,
+      "end": 346.7,
+      "text": "Tá dando rolê?"
+    },
+    {
+      "start": 346.7,
+      "end": 347.7,
+      "text": "É"
+    },
+    {
+      "start": 347.7,
+      "end": 348.7,
+      "text": "Aí ele aí"
+    },
+    {
+      "start": 348.7,
+      "end": 349.7,
+      "text": "Olha aí ó"
+    },
+    {
+      "start": 349.7,
+      "end": 352.07,
+      "text": "Depois mostra aqui"
+    },
+    {
+      "start": 352.07,
+      "end": 353.07,
+      "text": "Pra"
+    },
+    {
+      "start": 353.07,
+      "end": 354.49,
+      "text": "Puxa"
+    },
+    {
+      "start": 354.49,
+      "end": 355.49,
+      "text": "Puxa"
+    },
+    {
+      "start": 355.49,
+      "end": 356.52,
+      "text": "Puxa"
+    },
+    {
+      "start": 356.52,
+      "end": 357.52,
+      "text": "Puxa"
+    },
+    {
+      "start": 357.52,
+      "end": 359.0,
+      "text": "Olha aí"
+    },
+    {
+      "start": 359.0,
+      "end": 360.13,
+      "text": "Olha aí"
+    },
+    {
+      "start": 360.13,
+      "end": 361.13,
+      "text": "Olha que bonito"
+    },
+    {
+      "start": 361.13,
+      "end": 362.99,
+      "text": "É uma recalca"
+    },
+    {
+      "start": 362.99,
+      "end": 369.98,
+      "text": "Eu tô virando"
+    },
+    {
+      "start": 369.98,
+      "end": 372.62,
+      "text": "Peraí, peraí"
+    },
+    {
+      "start": 372.62,
+      "end": 373.62,
+      "text": "Deixa eu fazer assim"
+    },
+    {
+      "start": 373.62,
+      "end": 378.4,
+      "text": "Aí, aí"
+    },
+    {
+      "start": 378.4,
+      "end": 379.4,
+      "text": "Aqui na outra"
+    },
+    {
+      "start": 379.4,
+      "end": 388.11,
+      "text": "Peraí"
+    },
+    {
+      "start": 388.11,
+      "end": 389.11,
+      "text": "Bonito ou não?"
+    },
+    {
+      "start": 389.11,
+      "end": 390.11,
+      "text": "É"
+    },
+    {
+      "start": 390.11,
+      "end": 391.11,
+      "text": "Pegou ó"
+    },
+    {
+      "start": 391.11,
+      "end": 392.11,
+      "text": "Vai"
+    },
+    {
+      "start": 392.11,
+      "end": 397.21,
+      "text": "Mente passar água nele"
+    },
+    {
+      "start": 397.21,
+      "end": 412.35,
+      "text": "Olha"
+    },
+    {
+      "start": 412.35,
+      "end": 414.31,
+      "text": "O tamanho do outro né"
+    },
+    {
+      "start": 414.31,
+      "end": 415.31,
+      "text": "Eu quis levar uns dois"
+    },
+    {
+      "start": 415.31,
+      "end": 417.72,
+      "text": "O tamanho do outro né"
+    },
+    {
+      "start": 417.72,
+      "end": 418.72,
+      "text": "É o tamanho daquele outro né"
+    },
+    {
+      "start": 418.72,
+      "end": 419.72,
+      "text": "É o tamanho daquele outro né"
+    },
+    {
+      "start": 419.72,
+      "end": 422.99,
+      "text": "É o tamanho daquele outro"
+    },
+    {
+      "start": 422.99,
+      "end": 423.99,
+      "text": "É bom pra comer, Sérgio?"
+    },
+    {
+      "start": 423.99,
+      "end": 424.99,
+      "text": "Eu comi e não gostei muito não"
+    },
+    {
+      "start": 424.99,
+      "end": 425.99,
+      "text": "Não gostou muito?"
+    },
+    {
+      "start": 425.99,
+      "end": 426.99,
+      "text": "Não tem espinha"
+    },
+    {
+      "start": 426.99,
+      "end": 427.99,
+      "text": "Vou levar só um então pra experimentar"
+    },
+    {
+      "start": 427.99,
+      "end": 428.99,
+      "text": "Tem espinha com força"
+    },
+    {
+      "start": 428.99,
+      "end": 430.38,
+      "text": "É"
+    },
+    {
+      "start": 430.38,
+      "end": 432.38,
+      "text": "Agora é bom pra fazer na pressão"
+    },
+    {
+      "start": 432.38,
+      "end": 433.38,
+      "text": "Que nem sardinha"
+    },
+    {
+      "start": 433.38,
+      "end": 434.57,
+      "text": "Ah é?"
+    },
+    {
+      "start": 434.57,
+      "end": 450.03,
+      "text": "É"
+    },
+    {
+      "start": 450.03,
+      "end": 451.03,
+      "text": "Peraí tem que tirar o buff, galera"
+    },
+    {
+      "start": 451.03,
+      "end": 452.03,
+      "text": "Então a poléia vai ver que nada aqui"
+    },
+    {
+      "start": 452.03,
+      "end": 453.03,
+      "text": "Ei, ô ô ô"
+    },
+    {
+      "start": 453.03,
+      "end": 454.9,
+      "text": "Tchau"
+    },
+    {
+      "start": 454.9,
+      "end": 456.25,
+      "text": "Tchau"
+    },
+    {
+      "start": 456.25,
+      "end": 457.25,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 473.31,
+  "idioma_detectado": "pt"
+}

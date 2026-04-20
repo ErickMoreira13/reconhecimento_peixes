@@ -1,0 +1,32 @@
+{
+  "texto": "Ó, meu palmo tem 25 centímetros 25 50 Aí, ó Olha o tamanho do...",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 2.3,
+      "text": "Ó, meu palmo tem 25 centímetros"
+    },
+    {
+      "start": 2.3,
+      "end": 4.26,
+      "text": "25"
+    },
+    {
+      "start": 4.26,
+      "end": 7.26,
+      "text": "50"
+    },
+    {
+      "start": 7.26,
+      "end": 10.87,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 10.87,
+      "end": 15.07,
+      "text": "Olha o tamanho do..."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

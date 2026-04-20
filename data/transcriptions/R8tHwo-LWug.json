@@ -1,0 +1,47 @@
+{
+  "texto": "Aí pessoal, o sistema que eu usei foi esse aqui Anzolzinho Marozego 24 Desgamassada Um pouquinho de elastricou aqui bem no olho do anzol Pra segurar Deixa a ponta do anzol aparecendo, tá vendo? Esse sistema aí, ó Pega muito",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.1,
+      "text": "Aí pessoal, o sistema que eu usei foi esse aqui"
+    },
+    {
+      "start": 2.1,
+      "end": 4.74,
+      "text": "Anzolzinho Marozego 24"
+    },
+    {
+      "start": 4.74,
+      "end": 7.13,
+      "text": "Desgamassada"
+    },
+    {
+      "start": 7.13,
+      "end": 9.65,
+      "text": "Um pouquinho de elastricou aqui bem no olho do anzol"
+    },
+    {
+      "start": 9.65,
+      "end": 10.77,
+      "text": "Pra segurar"
+    },
+    {
+      "start": 10.77,
+      "end": 12.81,
+      "text": "Deixa a ponta do anzol aparecendo, tá vendo?"
+    },
+    {
+      "start": 14.05,
+      "end": 15.05,
+      "text": "Esse sistema aí, ó"
+    },
+    {
+      "start": 15.05,
+      "end": 15.89,
+      "text": "Pega muito"
+    }
+  ],
+  "duracao_seg": 16.21,
+  "idioma_detectado": "pt"
+}

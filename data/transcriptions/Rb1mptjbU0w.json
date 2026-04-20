@@ -1,0 +1,17 @@
+{
+  "texto": "O trem gostoso, só. Bota a música, caipira, e vamos.",
+  "segmentos": [
+    {
+      "start": 1.74,
+      "end": 3.24,
+      "text": "O trem gostoso, só."
+    },
+    {
+      "start": 5.08,
+      "end": 6.98,
+      "text": "Bota a música, caipira, e vamos."
+    }
+  ],
+  "duracao_seg": 18.29,
+  "idioma_detectado": "pt"
+}

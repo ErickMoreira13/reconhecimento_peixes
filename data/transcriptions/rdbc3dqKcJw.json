@@ -1,0 +1,32 @@
+{
+  "texto": "Sai daí, Heitor. Sai daí, Heitor. Cuidado pra não se soltar. Não vai pra pedra não. Puxa. Vai mais vindo pra cá. É. Panga.",
+  "segmentos": [
+    {
+      "start": 0.96,
+      "end": 5.17,
+      "text": "Sai daí, Heitor. Sai daí, Heitor. Cuidado pra não se soltar."
+    },
+    {
+      "start": 7.64,
+      "end": 8.34,
+      "text": "Não vai pra pedra não."
+    },
+    {
+      "start": 9.63,
+      "end": 11.19,
+      "text": "Puxa. Vai mais vindo pra cá."
+    },
+    {
+      "start": 13.37,
+      "end": 13.45,
+      "text": "É."
+    },
+    {
+      "start": 14.53,
+      "end": 14.95,
+      "text": "Panga."
+    }
+  ],
+  "duracao_seg": 20.39,
+  "idioma_detectado": "pt"
+}

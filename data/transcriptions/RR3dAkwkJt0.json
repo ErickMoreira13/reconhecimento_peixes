@@ -1,0 +1,32 @@
+{
+  "texto": "rapaz tô crescendo ao bicho tô crescendo ao cara o tamanho da piabanha vai parar aqui velho do céu que isso cara que isso velho que que é isso cara o tamanho da piabanha cara caraca vai já tá forte cara você tá forte eu não vou nem com pesar pesar essa jamanta eu não quero não olha isso galera olha isso cara olha o tamanho da piabanha na moral que isso vai só que a banha que dá mais de dois quilos e essa piabanha que dá mais doce",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 13.2,
+      "text": "rapaz tô crescendo ao bicho tô crescendo ao cara o tamanho da piabanha vai parar aqui velho do céu"
+    },
+    {
+      "start": 13.2,
+      "end": 35.46,
+      "text": "que isso cara que isso velho que que é isso cara o tamanho da piabanha cara caraca vai já tá forte"
+    },
+    {
+      "start": 35.46,
+      "end": 49.23,
+      "text": "cara você tá forte eu não vou nem com pesar pesar essa jamanta eu não quero não olha isso galera olha"
+    },
+    {
+      "start": 49.23,
+      "end": 56.97,
+      "text": "isso cara olha o tamanho da piabanha na moral que isso vai só que a banha que dá mais de dois quilos"
+    },
+    {
+      "start": 56.97,
+      "end": 59.51,
+      "text": "e essa piabanha que dá mais doce"
+    }
+  ],
+  "duracao_seg": 59.47,
+  "idioma_detectado": "pt"
+}

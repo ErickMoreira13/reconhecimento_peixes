@@ -1,0 +1,17 @@
+{
+  "texto": "Tambaquezinho, ó. Tambaquezinho de quarenta e três quilos, ó. Tamanho da criança.",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 5.04,
+      "text": "Tambaquezinho, ó. Tambaquezinho de quarenta e três quilos, ó."
+    },
+    {
+      "start": 5.04,
+      "end": 9.02,
+      "text": "Tamanho da criança."
+    }
+  ],
+  "duracao_seg": 10.51,
+  "idioma_detectado": "pt"
+}

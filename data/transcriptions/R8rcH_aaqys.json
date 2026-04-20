@@ -1,0 +1,17 @@
+{
+  "texto": "o domingão aqui ó como é que nós tá o pescador panema é foda ó miséria até raiva de tirar mostrei de novo oi oi oi oi oi oi oi oi oi oi oi oi oi",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 9.3,
+      "text": "o domingão aqui ó como é que nós tá o pescador panema é foda ó miséria até raiva de tirar"
+    },
+    {
+      "start": 9.3,
+      "end": 26.31,
+      "text": "mostrei de novo oi oi oi oi oi oi oi oi oi oi oi oi oi"
+    }
+  ],
+  "duracao_seg": 26.31,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "Ó, pessoal, vamos fazer aqui, ó, pra vocês entenderem sobre pescaria, certo? Primeira coisa, vocês que estão acostumados com isca artificial, linha é mono, não multi, pra pescar na isca natural, certo? Porque às vezes você precisa arrebentar. E uma, a multifilamento, ela fica na superfície, ela não afunda tanto igual a mono, tá? Então, por isso que tem que usar mono, sempre mono. Carretilha perfil alto, que pega 100 metros de linha, escalpeal pelo nariz, e a outra vem aqui, ó, perto do rabo. Você regula de acordo com o tamanho da trela, ok? Tá escado e pronto. A carretilha, sempre perfil alto, vara de 40, de 20 a 40 libras, de 20...",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 7.62,
+      "text": "Ó, pessoal, vamos fazer aqui, ó, pra vocês entenderem sobre pescaria, certo?"
+    },
+    {
+      "start": 8.26,
+      "end": 19.82,
+      "text": "Primeira coisa, vocês que estão acostumados com isca artificial, linha é mono, não multi, pra pescar na isca natural, certo?"
+    },
+    {
+      "start": 19.9,
+      "end": 21.66,
+      "text": "Porque às vezes você precisa arrebentar."
+    },
+    {
+      "start": 22.56,
+      "end": 28.8,
+      "text": "E uma, a multifilamento, ela fica na superfície, ela não afunda tanto igual a mono, tá?"
+    },
+    {
+      "start": 28.8,
+      "end": 32.84,
+      "text": "Então, por isso que tem que usar mono, sempre mono."
+    },
+    {
+      "start": 33.4,
+      "end": 45.02,
+      "text": "Carretilha perfil alto, que pega 100 metros de linha, escalpeal pelo nariz, e a outra vem aqui, ó, perto do rabo."
+    },
+    {
+      "start": 45.1,
+      "end": 49.24,
+      "text": "Você regula de acordo com o tamanho da trela, ok?"
+    },
+    {
+      "start": 50.08,
+      "end": 51.58,
+      "text": "Tá escado e pronto."
+    },
+    {
+      "start": 51.58,
+      "end": 60.02,
+      "text": "A carretilha, sempre perfil alto, vara de 40, de 20 a 40 libras, de 20..."
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

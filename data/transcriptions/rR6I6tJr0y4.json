@@ -1,0 +1,27 @@
+{
+  "texto": "O segredo não é geleiona, grandona. O segredo é geleinha, pequenininha. O peixe aqui, ó. Já ia, viu?",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.54,
+      "text": "O segredo não é geleiona, grandona."
+    },
+    {
+      "start": 3.24,
+      "end": 5.68,
+      "text": "O segredo é geleinha, pequenininha."
+    },
+    {
+      "start": 6.48,
+      "end": 8.94,
+      "text": "O peixe aqui, ó."
+    },
+    {
+      "start": 9.6,
+      "end": 10.56,
+      "text": "Já ia, viu?"
+    }
+  ],
+  "duracao_seg": 14.25,
+  "idioma_detectado": "pt"
+}

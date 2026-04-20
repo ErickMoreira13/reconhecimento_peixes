@@ -1,0 +1,72 @@
+{
+  "texto": "E a gente está à procura, viu? Eu estava saqueando mais ali e o peixe saiu correndo do lado aqui, viu? Bateu, gente. Bateu. Bateu. Bateu. É uma traíra, pessoal. Uma traíra. Uma traíra, pessoal. Cadê? Cadê, pessoal? Peguei. Peguei. Uma traíra, gente. Aqui, ó.",
+  "segmentos": [
+    {
+      "start": 3.09,
+      "end": 5.63,
+      "text": "E a gente está à procura, viu?"
+    },
+    {
+      "start": 7.41,
+      "end": 8.49,
+      "text": "Eu estava saqueando mais ali"
+    },
+    {
+      "start": 8.49,
+      "end": 11.05,
+      "text": "e o peixe saiu correndo"
+    },
+    {
+      "start": 11.05,
+      "end": 11.63,
+      "text": "do lado aqui, viu?"
+    },
+    {
+      "start": 15.81,
+      "end": 16.81,
+      "text": "Bateu, gente. Bateu."
+    },
+    {
+      "start": 17.47,
+      "end": 20.8,
+      "text": "Bateu. Bateu."
+    },
+    {
+      "start": 23.19,
+      "end": 25.23,
+      "text": "É uma traíra, pessoal."
+    },
+    {
+      "start": 26.95,
+      "end": 27.57,
+      "text": "Uma traíra."
+    },
+    {
+      "start": 32.38,
+      "end": 33.5,
+      "text": "Uma traíra, pessoal. Cadê?"
+    },
+    {
+      "start": 38.42,
+      "end": 39.1,
+      "text": "Cadê, pessoal?"
+    },
+    {
+      "start": 40.74,
+      "end": 42.4,
+      "text": "Peguei. Peguei."
+    },
+    {
+      "start": 46.12,
+      "end": 46.82,
+      "text": "Uma traíra, gente."
+    },
+    {
+      "start": 46.82,
+      "end": 51.19,
+      "text": "Aqui, ó."
+    }
+  ],
+  "duracao_seg": 51.37,
+  "idioma_detectado": "pt"
+}

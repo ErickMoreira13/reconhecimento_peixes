@@ -1,0 +1,17 @@
+{
+  "texto": "Fiz a massa aqui ó, farelo de arroz, ração de peixe e trigo e aqui eu coloquei um fígado. Vamos ver se encaixa uma piapara, uma curimba aí né, vou jogar ali pra frente, torcei pra não enroscar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.6,
+      "text": "Fiz a massa aqui ó, farelo de arroz, ração de peixe e trigo e aqui eu coloquei um fígado."
+    },
+    {
+      "start": 10.46,
+      "end": 16.54,
+      "text": "Vamos ver se encaixa uma piapara, uma curimba aí né, vou jogar ali pra frente, torcei pra não enroscar."
+    }
+  ],
+  "duracao_seg": 20.71,
+  "idioma_detectado": "pt"
+}

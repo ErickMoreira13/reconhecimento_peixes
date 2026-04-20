@@ -1,0 +1,17 @@
+{
+  "texto": "Papai, eu ainda estou andando. Ixi, minha filha, vamos se esconder, vamos se esconder, vamos, vamos.",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 2.08,
+      "text": "Papai, eu ainda estou andando."
+    },
+    {
+      "start": 2.14,
+      "end": 4.42,
+      "text": "Ixi, minha filha, vamos se esconder, vamos se esconder, vamos, vamos."
+    }
+  ],
+  "duracao_seg": 13.27,
+  "idioma_detectado": "pt"
+}

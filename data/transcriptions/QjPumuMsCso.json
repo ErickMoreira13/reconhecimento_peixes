@@ -1,0 +1,17 @@
+{
+  "texto": "Olha aí, hoje valeu a pena. É nóis, papai!",
+  "segmentos": [
+    {
+      "start": 2.48,
+      "end": 10.5,
+      "text": "Olha aí, hoje valeu a pena."
+    },
+    {
+      "start": 10.92,
+      "end": 12.02,
+      "text": "É nóis, papai!"
+    }
+  ],
+  "duracao_seg": 12.11,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "E aí eu vou mostrar para vocês aqui ó, quais são as iscas, arroz cozido, que a gente pegou da sobra da janta, a massinha, é, tem um vídeo no canal aí, ensinando como é que faz essa massinha, milho, aquele milho que a gente compra no mercado, a gente guarda o vidrinho assim para ficar mais seguro, e, isso aqui é soja, soja azedo, mas não é bem azedo, eu vou colocar da onde, aí como é que ela fica pessoal, ela fica um carocinho,",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "E aí eu vou mostrar para vocês aqui ó, quais são as iscas, arroz cozido, que a gente pegou da sobra da janta,"
+    },
+    {
+      "start": 8.9,
+      "end": 14.24,
+      "text": "a massinha, é, tem um vídeo no canal aí, ensinando como é que faz essa massinha,"
+    },
+    {
+      "start": 16.86,
+      "end": 20.72,
+      "text": "milho, aquele milho que a gente compra no mercado, a gente guarda o vidrinho assim para ficar mais seguro,"
+    },
+    {
+      "start": 21.4,
+      "end": 27.68,
+      "text": "e, isso aqui é soja, soja azedo, mas não é bem azedo, eu vou colocar da onde,"
+    },
+    {
+      "start": 29.13,
+      "end": 31.86,
+      "text": "aí como é que ela fica pessoal, ela fica um carocinho,"
+    }
+  ],
+  "duracao_seg": 31.89,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "A bicicleta agora pegou o drone. Deixa cair na água aí, bota mais para fora aqui ele. Bota mais para ali para a linha puxar, puxa mais para cá ele para fora. É, puxa ele para fora aqui, puxa ele para fora. Tentei de puxar na linha para dentro lá. Eu já peguei uma bicicleta de tarrafa, agora peguei um drone. Tem uma linha que rebentou aqui, vê xeraréu. É, ele pegou muito forte. Ainda bem que a linha é boa, assim, aguentou o peso dele, ele é maneiro também.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "A bicicleta agora pegou o drone."
+    },
+    {
+      "start": 2.54,
+      "end": 4.28,
+      "text": "Deixa cair na água aí, bota mais para fora aqui ele."
+    },
+    {
+      "start": 4.94,
+      "end": 7.3,
+      "text": "Bota mais para ali para a linha puxar, puxa mais para cá ele para fora."
+    },
+    {
+      "start": 8.2,
+      "end": 10.4,
+      "text": "É, puxa ele para fora aqui, puxa ele para fora."
+    },
+    {
+      "start": 11.12,
+      "end": 12.52,
+      "text": "Tentei de puxar na linha para dentro lá."
+    },
+    {
+      "start": 13.62,
+      "end": 16.72,
+      "text": "Eu já peguei uma bicicleta de tarrafa, agora peguei um drone."
+    },
+    {
+      "start": 20.05,
+      "end": 22.29,
+      "text": "Tem uma linha que rebentou aqui, vê xeraréu."
+    },
+    {
+      "start": 22.43,
+      "end": 23.69,
+      "text": "É, ele pegou muito forte."
+    },
+    {
+      "start": 25.14,
+      "end": 27.94,
+      "text": "Ainda bem que a linha é boa, assim, aguentou o peso dele, ele é maneiro também."
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

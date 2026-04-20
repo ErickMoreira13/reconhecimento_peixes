@@ -1,0 +1,17 @@
+{
+  "texto": "I love everything Fire spreading all around my",
+  "segmentos": [
+    {
+      "start": 1.36,
+      "end": 3.46,
+      "text": "I love everything"
+    },
+    {
+      "start": 3.46,
+      "end": 7.59,
+      "text": "Fire spreading all around my"
+    }
+  ],
+  "duracao_seg": 7.63,
+  "idioma_detectado": "pt"
+}

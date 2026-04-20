@@ -1,0 +1,27 @@
+{
+  "texto": "Para você que é pescador e quer pegar alguns bichinhos vivos ali para pegar um peixe maior, a técnica, o cara colocou a comidinha ali na redinha, vai esperar acumular e depois ele vai dar uma puxada. Olha o tanto que ele pega, se liga. Você é louco? Chama!",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 4.79,
+      "text": "Para você que é pescador e quer pegar alguns bichinhos vivos ali para pegar um peixe maior,"
+    },
+    {
+      "start": 4.97,
+      "end": 10.83,
+      "text": "a técnica, o cara colocou a comidinha ali na redinha, vai esperar acumular e depois ele vai dar uma puxada."
+    },
+    {
+      "start": 10.97,
+      "end": 12.43,
+      "text": "Olha o tanto que ele pega, se liga."
+    },
+    {
+      "start": 13.61,
+      "end": 15.01,
+      "text": "Você é louco? Chama!"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}
