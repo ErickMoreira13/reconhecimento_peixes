@@ -1,0 +1,57 @@
+{
+  "texto": "O que eu falo, cara, o que é bom fazer, quem tem condições de fazer a massa de soja de um dia pro outro, ou dois dias antes, sempre melhor. Quanto mais velha, ela fica mais firme, mais consistente. Ó, tem uma aqui que ela dá até um mofim pro lado de fora, mas ela não perde. Olha como é que fica consistente essa massa, né? Aquela mesma feita com mel, né, farelo de soja e água. O que que acontece? Quanto mais velha ela fica, mais difícil fica pra caranha tirar, né? Então temos massa aqui de quatro dias, temos massa aqui de três dias e ela vai endurecendo por si própria, né? Quem tem condições, a dica da segundona é essa, quem tem condições, quem tem o farelo de soja em mão, faça ele antes só, porque aí a massa fica muito mais consistente, solta pouco do anzol.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.46,
+      "text": "O que eu falo, cara, o que é bom fazer, quem tem condições de fazer a massa de soja"
+    },
+    {
+      "start": 6.46,
+      "end": 11.18,
+      "text": "de um dia pro outro, ou dois dias antes, sempre melhor."
+    },
+    {
+      "start": 11.38,
+      "end": 16.08,
+      "text": "Quanto mais velha, ela fica mais firme, mais consistente."
+    },
+    {
+      "start": 16.66,
+      "end": 21.24,
+      "text": "Ó, tem uma aqui que ela dá até um mofim pro lado de fora, mas ela não perde."
+    },
+    {
+      "start": 21.24,
+      "end": 23.44,
+      "text": "Olha como é que fica consistente essa massa, né?"
+    },
+    {
+      "start": 23.74,
+      "end": 27.98,
+      "text": "Aquela mesma feita com mel, né, farelo de soja e água."
+    },
+    {
+      "start": 27.98,
+      "end": 35.36,
+      "text": "O que que acontece? Quanto mais velha ela fica, mais difícil fica pra caranha tirar, né?"
+    },
+    {
+      "start": 35.7,
+      "end": 43.44,
+      "text": "Então temos massa aqui de quatro dias, temos massa aqui de três dias e ela vai endurecendo por si própria, né?"
+    },
+    {
+      "start": 44.12,
+      "end": 51.16,
+      "text": "Quem tem condições, a dica da segundona é essa, quem tem condições, quem tem o farelo de soja em mão,"
+    },
+    {
+      "start": 51.16,
+      "end": 58.96,
+      "text": "faça ele antes só, porque aí a massa fica muito mais consistente, solta pouco do anzol."
+    }
+  ],
+  "duracao_seg": 58.97,
+  "idioma_detectado": "pt"
+}

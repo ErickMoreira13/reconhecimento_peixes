@@ -1,0 +1,52 @@
+{
+  "texto": "A Represa de Três Marias, localizada no Rio São Francisco, em Minas Gerais, é uma das maiores do Brasil em volume de água, com um reservatório que comporta cerca de 21 bilhões de metros cúbicos. Inaugurada em 1961, a Usina Hidrelétrica, também conhecida como Lago de Três Marias, abrange uma área de aproximadamente 1.040 quilômetros quadrados. Próximo às cidades de Três Marias, Abaeté, Biquinhas, Félixilândia na Ilha do Mangabal, Martinho Campos, Morada Nova de Minas, Paineiras Pompel e São Gonçalo do Abaeté. A Represa vai muito além da geração de energia. É um verdadeiro polo de turismo e pesca esportiva, onde recordes são batidos.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.86,
+      "text": "A Represa de Três Marias, localizada no Rio São Francisco, em Minas Gerais,"
+    },
+    {
+      "start": 5.26,
+      "end": 7.6,
+      "text": "é uma das maiores do Brasil em volume de água,"
+    },
+    {
+      "start": 8.04,
+      "end": 13.0,
+      "text": "com um reservatório que comporta cerca de 21 bilhões de metros cúbicos."
+    },
+    {
+      "start": 13.42,
+      "end": 20.2,
+      "text": "Inaugurada em 1961, a Usina Hidrelétrica, também conhecida como Lago de Três Marias,"
+    },
+    {
+      "start": 20.76,
+      "end": 24.52,
+      "text": "abrange uma área de aproximadamente 1.040 quilômetros quadrados."
+    },
+    {
+      "start": 24.52,
+      "end": 30.46,
+      "text": "Próximo às cidades de Três Marias, Abaeté, Biquinhas, Félixilândia na Ilha do Mangabal,"
+    },
+    {
+      "start": 30.82,
+      "end": 36.66,
+      "text": "Martinho Campos, Morada Nova de Minas, Paineiras Pompel e São Gonçalo do Abaeté."
+    },
+    {
+      "start": 37.1,
+      "end": 39.64,
+      "text": "A Represa vai muito além da geração de energia."
+    },
+    {
+      "start": 40.02,
+      "end": 44.46,
+      "text": "É um verdadeiro polo de turismo e pesca esportiva, onde recordes são batidos."
+    }
+  ],
+  "duracao_seg": 44.73,
+  "idioma_detectado": "pt"
+}

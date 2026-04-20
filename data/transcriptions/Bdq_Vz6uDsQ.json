@@ -1,0 +1,72 @@
+{
+  "texto": "Tô filmando. É ela. Nossa, e é grande. André, fica calmo. Fica calmo. Fica calmo. Pega o passaguá. Fica calmo, André. Tá de boa. Não, calma. Não, calma, calma, calma. Hoje é 9 a 1, mano. Falei que esse lado aqui tem cara de peixe doido. Tá louco? Põe a mágoa aí. Não deixa morrer não. Porque aqui não mata peixe não. Boa, mano. Pegamos a piabanha, velho.",
+  "segmentos": [
+    {
+      "start": 0.82,
+      "end": 2.32,
+      "text": "Tô filmando. É ela."
+    },
+    {
+      "start": 3.4,
+      "end": 4.88,
+      "text": "Nossa, e é grande. André, fica calmo."
+    },
+    {
+      "start": 4.96,
+      "end": 6.6,
+      "text": "Fica calmo. Fica calmo."
+    },
+    {
+      "start": 6.7,
+      "end": 7.38,
+      "text": "Pega o passaguá."
+    },
+    {
+      "start": 9.36,
+      "end": 10.8,
+      "text": "Fica calmo, André. Tá de boa."
+    },
+    {
+      "start": 11.58,
+      "end": 12.02,
+      "text": "Não, calma."
+    },
+    {
+      "start": 12.02,
+      "end": 24.19,
+      "text": "Não, calma, calma, calma."
+    },
+    {
+      "start": 29.06,
+      "end": 30.16,
+      "text": "Hoje é 9 a 1, mano."
+    },
+    {
+      "start": 38.62,
+      "end": 40.66,
+      "text": "Falei que esse lado aqui tem cara de peixe doido."
+    },
+    {
+      "start": 41.4,
+      "end": 41.86,
+      "text": "Tá louco?"
+    },
+    {
+      "start": 42.3,
+      "end": 44.02,
+      "text": "Põe a mágoa aí. Não deixa morrer não."
+    },
+    {
+      "start": 44.08,
+      "end": 45.24,
+      "text": "Porque aqui não mata peixe não."
+    },
+    {
+      "start": 45.58,
+      "end": 47.4,
+      "text": "Boa, mano. Pegamos a piabanha, velho."
+    }
+  ],
+  "duracao_seg": 50.03,
+  "idioma_detectado": "pt"
+}

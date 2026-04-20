@@ -1,0 +1,47 @@
+{
+  "texto": "Eu pensava que eu tinha perdido a minha prática de pegar a Jaú, mas eu não peguei não. Os caras podem bagunçar e fazer o que for, mas o que é meu Deus guarda pra mim. Obrigado. Levanta aí, mas a gente vê o peixe. Caralho! Não tem força não pra levantar ele, porque eu tô morrendo já com ele aqui, viu? Que cacete! Olha aí, Ferinho, que eu tô pegando em bicicleta ali. Tá, eu vou lá.",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 9.7,
+      "text": "Eu pensava que eu tinha perdido a minha prática de pegar a Jaú, mas eu não peguei não."
+    },
+    {
+      "start": 9.7,
+      "end": 16.25,
+      "text": "Os caras podem bagunçar e fazer o que for, mas o que é meu Deus guarda pra mim. Obrigado."
+    },
+    {
+      "start": 16.25,
+      "end": 18.25,
+      "text": "Levanta aí, mas a gente vê o peixe."
+    },
+    {
+      "start": 18.25,
+      "end": 20.25,
+      "text": "Caralho!"
+    },
+    {
+      "start": 20.25,
+      "end": 23.25,
+      "text": "Não tem força não pra levantar ele, porque eu tô morrendo já com ele aqui, viu?"
+    },
+    {
+      "start": 23.25,
+      "end": 25.25,
+      "text": "Que cacete!"
+    },
+    {
+      "start": 26.25,
+      "end": 29.4,
+      "text": "Olha aí, Ferinho, que eu tô pegando em bicicleta ali."
+    },
+    {
+      "start": 29.4,
+      "end": 31.4,
+      "text": "Tá, eu vou lá."
+    }
+  ],
+  "duracao_seg": 37.15,
+  "idioma_detectado": "pt"
+}

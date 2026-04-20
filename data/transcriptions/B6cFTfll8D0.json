@@ -1,0 +1,42 @@
+{
+  "texto": "E aí pessoal, bom dia, bom dia. E aí, como é que tá o domingão de vocês? Olha só, pai, essa zona linda. No meio dia tá sendo na base de uma pescariazinha. Já peguei já o almoço e a janta, graças ao meu bom Deus. Mostro aqui pra vocês, ó. Piranha grande. Uma menorzinha ali. Um estucumaré. Minha bebezinha. Tá show de bola, ó. Graças a Deus tá tudo na santa paz. Bora que a pescaria ainda não acabou ainda não.",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 5.92,
+      "text": "E aí pessoal, bom dia, bom dia. E aí, como é que tá o domingão de vocês?"
+    },
+    {
+      "start": 7.67,
+      "end": 14.15,
+      "text": "Olha só, pai, essa zona linda. No meio dia tá sendo na base de uma pescariazinha."
+    },
+    {
+      "start": 16.05,
+      "end": 18.85,
+      "text": "Já peguei já o almoço e a janta, graças ao meu bom Deus."
+    },
+    {
+      "start": 19.79,
+      "end": 24.17,
+      "text": "Mostro aqui pra vocês, ó. Piranha grande."
+    },
+    {
+      "start": 25.16,
+      "end": 33.9,
+      "text": "Uma menorzinha ali. Um estucumaré. Minha bebezinha."
+    },
+    {
+      "start": 34.46,
+      "end": 40.64,
+      "text": "Tá show de bola, ó. Graças a Deus tá tudo na santa paz."
+    },
+    {
+      "start": 42.1,
+      "end": 43.76,
+      "text": "Bora que a pescaria ainda não acabou ainda não."
+    }
+  ],
+  "duracao_seg": 46.01,
+  "idioma_detectado": "pt"
+}

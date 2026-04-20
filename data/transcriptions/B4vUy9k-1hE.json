@@ -1,0 +1,22 @@
+{
+  "texto": "e aí o peixe está saindo galera e está saindo e saiu aí virei velho como é que não pega peixe",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 7.44,
+      "text": "e aí o peixe está saindo galera e está saindo e saiu aí"
+    },
+    {
+      "start": 7.44,
+      "end": 12.0,
+      "text": "virei velho"
+    },
+    {
+      "start": 12.0,
+      "end": 16.92,
+      "text": "como é que não pega peixe"
+    }
+  ],
+  "duracao_seg": 17.11,
+  "idioma_detectado": "pt"
+}

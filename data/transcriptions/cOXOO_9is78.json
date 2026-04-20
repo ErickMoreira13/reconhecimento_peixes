@@ -1,0 +1,27 @@
+{
+  "texto": "E ela tá, tá movimentando Tá, tá movimentando Tá, tá, tá movimentando E ela tá, tá movimentando",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.42,
+      "text": "E ela tá, tá movimentando"
+    },
+    {
+      "start": 4.42,
+      "end": 6.68,
+      "text": "Tá, tá movimentando"
+    },
+    {
+      "start": 6.68,
+      "end": 9.58,
+      "text": "Tá, tá, tá movimentando"
+    },
+    {
+      "start": 9.58,
+      "end": 13.54,
+      "text": "E ela tá, tá movimentando"
+    }
+  ],
+  "duracao_seg": 14.85,
+  "idioma_detectado": "pt"
+}

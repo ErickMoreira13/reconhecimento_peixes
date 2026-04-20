@@ -1,0 +1,72 @@
+{
+  "texto": "Nossa segunda-feira aqui, ó Só de boa Bucheio de peixe Você, irmão de volta, já almoçou? Glória Olha aí quem tá aqui, ó Já encheu? Olha aí, Torres Olha o fogãozinho ali, gente, ó Só de boa aqui, ó Na beira do rio Que maravilha Rio Tapajós",
+  "segmentos": [
+    {
+      "start": 267.57,
+      "end": 269.21,
+      "text": "Nossa segunda-feira aqui, ó"
+    },
+    {
+      "start": 269.21,
+      "end": 271.77,
+      "text": "Só de boa"
+    },
+    {
+      "start": 271.77,
+      "end": 274.92,
+      "text": "Bucheio de peixe"
+    },
+    {
+      "start": 274.92,
+      "end": 276.56,
+      "text": "Você, irmão de volta, já almoçou?"
+    },
+    {
+      "start": 277.12,
+      "end": 278.98,
+      "text": "Glória"
+    },
+    {
+      "start": 278.98,
+      "end": 281.34,
+      "text": "Olha aí quem tá aqui, ó"
+    },
+    {
+      "start": 281.34,
+      "end": 281.94,
+      "text": "Já encheu?"
+    },
+    {
+      "start": 282.34,
+      "end": 284.22,
+      "text": "Olha aí, Torres"
+    },
+    {
+      "start": 284.22,
+      "end": 287.08,
+      "text": "Olha o fogãozinho ali, gente, ó"
+    },
+    {
+      "start": 287.08,
+      "end": 289.1,
+      "text": "Só de boa aqui, ó"
+    },
+    {
+      "start": 289.1,
+      "end": 290.12,
+      "text": "Na beira do rio"
+    },
+    {
+      "start": 290.12,
+      "end": 292.48,
+      "text": "Que maravilha"
+    },
+    {
+      "start": 292.48,
+      "end": 294.56,
+      "text": "Rio Tapajós"
+    }
+  ],
+  "duracao_seg": 306.57,
+  "idioma_detectado": "pt"
+}

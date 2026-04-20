@@ -1,0 +1,17 @@
+{
+  "texto": "e aí ó ó ó ó aí ó menina aqui a região lá pedreira aí aí aí nossa que que é isso é lindo lindo lindo lindo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 16.5,
+      "text": "e aí ó ó ó ó aí ó menina aqui a região lá pedreira aí aí aí"
+    },
+    {
+      "start": 16.5,
+      "end": 34.21,
+      "text": "nossa que que é isso é lindo lindo lindo lindo"
+    }
+  ],
+  "duracao_seg": 34.61,
+  "idioma_detectado": "pt"
+}

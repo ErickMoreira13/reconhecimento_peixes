@@ -1,0 +1,87 @@
+{
+  "texto": "Fala galera, também no Poço do Piau Hoje eu vim jogar um trato Botar uma cevinha aqui, galera Vamos ver se vai dar resultado Se der, eu vou aumentar ela Se eu ver que tá bom, eu vou estender ela nesse poço aqui Vou jogar a bichinha parada, já tá amarrada A ceva é só jazida E quireira azida, galera O trem tá bonito Pegando um caldão grosso dela aqui, cheiroso Mandar o bichinho pra água aí O bichinho cheio de água ali E foi, galera Agora é só esperar o trem dar resultado Cevinha boa",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.95,
+      "text": "Fala galera, também no Poço do Piau"
+    },
+    {
+      "start": 2.95,
+      "end": 5.94,
+      "text": "Hoje eu vim jogar um trato"
+    },
+    {
+      "start": 5.94,
+      "end": 9.43,
+      "text": "Botar uma cevinha aqui, galera"
+    },
+    {
+      "start": 9.43,
+      "end": 12.48,
+      "text": "Vamos ver se vai dar resultado"
+    },
+    {
+      "start": 12.48,
+      "end": 15.04,
+      "text": "Se der, eu vou aumentar ela"
+    },
+    {
+      "start": 15.04,
+      "end": 18.7,
+      "text": "Se eu ver que tá bom, eu vou estender ela nesse poço aqui"
+    },
+    {
+      "start": 18.7,
+      "end": 24.45,
+      "text": "Vou jogar a bichinha parada, já tá amarrada"
+    },
+    {
+      "start": 24.45,
+      "end": 29.27,
+      "text": "A ceva é só jazida"
+    },
+    {
+      "start": 29.27,
+      "end": 32.05,
+      "text": "E quireira azida, galera"
+    },
+    {
+      "start": 32.05,
+      "end": 35.42,
+      "text": "O trem tá bonito"
+    },
+    {
+      "start": 35.42,
+      "end": 40.26,
+      "text": "Pegando um caldão grosso dela aqui, cheiroso"
+    },
+    {
+      "start": 40.26,
+      "end": 43.44,
+      "text": "Mandar o bichinho pra água aí"
+    },
+    {
+      "start": 43.44,
+      "end": 53.96,
+      "text": "O bichinho cheio de água ali"
+    },
+    {
+      "start": 53.96,
+      "end": 57.16,
+      "text": "E foi, galera"
+    },
+    {
+      "start": 57.16,
+      "end": 61.98,
+      "text": "Agora é só esperar o trem dar resultado"
+    },
+    {
+      "start": 61.98,
+      "end": 65.03,
+      "text": "Cevinha boa"
+    }
+  ],
+  "duracao_seg": 68.73,
+  "idioma_detectado": "pt"
+}

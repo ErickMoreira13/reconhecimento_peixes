@@ -1,0 +1,547 @@
+{
+  "texto": "Já quer voltar, né? Pra cá. É. E agora ele tava ali. Estamos aqui com um verdadeiro pescador chamado Dilberto. E ali é seu Elias. Dono desse estabelecimento. Já tá colocando uma malhadeira lá. Nós vamos pescar. Se Deus quiser a gente vai pegar charuto. Esse aqui é charuteira, né? Pra cá. Pegar fecha. Essas mulheres vindo pra cá. Eles ficavam até um dia da noite. A Eliana, a Briana... A neve de cabeça no fora. Lá... A gente não pensa de calor, não. Lá na... dentro da água? É. Mas... Já tá no meio da terra. Já? Rapaz, esse aqui tá muito bonito a paisagem. Dilberto aqui é um lugar mais tranquilo, né? É. Sossegado. Todo dia você pesca aqui? Só o dia que eu tenho já peixe lá. Eu não pego as vezes, né? Porque eu tenho que cuidar. Quando a Ágela tava aqui... Eu pegava demais. Qual é o peixe que vocês pegaram aqui? Aracu. Charuto. Charuto. Carvinha. A sardinha também tem aqui? No passado, nessa quente... Na quente eu comi 10 fritas desse com essa aqui. Mas com essa aqui. Sardinha. É muito bom. Nossa. Então aqui... É comida não. Falta, né? Não. Pelo menos a... Esse ano não ficou tão bom porque a água... A água não desceu muito. A praia vai lá e muito bem. É, mas mesmo assim é bom pra peixe se multiplicar, né? A praia vai ser de mais patua. A gente puxava a malhadeira assim pra terra, de canto pra tudo. E não dava pra tirar na água mesmo, né? Não. Porque... Olha, esse aqui é a Amazônia, né? A nossa realidade aqui. Tem as farturas, né? Pra quem realmente trabalhar, não é? Pra quem pescar, quem criar... É... De suar, né? Pra garantir o alimento no prato. Aqui é a área de passeio, né? Do pessoal que praticamente vem no final de semana pra ficar por aqui. Pra descansar do trabalho, não é? Pronto. Primeiro peixe, carazinha. Daqui a pouco a gente já vai botar lá no fogo. Primeira vítima hoje, né, Gil? Pode rodar. Pronto, olha, tá aqui. Esse aqui é muito gostoso, esse aqui, né, Gil? É, esse aqui é. Olha aí, ó. Primeira vítima, coitadinho. Se Deus quiser, daqui a pouco, nós já vamos ter a nossa janta, né, Gilberto? Se Deus quiser, olha. Ele também não achou a dela. As meninas estão lá na praia. E nós estamos aqui. O seu Elias tá lá no outro canto. Então, hoje, nesse pedaço aqui, nós cercamos o nosso alimento, que está no rio ainda. Se Deus quiser, a gente vai conseguir um bocado, se Deus quiser. Paisagem muito bonita, viu? Já? Olha aí, ó. É, lá fora. Perto da vara, ao lado de lá. Meu Deus, bora? Aqui a gente pesca, mas a gente briga com o boto, se não o boto rasga a nossa malhadeira. Aí vai levar com todo o peixe. Aí a gente vai pra casa sem nada. Coitadinho de nós. Esse aqui é o desafio dos pescadores, isso aqui. O boto também pesca. Aí tem que concorrer com o boto. A área deles, né? A área deles, né? A área deles, né? É, a área deles. A área deles, né? E aí? A área deles, né?",
+  "segmentos": [
+    {
+      "start": 5.01,
+      "end": 7.01,
+      "text": "Já quer voltar, né? Pra cá."
+    },
+    {
+      "start": 7.01,
+      "end": 10.06,
+      "text": "É."
+    },
+    {
+      "start": 10.06,
+      "end": 12.06,
+      "text": "E agora ele tava ali."
+    },
+    {
+      "start": 12.06,
+      "end": 24.97,
+      "text": "Estamos aqui com um verdadeiro pescador chamado Dilberto."
+    },
+    {
+      "start": 24.97,
+      "end": 28.77,
+      "text": "E ali é seu Elias."
+    },
+    {
+      "start": 28.77,
+      "end": 30.77,
+      "text": "Dono desse estabelecimento."
+    },
+    {
+      "start": 30.77,
+      "end": 32.77,
+      "text": "Já tá colocando uma malhadeira lá."
+    },
+    {
+      "start": 32.77,
+      "end": 34.77,
+      "text": "Nós vamos pescar."
+    },
+    {
+      "start": 34.77,
+      "end": 36.77,
+      "text": "Se Deus quiser a gente vai pegar charuto."
+    },
+    {
+      "start": 36.77,
+      "end": 47.47,
+      "text": "Esse aqui é charuteira, né?"
+    },
+    {
+      "start": 47.47,
+      "end": 48.47,
+      "text": "Pra cá."
+    },
+    {
+      "start": 48.47,
+      "end": 49.47,
+      "text": "Pegar fecha."
+    },
+    {
+      "start": 49.47,
+      "end": 51.47,
+      "text": "Essas mulheres vindo pra cá."
+    },
+    {
+      "start": 51.47,
+      "end": 53.47,
+      "text": "Eles ficavam até um dia da noite."
+    },
+    {
+      "start": 53.47,
+      "end": 55.47,
+      "text": "A Eliana, a Briana..."
+    },
+    {
+      "start": 55.47,
+      "end": 57.47,
+      "text": "A neve de cabeça no fora."
+    },
+    {
+      "start": 57.47,
+      "end": 58.47,
+      "text": "Lá..."
+    },
+    {
+      "start": 58.47,
+      "end": 60.47,
+      "text": "A gente não pensa de calor, não."
+    },
+    {
+      "start": 60.47,
+      "end": 62.47,
+      "text": "Lá na... dentro da água?"
+    },
+    {
+      "start": 62.47,
+      "end": 63.47,
+      "text": "É."
+    },
+    {
+      "start": 63.47,
+      "end": 64.47,
+      "text": "Mas..."
+    },
+    {
+      "start": 64.47,
+      "end": 66.47,
+      "text": "Já tá no meio da terra."
+    },
+    {
+      "start": 66.47,
+      "end": 67.73,
+      "text": "Já?"
+    },
+    {
+      "start": 67.73,
+      "end": 71.75,
+      "text": "Rapaz, esse aqui tá muito bonito a paisagem."
+    },
+    {
+      "start": 71.75,
+      "end": 73.75,
+      "text": "Dilberto aqui é um lugar mais tranquilo, né?"
+    },
+    {
+      "start": 73.75,
+      "end": 75.01,
+      "text": "É."
+    },
+    {
+      "start": 75.01,
+      "end": 76.33,
+      "text": "Sossegado."
+    },
+    {
+      "start": 76.33,
+      "end": 78.33,
+      "text": "Todo dia você pesca aqui?"
+    },
+    {
+      "start": 78.33,
+      "end": 80.33,
+      "text": "Só o dia que eu tenho já peixe lá."
+    },
+    {
+      "start": 80.33,
+      "end": 81.33,
+      "text": "Eu não pego as vezes, né?"
+    },
+    {
+      "start": 81.33,
+      "end": 82.33,
+      "text": "Porque eu tenho que cuidar."
+    },
+    {
+      "start": 82.33,
+      "end": 84.33,
+      "text": "Quando a Ágela tava aqui..."
+    },
+    {
+      "start": 84.33,
+      "end": 85.33,
+      "text": "Eu pegava demais."
+    },
+    {
+      "start": 85.33,
+      "end": 87.33,
+      "text": "Qual é o peixe que vocês pegaram aqui?"
+    },
+    {
+      "start": 87.33,
+      "end": 88.33,
+      "text": "Aracu."
+    },
+    {
+      "start": 88.33,
+      "end": 89.33,
+      "text": "Charuto."
+    },
+    {
+      "start": 89.33,
+      "end": 90.55,
+      "text": "Charuto."
+    },
+    {
+      "start": 90.55,
+      "end": 91.55,
+      "text": "Carvinha."
+    },
+    {
+      "start": 91.55,
+      "end": 93.55,
+      "text": "A sardinha também tem aqui?"
+    },
+    {
+      "start": 93.55,
+      "end": 94.55,
+      "text": "No passado, nessa quente..."
+    },
+    {
+      "start": 94.55,
+      "end": 96.55,
+      "text": "Na quente eu comi 10 fritas desse com essa aqui."
+    },
+    {
+      "start": 96.55,
+      "end": 97.55,
+      "text": "Mas com essa aqui."
+    },
+    {
+      "start": 97.55,
+      "end": 98.55,
+      "text": "Sardinha."
+    },
+    {
+      "start": 98.55,
+      "end": 99.55,
+      "text": "É muito bom."
+    },
+    {
+      "start": 99.55,
+      "end": 100.55,
+      "text": "Nossa."
+    },
+    {
+      "start": 100.55,
+      "end": 101.55,
+      "text": "Então aqui..."
+    },
+    {
+      "start": 101.55,
+      "end": 102.55,
+      "text": "É comida não."
+    },
+    {
+      "start": 102.55,
+      "end": 103.55,
+      "text": "Falta, né?"
+    },
+    {
+      "start": 103.55,
+      "end": 104.55,
+      "text": "Não."
+    },
+    {
+      "start": 104.55,
+      "end": 105.55,
+      "text": "Pelo menos a..."
+    },
+    {
+      "start": 105.55,
+      "end": 107.55,
+      "text": "Esse ano não ficou tão bom porque a água..."
+    },
+    {
+      "start": 107.55,
+      "end": 111.19,
+      "text": "A água não desceu muito."
+    },
+    {
+      "start": 111.19,
+      "end": 114.19,
+      "text": "A praia vai lá e muito bem."
+    },
+    {
+      "start": 114.19,
+      "end": 117.42,
+      "text": "É, mas mesmo assim é bom pra peixe se multiplicar, né?"
+    },
+    {
+      "start": 117.42,
+      "end": 119.61,
+      "text": "A praia vai ser de mais patua."
+    },
+    {
+      "start": 119.61,
+      "end": 123.61,
+      "text": "A gente puxava a malhadeira assim pra terra, de canto pra tudo."
+    },
+    {
+      "start": 123.61,
+      "end": 126.61,
+      "text": "E não dava pra tirar na água mesmo, né?"
+    },
+    {
+      "start": 126.61,
+      "end": 127.61,
+      "text": "Não."
+    },
+    {
+      "start": 127.61,
+      "end": 128.61,
+      "text": "Porque..."
+    },
+    {
+      "start": 128.61,
+      "end": 131.9,
+      "text": "Olha, esse aqui é a Amazônia, né?"
+    },
+    {
+      "start": 131.9,
+      "end": 134.02,
+      "text": "A nossa realidade aqui."
+    },
+    {
+      "start": 134.02,
+      "end": 137.14,
+      "text": "Tem as farturas, né?"
+    },
+    {
+      "start": 137.14,
+      "end": 139.14,
+      "text": "Pra quem realmente trabalhar, não é?"
+    },
+    {
+      "start": 139.14,
+      "end": 142.21,
+      "text": "Pra quem pescar, quem criar..."
+    },
+    {
+      "start": 142.21,
+      "end": 143.21,
+      "text": "É..."
+    },
+    {
+      "start": 143.21,
+      "end": 145.53,
+      "text": "De suar, né?"
+    },
+    {
+      "start": 145.53,
+      "end": 150.01,
+      "text": "Pra garantir o alimento no prato."
+    },
+    {
+      "start": 150.01,
+      "end": 152.33,
+      "text": "Aqui é a área de passeio, né?"
+    },
+    {
+      "start": 152.33,
+      "end": 156.33,
+      "text": "Do pessoal que praticamente vem no final de semana pra ficar por aqui."
+    },
+    {
+      "start": 156.33,
+      "end": 158.33,
+      "text": "Pra descansar do trabalho, não é?"
+    },
+    {
+      "start": 158.33,
+      "end": 160.35,
+      "text": "Pronto."
+    },
+    {
+      "start": 160.35,
+      "end": 165.61,
+      "text": "Primeiro peixe, carazinha."
+    },
+    {
+      "start": 165.61,
+      "end": 170.57,
+      "text": "Daqui a pouco a gente já vai botar lá no fogo."
+    },
+    {
+      "start": 170.57,
+      "end": 172.57,
+      "text": "Primeira vítima hoje, né, Gil?"
+    },
+    {
+      "start": 172.57,
+      "end": 174.69,
+      "text": "Pode rodar."
+    },
+    {
+      "start": 174.69,
+      "end": 176.69,
+      "text": "Pronto, olha, tá aqui."
+    },
+    {
+      "start": 176.69,
+      "end": 179.69,
+      "text": "Esse aqui é muito gostoso, esse aqui, né, Gil?"
+    },
+    {
+      "start": 179.69,
+      "end": 181.69,
+      "text": "É, esse aqui é."
+    },
+    {
+      "start": 181.69,
+      "end": 182.69,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 182.69,
+      "end": 184.69,
+      "text": "Primeira vítima, coitadinho."
+    },
+    {
+      "start": 184.69,
+      "end": 208.14,
+      "text": "Se Deus quiser, daqui a pouco, nós já vamos ter a nossa janta, né, Gilberto?"
+    },
+    {
+      "start": 208.14,
+      "end": 210.42,
+      "text": "Se Deus quiser, olha."
+    },
+    {
+      "start": 210.42,
+      "end": 211.42,
+      "text": "Ele também não achou a dela."
+    },
+    {
+      "start": 211.42,
+      "end": 213.42,
+      "text": "As meninas estão lá na praia."
+    },
+    {
+      "start": 213.42,
+      "end": 216.19,
+      "text": "E nós estamos aqui."
+    },
+    {
+      "start": 216.19,
+      "end": 218.19,
+      "text": "O seu Elias tá lá no outro canto."
+    },
+    {
+      "start": 218.19,
+      "end": 227.48,
+      "text": "Então, hoje, nesse pedaço aqui, nós cercamos o nosso alimento, que está no rio ainda."
+    },
+    {
+      "start": 227.48,
+      "end": 230.48,
+      "text": "Se Deus quiser, a gente vai conseguir um bocado, se Deus quiser."
+    },
+    {
+      "start": 230.48,
+      "end": 243.14,
+      "text": "Paisagem muito bonita, viu?"
+    },
+    {
+      "start": 243.14,
+      "end": 244.14,
+      "text": "Já?"
+    },
+    {
+      "start": 244.14,
+      "end": 246.24,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 246.24,
+      "end": 247.24,
+      "text": "É, lá fora."
+    },
+    {
+      "start": 247.24,
+      "end": 249.56,
+      "text": "Perto da vara, ao lado de lá."
+    },
+    {
+      "start": 249.56,
+      "end": 257.96,
+      "text": "Meu Deus, bora?"
+    },
+    {
+      "start": 257.96,
+      "end": 263.96,
+      "text": "Aqui a gente pesca, mas a gente briga com o boto, se não o boto rasga a nossa malhadeira."
+    },
+    {
+      "start": 263.96,
+      "end": 265.96,
+      "text": "Aí vai levar com todo o peixe."
+    },
+    {
+      "start": 265.96,
+      "end": 268.99,
+      "text": "Aí a gente vai pra casa sem nada."
+    },
+    {
+      "start": 268.99,
+      "end": 271.02,
+      "text": "Coitadinho de nós."
+    },
+    {
+      "start": 271.02,
+      "end": 275.02,
+      "text": "Esse aqui é o desafio dos pescadores, isso aqui."
+    },
+    {
+      "start": 275.02,
+      "end": 277.18,
+      "text": "O boto também pesca."
+    },
+    {
+      "start": 277.18,
+      "end": 280.18,
+      "text": "Aí tem que concorrer com o boto."
+    },
+    {
+      "start": 280.18,
+      "end": 283.1,
+      "text": "A área deles, né?"
+    },
+    {
+      "start": 283.1,
+      "end": 285.1,
+      "text": "A área deles, né?"
+    },
+    {
+      "start": 285.1,
+      "end": 287.1,
+      "text": "A área deles, né?"
+    },
+    {
+      "start": 287.1,
+      "end": 288.1,
+      "text": "É, a área deles."
+    },
+    {
+      "start": 288.1,
+      "end": 289.1,
+      "text": "A área deles, né?"
+    },
+    {
+      "start": 289.1,
+      "end": 290.1,
+      "text": "E aí?"
+    },
+    {
+      "start": 290.1,
+      "end": 292.1,
+      "text": "A área deles, né?"
+    }
+  ],
+  "duracao_seg": 284.23,
+  "idioma_detectado": "pt"
+}

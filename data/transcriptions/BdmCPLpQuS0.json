@@ -1,0 +1,32 @@
+{
+  "texto": "E aí sim, queridinho. Ó, mostra esse sistema pra galera ver aí, ó. Aí, galera, o sisteminha aqui, ó. Funciona, viu? Retira essa sarkicha de perto.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 1.48,
+      "text": "E aí sim, queridinho."
+    },
+    {
+      "start": 2.74,
+      "end": 5.36,
+      "text": "Ó, mostra esse sistema pra galera ver aí, ó."
+    },
+    {
+      "start": 5.92,
+      "end": 7.58,
+      "text": "Aí, galera, o sisteminha aqui, ó."
+    },
+    {
+      "start": 8.7,
+      "end": 9.3,
+      "text": "Funciona, viu?"
+    },
+    {
+      "start": 9.64,
+      "end": 11.08,
+      "text": "Retira essa sarkicha de perto."
+    }
+  ],
+  "duracao_seg": 11.25,
+  "idioma_detectado": "pt"
+}

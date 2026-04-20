@@ -1,0 +1,37 @@
+{
+  "texto": "Este é o novo pescador da família. Menino Sapeca puxou o avô. Logo, logo estará participando das nossas pescarias. Já quer tirar o peixe sozinho? Força que você consegue! Serão três gerações em um único barco.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Este é o novo pescador da família."
+    },
+    {
+      "start": 2.48,
+      "end": 3.98,
+      "text": "Menino Sapeca puxou o avô."
+    },
+    {
+      "start": 4.7,
+      "end": 7.4,
+      "text": "Logo, logo estará participando das nossas pescarias."
+    },
+    {
+      "start": 8.1,
+      "end": 9.4,
+      "text": "Já quer tirar o peixe sozinho?"
+    },
+    {
+      "start": 10.2,
+      "end": 11.38,
+      "text": "Força que você consegue!"
+    },
+    {
+      "start": 12.22,
+      "end": 14.12,
+      "text": "Serão três gerações em um único barco."
+    }
+  ],
+  "duracao_seg": 16.87,
+  "idioma_detectado": "pt"
+}
