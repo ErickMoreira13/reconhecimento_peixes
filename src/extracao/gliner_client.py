@@ -3,6 +3,11 @@ from typing import Iterable
 
 from gliner import GLiNER
 
+from src.log import get_logger
+
+
+_log = get_logger()
+
 
 # cliente do gliner pra extrair spans de peixe e bacia
 # se tiver um checkpoint fine-tuned local, usa ele
@@ -24,11 +29,11 @@ def _carrega(checkpoint_path: str | Path | None = None) -> GLiNER:
         return _modelo
 
     if checkpoint_path and Path(checkpoint_path).exists():
-        print(f"carregando gliner fine-tuned de {checkpoint_path}")
+        _log.info("carregando gliner fine-tuned de %s", checkpoint_path)
         _modelo = GLiNER.from_pretrained(str(checkpoint_path), local_files_only=True)
     else:
         # base multilingue, tem suporte pt nativo
-        print("carregando gliner base (zero-shot multi), fine-tuned nao encontrado")
+        _log.info("carregando gliner base (zero-shot multi), fine-tuned nao encontrado")
         _modelo = GLiNER.from_pretrained("urchade/gliner_multi-v2.1")
 
     return _modelo
@@ -49,12 +54,12 @@ def extrai_spans(
     # por enquanto passa direto, se der problema implemento sliding window depois
     if len(texto.split()) > 600:
         # aviso rapido, 600 palavras eh ~850 tokens, pode truncar
-        print(f"texto grande ({len(texto.split())} palavras), gliner pode truncar ??????")
+        _log.warning("texto grande (%d palavras), gliner pode truncar ??????", len(texto.split()))
 
     try:
         spans = m.predict_entities(texto, labels_list, threshold=threshold)
     except Exception as e:
-        print(f"gliner falhou: {e}")
+        _log.error("gliner falhou: %s", e)
         return []
 
     return spans
