@@ -276,3 +276,34 @@ def test_monta_resultado_tipo_bizarro_vira_null():
     out, corrigidos = _monta_resultado(data, latencia_ms=100, modelo="t")
     assert out["estado"].valor is None
     assert "estado" in corrigidos
+
+
+def test_chunk_tem_dados_todos_null():
+    from src.extracao.qwen_extrator import _chunk_tem_dados, _tudo_null
+    # fix 8: _chunk_tem_dados conta campos preenchidos
+    t = _tudo_null(0, "fake")
+    assert _chunk_tem_dados(t) == 0
+
+
+def test_chunk_tem_dados_alguns_preenchidos():
+    from src.extracao.qwen_extrator import _chunk_tem_dados, _tudo_null
+    from src.schemas import CampoExtraido
+
+    t = _tudo_null(0, "fake")
+    # preenche 3 campos
+    t["estado"] = CampoExtraido(valor="SP", confianca=0.9, evidencia="sp",
+                                modelo_usado="fake", fora_do_gazetteer=False, latencia_ms=0)
+    t["rio"] = CampoExtraido(valor="Rio Madeira", confianca=0.8, evidencia="rio",
+                             modelo_usado="fake", fora_do_gazetteer=False, latencia_ms=0)
+    t["especies"] = CampoExtraido(valor=[{"nome": "tucunare"}], confianca=0.9,
+                                  evidencia="tucu", modelo_usado="fake",
+                                  fora_do_gazetteer=False, latencia_ms=0)
+    assert _chunk_tem_dados(t) == 3
+
+
+def test_chunk_tem_dados_especies_lista_vazia_nao_conta():
+    # [] e null contam igual (= vazio)
+    from src.extracao.qwen_extrator import _chunk_tem_dados, _tudo_null
+    t = _tudo_null(0, "fake")
+    # especies eh [] no _tudo_null, nao deve contar
+    assert _chunk_tem_dados(t) == 0
