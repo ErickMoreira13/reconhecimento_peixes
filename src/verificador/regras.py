@@ -183,7 +183,16 @@ def _eh_nome_proprio(valor: str) -> bool:
     return False
 
 
-def _passa_smith_waterman(campo: CampoExtraido, transcricao: str) -> tuple[bool, TipoRejeicao | None]:
+# todas as regras seguem a mesma assinatura pra simplificar aplica_regras.
+# args que nao sao usados ficam como `_` ou nome descritivo ignorado.
+# retorna (aceita, tipo_rejeicao). aceita=True => passou na regra.
+
+_Assinatura = tuple[bool, "TipoRejeicao | None"]
+
+
+def _passa_smith_waterman(
+    _nome: str, campo: CampoExtraido, transcricao: str, _outros: dict
+) -> _Assinatura:
     if not campo.evidencia:
         return True, None  # sem evidencia, deixa passar (pode ser null legitimo)
     score = evidencia_alinha(campo.evidencia, transcricao)
@@ -192,7 +201,9 @@ def _passa_smith_waterman(campo: CampoExtraido, transcricao: str) -> tuple[bool,
     return True, None
 
 
-def _passa_confianca(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
+def _passa_confianca(
+    nome_campo: str, campo: CampoExtraido, _transcricao: str, _outros: dict
+) -> _Assinatura:
     if campo.valor is None:
         return True, None
     lim = THRESHOLD_CONF.get(nome_campo, 0.5)
@@ -201,7 +212,9 @@ def _passa_confianca(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoR
     return True, None
 
 
-def _passa_pos_filter(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
+def _passa_pos_filter(
+    nome_campo: str, campo: CampoExtraido, _transcricao: str, _outros: dict
+) -> _Assinatura:
     # so roda pra campos onde nome proprio eh risco
     if nome_campo not in ("especies", "rio", "municipio"):
         return True, None
@@ -221,8 +234,12 @@ def _passa_pos_filter(nome_campo: str, campo: CampoExtraido) -> tuple[bool, Tipo
     return True, None
 
 
-def _passa_enum_estado(campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
+def _passa_enum_estado(
+    nome_campo: str, campo: CampoExtraido, _transcricao: str, _outros: dict
+) -> _Assinatura:
     # estado eh o UNICO enum fechado verdadeiro
+    if nome_campo != "estado":
+        return True, None  # nao aplica pra outros campos
     if campo.valor is None:
         return True, None
     if isinstance(campo.valor, str) and campo.valor.upper() not in _ufs():
@@ -230,7 +247,9 @@ def _passa_enum_estado(campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]
     return True, None
 
 
-def _passa_cross_field(nome_campo: str, campo: CampoExtraido, outros: dict[str, CampoExtraido]) -> tuple[bool, TipoRejeicao | None]:
+def _passa_cross_field(
+    _nome: str, _campo: CampoExtraido, _transcricao: str, _outros: dict
+) -> _Assinatura:
     # por enquanto so checa estado vs municipio (mais simples)
     # pra fazer bacia x UF direito precisa de tabela bacia->UFs, fica pra depois
     # quando tiver tabela ibge completa volto aqui
@@ -248,7 +267,9 @@ def _eh_especie_generica(nome: str) -> bool:
     return False
 
 
-def _passa_especies_stop_terms(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
+def _passa_especies_stop_terms(
+    nome_campo: str, campo: CampoExtraido, _transcricao: str, _outros: dict
+) -> _Assinatura:
     # rejeita especies genericas. lista tipo [{"nome": "peixe grande"}] todas
     # ou so algumas?
     # politica atual: se QUALQUER item da lista for generico, rejeita o campo
@@ -264,7 +285,9 @@ def _passa_especies_stop_terms(nome_campo: str, campo: CampoExtraido) -> tuple[b
     return True, None
 
 
-def _passa_tipo_ceva_blacklist(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
+def _passa_tipo_ceva_blacklist(
+    nome_campo: str, campo: CampoExtraido, _transcricao: str, _outros: dict
+) -> _Assinatura:
     # fix 3: rejeita tipo_ceva com termo de equipamento.
     # "vara de bambu", "carretilha avenado", "hunter bait" sao coisas de
     # EQUIPAMENTO de pesca, nao ceva. extrator confunde em textos grandes
@@ -279,7 +302,9 @@ def _passa_tipo_ceva_blacklist(nome_campo: str, campo: CampoExtraido) -> tuple[b
     return True, None
 
 
-def _passa_rio_aparece(nome_campo: str, campo: CampoExtraido, transcricao: str) -> tuple[bool, TipoRejeicao | None]:
+def _passa_rio_aparece(
+    nome_campo: str, campo: CampoExtraido, transcricao: str, _outros: dict
+) -> _Assinatura:
     # fix 2: rio deve aparecer LITERALMENTE (ou fuzzy) no texto
     if nome_campo != "rio" or campo.valor is None:
         return True, None
@@ -290,7 +315,9 @@ def _passa_rio_aparece(nome_campo: str, campo: CampoExtraido, transcricao: str) 
     return True, None
 
 
-def _passa_ceva_keywords(nome_campo: str, campo: CampoExtraido, transcricao: str) -> tuple[bool, TipoRejeicao | None]:
+def _passa_ceva_keywords(
+    nome_campo: str, campo: CampoExtraido, transcricao: str, _outros: dict
+) -> _Assinatura:
     # tipo_ceva so eh valido se o texto mencionar ceva/seva/ceba/cevar/cevador
     # pescaria com so isca viva/artificial nao tem ceva, extrator chuta essa
     # campo e enche com "ceva_solta_na_agua" default
@@ -303,7 +330,9 @@ def _passa_ceva_keywords(nome_campo: str, campo: CampoExtraido, transcricao: str
     return False, "evidencia_nao_alinha"
 
 
-def _passa_length_obs(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
+def _passa_length_obs(
+    nome_campo: str, campo: CampoExtraido, _transcricao: str, _outros: dict
+) -> _Assinatura:
     if nome_campo != "observacoes" or campo.valor is None:
         return True, None
     if not isinstance(campo.valor, str):
@@ -327,29 +356,24 @@ def aplica_regras(
     # roda todas as regras em ordem, primeira que falhar define o veredito
     # ordem importa: as mais baratas primeiro
 
+    # todas as regras agora tem a mesma assinatura, entao a lista eh uniforme
+    # e o loop nao precisa de gambiarra de try/except ou lambdas adaptadoras.
+    # ordem importa: mais baratas primeiro, depois as especificas por campo.
     ordem = [
         _passa_confianca,
-        lambda nc, c, t, o: _passa_smith_waterman(c, t),
+        _passa_smith_waterman,
         _passa_pos_filter,
-        lambda nc, c, t, o: _passa_enum_estado(c) if nc == "estado" else (True, None),
+        _passa_enum_estado,
         _passa_cross_field,
         _passa_length_obs,
-        lambda nc, c, t, o: _passa_ceva_keywords(nc, c, t),
-        lambda nc, c, t, o: _passa_rio_aparece(nc, c, t),
-        lambda nc, c, t, o: _passa_tipo_ceva_blacklist(nc, c),
-        lambda nc, c, t, o: _passa_especies_stop_terms(nc, c),
+        _passa_ceva_keywords,
+        _passa_rio_aparece,
+        _passa_tipo_ceva_blacklist,
+        _passa_especies_stop_terms,
     ]
 
     for regra in ordem:
-        try:
-            ok, tipo = regra(nome_campo, campo, transcricao, outros) if regra is _passa_cross_field else (
-                regra(nome_campo, campo) if regra in (_passa_confianca, _passa_pos_filter, _passa_length_obs)
-                else regra(nome_campo, campo, transcricao, outros)
-            )
-        except TypeError:
-            # algumas regras nao recebem todos os args, trata generico
-            ok, tipo = True, None
-
+        ok, tipo = regra(nome_campo, campo, transcricao, outros)
         if not ok:
             return Veredito(
                 aceito=False,
