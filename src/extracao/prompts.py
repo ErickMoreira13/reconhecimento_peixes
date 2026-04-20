@@ -93,7 +93,16 @@ CAMPOS:
    (ou variantes). pescaria sem ceva (so com isca viva, isca artificial,
    espinhel, rede, linha, anzol) DEVE vir com tipo_ceva=null. nao chute
 6. grao: soja | milho | trigo | arroz | sorgo | aveia | outro texto livre | null
-7. especies: lista de peixes. NER candidatos: {peixes_ner or "nenhum"}. Canonicos similares: {top_peixes}
+7. especies: lista de peixes PESCADOS (alvo), NAO os usados como isca.
+   NER candidatos: {peixes_ner or "nenhum"}. Canonicos similares: {top_peixes}
+   CUIDADO com confusao isca x alvo:
+   - "peguei um tucunare com camarao" -> especies=[tucunare] (camarao eh isca)
+   - "usei piau como isca pra pegar cachara" -> especies=[cachara]
+   - "pescaria com piabao pra tucunare" -> especies=[tucunare] (piabao eh isca viva)
+   regra geral: se o texto diz "isca" perto da palavra, NAO inclua.
+   palavras que geralmente sao ISCA na pescaria brasileira: camarao, piabao,
+   lambari, minhoca, sardinha, piau (as vezes). so incluir esses se o texto
+   explicitamente diz que FOI PEGO o peixe (ex: "peguei um lambari").
 8. observacoes: RESUMO CURTO em 1-2 frases (MAXIMO 50 palavras) sobre horario/clima/dicas/resultado. NUNCA copiar trechos longos da transcricao. Se nada relevante, "Sem observacoes adicionais relevantes."
 
 FORMATO JSON:
