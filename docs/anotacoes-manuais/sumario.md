@@ -122,25 +122,31 @@ mapeamento explicito.
 
 ## recomendacoes de fix rankeadas por ROI
 
-| # | fix | esforco | impacto |
-|---|-----|---------|---------|
-| 1 | exigir evidencia literal no rio (verificador)  | baixo | alto |
-| 2 | prompt: ceva precisa de evidencia textual | baixo | alto |
-| 3 | stop-words pra especies genericas | baixo | medio-alto |
-| 4 | dicionario fechado de bacias BR + validacao | medio | medio |
-| 5 | prompt: isca vs especie alvo | baixo | alto |
-| 6 | blacklist equipamento pra tipo_ceva | baixo | medio |
-| 7 | investigar bug do consolida_chunks | medio | alto |
-| 8 | mapeamento nome UF -> sigla no prompt | baixo | medio |
+| # | fix | esforco | impacto | **status** |
+|---|-----|---------|---------|------------|
+| 1 | exigir evidencia literal no rio (verificador)  | baixo | alto | ✅ feito (fix 2) |
+| 2 | prompt: ceva precisa de evidencia textual | baixo | alto | ✅ feito (fix 1) |
+| 3 | stop-words pra especies genericas | baixo | medio-alto | ✅ feito (fix 4) |
+| 4 | dicionario fechado de bacias BR + validacao | medio | medio | ✅ feito (fix 7) |
+| 5 | prompt: isca vs especie alvo | baixo | alto | ✅ feito (fix 5) |
+| 6 | blacklist equipamento pra tipo_ceva | baixo | medio | ✅ feito (fix 3) |
+| 7 | investigar bug do consolida_chunks | medio | alto | ✅ feito (fix 8) |
+| 8 | mapeamento nome UF -> sigla no prompt | baixo | medio | ✅ feito (fix 6) |
+
+**todos os 8 fixes aplicados em 2026-04-19**. ver consolidacao em
+[../fixes-aplicados-2026-04-19.md](../fixes-aplicados-2026-04-19.md).
 
 ## proxima acao
 
-fazer PRs pequenos, um por fix, comecando pelos de baixo esforco e
-alto impacto (1, 2, 3, 5, 6, 8). cada fix vira uma issue no github
-com descricao do que muda e como validar (idealmente re-rodando em
-subset dos 50 videos pra ver se taxa de erro cai).
+~~fazer PRs pequenos, um por fix~~ **concluido em 2026-04-19**.
 
-o fix 7 (chunking) precisa de investigacao de codigo antes de saber
-o esforco real.
+proximo passo eh validar empiricamente quando a GPU estiver livre:
+
+```bash
+.venv/bin/python scripts/testar-retry-schema.py --limit 50
+```
+
+compara com as contagens deste sumario pra ver se taxa de erro caiu.
+tabela de expectativas em [fixes-aplicados-2026-04-19.md](../fixes-aplicados-2026-04-19.md).
 
 anotado por jader, 2026-04-19.
