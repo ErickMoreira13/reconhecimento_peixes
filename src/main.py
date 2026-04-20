@@ -77,7 +77,7 @@ def cmd_baixar(args):
 
 
 def cmd_transcrever(args):
-    ui.titulo("transcrever audio (whisper)")
+    print(ascii_art.banner_pipeline("transcrever audio (whisper)"))
     pra_fazer = wt.pega_pra_transcrever(DB_PATH, limit=args.limit)
     ui.info(f"tem {len(pra_fazer)} audios pra transcrever")
     if not pra_fazer:
@@ -124,7 +124,7 @@ def _marca_extraido(video_id: str, resultado_path: Path):
 
 
 def cmd_extrair(args):
-    ui.titulo("extrair campos (gliner + qwen)")
+    print(ascii_art.banner_pipeline("extrair campos (gliner + qwen)"))
     pra_fazer = _pega_pra_extrair(args.limit)
     ui.info(f"tem {len(pra_fazer)} transcricoes pra extrair")
     if not pra_fazer:
@@ -193,7 +193,7 @@ def _marca_verificado(video_id: str):
 
 
 def cmd_verificar(args):
-    ui.titulo("verificar extracoes (regras + critic)")
+    print(ascii_art.banner_pipeline("verificar extracoes (regras + critic)"))
     from src.schemas import CampoExtraido
 
     pra_fazer = _pega_pra_verificar(args.limit)
@@ -255,7 +255,7 @@ def cmd_verificar(args):
 
 
 def cmd_exportar(args):
-    ui.titulo("exportar csv final")
+    print(ascii_art.banner_pipeline("exportar csv final"))
     with storage.conectar() as conn:
         linhas = conn.execute("""
             SELECT video_id, url, channel, published_at, resultado_path
