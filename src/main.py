@@ -101,6 +101,14 @@ def cmd_transcrever(args):
                 wt.marca_transcrito(v["video_id"], out, DB_PATH)
                 ok_count += 1
                 prog.console.log(f"[green]ok[/] {v['video_id']} ({resultado['duracao_seg']}s)")
+                # libera disco: audio so serve pro whisper. apos transcrever nao
+                # precisa mais. transcricao fica no json. economiza ~17MB/video.
+                # flag --keep-audio mantem se quiser re-transcrever depois
+                if not getattr(args, "keep_audio", False):
+                    try:
+                        aud.unlink()
+                    except Exception:
+                        pass
             except Exception as e:
                 prog.console.log(f"[red]deu ruim[/] {v['video_id']}: {e}")
                 falhou += 1
@@ -362,6 +370,8 @@ def main():
 
     tp = sub.add_parser("transcrever")
     tp.add_argument("--limit", type=int, default=50)
+    tp.add_argument("--keep-audio", action="store_true",
+                    help="nao deleta o .opus apos transcrever (default: deleta pra economizar disco)")
     tp.set_defaults(func=cmd_transcrever)
 
     ep = sub.add_parser("extrair")
