@@ -60,20 +60,35 @@ tests/
   conftest.py              - fixtures globais (db_isolado, videos_exemplo)
   test_schemas.py          - dataclasses CampoExtraido/Veredito
   test_dicts.py            - json dos gazetteers
+  test_dicts_conteudo.py   - integridade dos dicts (peixes, ufs, etc)
   test_tempo.py            - utils/tempo.py
   test_storage.py          - src/storage/db.py (sqlite crud)
+  test_queries_storage.py  - crud da tabela queries do harvester loop
   test_config.py           - src/config.py (env vars)
   test_ui.py               - src/ui.py (rich wrapper)
+  test_ui_banners.py       - banners ASCII do src/ui_banners.py
   test_cuda_libs.py        - whitelist de libs cuda (zero libnvblas!)
   test_parse_json.py       - parse_json_safe casos tipicos
   test_utils_extracao.py   - parse_json_safe edge cases
-  test_prompts.py          - monta_prompt_extrator e bm25
-  test_qwen_extrator.py    - _normaliza_especies, _monta_resultado
+  test_prompts.py          - monta_prompt_extrator, bm25, retry schema
+  test_qwen_extrator.py    - _normaliza_especies, _monta_resultado,
+                             chunking, consolidacao
+  test_retry_schema.py     - retry de schema errado com budget
   test_regras.py           - regras deterministicas do verificador
-  test_retry_loop.py       - loop de retry com mocks
+                             (inclui ceva_keywords, rio_aparece,
+                             blacklist equip, stop-terms, bacias)
+  test_retry_loop.py       - loop de retry do critic com mocks
+  test_critic.py           - llm critic
   test_benchmark.py        - analisa_suffix com arquivos fake
   test_harvester.py        - youtube api com mocks (sem rede)
+  test_harvester_loop.py   - loop perpetuo de coleta
+  test_saturacao.py        - detectores de dedup/rejeicao
   test_dashboard.py        - endpoints http com TestClient
+  test_gazetteer_check.py  - aplica_flag_fora_do_gazetteer
+  test_integracao.py       - integracao entre modulos
+  test_cli.py              - src/main.py (cli commands)
+  test_gliner_client.py    - gliner com mocks
+  test_cuda_libs.py        - whitelist libs nvidia
 ```
 
 ## padroes que o repo segue
