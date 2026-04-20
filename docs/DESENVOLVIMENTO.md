@@ -110,6 +110,23 @@ roteiro:
    `MODEL_EXTRATOR=<novo>`
 5. atualizar `docs/benchmark-modelos-*.md`
 
+## fixes aplicados 2026-04-19
+
+revisamos 50 videos e aplicamos 8 fixes pros padroes de erro comuns.
+lista completa em `docs/fixes-aplicados-2026-04-19.md`. resumo:
+
+- **fix 1**: tipo_ceva exige evidencia literal (prompt + verificador)
+- **fix 2**: rio precisa aparecer no texto (verificador)
+- **fix 3**: blacklist equipamento em tipo_ceva
+- **fix 4**: stop-terms pra especies genericas
+- **fix 5**: prompt isca vs especie alvo
+- **fix 6**: prompt UF nome -> sigla
+- **fix 7**: dicionario 12 bacias BR + validacao + hint
+- **fix 8**: chunking com observabilidade + reduz MAX_PALAVRAS 4500->3000
+
+dependendo do fix, mudanca foi no prompt, no verificador, em dict novo,
+ou nos tres. testes cobrem todos.
+
 ## gotchas conhecidos
 
 - **gliner trunca em 384 tokens**: textos muito longos podem perder info.
