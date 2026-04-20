@@ -20,3 +20,10 @@ repos:
         language: system
         pass_filenames: false
         files: ^src/dicts/.*\.json$
+
+      - id: ruff-check
+        name: ruff lint
+        entry: .venv/bin/python -m ruff check src/ tests/
+        language: system
+        pass_filenames: false
+        types: [python]
