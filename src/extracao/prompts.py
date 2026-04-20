@@ -1,8 +1,8 @@
 import json
-import unicodedata
 from pathlib import Path
 
 from src import config
+from src.texto import sem_acento as _sem_acento
 
 
 # prompt do extrator qwen
@@ -23,12 +23,6 @@ _STOP = {"de", "da", "do", "das", "dos", "e", "o", "a", "os", "as", "um", "uma",
 def _carrega_dict(nome: str) -> dict:
     with open(DICTS_DIR / nome, encoding="utf-8") as f:
         return json.load(f)
-
-
-def _sem_acento(s: str) -> str:
-    # normaliza pra nao falhar em "tucunaré" vs "tucunare"
-    # whisper as vezes transcreve sem acento, o dict tem com acento
-    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
 
 
 def _top_peixes_por_bm25(texto: str, k: int = 20) -> list[str]:
