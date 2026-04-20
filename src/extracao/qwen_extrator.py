@@ -134,7 +134,7 @@ def _extrai_chunk_unico(
     # se o retry tbm vier errado, usa o parse corrigido do primeiro try.
     if corrigidos:
         _stats_retry["videos_com_retry"] += 1
-        print(f"[schema-retry] campos {corrigidos} vieram errados, tentando 1x com feedback")
+        _log.warning("[schema-retry] campos %s vieram errados, tentando 1x com feedback", corrigidos)
         prompt_retry = monta_prompt_retry_schema(transcricao, spans, corrigidos)
         raw2, lat_retry = _chama_ollama(prompt_retry, modelo, temperature=0.0)
         lat_ms += lat_retry
@@ -145,15 +145,15 @@ def _extrai_chunk_unico(
                 # retry deu bom, usa ele
                 campos = campos2
                 _stats_retry["retries_ok"] += 1
-                print("[schema-retry] retry deu bom, usando o novo resultado")
+                _log.info("[schema-retry] retry deu bom, usando o novo resultado")
             else:
                 # retry ainda veio errado, fica com o parse corrigido do 1o
                 _stats_retry["retries_falhos"] += 1
-                print(f"[schema-retry] retry tbm veio com erro em {corrigidos2}, usando parse corrigido")
+                _log.warning("[schema-retry] retry tbm veio com erro em %s, usando parse corrigido", corrigidos2)
         else:
             # retry nao gerou json valido, fica com primeiro parse
             _stats_retry["retries_falhos"] += 1
-            print("[schema-retry] retry gerou json invalido, usando parse corrigido")
+            _log.warning("[schema-retry] retry gerou json invalido, usando parse corrigido")
 
     # pos-processa: marca fora_do_gazetteer quando o valor nao bate com dict
     # (o llm nao eh confiavel pra essa flag, usa check deterministico)
