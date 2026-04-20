@@ -19,6 +19,8 @@ DICTS_DIR = Path(__file__).parent.parent / "dicts"
 _peixes_cache: set[str] | None = None
 _bacias_cache: set[str] | None = None
 _ufs_cache: set[str] | None = None
+_cevas_cache: set[str] | None = None
+_graos_cache: set[str] | None = None
 
 
 def _carrega_peixes() -> set[str]:
@@ -43,6 +45,22 @@ def _carrega_ufs() -> set[str]:
         d = json.loads((DICTS_DIR / "estados.json").read_text(encoding="utf-8"))
         _ufs_cache = {uf["sigla"].upper() for uf in d["ufs"]}
     return _ufs_cache
+
+
+def _carrega_cevas() -> set[str]:
+    global _cevas_cache
+    if _cevas_cache is None:
+        d = json.loads((DICTS_DIR / "cevas.json").read_text(encoding="utf-8"))
+        _cevas_cache = set(d.get("categorias", {}).keys())
+    return _cevas_cache
+
+
+def _carrega_graos() -> set[str]:
+    global _graos_cache
+    if _graos_cache is None:
+        d = json.loads((DICTS_DIR / "graos.json").read_text(encoding="utf-8"))
+        _graos_cache = set(d.get("graos", {}).keys())
+    return _graos_cache
 
 
 def _casa_fuzzy(valor: str, gazetteer: set[str], threshold: int = 85) -> bool:
@@ -83,13 +101,10 @@ def esta_no_gazetteer(campo: str, valor) -> bool:
         return _casa_fuzzy(str(valor), _carrega_bacias())
 
     if campo == "tipo_ceva":
-        d = json.loads((DICTS_DIR / "cevas.json").read_text(encoding="utf-8"))
-        cats = set(d.get("categorias", {}).keys())
-        return str(valor) in cats
+        return str(valor) in _carrega_cevas()
 
     if campo == "grao":
-        d = json.loads((DICTS_DIR / "graos.json").read_text(encoding="utf-8"))
-        return str(valor).lower() in d.get("graos", {})
+        return str(valor).lower() in _carrega_graos()
 
     # municipio e observacoes nao tem gazetteer (livres)
     return True  # nao checavel -> assume que ta ok
