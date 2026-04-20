@@ -1,0 +1,17 @@
+{
+  "texto": "Hoje eu vou ensinar rapidamente pra você como esca o milho, pra você que pesca de ceba, você que pesca piau, piapara, piassu, pacu, piracajuba, qualquer peixe que coma milho, tá? Você vai parar de esca dessa maneira aqui, ó, no meio do milho, onde o vasol fica totalmente exposto, sujeira que desce das barragens como mato, lodo, enrosca nessa ponta do vasol, o peixe bem mais vasol, você vai passar a escapa o milho.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 6.28,
+      "text": "Hoje eu vou ensinar rapidamente pra você como esca o milho, pra você que pesca de ceba, você que pesca piau, piapara, piassu, pacu, piracajuba, qualquer peixe que coma milho, tá?"
+    },
+    {
+      "start": 6.34,
+      "end": 15.0,
+      "text": "Você vai parar de esca dessa maneira aqui, ó, no meio do milho, onde o vasol fica totalmente exposto, sujeira que desce das barragens como mato, lodo, enrosca nessa ponta do vasol, o peixe bem mais vasol, você vai passar a escapa o milho."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

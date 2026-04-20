@@ -1,0 +1,17 @@
+{
+  "texto": "I'ma take a picture, extra close for all you haters I'ma set the hook",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 3.99,
+      "text": "I'ma take a picture, extra close for all you haters"
+    },
+    {
+      "start": 3.99,
+      "end": 5.51,
+      "text": "I'ma set the hook"
+    }
+  ],
+  "duracao_seg": 12.75,
+  "idioma_detectado": "pt"
+}

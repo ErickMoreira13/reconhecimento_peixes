@@ -1,0 +1,42 @@
+{
+  "texto": "Trambão, o almoço tá garantido Ih, esquece que eu falei Tá, mas não Não vai ter almoço, é pra ninguém Ó, não, mas parece que sobrou um pedacinho É, não vai sobrar nada não Deixa pra lá, pode pescar",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Trambão, o almoço tá garantido"
+    },
+    {
+      "start": 2.14,
+      "end": 4.18,
+      "text": "Ih, esquece que eu falei"
+    },
+    {
+      "start": 4.18,
+      "end": 4.8,
+      "text": "Tá, mas não"
+    },
+    {
+      "start": 4.8,
+      "end": 6.98,
+      "text": "Não vai ter almoço, é pra ninguém"
+    },
+    {
+      "start": 6.98,
+      "end": 10.3,
+      "text": "Ó, não, mas parece que sobrou um pedacinho"
+    },
+    {
+      "start": 10.3,
+      "end": 12.38,
+      "text": "É, não vai sobrar nada não"
+    },
+    {
+      "start": 12.38,
+      "end": 13.68,
+      "text": "Deixa pra lá, pode pescar"
+    }
+  ],
+  "duracao_seg": 14.49,
+  "idioma_detectado": "pt"
+}

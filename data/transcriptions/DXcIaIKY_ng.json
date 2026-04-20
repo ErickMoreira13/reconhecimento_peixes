@@ -1,0 +1,47 @@
+{
+  "texto": "apareceu a cara dele quer não tudo isso é para filmar recolher com a mesma mão que está filmando é brabo olha a cara dele você vai botar a cara de novo",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 2.51,
+      "text": "apareceu a cara dele"
+    },
+    {
+      "start": 2.51,
+      "end": 10.41,
+      "text": "quer não"
+    },
+    {
+      "start": 10.41,
+      "end": 14.76,
+      "text": "tudo isso é para filmar"
+    },
+    {
+      "start": 14.76,
+      "end": 17.44,
+      "text": "recolher com a mesma mão"
+    },
+    {
+      "start": 17.44,
+      "end": 18.16,
+      "text": "que está filmando"
+    },
+    {
+      "start": 18.16,
+      "end": 20.11,
+      "text": "é brabo"
+    },
+    {
+      "start": 20.11,
+      "end": 23.04,
+      "text": "olha a cara dele"
+    },
+    {
+      "start": 23.04,
+      "end": 27.54,
+      "text": "você vai botar a cara de novo"
+    }
+  ],
+  "duracao_seg": 33.05,
+  "idioma_detectado": "pt"
+}

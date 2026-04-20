@@ -1,0 +1,67 @@
+{
+  "texto": "A gente não vai usar o pão inteiro, a gente vai usar só um pedaço assim, ó. Ó, vai tirar aí, vai no menos um terço, vai? É isso aí. Pega um anzol, ó, maruzego 20. Você vai costurar esse pão aqui, ó, no anzol. Pegou? Certo, galera? Passa mais uma aqui, ó. Passa três vezes. Você vai fazer um arremesso. Ó. Agora é só esperar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "A gente não vai usar o pão inteiro, a gente vai usar só um pedaço assim, ó."
+    },
+    {
+      "start": 4.08,
+      "end": 5.94,
+      "text": "Ó, vai tirar aí, vai no menos um terço, vai?"
+    },
+    {
+      "start": 6.64,
+      "end": 7.14,
+      "text": "É isso aí."
+    },
+    {
+      "start": 8.34,
+      "end": 10.26,
+      "text": "Pega um anzol, ó, maruzego 20."
+    },
+    {
+      "start": 11.36,
+      "end": 15.3,
+      "text": "Você vai costurar esse pão aqui, ó, no anzol."
+    },
+    {
+      "start": 15.76,
+      "end": 16.06,
+      "text": "Pegou?"
+    },
+    {
+      "start": 19.6,
+      "end": 20.18,
+      "text": "Certo, galera?"
+    },
+    {
+      "start": 21.15,
+      "end": 22.23,
+      "text": "Passa mais uma aqui, ó."
+    },
+    {
+      "start": 22.71,
+      "end": 23.77,
+      "text": "Passa três vezes."
+    },
+    {
+      "start": 24.66,
+      "end": 25.86,
+      "text": "Você vai fazer um arremesso."
+    },
+    {
+      "start": 27.65,
+      "end": 27.83,
+      "text": "Ó."
+    },
+    {
+      "start": 32.2,
+      "end": 33.36,
+      "text": "Agora é só esperar."
+    }
+  ],
+  "duracao_seg": 33.81,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "calabresa ó esquina de calabresa em mano hoje tá fatal e umas par de tilápia já peguei pacu também o pacu tava puxando no peixinho que eu achei ali ó acabou os peixinhos o pai aí olha ninguém na boca dela é a mesma na carretilha aí rapaziada ó é parece a mesma até",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 14.5,
+      "text": "calabresa ó esquina de calabresa em mano hoje tá fatal e umas par de tilápia já peguei pacu"
+    },
+    {
+      "start": 14.5,
+      "end": 23.5,
+      "text": "também o pacu tava puxando no peixinho que eu achei ali ó acabou os peixinhos"
+    },
+    {
+      "start": 23.5,
+      "end": 50.07,
+      "text": "o pai aí olha ninguém na boca dela é a mesma na carretilha aí rapaziada ó é parece a mesma até"
+    }
+  ],
+  "duracao_seg": 51.09,
+  "idioma_detectado": "pt"
+}

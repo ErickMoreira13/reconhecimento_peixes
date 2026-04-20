@@ -1,0 +1,57 @@
+{
+  "texto": "Alguns gostam de pescar usando minhoca. Já eu, prefiro usar o bom velho milho. Eu não tenho a menor paciência de ficar tentando me enganchar a minhoca ali no anzol. Então uso o milho mesmo. Mas o problema é que o milho sempre ficava escapando. Mas aprendi um truque e vim mostrar para vocês. Ao invés de usar somente um milho, vamos usar três. Além de chamar mais atenção do peixe, eu já aproveito e uso um milho para ajudar a segurar os outros. E assim ficou pronto.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Alguns gostam de pescar usando minhoca."
+    },
+    {
+      "start": 2.82,
+      "end": 5.34,
+      "text": "Já eu, prefiro usar o bom velho milho."
+    },
+    {
+      "start": 5.9,
+      "end": 10.84,
+      "text": "Eu não tenho a menor paciência de ficar tentando me enganchar a minhoca ali no anzol."
+    },
+    {
+      "start": 11.56,
+      "end": 13.06,
+      "text": "Então uso o milho mesmo."
+    },
+    {
+      "start": 13.62,
+      "end": 16.42,
+      "text": "Mas o problema é que o milho sempre ficava escapando."
+    },
+    {
+      "start": 16.92,
+      "end": 19.38,
+      "text": "Mas aprendi um truque e vim mostrar para vocês."
+    },
+    {
+      "start": 19.98,
+      "end": 22.94,
+      "text": "Ao invés de usar somente um milho, vamos usar três."
+    },
+    {
+      "start": 23.54,
+      "end": 25.58,
+      "text": "Além de chamar mais atenção do peixe,"
+    },
+    {
+      "start": 25.58,
+      "end": 29.66,
+      "text": "eu já aproveito e uso um milho para ajudar a segurar os outros."
+    },
+    {
+      "start": 30.0,
+      "end": 59.98,
+      "text": "E assim ficou pronto."
+    }
+  ],
+  "duracao_seg": 30.15,
+  "idioma_detectado": "pt"
+}

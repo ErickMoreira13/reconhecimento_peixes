@@ -1,0 +1,702 @@
+{
+  "texto": "Com essa massa aqui, vocês vão estar pegando tilápia, curimba, piau, carpa. Essa aqui é a solução dos seus problemas nas suas pescarias. Olha só. Só você fazer uma bolinha e está pronto para pescar. Agora acompanha aí o preparo dessa massinha poderosa. Vamos começar aqui pela ração de coelho. Aqui eu tenho um copo de 250 ml. Onde vamos triturar. Ração de coelho triturada. Olha lá, virou um farelo. Agora vamos espelhar aqui dentro da vasilha. Vamos deixar aqui de lado. Agora vamos usar um prato, rapaziada. Esse prato é onde vamos amassar a banana nanica. Vamos precisar de duas bananas nanica. Duas bananas nanica. Vamos amassar a banana nanica. Agora aqui é um scoopzinho de açúcar. Aqui tem cerca de três colheres de açúcar. Vou estar colocando dois. Então, seis colheres de açúcar. Vamos misturar. Misturar. Onde a açúcar vai derreter na banana nanica. Essa maçã aqui funciona. De começo você pode achar estranha, mas... Se você levar essa massa nas suas pescarias, vai dar resultado. Vocês podem acompanhar os vídeos aí. Vocês vão pegando peixe com essa isca. Mistura, né? Pra açúcar derreter. Olha só que maravilha, cara. E já subiu um cheiro forte aqui de banana nanica. Aí vai virar uma papinha. Aí. Agora, vamos pegar aqui a nossa vasilha com a ração de coelho. E despejar dentro. Aí, ó. Você viu, velho? Sem acrescentar água. A gente não vai acrescentar água nessa massa. Onde a massa vai ficar concentrada, né, cara? Tá bastante concentrada na banana nanica. Agora aqui, ó. A gente mexe, né? Vamos dar uma mexida. Agora aqui, ó, galera. A ração de coelho vai dissolver. Por causa da umidade da banana. E agora aqui não conseguiu. É só mexer, galera. Mexer. E agora a gente vai pular pro último ingrediente. Que é onde vai dar uma liga pra nossa massa. Vamos ver que devezura, cara. A ração de coelho já amaleceu, galera. Olha como é que tá úmida. Olha o cheiro que tá, cara. Isso aqui na água. Os peixes fazem a festa, viu? Agora, pessoal. Vamos colocar aqui um copo de 250 ml de farinha de trigo. Agora aqui, pessoal. Vocês vão mexer até a massa pegar a liga. Se precisar de mais farinha, vocês colocam mais farinha. Por causa da banana, né? Não tem um tamanho exato. Aí a gente não tem a medida certa. Então se a massa ficar muito mole, a gente vai colocar um pouquinho mais de trigo. O mais de segredo é esse aí. Agora aqui, ó. É só misturar. Porque pelo que eu tô vendo, a massa tá um pouco molhinha. Vou colocar mais... Vou colocar mais um meio copo de farinha de trigo. Aqui agora. Vocês vão ver a maravilha que isso aqui vai ficar, cara. Vai pegar uma consistência. Vai mexer. Vai passar tudo na boca. Tá maluco. Olha aí, pessoal. Olha lá. Vocês estão vendo que ela tá meio grudenta ainda? Vou colocar mais um pouquinho de trigo. Espalha só um pouquinho aqui, ó. Um pouquinho de nada. E vai mexendo, pessoal. Até ela pegar... Ficar firme, né? Vai ficar firme. Tá um cheiro, hein? Rapaz. Isso aqui embada a água, meu filho. O peixe vem de longe, pessoal. O peixe vem de longe. Ó. Mais um pouco de água. Então, na verdade, é meio copo. Mas meio copo... E farinha de trigo. Essa aqui é a medida, então. Um copo e meio de farinha de trigo. O cheiro, pessoal. Vocês não tem noção. O cheiro que tá esse aqui, cara. Tá muito cheiroso. Esse aí, ó. Aí. A nossa massa... É no ponto ideal. Esse aqui é o ponto, pessoal. Liberado. Esse é o ponto, pessoal. Da nossa massa. Então, é um copo e meio de farinha de trigo. Pegaram o código. Olha só. Ó. Não gruda na mão, ó. Ó. Que maravilha. Esse aí. Não gruda na mão, pessoal. Aqui, né? Porque eu tava mexendo. Mas aí. Não é só. Nossa, rapaz. É o cheiro. Muito cheiroso, pessoal. Vocês vão, né? Vão no rio. Faz umas bolinhas, ó. Modela a massa. Só colocar no azul, pessoal. Que esse aqui é a fraqueza dos peixes. Nenhum peixe vai resistir a essa massa.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.58,
+      "text": "Com essa massa aqui, vocês vão estar pegando tilápia, curimba, piau, carpa."
+    },
+    {
+      "start": 6.58,
+      "end": 9.82,
+      "text": "Essa aqui é a solução dos seus problemas nas suas pescarias."
+    },
+    {
+      "start": 10.66,
+      "end": 11.18,
+      "text": "Olha só."
+    },
+    {
+      "start": 12.1,
+      "end": 18.08,
+      "text": "Só você fazer uma bolinha e está pronto para pescar."
+    },
+    {
+      "start": 18.91,
+      "end": 21.91,
+      "text": "Agora acompanha aí o preparo dessa massinha poderosa."
+    },
+    {
+      "start": 21.91,
+      "end": 24.07,
+      "text": "Vamos começar aqui pela ração de coelho."
+    },
+    {
+      "start": 24.27,
+      "end": 26.37,
+      "text": "Aqui eu tenho um copo de 250 ml."
+    },
+    {
+      "start": 27.76,
+      "end": 29.06,
+      "text": "Onde vamos triturar."
+    },
+    {
+      "start": 34.6,
+      "end": 36.48,
+      "text": "Ração de coelho triturada."
+    },
+    {
+      "start": 36.48,
+      "end": 38.26,
+      "text": "Olha lá, virou um farelo."
+    },
+    {
+      "start": 39.11,
+      "end": 41.25,
+      "text": "Agora vamos espelhar aqui dentro da vasilha."
+    },
+    {
+      "start": 42.88,
+      "end": 44.22,
+      "text": "Vamos deixar aqui de lado."
+    },
+    {
+      "start": 44.84,
+      "end": 46.5,
+      "text": "Agora vamos usar um prato, rapaziada."
+    },
+    {
+      "start": 46.76,
+      "end": 51.13,
+      "text": "Esse prato é onde vamos amassar a banana nanica."
+    },
+    {
+      "start": 51.53,
+      "end": 53.47,
+      "text": "Vamos precisar de duas bananas nanica."
+    },
+    {
+      "start": 53.93,
+      "end": 59.04,
+      "text": "Duas bananas nanica."
+    },
+    {
+      "start": 59.7,
+      "end": 62.3,
+      "text": "Vamos amassar a banana nanica."
+    },
+    {
+      "start": 63.93,
+      "end": 65.65,
+      "text": "Agora aqui é um scoopzinho de açúcar."
+    },
+    {
+      "start": 65.87,
+      "end": 68.65,
+      "text": "Aqui tem cerca de três colheres de açúcar."
+    },
+    {
+      "start": 69.13,
+      "end": 70.07,
+      "text": "Vou estar colocando dois."
+    },
+    {
+      "start": 70.07,
+      "end": 74.7,
+      "text": "Então, seis colheres de açúcar."
+    },
+    {
+      "start": 75.65,
+      "end": 76.59,
+      "text": "Vamos misturar."
+    },
+    {
+      "start": 77.9,
+      "end": 78.86,
+      "text": "Misturar."
+    },
+    {
+      "start": 81.31,
+      "end": 84.43,
+      "text": "Onde a açúcar vai derreter na banana nanica."
+    },
+    {
+      "start": 85.75,
+      "end": 87.27,
+      "text": "Essa maçã aqui funciona."
+    },
+    {
+      "start": 87.95,
+      "end": 91.28,
+      "text": "De começo você pode achar estranha, mas..."
+    },
+    {
+      "start": 91.28,
+      "end": 95.98,
+      "text": "Se você levar essa massa nas suas pescarias, vai dar resultado."
+    },
+    {
+      "start": 97.72,
+      "end": 99.32,
+      "text": "Vocês podem acompanhar os vídeos aí."
+    },
+    {
+      "start": 99.96,
+      "end": 102.44,
+      "text": "Vocês vão pegando peixe com essa isca."
+    },
+    {
+      "start": 103.44,
+      "end": 104.14,
+      "text": "Mistura, né?"
+    },
+    {
+      "start": 104.83,
+      "end": 107.19,
+      "text": "Pra açúcar derreter."
+    },
+    {
+      "start": 107.19,
+      "end": 112.04,
+      "text": "Olha só que maravilha, cara."
+    },
+    {
+      "start": 112.22,
+      "end": 114.76,
+      "text": "E já subiu um cheiro forte aqui de banana nanica."
+    },
+    {
+      "start": 115.61,
+      "end": 116.89,
+      "text": "Aí vai virar uma papinha."
+    },
+    {
+      "start": 117.35,
+      "end": 117.47,
+      "text": "Aí."
+    },
+    {
+      "start": 118.82,
+      "end": 122.26,
+      "text": "Agora, vamos pegar aqui a nossa vasilha com a ração de coelho."
+    },
+    {
+      "start": 122.88,
+      "end": 124.26,
+      "text": "E despejar dentro."
+    },
+    {
+      "start": 125.14,
+      "end": 125.54,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 126.88,
+      "end": 127.68,
+      "text": "Você viu, velho?"
+    },
+    {
+      "start": 127.68,
+      "end": 129.28,
+      "text": "Sem acrescentar água."
+    },
+    {
+      "start": 129.52,
+      "end": 131.2,
+      "text": "A gente não vai acrescentar água nessa massa."
+    },
+    {
+      "start": 131.72,
+      "end": 135.7,
+      "text": "Onde a massa vai ficar concentrada, né, cara?"
+    },
+    {
+      "start": 135.96,
+      "end": 139.48,
+      "text": "Tá bastante concentrada na banana nanica."
+    },
+    {
+      "start": 140.94,
+      "end": 141.66,
+      "text": "Agora aqui, ó."
+    },
+    {
+      "start": 142.1,
+      "end": 142.94,
+      "text": "A gente mexe, né?"
+    },
+    {
+      "start": 143.36,
+      "end": 146.32,
+      "text": "Vamos dar uma mexida."
+    },
+    {
+      "start": 146.32,
+      "end": 150.52,
+      "text": "Agora aqui, ó, galera."
+    },
+    {
+      "start": 150.96,
+      "end": 153.69,
+      "text": "A ração de coelho vai dissolver."
+    },
+    {
+      "start": 154.23,
+      "end": 156.96,
+      "text": "Por causa da umidade da banana."
+    },
+    {
+      "start": 159.16,
+      "end": 160.36,
+      "text": "E agora aqui não conseguiu."
+    },
+    {
+      "start": 160.44,
+      "end": 161.22,
+      "text": "É só mexer, galera."
+    },
+    {
+      "start": 164.78,
+      "end": 165.14,
+      "text": "Mexer."
+    },
+    {
+      "start": 167.39,
+      "end": 169.53,
+      "text": "E agora a gente vai pular pro último ingrediente."
+    },
+    {
+      "start": 170.62,
+      "end": 172.64,
+      "text": "Que é onde vai dar uma liga pra nossa massa."
+    },
+    {
+      "start": 174.27,
+      "end": 175.61,
+      "text": "Vamos ver que devezura, cara."
+    },
+    {
+      "start": 180.54,
+      "end": 182.0,
+      "text": "A ração de coelho já amaleceu, galera."
+    },
+    {
+      "start": 182.64,
+      "end": 183.38,
+      "text": "Olha como é que tá úmida."
+    },
+    {
+      "start": 183.86,
+      "end": 189.92,
+      "text": "Olha o cheiro que tá, cara."
+    },
+    {
+      "start": 189.92,
+      "end": 191.31,
+      "text": "Isso aqui na água."
+    },
+    {
+      "start": 192.04,
+      "end": 194.06,
+      "text": "Os peixes fazem a festa, viu?"
+    },
+    {
+      "start": 194.44,
+      "end": 195.26,
+      "text": "Agora, pessoal."
+    },
+    {
+      "start": 195.26,
+      "end": 201.44,
+      "text": "Vamos colocar aqui um copo de 250 ml de farinha de trigo."
+    },
+    {
+      "start": 201.96,
+      "end": 205.06,
+      "text": "Agora aqui, pessoal."
+    },
+    {
+      "start": 205.16,
+      "end": 209.46,
+      "text": "Vocês vão mexer até a massa pegar a liga."
+    },
+    {
+      "start": 210.17,
+      "end": 212.81,
+      "text": "Se precisar de mais farinha, vocês colocam mais farinha."
+    },
+    {
+      "start": 213.13,
+      "end": 214.13,
+      "text": "Por causa da banana, né?"
+    },
+    {
+      "start": 214.77,
+      "end": 215.91,
+      "text": "Não tem um tamanho exato."
+    },
+    {
+      "start": 215.99,
+      "end": 218.33,
+      "text": "Aí a gente não tem a medida certa."
+    },
+    {
+      "start": 218.81,
+      "end": 220.47,
+      "text": "Então se a massa ficar muito mole,"
+    },
+    {
+      "start": 221.5,
+      "end": 223.04,
+      "text": "a gente vai colocar um pouquinho mais de trigo."
+    },
+    {
+      "start": 224.52,
+      "end": 225.84,
+      "text": "O mais de segredo é esse aí."
+    },
+    {
+      "start": 226.34,
+      "end": 227.06,
+      "text": "Agora aqui, ó."
+    },
+    {
+      "start": 227.1,
+      "end": 227.86,
+      "text": "É só misturar."
+    },
+    {
+      "start": 227.86,
+      "end": 231.99,
+      "text": "Porque pelo que eu tô vendo, a massa tá um pouco molhinha."
+    },
+    {
+      "start": 232.39,
+      "end": 233.65,
+      "text": "Vou colocar mais..."
+    },
+    {
+      "start": 233.65,
+      "end": 236.24,
+      "text": "Vou colocar mais um meio copo de farinha de trigo."
+    },
+    {
+      "start": 239.16,
+      "end": 239.84,
+      "text": "Aqui agora."
+    },
+    {
+      "start": 240.22,
+      "end": 243.8,
+      "text": "Vocês vão ver a maravilha que isso aqui vai ficar, cara."
+    },
+    {
+      "start": 245.86,
+      "end": 247.18,
+      "text": "Vai pegar uma consistência."
+    },
+    {
+      "start": 247.5,
+      "end": 248.34,
+      "text": "Vai mexer."
+    },
+    {
+      "start": 248.84,
+      "end": 255.62,
+      "text": "Vai passar tudo na boca."
+    },
+    {
+      "start": 255.84,
+      "end": 256.62,
+      "text": "Tá maluco."
+    },
+    {
+      "start": 259.38,
+      "end": 259.9,
+      "text": "Olha aí, pessoal."
+    },
+    {
+      "start": 261.1,
+      "end": 261.34,
+      "text": "Olha lá."
+    },
+    {
+      "start": 261.34,
+      "end": 263.5,
+      "text": "Vocês estão vendo que ela tá meio grudenta ainda?"
+    },
+    {
+      "start": 264.0,
+      "end": 267.1,
+      "text": "Vou colocar mais um pouquinho de trigo."
+    },
+    {
+      "start": 268.57,
+      "end": 269.91,
+      "text": "Espalha só um pouquinho aqui, ó."
+    },
+    {
+      "start": 270.37,
+      "end": 273.16,
+      "text": "Um pouquinho de nada."
+    },
+    {
+      "start": 273.16,
+      "end": 274.68,
+      "text": "E vai mexendo, pessoal."
+    },
+    {
+      "start": 275.16,
+      "end": 275.94,
+      "text": "Até ela pegar..."
+    },
+    {
+      "start": 277.07,
+      "end": 277.87,
+      "text": "Ficar firme, né?"
+    },
+    {
+      "start": 278.23,
+      "end": 280.87,
+      "text": "Vai ficar firme."
+    },
+    {
+      "start": 280.87,
+      "end": 285.04,
+      "text": "Tá um cheiro, hein?"
+    },
+    {
+      "start": 285.6,
+      "end": 286.04,
+      "text": "Rapaz."
+    },
+    {
+      "start": 286.93,
+      "end": 288.53,
+      "text": "Isso aqui embada a água, meu filho."
+    },
+    {
+      "start": 288.89,
+      "end": 290.01,
+      "text": "O peixe vem de longe, pessoal."
+    },
+    {
+      "start": 291.72,
+      "end": 292.68,
+      "text": "O peixe vem de longe."
+    },
+    {
+      "start": 294.25,
+      "end": 294.41,
+      "text": "Ó."
+    },
+    {
+      "start": 294.85,
+      "end": 296.03,
+      "text": "Mais um pouco de água."
+    },
+    {
+      "start": 296.61,
+      "end": 298.15,
+      "text": "Então, na verdade, é meio copo."
+    },
+    {
+      "start": 299.86,
+      "end": 301.08,
+      "text": "Mas meio copo..."
+    },
+    {
+      "start": 301.08,
+      "end": 302.7,
+      "text": "E farinha de trigo."
+    },
+    {
+      "start": 303.22,
+      "end": 310.9,
+      "text": "Essa aqui é a medida, então."
+    },
+    {
+      "start": 311.36,
+      "end": 314.11,
+      "text": "Um copo e meio de farinha de trigo."
+    },
+    {
+      "start": 314.61,
+      "end": 317.8,
+      "text": "O cheiro, pessoal."
+    },
+    {
+      "start": 317.86,
+      "end": 318.78,
+      "text": "Vocês não tem noção."
+    },
+    {
+      "start": 320.16,
+      "end": 321.68,
+      "text": "O cheiro que tá esse aqui, cara."
+    },
+    {
+      "start": 322.9,
+      "end": 323.76,
+      "text": "Tá muito cheiroso."
+    },
+    {
+      "start": 327.25,
+      "end": 327.95,
+      "text": "Esse aí, ó."
+    },
+    {
+      "start": 327.95,
+      "end": 328.15,
+      "text": "Aí."
+    },
+    {
+      "start": 328.61,
+      "end": 330.36,
+      "text": "A nossa massa..."
+    },
+    {
+      "start": 331.36,
+      "end": 332.6,
+      "text": "É no ponto ideal."
+    },
+    {
+      "start": 334.26,
+      "end": 335.36,
+      "text": "Esse aqui é o ponto, pessoal."
+    },
+    {
+      "start": 341.1,
+      "end": 341.54,
+      "text": "Liberado."
+    },
+    {
+      "start": 341.96,
+      "end": 346.05,
+      "text": "Esse é o ponto, pessoal."
+    },
+    {
+      "start": 346.35,
+      "end": 347.19,
+      "text": "Da nossa massa."
+    },
+    {
+      "start": 348.22,
+      "end": 350.84,
+      "text": "Então, é um copo e meio de farinha de trigo."
+    },
+    {
+      "start": 350.84,
+      "end": 353.3,
+      "text": "Pegaram o código."
+    },
+    {
+      "start": 358.87,
+      "end": 359.33,
+      "text": "Olha só."
+    },
+    {
+      "start": 359.69,
+      "end": 359.89,
+      "text": "Ó."
+    },
+    {
+      "start": 360.07,
+      "end": 361.01,
+      "text": "Não gruda na mão, ó."
+    },
+    {
+      "start": 361.39,
+      "end": 363.27,
+      "text": "Ó."
+    },
+    {
+      "start": 363.35,
+      "end": 363.99,
+      "text": "Que maravilha."
+    },
+    {
+      "start": 366.45,
+      "end": 367.33,
+      "text": "Esse aí."
+    },
+    {
+      "start": 367.47,
+      "end": 368.37,
+      "text": "Não gruda na mão, pessoal."
+    },
+    {
+      "start": 368.95,
+      "end": 369.37,
+      "text": "Aqui, né?"
+    },
+    {
+      "start": 369.37,
+      "end": 370.17,
+      "text": "Porque eu tava mexendo."
+    },
+    {
+      "start": 370.93,
+      "end": 371.37,
+      "text": "Mas aí."
+    },
+    {
+      "start": 371.59,
+      "end": 372.13,
+      "text": "Não é só."
+    },
+    {
+      "start": 373.31,
+      "end": 374.29,
+      "text": "Nossa, rapaz."
+    },
+    {
+      "start": 375.15,
+      "end": 375.83,
+      "text": "É o cheiro."
+    },
+    {
+      "start": 376.07,
+      "end": 376.95,
+      "text": "Muito cheiroso, pessoal."
+    },
+    {
+      "start": 377.65,
+      "end": 378.21,
+      "text": "Vocês vão, né?"
+    },
+    {
+      "start": 378.27,
+      "end": 378.69,
+      "text": "Vão no rio."
+    },
+    {
+      "start": 379.62,
+      "end": 380.72,
+      "text": "Faz umas bolinhas, ó."
+    },
+    {
+      "start": 383.07,
+      "end": 383.87,
+      "text": "Modela a massa."
+    },
+    {
+      "start": 384.35,
+      "end": 385.65,
+      "text": "Só colocar no azul, pessoal."
+    },
+    {
+      "start": 386.29,
+      "end": 388.81,
+      "text": "Que esse aqui é a fraqueza dos peixes."
+    },
+    {
+      "start": 389.47,
+      "end": 391.65,
+      "text": "Nenhum peixe vai resistir a essa massa."
+    }
+  ],
+  "duracao_seg": 392.29,
+  "idioma_detectado": "pt"
+}

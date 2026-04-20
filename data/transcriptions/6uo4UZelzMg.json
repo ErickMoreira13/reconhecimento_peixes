@@ -1,0 +1,107 @@
+{
+  "texto": "Luiz Adão, uma brincadeirinha massa pra você que tá fazendo na beira do rio, tá? A pescareia de tainha, tá? Uma garateazinha, uma boiazinha, eu tô usando uma improvisada aqui Uma varinha speedfish, tá? Isso aqui é umas 7 libras Um muletezinho ultralight, uns 3 centinhos, tá? Pra brincar, é bem light mesmo O que vocês vão usar com a muisca? Isso aqui, ó, um pão Faz uma bolinha na garateia E procura na beirada do rio, onde tu vê que tem tainha boiada Tem um cardume de tainha Aí, Luiz Adão, entrou Entrou Olha que coisa linda Trou a virotinha da varinha speedfish Aqui, nossa, um monte de carro Valeu, que linda Dá um montagenzinho, Luiz Adão Uma garateazinha, uma boinha, um pedacinho de pão",
+  "segmentos": [
+    {
+      "start": 0.16,
+      "end": 2.9,
+      "text": "Luiz Adão, uma brincadeirinha massa pra você que tá fazendo na beira do rio, tá?"
+    },
+    {
+      "start": 3.18,
+      "end": 4.6,
+      "text": "A pescareia de tainha, tá?"
+    },
+    {
+      "start": 4.96,
+      "end": 8.14,
+      "text": "Uma garateazinha, uma boiazinha, eu tô usando uma improvisada aqui"
+    },
+    {
+      "start": 8.14,
+      "end": 11.24,
+      "text": "Uma varinha speedfish, tá?"
+    },
+    {
+      "start": 11.4,
+      "end": 12.42,
+      "text": "Isso aqui é umas 7 libras"
+    },
+    {
+      "start": 12.42,
+      "end": 14.76,
+      "text": "Um muletezinho ultralight, uns 3 centinhos, tá?"
+    },
+    {
+      "start": 14.86,
+      "end": 16.12,
+      "text": "Pra brincar, é bem light mesmo"
+    },
+    {
+      "start": 16.12,
+      "end": 17.72,
+      "text": "O que vocês vão usar com a muisca?"
+    },
+    {
+      "start": 18.1,
+      "end": 19.1,
+      "text": "Isso aqui, ó, um pão"
+    },
+    {
+      "start": 19.1,
+      "end": 20.48,
+      "text": "Faz uma bolinha na garateia"
+    },
+    {
+      "start": 20.48,
+      "end": 25.32,
+      "text": "E procura na beirada do rio, onde tu vê que tem tainha boiada"
+    },
+    {
+      "start": 25.32,
+      "end": 26.26,
+      "text": "Tem um cardume de tainha"
+    },
+    {
+      "start": 26.26,
+      "end": 30.01,
+      "text": "Aí, Luiz Adão, entrou"
+    },
+    {
+      "start": 30.01,
+      "end": 31.64,
+      "text": "Entrou"
+    },
+    {
+      "start": 31.64,
+      "end": 36.98,
+      "text": "Olha que coisa linda"
+    },
+    {
+      "start": 36.98,
+      "end": 42.18,
+      "text": "Trou a virotinha da varinha speedfish"
+    },
+    {
+      "start": 42.18,
+      "end": 44.06,
+      "text": "Aqui, nossa, um monte de carro"
+    },
+    {
+      "start": 44.06,
+      "end": 48.97,
+      "text": "Valeu, que linda"
+    },
+    {
+      "start": 48.97,
+      "end": 53.29,
+      "text": "Dá um montagenzinho, Luiz Adão"
+    },
+    {
+      "start": 53.29,
+      "end": 56.35,
+      "text": "Uma garateazinha, uma boinha, um pedacinho de pão"
+    }
+  ],
+  "duracao_seg": 59.27,
+  "idioma_detectado": "pt"
+}

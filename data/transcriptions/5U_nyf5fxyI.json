@@ -1,0 +1,22 @@
+{
+  "texto": "E olha, pegamos com calabresa ainda, pessoal A calabrezinha ali na boquinha dele, viu? Calabresa pega só fechão",
+  "segmentos": [
+    {
+      "start": 5.04,
+      "end": 9.44,
+      "text": "E olha, pegamos com calabresa ainda, pessoal"
+    },
+    {
+      "start": 9.44,
+      "end": 11.02,
+      "text": "A calabrezinha ali na boquinha dele, viu?"
+    },
+    {
+      "start": 11.68,
+      "end": 12.84,
+      "text": "Calabresa pega só fechão"
+    }
+  ],
+  "duracao_seg": 13.79,
+  "idioma_detectado": "pt"
+}

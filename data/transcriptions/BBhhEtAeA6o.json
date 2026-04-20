@@ -1,0 +1,22 @@
+{
+  "texto": "Fala rapaziada, olha aqui, ó, elastiquinho de cabelo, daquelas de xuxinha, você pega o amarelinho, ó, passa aqui por dentro, ó, faz uma voltinha aqui no anzol, ó, o elastiquinho, ó, faz essa argolinha aqui, ó, como escalpão no anzol, tá vendo aqui, ó, olha lá, ó, olha que chique que fica, é isso daqui que vocês vão ter que fazer. Vai pegar o seu pão, ó, apara o anzol do lado do pão e já, ó, introduz o pão, aí você só vira o anzol, isca ele, ó, pode largar assim e não sai na hora do arremesso ou pode introduzir o anzol inteiro, ó, chique no último, hein, rapaziada, isso daqui não sai no arremesso. Rude na pesca, tranque e pula, abraço!",
+  "segmentos": [
+    {
+      "start": 0.78,
+      "end": 23.68,
+      "text": "Fala rapaziada, olha aqui, ó, elastiquinho de cabelo, daquelas de xuxinha, você pega o amarelinho, ó, passa aqui por dentro, ó, faz uma voltinha aqui no anzol, ó, o elastiquinho, ó, faz essa argolinha aqui, ó, como escalpão no anzol, tá vendo aqui, ó, olha lá, ó, olha que chique que fica, é isso daqui que vocês vão ter que fazer."
+    },
+    {
+      "start": 23.68,
+      "end": 46.18,
+      "text": "Vai pegar o seu pão, ó, apara o anzol do lado do pão e já, ó, introduz o pão, aí você só vira o anzol, isca ele, ó, pode largar assim e não sai na hora do arremesso ou pode introduzir o anzol inteiro, ó, chique no último, hein, rapaziada, isso daqui não sai no arremesso."
+    },
+    {
+      "start": 46.88,
+      "end": 49.44,
+      "text": "Rude na pesca, tranque e pula, abraço!"
+    }
+  ],
+  "duracao_seg": 50.41,
+  "idioma_detectado": "pt"
+}

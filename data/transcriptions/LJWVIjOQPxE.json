@@ -1,0 +1,17 @@
+{
+  "texto": "E aí gente, tudo bem? Quero mostrar pra vocês alguns dos peixes que vendem nas feiras do estado do Amazonas. Vamos começar aí pelo querido bodó. Gente, o bodó numa caldeirada de tucupi, mano...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.86,
+      "text": "E aí gente, tudo bem? Quero mostrar pra vocês alguns dos peixes que vendem nas feiras do estado do Amazonas."
+    },
+    {
+      "start": 8.1,
+      "end": 15.0,
+      "text": "Vamos começar aí pelo querido bodó. Gente, o bodó numa caldeirada de tucupi, mano..."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

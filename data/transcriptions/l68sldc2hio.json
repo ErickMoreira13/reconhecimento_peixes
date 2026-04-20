@@ -1,0 +1,17 @@
+{
+  "texto": "Relaxar, eu vou com os anjos cantarem Pra quem tem fé, a vida nunca tem",
+  "segmentos": [
+    {
+      "start": 2.58,
+      "end": 6.67,
+      "text": "Relaxar, eu vou com os anjos cantarem"
+    },
+    {
+      "start": 6.67,
+      "end": 12.56,
+      "text": "Pra quem tem fé, a vida nunca tem"
+    }
+  ],
+  "duracao_seg": 12.59,
+  "idioma_detectado": "pt"
+}

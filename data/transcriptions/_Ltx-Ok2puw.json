@@ -1,0 +1,147 @@
+{
+  "texto": "Aí turma, mais um, vamos ver se a gente tira, porque os bichos estão manhosos, aí só pega na beirinha, né Diego? Só, o bicho tá, uma outra também. Não é não, acho que é porque pegou. É pequeno, viu? Arrê, outro pequenininho, mais um hein, um no começo e um no final. Vem, senta aí por enquanto. Aí ó, fiozinho bonito turma. Rapaz. Chegou e juntou. E esse? Ah, essa foi na Calabresa. Calabresa? Não, não, não foi no coisa não. Na Calabresa, um caranguejão. Ajeita azar aí que... Aí turma. Um 590. Um 590, ó. Piausuzinho pequenininho, top hein. Na Calabresa, do jeito que eu mostrei pra vocês aí, né Diego? Chegou levando embora, não nem brincou. A isca do dia hoje, olha que bonito. Olha a cor dele. É, show de bola. Olha que lindo esse Piausuzinho. Bora lá, Diego? Vê se não vai pegar mais. Bora, a gente pega mais. Bora lá. Vê se não vai pegar mais.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 17.78,
+      "text": "Aí turma, mais um, vamos ver se a gente tira, porque os bichos estão manhosos, aí só pega na beirinha, né Diego?"
+    },
+    {
+      "start": 17.78,
+      "end": 22.44,
+      "text": "Só, o bicho tá, uma outra também. Não é não, acho que é porque pegou."
+    },
+    {
+      "start": 25.71,
+      "end": 26.33,
+      "text": "É pequeno, viu?"
+    },
+    {
+      "start": 29.32,
+      "end": 35.3,
+      "text": "Arrê, outro pequenininho, mais um hein, um no começo e um no final."
+    },
+    {
+      "start": 36.14,
+      "end": 37.28,
+      "text": "Vem, senta aí por enquanto."
+    },
+    {
+      "start": 38.08,
+      "end": 39.78,
+      "text": "Aí ó, fiozinho bonito turma."
+    },
+    {
+      "start": 39.78,
+      "end": 42.12,
+      "text": "Rapaz."
+    },
+    {
+      "start": 42.72,
+      "end": 43.68,
+      "text": "Chegou e juntou."
+    },
+    {
+      "start": 43.88,
+      "end": 44.24,
+      "text": "E esse?"
+    },
+    {
+      "start": 46.28,
+      "end": 47.64,
+      "text": "Ah, essa foi na Calabresa."
+    },
+    {
+      "start": 47.88,
+      "end": 48.2,
+      "text": "Calabresa?"
+    },
+    {
+      "start": 48.22,
+      "end": 49.4,
+      "text": "Não, não, não foi no coisa não."
+    },
+    {
+      "start": 50.02,
+      "end": 51.86,
+      "text": "Na Calabresa, um caranguejão."
+    },
+    {
+      "start": 52.42,
+      "end": 53.96,
+      "text": "Ajeita azar aí que..."
+    },
+    {
+      "start": 53.96,
+      "end": 54.38,
+      "text": "Aí turma."
+    },
+    {
+      "start": 54.38,
+      "end": 55.2,
+      "text": "Um 590."
+    },
+    {
+      "start": 55.89,
+      "end": 59.03,
+      "text": "Um 590, ó. Piausuzinho pequenininho, top hein."
+    },
+    {
+      "start": 59.55,
+      "end": 62.57,
+      "text": "Na Calabresa, do jeito que eu mostrei pra vocês aí, né Diego?"
+    },
+    {
+      "start": 62.59,
+      "end": 65.03,
+      "text": "Chegou levando embora, não nem brincou."
+    },
+    {
+      "start": 65.25,
+      "end": 67.05,
+      "text": "A isca do dia hoje, olha que bonito."
+    },
+    {
+      "start": 68.0,
+      "end": 68.56,
+      "text": "Olha a cor dele."
+    },
+    {
+      "start": 68.68,
+      "end": 69.76,
+      "text": "É, show de bola."
+    },
+    {
+      "start": 69.76,
+      "end": 71.81,
+      "text": "Olha que lindo esse Piausuzinho."
+    },
+    {
+      "start": 72.7,
+      "end": 73.26,
+      "text": "Bora lá, Diego?"
+    },
+    {
+      "start": 73.32,
+      "end": 73.88,
+      "text": "Vê se não vai pegar mais."
+    },
+    {
+      "start": 73.88,
+      "end": 74.5,
+      "text": "Bora, a gente pega mais."
+    },
+    {
+      "start": 74.62,
+      "end": 74.92,
+      "text": "Bora lá."
+    },
+    {
+      "start": 74.92,
+      "end": 79.54,
+      "text": "Vê se não vai pegar mais."
+    }
+  ],
+  "duracao_seg": 75.09,
+  "idioma_detectado": "pt"
+}

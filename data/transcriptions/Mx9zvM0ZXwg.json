@@ -1,0 +1,42 @@
+{
+  "texto": "pãozinho de queijo, porém de uma forma diferente. Eu utilizo aqui uma chumbada de correr, uma miçanga, para não bater e romper o nó. Por que que eu coloco esse chumbo de correr? Para eu conseguir arremessar mais longe, lá no meio do lago. E o que que acontece? Na hora que cai lá na água, o pão de queijo vai flutuar, a chumbada vai descer e ele vai ficar apontado lá no meio do lago.",
+  "segmentos": [
+    {
+      "start": 2.51,
+      "end": 5.89,
+      "text": "pãozinho de queijo, porém de uma forma diferente."
+    },
+    {
+      "start": 6.69,
+      "end": 14.44,
+      "text": "Eu utilizo aqui uma chumbada de correr, uma miçanga, para não bater e romper o nó."
+    },
+    {
+      "start": 15.76,
+      "end": 20.36,
+      "text": "Por que que eu coloco esse chumbo de correr?"
+    },
+    {
+      "start": 21.2,
+      "end": 24.18,
+      "text": "Para eu conseguir arremessar mais longe, lá no meio do lago."
+    },
+    {
+      "start": 24.94,
+      "end": 26.38,
+      "text": "E o que que acontece?"
+    },
+    {
+      "start": 26.74,
+      "end": 30.26,
+      "text": "Na hora que cai lá na água, o pão de queijo vai flutuar,"
+    },
+    {
+      "start": 30.26,
+      "end": 35.61,
+      "text": "a chumbada vai descer e ele vai ficar apontado lá no meio do lago."
+    }
+  ],
+  "duracao_seg": 46.69,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Ô Jaba, qual que é a melhor massa de pesca do Brasil? Eu tô cansado de perguntar pra profissional, então eu vou perguntar pros caras iniciantes que tão começando agora, uns amadores ali, ó. Ô, pescadores iniciantes, qual que é a melhor massa de pesca do Brasil? Atualmente, acho que a Marvada é uma das melhores, né? Tá pegando. Não precisa falar, tá aqui. Esse é o cara que tá iniciando agora.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.85,
+      "text": "Ô Jaba, qual que é a melhor massa de pesca do Brasil?"
+    },
+    {
+      "start": 3.84,
+      "end": 9.76,
+      "text": "Eu tô cansado de perguntar pra profissional, então eu vou perguntar pros caras iniciantes que tão começando agora, uns amadores ali, ó."
+    },
+    {
+      "start": 10.48,
+      "end": 14.7,
+      "text": "Ô, pescadores iniciantes, qual que é a melhor massa de pesca do Brasil?"
+    },
+    {
+      "start": 16.59,
+      "end": 19.89,
+      "text": "Atualmente, acho que a Marvada é uma das melhores, né?"
+    },
+    {
+      "start": 20.13,
+      "end": 20.85,
+      "text": "Tá pegando."
+    },
+    {
+      "start": 20.93,
+      "end": 22.59,
+      "text": "Não precisa falar, tá aqui."
+    },
+    {
+      "start": 23.25,
+      "end": 24.75,
+      "text": "Esse é o cara que tá iniciando agora."
+    }
+  ],
+  "duracao_seg": 25.87,
+  "idioma_detectado": "pt"
+}

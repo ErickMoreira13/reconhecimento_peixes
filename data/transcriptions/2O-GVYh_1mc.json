@@ -1,0 +1,27 @@
+{
+  "texto": "Olá amigos pescadores, aí rapaziada, do jeito que eu faço a calabresa, eu escondo um anzol dentro, estou usando um anzol pequeno eu coloquei castor, hoje eu coloquei castor, não costumo usar, coloquei porque, cara, por incrível que pareça os tambas hoje está muito agressivo já perdi acho que 3 anzol, aí resolvi colocar castor, aí consegui tirar vários e não cortou mais beleza, está aí, eu corto a calabresa no meio, não uso chumbada",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.95,
+      "text": "Olá amigos pescadores, aí rapaziada, do jeito que eu faço a calabresa, eu escondo um anzol dentro, estou usando um anzol pequeno"
+    },
+    {
+      "start": 6.95,
+      "end": 18.79,
+      "text": "eu coloquei castor, hoje eu coloquei castor, não costumo usar, coloquei porque, cara, por incrível que pareça os tambas hoje está muito agressivo"
+    },
+    {
+      "start": 18.79,
+      "end": 26.11,
+      "text": "já perdi acho que 3 anzol, aí resolvi colocar castor, aí consegui tirar vários e não cortou mais"
+    },
+    {
+      "start": 26.11,
+      "end": 31.25,
+      "text": "beleza, está aí, eu corto a calabresa no meio, não uso chumbada"
+    }
+  ],
+  "duracao_seg": 31.57,
+  "idioma_detectado": "pt"
+}

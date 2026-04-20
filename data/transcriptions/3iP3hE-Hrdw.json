@@ -1,0 +1,142 @@
+{
+  "texto": "Tamanho do bicho Na calabresa, viu? Olha o anzolzinho duplo ali Vou mostrar pra vocês como é que é o uísque aí A calabresa pra vocês pegarem esses bichinhos aqui no Rio Feio Calabresa que nós usamos, pessoal É isso aqui, ó Aquela calabresa de pizza É um pouquinho mais grossa, é mais carnura Não tem um cheiro igual uma sadia Mas pensa numa calabresa carnuda, ó Um dedo de grossura mais ou menos, ó Corta assim Ela é fácil, é um X, ó Assim e assim, ó Tá vendo? Ela é uma calabresa firme Calabresa top Aí eu faço assim, ó Eu uso a agulha aqui, ó Espeto aqui, ó Pego o anzol duplo, o anzol de piau mesmo É o moriguem número 5, número 6 Esse aqui, ó Porque vai que entra um pacão piau sul, entendeu? Olha aí Como é que fica Peguei ele desse jeito aí",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 2.0,
+      "text": "Tamanho do bicho"
+    },
+    {
+      "start": 2.0,
+      "end": 4.13,
+      "text": "Na calabresa, viu?"
+    },
+    {
+      "start": 4.99,
+      "end": 6.23,
+      "text": "Olha o anzolzinho duplo ali"
+    },
+    {
+      "start": 6.23,
+      "end": 9.09,
+      "text": "Vou mostrar pra vocês como é que é o uísque aí"
+    },
+    {
+      "start": 9.09,
+      "end": 11.63,
+      "text": "A calabresa pra vocês pegarem esses bichinhos aqui no Rio Feio"
+    },
+    {
+      "start": 11.63,
+      "end": 14.56,
+      "text": "Calabresa que nós usamos, pessoal"
+    },
+    {
+      "start": 14.56,
+      "end": 15.18,
+      "text": "É isso aqui, ó"
+    },
+    {
+      "start": 15.18,
+      "end": 16.58,
+      "text": "Aquela calabresa de pizza"
+    },
+    {
+      "start": 16.58,
+      "end": 19.04,
+      "text": "É um pouquinho mais grossa, é mais carnura"
+    },
+    {
+      "start": 19.04,
+      "end": 21.08,
+      "text": "Não tem um cheiro igual uma sadia"
+    },
+    {
+      "start": 21.08,
+      "end": 24.06,
+      "text": "Mas pensa numa calabresa carnuda, ó"
+    },
+    {
+      "start": 24.06,
+      "end": 26.28,
+      "text": "Um dedo de grossura mais ou menos, ó"
+    },
+    {
+      "start": 26.28,
+      "end": 27.9,
+      "text": "Corta assim"
+    },
+    {
+      "start": 27.9,
+      "end": 33.11,
+      "text": "Ela é fácil, é um X, ó"
+    },
+    {
+      "start": 33.11,
+      "end": 35.04,
+      "text": "Assim e assim, ó"
+    },
+    {
+      "start": 35.04,
+      "end": 36.8,
+      "text": "Tá vendo? Ela é uma calabresa firme"
+    },
+    {
+      "start": 36.8,
+      "end": 39.54,
+      "text": "Calabresa top"
+    },
+    {
+      "start": 39.54,
+      "end": 41.8,
+      "text": "Aí eu faço assim, ó"
+    },
+    {
+      "start": 41.8,
+      "end": 44.3,
+      "text": "Eu uso a agulha aqui, ó"
+    },
+    {
+      "start": 44.3,
+      "end": 47.28,
+      "text": "Espeto aqui, ó"
+    },
+    {
+      "start": 47.28,
+      "end": 50.74,
+      "text": "Pego o anzol duplo, o anzol de piau mesmo"
+    },
+    {
+      "start": 50.74,
+      "end": 53.1,
+      "text": "É o moriguem número 5, número 6"
+    },
+    {
+      "start": 53.1,
+      "end": 54.23,
+      "text": "Esse aqui, ó"
+    },
+    {
+      "start": 54.23,
+      "end": 56.21,
+      "text": "Porque vai que entra um pacão piau sul, entendeu?"
+    },
+    {
+      "start": 58.19,
+      "end": 58.73,
+      "text": "Olha aí"
+    },
+    {
+      "start": 58.73,
+      "end": 61.69,
+      "text": "Como é que fica"
+    },
+    {
+      "start": 61.69,
+      "end": 63.17,
+      "text": "Peguei ele desse jeito aí"
+    }
+  ],
+  "duracao_seg": 64.23,
+  "idioma_detectado": "pt"
+}
