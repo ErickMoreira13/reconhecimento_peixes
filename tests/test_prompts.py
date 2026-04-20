@@ -75,3 +75,22 @@ def test_prompt_menciona_ceva_exige_evidencia():
     assert "explicitamente" in p or "evidencia" in p
     # deve mencionar pelo menos uma das keywords de ceva
     assert any(kw in p for kw in ["cevar", "cevador", "cevando"])
+
+
+def test_prompt_menciona_uf_exemplos():
+    # fix 6: prompt deve ter exemplos de nome UF -> sigla
+    prompt = monta_prompt_extrator("teste", {"peixe": [], "bacia hidrografica": []})
+    p = prompt.lower()
+    # checa pelo menos 3 pares nome -> sigla
+    assert "sao paulo" in p and "sp" in p
+    assert "minas gerais" in p and "mg" in p
+    assert "rondonia" in p and "ro" in p
+
+
+def test_prompt_menciona_adjetivo_regional():
+    # adjetivo regional tipo "paulista", "mineiro", "paraense" tb deve ser pego
+    prompt = monta_prompt_extrator("teste", {"peixe": [], "bacia hidrografica": []})
+    p = prompt.lower()
+    # pelo menos 2 adjetivos na lista
+    assert sum(1 for a in ["paulista", "mineiro", "paraense", "gaucho", "baiano"]
+               if a in p) >= 2
