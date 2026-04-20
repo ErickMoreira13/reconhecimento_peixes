@@ -1,0 +1,15 @@
+# pre-commit config pra rodar checks locais antes de commitar.
+# instala assim: pip install pre-commit && pre-commit install
+# roda automatico em git commit.
+#
+# desabilitado? usar git commit --no-verify (porem o ideal eh fixar o erro)
+
+repos:
+  - repo: local
+    hooks:
+      - id: pytest-quick
+        name: pytest rapido
+        entry: .venv/bin/pytest -q --tb=no
+        language: system
+        pass_filenames: false
+        types: [python]
