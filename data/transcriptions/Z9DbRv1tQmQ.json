@@ -1,0 +1,17 @@
+{
+  "texto": "Grisada, final de semana mais produtivo que tivemos no Rio Uruguai e mais difícil. Não é troféu, que é lindo dourado!",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 6.34,
+      "text": "Grisada, final de semana mais produtivo que tivemos no Rio Uruguai e mais difícil."
+    },
+    {
+      "start": 7.0,
+      "end": 14.31,
+      "text": "Não é troféu, que é lindo dourado!"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

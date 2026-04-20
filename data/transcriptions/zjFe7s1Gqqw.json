@@ -1,0 +1,22 @@
+{
+  "texto": "O que que já rolou nessa pescaria? Ai! Nossa!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "O que que já rolou nessa pescaria?"
+    },
+    {
+      "start": 2.04,
+      "end": 2.16,
+      "text": "Ai!"
+    },
+    {
+      "start": 4.31,
+      "end": 4.75,
+      "text": "Nossa!"
+    }
+  ],
+  "duracao_seg": 8.71,
+  "idioma_detectado": "pt"
+}

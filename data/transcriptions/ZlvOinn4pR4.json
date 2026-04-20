@@ -1,0 +1,32 @@
+{
+  "texto": "e é forte Davi ó aí pegou pegou pegou cadê a gente só tira as tripas cadê aí galera pegou o lambarizinho engole um agora você aprender a nadar engole um engole um agora você vai aprender a nadar pegar isso aqui para morrer não só engole só engole você vai aprender a nadar engole amor vai logo rapaz engole agora quer água não engoliu agora você vai aprender a nadar agora engolir 3",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.65,
+      "text": "e é forte Davi ó aí pegou pegou pegou cadê a gente só tira as tripas cadê aí galera"
+    },
+    {
+      "start": 9.65,
+      "end": 14.69,
+      "text": "pegou o lambarizinho engole um agora você aprender a nadar engole um engole um"
+    },
+    {
+      "start": 14.69,
+      "end": 26.84,
+      "text": "agora você vai aprender a nadar pegar isso aqui para morrer não só engole só engole você vai aprender a nadar"
+    },
+    {
+      "start": 26.84,
+      "end": 35.6,
+      "text": "engole amor vai logo rapaz engole agora quer água não engoliu agora você vai aprender a nadar agora"
+    },
+    {
+      "start": 35.6,
+      "end": 36.68,
+      "text": "engolir 3"
+    }
+  ],
+  "duracao_seg": 36.97,
+  "idioma_detectado": "pt"
+}

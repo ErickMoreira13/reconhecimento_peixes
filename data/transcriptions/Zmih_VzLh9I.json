@@ -1,0 +1,27 @@
+{
+  "texto": "Ó, pegou aqui, puxou, faz uma bolinha aqui ó, ó, dá aquela sovadinha monstra, já era, coloca o anzol e agora você dá a torcidinha, pra ela não escapar no arremesso, tá pessoal? Aí fica assim ó, chique, arremessou, colocou no suporte, só esperar o baguá bater ó, e aí ó, só aguardar agora.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 12.86,
+      "text": "Ó, pegou aqui, puxou, faz uma bolinha aqui ó, ó, dá aquela sovadinha monstra, já era,"
+    },
+    {
+      "start": 13.3,
+      "end": 23.32,
+      "text": "coloca o anzol e agora você dá a torcidinha, pra ela não escapar no arremesso, tá pessoal?"
+    },
+    {
+      "start": 23.8,
+      "end": 37.12,
+      "text": "Aí fica assim ó, chique, arremessou, colocou no suporte, só esperar o baguá bater ó,"
+    },
+    {
+      "start": 37.12,
+      "end": 43.99,
+      "text": "e aí ó, só aguardar agora."
+    }
+  ],
+  "duracao_seg": 44.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,817 @@
+{
+  "texto": "a vida meu Deus que tamanho de biabanha Olha o tamanho da piabanha, pessoal. Meu Deus do céu. O tamanho da encrenca. Olha só. Meu Deus. O tamanho da piabanha que entrou. Naca, retira. BFS. A Debarazinha. A mãe da encrenca. Olha o tamanho da piabanha. Do céu. Olha o tamanho dessa piabanha, pessoal. Ela não tá sem força até pra pular. Olha aí. Pessoas amadas. Vocês viram o tamanho dessa. Olha aí, pessoal. Olha a briga. Olha pra você ver. Meu Deus do céu. Olha o tamanho da encrenca. Olha o tamanho da piabanha. Tá entregando agora. Meu Deus. Olha só. Passou um pedal do caiaque. Olha aí, pessoal. Olha. Coisa mais linda. O cachorro. Passa agora. Passa agora aqui. Olha isso, pessoal. Meu Deus do céu. Olha. Olha. Olha que tamanho. Meu Deus do céu. Passa agora. Na mão. Nossa. Meu Deus do céu. Tá na mão. Que coisa mais linda. Que coisa mais linda, pessoal. Tá na mão. Pra vocês verem. Não cabe dentro. Não cabe dentro do passaguá aqui, pessoal. Que coisa mais linda. Olha pra vocês verem. Olha que coisa mais linda, pessoal. Meu Deus do céu. Jesus amado. Muito obrigado, meu Deus. Que coisa mais linda. Olha aí. Olha pra isso. Olha. Que coisa mais linda. Que coisa mais linda de peixe. Meu Deus do céu. Olha aí. É pra vocês verem. Pra vocês verem. Aí, ó. Olha aqui. Nossa. Tá morrendo o peixe. Meu Deus. Não cabe dentro do passaguá. Não cabe. Que coisa mais linda, pessoal. Tá na mão. É pra vocês verem. Não cabe dentro do passaguá aqui, pessoal. Que coisa mais linda. Olha pra vocês verem. Olha que coisa mais linda, pessoal. Meu Deus do céu. Jesus amado. Muito obrigado, meu Deus. Que coisa mais linda. Olha aí. Olha pra isso. Olha. Que coisa mais linda. Coisa mais linda de peixe. Meu Deus do céu. Olha aí. Pra vocês verem. Verem. Aí, ó. Vamos ver aqui. Nossa. Meu Deus do céu. Olha. Tá morrendo o peixe. Meu Deus. Não cabe dentro do passaguá. Não cabe. Olha que coisa linda. Só aqui. Poder lidar com esse peixe. Coisa mais top, pessoal. Pessoal. Vou botar a garganta aqui nele. Meu Deus. Tá muito esse peixe. Tá show aqui. Entra pra essa água. Olha. Olha na boca, bichão. A gente são de peixe. Aí. Vai respirar ali. Esse peixe aqui. Esse peixe. Coisa mais linda. Mais linda, meu amigo. Coisa mais linda, pessoal. Olha. Vou pedir essa bichona aqui. 50, 54 centímetros. Pia banha. 50 e 4 centímetros. Pessoal. Vou achar um lugarzinho mais tranquilo aqui. Pra gente poder medir esse peixe melhor. 50 e 4 centímetros. É o princípio, hein? Mais um lugarzinho. Para aqui. Agora. Marcos Custom. Carritinho Aldebaran. EFS 2022. Life. A isquinha aqui, ó. A isca. Hipheiser. Olha o tamaninho da isca. Olha o tamanho do peixe, pessoal. Vai que show. Viu, né? Lindo demais, né? Show de bola. É isso aí, pessoal. Vem lá, não é inscrito, se inscreva no canal. Olha mais dicas de pesca aí. Então, nos abençoe a todos e todos com Deus. Aqui é a Marina, Marina do Valdir. Marina do Valdir aqui. Então, Marina do Valdir. Estamos saindo aqui. Encerrando mais uma pescaria aqui. Pescaria que é abençoado, né? É isso aí, pessoal. Fiquem todos com Deus aí. Deus abençoe a todos.",
+  "segmentos": [
+    {
+      "start": 0.82,
+      "end": 105.58,
+      "text": "a vida meu Deus que tamanho de biabanha"
+    },
+    {
+      "start": 105.58,
+      "end": 107.14,
+      "text": "Olha o tamanho da piabanha, pessoal."
+    },
+    {
+      "start": 108.15,
+      "end": 109.93,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 112.8,
+      "end": 113.78,
+      "text": "O tamanho da encrenca."
+    },
+    {
+      "start": 132.89,
+      "end": 133.17,
+      "text": "Olha só."
+    },
+    {
+      "start": 147.59,
+      "end": 148.49,
+      "text": "Meu Deus."
+    },
+    {
+      "start": 150.15,
+      "end": 152.05,
+      "text": "O tamanho da piabanha que entrou."
+    },
+    {
+      "start": 152.89,
+      "end": 154.01,
+      "text": "Naca, retira."
+    },
+    {
+      "start": 157.4,
+      "end": 158.04,
+      "text": "BFS."
+    },
+    {
+      "start": 159.03,
+      "end": 159.91,
+      "text": "A Debarazinha."
+    },
+    {
+      "start": 161.51,
+      "end": 162.47,
+      "text": "A mãe da encrenca."
+    },
+    {
+      "start": 162.47,
+      "end": 165.01,
+      "text": "Olha o tamanho da piabanha."
+    },
+    {
+      "start": 170.72,
+      "end": 171.2,
+      "text": "Do céu."
+    },
+    {
+      "start": 174.56,
+      "end": 177.94,
+      "text": "Olha o tamanho dessa piabanha, pessoal."
+    },
+    {
+      "start": 178.9,
+      "end": 180.26,
+      "text": "Ela não tá sem força até pra pular."
+    },
+    {
+      "start": 181.54,
+      "end": 181.96,
+      "text": "Olha aí."
+    },
+    {
+      "start": 181.96,
+      "end": 201.8,
+      "text": "Pessoas amadas."
+    },
+    {
+      "start": 204.44,
+      "end": 206.96,
+      "text": "Vocês viram o tamanho dessa."
+    },
+    {
+      "start": 217.07,
+      "end": 217.69,
+      "text": "Olha aí, pessoal."
+    },
+    {
+      "start": 218.74,
+      "end": 220.55,
+      "text": "Olha a briga."
+    },
+    {
+      "start": 223.21,
+      "end": 223.75,
+      "text": "Olha pra você ver."
+    },
+    {
+      "start": 224.37,
+      "end": 225.79,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 233.58,
+      "end": 234.64,
+      "text": "Olha o tamanho da encrenca."
+    },
+    {
+      "start": 234.98,
+      "end": 240.31,
+      "text": "Olha o tamanho da piabanha."
+    },
+    {
+      "start": 242.37,
+      "end": 243.33,
+      "text": "Tá entregando agora."
+    },
+    {
+      "start": 244.79,
+      "end": 245.67,
+      "text": "Meu Deus."
+    },
+    {
+      "start": 245.67,
+      "end": 245.89,
+      "text": "Olha só."
+    },
+    {
+      "start": 246.45,
+      "end": 249.88,
+      "text": "Passou um pedal do caiaque."
+    },
+    {
+      "start": 255.68,
+      "end": 256.54,
+      "text": "Olha aí, pessoal."
+    },
+    {
+      "start": 257.78,
+      "end": 258.04,
+      "text": "Olha."
+    },
+    {
+      "start": 258.52,
+      "end": 260.56,
+      "text": "Coisa mais linda."
+    },
+    {
+      "start": 261.52,
+      "end": 261.88,
+      "text": "O cachorro."
+    },
+    {
+      "start": 262.8,
+      "end": 263.4,
+      "text": "Passa agora."
+    },
+    {
+      "start": 264.04,
+      "end": 265.8,
+      "text": "Passa agora aqui."
+    },
+    {
+      "start": 268.87,
+      "end": 269.55,
+      "text": "Olha isso, pessoal."
+    },
+    {
+      "start": 269.55,
+      "end": 271.62,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 272.71,
+      "end": 272.95,
+      "text": "Olha."
+    },
+    {
+      "start": 273.41,
+      "end": 274.87,
+      "text": "Olha."
+    },
+    {
+      "start": 275.07,
+      "end": 280.18,
+      "text": "Olha que tamanho."
+    },
+    {
+      "start": 297.76,
+      "end": 305.52,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 305.52,
+      "end": 349.36,
+      "text": "Passa agora."
+    },
+    {
+      "start": 365.71,
+      "end": 366.47,
+      "text": "Na mão."
+    },
+    {
+      "start": 367.97,
+      "end": 368.61,
+      "text": "Nossa."
+    },
+    {
+      "start": 369.73,
+      "end": 371.27,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 372.17,
+      "end": 372.87,
+      "text": "Tá na mão."
+    },
+    {
+      "start": 372.87,
+      "end": 379.78,
+      "text": "Que coisa mais linda."
+    },
+    {
+      "start": 379.78,
+      "end": 380.16,
+      "text": "Que coisa mais linda, pessoal."
+    },
+    {
+      "start": 380.24,
+      "end": 380.8,
+      "text": "Tá na mão."
+    },
+    {
+      "start": 380.94,
+      "end": 381.42,
+      "text": "Pra vocês verem."
+    },
+    {
+      "start": 382.14,
+      "end": 382.82,
+      "text": "Não cabe dentro."
+    },
+    {
+      "start": 383.28,
+      "end": 385.37,
+      "text": "Não cabe dentro do passaguá aqui, pessoal."
+    },
+    {
+      "start": 386.15,
+      "end": 387.97,
+      "text": "Que coisa mais linda."
+    },
+    {
+      "start": 389.36,
+      "end": 390.0,
+      "text": "Olha pra vocês verem."
+    },
+    {
+      "start": 390.66,
+      "end": 393.06,
+      "text": "Olha que coisa mais linda, pessoal."
+    },
+    {
+      "start": 393.95,
+      "end": 396.03,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 396.03,
+      "end": 398.36,
+      "text": "Jesus amado."
+    },
+    {
+      "start": 398.36,
+      "end": 400.38,
+      "text": "Muito obrigado, meu Deus."
+    },
+    {
+      "start": 401.08,
+      "end": 402.58,
+      "text": "Que coisa mais linda."
+    },
+    {
+      "start": 404.43,
+      "end": 404.85,
+      "text": "Olha aí."
+    },
+    {
+      "start": 405.55,
+      "end": 406.35,
+      "text": "Olha pra isso."
+    },
+    {
+      "start": 407.36,
+      "end": 407.6,
+      "text": "Olha."
+    },
+    {
+      "start": 407.94,
+      "end": 409.0,
+      "text": "Que coisa mais linda."
+    },
+    {
+      "start": 409.5,
+      "end": 413.38,
+      "text": "Que coisa mais linda de peixe."
+    },
+    {
+      "start": 413.48,
+      "end": 414.3,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 416.12,
+      "end": 416.48,
+      "text": "Olha aí."
+    },
+    {
+      "start": 416.58,
+      "end": 416.94,
+      "text": "É pra vocês verem."
+    },
+    {
+      "start": 417.48,
+      "end": 420.1,
+      "text": "Pra vocês verem."
+    },
+    {
+      "start": 421.06,
+      "end": 421.56,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 422.8,
+      "end": 423.34,
+      "text": "Olha aqui."
+    },
+    {
+      "start": 423.95,
+      "end": 424.51,
+      "text": "Nossa."
+    },
+    {
+      "start": 424.87,
+      "end": 427.15,
+      "text": "Tá morrendo o peixe."
+    },
+    {
+      "start": 427.63,
+      "end": 428.43,
+      "text": "Meu Deus."
+    },
+    {
+      "start": 428.43,
+      "end": 431.68,
+      "text": "Não cabe dentro do passaguá."
+    },
+    {
+      "start": 432.04,
+      "end": 432.9,
+      "text": "Não cabe."
+    },
+    {
+      "start": 437.92,
+      "end": 440.2,
+      "text": "Que coisa mais linda, pessoal."
+    },
+    {
+      "start": 440.3,
+      "end": 440.86,
+      "text": "Tá na mão."
+    },
+    {
+      "start": 440.98,
+      "end": 441.44,
+      "text": "É pra vocês verem."
+    },
+    {
+      "start": 442.16,
+      "end": 445.4,
+      "text": "Não cabe dentro do passaguá aqui, pessoal."
+    },
+    {
+      "start": 446.18,
+      "end": 448.02,
+      "text": "Que coisa mais linda."
+    },
+    {
+      "start": 449.35,
+      "end": 450.05,
+      "text": "Olha pra vocês verem."
+    },
+    {
+      "start": 450.71,
+      "end": 453.09,
+      "text": "Olha que coisa mais linda, pessoal."
+    },
+    {
+      "start": 454.28,
+      "end": 456.08,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 457.28,
+      "end": 458.46,
+      "text": "Jesus amado."
+    },
+    {
+      "start": 459.27,
+      "end": 460.39,
+      "text": "Muito obrigado, meu Deus."
+    },
+    {
+      "start": 461.13,
+      "end": 462.61,
+      "text": "Que coisa mais linda."
+    },
+    {
+      "start": 464.5,
+      "end": 464.9,
+      "text": "Olha aí."
+    },
+    {
+      "start": 464.9,
+      "end": 466.4,
+      "text": "Olha pra isso."
+    },
+    {
+      "start": 467.34,
+      "end": 467.64,
+      "text": "Olha."
+    },
+    {
+      "start": 467.98,
+      "end": 469.04,
+      "text": "Que coisa mais linda."
+    },
+    {
+      "start": 471.53,
+      "end": 473.43,
+      "text": "Coisa mais linda de peixe."
+    },
+    {
+      "start": 473.53,
+      "end": 474.35,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 476.21,
+      "end": 476.53,
+      "text": "Olha aí."
+    },
+    {
+      "start": 476.61,
+      "end": 476.99,
+      "text": "Pra vocês verem."
+    },
+    {
+      "start": 477.61,
+      "end": 480.09,
+      "text": "Verem."
+    },
+    {
+      "start": 481.1,
+      "end": 481.6,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 482.82,
+      "end": 483.38,
+      "text": "Vamos ver aqui."
+    },
+    {
+      "start": 484.13,
+      "end": 484.57,
+      "text": "Nossa."
+    },
+    {
+      "start": 485.12,
+      "end": 485.9,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 486.12,
+      "end": 486.28,
+      "text": "Olha."
+    },
+    {
+      "start": 486.42,
+      "end": 487.2,
+      "text": "Tá morrendo o peixe."
+    },
+    {
+      "start": 487.98,
+      "end": 488.4,
+      "text": "Meu Deus."
+    },
+    {
+      "start": 489.97,
+      "end": 491.73,
+      "text": "Não cabe dentro do passaguá."
+    },
+    {
+      "start": 492.09,
+      "end": 492.93,
+      "text": "Não cabe."
+    },
+    {
+      "start": 493.68,
+      "end": 494.7,
+      "text": "Olha que coisa linda."
+    },
+    {
+      "start": 499.49,
+      "end": 499.89,
+      "text": "Só aqui."
+    },
+    {
+      "start": 500.41,
+      "end": 504.1,
+      "text": "Poder lidar com esse peixe."
+    },
+    {
+      "start": 504.52,
+      "end": 506.94,
+      "text": "Coisa mais top, pessoal."
+    },
+    {
+      "start": 508.16,
+      "end": 508.48,
+      "text": "Pessoal."
+    },
+    {
+      "start": 508.48,
+      "end": 510.18,
+      "text": "Vou botar a garganta aqui nele."
+    },
+    {
+      "start": 544.9,
+      "end": 545.52,
+      "text": "Meu Deus."
+    },
+    {
+      "start": 545.68,
+      "end": 550.01,
+      "text": "Tá muito esse peixe."
+    },
+    {
+      "start": 550.33,
+      "end": 556.7,
+      "text": "Tá show aqui."
+    },
+    {
+      "start": 557.12,
+      "end": 558.43,
+      "text": "Entra pra essa água."
+    },
+    {
+      "start": 559.38,
+      "end": 559.66,
+      "text": "Olha."
+    },
+    {
+      "start": 570.7,
+      "end": 571.42,
+      "text": "Olha na boca, bichão."
+    },
+    {
+      "start": 572.72,
+      "end": 573.88,
+      "text": "A gente são de peixe."
+    },
+    {
+      "start": 585.69,
+      "end": 585.93,
+      "text": "Aí."
+    },
+    {
+      "start": 586.19,
+      "end": 590.68,
+      "text": "Vai respirar ali."
+    },
+    {
+      "start": 591.02,
+      "end": 642.44,
+      "text": "Esse peixe aqui."
+    },
+    {
+      "start": 642.94,
+      "end": 644.54,
+      "text": "Esse peixe."
+    },
+    {
+      "start": 644.94,
+      "end": 647.08,
+      "text": "Coisa mais linda."
+    },
+    {
+      "start": 647.4,
+      "end": 650.18,
+      "text": "Mais linda, meu amigo."
+    },
+    {
+      "start": 650.3,
+      "end": 652.51,
+      "text": "Coisa mais linda, pessoal."
+    },
+    {
+      "start": 652.61,
+      "end": 652.71,
+      "text": "Olha."
+    },
+    {
+      "start": 653.11,
+      "end": 656.44,
+      "text": "Vou pedir essa bichona aqui."
+    },
+    {
+      "start": 656.44,
+      "end": 746.0,
+      "text": "50, 54 centímetros."
+    },
+    {
+      "start": 747.3,
+      "end": 747.9,
+      "text": "Pia banha."
+    },
+    {
+      "start": 749.42,
+      "end": 751.72,
+      "text": "50 e 4 centímetros."
+    },
+    {
+      "start": 752.66,
+      "end": 752.98,
+      "text": "Pessoal."
+    },
+    {
+      "start": 753.12,
+      "end": 754.62,
+      "text": "Vou achar um lugarzinho mais tranquilo aqui."
+    },
+    {
+      "start": 754.68,
+      "end": 756.68,
+      "text": "Pra gente poder medir esse peixe melhor."
+    },
+    {
+      "start": 757.52,
+      "end": 759.02,
+      "text": "50 e 4 centímetros."
+    },
+    {
+      "start": 759.16,
+      "end": 759.78,
+      "text": "É o princípio, hein?"
+    },
+    {
+      "start": 760.32,
+      "end": 761.54,
+      "text": "Mais um lugarzinho."
+    },
+    {
+      "start": 761.54,
+      "end": 762.22,
+      "text": "Para aqui."
+    },
+    {
+      "start": 764.46,
+      "end": 764.78,
+      "text": "Agora."
+    },
+    {
+      "start": 764.86,
+      "end": 765.6,
+      "text": "Marcos Custom."
+    },
+    {
+      "start": 766.7,
+      "end": 767.76,
+      "text": "Carritinho Aldebaran."
+    },
+    {
+      "start": 768.94,
+      "end": 770.64,
+      "text": "EFS 2022."
+    },
+    {
+      "start": 771.74,
+      "end": 772.26,
+      "text": "Life."
+    },
+    {
+      "start": 772.44,
+      "end": 773.38,
+      "text": "A isquinha aqui, ó."
+    },
+    {
+      "start": 773.38,
+      "end": 775.1,
+      "text": "A isca."
+    },
+    {
+      "start": 776.1,
+      "end": 776.54,
+      "text": "Hipheiser."
+    },
+    {
+      "start": 776.88,
+      "end": 777.88,
+      "text": "Olha o tamaninho da isca."
+    },
+    {
+      "start": 778.64,
+      "end": 779.68,
+      "text": "Olha o tamanho do peixe, pessoal."
+    },
+    {
+      "start": 780.98,
+      "end": 781.48,
+      "text": "Vai que show."
+    },
+    {
+      "start": 782.87,
+      "end": 783.15,
+      "text": "Viu, né?"
+    },
+    {
+      "start": 784.81,
+      "end": 785.79,
+      "text": "Lindo demais, né?"
+    },
+    {
+      "start": 786.05,
+      "end": 786.83,
+      "text": "Show de bola."
+    },
+    {
+      "start": 787.35,
+      "end": 788.05,
+      "text": "É isso aí, pessoal."
+    },
+    {
+      "start": 788.75,
+      "end": 790.47,
+      "text": "Vem lá, não é inscrito, se inscreva no canal."
+    },
+    {
+      "start": 791.11,
+      "end": 792.37,
+      "text": "Olha mais dicas de pesca aí."
+    },
+    {
+      "start": 793.87,
+      "end": 797.82,
+      "text": "Então, nos abençoe a todos e todos com Deus."
+    },
+    {
+      "start": 798.42,
+      "end": 800.64,
+      "text": "Aqui é a Marina, Marina do Valdir."
+    },
+    {
+      "start": 801.4,
+      "end": 802.78,
+      "text": "Marina do Valdir aqui."
+    },
+    {
+      "start": 804.27,
+      "end": 805.39,
+      "text": "Então, Marina do Valdir."
+    },
+    {
+      "start": 805.39,
+      "end": 807.59,
+      "text": "Estamos saindo aqui."
+    },
+    {
+      "start": 808.53,
+      "end": 810.25,
+      "text": "Encerrando mais uma pescaria aqui."
+    },
+    {
+      "start": 811.39,
+      "end": 813.58,
+      "text": "Pescaria que é abençoado, né?"
+    },
+    {
+      "start": 814.48,
+      "end": 815.16,
+      "text": "É isso aí, pessoal."
+    },
+    {
+      "start": 815.64,
+      "end": 816.5,
+      "text": "Fiquem todos com Deus aí."
+    },
+    {
+      "start": 816.58,
+      "end": 817.38,
+      "text": "Deus abençoe a todos."
+    }
+  ],
+  "duracao_seg": 818.35,
+  "idioma_detectado": "pt"
+}

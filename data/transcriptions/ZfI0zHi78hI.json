@@ -1,0 +1,27 @@
+{
+  "texto": "João, o que nós temos dentro desse balde aí hoje? Galerinha, aqui nós estamos com um balde de ceva aqui Tem ração de coelho, tem milho e tem quirela Olha aí, vou fazer ela agora para nós jogar para dentro da água",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "João, o que nós temos dentro desse balde aí hoje?"
+    },
+    {
+      "start": 3.48,
+      "end": 6.28,
+      "text": "Galerinha, aqui nós estamos com um balde de ceva aqui"
+    },
+    {
+      "start": 6.28,
+      "end": 16.11,
+      "text": "Tem ração de coelho, tem milho e tem quirela"
+    },
+    {
+      "start": 16.11,
+      "end": 23.13,
+      "text": "Olha aí, vou fazer ela agora para nós jogar para dentro da água"
+    }
+  ],
+  "duracao_seg": 23.91,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "E aí galera, hoje a nossa pescaria é das duas iscas que eu mais gosto de ir para Jundiá. O figo de galinha e essa que não pode faltar nunca, o lambaria. Essa aqui, quando pegar, é sempre Jundiá grande. Então, essas minhas duas iscas preferidas para a pescaria de Jundiá. Falou? Um abraço a todos.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "E aí galera, hoje a nossa pescaria é das duas iscas que eu mais gosto de ir para Jundiá."
+    },
+    {
+      "start": 7.13,
+      "end": 12.43,
+      "text": "O figo de galinha e essa que não pode faltar nunca, o lambaria."
+    },
+    {
+      "start": 14.06,
+      "end": 18.1,
+      "text": "Essa aqui, quando pegar, é sempre Jundiá grande."
+    },
+    {
+      "start": 19.13,
+      "end": 22.91,
+      "text": "Então, essas minhas duas iscas preferidas para a pescaria de Jundiá."
+    },
+    {
+      "start": 24.32,
+      "end": 25.98,
+      "text": "Falou? Um abraço a todos."
+    }
+  ],
+  "duracao_seg": 26.57,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Já compramos o camarão já, tem uma porção de camarão do vem ali, do Lúcio. Agora é só pescar.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 4.9,
+      "text": "Já compramos o camarão já, tem uma porção de camarão do vem ali, do Lúcio."
+    },
+    {
+      "start": 6.31,
+      "end": 7.19,
+      "text": "Agora é só pescar."
+    }
+  ],
+  "duracao_seg": 11.83,
+  "idioma_detectado": "pt"
+}

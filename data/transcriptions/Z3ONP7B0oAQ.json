@@ -1,0 +1,17 @@
+{
+  "texto": "Se existe vida melhor eu não sei, se tem lugar mais bonito eu não vi. Também brotei nessa terra igual a mina na serra, meu lugar é aqui.",
+  "segmentos": [
+    {
+      "start": 1.52,
+      "end": 7.82,
+      "text": "Se existe vida melhor eu não sei, se tem lugar mais bonito eu não vi."
+    },
+    {
+      "start": 8.75,
+      "end": 13.75,
+      "text": "Também brotei nessa terra igual a mina na serra, meu lugar é aqui."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}
