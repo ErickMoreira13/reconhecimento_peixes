@@ -16,7 +16,7 @@ from pathlib import Path
 # ajeita path pro script achar src/ quando rodado direto do terminal
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src import config
+from src import ascii_art, config
 from src import ui_banners
 from src.extracao import gliner_client
 from src.extracao import qwen_extrator
@@ -152,6 +152,8 @@ def main():
     args = p.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
+    print(ascii_art.banner_projeto())
+    print(ascii_art.banner_pipeline("comparar gliner 2 vs 4 labels"))
     print(ui_banners.banner_gliner_labels())
 
     transcrs = lista_transcricoes(args.limit)
