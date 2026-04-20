@@ -1,0 +1,57 @@
+{
+  "texto": "Mais uma da série Aonde Pescar Nessas Férias Galera, essa aqui é a estrada do Palmital Entrando perto aqui onde fica o antigo zoológico, o Zambese Primeiro pontilhãozinho você vai ver aqui, ó, esse córrego Que leva a água aqui da Lagoa do Lessa Lá no fundo da Lagoa do Lessa, ó Atravessando a rua, ó, você vai ver aqui a Lagoa do Lessa ao fundo A entrada aqui é franqueada, você pode entrar, pescar tranquilo E é um lugar que tem Traíra, Jundiá, Cará Muito, muito bom",
+  "segmentos": [
+    {
+      "start": 1.14,
+      "end": 5.26,
+      "text": "Mais uma da série Aonde Pescar Nessas Férias"
+    },
+    {
+      "start": 5.26,
+      "end": 8.18,
+      "text": "Galera, essa aqui é a estrada do Palmital"
+    },
+    {
+      "start": 8.18,
+      "end": 11.94,
+      "text": "Entrando perto aqui onde fica o antigo zoológico, o Zambese"
+    },
+    {
+      "start": 11.94,
+      "end": 15.52,
+      "text": "Primeiro pontilhãozinho você vai ver aqui, ó, esse córrego"
+    },
+    {
+      "start": 15.52,
+      "end": 18.64,
+      "text": "Que leva a água aqui da Lagoa do Lessa"
+    },
+    {
+      "start": 18.64,
+      "end": 20.56,
+      "text": "Lá no fundo da Lagoa do Lessa, ó"
+    },
+    {
+      "start": 20.56,
+      "end": 24.73,
+      "text": "Atravessando a rua, ó, você vai ver aqui a Lagoa do Lessa ao fundo"
+    },
+    {
+      "start": 24.73,
+      "end": 30.56,
+      "text": "A entrada aqui é franqueada, você pode entrar, pescar tranquilo"
+    },
+    {
+      "start": 30.56,
+      "end": 34.75,
+      "text": "E é um lugar que tem Traíra, Jundiá, Cará"
+    },
+    {
+      "start": 34.75,
+      "end": 36.61,
+      "text": "Muito, muito bom"
+    }
+  ],
+  "duracao_seg": 39.13,
+  "idioma_detectado": "pt"
+}

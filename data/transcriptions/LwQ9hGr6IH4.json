@@ -1,0 +1,52 @@
+{
+  "texto": "Aí, peixão que saiu aqui no parque. Pra quem não sabe, aqui tem a esticadinha. Se você estiver pescando em qualquer lugar aqui do complexo, tanto no Tancão ou no Engorda, você pode vir pra cá depois, a partir das 18h até as 11h, fazer uma esticadinha aqui pra tancar mais uns peixinhos, né? Que a gente não aguenta pescar só de dia, quer pescar mais à noite. E aí, ó, os exemplares que tem aqui, que top!",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 3.05,
+      "text": "Aí, peixão que saiu aqui no parque."
+    },
+    {
+      "start": 3.69,
+      "end": 5.57,
+      "text": "Pra quem não sabe, aqui tem a esticadinha."
+    },
+    {
+      "start": 5.65,
+      "end": 8.43,
+      "text": "Se você estiver pescando em qualquer lugar aqui do complexo,"
+    },
+    {
+      "start": 8.49,
+      "end": 9.87,
+      "text": "tanto no Tancão ou no Engorda,"
+    },
+    {
+      "start": 10.23,
+      "end": 13.35,
+      "text": "você pode vir pra cá depois, a partir das 18h até as 11h,"
+    },
+    {
+      "start": 13.71,
+      "end": 17.61,
+      "text": "fazer uma esticadinha aqui pra tancar mais uns peixinhos, né?"
+    },
+    {
+      "start": 17.61,
+      "end": 19.17,
+      "text": "Que a gente não aguenta pescar só de dia,"
+    },
+    {
+      "start": 19.27,
+      "end": 20.27,
+      "text": "quer pescar mais à noite."
+    },
+    {
+      "start": 20.79,
+      "end": 22.99,
+      "text": "E aí, ó, os exemplares que tem aqui, que top!"
+    }
+  ],
+  "duracao_seg": 23.39,
+  "idioma_detectado": "pt"
+}

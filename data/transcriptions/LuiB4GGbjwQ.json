@@ -1,0 +1,37 @@
+{
+  "texto": "Agora, agora, agora, agora, agora! Segura, cara! Mas eu não sei! Tras da barra aqui de Rio Grande, filho! Foi bem na roupinha dele lá. Mas eu não sei se é isso.",
+  "segmentos": [
+    {
+      "start": 2.48,
+      "end": 4.48,
+      "text": "Agora, agora, agora, agora, agora!"
+    },
+    {
+      "start": 4.48,
+      "end": 7.18,
+      "text": "Segura, cara!"
+    },
+    {
+      "start": 7.18,
+      "end": 36.32,
+      "text": "Mas eu não sei!"
+    },
+    {
+      "start": 36.32,
+      "end": 51.14,
+      "text": "Tras da barra aqui de Rio Grande, filho!"
+    },
+    {
+      "start": 51.14,
+      "end": 64.75,
+      "text": "Foi bem na roupinha dele lá."
+    },
+    {
+      "start": 64.75,
+      "end": 68.03,
+      "text": "Mas eu não sei se é isso."
+    }
+  ],
+  "duracao_seg": 91.21,
+  "idioma_detectado": "pt"
+}

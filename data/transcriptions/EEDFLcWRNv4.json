@@ -1,0 +1,327 @@
+{
+  "texto": "E aí rapaziada, beleza? Estamos em um lugar diferente hoje aí, um lugar top. Vamos ver o que a gente pega aí, beleza? Vamos aí rapaziada. Olha galera, só os credão, né mano? Esse é show de bola. Tá chovendo aí, mas tá saindo uns tambilzão. Vai só minhoca, não quer minhoca. É minhoca? Tá feita, né? É uma baga ali. Eu consigo assim a água mais sujando, a baga não sai comendo mesmo. De noite, né? De noite para a receita. Acabou que fica pescando a baga à noite e para o sol. Tá feita? Tá. É, a mãe fez o bichão. Aí tá dando uns miudinhos, saindo uns miudinhos. Fala aí mãe, faz isso os lambari limpos e já vem comer já. É. Isso aí galera, só tambilzão criado. Olha, cair na água, cair na água já vem. Uhul, chove. Não vem pilápia, vem lambari. Uhul. Jogar e tirar. Ligar lá em casa, põe a cerveja para gelar que a gente vai dar frito. Já tá, imagina o bicho um braveu, né? Será? Vira. Piramboia. Jogar. Jogar. Jogar. Jogar. Pera aí. Aí rapaziada. Acabou de armar na minhocona. Faz quanto tempo que ele armou, irmão? Cinco minutos? Cinco minutos. Cinco minutos na minhoca. Sabiá aqui ó. Ele é o dono, o proprietário aqui da pousada que ele tá construindo aqui. Aí tem esse lagão aqui ó, maravilhoso. Ó. Tá ajeitando ainda, né? Nossa. Tá ajeitando. Tá ajeitando aí pra gente fazer um negócio ajeitado mesmo pro pessoal pescar à vontade aqui. Pescar e logo logo vai tá aberto o público. Tá fazendo, tem a piscina pronta, tá fazendo o banheiro ali. E o cara é gente boa. Falou, vai lá pescar pra vocês verem. Tem peixe pra caramba lá. Ele falou e ó, o cara conhece. Falou, quer ver? Eu vou pegar um bagre, vamos atrair pra vocês. Jogou cinco minutos. Aí ó, tá aí ó. É pequenininha, mas o cara cumpriu com a palavra. É isso aí. E não vai armar de novo. Vamos lá. Vamos lá rapaziada.",
+  "segmentos": [
+    {
+      "start": 5.01,
+      "end": 12.51,
+      "text": "E aí rapaziada, beleza? Estamos em um lugar diferente hoje aí, um lugar top."
+    },
+    {
+      "start": 13.66,
+      "end": 16.82,
+      "text": "Vamos ver o que a gente pega aí, beleza? Vamos aí rapaziada."
+    },
+    {
+      "start": 20.07,
+      "end": 27.97,
+      "text": "Olha galera, só os credão, né mano? Esse é show de bola."
+    },
+    {
+      "start": 29.16,
+      "end": 33.32,
+      "text": "Tá chovendo aí, mas tá saindo uns tambilzão."
+    },
+    {
+      "start": 33.32,
+      "end": 38.62,
+      "text": "Vai só minhoca, não quer minhoca."
+    },
+    {
+      "start": 38.62,
+      "end": 39.62,
+      "text": "É minhoca?"
+    },
+    {
+      "start": 39.62,
+      "end": 40.62,
+      "text": "Tá feita, né?"
+    },
+    {
+      "start": 40.62,
+      "end": 46.36,
+      "text": "É uma baga ali."
+    },
+    {
+      "start": 46.36,
+      "end": 49.36,
+      "text": "Eu consigo assim a água mais sujando, a baga não sai comendo mesmo."
+    },
+    {
+      "start": 49.36,
+      "end": 50.36,
+      "text": "De noite, né?"
+    },
+    {
+      "start": 50.36,
+      "end": 51.36,
+      "text": "De noite para a receita."
+    },
+    {
+      "start": 51.36,
+      "end": 54.84,
+      "text": "Acabou que fica pescando a baga à noite e para o sol."
+    },
+    {
+      "start": 54.84,
+      "end": 55.84,
+      "text": "Tá feita?"
+    },
+    {
+      "start": 55.84,
+      "end": 56.84,
+      "text": "Tá."
+    },
+    {
+      "start": 56.84,
+      "end": 58.84,
+      "text": "É, a mãe fez o bichão."
+    },
+    {
+      "start": 59.97,
+      "end": 64.09,
+      "text": "Aí tá dando uns miudinhos, saindo uns miudinhos."
+    },
+    {
+      "start": 64.09,
+      "end": 74.53,
+      "text": "Fala aí mãe, faz isso os lambari limpos e já vem comer já."
+    },
+    {
+      "start": 74.53,
+      "end": 84.42,
+      "text": "É."
+    },
+    {
+      "start": 84.42,
+      "end": 89.22,
+      "text": "Isso aí galera, só tambilzão criado."
+    },
+    {
+      "start": 89.22,
+      "end": 104.1,
+      "text": "Olha, cair na água, cair na água já vem."
+    },
+    {
+      "start": 104.1,
+      "end": 106.1,
+      "text": "Uhul, chove."
+    },
+    {
+      "start": 106.1,
+      "end": 118.31,
+      "text": "Não vem pilápia, vem lambari."
+    },
+    {
+      "start": 124.14,
+      "end": 125.14,
+      "text": "Uhul."
+    },
+    {
+      "start": 126.14,
+      "end": 131.38,
+      "text": "Jogar e tirar."
+    },
+    {
+      "start": 131.38,
+      "end": 139.8,
+      "text": "Ligar lá em casa, põe a cerveja para gelar que a gente vai dar frito."
+    },
+    {
+      "start": 139.8,
+      "end": 154.58,
+      "text": "Já tá, imagina o bicho um braveu, né?"
+    },
+    {
+      "start": 154.58,
+      "end": 173.47,
+      "text": "Será?"
+    },
+    {
+      "start": 173.47,
+      "end": 182.6,
+      "text": "Vira."
+    },
+    {
+      "start": 182.6,
+      "end": 185.94,
+      "text": "Piramboia."
+    },
+    {
+      "start": 185.94,
+      "end": 186.94,
+      "text": "Jogar."
+    },
+    {
+      "start": 186.94,
+      "end": 189.41,
+      "text": "Jogar."
+    },
+    {
+      "start": 189.41,
+      "end": 190.54,
+      "text": "Jogar."
+    },
+    {
+      "start": 190.54,
+      "end": 191.54,
+      "text": "Jogar."
+    },
+    {
+      "start": 191.54,
+      "end": 192.54,
+      "text": "Pera aí."
+    },
+    {
+      "start": 202.45,
+      "end": 203.45,
+      "text": "Aí rapaziada."
+    },
+    {
+      "start": 203.45,
+      "end": 206.83,
+      "text": "Acabou de armar na minhocona."
+    },
+    {
+      "start": 206.83,
+      "end": 209.73,
+      "text": "Faz quanto tempo que ele armou, irmão?"
+    },
+    {
+      "start": 209.73,
+      "end": 210.73,
+      "text": "Cinco minutos?"
+    },
+    {
+      "start": 210.73,
+      "end": 211.73,
+      "text": "Cinco minutos."
+    },
+    {
+      "start": 211.73,
+      "end": 212.73,
+      "text": "Cinco minutos na minhoca."
+    },
+    {
+      "start": 212.73,
+      "end": 213.73,
+      "text": "Sabiá aqui ó."
+    },
+    {
+      "start": 213.73,
+      "end": 218.73,
+      "text": "Ele é o dono, o proprietário aqui da pousada que ele tá construindo aqui."
+    },
+    {
+      "start": 219.73,
+      "end": 221.73,
+      "text": "Aí tem esse lagão aqui ó, maravilhoso."
+    },
+    {
+      "start": 221.73,
+      "end": 222.92,
+      "text": "Ó."
+    },
+    {
+      "start": 222.92,
+      "end": 223.92,
+      "text": "Tá ajeitando ainda, né?"
+    },
+    {
+      "start": 223.92,
+      "end": 224.92,
+      "text": "Nossa."
+    },
+    {
+      "start": 224.92,
+      "end": 225.92,
+      "text": "Tá ajeitando."
+    },
+    {
+      "start": 225.92,
+      "end": 228.92,
+      "text": "Tá ajeitando aí pra gente fazer um negócio ajeitado mesmo pro pessoal pescar à vontade"
+    },
+    {
+      "start": 228.92,
+      "end": 229.92,
+      "text": "aqui."
+    },
+    {
+      "start": 229.92,
+      "end": 231.92,
+      "text": "Pescar e logo logo vai tá aberto o público."
+    },
+    {
+      "start": 233.08,
+      "end": 236.08,
+      "text": "Tá fazendo, tem a piscina pronta, tá fazendo o banheiro ali."
+    },
+    {
+      "start": 236.08,
+      "end": 238.14,
+      "text": "E o cara é gente boa."
+    },
+    {
+      "start": 238.14,
+      "end": 239.14,
+      "text": "Falou, vai lá pescar pra vocês verem."
+    },
+    {
+      "start": 239.14,
+      "end": 241.14,
+      "text": "Tem peixe pra caramba lá."
+    },
+    {
+      "start": 241.14,
+      "end": 243.14,
+      "text": "Ele falou e ó, o cara conhece."
+    },
+    {
+      "start": 243.14,
+      "end": 244.14,
+      "text": "Falou, quer ver?"
+    },
+    {
+      "start": 244.14,
+      "end": 247.14,
+      "text": "Eu vou pegar um bagre, vamos atrair pra vocês."
+    },
+    {
+      "start": 247.14,
+      "end": 249.14,
+      "text": "Jogou cinco minutos."
+    },
+    {
+      "start": 249.14,
+      "end": 250.14,
+      "text": "Aí ó, tá aí ó."
+    },
+    {
+      "start": 250.14,
+      "end": 254.14,
+      "text": "É pequenininha, mas o cara cumpriu com a palavra."
+    },
+    {
+      "start": 254.14,
+      "end": 255.14,
+      "text": "É isso aí."
+    },
+    {
+      "start": 255.14,
+      "end": 256.14,
+      "text": "E não vai armar de novo."
+    },
+    {
+      "start": 256.14,
+      "end": 257.14,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 257.14,
+      "end": 258.14,
+      "text": "Vamos lá rapaziada."
+    }
+  ],
+  "duracao_seg": 268.49,
+  "idioma_detectado": "pt"
+}

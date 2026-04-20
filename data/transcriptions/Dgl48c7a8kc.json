@@ -1,0 +1,17 @@
+{
+  "texto": "E aí galera, ó, Atraírosauro, hein, tem bala de pegar de noite, soltar ela aqui, galera, o rio Atraíro aqui, é boa, lagoa na top.",
+  "segmentos": [
+    {
+      "start": 0.66,
+      "end": 10.99,
+      "text": "E aí galera, ó, Atraírosauro, hein, tem bala de pegar de noite, soltar ela aqui, galera,"
+    },
+    {
+      "start": 10.99,
+      "end": 26.52,
+      "text": "o rio Atraíro aqui, é boa, lagoa na top."
+    }
+  ],
+  "duracao_seg": 28.39,
+  "idioma_detectado": "pt"
+}

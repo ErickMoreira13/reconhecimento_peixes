@@ -1,0 +1,32 @@
+{
+  "texto": "Tá aqui, galera. 7,8 kg. Uma linha 0,40 kg. Guarde isso. Eu tenho uma linha aqui, ó. 0,30 kg. É 10 milímetros a menos que a outra, que é 0,40 kg. 0,30 kg. E ela aguenta quanto? 12,2 kg. Olha pra vocês verem. Que diferença que é. Na verdade, essa linha 0,40 kg era pra ser muito superior que a linha 0,30 kg. Mas não. Vocês estão vendo que a linha 0,30, ela aguenta quase o dobro, essa linha aqui, aguenta quase o dobro daquela linha 0,40.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 6.28,
+      "text": "Tá aqui, galera. 7,8 kg. Uma linha 0,40 kg. Guarde isso."
+    },
+    {
+      "start": 8.28,
+      "end": 16.33,
+      "text": "Eu tenho uma linha aqui, ó. 0,30 kg. É 10 milímetros a menos que a outra, que é 0,40 kg."
+    },
+    {
+      "start": 16.71,
+      "end": 23.31,
+      "text": "0,30 kg. E ela aguenta quanto? 12,2 kg. Olha pra vocês verem."
+    },
+    {
+      "start": 23.97,
+      "end": 31.08,
+      "text": "Que diferença que é. Na verdade, essa linha 0,40 kg era pra ser muito superior que a linha 0,30 kg."
+    },
+    {
+      "start": 31.62,
+      "end": 41.4,
+      "text": "Mas não. Vocês estão vendo que a linha 0,30, ela aguenta quase o dobro, essa linha aqui, aguenta quase o dobro daquela linha 0,40."
+    }
+  ],
+  "duracao_seg": 42.69,
+  "idioma_detectado": "pt"
+}

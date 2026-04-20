@@ -1,0 +1,22 @@
+{
+  "texto": "Tanto ver esses vídeos, eu acabei comprando com uma canetinha dessas aí também, ó Quer só ver se vai prestar isso aqui, olha que trem mais doido Carregando o porta-luva, ó",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.02,
+      "text": "Tanto ver esses vídeos, eu acabei comprando com uma canetinha dessas aí também, ó"
+    },
+    {
+      "start": 4.02,
+      "end": 8.15,
+      "text": "Quer só ver se vai prestar isso aqui, olha que trem mais doido"
+    },
+    {
+      "start": 8.15,
+      "end": 10.17,
+      "text": "Carregando o porta-luva, ó"
+    }
+  ],
+  "duracao_seg": 16.01,
+  "idioma_detectado": "pt"
+}

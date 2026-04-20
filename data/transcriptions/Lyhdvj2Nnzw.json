@@ -1,0 +1,27 @@
+{
+  "texto": "Conhecer eu lhe dou E viver do jeito que a gente quis Ela é meu equilíbrio emocional A tempestade e o final feliz",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 1.58,
+      "text": "Conhecer eu lhe dou"
+    },
+    {
+      "start": 1.58,
+      "end": 5.67,
+      "text": "E viver do jeito que a gente quis"
+    },
+    {
+      "start": 5.67,
+      "end": 9.11,
+      "text": "Ela é meu equilíbrio emocional"
+    },
+    {
+      "start": 9.11,
+      "end": 12.2,
+      "text": "A tempestade e o final feliz"
+    }
+  ],
+  "duracao_seg": 12.23,
+  "idioma_detectado": "pt"
+}

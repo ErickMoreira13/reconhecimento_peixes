@@ -1,0 +1,52 @@
+{
+  "texto": "Galera, olha aí ó, o boi aqui tá tudo embolado galera, um agarrado na outra Eu acho que foi as iscas vivas aí, ó, só as iscas galera Tô brincando galera, foi as iscas não, é as traíras mesmo que embolam os anzóis ali ó Tem umas 10 boi aqui embolados juntos aí Eu não sei quantas traíras tem né, mas de uma tem ó, já bateu outro aqui no anzol Só traíra bruta galera ó, só grandona, coisa linda galera Traíra amarela do brejo, ele tá puxando aqui ó, vai acompanhando aí galera, na puxada da traíra Olha os robôzinhos tão no carro, aqui é nossa especialidade, é a nossa área galera É a pescaria de traíra, aí ó, a gente galera usa muito isca vivo aqui galera",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.54,
+      "text": "Galera, olha aí ó, o boi aqui tá tudo embolado galera, um agarrado na outra"
+    },
+    {
+      "start": 5.54,
+      "end": 12.66,
+      "text": "Eu acho que foi as iscas vivas aí, ó, só as iscas galera"
+    },
+    {
+      "start": 12.66,
+      "end": 18.2,
+      "text": "Tô brincando galera, foi as iscas não, é as traíras mesmo que embolam os anzóis ali ó"
+    },
+    {
+      "start": 18.2,
+      "end": 22.39,
+      "text": "Tem umas 10 boi aqui embolados juntos aí"
+    },
+    {
+      "start": 22.39,
+      "end": 28.25,
+      "text": "Eu não sei quantas traíras tem né, mas de uma tem ó, já bateu outro aqui no anzol"
+    },
+    {
+      "start": 28.25,
+      "end": 35.96,
+      "text": "Só traíra bruta galera ó, só grandona, coisa linda galera"
+    },
+    {
+      "start": 35.96,
+      "end": 43.59,
+      "text": "Traíra amarela do brejo, ele tá puxando aqui ó, vai acompanhando aí galera, na puxada da traíra"
+    },
+    {
+      "start": 43.59,
+      "end": 49.91,
+      "text": "Olha os robôzinhos tão no carro, aqui é nossa especialidade, é a nossa área galera"
+    },
+    {
+      "start": 49.91,
+      "end": 59.31,
+      "text": "É a pescaria de traíra, aí ó, a gente galera usa muito isca vivo aqui galera"
+    }
+  ],
+  "duracao_seg": 59.97,
+  "idioma_detectado": "pt"
+}

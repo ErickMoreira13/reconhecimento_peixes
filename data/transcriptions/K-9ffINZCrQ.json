@@ -1,0 +1,17 @@
+{
+  "texto": "Marmelada, aqui é marmelada O que eu mais gosto desse tempo",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 8.16,
+      "text": "Marmelada, aqui é marmelada"
+    },
+    {
+      "start": 8.16,
+      "end": 23.44,
+      "text": "O que eu mais gosto desse tempo"
+    }
+  ],
+  "duracao_seg": 26.01,
+  "idioma_detectado": "pt"
+}

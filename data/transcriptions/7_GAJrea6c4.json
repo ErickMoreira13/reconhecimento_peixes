@@ -1,0 +1,47 @@
+{
+  "texto": "Arthur, olha o Arturzinho aí, olha a caixa, olha a estraga aí, pescaria de 12 horas no cascalho e a hibertioga noturna Olha, dia 11 para o dia 12 do 7 de 2025 Olha as neguinhas, botou a cara, espada e prejereva até de ó Olha, espada lá Foi boa, a vontade, igual o tio Marcola fala Pescaria boa, hein galera Cascado e o hibertioga, olha a olhada Bora que bora, operação Oceanfish Netum, a caixa é de 150 litros",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.03,
+      "text": "Arthur, olha o Arturzinho aí, olha a caixa, olha a estraga aí, pescaria de 12 horas no cascalho e a hibertioga noturna"
+    },
+    {
+      "start": 8.03,
+      "end": 14.1,
+      "text": "Olha, dia 11 para o dia 12 do 7 de 2025"
+    },
+    {
+      "start": 14.1,
+      "end": 19.54,
+      "text": "Olha as neguinhas, botou a cara, espada e prejereva até de ó"
+    },
+    {
+      "start": 19.54,
+      "end": 26.6,
+      "text": "Olha, espada lá"
+    },
+    {
+      "start": 26.6,
+      "end": 31.7,
+      "text": "Foi boa, a vontade, igual o tio Marcola fala"
+    },
+    {
+      "start": 31.7,
+      "end": 33.58,
+      "text": "Pescaria boa, hein galera"
+    },
+    {
+      "start": 33.58,
+      "end": 36.52,
+      "text": "Cascado e o hibertioga, olha a olhada"
+    },
+    {
+      "start": 37.26,
+      "end": 42.4,
+      "text": "Bora que bora, operação Oceanfish Netum, a caixa é de 150 litros"
+    }
+  ],
+  "duracao_seg": 42.81,
+  "idioma_detectado": "pt"
+}
