@@ -52,7 +52,10 @@ def main():
     print()
     ativas = sum(1 for r in rows if r["status"] == "ativa")
     satur = sum(1 for r in rows if r["status"] == "saturada")
-    print(f"  total: {len(rows)}  |  ativas: {ativas}  |  saturadas: {satur}")
+    total_txt = ascii_art.colore(f"total: {len(rows)}", ascii_art.CIANO_CLARO)
+    ativas_txt = ascii_art.colore(f"ativas: {ativas}", ascii_art.VERDE_CLARO)
+    satur_txt = ascii_art.colore(f"saturadas: {satur}", ascii_art.AMARELO_CLARO)
+    print(f"  {total_txt}  |  {ativas_txt}  |  {satur_txt}")
 
 
 if __name__ == "__main__":
