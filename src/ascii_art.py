@@ -132,3 +132,15 @@ ANZOL = r"""
 
 def separador(char: str = "~", largura: int = 60, cor: str = CIANO) -> str:
     return colore(char * largura, cor)
+
+
+def progress_bar(atual: int, total: int, largura: int = 30) -> str:
+    # barra de progresso simples pra nao precisar da rich quando nao quiser.
+    # formato: [####----] 50% (5/10)
+    if total <= 0:
+        return ""
+    pct = max(0.0, min(1.0, atual / total))
+    cheio = int(largura * pct)
+    vazio = largura - cheio
+    barra = "#" * cheio + "-" * vazio
+    return f"[{barra}] {int(pct*100)}% ({atual}/{total})"
