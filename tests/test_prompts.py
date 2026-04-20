@@ -56,3 +56,22 @@ def test_top_peixes_texto_sem_peixe():
 def test_top_peixes_limite_k():
     peixes = _top_peixes_por_bm25("pescamos tucunare tambaqui pacu dourado pirarucu piranha traira", k=3)
     assert len(peixes) <= 3
+
+
+def test_prompt_menciona_isca_vs_especie_alvo():
+    # fix 5: prompt tem que ensinar a distinguir isca de especie pescada
+    prompt = monta_prompt_extrator("teste", {"peixe": [], "bacia hidrografica": []})
+    p = prompt.lower()
+    # palavras chave que indicam a instrucao
+    assert "isca" in p
+    assert "camarao" in p or "piabao" in p  # menciona pelo menos uma isca tipica
+
+
+def test_prompt_menciona_ceva_exige_evidencia():
+    # fix 1: prompt deve deixar claro que tipo_ceva exige evidencia
+    prompt = monta_prompt_extrator("teste", {"peixe": [], "bacia hidrografica": []})
+    p = prompt.lower()
+    # palavras-chave da instrucao
+    assert "explicitamente" in p or "evidencia" in p
+    # deve mencionar pelo menos uma das keywords de ceva
+    assert any(kw in p for kw in ["cevar", "cevador", "cevando"])
