@@ -220,21 +220,19 @@ def test_rio_tolera_erro_whisper_leve():
     assert regras.rio_aparece_no_texto("Rio Iriri", "acampamento na beira do rio iriry")
 
 
-def test_regra_rejeita_rio_alucinado():
-    # integra com aplica_regras. evidencia bate no texto (rio) mas o valor
-    # extraido nao aparece, entao pega na regra de rio_aparece.
-    # uso "Rio Araguaia" em vez de "Rio Sao Francisco" pra evitar que o
-    # pos_filter dispare primeiro (Francisco ta na lista de nomes comuns)
+def test_regra_aceita_rio_mesmo_quando_nome_exato_nao_aparece():
+    # apos revert do fix 2, regra _passa_rio_aparece foi removida.
+    # rio "Rio Araguaia" ainda passa nas regras deterministicas se
+    # a evidencia bate no texto. o critic llm decide depois.
     c = CampoExtraido(
         valor="Rio Araguaia",
         confianca=0.9,
-        evidencia="no rio",  # evidencia curta que existe no texto
+        evidencia="no rio",  # smith_waterman passa
         modelo_usado="llama3.1:8b",
     )
     transc = "fala galera, pescaria em rondonia no rio madeira"
     v = regras.aplica_regras("rio", c, transc, {})
-    assert not v.aceito
-    assert v.tipo_rejeicao == "alucinacao_suspeita"
+    assert v.aceito
 
 
 def test_regra_aceita_rio_que_aparece_no_texto():
