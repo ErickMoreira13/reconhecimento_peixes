@@ -158,3 +158,11 @@ ou nos tres. testes cobrem todos.
   segfault no numpy de todo o app
 - **nao pre-carregar TODAS as .so do pacote nvidia-***: tem libnvblas
   junto. use o filtro de whitelist em `cuda_libs._eh_lib_permitida`
+- **retry de schema errado**: se o llm cospe campo com tipo errado
+  (list/str no lugar de envelope dict), o parse robusto corrige com
+  confianca=0. se `corrigidos` nao vazio, dispara 1 retry com feedback.
+  budget estrito: max 1 retry por video. telemetria em
+  `qwen_extrator.get_stats_retry()`
+- **chunking em video grande**: acima de 3000 palavras divide em chunks.
+  se TODOS os chunks retornam null, loga `[chunking-bug]` — provavel
+  estouro de contexto. ajustar MAX_PALAVRAS_SEM_CHUNKING pra menos
