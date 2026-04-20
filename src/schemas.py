@@ -6,6 +6,15 @@ from typing import Any, Literal
 # mantidas simples de proposito, sem frozen/slots/kw_only, essa coisa toda
 
 
+# SSOT dos campos do pipeline. antes essa lista aparecia hardcoded em 3+
+# funcoes do qwen_extrator + main.py, se algum dia adicionarmos um campo
+# novo precisava trocar todo lugar
+CAMPOS_PIPELINE = (
+    "estado", "municipio", "rio", "bacia",
+    "tipo_ceva", "grao", "especies", "observacoes",
+)
+
+
 # tipo_rejeicao: lista FINAL de razoes validas que o verificador pode usar
 # obs importante: NAO tem "valor_fora_gazetteer" aqui porque o vocabulario do projeto eh ABERTO
 # se o modelo capturar uma especie/bacia/rio/ceva/grao que nao ta no dict, a gente QUER saber
