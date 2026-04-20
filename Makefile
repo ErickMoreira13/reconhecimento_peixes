@@ -3,7 +3,7 @@
 PY := .venv/bin/python
 PYTEST := .venv/bin/pytest
 
-.PHONY: help setup check models status buscar harvester-loop baixar transcrever extrair verificar exportar dashboard tests test-fast test-cov lint analise benchmark comparar queries limpar reset
+.PHONY: help setup check models status buscar harvester-loop baixar transcrever extrair verificar exportar dashboard tests test-fast test-cov lint analise benchmark comparar queries limpar reset install-hooks
 
 help:
 	@echo "comandos disponiveis:"
@@ -104,6 +104,11 @@ test-cov:
 
 lint:
 	@$(PY) -m ruff check src/ tests/ 2>&1 || echo "ruff reportou issues acima"
+
+install-hooks:
+	@$(PY) -m pip install pre-commit
+	@.venv/bin/pre-commit install
+	@echo "pre-commit instalado. cada git commit vai rodar os hooks."
 
 analise:
 	@$(PY) scripts/analise_benchmark.py
