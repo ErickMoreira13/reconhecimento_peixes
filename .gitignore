@@ -25,7 +25,6 @@ build/
 
 # dados pesados
 data/raw_audio/
-data/transcriptions/
 data/mp4_cache/
 *.wav
 *.opus
@@ -33,14 +32,18 @@ data/mp4_cache/
 *.mp4
 *.m4a
 
+# transcriptions FICAM commitadas — sao o dataset do projeto
+# cada video vira 1 json com texto + segmentos temporais, ~30KB cada
+
 # resultados
 data/results/*.json
 data/results/*.csv
 
-# sqlite runtime
+# sqlite runtime - commitamos snapshots periodicos fora dessa regra via git add -f
 data/videos.db
 data/*.db
 data/*.db-journal
+!data/videos-snapshot-*.db
 
 # modelos baixados (whisper/gliner/ollama)
 models/
