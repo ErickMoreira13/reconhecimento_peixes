@@ -1,0 +1,87 @@
+{
+  "texto": "Jaque, qual que é a experiência com as minhocas? Boa? Muito boa, hein? Bacana pra caramba, rapaz. Vem só um pouquinho de minhoca pra começar. Olha o tanto. Olha que coisa linda. Mostra lá dentro. Olha aqui. Vieram 100 minhocas só. Olha o tanto. Pega aqui. Tá gostando do resultado, Jaque? Ótimo, maravilhoso. Olha. Olha.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 2.04,
+      "text": "Jaque, qual que é a experiência com as minhocas?"
+    },
+    {
+      "start": 2.14,
+      "end": 2.42,
+      "text": "Boa?"
+    },
+    {
+      "start": 2.88,
+      "end": 3.8,
+      "text": "Muito boa, hein?"
+    },
+    {
+      "start": 4.71,
+      "end": 6.31,
+      "text": "Bacana pra caramba, rapaz."
+    },
+    {
+      "start": 6.49,
+      "end": 9.03,
+      "text": "Vem só um pouquinho de minhoca pra começar."
+    },
+    {
+      "start": 9.91,
+      "end": 10.53,
+      "text": "Olha o tanto."
+    },
+    {
+      "start": 10.89,
+      "end": 12.19,
+      "text": "Olha que coisa linda."
+    },
+    {
+      "start": 12.43,
+      "end": 13.09,
+      "text": "Mostra lá dentro."
+    },
+    {
+      "start": 13.21,
+      "end": 13.57,
+      "text": "Olha aqui."
+    },
+    {
+      "start": 14.76,
+      "end": 16.38,
+      "text": "Vieram 100 minhocas só."
+    },
+    {
+      "start": 16.38,
+      "end": 18.12,
+      "text": "Olha o tanto."
+    },
+    {
+      "start": 18.14,
+      "end": 18.68,
+      "text": "Pega aqui."
+    },
+    {
+      "start": 22.92,
+      "end": 23.98,
+      "text": "Tá gostando do resultado, Jaque?"
+    },
+    {
+      "start": 24.3,
+      "end": 25.74,
+      "text": "Ótimo, maravilhoso."
+    },
+    {
+      "start": 26.2,
+      "end": 26.4,
+      "text": "Olha."
+    },
+    {
+      "start": 26.96,
+      "end": 27.18,
+      "text": "Olha."
+    }
+  ],
+  "duracao_seg": 29.93,
+  "idioma_detectado": "pt"
+}

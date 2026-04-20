@@ -1,0 +1,67 @@
+{
+  "texto": "Olha isso, o cara conseguiu encher a pança apenas com um pedaço de pão e uma peneira. Mas será que funciona mesmo? Eu vou testar isso agora. Como eu não tenho uma daquela, eu mesmo vou fazer a minha. Já faz tempo que não como piabas. Antes de sair daqui para ir em uma lagoa e no rio, eu já vou deixar o tempero pronto, porque tô botando fé que vai funcionar. Já peguei as iscas que será pão, então bora deixar de demora. E vamos lá adiantar que a minha barriga já está pedindo por piabas saborosas na farinha. Como eu já havia mencionado, iremos testar primeiro nesta lagoa e em seguida daqui iremos para um rio. A água daqui não mexe muito, mas eu acho melhor pôr o pão em um graveto para não ter que ficar movendo a peneira de um lugar para o outro toda hora.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.22,
+      "text": "Olha isso, o cara conseguiu encher a pança apenas com um pedaço de pão e uma peneira."
+    },
+    {
+      "start": 4.28,
+      "end": 5.5,
+      "text": "Mas será que funciona mesmo?"
+    },
+    {
+      "start": 5.62,
+      "end": 7.02,
+      "text": "Eu vou testar isso agora."
+    },
+    {
+      "start": 7.1,
+      "end": 9.8,
+      "text": "Como eu não tenho uma daquela, eu mesmo vou fazer a minha."
+    },
+    {
+      "start": 10.06,
+      "end": 11.94,
+      "text": "Já faz tempo que não como piabas."
+    },
+    {
+      "start": 12.24,
+      "end": 17.14,
+      "text": "Antes de sair daqui para ir em uma lagoa e no rio, eu já vou deixar o tempero pronto,"
+    },
+    {
+      "start": 17.28,
+      "end": 19.22,
+      "text": "porque tô botando fé que vai funcionar."
+    },
+    {
+      "start": 19.3,
+      "end": 22.34,
+      "text": "Já peguei as iscas que será pão, então bora deixar de demora."
+    },
+    {
+      "start": 22.42,
+      "end": 27.18,
+      "text": "E vamos lá adiantar que a minha barriga já está pedindo por piabas saborosas na farinha."
+    },
+    {
+      "start": 27.18,
+      "end": 32.64,
+      "text": "Como eu já havia mencionado, iremos testar primeiro nesta lagoa e em seguida daqui iremos para um rio."
+    },
+    {
+      "start": 32.74,
+      "end": 36.58,
+      "text": "A água daqui não mexe muito, mas eu acho melhor pôr o pão em um graveto"
+    },
+    {
+      "start": 36.58,
+      "end": 40.5,
+      "text": "para não ter que ficar movendo a peneira de um lugar para o outro toda hora."
+    }
+  ],
+  "duracao_seg": 40.77,
+  "idioma_detectado": "pt"
+}

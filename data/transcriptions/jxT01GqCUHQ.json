@@ -1,0 +1,32 @@
+{
+  "texto": "Aí turma, esse pé ao sul eu peguei assim, ó, faço assim, ó, pego a calabresa, ó, comecei ela pra tirar essa parte mais dura, ó, tá vendo? Aí eu faço assim, ó, um dedo, ó, de grossura, aí eu pego e corto, ó, um dedo de grossura, aí aqui, ó, faço um X, ó, tem que fazer em cima de alguma coisa pra não cortar a perna, né? Aqui, e aqui, ó, pronto, aí que bonitinho, foi um pedacinho desse, foi um pedacinho desse, aí turma, ó, vamos usar o moriguinho número 5, castoado duplo, Isso aqui, ó, pode pegar a agulha ou pode pegar o próprio castor, ó, ó, a gente faz assim, ó, pronto, desse jeito, ó, ó, como é que fica, peguei o pé ao sul, nessa isquinha, ó, que top Não tem segredo, né, mosquita, isquinha tradicional, cheirosa, cheirosa, top mesmo, aí que top",
+  "segmentos": [
+    {
+      "start": 0.58,
+      "end": 8.7,
+      "text": "Aí turma, esse pé ao sul eu peguei assim, ó, faço assim, ó, pego a calabresa, ó, comecei ela pra tirar essa parte mais dura, ó, tá vendo?"
+    },
+    {
+      "start": 9.53,
+      "end": 21.12,
+      "text": "Aí eu faço assim, ó, um dedo, ó, de grossura, aí eu pego e corto, ó, um dedo de grossura, aí aqui, ó, faço um X, ó, tem que fazer em cima de alguma coisa pra não cortar a perna, né?"
+    },
+    {
+      "start": 21.84,
+      "end": 32.09,
+      "text": "Aqui, e aqui, ó, pronto, aí que bonitinho, foi um pedacinho desse, foi um pedacinho desse, aí turma, ó, vamos usar o moriguinho número 5, castoado duplo,"
+    },
+    {
+      "start": 32.27,
+      "end": 49.03,
+      "text": "Isso aqui, ó, pode pegar a agulha ou pode pegar o próprio castor, ó, ó, a gente faz assim, ó, pronto, desse jeito, ó, ó, como é que fica, peguei o pé ao sul, nessa isquinha, ó, que top"
+    },
+    {
+      "start": 49.03,
+      "end": 55.47,
+      "text": "Não tem segredo, né, mosquita, isquinha tradicional, cheirosa, cheirosa, top mesmo, aí que top"
+    }
+  ],
+  "duracao_seg": 55.83,
+  "idioma_detectado": "pt"
+}

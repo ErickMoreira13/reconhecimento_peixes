@@ -1,0 +1,37 @@
+{
+  "texto": "A minhoca de praia é uma isca bastante eficiente para a pesca de qualquer peixe que nade próximo à praia. Ela é encontrada na maré baixa e a técnica para capturá-la consiste em colocar dentro de um saco vários pedaços de peixe, ou apenas um peixe como no vídeo. Este saco precisa ser esfregado na areia ou esfregando o peixe, assim o cheiro forte do peixe vai atrair a atenção das minhocas. Neste momento, deve-se segurá-la com a ponta dos dedos e puxá-la lentamente com cuidado, para não partir a isca ou a minhoca no meio. A minhoca de praia mede aproximadamente 1 metro de comprimento, mas a parte utilizada como isca é da cabeça até o meio do corpo. Muito bem, agora você está pronto para pegar as minhocas de praia.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "A minhoca de praia é uma isca bastante eficiente para a pesca de qualquer peixe que nade próximo à praia."
+    },
+    {
+      "start": 5.56,
+      "end": 13.86,
+      "text": "Ela é encontrada na maré baixa e a técnica para capturá-la consiste em colocar dentro de um saco vários pedaços de peixe, ou apenas um peixe como no vídeo."
+    },
+    {
+      "start": 13.98,
+      "end": 20.68,
+      "text": "Este saco precisa ser esfregado na areia ou esfregando o peixe, assim o cheiro forte do peixe vai atrair a atenção das minhocas."
+    },
+    {
+      "start": 20.78,
+      "end": 27.86,
+      "text": "Neste momento, deve-se segurá-la com a ponta dos dedos e puxá-la lentamente com cuidado, para não partir a isca ou a minhoca no meio."
+    },
+    {
+      "start": 27.86,
+      "end": 34.46,
+      "text": "A minhoca de praia mede aproximadamente 1 metro de comprimento, mas a parte utilizada como isca é da cabeça até o meio do corpo."
+    },
+    {
+      "start": 34.62,
+      "end": 37.54,
+      "text": "Muito bem, agora você está pronto para pegar as minhocas de praia."
+    }
+  ],
+  "duracao_seg": 38.29,
+  "idioma_detectado": "pt"
+}

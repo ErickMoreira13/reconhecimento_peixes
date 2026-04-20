@@ -1,0 +1,47 @@
+{
+  "texto": "dia 25 olha aí graças a Deus dia de Natal obrigado senhor mais uma sacadinha e a benção de Deus e aí tá demorando",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 2.31,
+      "text": "dia 25"
+    },
+    {
+      "start": 2.31,
+      "end": 4.94,
+      "text": "olha aí graças a Deus"
+    },
+    {
+      "start": 4.94,
+      "end": 6.16,
+      "text": "dia de Natal"
+    },
+    {
+      "start": 6.16,
+      "end": 9.75,
+      "text": "obrigado senhor"
+    },
+    {
+      "start": 9.75,
+      "end": 12.7,
+      "text": "mais uma sacadinha"
+    },
+    {
+      "start": 12.7,
+      "end": 24.07,
+      "text": "e a benção de Deus"
+    },
+    {
+      "start": 24.07,
+      "end": 27.74,
+      "text": "e aí"
+    },
+    {
+      "start": 27.74,
+      "end": 31.3,
+      "text": "tá demorando"
+    }
+  ],
+  "duracao_seg": 58.83,
+  "idioma_detectado": "pt"
+}

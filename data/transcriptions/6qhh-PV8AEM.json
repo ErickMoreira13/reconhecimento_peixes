@@ -1,0 +1,77 @@
+{
+  "texto": "Só pra lavar a tarrafa hoje. O Fins é tão grande. Oi, mãe, olha aqui, ó. Você pegou ainda, mano. Ih, só porque eu tava lavar a tarrafa. Só porque eu tava lavar a tarrafa, né? Já pegou ainda, ó. E é grandona, viu? Diabo no carro. Olha o tanto de espelho. Olha aí, mano. Como é que pôde, mano? Tava só lavar a tarrafa ainda. Eu venho ainda.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "Só pra lavar a tarrafa hoje."
+    },
+    {
+      "start": 5.25,
+      "end": 6.95,
+      "text": "O Fins é tão grande."
+    },
+    {
+      "start": 9.19,
+      "end": 9.91,
+      "text": "Oi, mãe, olha aqui, ó."
+    },
+    {
+      "start": 10.39,
+      "end": 11.37,
+      "text": "Você pegou ainda, mano."
+    },
+    {
+      "start": 14.98,
+      "end": 16.98,
+      "text": "Ih, só porque eu tava lavar a tarrafa."
+    },
+    {
+      "start": 17.26,
+      "end": 19.14,
+      "text": "Só porque eu tava lavar a tarrafa, né?"
+    },
+    {
+      "start": 20.5,
+      "end": 21.58,
+      "text": "Já pegou ainda, ó."
+    },
+    {
+      "start": 23.27,
+      "end": 25.09,
+      "text": "E é grandona, viu?"
+    },
+    {
+      "start": 25.21,
+      "end": 25.97,
+      "text": "Diabo no carro."
+    },
+    {
+      "start": 26.63,
+      "end": 27.87,
+      "text": "Olha o tanto de espelho."
+    },
+    {
+      "start": 27.93,
+      "end": 28.73,
+      "text": "Olha aí, mano."
+    },
+    {
+      "start": 29.84,
+      "end": 30.76,
+      "text": "Como é que pôde, mano?"
+    },
+    {
+      "start": 31.92,
+      "end": 33.12,
+      "text": "Tava só lavar a tarrafa ainda."
+    },
+    {
+      "start": 33.32,
+      "end": 33.88,
+      "text": "Eu venho ainda."
+    }
+  ],
+  "duracao_seg": 36.31,
+  "idioma_detectado": "pt"
+}

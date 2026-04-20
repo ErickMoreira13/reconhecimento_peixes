@@ -1,0 +1,17 @@
+{
+  "texto": "Aqui ó, Sorginho, dá uma olhadinha, os bitelos, só bitelão, só bitelão, curada a balança, eu acho que vai empatar louco, coa, 3,250, 2,950, não acredito, pessoal pra vocês não ver, ó, aqui ó, pra vocês pensarem que não é o mesmo, ó, dois baldes, ó, pesa lá, ali ó, os dois baldes, foi daqui, ó, os dois baldes, ó, aqui ó, 2,950, pesa o outro aqui agora,",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 51.11,
+      "text": "Aqui ó, Sorginho, dá uma olhadinha, os bitelos, só bitelão, só bitelão, curada a balança, eu acho que vai empatar louco, coa, 3,250, 2,950, não acredito, pessoal pra vocês não ver, ó, aqui ó, pra vocês pensarem que não é o mesmo, ó, dois baldes, ó, pesa lá, ali ó, os dois baldes,"
+    },
+    {
+      "start": 51.11,
+      "end": 58.73,
+      "text": "foi daqui, ó, os dois baldes, ó, aqui ó, 2,950, pesa o outro aqui agora,"
+    }
+  ],
+  "duracao_seg": 58.71,
+  "idioma_detectado": "pt"
+}

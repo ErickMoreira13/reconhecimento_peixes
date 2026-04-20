@@ -1,0 +1,32 @@
+{
+  "texto": "meu camarão o meu camarão tá vivo ó vou mostrar aqui também aqui ó e se meter essa partidinha dura que eu vou fazer ó ficar por aqui a serrilha para o lado para não arrebentar a escada o que eu não posso pegar nessa partidinha aqui pretinho aqui que é o cérebro dele eu vou matar quem está vizinho quanto para pescar para arrebentar",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.79,
+      "text": "meu camarão o meu camarão tá vivo ó vou mostrar aqui também aqui"
+    },
+    {
+      "start": 7.79,
+      "end": 16.14,
+      "text": "ó e se meter essa partidinha dura que eu vou fazer ó ficar por aqui a serrilha"
+    },
+    {
+      "start": 16.14,
+      "end": 20.04,
+      "text": "para o lado para não arrebentar a escada o que eu não posso pegar nessa"
+    },
+    {
+      "start": 20.04,
+      "end": 24.84,
+      "text": "partidinha aqui pretinho aqui que é o cérebro dele eu vou matar quem está"
+    },
+    {
+      "start": 24.84,
+      "end": 29.54,
+      "text": "vizinho quanto para pescar para arrebentar"
+    }
+  ],
+  "duracao_seg": 28.19,
+  "idioma_detectado": "pt"
+}

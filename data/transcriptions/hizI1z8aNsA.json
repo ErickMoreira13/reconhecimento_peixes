@@ -1,0 +1,207 @@
+{
+  "texto": "Ó, guri, vamos fazer nossa janta hoje, né? Ó! Olha, rapaz! Luxo! Só um pouco de óleo, só para fritar essas piabas mesmo. Vamos aguardar a bicha esquentar e vamos fritar nossas piabinhas. Vamos ver se o óleo esquentou, né, garoto? Será? Vamos colocar essa vítima primeiro. Ó! Tá bom? Aqui acho que tá, hein? Tá frio, vamos aguardar mais um pouco. Agora esquentou, meu filho. Agora vai, ó. Olha! Vamos tomar cuidado que ninguém brinca com óleo quente, viu? Óleo quente não é brincadeira, ó. Cuidado! Piabinha e o óleo quente! Ô, papão! Olha só, rapaz! Não, não, menino! Vamos aguardar o resultado! Deu ponto, garoto. Vamos virar esse negócio aqui que você não queima. Olha! Tem que virar tudo de uma vez, ó. Ó! Moleque bruto, menino! No ponto, meu filho, ó! Ô, rapaz! Vamos tirar senão passa do ponto. Olha, rapaz! Que paçoca de piaba arrumada, ó! Hum! Tem que jogar uma farinhazinha aí, ó! Passar para dentro, garoto! Que paçoca de piaba arrumada, ó! Vamos lá! Vamos lá! Vamos lá! Vamos lá!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.26,
+      "text": "Ó, guri, vamos fazer nossa janta hoje, né?"
+    },
+    {
+      "start": 3.26,
+      "end": 4.04,
+      "text": "Ó!"
+    },
+    {
+      "start": 4.04,
+      "end": 5.54,
+      "text": "Olha, rapaz!"
+    },
+    {
+      "start": 5.54,
+      "end": 9.79,
+      "text": "Luxo!"
+    },
+    {
+      "start": 9.79,
+      "end": 13.09,
+      "text": "Só um pouco de óleo, só para fritar essas piabas mesmo."
+    },
+    {
+      "start": 13.09,
+      "end": 17.69,
+      "text": "Vamos aguardar a bicha esquentar e vamos fritar nossas piabinhas."
+    },
+    {
+      "start": 17.69,
+      "end": 19.69,
+      "text": "Vamos ver se o óleo esquentou, né, garoto?"
+    },
+    {
+      "start": 19.69,
+      "end": 20.91,
+      "text": "Será?"
+    },
+    {
+      "start": 20.91,
+      "end": 22.81,
+      "text": "Vamos colocar essa vítima primeiro."
+    },
+    {
+      "start": 22.81,
+      "end": 26.33,
+      "text": "Ó!"
+    },
+    {
+      "start": 26.33,
+      "end": 27.33,
+      "text": "Tá bom?"
+    },
+    {
+      "start": 27.33,
+      "end": 28.93,
+      "text": "Aqui acho que tá, hein?"
+    },
+    {
+      "start": 28.93,
+      "end": 30.93,
+      "text": "Tá frio, vamos aguardar mais um pouco."
+    },
+    {
+      "start": 30.93,
+      "end": 33.53,
+      "text": "Agora esquentou, meu filho. Agora vai, ó."
+    },
+    {
+      "start": 33.53,
+      "end": 34.53,
+      "text": "Olha!"
+    },
+    {
+      "start": 34.53,
+      "end": 37.8,
+      "text": "Vamos tomar cuidado que ninguém brinca com óleo quente, viu?"
+    },
+    {
+      "start": 37.8,
+      "end": 39.8,
+      "text": "Óleo quente não é brincadeira, ó. Cuidado!"
+    },
+    {
+      "start": 39.8,
+      "end": 43.09,
+      "text": "Piabinha e o óleo quente!"
+    },
+    {
+      "start": 43.09,
+      "end": 47.78,
+      "text": "Ô, papão!"
+    },
+    {
+      "start": 47.78,
+      "end": 52.69,
+      "text": "Olha só, rapaz!"
+    },
+    {
+      "start": 52.69,
+      "end": 54.69,
+      "text": "Não, não, menino!"
+    },
+    {
+      "start": 54.69,
+      "end": 59.99,
+      "text": "Vamos aguardar o resultado!"
+    },
+    {
+      "start": 59.99,
+      "end": 62.91,
+      "text": "Deu ponto, garoto. Vamos virar esse negócio aqui que você não queima."
+    },
+    {
+      "start": 62.91,
+      "end": 64.21,
+      "text": "Olha!"
+    },
+    {
+      "start": 64.21,
+      "end": 67.04,
+      "text": "Tem que virar tudo de uma vez, ó."
+    },
+    {
+      "start": 67.04,
+      "end": 68.04,
+      "text": "Ó!"
+    },
+    {
+      "start": 68.04,
+      "end": 71.06,
+      "text": "Moleque bruto, menino!"
+    },
+    {
+      "start": 71.06,
+      "end": 73.12,
+      "text": "No ponto, meu filho, ó!"
+    },
+    {
+      "start": 73.12,
+      "end": 74.92,
+      "text": "Ô, rapaz!"
+    },
+    {
+      "start": 74.92,
+      "end": 78.06,
+      "text": "Vamos tirar senão passa do ponto."
+    },
+    {
+      "start": 78.06,
+      "end": 79.06,
+      "text": "Olha, rapaz!"
+    },
+    {
+      "start": 79.06,
+      "end": 81.56,
+      "text": "Que paçoca de piaba arrumada, ó!"
+    },
+    {
+      "start": 81.56,
+      "end": 83.86,
+      "text": "Hum!"
+    },
+    {
+      "start": 83.86,
+      "end": 85.86,
+      "text": "Tem que jogar uma farinhazinha aí, ó!"
+    },
+    {
+      "start": 85.86,
+      "end": 87.86,
+      "text": "Passar para dentro, garoto!"
+    },
+    {
+      "start": 87.86,
+      "end": 89.0,
+      "text": "Que paçoca de piaba arrumada, ó!"
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "text": "Vamos lá!"
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "text": "Vamos lá!"
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "text": "Vamos lá!"
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "text": "Vamos lá!"
+    }
+  ],
+  "duracao_seg": 88.19,
+  "idioma_detectado": "pt"
+}

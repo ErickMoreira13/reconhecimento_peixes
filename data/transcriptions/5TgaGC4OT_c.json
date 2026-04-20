@@ -1,0 +1,42 @@
+{
+  "texto": "A natureza linda que meu Deus assim criou O rio que corre mãos pra uma beleza do Senhor Eu ouço uma canção de manhãzinha louvar É o sabiá do campo que a Deus veio exaltar No alto de uma agorinha eu vejo um João de Barque Perfeita criação que o meu Deus assim criou A natureza é bela e nela muito há de ser",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 6.1,
+      "text": "A natureza linda que meu Deus assim criou"
+    },
+    {
+      "start": 6.1,
+      "end": 11.75,
+      "text": "O rio que corre mãos pra uma beleza do Senhor"
+    },
+    {
+      "start": 11.75,
+      "end": 17.65,
+      "text": "Eu ouço uma canção de manhãzinha louvar"
+    },
+    {
+      "start": 17.65,
+      "end": 24.32,
+      "text": "É o sabiá do campo que a Deus veio exaltar"
+    },
+    {
+      "start": 24.32,
+      "end": 33.42,
+      "text": "No alto de uma agorinha eu vejo um João de Barque"
+    },
+    {
+      "start": 33.42,
+      "end": 38.92,
+      "text": "Perfeita criação que o meu Deus assim criou"
+    },
+    {
+      "start": 38.92,
+      "end": 44.19,
+      "text": "A natureza é bela e nela muito há de ser"
+    }
+  ],
+  "duracao_seg": 44.21,
+  "idioma_detectado": "pt"
+}

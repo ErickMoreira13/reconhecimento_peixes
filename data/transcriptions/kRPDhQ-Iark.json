@@ -1,0 +1,52 @@
+{
+  "texto": "Salve meus primos, me desafiaram a pescar um camarão gigante no rio Icaraú E hoje eu vim aqui pescar o lendário da pata azul E olha essa monstra que nosso primo pegou Ele já estava todo feliz achando que ia comer um guisado de arraia, mas não foi dessa vez Desafio concluído meus primos, agora é só puxar o bruto para cima Ainda tem gente que não acredita e acha que isso é fake Me desafiaram a pegar um, como é o nome desse rio aqui? Caraú, me chamaram aqui para pegar um camarão no Icaraú Já está aqui o camarão",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 5.5,
+      "text": "Salve meus primos, me desafiaram a pescar um camarão gigante no rio Icaraú"
+    },
+    {
+      "start": 5.5,
+      "end": 8.6,
+      "text": "E hoje eu vim aqui pescar o lendário da pata azul"
+    },
+    {
+      "start": 8.6,
+      "end": 13.79,
+      "text": "E olha essa monstra que nosso primo pegou"
+    },
+    {
+      "start": 13.79,
+      "end": 18.55,
+      "text": "Ele já estava todo feliz achando que ia comer um guisado de arraia, mas não foi dessa vez"
+    },
+    {
+      "start": 18.55,
+      "end": 29.3,
+      "text": "Desafio concluído meus primos, agora é só puxar o bruto para cima"
+    },
+    {
+      "start": 29.3,
+      "end": 37.6,
+      "text": "Ainda tem gente que não acredita e acha que isso é fake"
+    },
+    {
+      "start": 37.6,
+      "end": 52.32,
+      "text": "Me desafiaram a pegar um, como é o nome desse rio aqui?"
+    },
+    {
+      "start": 52.32,
+      "end": 57.36,
+      "text": "Caraú, me chamaram aqui para pegar um camarão no Icaraú"
+    },
+    {
+      "start": 57.36,
+      "end": 59.36,
+      "text": "Já está aqui o camarão"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Se você enfiar um graveto no chão e esfregar uma madeira em cima dele, várias minhocas começarão a ir na sua direção. Porém, apesar de parecer bizarro, existe uma explicação bem curiosa para isso. Pois as vibrações causadas no graveto faz com que as minhocas acreditem que começou a chover. E desse modo, decidem subir até a superfície em busca de um solo mais úmido.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.02,
+      "text": "Se você enfiar um graveto no chão e esfregar uma madeira em cima dele, várias minhocas começarão a ir na sua direção."
+    },
+    {
+      "start": 6.1,
+      "end": 10.16,
+      "text": "Porém, apesar de parecer bizarro, existe uma explicação bem curiosa para isso."
+    },
+    {
+      "start": 10.2,
+      "end": 14.92,
+      "text": "Pois as vibrações causadas no graveto faz com que as minhocas acreditem que começou a chover."
+    },
+    {
+      "start": 14.96,
+      "end": 19.08,
+      "text": "E desse modo, decidem subir até a superfície em busca de um solo mais úmido."
+    }
+  ],
+  "duracao_seg": 19.31,
+  "idioma_detectado": "pt"
+}

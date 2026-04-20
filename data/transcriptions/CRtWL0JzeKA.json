@@ -1,0 +1,977 @@
+{
+  "texto": "Pegou um coração de galinha, ó. Corta ele na metade aqui, ó. Pegou? Aí, ó. Quem tá aí? Rapaz, as bichas estão aqui, tão, pai. Tá infestado até aqui pra cima. Tá fundo aqui, pai? Ó, já tá batendo, já. Ó. Aí, escapou, rapaz. E tem muita, tá? O córrego tá infestado nelas. Ô carne, pai. Pegou. Ó lá, a boinha. É só bater, ó. Só bater, ó. Ih, caiu. É, dá pra fazer de isca, pai. Vai carregar. Ó, ó, ó, ó, ó. Nossa senhora. Que bit... Ah, levou pra debaixo do toco, rapaz. É uma vara de bambu isso, né, não? Aqui, ó. Botei um anzal menor com minhoca. Elas estão roubando muito aqui com um anzal maior. Rapaz, tá cheio de... Ó, já tá carregando, ó. Já descarregando. Ah, filha da mãe. Aí, ó. Agora eu peguei. Olha aí. Ela vai virar tudo fritinho, ó. Tá lotado. Isso aqui tem que tomar cuidado, hein. Mais um pedacinho de minhoca aqui. Vou andar mais pra lá pra ver. Esse aqui é um pedaço maior. Vou descer aqui, ó. Andar aqui debaixo. Que capaz de pegar uma, mas, ó. Corredor. Ó. Ó, ó, ó, ó. Aí, cará. Cará bonita, diferente essa, pai. Ó o rabo dela. Todo picotado pelas piranhas, pai. É tilápia isso. Não é cará não, né? Parece uma tilápia. É. É tilápia. Tá pequena. Vou soltar ela. Aqui, ó. Olha o lugar dela, ó. Olha o tamanho. Dessa piranha aqui, ó. Aqui, ó. Tirar o filé da piranha pra fazer a isca dela. Filézinho mesmo. Piranha pequena. Aqui, ó. Pedacinho, ó. Filézinho. Vamos usar ozinho de lambaria. Ela tá com empate de aço. Filézinho de piranha. Vou jogar aqui. Agora, velho. Deixa ela comer bem. Aí. Tô falando. Aí, ó. Filézinho de piranha. Falei que vinha. O bicho tá cheio. Tá lotado. No festado dela. Aqui, ó. Com a mesma isca, hein. Varinha de bambu, ó. Pescaria hoje é 100% caipira. Vamos lá. Rapaz, aqui tá até fundo, ó. Aqui tá até fundo. Ó, já tá levando, ó. Já tá levando. Só bateu na água. Nem desceu. Vou deixar ela carregar. Vou deixar ela carregar. Ó, ó. Ó. Falei? Não falei? É só bater na água. A vermelheira. Tava pescando ali, ó. Água muito parada. Muita piranha. Vou atravessar aqui. Tá fundando aqui. Tá vendo, ó. Aquelas caídinhas de água ali. Ali deve ter um lambareio bonito. Vamos lá, ó. Tá vendo? Ali, ó. Aqui tem uns poços bons pra lambareio, hein. Ó. Essa caídinha de água aqui, ó. Água corrente assim, ó. É muita piaba. Quer ver? Só bater a minhoca aqui, quer ver, ó. Vamos ver se aqui tem lambareio aqui, ó. Nossa. Mô. Piranha. Rapaz, que arrancada, bicho. Peixe briga mais aqui. Opa. Tá batendo aí, ó. Ah, rapaz. Desgramado da piranha. Quero lambareio, meu filho. Vamos embora. Vou jogar mais pra... Pra fora aqui, pra ver. Aí, é ele que eu quero, ó. Aqui, ó. Vou dar uma jogada mais... Ali, ó. Naquele lugar que tá mais estreito. Mas ele tá raso. Vou tentar aqui. Quer ver? Vamos ali mais pra cima aqui, ó. Vou tentar aqui, ó. Se fosse mais fundo aqui, ó. Elas tão atacando tudo. Fica um monte de peixinho beliscando o pé. Quer ver? Ó. Vendo aqui. Só jogar aqui, ó. Ó. Ó os peixinhos. Ó os peixinhos. Ó. Ó o tanto de peixinho. Opa. Ó, o beliscou lá, hein. Opa. Aí, ó. Lambarizão aí, ó. Aí sim, hein. Ó o bitela aí, ó. Isso aqui dá um frito. Ajeitar a minhoca aqui, ó. Vamos lá. Vamos ali. Ó, ó, ó. Ó, ó. Ai, soltou. Rapaz, esse era grande. Vamos subir. Subir pra lá. Já parou, velho? Será que é que pega? Tá raso, não? Ó. Ó o trem. O trem de ferro passando ali. Depois da pescaria, na roça é assim, ó. Polenta, arrozinho. Isso aqui é o quê, tio? Galinhola. Galinhola caipira, ó. Galinha d'angola, não sei como é que chama. O suco de acerola aqui, ó. É? Será que vai prestar? Arroba, tá? Arroba. Arroba. Arroba. Arroba.",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 2.32,
+      "text": "Pegou um coração de galinha, ó."
+    },
+    {
+      "start": 2.68,
+      "end": 6.49,
+      "text": "Corta ele na metade aqui, ó."
+    },
+    {
+      "start": 35.8,
+      "end": 36.24,
+      "text": "Pegou?"
+    },
+    {
+      "start": 36.8,
+      "end": 37.26,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 37.6,
+      "end": 38.2,
+      "text": "Quem tá aí?"
+    },
+    {
+      "start": 39.64,
+      "end": 41.3,
+      "text": "Rapaz, as bichas estão aqui, tão, pai."
+    },
+    {
+      "start": 42.46,
+      "end": 44.48,
+      "text": "Tá infestado até aqui pra cima."
+    },
+    {
+      "start": 45.76,
+      "end": 46.64,
+      "text": "Tá fundo aqui, pai?"
+    },
+    {
+      "start": 47.1,
+      "end": 58.01,
+      "text": "Ó, já tá batendo, já."
+    },
+    {
+      "start": 58.67,
+      "end": 58.91,
+      "text": "Ó."
+    },
+    {
+      "start": 59.05,
+      "end": 60.55,
+      "text": "Aí, escapou, rapaz."
+    },
+    {
+      "start": 61.76,
+      "end": 62.76,
+      "text": "E tem muita, tá?"
+    },
+    {
+      "start": 64.65,
+      "end": 67.05,
+      "text": "O córrego tá infestado nelas."
+    },
+    {
+      "start": 67.78,
+      "end": 68.76,
+      "text": "Ô carne, pai."
+    },
+    {
+      "start": 77.94,
+      "end": 78.34,
+      "text": "Pegou."
+    },
+    {
+      "start": 78.76,
+      "end": 80.64,
+      "text": "Ó lá, a boinha."
+    },
+    {
+      "start": 80.8,
+      "end": 81.58,
+      "text": "É só bater, ó."
+    },
+    {
+      "start": 81.58,
+      "end": 83.47,
+      "text": "Só bater, ó."
+    },
+    {
+      "start": 84.58,
+      "end": 85.24,
+      "text": "Ih, caiu."
+    },
+    {
+      "start": 86.52,
+      "end": 87.68,
+      "text": "É, dá pra fazer de isca, pai."
+    },
+    {
+      "start": 88.02,
+      "end": 88.96,
+      "text": "Vai carregar."
+    },
+    {
+      "start": 89.16,
+      "end": 89.88,
+      "text": "Ó, ó, ó, ó, ó."
+    },
+    {
+      "start": 89.88,
+      "end": 90.32,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 90.98,
+      "end": 91.78,
+      "text": "Que bit..."
+    },
+    {
+      "start": 91.78,
+      "end": 93.66,
+      "text": "Ah, levou pra debaixo do toco, rapaz."
+    },
+    {
+      "start": 95.32,
+      "end": 96.68,
+      "text": "É uma vara de bambu isso, né, não?"
+    },
+    {
+      "start": 98.16,
+      "end": 98.72,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 98.8,
+      "end": 100.66,
+      "text": "Botei um anzal menor com minhoca."
+    },
+    {
+      "start": 101.87,
+      "end": 103.73,
+      "text": "Elas estão roubando muito aqui com um anzal maior."
+    },
+    {
+      "start": 105.89,
+      "end": 107.49,
+      "text": "Rapaz, tá cheio de..."
+    },
+    {
+      "start": 107.49,
+      "end": 120.55,
+      "text": "Ó, já tá carregando, ó."
+    },
+    {
+      "start": 120.55,
+      "end": 121.49,
+      "text": "Já descarregando."
+    },
+    {
+      "start": 121.91,
+      "end": 124.35,
+      "text": "Ah, filha da mãe."
+    },
+    {
+      "start": 124.91,
+      "end": 128.96,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 129.0,
+      "end": 129.94,
+      "text": "Agora eu peguei."
+    },
+    {
+      "start": 130.78,
+      "end": 131.4,
+      "text": "Olha aí."
+    },
+    {
+      "start": 131.4,
+      "end": 134.03,
+      "text": "Ela vai virar tudo fritinho, ó."
+    },
+    {
+      "start": 134.11,
+      "end": 135.03,
+      "text": "Tá lotado."
+    },
+    {
+      "start": 136.29,
+      "end": 137.63,
+      "text": "Isso aqui tem que tomar cuidado, hein."
+    },
+    {
+      "start": 138.01,
+      "end": 141.08,
+      "text": "Mais um pedacinho de minhoca aqui."
+    },
+    {
+      "start": 142.74,
+      "end": 144.44,
+      "text": "Vou andar mais pra lá pra ver."
+    },
+    {
+      "start": 144.82,
+      "end": 146.26,
+      "text": "Esse aqui é um pedaço maior."
+    },
+    {
+      "start": 147.58,
+      "end": 148.52,
+      "text": "Vou descer aqui, ó."
+    },
+    {
+      "start": 150.33,
+      "end": 151.23,
+      "text": "Andar aqui debaixo."
+    },
+    {
+      "start": 151.23,
+      "end": 160.68,
+      "text": "Que capaz de pegar uma, mas, ó."
+    },
+    {
+      "start": 161.47,
+      "end": 161.95,
+      "text": "Corredor."
+    },
+    {
+      "start": 164.83,
+      "end": 165.01,
+      "text": "Ó."
+    },
+    {
+      "start": 165.67,
+      "end": 166.65,
+      "text": "Ó, ó, ó, ó."
+    },
+    {
+      "start": 167.31,
+      "end": 168.21,
+      "text": "Aí, cará."
+    },
+    {
+      "start": 169.71,
+      "end": 171.49,
+      "text": "Cará bonita, diferente essa, pai."
+    },
+    {
+      "start": 171.53,
+      "end": 172.13,
+      "text": "Ó o rabo dela."
+    },
+    {
+      "start": 172.25,
+      "end": 173.77,
+      "text": "Todo picotado pelas piranhas, pai."
+    },
+    {
+      "start": 174.31,
+      "end": 175.09,
+      "text": "É tilápia isso."
+    },
+    {
+      "start": 175.13,
+      "end": 175.89,
+      "text": "Não é cará não, né?"
+    },
+    {
+      "start": 177.86,
+      "end": 178.92,
+      "text": "Parece uma tilápia."
+    },
+    {
+      "start": 179.82,
+      "end": 180.02,
+      "text": "É."
+    },
+    {
+      "start": 180.28,
+      "end": 180.94,
+      "text": "É tilápia."
+    },
+    {
+      "start": 181.36,
+      "end": 182.2,
+      "text": "Tá pequena."
+    },
+    {
+      "start": 182.32,
+      "end": 182.78,
+      "text": "Vou soltar ela."
+    },
+    {
+      "start": 184.9,
+      "end": 185.28,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 185.64,
+      "end": 187.9,
+      "text": "Olha o lugar dela, ó."
+    },
+    {
+      "start": 198.06,
+      "end": 198.7,
+      "text": "Olha o tamanho."
+    },
+    {
+      "start": 199.38,
+      "end": 200.76,
+      "text": "Dessa piranha aqui, ó."
+    },
+    {
+      "start": 201.26,
+      "end": 201.6,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 201.6,
+      "end": 204.46,
+      "text": "Tirar o filé da piranha pra fazer a isca dela."
+    },
+    {
+      "start": 205.4,
+      "end": 206.2,
+      "text": "Filézinho mesmo."
+    },
+    {
+      "start": 207.0,
+      "end": 207.96,
+      "text": "Piranha pequena."
+    },
+    {
+      "start": 209.3,
+      "end": 209.62,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 210.12,
+      "end": 210.8,
+      "text": "Pedacinho, ó."
+    },
+    {
+      "start": 210.8,
+      "end": 211.24,
+      "text": "Filézinho."
+    },
+    {
+      "start": 211.36,
+      "end": 212.76,
+      "text": "Vamos usar ozinho de lambaria."
+    },
+    {
+      "start": 214.28,
+      "end": 215.64,
+      "text": "Ela tá com empate de aço."
+    },
+    {
+      "start": 216.28,
+      "end": 217.4,
+      "text": "Filézinho de piranha."
+    },
+    {
+      "start": 217.84,
+      "end": 218.54,
+      "text": "Vou jogar aqui."
+    },
+    {
+      "start": 230.13,
+      "end": 230.77,
+      "text": "Agora, velho."
+    },
+    {
+      "start": 231.15,
+      "end": 232.27,
+      "text": "Deixa ela comer bem."
+    },
+    {
+      "start": 232.37,
+      "end": 232.59,
+      "text": "Aí."
+    },
+    {
+      "start": 233.41,
+      "end": 234.47,
+      "text": "Tô falando."
+    },
+    {
+      "start": 238.75,
+      "end": 239.23,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 240.44,
+      "end": 241.62,
+      "text": "Filézinho de piranha."
+    },
+    {
+      "start": 242.62,
+      "end": 243.4,
+      "text": "Falei que vinha."
+    },
+    {
+      "start": 243.82,
+      "end": 245.0,
+      "text": "O bicho tá cheio."
+    },
+    {
+      "start": 245.18,
+      "end": 245.76,
+      "text": "Tá lotado."
+    },
+    {
+      "start": 245.84,
+      "end": 246.58,
+      "text": "No festado dela."
+    },
+    {
+      "start": 247.2,
+      "end": 247.58,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 247.58,
+      "end": 248.62,
+      "text": "Com a mesma isca, hein."
+    },
+    {
+      "start": 248.98,
+      "end": 250.14,
+      "text": "Varinha de bambu, ó."
+    },
+    {
+      "start": 250.44,
+      "end": 252.8,
+      "text": "Pescaria hoje é 100% caipira."
+    },
+    {
+      "start": 254.46,
+      "end": 254.88,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 256.18,
+      "end": 257.46,
+      "text": "Rapaz, aqui tá até fundo, ó."
+    },
+    {
+      "start": 258.91,
+      "end": 260.01,
+      "text": "Aqui tá até fundo."
+    },
+    {
+      "start": 260.51,
+      "end": 263.64,
+      "text": "Ó, já tá levando, ó."
+    },
+    {
+      "start": 263.64,
+      "end": 264.22,
+      "text": "Já tá levando."
+    },
+    {
+      "start": 264.32,
+      "end": 265.08,
+      "text": "Só bateu na água."
+    },
+    {
+      "start": 265.14,
+      "end": 265.58,
+      "text": "Nem desceu."
+    },
+    {
+      "start": 265.98,
+      "end": 267.0,
+      "text": "Vou deixar ela carregar."
+    },
+    {
+      "start": 268.1,
+      "end": 269.08,
+      "text": "Vou deixar ela carregar."
+    },
+    {
+      "start": 270.42,
+      "end": 270.92,
+      "text": "Ó, ó."
+    },
+    {
+      "start": 271.46,
+      "end": 271.7,
+      "text": "Ó."
+    },
+    {
+      "start": 271.8,
+      "end": 272.2,
+      "text": "Falei?"
+    },
+    {
+      "start": 272.82,
+      "end": 273.72,
+      "text": "Não falei?"
+    },
+    {
+      "start": 274.1,
+      "end": 275.38,
+      "text": "É só bater na água."
+    },
+    {
+      "start": 280.94,
+      "end": 281.76,
+      "text": "A vermelheira."
+    },
+    {
+      "start": 282.58,
+      "end": 283.86,
+      "text": "Tava pescando ali, ó."
+    },
+    {
+      "start": 283.96,
+      "end": 284.88,
+      "text": "Água muito parada."
+    },
+    {
+      "start": 284.96,
+      "end": 285.54,
+      "text": "Muita piranha."
+    },
+    {
+      "start": 286.24,
+      "end": 287.18,
+      "text": "Vou atravessar aqui."
+    },
+    {
+      "start": 287.18,
+      "end": 290.54,
+      "text": "Tá fundando aqui."
+    },
+    {
+      "start": 295.34,
+      "end": 299.86,
+      "text": "Tá vendo, ó."
+    },
+    {
+      "start": 300.8,
+      "end": 301.94,
+      "text": "Aquelas caídinhas de água ali."
+    },
+    {
+      "start": 302.1,
+      "end": 303.5,
+      "text": "Ali deve ter um lambareio bonito."
+    },
+    {
+      "start": 304.82,
+      "end": 305.54,
+      "text": "Vamos lá, ó."
+    },
+    {
+      "start": 305.9,
+      "end": 309.87,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 310.37,
+      "end": 316.28,
+      "text": "Ali, ó."
+    },
+    {
+      "start": 316.66,
+      "end": 319.21,
+      "text": "Aqui tem uns poços bons pra lambareio, hein."
+    },
+    {
+      "start": 320.96,
+      "end": 321.18,
+      "text": "Ó."
+    },
+    {
+      "start": 321.7,
+      "end": 323.22,
+      "text": "Essa caídinha de água aqui, ó."
+    },
+    {
+      "start": 327.43,
+      "end": 328.69,
+      "text": "Água corrente assim, ó."
+    },
+    {
+      "start": 328.75,
+      "end": 329.83,
+      "text": "É muita piaba."
+    },
+    {
+      "start": 333.35,
+      "end": 333.73,
+      "text": "Quer ver?"
+    },
+    {
+      "start": 333.73,
+      "end": 337.4,
+      "text": "Só bater a minhoca aqui, quer ver, ó."
+    },
+    {
+      "start": 337.7,
+      "end": 339.2,
+      "text": "Vamos ver se aqui tem lambareio aqui, ó."
+    },
+    {
+      "start": 344.36,
+      "end": 344.68,
+      "text": "Nossa."
+    },
+    {
+      "start": 345.52,
+      "end": 345.76,
+      "text": "Mô."
+    },
+    {
+      "start": 346.0,
+      "end": 346.4,
+      "text": "Piranha."
+    },
+    {
+      "start": 347.33,
+      "end": 348.79,
+      "text": "Rapaz, que arrancada, bicho."
+    },
+    {
+      "start": 348.87,
+      "end": 349.83,
+      "text": "Peixe briga mais aqui."
+    },
+    {
+      "start": 350.41,
+      "end": 350.77,
+      "text": "Opa."
+    },
+    {
+      "start": 351.11,
+      "end": 352.11,
+      "text": "Tá batendo aí, ó."
+    },
+    {
+      "start": 353.78,
+      "end": 354.82,
+      "text": "Ah, rapaz."
+    },
+    {
+      "start": 355.18,
+      "end": 356.28,
+      "text": "Desgramado da piranha."
+    },
+    {
+      "start": 356.52,
+      "end": 357.78,
+      "text": "Quero lambareio, meu filho."
+    },
+    {
+      "start": 359.34,
+      "end": 359.76,
+      "text": "Vamos embora."
+    },
+    {
+      "start": 360.08,
+      "end": 361.44,
+      "text": "Vou jogar mais pra..."
+    },
+    {
+      "start": 361.44,
+      "end": 363.08,
+      "text": "Pra fora aqui, pra ver."
+    },
+    {
+      "start": 363.08,
+      "end": 367.29,
+      "text": "Aí, é ele que eu quero, ó."
+    },
+    {
+      "start": 369.04,
+      "end": 369.44,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 369.8,
+      "end": 372.39,
+      "text": "Vou dar uma jogada mais..."
+    },
+    {
+      "start": 372.39,
+      "end": 372.93,
+      "text": "Ali, ó."
+    },
+    {
+      "start": 372.95,
+      "end": 375.56,
+      "text": "Naquele lugar que tá mais estreito."
+    },
+    {
+      "start": 376.16,
+      "end": 377.18,
+      "text": "Mas ele tá raso."
+    },
+    {
+      "start": 377.66,
+      "end": 378.3,
+      "text": "Vou tentar aqui."
+    },
+    {
+      "start": 391.09,
+      "end": 391.35,
+      "text": "Quer ver?"
+    },
+    {
+      "start": 393.22,
+      "end": 394.78,
+      "text": "Vamos ali mais pra cima aqui, ó."
+    },
+    {
+      "start": 398.69,
+      "end": 399.63,
+      "text": "Vou tentar aqui, ó."
+    },
+    {
+      "start": 401.88,
+      "end": 403.12,
+      "text": "Se fosse mais fundo aqui, ó."
+    },
+    {
+      "start": 418.92,
+      "end": 420.52,
+      "text": "Elas tão atacando tudo."
+    },
+    {
+      "start": 425.54,
+      "end": 428.41,
+      "text": "Fica um monte de peixinho beliscando o pé."
+    },
+    {
+      "start": 428.49,
+      "end": 428.73,
+      "text": "Quer ver?"
+    },
+    {
+      "start": 429.47,
+      "end": 429.63,
+      "text": "Ó."
+    },
+    {
+      "start": 430.23,
+      "end": 430.83,
+      "text": "Vendo aqui."
+    },
+    {
+      "start": 432.52,
+      "end": 433.54,
+      "text": "Só jogar aqui, ó."
+    },
+    {
+      "start": 434.33,
+      "end": 434.85,
+      "text": "Ó."
+    },
+    {
+      "start": 435.86,
+      "end": 436.8,
+      "text": "Ó os peixinhos."
+    },
+    {
+      "start": 437.96,
+      "end": 438.68,
+      "text": "Ó os peixinhos."
+    },
+    {
+      "start": 442.98,
+      "end": 443.24,
+      "text": "Ó."
+    },
+    {
+      "start": 443.44,
+      "end": 444.28,
+      "text": "Ó o tanto de peixinho."
+    },
+    {
+      "start": 447.0,
+      "end": 447.4,
+      "text": "Opa."
+    },
+    {
+      "start": 447.82,
+      "end": 448.9,
+      "text": "Ó, o beliscou lá, hein."
+    },
+    {
+      "start": 450.78,
+      "end": 451.26,
+      "text": "Opa."
+    },
+    {
+      "start": 451.36,
+      "end": 451.64,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 451.92,
+      "end": 452.76,
+      "text": "Lambarizão aí, ó."
+    },
+    {
+      "start": 454.0,
+      "end": 455.22,
+      "text": "Aí sim, hein."
+    },
+    {
+      "start": 455.64,
+      "end": 456.6,
+      "text": "Ó o bitela aí, ó."
+    },
+    {
+      "start": 456.66,
+      "end": 457.74,
+      "text": "Isso aqui dá um frito."
+    },
+    {
+      "start": 458.73,
+      "end": 460.11,
+      "text": "Ajeitar a minhoca aqui, ó."
+    },
+    {
+      "start": 461.64,
+      "end": 462.04,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 463.12,
+      "end": 463.8,
+      "text": "Vamos ali."
+    },
+    {
+      "start": 483.03,
+      "end": 483.99,
+      "text": "Ó, ó, ó."
+    },
+    {
+      "start": 484.23,
+      "end": 484.55,
+      "text": "Ó, ó."
+    },
+    {
+      "start": 484.71,
+      "end": 485.93,
+      "text": "Ai, soltou."
+    },
+    {
+      "start": 487.47,
+      "end": 488.77,
+      "text": "Rapaz, esse era grande."
+    },
+    {
+      "start": 503.12,
+      "end": 503.72,
+      "text": "Vamos subir."
+    },
+    {
+      "start": 505.88,
+      "end": 506.72,
+      "text": "Subir pra lá."
+    },
+    {
+      "start": 516.07,
+      "end": 516.91,
+      "text": "Já parou, velho?"
+    },
+    {
+      "start": 521.01,
+      "end": 521.75,
+      "text": "Será que é que pega?"
+    },
+    {
+      "start": 523.04,
+      "end": 524.0,
+      "text": "Tá raso, não?"
+    },
+    {
+      "start": 527.63,
+      "end": 527.85,
+      "text": "Ó."
+    },
+    {
+      "start": 528.37,
+      "end": 554.73,
+      "text": "Ó o trem."
+    },
+    {
+      "start": 555.27,
+      "end": 557.06,
+      "text": "O trem de ferro passando ali."
+    },
+    {
+      "start": 557.38,
+      "end": 559.56,
+      "text": "Depois da pescaria, na roça é assim, ó."
+    },
+    {
+      "start": 560.4,
+      "end": 561.38,
+      "text": "Polenta, arrozinho."
+    },
+    {
+      "start": 561.44,
+      "end": 562.1,
+      "text": "Isso aqui é o quê, tio?"
+    },
+    {
+      "start": 562.44,
+      "end": 562.88,
+      "text": "Galinhola."
+    },
+    {
+      "start": 563.36,
+      "end": 564.48,
+      "text": "Galinhola caipira, ó."
+    },
+    {
+      "start": 564.48,
+      "end": 566.24,
+      "text": "Galinha d'angola, não sei como é que chama."
+    },
+    {
+      "start": 566.76,
+      "end": 568.38,
+      "text": "O suco de acerola aqui, ó."
+    },
+    {
+      "start": 568.9,
+      "end": 569.14,
+      "text": "É?"
+    },
+    {
+      "start": 569.74,
+      "end": 570.56,
+      "text": "Será que vai prestar?"
+    },
+    {
+      "start": 570.56,
+      "end": 571.28,
+      "text": "Arroba, tá?"
+    },
+    {
+      "start": 571.34,
+      "end": 571.56,
+      "text": "Arroba."
+    },
+    {
+      "start": 571.56,
+      "end": 571.64,
+      "text": "Arroba."
+    },
+    {
+      "start": 572.14,
+      "end": 572.48,
+      "text": "Arroba."
+    },
+    {
+      "start": 572.48,
+      "end": 573.72,
+      "text": "Arroba."
+    }
+  ],
+  "duracao_seg": 576.59,
+  "idioma_detectado": "pt"
+}

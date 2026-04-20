@@ -1,0 +1,47 @@
+{
+  "texto": "Estou só fazendo algo, o pessoal falou que ia tomar banho. Pode ser. Também, se não tiver dessa... Achei a dinha. Achei a dinha. Achei a dinha. Achei a dinha também, é? Vai.",
+  "segmentos": [
+    {
+      "start": 6.06,
+      "end": 10.06,
+      "text": "Estou só fazendo algo, o pessoal falou que ia tomar banho."
+    },
+    {
+      "start": 10.06,
+      "end": 16.7,
+      "text": "Pode ser."
+    },
+    {
+      "start": 16.7,
+      "end": 26.47,
+      "text": "Também, se não tiver dessa..."
+    },
+    {
+      "start": 26.47,
+      "end": 27.47,
+      "text": "Achei a dinha."
+    },
+    {
+      "start": 27.47,
+      "end": 28.47,
+      "text": "Achei a dinha."
+    },
+    {
+      "start": 28.47,
+      "end": 29.47,
+      "text": "Achei a dinha."
+    },
+    {
+      "start": 29.47,
+      "end": 31.57,
+      "text": "Achei a dinha também, é?"
+    },
+    {
+      "start": 31.57,
+      "end": 32.57,
+      "text": "Vai."
+    }
+  ],
+  "duracao_seg": 56.99,
+  "idioma_detectado": "pt"
+}

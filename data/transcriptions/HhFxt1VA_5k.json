@@ -1,0 +1,27 @@
+{
+  "texto": "O que é um outro? Um outro outro? O outro? Firm, firm, firma!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "O que é um outro?"
+    },
+    {
+      "start": 2.54,
+      "end": 6.11,
+      "text": "Um outro outro?"
+    },
+    {
+      "start": 6.11,
+      "end": 8.11,
+      "text": "O outro?"
+    },
+    {
+      "start": 8.11,
+      "end": 10.11,
+      "text": "Firm, firm, firma!"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

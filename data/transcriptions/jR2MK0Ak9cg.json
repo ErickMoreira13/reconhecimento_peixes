@@ -1,0 +1,22 @@
+{
+  "texto": "Olha o tamanho da isca. E olha o tamanho da traíra que pegou. Cara, incrível.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 1.5,
+      "text": "Olha o tamanho da isca."
+    },
+    {
+      "start": 2.2,
+      "end": 3.78,
+      "text": "E olha o tamanho da traíra que pegou."
+    },
+    {
+      "start": 5.3,
+      "end": 6.22,
+      "text": "Cara, incrível."
+    }
+  ],
+  "duracao_seg": 8.31,
+  "idioma_detectado": "pt"
+}

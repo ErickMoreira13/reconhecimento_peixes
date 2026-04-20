@@ -1,0 +1,22 @@
+{
+  "texto": "Mano do céu, olha o tamanho dessa pirra banha que eu peguei cara Olha o tamanho dessa bicha Cidadão!",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 4.08,
+      "text": "Mano do céu, olha o tamanho dessa pirra banha que eu peguei cara"
+    },
+    {
+      "start": 4.08,
+      "end": 6.49,
+      "text": "Olha o tamanho dessa bicha"
+    },
+    {
+      "start": 6.49,
+      "end": 8.42,
+      "text": "Cidadão!"
+    }
+  ],
+  "duracao_seg": 9.55,
+  "idioma_detectado": "pt"
+}

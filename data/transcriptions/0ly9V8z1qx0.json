@@ -1,0 +1,22 @@
+{
+  "texto": "e aí quem já pegou traira na minhoca? será que pega? bora ver? bóinha, isso que é a minhoca do dia que ela fica mexendo ali, vamos ver se pega a traira, a bóinha foi embora, foi embora, foi embora, pega ou não? pega ou não traira na minhoca? pega ou não pega traira na minhoca?",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 16.86,
+      "text": "e aí quem já pegou traira na minhoca? será que pega? bora ver? bóinha, isso que é a"
+    },
+    {
+      "start": 16.86,
+      "end": 40.89,
+      "text": "minhoca do dia que ela fica mexendo ali, vamos ver se pega a traira, a bóinha foi"
+    },
+    {
+      "start": 40.89,
+      "end": 51.14,
+      "text": "embora, foi embora, foi embora, pega ou não? pega ou não traira na minhoca? pega ou não pega traira na minhoca?"
+    }
+  ],
+  "duracao_seg": 51.41,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "No caniço, tá? No caniço, ó. Aí, ó. Não tem derrede, ó. Quero botar derrede, pode até tentar. Tá? Mil e quinhentos.",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 3.86,
+      "text": "No caniço, tá?"
+    },
+    {
+      "start": 4.22,
+      "end": 5.14,
+      "text": "No caniço, ó."
+    },
+    {
+      "start": 6.06,
+      "end": 6.68,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 7.45,
+      "end": 8.55,
+      "text": "Não tem derrede, ó."
+    },
+    {
+      "start": 8.65,
+      "end": 9.71,
+      "text": "Quero botar derrede, pode até tentar."
+    },
+    {
+      "start": 11.09,
+      "end": 11.27,
+      "text": "Tá?"
+    },
+    {
+      "start": 12.4,
+      "end": 13.24,
+      "text": "Mil e quinhentos."
+    }
+  ],
+  "duracao_seg": 14.51,
+  "idioma_detectado": "pt"
+}

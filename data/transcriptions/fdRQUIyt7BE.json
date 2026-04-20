@@ -1,0 +1,37 @@
+{
+  "texto": "A gente pode jogar, né? Opa, caiu pra lá. Agora vamos colocar aqui, pessoal, calabresa. Peixe gosta muito de calabresa. Ó, vamos colocar um pedaço aqui de...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "A gente pode jogar, né?"
+    },
+    {
+      "start": 1.58,
+      "end": 2.88,
+      "text": "Opa, caiu pra lá."
+    },
+    {
+      "start": 3.81,
+      "end": 5.55,
+      "text": "Agora vamos colocar aqui, pessoal,"
+    },
+    {
+      "start": 6.44,
+      "end": 7.8,
+      "text": "calabresa."
+    },
+    {
+      "start": 8.72,
+      "end": 10.14,
+      "text": "Peixe gosta muito de calabresa."
+    },
+    {
+      "start": 11.56,
+      "end": 14.98,
+      "text": "Ó, vamos colocar um pedaço aqui de..."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

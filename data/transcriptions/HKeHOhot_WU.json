@@ -1,0 +1,127 @@
+{
+  "texto": "O que a gente vai precisar? Um recipiente grande. Aqui eu estou usando um balde velho de margarina. Acho que esse tipo de recipiente aqui é o melhor. Ele é de plástico, você fura ele bem facinho, com prego quente, com furadeira. Esterco, terra. Nossa estrela principal, as minhocas, né? Ah, que tipo de minhoca é essa? É minhoca comum. Peguei aqui na roça ali, atrás do chiqueiro. Minhoca normal, comum. E essas estão criadas, viu? Olha o tamanho. Então, o processo é muito simples. Vou começar aqui fazendo umas camadas. Vou começar primeiro com terra. Agora esterco. E agora as minhocas. Minhoca. Joga as minhocas lá. Terra. Esterco. Dá uma misturadinha. Minhoca.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "O que a gente vai precisar?"
+    },
+    {
+      "start": 1.08,
+      "end": 2.12,
+      "text": "Um recipiente grande."
+    },
+    {
+      "start": 2.68,
+      "end": 5.76,
+      "text": "Aqui eu estou usando um balde velho de margarina."
+    },
+    {
+      "start": 6.56,
+      "end": 9.64,
+      "text": "Acho que esse tipo de recipiente aqui é o melhor."
+    },
+    {
+      "start": 10.28,
+      "end": 13.9,
+      "text": "Ele é de plástico, você fura ele bem facinho, com prego quente, com furadeira."
+    },
+    {
+      "start": 14.8,
+      "end": 17.16,
+      "text": "Esterco, terra."
+    },
+    {
+      "start": 17.76,
+      "end": 20.48,
+      "text": "Nossa estrela principal, as minhocas, né?"
+    },
+    {
+      "start": 22.68,
+      "end": 24.06,
+      "text": "Ah, que tipo de minhoca é essa?"
+    },
+    {
+      "start": 24.3,
+      "end": 25.08,
+      "text": "É minhoca comum."
+    },
+    {
+      "start": 25.3,
+      "end": 27.8,
+      "text": "Peguei aqui na roça ali, atrás do chiqueiro."
+    },
+    {
+      "start": 28.58,
+      "end": 29.52,
+      "text": "Minhoca normal, comum."
+    },
+    {
+      "start": 29.68,
+      "end": 30.52,
+      "text": "E essas estão criadas, viu?"
+    },
+    {
+      "start": 30.58,
+      "end": 30.92,
+      "text": "Olha o tamanho."
+    },
+    {
+      "start": 30.92,
+      "end": 34.24,
+      "text": "Então, o processo é muito simples."
+    },
+    {
+      "start": 34.44,
+      "end": 35.76,
+      "text": "Vou começar aqui fazendo umas camadas."
+    },
+    {
+      "start": 35.86,
+      "end": 36.84,
+      "text": "Vou começar primeiro com terra."
+    },
+    {
+      "start": 40.04,
+      "end": 40.86,
+      "text": "Agora esterco."
+    },
+    {
+      "start": 42.8,
+      "end": 43.88,
+      "text": "E agora as minhocas."
+    },
+    {
+      "start": 44.56,
+      "end": 45.0,
+      "text": "Minhoca."
+    },
+    {
+      "start": 45.22,
+      "end": 45.86,
+      "text": "Joga as minhocas lá."
+    },
+    {
+      "start": 48.2,
+      "end": 48.64,
+      "text": "Terra."
+    },
+    {
+      "start": 50.4,
+      "end": 50.84,
+      "text": "Esterco."
+    },
+    {
+      "start": 52.19,
+      "end": 53.07,
+      "text": "Dá uma misturadinha."
+    },
+    {
+      "start": 54.72,
+      "end": 55.16,
+      "text": "Minhoca."
+    }
+  ],
+  "duracao_seg": 56.61,
+  "idioma_detectado": "pt"
+}

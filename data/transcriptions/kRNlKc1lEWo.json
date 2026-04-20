@@ -1,0 +1,92 @@
+{
+  "texto": "Puxando, ó. Vamos esperar a boia afundar. E o outro tá puxando também lá, ó. Ó, vai. Ah, deve ser alguma piaba ou corró preto. Mas botou na água, já era. Só esperar, ó. Já puxou de novo, ó. Vai levando. Vamos esperar. Ó, tá puxando aí, ó. Ó lá, levando a boia, ó. Vou esperar a boia afundar. Ó, ó, ó, ó. Aí já é. Ó, corrozinho, aí, ó. Pega tudo. Minhoca é isso aí, ó. Pega tudo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "Puxando, ó."
+    },
+    {
+      "start": 1.1,
+      "end": 2.24,
+      "text": "Vamos esperar a boia afundar."
+    },
+    {
+      "start": 3.28,
+      "end": 4.74,
+      "text": "E o outro tá puxando também lá, ó."
+    },
+    {
+      "start": 5.24,
+      "end": 6.06,
+      "text": "Ó, vai."
+    },
+    {
+      "start": 8.09,
+      "end": 10.15,
+      "text": "Ah, deve ser alguma piaba ou corró preto."
+    },
+    {
+      "start": 11.44,
+      "end": 12.82,
+      "text": "Mas botou na água, já era."
+    },
+    {
+      "start": 13.26,
+      "end": 15.16,
+      "text": "Só esperar, ó. Já puxou de novo, ó."
+    },
+    {
+      "start": 15.58,
+      "end": 16.24,
+      "text": "Vai levando."
+    },
+    {
+      "start": 20.15,
+      "end": 20.73,
+      "text": "Vamos esperar."
+    },
+    {
+      "start": 21.27,
+      "end": 22.43,
+      "text": "Ó, tá puxando aí, ó."
+    },
+    {
+      "start": 23.05,
+      "end": 24.21,
+      "text": "Ó lá, levando a boia, ó."
+    },
+    {
+      "start": 25.68,
+      "end": 26.72,
+      "text": "Vou esperar a boia afundar."
+    },
+    {
+      "start": 27.14,
+      "end": 28.56,
+      "text": "Ó, ó, ó, ó."
+    },
+    {
+      "start": 29.28,
+      "end": 29.92,
+      "text": "Aí já é."
+    },
+    {
+      "start": 29.92,
+      "end": 31.44,
+      "text": "Ó, corrozinho, aí, ó."
+    },
+    {
+      "start": 31.92,
+      "end": 33.92,
+      "text": "Pega tudo. Minhoca é isso aí, ó."
+    },
+    {
+      "start": 34.36,
+      "end": 35.02,
+      "text": "Pega tudo."
+    }
+  ],
+  "duracao_seg": 35.25,
+  "idioma_detectado": "pt"
+}

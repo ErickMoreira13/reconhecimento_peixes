@@ -1,0 +1,17 @@
+{
+  "texto": "algumas minhocas aqui também a um pouquinho de terra com essa parte aqui você pega folhas de alface e qualquer tipo de folhas vocês vão ficando",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 10.29,
+      "text": "algumas minhocas aqui também a um pouquinho de terra com essa parte aqui"
+    },
+    {
+      "start": 10.29,
+      "end": 16.83,
+      "text": "você pega folhas de alface e qualquer tipo de folhas vocês vão ficando"
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

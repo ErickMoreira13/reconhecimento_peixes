@@ -1,0 +1,22 @@
+{
+  "texto": "Vou colocar esse jiguezinho aqui, ó. Aí está. Boa pesca.",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 2.48,
+      "text": "Vou colocar esse jiguezinho aqui, ó."
+    },
+    {
+      "start": 11.96,
+      "end": 12.48,
+      "text": "Aí está."
+    },
+    {
+      "start": 13.72,
+      "end": 14.36,
+      "text": "Boa pesca."
+    }
+  ],
+  "duracao_seg": 14.99,
+  "idioma_detectado": "pt"
+}

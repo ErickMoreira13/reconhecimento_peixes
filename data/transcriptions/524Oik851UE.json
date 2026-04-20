@@ -1,0 +1,22 @@
+{
+  "texto": "Alô pescador que gosta de uma pesca raiz, olha aí como você pode criar minhocas Pega uma terra boa no balde com recipiente, coloca um pouco de minhoca e coloca adubo Coloca ali, verdura, coisas que você consome, olha o resultado, olha a quantidade, boa pele",
+  "segmentos": [
+    {
+      "start": 0.32,
+      "end": 6.48,
+      "text": "Alô pescador que gosta de uma pesca raiz, olha aí como você pode criar minhocas"
+    },
+    {
+      "start": 6.48,
+      "end": 13.5,
+      "text": "Pega uma terra boa no balde com recipiente, coloca um pouco de minhoca e coloca adubo"
+    },
+    {
+      "start": 13.5,
+      "end": 19.48,
+      "text": "Coloca ali, verdura, coisas que você consome, olha o resultado, olha a quantidade, boa pele"
+    }
+  ],
+  "duracao_seg": 19.47,
+  "idioma_detectado": "pt"
+}
