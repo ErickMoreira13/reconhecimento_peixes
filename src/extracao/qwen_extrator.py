@@ -118,13 +118,13 @@ def _extrai_chunk_unico(
 
     if data is None:
         # retry com temp 0.2, as vezes funciona
-        print("json quebrado no primeiro try, tentando com temp maior")
+        _log.warning("json quebrado no primeiro try, tentando com temp maior")
         raw, lat_ms2 = _chama_ollama(prompt, modelo, temperature=0.2, seed=99)
         lat_ms += lat_ms2
         data = _parse_json_safe(raw)
 
     if data is None:
-        print(f"{modelo} nao gerou json valido, resposta: {raw[:300]}")
+        _log.error("%s nao gerou json valido, resposta: %s", modelo, raw[:300])
         return _tudo_null(lat_ms, modelo, motivo="llm_json_invalido")
 
     campos, corrigidos = _monta_resultado(data, lat_ms, modelo)
