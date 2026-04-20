@@ -144,3 +144,14 @@ def progress_bar(atual: int, total: int, largura: int = 30) -> str:
     vazio = largura - cheio
     barra = "#" * cheio + "-" * vazio
     return f"[{barra}] {int(pct*100)}% ({atual}/{total})"
+
+
+def progress_bar_colorido(atual: int, total: int, largura: int = 30) -> str:
+    # versao colorida. verde pra preenchido, cinza pra vazio
+    if total <= 0:
+        return ""
+    pct = max(0.0, min(1.0, atual / total))
+    cheio = int(largura * pct)
+    vazio = largura - cheio
+    barra = colore("#" * cheio, VERDE_CLARO) + colore("-" * vazio, DIM)
+    return f"[{barra}] {int(pct*100)}% ({atual}/{total})"
