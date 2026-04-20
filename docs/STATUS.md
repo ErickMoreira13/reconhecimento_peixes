@@ -65,18 +65,18 @@ rejeitou resumos genericos sem entidade ancorada). net positivo.
    em `docs/teste-retry-schema/`. detalhes do caso que originou em
    `commit 888a990`.
 
-6. **8 FIXES APLICADOS** (feito 2026-04-19) — todos os padroes do
-   sumario-manual atacados. ver `docs/fixes-aplicados-2026-04-19.md`:
-   - fix 1: tipo_ceva exige evidencia (prompt + verificador)
-   - fix 2: rio precisa aparecer no texto (verificador)
-   - fix 3: blacklist equipamento pra tipo_ceva
-   - fix 4: stop-terms pra especies genericas
-   - fix 5: prompt isca vs especie alvo
-   - fix 6: prompt UF nome -> sigla
-   - fix 7: dicionario 12 bacias BR + validacao + hint no prompt
-   - fix 8: chunking observabilidade + reduz MAX_PALAVRAS pra 3000
+6. **8 FIXES APLICADOS** (feito 2026-04-19, issues #12-#19) — todos os
+   padroes do sumario-manual atacados. ver `docs/fixes-aplicados-2026-04-19.md`:
+   - fix 1 (#12): tipo_ceva exige evidencia (prompt + verificador)
+   - fix 2 (#13): rio precisa aparecer no texto (verificador)
+   - fix 3 (#14): blacklist equipamento pra tipo_ceva
+   - fix 4 (#15): stop-terms pra especies genericas
+   - fix 5 (#16): prompt isca vs especie alvo
+   - fix 6 (#17): prompt UF nome -> sigla
+   - fix 7 (#18): dicionario 12 bacias BR + validacao + hint no prompt
+   - fix 8 (#19): chunking observabilidade + reduz MAX_PALAVRAS pra 3000
 
-   proximo: validar empiricamente quando GPU livre.
+   proximo: validar empiricamente quando GPU livre. ver `CHANGELOG.md`.
 
 ## comandos pra retomar
 
