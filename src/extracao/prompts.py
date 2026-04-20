@@ -57,6 +57,18 @@ def _top_peixes_por_bm25(texto: str, k: int = 20) -> list[str]:
     return [n for n, _ in scored[:k]]
 
 
+_bacias_principais_cache: list[str] | None = None
+
+
+def _bacias_principais() -> list[str]:
+    # hint pro prompt: 12 bacias hidrograficas principais do BR
+    global _bacias_principais_cache
+    if _bacias_principais_cache is None:
+        d = _carrega_dict("bacias_principais.json")
+        _bacias_principais_cache = [b["nome"] for b in d.get("bacias", [])]
+    return _bacias_principais_cache
+
+
 def monta_prompt_extrator(
     transcricao: str,
     spans_gliner: dict[str, list[dict]],
@@ -98,7 +110,7 @@ CAMPOS:
    - etc. qualquer uma das 27 UFs
 2. municipio: nome livre ou null
 3. rio: nome com prefixo "Rio " ou null. Normalizar "velho chico" -> "Rio Sao Francisco"
-4. bacia: nome livre ou null. Candidatos NER: {bacias_ner or "nenhum"}
+4. bacia: hidrografica, uma das 12 brasileiras ({", ".join(_bacias_principais())}) ou null. NAO confundir com rio (rio vai em #3). "Rio Tapajos" nao eh bacia, eh rio DA bacia Amazonica. Candidatos NER: {bacias_ner or "nenhum"}
 5. tipo_ceva: garrafa_pet_perfurada | ceva_de_chao | ceva_solta_na_agua | bola_de_massa | saco_de_ceva | cano_pvc_perfurado | outro texto livre | null.
    ATENCAO: so preencha tipo_ceva se o texto mencionar EXPLICITAMENTE
    alguma das palavras: "ceva", "seva", "ceba", "cevar", "cevador", "cevando"
