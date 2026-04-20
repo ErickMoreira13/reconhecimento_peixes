@@ -1,0 +1,987 @@
+{
+  "texto": "Eita! Que charelo! Olha! Tô louco! Ah, cara! Merda! Vou pro outro! Não bate em um, meu irmão! Olha esse, olha! Olha! E esse não? Esse não, filho! Esse que eu vou olhar, não tô afundado, não! Olha esse, olha! Tá com força, charelo! É misturado! Que charelo! Eita! Eita! Eita! Rebocando galaca! Eita, fora do céu! Eita, que bem! Olha aí, chão! Olha aí, chão! Rafa, rafacinho, fucadume! É muita mojubinha! Aí não consegue ver a isca da gente, não! É, olha! Eita, calma! Como é? Uma diferença desse, mas tu não é pegado ali! Ali, cadê um rafacinho? Você já for ver um amarelo na água! Olha aí, jatão! Lá em cima! Eita, Jesus! É, galera! Eu vou parar a filmagem aqui, vai ficar muito longa! Depois eu boto aí, na hora de pegar eles! Eu acho que esse aqui deve ser um rafacinho! Com esse rafacinho! Agora é uma atrasada, pessoal! É isso! Quase que eu vou falar agora! Acho que não é igual de nada! Alguma coisa desse tipo! Vamos de cada um! Vamos ver o meu Deus mesmo aí! Aê! Glória a Jesus! Vamos de cada um! Eita, Jesus! Olha só! Olha só! Como é que foi? A V, bói! A garatea MVC, bói! É M... Não é... V... MW... Sei lá! A melhor garatea que tem! Daquelas grossona! Ué, pessoal! Esqueci o nome! Abril, homem! Como é que pode, hein? Tu é doido, homem! E essa aqui ela tava abrindo já! É pontinha de nada! Por isso que eu não gosto de forçar, pessoal! Pontinha de nada! Se não forçasse mais, tolava o... Bicinho! Obrigado, meu pai! Vou deixar a lesão! Essa aqui é maior! Eita, Jesus! Ô, Glória! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! Pegou! É bonito! É bonito com força! Tem agora isso! Vai ser doido! Ali, ó! É! Pegou! Pegou! Pegou! Ô Pai cê! Ô, vai! Pegou! Peraí! Ó! Peraí! Veste demais, homem! Ó! Queria ter uma 113 para portar ele! Olha! Eita! É! Olha! O meu aqui tá passando chalé, olha! Olha! É, olha! como a gente vai ver aqui ó olha e é isso olha tem descarregado outro xarel esse aqui pessoal e acabei perdendo outro também que arrebentou a linha ela saiu bonita eita cruda vamos lá vamos lá esperar que o caderno subir de novo pessoal aí a pescara está boa eita cruda meu filho esse aqui é grande olha grande oi tem mais 10 minutos de briga agora meu deus eita eita acertou devagar pô devagar pô mais uma micro oxe é tudo para acertar a linha e quando estiver assim eu vou trazer uma linhazinha de mão pronta o bonzãozão deixa aqui ó se bater meu velho pode puxar ele não tem quanto correr não eles estão nadando juntos e é isso? nem lembro a cor que estava aqui no começo e é eu quem foi ali ó é eu? é o que? o que você fez? eita eita o que eu te falei ó olha é eu estou forçando olha o problema deve bater em um peixe pô pega ela beirinha olha isso olha aí eita deve ligar pessoal eu vou filmar aí o resto meu Deus do céu eu estou brincando ah vai-te embora homem é xarel é xarel demais homem olha lá olha meu pai uuuh olha aí galera vou de xarel vou fazer filme culto porque a memória está cheia já olha aí homem o restinho aqui ó isso aí ó cuida cuida cuida vamos lá vamos lá",
+  "segmentos": [
+    {
+      "start": 12.5,
+      "end": 15.36,
+      "text": "Eita!"
+    },
+    {
+      "start": 15.36,
+      "end": 47.25,
+      "text": "Que charelo!"
+    },
+    {
+      "start": 47.25,
+      "end": 124.86,
+      "text": "Olha!"
+    },
+    {
+      "start": 124.86,
+      "end": 126.9,
+      "text": "Tô louco!"
+    },
+    {
+      "start": 126.9,
+      "end": 131.84,
+      "text": "Ah, cara!"
+    },
+    {
+      "start": 131.84,
+      "end": 134.26,
+      "text": "Merda! Vou pro outro!"
+    },
+    {
+      "start": 134.26,
+      "end": 191.78,
+      "text": "Não bate em um, meu irmão!"
+    },
+    {
+      "start": 191.78,
+      "end": 196.11,
+      "text": "Olha esse, olha!"
+    },
+    {
+      "start": 196.11,
+      "end": 198.82,
+      "text": "Olha! E esse não?"
+    },
+    {
+      "start": 198.82,
+      "end": 201.14,
+      "text": "Esse não, filho!"
+    },
+    {
+      "start": 201.14,
+      "end": 203.14,
+      "text": "Esse que eu vou olhar, não tô afundado, não!"
+    },
+    {
+      "start": 203.14,
+      "end": 252.72,
+      "text": "Olha esse, olha!"
+    },
+    {
+      "start": 252.72,
+      "end": 254.72,
+      "text": "Tá com força, charelo!"
+    },
+    {
+      "start": 254.72,
+      "end": 263.86,
+      "text": "É misturado!"
+    },
+    {
+      "start": 263.86,
+      "end": 277.57,
+      "text": "Que charelo!"
+    },
+    {
+      "start": 277.57,
+      "end": 283.38,
+      "text": "Eita!"
+    },
+    {
+      "start": 283.38,
+      "end": 296.0,
+      "text": "Eita!"
+    },
+    {
+      "start": 296.0,
+      "end": 299.92,
+      "text": "Eita!"
+    },
+    {
+      "start": 299.92,
+      "end": 301.95,
+      "text": "Rebocando galaca!"
+    },
+    {
+      "start": 301.95,
+      "end": 332.27,
+      "text": "Eita, fora do céu!"
+    },
+    {
+      "start": 332.27,
+      "end": 385.28,
+      "text": "Eita, que bem!"
+    },
+    {
+      "start": 385.28,
+      "end": 398.1,
+      "text": "Olha aí, chão!"
+    },
+    {
+      "start": 398.1,
+      "end": 405.63,
+      "text": "Olha aí, chão!"
+    },
+    {
+      "start": 405.63,
+      "end": 407.63,
+      "text": "Rafa, rafacinho, fucadume!"
+    },
+    {
+      "start": 407.63,
+      "end": 412.83,
+      "text": "É muita mojubinha!"
+    },
+    {
+      "start": 412.83,
+      "end": 414.83,
+      "text": "Aí não consegue ver a isca da gente, não!"
+    },
+    {
+      "start": 414.83,
+      "end": 421.76,
+      "text": "É, olha!"
+    },
+    {
+      "start": 421.76,
+      "end": 433.94,
+      "text": "Eita, calma!"
+    },
+    {
+      "start": 433.94,
+      "end": 450.24,
+      "text": "Como é?"
+    },
+    {
+      "start": 450.24,
+      "end": 453.42,
+      "text": "Uma diferença desse, mas tu não é pegado ali!"
+    },
+    {
+      "start": 453.42,
+      "end": 455.42,
+      "text": "Ali, cadê um rafacinho?"
+    },
+    {
+      "start": 455.42,
+      "end": 457.49,
+      "text": "Você já for ver um amarelo na água!"
+    },
+    {
+      "start": 457.49,
+      "end": 466.53,
+      "text": "Olha aí, jatão!"
+    },
+    {
+      "start": 466.53,
+      "end": 473.62,
+      "text": "Lá em cima!"
+    },
+    {
+      "start": 473.62,
+      "end": 485.57,
+      "text": "Eita, Jesus!"
+    },
+    {
+      "start": 485.57,
+      "end": 487.57,
+      "text": "É, galera! Eu vou parar a filmagem aqui, vai ficar muito longa!"
+    },
+    {
+      "start": 487.57,
+      "end": 489.57,
+      "text": "Depois eu boto aí, na hora de pegar eles!"
+    },
+    {
+      "start": 489.57,
+      "end": 496.05,
+      "text": "Eu acho que esse aqui deve ser um rafacinho!"
+    },
+    {
+      "start": 496.05,
+      "end": 498.3,
+      "text": "Com esse rafacinho!"
+    },
+    {
+      "start": 498.3,
+      "end": 501.07,
+      "text": "Agora é uma atrasada, pessoal!"
+    },
+    {
+      "start": 501.07,
+      "end": 543.52,
+      "text": "É isso!"
+    },
+    {
+      "start": 543.52,
+      "end": 547.06,
+      "text": "Quase que eu vou falar agora!"
+    },
+    {
+      "start": 547.06,
+      "end": 549.06,
+      "text": "Acho que não é igual de nada!"
+    },
+    {
+      "start": 549.06,
+      "end": 553.49,
+      "text": "Alguma coisa desse tipo!"
+    },
+    {
+      "start": 553.49,
+      "end": 563.2,
+      "text": "Vamos de cada um!"
+    },
+    {
+      "start": 563.2,
+      "end": 565.2,
+      "text": "Vamos ver o meu Deus mesmo aí!"
+    },
+    {
+      "start": 565.2,
+      "end": 575.68,
+      "text": "Aê!"
+    },
+    {
+      "start": 575.68,
+      "end": 577.84,
+      "text": "Glória a Jesus!"
+    },
+    {
+      "start": 577.84,
+      "end": 580.13,
+      "text": "Vamos de cada um!"
+    },
+    {
+      "start": 580.13,
+      "end": 589.1,
+      "text": "Eita, Jesus!"
+    },
+    {
+      "start": 589.1,
+      "end": 592.38,
+      "text": "Olha só!"
+    },
+    {
+      "start": 592.38,
+      "end": 595.15,
+      "text": "Olha só!"
+    },
+    {
+      "start": 595.15,
+      "end": 596.34,
+      "text": "Como é que foi?"
+    },
+    {
+      "start": 596.34,
+      "end": 597.34,
+      "text": "A V, bói!"
+    },
+    {
+      "start": 597.34,
+      "end": 599.92,
+      "text": "A garatea MVC, bói!"
+    },
+    {
+      "start": 599.92,
+      "end": 600.92,
+      "text": "É M..."
+    },
+    {
+      "start": 600.92,
+      "end": 602.27,
+      "text": "Não é..."
+    },
+    {
+      "start": 602.27,
+      "end": 603.27,
+      "text": "V..."
+    },
+    {
+      "start": 603.27,
+      "end": 604.27,
+      "text": "MW..."
+    },
+    {
+      "start": 604.27,
+      "end": 605.27,
+      "text": "Sei lá!"
+    },
+    {
+      "start": 605.27,
+      "end": 606.27,
+      "text": "A melhor garatea que tem!"
+    },
+    {
+      "start": 606.27,
+      "end": 607.27,
+      "text": "Daquelas grossona!"
+    },
+    {
+      "start": 607.27,
+      "end": 608.27,
+      "text": "Ué, pessoal!"
+    },
+    {
+      "start": 608.27,
+      "end": 609.27,
+      "text": "Esqueci o nome!"
+    },
+    {
+      "start": 609.27,
+      "end": 610.27,
+      "text": "Abril, homem!"
+    },
+    {
+      "start": 610.27,
+      "end": 612.27,
+      "text": "Como é que pode, hein?"
+    },
+    {
+      "start": 612.27,
+      "end": 615.04,
+      "text": "Tu é doido, homem!"
+    },
+    {
+      "start": 615.04,
+      "end": 617.81,
+      "text": "E essa aqui ela tava abrindo já!"
+    },
+    {
+      "start": 617.81,
+      "end": 619.13,
+      "text": "É pontinha de nada!"
+    },
+    {
+      "start": 619.13,
+      "end": 621.13,
+      "text": "Por isso que eu não gosto de forçar, pessoal!"
+    },
+    {
+      "start": 621.13,
+      "end": 622.13,
+      "text": "Pontinha de nada!"
+    },
+    {
+      "start": 622.13,
+      "end": 624.13,
+      "text": "Se não forçasse mais, tolava o..."
+    },
+    {
+      "start": 624.13,
+      "end": 625.13,
+      "text": "Bicinho!"
+    },
+    {
+      "start": 625.13,
+      "end": 626.86,
+      "text": "Obrigado, meu pai!"
+    },
+    {
+      "start": 626.86,
+      "end": 627.86,
+      "text": "Vou deixar a lesão!"
+    },
+    {
+      "start": 627.86,
+      "end": 628.86,
+      "text": "Essa aqui é maior!"
+    },
+    {
+      "start": 628.86,
+      "end": 631.38,
+      "text": "Eita, Jesus!"
+    },
+    {
+      "start": 631.38,
+      "end": 632.57,
+      "text": "Ô, Glória!"
+    },
+    {
+      "start": 632.57,
+      "end": 648.58,
+      "text": "Pegou!"
+    },
+    {
+      "start": 648.58,
+      "end": 649.58,
+      "text": "Pegou!"
+    },
+    {
+      "start": 649.58,
+      "end": 651.02,
+      "text": "Pegou!"
+    },
+    {
+      "start": 651.02,
+      "end": 655.51,
+      "text": "Pegou!"
+    },
+    {
+      "start": 655.51,
+      "end": 656.51,
+      "text": "Pegou!"
+    },
+    {
+      "start": 656.51,
+      "end": 658.7,
+      "text": "Pegou!"
+    },
+    {
+      "start": 658.7,
+      "end": 659.7,
+      "text": "Pegou!"
+    },
+    {
+      "start": 659.7,
+      "end": 667.32,
+      "text": "Pegou!"
+    },
+    {
+      "start": 667.32,
+      "end": 672.58,
+      "text": "Pegou!"
+    },
+    {
+      "start": 672.58,
+      "end": 673.58,
+      "text": "Pegou!"
+    },
+    {
+      "start": 673.58,
+      "end": 674.58,
+      "text": "Pegou!"
+    },
+    {
+      "start": 674.58,
+      "end": 678.14,
+      "text": "Pegou!"
+    },
+    {
+      "start": 678.14,
+      "end": 679.14,
+      "text": "Pegou!"
+    },
+    {
+      "start": 679.14,
+      "end": 680.14,
+      "text": "Pegou!"
+    },
+    {
+      "start": 680.14,
+      "end": 685.65,
+      "text": "Pegou!"
+    },
+    {
+      "start": 685.65,
+      "end": 686.65,
+      "text": "Pegou!"
+    },
+    {
+      "start": 686.65,
+      "end": 694.75,
+      "text": "Pegou!"
+    },
+    {
+      "start": 694.75,
+      "end": 695.75,
+      "text": "Pegou!"
+    },
+    {
+      "start": 695.75,
+      "end": 706.06,
+      "text": "Pegou!"
+    },
+    {
+      "start": 706.06,
+      "end": 723.22,
+      "text": "Pegou!"
+    },
+    {
+      "start": 723.22,
+      "end": 724.22,
+      "text": "Pegou!"
+    },
+    {
+      "start": 724.22,
+      "end": 725.9,
+      "text": "É bonito!"
+    },
+    {
+      "start": 725.9,
+      "end": 726.9,
+      "text": "É bonito com força!"
+    },
+    {
+      "start": 726.9,
+      "end": 727.93,
+      "text": "Tem agora isso!"
+    },
+    {
+      "start": 727.93,
+      "end": 735.14,
+      "text": "Vai ser doido!"
+    },
+    {
+      "start": 735.14,
+      "end": 736.14,
+      "text": "Ali, ó!"
+    },
+    {
+      "start": 736.14,
+      "end": 737.84,
+      "text": "É!"
+    },
+    {
+      "start": 737.84,
+      "end": 744.25,
+      "text": "Pegou!"
+    },
+    {
+      "start": 744.25,
+      "end": 752.96,
+      "text": "Pegou!"
+    },
+    {
+      "start": 752.96,
+      "end": 753.96,
+      "text": "Pegou!"
+    },
+    {
+      "start": 753.96,
+      "end": 754.96,
+      "text": "Ô Pai cê!"
+    },
+    {
+      "start": 756.98,
+      "end": 758.71,
+      "text": "Ô, vai!"
+    },
+    {
+      "start": 758.71,
+      "end": 796.06,
+      "text": "Pegou!"
+    },
+    {
+      "start": 796.06,
+      "end": 797.06,
+      "text": "Peraí!"
+    },
+    {
+      "start": 797.06,
+      "end": 800.66,
+      "text": "Ó!"
+    },
+    {
+      "start": 800.66,
+      "end": 816.89,
+      "text": "Peraí!"
+    },
+    {
+      "start": 816.89,
+      "end": 818.82,
+      "text": "Veste demais, homem!"
+    },
+    {
+      "start": 818.82,
+      "end": 826.22,
+      "text": "Ó!"
+    },
+    {
+      "start": 826.22,
+      "end": 828.22,
+      "text": "Queria ter uma 113 para portar ele!"
+    },
+    {
+      "start": 828.22,
+      "end": 829.22,
+      "text": "Olha!"
+    },
+    {
+      "start": 829.22,
+      "end": 830.22,
+      "text": "Eita!"
+    },
+    {
+      "start": 830.22,
+      "end": 841.2,
+      "text": "É!"
+    },
+    {
+      "start": 841.2,
+      "end": 845.88,
+      "text": "Olha!"
+    },
+    {
+      "start": 845.88,
+      "end": 847.88,
+      "text": "O meu aqui tá passando chalé, olha!"
+    },
+    {
+      "start": 847.88,
+      "end": 850.7,
+      "text": "Olha!"
+    },
+    {
+      "start": 850.7,
+      "end": 854.81,
+      "text": "É, olha!"
+    },
+    {
+      "start": 854.81,
+      "end": 869.32,
+      "text": "como a gente vai ver aqui ó"
+    },
+    {
+      "start": 869.32,
+      "end": 887.03,
+      "text": "olha"
+    },
+    {
+      "start": 887.03,
+      "end": 899.08,
+      "text": "e é isso"
+    },
+    {
+      "start": 899.08,
+      "end": 913.88,
+      "text": "olha"
+    },
+    {
+      "start": 913.88,
+      "end": 916.26,
+      "text": "tem descarregado"
+    },
+    {
+      "start": 916.26,
+      "end": 918.26,
+      "text": "outro xarel"
+    },
+    {
+      "start": 918.26,
+      "end": 920.58,
+      "text": "esse aqui pessoal"
+    },
+    {
+      "start": 920.58,
+      "end": 922.58,
+      "text": "e acabei perdendo outro também que arrebentou"
+    },
+    {
+      "start": 922.58,
+      "end": 924.84,
+      "text": "a linha"
+    },
+    {
+      "start": 924.84,
+      "end": 926.84,
+      "text": "ela saiu bonita"
+    },
+    {
+      "start": 926.84,
+      "end": 928.97,
+      "text": "eita cruda"
+    },
+    {
+      "start": 928.97,
+      "end": 931.32,
+      "text": "vamos lá vamos lá"
+    },
+    {
+      "start": 931.32,
+      "end": 933.32,
+      "text": "esperar que o caderno subir de novo pessoal"
+    },
+    {
+      "start": 933.32,
+      "end": 943.64,
+      "text": "aí a pescara está boa"
+    },
+    {
+      "start": 943.64,
+      "end": 959.85,
+      "text": "eita cruda"
+    },
+    {
+      "start": 959.85,
+      "end": 961.85,
+      "text": "meu filho esse aqui é grande"
+    },
+    {
+      "start": 961.85,
+      "end": 969.13,
+      "text": "olha grande"
+    },
+    {
+      "start": 969.13,
+      "end": 991.54,
+      "text": "oi"
+    },
+    {
+      "start": 991.54,
+      "end": 993.54,
+      "text": "tem mais 10 minutos de briga agora"
+    },
+    {
+      "start": 993.54,
+      "end": 996.02,
+      "text": "meu deus"
+    },
+    {
+      "start": 996.02,
+      "end": 1009.16,
+      "text": "eita"
+    },
+    {
+      "start": 1009.16,
+      "end": 1024.79,
+      "text": "eita"
+    },
+    {
+      "start": 1024.79,
+      "end": 1038.76,
+      "text": "acertou"
+    },
+    {
+      "start": 1038.76,
+      "end": 1041.82,
+      "text": "devagar pô"
+    },
+    {
+      "start": 1041.82,
+      "end": 1044.81,
+      "text": "devagar pô"
+    },
+    {
+      "start": 1044.81,
+      "end": 1047.96,
+      "text": "mais uma micro"
+    },
+    {
+      "start": 1047.96,
+      "end": 1053.48,
+      "text": "oxe"
+    },
+    {
+      "start": 1053.48,
+      "end": 1055.48,
+      "text": "é tudo para acertar a linha"
+    },
+    {
+      "start": 1055.48,
+      "end": 1061.03,
+      "text": "e quando estiver assim eu vou trazer uma linhazinha de mão pronta"
+    },
+    {
+      "start": 1061.03,
+      "end": 1064.41,
+      "text": "o bonzãozão"
+    },
+    {
+      "start": 1064.41,
+      "end": 1066.41,
+      "text": "deixa aqui ó"
+    },
+    {
+      "start": 1066.41,
+      "end": 1068.41,
+      "text": "se bater meu velho pode puxar"
+    },
+    {
+      "start": 1068.41,
+      "end": 1070.73,
+      "text": "ele não tem quanto correr não"
+    },
+    {
+      "start": 1070.73,
+      "end": 1072.73,
+      "text": "eles estão nadando juntos"
+    },
+    {
+      "start": 1072.73,
+      "end": 1080.26,
+      "text": "e é isso?"
+    },
+    {
+      "start": 1080.26,
+      "end": 1082.65,
+      "text": "nem lembro a cor que estava aqui no começo"
+    },
+    {
+      "start": 1082.65,
+      "end": 1084.65,
+      "text": "e é eu"
+    },
+    {
+      "start": 1084.65,
+      "end": 1088.22,
+      "text": "quem foi ali ó"
+    },
+    {
+      "start": 1088.22,
+      "end": 1090.22,
+      "text": "é eu?"
+    },
+    {
+      "start": 1090.22,
+      "end": 1092.22,
+      "text": "é o que?"
+    },
+    {
+      "start": 1092.22,
+      "end": 1094.31,
+      "text": "o que você fez?"
+    },
+    {
+      "start": 1094.31,
+      "end": 1097.85,
+      "text": "eita"
+    },
+    {
+      "start": 1097.85,
+      "end": 1103.59,
+      "text": "eita"
+    },
+    {
+      "start": 1103.59,
+      "end": 1105.78,
+      "text": "o que eu te falei ó"
+    },
+    {
+      "start": 1105.78,
+      "end": 1110.09,
+      "text": "olha"
+    },
+    {
+      "start": 1110.09,
+      "end": 1114.52,
+      "text": "é eu estou forçando"
+    },
+    {
+      "start": 1114.52,
+      "end": 1118.47,
+      "text": "olha"
+    },
+    {
+      "start": 1118.47,
+      "end": 1120.47,
+      "text": "o problema deve bater em um peixe pô"
+    },
+    {
+      "start": 1120.47,
+      "end": 1123.02,
+      "text": "pega ela beirinha"
+    },
+    {
+      "start": 1123.02,
+      "end": 1139.06,
+      "text": "olha isso"
+    },
+    {
+      "start": 1139.06,
+      "end": 1141.06,
+      "text": "olha aí"
+    },
+    {
+      "start": 1141.06,
+      "end": 1208.98,
+      "text": "eita"
+    },
+    {
+      "start": 1208.98,
+      "end": 1212.23,
+      "text": "deve ligar pessoal"
+    },
+    {
+      "start": 1212.23,
+      "end": 1214.33,
+      "text": "eu vou filmar aí o resto"
+    },
+    {
+      "start": 1214.33,
+      "end": 1216.33,
+      "text": "meu Deus do céu"
+    },
+    {
+      "start": 1216.33,
+      "end": 1220.31,
+      "text": "eu estou brincando"
+    },
+    {
+      "start": 1220.31,
+      "end": 1223.24,
+      "text": "ah"
+    },
+    {
+      "start": 1223.24,
+      "end": 1227.86,
+      "text": "vai-te embora homem"
+    },
+    {
+      "start": 1227.86,
+      "end": 1228.86,
+      "text": "é xarel"
+    },
+    {
+      "start": 1228.86,
+      "end": 1229.86,
+      "text": "é xarel demais homem"
+    },
+    {
+      "start": 1229.86,
+      "end": 1230.86,
+      "text": "olha lá"
+    },
+    {
+      "start": 1230.86,
+      "end": 1275.99,
+      "text": "olha meu pai"
+    },
+    {
+      "start": 1275.99,
+      "end": 1278.02,
+      "text": "uuuh"
+    },
+    {
+      "start": 1278.02,
+      "end": 1279.37,
+      "text": "olha aí galera"
+    },
+    {
+      "start": 1279.37,
+      "end": 1280.37,
+      "text": "vou de xarel"
+    },
+    {
+      "start": 1280.37,
+      "end": 1281.37,
+      "text": "vou fazer filme culto"
+    },
+    {
+      "start": 1281.37,
+      "end": 1283.43,
+      "text": "porque a memória está cheia já"
+    },
+    {
+      "start": 1283.43,
+      "end": 1284.43,
+      "text": "olha aí homem"
+    },
+    {
+      "start": 1284.43,
+      "end": 1285.43,
+      "text": "o restinho aqui ó"
+    },
+    {
+      "start": 1285.43,
+      "end": 1287.46,
+      "text": "isso aí ó"
+    },
+    {
+      "start": 1287.46,
+      "end": 1288.46,
+      "text": "cuida cuida cuida"
+    },
+    {
+      "start": 1288.46,
+      "end": 1289.46,
+      "text": "vamos lá vamos lá"
+    }
+  ],
+  "duracao_seg": 1296.53,
+  "idioma_detectado": "pt"
+}

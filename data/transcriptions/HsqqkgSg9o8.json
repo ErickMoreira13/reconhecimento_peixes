@@ -1,0 +1,42 @@
+{
+  "texto": "Olha o perigo aí no Rio Amazonas Olha só Olha o tamanho desse tronco aí Que vem descendo Se acertar um barco Já era Se inscreve aí no meu canal",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Olha o perigo aí no Rio Amazonas"
+    },
+    {
+      "start": 3.34,
+      "end": 4.0,
+      "text": "Olha só"
+    },
+    {
+      "start": 4.0,
+      "end": 6.6,
+      "text": "Olha o tamanho desse tronco aí"
+    },
+    {
+      "start": 6.6,
+      "end": 8.16,
+      "text": "Que vem descendo"
+    },
+    {
+      "start": 8.16,
+      "end": 10.0,
+      "text": "Se acertar um barco"
+    },
+    {
+      "start": 10.0,
+      "end": 11.12,
+      "text": "Já era"
+    },
+    {
+      "start": 11.12,
+      "end": 12.86,
+      "text": "Se inscreve aí no meu canal"
+    }
+  ],
+  "duracao_seg": 14.97,
+  "idioma_detectado": "pt"
+}

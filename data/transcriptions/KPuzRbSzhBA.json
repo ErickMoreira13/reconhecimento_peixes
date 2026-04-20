@@ -1,0 +1,22 @@
+{
+  "texto": "Eita, nossa senhora. Você pega eles aqui no seu saco, Caí. Fala uma coisa pra você.",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 5.24,
+      "text": "Eita, nossa senhora."
+    },
+    {
+      "start": 7.56,
+      "end": 9.16,
+      "text": "Você pega eles aqui no seu saco, Caí."
+    },
+    {
+      "start": 9.26,
+      "end": 9.88,
+      "text": "Fala uma coisa pra você."
+    }
+  ],
+  "duracao_seg": 10.19,
+  "idioma_detectado": "pt"
+}

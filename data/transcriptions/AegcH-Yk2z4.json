@@ -1,0 +1,17 @@
+{
+  "texto": "o jacaré não é para você pegar não só na frente do jacaré que porrada na frente do jacarézinho que veio aqui perto de nós esse monstro o papai do céu obrigado senhor",
+  "segmentos": [
+    {
+      "start": 1.74,
+      "end": 23.97,
+      "text": "o jacaré não é para você pegar não só na frente do jacaré que porrada na frente do"
+    },
+    {
+      "start": 23.97,
+      "end": 34.72,
+      "text": "jacarézinho que veio aqui perto de nós esse monstro o papai do céu obrigado senhor"
+    }
+  ],
+  "duracao_seg": 34.97,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,922 @@
+{
+  "texto": "Mais uma pescaria pra vocês aqui no Habibus H Santa Branca, vou mostrar o peixinho pra vocês Aqui ó Essa é uma merrequinha Uma quirelinha, uma paneluda É isso aí Pescaria de fevereiro Se eu não me engano aqui a pescaria tá 15 reais Você via direto pra cá e pegar um lugarzinho É 15 reais pra pescar no barranquinho E a reserva é 35 ou é 40 Tem que ser direto pro Adam Beleza? Então é isso aí, mais uma pescaria pra vocês Ih, vem que tá vendo Bora Ligado hein Pegou só na beirinha, babãe Aqui ó, na boca dela Olha, parece um pacu, cara Olha a barriga disso aqui A ceba do Serjão todinha Câmera ligada hein Câmera ligada Grave, essa aqui eu vou soltar É, vai, vai, vai Agora vem Uma hora ela vem Titlápia Não, na boca Na boca Na massa É doido, que força da bexiga Pera aí, pera aí, Serjão não puxa não que tá na ponta das varas lá É, tilápia Ia não escapar não, que é outra vara lá Tá no rabo dela Quer ver? Chegou no rabo mesmo Tá batando aí Essa aqui no rabo E essa aqui na boca Não, essa aqui ela levou a ponta da vara Igual mandi Igual mandi, igual mandi Abriu boca não E aí galera, tem? Barba Barba Pescarias Olha ela aí Deixa eu tirar aqui Deixa eu tirar aqui Tem que arrumar aquela cevinha lá do outro lado de novo Aquela era boa A canária é dos meus Sério mesmo? Não Vai faltar uma cavadinha? De leve, de leve Bom saber Não, é na massinha Olha ela aí Dessa cor é bom, né? Ladinha Aqui é de um reladinho, mas o relay é muito forte Aqui é Ah não, mas aí você exagerou Deve gastar a mão Encheu a mão Foi só uma reladinha que eu dei aqui, louco Mas é muita emoção Não puxa, quando puxa a gente assusta Mas vou falar para você Pode ser 30, 35 Agora põe aqui a ponta da vara Nossa, mas exagero também, pô Só da Rosilda Barriga dessa tilápia Será que ela está comendo ceva? Será que sobrou ceva para amanhã? Olha isso Tá doido Vou abrir ela que eu vou jogar ceva de volta Vou ver de quem que é a ceva, né? Será que é a tua, Sérgio? É Então é Não, na boca Na massa Você é doido Que força da bexiga, mano Pera aí, pera aí Sérgio, não puxa não Que está na ponta das varas lá É tilápia Não ia escapar não Que é outra vara Está no rabo dela É, quer ver? Pegou no rabo mesmo Estava batando aí Essa aqui no rabo E essa aqui na boca Não, essa aqui ela levou a ponta da vara Igual mandi Igual mandi Igual mandi Oi? Dá uns três, irmão Dá uns três Dá uns três Não vai abrir a boca não Tem? Aí galera, tem? Barba Barba pescarias Olha ela aí Deixa eu tirar aqui Tem que arrumar aquela servinha lá do outro lado de novo Aquela era boa Ah, a canária é dos meus Sério mesmo? Pode dar uma cavadinha? De leve, de leve Bom saber Não, é na massinha Olha ela aí Dessa cor é bom, né? Quer dar uma reladinha Mas eu relei muito forte Na massa Ah, não Mas aí você exagerou Deu que agarrou a mão Encheu a mão Foi só uma reladinha que eu dei aqui, louco Mas é muita emoção Não puxa Quando puxa a gente assusta Eu vou falar pra você Pode ser 30, 35 Sérgio Agora põe aqui a ponta da vara Foi embora Nossa! Mais exagero também, pô Só da Rosilda Barriga dessa tilápia Será que ela tá comendo ceva? Será que sobrou ceva pra amanhã? Olha isso Cê tá, pô Vou abrir ela Que eu vou jogar ceva de volta Vou ver de quem que é a ceva, né? Será que é a tua, Sérgio? É Ou é Mais uma pescaria pra vocês Aqui no HP Paga Vou mostrar um peixinho pra vocês Aqui ó Sai uma merrequinha Sai uma quirelinha Uma paneluda É isso aí Pescaria de fevereiro Se eu não me engano Aqui a pescaria tá 15 reais Você via direto pra cá E pegar um lugarzinho É 15 reais Pra pescar no barranquinho E a reserva é 35 Ou é 40 Tem que ser direto pro Adamo Beleza? É isso aí Mais uma pescaria pra vocês Ih, bem que tá com ele Bora",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "Mais uma pescaria pra vocês aqui no"
+    },
+    {
+      "start": 2.34,
+      "end": 3.9,
+      "text": "Habibus H"
+    },
+    {
+      "start": 3.9,
+      "end": 6.32,
+      "text": "Santa Branca, vou mostrar o peixinho pra vocês"
+    },
+    {
+      "start": 6.32,
+      "end": 6.86,
+      "text": "Aqui ó"
+    },
+    {
+      "start": 6.86,
+      "end": 11.9,
+      "text": "Essa é uma merrequinha"
+    },
+    {
+      "start": 11.9,
+      "end": 24.36,
+      "text": "Uma quirelinha, uma paneluda"
+    },
+    {
+      "start": 24.36,
+      "end": 26.41,
+      "text": "É isso aí"
+    },
+    {
+      "start": 26.41,
+      "end": 29.21,
+      "text": "Pescaria de fevereiro"
+    },
+    {
+      "start": 29.21,
+      "end": 35.13,
+      "text": "Se eu não me engano aqui a pescaria tá 15 reais"
+    },
+    {
+      "start": 35.13,
+      "end": 38.06,
+      "text": "Você via direto pra cá e pegar um lugarzinho"
+    },
+    {
+      "start": 38.06,
+      "end": 39.62,
+      "text": "É 15 reais pra pescar no barranquinho"
+    },
+    {
+      "start": 39.62,
+      "end": 42.3,
+      "text": "E a reserva é 35 ou é 40"
+    },
+    {
+      "start": 42.3,
+      "end": 44.28,
+      "text": "Tem que ser direto pro Adam"
+    },
+    {
+      "start": 44.28,
+      "end": 46.19,
+      "text": "Beleza?"
+    },
+    {
+      "start": 46.19,
+      "end": 48.44,
+      "text": "Então é isso aí, mais uma pescaria pra vocês"
+    },
+    {
+      "start": 48.44,
+      "end": 51.24,
+      "text": "Ih, vem que tá vendo"
+    },
+    {
+      "start": 51.24,
+      "end": 52.77,
+      "text": "Bora"
+    },
+    {
+      "start": 52.77,
+      "end": 55.01,
+      "text": "Ligado hein"
+    },
+    {
+      "start": 55.01,
+      "end": 84.55,
+      "text": "Pegou só na beirinha, babãe"
+    },
+    {
+      "start": 84.55,
+      "end": 86.07,
+      "text": "Aqui ó, na boca dela"
+    },
+    {
+      "start": 86.07,
+      "end": 90.81,
+      "text": "Olha, parece um pacu, cara"
+    },
+    {
+      "start": 90.81,
+      "end": 93.68,
+      "text": "Olha a barriga disso aqui"
+    },
+    {
+      "start": 93.68,
+      "end": 96.14,
+      "text": "A ceba do Serjão todinha"
+    },
+    {
+      "start": 96.14,
+      "end": 99.19,
+      "text": "Câmera ligada hein"
+    },
+    {
+      "start": 99.19,
+      "end": 101.44,
+      "text": "Câmera ligada"
+    },
+    {
+      "start": 101.44,
+      "end": 107.79,
+      "text": "Grave, essa aqui eu vou soltar"
+    },
+    {
+      "start": 107.79,
+      "end": 111.0,
+      "text": "É, vai, vai, vai"
+    },
+    {
+      "start": 111.0,
+      "end": 117.46,
+      "text": "Agora vem"
+    },
+    {
+      "start": 117.46,
+      "end": 118.34,
+      "text": "Uma hora ela vem"
+    },
+    {
+      "start": 118.34,
+      "end": 125.69,
+      "text": "Titlápia"
+    },
+    {
+      "start": 125.69,
+      "end": 126.69,
+      "text": "Não, na boca"
+    },
+    {
+      "start": 126.69,
+      "end": 128.58,
+      "text": "Na boca"
+    },
+    {
+      "start": 128.58,
+      "end": 131.06,
+      "text": "Na massa"
+    },
+    {
+      "start": 131.06,
+      "end": 133.41,
+      "text": "É doido, que força da bexiga"
+    },
+    {
+      "start": 133.41,
+      "end": 135.89,
+      "text": "Pera aí, pera aí, Serjão não puxa não que tá na ponta das varas lá"
+    },
+    {
+      "start": 138.29,
+      "end": 139.81,
+      "text": "É, tilápia"
+    },
+    {
+      "start": 139.81,
+      "end": 146.25,
+      "text": "Ia não escapar não, que é outra vara lá"
+    },
+    {
+      "start": 146.25,
+      "end": 147.75,
+      "text": "Tá no rabo dela"
+    },
+    {
+      "start": 147.75,
+      "end": 149.01,
+      "text": "Quer ver?"
+    },
+    {
+      "start": 149.01,
+      "end": 150.01,
+      "text": "Chegou no rabo mesmo"
+    },
+    {
+      "start": 150.01,
+      "end": 151.01,
+      "text": "Tá batando aí"
+    },
+    {
+      "start": 151.01,
+      "end": 153.08,
+      "text": "Essa aqui no rabo"
+    },
+    {
+      "start": 153.08,
+      "end": 154.58,
+      "text": "E essa aqui na boca"
+    },
+    {
+      "start": 154.58,
+      "end": 156.34,
+      "text": "Não, essa aqui ela levou a ponta da vara"
+    },
+    {
+      "start": 156.34,
+      "end": 157.34,
+      "text": "Igual mandi"
+    },
+    {
+      "start": 157.34,
+      "end": 158.34,
+      "text": "Igual mandi, igual mandi"
+    },
+    {
+      "start": 158.34,
+      "end": 178.46,
+      "text": "Abriu boca não"
+    },
+    {
+      "start": 178.46,
+      "end": 180.68,
+      "text": "E aí galera, tem?"
+    },
+    {
+      "start": 180.68,
+      "end": 181.68,
+      "text": "Barba"
+    },
+    {
+      "start": 181.68,
+      "end": 182.68,
+      "text": "Barba Pescarias"
+    },
+    {
+      "start": 182.68,
+      "end": 183.78,
+      "text": "Olha ela aí"
+    },
+    {
+      "start": 183.78,
+      "end": 187.53,
+      "text": "Deixa eu tirar aqui"
+    },
+    {
+      "start": 187.53,
+      "end": 201.17,
+      "text": "Deixa eu tirar aqui"
+    },
+    {
+      "start": 201.17,
+      "end": 203.17,
+      "text": "Tem que arrumar aquela cevinha lá do outro lado de novo"
+    },
+    {
+      "start": 203.17,
+      "end": 205.74,
+      "text": "Aquela era boa"
+    },
+    {
+      "start": 205.74,
+      "end": 206.74,
+      "text": "A canária é dos meus"
+    },
+    {
+      "start": 206.74,
+      "end": 209.12,
+      "text": "Sério mesmo?"
+    },
+    {
+      "start": 209.12,
+      "end": 211.11,
+      "text": "Não"
+    },
+    {
+      "start": 211.11,
+      "end": 213.0,
+      "text": "Vai faltar uma cavadinha?"
+    },
+    {
+      "start": 213.0,
+      "end": 214.0,
+      "text": "De leve, de leve"
+    },
+    {
+      "start": 214.0,
+      "end": 221.12,
+      "text": "Bom saber"
+    },
+    {
+      "start": 221.12,
+      "end": 224.63,
+      "text": "Não, é na massinha"
+    },
+    {
+      "start": 224.63,
+      "end": 233.95,
+      "text": "Olha ela aí"
+    },
+    {
+      "start": 233.95,
+      "end": 245.32,
+      "text": "Dessa cor é bom, né?"
+    },
+    {
+      "start": 245.32,
+      "end": 247.0,
+      "text": "Ladinha"
+    },
+    {
+      "start": 247.0,
+      "end": 249.0,
+      "text": "Aqui é de um reladinho, mas o relay é muito forte"
+    },
+    {
+      "start": 249.0,
+      "end": 250.19,
+      "text": "Aqui é"
+    },
+    {
+      "start": 250.19,
+      "end": 252.19,
+      "text": "Ah não, mas aí você exagerou"
+    },
+    {
+      "start": 252.19,
+      "end": 253.19,
+      "text": "Deve gastar a mão"
+    },
+    {
+      "start": 253.19,
+      "end": 255.73,
+      "text": "Encheu a mão"
+    },
+    {
+      "start": 255.73,
+      "end": 257.73,
+      "text": "Foi só uma reladinha que eu dei aqui, louco"
+    },
+    {
+      "start": 257.73,
+      "end": 259.73,
+      "text": "Mas é muita emoção"
+    },
+    {
+      "start": 259.73,
+      "end": 260.73,
+      "text": "Não puxa, quando puxa a gente assusta"
+    },
+    {
+      "start": 260.73,
+      "end": 261.73,
+      "text": "Mas vou falar para você"
+    },
+    {
+      "start": 261.73,
+      "end": 263.73,
+      "text": "Pode ser 30, 35"
+    },
+    {
+      "start": 263.73,
+      "end": 265.8,
+      "text": "Agora põe aqui a ponta da vara"
+    },
+    {
+      "start": 265.8,
+      "end": 267.8,
+      "text": "Nossa, mas exagero também, pô"
+    },
+    {
+      "start": 267.8,
+      "end": 275.97,
+      "text": "Só da Rosilda"
+    },
+    {
+      "start": 275.97,
+      "end": 282.57,
+      "text": "Barriga dessa tilápia"
+    },
+    {
+      "start": 282.57,
+      "end": 283.57,
+      "text": "Será que ela está comendo ceva?"
+    },
+    {
+      "start": 283.57,
+      "end": 286.15,
+      "text": "Será que sobrou ceva para amanhã?"
+    },
+    {
+      "start": 286.15,
+      "end": 287.47,
+      "text": "Olha isso"
+    },
+    {
+      "start": 287.47,
+      "end": 290.23,
+      "text": "Tá doido"
+    },
+    {
+      "start": 290.23,
+      "end": 292.23,
+      "text": "Vou abrir ela que eu vou jogar ceva de volta"
+    },
+    {
+      "start": 292.23,
+      "end": 295.03,
+      "text": "Vou ver de quem que é a ceva, né?"
+    },
+    {
+      "start": 295.03,
+      "end": 297.12,
+      "text": "Será que é a tua, Sérgio?"
+    },
+    {
+      "start": 297.12,
+      "end": 298.12,
+      "text": "É"
+    },
+    {
+      "start": 298.12,
+      "end": 301.64,
+      "text": "Então é"
+    },
+    {
+      "start": 307.76,
+      "end": 315.04,
+      "text": "Não, na boca"
+    },
+    {
+      "start": 315.04,
+      "end": 316.04,
+      "text": "Na massa"
+    },
+    {
+      "start": 316.04,
+      "end": 318.44,
+      "text": "Você é doido"
+    },
+    {
+      "start": 318.44,
+      "end": 319.44,
+      "text": "Que força da bexiga, mano"
+    },
+    {
+      "start": 319.44,
+      "end": 320.76,
+      "text": "Pera aí, pera aí"
+    },
+    {
+      "start": 320.76,
+      "end": 321.76,
+      "text": "Sérgio, não puxa não"
+    },
+    {
+      "start": 321.76,
+      "end": 322.76,
+      "text": "Que está na ponta das varas lá"
+    },
+    {
+      "start": 322.76,
+      "end": 326.56,
+      "text": "É tilápia"
+    },
+    {
+      "start": 326.56,
+      "end": 332.42,
+      "text": "Não ia escapar não"
+    },
+    {
+      "start": 332.42,
+      "end": 333.42,
+      "text": "Que é outra vara"
+    },
+    {
+      "start": 333.42,
+      "end": 334.42,
+      "text": "Está no rabo dela"
+    },
+    {
+      "start": 334.42,
+      "end": 335.87,
+      "text": "É, quer ver?"
+    },
+    {
+      "start": 335.87,
+      "end": 336.87,
+      "text": "Pegou no rabo mesmo"
+    },
+    {
+      "start": 336.87,
+      "end": 337.87,
+      "text": "Estava batando aí"
+    },
+    {
+      "start": 337.87,
+      "end": 339.64,
+      "text": "Essa aqui no rabo"
+    },
+    {
+      "start": 339.64,
+      "end": 340.64,
+      "text": "E essa aqui na boca"
+    },
+    {
+      "start": 340.64,
+      "end": 342.64,
+      "text": "Não, essa aqui ela levou a ponta da vara"
+    },
+    {
+      "start": 342.64,
+      "end": 343.73,
+      "text": "Igual mandi"
+    },
+    {
+      "start": 343.73,
+      "end": 344.73,
+      "text": "Igual mandi"
+    },
+    {
+      "start": 344.73,
+      "end": 345.73,
+      "text": "Igual mandi"
+    },
+    {
+      "start": 345.73,
+      "end": 347.12,
+      "text": "Oi?"
+    },
+    {
+      "start": 347.12,
+      "end": 349.78,
+      "text": "Dá uns três, irmão"
+    },
+    {
+      "start": 349.78,
+      "end": 351.13,
+      "text": "Dá uns três"
+    },
+    {
+      "start": 351.13,
+      "end": 353.09,
+      "text": "Dá uns três"
+    },
+    {
+      "start": 353.09,
+      "end": 365.72,
+      "text": "Não vai abrir a boca não"
+    },
+    {
+      "start": 365.72,
+      "end": 366.72,
+      "text": "Tem?"
+    },
+    {
+      "start": 366.72,
+      "end": 367.72,
+      "text": "Aí galera, tem?"
+    },
+    {
+      "start": 367.72,
+      "end": 368.72,
+      "text": "Barba"
+    },
+    {
+      "start": 368.72,
+      "end": 369.72,
+      "text": "Barba pescarias"
+    },
+    {
+      "start": 369.72,
+      "end": 370.85,
+      "text": "Olha ela aí"
+    },
+    {
+      "start": 370.85,
+      "end": 374.54,
+      "text": "Deixa eu tirar aqui"
+    },
+    {
+      "start": 374.54,
+      "end": 389.08,
+      "text": "Tem que arrumar aquela servinha lá do outro lado de novo"
+    },
+    {
+      "start": 389.08,
+      "end": 390.08,
+      "text": "Aquela era boa"
+    },
+    {
+      "start": 390.08,
+      "end": 393.52,
+      "text": "Ah, a canária é dos meus"
+    },
+    {
+      "start": 393.52,
+      "end": 395.96,
+      "text": "Sério mesmo?"
+    },
+    {
+      "start": 395.96,
+      "end": 398.24,
+      "text": "Pode dar uma cavadinha?"
+    },
+    {
+      "start": 398.24,
+      "end": 401.49,
+      "text": "De leve, de leve"
+    },
+    {
+      "start": 401.49,
+      "end": 407.77,
+      "text": "Bom saber"
+    },
+    {
+      "start": 407.77,
+      "end": 411.52,
+      "text": "Não, é na massinha"
+    },
+    {
+      "start": 411.52,
+      "end": 420.81,
+      "text": "Olha ela aí"
+    },
+    {
+      "start": 420.81,
+      "end": 424.22,
+      "text": "Dessa cor é bom, né?"
+    },
+    {
+      "start": 424.22,
+      "end": 434.79,
+      "text": "Quer dar uma reladinha"
+    },
+    {
+      "start": 434.79,
+      "end": 435.79,
+      "text": "Mas eu relei muito forte"
+    },
+    {
+      "start": 435.79,
+      "end": 436.79,
+      "text": "Na massa"
+    },
+    {
+      "start": 436.79,
+      "end": 437.85,
+      "text": "Ah, não"
+    },
+    {
+      "start": 437.85,
+      "end": 438.85,
+      "text": "Mas aí você exagerou"
+    },
+    {
+      "start": 438.85,
+      "end": 440.85,
+      "text": "Deu que agarrou a mão"
+    },
+    {
+      "start": 440.85,
+      "end": 442.4,
+      "text": "Encheu a mão"
+    },
+    {
+      "start": 442.4,
+      "end": 444.4,
+      "text": "Foi só uma reladinha que eu dei aqui, louco"
+    },
+    {
+      "start": 445.4,
+      "end": 446.4,
+      "text": "Mas é muita emoção"
+    },
+    {
+      "start": 446.4,
+      "end": 447.4,
+      "text": "Não puxa"
+    },
+    {
+      "start": 447.4,
+      "end": 448.4,
+      "text": "Quando puxa a gente assusta"
+    },
+    {
+      "start": 448.4,
+      "end": 449.4,
+      "text": "Eu vou falar pra você"
+    },
+    {
+      "start": 449.4,
+      "end": 450.4,
+      "text": "Pode ser 30, 35"
+    },
+    {
+      "start": 450.4,
+      "end": 451.46,
+      "text": "Sérgio"
+    },
+    {
+      "start": 451.46,
+      "end": 452.46,
+      "text": "Agora põe aqui a ponta da vara"
+    },
+    {
+      "start": 452.46,
+      "end": 453.46,
+      "text": "Foi embora"
+    },
+    {
+      "start": 453.46,
+      "end": 454.46,
+      "text": "Nossa!"
+    },
+    {
+      "start": 454.46,
+      "end": 455.46,
+      "text": "Mais exagero também, pô"
+    },
+    {
+      "start": 455.46,
+      "end": 462.48,
+      "text": "Só da Rosilda"
+    },
+    {
+      "start": 462.48,
+      "end": 470.11,
+      "text": "Barriga dessa tilápia"
+    },
+    {
+      "start": 470.11,
+      "end": 471.11,
+      "text": "Será que ela tá comendo ceva?"
+    },
+    {
+      "start": 471.11,
+      "end": 473.59,
+      "text": "Será que sobrou ceva pra amanhã?"
+    },
+    {
+      "start": 473.59,
+      "end": 474.91,
+      "text": "Olha isso"
+    },
+    {
+      "start": 474.91,
+      "end": 477.09,
+      "text": "Cê tá, pô"
+    },
+    {
+      "start": 477.09,
+      "end": 478.83,
+      "text": "Vou abrir ela"
+    },
+    {
+      "start": 478.83,
+      "end": 479.83,
+      "text": "Que eu vou jogar ceva de volta"
+    },
+    {
+      "start": 479.83,
+      "end": 482.6,
+      "text": "Vou ver de quem que é a ceva, né?"
+    },
+    {
+      "start": 482.6,
+      "end": 484.68,
+      "text": "Será que é a tua, Sérgio?"
+    },
+    {
+      "start": 484.68,
+      "end": 485.68,
+      "text": "É"
+    },
+    {
+      "start": 485.68,
+      "end": 489.37,
+      "text": "Ou é"
+    },
+    {
+      "start": 491.53,
+      "end": 494.43,
+      "text": "Mais uma pescaria pra vocês"
+    },
+    {
+      "start": 494.43,
+      "end": 496.43,
+      "text": "Aqui no HP"
+    },
+    {
+      "start": 496.43,
+      "end": 498.43,
+      "text": "Paga"
+    },
+    {
+      "start": 498.43,
+      "end": 499.43,
+      "text": "Vou mostrar um peixinho pra vocês"
+    },
+    {
+      "start": 499.43,
+      "end": 504.04,
+      "text": "Aqui ó"
+    },
+    {
+      "start": 504.04,
+      "end": 505.04,
+      "text": "Sai uma merrequinha"
+    },
+    {
+      "start": 505.04,
+      "end": 516.25,
+      "text": "Sai uma quirelinha"
+    },
+    {
+      "start": 516.25,
+      "end": 517.25,
+      "text": "Uma paneluda"
+    },
+    {
+      "start": 517.25,
+      "end": 519.24,
+      "text": "É isso aí"
+    },
+    {
+      "start": 519.24,
+      "end": 522.33,
+      "text": "Pescaria de fevereiro"
+    },
+    {
+      "start": 522.33,
+      "end": 526.4,
+      "text": "Se eu não me engano"
+    },
+    {
+      "start": 526.4,
+      "end": 528.4,
+      "text": "Aqui a pescaria tá 15 reais"
+    },
+    {
+      "start": 528.4,
+      "end": 529.85,
+      "text": "Você via direto pra cá"
+    },
+    {
+      "start": 529.85,
+      "end": 530.85,
+      "text": "E pegar um lugarzinho"
+    },
+    {
+      "start": 530.85,
+      "end": 531.85,
+      "text": "É 15 reais"
+    },
+    {
+      "start": 531.85,
+      "end": 533.08,
+      "text": "Pra pescar no barranquinho"
+    },
+    {
+      "start": 533.08,
+      "end": 534.08,
+      "text": "E a reserva é 35"
+    },
+    {
+      "start": 534.08,
+      "end": 535.08,
+      "text": "Ou é 40"
+    },
+    {
+      "start": 535.08,
+      "end": 537.08,
+      "text": "Tem que ser direto pro Adamo"
+    },
+    {
+      "start": 537.08,
+      "end": 538.62,
+      "text": "Beleza?"
+    },
+    {
+      "start": 538.62,
+      "end": 539.65,
+      "text": "É isso aí"
+    },
+    {
+      "start": 539.65,
+      "end": 541.65,
+      "text": "Mais uma pescaria pra vocês"
+    },
+    {
+      "start": 541.65,
+      "end": 544.74,
+      "text": "Ih, bem que tá com ele"
+    },
+    {
+      "start": 544.74,
+      "end": 546.22,
+      "text": "Bora"
+    }
+  ],
+  "duracao_seg": 551.87,
+  "idioma_detectado": "pt"
+}

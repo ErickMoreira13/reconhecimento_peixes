@@ -1,0 +1,37 @@
+{
+  "texto": "Aqui é campamentinho ajeitado, hein, galera? Olha aqui, ó, sombrinha. Olha pra ali. Peixinho ali fritando. Mãozinho de lenha ali, ó. Caiacão na espera lá e essa visão linda.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Aqui é campamentinho ajeitado, hein, galera?"
+    },
+    {
+      "start": 2.64,
+      "end": 4.24,
+      "text": "Olha aqui, ó, sombrinha."
+    },
+    {
+      "start": 5.22,
+      "end": 5.82,
+      "text": "Olha pra ali."
+    },
+    {
+      "start": 7.45,
+      "end": 9.27,
+      "text": "Peixinho ali fritando."
+    },
+    {
+      "start": 9.69,
+      "end": 10.83,
+      "text": "Mãozinho de lenha ali, ó."
+    },
+    {
+      "start": 12.1,
+      "end": 14.76,
+      "text": "Caiacão na espera lá e essa visão linda."
+    }
+  ],
+  "duracao_seg": 15.19,
+  "idioma_detectado": "pt"
+}

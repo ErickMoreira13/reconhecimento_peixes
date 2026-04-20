@@ -1,0 +1,37 @@
+{
+  "texto": "Se você gosta de acampar com seu grupo ou com sua família, temos o local certo para você. Reserve uma data para agosto e setembro em Boituva. Faça como a família do Naim de Tatuí. Pesque grandes curimbas. Curimbas no chuveirinho é moleza. Faça sua reserva.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.62,
+      "text": "Se você gosta de acampar com seu grupo ou com sua família, temos o local certo para você."
+    },
+    {
+      "start": 6.26,
+      "end": 9.16,
+      "text": "Reserve uma data para agosto e setembro em Boituva."
+    },
+    {
+      "start": 9.92,
+      "end": 12.06,
+      "text": "Faça como a família do Naim de Tatuí."
+    },
+    {
+      "start": 12.64,
+      "end": 13.84,
+      "text": "Pesque grandes curimbas."
+    },
+    {
+      "start": 14.28,
+      "end": 15.98,
+      "text": "Curimbas no chuveirinho é moleza."
+    },
+    {
+      "start": 16.52,
+      "end": 17.72,
+      "text": "Faça sua reserva."
+    }
+  ],
+  "duracao_seg": 18.05,
+  "idioma_detectado": "pt"
+}

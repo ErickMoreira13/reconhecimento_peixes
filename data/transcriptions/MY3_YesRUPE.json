@@ -1,0 +1,32 @@
+{
+  "texto": "Tem um vídeo, ó rapaziada, pescareia começando agora aqui, ó o tamanho dos animal que tá saindo, cara Desse espargo, parece até da plataforma, fi Ó, ó o tamanho disso A outra, acabamos de chegar, a outra puxada que o amigo deu aqui, ó, pegou três, monstro É, pescareia aqui em Búzio, aqui ó, Goldenfish, Barqueiro Vinícius, vamo que vamo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.54,
+      "text": "Tem um vídeo, ó rapaziada, pescareia começando agora aqui, ó o tamanho dos animal que tá saindo, cara"
+    },
+    {
+      "start": 5.54,
+      "end": 9.26,
+      "text": "Desse espargo, parece até da plataforma, fi"
+    },
+    {
+      "start": 9.26,
+      "end": 12.84,
+      "text": "Ó, ó o tamanho disso"
+    },
+    {
+      "start": 12.84,
+      "end": 19.74,
+      "text": "A outra, acabamos de chegar, a outra puxada que o amigo deu aqui, ó, pegou três, monstro"
+    },
+    {
+      "start": 19.74,
+      "end": 24.77,
+      "text": "É, pescareia aqui em Búzio, aqui ó, Goldenfish, Barqueiro Vinícius, vamo que vamo"
+    }
+  ],
+  "duracao_seg": 25.49,
+  "idioma_detectado": "pt"
+}

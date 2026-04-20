@@ -1,0 +1,27 @@
+{
+  "texto": "Pega aqui o puxar, o pataguá. Assim que você está bem, que beleza. Uhul! Boa!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Pega aqui o puxar, o pataguá."
+    },
+    {
+      "start": 2.0,
+      "end": 4.16,
+      "text": "Assim que você está bem, que beleza."
+    },
+    {
+      "start": 4.16,
+      "end": 6.29,
+      "text": "Uhul!"
+    },
+    {
+      "start": 6.29,
+      "end": 10.14,
+      "text": "Boa!"
+    }
+  ],
+  "duracao_seg": 11.23,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,822 @@
+{
+  "texto": "Galera, dando início aqui, ó, mais uma pescaria embarcada. Paramos aqui na estrada, estamos na estrada de Ubatuba. Paramos aqui pra tomar um café, no banheiro. É isso aí, aqui começa o meu dia de pescaria, a segunda pescaria embarcada que eu vou fazer. Pescar no mar, embarcado no mar, né? Estrada de Ubatuba. Falta uma horinha daqui até lá, que a gente já tá lá. Daqui a pouco eu mostro pra vocês, se Deus quiser, dentro do barco. Beleza? Segue aí, acompanha aí. Vai ser, eu tenho certeza que vai ser uma pescaria bem da hora. Vamos ver o que vai bater lá. Um abraço. Tamo junto. Segue aí. Uma feira aqui, escolhendo umas coisas. Tamanho do robalo aqui, galera. É o tamanho do robalo. Flechão, ó. Corvina, né? Isso aqui é corvina? Corvina. Corvina. E esse aqui é o quê? Eu não sei o que que é, não. Não sei o que que é, não. É, isso aqui é o flecha. O robalo flecha. O amigo aqui tá comprando uns poucos. Peguei pelo sovaco. Peguei pelo sovaco. Batidinha. Dançada, hein? Dançada, enfim. É o tamanho. Você é de novo? Oh, você é de novo? Aí, galera. Sai um pititico aqui. Tô bom? Ele não quer... Não é fotogênico. Hã? Não? Um camarãozinho? Aí, galera. A tarde da carapé, vai. Que bonitona, ó. Chor de boa, né? Pelo menos um maiorzinho. E aí, galera? Isso é um badejinho aqui, ó. É uma pedra. Peixinho diferente, ó. Mas esse aqui nós temos que soltar. Tá batidinha? Tá aparecendo? Esse aqui é grande. Ah, vocês apareceram de novo. Esse aqui que eu levei bastante semana passada. Minha mãe gostou. Ah, não tem? Ah, então... O japonês já comeu coisa pior que isso aí. Pode levar. Que bonitona? É sacanagem. Tá aqui, ó. Tá aqui, ó. Aí, ó. Eita! Nossa! É? Grande? Aham, rapaz. Tomou lindo o shark aqui. Não, não sei se é grande, mas tomou lindo. Oh! É, ó. Outra carapela aí, ó. É a cabecinha, ó. Aí, tchô. Da hora, hein? Deu uma briguinha boa na varinha, 15 libras. É o quê? Ah, é a linha. Eu não sei, mas... Olha ela aqui, ó. Olha ela aqui. Grande ou não, Rodrigo? É. Sabe o que eu falei? Eu queria pegar uma mesmo. Pra ver a bagunça. Rodrigo tá aqui. Só que eu não vou levar, não. Só sei o que sabe, Rodrigo. Só sei o que sabe, Rodrigo. Só sei o que eu vou levar de Uber. E aí, galera. Entrou uma raia aqui na vara. Que é pra ela mesmo, ó. Tomara que ela... Vai que ela não rebelde. Deixa assim. Olha que coisa linda, gente. Olha ela, hein. Olha que coisa linda. Ah, meu. Tá lindo. Vou pegar a espada, ó. Valeu, obrigado. Dois no começo, ó. Que lenda, ó. E essa tem que dever ver, né? Boa, gente. Tá? E aí, galera. Doblezinha aí. Maior de quanto não pode, velho? Não pode, mas... A garota aí é um... Isso aqui, eu acho que é um... Sei lá. Isso aí tem que dever ver. Vai pra ir dormir. Vai pro vazio. Só tá aí. Batendo nada. Uma espadinha hoje. Aí vamos tentar aqui. Quem sabe saia alguma coisa. Se eu não voltar ali, eu vou pescar e embarcar. O celular também vai acabar a bateria. Beleza? Praça pra todo mundo. Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza? Beleza?",
+  "segmentos": [
+    {
+      "start": 42.51,
+      "end": 45.33,
+      "text": "Galera, dando início aqui, ó, mais uma pescaria embarcada."
+    },
+    {
+      "start": 45.83,
+      "end": 48.03,
+      "text": "Paramos aqui na estrada, estamos na estrada de Ubatuba."
+    },
+    {
+      "start": 48.92,
+      "end": 50.96,
+      "text": "Paramos aqui pra tomar um café, no banheiro."
+    },
+    {
+      "start": 52.46,
+      "end": 58.46,
+      "text": "É isso aí, aqui começa o meu dia de pescaria, a segunda pescaria embarcada que eu vou fazer."
+    },
+    {
+      "start": 59.82,
+      "end": 63.31,
+      "text": "Pescar no mar, embarcado no mar, né?"
+    },
+    {
+      "start": 65.58,
+      "end": 66.46,
+      "text": "Estrada de Ubatuba."
+    },
+    {
+      "start": 67.18,
+      "end": 70.25,
+      "text": "Falta uma horinha daqui até lá, que a gente já tá lá."
+    },
+    {
+      "start": 70.69,
+      "end": 74.69,
+      "text": "Daqui a pouco eu mostro pra vocês, se Deus quiser, dentro do barco."
+    },
+    {
+      "start": 75.13,
+      "end": 75.53,
+      "text": "Beleza?"
+    },
+    {
+      "start": 75.53,
+      "end": 77.64,
+      "text": "Segue aí, acompanha aí."
+    },
+    {
+      "start": 79.32,
+      "end": 81.6,
+      "text": "Vai ser, eu tenho certeza que vai ser uma pescaria bem da hora."
+    },
+    {
+      "start": 82.37,
+      "end": 83.41,
+      "text": "Vamos ver o que vai bater lá."
+    },
+    {
+      "start": 84.49,
+      "end": 85.01,
+      "text": "Um abraço."
+    },
+    {
+      "start": 86.0,
+      "end": 86.6,
+      "text": "Tamo junto."
+    },
+    {
+      "start": 87.49,
+      "end": 87.93,
+      "text": "Segue aí."
+    },
+    {
+      "start": 89.95,
+      "end": 92.23,
+      "text": "Uma feira aqui, escolhendo umas coisas."
+    },
+    {
+      "start": 98.32,
+      "end": 99.6,
+      "text": "Tamanho do robalo aqui, galera."
+    },
+    {
+      "start": 99.6,
+      "end": 100.38,
+      "text": "É o tamanho do robalo."
+    },
+    {
+      "start": 100.98,
+      "end": 101.54,
+      "text": "Flechão, ó."
+    },
+    {
+      "start": 103.46,
+      "end": 104.58,
+      "text": "Corvina, né? Isso aqui é corvina?"
+    },
+    {
+      "start": 104.76,
+      "end": 105.12,
+      "text": "Corvina."
+    },
+    {
+      "start": 105.56,
+      "end": 105.92,
+      "text": "Corvina."
+    },
+    {
+      "start": 106.64,
+      "end": 107.26,
+      "text": "E esse aqui é o quê?"
+    },
+    {
+      "start": 109.22,
+      "end": 110.18,
+      "text": "Eu não sei o que que é, não."
+    },
+    {
+      "start": 110.18,
+      "end": 111.06,
+      "text": "Não sei o que que é, não."
+    },
+    {
+      "start": 111.06,
+      "end": 115.54,
+      "text": "É, isso aqui é o flecha."
+    },
+    {
+      "start": 115.92,
+      "end": 117.18,
+      "text": "O robalo flecha."
+    },
+    {
+      "start": 119.78,
+      "end": 124.56,
+      "text": "O amigo aqui tá comprando uns poucos."
+    },
+    {
+      "start": 127.38,
+      "end": 178.03,
+      "text": "Peguei pelo sovaco."
+    },
+    {
+      "start": 182.64,
+      "end": 183.94,
+      "text": "Peguei pelo sovaco."
+    },
+    {
+      "start": 183.94,
+      "end": 191.6,
+      "text": "Batidinha."
+    },
+    {
+      "start": 197.46,
+      "end": 198.26,
+      "text": "Dançada, hein?"
+    },
+    {
+      "start": 198.5,
+      "end": 199.34,
+      "text": "Dançada, enfim."
+    },
+    {
+      "start": 199.72,
+      "end": 200.36,
+      "text": "É o tamanho."
+    },
+    {
+      "start": 219.86,
+      "end": 220.68,
+      "text": "Você é de novo?"
+    },
+    {
+      "start": 221.06,
+      "end": 221.96,
+      "text": "Oh, você é de novo?"
+    },
+    {
+      "start": 225.02,
+      "end": 225.64,
+      "text": "Aí, galera."
+    },
+    {
+      "start": 227.38,
+      "end": 228.56,
+      "text": "Sai um pititico aqui."
+    },
+    {
+      "start": 228.56,
+      "end": 262.61,
+      "text": "Tô bom?"
+    },
+    {
+      "start": 266.06,
+      "end": 266.96,
+      "text": "Ele não quer..."
+    },
+    {
+      "start": 266.96,
+      "end": 267.96,
+      "text": "Não é fotogênico."
+    },
+    {
+      "start": 269.3,
+      "end": 269.58,
+      "text": "Hã?"
+    },
+    {
+      "start": 270.69,
+      "end": 271.13,
+      "text": "Não?"
+    },
+    {
+      "start": 271.85,
+      "end": 272.57,
+      "text": "Um camarãozinho?"
+    },
+    {
+      "start": 275.74,
+      "end": 276.36,
+      "text": "Aí, galera."
+    },
+    {
+      "start": 277.3,
+      "end": 278.32,
+      "text": "A tarde da carapé, vai."
+    },
+    {
+      "start": 278.32,
+      "end": 282.22,
+      "text": "Que bonitona, ó."
+    },
+    {
+      "start": 283.3,
+      "end": 284.04,
+      "text": "Chor de boa, né?"
+    },
+    {
+      "start": 284.08,
+      "end": 285.04,
+      "text": "Pelo menos um maiorzinho."
+    },
+    {
+      "start": 285.84,
+      "end": 286.52,
+      "text": "E aí, galera?"
+    },
+    {
+      "start": 286.6,
+      "end": 288.18,
+      "text": "Isso é um badejinho aqui, ó."
+    },
+    {
+      "start": 288.18,
+      "end": 288.94,
+      "text": "É uma pedra."
+    },
+    {
+      "start": 289.1,
+      "end": 290.14,
+      "text": "Peixinho diferente, ó."
+    },
+    {
+      "start": 290.56,
+      "end": 291.88,
+      "text": "Mas esse aqui nós temos que soltar."
+    },
+    {
+      "start": 294.71,
+      "end": 295.17,
+      "text": "Tá batidinha?"
+    },
+    {
+      "start": 295.23,
+      "end": 295.61,
+      "text": "Tá aparecendo?"
+    },
+    {
+      "start": 296.17,
+      "end": 296.99,
+      "text": "Esse aqui é grande."
+    },
+    {
+      "start": 299.05,
+      "end": 309.79,
+      "text": "Ah, vocês apareceram de novo."
+    },
+    {
+      "start": 316.36,
+      "end": 318.74,
+      "text": "Esse aqui que eu levei bastante semana passada."
+    },
+    {
+      "start": 319.99,
+      "end": 320.63,
+      "text": "Minha mãe gostou."
+    },
+    {
+      "start": 320.63,
+      "end": 333.06,
+      "text": "Ah, não tem?"
+    },
+    {
+      "start": 333.72,
+      "end": 336.33,
+      "text": "Ah, então..."
+    },
+    {
+      "start": 336.33,
+      "end": 338.15,
+      "text": "O japonês já comeu coisa pior que isso aí."
+    },
+    {
+      "start": 338.23,
+      "end": 338.55,
+      "text": "Pode levar."
+    },
+    {
+      "start": 338.69,
+      "end": 339.03,
+      "text": "Que bonitona?"
+    },
+    {
+      "start": 339.73,
+      "end": 340.65,
+      "text": "É sacanagem."
+    },
+    {
+      "start": 341.57,
+      "end": 355.76,
+      "text": "Tá aqui, ó."
+    },
+    {
+      "start": 355.8,
+      "end": 356.3,
+      "text": "Tá aqui, ó."
+    },
+    {
+      "start": 357.6,
+      "end": 357.96,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 362.02,
+      "end": 362.42,
+      "text": "Eita!"
+    },
+    {
+      "start": 363.28,
+      "end": 363.68,
+      "text": "Nossa!"
+    },
+    {
+      "start": 364.2,
+      "end": 365.53,
+      "text": "É?"
+    },
+    {
+      "start": 365.67,
+      "end": 365.95,
+      "text": "Grande?"
+    },
+    {
+      "start": 366.19,
+      "end": 366.69,
+      "text": "Aham, rapaz."
+    },
+    {
+      "start": 367.76,
+      "end": 369.0,
+      "text": "Tomou lindo o shark aqui."
+    },
+    {
+      "start": 370.39,
+      "end": 372.07,
+      "text": "Não, não sei se é grande, mas tomou lindo."
+    },
+    {
+      "start": 374.16,
+      "end": 374.36,
+      "text": "Oh!"
+    },
+    {
+      "start": 375.2,
+      "end": 375.7,
+      "text": "É, ó."
+    },
+    {
+      "start": 375.7,
+      "end": 389.08,
+      "text": "Outra carapela aí, ó."
+    },
+    {
+      "start": 389.08,
+      "end": 389.94,
+      "text": "É a cabecinha, ó."
+    },
+    {
+      "start": 390.66,
+      "end": 391.24,
+      "text": "Aí, tchô."
+    },
+    {
+      "start": 391.84,
+      "end": 394.76,
+      "text": "Da hora, hein?"
+    },
+    {
+      "start": 395.0,
+      "end": 396.92,
+      "text": "Deu uma briguinha boa na varinha, 15 libras."
+    },
+    {
+      "start": 397.3,
+      "end": 404.18,
+      "text": "É o quê?"
+    },
+    {
+      "start": 407.43,
+      "end": 407.93,
+      "text": "Ah, é a linha."
+    },
+    {
+      "start": 410.41,
+      "end": 413.98,
+      "text": "Eu não sei, mas..."
+    },
+    {
+      "start": 413.98,
+      "end": 414.58,
+      "text": "Olha ela aqui, ó."
+    },
+    {
+      "start": 414.9,
+      "end": 415.34,
+      "text": "Olha ela aqui."
+    },
+    {
+      "start": 415.94,
+      "end": 416.72,
+      "text": "Grande ou não, Rodrigo?"
+    },
+    {
+      "start": 417.08,
+      "end": 417.4,
+      "text": "É."
+    },
+    {
+      "start": 428.69,
+      "end": 429.39,
+      "text": "Sabe o que eu falei?"
+    },
+    {
+      "start": 429.99,
+      "end": 448.02,
+      "text": "Eu queria pegar uma mesmo."
+    },
+    {
+      "start": 448.83,
+      "end": 449.85,
+      "text": "Pra ver a bagunça."
+    },
+    {
+      "start": 451.55,
+      "end": 452.23,
+      "text": "Rodrigo tá aqui."
+    },
+    {
+      "start": 452.57,
+      "end": 453.51,
+      "text": "Só que eu não vou levar, não."
+    },
+    {
+      "start": 458.2,
+      "end": 459.16,
+      "text": "Só sei o que sabe, Rodrigo."
+    },
+    {
+      "start": 459.16,
+      "end": 459.3,
+      "text": "Só sei o que sabe, Rodrigo."
+    },
+    {
+      "start": 459.3,
+      "end": 460.54,
+      "text": "Só sei o que eu vou levar de Uber."
+    },
+    {
+      "start": 461.24,
+      "end": 461.94,
+      "text": "E aí, galera."
+    },
+    {
+      "start": 461.94,
+      "end": 464.22,
+      "text": "Entrou uma raia aqui na vara."
+    },
+    {
+      "start": 464.84,
+      "end": 465.84,
+      "text": "Que é pra ela mesmo, ó."
+    },
+    {
+      "start": 466.14,
+      "end": 467.68,
+      "text": "Tomara que ela..."
+    },
+    {
+      "start": 467.68,
+      "end": 468.5,
+      "text": "Vai que ela não rebelde."
+    },
+    {
+      "start": 470.02,
+      "end": 470.48,
+      "text": "Deixa assim."
+    },
+    {
+      "start": 470.54,
+      "end": 471.54,
+      "text": "Olha que coisa linda, gente."
+    },
+    {
+      "start": 471.7,
+      "end": 472.14,
+      "text": "Olha ela, hein."
+    },
+    {
+      "start": 473.21,
+      "end": 474.01,
+      "text": "Olha que coisa linda."
+    },
+    {
+      "start": 475.12,
+      "end": 475.96,
+      "text": "Ah, meu."
+    },
+    {
+      "start": 476.32,
+      "end": 487.07,
+      "text": "Tá lindo."
+    },
+    {
+      "start": 487.86,
+      "end": 488.84,
+      "text": "Vou pegar a espada, ó."
+    },
+    {
+      "start": 512.46,
+      "end": 513.18,
+      "text": "Valeu, obrigado."
+    },
+    {
+      "start": 605.45,
+      "end": 606.73,
+      "text": "Dois no começo, ó."
+    },
+    {
+      "start": 606.79,
+      "end": 607.51,
+      "text": "Que lenda, ó."
+    },
+    {
+      "start": 610.5,
+      "end": 611.42,
+      "text": "E essa tem que dever ver, né?"
+    },
+    {
+      "start": 611.42,
+      "end": 611.98,
+      "text": "Boa, gente."
+    },
+    {
+      "start": 612.04,
+      "end": 613.36,
+      "text": "Tá?"
+    },
+    {
+      "start": 613.36,
+      "end": 616.78,
+      "text": "E aí, galera."
+    },
+    {
+      "start": 616.78,
+      "end": 618.76,
+      "text": "Doblezinha aí."
+    },
+    {
+      "start": 619.68,
+      "end": 621.08,
+      "text": "Maior de quanto não pode, velho?"
+    },
+    {
+      "start": 621.42,
+      "end": 622.8,
+      "text": "Não pode, mas..."
+    },
+    {
+      "start": 622.8,
+      "end": 627.03,
+      "text": "A garota aí é um..."
+    },
+    {
+      "start": 627.03,
+      "end": 629.04,
+      "text": "Isso aqui, eu acho que é um..."
+    },
+    {
+      "start": 629.04,
+      "end": 629.58,
+      "text": "Sei lá."
+    },
+    {
+      "start": 641.76,
+      "end": 642.56,
+      "text": "Isso aí tem que dever ver."
+    },
+    {
+      "start": 642.92,
+      "end": 722.49,
+      "text": "Vai pra ir dormir."
+    },
+    {
+      "start": 723.03,
+      "end": 736.6,
+      "text": "Vai pro vazio."
+    },
+    {
+      "start": 736.96,
+      "end": 737.4,
+      "text": "Só tá aí."
+    },
+    {
+      "start": 737.84,
+      "end": 746.59,
+      "text": "Batendo nada."
+    },
+    {
+      "start": 748.48,
+      "end": 749.5,
+      "text": "Uma espadinha hoje."
+    },
+    {
+      "start": 749.88,
+      "end": 752.08,
+      "text": "Aí vamos tentar aqui."
+    },
+    {
+      "start": 752.14,
+      "end": 753.58,
+      "text": "Quem sabe saia alguma coisa."
+    },
+    {
+      "start": 754.57,
+      "end": 755.65,
+      "text": "Se eu não voltar ali,"
+    },
+    {
+      "start": 756.11,
+      "end": 758.12,
+      "text": "eu vou pescar e embarcar."
+    },
+    {
+      "start": 758.12,
+      "end": 760.88,
+      "text": "O celular também vai acabar a bateria."
+    },
+    {
+      "start": 761.28,
+      "end": 764.13,
+      "text": "Beleza?"
+    },
+    {
+      "start": 766.07,
+      "end": 766.99,
+      "text": "Praça pra todo mundo."
+    },
+    {
+      "start": 766.99,
+      "end": 767.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 767.99,
+      "end": 768.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 768.99,
+      "end": 769.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 769.99,
+      "end": 770.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 770.99,
+      "end": 771.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 771.99,
+      "end": 772.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 772.99,
+      "end": 773.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 773.99,
+      "end": 774.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 774.99,
+      "end": 775.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 775.99,
+      "end": 776.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 776.99,
+      "end": 777.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 777.99,
+      "end": 778.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 778.99,
+      "end": 779.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 779.99,
+      "end": 780.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 780.99,
+      "end": 781.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 781.99,
+      "end": 782.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 782.99,
+      "end": 783.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 783.99,
+      "end": 784.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 784.99,
+      "end": 785.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 785.99,
+      "end": 786.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 786.99,
+      "end": 787.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 787.99,
+      "end": 788.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 788.99,
+      "end": 789.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 789.99,
+      "end": 790.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 790.99,
+      "end": 791.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 791.99,
+      "end": 792.99,
+      "text": "Beleza?"
+    },
+    {
+      "start": 792.99,
+      "end": 793.99,
+      "text": "Beleza?"
+    }
+  ],
+  "duracao_seg": 806.07,
+  "idioma_detectado": "pt"
+}

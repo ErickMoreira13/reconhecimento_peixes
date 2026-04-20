@@ -1,0 +1,17 @@
+{
+  "texto": "Você não vai acreditar no que vai acontecer agora. Estes homens acabaram pescando este animal enorme e o pior aconteceu.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "Você não vai acreditar no que vai acontecer agora."
+    },
+    {
+      "start": 3.52,
+      "end": 7.18,
+      "text": "Estes homens acabaram pescando este animal enorme e o pior aconteceu."
+    }
+  ],
+  "duracao_seg": 16.97,
+  "idioma_detectado": "pt"
+}

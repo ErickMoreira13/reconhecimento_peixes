@@ -1,0 +1,22 @@
+{
+  "texto": "Aí pessoal, tô usando assim, ó. Beleza? Ó que top. Tá dando bom, dando resultado, hein?",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 3.19,
+      "text": "Aí pessoal, tô usando assim, ó. Beleza?"
+    },
+    {
+      "start": 4.28,
+      "end": 4.84,
+      "text": "Ó que top."
+    },
+    {
+      "start": 6.96,
+      "end": 8.4,
+      "text": "Tá dando bom, dando resultado, hein?"
+    }
+  ],
+  "duracao_seg": 8.97,
+  "idioma_detectado": "pt"
+}

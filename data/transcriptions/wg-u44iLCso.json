@@ -1,0 +1,27 @@
+{
+  "texto": "galera sabe que Zinho de camarão Zinho top é só tacando pegando um atrás do outro pegar mais aí o oi oi oi oi a brigão oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi cara olá olá olá do blenzão de marimbau de novo tá pesado negócio caramba marimbal e dobro olá e é tá noi está boa pega dois marimbal oi oi oi oi",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 11.26,
+      "text": "galera sabe que Zinho de camarão Zinho top é só tacando pegando um atrás do outro pegar mais aí"
+    },
+    {
+      "start": 11.26,
+      "end": 28.49,
+      "text": "o oi oi oi oi a brigão oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi"
+    },
+    {
+      "start": 28.49,
+      "end": 42.39,
+      "text": "oi cara olá olá olá do blenzão de marimbau de novo tá pesado negócio caramba marimbal e dobro olá"
+    },
+    {
+      "start": 42.39,
+      "end": 49.48,
+      "text": "e é tá noi está boa pega dois marimbal oi oi oi oi"
+    }
+  ],
+  "duracao_seg": 51.17,
+  "idioma_detectado": "pt"
+}

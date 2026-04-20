@@ -1,0 +1,22 @@
+{
+  "texto": "Deixe esta vontade dividida, queres dar a tua vida, caminhar o teu caminho. Que esta verdade quase louca, libertar num beijo a boca, quando o sol amanhecer. Eu queria ter você no meu caminho, acordar, sentir que não estou.",
+  "segmentos": [
+    {
+      "start": 0.66,
+      "end": 14.37,
+      "text": "Deixe esta vontade dividida, queres dar a tua vida, caminhar o teu caminho."
+    },
+    {
+      "start": 14.37,
+      "end": 31.82,
+      "text": "Que esta verdade quase louca, libertar num beijo a boca, quando o sol amanhecer."
+    },
+    {
+      "start": 31.82,
+      "end": 58.59,
+      "text": "Eu queria ter você no meu caminho, acordar, sentir que não estou."
+    }
+  ],
+  "duracao_seg": 58.61,
+  "idioma_detectado": "pt"
+}

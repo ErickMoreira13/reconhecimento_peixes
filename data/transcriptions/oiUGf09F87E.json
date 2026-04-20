@@ -1,0 +1,72 @@
+{
+  "texto": "é o o o o o o o o o o o o",
+  "segmentos": [
+    {
+      "start": 3.12,
+      "end": 6.34,
+      "text": "é"
+    },
+    {
+      "start": 6.34,
+      "end": 24.7,
+      "text": "o"
+    },
+    {
+      "start": 24.7,
+      "end": 29.62,
+      "text": "o"
+    },
+    {
+      "start": 29.62,
+      "end": 31.62,
+      "text": "o"
+    },
+    {
+      "start": 31.62,
+      "end": 36.43,
+      "text": "o"
+    },
+    {
+      "start": 36.43,
+      "end": 38.59,
+      "text": "o"
+    },
+    {
+      "start": 38.59,
+      "end": 41.39,
+      "text": "o"
+    },
+    {
+      "start": 41.39,
+      "end": 43.39,
+      "text": "o"
+    },
+    {
+      "start": 43.39,
+      "end": 45.39,
+      "text": "o"
+    },
+    {
+      "start": 45.39,
+      "end": 48.03,
+      "text": "o"
+    },
+    {
+      "start": 48.03,
+      "end": 50.03,
+      "text": "o"
+    },
+    {
+      "start": 50.03,
+      "end": 52.03,
+      "text": "o"
+    },
+    {
+      "start": 52.03,
+      "end": 54.03,
+      "text": "o"
+    }
+  ],
+  "duracao_seg": 58.33,
+  "idioma_detectado": "pt"
+}

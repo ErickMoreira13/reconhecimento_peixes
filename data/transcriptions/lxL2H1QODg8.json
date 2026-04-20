@@ -1,0 +1,27 @@
+{
+  "texto": "Calma aí gente, que não cabe na lente do celular Vai ter que andar Aí vamos andando Peixaria, peixaria",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 3.04,
+      "text": "Calma aí gente, que não cabe na lente do celular"
+    },
+    {
+      "start": 3.04,
+      "end": 4.04,
+      "text": "Vai ter que andar"
+    },
+    {
+      "start": 4.04,
+      "end": 5.1,
+      "text": "Aí vamos andando"
+    },
+    {
+      "start": 5.1,
+      "end": 10.12,
+      "text": "Peixaria, peixaria"
+    }
+  ],
+  "duracao_seg": 10.13,
+  "idioma_detectado": "pt"
+}

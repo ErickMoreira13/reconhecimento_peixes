@@ -1,0 +1,42 @@
+{
+  "texto": "Olha isso, rapaziada, a tilápia voltou à vida. Deixei uma tilápia quase 3 horas fora d'água, dentro de uma sacola de plástico, no carro, e quando cheguei em casa, coloquei dentro do aquário pra testar a resistência à falta de oxigenação dessa espécie. E, incrivelmente, em poucos minutos, ela já estava recuperada. Por isso é importante o cuidado na hora de manusear essas espécies invasoras aqui no Brasil. Ela tem alta capacidade de adaptação e isso pode ser muito prejudicial às espécies nativas. Agora não esquece de me seguir pra mais conteúdo sobre peixe.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Olha isso, rapaziada, a tilápia voltou à vida."
+    },
+    {
+      "start": 3.16,
+      "end": 7.54,
+      "text": "Deixei uma tilápia quase 3 horas fora d'água, dentro de uma sacola de plástico, no carro,"
+    },
+    {
+      "start": 7.66,
+      "end": 12.84,
+      "text": "e quando cheguei em casa, coloquei dentro do aquário pra testar a resistência à falta de oxigenação dessa espécie."
+    },
+    {
+      "start": 12.92,
+      "end": 15.98,
+      "text": "E, incrivelmente, em poucos minutos, ela já estava recuperada."
+    },
+    {
+      "start": 16.02,
+      "end": 20.0,
+      "text": "Por isso é importante o cuidado na hora de manusear essas espécies invasoras aqui no Brasil."
+    },
+    {
+      "start": 20.1,
+      "end": 24.02,
+      "text": "Ela tem alta capacidade de adaptação e isso pode ser muito prejudicial às espécies nativas."
+    },
+    {
+      "start": 24.04,
+      "end": 26.28,
+      "text": "Agora não esquece de me seguir pra mais conteúdo sobre peixe."
+    }
+  ],
+  "duracao_seg": 26.43,
+  "idioma_detectado": "pt"
+}

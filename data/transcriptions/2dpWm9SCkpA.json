@@ -1,0 +1,347 @@
+{
+  "texto": "Juninho! Juninho! Aula, garoto! É bom! Tá pequeno? Pô, mas... Juninho, tá esfregando aí, vai arrebentar a linha. É. Caraca! E aí? É porque era pequeno, hein? Imagina se fosse grande. É. Juninho, roça a linha aí. Vai roçar a linha aí e vai arrebentar. Tô ouvindo, né? Tô vendo, não. Mas eu não tô vendo, não. Juninho, não é pra levantar, não, pô. Tá dentro do Passaguá. Tem uma linha azul aí, ó. No bote. Alto e vascaíno. Feliz da vida. Patou pro Flamengo, né? Não, não. Patou pro Flamengo, né? Não, não. Mandou pra você agir naquela boia, né? Mandou? E aí, nego? Olha o Rafa aí, ó. Logo duas, nego. Aula. Dia 24 de setembro. Vamos que vamos. Marcelo. Ó o balinho, ó o balinho em pé, mano. Aula. Calma, calma. Segura bem. Bora, Milton. Vaga o Passaguá. Passeio. E aí, meu parceiro? Fala tu. Chega mais, chega mais. Espera, Rondon. Espera eu subir. Deixa eu subir, deixa eu subir. Aí, ó. Convinossauro aqui. O amigo aqui também, ó. Tatuado aí, ó. Bravo a caraca. Minto novamente aí, ó. Dando aula. Dia 24 aí, ó. Pega isso pra você passar a mão. Aí, dá pra subir, dá pra subir. Sobe de uma vez sem bater no barco. Pega aqui, ó. Vai, sobe de uma vez sem bater no barco. Pega aqui, ó. Aí, garoto. Aula. Bora, Milton. Açaguá nele. Aí. Aula, garoto. Mais um. Aula de bola. Aula. Aula. Aula. Aula. Aula.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.58,
+      "text": "Juninho! Juninho! Aula, garoto!"
+    },
+    {
+      "start": 2.58,
+      "end": 4.48,
+      "text": "É bom!"
+    },
+    {
+      "start": 4.48,
+      "end": 5.48,
+      "text": "Tá pequeno?"
+    },
+    {
+      "start": 5.48,
+      "end": 6.48,
+      "text": "Pô, mas..."
+    },
+    {
+      "start": 6.48,
+      "end": 12.23,
+      "text": "Juninho, tá esfregando aí, vai arrebentar a linha."
+    },
+    {
+      "start": 12.23,
+      "end": 21.13,
+      "text": "É."
+    },
+    {
+      "start": 21.13,
+      "end": 22.13,
+      "text": "Caraca!"
+    },
+    {
+      "start": 22.13,
+      "end": 23.36,
+      "text": "E aí?"
+    },
+    {
+      "start": 23.36,
+      "end": 25.36,
+      "text": "É porque era pequeno, hein? Imagina se fosse grande."
+    },
+    {
+      "start": 25.36,
+      "end": 26.36,
+      "text": "É."
+    },
+    {
+      "start": 26.36,
+      "end": 27.86,
+      "text": "Juninho, roça a linha aí."
+    },
+    {
+      "start": 27.86,
+      "end": 29.36,
+      "text": "Vai roçar a linha aí e vai arrebentar."
+    },
+    {
+      "start": 29.36,
+      "end": 47.09,
+      "text": "Tô ouvindo, né?"
+    },
+    {
+      "start": 47.09,
+      "end": 48.41,
+      "text": "Tô vendo, não."
+    },
+    {
+      "start": 48.41,
+      "end": 51.21,
+      "text": "Mas eu não tô vendo, não."
+    },
+    {
+      "start": 51.21,
+      "end": 53.21,
+      "text": "Juninho, não é pra levantar, não, pô. Tá dentro do Passaguá."
+    },
+    {
+      "start": 53.21,
+      "end": 59.63,
+      "text": "Tem uma linha azul aí, ó."
+    },
+    {
+      "start": 59.63,
+      "end": 118.87,
+      "text": "No bote."
+    },
+    {
+      "start": 118.87,
+      "end": 132.26,
+      "text": "Alto e vascaíno. Feliz da vida."
+    },
+    {
+      "start": 132.26,
+      "end": 134.26,
+      "text": "Patou pro Flamengo, né?"
+    },
+    {
+      "start": 134.26,
+      "end": 135.42,
+      "text": "Não, não."
+    },
+    {
+      "start": 135.42,
+      "end": 136.42,
+      "text": "Patou pro Flamengo, né?"
+    },
+    {
+      "start": 136.42,
+      "end": 138.42,
+      "text": "Não, não."
+    },
+    {
+      "start": 138.42,
+      "end": 145.73,
+      "text": "Mandou pra você agir naquela boia, né?"
+    },
+    {
+      "start": 145.73,
+      "end": 146.73,
+      "text": "Mandou?"
+    },
+    {
+      "start": 146.73,
+      "end": 148.73,
+      "text": "E aí, nego? Olha o Rafa aí, ó."
+    },
+    {
+      "start": 148.73,
+      "end": 150.73,
+      "text": "Logo duas, nego. Aula."
+    },
+    {
+      "start": 150.73,
+      "end": 152.73,
+      "text": "Dia 24 de setembro."
+    },
+    {
+      "start": 152.73,
+      "end": 155.08,
+      "text": "Vamos que vamos."
+    },
+    {
+      "start": 155.08,
+      "end": 156.08,
+      "text": "Marcelo."
+    },
+    {
+      "start": 162.17,
+      "end": 234.35,
+      "text": "Ó o balinho, ó o balinho em pé, mano."
+    },
+    {
+      "start": 234.35,
+      "end": 235.35,
+      "text": "Aula."
+    },
+    {
+      "start": 235.35,
+      "end": 236.35,
+      "text": "Calma, calma. Segura bem."
+    },
+    {
+      "start": 236.35,
+      "end": 237.35,
+      "text": "Bora, Milton."
+    },
+    {
+      "start": 237.35,
+      "end": 238.35,
+      "text": "Vaga o Passaguá."
+    },
+    {
+      "start": 238.35,
+      "end": 239.35,
+      "text": "Passeio."
+    },
+    {
+      "start": 239.35,
+      "end": 240.35,
+      "text": "E aí, meu parceiro?"
+    },
+    {
+      "start": 240.35,
+      "end": 242.35,
+      "text": "Fala tu."
+    },
+    {
+      "start": 242.35,
+      "end": 244.18,
+      "text": "Chega mais, chega mais."
+    },
+    {
+      "start": 244.18,
+      "end": 245.18,
+      "text": "Espera, Rondon."
+    },
+    {
+      "start": 245.18,
+      "end": 246.18,
+      "text": "Espera eu subir."
+    },
+    {
+      "start": 246.18,
+      "end": 247.18,
+      "text": "Deixa eu subir, deixa eu subir."
+    },
+    {
+      "start": 247.18,
+      "end": 248.18,
+      "text": "Aí, ó. Convinossauro aqui."
+    },
+    {
+      "start": 248.18,
+      "end": 249.18,
+      "text": "O amigo aqui também, ó."
+    },
+    {
+      "start": 249.18,
+      "end": 250.18,
+      "text": "Tatuado aí, ó."
+    },
+    {
+      "start": 250.18,
+      "end": 251.18,
+      "text": "Bravo a caraca."
+    },
+    {
+      "start": 251.18,
+      "end": 253.18,
+      "text": "Minto novamente aí, ó."
+    },
+    {
+      "start": 253.18,
+      "end": 254.18,
+      "text": "Dando aula."
+    },
+    {
+      "start": 254.18,
+      "end": 256.69,
+      "text": "Dia 24 aí, ó."
+    },
+    {
+      "start": 256.69,
+      "end": 260.69,
+      "text": "Pega isso pra você passar a mão."
+    },
+    {
+      "start": 260.69,
+      "end": 264.17,
+      "text": "Aí, dá pra subir, dá pra subir."
+    },
+    {
+      "start": 264.17,
+      "end": 267.17,
+      "text": "Sobe de uma vez sem bater no barco."
+    },
+    {
+      "start": 267.17,
+      "end": 268.17,
+      "text": "Pega aqui, ó."
+    },
+    {
+      "start": 268.17,
+      "end": 270.17,
+      "text": "Vai, sobe de uma vez sem bater no barco."
+    },
+    {
+      "start": 270.17,
+      "end": 271.17,
+      "text": "Pega aqui, ó."
+    },
+    {
+      "start": 271.17,
+      "end": 272.43,
+      "text": "Aí, garoto."
+    },
+    {
+      "start": 272.43,
+      "end": 273.43,
+      "text": "Aula."
+    },
+    {
+      "start": 276.43,
+      "end": 277.43,
+      "text": "Bora, Milton."
+    },
+    {
+      "start": 277.43,
+      "end": 279.26,
+      "text": "Açaguá nele."
+    },
+    {
+      "start": 279.26,
+      "end": 280.26,
+      "text": "Aí."
+    },
+    {
+      "start": 282.77,
+      "end": 283.77,
+      "text": "Aula, garoto."
+    },
+    {
+      "start": 283.77,
+      "end": 284.77,
+      "text": "Mais um."
+    },
+    {
+      "start": 284.77,
+      "end": 287.21,
+      "text": "Aula de bola."
+    },
+    {
+      "start": 287.21,
+      "end": 288.21,
+      "text": "Aula."
+    },
+    {
+      "start": 288.21,
+      "end": 289.21,
+      "text": "Aula."
+    },
+    {
+      "start": 289.21,
+      "end": 290.21,
+      "text": "Aula."
+    },
+    {
+      "start": 290.21,
+      "end": 291.21,
+      "text": "Aula."
+    },
+    {
+      "start": 291.21,
+      "end": 292.21,
+      "text": "Aula."
+    }
+  ],
+  "duracao_seg": 295.37,
+  "idioma_detectado": "pt"
+}

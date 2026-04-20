@@ -1,0 +1,297 @@
+{
+  "texto": "Bem-vindo ao nosso programa. Obrigado por sempre ter um tempo para conversar com nós, Marcelo, e pintar um pouco a gente de como vem a pesca na nossa cidade. Olá, Nero, como está? Boas tardes a todos. A pesca está muito, muito linda por todos os lados. Tanto escollera, mar, como embarcado. Con calla, com gomão. Bom, me he enterrado por amigos que estão sacando muito boa pesca de muito bom porte. Bom, neste momento estamos compartilhando imagens da pesca variada de marcado, como vos recién fazia menção. O agradecimento para Guille de Omarco, que, bom, gentilmente nos enviou as imagens. E, bom, nos contava, que a pesca realmente é muito interessante nesta época do ano, que há especies de todo tipo e, bom, e se la passa muito bem. Sim, tudo por comentário, porque eu não me embarco, não me gusta, mas, bom, tenho muitos amigos que sim. E apareceu o cazão grande, que outros anos não venia, e corvinas grandes, corvinas 5, 6 kg. A pesca de... e não muito longe, está muito boa, está muito boa a pesca de embarcado. Por aí se alejou um pouco da costa, como vos dizia, a pesca da corvinas. Mas, bom, exemplares de muito bom tamanho que estão agarrando incluso também em calla. Sim, por isso te digo, de la costa não tanto como o ano passado, mas, sim, os agarram... e não muito longe, não muito longe. Os cazão se cheiam de corvinas grandes. Tenho amigos, já te digo, como... Reciém que umas corvinas hermosas e uns tiburones de gran porte, bom, que são devolvidos ao água, não é certo? Porque não se pode. E a costa não há rimado tanto como o outro ano. Como foi o cardumen esse grande que vinha, não foi tão boa a pesca. Normalmente se metia no octubre, noviembre, se vinha o cardumen grande para cá, para a costa, e se metia no puerto. Sim, sim, era uma fecha quase justa, um 12, um 13, um 14, de todos os anos que não falava. Mas esta vez, vinha, mas não tanto, não tanto, não o cardumen grande. Hãs saído com vinha, sim. Bom, Marce, que importante, não? Mientras vemos, como dizia, a pesca de mercado, que importante, que lindo, não? Porque salimos do porto e já estamos pescando. É um paraíso que temos este hermoso mar, e que em todo o frente costeiro se pode, fazendo pouquitos, pouquitos quilômetros, ou seja, muito perto da costa, poder sair e agarrar qualquer tipo de espécie, vesubos colorados, como é o caso do que estamos vendo, algum que outro salmão. Realmente é uma pesca super deportiva. Sim, sim, negro. Sim, nós temos um paraíso que, por aí, não nos damos conta, porque vivimos aqui e, e não nos damos conta tanto, mas a verdade é que temos razão, nós estamos em um paraíso.",
+  "segmentos": [
+    {
+      "start": 1.14,
+      "end": 48.5,
+      "text": "Bem-vindo ao nosso programa."
+    },
+    {
+      "start": 49.54,
+      "end": 52.74,
+      "text": "Obrigado por sempre ter um tempo para conversar com nós, Marcelo,"
+    },
+    {
+      "start": 52.82,
+      "end": 57.06,
+      "text": "e pintar um pouco a gente de como vem a pesca na nossa cidade."
+    },
+    {
+      "start": 58.06,
+      "end": 59.2,
+      "text": "Olá, Nero, como está?"
+    },
+    {
+      "start": 59.32,
+      "end": 61.22,
+      "text": "Boas tardes a todos."
+    },
+    {
+      "start": 62.5,
+      "end": 65.42,
+      "text": "A pesca está muito, muito linda por todos os lados."
+    },
+    {
+      "start": 66.44,
+      "end": 69.3,
+      "text": "Tanto escollera, mar, como embarcado."
+    },
+    {
+      "start": 70.69,
+      "end": 72.75,
+      "text": "Con calla, com gomão."
+    },
+    {
+      "start": 72.75,
+      "end": 82.48,
+      "text": "Bom, me he enterrado por amigos que estão sacando muito boa pesca de muito bom porte."
+    },
+    {
+      "start": 83.0,
+      "end": 87.36,
+      "text": "Bom, neste momento estamos compartilhando imagens da pesca variada de marcado,"
+    },
+    {
+      "start": 87.5,
+      "end": 89.82,
+      "text": "como vos recién fazia menção."
+    },
+    {
+      "start": 90.32,
+      "end": 95.82,
+      "text": "O agradecimento para Guille de Omarco, que, bom, gentilmente nos enviou as imagens."
+    },
+    {
+      "start": 96.4,
+      "end": 100.62,
+      "text": "E, bom, nos contava, que a pesca realmente é muito interessante nesta época do ano,"
+    },
+    {
+      "start": 100.62,
+      "end": 105.82,
+      "text": "que há especies de todo tipo e, bom, e se la passa muito bem."
+    },
+    {
+      "start": 106.58,
+      "end": 111.44,
+      "text": "Sim, tudo por comentário, porque eu não me embarco, não me gusta,"
+    },
+    {
+      "start": 111.78,
+      "end": 114.48,
+      "text": "mas, bom, tenho muitos amigos que sim."
+    },
+    {
+      "start": 115.3,
+      "end": 122.44,
+      "text": "E apareceu o cazão grande, que outros anos não venia,"
+    },
+    {
+      "start": 122.44,
+      "end": 126.98,
+      "text": "e corvinas grandes, corvinas 5, 6 kg."
+    },
+    {
+      "start": 127.98,
+      "end": 135.08,
+      "text": "A pesca de... e não muito longe, está muito boa, está muito boa a pesca de embarcado."
+    },
+    {
+      "start": 135.4,
+      "end": 140.2,
+      "text": "Por aí se alejou um pouco da costa, como vos dizia, a pesca da corvinas."
+    },
+    {
+      "start": 140.58,
+      "end": 145.24,
+      "text": "Mas, bom, exemplares de muito bom tamanho que estão agarrando incluso também em calla."
+    },
+    {
+      "start": 145.24,
+      "end": 150.18,
+      "text": "Sim, por isso te digo, de la costa não tanto como o ano passado,"
+    },
+    {
+      "start": 151.24,
+      "end": 156.64,
+      "text": "mas, sim, os agarram... e não muito longe, não muito longe."
+    },
+    {
+      "start": 156.74,
+      "end": 159.96,
+      "text": "Os cazão se cheiam de corvinas grandes."
+    },
+    {
+      "start": 160.24,
+      "end": 164.54,
+      "text": "Tenho amigos, já te digo, como..."
+    },
+    {
+      "start": 164.54,
+      "end": 170.18,
+      "text": "Reciém que umas corvinas hermosas e uns tiburones de gran porte,"
+    },
+    {
+      "start": 170.3,
+      "end": 172.78,
+      "text": "bom, que são devolvidos ao água, não é certo?"
+    },
+    {
+      "start": 172.96,
+      "end": 174.9,
+      "text": "Porque não se pode."
+    },
+    {
+      "start": 176.36,
+      "end": 179.42,
+      "text": "E a costa não há rimado tanto como o outro ano."
+    },
+    {
+      "start": 180.44,
+      "end": 183.06,
+      "text": "Como foi o cardumen esse grande que vinha,"
+    },
+    {
+      "start": 183.6,
+      "end": 186.22,
+      "text": "não foi tão boa a pesca."
+    },
+    {
+      "start": 186.86,
+      "end": 188.96,
+      "text": "Normalmente se metia no octubre, noviembre,"
+    },
+    {
+      "start": 188.96,
+      "end": 193.44,
+      "text": "se vinha o cardumen grande para cá, para a costa, e se metia no puerto."
+    },
+    {
+      "start": 193.44,
+      "end": 196.96,
+      "text": "Sim, sim, era uma fecha quase justa,"
+    },
+    {
+      "start": 197.14,
+      "end": 198.92,
+      "text": "um 12, um 13, um 14,"
+    },
+    {
+      "start": 199.78,
+      "end": 202.66,
+      "text": "de todos os anos que não falava."
+    },
+    {
+      "start": 202.84,
+      "end": 206.56,
+      "text": "Mas esta vez, vinha, mas não tanto, não tanto,"
+    },
+    {
+      "start": 206.86,
+      "end": 208.08,
+      "text": "não o cardumen grande."
+    },
+    {
+      "start": 208.58,
+      "end": 209.84,
+      "text": "Hãs saído com vinha, sim."
+    },
+    {
+      "start": 210.3,
+      "end": 211.7,
+      "text": "Bom, Marce, que importante, não?"
+    },
+    {
+      "start": 212.82,
+      "end": 215.06,
+      "text": "Mientras vemos, como dizia, a pesca de mercado,"
+    },
+    {
+      "start": 215.26,
+      "end": 216.48,
+      "text": "que importante, que lindo, não?"
+    },
+    {
+      "start": 216.48,
+      "end": 219.74,
+      "text": "Porque salimos do porto e já estamos pescando."
+    },
+    {
+      "start": 220.24,
+      "end": 223.3,
+      "text": "É um paraíso que temos este hermoso mar,"
+    },
+    {
+      "start": 223.3,
+      "end": 225.62,
+      "text": "e que em todo o frente costeiro se pode,"
+    },
+    {
+      "start": 225.96,
+      "end": 227.76,
+      "text": "fazendo pouquitos, pouquitos quilômetros,"
+    },
+    {
+      "start": 228.22,
+      "end": 230.3,
+      "text": "ou seja, muito perto da costa,"
+    },
+    {
+      "start": 230.7,
+      "end": 233.38,
+      "text": "poder sair e agarrar qualquer tipo de espécie,"
+    },
+    {
+      "start": 233.48,
+      "end": 236.18,
+      "text": "vesubos colorados, como é o caso do que estamos vendo,"
+    },
+    {
+      "start": 236.64,
+      "end": 237.84,
+      "text": "algum que outro salmão."
+    },
+    {
+      "start": 238.32,
+      "end": 240.3,
+      "text": "Realmente é uma pesca super deportiva."
+    },
+    {
+      "start": 241.08,
+      "end": 242.32,
+      "text": "Sim, sim, negro."
+    },
+    {
+      "start": 242.46,
+      "end": 244.08,
+      "text": "Sim, nós temos um paraíso que,"
+    },
+    {
+      "start": 244.82,
+      "end": 246.02,
+      "text": "por aí, não nos damos conta,"
+    },
+    {
+      "start": 246.02,
+      "end": 247.48,
+      "text": "porque vivimos aqui e,"
+    },
+    {
+      "start": 247.48,
+      "end": 249.76,
+      "text": "e não nos damos conta tanto,"
+    },
+    {
+      "start": 249.94,
+      "end": 252.2,
+      "text": "mas a verdade é que temos razão,"
+    },
+    {
+      "start": 252.4,
+      "end": 255.02,
+      "text": "nós estamos em um paraíso."
+    }
+  ],
+  "duracao_seg": 285.79,
+  "idioma_detectado": "pt"
+}

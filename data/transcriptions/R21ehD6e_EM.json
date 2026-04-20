@@ -1,0 +1,152 @@
+{
+  "texto": "Pessoal, aí que lugar top, pessoal. Pra você pescar, pessoal. Churrasqueira, mesa, aí tudo aqui, ó. Rede. Ó o banheiro ali, ó. Show de bola, cara. Pra vocês virem pescar aqui no ranchinho do nosso amigo Anderson aqui, ó. Ó. Pertinho daquele ponto curva do gato aqui. Pertinho do ponto curva do gato aqui também. Aí pra vocês verem a geladeira, pra vocês mexerem tudo aí, ó. Ó o riozão onde tá aqui, ó. Olha lá. Olha só o riozão onde tá. Aí, ó. Pessoal, de tarde você consegue ver até os peixes nadando aqui. Ih. Ó. Ai. Que show de bola, ó. Ai que pontinho pra você pescar uma piapara. Curimbão. Show de bola, ó. Tem banheiro, tem tudo aqui, pessoal. Ó o banheiro ali, tudo pra vocês, ó. Show de bola, hein. Acompanha nós aí. Eu vou deixar o contato do nosso amigo Anderson aí, tá? Deus abençoe.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "Pessoal, aí que lugar top, pessoal."
+    },
+    {
+      "start": 2.08,
+      "end": 3.02,
+      "text": "Pra você pescar, pessoal."
+    },
+    {
+      "start": 3.68,
+      "end": 5.96,
+      "text": "Churrasqueira, mesa, aí tudo aqui, ó."
+    },
+    {
+      "start": 6.76,
+      "end": 7.2,
+      "text": "Rede."
+    },
+    {
+      "start": 7.52,
+      "end": 8.46,
+      "text": "Ó o banheiro ali, ó."
+    },
+    {
+      "start": 8.56,
+      "end": 9.86,
+      "text": "Show de bola, cara."
+    },
+    {
+      "start": 9.94,
+      "end": 13.46,
+      "text": "Pra vocês virem pescar aqui no ranchinho do nosso amigo Anderson aqui, ó."
+    },
+    {
+      "start": 14.56,
+      "end": 14.82,
+      "text": "Ó."
+    },
+    {
+      "start": 16.99,
+      "end": 18.79,
+      "text": "Pertinho daquele ponto curva do gato aqui."
+    },
+    {
+      "start": 18.89,
+      "end": 20.53,
+      "text": "Pertinho do ponto curva do gato aqui também."
+    },
+    {
+      "start": 21.25,
+      "end": 24.09,
+      "text": "Aí pra vocês verem a geladeira, pra vocês mexerem tudo aí, ó."
+    },
+    {
+      "start": 24.49,
+      "end": 25.63,
+      "text": "Ó o riozão onde tá aqui, ó."
+    },
+    {
+      "start": 26.84,
+      "end": 27.22,
+      "text": "Olha lá."
+    },
+    {
+      "start": 28.59,
+      "end": 29.69,
+      "text": "Olha só o riozão onde tá."
+    },
+    {
+      "start": 31.28,
+      "end": 32.0,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 32.0,
+      "end": 38.51,
+      "text": "Pessoal, de tarde você consegue ver até os peixes nadando aqui."
+    },
+    {
+      "start": 39.86,
+      "end": 40.0,
+      "text": "Ih."
+    },
+    {
+      "start": 41.78,
+      "end": 42.0,
+      "text": "Ó."
+    },
+    {
+      "start": 42.48,
+      "end": 42.68,
+      "text": "Ai."
+    },
+    {
+      "start": 43.6,
+      "end": 44.6,
+      "text": "Que show de bola, ó."
+    },
+    {
+      "start": 45.36,
+      "end": 47.2,
+      "text": "Ai que pontinho pra você pescar uma piapara."
+    },
+    {
+      "start": 48.14,
+      "end": 48.46,
+      "text": "Curimbão."
+    },
+    {
+      "start": 49.32,
+      "end": 50.18,
+      "text": "Show de bola, ó."
+    },
+    {
+      "start": 50.18,
+      "end": 52.28,
+      "text": "Tem banheiro, tem tudo aqui, pessoal."
+    },
+    {
+      "start": 52.9,
+      "end": 54.5,
+      "text": "Ó o banheiro ali, tudo pra vocês, ó."
+    },
+    {
+      "start": 54.94,
+      "end": 55.8,
+      "text": "Show de bola, hein."
+    },
+    {
+      "start": 57.75,
+      "end": 58.37,
+      "text": "Acompanha nós aí."
+    },
+    {
+      "start": 58.41,
+      "end": 60.61,
+      "text": "Eu vou deixar o contato do nosso amigo Anderson aí, tá?"
+    },
+    {
+      "start": 60.79,
+      "end": 61.45,
+      "text": "Deus abençoe."
+    }
+  ],
+  "duracao_seg": 62.65,
+  "idioma_detectado": "pt"
+}
