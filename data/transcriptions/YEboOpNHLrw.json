@@ -1,0 +1,42 @@
+{
+  "texto": "Mostra aqui como é que eu faço. Um pedacinho de calabresa, uma ferramentazinha de tirasol, travessa, cabozinho de aço. É exagero o cabo de aço? É, mas eu prefiro. Boto aqui e puxo pela calabresa. Aí daqui eu esco ela aqui. Essente essa chavezinha aqui. Na outra ponta, um bem bolado aqui, um chumuzinho. Aqui é só jogar.",
+  "segmentos": [
+    {
+      "start": 1.71,
+      "end": 18.31,
+      "text": "Mostra aqui como é que eu faço. Um pedacinho de calabresa, uma ferramentazinha de tirasol, travessa, cabozinho de aço."
+    },
+    {
+      "start": 21.37,
+      "end": 23.63,
+      "text": "É exagero o cabo de aço? É, mas eu prefiro."
+    },
+    {
+      "start": 23.63,
+      "end": 31.77,
+      "text": "Boto aqui e puxo pela calabresa."
+    },
+    {
+      "start": 33.18,
+      "end": 39.32,
+      "text": "Aí daqui eu esco ela aqui."
+    },
+    {
+      "start": 44.75,
+      "end": 45.79,
+      "text": "Essente essa chavezinha aqui."
+    },
+    {
+      "start": 46.09,
+      "end": 65.36,
+      "text": "Na outra ponta, um bem bolado aqui, um chumuzinho."
+    },
+    {
+      "start": 66.3,
+      "end": 67.22,
+      "text": "Aqui é só jogar."
+    }
+  ],
+  "duracao_seg": 68.29,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Aí gente, olha nós aqui de novo, olha só, peguei aí ó, vários bagres, aí é um dos que eu tô mostrando a vocês e olha só, a isca que eu usei vocês não vão acreditar, é sério, calabresa de churrasco, crua coloquei e ó, mandei ver, um atrás do outro, um atrás do outro, a pescaria foi um sucesso e aí a varinha é simples, é de bambu, o anzol é unha de gato, vamos pra cima trabalhar pra pegar mais, né, mais peixes e olha só, aqui você usa a isca de peixe comum, esses peixes não vão, mas quando você usa a calabresa de churrasco eles ficam loucos, foi sucesso",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 8.49,
+      "text": "Aí gente, olha nós aqui de novo, olha só, peguei aí ó, vários bagres, aí é um dos que eu tô mostrando a vocês"
+    },
+    {
+      "start": 8.49,
+      "end": 17.61,
+      "text": "e olha só, a isca que eu usei vocês não vão acreditar, é sério, calabresa de churrasco, crua"
+    },
+    {
+      "start": 17.61,
+      "end": 26.11,
+      "text": "coloquei e ó, mandei ver, um atrás do outro, um atrás do outro, a pescaria foi um sucesso"
+    },
+    {
+      "start": 26.11,
+      "end": 36.79,
+      "text": "e aí a varinha é simples, é de bambu, o anzol é unha de gato, vamos pra cima trabalhar pra pegar mais, né, mais peixes"
+    },
+    {
+      "start": 36.79,
+      "end": 48.4,
+      "text": "e olha só, aqui você usa a isca de peixe comum, esses peixes não vão, mas quando você usa a calabresa de churrasco"
+    },
+    {
+      "start": 48.4,
+      "end": 50.38,
+      "text": "eles ficam loucos, foi sucesso"
+    }
+  ],
+  "duracao_seg": 52.77,
+  "idioma_detectado": "pt"
+}

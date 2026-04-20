@@ -1,0 +1,17 @@
+{
+  "texto": "Ela não entrega o coração Pra qualquer mano maloca que se acha o malvadão O Nato tá parou pra pensar que é automática",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.44,
+      "text": "Ela não entrega o coração Pra qualquer mano maloca que se acha o malvadão"
+    },
+    {
+      "start": 7.44,
+      "end": 12.44,
+      "text": "O Nato tá parou pra pensar que é automática"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

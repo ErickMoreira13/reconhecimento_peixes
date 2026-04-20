@@ -1,0 +1,312 @@
+{
+  "texto": "Enquanto frita, jogar uma linha aqui não vai fazer mal a ninguém. Chegou a chuva. Chegou. Olha como é que tá o horizonte. São 3 horas da tarde. Eita chuva! A metodologia do frio foi muito sensível esse frio. E daí foi a pernia muito rápida. O certo era eu ter colocado antes de começar a chover, né? Mas foi muito rápido. E eu não achei que seria tão forte assim. Aí pessoal, aqui a gente tá no meio da floresta lagada. Não tem onde eu parar aqui pra fazer o almoço. Resolvi fazer aqui em cima do caiaque. Frango frito. Vou fritar um frango aqui em cima do caiaque na floresta lagada. Esse vai ser meu almoço. Bora ver se vai dar certo. Acompanha aí. Vou ligar esse aqui pra você ter uma outra visão também. Tá aqui, olha, tudo lagado. Tô no meio aqui da floresta. Eu vou pegar o fugareiro aqui. Fugareiro não. Vou pegar aqui, ó, a frigideira. Colocar de volta o mochila pra lá. Já tem lugar pra cá. Aqui em cima. O fugareiro tá aqui embaixo da cadeira. Liguei aqui só pra eu pegar aqui a frigideira. Esse aqui foi o pão que eu esquentei agora de manhã nele. Só joguei uma água e coloquei de volta. Mas não tem problema não. Cadê a manteiga? Fogo funcionando. Frigideira ok. Mais cedo eu fiz o pão aí. Por isso que ela tá assim. Bora colocar a manteiga. E a gente é aqui, ó. Peixe batendo aí. Peixe batendo pra cá. E a gente na floresta lagado aqui. Fazendo o almoço. Tá maluco? Já trouxe já o frango temperado. Só mesmo fritar aqui. Aqui só não pode balançar. Que se isso aqui virar. Aí é problema. Quanto frita. Vou pegar uma linha aqui. Não vai fazer mal a ninguém. Eu comprei isso aqui. Eu não sei nem o que é isso. O que é isso? Isso aqui é... Coxinha de asa temperada. Ih, cheiro bom. Tá maluco? Eu não sei.",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 6.04,
+      "text": "Enquanto frita, jogar uma linha aqui não vai fazer mal a ninguém."
+    },
+    {
+      "start": 30.78,
+      "end": 31.44,
+      "text": "Chegou a chuva."
+    },
+    {
+      "start": 32.61,
+      "end": 33.05,
+      "text": "Chegou."
+    },
+    {
+      "start": 35.98,
+      "end": 37.24,
+      "text": "Olha como é que tá o horizonte."
+    },
+    {
+      "start": 38.02,
+      "end": 39.1,
+      "text": "São 3 horas da tarde."
+    },
+    {
+      "start": 39.52,
+      "end": 47.96,
+      "text": "Eita chuva!"
+    },
+    {
+      "start": 48.42,
+      "end": 67.17,
+      "text": "A metodologia do frio foi muito sensível esse frio."
+    },
+    {
+      "start": 68.48,
+      "end": 69.92,
+      "text": "E daí foi a pernia muito rápida."
+    },
+    {
+      "start": 74.66,
+      "end": 77.48,
+      "text": "O certo era eu ter colocado antes de começar a chover, né?"
+    },
+    {
+      "start": 79.12,
+      "end": 80.22,
+      "text": "Mas foi muito rápido."
+    },
+    {
+      "start": 85.06,
+      "end": 86.82,
+      "text": "E eu não achei que seria tão forte assim."
+    },
+    {
+      "start": 100.73,
+      "end": 103.35,
+      "text": "Aí pessoal, aqui a gente tá no meio da floresta lagada."
+    },
+    {
+      "start": 103.35,
+      "end": 106.27,
+      "text": "Não tem onde eu parar aqui pra fazer o almoço."
+    },
+    {
+      "start": 107.01,
+      "end": 109.65,
+      "text": "Resolvi fazer aqui em cima do caiaque."
+    },
+    {
+      "start": 112.0,
+      "end": 113.1,
+      "text": "Frango frito."
+    },
+    {
+      "start": 113.18,
+      "end": 116.34,
+      "text": "Vou fritar um frango aqui em cima do caiaque na floresta lagada."
+    },
+    {
+      "start": 117.08,
+      "end": 118.2,
+      "text": "Esse vai ser meu almoço."
+    },
+    {
+      "start": 118.88,
+      "end": 119.92,
+      "text": "Bora ver se vai dar certo."
+    },
+    {
+      "start": 120.02,
+      "end": 120.6,
+      "text": "Acompanha aí."
+    },
+    {
+      "start": 121.16,
+      "end": 124.3,
+      "text": "Vou ligar esse aqui pra você ter uma outra visão também."
+    },
+    {
+      "start": 124.8,
+      "end": 126.0,
+      "text": "Tá aqui, olha, tudo lagado."
+    },
+    {
+      "start": 126.74,
+      "end": 128.08,
+      "text": "Tô no meio aqui da floresta."
+    },
+    {
+      "start": 128.88,
+      "end": 130.14,
+      "text": "Eu vou pegar o fugareiro aqui."
+    },
+    {
+      "start": 138.78,
+      "end": 139.4,
+      "text": "Fugareiro não."
+    },
+    {
+      "start": 139.4,
+      "end": 144.16,
+      "text": "Vou pegar aqui, ó, a frigideira."
+    },
+    {
+      "start": 145.44,
+      "end": 147.3,
+      "text": "Colocar de volta o mochila pra lá."
+    },
+    {
+      "start": 149.09,
+      "end": 150.29,
+      "text": "Já tem lugar pra cá."
+    },
+    {
+      "start": 150.83,
+      "end": 152.29,
+      "text": "Aqui em cima."
+    },
+    {
+      "start": 152.83,
+      "end": 164.69,
+      "text": "O fugareiro tá aqui embaixo da cadeira."
+    },
+    {
+      "start": 165.15,
+      "end": 313.07,
+      "text": "Liguei aqui só pra eu pegar aqui a frigideira."
+    },
+    {
+      "start": 328.89,
+      "end": 331.39,
+      "text": "Esse aqui foi o pão que eu esquentei agora de manhã nele."
+    },
+    {
+      "start": 331.95,
+      "end": 334.55,
+      "text": "Só joguei uma água e coloquei de volta."
+    },
+    {
+      "start": 334.67,
+      "end": 335.45,
+      "text": "Mas não tem problema não."
+    },
+    {
+      "start": 337.38,
+      "end": 338.26,
+      "text": "Cadê a manteiga?"
+    },
+    {
+      "start": 350.42,
+      "end": 351.38,
+      "text": "Fogo funcionando."
+    },
+    {
+      "start": 352.38,
+      "end": 353.16,
+      "text": "Frigideira ok."
+    },
+    {
+      "start": 353.16,
+      "end": 355.44,
+      "text": "Mais cedo eu fiz o pão aí."
+    },
+    {
+      "start": 355.72,
+      "end": 356.72,
+      "text": "Por isso que ela tá assim."
+    },
+    {
+      "start": 357.62,
+      "end": 358.8,
+      "text": "Bora colocar a manteiga."
+    },
+    {
+      "start": 375.24,
+      "end": 376.08,
+      "text": "E a gente é aqui, ó."
+    },
+    {
+      "start": 377.54,
+      "end": 378.44,
+      "text": "Peixe batendo aí."
+    },
+    {
+      "start": 379.54,
+      "end": 380.58,
+      "text": "Peixe batendo pra cá."
+    },
+    {
+      "start": 381.38,
+      "end": 383.0,
+      "text": "E a gente na floresta lagado aqui."
+    },
+    {
+      "start": 384.19,
+      "end": 385.13,
+      "text": "Fazendo o almoço."
+    },
+    {
+      "start": 386.88,
+      "end": 387.6,
+      "text": "Tá maluco?"
+    },
+    {
+      "start": 389.08,
+      "end": 390.88,
+      "text": "Já trouxe já o frango temperado."
+    },
+    {
+      "start": 391.92,
+      "end": 393.1,
+      "text": "Só mesmo fritar aqui."
+    },
+    {
+      "start": 393.1,
+      "end": 430.64,
+      "text": "Aqui só não pode balançar."
+    },
+    {
+      "start": 430.74,
+      "end": 431.78,
+      "text": "Que se isso aqui virar."
+    },
+    {
+      "start": 435.57,
+      "end": 436.43,
+      "text": "Aí é problema."
+    },
+    {
+      "start": 436.89,
+      "end": 511.0,
+      "text": "Quanto frita."
+    },
+    {
+      "start": 511.52,
+      "end": 515.42,
+      "text": "Vou pegar uma linha aqui."
+    },
+    {
+      "start": 515.48,
+      "end": 516.42,
+      "text": "Não vai fazer mal a ninguém."
+    },
+    {
+      "start": 542.41,
+      "end": 543.37,
+      "text": "Eu comprei isso aqui."
+    },
+    {
+      "start": 543.41,
+      "end": 544.29,
+      "text": "Eu não sei nem o que é isso."
+    },
+    {
+      "start": 544.37,
+      "end": 544.91,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 545.78,
+      "end": 547.3,
+      "text": "Isso aqui é..."
+    },
+    {
+      "start": 547.3,
+      "end": 549.28,
+      "text": "Coxinha de asa temperada."
+    },
+    {
+      "start": 551.07,
+      "end": 552.25,
+      "text": "Ih, cheiro bom."
+    },
+    {
+      "start": 552.39,
+      "end": 553.07,
+      "text": "Tá maluco?"
+    },
+    {
+      "start": 553.07,
+      "end": 572.99,
+      "text": "Eu não sei."
+    }
+  ],
+  "duracao_seg": 807.03,
+  "idioma_detectado": "pt"
+}

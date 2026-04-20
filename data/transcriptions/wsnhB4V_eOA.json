@@ -1,0 +1,87 @@
+{
+  "texto": "Pessoal, a calabresa que a gente está usando aqui é aquela calabresa de pizza Meu pai está iscando assim, um dedo de grossura E aqui ele corta em quatro Foi assim que eu peguei o piauçu Aí passa a agulha aqui Aquela agulha de carangueja Fura ela aqui O ideal é fazer isso Porque eu peguei num anzolzinho só Mas pega um piauçu maior ou um pacu É perigoso ele cortar Certo é pôr num anzolzinho que a gente usa um castor Tá puxando pai Caranguejo Fatal Piau, piapara, piauçu, pacu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "Pessoal, a calabresa que a gente está usando aqui é aquela calabresa de pizza"
+    },
+    {
+      "start": 3.68,
+      "end": 7.82,
+      "text": "Meu pai está iscando assim, um dedo de grossura"
+    },
+    {
+      "start": 7.82,
+      "end": 10.78,
+      "text": "E aqui ele corta em quatro"
+    },
+    {
+      "start": 10.78,
+      "end": 12.66,
+      "text": "Foi assim que eu peguei o piauçu"
+    },
+    {
+      "start": 12.66,
+      "end": 16.98,
+      "text": "Aí passa a agulha aqui"
+    },
+    {
+      "start": 16.98,
+      "end": 19.48,
+      "text": "Aquela agulha de carangueja"
+    },
+    {
+      "start": 19.48,
+      "end": 22.2,
+      "text": "Fura ela aqui"
+    },
+    {
+      "start": 22.2,
+      "end": 24.23,
+      "text": "O ideal é fazer isso"
+    },
+    {
+      "start": 24.23,
+      "end": 26.21,
+      "text": "Porque eu peguei num anzolzinho só"
+    },
+    {
+      "start": 26.21,
+      "end": 28.11,
+      "text": "Mas pega um piauçu maior ou um pacu"
+    },
+    {
+      "start": 28.11,
+      "end": 29.99,
+      "text": "É perigoso ele cortar"
+    },
+    {
+      "start": 29.99,
+      "end": 33.5,
+      "text": "Certo é pôr num anzolzinho que a gente usa um castor"
+    },
+    {
+      "start": 33.5,
+      "end": 34.3,
+      "text": "Tá puxando pai"
+    },
+    {
+      "start": 34.3,
+      "end": 35.98,
+      "text": "Caranguejo"
+    },
+    {
+      "start": 35.98,
+      "end": 41.87,
+      "text": "Fatal"
+    },
+    {
+      "start": 41.87,
+      "end": 45.66,
+      "text": "Piau, piapara, piauçu, pacu"
+    }
+  ],
+  "duracao_seg": 46.63,
+  "idioma_detectado": "pt"
+}

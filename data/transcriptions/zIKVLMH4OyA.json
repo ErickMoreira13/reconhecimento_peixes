@@ -1,0 +1,27 @@
+{
+  "texto": "e aqui é mais ou menos assim rapaziada ó é só questão de colocar a isca ó tô usando calabresa de isca jogar e arrastar o peixe não demora ó ninguém ali ó só quanto tempo vai demorar ó abeliscou nossa senhora perdi a fisgada tô olhando o celular aqui perdi a vendida da o café nossa senhora isso é bonito eu escapou vamos buscar",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 6.77,
+      "text": "e aqui é mais ou menos assim rapaziada ó é só questão de colocar a isca ó tô usando calabresa"
+    },
+    {
+      "start": 6.77,
+      "end": 14.21,
+      "text": "de isca jogar e arrastar o peixe não demora ó ninguém ali ó só quanto tempo vai demorar ó"
+    },
+    {
+      "start": 14.21,
+      "end": 20.72,
+      "text": "abeliscou nossa senhora perdi a fisgada tô olhando o celular aqui perdi a vendida da"
+    },
+    {
+      "start": 20.72,
+      "end": 27.2,
+      "text": "o café nossa senhora isso é bonito eu escapou vamos buscar"
+    }
+  ],
+  "duracao_seg": 27.25,
+  "idioma_detectado": "pt"
+}

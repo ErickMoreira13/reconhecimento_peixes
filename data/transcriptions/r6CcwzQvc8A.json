@@ -1,0 +1,62 @@
+{
+  "texto": "Galera, vou mostrar pra vocês como é que eu estou iscando aquela breza, como que eu isco geralmente. Eu corto ela uma rodela assim, certo? Nem sei que finura que é essa aqui, mas não muito grosso, redonda. Aí eu pego a parte mais fina, enfio o passador de caranguejo e saio do outro lado. Aí eu pego o mesmo sisteminha que eu estou usando pra colocar o caramujo, o caranguejo, aqui dentro, assim, ó, bem cravado mesmo, ó, ele esconde bem, ó, tá? Aí depois eu pego e corto essas beiradas, vejo onde que está mais ou menos o anzol, ó, vai ficar assim, ó, o triângulo, ó, o anzol bem escondido lá dentro, é assim que eu estou pegando os piaus aqui, beleza? Tá lendo?",
+  "segmentos": [
+    {
+      "start": 0.38,
+      "end": 4.88,
+      "text": "Galera, vou mostrar pra vocês como é que eu estou iscando aquela breza, como que eu"
+    },
+    {
+      "start": 4.88,
+      "end": 6.0,
+      "text": "isco geralmente."
+    },
+    {
+      "start": 6.16,
+      "end": 8.8,
+      "text": "Eu corto ela uma rodela assim, certo?"
+    },
+    {
+      "start": 10.1,
+      "end": 14.87,
+      "text": "Nem sei que finura que é essa aqui, mas não muito grosso, redonda."
+    },
+    {
+      "start": 15.51,
+      "end": 19.51,
+      "text": "Aí eu pego a parte mais fina, enfio o passador de caranguejo e saio do outro lado."
+    },
+    {
+      "start": 25.83,
+      "end": 30.49,
+      "text": "Aí eu pego o mesmo sisteminha que eu estou usando pra colocar o caramujo, o caranguejo,"
+    },
+    {
+      "start": 30.49,
+      "end": 77.01,
+      "text": "aqui dentro, assim, ó, bem cravado mesmo, ó, ele esconde bem, ó, tá?"
+    },
+    {
+      "start": 77.51,
+      "end": 94.6,
+      "text": "Aí depois eu pego e corto essas beiradas, vejo onde que está mais ou menos o anzol, ó,"
+    },
+    {
+      "start": 94.6,
+      "end": 100.48,
+      "text": "vai ficar assim, ó, o triângulo, ó, o anzol bem escondido lá dentro, é assim que eu"
+    },
+    {
+      "start": 100.48,
+      "end": 102.5,
+      "text": "estou pegando os piaus aqui, beleza?"
+    },
+    {
+      "start": 102.88,
+      "end": 103.24,
+      "text": "Tá lendo?"
+    }
+  ],
+  "duracao_seg": 104.65,
+  "idioma_detectado": "pt"
+}

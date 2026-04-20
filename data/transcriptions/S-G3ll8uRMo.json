@@ -1,0 +1,32 @@
+{
+  "texto": "E aí pessoal, vocês que querem brincar aqui com o Piauzinho já? Uma divisa de Mojimine com Mojiguaçu no Rio Mojiguaçu? É que eu não estou focando aí. É uma massinha branca e uma...",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 3.67,
+      "text": "E aí pessoal, vocês que querem brincar aqui com o Piauzinho já?"
+    },
+    {
+      "start": 3.67,
+      "end": 7.48,
+      "text": "Uma divisa de Mojimine com Mojiguaçu no Rio Mojiguaçu?"
+    },
+    {
+      "start": 7.48,
+      "end": 9.32,
+      "text": "É que eu não estou focando aí."
+    },
+    {
+      "start": 9.32,
+      "end": 11.33,
+      "text": "É uma massinha branca"
+    },
+    {
+      "start": 11.33,
+      "end": 12.83,
+      "text": "e uma..."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

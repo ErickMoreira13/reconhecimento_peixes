@@ -1,0 +1,37 @@
+{
+  "texto": "Olha pra grande rapaz, graúdo, olha lá pessoal Olha pessoal Quem falou que isso aí ia soltar, essa vai levar Olha aí pessoal E lá pô na boa, essa já era pra levar Olha aí ó, na massinha de pão",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "Olha pra grande rapaz, graúdo, olha lá pessoal"
+    },
+    {
+      "start": 2.08,
+      "end": 3.66,
+      "text": "Olha pessoal"
+    },
+    {
+      "start": 3.66,
+      "end": 6.32,
+      "text": "Quem falou que isso aí ia soltar, essa vai levar"
+    },
+    {
+      "start": 6.32,
+      "end": 8.62,
+      "text": "Olha aí pessoal"
+    },
+    {
+      "start": 8.62,
+      "end": 11.2,
+      "text": "E lá pô na boa, essa já era pra levar"
+    },
+    {
+      "start": 11.2,
+      "end": 14.89,
+      "text": "Olha aí ó, na massinha de pão"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

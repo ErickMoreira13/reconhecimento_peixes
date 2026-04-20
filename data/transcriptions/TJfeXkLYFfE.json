@@ -1,0 +1,22 @@
+{
+  "texto": "Bom dia, boa tarde, boa noite a todos, né pessoal, vim pra dar uma pescadinha aí, hoje eu tô usando massinha de alho, massinha de alho misturado com trigo, vamos ver se nós pegamos uns peixinhos hoje aí, bora lá pescar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.83,
+      "text": "Bom dia, boa tarde, boa noite a todos, né pessoal, vim pra dar uma pescadinha aí, hoje eu tô usando"
+    },
+    {
+      "start": 4.83,
+      "end": 11.79,
+      "text": "massinha de alho, massinha de alho misturado com trigo, vamos ver se nós pegamos uns peixinhos"
+    },
+    {
+      "start": 11.79,
+      "end": 14.18,
+      "text": "hoje aí, bora lá pescar."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}
