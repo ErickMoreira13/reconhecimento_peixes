@@ -11,7 +11,11 @@ import requests
 import yt_dlp
 
 from src import config
+from src.log import get_logger
 from src.storage import db as storage
+
+
+_log = get_logger()
 
 
 # busca na api do youtube usando as keys rotativas
@@ -36,7 +40,7 @@ def _search_page(query: str, key: str, page_token: str | None = None, published_
     try:
         r = requests.get(url, params=params, timeout=20)
     except Exception as e:
-        print(f"erro na request youtube: {e}")
+        _log.warning("erro na request youtube: %s", e)
         return None
 
     if r.status_code == 200:
@@ -44,10 +48,10 @@ def _search_page(query: str, key: str, page_token: str | None = None, published_
 
     # 403 geralmente eh quota estourada
     if r.status_code == 403:
-        print(f"key {key[:12]}... deve ter estourado quota ({r.status_code})")
+        _log.warning("key %s... deve ter estourado quota (%d)", key[:12], r.status_code)
         return None
 
-    print(f"resposta estranha da api: {r.status_code} - {r.text[:200]}")
+    _log.warning("resposta estranha da api: %d - %s", r.status_code, r.text[:200])
     return None
 
 
@@ -66,7 +70,7 @@ def busca_videos(query: str, max_videos: int = 50, ultimos_anos: int = 10) -> li
 
     while len(videos) < max_videos:
         if len(keys_queimadas) == len(config.YOUTUBE_API_KEYS):
-            print("todas as keys queimaram, para por aqui")
+            _log.warning("todas as keys queimaram, para por aqui")
             break
 
         key = next(keys_cycle)
@@ -124,7 +128,7 @@ def baixa_audio(url: str, out_dir: Path) -> Path | None:
             info = ydl.extract_info(url, download=True)
     except Exception as e:
         # as vezes da ruim em canais com drm ou idade
-        print(f"falhou baixar {url}: {e}")
+        _log.warning("falhou baixar %s: %s", url, e)
         return None
 
     vid = info.get("id")
@@ -136,7 +140,7 @@ def baixa_audio(url: str, out_dir: Path) -> Path | None:
         achados = list(out_dir.glob(f"{vid}.*"))
         if achados:
             return achados[0]
-        print(f"nao achei arquivo baixado pra {vid}")
+        _log.warning("nao achei arquivo baixado pra %s", vid)
         return None
 
     return path
@@ -193,7 +197,7 @@ def baixa_audios_em_paralelo(
             try:
                 path = fut.result()
             except Exception as e:
-                print(f"thread morreu em {v['video_id']}: {e}")
+                _log.error("thread morreu em %s: %s", v['video_id'], e)
                 path = None
             resultados.append((v, path))
 
