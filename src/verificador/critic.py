@@ -4,8 +4,12 @@ import time
 import ollama
 
 from src import config
+from src.log import get_logger
 from src.schemas import CampoExtraido, Veredito, TipoRejeicao
 from src.extracao.utils import parse_json_safe
+
+
+_log = get_logger()
 
 
 # camada 2 do verificador: llm critic
@@ -135,12 +139,12 @@ def avalia_batch(
         )
     except Exception as e:
         # se ollama caiu, aceita tudo pra nao travar
-        print(f"critic falhou (ollama): {e}")
+        _log.error("critic falhou (ollama): %s", e)
         return {nome: Veredito(aceito=True, razao="critic indisponivel", confianca_critica=0.0) for nome in campos}
 
     data = parse_json_safe(resp["response"])
     if data is None:
-        print(f"critic cuspiu json invalido: {resp['response'][:200]}")
+        _log.warning("critic cuspiu json invalido: %s", resp["response"][:200])
         return {nome: Veredito(aceito=True, razao="json do critic quebrado", confianca_critica=0.0) for nome in campos}
 
     out: dict[str, Veredito] = {}
