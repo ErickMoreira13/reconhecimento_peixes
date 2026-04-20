@@ -1,0 +1,32 @@
+{
+  "texto": "Você conhece o maior tabaqueiro do Brasil? A pescaria ocorreu em 2020 no estado de Minas Gerais, no lago da Fundação Cristiano Varela, perto do Hospital do Cancian de Moriaé. Na foto mostra esse monstro de tabaqueiro de 60 kg ao lado do senador Léo Varela e seu filho Luciano Varela. Comenta aqui embaixo se já viu um maior que esse.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Você conhece o maior tabaqueiro do Brasil?"
+    },
+    {
+      "start": 3.4,
+      "end": 9.86,
+      "text": "A pescaria ocorreu em 2020 no estado de Minas Gerais, no lago da Fundação Cristiano Varela,"
+    },
+    {
+      "start": 10.32,
+      "end": 13.02,
+      "text": "perto do Hospital do Cancian de Moriaé."
+    },
+    {
+      "start": 13.02,
+      "end": 22.4,
+      "text": "Na foto mostra esse monstro de tabaqueiro de 60 kg ao lado do senador Léo Varela e seu filho Luciano Varela."
+    },
+    {
+      "start": 23.1,
+      "end": 25.86,
+      "text": "Comenta aqui embaixo se já viu um maior que esse."
+    }
+  ],
+  "duracao_seg": 26.79,
+  "idioma_detectado": "pt"
+}

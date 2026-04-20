@@ -1,0 +1,42 @@
+{
+  "texto": "Um grande beijo pro Chatola Que é o cara da Pneia de 1,40 né É um esporte maravilhoso Através dela eu conheci diversos lugares E também acabei fazendo várias amizades É um esporte que exige treino, técnica, conhecimento Mas qualquer um pode praticar",
+  "segmentos": [
+    {
+      "start": 317.14,
+      "end": 410.53,
+      "text": "Um grande beijo pro Chatola"
+    },
+    {
+      "start": 410.53,
+      "end": 413.23,
+      "text": "Que é o cara da Pneia de 1,40 né"
+    },
+    {
+      "start": 413.23,
+      "end": 448.31,
+      "text": "É um esporte maravilhoso"
+    },
+    {
+      "start": 448.31,
+      "end": 452.02,
+      "text": "Através dela eu conheci diversos lugares"
+    },
+    {
+      "start": 452.02,
+      "end": 455.55,
+      "text": "E também acabei fazendo várias amizades"
+    },
+    {
+      "start": 455.55,
+      "end": 473.62,
+      "text": "É um esporte que exige treino, técnica, conhecimento"
+    },
+    {
+      "start": 473.62,
+      "end": 478.01,
+      "text": "Mas qualquer um pode praticar"
+    }
+  ],
+  "duracao_seg": 723.01,
+  "idioma_detectado": "pt"
+}

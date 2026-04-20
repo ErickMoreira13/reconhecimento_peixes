@@ -1,0 +1,52 @@
+{
+  "texto": "E aí, galera, bora para mais uma pesca com garrafa. A gente pega aqui, ó, para colocar um pouquinho de trigo dentro da garrafinha, com um pouco de água. Só jogar e esperar um pouquinho. O peixe entra. A gente sente. Agora é só puxar bem rápido. Dá uma moral. E segue aí. O Pesca Colatina.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "E aí, galera, bora para mais uma pesca com garrafa."
+    },
+    {
+      "start": 3.4,
+      "end": 9.06,
+      "text": "A gente pega aqui, ó, para colocar um pouquinho de trigo dentro da garrafinha, com um pouco de água."
+    },
+    {
+      "start": 9.86,
+      "end": 11.98,
+      "text": "Só jogar e esperar um pouquinho."
+    },
+    {
+      "start": 12.8,
+      "end": 13.76,
+      "text": "O peixe entra."
+    },
+    {
+      "start": 14.46,
+      "end": 15.2,
+      "text": "A gente sente."
+    },
+    {
+      "start": 15.68,
+      "end": 17.76,
+      "text": "Agora é só puxar bem rápido."
+    },
+    {
+      "start": 18.62,
+      "end": 19.24,
+      "text": "Dá uma moral."
+    },
+    {
+      "start": 19.86,
+      "end": 20.58,
+      "text": "E segue aí."
+    },
+    {
+      "start": 21.24,
+      "end": 22.4,
+      "text": "O Pesca Colatina."
+    }
+  ],
+  "duracao_seg": 23.79,
+  "idioma_detectado": "pt"
+}

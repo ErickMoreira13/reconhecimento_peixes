@@ -1,0 +1,42 @@
+{
+  "texto": "Ó, média da pôr da cabeça do rabo dele. Não termina mais, para, para. Curizada, 95 centímetros de monstro de dourado. Olha aqui, mão espalmada no lombo. Isso aqui é monstro do Rio Uruguai, meus amigos. Monstro do Rio Uruguai. Tira uma foto.",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 2.67,
+      "text": "Ó, média da pôr da cabeça do rabo dele."
+    },
+    {
+      "start": 4.42,
+      "end": 5.64,
+      "text": "Não termina mais, para, para."
+    },
+    {
+      "start": 5.92,
+      "end": 10.96,
+      "text": "Curizada, 95 centímetros de monstro de dourado."
+    },
+    {
+      "start": 12.5,
+      "end": 14.9,
+      "text": "Olha aqui, mão espalmada no lombo."
+    },
+    {
+      "start": 15.62,
+      "end": 18.12,
+      "text": "Isso aqui é monstro do Rio Uruguai, meus amigos."
+    },
+    {
+      "start": 18.78,
+      "end": 19.86,
+      "text": "Monstro do Rio Uruguai."
+    },
+    {
+      "start": 20.9,
+      "end": 21.88,
+      "text": "Tira uma foto."
+    }
+  ],
+  "duracao_seg": 21.99,
+  "idioma_detectado": "pt"
+}

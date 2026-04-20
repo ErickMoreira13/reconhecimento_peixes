@@ -1,0 +1,62 @@
+{
+  "texto": "Fala pessoal, beleza? Aqui é o Cleiton do Cleiton Pesca MG Mostra a vocês aqui, ó A ceva do final de semana vai ser essa aí, ó Essas bolas aí, ó Aí tem ração de coelho Milho azedo Quirela azeda, né? E trigo E um pouco de terra de formiga Pra ficar nessa cor aí, ó Fica ligado aí que vai sair peixe bruto",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 3.96,
+      "text": "Fala pessoal, beleza? Aqui é o Cleiton do Cleiton Pesca MG"
+    },
+    {
+      "start": 3.96,
+      "end": 5.84,
+      "text": "Mostra a vocês aqui, ó"
+    },
+    {
+      "start": 5.84,
+      "end": 8.6,
+      "text": "A ceva do final de semana vai ser essa aí, ó"
+    },
+    {
+      "start": 8.6,
+      "end": 10.97,
+      "text": "Essas bolas aí, ó"
+    },
+    {
+      "start": 10.97,
+      "end": 12.83,
+      "text": "Aí tem ração de coelho"
+    },
+    {
+      "start": 12.83,
+      "end": 14.87,
+      "text": "Milho azedo"
+    },
+    {
+      "start": 14.87,
+      "end": 16.85,
+      "text": "Quirela azeda, né?"
+    },
+    {
+      "start": 17.65,
+      "end": 18.81,
+      "text": "E trigo"
+    },
+    {
+      "start": 18.81,
+      "end": 21.29,
+      "text": "E um pouco de terra de formiga"
+    },
+    {
+      "start": 21.29,
+      "end": 24.06,
+      "text": "Pra ficar nessa cor aí, ó"
+    },
+    {
+      "start": 24.06,
+      "end": 26.98,
+      "text": "Fica ligado aí que vai sair peixe bruto"
+    }
+  ],
+  "duracao_seg": 27.45,
+  "idioma_detectado": "pt"
+}

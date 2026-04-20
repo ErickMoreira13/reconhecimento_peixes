@@ -1,0 +1,42 @@
+{
+  "texto": "Eu acho que pesa mais de 20 quilos, o que tu acha? Eu acho, tá grande, né? Olha aí, ó. Vixe, Marinha. Oi, Arran, vai. Não vai escapar aí da água. Vai, deixa que tá agora.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "Eu acho que pesa mais de 20 quilos, o que tu acha?"
+    },
+    {
+      "start": 2.68,
+      "end": 4.6,
+      "text": "Eu acho, tá grande, né?"
+    },
+    {
+      "start": 4.76,
+      "end": 5.2,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 5.5,
+      "end": 6.38,
+      "text": "Vixe, Marinha."
+    },
+    {
+      "start": 6.88,
+      "end": 7.72,
+      "text": "Oi, Arran, vai."
+    },
+    {
+      "start": 8.1,
+      "end": 9.28,
+      "text": "Não vai escapar aí da água."
+    },
+    {
+      "start": 9.36,
+      "end": 10.78,
+      "text": "Vai, deixa que tá agora."
+    }
+  ],
+  "duracao_seg": 11.53,
+  "idioma_detectado": "pt"
+}

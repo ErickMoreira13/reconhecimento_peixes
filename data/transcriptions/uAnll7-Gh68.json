@@ -1,0 +1,27 @@
+{
+  "texto": "Aqui no clube é assim, ó. É a cebadeira daqui, ó. Olha lá. Só isso.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Aqui no clube é assim, ó."
+    },
+    {
+      "start": 1.9,
+      "end": 3.95,
+      "text": "É a cebadeira daqui, ó."
+    },
+    {
+      "start": 10.61,
+      "end": 10.97,
+      "text": "Olha lá."
+    },
+    {
+      "start": 29.94,
+      "end": 30.6,
+      "text": "Só isso."
+    }
+  ],
+  "duracao_seg": 32.01,
+  "idioma_detectado": "pt"
+}

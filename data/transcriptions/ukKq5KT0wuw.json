@@ -1,0 +1,217 @@
+{
+  "texto": "Olha onde é que pegou ali, rapaziada. Ah, meu pai do céu. E agora? Que eu tô com meio que rebocado aqui. Fica parado aí. Tudo não te mexe. Que azar, cara. Só não é fácil com o cabelo. Minha mãe também, né? Pai do céu. Meu pai do céu. Que toco, cara. Que toco. Meu amigo. Nossa senhora. Ah, caralho. É a mesma, mano. Porra, era monstra. Monstro, monstro. Isso, cara. Correndo pra poder chegar até em ti, mas eu boto. Que tu gostou de chegar aqui. Agora aqui. Vamos passar a guai. Solta. Tato não solta. Desce um nó. Vamos passar a guai, mas beleza. Tchê, não era tu que eu tava procurando, hein? Não era tua. Tu é uma galera maior. Vamos chamar ela. Bonzinho o tamanho, hein? Que? Aham. E aí? Que coisa linda. Tchau. Tchau. Tchau. Tchau. Tchau.",
+  "segmentos": [
+    {
+      "start": 72.62,
+      "end": 74.02,
+      "text": "Olha onde é que pegou ali, rapaziada."
+    },
+    {
+      "start": 74.8,
+      "end": 75.8,
+      "text": "Ah, meu pai do céu."
+    },
+    {
+      "start": 75.86,
+      "end": 76.16,
+      "text": "E agora?"
+    },
+    {
+      "start": 76.34,
+      "end": 80.58,
+      "text": "Que eu tô com meio que rebocado aqui."
+    },
+    {
+      "start": 91.58,
+      "end": 92.28,
+      "text": "Fica parado aí."
+    },
+    {
+      "start": 93.02,
+      "end": 93.92,
+      "text": "Tudo não te mexe."
+    },
+    {
+      "start": 94.34,
+      "end": 104.17,
+      "text": "Que azar, cara."
+    },
+    {
+      "start": 104.47,
+      "end": 117.06,
+      "text": "Só não é fácil com o cabelo."
+    },
+    {
+      "start": 117.18,
+      "end": 152.07,
+      "text": "Minha mãe também, né?"
+    },
+    {
+      "start": 152.29,
+      "end": 185.49,
+      "text": "Pai do céu."
+    },
+    {
+      "start": 186.76,
+      "end": 188.32,
+      "text": "Meu pai do céu."
+    },
+    {
+      "start": 189.57,
+      "end": 191.15,
+      "text": "Que toco, cara."
+    },
+    {
+      "start": 192.32,
+      "end": 193.78,
+      "text": "Que toco."
+    },
+    {
+      "start": 196.52,
+      "end": 197.76,
+      "text": "Meu amigo."
+    },
+    {
+      "start": 199.96,
+      "end": 206.83,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 207.23,
+      "end": 222.57,
+      "text": "Ah, caralho."
+    },
+    {
+      "start": 223.07,
+      "end": 229.39,
+      "text": "É a mesma, mano."
+    },
+    {
+      "start": 229.51,
+      "end": 230.47,
+      "text": "Porra, era monstra."
+    },
+    {
+      "start": 231.35,
+      "end": 232.29,
+      "text": "Monstro, monstro."
+    },
+    {
+      "start": 357.92,
+      "end": 358.54,
+      "text": "Isso, cara."
+    },
+    {
+      "start": 421.18,
+      "end": 423.12,
+      "text": "Correndo pra poder chegar até em ti, mas eu boto."
+    },
+    {
+      "start": 423.52,
+      "end": 437.82,
+      "text": "Que tu gostou de chegar aqui."
+    },
+    {
+      "start": 438.42,
+      "end": 447.08,
+      "text": "Agora aqui."
+    },
+    {
+      "start": 451.77,
+      "end": 452.43,
+      "text": "Vamos passar a guai."
+    },
+    {
+      "start": 452.51,
+      "end": 452.95,
+      "text": "Solta."
+    },
+    {
+      "start": 453.61,
+      "end": 455.44,
+      "text": "Tato não solta."
+    },
+    {
+      "start": 460.88,
+      "end": 461.52,
+      "text": "Desce um nó."
+    },
+    {
+      "start": 462.6,
+      "end": 463.7,
+      "text": "Vamos passar a guai, mas beleza."
+    },
+    {
+      "start": 466.36,
+      "end": 467.82,
+      "text": "Tchê, não era tu que eu tava procurando, hein?"
+    },
+    {
+      "start": 468.22,
+      "end": 469.82,
+      "text": "Não era tua."
+    },
+    {
+      "start": 469.9,
+      "end": 470.64,
+      "text": "Tu é uma galera maior."
+    },
+    {
+      "start": 471.15,
+      "end": 471.83,
+      "text": "Vamos chamar ela."
+    },
+    {
+      "start": 547.62,
+      "end": 548.58,
+      "text": "Bonzinho o tamanho, hein?"
+    },
+    {
+      "start": 555.2,
+      "end": 555.38,
+      "text": "Que?"
+    },
+    {
+      "start": 557.61,
+      "end": 557.97,
+      "text": "Aham."
+    },
+    {
+      "start": 560.28,
+      "end": 560.52,
+      "text": "E aí?"
+    },
+    {
+      "start": 560.98,
+      "end": 562.94,
+      "text": "Que coisa linda."
+    },
+    {
+      "start": 562.94,
+      "end": 563.78,
+      "text": "Tchau."
+    },
+    {
+      "start": 563.78,
+      "end": 564.1,
+      "text": "Tchau."
+    },
+    {
+      "start": 564.1,
+      "end": 564.4,
+      "text": "Tchau."
+    },
+    {
+      "start": 564.4,
+      "end": 564.44,
+      "text": "Tchau."
+    },
+    {
+      "start": 564.44,
+      "end": 564.7,
+      "text": "Tchau."
+    }
+  ],
+  "duracao_seg": 573.73,
+  "idioma_detectado": "pt"
+}

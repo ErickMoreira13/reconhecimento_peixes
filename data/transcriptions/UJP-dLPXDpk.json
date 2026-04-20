@@ -1,0 +1,37 @@
+{
+  "texto": "Fala meus amigos da pesca, beleza? Tudo bem com vocês? Olha aí pra vocês verem aqui, ó De um tempo pra cá tá saindo muito peixe aqui nessa região Estou pescando aqui, ó E tô pegando bastante peixe desse aqui, ó Não tinha aqui na nossa região, não tinha, vocês podem ver",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Fala meus amigos da pesca, beleza? Tudo bem com vocês?"
+    },
+    {
+      "start": 2.98,
+      "end": 4.1,
+      "text": "Olha aí pra vocês verem aqui, ó"
+    },
+    {
+      "start": 4.1,
+      "end": 7.36,
+      "text": "De um tempo pra cá tá saindo muito peixe aqui nessa região"
+    },
+    {
+      "start": 7.36,
+      "end": 8.5,
+      "text": "Estou pescando aqui, ó"
+    },
+    {
+      "start": 8.5,
+      "end": 11.72,
+      "text": "E tô pegando bastante peixe desse aqui, ó"
+    },
+    {
+      "start": 11.72,
+      "end": 15.08,
+      "text": "Não tinha aqui na nossa região, não tinha, vocês podem ver"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

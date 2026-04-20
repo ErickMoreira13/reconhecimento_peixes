@@ -1,0 +1,17 @@
+{
+  "texto": "Tá maluco, olha só o tamanho Irmão gêmeo do outro",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 2.89,
+      "text": "Tá maluco, olha só o tamanho"
+    },
+    {
+      "start": 2.89,
+      "end": 5.72,
+      "text": "Irmão gêmeo do outro"
+    }
+  ],
+  "duracao_seg": 11.01,
+  "idioma_detectado": "pt"
+}

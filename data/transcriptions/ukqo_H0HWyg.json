@@ -1,0 +1,397 @@
+{
+  "texto": "Esse é o que você quer, esse é o que você quer, esse é o que você quer, esse é o que você quer Que estranho, nossa isso é bom fi, nossa que amarelão bonito Nossa amarelo bonito, olha que forte, vixe, rapaz, fazer a soltura do peixe, opa, foi sozinho O louco, pegou Nantes, é grande, nossa, rapaz vai vir na cerca, nossa Nantes, é grande, sobe Ai, esse não escapava, hein, Nantes, é amarelo, grande, hein, olha aqui o tamanho do amarelo Rapaz, olha o amarelo aí, ó, o co, tá, pois é, olha lá, eu não sei o que que é, é azul Não, tá aqui, azul, mas não é grande igual o seu não, tudo que bateu ontem, hein, olha lá, olha Olha lá, ó, movimentação na água lá, ó, olha lá, filho, olha lá, é grande, é grande Aqui ele aqui, ó, aqui ele aqui, amarelo, aqui ó, tá embaixo do caiaque, ó Aí ele aqui, ó, pai manja, filho, eu já falei pra você, segue o pai, não fica atradinho Ali o casal, olha o tamanho aqui, ui, ali rapaz, olha, nem vem atrás Olha, eles não vieram na isca, três, cara, opa, azul não, filho, amarelão, vai com o amarelo pesado Vou fazer a soltura aqui, mais um amarelinho bom, mais um amarelinho, vai lá, eu te falei Pegou, tem um monte, vai ter um monte, peixe bom, tudo badão Não, põe isso com garateia, filho, não precisa aqui O louco, chegou a levantar, chegou a jogar a isca longe, tá espantando a isca, cara Pegou Bom, o que é? Traíra, filho Olha, ele andando pro meio do mato, não é, tu com naré, olha o tamanho, tu com naré Amarelão? Rapaz, do céu, olha o tamanho Esse, filho, mô, deixa eu tirar, vai Aí, aí, ó Olha lá o primo pegando um também, ó O que que é? É grande, hein? Peixe bom, olha onde tá fazendo Aí, filho, levanta esse trem pra nós ver Deixa eu ver, põe ele pra cima Pega pro rabo, filho Pega pro rabo Pega pro rabo Peixe bom Tá, amarelinho Pra vida Tarda borrachinha não é fraca não Aí, ó, amarelão Aí, pegou Peguei dois Dois, dois, dois, não é isso que é só Dois sucuninha Olha Aí, os dois, dá uma errada Aí, um escapou Aí, os dois escapou Aí, tem os dois, cara Olha o casal ali, ó De amarelo Ó, passou na cara deles e nada Pegou Falei pra você que é Escapou Ui, ó Nossa Nossa senhora Ah, dá uns 45 É, mas você nem pega Por isso você não conta Você sabe que você tá pra trás, né, filho Outra Uhul Olha lá a Cate do menino, ó Vou até filmar Olha lá, ó A Cate do menino Catou um peixe de 47 Transformou Falou que deu 50 Mentiroso que sou Olha lá Olha lá a Cate dele, ó Mas ele tá com a camisa da sorte hoje Aí, Nanes, ó 45 up, fi Tá aí, ó Peixinho Fazer a soltura Amarelo bonito Opa Aí, ó",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 12.76,
+      "text": "Esse é o que você quer, esse é o que você quer, esse é o que você quer, esse é o que você quer"
+    },
+    {
+      "start": 12.76,
+      "end": 92.71,
+      "text": "Que estranho, nossa isso é bom fi, nossa que amarelão bonito"
+    },
+    {
+      "start": 92.71,
+      "end": 114.09,
+      "text": "Nossa amarelo bonito, olha que forte, vixe, rapaz, fazer a soltura do peixe, opa, foi sozinho"
+    },
+    {
+      "start": 114.09,
+      "end": 146.86,
+      "text": "O louco, pegou Nantes, é grande, nossa, rapaz vai vir na cerca, nossa Nantes, é grande, sobe"
+    },
+    {
+      "start": 146.86,
+      "end": 166.9,
+      "text": "Ai, esse não escapava, hein, Nantes, é amarelo, grande, hein, olha aqui o tamanho do amarelo"
+    },
+    {
+      "start": 166.9,
+      "end": 293.74,
+      "text": "Rapaz, olha o amarelo aí, ó, o co, tá, pois é, olha lá, eu não sei o que que é, é azul"
+    },
+    {
+      "start": 293.74,
+      "end": 337.8,
+      "text": "Não, tá aqui, azul, mas não é grande igual o seu não, tudo que bateu ontem, hein, olha lá, olha"
+    },
+    {
+      "start": 337.8,
+      "end": 355.28,
+      "text": "Olha lá, ó, movimentação na água lá, ó, olha lá, filho, olha lá, é grande, é grande"
+    },
+    {
+      "start": 355.28,
+      "end": 365.28,
+      "text": "Aqui ele aqui, ó, aqui ele aqui, amarelo, aqui ó, tá embaixo do caiaque, ó"
+    },
+    {
+      "start": 365.28,
+      "end": 395.91,
+      "text": "Aí ele aqui, ó, pai manja, filho, eu já falei pra você, segue o pai, não fica atradinho"
+    },
+    {
+      "start": 395.91,
+      "end": 405.17,
+      "text": "Ali o casal, olha o tamanho aqui, ui, ali rapaz, olha, nem vem atrás"
+    },
+    {
+      "start": 405.17,
+      "end": 462.72,
+      "text": "Olha, eles não vieram na isca, três, cara, opa, azul não, filho, amarelão, vai com o amarelo pesado"
+    },
+    {
+      "start": 462.72,
+      "end": 538.14,
+      "text": "Vou fazer a soltura aqui, mais um amarelinho bom, mais um amarelinho, vai lá, eu te falei"
+    },
+    {
+      "start": 538.14,
+      "end": 557.6,
+      "text": "Pegou, tem um monte, vai ter um monte, peixe bom, tudo badão"
+    },
+    {
+      "start": 557.6,
+      "end": 566.48,
+      "text": "Não, põe isso com garateia, filho, não precisa aqui"
+    },
+    {
+      "start": 566.48,
+      "end": 597.29,
+      "text": "O louco, chegou a levantar, chegou a jogar a isca longe, tá espantando a isca, cara"
+    },
+    {
+      "start": 597.29,
+      "end": 616.18,
+      "text": "Pegou"
+    },
+    {
+      "start": 616.18,
+      "end": 633.3,
+      "text": "Bom, o que é? Traíra, filho"
+    },
+    {
+      "start": 633.3,
+      "end": 637.26,
+      "text": "Olha, ele andando pro meio do mato, não é, tu com naré, olha o tamanho, tu com naré"
+    },
+    {
+      "start": 637.26,
+      "end": 641.08,
+      "text": "Amarelão? Rapaz, do céu, olha o tamanho"
+    },
+    {
+      "start": 641.08,
+      "end": 652.08,
+      "text": "Esse, filho, mô, deixa eu tirar, vai"
+    },
+    {
+      "start": 652.08,
+      "end": 656.7,
+      "text": "Aí, aí, ó"
+    },
+    {
+      "start": 656.7,
+      "end": 660.53,
+      "text": "Olha lá o primo pegando um também, ó"
+    },
+    {
+      "start": 660.53,
+      "end": 670.88,
+      "text": "O que que é? É grande, hein?"
+    },
+    {
+      "start": 671.98,
+      "end": 673.54,
+      "text": "Peixe bom, olha onde tá fazendo"
+    },
+    {
+      "start": 673.54,
+      "end": 675.62,
+      "text": "Aí, filho, levanta esse trem pra nós ver"
+    },
+    {
+      "start": 675.62,
+      "end": 678.17,
+      "text": "Deixa eu ver, põe ele pra cima"
+    },
+    {
+      "start": 678.17,
+      "end": 683.37,
+      "text": "Pega pro rabo, filho"
+    },
+    {
+      "start": 683.37,
+      "end": 686.38,
+      "text": "Pega pro rabo"
+    },
+    {
+      "start": 686.38,
+      "end": 687.77,
+      "text": "Pega pro rabo"
+    },
+    {
+      "start": 687.77,
+      "end": 690.52,
+      "text": "Peixe bom"
+    },
+    {
+      "start": 690.52,
+      "end": 762.89,
+      "text": "Tá, amarelinho"
+    },
+    {
+      "start": 762.89,
+      "end": 764.1,
+      "text": "Pra vida"
+    },
+    {
+      "start": 764.1,
+      "end": 789.24,
+      "text": "Tarda borrachinha não é fraca não"
+    },
+    {
+      "start": 789.24,
+      "end": 791.74,
+      "text": "Aí, ó, amarelão"
+    },
+    {
+      "start": 791.74,
+      "end": 811.44,
+      "text": "Aí, pegou"
+    },
+    {
+      "start": 811.44,
+      "end": 818.85,
+      "text": "Peguei dois"
+    },
+    {
+      "start": 818.85,
+      "end": 821.84,
+      "text": "Dois, dois, dois, não é isso que é só"
+    },
+    {
+      "start": 821.84,
+      "end": 824.19,
+      "text": "Dois sucuninha"
+    },
+    {
+      "start": 824.19,
+      "end": 824.89,
+      "text": "Olha"
+    },
+    {
+      "start": 824.89,
+      "end": 827.55,
+      "text": "Aí, os dois, dá uma errada"
+    },
+    {
+      "start": 827.55,
+      "end": 828.49,
+      "text": "Aí, um escapou"
+    },
+    {
+      "start": 828.49,
+      "end": 829.89,
+      "text": "Aí, os dois escapou"
+    },
+    {
+      "start": 829.89,
+      "end": 831.13,
+      "text": "Aí, tem os dois, cara"
+    },
+    {
+      "start": 831.13,
+      "end": 832.75,
+      "text": "Olha o casal ali, ó"
+    },
+    {
+      "start": 832.75,
+      "end": 834.82,
+      "text": "De amarelo"
+    },
+    {
+      "start": 834.82,
+      "end": 846.52,
+      "text": "Ó, passou na cara deles e nada"
+    },
+    {
+      "start": 846.52,
+      "end": 857.24,
+      "text": "Pegou"
+    },
+    {
+      "start": 857.24,
+      "end": 858.88,
+      "text": "Falei pra você que é"
+    },
+    {
+      "start": 858.88,
+      "end": 859.96,
+      "text": "Escapou"
+    },
+    {
+      "start": 859.96,
+      "end": 868.62,
+      "text": "Ui, ó"
+    },
+    {
+      "start": 868.62,
+      "end": 869.72,
+      "text": "Nossa"
+    },
+    {
+      "start": 869.72,
+      "end": 873.28,
+      "text": "Nossa senhora"
+    },
+    {
+      "start": 873.28,
+      "end": 983.85,
+      "text": "Ah, dá uns 45"
+    },
+    {
+      "start": 983.85,
+      "end": 989.98,
+      "text": "É, mas você nem pega"
+    },
+    {
+      "start": 989.98,
+      "end": 991.04,
+      "text": "Por isso você não conta"
+    },
+    {
+      "start": 991.04,
+      "end": 997.99,
+      "text": "Você sabe que você tá pra trás, né, filho"
+    },
+    {
+      "start": 997.99,
+      "end": 1034.55,
+      "text": "Outra"
+    },
+    {
+      "start": 1034.55,
+      "end": 1036.23,
+      "text": "Uhul"
+    },
+    {
+      "start": 1036.23,
+      "end": 1057.17,
+      "text": "Olha lá a Cate do menino, ó"
+    },
+    {
+      "start": 1057.17,
+      "end": 1058.17,
+      "text": "Vou até filmar"
+    },
+    {
+      "start": 1058.17,
+      "end": 1061.05,
+      "text": "Olha lá, ó"
+    },
+    {
+      "start": 1061.05,
+      "end": 1062.41,
+      "text": "A Cate do menino"
+    },
+    {
+      "start": 1062.41,
+      "end": 1064.45,
+      "text": "Catou um peixe de 47"
+    },
+    {
+      "start": 1064.45,
+      "end": 1065.17,
+      "text": "Transformou"
+    },
+    {
+      "start": 1065.17,
+      "end": 1066.45,
+      "text": "Falou que deu 50"
+    },
+    {
+      "start": 1066.45,
+      "end": 1068.77,
+      "text": "Mentiroso que sou"
+    },
+    {
+      "start": 1068.77,
+      "end": 1069.03,
+      "text": "Olha lá"
+    },
+    {
+      "start": 1069.03,
+      "end": 1070.25,
+      "text": "Olha lá a Cate dele, ó"
+    },
+    {
+      "start": 1070.25,
+      "end": 1072.87,
+      "text": "Mas ele tá com a camisa da sorte hoje"
+    },
+    {
+      "start": 1072.87,
+      "end": 1134.02,
+      "text": "Aí, Nanes, ó"
+    },
+    {
+      "start": 1134.02,
+      "end": 1136.81,
+      "text": "45 up, fi"
+    },
+    {
+      "start": 1136.81,
+      "end": 1140.0,
+      "text": "Tá aí, ó"
+    },
+    {
+      "start": 1140.0,
+      "end": 1140.54,
+      "text": "Peixinho"
+    },
+    {
+      "start": 1140.54,
+      "end": 1142.98,
+      "text": "Fazer a soltura"
+    },
+    {
+      "start": 1142.98,
+      "end": 1144.81,
+      "text": "Amarelo bonito"
+    },
+    {
+      "start": 1144.81,
+      "end": 1145.41,
+      "text": "Opa"
+    },
+    {
+      "start": 1145.41,
+      "end": 1146.19,
+      "text": "Aí, ó"
+    }
+  ],
+  "duracao_seg": 1152.67,
+  "idioma_detectado": "pt"
+}

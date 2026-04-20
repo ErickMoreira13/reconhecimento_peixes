@@ -1,0 +1,27 @@
+{
+  "texto": "Bom dia, bom dia! Olha só, o pescador já tá com as traias prontas, vamos pescar cedo agora em altar do chão. Agora entenda porque que eu vou pescar cedo. Traia cedo, a praia vazia, mas olha só, olha só essa paisagem. Que espetáculo, né? Amanhecer em altar do chão. Caminhadinha na praia agora e vamos brigar com os Tucunaré.",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 8.12,
+      "text": "Bom dia, bom dia! Olha só, o pescador já tá com as traias prontas, vamos pescar cedo agora em"
+    },
+    {
+      "start": 8.12,
+      "end": 20.09,
+      "text": "altar do chão. Agora entenda porque que eu vou pescar cedo. Traia cedo, a praia vazia, mas olha"
+    },
+    {
+      "start": 20.09,
+      "end": 38.37,
+      "text": "só, olha só essa paisagem. Que espetáculo, né? Amanhecer em altar do chão. Caminhadinha na praia"
+    },
+    {
+      "start": 38.37,
+      "end": 43.88,
+      "text": "agora e vamos brigar com os Tucunaré."
+    }
+  ],
+  "duracao_seg": 43.77,
+  "idioma_detectado": "pt"
+}

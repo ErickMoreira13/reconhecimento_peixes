@@ -1,0 +1,32 @@
+{
+  "texto": "Não passe essa oração. É um minuto só. Vai abençoar a tua vida em nome de Jesus. Meu Pai amado, eu te peço agora que o Senhor ajude essa pessoa que está aqui ouvindo essa oração, meu Pai. Essa pessoa que parou o que ela estava fazendo, meu Deus, parou o que ela estava assistindo, para se dedicar à Tua presença. Meu Deus, olha para esse coração que é voltado para o Senhor, Pai, que confia no Senhor, que tenha esperança em Ti. Jesus, por favor, ajuda. Ajuda no que essa pessoa estiver necessitando agora. Ajuda no que ela está precisando.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "Não passe essa oração. É um minuto só. Vai abençoar a tua vida em nome de Jesus."
+    },
+    {
+      "start": 6.64,
+      "end": 12.46,
+      "text": "Meu Pai amado, eu te peço agora que o Senhor ajude essa pessoa que está aqui ouvindo essa oração, meu Pai."
+    },
+    {
+      "start": 13.22,
+      "end": 19.96,
+      "text": "Essa pessoa que parou o que ela estava fazendo, meu Deus, parou o que ela estava assistindo, para se dedicar à Tua presença."
+    },
+    {
+      "start": 20.62,
+      "end": 27.78,
+      "text": "Meu Deus, olha para esse coração que é voltado para o Senhor, Pai, que confia no Senhor, que tenha esperança em Ti."
+    },
+    {
+      "start": 27.78,
+      "end": 35.12,
+      "text": "Jesus, por favor, ajuda. Ajuda no que essa pessoa estiver necessitando agora. Ajuda no que ela está precisando."
+    }
+  ],
+  "duracao_seg": 35.15,
+  "idioma_detectado": "pt"
+}

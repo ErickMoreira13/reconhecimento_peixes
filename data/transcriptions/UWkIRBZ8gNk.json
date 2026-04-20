@@ -1,0 +1,17 @@
+{
+  "texto": "Se liga só a pescaria lá em Rondônia, o pescador tava pescando lá na beira do rio lá, meio sozinho, e escutou um barulhão no meio do mato lá, você tá doido, é coragem né, vai piscar em Rondônia lá, é perigoso hein, olha só, quando veio teve que abandonar a pescaria, saiu correndo ali porque o negócio veio pro lado dele, ele teve que vazar fora hein, você tá doido. Basta por aqui, ele tá aqui no pé, e aí bata, bata, bata, bata.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 21.28,
+      "text": "Se liga só a pescaria lá em Rondônia, o pescador tava pescando lá na beira do rio lá, meio sozinho, e escutou um barulhão no meio do mato lá, você tá doido, é coragem né, vai piscar em Rondônia lá, é perigoso hein, olha só, quando veio teve que abandonar a pescaria, saiu correndo ali porque o negócio veio pro lado dele, ele teve que vazar fora hein, você tá doido."
+    },
+    {
+      "start": 21.28,
+      "end": 29.71,
+      "text": "Basta por aqui, ele tá aqui no pé, e aí bata, bata, bata, bata."
+    }
+  ],
+  "duracao_seg": 30.69,
+  "idioma_detectado": "pt"
+}

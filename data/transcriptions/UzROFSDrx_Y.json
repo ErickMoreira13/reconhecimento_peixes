@@ -1,0 +1,37 @@
+{
+  "texto": "É peixe grande, hein? Bonito demais. Olha isso. Valeu, garoto! Isso é pesca de dourado, meus amigos. Esse peixe é extremamente esportivo. Bão demais, né?",
+  "segmentos": [
+    {
+      "start": 5.62,
+      "end": 7.04,
+      "text": "É peixe grande, hein?"
+    },
+    {
+      "start": 9.14,
+      "end": 10.02,
+      "text": "Bonito demais."
+    },
+    {
+      "start": 10.9,
+      "end": 17.71,
+      "text": "Olha isso. Valeu, garoto!"
+    },
+    {
+      "start": 18.67,
+      "end": 21.29,
+      "text": "Isso é pesca de dourado, meus amigos."
+    },
+    {
+      "start": 21.65,
+      "end": 24.21,
+      "text": "Esse peixe é extremamente esportivo."
+    },
+    {
+      "start": 24.89,
+      "end": 25.79,
+      "text": "Bão demais, né?"
+    }
+  ],
+  "duracao_seg": 26.73,
+  "idioma_detectado": "pt"
+}

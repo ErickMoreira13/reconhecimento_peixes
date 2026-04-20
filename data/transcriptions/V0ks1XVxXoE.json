@@ -1,0 +1,27 @@
+{
+  "texto": "Ao lançar uma tarrafa, pequenos pesos ao redor da borda fazem com que ela se abra em formato circular. Quando atinge a água, a rede afunda rapidamente devido aos pesos, prendendo os peixes antes que consigam escapar. Em seguida, uma corda é puxada, fechando o fundo como uma bolsa e selando os peixes dentro. Por fim, a rede é recolhida e os peixes são retirados.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 6.02,
+      "text": "Ao lançar uma tarrafa, pequenos pesos ao redor da borda fazem com que ela se abra em formato circular."
+    },
+    {
+      "start": 7.06,
+      "end": 13.4,
+      "text": "Quando atinge a água, a rede afunda rapidamente devido aos pesos, prendendo os peixes antes que consigam escapar."
+    },
+    {
+      "start": 14.3,
+      "end": 19.46,
+      "text": "Em seguida, uma corda é puxada, fechando o fundo como uma bolsa e selando os peixes dentro."
+    },
+    {
+      "start": 20.42,
+      "end": 23.62,
+      "text": "Por fim, a rede é recolhida e os peixes são retirados."
+    }
+  ],
+  "duracao_seg": 24.95,
+  "idioma_detectado": "pt"
+}

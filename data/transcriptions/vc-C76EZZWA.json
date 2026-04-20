@@ -1,0 +1,17 @@
+{
+  "texto": "Paz do Piau, ó, até ficar dentro d'água. Eita, mas tá bravo, hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "Paz do Piau, ó, até ficar dentro d'água."
+    },
+    {
+      "start": 6.37,
+      "end": 7.85,
+      "text": "Eita, mas tá bravo, hein?"
+    }
+  ],
+  "duracao_seg": 15.51,
+  "idioma_detectado": "pt"
+}

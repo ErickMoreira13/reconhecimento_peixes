@@ -1,0 +1,37 @@
+{
+  "texto": "E aí, rapaziada, olha o tamanho do pintado. Você tá doido. Olha o tamanho do pintado que morreu. Você tá doido, ó. Agora um dourado também, ó. Morto.",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 2.47,
+      "text": "E aí, rapaziada, olha o tamanho do pintado."
+    },
+    {
+      "start": 4.83,
+      "end": 5.53,
+      "text": "Você tá doido."
+    },
+    {
+      "start": 6.09,
+      "end": 7.25,
+      "text": "Olha o tamanho do pintado que morreu."
+    },
+    {
+      "start": 9.21,
+      "end": 9.95,
+      "text": "Você tá doido, ó."
+    },
+    {
+      "start": 12.22,
+      "end": 13.3,
+      "text": "Agora um dourado também, ó."
+    },
+    {
+      "start": 14.24,
+      "end": 14.64,
+      "text": "Morto."
+    }
+  ],
+  "duracao_seg": 16.71,
+  "idioma_detectado": "pt"
+}

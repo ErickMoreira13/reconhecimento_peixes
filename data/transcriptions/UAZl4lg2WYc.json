@@ -1,0 +1,77 @@
+{
+  "texto": "Fala galera, beleza? Vou dar uma dica aqui pra vocês De como cevar no rio Uma ceva fixa Usando mandioca e milho Beleza? Essa aqui é a ceva que eu costumo fazer no rio Pra pegar as piaparas, os piaus Aí eu vou, tá mostrando aqui o passo a passo Vou picar a mandioca aqui Colocar naquele saco ali, amarrar E depois colocar uma pedra dentro E levar pra colocar lá na ceva ali no rio Beleza? Acompanha comigo aí",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 2.21,
+      "text": "Fala galera, beleza?"
+    },
+    {
+      "start": 2.65,
+      "end": 4.13,
+      "text": "Vou dar uma dica aqui pra vocês"
+    },
+    {
+      "start": 4.13,
+      "end": 6.15,
+      "text": "De como cevar no rio"
+    },
+    {
+      "start": 6.15,
+      "end": 7.15,
+      "text": "Uma ceva fixa"
+    },
+    {
+      "start": 7.15,
+      "end": 10.17,
+      "text": "Usando mandioca e milho"
+    },
+    {
+      "start": 10.17,
+      "end": 10.93,
+      "text": "Beleza?"
+    },
+    {
+      "start": 11.75,
+      "end": 13.45,
+      "text": "Essa aqui é a ceva que eu costumo fazer no rio"
+    },
+    {
+      "start": 13.45,
+      "end": 14.97,
+      "text": "Pra pegar as piaparas, os piaus"
+    },
+    {
+      "start": 14.97,
+      "end": 17.72,
+      "text": "Aí eu vou, tá mostrando aqui o passo a passo"
+    },
+    {
+      "start": 17.72,
+      "end": 18.92,
+      "text": "Vou picar a mandioca aqui"
+    },
+    {
+      "start": 18.92,
+      "end": 21.62,
+      "text": "Colocar naquele saco ali, amarrar"
+    },
+    {
+      "start": 21.62,
+      "end": 24.34,
+      "text": "E depois colocar uma pedra dentro"
+    },
+    {
+      "start": 24.34,
+      "end": 26.14,
+      "text": "E levar pra colocar lá na ceva ali no rio"
+    },
+    {
+      "start": 26.14,
+      "end": 27.44,
+      "text": "Beleza? Acompanha comigo aí"
+    }
+  ],
+  "duracao_seg": 207.41,
+  "idioma_detectado": "pt"
+}

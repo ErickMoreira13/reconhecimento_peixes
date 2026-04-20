@@ -1,0 +1,27 @@
+{
+  "texto": "Os meninos, já peguei bastante peixe aqui hoje, aí eu fiquei curioso, será que vai ter traíra aqui? Tô aqui nesse corguinho dentro da mata aqui, ó, vamos fazer um teste aqui e ver se nós pegamos uma traíra. Tem ou não tem traíra aqui? Calma, ó, ó, já pegou a boinha, ó, ó aí, eita trem, só, não vem não, escapou, vamos de novo, ela vai pegar. Ela vai pegar os meninos, ó lá, vamos jogar lá, ó, vocês viram, rapaz?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.21,
+      "text": "Os meninos, já peguei bastante peixe aqui hoje, aí eu fiquei curioso, será que vai ter traíra aqui?"
+    },
+    {
+      "start": 8.44,
+      "end": 13.72,
+      "text": "Tô aqui nesse corguinho dentro da mata aqui, ó, vamos fazer um teste aqui e ver se nós pegamos uma traíra."
+    },
+    {
+      "start": 17.9,
+      "end": 44.15,
+      "text": "Tem ou não tem traíra aqui? Calma, ó, ó, já pegou a boinha, ó, ó aí, eita trem, só, não vem não, escapou, vamos de novo, ela vai pegar."
+    },
+    {
+      "start": 44.15,
+      "end": 54.58,
+      "text": "Ela vai pegar os meninos, ó lá, vamos jogar lá, ó, vocês viram, rapaz?"
+    }
+  ],
+  "duracao_seg": 60.57,
+  "idioma_detectado": "pt"
+}

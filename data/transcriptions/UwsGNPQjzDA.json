@@ -1,0 +1,137 @@
+{
+  "texto": "É o Paulo Lambari? Ó, o Paulo Lambari Que dia que é hoje mesmo? Hoje é dia 22? 22? 22, gente, ó Lambarizinho de vinho Pulando aí, ó Desce aqui, ó Ó, uma gascada Ó, e meia Gravou Ó, puxou Certa um pouquinho de linha Aí, ó Pegou? Pegou? É, demorou um pouquinho porque tá filmando Quando tá filmando, demora mesmo E ó, o que que é isso? Ó, o padrão das turminhas Vocês tem que pegar peixe e cola com o Deninho Não tem erro não Aí, ó Padrão filé Chama no canal É, moleque",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 1.58,
+      "text": "É o Paulo Lambari?"
+    },
+    {
+      "start": 2.12,
+      "end": 3.34,
+      "text": "Ó, o Paulo Lambari"
+    },
+    {
+      "start": 3.34,
+      "end": 5.7,
+      "text": "Que dia que é hoje mesmo? Hoje é dia 22?"
+    },
+    {
+      "start": 5.7,
+      "end": 6.0,
+      "text": "22?"
+    },
+    {
+      "start": 7.86,
+      "end": 8.94,
+      "text": "22, gente, ó"
+    },
+    {
+      "start": 8.94,
+      "end": 10.92,
+      "text": "Lambarizinho de vinho"
+    },
+    {
+      "start": 10.92,
+      "end": 12.73,
+      "text": "Pulando aí, ó"
+    },
+    {
+      "start": 12.73,
+      "end": 13.91,
+      "text": "Desce aqui, ó"
+    },
+    {
+      "start": 13.91,
+      "end": 18.14,
+      "text": "Ó, uma gascada"
+    },
+    {
+      "start": 18.14,
+      "end": 20.92,
+      "text": "Ó, e meia"
+    },
+    {
+      "start": 20.92,
+      "end": 21.94,
+      "text": "Gravou"
+    },
+    {
+      "start": 21.94,
+      "end": 30.16,
+      "text": "Ó, puxou"
+    },
+    {
+      "start": 30.16,
+      "end": 31.86,
+      "text": "Certa um pouquinho de linha"
+    },
+    {
+      "start": 31.86,
+      "end": 36.34,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 36.34,
+      "end": 37.1,
+      "text": "Pegou?"
+    },
+    {
+      "start": 37.9,
+      "end": 38.34,
+      "text": "Pegou?"
+    },
+    {
+      "start": 38.58,
+      "end": 40.44,
+      "text": "É, demorou um pouquinho porque tá filmando"
+    },
+    {
+      "start": 40.44,
+      "end": 41.66,
+      "text": "Quando tá filmando, demora mesmo"
+    },
+    {
+      "start": 41.66,
+      "end": 43.14,
+      "text": "E ó, o que que é isso?"
+    },
+    {
+      "start": 43.14,
+      "end": 45.03,
+      "text": "Ó, o padrão das turminhas"
+    },
+    {
+      "start": 45.03,
+      "end": 47.99,
+      "text": "Vocês tem que pegar peixe e cola com o Deninho"
+    },
+    {
+      "start": 47.99,
+      "end": 49.15,
+      "text": "Não tem erro não"
+    },
+    {
+      "start": 49.15,
+      "end": 50.42,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 50.42,
+      "end": 52.81,
+      "text": "Padrão filé"
+    },
+    {
+      "start": 52.81,
+      "end": 53.75,
+      "text": "Chama no canal"
+    },
+    {
+      "start": 53.75,
+      "end": 54.85,
+      "text": "É, moleque"
+    }
+  ],
+  "duracao_seg": 54.95,
+  "idioma_detectado": "pt"
+}

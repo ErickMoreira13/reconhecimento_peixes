@@ -1,0 +1,27 @@
+{
+  "texto": "o vídeo é mas que de pica power é é mas que de pica power pô de que tá remando lá",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 17.09,
+      "text": "o vídeo é"
+    },
+    {
+      "start": 17.09,
+      "end": 19.09,
+      "text": "mas que de pica power é"
+    },
+    {
+      "start": 19.09,
+      "end": 21.09,
+      "text": "é mas que de pica power pô"
+    },
+    {
+      "start": 21.09,
+      "end": 23.09,
+      "text": "de que tá remando lá"
+    }
+  ],
+  "duracao_seg": 32.71,
+  "idioma_detectado": "pt"
+}
