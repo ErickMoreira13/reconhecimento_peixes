@@ -56,6 +56,8 @@ EQUIPAMENTO_BLACKLIST = {
     "vara", "varinha", "carretilha", "molinete", "anzol", "linha",
     "bait", "isca", "isquinha", "hunter", "avenado", "espinhel",
     "rede", "caiaque", "barco",
+    # adicionados apos smoke real pegar casos novos:
+    "telescopica", "chumbada", "boia", "caiaquinho",
 }
 
 # palavras/expressoes genericas que NAO sao especies (fix 4).
