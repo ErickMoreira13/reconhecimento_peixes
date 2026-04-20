@@ -48,6 +48,37 @@ NOMES_PROPRIOS_COMUNS = {
 CEVA_KEYWORDS = {"ceva", "seva", "ceba", "cevar", "cevando", "cevador", "cevamos"}
 
 
+def rio_aparece_no_texto(rio: str, transcricao: str) -> bool:
+    # fix 2: rio precisa aparecer LITERALMENTE na transcricao.
+    # extrator as vezes chuta "Rio Sao Francisco" ou "Rio Araguaia" quando nao
+    # sabe — 5 dos 50 videos anotados tinham essa alucinacao.
+    #
+    # comparacao sem acento e sem prefixo "Rio " pra ser tolerante com variacoes
+    # de transcricao (whisper as vezes erra acento)
+    if not rio:
+        return False
+
+    # normaliza: tira prefixo "Rio ", lowercase, tira acento
+    nome_sem_prefixo = re.sub(r"^rio\s+", "", rio.lower().strip())
+    # remove acentos do nome e do texto pra evitar falso negativo
+    def _tira_ac(s: str) -> str:
+        import unicodedata
+        return "".join(c for c in unicodedata.normalize("NFD", s)
+                       if unicodedata.category(c) != "Mn")
+
+    nome_norm = _tira_ac(nome_sem_prefixo)
+    texto_norm = _tira_ac(transcricao.lower())
+
+    # match literal direto
+    if nome_norm in texto_norm:
+        return True
+    # tolera fuzzy alto pra erros pequenos do whisper (ex: "iriri" vs "iriry")
+    # partial_ratio >= 90% = praticamente substring
+    if fuzz.partial_ratio(nome_norm, texto_norm) >= 90:
+        return True
+    return False
+
+
 _estados_cache: set[str] | None = None
 
 
@@ -135,6 +166,17 @@ def _passa_cross_field(nome_campo: str, campo: CampoExtraido, outros: dict[str, 
     return True, None
 
 
+def _passa_rio_aparece(nome_campo: str, campo: CampoExtraido, transcricao: str) -> tuple[bool, TipoRejeicao | None]:
+    # fix 2: rio deve aparecer LITERALMENTE (ou fuzzy) no texto
+    if nome_campo != "rio" or campo.valor is None:
+        return True, None
+    if not isinstance(campo.valor, str):
+        return True, None
+    if not rio_aparece_no_texto(campo.valor, transcricao):
+        return False, "alucinacao_suspeita"
+    return True, None
+
+
 def _passa_ceva_keywords(nome_campo: str, campo: CampoExtraido, transcricao: str) -> tuple[bool, TipoRejeicao | None]:
     # tipo_ceva so eh valido se o texto mencionar ceva/seva/ceba/cevar/cevador
     # pescaria com so isca viva/artificial nao tem ceva, extrator chuta essa
@@ -180,6 +222,7 @@ def aplica_regras(
         _passa_cross_field,
         _passa_length_obs,
         lambda nc, c, t, o: _passa_ceva_keywords(nc, c, t),
+        lambda nc, c, t, o: _passa_rio_aparece(nc, c, t),
     ]
 
     for regra in ordem:
