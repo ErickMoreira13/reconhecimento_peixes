@@ -1,0 +1,42 @@
+{
+  "texto": "A rapaziada já tá aqui botando o motorzinho no barco Bora, bora Motorzinho no barco, sou joia Vou pegar 5 Baiacu hoje, daquele jeitão, viu? Minha vara já tá aqui no jeito Pera aí, parceiro, pera aí É, pessoal",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.48,
+      "text": "A rapaziada já tá aqui botando o motorzinho no barco"
+    },
+    {
+      "start": 2.48,
+      "end": 3.08,
+      "text": "Bora, bora"
+    },
+    {
+      "start": 3.08,
+      "end": 5.2,
+      "text": "Motorzinho no barco, sou joia"
+    },
+    {
+      "start": 5.2,
+      "end": 8.34,
+      "text": "Vou pegar 5 Baiacu hoje, daquele jeitão, viu?"
+    },
+    {
+      "start": 8.96,
+      "end": 10.3,
+      "text": "Minha vara já tá aqui no jeito"
+    },
+    {
+      "start": 10.3,
+      "end": 12.74,
+      "text": "Pera aí, parceiro, pera aí"
+    },
+    {
+      "start": 12.74,
+      "end": 14.83,
+      "text": "É, pessoal"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Aí puxa aí Renato Aí ó Renato puxou uma aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "Aí puxa aí Renato"
+    },
+    {
+      "start": 2.36,
+      "end": 6.35,
+      "text": "Aí ó"
+    },
+    {
+      "start": 6.35,
+      "end": 8.73,
+      "text": "Renato puxou uma aí"
+    }
+  ],
+  "duracao_seg": 12.21,
+  "idioma_detectado": "pt"
+}

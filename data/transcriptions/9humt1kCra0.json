@@ -1,0 +1,37 @@
+{
+  "texto": "Eu acho que nesse chão eu deixo mais do que pegada E de vez em quando acho que eu sou a própria estrada Talvez eu seja a boiada ruminando no varjão Se eu não for o boiadeiro talvez seja o coração Forçando, batendo forte nas ventranhas deste chão Se eu não for o boiadeiro talvez seja o coração",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 6.17,
+      "text": "Eu acho que nesse chão eu deixo mais do que pegada"
+    },
+    {
+      "start": 6.17,
+      "end": 12.87,
+      "text": "E de vez em quando acho que eu sou a própria estrada"
+    },
+    {
+      "start": 12.87,
+      "end": 18.33,
+      "text": "Talvez eu seja a boiada ruminando no varjão"
+    },
+    {
+      "start": 18.33,
+      "end": 23.13,
+      "text": "Se eu não for o boiadeiro talvez seja o coração"
+    },
+    {
+      "start": 23.13,
+      "end": 28.49,
+      "text": "Forçando, batendo forte nas ventranhas deste chão"
+    },
+    {
+      "start": 28.49,
+      "end": 35.43,
+      "text": "Se eu não for o boiadeiro talvez seja o coração"
+    }
+  ],
+  "duracao_seg": 35.45,
+  "idioma_detectado": "pt"
+}

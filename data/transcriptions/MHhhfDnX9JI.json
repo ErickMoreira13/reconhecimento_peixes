@@ -1,0 +1,32 @@
+{
+  "texto": "Rapaziada, a meta hoje é pegar 10 baiacu, hein? Baiacu, tá bom pra pescar aí Os caras, tá todo mundo aqui, cheque, palo, pazinho Filipe, pazinho, pazinho, pazinho de pês, palo de pão Filipe, pão diretamente",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "Rapaziada, a meta hoje é pegar 10 baiacu, hein?"
+    },
+    {
+      "start": 5.06,
+      "end": 6.24,
+      "text": "Baiacu, tá bom pra pescar aí"
+    },
+    {
+      "start": 6.24,
+      "end": 10.0,
+      "text": "Os caras, tá todo mundo aqui, cheque, palo, pazinho"
+    },
+    {
+      "start": 10.0,
+      "end": 12.72,
+      "text": "Filipe, pazinho, pazinho, pazinho de pês, palo de pão"
+    },
+    {
+      "start": 12.72,
+      "end": 14.14,
+      "text": "Filipe, pão diretamente"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

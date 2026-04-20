@@ -1,0 +1,77 @@
+{
+  "texto": "Beleza? Então, vou tirar aqui ó, já faz o dia inteiro que tá aqui, vamos ver se pegou alguma coisa, bora Se pegar alguma coisa aí eu já mostro pra vocês Ótima vez, aqui eu peguei um, peguei uma cobra gigante Vamos ver se eu pego a mãe dela Ó, pegou uma tartaruga, rapaz Rapaziada, aí Pega, João, segura aí Olha a tartaruga, rapaziada Pegou a bichinha Aí deixa nos comentários, esse daqui é outro cagado, né? Bora, olha o tamanho Pai, olha o que conseguimos Nossa, fica mais longe Olha aí galera, o tartaruga",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.72,
+      "text": "Beleza? Então, vou tirar aqui ó, já faz o dia inteiro que tá aqui, vamos ver se pegou alguma coisa, bora"
+    },
+    {
+      "start": 7.72,
+      "end": 12.72,
+      "text": "Se pegar alguma coisa aí eu já mostro pra vocês"
+    },
+    {
+      "start": 12.72,
+      "end": 17.0,
+      "text": "Ótima vez, aqui eu peguei um, peguei uma cobra gigante"
+    },
+    {
+      "start": 17.0,
+      "end": 19.28,
+      "text": "Vamos ver se eu pego a mãe dela"
+    },
+    {
+      "start": 19.28,
+      "end": 28.13,
+      "text": "Ó, pegou uma tartaruga, rapaz"
+    },
+    {
+      "start": 28.13,
+      "end": 29.57,
+      "text": "Rapaziada, aí"
+    },
+    {
+      "start": 29.57,
+      "end": 33.63,
+      "text": "Pega, João, segura aí"
+    },
+    {
+      "start": 33.63,
+      "end": 35.41,
+      "text": "Olha a tartaruga, rapaziada"
+    },
+    {
+      "start": 35.41,
+      "end": 37.81,
+      "text": "Pegou a bichinha"
+    },
+    {
+      "start": 37.81,
+      "end": 43.22,
+      "text": "Aí deixa nos comentários, esse daqui é outro cagado, né?"
+    },
+    {
+      "start": 43.54,
+      "end": 47.11,
+      "text": "Bora, olha o tamanho"
+    },
+    {
+      "start": 47.11,
+      "end": 55.61,
+      "text": "Pai, olha o que conseguimos"
+    },
+    {
+      "start": 55.61,
+      "end": 56.93,
+      "text": "Nossa, fica mais longe"
+    },
+    {
+      "start": 56.93,
+      "end": 59.9,
+      "text": "Olha aí galera, o tartaruga"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

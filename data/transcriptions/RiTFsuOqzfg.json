@@ -1,0 +1,42 @@
+{
+  "texto": "É de arrumar o barco, né, os caras que sabem. Eu tô gripado, eu não posso fazer nada mesmo. Tá ligado? Se eu fizer aqui, a galera vai ficar ruim. Então, deixa os caras aqui fazer, né, Filipe? Vamos aqui, ó. Trabalhador demais. Não é bom? Não é, é boa dele, cara.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "É de arrumar o barco, né, os caras que sabem."
+    },
+    {
+      "start": 2.22,
+      "end": 3.62,
+      "text": "Eu tô gripado, eu não posso fazer nada mesmo."
+    },
+    {
+      "start": 4.36,
+      "end": 6.56,
+      "text": "Tá ligado? Se eu fizer aqui, a galera vai ficar ruim."
+    },
+    {
+      "start": 7.3,
+      "end": 9.2,
+      "text": "Então, deixa os caras aqui fazer, né, Filipe?"
+    },
+    {
+      "start": 9.2,
+      "end": 11.24,
+      "text": "Vamos aqui, ó. Trabalhador demais."
+    },
+    {
+      "start": 11.74,
+      "end": 12.18,
+      "text": "Não é bom?"
+    },
+    {
+      "start": 13.4,
+      "end": 14.52,
+      "text": "Não é, é boa dele, cara."
+    }
+  ],
+  "duracao_seg": 14.91,
+  "idioma_detectado": "pt"
+}

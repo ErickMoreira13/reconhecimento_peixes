@@ -1,0 +1,22 @@
+{
+  "texto": "rapaziada olha o tamanho desse bicho rapaziada olha o tamanho desse bicho olha o tamanho desse bitelo olha o tamanho rapaziada é muito grande galera muito grande muito lindo muito lindo saco de beijo de quilo rapaziada de quilo",
+  "segmentos": [
+    {
+      "start": 2.03,
+      "end": 8.4,
+      "text": "rapaziada olha o tamanho desse bicho rapaziada olha o tamanho desse bicho"
+    },
+    {
+      "start": 8.4,
+      "end": 17.33,
+      "text": "olha o tamanho desse bitelo olha o tamanho rapaziada é muito grande galera"
+    },
+    {
+      "start": 17.33,
+      "end": 26.1,
+      "text": "muito grande muito lindo muito lindo saco de beijo de quilo rapaziada de quilo"
+    }
+  ],
+  "duracao_seg": 25.41,
+  "idioma_detectado": "pt"
+}

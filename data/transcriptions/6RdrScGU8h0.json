@@ -1,0 +1,92 @@
+{
+  "texto": "Bora que bora. Tem mais um ali. Bruto esse aqui. Pegou mais um ali, galera. Vamos ver sim. Pesou, pesou, viu? Tá dedão, velho. Deixa eu botar um dedo ali, meu irmão. Galera, o homem... Olha, antes do juiz terminar o jogo. Segura aí o bicho, abre aí. Tá, filho, tá... Opa aí. 90 minutos do segundo tempo, olha. Opa aqui. O tamanho do retado. Rapaz, que top.",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 1.18,
+      "text": "Bora que bora."
+    },
+    {
+      "start": 6.24,
+      "end": 6.98,
+      "text": "Tem mais um ali."
+    },
+    {
+      "start": 9.51,
+      "end": 10.45,
+      "text": "Bruto esse aqui."
+    },
+    {
+      "start": 14.9,
+      "end": 16.26,
+      "text": "Pegou mais um ali, galera."
+    },
+    {
+      "start": 17.34,
+      "end": 17.9,
+      "text": "Vamos ver sim."
+    },
+    {
+      "start": 25.78,
+      "end": 26.82,
+      "text": "Pesou, pesou, viu?"
+    },
+    {
+      "start": 29.8,
+      "end": 30.68,
+      "text": "Tá dedão, velho."
+    },
+    {
+      "start": 31.84,
+      "end": 33.16,
+      "text": "Deixa eu botar um dedo ali, meu irmão."
+    },
+    {
+      "start": 34.76,
+      "end": 36.28,
+      "text": "Galera, o homem..."
+    },
+    {
+      "start": 36.28,
+      "end": 37.94,
+      "text": "Olha, antes do juiz terminar o jogo."
+    },
+    {
+      "start": 39.02,
+      "end": 40.72,
+      "text": "Segura aí o bicho, abre aí."
+    },
+    {
+      "start": 41.95,
+      "end": 43.84,
+      "text": "Tá, filho, tá..."
+    },
+    {
+      "start": 43.84,
+      "end": 44.24,
+      "text": "Opa aí."
+    },
+    {
+      "start": 45.73,
+      "end": 47.57,
+      "text": "90 minutos do segundo tempo, olha."
+    },
+    {
+      "start": 48.88,
+      "end": 49.3,
+      "text": "Opa aqui."
+    },
+    {
+      "start": 49.3,
+      "end": 51.3,
+      "text": "O tamanho do retado."
+    },
+    {
+      "start": 53.01,
+      "end": 54.83,
+      "text": "Rapaz, que top."
+    }
+  ],
+  "duracao_seg": 55.37,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "E aí, Rafa, qual que é a sensação pegar um peixe de 30kg? No seu próprio EVA, hein? Hã? Beleza? Já. E aí, rapaziada?",
+  "segmentos": [
+    {
+      "start": 2.48,
+      "end": 22.63,
+      "text": "E aí, Rafa, qual que é a sensação pegar um peixe de 30kg?"
+    },
+    {
+      "start": 22.63,
+      "end": 24.51,
+      "text": "No seu próprio EVA, hein?"
+    },
+    {
+      "start": 25.07,
+      "end": 25.23,
+      "text": "Hã?"
+    },
+    {
+      "start": 26.15,
+      "end": 26.55,
+      "text": "Beleza?"
+    },
+    {
+      "start": 27.66,
+      "end": 27.92,
+      "text": "Já."
+    },
+    {
+      "start": 28.52,
+      "end": 29.12,
+      "text": "E aí, rapaziada?"
+    }
+  ],
+  "duracao_seg": 30.01,
+  "idioma_detectado": "pt"
+}

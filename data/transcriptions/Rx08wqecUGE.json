@@ -1,0 +1,57 @@
+{
+  "texto": "Mais um reabastecimento para ajudar os animais nesse período de escassez que prevalece aqui na região. Assim o bebedouro se encontrava, então tirei a pedra e comecei a tirar aquela água suja. Já fazia bastante dias e a manutenção não era feita. Após fazer a retirada de toda a água suja, tirei um pouco do lodo com a vassoura. Sempre é preciso jogar um pouco de água para facilitar e melhorar a limpeza. Esfrego bastante com a vassoura para ver se consigo amenizar a sujeira que acumulou com o passar do tempo. Após conseguir melhorar a limpeza, retiro a areia que fica no centro do bebedouro e repito o mesmo processo, esfregando mais algumas vezes e depois de um tempo o bebedouro já estava pronto para receber água. Então comecei a reabastecer, dessa vez o bebedouro ficou com essa coloração amarela, não sei o motivo. E assim o bebedouro ficou, enquanto as chuvas não voltarem estarei fazendo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.62,
+      "text": "Mais um reabastecimento para ajudar os animais nesse período de escassez que prevalece aqui na região."
+    },
+    {
+      "start": 6.48,
+      "end": 12.32,
+      "text": "Assim o bebedouro se encontrava, então tirei a pedra e comecei a tirar aquela água suja."
+    },
+    {
+      "start": 12.68,
+      "end": 16.04,
+      "text": "Já fazia bastante dias e a manutenção não era feita."
+    },
+    {
+      "start": 17.14,
+      "end": 22.08,
+      "text": "Após fazer a retirada de toda a água suja, tirei um pouco do lodo com a vassoura."
+    },
+    {
+      "start": 22.87,
+      "end": 26.87,
+      "text": "Sempre é preciso jogar um pouco de água para facilitar e melhorar a limpeza."
+    },
+    {
+      "start": 26.87,
+      "end": 33.23,
+      "text": "Esfrego bastante com a vassoura para ver se consigo amenizar a sujeira que acumulou com o passar do tempo."
+    },
+    {
+      "start": 33.69,
+      "end": 40.67,
+      "text": "Após conseguir melhorar a limpeza, retiro a areia que fica no centro do bebedouro e repito o mesmo processo,"
+    },
+    {
+      "start": 41.17,
+      "end": 47.03,
+      "text": "esfregando mais algumas vezes e depois de um tempo o bebedouro já estava pronto para receber água."
+    },
+    {
+      "start": 47.91,
+      "end": 54.81,
+      "text": "Então comecei a reabastecer, dessa vez o bebedouro ficou com essa coloração amarela, não sei o motivo."
+    },
+    {
+      "start": 54.81,
+      "end": 59.95,
+      "text": "E assim o bebedouro ficou, enquanto as chuvas não voltarem estarei fazendo."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

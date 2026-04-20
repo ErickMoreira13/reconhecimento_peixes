@@ -1,0 +1,67 @@
+{
+  "texto": "Bom dia, bom dia, rapaziada do YouTube aí, ó Maior pesquinha hoje aqui no pesqueiro da minha cidade mesmo Pesqueiro Piratelle Conjuntinho Vara Caralhismo GTO, 2,40 Carretilha, Naja Linha BF9, 0,35 Boinha servadeira lá no fundo, lá, ó E raçãozinha, direitinho, ração de bacon É nóis, rapaziada Deixa eu pegar peixe e volto com vocês",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Bom dia, bom dia, rapaziada do YouTube aí, ó"
+    },
+    {
+      "start": 1.92,
+      "end": 5.53,
+      "text": "Maior pesquinha hoje aqui no pesqueiro da minha cidade mesmo"
+    },
+    {
+      "start": 5.53,
+      "end": 6.61,
+      "text": "Pesqueiro Piratelle"
+    },
+    {
+      "start": 6.61,
+      "end": 8.15,
+      "text": "Conjuntinho"
+    },
+    {
+      "start": 8.15,
+      "end": 8.85,
+      "text": "Vara"
+    },
+    {
+      "start": 8.85,
+      "end": 11.41,
+      "text": "Caralhismo GTO, 2,40"
+    },
+    {
+      "start": 11.41,
+      "end": 13.33,
+      "text": "Carretilha, Naja"
+    },
+    {
+      "start": 13.33,
+      "end": 16.33,
+      "text": "Linha BF9, 0,35"
+    },
+    {
+      "start": 16.33,
+      "end": 20.53,
+      "text": "Boinha servadeira lá no fundo, lá, ó"
+    },
+    {
+      "start": 20.53,
+      "end": 24.66,
+      "text": "E raçãozinha, direitinho, ração de bacon"
+    },
+    {
+      "start": 24.66,
+      "end": 26.04,
+      "text": "É nóis, rapaziada"
+    },
+    {
+      "start": 26.04,
+      "end": 28.56,
+      "text": "Deixa eu pegar peixe e volto com vocês"
+    }
+  ],
+  "duracao_seg": 29.71,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,127 @@
+{
+  "texto": "Salve, família! Hoje eu fui no mangue de lama salgada pegar caranguejo no buraco. Já tô aqui no mangue e já encontrei um buraco de caranguejo. O difícil agora vai ser pra arrancar o bicho de dentro. Olha só, logo esse de início me surpreendeu. O bicho tava raso, família. Ele é bem graudinho. Uma coisa é certa, com fome, eu não fico mais. Tem alguns buracos aqui, mas meu foco é os buracos grandes. São neles que os caranguejos grandes se encontram. Olha aí o que eu tô falando. Peguei outra celebridade. Vou lavar o bruto pra seis ver a dimensão do monstro. Se é louco, mais três desse eu vou pra casa super feliz. Tem um buraco aqui solitário. Vou pegar o morador dele e pôr no baldinho para se socializar com os demais. Olha aqui o meliante. É um pata grande. Agora vai pro baldinho goloso fazer amizade com os demais por um curto período de tempo. Já tô na tentativa de pegar mais um família. Rapaz, o desse buraco me deixou na mão. Mas não fico triste, porque o que tem mais aqui é buraco. Tem alguns fundos como esses, porém nada de desânimo. Graças ao pai que topei esse no fundo, já tô puxando o ignorante. É uma lapa de caranguejo. E esse é canhoto. As patas são iguais. Dá só uma olhada no meliante. Hum, já tô sentindo o gostinho dele com pimenta extra forte. Família, vou pra casa que esses já dá pra comer de boa.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 4.86,
+      "text": "Salve, família! Hoje eu fui no mangue de lama salgada pegar caranguejo no buraco."
+    },
+    {
+      "start": 6.08,
+      "end": 9.04,
+      "text": "Já tô aqui no mangue e já encontrei um buraco de caranguejo."
+    },
+    {
+      "start": 9.52,
+      "end": 11.94,
+      "text": "O difícil agora vai ser pra arrancar o bicho de dentro."
+    },
+    {
+      "start": 12.48,
+      "end": 15.06,
+      "text": "Olha só, logo esse de início me surpreendeu."
+    },
+    {
+      "start": 15.5,
+      "end": 20.32,
+      "text": "O bicho tava raso, família. Ele é bem graudinho. Uma coisa é certa, com fome, eu não fico mais."
+    },
+    {
+      "start": 20.84,
+      "end": 24.22,
+      "text": "Tem alguns buracos aqui, mas meu foco é os buracos grandes."
+    },
+    {
+      "start": 24.58,
+      "end": 26.86,
+      "text": "São neles que os caranguejos grandes se encontram."
+    },
+    {
+      "start": 26.86,
+      "end": 28.28,
+      "text": "Olha aí o que eu tô falando."
+    },
+    {
+      "start": 28.28,
+      "end": 32.5,
+      "text": "Peguei outra celebridade. Vou lavar o bruto pra seis ver a dimensão do monstro."
+    },
+    {
+      "start": 32.62,
+      "end": 35.28,
+      "text": "Se é louco, mais três desse eu vou pra casa super feliz."
+    },
+    {
+      "start": 35.58,
+      "end": 40.8,
+      "text": "Tem um buraco aqui solitário. Vou pegar o morador dele e pôr no baldinho para se socializar com os demais."
+    },
+    {
+      "start": 41.2,
+      "end": 43.52,
+      "text": "Olha aqui o meliante. É um pata grande."
+    },
+    {
+      "start": 43.62,
+      "end": 47.98,
+      "text": "Agora vai pro baldinho goloso fazer amizade com os demais por um curto período de tempo."
+    },
+    {
+      "start": 48.06,
+      "end": 50.1,
+      "text": "Já tô na tentativa de pegar mais um família."
+    },
+    {
+      "start": 50.24,
+      "end": 51.94,
+      "text": "Rapaz, o desse buraco me deixou na mão."
+    },
+    {
+      "start": 52.1,
+      "end": 54.66,
+      "text": "Mas não fico triste, porque o que tem mais aqui é buraco."
+    },
+    {
+      "start": 54.66,
+      "end": 57.82,
+      "text": "Tem alguns fundos como esses, porém nada de desânimo."
+    },
+    {
+      "start": 57.82,
+      "end": 61.6,
+      "text": "Graças ao pai que topei esse no fundo, já tô puxando o ignorante."
+    },
+    {
+      "start": 61.78,
+      "end": 63.04,
+      "text": "É uma lapa de caranguejo."
+    },
+    {
+      "start": 63.38,
+      "end": 64.28,
+      "text": "E esse é canhoto."
+    },
+    {
+      "start": 64.7,
+      "end": 65.92,
+      "text": "As patas são iguais."
+    },
+    {
+      "start": 66.44,
+      "end": 68.04,
+      "text": "Dá só uma olhada no meliante."
+    },
+    {
+      "start": 68.28,
+      "end": 71.92,
+      "text": "Hum, já tô sentindo o gostinho dele com pimenta extra forte."
+    },
+    {
+      "start": 72.22,
+      "end": 74.7,
+      "text": "Família, vou pra casa que esses já dá pra comer de boa."
+    }
+  ],
+  "duracao_seg": 75.53,
+  "idioma_detectado": "pt"
+}

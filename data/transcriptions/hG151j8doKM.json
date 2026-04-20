@@ -1,0 +1,47 @@
+{
+  "texto": "Olha isso! Olha isso! Rapaziada! Você tá doido? Você tem necessidade, vai! Olha isso! 98 centímetros, rapaziada! Obrigado, Deus! Olha o bola desse índice dessa altura!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Olha isso! Olha isso!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Rapaziada!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Você tá doido?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Você tem necessidade, vai!"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Olha isso!"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "98 centímetros, rapaziada!"
+    },
+    {
+      "start": 14.0,
+      "end": 16.32,
+      "text": "Obrigado, Deus!"
+    },
+    {
+      "start": 16.32,
+      "end": 19.73,
+      "text": "Olha o bola desse índice dessa altura!"
+    }
+  ],
+  "duracao_seg": 20.27,
+  "idioma_detectado": "pt"
+}

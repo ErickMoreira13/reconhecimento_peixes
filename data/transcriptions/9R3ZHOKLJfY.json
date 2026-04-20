@@ -1,0 +1,17 @@
+{
+  "texto": "Parabéns, cara, bora ver. Quero pescar uns baiacuzinhos hoje. Baiacuz? Só tem baiacuzinho.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Parabéns, cara, bora ver. Quero pescar uns baiacuzinhos hoje."
+    },
+    {
+      "start": 3.1,
+      "end": 5.4,
+      "text": "Baiacuz? Só tem baiacuzinho."
+    }
+  ],
+  "duracao_seg": 14.99,
+  "idioma_detectado": "pt"
+}

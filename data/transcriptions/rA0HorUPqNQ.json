@@ -1,0 +1,22 @@
+{
+  "texto": "Hoje você vai aprender a regular sua carretilha. Aqui no ajuste fino você vai travar até o máximo e depois ir soltando até a sua isca artificial bater na água e não da cabeleira. Pronto, agora sua carretilha vai estar livre de cabeleiras.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "Hoje você vai aprender a regular sua carretilha."
+    },
+    {
+      "start": 2.42,
+      "end": 9.02,
+      "text": "Aqui no ajuste fino você vai travar até o máximo e depois ir soltando até a sua isca artificial bater na água e não da cabeleira."
+    },
+    {
+      "start": 12.15,
+      "end": 15.11,
+      "text": "Pronto, agora sua carretilha vai estar livre de cabeleiras."
+    }
+  ],
+  "duracao_seg": 17.49,
+  "idioma_detectado": "pt"
+}

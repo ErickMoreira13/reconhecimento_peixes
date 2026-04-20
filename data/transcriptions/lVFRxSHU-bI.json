@@ -1,0 +1,337 @@
+{
+  "texto": "Com o mar agitado, é mais difícil achar o equipamento, porque as boias somem atrás das ondas e está vindo uma onda atrás da outra. O capitão Keith Coburn enfrenta ventos de 90 quilômetros por hora e ondas de 8 metros em busca de 41.300 quilos de baírdia, antes que a frota toda pare de pescar bacalhau e comece a pescar o caranguejo baírdia. Eu não sei se a gente vai conseguir puxar o equipamento. O tempo virou para valer. Puxando essa fieira, nós vamos encher os 60 covos de iscas e lançar de novo. Já era para a boia estar perto e eu devia estar vendo daqui. Ah, eu preciso limpar esse óculos. Tá ali. Você achou o covo? Achou? Sim. Muito bem, valeu, Pascual. Esse garoto tem os melhores olhos do Mar de Bering. Ele é meio vesgo, mas o Pascual tem a melhor visão do Mar de Bering. O mar tá uma loucura agora. Tá feio nessa região. É melhor você colocar alguma coisa pesada no bolso. Senão você vai sair voando. Você é muito levinho, o vento te leva embora. Ih, tá meio fraco, hein? Ah, mais ou menos. Quanto tempo ficou no mar? São 3h45. Ficou 48 horas no mar. A quantidade não aumentou. Olha só, gente, cuidado. Pode empilhar os covos. Vamos puxar um de cada vez com cuidado, ok? Entendido. Eu queria lançar essa feira de novo, mas... Se não der, tudo bem. Tô virando pra este bordo pra puxar os covos e agora eu preciso voltar pra bom morto. Vão manter as ondas na proa o máximo que der e deixar a maré me empurrar pro próximo covo. Cuidado na borda, Rob. Atrás de você, atrás de você. Olha, olha lá. Opa. Eita, essa quase eu fui, hein? Eu preciso virar pra bombordo rapidinho. As ondas vão bater na borda. Quando puxar um covo, vocês precisam ficar espertos. Vocês estão bem? Tá todo mundo bem? Fala comigo, fala comigo. Tá todo mundo bem. Todo mundo tá vivo. Eu não tô vendo. Cadê o Pascoal? O Pascoal tá aí, ó. Tá aí em cima. Tudo bem, espera um pouco. Se segure enquanto eu viro o barco. Desculpa, gente. Eu tive que desviar de uma boia, senão eu ia enroscar no hélice. Eu precisei desviar. Isso não pode acontecer. 31, entendi. É muito pouco pra tanto tempo no mar. Os caranguejos não estão colaborando. O tempo não tá colaborando. Nada tá colaborando. Tudo piorou nessa viagem. Preciso colocar o equipamento no barco. E vamos continuar assim até conseguir puxar mais o equipamento. A temporada tá longe de acabar e eu já preciso de umas férias. Eu preciso tirar férias do mar de Bering.",
+  "segmentos": [
+    {
+      "start": 2.35,
+      "end": 8.65,
+      "text": "Com o mar agitado, é mais difícil achar o equipamento, porque as boias somem atrás das ondas e está vindo uma onda atrás da outra."
+    },
+    {
+      "start": 11.3,
+      "end": 20.82,
+      "text": "O capitão Keith Coburn enfrenta ventos de 90 quilômetros por hora e ondas de 8 metros em busca de 41.300 quilos de baírdia,"
+    },
+    {
+      "start": 21.26,
+      "end": 26.6,
+      "text": "antes que a frota toda pare de pescar bacalhau e comece a pescar o caranguejo baírdia."
+    },
+    {
+      "start": 27.87,
+      "end": 29.99,
+      "text": "Eu não sei se a gente vai conseguir puxar o equipamento."
+    },
+    {
+      "start": 29.99,
+      "end": 32.47,
+      "text": "O tempo virou para valer."
+    },
+    {
+      "start": 32.47,
+      "end": 40.49,
+      "text": "Puxando essa fieira, nós vamos encher os 60 covos de iscas e lançar de novo."
+    },
+    {
+      "start": 44.34,
+      "end": 47.0,
+      "text": "Já era para a boia estar perto e eu devia estar vendo daqui."
+    },
+    {
+      "start": 51.99,
+      "end": 53.65,
+      "text": "Ah, eu preciso limpar esse óculos."
+    },
+    {
+      "start": 54.72,
+      "end": 55.18,
+      "text": "Tá ali."
+    },
+    {
+      "start": 55.44,
+      "end": 57.0,
+      "text": "Você achou o covo? Achou?"
+    },
+    {
+      "start": 57.02,
+      "end": 57.28,
+      "text": "Sim."
+    },
+    {
+      "start": 57.8,
+      "end": 58.92,
+      "text": "Muito bem, valeu, Pascual."
+    },
+    {
+      "start": 61.28,
+      "end": 63.16,
+      "text": "Esse garoto tem os melhores olhos do Mar de Bering."
+    },
+    {
+      "start": 63.88,
+      "end": 69.41,
+      "text": "Ele é meio vesgo, mas o Pascual tem a melhor visão do Mar de Bering."
+    },
+    {
+      "start": 69.71,
+      "end": 73.54,
+      "text": "O mar tá uma loucura agora."
+    },
+    {
+      "start": 74.76,
+      "end": 75.92,
+      "text": "Tá feio nessa região."
+    },
+    {
+      "start": 76.68,
+      "end": 79.32,
+      "text": "É melhor você colocar alguma coisa pesada no bolso."
+    },
+    {
+      "start": 80.18,
+      "end": 81.34,
+      "text": "Senão você vai sair voando."
+    },
+    {
+      "start": 81.46,
+      "end": 83.22,
+      "text": "Você é muito levinho, o vento te leva embora."
+    },
+    {
+      "start": 99.64,
+      "end": 100.72,
+      "text": "Ih, tá meio fraco, hein?"
+    },
+    {
+      "start": 102.52,
+      "end": 103.6,
+      "text": "Ah, mais ou menos."
+    },
+    {
+      "start": 107.42,
+      "end": 108.66,
+      "text": "Quanto tempo ficou no mar?"
+    },
+    {
+      "start": 108.88,
+      "end": 109.62,
+      "text": "São 3h45."
+    },
+    {
+      "start": 110.22,
+      "end": 111.58,
+      "text": "Ficou 48 horas no mar."
+    },
+    {
+      "start": 112.91,
+      "end": 114.85,
+      "text": "A quantidade não aumentou."
+    },
+    {
+      "start": 114.85,
+      "end": 117.54,
+      "text": "Olha só, gente, cuidado."
+    },
+    {
+      "start": 117.66,
+      "end": 118.8,
+      "text": "Pode empilhar os covos."
+    },
+    {
+      "start": 119.08,
+      "end": 121.58,
+      "text": "Vamos puxar um de cada vez com cuidado, ok?"
+    },
+    {
+      "start": 122.88,
+      "end": 123.32,
+      "text": "Entendido."
+    },
+    {
+      "start": 125.18,
+      "end": 127.14,
+      "text": "Eu queria lançar essa feira de novo, mas..."
+    },
+    {
+      "start": 127.14,
+      "end": 128.22,
+      "text": "Se não der, tudo bem."
+    },
+    {
+      "start": 133.41,
+      "end": 137.15,
+      "text": "Tô virando pra este bordo pra puxar os covos e agora eu preciso voltar pra bom morto."
+    },
+    {
+      "start": 137.15,
+      "end": 148.54,
+      "text": "Vão manter as ondas na proa o máximo que der e deixar a maré me empurrar pro próximo covo."
+    },
+    {
+      "start": 148.54,
+      "end": 174.28,
+      "text": "Cuidado na borda, Rob."
+    },
+    {
+      "start": 174.32,
+      "end": 175.86,
+      "text": "Atrás de você, atrás de você."
+    },
+    {
+      "start": 176.4,
+      "end": 177.16,
+      "text": "Olha, olha lá."
+    },
+    {
+      "start": 178.26,
+      "end": 178.62,
+      "text": "Opa."
+    },
+    {
+      "start": 183.56,
+      "end": 184.74,
+      "text": "Eita, essa quase eu fui, hein?"
+    },
+    {
+      "start": 186.22,
+      "end": 188.16,
+      "text": "Eu preciso virar pra bombordo rapidinho."
+    },
+    {
+      "start": 188.24,
+      "end": 189.66,
+      "text": "As ondas vão bater na borda."
+    },
+    {
+      "start": 189.76,
+      "end": 192.28,
+      "text": "Quando puxar um covo, vocês precisam ficar espertos."
+    },
+    {
+      "start": 192.28,
+      "end": 215.6,
+      "text": "Vocês estão bem?"
+    },
+    {
+      "start": 215.7,
+      "end": 216.3,
+      "text": "Tá todo mundo bem?"
+    },
+    {
+      "start": 216.3,
+      "end": 217.48,
+      "text": "Fala comigo, fala comigo."
+    },
+    {
+      "start": 217.58,
+      "end": 218.58,
+      "text": "Tá todo mundo bem."
+    },
+    {
+      "start": 218.74,
+      "end": 219.74,
+      "text": "Todo mundo tá vivo."
+    },
+    {
+      "start": 219.78,
+      "end": 220.4,
+      "text": "Eu não tô vendo."
+    },
+    {
+      "start": 220.48,
+      "end": 220.98,
+      "text": "Cadê o Pascoal?"
+    },
+    {
+      "start": 221.14,
+      "end": 222.16,
+      "text": "O Pascoal tá aí, ó."
+    },
+    {
+      "start": 222.22,
+      "end": 222.92,
+      "text": "Tá aí em cima."
+    },
+    {
+      "start": 224.2,
+      "end": 225.3,
+      "text": "Tudo bem, espera um pouco."
+    },
+    {
+      "start": 225.4,
+      "end": 226.92,
+      "text": "Se segure enquanto eu viro o barco."
+    },
+    {
+      "start": 235.78,
+      "end": 236.5,
+      "text": "Desculpa, gente."
+    },
+    {
+      "start": 236.64,
+      "end": 239.5,
+      "text": "Eu tive que desviar de uma boia, senão eu ia enroscar no hélice."
+    },
+    {
+      "start": 239.84,
+      "end": 240.76,
+      "text": "Eu precisei desviar."
+    },
+    {
+      "start": 241.56,
+      "end": 242.88,
+      "text": "Isso não pode acontecer."
+    },
+    {
+      "start": 251.09,
+      "end": 252.25,
+      "text": "31, entendi."
+    },
+    {
+      "start": 252.25,
+      "end": 254.39,
+      "text": "É muito pouco pra tanto tempo no mar."
+    },
+    {
+      "start": 259.72,
+      "end": 260.8,
+      "text": "Os caranguejos não estão colaborando."
+    },
+    {
+      "start": 261.52,
+      "end": 262.7,
+      "text": "O tempo não tá colaborando."
+    },
+    {
+      "start": 262.7,
+      "end": 263.94,
+      "text": "Nada tá colaborando."
+    },
+    {
+      "start": 269.51,
+      "end": 270.83,
+      "text": "Tudo piorou nessa viagem."
+    },
+    {
+      "start": 272.05,
+      "end": 274.57,
+      "text": "Preciso colocar o equipamento no barco."
+    },
+    {
+      "start": 275.54,
+      "end": 278.48,
+      "text": "E vamos continuar assim até conseguir puxar mais o equipamento."
+    },
+    {
+      "start": 281.1,
+      "end": 285.36,
+      "text": "A temporada tá longe de acabar e eu já preciso de umas férias."
+    },
+    {
+      "start": 286.69,
+      "end": 288.51,
+      "text": "Eu preciso tirar férias do mar de Bering."
+    }
+  ],
+  "duracao_seg": 300.87,
+  "idioma_detectado": "pt"
+}

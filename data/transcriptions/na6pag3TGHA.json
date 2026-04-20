@@ -1,0 +1,32 @@
+{
+  "texto": "Refoljo de água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua Meu rancho fica na beira de cá escuto bater Daqui da porta do rancho eu vejo a galha tremer Pescador que é pescador pisa mansinho no barranche",
+  "segmentos": [
+    {
+      "start": 2.26,
+      "end": 13.95,
+      "text": "Refoljo de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 13.95,
+      "end": 18.73,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 18.73,
+      "end": 24.17,
+      "text": "Meu rancho fica na beira de cá escuto bater"
+    },
+    {
+      "start": 24.17,
+      "end": 29.91,
+      "text": "Daqui da porta do rancho eu vejo a galha tremer"
+    },
+    {
+      "start": 29.91,
+      "end": 39.67,
+      "text": "Pescador que é pescador pisa mansinho no barranche"
+    }
+  ],
+  "duracao_seg": 39.69,
+  "idioma_detectado": "pt"
+}

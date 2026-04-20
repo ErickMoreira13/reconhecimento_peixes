@@ -1,0 +1,147 @@
+{
+  "texto": "Quando o peixe tira, o demais é bom. Olha essa tomada de linha, meus amigos. Eita. Agora é a Lapa, hein? Agora é a Lapa, ó. Ó. É. Agora é uma Lapa, rapaziada. Tá. Jorge, é muito grande. Olha isso aqui. Agora vem até o outro peito, é a gente ver? Acho que é. Caraca, mano, olha isso. Que merda é essa, mano? Muito pesado, cara. E tá lá na pedra. Parece peixe de fundo. Não sei. Ah, pegou por baixo. Camarão grande pegou por baixo. Olha lá. Olha isso aqui, rapaziada. Olha como é que o peixe muda, gente. É grande, mas pegou por baixo. Aí é complicado, né? Achando já que ia sair um troféuzinho, mas tá bom. Bora.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Quando o peixe tira, o demais é bom."
+    },
+    {
+      "start": 2.5,
+      "end": 4.88,
+      "text": "Olha essa tomada de linha, meus amigos."
+    },
+    {
+      "start": 7.62,
+      "end": 8.14,
+      "text": "Eita."
+    },
+    {
+      "start": 9.83,
+      "end": 10.97,
+      "text": "Agora é a Lapa, hein?"
+    },
+    {
+      "start": 12.48,
+      "end": 13.58,
+      "text": "Agora é a Lapa, ó."
+    },
+    {
+      "start": 14.37,
+      "end": 14.55,
+      "text": "Ó."
+    },
+    {
+      "start": 15.19,
+      "end": 15.43,
+      "text": "É."
+    },
+    {
+      "start": 17.54,
+      "end": 19.92,
+      "text": "Agora é uma Lapa, rapaziada."
+    },
+    {
+      "start": 25.58,
+      "end": 25.72,
+      "text": "Tá."
+    },
+    {
+      "start": 26.34,
+      "end": 27.44,
+      "text": "Jorge, é muito grande."
+    },
+    {
+      "start": 27.8,
+      "end": 28.72,
+      "text": "Olha isso aqui."
+    },
+    {
+      "start": 29.53,
+      "end": 30.77,
+      "text": "Agora vem até o outro peito, é a gente ver?"
+    },
+    {
+      "start": 31.19,
+      "end": 32.01,
+      "text": "Acho que é."
+    },
+    {
+      "start": 34.69,
+      "end": 35.93,
+      "text": "Caraca, mano, olha isso."
+    },
+    {
+      "start": 43.91,
+      "end": 45.19,
+      "text": "Que merda é essa, mano?"
+    },
+    {
+      "start": 51.54,
+      "end": 52.82,
+      "text": "Muito pesado, cara."
+    },
+    {
+      "start": 54.23,
+      "end": 55.07,
+      "text": "E tá lá na pedra."
+    },
+    {
+      "start": 65.19,
+      "end": 66.15,
+      "text": "Parece peixe de fundo."
+    },
+    {
+      "start": 71.39,
+      "end": 71.71,
+      "text": "Não sei."
+    },
+    {
+      "start": 72.11,
+      "end": 73.15,
+      "text": "Ah, pegou por baixo."
+    },
+    {
+      "start": 74.34,
+      "end": 75.88,
+      "text": "Camarão grande pegou por baixo."
+    },
+    {
+      "start": 77.06,
+      "end": 77.28,
+      "text": "Olha lá."
+    },
+    {
+      "start": 78.54,
+      "end": 79.8,
+      "text": "Olha isso aqui, rapaziada."
+    },
+    {
+      "start": 80.26,
+      "end": 81.78,
+      "text": "Olha como é que o peixe muda, gente."
+    },
+    {
+      "start": 82.5,
+      "end": 84.12,
+      "text": "É grande, mas pegou por baixo."
+    },
+    {
+      "start": 84.84,
+      "end": 85.86,
+      "text": "Aí é complicado, né?"
+    },
+    {
+      "start": 86.84,
+      "end": 89.06,
+      "text": "Achando já que ia sair um troféuzinho, mas tá bom."
+    },
+    {
+      "start": 89.24,
+      "end": 89.44,
+      "text": "Bora."
+    }
+  ],
+  "duracao_seg": 90.95,
+  "idioma_detectado": "pt"
+}

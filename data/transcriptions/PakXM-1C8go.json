@@ -1,0 +1,22 @@
+{
+  "texto": "O face cleans off, então vamos lá. Vamos lá. Quase.",
+  "segmentos": [
+    {
+      "start": 26.48,
+      "end": 32.03,
+      "text": "O face cleans off, então vamos lá."
+    },
+    {
+      "start": 32.03,
+      "end": 33.03,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 33.03,
+      "end": 34.96,
+      "text": "Quase."
+    }
+  ],
+  "duracao_seg": 37.19,
+  "idioma_detectado": "pt"
+}

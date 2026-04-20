@@ -1,0 +1,32 @@
+{
+  "texto": "Eu gasto meu dinheiro com isso aqui, ó. Entendeu? Porque depois que o cara morre, o que é que o cara levou? Só terra na cara.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "Eu gasto meu dinheiro com isso aqui, ó."
+    },
+    {
+      "start": 2.14,
+      "end": 2.38,
+      "text": "Entendeu?"
+    },
+    {
+      "start": 3.1,
+      "end": 4.81,
+      "text": "Porque depois que o cara morre,"
+    },
+    {
+      "start": 5.13,
+      "end": 5.87,
+      "text": "o que é que o cara levou?"
+    },
+    {
+      "start": 6.49,
+      "end": 7.63,
+      "text": "Só terra na cara."
+    }
+  ],
+  "duracao_seg": 9.95,
+  "idioma_detectado": "pt"
+}
