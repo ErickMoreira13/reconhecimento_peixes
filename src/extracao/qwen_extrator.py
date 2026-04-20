@@ -169,6 +169,17 @@ def _dividir_em_chunks(texto: str, max_palavras: int) -> list[str]:
     return chunks
 
 
+def _chunk_tem_dados(campos: dict[str, CampoExtraido]) -> int:
+    # conta quantos campos do chunk tem valor nao-nulo util.
+    # serve pra observabilidade: se todos chunks retornam 0, video monstro
+    # ta estourando o prompt ou algo similar. fix 8 investigacao.
+    n = 0
+    for nome, campo in campos.items():
+        if campo.valor not in (None, "", []):
+            n += 1
+    return n
+
+
 def _extrai_com_chunking(
     transcricao: str,
     gliner_checkpoint: str | None,
@@ -180,9 +191,21 @@ def _extrai_com_chunking(
     print(f"  dividido em {len(chunks)} chunks")
 
     resultados: list[dict[str, CampoExtraido]] = []
+    vazio_count = 0
     for i, ch in enumerate(chunks, 1):
         print(f"  chunk {i}/{len(chunks)} ({len(ch.split())} palavras)")
-        resultados.append(_extrai_chunk_unico(ch, gliner_checkpoint, modelo))
+        r = _extrai_chunk_unico(ch, gliner_checkpoint, modelo)
+        resultados.append(r)
+        n_campos = _chunk_tem_dados(r)
+        if n_campos == 0:
+            vazio_count += 1
+            print(f"  [chunking-warn] chunk {i} retornou TUDO null — possivel estouro de contexto")
+        else:
+            print(f"  chunk {i} preencheu {n_campos}/8 campos")
+
+    # warn pra investigar bug real do chunking (fix 8 do sumario-manual)
+    if vazio_count == len(chunks):
+        print(f"  [chunking-bug] TODOS os {len(chunks)} chunks retornaram null — video perdido!")
 
     consolidado = _consolida_chunks(resultados, modelo)
     # aplica flag pos-consolidacao (cada chunk ja aplicou, mas a uniao das
