@@ -65,3 +65,21 @@ def test_separador_repete_char():
     s = ascii_art.separador("-", 5, cor="")
     # 5 traços (cor='' desliga ansi)
     assert "-----" in s
+
+
+def test_titulo_grande_contem_texto():
+    t = ascii_art.titulo_grande("teste titulo")
+    assert "teste titulo" in t
+    assert "====" in t
+
+
+def test_tag_fica_maiuscula():
+    t = ascii_art.tag("warn")
+    assert "WARN" in t
+    assert "[" in t and "]" in t
+
+
+def test_progress_bar_colorido_tem_porcentagem():
+    b = ascii_art.progress_bar_colorido(3, 10)
+    assert "30%" in b
+    assert "(3/10)" in b
