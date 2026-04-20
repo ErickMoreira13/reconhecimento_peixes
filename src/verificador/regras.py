@@ -47,6 +47,16 @@ NOMES_PROPRIOS_COMUNS = {
 # ceba eh grafia coloquial de ceva, whisper as vezes transcreve assim
 CEVA_KEYWORDS = {"ceva", "seva", "ceba", "cevar", "cevando", "cevador", "cevamos"}
 
+# termos de EQUIPAMENTO de pesca que NAO podem ser tipo_ceva.
+# o extrator as vezes confunde: em 3 videos dos 50 anotados, tipo_ceva
+# veio como "vara de bambu", "Isquinha Hunter Bait", "Avenado GS" (modelo
+# de carretilha). blacklist simples pra rejeitar.
+EQUIPAMENTO_BLACKLIST = {
+    "vara", "varinha", "carretilha", "molinete", "anzol", "linha",
+    "bait", "isca", "isquinha", "hunter", "avenado", "espinhel",
+    "rede", "caiaque", "barco",
+}
+
 
 def rio_aparece_no_texto(rio: str, transcricao: str) -> bool:
     # fix 2: rio precisa aparecer LITERALMENTE na transcricao.
@@ -168,6 +178,21 @@ def _passa_cross_field(nome_campo: str, campo: CampoExtraido, outros: dict[str, 
     return True, None
 
 
+def _passa_tipo_ceva_blacklist(nome_campo: str, campo: CampoExtraido) -> tuple[bool, TipoRejeicao | None]:
+    # fix 3: rejeita tipo_ceva com termo de equipamento.
+    # "vara de bambu", "carretilha avenado", "hunter bait" sao coisas de
+    # EQUIPAMENTO de pesca, nao ceva. extrator confunde em textos grandes
+    if nome_campo != "tipo_ceva" or campo.valor is None:
+        return True, None
+    if not isinstance(campo.valor, str):
+        return True, None
+    tokens = re.findall(r"\w+", campo.valor.lower())
+    for t in tokens:
+        if t in EQUIPAMENTO_BLACKLIST:
+            return False, "contexto_irrelevante"
+    return True, None
+
+
 def _passa_rio_aparece(nome_campo: str, campo: CampoExtraido, transcricao: str) -> tuple[bool, TipoRejeicao | None]:
     # fix 2: rio deve aparecer LITERALMENTE (ou fuzzy) no texto
     if nome_campo != "rio" or campo.valor is None:
@@ -225,6 +250,7 @@ def aplica_regras(
         _passa_length_obs,
         lambda nc, c, t, o: _passa_ceva_keywords(nc, c, t),
         lambda nc, c, t, o: _passa_rio_aparece(nc, c, t),
+        lambda nc, c, t, o: _passa_tipo_ceva_blacklist(nc, c),
     ]
 
     for regra in ordem:
