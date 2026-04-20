@@ -1,0 +1,47 @@
+{
+  "texto": "Iscas Improváveis É coleira? É filho, é para pescar cachorra É uma cueca? É, é para pegar piranha filho Uma fralda? Ih, você não sai de nada mesmo não É para pacu filho",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.1,
+      "text": "Iscas Improváveis"
+    },
+    {
+      "start": 37.17,
+      "end": 38.17,
+      "text": "É coleira?"
+    },
+    {
+      "start": 38.17,
+      "end": 40.17,
+      "text": "É filho, é para pescar cachorra"
+    },
+    {
+      "start": 40.17,
+      "end": 44.09,
+      "text": "É uma cueca?"
+    },
+    {
+      "start": 44.09,
+      "end": 46.09,
+      "text": "É, é para pegar piranha filho"
+    },
+    {
+      "start": 46.09,
+      "end": 50.1,
+      "text": "Uma fralda?"
+    },
+    {
+      "start": 50.1,
+      "end": 53.06,
+      "text": "Ih, você não sai de nada mesmo não"
+    },
+    {
+      "start": 53.06,
+      "end": 54.06,
+      "text": "É para pacu filho"
+    }
+  ],
+  "duracao_seg": 56.59,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,47 @@
+{
+  "texto": "Agora, agora. Tá gravando? Tá há muito tempo. Aí, rapaziada, o tamanho do monstro aí, o tamanho da ubarana. Essa deu trabalho pra tirar, hein? O tamanho dela aí. Passei ela aí. Ó, o tamanho da monstra.",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 1.43,
+      "text": "Agora, agora."
+    },
+    {
+      "start": 3.99,
+      "end": 7.86,
+      "text": "Tá gravando?"
+    },
+    {
+      "start": 7.96,
+      "end": 8.82,
+      "text": "Tá há muito tempo."
+    },
+    {
+      "start": 9.5,
+      "end": 15.0,
+      "text": "Aí, rapaziada, o tamanho do monstro aí, o tamanho da ubarana."
+    },
+    {
+      "start": 15.7,
+      "end": 17.26,
+      "text": "Essa deu trabalho pra tirar, hein?"
+    },
+    {
+      "start": 18.24,
+      "end": 19.12,
+      "text": "O tamanho dela aí."
+    },
+    {
+      "start": 19.94,
+      "end": 20.76,
+      "text": "Passei ela aí."
+    },
+    {
+      "start": 22.2,
+      "end": 24.67,
+      "text": "Ó, o tamanho da monstra."
+    }
+  ],
+  "duracao_seg": 26.55,
+  "idioma_detectado": "pt"
+}

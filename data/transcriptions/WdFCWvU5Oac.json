@@ -1,0 +1,27 @@
+{
+  "texto": "Hoje é aniversário dessa menina, mas em vez de festejar com amigos, ela foi pescar pra alimentar a família no seu dia especial. Depois de jogar a rede, ela afundou bem fundo e quando tentou puxar, sentiu que estava muito pesada. A menina ficou empolgada e começou a puxar rápido, mas quando finalmente tirou a rede, não havia nenhum peixe. Por isso ninguém deixou o like no vídeo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.76,
+      "text": "Hoje é aniversário dessa menina, mas em vez de festejar com amigos, ela foi pescar pra alimentar a família no seu dia especial."
+    },
+    {
+      "start": 6.98,
+      "end": 12.52,
+      "text": "Depois de jogar a rede, ela afundou bem fundo e quando tentou puxar, sentiu que estava muito pesada."
+    },
+    {
+      "start": 12.68,
+      "end": 18.14,
+      "text": "A menina ficou empolgada e começou a puxar rápido, mas quando finalmente tirou a rede, não havia nenhum peixe."
+    },
+    {
+      "start": 18.3,
+      "end": 20.18,
+      "text": "Por isso ninguém deixou o like no vídeo."
+    }
+  ],
+  "duracao_seg": 20.61,
+  "idioma_detectado": "pt"
+}

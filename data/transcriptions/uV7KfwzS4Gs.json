@@ -1,0 +1,32 @@
+{
+  "texto": "Esta niña estava pescando com sua família quando um peça quedou atrapado em sua caça de pescar e se pôs muito contenta. Depois, tentou sacar o peça de cima lentamente. A família disse que fosse lenta e tranquila, mas a pequena estava muito emocionada. Justo quando está a ponto de sacar o peça, a corda de sua caça se rompe, por isso que a criança se pone muito triste e ninguém lhe dá like a sua vídeo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.86,
+      "text": "Esta niña estava pescando com sua família quando um peça quedou atrapado em sua caça de pescar e se pôs muito contenta."
+    },
+    {
+      "start": 5.96,
+      "end": 8.68,
+      "text": "Depois, tentou sacar o peça de cima lentamente."
+    },
+    {
+      "start": 8.82,
+      "end": 13.04,
+      "text": "A família disse que fosse lenta e tranquila, mas a pequena estava muito emocionada."
+    },
+    {
+      "start": 13.04,
+      "end": 16.54,
+      "text": "Justo quando está a ponto de sacar o peça, a corda de sua caça se rompe,"
+    },
+    {
+      "start": 16.64,
+      "end": 19.8,
+      "text": "por isso que a criança se pone muito triste e ninguém lhe dá like a sua vídeo."
+    }
+  ],
+  "duracao_seg": 19.93,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,62 @@
+{
+  "texto": "Você já prestou atenção na letra dessa música? Se um dia alguém mandou ser o que sou e o que gostar Não sei quem sou e vou mudar Pra ser aquilo que eu sempre quis Se acaso você diz Que sonho um dia em ser feliz Vê se fala sério Pra que chorar sua mágoa Se afogando em agonia Contra a tempestade em copo d'água Dance o chote da alegria",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "Você já prestou atenção na letra dessa música?"
+    },
+    {
+      "start": 2.78,
+      "end": 9.34,
+      "text": "Se um dia alguém mandou ser o que sou e o que gostar"
+    },
+    {
+      "start": 9.34,
+      "end": 12.62,
+      "text": "Não sei quem sou e vou mudar"
+    },
+    {
+      "start": 12.62,
+      "end": 16.14,
+      "text": "Pra ser aquilo que eu sempre quis"
+    },
+    {
+      "start": 16.14,
+      "end": 19.0,
+      "text": "Se acaso você diz"
+    },
+    {
+      "start": 19.52,
+      "end": 22.62,
+      "text": "Que sonho um dia em ser feliz"
+    },
+    {
+      "start": 22.62,
+      "end": 25.18,
+      "text": "Vê se fala sério"
+    },
+    {
+      "start": 25.18,
+      "end": 33.18,
+      "text": "Pra que chorar sua mágoa"
+    },
+    {
+      "start": 33.18,
+      "end": 39.19,
+      "text": "Se afogando em agonia"
+    },
+    {
+      "start": 39.19,
+      "end": 46.2,
+      "text": "Contra a tempestade em copo d'água"
+    },
+    {
+      "start": 46.2,
+      "end": 52.92,
+      "text": "Dance o chote da alegria"
+    }
+  ],
+  "duracao_seg": 55.23,
+  "idioma_detectado": "pt"
+}

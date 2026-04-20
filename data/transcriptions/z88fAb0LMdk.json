@@ -1,0 +1,17 @@
+{
+  "texto": "Estava toda deceitada, os campeão que nós quebemos, tinha fama... Bora, meus amigos!",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 8.37,
+      "text": "Estava toda deceitada, os campeão que nós quebemos, tinha fama..."
+    },
+    {
+      "start": 8.37,
+      "end": 9.31,
+      "text": "Bora, meus amigos!"
+    }
+  ],
+  "duracao_seg": 21.93,
+  "idioma_detectado": "pt"
+}

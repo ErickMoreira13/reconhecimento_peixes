@@ -1,0 +1,37 @@
+{
+  "texto": "Bruno, fala pra galera, o que você tá sentindo, cara? Seu primeiro... Mostro. Mostro. Bruno. Bruno.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Bruno, fala pra galera, o que você tá sentindo, cara?"
+    },
+    {
+      "start": 2.46,
+      "end": 3.8,
+      "text": "Seu primeiro..."
+    },
+    {
+      "start": 3.8,
+      "end": 4.62,
+      "text": "Mostro."
+    },
+    {
+      "start": 4.82,
+      "end": 5.3,
+      "text": "Mostro."
+    },
+    {
+      "start": 5.94,
+      "end": 6.22,
+      "text": "Bruno."
+    },
+    {
+      "start": 7.08,
+      "end": 7.44,
+      "text": "Bruno."
+    }
+  ],
+  "duracao_seg": 22.57,
+  "idioma_detectado": "pt"
+}

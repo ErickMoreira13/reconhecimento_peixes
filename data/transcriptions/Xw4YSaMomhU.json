@@ -1,0 +1,22 @@
+{
+  "texto": "Aí rapaziada, aí ó, tem que vir, tem que vir que pega rapaziada, ó, tilápia das águas bodesanas, o seu dito, ó, indica seu dito, uma pescaria só rapaziada, ó, e aí, pode vir rapaziada, só que também não pode errar a fisgada rapaziada, acertou a fisgada, trai.",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 10.42,
+      "text": "Aí rapaziada, aí ó, tem que vir, tem que vir que pega rapaziada, ó, tilápia das águas bodesanas,"
+    },
+    {
+      "start": 10.42,
+      "end": 17.82,
+      "text": "o seu dito, ó, indica seu dito, uma pescaria só rapaziada, ó, e aí, pode vir rapaziada,"
+    },
+    {
+      "start": 18.4,
+      "end": 22.52,
+      "text": "só que também não pode errar a fisgada rapaziada, acertou a fisgada, trai."
+    }
+  ],
+  "duracao_seg": 22.75,
+  "idioma_detectado": "pt"
+}

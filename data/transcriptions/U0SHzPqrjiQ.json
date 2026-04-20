@@ -1,0 +1,27 @@
+{
+  "texto": "O André, o André, é verdade que o dono de pesqueiro envelhece mais rápido? Nada, sem conversa. Conversa? Quantos anos você tem? 18.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "O André, o André, é verdade que o dono de pesqueiro envelhece mais rápido?"
+    },
+    {
+      "start": 4.5,
+      "end": 5.68,
+      "text": "Nada, sem conversa."
+    },
+    {
+      "start": 5.72,
+      "end": 6.98,
+      "text": "Conversa? Quantos anos você tem?"
+    },
+    {
+      "start": 7.32,
+      "end": 7.76,
+      "text": "18."
+    }
+  ],
+  "duracao_seg": 10.51,
+  "idioma_detectado": "pt"
+}

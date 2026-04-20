@@ -1,0 +1,57 @@
+{
+  "texto": "É, rapaziada, hoje eu consegui acabar os brinquedos que foi de encomenda, hein? Esse aqui é um e esse aqui é o outro. Essa madeira branca aqui é top demais. Pena que é só um pedacinho que eu tinha dela. Nem sei que madeira é. Mas ficou um luxo. Engatezinho rápido. Pegada anatômica. Ó, show de bola. Modelinhos formiga de estilinha.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 11.34,
+      "text": "É, rapaziada, hoje eu consegui acabar os brinquedos que foi de encomenda, hein?"
+    },
+    {
+      "start": 12.58,
+      "end": 18.63,
+      "text": "Esse aqui é um e esse aqui é o outro."
+    },
+    {
+      "start": 20.4,
+      "end": 22.72,
+      "text": "Essa madeira branca aqui é top demais."
+    },
+    {
+      "start": 23.64,
+      "end": 25.58,
+      "text": "Pena que é só um pedacinho que eu tinha dela."
+    },
+    {
+      "start": 27.03,
+      "end": 28.17,
+      "text": "Nem sei que madeira é."
+    },
+    {
+      "start": 29.42,
+      "end": 32.82,
+      "text": "Mas ficou um luxo."
+    },
+    {
+      "start": 34.42,
+      "end": 35.7,
+      "text": "Engatezinho rápido."
+    },
+    {
+      "start": 37.53,
+      "end": 38.73,
+      "text": "Pegada anatômica."
+    },
+    {
+      "start": 42.58,
+      "end": 44.45,
+      "text": "Ó, show de bola."
+    },
+    {
+      "start": 44.45,
+      "end": 51.75,
+      "text": "Modelinhos formiga de estilinha."
+    }
+  ],
+  "duracao_seg": 54.87,
+  "idioma_detectado": "pt"
+}
