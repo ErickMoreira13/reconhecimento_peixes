@@ -1,0 +1,65 @@
+{
+    "__doc__": "12 bacias hidrograficas principais do brasil (IBGE/ANA) com alguns rios associados pra matching fuzzy. usado pro fix 7: validar bacia extraida contra lista conhecida, se nao bater marca fora_do_gazetteer.",
+    "bacias": [
+        {
+            "nome": "Amazonica",
+            "aliases": ["amazônica", "amazonas", "amazonia"],
+            "rios_principais": ["Amazonas", "Negro", "Solimoes", "Madeira", "Tapajos", "Xingu", "Purus", "Jurua", "Iriri", "Tefe", "Japura", "Branco", "Uatuma", "Trombetas", "Acre"]
+        },
+        {
+            "nome": "Tocantins-Araguaia",
+            "aliases": ["tocantins", "araguaia", "tocantins araguaia"],
+            "rios_principais": ["Tocantins", "Araguaia", "Paranã", "Itacaiúnas", "Jaguaribe"]
+        },
+        {
+            "nome": "Atlantico Nordeste Ocidental",
+            "aliases": ["atlantico nordeste ocidental", "noroeste"],
+            "rios_principais": ["Gurupi", "Mearim", "Itapecuru", "Munim", "Turiaçu"]
+        },
+        {
+            "nome": "Parnaiba",
+            "aliases": ["parnaíba"],
+            "rios_principais": ["Parnaiba", "Poti", "Gurgueia", "Canindé"]
+        },
+        {
+            "nome": "Atlantico Nordeste Oriental",
+            "aliases": ["atlantico nordeste oriental"],
+            "rios_principais": ["Jaguaribe", "Piranhas-Acu", "Paraiba do Norte", "Capibaribe"]
+        },
+        {
+            "nome": "Sao Francisco",
+            "aliases": ["são francisco", "velho chico", "bacia do são francisco", "bacia do sao francisco"],
+            "rios_principais": ["Sao Francisco", "Paracatu", "Urucuia", "Grande", "Pajeu", "Escurao", "Preto"]
+        },
+        {
+            "nome": "Atlantico Leste",
+            "aliases": ["atlantico leste"],
+            "rios_principais": ["Jequitinhonha", "Pardo", "Mucuri", "Doce", "Itanhém", "Contas"]
+        },
+        {
+            "nome": "Atlantico Sudeste",
+            "aliases": ["atlantico sudeste"],
+            "rios_principais": ["Paraiba do Sul", "Itabapoana", "Ribeira de Iguape"]
+        },
+        {
+            "nome": "Atlantico Sul",
+            "aliases": ["atlantico sul"],
+            "rios_principais": ["Itajai", "Tubarao", "Taquari-Antas", "Mampituba"]
+        },
+        {
+            "nome": "Parana",
+            "aliases": ["paraná", "bacia do parana"],
+            "rios_principais": ["Parana", "Paranaiba", "Grande", "Tiete", "Paranapanema", "Iguaçu", "Ivinheima", "Turvo"]
+        },
+        {
+            "nome": "Paraguai",
+            "aliases": ["bacia do paraguai", "pantanal"],
+            "rios_principais": ["Paraguai", "Cuiabá", "Taquari", "Miranda", "Aquidauana", "Apa"]
+        },
+        {
+            "nome": "Uruguai",
+            "aliases": ["bacia do uruguai"],
+            "rios_principais": ["Uruguai", "Ibicui", "Canoas", "Pelotas", "Ijui", "Piratini"]
+        }
+    ]
+}
