@@ -1,0 +1,52 @@
+{
+  "texto": "É doce agora mais. Meu Deus do céu, vai ver o cardume! Meu Deus do céu, galera! Isso aqui é nosso top! E ela só com isso aí, galera! Obrigado, Deus! Vem, galera! É nóis! Vamo mostrar pra lá, galera!",
+  "segmentos": [
+    {
+      "start": 20.34,
+      "end": 21.34,
+      "text": "É doce agora mais."
+    },
+    {
+      "start": 21.34,
+      "end": 31.07,
+      "text": "Meu Deus do céu, vai ver o cardume!"
+    },
+    {
+      "start": 31.07,
+      "end": 52.55,
+      "text": "Meu Deus do céu, galera!"
+    },
+    {
+      "start": 52.55,
+      "end": 53.97,
+      "text": "Isso aqui é nosso top!"
+    },
+    {
+      "start": 53.97,
+      "end": 54.97,
+      "text": "E ela só com isso aí, galera!"
+    },
+    {
+      "start": 54.97,
+      "end": 55.97,
+      "text": "Obrigado, Deus!"
+    },
+    {
+      "start": 55.97,
+      "end": 56.97,
+      "text": "Vem, galera!"
+    },
+    {
+      "start": 56.97,
+      "end": 57.97,
+      "text": "É nóis!"
+    },
+    {
+      "start": 57.97,
+      "end": 58.97,
+      "text": "Vamo mostrar pra lá, galera!"
+    }
+  ],
+  "duracao_seg": 59.83,
+  "idioma_detectado": "pt"
+}

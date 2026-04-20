@@ -1,0 +1,17 @@
+{
+  "texto": "Olha isso aí Aqui dentro da cabalinha, rapaz",
+  "segmentos": [
+    {
+      "start": 2.1,
+      "end": 3.06,
+      "text": "Olha isso aí"
+    },
+    {
+      "start": 3.06,
+      "end": 6.79,
+      "text": "Aqui dentro da cabalinha, rapaz"
+    }
+  ],
+  "duracao_seg": 7.87,
+  "idioma_detectado": "pt"
+}

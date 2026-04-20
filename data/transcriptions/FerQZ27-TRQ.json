@@ -1,0 +1,17 @@
+{
+  "texto": "Ah! É! É? Ah! É? Ó? Ah! I see!",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 7.2,
+      "text": "Ah! É! É? Ah! É?"
+    },
+    {
+      "start": 7.2,
+      "end": 11.49,
+      "text": "Ó? Ah! I see!"
+    }
+  ],
+  "duracao_seg": 14.27,
+  "idioma_detectado": "pt"
+}

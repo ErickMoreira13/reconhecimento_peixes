@@ -1,0 +1,32 @@
+{
+  "texto": "E aí, vale a pena lembrar mais uma vez no canal o resultado de hoje da pescaria Urubu dos Mares Um, dois, três, um pequenininho, né? Não conta Quatro E o Pema que o professor Rodildo pegou hoje, dois quilos e meio É nóis",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.3,
+      "text": "E aí, vale a pena lembrar mais uma vez no canal o resultado de hoje da pescaria Urubu dos Mares"
+    },
+    {
+      "start": 6.3,
+      "end": 10.5,
+      "text": "Um, dois, três, um pequenininho, né? Não conta"
+    },
+    {
+      "start": 10.5,
+      "end": 11.52,
+      "text": "Quatro"
+    },
+    {
+      "start": 11.52,
+      "end": 17.24,
+      "text": "E o Pema que o professor Rodildo pegou hoje, dois quilos e meio"
+    },
+    {
+      "start": 17.24,
+      "end": 19.38,
+      "text": "É nóis"
+    }
+  ],
+  "duracao_seg": 20.43,
+  "idioma_detectado": "pt"
+}

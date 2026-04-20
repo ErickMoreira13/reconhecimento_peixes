@@ -1,0 +1,87 @@
+{
+  "texto": "E aí, Dio, como é que é aqui no Saco da Pombela? Fala aí. Tem caixa de uva aí. Caixa de camarão, Vaceiro. Olha aí. Tá bonito, ó. Ainda tem mais aqui no balde. Olha aí. Olha. Vitelão aí. Olha lá. Olha aí. Tá bonito, não tá bonito? Aí. Caixa de uva e caixa de camarão. Aí.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "E aí, Dio, como é que é aqui no Saco da Pombela?"
+    },
+    {
+      "start": 2.3,
+      "end": 2.6,
+      "text": "Fala aí."
+    },
+    {
+      "start": 3.86,
+      "end": 5.2,
+      "text": "Tem caixa de uva aí."
+    },
+    {
+      "start": 5.64,
+      "end": 6.94,
+      "text": "Caixa de camarão, Vaceiro."
+    },
+    {
+      "start": 7.0,
+      "end": 7.42,
+      "text": "Olha aí."
+    },
+    {
+      "start": 7.58,
+      "end": 8.66,
+      "text": "Tá bonito, ó."
+    },
+    {
+      "start": 8.92,
+      "end": 10.62,
+      "text": "Ainda tem mais aqui no balde."
+    },
+    {
+      "start": 11.74,
+      "end": 12.16,
+      "text": "Olha aí."
+    },
+    {
+      "start": 13.14,
+      "end": 13.38,
+      "text": "Olha."
+    },
+    {
+      "start": 14.28,
+      "end": 14.96,
+      "text": "Vitelão aí."
+    },
+    {
+      "start": 18.82,
+      "end": 19.16,
+      "text": "Olha lá."
+    },
+    {
+      "start": 19.44,
+      "end": 19.78,
+      "text": "Olha aí."
+    },
+    {
+      "start": 20.22,
+      "end": 22.34,
+      "text": "Tá bonito, não tá bonito?"
+    },
+    {
+      "start": 22.54,
+      "end": 22.72,
+      "text": "Aí."
+    },
+    {
+      "start": 23.56,
+      "end": 25.24,
+      "text": "Caixa de uva e caixa de camarão."
+    },
+    {
+      "start": 25.46,
+      "end": 25.66,
+      "text": "Aí."
+    }
+  ],
+  "duracao_seg": 27.75,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Não acredito, olha por onde eu peguei esse peixe. O peixe quis ver de perto a isca e viu demais.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Não acredito, olha por onde eu peguei esse peixe."
+    },
+    {
+      "start": 3.28,
+      "end": 8.08,
+      "text": "O peixe quis ver de perto a isca e viu demais."
+    }
+  ],
+  "duracao_seg": 8.69,
+  "idioma_detectado": "pt"
+}

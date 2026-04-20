@@ -1,0 +1,27 @@
+{
+  "texto": "É um mero, rapaz. Não é a raia, não. É um mero. É um mero. Olha a tartaruga. É um mero.",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 5.56,
+      "text": "É um mero, rapaz. Não é a raia, não. É um mero."
+    },
+    {
+      "start": 8.46,
+      "end": 9.46,
+      "text": "É um mero."
+    },
+    {
+      "start": 10.46,
+      "end": 11.86,
+      "text": "Olha a tartaruga."
+    },
+    {
+      "start": 11.96,
+      "end": 12.52,
+      "text": "É um mero."
+    }
+  ],
+  "duracao_seg": 16.89,
+  "idioma_detectado": "pt"
+}

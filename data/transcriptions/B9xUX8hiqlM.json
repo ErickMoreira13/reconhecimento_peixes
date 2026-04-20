@@ -1,0 +1,27 @@
+{
+  "texto": "Você não vai acreditar no que aconteceu nessa pescaria noturna. Nossa! E aí me diz, o que impressiona mais? A varinha grudada no barranco ou a tilápia fisgada pelas costas?",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 3.4,
+      "text": "Você não vai acreditar no que aconteceu nessa pescaria noturna."
+    },
+    {
+      "start": 3.96,
+      "end": 4.56,
+      "text": "Nossa!"
+    },
+    {
+      "start": 6.65,
+      "end": 8.73,
+      "text": "E aí me diz, o que impressiona mais?"
+    },
+    {
+      "start": 9.15,
+      "end": 12.81,
+      "text": "A varinha grudada no barranco ou a tilápia fisgada pelas costas?"
+    }
+  ],
+  "duracao_seg": 12.89,
+  "idioma_detectado": "pt"
+}

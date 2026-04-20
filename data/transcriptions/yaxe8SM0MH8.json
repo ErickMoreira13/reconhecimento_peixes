@@ -1,0 +1,727 @@
+{
+  "texto": "1, 2, 3, 4, 5, 6 Salve, salve rapaziadinho aí do Youtube Estamos aqui de volta rapaziada aqui na correria aqui da pescaria Nós demorou a postar vídeo aí por conta da correria lá Estamos de volta aí, vou mostrar tudo pra vocês Já fiz o foguinho aqui Meu pai fez o anzol já e jogou aí Vamos ver o que vai pegar aí Tamo junto, falou Olha rapaziada, meu pai já pegou um aqui Ó, Flamenguinho Olha aí galera, acabamos de chegar, o Flamenguinho já saiu aí, ó Bom demais, tamo junto Chama Queria ver o celular, João O que foi, João? Conversa, mas Olha aí, pegou mesmo Chama Eu gosto Ó o Corguinho Olha aí Peguei outro Conversa, macho Pegou mesmo Chama Pescaria vai dar boa, João? Acho que sim, tá dando Olha aí o tamanho desse Piau Flamengo aí Que maravilha, hein, João? Bom demais Já foi quanto? Terceiro já É isso aí Pensa numa pescaria animada Essa pescaria que a gente tá fazendo aqui agora, ó Acabamos de chegar, não tem nem 20 minutos Já pegamos três Piauzinho Olha aí É isso aí, galera Já vai deixando um like Se inscreve no nosso canal E assina o ativinho aí O sininho e tamo junto Mais um Paconta Mais um Paconta aí Anota aí, vai Opa Anota aí Quarta já Olha aí Isso é bom demais, galera Se divertir aqui na natureza Só eu e meu filho Tem coisa melhor do que isso? Não tem Que não tem Olha aí, galera O tamanho desse Tá ficando escuro Que tá aparecendo Só os grandes agora Olha aí Isso é bom demais É isso aí, galera Se inscreve no canal aí E não deixa de compartilhar Pros amigos não, viu Pescarias vim aqui No Rio Bartolomeu Aí Já no finalzinho do dia Aparecendo mais um Piau Flamengo Isso é gostoso Mais frito Eu vou acender a fogueira Aqui já, já Chamo Saindo mais outro aí, galera É gostoso demais Essas pescarinhas, viu Olha aí, galera Tá chegando a noite Aqui no finalzinho Da pescarinha Olha aí Que tá saindo aí Ainda, ó O tamanho desse aqui Rapaz, esse aqui É bom demais, galera Olha o tamanho desse piau Ó É bom demais E aí Estamos de volta Pescaria Fim de tarde Está ativa Dá um beijinho pra galera E dá Dá um salve Salve Chamo Pois é, meus amigos Não deu pra finalizar o vídeo lá Ela ficou até umas seis horas lá Mas aí os peixes que saiu aí ainda Finalizar o vídeo aqui Mas aí, ó Ela deu pra pegar, ó Um Dois Três Quatro Ó Cinco Seis Sete Esse aqui foi o João O João só pegou esse aqui, ó Os dois pequenos é meu Esse aí, o João Ó Olha aí Olha aí Olha aí E pegou esses outros pequenininhos aqui, ó Olha aí É isso aí, galera Se vocês gostou desse vídeo aí Nós demorou postar vídeo por conta da correria Mas nós estamos ativa novamente E eu gostaria muito que vocês curtissem esse vídeo E comentar Compartilhar com os amigos E principalmente se inscrever no nosso canal, tá bom? Pescaria Fim de tarde Estamos juntos Espero que vocês tenham gostado desse vídeo Sim, vida amador Estamos juntos E aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 12.03,
+      "text": "1, 2, 3, 4, 5, 6"
+    },
+    {
+      "start": 12.03,
+      "end": 19.43,
+      "text": "Salve, salve rapaziadinho aí do Youtube"
+    },
+    {
+      "start": 19.43,
+      "end": 23.56,
+      "text": "Estamos aqui de volta rapaziada aqui na correria aqui da pescaria"
+    },
+    {
+      "start": 23.56,
+      "end": 27.42,
+      "text": "Nós demorou a postar vídeo aí por conta da correria lá"
+    },
+    {
+      "start": 27.42,
+      "end": 30.1,
+      "text": "Estamos de volta aí, vou mostrar tudo pra vocês"
+    },
+    {
+      "start": 30.1,
+      "end": 32.04,
+      "text": "Já fiz o foguinho aqui"
+    },
+    {
+      "start": 32.04,
+      "end": 37.05,
+      "text": "Meu pai fez o anzol já e jogou aí"
+    },
+    {
+      "start": 37.05,
+      "end": 39.18,
+      "text": "Vamos ver o que vai pegar aí"
+    },
+    {
+      "start": 39.18,
+      "end": 40.72,
+      "text": "Tamo junto, falou"
+    },
+    {
+      "start": 40.72,
+      "end": 44.36,
+      "text": "Olha rapaziada, meu pai já pegou um aqui"
+    },
+    {
+      "start": 44.36,
+      "end": 53.48,
+      "text": "Ó, Flamenguinho"
+    },
+    {
+      "start": 53.48,
+      "end": 58.54,
+      "text": "Olha aí galera, acabamos de chegar, o Flamenguinho já saiu aí, ó"
+    },
+    {
+      "start": 58.54,
+      "end": 61.78,
+      "text": "Bom demais, tamo junto"
+    },
+    {
+      "start": 61.78,
+      "end": 63.19,
+      "text": "Chama"
+    },
+    {
+      "start": 63.19,
+      "end": 65.14,
+      "text": "Queria ver o celular, João"
+    },
+    {
+      "start": 65.14,
+      "end": 67.1,
+      "text": "O que foi, João?"
+    },
+    {
+      "start": 68.78,
+      "end": 69.6,
+      "text": "Conversa, mas"
+    },
+    {
+      "start": 69.6,
+      "end": 71.88,
+      "text": "Olha aí, pegou mesmo"
+    },
+    {
+      "start": 71.88,
+      "end": 73.17,
+      "text": "Chama"
+    },
+    {
+      "start": 73.17,
+      "end": 80.54,
+      "text": "Eu gosto"
+    },
+    {
+      "start": 80.54,
+      "end": 83.58,
+      "text": "Ó o Corguinho"
+    },
+    {
+      "start": 83.58,
+      "end": 87.77,
+      "text": "Olha aí"
+    },
+    {
+      "start": 87.77,
+      "end": 99.6,
+      "text": "Peguei outro"
+    },
+    {
+      "start": 99.6,
+      "end": 101.04,
+      "text": "Conversa, macho"
+    },
+    {
+      "start": 101.04,
+      "end": 113.68,
+      "text": "Pegou mesmo"
+    },
+    {
+      "start": 113.68,
+      "end": 119.34,
+      "text": "Chama"
+    },
+    {
+      "start": 119.34,
+      "end": 121.17,
+      "text": "Pescaria vai dar boa, João?"
+    },
+    {
+      "start": 121.65,
+      "end": 122.95,
+      "text": "Acho que sim, tá dando"
+    },
+    {
+      "start": 122.95,
+      "end": 125.35,
+      "text": "Olha aí o tamanho desse Piau Flamengo aí"
+    },
+    {
+      "start": 125.35,
+      "end": 127.45,
+      "text": "Que maravilha, hein, João?"
+    },
+    {
+      "start": 127.85,
+      "end": 128.65,
+      "text": "Bom demais"
+    },
+    {
+      "start": 128.65,
+      "end": 131.02,
+      "text": "Já foi quanto?"
+    },
+    {
+      "start": 131.61,
+      "end": 132.43,
+      "text": "Terceiro já"
+    },
+    {
+      "start": 132.43,
+      "end": 135.22,
+      "text": "É isso aí"
+    },
+    {
+      "start": 135.22,
+      "end": 140.31,
+      "text": "Pensa numa pescaria animada"
+    },
+    {
+      "start": 140.31,
+      "end": 142.43,
+      "text": "Essa pescaria que a gente tá fazendo aqui agora, ó"
+    },
+    {
+      "start": 142.43,
+      "end": 144.25,
+      "text": "Acabamos de chegar, não tem nem 20 minutos"
+    },
+    {
+      "start": 144.25,
+      "end": 146.11,
+      "text": "Já pegamos três Piauzinho"
+    },
+    {
+      "start": 146.11,
+      "end": 148.27,
+      "text": "Olha aí"
+    },
+    {
+      "start": 148.27,
+      "end": 152.96,
+      "text": "É isso aí, galera"
+    },
+    {
+      "start": 152.96,
+      "end": 153.92,
+      "text": "Já vai deixando um like"
+    },
+    {
+      "start": 153.92,
+      "end": 155.14,
+      "text": "Se inscreve no nosso canal"
+    },
+    {
+      "start": 155.14,
+      "end": 157.2,
+      "text": "E assina o ativinho aí"
+    },
+    {
+      "start": 157.2,
+      "end": 159.2,
+      "text": "O sininho e tamo junto"
+    },
+    {
+      "start": 159.2,
+      "end": 165.96,
+      "text": "Mais um Paconta"
+    },
+    {
+      "start": 165.96,
+      "end": 167.22,
+      "text": "Mais um Paconta aí"
+    },
+    {
+      "start": 167.22,
+      "end": 169.3,
+      "text": "Anota aí, vai"
+    },
+    {
+      "start": 169.3,
+      "end": 170.41,
+      "text": "Opa"
+    },
+    {
+      "start": 170.41,
+      "end": 172.27,
+      "text": "Anota aí"
+    },
+    {
+      "start": 172.27,
+      "end": 173.71,
+      "text": "Quarta já"
+    },
+    {
+      "start": 173.71,
+      "end": 175.56,
+      "text": "Olha aí"
+    },
+    {
+      "start": 175.56,
+      "end": 177.72,
+      "text": "Isso é bom demais, galera"
+    },
+    {
+      "start": 177.72,
+      "end": 179.56,
+      "text": "Se divertir aqui na natureza"
+    },
+    {
+      "start": 179.56,
+      "end": 180.92,
+      "text": "Só eu e meu filho"
+    },
+    {
+      "start": 180.92,
+      "end": 182.06,
+      "text": "Tem coisa melhor do que isso?"
+    },
+    {
+      "start": 182.06,
+      "end": 183.41,
+      "text": "Não tem"
+    },
+    {
+      "start": 183.41,
+      "end": 184.55,
+      "text": "Que não tem"
+    },
+    {
+      "start": 184.55,
+      "end": 189.81,
+      "text": "Olha aí, galera"
+    },
+    {
+      "start": 189.81,
+      "end": 190.43,
+      "text": "O tamanho desse"
+    },
+    {
+      "start": 190.43,
+      "end": 192.24,
+      "text": "Tá ficando escuro"
+    },
+    {
+      "start": 192.24,
+      "end": 193.44,
+      "text": "Que tá aparecendo"
+    },
+    {
+      "start": 193.44,
+      "end": 194.46,
+      "text": "Só os grandes agora"
+    },
+    {
+      "start": 194.46,
+      "end": 197.9,
+      "text": "Olha aí"
+    },
+    {
+      "start": 197.9,
+      "end": 199.87,
+      "text": "Isso é bom demais"
+    },
+    {
+      "start": 199.87,
+      "end": 201.83,
+      "text": "É isso aí, galera"
+    },
+    {
+      "start": 201.83,
+      "end": 203.31,
+      "text": "Se inscreve no canal aí"
+    },
+    {
+      "start": 203.31,
+      "end": 205.58,
+      "text": "E não deixa de compartilhar"
+    },
+    {
+      "start": 205.58,
+      "end": 206.44,
+      "text": "Pros amigos não, viu"
+    },
+    {
+      "start": 206.44,
+      "end": 207.36,
+      "text": "Pescarias vim aqui"
+    },
+    {
+      "start": 207.36,
+      "end": 208.44,
+      "text": "No Rio Bartolomeu"
+    },
+    {
+      "start": 208.44,
+      "end": 212.29,
+      "text": "Aí"
+    },
+    {
+      "start": 212.29,
+      "end": 214.74,
+      "text": "Já no finalzinho do dia"
+    },
+    {
+      "start": 214.74,
+      "end": 216.18,
+      "text": "Aparecendo mais um"
+    },
+    {
+      "start": 216.18,
+      "end": 217.68,
+      "text": "Piau Flamengo"
+    },
+    {
+      "start": 217.68,
+      "end": 219.36,
+      "text": "Isso é gostoso"
+    },
+    {
+      "start": 219.36,
+      "end": 220.08,
+      "text": "Mais frito"
+    },
+    {
+      "start": 220.08,
+      "end": 225.22,
+      "text": "Eu vou acender a fogueira"
+    },
+    {
+      "start": 225.22,
+      "end": 225.86,
+      "text": "Aqui já, já"
+    },
+    {
+      "start": 225.86,
+      "end": 226.32,
+      "text": "Chamo"
+    },
+    {
+      "start": 226.32,
+      "end": 243.01,
+      "text": "Saindo mais outro aí, galera"
+    },
+    {
+      "start": 243.01,
+      "end": 246.72,
+      "text": "É gostoso demais"
+    },
+    {
+      "start": 246.72,
+      "end": 247.9,
+      "text": "Essas pescarinhas, viu"
+    },
+    {
+      "start": 247.9,
+      "end": 253.4,
+      "text": "Olha aí, galera"
+    },
+    {
+      "start": 253.4,
+      "end": 255.35,
+      "text": "Tá chegando a noite"
+    },
+    {
+      "start": 255.35,
+      "end": 255.95,
+      "text": "Aqui no finalzinho"
+    },
+    {
+      "start": 255.95,
+      "end": 256.59,
+      "text": "Da pescarinha"
+    },
+    {
+      "start": 256.59,
+      "end": 257.33,
+      "text": "Olha aí"
+    },
+    {
+      "start": 257.33,
+      "end": 258.21,
+      "text": "Que tá saindo aí"
+    },
+    {
+      "start": 258.21,
+      "end": 260.14,
+      "text": "Ainda, ó"
+    },
+    {
+      "start": 260.14,
+      "end": 261.86,
+      "text": "O tamanho desse aqui"
+    },
+    {
+      "start": 261.86,
+      "end": 263.38,
+      "text": "Rapaz, esse aqui"
+    },
+    {
+      "start": 263.38,
+      "end": 264.22,
+      "text": "É bom demais, galera"
+    },
+    {
+      "start": 264.22,
+      "end": 265.2,
+      "text": "Olha o tamanho desse piau"
+    },
+    {
+      "start": 265.2,
+      "end": 266.73,
+      "text": "Ó"
+    },
+    {
+      "start": 266.73,
+      "end": 270.96,
+      "text": "É bom demais"
+    },
+    {
+      "start": 270.96,
+      "end": 272.02,
+      "text": "E aí"
+    },
+    {
+      "start": 272.02,
+      "end": 272.98,
+      "text": "Estamos de volta"
+    },
+    {
+      "start": 272.98,
+      "end": 273.98,
+      "text": "Pescaria"
+    },
+    {
+      "start": 273.98,
+      "end": 274.64,
+      "text": "Fim de tarde"
+    },
+    {
+      "start": 274.64,
+      "end": 275.92,
+      "text": "Está ativa"
+    },
+    {
+      "start": 275.92,
+      "end": 284.18,
+      "text": "Dá um beijinho pra galera"
+    },
+    {
+      "start": 284.18,
+      "end": 284.46,
+      "text": "E dá"
+    },
+    {
+      "start": 284.46,
+      "end": 285.86,
+      "text": "Dá um salve"
+    },
+    {
+      "start": 285.86,
+      "end": 288.72,
+      "text": "Salve"
+    },
+    {
+      "start": 288.72,
+      "end": 290.12,
+      "text": "Chamo"
+    },
+    {
+      "start": 290.12,
+      "end": 292.96,
+      "text": "Pois é, meus amigos"
+    },
+    {
+      "start": 292.96,
+      "end": 294.92,
+      "text": "Não deu pra finalizar o vídeo lá"
+    },
+    {
+      "start": 294.92,
+      "end": 296.48,
+      "text": "Ela ficou até umas seis horas lá"
+    },
+    {
+      "start": 296.48,
+      "end": 298.77,
+      "text": "Mas aí os peixes que saiu aí ainda"
+    },
+    {
+      "start": 298.77,
+      "end": 300.73,
+      "text": "Finalizar o vídeo aqui"
+    },
+    {
+      "start": 300.73,
+      "end": 302.22,
+      "text": "Mas aí, ó"
+    },
+    {
+      "start": 302.22,
+      "end": 303.54,
+      "text": "Ela deu pra pegar, ó"
+    },
+    {
+      "start": 303.54,
+      "end": 303.9,
+      "text": "Um"
+    },
+    {
+      "start": 303.9,
+      "end": 306.41,
+      "text": "Dois"
+    },
+    {
+      "start": 306.41,
+      "end": 308.33,
+      "text": "Três"
+    },
+    {
+      "start": 308.33,
+      "end": 310.12,
+      "text": "Quatro"
+    },
+    {
+      "start": 310.12,
+      "end": 311.7,
+      "text": "Ó"
+    },
+    {
+      "start": 311.7,
+      "end": 313.2,
+      "text": "Cinco"
+    },
+    {
+      "start": 313.2,
+      "end": 314.16,
+      "text": "Seis"
+    },
+    {
+      "start": 314.16,
+      "end": 317.95,
+      "text": "Sete"
+    },
+    {
+      "start": 317.95,
+      "end": 319.45,
+      "text": "Esse aqui foi o João"
+    },
+    {
+      "start": 319.45,
+      "end": 320.75,
+      "text": "O João só pegou esse aqui, ó"
+    },
+    {
+      "start": 320.75,
+      "end": 322.69,
+      "text": "Os dois pequenos é meu"
+    },
+    {
+      "start": 322.69,
+      "end": 323.25,
+      "text": "Esse aí, o João"
+    },
+    {
+      "start": 323.25,
+      "end": 324.39,
+      "text": "Ó"
+    },
+    {
+      "start": 324.39,
+      "end": 325.45,
+      "text": "Olha aí"
+    },
+    {
+      "start": 325.45,
+      "end": 326.63,
+      "text": "Olha aí"
+    },
+    {
+      "start": 326.63,
+      "end": 327.92,
+      "text": "Olha aí"
+    },
+    {
+      "start": 327.92,
+      "end": 331.63,
+      "text": "E pegou esses outros pequenininhos aqui, ó"
+    },
+    {
+      "start": 331.63,
+      "end": 334.23,
+      "text": "Olha aí"
+    },
+    {
+      "start": 334.23,
+      "end": 338.24,
+      "text": "É isso aí, galera"
+    },
+    {
+      "start": 338.24,
+      "end": 339.92,
+      "text": "Se vocês gostou desse vídeo aí"
+    },
+    {
+      "start": 339.92,
+      "end": 342.48,
+      "text": "Nós demorou postar vídeo por conta da correria"
+    },
+    {
+      "start": 342.48,
+      "end": 344.95,
+      "text": "Mas nós estamos ativa novamente"
+    },
+    {
+      "start": 344.95,
+      "end": 348.51,
+      "text": "E eu gostaria muito que vocês curtissem esse vídeo"
+    },
+    {
+      "start": 348.51,
+      "end": 350.26,
+      "text": "E comentar"
+    },
+    {
+      "start": 350.26,
+      "end": 352.54,
+      "text": "Compartilhar com os amigos"
+    },
+    {
+      "start": 352.54,
+      "end": 355.62,
+      "text": "E principalmente se inscrever no nosso canal, tá bom?"
+    },
+    {
+      "start": 355.74,
+      "end": 356.84,
+      "text": "Pescaria Fim de tarde"
+    },
+    {
+      "start": 356.84,
+      "end": 358.16,
+      "text": "Estamos juntos"
+    },
+    {
+      "start": 358.16,
+      "end": 360.2,
+      "text": "Espero que vocês tenham gostado desse vídeo"
+    },
+    {
+      "start": 360.2,
+      "end": 361.14,
+      "text": "Sim, vida amador"
+    },
+    {
+      "start": 361.14,
+      "end": 362.12,
+      "text": "Estamos juntos"
+    },
+    {
+      "start": 362.12,
+      "end": 392.1,
+      "text": "E aí"
+    }
+  ],
+  "duracao_seg": 370.79,
+  "idioma_detectado": "pt"
+}

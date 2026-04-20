@@ -1,0 +1,107 @@
+{
+  "texto": "Aí rapaziada, finalizando a pescaria do Felipão Hoje é dia 13 do 3 Pesqueiro doido por pesca Vai precisar de ajuda aí Felipe E o peixe aqui é só de hoje O peixe de ontem ele vendeu Você vendeu né Felipe, o peixe de ontem Esse aqui é peixe só de hoje Deu uma moidinha aí rapaziada Dá uma olhada aí Dá uma olhada aí rapaziada Um eu Oi É isso aí Felipe E aí Felipe Vem que tem Dá uma olhada aí a sacada Tem uns 60kg brincando aí Ou mais É louco",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 3.66,
+      "text": "Aí rapaziada, finalizando a pescaria do Felipão"
+    },
+    {
+      "start": 3.66,
+      "end": 6.38,
+      "text": "Hoje é dia 13 do 3"
+    },
+    {
+      "start": 6.38,
+      "end": 8.0,
+      "text": "Pesqueiro doido por pesca"
+    },
+    {
+      "start": 8.0,
+      "end": 9.66,
+      "text": "Vai precisar de ajuda aí Felipe"
+    },
+    {
+      "start": 9.66,
+      "end": 11.02,
+      "text": "E o peixe aqui é só de hoje"
+    },
+    {
+      "start": 11.02,
+      "end": 14.22,
+      "text": "O peixe de ontem ele vendeu"
+    },
+    {
+      "start": 14.22,
+      "end": 15.62,
+      "text": "Você vendeu né Felipe, o peixe de ontem"
+    },
+    {
+      "start": 15.62,
+      "end": 18.26,
+      "text": "Esse aqui é peixe só de hoje"
+    },
+    {
+      "start": 18.26,
+      "end": 20.97,
+      "text": "Deu uma moidinha aí rapaziada"
+    },
+    {
+      "start": 20.97,
+      "end": 21.51,
+      "text": "Dá uma olhada aí"
+    },
+    {
+      "start": 21.51,
+      "end": 27.42,
+      "text": "Dá uma olhada aí rapaziada"
+    },
+    {
+      "start": 27.42,
+      "end": 31.58,
+      "text": "Um eu"
+    },
+    {
+      "start": 31.58,
+      "end": 32.72,
+      "text": "Oi"
+    },
+    {
+      "start": 32.72,
+      "end": 37.94,
+      "text": "É isso aí Felipe"
+    },
+    {
+      "start": 37.94,
+      "end": 39.02,
+      "text": "E aí Felipe"
+    },
+    {
+      "start": 39.02,
+      "end": 41.34,
+      "text": "Vem que tem"
+    },
+    {
+      "start": 41.34,
+      "end": 46.43,
+      "text": "Dá uma olhada aí a sacada"
+    },
+    {
+      "start": 46.43,
+      "end": 50.34,
+      "text": "Tem uns 60kg brincando aí"
+    },
+    {
+      "start": 50.34,
+      "end": 51.3,
+      "text": "Ou mais"
+    },
+    {
+      "start": 51.3,
+      "end": 57.46,
+      "text": "É louco"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

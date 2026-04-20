@@ -1,0 +1,87 @@
+{
+  "texto": "O que é que todo mundo pega, peixe? Olha só, vara do véio, olha! Não puxa não, deixa, cuidado. Já vê a linha, já vê a linha. Já vê a linha. Segura, velho. Não vai, não vai. Não vai, não vai. Agora, agora, agora. Agora, agora, agora. Vai, põe a linha d'água, põe a linha d'água. Vai, põe a linha d'água, põe a linha d'água. Aê, o peixe do véio! Tirei! A equipe! A equipe aqui, ó. Da pesca amadora.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "O que é que todo mundo pega, peixe? Olha só, vara do véio, olha!"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Não puxa não, deixa, cuidado."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Já vê a linha, já vê a linha."
+    },
+    {
+      "start": 10.0,
+      "end": 12.13,
+      "text": "Já vê a linha."
+    },
+    {
+      "start": 12.13,
+      "end": 14.13,
+      "text": "Segura, velho."
+    },
+    {
+      "start": 14.13,
+      "end": 16.13,
+      "text": "Não vai, não vai."
+    },
+    {
+      "start": 16.13,
+      "end": 18.13,
+      "text": "Não vai, não vai."
+    },
+    {
+      "start": 18.13,
+      "end": 42.59,
+      "text": "Agora, agora, agora."
+    },
+    {
+      "start": 42.59,
+      "end": 44.59,
+      "text": "Agora, agora, agora."
+    },
+    {
+      "start": 44.59,
+      "end": 46.59,
+      "text": "Vai, põe a linha d'água, põe a linha d'água."
+    },
+    {
+      "start": 46.59,
+      "end": 49.39,
+      "text": "Vai, põe a linha d'água, põe a linha d'água."
+    },
+    {
+      "start": 49.39,
+      "end": 51.39,
+      "text": "Aê, o peixe do véio!"
+    },
+    {
+      "start": 51.39,
+      "end": 53.39,
+      "text": "Tirei!"
+    },
+    {
+      "start": 53.39,
+      "end": 56.74,
+      "text": "A equipe!"
+    },
+    {
+      "start": 56.74,
+      "end": 58.74,
+      "text": "A equipe aqui, ó."
+    },
+    {
+      "start": 58.74,
+      "end": 60.74,
+      "text": "Da pesca amadora."
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

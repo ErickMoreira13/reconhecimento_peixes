@@ -1,0 +1,307 @@
+{
+  "texto": "olha os bitelinhos, aqui é bitelinho, não é rapaz? é bitela rapaz esse ai é danado você não dá nada por um ferro desse aqui ó, quanto gasta aqui gasta muito viu gasta muito rapaz esse soro é oito reais acho que é um que uns não dá meio metro não um ferro desse aqui aqui é um metro e meio um metro e meio tem uma coisa, é um dez reais dez reais você não dá nada por um ferro desse galera e tem uma coisa, é um estrago viu é um estrago e a rapidez, a praticidade de tirar o peixe nem se fala né olha o teste ai essa bolinha aqui ó essa bolinha aqui é para molhar os dedos curar, porque se eu deixar o ferro limpo escorrega aqui não olha o resultado eita minha e aí e outro risco é menos né você pescando com uma amiga assim com distância de dez metros não tem perigo nenhum que não sai da sua mão é só se ver né só se atirar mesmo mas é mais difícil é mais difícil o de tiro não é mais longa distância é que tem uma corda né você vê o cara na a maioria galerinha bota o cara aqui ó na cintura ó o arpão de tira a maioria dos acontecimentos ó o cara vê o cara na cintura atira ufa é aí vara o cara e pega a espinha do mukumbu por isso que acontece por isso que acontece é é",
+  "segmentos": [
+    {
+      "start": 0.66,
+      "end": 3.66,
+      "text": "olha os bitelinhos, aqui é bitelinho, não é rapaz?"
+    },
+    {
+      "start": 3.66,
+      "end": 5.66,
+      "text": "é bitela"
+    },
+    {
+      "start": 5.66,
+      "end": 8.94,
+      "text": "rapaz"
+    },
+    {
+      "start": 8.94,
+      "end": 11.94,
+      "text": "esse ai é danado"
+    },
+    {
+      "start": 11.94,
+      "end": 13.94,
+      "text": "você não dá nada por um ferro desse"
+    },
+    {
+      "start": 13.94,
+      "end": 16.94,
+      "text": "aqui ó, quanto gasta aqui"
+    },
+    {
+      "start": 16.94,
+      "end": 18.94,
+      "text": "gasta muito viu"
+    },
+    {
+      "start": 18.94,
+      "end": 19.94,
+      "text": "gasta muito rapaz"
+    },
+    {
+      "start": 19.94,
+      "end": 23.35,
+      "text": "esse soro é"
+    },
+    {
+      "start": 23.35,
+      "end": 25.35,
+      "text": "oito reais"
+    },
+    {
+      "start": 25.35,
+      "end": 27.35,
+      "text": "acho que é um que uns"
+    },
+    {
+      "start": 27.35,
+      "end": 29.35,
+      "text": "não dá meio metro não"
+    },
+    {
+      "start": 29.35,
+      "end": 31.35,
+      "text": "um ferro desse aqui"
+    },
+    {
+      "start": 31.35,
+      "end": 35.38,
+      "text": "aqui é um metro e meio"
+    },
+    {
+      "start": 35.38,
+      "end": 37.38,
+      "text": "um metro e meio"
+    },
+    {
+      "start": 37.38,
+      "end": 39.38,
+      "text": "tem uma coisa, é um dez reais"
+    },
+    {
+      "start": 39.38,
+      "end": 41.38,
+      "text": "dez reais"
+    },
+    {
+      "start": 41.38,
+      "end": 43.38,
+      "text": "você não dá nada por um ferro desse galera"
+    },
+    {
+      "start": 43.38,
+      "end": 45.38,
+      "text": "e tem uma coisa, é um estrago viu"
+    },
+    {
+      "start": 45.38,
+      "end": 46.38,
+      "text": "é um estrago"
+    },
+    {
+      "start": 46.38,
+      "end": 48.38,
+      "text": "e a rapidez, a praticidade de tirar o peixe"
+    },
+    {
+      "start": 48.38,
+      "end": 50.48,
+      "text": "nem se fala né"
+    },
+    {
+      "start": 50.48,
+      "end": 51.48,
+      "text": "olha o teste ai"
+    },
+    {
+      "start": 51.48,
+      "end": 53.67,
+      "text": "essa bolinha aqui ó"
+    },
+    {
+      "start": 53.67,
+      "end": 56.02,
+      "text": "essa bolinha aqui"
+    },
+    {
+      "start": 56.02,
+      "end": 58.02,
+      "text": "é para molhar os dedos"
+    },
+    {
+      "start": 58.02,
+      "end": 60.44,
+      "text": "curar, porque se eu deixar o ferro limpo"
+    },
+    {
+      "start": 60.44,
+      "end": 61.44,
+      "text": "escorrega"
+    },
+    {
+      "start": 61.44,
+      "end": 62.44,
+      "text": "aqui não"
+    },
+    {
+      "start": 62.44,
+      "end": 63.44,
+      "text": "olha o resultado"
+    },
+    {
+      "start": 63.44,
+      "end": 69.47,
+      "text": "eita minha"
+    },
+    {
+      "start": 69.47,
+      "end": 70.47,
+      "text": "e aí"
+    },
+    {
+      "start": 70.47,
+      "end": 71.47,
+      "text": "e outro risco é menos né"
+    },
+    {
+      "start": 71.47,
+      "end": 72.47,
+      "text": "você pescando com uma amiga assim"
+    },
+    {
+      "start": 72.47,
+      "end": 73.47,
+      "text": "com distância de dez metros"
+    },
+    {
+      "start": 73.47,
+      "end": 74.47,
+      "text": "não tem perigo nenhum"
+    },
+    {
+      "start": 74.47,
+      "end": 75.47,
+      "text": "que não sai da sua mão"
+    },
+    {
+      "start": 75.47,
+      "end": 77.47,
+      "text": "é só se ver né"
+    },
+    {
+      "start": 77.47,
+      "end": 78.47,
+      "text": "só se atirar mesmo"
+    },
+    {
+      "start": 78.47,
+      "end": 79.47,
+      "text": "mas é mais difícil"
+    },
+    {
+      "start": 79.47,
+      "end": 80.47,
+      "text": "é mais difícil"
+    },
+    {
+      "start": 80.47,
+      "end": 81.47,
+      "text": "o de tiro não"
+    },
+    {
+      "start": 81.47,
+      "end": 82.47,
+      "text": "é mais longa distância"
+    },
+    {
+      "start": 82.47,
+      "end": 83.47,
+      "text": "é que tem uma corda né"
+    },
+    {
+      "start": 83.47,
+      "end": 84.47,
+      "text": "você vê o cara na"
+    },
+    {
+      "start": 84.47,
+      "end": 86.47,
+      "text": "a maioria galerinha"
+    },
+    {
+      "start": 86.47,
+      "end": 87.47,
+      "text": "bota o cara aqui ó"
+    },
+    {
+      "start": 87.47,
+      "end": 88.47,
+      "text": "na cintura ó"
+    },
+    {
+      "start": 88.47,
+      "end": 89.47,
+      "text": "o arpão de tira"
+    },
+    {
+      "start": 89.47,
+      "end": 91.47,
+      "text": "a maioria dos acontecimentos ó"
+    },
+    {
+      "start": 91.47,
+      "end": 93.47,
+      "text": "o cara vê o cara na cintura"
+    },
+    {
+      "start": 93.47,
+      "end": 94.47,
+      "text": "atira"
+    },
+    {
+      "start": 94.47,
+      "end": 95.47,
+      "text": "ufa"
+    },
+    {
+      "start": 95.47,
+      "end": 96.47,
+      "text": "é"
+    },
+    {
+      "start": 96.47,
+      "end": 97.47,
+      "text": "aí vara o cara e pega"
+    },
+    {
+      "start": 97.47,
+      "end": 98.47,
+      "text": "a espinha do mukumbu"
+    },
+    {
+      "start": 98.47,
+      "end": 99.47,
+      "text": "por isso que acontece"
+    },
+    {
+      "start": 99.47,
+      "end": 100.47,
+      "text": "por isso que acontece"
+    },
+    {
+      "start": 100.47,
+      "end": 101.47,
+      "text": "é"
+    },
+    {
+      "start": 101.47,
+      "end": 102.47,
+      "text": "é"
+    }
+  ],
+  "duracao_seg": 101.87,
+  "idioma_detectado": "pt"
+}

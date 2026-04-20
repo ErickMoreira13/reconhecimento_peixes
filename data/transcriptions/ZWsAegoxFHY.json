@@ -1,0 +1,107 @@
+{
+  "texto": "Bom dia, meus amigos! Tudo bom? Vou deixar uma dica aí pra você que gosta de pescar e vai pescar sempre nos rios. Olha, tem que ter isso aqui, galera. Carteira de pesca. Carteirinha de pesca amadora. Olha, é muito fácil de tirar. Entra no site gov.com.br, seleciona categoria embarcada ou de barranco. A embarcada é R$ 60,00 que você paga. A de barranco é R$ 20,00. Beleza? Olha, e um detalhe principal também. Nunca corte esse rodapézinho aqui, onde tem um código bem embaixo. Beleza? Sempre tem que estar legível. E junto com a carteirinha de pesca, você tem que ter isso aqui. Que é o comprovante de pagamento que você pagou. Eu não sei porque tem que ter isso, mas tem que ter. Beleza, galera? Então, quando for pescar, não esqueça de tirar. Pra não ter nenhum inconvênio ali com a Polícia Ambiental ou o IBAMA. Beleza? Fica a dica aí.",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 2.15,
+      "text": "Bom dia, meus amigos! Tudo bom?"
+    },
+    {
+      "start": 2.87,
+      "end": 6.75,
+      "text": "Vou deixar uma dica aí pra você que gosta de pescar e vai pescar sempre nos rios."
+    },
+    {
+      "start": 7.03,
+      "end": 8.99,
+      "text": "Olha, tem que ter isso aqui, galera."
+    },
+    {
+      "start": 9.93,
+      "end": 12.77,
+      "text": "Carteira de pesca. Carteirinha de pesca amadora."
+    },
+    {
+      "start": 13.78,
+      "end": 15.16,
+      "text": "Olha, é muito fácil de tirar."
+    },
+    {
+      "start": 15.46,
+      "end": 22.42,
+      "text": "Entra no site gov.com.br, seleciona categoria embarcada ou de barranco."
+    },
+    {
+      "start": 22.98,
+      "end": 25.06,
+      "text": "A embarcada é R$ 60,00 que você paga."
+    },
+    {
+      "start": 25.4,
+      "end": 26.62,
+      "text": "A de barranco é R$ 20,00."
+    },
+    {
+      "start": 27.2,
+      "end": 27.56,
+      "text": "Beleza?"
+    },
+    {
+      "start": 27.56,
+      "end": 29.8,
+      "text": "Olha, e um detalhe principal também."
+    },
+    {
+      "start": 29.96,
+      "end": 35.72,
+      "text": "Nunca corte esse rodapézinho aqui, onde tem um código bem embaixo."
+    },
+    {
+      "start": 36.08,
+      "end": 37.42,
+      "text": "Beleza? Sempre tem que estar legível."
+    },
+    {
+      "start": 38.64,
+      "end": 41.46,
+      "text": "E junto com a carteirinha de pesca, você tem que ter isso aqui."
+    },
+    {
+      "start": 42.06,
+      "end": 45.18,
+      "text": "Que é o comprovante de pagamento que você pagou."
+    },
+    {
+      "start": 45.42,
+      "end": 47.82,
+      "text": "Eu não sei porque tem que ter isso, mas tem que ter."
+    },
+    {
+      "start": 48.28,
+      "end": 48.9,
+      "text": "Beleza, galera?"
+    },
+    {
+      "start": 49.4,
+      "end": 51.68,
+      "text": "Então, quando for pescar, não esqueça de tirar."
+    },
+    {
+      "start": 52.0,
+      "end": 57.42,
+      "text": "Pra não ter nenhum inconvênio ali com a Polícia Ambiental ou o IBAMA."
+    },
+    {
+      "start": 57.42,
+      "end": 58.16,
+      "text": "Beleza?"
+    },
+    {
+      "start": 58.34,
+      "end": 58.98,
+      "text": "Fica a dica aí."
+    }
+  ],
+  "duracao_seg": 59.37,
+  "idioma_detectado": "pt"
+}

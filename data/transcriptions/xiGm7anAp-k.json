@@ -1,0 +1,27 @@
+{
+  "texto": "Tem dia que o rio tá pra peixe, né? Olha só, de noite o cara jogando lanterna na cara ali do peixe. Fisguinha ali, ó. Pum, vai pegar. Pegou. Aí vai. O cara puxa. Que peixe é esse, hein? Parece traíra, não parece? Olha aí, dá um pausa aí e responde aqui nos comentários. O que você acha aí? Top!",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 5.14,
+      "text": "Tem dia que o rio tá pra peixe, né? Olha só, de noite o cara jogando lanterna na cara ali do peixe."
+    },
+    {
+      "start": 6.27,
+      "end": 10.37,
+      "text": "Fisguinha ali, ó. Pum, vai pegar. Pegou. Aí vai. O cara puxa."
+    },
+    {
+      "start": 10.87,
+      "end": 12.53,
+      "text": "Que peixe é esse, hein? Parece traíra, não parece?"
+    },
+    {
+      "start": 13.07,
+      "end": 16.65,
+      "text": "Olha aí, dá um pausa aí e responde aqui nos comentários. O que você acha aí? Top!"
+    }
+  ],
+  "duracao_seg": 16.95,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Se la presenti sendo casi mala Porque no me aguanto nada mais de nada Mas se vienes a mi casa A mi casa A mi casa",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 3.06,
+      "text": "Se la presenti sendo casi mala"
+    },
+    {
+      "start": 3.06,
+      "end": 5.14,
+      "text": "Porque no me aguanto nada mais de nada"
+    },
+    {
+      "start": 5.14,
+      "end": 6.8,
+      "text": "Mas se vienes a mi casa"
+    },
+    {
+      "start": 6.8,
+      "end": 7.72,
+      "text": "A mi casa"
+    },
+    {
+      "start": 7.72,
+      "end": 9.72,
+      "text": "A mi casa"
+    }
+  ],
+  "duracao_seg": 15.73,
+  "idioma_detectado": "pt"
+}

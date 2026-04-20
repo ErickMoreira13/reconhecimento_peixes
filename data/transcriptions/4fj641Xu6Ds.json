@@ -1,0 +1,22 @@
+{
+  "texto": "Veja esse garoto esperto. Viu um peixe na beira d'água e decidiu pegá-lo com a mão. O pai ficou orgulhoso.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "Veja esse garoto esperto."
+    },
+    {
+      "start": 3.92,
+      "end": 7.14,
+      "text": "Viu um peixe na beira d'água e decidiu pegá-lo com a mão."
+    },
+    {
+      "start": 11.83,
+      "end": 13.31,
+      "text": "O pai ficou orgulhoso."
+    }
+  ],
+  "duracao_seg": 14.59,
+  "idioma_detectado": "pt"
+}

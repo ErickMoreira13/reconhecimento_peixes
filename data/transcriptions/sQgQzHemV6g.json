@@ -1,0 +1,42 @@
+{
+  "texto": "Maneira correta de se manusear o molinete. Para você que nunca teve contato com o molinete, a gente vai começar do início. Como é que a gente vai fazer para manusear o molinete para a gente pescar no costão? Segurei minha linha aqui, isso aqui é a alça para liberar a linha. Liberei a linha, segurei com o dedo, estou pronto para arremesso. Fiz o arremesso, saiu minha linha, voltei minha trava, está pronto para pesca. Valeu!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Maneira correta de se manusear o molinete."
+    },
+    {
+      "start": 2.24,
+      "end": 6.08,
+      "text": "Para você que nunca teve contato com o molinete, a gente vai começar do início."
+    },
+    {
+      "start": 7.12,
+      "end": 11.18,
+      "text": "Como é que a gente vai fazer para manusear o molinete para a gente pescar no costão?"
+    },
+    {
+      "start": 12.35,
+      "end": 16.29,
+      "text": "Segurei minha linha aqui, isso aqui é a alça para liberar a linha."
+    },
+    {
+      "start": 16.51,
+      "end": 20.67,
+      "text": "Liberei a linha, segurei com o dedo, estou pronto para arremesso."
+    },
+    {
+      "start": 24.24,
+      "end": 28.9,
+      "text": "Fiz o arremesso, saiu minha linha, voltei minha trava, está pronto para pesca."
+    },
+    {
+      "start": 29.24,
+      "end": 29.56,
+      "text": "Valeu!"
+    }
+  ],
+  "duracao_seg": 30.23,
+  "idioma_detectado": "pt"
+}

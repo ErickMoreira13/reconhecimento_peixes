@@ -1,0 +1,67 @@
+{
+  "texto": "Olha, olha, passaram tudo. Tem que ver o tamanho. Olha lá. Ah, meu Deus do céu. Será? Geralmente é banana mesmo, né? E é banana, cara. Meu Deus do céu. Agora eu sei porque tu deixou passar. Que zebra, rapazes. Olha aí, pô. Tá chupada de banana, né?",
+  "segmentos": [
+    {
+      "start": 4.11,
+      "end": 8.03,
+      "text": "Olha, olha, passaram tudo."
+    },
+    {
+      "start": 8.03,
+      "end": 13.84,
+      "text": "Tem que ver o tamanho."
+    },
+    {
+      "start": 13.84,
+      "end": 18.68,
+      "text": "Olha lá."
+    },
+    {
+      "start": 18.68,
+      "end": 25.26,
+      "text": "Ah, meu Deus do céu."
+    },
+    {
+      "start": 25.26,
+      "end": 29.42,
+      "text": "Será?"
+    },
+    {
+      "start": 29.42,
+      "end": 31.55,
+      "text": "Geralmente é banana mesmo, né?"
+    },
+    {
+      "start": 31.55,
+      "end": 34.22,
+      "text": "E é banana, cara."
+    },
+    {
+      "start": 34.22,
+      "end": 36.22,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 36.22,
+      "end": 43.18,
+      "text": "Agora eu sei porque tu deixou passar."
+    },
+    {
+      "start": 43.18,
+      "end": 47.42,
+      "text": "Que zebra, rapazes."
+    },
+    {
+      "start": 47.42,
+      "end": 50.38,
+      "text": "Olha aí, pô."
+    },
+    {
+      "start": 50.38,
+      "end": 52.7,
+      "text": "Tá chupada de banana, né?"
+    }
+  ],
+  "duracao_seg": 54.89,
+  "idioma_detectado": "pt"
+}

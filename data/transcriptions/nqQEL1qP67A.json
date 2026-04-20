@@ -1,0 +1,17 @@
+{
+  "texto": "Olha aí, pesca noturna de arpão, pegou, olha aí, aí não é almoço né, aí a janta tá garantida, que espécie é essa galera? E o cara aí parece que tá forçando ali, parece que o peixe tava vivo, mas de qualquer forma já tá fisgado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Olha aí, pesca noturna de arpão, pegou, olha aí, aí não é almoço né, aí a janta tá garantida, que espécie é essa galera?"
+    },
+    {
+      "start": 10.6,
+      "end": 16.54,
+      "text": "E o cara aí parece que tá forçando ali, parece que o peixe tava vivo, mas de qualquer forma já tá fisgado."
+    }
+  ],
+  "duracao_seg": 16.59,
+  "idioma_detectado": "pt"
+}
