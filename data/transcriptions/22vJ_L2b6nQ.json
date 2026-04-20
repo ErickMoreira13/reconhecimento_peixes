@@ -1,0 +1,87 @@
+{
+  "texto": "Você sabia que existe um mar em Minas Gerais? Calma! De fato, Minas é um dos seis estados brasileiros que não estão conectados ao oceano. Porém, na região sul do estado, existe o que é popularmente conhecido como o Mar de Minas, o Lago de Furnas. Furnas é resultado do represamento das águas do Rio Grande e do Rio Sapucaí, além de diversos rios menores. Sua área total é de 1.470 quilômetros quadrados, o que equivale a aproximadamente seis vezes o tamanho da Baía de Guanabara, no Rio de Janeiro. Furnas foi criada para resolver uma crise hídrica na década de 50, e durante seu processo de construção, partes de municípios foram submersos, como a antiga sede de Guapé e toda São José da Barra. Sua usina hidrelétrica está localizada entre os municípios de São José da Barra e São João Batista do Glória, e chega a 127 metros de altura. Nos últimos anos, o Mar de Minas tornou-se um grande destino turístico em Minas. Um exemplo disso é o município de Capitólio. Você conhece o Mar de Minas? Comenta aqui e compartilhe.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Você sabia que existe um mar em Minas Gerais?"
+    },
+    {
+      "start": 2.34,
+      "end": 2.7,
+      "text": "Calma!"
+    },
+    {
+      "start": 2.88,
+      "end": 6.94,
+      "text": "De fato, Minas é um dos seis estados brasileiros que não estão conectados ao oceano."
+    },
+    {
+      "start": 7.16,
+      "end": 13.48,
+      "text": "Porém, na região sul do estado, existe o que é popularmente conhecido como o Mar de Minas, o Lago de Furnas."
+    },
+    {
+      "start": 13.74,
+      "end": 20.02,
+      "text": "Furnas é resultado do represamento das águas do Rio Grande e do Rio Sapucaí, além de diversos rios menores."
+    },
+    {
+      "start": 20.28,
+      "end": 23.8,
+      "text": "Sua área total é de 1.470 quilômetros quadrados,"
+    },
+    {
+      "start": 24.08,
+      "end": 29.44,
+      "text": "o que equivale a aproximadamente seis vezes o tamanho da Baía de Guanabara, no Rio de Janeiro."
+    },
+    {
+      "start": 29.44,
+      "end": 33.5,
+      "text": "Furnas foi criada para resolver uma crise hídrica na década de 50,"
+    },
+    {
+      "start": 33.7,
+      "end": 37.94,
+      "text": "e durante seu processo de construção, partes de municípios foram submersos,"
+    },
+    {
+      "start": 38.14,
+      "end": 41.48,
+      "text": "como a antiga sede de Guapé e toda São José da Barra."
+    },
+    {
+      "start": 41.68,
+      "end": 47.6,
+      "text": "Sua usina hidrelétrica está localizada entre os municípios de São José da Barra e São João Batista do Glória,"
+    },
+    {
+      "start": 47.76,
+      "end": 50.3,
+      "text": "e chega a 127 metros de altura."
+    },
+    {
+      "start": 50.52,
+      "end": 54.8,
+      "text": "Nos últimos anos, o Mar de Minas tornou-se um grande destino turístico em Minas."
+    },
+    {
+      "start": 54.98,
+      "end": 57.32,
+      "text": "Um exemplo disso é o município de Capitólio."
+    },
+    {
+      "start": 57.32,
+      "end": 58.54,
+      "text": "Você conhece o Mar de Minas?"
+    },
+    {
+      "start": 58.54,
+      "end": 59.98,
+      "text": "Comenta aqui e compartilhe."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

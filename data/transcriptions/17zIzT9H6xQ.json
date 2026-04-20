@@ -1,0 +1,17 @@
+{
+  "texto": "Olha o peixe, é, minha gente vem comprar Olha o peixe, olha o peixe",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Olha o peixe, é, minha gente vem comprar"
+    },
+    {
+      "start": 3.42,
+      "end": 5.96,
+      "text": "Olha o peixe, olha o peixe"
+    }
+  ],
+  "duracao_seg": 6.79,
+  "idioma_detectado": "pt"
+}

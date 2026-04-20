@@ -1,0 +1,42 @@
+{
+  "texto": "Dica para arremessar o molinete, hein? Segura aqui, abre, você vai fazer o movimento para trás. E quando você for arremessar, você estica o dedo. Assim. Tá lá, sua isca. Beleza? Valeu!",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 2.21,
+      "text": "Dica para arremessar o molinete, hein?"
+    },
+    {
+      "start": 2.33,
+      "end": 7.58,
+      "text": "Segura aqui, abre, você vai fazer o movimento para trás."
+    },
+    {
+      "start": 8.26,
+      "end": 10.94,
+      "text": "E quando você for arremessar, você estica o dedo."
+    },
+    {
+      "start": 11.8,
+      "end": 12.1,
+      "text": "Assim."
+    },
+    {
+      "start": 13.69,
+      "end": 14.75,
+      "text": "Tá lá, sua isca."
+    },
+    {
+      "start": 15.23,
+      "end": 15.61,
+      "text": "Beleza?"
+    },
+    {
+      "start": 16.41,
+      "end": 16.83,
+      "text": "Valeu!"
+    }
+  ],
+  "duracao_seg": 17.37,
+  "idioma_detectado": "pt"
+}

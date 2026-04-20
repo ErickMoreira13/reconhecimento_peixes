@@ -1,0 +1,42 @@
+{
+  "texto": "É esse cara aqui galera, fermento biológico, isso aqui ó, isso aqui também. O que a gente faz? Casga e põe aqui dentro, certo? Jogou lá? Vamos colocar água de novo. Vamos lá, deixa eu pegar água aqui. Aí galera, colocando a água aqui ó, certo? Esse fermento aqui ele vai ajudar a azedar rápido. Eu gosto mais do fermento do que do leite galera. Mesma coisa, fechou o bicho lá, deixa lá uns 5 dias guardado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.82,
+      "text": "É esse cara aqui galera, fermento biológico, isso aqui ó, isso aqui também."
+    },
+    {
+      "start": 7.1,
+      "end": 13.83,
+      "text": "O que a gente faz? Casga e põe aqui dentro, certo?"
+    },
+    {
+      "start": 14.84,
+      "end": 19.99,
+      "text": "Jogou lá? Vamos colocar água de novo. Vamos lá, deixa eu pegar água aqui."
+    },
+    {
+      "start": 20.89,
+      "end": 28.38,
+      "text": "Aí galera, colocando a água aqui ó, certo?"
+    },
+    {
+      "start": 29.2,
+      "end": 32.22,
+      "text": "Esse fermento aqui ele vai ajudar a azedar rápido."
+    },
+    {
+      "start": 32.22,
+      "end": 35.44,
+      "text": "Eu gosto mais do fermento do que do leite galera."
+    },
+    {
+      "start": 36.1,
+      "end": 40.86,
+      "text": "Mesma coisa, fechou o bicho lá, deixa lá uns 5 dias guardado."
+    }
+  ],
+  "duracao_seg": 40.85,
+  "idioma_detectado": "pt"
+}

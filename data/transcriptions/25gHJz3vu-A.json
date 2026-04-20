@@ -1,0 +1,17 @@
+{
+  "texto": "Somebody's watching me Is my",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "Somebody's watching me"
+    },
+    {
+      "start": 2.04,
+      "end": 2.78,
+      "text": "Is my"
+    }
+  ],
+  "duracao_seg": 7.53,
+  "idioma_detectado": "pt"
+}

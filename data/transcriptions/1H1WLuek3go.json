@@ -1,0 +1,42 @@
+{
+  "texto": "Você, assim como eu, gosta de pescar com milho? Assim não. Assim? Também não. A forma correta é assim, ó. Você vai iscar, né, um anzol no milho de um lado e de outro. Pronto. Se inscreva aí no canal para a próxima.",
+  "segmentos": [
+    {
+      "start": 0.16,
+      "end": 2.76,
+      "text": "Você, assim como eu, gosta de pescar com milho?"
+    },
+    {
+      "start": 3.1,
+      "end": 3.7,
+      "text": "Assim não."
+    },
+    {
+      "start": 4.4,
+      "end": 5.76,
+      "text": "Assim? Também não."
+    },
+    {
+      "start": 6.16,
+      "end": 7.98,
+      "text": "A forma correta é assim, ó."
+    },
+    {
+      "start": 8.32,
+      "end": 13.36,
+      "text": "Você vai iscar, né, um anzol no milho de um lado e de outro."
+    },
+    {
+      "start": 13.68,
+      "end": 14.08,
+      "text": "Pronto."
+    },
+    {
+      "start": 14.54,
+      "end": 16.12,
+      "text": "Se inscreva aí no canal para a próxima."
+    }
+  ],
+  "duracao_seg": 16.67,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,377 @@
+{
+  "texto": "E o bicho, que nem os outros. Aqui não, jacaré. Rod aí. Duas horas pra passar na tela. Mais uma bocodona. Essa é grandona. Eu querendo as piavas e as carpas, vai vir só tirar. Aí o bichão aí, ó, Fatesha, ó. Olha o anzol já que tá. Dá uma olhadinha. Quase caindo fora o anzol. Aí o bicho. O que vem aí, Guzada. O taquari. Bonita briga com o bicho. Na carretilha aí, ó. Troquei a vara, deu resultado. Que bichão, cara. Uma desse tamanhão. Vocês viram ela? Amarelou. Olha lá o bicho. Aham. Olha lá. Meu Deus do céu, o tamanhão, cara. Olha só. Glória a Deus. Hora de ir embora. Agora, capaz que o Juleu vai embora. Cara, ela tá só na pontinha. Tá pegadinha na mão. Eita, infeliz. Não posso deixar ela afundar agora, ó, tia? Não, eu vou comer as pedras. Deixar ela, assim. Deixar ela afundar. Não perde o bicho, pelo amor de Deus. Não pode nem ver. Certo, certo. Não, nem é vazio. Galo, velho. É bonita. Meu Deus do céu. Oi, ela tava, não tava. E tava quase pra escapar. Tranquilha, Guzada. Não soltava nunca. Aqui, mas tava. Filma aí. Ah, não, engoliu. Cara, mas o naco do atilápia, cara. Pegamos assim, aquela senhora, já fizemos quase lá, né? Não é só infeliz que tava aí. Ô, ela não puxou, cara. É só deixar a linha. Já tão. Aí, gorizadinha. Rio Taquari. Aí, ó. Mais uma atilápiazinha. Esse é o prêmio de hoje. Olha só, bocute. Que nem os outros, ó. Vai pra vida. Aqui, ó. Olha o tamanho do avião. Vai pra vida. Cara, eu tô tremendo. Larga ela pra água. Larga. Pô, coloca naquele meu ali que é mais forte, cara. É de aço, Clé. O meu é de aço. Ô, meu.",
+  "segmentos": [
+    {
+      "start": 79.22,
+      "end": 80.76,
+      "text": "E o bicho, que nem os outros."
+    },
+    {
+      "start": 80.9,
+      "end": 81.86,
+      "text": "Aqui não, jacaré."
+    },
+    {
+      "start": 97.1,
+      "end": 97.7,
+      "text": "Rod aí."
+    },
+    {
+      "start": 100.12,
+      "end": 101.58,
+      "text": "Duas horas pra passar na tela."
+    },
+    {
+      "start": 104.6,
+      "end": 105.64,
+      "text": "Mais uma bocodona."
+    },
+    {
+      "start": 107.44,
+      "end": 108.34,
+      "text": "Essa é grandona."
+    },
+    {
+      "start": 115.43,
+      "end": 117.89,
+      "text": "Eu querendo as piavas e as carpas, vai vir só tirar."
+    },
+    {
+      "start": 118.45,
+      "end": 177.76,
+      "text": "Aí o bichão aí, ó, Fatesha, ó."
+    },
+    {
+      "start": 178.18,
+      "end": 179.94,
+      "text": "Olha o anzol já que tá."
+    },
+    {
+      "start": 180.91,
+      "end": 181.57,
+      "text": "Dá uma olhadinha."
+    },
+    {
+      "start": 182.72,
+      "end": 184.3,
+      "text": "Quase caindo fora o anzol."
+    },
+    {
+      "start": 185.37,
+      "end": 186.19,
+      "text": "Aí o bicho."
+    },
+    {
+      "start": 188.5,
+      "end": 189.62,
+      "text": "O que vem aí, Guzada."
+    },
+    {
+      "start": 191.0,
+      "end": 191.64,
+      "text": "O taquari."
+    },
+    {
+      "start": 194.38,
+      "end": 195.56,
+      "text": "Bonita briga com o bicho."
+    },
+    {
+      "start": 196.24,
+      "end": 197.28,
+      "text": "Na carretilha aí, ó."
+    },
+    {
+      "start": 197.28,
+      "end": 199.91,
+      "text": "Troquei a vara, deu resultado."
+    },
+    {
+      "start": 217.84,
+      "end": 218.56,
+      "text": "Que bichão, cara."
+    },
+    {
+      "start": 220.86,
+      "end": 221.58,
+      "text": "Uma desse tamanhão."
+    },
+    {
+      "start": 223.26,
+      "end": 223.86,
+      "text": "Vocês viram ela?"
+    },
+    {
+      "start": 225.0,
+      "end": 225.48,
+      "text": "Amarelou."
+    },
+    {
+      "start": 229.66,
+      "end": 230.02,
+      "text": "Olha lá o bicho."
+    },
+    {
+      "start": 230.94,
+      "end": 231.38,
+      "text": "Aham."
+    },
+    {
+      "start": 233.73,
+      "end": 234.05,
+      "text": "Olha lá."
+    },
+    {
+      "start": 235.95,
+      "end": 237.75,
+      "text": "Meu Deus do céu, o tamanhão, cara."
+    },
+    {
+      "start": 240.66,
+      "end": 241.12,
+      "text": "Olha só."
+    },
+    {
+      "start": 242.56,
+      "end": 243.52,
+      "text": "Glória a Deus."
+    },
+    {
+      "start": 244.45,
+      "end": 245.05,
+      "text": "Hora de ir embora."
+    },
+    {
+      "start": 246.27,
+      "end": 247.91,
+      "text": "Agora, capaz que o Juleu vai embora."
+    },
+    {
+      "start": 253.64,
+      "end": 255.04,
+      "text": "Cara, ela tá só na pontinha."
+    },
+    {
+      "start": 255.04,
+      "end": 259.74,
+      "text": "Tá pegadinha na mão."
+    },
+    {
+      "start": 261.59,
+      "end": 262.53,
+      "text": "Eita, infeliz."
+    },
+    {
+      "start": 263.89,
+      "end": 265.51,
+      "text": "Não posso deixar ela afundar agora, ó, tia?"
+    },
+    {
+      "start": 267.58,
+      "end": 268.52,
+      "text": "Não, eu vou comer as pedras."
+    },
+    {
+      "start": 270.16,
+      "end": 271.1,
+      "text": "Deixar ela, assim."
+    },
+    {
+      "start": 272.85,
+      "end": 273.93,
+      "text": "Deixar ela afundar."
+    },
+    {
+      "start": 278.79,
+      "end": 280.35,
+      "text": "Não perde o bicho, pelo amor de Deus."
+    },
+    {
+      "start": 281.12,
+      "end": 281.84,
+      "text": "Não pode nem ver."
+    },
+    {
+      "start": 284.34,
+      "end": 285.12,
+      "text": "Certo, certo."
+    },
+    {
+      "start": 285.5,
+      "end": 286.22,
+      "text": "Não, nem é vazio."
+    },
+    {
+      "start": 298.46,
+      "end": 299.52,
+      "text": "Galo, velho."
+    },
+    {
+      "start": 300.77,
+      "end": 301.53,
+      "text": "É bonita."
+    },
+    {
+      "start": 301.77,
+      "end": 302.97,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 304.44,
+      "end": 305.5,
+      "text": "Oi, ela tava, não tava."
+    },
+    {
+      "start": 305.7,
+      "end": 306.84,
+      "text": "E tava quase pra escapar."
+    },
+    {
+      "start": 308.58,
+      "end": 309.38,
+      "text": "Tranquilha, Guzada."
+    },
+    {
+      "start": 309.54,
+      "end": 311.52,
+      "text": "Não soltava nunca."
+    },
+    {
+      "start": 311.52,
+      "end": 311.98,
+      "text": "Aqui, mas tava."
+    },
+    {
+      "start": 311.98,
+      "end": 312.4,
+      "text": "Filma aí."
+    },
+    {
+      "start": 312.4,
+      "end": 314.08,
+      "text": "Ah, não, engoliu."
+    },
+    {
+      "start": 314.52,
+      "end": 316.58,
+      "text": "Cara, mas o naco do atilápia, cara."
+    },
+    {
+      "start": 317.63,
+      "end": 319.67,
+      "text": "Pegamos assim, aquela senhora, já fizemos quase lá, né?"
+    },
+    {
+      "start": 319.67,
+      "end": 320.67,
+      "text": "Não é só infeliz que tava aí."
+    },
+    {
+      "start": 322.46,
+      "end": 323.96,
+      "text": "Ô, ela não puxou, cara."
+    },
+    {
+      "start": 324.16,
+      "end": 325.44,
+      "text": "É só deixar a linha."
+    },
+    {
+      "start": 326.14,
+      "end": 326.54,
+      "text": "Já tão."
+    },
+    {
+      "start": 327.44,
+      "end": 328.54,
+      "text": "Aí, gorizadinha."
+    },
+    {
+      "start": 329.4,
+      "end": 330.36,
+      "text": "Rio Taquari."
+    },
+    {
+      "start": 331.06,
+      "end": 331.58,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 331.58,
+      "end": 333.78,
+      "text": "Mais uma atilápiazinha."
+    },
+    {
+      "start": 334.1,
+      "end": 335.14,
+      "text": "Esse é o prêmio de hoje."
+    },
+    {
+      "start": 336.03,
+      "end": 336.89,
+      "text": "Olha só, bocute."
+    },
+    {
+      "start": 337.31,
+      "end": 338.07,
+      "text": "Que nem os outros, ó."
+    },
+    {
+      "start": 339.21,
+      "end": 339.91,
+      "text": "Vai pra vida."
+    },
+    {
+      "start": 340.47,
+      "end": 341.25,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 342.05,
+      "end": 343.03,
+      "text": "Olha o tamanho do avião."
+    },
+    {
+      "start": 344.63,
+      "end": 345.35,
+      "text": "Vai pra vida."
+    },
+    {
+      "start": 345.83,
+      "end": 346.51,
+      "text": "Cara, eu tô tremendo."
+    },
+    {
+      "start": 347.17,
+      "end": 348.05,
+      "text": "Larga ela pra água."
+    },
+    {
+      "start": 348.25,
+      "end": 348.65,
+      "text": "Larga."
+    },
+    {
+      "start": 349.45,
+      "end": 351.31,
+      "text": "Pô, coloca naquele meu ali que é mais forte, cara."
+    },
+    {
+      "start": 351.73,
+      "end": 352.47,
+      "text": "É de aço, Clé."
+    },
+    {
+      "start": 352.57,
+      "end": 353.23,
+      "text": "O meu é de aço."
+    },
+    {
+      "start": 353.23,
+      "end": 354.19,
+      "text": "Ô, meu."
+    }
+  ],
+  "duracao_seg": 362.39,
+  "idioma_detectado": "pt"
+}

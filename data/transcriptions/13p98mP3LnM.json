@@ -1,0 +1,37 @@
+{
+  "texto": "E manobra cega. Daniel, por que você usa essa fantasia de pirata? Antes de ontem, eu estava pescando na ceva de um maluco. E o maluco veio e queria me bater. Mas eu, o que foi que deu mesmo? Ele conseguiu.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "E manobra cega."
+    },
+    {
+      "start": 1.74,
+      "end": 3.6,
+      "text": "Daniel, por que você usa essa fantasia de pirata?"
+    },
+    {
+      "start": 5.57,
+      "end": 8.55,
+      "text": "Antes de ontem, eu estava pescando na ceva de um maluco."
+    },
+    {
+      "start": 8.93,
+      "end": 11.57,
+      "text": "E o maluco veio e queria me bater."
+    },
+    {
+      "start": 12.96,
+      "end": 14.04,
+      "text": "Mas eu, o que foi que deu mesmo?"
+    },
+    {
+      "start": 14.12,
+      "end": 14.68,
+      "text": "Ele conseguiu."
+    }
+  ],
+  "duracao_seg": 16.57,
+  "idioma_detectado": "pt"
+}

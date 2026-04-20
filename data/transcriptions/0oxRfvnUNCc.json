@@ -1,0 +1,37 @@
+{
+  "texto": "Cansei de pescar os carazinhos, resolvi usar ele de isca e jogar no lago dos carnívoros Eu só não imaginava a bronca que isso ia me causar Aparentemente era o rei do rio, esse dourado até tentou morder a minha mão Barra de ouro de mais de 10 quilos É um dos peixes mais agressivos da natureza E mais um exemplar capturado com a vara magnus e a carretilha blade tamba",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.38,
+      "text": "Cansei de pescar os carazinhos, resolvi usar ele de isca e jogar no lago dos carnívoros"
+    },
+    {
+      "start": 4.38,
+      "end": 6.68,
+      "text": "Eu só não imaginava a bronca que isso ia me causar"
+    },
+    {
+      "start": 6.68,
+      "end": 9.86,
+      "text": "Aparentemente era o rei do rio, esse dourado até tentou morder a minha mão"
+    },
+    {
+      "start": 9.86,
+      "end": 11.28,
+      "text": "Barra de ouro de mais de 10 quilos"
+    },
+    {
+      "start": 11.28,
+      "end": 13.3,
+      "text": "É um dos peixes mais agressivos da natureza"
+    },
+    {
+      "start": 13.3,
+      "end": 16.66,
+      "text": "E mais um exemplar capturado com a vara magnus e a carretilha blade tamba"
+    }
+  ],
+  "duracao_seg": 16.79,
+  "idioma_detectado": "pt"
+}

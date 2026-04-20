@@ -1,0 +1,37 @@
+{
+  "texto": "Vocês falam que os rios de São Francisco não tem peixe, né? Olha aqui se não tem, ó. Olha aqui, ó. Olha aqui se não tem, ó, gente, ó. Tira o menino de fogo, cara. Ó, mostra aí, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "Vocês falam que os rios de São Francisco não tem peixe, né?"
+    },
+    {
+      "start": 2.66,
+      "end": 3.64,
+      "text": "Olha aqui se não tem, ó."
+    },
+    {
+      "start": 4.12,
+      "end": 5.62,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 7.84,
+      "end": 9.32,
+      "text": "Olha aqui se não tem, ó, gente, ó."
+    },
+    {
+      "start": 11.04,
+      "end": 12.16,
+      "text": "Tira o menino de fogo, cara."
+    },
+    {
+      "start": 12.74,
+      "end": 14.22,
+      "text": "Ó, mostra aí, ó."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

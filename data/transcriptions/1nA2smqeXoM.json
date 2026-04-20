@@ -1,0 +1,27 @@
+{
+  "texto": "Um pedaço de pecado, de corpo colado, vem dançar comigo Quero ser teu namorado, ficar do seu lado e falar corrido Que você é o mais bonito, um pedaço da vida de felicidade Vem matar logo, desejo, faz isso, faqueiro, feliz, verdade, vem",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Um pedaço de pecado, de corpo colado, vem dançar comigo"
+    },
+    {
+      "start": 2.66,
+      "end": 5.76,
+      "text": "Quero ser teu namorado, ficar do seu lado e falar corrido"
+    },
+    {
+      "start": 5.76,
+      "end": 8.98,
+      "text": "Que você é o mais bonito, um pedaço da vida de felicidade"
+    },
+    {
+      "start": 8.98,
+      "end": 12.56,
+      "text": "Vem matar logo, desejo, faz isso, faqueiro, feliz, verdade, vem"
+    }
+  ],
+  "duracao_seg": 12.67,
+  "idioma_detectado": "pt"
+}

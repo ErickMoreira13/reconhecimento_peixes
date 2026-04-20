@@ -1,0 +1,42 @@
+{
+  "texto": "Aô, agora vamos embora Olha Nossa, tá bom Só não deu pra filmar, veio tudo junto, hein Ah, caceta, ota Olha Nossa amiga, ela vinha",
+  "segmentos": [
+    {
+      "start": 0.52,
+      "end": 2.71,
+      "text": "Aô, agora vamos embora"
+    },
+    {
+      "start": 2.71,
+      "end": 3.45,
+      "text": "Olha"
+    },
+    {
+      "start": 3.45,
+      "end": 5.63,
+      "text": "Nossa, tá bom"
+    },
+    {
+      "start": 5.63,
+      "end": 7.39,
+      "text": "Só não deu pra filmar, veio tudo junto, hein"
+    },
+    {
+      "start": 7.39,
+      "end": 10.13,
+      "text": "Ah, caceta, ota"
+    },
+    {
+      "start": 10.13,
+      "end": 10.83,
+      "text": "Olha"
+    },
+    {
+      "start": 10.83,
+      "end": 14.36,
+      "text": "Nossa amiga, ela vinha"
+    }
+  ],
+  "duracao_seg": 15.59,
+  "idioma_detectado": "pt"
+}

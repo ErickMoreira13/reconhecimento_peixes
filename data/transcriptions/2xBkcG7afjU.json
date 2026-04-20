@@ -1,0 +1,22 @@
+{
+  "texto": "Parece um bicho forte, cara. Ah, embarcamos um, então. Olha que máquina.",
+  "segmentos": [
+    {
+      "start": 2.48,
+      "end": 4.02,
+      "text": "Parece um bicho forte, cara."
+    },
+    {
+      "start": 5.14,
+      "end": 6.78,
+      "text": "Ah, embarcamos um, então."
+    },
+    {
+      "start": 8.18,
+      "end": 9.26,
+      "text": "Olha que máquina."
+    }
+  ],
+  "duracao_seg": 14.25,
+  "idioma_detectado": "pt"
+}

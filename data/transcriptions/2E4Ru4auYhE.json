@@ -1,0 +1,32 @@
+{
+  "texto": "o primeiro passo eu boto no litro de pepsi é por aqui sim ó aí pessoal o segundo passo é uma jarrinha dessa de água vocês botam para ferver oi pessoal a água já está no ponto oi pessoal o terceiro passo é botar dentro do litro ele engia desse jeito mas não que a água está quente aí pessoal amanhã de tarde eu vou mostrar pra vocês como é que ficou",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 11.87,
+      "text": "o primeiro passo eu boto no litro de pepsi é por aqui sim ó aí pessoal o segundo"
+    },
+    {
+      "start": 11.87,
+      "end": 20.26,
+      "text": "passo é uma jarrinha dessa de água vocês botam para ferver"
+    },
+    {
+      "start": 20.26,
+      "end": 26.25,
+      "text": "oi pessoal a água já está no ponto oi pessoal o terceiro passo é botar dentro"
+    },
+    {
+      "start": 26.25,
+      "end": 42.86,
+      "text": "do litro ele engia desse jeito mas não que a água está quente"
+    },
+    {
+      "start": 42.86,
+      "end": 47.82,
+      "text": "aí pessoal amanhã de tarde eu vou mostrar pra vocês como é que ficou"
+    }
+  ],
+  "duracao_seg": 46.05,
+  "idioma_detectado": "pt"
+}

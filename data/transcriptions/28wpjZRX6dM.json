@@ -1,0 +1,22 @@
+{
+  "texto": "Algumas, hein? Pegando direitinho. Bastante piaba, hein?",
+  "segmentos": [
+    {
+      "start": 8.11,
+      "end": 9.11,
+      "text": "Algumas, hein?"
+    },
+    {
+      "start": 9.63,
+      "end": 13.08,
+      "text": "Pegando direitinho."
+    },
+    {
+      "start": 15.08,
+      "end": 16.14,
+      "text": "Bastante piaba, hein?"
+    }
+  ],
+  "duracao_seg": 17.99,
+  "idioma_detectado": "pt"
+}

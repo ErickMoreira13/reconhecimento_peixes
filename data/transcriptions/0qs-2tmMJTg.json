@@ -1,0 +1,307 @@
+{
+  "texto": "a lambarinha foi o resultado da pescaria pegou você tá doido meu irmão lambarinha galera anzolzinho e lambarinha pegou coisa linda meu irmão bateu cara o bicho já entrou o bicho tá bonito mesmo só roube deixa eu trazer ele pra cá com força doido anzol lambarinha pegou você tá doido meu irmão bicho maria pode encostar pra cá chega aqui doido bicho lindo a linha chega estrada pode passar gente deixa eu acabar brigando pra cá se você quiser passar pra passar olha isso mas chega pra cá que briga o maior tá saindo e agora você tá doido que amarelo top a linha que é bom que ela correu dá uma folga na linha que ela sai correndo e eu tô com o naré ó hum dá aquela pancada vem com a linha que deu bom assim que eu nem puxo que é o grande vem pra cá vem pra cá vem pra cá doido isso aqui é quase igual a aquele vixe bonito vou jogar já não posso passar pra cá eu tô com o naré o naré vai ficar tá doido não dá nem tempo cara a varinha você tá doida a varinha com bug e aí e aí e aí e aí e aí tá doido não dá nem tempo cara a varinha você tá doido a varinha com o que eu ia passar chegar para cá vai me atrapalhar aí perdeu e aí tá bom ainda entourou a linha pediu o peixe perdeu perdeu perdeu deu perdeu segura ser o resultado da pescaria estou aqui no lambari vivo o outro acabou indo embora com esses aí você quer fazer devolver isso aqui tirei um para levar para comer galera um macho grande vou simbora",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 3.21,
+      "text": "a lambarinha foi o resultado da pescaria"
+    },
+    {
+      "start": 3.21,
+      "end": 8.48,
+      "text": "pegou"
+    },
+    {
+      "start": 8.48,
+      "end": 10.48,
+      "text": "você tá doido meu irmão"
+    },
+    {
+      "start": 10.48,
+      "end": 14.84,
+      "text": "lambarinha galera"
+    },
+    {
+      "start": 14.84,
+      "end": 16.36,
+      "text": "anzolzinho e lambarinha"
+    },
+    {
+      "start": 16.36,
+      "end": 29.67,
+      "text": "pegou"
+    },
+    {
+      "start": 29.67,
+      "end": 31.65,
+      "text": "coisa linda meu irmão"
+    },
+    {
+      "start": 31.65,
+      "end": 36.4,
+      "text": "bateu cara"
+    },
+    {
+      "start": 36.4,
+      "end": 37.62,
+      "text": "o bicho já entrou"
+    },
+    {
+      "start": 37.62,
+      "end": 58.06,
+      "text": "o bicho tá bonito mesmo"
+    },
+    {
+      "start": 58.06,
+      "end": 63.84,
+      "text": "só roube"
+    },
+    {
+      "start": 63.84,
+      "end": 74.7,
+      "text": "deixa eu trazer ele pra cá"
+    },
+    {
+      "start": 74.7,
+      "end": 85.7,
+      "text": "com força doido"
+    },
+    {
+      "start": 85.7,
+      "end": 97.32,
+      "text": "anzol"
+    },
+    {
+      "start": 97.32,
+      "end": 102.52,
+      "text": "lambarinha"
+    },
+    {
+      "start": 102.52,
+      "end": 117.26,
+      "text": "pegou"
+    },
+    {
+      "start": 117.26,
+      "end": 119.12,
+      "text": "você tá doido meu irmão"
+    },
+    {
+      "start": 119.12,
+      "end": 122.69,
+      "text": "bicho maria pode encostar pra cá"
+    },
+    {
+      "start": 122.69,
+      "end": 134.84,
+      "text": "chega aqui doido"
+    },
+    {
+      "start": 134.84,
+      "end": 144.27,
+      "text": "bicho lindo"
+    },
+    {
+      "start": 144.27,
+      "end": 150.08,
+      "text": "a linha chega estrada"
+    },
+    {
+      "start": 150.08,
+      "end": 154.11,
+      "text": "pode passar gente"
+    },
+    {
+      "start": 154.11,
+      "end": 156.54,
+      "text": "deixa eu acabar brigando"
+    },
+    {
+      "start": 156.54,
+      "end": 157.08,
+      "text": "pra cá"
+    },
+    {
+      "start": 157.08,
+      "end": 165.99,
+      "text": "se você quiser passar pra passar"
+    },
+    {
+      "start": 165.99,
+      "end": 191.35,
+      "text": "olha isso"
+    },
+    {
+      "start": 191.35,
+      "end": 217.08,
+      "text": "mas chega pra cá"
+    },
+    {
+      "start": 217.08,
+      "end": 245.74,
+      "text": "que briga"
+    },
+    {
+      "start": 245.74,
+      "end": 261.3,
+      "text": "o maior tá saindo e agora"
+    },
+    {
+      "start": 261.3,
+      "end": 264.8,
+      "text": "você tá doido"
+    },
+    {
+      "start": 264.8,
+      "end": 280.69,
+      "text": "que amarelo top"
+    },
+    {
+      "start": 280.69,
+      "end": 304.71,
+      "text": "a linha"
+    },
+    {
+      "start": 304.71,
+      "end": 305.65,
+      "text": "que é bom"
+    },
+    {
+      "start": 305.65,
+      "end": 306.51,
+      "text": "que ela correu"
+    },
+    {
+      "start": 306.51,
+      "end": 308.86,
+      "text": "dá uma folga na linha que ela sai correndo"
+    },
+    {
+      "start": 308.86,
+      "end": 309.36,
+      "text": "e eu tô com o naré"
+    },
+    {
+      "start": 309.36,
+      "end": 309.48,
+      "text": "ó"
+    },
+    {
+      "start": 309.48,
+      "end": 311.35,
+      "text": "hum"
+    },
+    {
+      "start": 311.35,
+      "end": 313.07,
+      "text": "dá aquela pancada"
+    },
+    {
+      "start": 313.07,
+      "end": 313.95,
+      "text": "vem com a linha que deu bom"
+    },
+    {
+      "start": 313.95,
+      "end": 315.53,
+      "text": "assim que eu nem puxo que é o grande"
+    },
+    {
+      "start": 315.53,
+      "end": 316.07,
+      "text": "vem pra cá"
+    },
+    {
+      "start": 316.07,
+      "end": 335.97,
+      "text": "vem pra cá"
+    },
+    {
+      "start": 335.97,
+      "end": 336.45,
+      "text": "vem pra cá doido"
+    },
+    {
+      "start": 336.45,
+      "end": 362.25,
+      "text": "isso aqui é quase igual a aquele"
+    },
+    {
+      "start": 362.25,
+      "end": 364.36,
+      "text": "vixe bonito"
+    },
+    {
+      "start": 364.36,
+      "end": 369.14,
+      "text": "vou jogar já não posso passar pra cá"
+    },
+    {
+      "start": 369.14,
+      "end": 390.28,
+      "text": "eu tô com o naré"
+    },
+    {
+      "start": 390.28,
+      "end": 390.76,
+      "text": "o naré"
+    },
+    {
+      "start": 390.76,
+      "end": 390.78,
+      "text": "vai ficar"
+    },
+    {
+      "start": 390.78,
+      "end": 397.76,
+      "text": "tá doido"
+    },
+    {
+      "start": 397.76,
+      "end": 416.95,
+      "text": "não dá nem tempo cara"
+    },
+    {
+      "start": 416.95,
+      "end": 417.95,
+      "text": "a varinha"
+    },
+    {
+      "start": 417.95,
+      "end": 427.7,
+      "text": "você tá doida a varinha com bug"
+    },
+    {
+      "start": 427.7,
+      "end": 463.2,
+      "text": "e aí e aí e aí e aí e aí tá doido não dá nem tempo cara a varinha você tá doido a varinha com"
+    },
+    {
+      "start": 463.2,
+      "end": 560.03,
+      "text": "o que eu ia passar chegar para cá vai me atrapalhar aí perdeu e aí tá bom ainda"
+    },
+    {
+      "start": 560.03,
+      "end": 570.12,
+      "text": "entourou a linha pediu o peixe perdeu perdeu perdeu deu perdeu segura ser o resultado da pescaria estou"
+    },
+    {
+      "start": 570.12,
+      "end": 583.77,
+      "text": "aqui no lambari vivo o outro acabou indo embora com esses aí você quer fazer"
+    },
+    {
+      "start": 583.77,
+      "end": 592.97,
+      "text": "devolver isso aqui tirei um para levar para comer galera um macho grande vou"
+    },
+    {
+      "start": 592.97,
+      "end": 594.55,
+      "text": "simbora"
+    }
+  ],
+  "duracao_seg": 600.85,
+  "idioma_detectado": "pt"
+}

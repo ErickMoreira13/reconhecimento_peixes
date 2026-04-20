@@ -1,0 +1,42 @@
+{
+  "texto": "Sou cabrudo Nossa, eu tava bem com a péssima Agora, calma Ó Vai ter saudade Tem ju de morta, tu viu? Show!",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 2.72,
+      "text": "Sou cabrudo"
+    },
+    {
+      "start": 2.72,
+      "end": 7.06,
+      "text": "Nossa, eu tava bem com a péssima"
+    },
+    {
+      "start": 7.06,
+      "end": 9.06,
+      "text": "Agora, calma"
+    },
+    {
+      "start": 9.06,
+      "end": 12.75,
+      "text": "Ó"
+    },
+    {
+      "start": 12.75,
+      "end": 14.75,
+      "text": "Vai ter saudade"
+    },
+    {
+      "start": 14.75,
+      "end": 17.1,
+      "text": "Tem ju de morta, tu viu?"
+    },
+    {
+      "start": 17.1,
+      "end": 19.1,
+      "text": "Show!"
+    }
+  ],
+  "duracao_seg": 17.91,
+  "idioma_detectado": "pt"
+}

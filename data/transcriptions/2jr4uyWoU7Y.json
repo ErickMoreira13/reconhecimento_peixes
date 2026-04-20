@@ -1,0 +1,52 @@
+{
+  "texto": "Aí, olha quem tá aí na rede, minha gente. Pintado, olha que coisa linda. Essa é grandona. Dá pra dar rede aí. Olha que cor linda, minha gente. Pra tirar da rede é a maior complicação. Olha aí. Grandona, minha gente. Eita, que peixe bonito, minha gente.",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 4.26,
+      "text": "Aí, olha quem tá aí na rede, minha gente."
+    },
+    {
+      "start": 5.62,
+      "end": 7.32,
+      "text": "Pintado, olha que coisa linda."
+    },
+    {
+      "start": 8.3,
+      "end": 9.48,
+      "text": "Essa é grandona."
+    },
+    {
+      "start": 10.99,
+      "end": 11.99,
+      "text": "Dá pra dar rede aí."
+    },
+    {
+      "start": 12.94,
+      "end": 15.02,
+      "text": "Olha que cor linda, minha gente."
+    },
+    {
+      "start": 16.8,
+      "end": 19.04,
+      "text": "Pra tirar da rede é a maior complicação."
+    },
+    {
+      "start": 20.1,
+      "end": 20.62,
+      "text": "Olha aí."
+    },
+    {
+      "start": 21.81,
+      "end": 22.91,
+      "text": "Grandona, minha gente."
+    },
+    {
+      "start": 23.83,
+      "end": 26.17,
+      "text": "Eita, que peixe bonito, minha gente."
+    }
+  ],
+  "duracao_seg": 26.73,
+  "idioma_detectado": "pt"
+}

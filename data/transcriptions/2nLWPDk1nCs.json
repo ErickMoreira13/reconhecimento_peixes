@@ -1,0 +1,52 @@
+{
+  "texto": "Aí, deixa eu mostrar para vocês de novo aí, antes de ele ir para a água. Aí, coisa linda. Peixão, peixão. Top demais. Então vamos, vamos para a vida? Vai. Vamos para a vida então. Vai, bicho! Ai, os guris.",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 4.47,
+      "text": "Aí, deixa eu mostrar para vocês de novo aí, antes de ele ir para a água."
+    },
+    {
+      "start": 5.69,
+      "end": 6.61,
+      "text": "Aí, coisa linda."
+    },
+    {
+      "start": 8.72,
+      "end": 9.64,
+      "text": "Peixão, peixão."
+    },
+    {
+      "start": 10.47,
+      "end": 11.27,
+      "text": "Top demais."
+    },
+    {
+      "start": 12.29,
+      "end": 13.17,
+      "text": "Então vamos, vamos para a vida?"
+    },
+    {
+      "start": 13.47,
+      "end": 13.75,
+      "text": "Vai."
+    },
+    {
+      "start": 14.01,
+      "end": 14.73,
+      "text": "Vamos para a vida então."
+    },
+    {
+      "start": 15.35,
+      "end": 16.43,
+      "text": "Vai, bicho!"
+    },
+    {
+      "start": 18.09,
+      "end": 20.49,
+      "text": "Ai, os guris."
+    }
+  ],
+  "duracao_seg": 20.77,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,317 @@
+{
+  "texto": "Bora lá né galerinha Vamos tomar uma pescaria aqui no Rio Tocantins Quem tá ali Meu pai ali, vamos acelerar Vê o que que dá, um riozão aí Vamo que vamo Tamo aqui, não pega nos moelos aí Meu pai pegou um aí Peguei um agora pouco ali Bora ver É grande Não vai na Corvina, cara Corvina Não, barbadinho Barbadinho mesmo Olha aí Barbadinho aí pra Pofrito Olha isso aí Olha aí Tá bom demais Bora ver É a raia e grande Deve ser Rapaz e grande É por isso que tá pesado Vai Bora enrolar A linha tudo aqui Rapaz, isso dá Olha Não foi ela que comeu não Ela Roscou nela Ela passando Puta que parada Agora nós enrolou Tem faca É a faca ali Mas A gente vai bater nesse trem É Só uma coisa o rabo aí É galera Negócio aqui Começou a ventar brabo Aí nós viemos O barraco aqui Ficar esperto É raco que o negócio É fácil não Largo Muito bem Muito largo É uma perurgia Bora esperar passar chuva Tchau Tchau Tchau Tchau Tchau",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Bora lá né galerinha"
+    },
+    {
+      "start": 1.12,
+      "end": 3.62,
+      "text": "Vamos tomar uma pescaria aqui no Rio Tocantins"
+    },
+    {
+      "start": 3.62,
+      "end": 4.4,
+      "text": "Quem tá ali"
+    },
+    {
+      "start": 4.4,
+      "end": 8.15,
+      "text": "Meu pai ali, vamos acelerar"
+    },
+    {
+      "start": 8.15,
+      "end": 9.99,
+      "text": "Vê o que que dá, um riozão aí"
+    },
+    {
+      "start": 9.99,
+      "end": 11.97,
+      "text": "Vamo que vamo"
+    },
+    {
+      "start": 11.97,
+      "end": 31.86,
+      "text": "Tamo aqui, não pega nos moelos aí"
+    },
+    {
+      "start": 31.86,
+      "end": 32.74,
+      "text": "Meu pai pegou um aí"
+    },
+    {
+      "start": 32.74,
+      "end": 35.41,
+      "text": "Peguei um agora pouco ali"
+    },
+    {
+      "start": 35.41,
+      "end": 37.72,
+      "text": "Bora ver"
+    },
+    {
+      "start": 37.72,
+      "end": 42.94,
+      "text": "É grande"
+    },
+    {
+      "start": 42.94,
+      "end": 46.31,
+      "text": "Não vai na"
+    },
+    {
+      "start": 46.31,
+      "end": 47.89,
+      "text": "Corvina, cara"
+    },
+    {
+      "start": 47.89,
+      "end": 48.59,
+      "text": "Corvina"
+    },
+    {
+      "start": 48.59,
+      "end": 51.82,
+      "text": "Não, barbadinho"
+    },
+    {
+      "start": 51.82,
+      "end": 52.9,
+      "text": "Barbadinho mesmo"
+    },
+    {
+      "start": 52.9,
+      "end": 54.47,
+      "text": "Olha aí"
+    },
+    {
+      "start": 54.47,
+      "end": 57.4,
+      "text": "Barbadinho aí pra"
+    },
+    {
+      "start": 57.4,
+      "end": 61.0,
+      "text": "Pofrito"
+    },
+    {
+      "start": 61.0,
+      "end": 62.5,
+      "text": "Olha isso aí"
+    },
+    {
+      "start": 62.5,
+      "end": 63.9,
+      "text": "Olha aí"
+    },
+    {
+      "start": 63.9,
+      "end": 65.72,
+      "text": "Tá bom demais"
+    },
+    {
+      "start": 65.72,
+      "end": 69.08,
+      "text": "Bora ver"
+    },
+    {
+      "start": 69.08,
+      "end": 73.04,
+      "text": "É a raia e grande"
+    },
+    {
+      "start": 73.04,
+      "end": 73.64,
+      "text": "Deve ser"
+    },
+    {
+      "start": 73.64,
+      "end": 80.83,
+      "text": "Rapaz e grande"
+    },
+    {
+      "start": 80.83,
+      "end": 82.86,
+      "text": "É por isso que tá pesado"
+    },
+    {
+      "start": 82.86,
+      "end": 83.14,
+      "text": "Vai"
+    },
+    {
+      "start": 83.14,
+      "end": 87.08,
+      "text": "Bora enrolar"
+    },
+    {
+      "start": 87.08,
+      "end": 93.14,
+      "text": "A linha tudo aqui"
+    },
+    {
+      "start": 93.14,
+      "end": 94.3,
+      "text": "Rapaz, isso dá"
+    },
+    {
+      "start": 94.3,
+      "end": 94.62,
+      "text": "Olha"
+    },
+    {
+      "start": 94.62,
+      "end": 96.48,
+      "text": "Não foi ela que comeu não"
+    },
+    {
+      "start": 96.48,
+      "end": 96.62,
+      "text": "Ela"
+    },
+    {
+      "start": 96.62,
+      "end": 97.86,
+      "text": "Roscou nela"
+    },
+    {
+      "start": 97.86,
+      "end": 98.64,
+      "text": "Ela passando"
+    },
+    {
+      "start": 98.64,
+      "end": 101.1,
+      "text": "Puta que parada"
+    },
+    {
+      "start": 101.1,
+      "end": 102.08,
+      "text": "Agora nós enrolou"
+    },
+    {
+      "start": 102.08,
+      "end": 102.9,
+      "text": "Tem faca"
+    },
+    {
+      "start": 102.9,
+      "end": 105.49,
+      "text": "É a faca ali"
+    },
+    {
+      "start": 105.49,
+      "end": 105.73,
+      "text": "Mas"
+    },
+    {
+      "start": 105.73,
+      "end": 108.53,
+      "text": "A gente vai bater nesse trem"
+    },
+    {
+      "start": 108.53,
+      "end": 108.97,
+      "text": "É"
+    },
+    {
+      "start": 108.97,
+      "end": 110.19,
+      "text": "Só uma coisa o rabo aí"
+    },
+    {
+      "start": 110.19,
+      "end": 112.7,
+      "text": "É galera"
+    },
+    {
+      "start": 112.7,
+      "end": 114.99,
+      "text": "Negócio aqui"
+    },
+    {
+      "start": 114.99,
+      "end": 116.31,
+      "text": "Começou a ventar brabo"
+    },
+    {
+      "start": 116.31,
+      "end": 116.81,
+      "text": "Aí nós viemos"
+    },
+    {
+      "start": 116.81,
+      "end": 118.03,
+      "text": "O barraco aqui"
+    },
+    {
+      "start": 118.03,
+      "end": 120.58,
+      "text": "Ficar esperto"
+    },
+    {
+      "start": 120.58,
+      "end": 121.62,
+      "text": "É raco que o negócio"
+    },
+    {
+      "start": 121.62,
+      "end": 122.34,
+      "text": "É fácil não"
+    },
+    {
+      "start": 122.34,
+      "end": 122.76,
+      "text": "Largo"
+    },
+    {
+      "start": 122.76,
+      "end": 123.2,
+      "text": "Muito bem"
+    },
+    {
+      "start": 123.2,
+      "end": 123.8,
+      "text": "Muito largo"
+    },
+    {
+      "start": 123.8,
+      "end": 124.96,
+      "text": "É uma perurgia"
+    },
+    {
+      "start": 124.96,
+      "end": 127.05,
+      "text": "Bora esperar passar chuva"
+    },
+    {
+      "start": 127.05,
+      "end": 127.85,
+      "text": "Tchau"
+    },
+    {
+      "start": 127.85,
+      "end": 128.49,
+      "text": "Tchau"
+    },
+    {
+      "start": 128.49,
+      "end": 128.59,
+      "text": "Tchau"
+    },
+    {
+      "start": 128.59,
+      "end": 129.01,
+      "text": "Tchau"
+    },
+    {
+      "start": 129.01,
+      "end": 129.95,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 127.09,
+  "idioma_detectado": "pt"
+}

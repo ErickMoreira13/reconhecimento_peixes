@@ -1,0 +1,132 @@
+{
+  "texto": "Que sensacional! Pescar na seca assim, ó! Ai! O que aconteceu aí, Gilberto? Pensa numa confusão que eu arrumei aqui, viu? Olha só! Filma lá, irmão! Filma lá! Olha o cardume de peixe estourando! Peixe lindo, peixe lindo! Faleu a pena vir pra seca? Nossa! Aí, ó! Tu viu o caindo aqui na hora que ele bateu? Tá bem agarrado aí! Caramba! Vai ficar falta de vida aqui na graminha! Sensacional! Olha ali, ó! Seu cura! Seu cura! Tá pego! Uh! No! Olha aí! Olha aí, meu pai! Meu cura, velho! Meu! Nossa!",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 3.02,
+      "text": "Que sensacional! Pescar na seca assim, ó!"
+    },
+    {
+      "start": 3.02,
+      "end": 5.42,
+      "text": "Ai!"
+    },
+    {
+      "start": 5.42,
+      "end": 8.35,
+      "text": "O que aconteceu aí, Gilberto?"
+    },
+    {
+      "start": 8.35,
+      "end": 11.35,
+      "text": "Pensa numa confusão que eu arrumei aqui, viu?"
+    },
+    {
+      "start": 11.35,
+      "end": 14.35,
+      "text": "Olha só! Filma lá, irmão! Filma lá!"
+    },
+    {
+      "start": 14.35,
+      "end": 16.35,
+      "text": "Olha o cardume de peixe estourando!"
+    },
+    {
+      "start": 16.35,
+      "end": 18.99,
+      "text": "Peixe lindo, peixe lindo!"
+    },
+    {
+      "start": 18.99,
+      "end": 19.99,
+      "text": "Faleu a pena vir pra seca?"
+    },
+    {
+      "start": 19.99,
+      "end": 20.99,
+      "text": "Nossa!"
+    },
+    {
+      "start": 20.99,
+      "end": 28.76,
+      "text": "Aí, ó! Tu viu o caindo aqui na hora que ele bateu?"
+    },
+    {
+      "start": 28.76,
+      "end": 29.76,
+      "text": "Tá bem agarrado aí!"
+    },
+    {
+      "start": 29.76,
+      "end": 33.81,
+      "text": "Caramba!"
+    },
+    {
+      "start": 33.81,
+      "end": 37.81,
+      "text": "Vai ficar falta de vida aqui na graminha!"
+    },
+    {
+      "start": 37.81,
+      "end": 39.9,
+      "text": "Sensacional!"
+    },
+    {
+      "start": 39.9,
+      "end": 42.06,
+      "text": "Olha ali, ó!"
+    },
+    {
+      "start": 42.06,
+      "end": 43.7,
+      "text": "Seu cura!"
+    },
+    {
+      "start": 43.7,
+      "end": 44.7,
+      "text": "Seu cura!"
+    },
+    {
+      "start": 44.7,
+      "end": 45.7,
+      "text": "Tá pego!"
+    },
+    {
+      "start": 45.7,
+      "end": 46.7,
+      "text": "Uh!"
+    },
+    {
+      "start": 46.7,
+      "end": 47.7,
+      "text": "No!"
+    },
+    {
+      "start": 47.7,
+      "end": 49.7,
+      "text": "Olha aí!"
+    },
+    {
+      "start": 49.7,
+      "end": 52.7,
+      "text": "Olha aí, meu pai!"
+    },
+    {
+      "start": 52.7,
+      "end": 54.7,
+      "text": "Meu cura, velho!"
+    },
+    {
+      "start": 54.7,
+      "end": 56.7,
+      "text": "Meu!"
+    },
+    {
+      "start": 56.7,
+      "end": 58.7,
+      "text": "Nossa!"
+    }
+  ],
+  "duracao_seg": 59.01,
+  "idioma_detectado": "pt"
+}

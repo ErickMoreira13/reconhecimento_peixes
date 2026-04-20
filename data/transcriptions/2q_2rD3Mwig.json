@@ -1,0 +1,22 @@
+{
+  "texto": "Favela do Betrajado e o bolso com dinheiro Tu foi parceiro, nós atividade menor de comunidade Se tentar pegar meu lado eu...",
+  "segmentos": [
+    {
+      "start": 1.17,
+      "end": 3.95,
+      "text": "Favela do Betrajado e o bolso com dinheiro"
+    },
+    {
+      "start": 3.95,
+      "end": 9.86,
+      "text": "Tu foi parceiro, nós atividade menor de comunidade"
+    },
+    {
+      "start": 9.86,
+      "end": 11.46,
+      "text": "Se tentar pegar meu lado eu..."
+    }
+  ],
+  "duracao_seg": 11.47,
+  "idioma_detectado": "pt"
+}

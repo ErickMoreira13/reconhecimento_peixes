@@ -1,0 +1,37 @@
+{
+  "texto": "Iguaçuzão tá bombando. É um mar. Tudo alagado. E abracei meu velho pai, ao despedir chora os refrigos, não vem chora quem se vai. Achei o rio. Fiquei na espora o meu...",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 2.84,
+      "text": "Iguaçuzão tá bombando."
+    },
+    {
+      "start": 4.29,
+      "end": 4.81,
+      "text": "É um mar."
+    },
+    {
+      "start": 18.94,
+      "end": 20.34,
+      "text": "Tudo alagado."
+    },
+    {
+      "start": 31.68,
+      "end": 42.94,
+      "text": "E abracei meu velho pai, ao despedir chora os refrigos, não vem chora quem se vai."
+    },
+    {
+      "start": 45.75,
+      "end": 46.47,
+      "text": "Achei o rio."
+    },
+    {
+      "start": 46.47,
+      "end": 49.47,
+      "text": "Fiquei na espora o meu..."
+    }
+  ],
+  "duracao_seg": 53.23,
+  "idioma_detectado": "pt"
+}

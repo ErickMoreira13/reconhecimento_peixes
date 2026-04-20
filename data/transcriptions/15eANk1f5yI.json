@@ -1,0 +1,22 @@
+{
+  "texto": "Tamo aí pra você que fala que Cascavel não anda no meio do rio, ó Ó o tamanho da bicha, ó Cascavel no meio do Tietê, ó",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Tamo aí pra você que fala que Cascavel não anda no meio do rio, ó"
+    },
+    {
+      "start": 3.9,
+      "end": 6.59,
+      "text": "Ó o tamanho da bicha, ó"
+    },
+    {
+      "start": 6.59,
+      "end": 14.91,
+      "text": "Cascavel no meio do Tietê, ó"
+    }
+  ],
+  "duracao_seg": 14.97,
+  "idioma_detectado": "pt"
+}

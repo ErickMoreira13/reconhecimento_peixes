@@ -1,0 +1,192 @@
+{
+  "texto": "Grande, né? Mas, este marinho, olha só, mano. Pegou bonito. Descai. Ali, meu pai. Ali, meu pai. Está quase lá em terra. Olha só, mano. Vai arrastando a canoa aí, ó. Outro peixe. Quase lá em terra. Pô, meteu mesmo no pé aqui. Como é que está no pé? Está no pé aqui, ó. Está levando a canoa. Olha só a onda do bicho aí, ó. O peixe é grande. Só rebuja, hein. Olha só. Estou canarezão aí, ó. Você é mostro. Levanta ele, meu pai. Levanta aí. Para cá. Estou fazendo a canoa aí, ó. Soltamos. Olha só o tamanho, moçada. Esse bicho. Esse é grande. Dá o like lá. Curte a gente lá no canal. Tchau. Tchau. Tchau. Tchau. Tchau. Tchau.",
+  "segmentos": [
+    {
+      "start": 2.99,
+      "end": 5.64,
+      "text": "Grande, né?"
+    },
+    {
+      "start": 15.27,
+      "end": 17.23,
+      "text": "Mas, este marinho, olha só, mano."
+    },
+    {
+      "start": 19.19,
+      "end": 19.77,
+      "text": "Pegou bonito."
+    },
+    {
+      "start": 20.11,
+      "end": 20.45,
+      "text": "Descai."
+    },
+    {
+      "start": 27.72,
+      "end": 28.16,
+      "text": "Ali, meu pai."
+    },
+    {
+      "start": 28.32,
+      "end": 28.78,
+      "text": "Ali, meu pai."
+    },
+    {
+      "start": 42.83,
+      "end": 56.14,
+      "text": "Está quase lá em terra."
+    },
+    {
+      "start": 58.03,
+      "end": 58.69,
+      "text": "Olha só, mano."
+    },
+    {
+      "start": 58.73,
+      "end": 59.87,
+      "text": "Vai arrastando a canoa aí, ó."
+    },
+    {
+      "start": 60.29,
+      "end": 61.05,
+      "text": "Outro peixe."
+    },
+    {
+      "start": 63.14,
+      "end": 63.88,
+      "text": "Quase lá em terra."
+    },
+    {
+      "start": 64.24,
+      "end": 65.18,
+      "text": "Pô, meteu mesmo no pé aqui."
+    },
+    {
+      "start": 66.59,
+      "end": 67.29,
+      "text": "Como é que está no pé?"
+    },
+    {
+      "start": 67.29,
+      "end": 75.01,
+      "text": "Está no pé aqui, ó."
+    },
+    {
+      "start": 75.61,
+      "end": 76.71,
+      "text": "Está levando a canoa."
+    },
+    {
+      "start": 86.52,
+      "end": 87.68,
+      "text": "Olha só a onda do bicho aí, ó."
+    },
+    {
+      "start": 101.33,
+      "end": 101.93,
+      "text": "O peixe é grande."
+    },
+    {
+      "start": 101.93,
+      "end": 108.28,
+      "text": "Só rebuja, hein."
+    },
+    {
+      "start": 111.26,
+      "end": 111.82,
+      "text": "Olha só."
+    },
+    {
+      "start": 114.44,
+      "end": 115.72,
+      "text": "Estou canarezão aí, ó."
+    },
+    {
+      "start": 116.99,
+      "end": 117.61,
+      "text": "Você é mostro."
+    },
+    {
+      "start": 121.06,
+      "end": 121.7,
+      "text": "Levanta ele, meu pai."
+    },
+    {
+      "start": 122.4,
+      "end": 122.86,
+      "text": "Levanta aí."
+    },
+    {
+      "start": 123.65,
+      "end": 124.05,
+      "text": "Para cá."
+    },
+    {
+      "start": 124.27,
+      "end": 124.95,
+      "text": "Estou fazendo a canoa aí, ó."
+    },
+    {
+      "start": 127.86,
+      "end": 128.3,
+      "text": "Soltamos."
+    },
+    {
+      "start": 128.36,
+      "end": 129.58,
+      "text": "Olha só o tamanho, moçada."
+    },
+    {
+      "start": 130.1,
+      "end": 130.6,
+      "text": "Esse bicho."
+    },
+    {
+      "start": 131.67,
+      "end": 132.51,
+      "text": "Esse é grande."
+    },
+    {
+      "start": 135.67,
+      "end": 136.35,
+      "text": "Dá o like lá."
+    },
+    {
+      "start": 137.33,
+      "end": 138.67,
+      "text": "Curte a gente lá no canal."
+    },
+    {
+      "start": 138.67,
+      "end": 139.31,
+      "text": "Tchau."
+    },
+    {
+      "start": 139.31,
+      "end": 140.31,
+      "text": "Tchau."
+    },
+    {
+      "start": 140.31,
+      "end": 141.31,
+      "text": "Tchau."
+    },
+    {
+      "start": 141.31,
+      "end": 142.31,
+      "text": "Tchau."
+    },
+    {
+      "start": 142.31,
+      "end": 143.31,
+      "text": "Tchau."
+    },
+    {
+      "start": 143.31,
+      "end": 144.31,
+      "text": "Tchau."
+    }
+  ],
+  "duracao_seg": 140.49,
+  "idioma_detectado": "pt"
+}

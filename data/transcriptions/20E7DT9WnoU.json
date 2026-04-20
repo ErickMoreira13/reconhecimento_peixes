@@ -1,0 +1,37 @@
+{
+  "texto": "Fala meus amigos pescadores, beleza? Tá vendo aqui? Isso aqui é a ração de coelho, né? Então é o meu colega aqui, a gente tem que fazer uma pescaria aqui nesse lugar aqui, ó E essa ração de coelho aqui tem uns 4 dias Que eu moei ela, coloquei dentro de uma sacola E larguei pra ela pegar um cheiro bem forte",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Fala meus amigos pescadores, beleza?"
+    },
+    {
+      "start": 1.7,
+      "end": 3.36,
+      "text": "Tá vendo aqui? Isso aqui é a ração de coelho, né?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.88,
+      "text": "Então é o meu colega aqui, a gente tem que fazer uma pescaria aqui nesse lugar aqui, ó"
+    },
+    {
+      "start": 6.88,
+      "end": 10.16,
+      "text": "E essa ração de coelho aqui tem uns 4 dias"
+    },
+    {
+      "start": 10.16,
+      "end": 12.64,
+      "text": "Que eu moei ela, coloquei dentro de uma sacola"
+    },
+    {
+      "start": 12.64,
+      "end": 15.0,
+      "text": "E larguei pra ela pegar um cheiro bem forte"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

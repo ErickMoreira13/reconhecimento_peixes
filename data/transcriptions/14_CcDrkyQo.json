@@ -1,0 +1,292 @@
+{
+  "texto": "pegou um trem bom aqui é bruto demais é bruto demais do barco justamente agora pula pula pula esse é um dos maiores que eu já vi que eu já vi é muito muito muito muito muito grande olha o tamanho tá louco inacreditável pirandirá tem mais 10 kg esse tem mais de 10 coisa linda eu já vi pirandirá grande mas este bora pra margem ainda tem força rapaz chega chega de brincadeira olha o tamanho desse peixe olha o tamanho olha o tamanho vamos ver seu tamanho pirandirá vamos lá nossa senhora vamos ver seu tamanho meu amigo olha isso encostadinho lá 94 cm o tamanho do bicho vamos lá água que você merece descansa filhão tá quase querendo ir vai conseguir vai simbora vai simbora pirandirá vai simbora meu amigo coisa linda lindo lindo lindo lindo lindo e que que que que que rapaz nossa senhora que porrada meu amigo caramba que que isso coisa linda quei me matar do coração rapaz tava esperando não primeiro peixe no falcon mexe no palco mas tu tá gordo em velho que lindo lindo lindo lindo tava aqui despretensioso calma calma calma ainda me arrumando aprendendo a mexer no bicho aqui cá vem garotão calma mas tá bom bonito demais",
+  "segmentos": [
+    {
+      "start": 9.04,
+      "end": 11.9,
+      "text": "pegou"
+    },
+    {
+      "start": 11.9,
+      "end": 13.97,
+      "text": "um trem bom aqui"
+    },
+    {
+      "start": 29.07,
+      "end": 31.07,
+      "text": "é bruto"
+    },
+    {
+      "start": 31.07,
+      "end": 33.07,
+      "text": "demais"
+    },
+    {
+      "start": 33.07,
+      "end": 44.77,
+      "text": "é bruto"
+    },
+    {
+      "start": 44.77,
+      "end": 46.77,
+      "text": "demais"
+    },
+    {
+      "start": 46.96,
+      "end": 48.96,
+      "text": "do barco justamente agora"
+    },
+    {
+      "start": 48.96,
+      "end": 64.66,
+      "text": "pula pula pula"
+    },
+    {
+      "start": 64.66,
+      "end": 84.74,
+      "text": "esse é um dos maiores que eu já vi"
+    },
+    {
+      "start": 84.74,
+      "end": 88.21,
+      "text": "que eu já vi"
+    },
+    {
+      "start": 88.21,
+      "end": 90.21,
+      "text": "é muito muito muito muito muito grande"
+    },
+    {
+      "start": 90.21,
+      "end": 99.41,
+      "text": "olha o tamanho"
+    },
+    {
+      "start": 99.41,
+      "end": 113.34,
+      "text": "tá louco"
+    },
+    {
+      "start": 113.34,
+      "end": 130.26,
+      "text": "inacreditável"
+    },
+    {
+      "start": 130.26,
+      "end": 135.52,
+      "text": "pirandirá tem mais 10 kg"
+    },
+    {
+      "start": 135.52,
+      "end": 141.78,
+      "text": "esse tem mais de 10"
+    },
+    {
+      "start": 141.78,
+      "end": 175.65,
+      "text": "coisa linda"
+    },
+    {
+      "start": 175.65,
+      "end": 177.65,
+      "text": "eu já vi pirandirá grande mas este"
+    },
+    {
+      "start": 186.51,
+      "end": 205.22,
+      "text": "bora pra margem"
+    },
+    {
+      "start": 205.22,
+      "end": 207.86,
+      "text": "ainda tem força rapaz"
+    },
+    {
+      "start": 207.86,
+      "end": 211.3,
+      "text": "chega"
+    },
+    {
+      "start": 211.3,
+      "end": 217.62,
+      "text": "chega de brincadeira"
+    },
+    {
+      "start": 217.62,
+      "end": 235.87,
+      "text": "olha o tamanho desse peixe"
+    },
+    {
+      "start": 235.87,
+      "end": 238.42,
+      "text": "olha o tamanho"
+    },
+    {
+      "start": 238.42,
+      "end": 251.01,
+      "text": "olha o tamanho"
+    },
+    {
+      "start": 251.01,
+      "end": 253.68,
+      "text": "vamos ver seu tamanho"
+    },
+    {
+      "start": 253.68,
+      "end": 256.58,
+      "text": "pirandirá"
+    },
+    {
+      "start": 256.58,
+      "end": 258.99,
+      "text": "vamos lá"
+    },
+    {
+      "start": 258.99,
+      "end": 264.1,
+      "text": "nossa senhora"
+    },
+    {
+      "start": 264.1,
+      "end": 266.1,
+      "text": "vamos ver seu tamanho meu amigo"
+    },
+    {
+      "start": 266.1,
+      "end": 268.13,
+      "text": "olha isso"
+    },
+    {
+      "start": 268.13,
+      "end": 271.5,
+      "text": "encostadinho lá"
+    },
+    {
+      "start": 271.5,
+      "end": 276.48,
+      "text": "94 cm"
+    },
+    {
+      "start": 276.48,
+      "end": 282.38,
+      "text": "o tamanho do bicho"
+    },
+    {
+      "start": 282.38,
+      "end": 284.51,
+      "text": "vamos lá"
+    },
+    {
+      "start": 284.51,
+      "end": 288.3,
+      "text": "água que você merece"
+    },
+    {
+      "start": 288.3,
+      "end": 293.47,
+      "text": "descansa filhão"
+    },
+    {
+      "start": 293.47,
+      "end": 304.53,
+      "text": "tá quase querendo ir"
+    },
+    {
+      "start": 304.53,
+      "end": 311.71,
+      "text": "vai conseguir"
+    },
+    {
+      "start": 311.71,
+      "end": 313.71,
+      "text": "vai simbora"
+    },
+    {
+      "start": 313.71,
+      "end": 315.9,
+      "text": "vai simbora pirandirá"
+    },
+    {
+      "start": 315.9,
+      "end": 318.19,
+      "text": "vai simbora meu amigo"
+    },
+    {
+      "start": 318.19,
+      "end": 323.01,
+      "text": "coisa linda"
+    },
+    {
+      "start": 323.01,
+      "end": 334.74,
+      "text": "lindo lindo lindo lindo lindo"
+    },
+    {
+      "start": 334.74,
+      "end": 336.74,
+      "text": "e que que que que que"
+    },
+    {
+      "start": 336.74,
+      "end": 385.71,
+      "text": "rapaz"
+    },
+    {
+      "start": 385.71,
+      "end": 386.71,
+      "text": "nossa senhora"
+    },
+    {
+      "start": 386.71,
+      "end": 387.71,
+      "text": "que porrada meu amigo"
+    },
+    {
+      "start": 387.71,
+      "end": 390.16,
+      "text": "caramba"
+    },
+    {
+      "start": 390.16,
+      "end": 397.06,
+      "text": "que que isso"
+    },
+    {
+      "start": 397.06,
+      "end": 399.41,
+      "text": "coisa linda"
+    },
+    {
+      "start": 399.41,
+      "end": 401.41,
+      "text": "quei me matar do coração rapaz"
+    },
+    {
+      "start": 401.41,
+      "end": 403.57,
+      "text": "tava esperando não"
+    },
+    {
+      "start": 403.57,
+      "end": 406.75,
+      "text": "primeiro peixe no falcon"
+    },
+    {
+      "start": 406.75,
+      "end": 423.14,
+      "text": "mexe no palco mas tu tá gordo em velho que lindo lindo lindo lindo tava aqui"
+    },
+    {
+      "start": 423.14,
+      "end": 434.42,
+      "text": "despretensioso calma calma calma ainda me arrumando aprendendo a mexer no bicho"
+    },
+    {
+      "start": 434.42,
+      "end": 455.75,
+      "text": "aqui cá vem garotão calma mas tá bom bonito demais"
+    }
+  ],
+  "duracao_seg": 476.63,
+  "idioma_detectado": "pt"
+}

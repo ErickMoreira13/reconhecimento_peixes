@@ -1,0 +1,17 @@
+{
+  "texto": "Seguinte, meus amigos, dessa vez vai ser esse cara aqui, ó, o cara da vez, ó, que eu vou, tá? Vivo, tem que ser vivo, ó, vou passar nas costas aqui dele, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "Seguinte, meus amigos, dessa vez vai ser esse cara aqui, ó, o cara da vez, ó, que eu vou, tá?"
+    },
+    {
+      "start": 7.6,
+      "end": 11.94,
+      "text": "Vivo, tem que ser vivo, ó, vou passar nas costas aqui dele, ó."
+    }
+  ],
+  "duracao_seg": 13.83,
+  "idioma_detectado": "pt"
+}

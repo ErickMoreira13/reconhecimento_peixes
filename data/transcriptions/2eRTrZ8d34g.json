@@ -1,0 +1,22 @@
+{
+  "texto": "quer a ajuda do passaguá demora se encansar não dá nem no dedo do passaguá posso virar assim agora só que aquela era maior",
+  "segmentos": [
+    {
+      "start": 1.97,
+      "end": 40.76,
+      "text": "quer a ajuda do passaguá demora se encansar"
+    },
+    {
+      "start": 40.76,
+      "end": 87.1,
+      "text": "não dá nem no dedo do passaguá posso virar assim agora"
+    },
+    {
+      "start": 87.1,
+      "end": 126.59,
+      "text": "só que aquela era maior"
+    }
+  ],
+  "duracao_seg": 128.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Fala pescador, hoje a gente vai apresentar um sistema para carpa. Carpa, bolinhas de EVA. Aqui você vai utilizar stop para anzol, anzol chinu número 7 ou da sua preferência e as brocas para o EVA. A montagem então é a seguinte. Ficou pronto o sistema das carpas.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "Fala pescador, hoje a gente vai apresentar um sistema para carpa."
+    },
+    {
+      "start": 3.26,
+      "end": 5.56,
+      "text": "Carpa, bolinhas de EVA."
+    },
+    {
+      "start": 8.28,
+      "end": 14.46,
+      "text": "Aqui você vai utilizar stop para anzol, anzol chinu número 7 ou da sua preferência"
+    },
+    {
+      "start": 14.46,
+      "end": 16.9,
+      "text": "e as brocas para o EVA."
+    },
+    {
+      "start": 17.4,
+      "end": 18.34,
+      "text": "A montagem então é a seguinte."
+    },
+    {
+      "start": 31.56,
+      "end": 33.68,
+      "text": "Ficou pronto o sistema das carpas."
+    }
+  ],
+  "duracao_seg": 34.67,
+  "idioma_detectado": "pt"
+}
