@@ -6,7 +6,7 @@ from dataclasses import asdict
 from pathlib import Path
 from src.utils.tempo import agora_iso, agora_compact
 
-from src import config, ui
+from src import ascii_art, config, ui
 from src.harvester import youtube as yt
 from src.transcriber import whisper_turbo as wt
 from src.extracao import qwen_extrator, gliner_client
@@ -324,6 +324,7 @@ def cmd_exportar(args):
 
 
 def cmd_status(args):
+    print(ascii_art.banner_projeto())
     rows = storage.contagem_por_status()
     if not rows:
         ui.aviso("db vazio, ainda nao rodou 'buscar'")
