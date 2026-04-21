@@ -1,0 +1,32 @@
+{
+  "texto": "Essa montagem aqui, ó. Como é que é bem raso, aí eu tô nessa montagem aqui, tá vendo, ó? Fireshed, sem nenhum chumbo, nada, né? Não usou offset. Três barra zero, tá bom? Aí, ó. Bora lá.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "text": "Essa montagem aqui, ó. Como é que é bem raso, aí eu tô nessa montagem aqui, tá vendo, ó?"
+    },
+    {
+      "start": 5.18,
+      "end": 7.78,
+      "text": "Fireshed, sem nenhum chumbo, nada, né?"
+    },
+    {
+      "start": 8.26,
+      "end": 8.98,
+      "text": "Não usou offset."
+    },
+    {
+      "start": 10.32,
+      "end": 11.26,
+      "text": "Três barra zero, tá bom?"
+    },
+    {
+      "start": 12.04,
+      "end": 12.86,
+      "text": "Aí, ó. Bora lá."
+    }
+  ],
+  "duracao_seg": 13.15,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Será que nesse raseiro tem alguma coisa? Sal, prato.",
+  "segmentos": [
+    {
+      "start": 3.18,
+      "end": 4.74,
+      "text": "Será que nesse raseiro tem alguma coisa?"
+    },
+    {
+      "start": 11.11,
+      "end": 11.93,
+      "text": "Sal, prato."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Quer ver uma hora ruim na vida do cara? Isso aí, ó, pau Tô mandando aí no grupo e vocês veem, ó Hora sofrida na vida",
+  "segmentos": [
+    {
+      "start": 1.14,
+      "end": 3.52,
+      "text": "Quer ver uma hora ruim na vida do cara?"
+    },
+    {
+      "start": 3.7,
+      "end": 4.48,
+      "text": "Isso aí, ó, pau"
+    },
+    {
+      "start": 4.48,
+      "end": 9.02,
+      "text": "Tô mandando aí no grupo e vocês veem, ó"
+    },
+    {
+      "start": 9.02,
+      "end": 12.89,
+      "text": "Hora sofrida na vida"
+    }
+  ],
+  "duracao_seg": 32.35,
+  "idioma_detectado": "pt"
+}

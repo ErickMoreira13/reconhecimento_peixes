@@ -1,0 +1,22 @@
+{
+  "texto": "Minha gente, observem a nova forma que estão utilizando os chinos para agarrar o camarão. Miren isso, aí o jala por lobosso e miren como agarrou esse camarão. Wow!",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 5.42,
+      "text": "Minha gente, observem a nova forma que estão utilizando os chinos para agarrar o camarão."
+    },
+    {
+      "start": 5.54,
+      "end": 10.06,
+      "text": "Miren isso, aí o jala por lobosso e miren como agarrou esse camarão."
+    },
+    {
+      "start": 10.22,
+      "end": 10.46,
+      "text": "Wow!"
+    }
+  ],
+  "duracao_seg": 10.87,
+  "idioma_detectado": "pt"
+}

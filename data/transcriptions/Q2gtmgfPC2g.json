@@ -1,0 +1,22 @@
+{
+  "texto": "Hahahaha Ah... Hmm... Hahahaha",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.89,
+      "text": "Hahahaha"
+    },
+    {
+      "start": 3.89,
+      "end": 6.02,
+      "text": "Ah... Hmm..."
+    },
+    {
+      "start": 6.02,
+      "end": 8.02,
+      "text": "Hahahaha"
+    }
+  ],
+  "duracao_seg": 8.57,
+  "idioma_detectado": "pt"
+}

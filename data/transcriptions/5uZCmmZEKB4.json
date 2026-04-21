@@ -1,0 +1,22 @@
+{
+  "texto": "Aí eu tenho uma. Uma grande avenida atrás dessa. Aí está, uma pequena.",
+  "segmentos": [
+    {
+      "start": 3.5,
+      "end": 6.56,
+      "text": "Aí eu tenho uma."
+    },
+    {
+      "start": 6.56,
+      "end": 10.33,
+      "text": "Uma grande avenida atrás dessa."
+    },
+    {
+      "start": 10.33,
+      "end": 12.83,
+      "text": "Aí está, uma pequena."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

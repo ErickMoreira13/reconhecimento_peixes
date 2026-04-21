@@ -1,0 +1,42 @@
+{
+  "texto": "A isca que garante um peixe de couro atrás do outro. Foram mais de 30 pintados numa única tarde aqui no Vale Verde. Esqueça a salsicha que o segredo tá na minhoca. Pode caprichar na pelota de minhoca e faz um arremesso 3 ou 4 metros do barranco. Você com certeza vai pegar muito pintado na Arena CBP aqui no Vale Verde. E era tanta ação de peixe que uma hora a gente até cansou de pescar. O Vale Verde é o lugar ideal pra você de Curitiba e região fazer aquela pescaria no inverno.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "A isca que garante um peixe de couro atrás do outro."
+    },
+    {
+      "start": 2.52,
+      "end": 5.66,
+      "text": "Foram mais de 30 pintados numa única tarde aqui no Vale Verde."
+    },
+    {
+      "start": 5.74,
+      "end": 7.68,
+      "text": "Esqueça a salsicha que o segredo tá na minhoca."
+    },
+    {
+      "start": 7.74,
+      "end": 11.4,
+      "text": "Pode caprichar na pelota de minhoca e faz um arremesso 3 ou 4 metros do barranco."
+    },
+    {
+      "start": 11.44,
+      "end": 15.02,
+      "text": "Você com certeza vai pegar muito pintado na Arena CBP aqui no Vale Verde."
+    },
+    {
+      "start": 15.04,
+      "end": 18.04,
+      "text": "E era tanta ação de peixe que uma hora a gente até cansou de pescar."
+    },
+    {
+      "start": 18.1,
+      "end": 22.04,
+      "text": "O Vale Verde é o lugar ideal pra você de Curitiba e região fazer aquela pescaria no inverno."
+    }
+  ],
+  "duracao_seg": 22.21,
+  "idioma_detectado": "pt"
+}
