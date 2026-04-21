@@ -1,0 +1,37 @@
+{
+  "texto": "Como é que faz, Bofa? Olha o tamanho, cara! Filma o pulo dela lá, Bofa! Vai por lá! Aqui na nossa frente, ó! Ah, brutona! Ih! O que eu falei que nós íamos pegar aqui, pesada? Olha o tamanho da encreca, velho! Olha aí, ó! Show, galera! Show! Pesqueiro vai, é show!",
+  "segmentos": [
+    {
+      "start": 1.0,
+      "end": 4.65,
+      "text": "Como é que faz, Bofa? Olha o tamanho, cara! Filma o pulo dela lá, Bofa!"
+    },
+    {
+      "start": 6.27,
+      "end": 8.37,
+      "text": "Vai por lá! Aqui na nossa frente, ó!"
+    },
+    {
+      "start": 9.3,
+      "end": 11.3,
+      "text": "Ah, brutona! Ih!"
+    },
+    {
+      "start": 14.13,
+      "end": 16.47,
+      "text": "O que eu falei que nós íamos pegar aqui, pesada?"
+    },
+    {
+      "start": 17.35,
+      "end": 19.93,
+      "text": "Olha o tamanho da encreca, velho!"
+    },
+    {
+      "start": 21.44,
+      "end": 26.04,
+      "text": "Olha aí, ó! Show, galera! Show! Pesqueiro vai, é show!"
+    }
+  ],
+  "duracao_seg": 28.37,
+  "idioma_detectado": "pt"
+}

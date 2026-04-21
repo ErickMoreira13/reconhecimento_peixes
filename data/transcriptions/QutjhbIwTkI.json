@@ -1,0 +1,42 @@
+{
+  "texto": "Você já pensou que é estranho como parece tão fácil pra esses pescadores capturarem esses peixes, até mesmo com as mãos como se fossem os próprios deuses da pesca? À primeira vista, esses peixes parecem estar abatidos nas beiradas dos lagos. Mas o que você não sabe é que essa é a estratégia das carpas capim que buscam alimento nas margens, ou oxigênio nos dias quentes, principalmente em águas paradas. Então por eles ficarem parados muito tempo sobre a água como se fossem preguiças lentas, acabam virando presas fáceis para os pescadores que conseguem pegar muitas sem nem usarem varas de pesca.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "text": "Você já pensou que é estranho como parece tão fácil pra esses pescadores capturarem esses peixes,"
+    },
+    {
+      "start": 4.36,
+      "end": 7.28,
+      "text": "até mesmo com as mãos como se fossem os próprios deuses da pesca?"
+    },
+    {
+      "start": 7.34,
+      "end": 10.72,
+      "text": "À primeira vista, esses peixes parecem estar abatidos nas beiradas dos lagos."
+    },
+    {
+      "start": 10.76,
+      "end": 15.08,
+      "text": "Mas o que você não sabe é que essa é a estratégia das carpas capim que buscam alimento nas margens,"
+    },
+    {
+      "start": 15.12,
+      "end": 18.04,
+      "text": "ou oxigênio nos dias quentes, principalmente em águas paradas."
+    },
+    {
+      "start": 18.1,
+      "end": 21.88,
+      "text": "Então por eles ficarem parados muito tempo sobre a água como se fossem preguiças lentas,"
+    },
+    {
+      "start": 21.94,
+      "end": 26.7,
+      "text": "acabam virando presas fáceis para os pescadores que conseguem pegar muitas sem nem usarem varas de pesca."
+    }
+  ],
+  "duracao_seg": 26.79,
+  "idioma_detectado": "pt"
+}

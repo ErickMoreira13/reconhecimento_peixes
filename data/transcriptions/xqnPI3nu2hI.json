@@ -1,0 +1,22 @@
+{
+  "texto": "E aí? Tá. Ah!",
+  "segmentos": [
+    {
+      "start": 1.2,
+      "end": 2.2,
+      "text": "E aí?"
+    },
+    {
+      "start": 2.2,
+      "end": 3.2,
+      "text": "Tá."
+    },
+    {
+      "start": 3.2,
+      "end": 24.46,
+      "text": "Ah!"
+    }
+  ],
+  "duracao_seg": 24.09,
+  "idioma_detectado": "pt"
+}

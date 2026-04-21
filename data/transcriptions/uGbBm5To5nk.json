@@ -1,0 +1,27 @@
+{
+  "texto": "Uia rapaz caraca velho que tamanho é essa cara tamanho velho olha o tamanho isso é muito grande muito grande nossa cara fica fica aí garota aí olha a Lapa olha a Lapa lá onde pegou cara mas é assim saiu já tá lá e boca fechada aqui deu 48 e meio sem liga vai tá aqui ó eu vou virar ela para ficar mais fácil tá muito raso 48 e meio show né vai lá garota valeu hein",
+  "segmentos": [
+    {
+      "start": 15.92,
+      "end": 30.02,
+      "text": "Uia rapaz caraca velho que tamanho é essa cara tamanho velho olha o tamanho isso é muito grande"
+    },
+    {
+      "start": 30.02,
+      "end": 43.11,
+      "text": "muito grande nossa cara fica fica aí garota aí olha a Lapa olha a Lapa lá onde pegou cara"
+    },
+    {
+      "start": 43.11,
+      "end": 65.1,
+      "text": "mas é assim saiu já tá lá e boca fechada aqui deu 48 e meio sem liga vai tá aqui ó"
+    },
+    {
+      "start": 65.1,
+      "end": 75.91,
+      "text": "eu vou virar ela para ficar mais fácil tá muito raso 48 e meio show né vai lá garota valeu hein"
+    }
+  ],
+  "duracao_seg": 75.91,
+  "idioma_detectado": "pt"
+}

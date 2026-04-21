@@ -1,0 +1,592 @@
+{
+  "texto": "Olha que eu não consigo ter esse sangue feio. Tá na mão já. Pô, saiu. Gatô. Não, puxa, sai na mão. Olha aí a criança. Quando ela pular, tu aperta ela pra onde sacar. Olha aí. Olha a criança, filhão. Ao vivo e a couro e a tomate. Já. Ah, beleza. Olha aí. Olha aí a criança. Olha aí. Olha aí. Deixa ela se bater. Primeira do dia. Show de bola. Olha aí, garotinho. Traz aí, traz aí. Pega aí. Show. Ao vivo e a couro, isso aí, ó. Puxa a matrizinha. Olha lá. Isso. Olha aí. Show de bola. Chega a varinha, tá cantando. Leve água, varinha, molinete aqui, tá? Vem pra cá, rapaz. Ei, porra. Olha aí. Vai, vai. Olha aí. Eita, deu na minha linha, embolou com a minha linha. Ah, caramba. Agora vai com a minha linha. Embolou com a linha de todo mundo. Vai, vai, vai, vai. Vai, senhora. Aê, garoto. Aê, garoto. Soltou na hora. Rapaz. É pra contar a história, meu amigo. Essa roqueiro mostra aí. Mostra aí. Essa eu vou pegar o alicate. Olha aí. Essa roqueiro mostra. Top. Direto do Rio Preto, hein. Só pegando a minha linha. Vai, vai, vai. Olha aí, ó. Essa é a monstra. Olha aí, olha aí, ó. Rapaz, o homem é fera. Olha aí, ó. Pra quem não veio, sinta informar. Dela malarilha, Johnny. Perdeu. Segundona do Marajá, olha aí. Só na matriã. Top. O homem tá uma máquina. Tá uma máquina, homem. Eita. Tá uma máquina. Olha aí, ó. É, olha aí, ó. Rapaz, o homem. Segundona do Marajá, mano. Segundona, arrebentando. Furou até o Passaguá. Pense numa bicha pesada e grande, mano. É pra lá de quatro palmos. É porque a filmagem tá um pouco longe. Mas se aproximar, é grande. E pesada. Olha aí, ó. Olha o profissional. Guia Sandro Lúcio. Sandro Lúcio. Te amar foi um erro. Foi um erro, te amar. Olha aí, ó. Tá arrebentando, hein. Olha aí. Olha aí, ó. Olha aí, alixona. É nóis, queróis. Olha aí, cengudona de hoje. Dá o remédio dela. Aí, a brincadeira, rapaz. Agora deu certo. Começou com ele também. Isso, é a coisa. Olha aí, ó. Matricianzona. Tá uns três, quatro pão. Não vou nem medir. Isso, meu Deus. De manhã começou com ele também. Assim. Começou desse jeito. Olha aí. Tem uma ponte? Olha aí. Tem que tirar uma. Olha aí, galera. Que uma do seu bar? Galera aí, ó. Matricianzona. Obrigado.",
+  "segmentos": [
+    {
+      "start": 4.43,
+      "end": 6.55,
+      "text": "Olha que eu não consigo ter esse sangue feio."
+    },
+    {
+      "start": 6.55,
+      "end": 7.35,
+      "text": "Tá na mão já."
+    },
+    {
+      "start": 8.05,
+      "end": 8.69,
+      "text": "Pô, saiu."
+    },
+    {
+      "start": 8.93,
+      "end": 9.35,
+      "text": "Gatô."
+    },
+    {
+      "start": 9.43,
+      "end": 10.13,
+      "text": "Não, puxa, sai na mão."
+    },
+    {
+      "start": 10.33,
+      "end": 11.59,
+      "text": "Olha aí a criança."
+    },
+    {
+      "start": 11.73,
+      "end": 13.59,
+      "text": "Quando ela pular, tu aperta ela pra onde sacar."
+    },
+    {
+      "start": 14.33,
+      "end": 14.97,
+      "text": "Olha aí."
+    },
+    {
+      "start": 14.99,
+      "end": 17.09,
+      "text": "Olha a criança, filhão."
+    },
+    {
+      "start": 17.57,
+      "end": 19.81,
+      "text": "Ao vivo e a couro e a tomate."
+    },
+    {
+      "start": 20.25,
+      "end": 20.49,
+      "text": "Já."
+    },
+    {
+      "start": 20.85,
+      "end": 21.61,
+      "text": "Ah, beleza."
+    },
+    {
+      "start": 21.73,
+      "end": 22.33,
+      "text": "Olha aí."
+    },
+    {
+      "start": 22.93,
+      "end": 23.97,
+      "text": "Olha aí a criança."
+    },
+    {
+      "start": 25.04,
+      "end": 25.56,
+      "text": "Olha aí."
+    },
+    {
+      "start": 29.96,
+      "end": 31.06,
+      "text": "Olha aí."
+    },
+    {
+      "start": 31.64,
+      "end": 32.18,
+      "text": "Deixa ela se bater."
+    },
+    {
+      "start": 32.18,
+      "end": 33.66,
+      "text": "Primeira do dia."
+    },
+    {
+      "start": 34.16,
+      "end": 35.7,
+      "text": "Show de bola."
+    },
+    {
+      "start": 35.84,
+      "end": 36.58,
+      "text": "Olha aí, garotinho."
+    },
+    {
+      "start": 38.9,
+      "end": 39.5,
+      "text": "Traz aí, traz aí."
+    },
+    {
+      "start": 42.0,
+      "end": 42.7,
+      "text": "Pega aí."
+    },
+    {
+      "start": 45.91,
+      "end": 46.47,
+      "text": "Show."
+    },
+    {
+      "start": 48.62,
+      "end": 49.98,
+      "text": "Ao vivo e a couro, isso aí, ó."
+    },
+    {
+      "start": 51.19,
+      "end": 52.31,
+      "text": "Puxa a matrizinha."
+    },
+    {
+      "start": 53.27,
+      "end": 53.79,
+      "text": "Olha lá."
+    },
+    {
+      "start": 54.55,
+      "end": 55.19,
+      "text": "Isso."
+    },
+    {
+      "start": 55.45,
+      "end": 56.45,
+      "text": "Olha aí."
+    },
+    {
+      "start": 57.35,
+      "end": 58.75,
+      "text": "Show de bola."
+    },
+    {
+      "start": 59.66,
+      "end": 62.0,
+      "text": "Chega a varinha, tá cantando."
+    },
+    {
+      "start": 62.36,
+      "end": 64.52,
+      "text": "Leve água, varinha, molinete aqui, tá?"
+    },
+    {
+      "start": 65.91,
+      "end": 67.09,
+      "text": "Vem pra cá, rapaz."
+    },
+    {
+      "start": 68.69,
+      "end": 69.47,
+      "text": "Ei, porra."
+    },
+    {
+      "start": 70.92,
+      "end": 71.64,
+      "text": "Olha aí."
+    },
+    {
+      "start": 71.64,
+      "end": 72.9,
+      "text": "Vai, vai."
+    },
+    {
+      "start": 72.9,
+      "end": 73.78,
+      "text": "Olha aí."
+    },
+    {
+      "start": 74.62,
+      "end": 76.88,
+      "text": "Eita, deu na minha linha, embolou com a minha linha."
+    },
+    {
+      "start": 77.42,
+      "end": 79.19,
+      "text": "Ah, caramba."
+    },
+    {
+      "start": 80.71,
+      "end": 81.65,
+      "text": "Agora vai com a minha linha."
+    },
+    {
+      "start": 83.44,
+      "end": 84.68,
+      "text": "Embolou com a linha de todo mundo."
+    },
+    {
+      "start": 85.2,
+      "end": 86.06,
+      "text": "Vai, vai, vai, vai."
+    },
+    {
+      "start": 87.51,
+      "end": 88.01,
+      "text": "Vai, senhora."
+    },
+    {
+      "start": 88.01,
+      "end": 89.27,
+      "text": "Aê, garoto."
+    },
+    {
+      "start": 89.27,
+      "end": 90.95,
+      "text": "Aê, garoto."
+    },
+    {
+      "start": 91.19,
+      "end": 92.05,
+      "text": "Soltou na hora."
+    },
+    {
+      "start": 93.45,
+      "end": 94.01,
+      "text": "Rapaz."
+    },
+    {
+      "start": 95.23,
+      "end": 98.11,
+      "text": "É pra contar a história, meu amigo."
+    },
+    {
+      "start": 98.25,
+      "end": 99.55,
+      "text": "Essa roqueiro mostra aí."
+    },
+    {
+      "start": 99.55,
+      "end": 100.17,
+      "text": "Mostra aí."
+    },
+    {
+      "start": 100.35,
+      "end": 101.87,
+      "text": "Essa eu vou pegar o alicate."
+    },
+    {
+      "start": 102.11,
+      "end": 102.85,
+      "text": "Olha aí."
+    },
+    {
+      "start": 104.72,
+      "end": 105.26,
+      "text": "Essa roqueiro mostra."
+    },
+    {
+      "start": 105.26,
+      "end": 105.76,
+      "text": "Top."
+    },
+    {
+      "start": 105.9,
+      "end": 107.2,
+      "text": "Direto do Rio Preto, hein."
+    },
+    {
+      "start": 109.28,
+      "end": 110.28,
+      "text": "Só pegando a minha linha."
+    },
+    {
+      "start": 111.08,
+      "end": 111.6,
+      "text": "Vai, vai, vai."
+    },
+    {
+      "start": 112.85,
+      "end": 113.45,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 113.45,
+      "end": 116.45,
+      "text": "Essa é a monstra."
+    },
+    {
+      "start": 119.0,
+      "end": 120.18,
+      "text": "Olha aí, olha aí, ó."
+    },
+    {
+      "start": 121.84,
+      "end": 123.46,
+      "text": "Rapaz, o homem é fera."
+    },
+    {
+      "start": 126.18,
+      "end": 127.36,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 127.36,
+      "end": 131.56,
+      "text": "Pra quem não veio, sinta informar."
+    },
+    {
+      "start": 131.78,
+      "end": 133.14,
+      "text": "Dela malarilha, Johnny."
+    },
+    {
+      "start": 134.2,
+      "end": 134.72,
+      "text": "Perdeu."
+    },
+    {
+      "start": 136.46,
+      "end": 137.98,
+      "text": "Segundona do Marajá, olha aí."
+    },
+    {
+      "start": 138.28,
+      "end": 139.64,
+      "text": "Só na matriã."
+    },
+    {
+      "start": 141.59,
+      "end": 142.03,
+      "text": "Top."
+    },
+    {
+      "start": 143.73,
+      "end": 145.35,
+      "text": "O homem tá uma máquina."
+    },
+    {
+      "start": 145.35,
+      "end": 150.92,
+      "text": "Tá uma máquina, homem."
+    },
+    {
+      "start": 151.28,
+      "end": 151.92,
+      "text": "Eita."
+    },
+    {
+      "start": 153.84,
+      "end": 155.18,
+      "text": "Tá uma máquina."
+    },
+    {
+      "start": 157.09,
+      "end": 158.21,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 158.21,
+      "end": 160.33,
+      "text": "É, olha aí, ó."
+    },
+    {
+      "start": 160.63,
+      "end": 161.47,
+      "text": "Rapaz, o homem."
+    },
+    {
+      "start": 161.47,
+      "end": 162.83,
+      "text": "Segundona do Marajá, mano."
+    },
+    {
+      "start": 162.83,
+      "end": 165.27,
+      "text": "Segundona, arrebentando."
+    },
+    {
+      "start": 165.69,
+      "end": 167.21,
+      "text": "Furou até o Passaguá."
+    },
+    {
+      "start": 167.81,
+      "end": 170.01,
+      "text": "Pense numa bicha pesada e grande, mano."
+    },
+    {
+      "start": 171.25,
+      "end": 173.41,
+      "text": "É pra lá de quatro palmos."
+    },
+    {
+      "start": 173.97,
+      "end": 175.63,
+      "text": "É porque a filmagem tá um pouco longe."
+    },
+    {
+      "start": 175.73,
+      "end": 178.11,
+      "text": "Mas se aproximar, é grande."
+    },
+    {
+      "start": 178.21,
+      "end": 178.97,
+      "text": "E pesada."
+    },
+    {
+      "start": 180.11,
+      "end": 180.61,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 180.87,
+      "end": 181.99,
+      "text": "Olha o profissional."
+    },
+    {
+      "start": 182.39,
+      "end": 184.43,
+      "text": "Guia Sandro Lúcio."
+    },
+    {
+      "start": 185.07,
+      "end": 185.67,
+      "text": "Sandro Lúcio."
+    },
+    {
+      "start": 185.67,
+      "end": 186.81,
+      "text": "Te amar foi um erro."
+    },
+    {
+      "start": 186.85,
+      "end": 187.53,
+      "text": "Foi um erro, te amar."
+    },
+    {
+      "start": 187.53,
+      "end": 188.23,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 188.47,
+      "end": 189.81,
+      "text": "Tá arrebentando, hein."
+    },
+    {
+      "start": 190.29,
+      "end": 190.71,
+      "text": "Olha aí."
+    },
+    {
+      "start": 191.17,
+      "end": 192.07,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 192.07,
+      "end": 193.13,
+      "text": "Olha aí, alixona."
+    },
+    {
+      "start": 193.53,
+      "end": 194.93,
+      "text": "É nóis, queróis."
+    },
+    {
+      "start": 194.95,
+      "end": 196.37,
+      "text": "Olha aí, cengudona de hoje."
+    },
+    {
+      "start": 196.51,
+      "end": 197.43,
+      "text": "Dá o remédio dela."
+    },
+    {
+      "start": 199.01,
+      "end": 201.63,
+      "text": "Aí, a brincadeira, rapaz."
+    },
+    {
+      "start": 201.75,
+      "end": 202.71,
+      "text": "Agora deu certo."
+    },
+    {
+      "start": 203.07,
+      "end": 203.89,
+      "text": "Começou com ele também."
+    },
+    {
+      "start": 203.89,
+      "end": 205.03,
+      "text": "Isso, é a coisa."
+    },
+    {
+      "start": 206.13,
+      "end": 207.25,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 208.7,
+      "end": 209.74,
+      "text": "Matricianzona."
+    },
+    {
+      "start": 210.96,
+      "end": 212.92,
+      "text": "Tá uns três, quatro pão."
+    },
+    {
+      "start": 213.02,
+      "end": 213.68,
+      "text": "Não vou nem medir."
+    },
+    {
+      "start": 217.76,
+      "end": 219.04,
+      "text": "Isso, meu Deus."
+    },
+    {
+      "start": 219.54,
+      "end": 220.64,
+      "text": "De manhã começou com ele também."
+    },
+    {
+      "start": 220.64,
+      "end": 220.94,
+      "text": "Assim."
+    },
+    {
+      "start": 222.77,
+      "end": 224.21,
+      "text": "Começou desse jeito."
+    },
+    {
+      "start": 224.33,
+      "end": 224.73,
+      "text": "Olha aí."
+    },
+    {
+      "start": 226.4,
+      "end": 227.36,
+      "text": "Tem uma ponte?"
+    },
+    {
+      "start": 227.56,
+      "end": 228.02,
+      "text": "Olha aí."
+    },
+    {
+      "start": 228.12,
+      "end": 229.2,
+      "text": "Tem que tirar uma."
+    },
+    {
+      "start": 230.02,
+      "end": 231.04,
+      "text": "Olha aí, galera."
+    },
+    {
+      "start": 231.06,
+      "end": 231.12,
+      "text": "Que uma do seu bar?"
+    },
+    {
+      "start": 232.29,
+      "end": 232.67,
+      "text": "Galera aí, ó."
+    },
+    {
+      "start": 233.05,
+      "end": 233.95,
+      "text": "Matricianzona."
+    },
+    {
+      "start": 233.95,
+      "end": 236.07,
+      "text": "Obrigado."
+    }
+  ],
+  "duracao_seg": 236.57,
+  "idioma_detectado": "pt"
+}

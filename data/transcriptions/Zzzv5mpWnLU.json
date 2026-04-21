@@ -1,0 +1,22 @@
+{
+  "texto": "o tamanho de sapiracajú meu deus do céu que mostra mostra mostra mostra total desajeitado para soltar ela vou ter que soltar deslizando ela vai de uma vez vai bicho foi",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 9.71,
+      "text": "o tamanho de sapiracajú meu deus do céu que mostra mostra mostra mostra total"
+    },
+    {
+      "start": 9.71,
+      "end": 15.48,
+      "text": "desajeitado para soltar ela vou ter que soltar deslizando ela vai de uma vez vai"
+    },
+    {
+      "start": 15.48,
+      "end": 19.72,
+      "text": "bicho foi"
+    }
+  ],
+  "duracao_seg": 18.83,
+  "idioma_detectado": "pt"
+}

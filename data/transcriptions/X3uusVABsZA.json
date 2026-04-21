@@ -1,0 +1,17 @@
+{
+  "texto": "Só o Matrinchanger Matrinchanger aqui",
+  "segmentos": [
+    {
+      "start": 9.23,
+      "end": 12.7,
+      "text": "Só o Matrinchanger"
+    },
+    {
+      "start": 12.7,
+      "end": 16.69,
+      "text": "Matrinchanger aqui"
+    }
+  ],
+  "duracao_seg": 132.01,
+  "idioma_detectado": "pt"
+}

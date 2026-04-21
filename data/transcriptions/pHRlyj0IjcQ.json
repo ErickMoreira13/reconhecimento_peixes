@@ -1,0 +1,37 @@
+{
+  "texto": "Calma aqui pra ela não escapar. A Tabarana é chata. Por favor, ela escapa. Estou cansada aqui já. 35 a Tabarana, hein? Bom demais.",
+  "segmentos": [
+    {
+      "start": 68.82,
+      "end": 69.94,
+      "text": "Calma aqui pra ela não escapar."
+    },
+    {
+      "start": 73.56,
+      "end": 74.42,
+      "text": "A Tabarana é chata."
+    },
+    {
+      "start": 74.58,
+      "end": 75.42,
+      "text": "Por favor, ela escapa."
+    },
+    {
+      "start": 75.66,
+      "end": 85.16,
+      "text": "Estou cansada aqui já."
+    },
+    {
+      "start": 128.44,
+      "end": 130.24,
+      "text": "35 a Tabarana, hein?"
+    },
+    {
+      "start": 131.38,
+      "end": 132.16,
+      "text": "Bom demais."
+    }
+  ],
+  "duracao_seg": 143.23,
+  "idioma_detectado": "pt"
+}

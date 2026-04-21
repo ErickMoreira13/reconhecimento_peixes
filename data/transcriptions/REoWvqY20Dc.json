@@ -1,0 +1,17 @@
+{
+  "texto": "Não, os caras lá do grupo lá. Nem tá cheio rindo.",
+  "segmentos": [
+    {
+      "start": 0.7,
+      "end": 2.4,
+      "text": "Não, os caras lá do grupo lá."
+    },
+    {
+      "start": 4.2,
+      "end": 5.38,
+      "text": "Nem tá cheio rindo."
+    }
+  ],
+  "duracao_seg": 7.33,
+  "idioma_detectado": "pt"
+}

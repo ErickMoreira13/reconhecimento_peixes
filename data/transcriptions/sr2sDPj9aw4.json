@@ -1,0 +1,17 @@
+{
+  "texto": "como ele que passou na boca dela sabe que pegou né aí eu tô arana no bico na boca pegou na ideia",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 9.11,
+      "text": "como ele que passou na boca dela sabe que pegou né"
+    },
+    {
+      "start": 9.11,
+      "end": 19.36,
+      "text": "aí eu tô arana no bico na boca pegou na ideia"
+    }
+  ],
+  "duracao_seg": 28.69,
+  "idioma_detectado": "pt"
+}

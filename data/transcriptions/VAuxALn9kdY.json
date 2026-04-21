@@ -1,0 +1,22 @@
+{
+  "texto": "Não, você vai para a Lobby, Randa, ué, de novo. A gente está gravando. Minha segunda tabarana de hoje.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.18,
+      "text": "Não, você vai para a Lobby, Randa, ué, de novo."
+    },
+    {
+      "start": 3.32,
+      "end": 4.6,
+      "text": "A gente está gravando."
+    },
+    {
+      "start": 4.82,
+      "end": 6.94,
+      "text": "Minha segunda tabarana de hoje."
+    }
+  ],
+  "duracao_seg": 7.11,
+  "idioma_detectado": "pt"
+}

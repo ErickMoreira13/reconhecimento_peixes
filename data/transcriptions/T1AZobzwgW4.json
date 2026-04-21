@@ -1,0 +1,197 @@
+{
+  "texto": "Marinho chega a me botar cá. Bixu bruto. Tô grande? Pequeno? Não. Tira ele, deixa ver. Talvez tá a porra de tela. Essa é caprichada. Bixu bruto. Ó. Escreve. É bonzinho. Vai chegar a me botar cá. Ó. Opa. Não vai ver o tamanho do biteno. Esse é grande mesmo. Vamos com o bichão pra fora agora. Hã? Vale, hein? Chega. Vem toitar. Ê, bicho criado, hein? Hã? Hã? Ah, bicho bruto. Agora chega droba. Ê, bicho criado, hein? Pega peixe mesmo, rapaz. Hã? Não. Criado mesmo. Aqui tu não vai ver o tamanho do bruto. Boa. Tá brava. Aí, ó. Ê. Ê.",
+  "segmentos": [
+    {
+      "start": 2.03,
+      "end": 4.53,
+      "text": "Marinho chega a me botar cá."
+    },
+    {
+      "start": 4.53,
+      "end": 7.36,
+      "text": "Bixu bruto."
+    },
+    {
+      "start": 7.36,
+      "end": 9.94,
+      "text": "Tô grande?"
+    },
+    {
+      "start": 9.94,
+      "end": 18.85,
+      "text": "Pequeno?"
+    },
+    {
+      "start": 18.85,
+      "end": 20.24,
+      "text": "Não."
+    },
+    {
+      "start": 20.24,
+      "end": 39.66,
+      "text": "Tira ele, deixa ver."
+    },
+    {
+      "start": 39.66,
+      "end": 50.02,
+      "text": "Talvez tá a porra de tela."
+    },
+    {
+      "start": 50.02,
+      "end": 52.02,
+      "text": "Essa é caprichada."
+    },
+    {
+      "start": 52.02,
+      "end": 54.02,
+      "text": "Bixu bruto."
+    },
+    {
+      "start": 54.02,
+      "end": 58.16,
+      "text": "Ó."
+    },
+    {
+      "start": 58.16,
+      "end": 59.16,
+      "text": "Escreve."
+    },
+    {
+      "start": 59.16,
+      "end": 72.77,
+      "text": "É bonzinho."
+    },
+    {
+      "start": 72.77,
+      "end": 78.32,
+      "text": "Vai chegar a me botar cá."
+    },
+    {
+      "start": 78.32,
+      "end": 79.64,
+      "text": "Ó."
+    },
+    {
+      "start": 79.64,
+      "end": 83.17,
+      "text": "Opa."
+    },
+    {
+      "start": 83.17,
+      "end": 86.32,
+      "text": "Não vai ver o tamanho do biteno."
+    },
+    {
+      "start": 86.32,
+      "end": 93.6,
+      "text": "Esse é grande mesmo."
+    },
+    {
+      "start": 93.6,
+      "end": 102.96,
+      "text": "Vamos com o bichão pra fora agora."
+    },
+    {
+      "start": 102.96,
+      "end": 106.4,
+      "text": "Hã?"
+    },
+    {
+      "start": 106.4,
+      "end": 107.4,
+      "text": "Vale, hein?"
+    },
+    {
+      "start": 107.4,
+      "end": 109.07,
+      "text": "Chega."
+    },
+    {
+      "start": 109.07,
+      "end": 115.54,
+      "text": "Vem toitar."
+    },
+    {
+      "start": 115.54,
+      "end": 117.54,
+      "text": "Ê, bicho criado, hein?"
+    },
+    {
+      "start": 117.54,
+      "end": 118.54,
+      "text": "Hã?"
+    },
+    {
+      "start": 118.54,
+      "end": 120.5,
+      "text": "Hã?"
+    },
+    {
+      "start": 120.5,
+      "end": 124.72,
+      "text": "Ah, bicho bruto."
+    },
+    {
+      "start": 124.72,
+      "end": 142.04,
+      "text": "Agora chega droba."
+    },
+    {
+      "start": 142.04,
+      "end": 144.04,
+      "text": "Ê, bicho criado, hein?"
+    },
+    {
+      "start": 144.04,
+      "end": 151.29,
+      "text": "Pega peixe mesmo, rapaz."
+    },
+    {
+      "start": 151.29,
+      "end": 164.29,
+      "text": "Hã?"
+    },
+    {
+      "start": 164.29,
+      "end": 165.29,
+      "text": "Não."
+    },
+    {
+      "start": 165.29,
+      "end": 166.29,
+      "text": "Criado mesmo."
+    },
+    {
+      "start": 166.29,
+      "end": 174.06,
+      "text": "Aqui tu não vai ver o tamanho do bruto."
+    },
+    {
+      "start": 174.06,
+      "end": 176.82,
+      "text": "Boa."
+    },
+    {
+      "start": 176.82,
+      "end": 179.45,
+      "text": "Tá brava."
+    },
+    {
+      "start": 179.45,
+      "end": 188.36,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 188.36,
+      "end": 189.36,
+      "text": "Ê."
+    },
+    {
+      "start": 189.36,
+      "end": 190.36,
+      "text": "Ê."
+    }
+  ],
+  "duracao_seg": 189.95,
+  "idioma_detectado": "pt"
+}

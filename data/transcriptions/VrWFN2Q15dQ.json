@@ -1,0 +1,32 @@
+{
+  "texto": "Esse peixe é um parente da matrinchã e do dourado. Se trata de uma piracanjuba, é uma espécie muito comum nos rios aqui do sul e eu o crio aqui nos meus lagos. Ele é um peixe onívoro, de águas mais frias, que pode ser criado tranquilamente em açudes e lagoas. É um peixe ameaçado de extinção, pois sua carne é considerada muito saborosa. E eu mostro todo o desenvolvimento dessa espécie aqui nessa página.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Esse peixe é um parente da matrinchã e do dourado."
+    },
+    {
+      "start": 2.54,
+      "end": 7.12,
+      "text": "Se trata de uma piracanjuba, é uma espécie muito comum nos rios aqui do sul e eu o crio aqui nos meus lagos."
+    },
+    {
+      "start": 7.16,
+      "end": 11.12,
+      "text": "Ele é um peixe onívoro, de águas mais frias, que pode ser criado tranquilamente em açudes e lagoas."
+    },
+    {
+      "start": 11.18,
+      "end": 14.08,
+      "text": "É um peixe ameaçado de extinção, pois sua carne é considerada muito saborosa."
+    },
+    {
+      "start": 14.1,
+      "end": 16.76,
+      "text": "E eu mostro todo o desenvolvimento dessa espécie aqui nessa página."
+    }
+  ],
+  "duracao_seg": 17.09,
+  "idioma_detectado": "pt"
+}

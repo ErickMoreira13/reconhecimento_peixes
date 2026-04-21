@@ -1,0 +1,37 @@
+{
+  "texto": "Você pode perder uma mão aqui, isso é Nudling, pesca de bagre a mão. Consiste em meter a mão em agujeros ou madrigueras onde se esconden os bagres e esperar a que matem, para sacá-los do água. Mas não te confies, se o faz mal, um bagre adulto poderia deslocar-te a muñeca em segundos. Você atreveria a pescar de esta forma? Os leo em comentários.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 4.2,
+      "text": "Você pode perder uma mão aqui, isso é Nudling, pesca de bagre a mão."
+    },
+    {
+      "start": 4.5,
+      "end": 7.96,
+      "text": "Consiste em meter a mão em agujeros ou madrigueras onde se esconden os bagres"
+    },
+    {
+      "start": 7.96,
+      "end": 10.0,
+      "text": "e esperar a que matem, para sacá-los do água."
+    },
+    {
+      "start": 10.16,
+      "end": 14.52,
+      "text": "Mas não te confies, se o faz mal, um bagre adulto poderia deslocar-te a muñeca em segundos."
+    },
+    {
+      "start": 14.72,
+      "end": 16.28,
+      "text": "Você atreveria a pescar de esta forma?"
+    },
+    {
+      "start": 16.44,
+      "end": 17.4,
+      "text": "Os leo em comentários."
+    }
+  ],
+  "duracao_seg": 17.67,
+  "idioma_detectado": "pt"
+}

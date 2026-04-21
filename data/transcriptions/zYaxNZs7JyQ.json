@@ -1,0 +1,17 @@
+{
+  "texto": "Esse aqui é dourado. Não é tabarão. Esse é de um quilo.",
+  "segmentos": [
+    {
+      "start": 13.84,
+      "end": 16.26,
+      "text": "Esse aqui é dourado. Não é tabarão."
+    },
+    {
+      "start": 16.84,
+      "end": 17.52,
+      "text": "Esse é de um quilo."
+    }
+  ],
+  "duracao_seg": 19.79,
+  "idioma_detectado": "pt"
+}

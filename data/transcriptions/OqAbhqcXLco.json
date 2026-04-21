@@ -1,0 +1,22 @@
+{
+  "texto": "7, 6, 5, 4, 3, 2, 1 You'll never have the sacred stone Oh this new crazy mother",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "7, 6, 5, 4, 3, 2, 1"
+    },
+    {
+      "start": 2.56,
+      "end": 4.78,
+      "text": "You'll never have the sacred stone"
+    },
+    {
+      "start": 4.78,
+      "end": 7.14,
+      "text": "Oh this new crazy mother"
+    }
+  ],
+  "duracao_seg": 133.61,
+  "idioma_detectado": "pt"
+}

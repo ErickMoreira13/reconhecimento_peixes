@@ -1,0 +1,72 @@
+{
+  "texto": "Você tá pescando bagre do jeito errado. Dica 1. O horário. De noite, a partir das 22 horas. De dia, eu tô dormindo. Me acorda, não. Dica 2. Onde eu fico? Embaixo de pedra, tronco, buraco fundo. Se tiver limpo e raso, não sou eu. Ah, dá um like aí que eu tô te entregando o segredo de graça. Dica 3. Afisgada. Eu engulo devagar. Sente o peso. Espera 3 segundos. Depois puxa. Quem puxa rápido me perde. Dica 4. Anzol. Pequenininho não, que eu cuspo fora. Número 4 pra cima. Boca grande pede anzol grande. Agora você sabe mais de bagre do que a maioria. Qual dica você não sabia? Comenta aqui.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Você tá pescando bagre do jeito errado."
+    },
+    {
+      "start": 2.12,
+      "end": 4.16,
+      "text": "Dica 1. O horário. De noite, a partir das 22 horas."
+    },
+    {
+      "start": 4.3,
+      "end": 5.58,
+      "text": "De dia, eu tô dormindo. Me acorda, não."
+    },
+    {
+      "start": 5.68,
+      "end": 8.06,
+      "text": "Dica 2. Onde eu fico? Embaixo de pedra, tronco, buraco fundo."
+    },
+    {
+      "start": 8.2,
+      "end": 9.3,
+      "text": "Se tiver limpo e raso, não sou eu."
+    },
+    {
+      "start": 9.38,
+      "end": 11.34,
+      "text": "Ah, dá um like aí que eu tô te entregando o segredo de graça."
+    },
+    {
+      "start": 11.46,
+      "end": 13.3,
+      "text": "Dica 3. Afisgada. Eu engulo devagar."
+    },
+    {
+      "start": 13.54,
+      "end": 15.0,
+      "text": "Sente o peso. Espera 3 segundos."
+    },
+    {
+      "start": 15.28,
+      "end": 16.98,
+      "text": "Depois puxa. Quem puxa rápido me perde."
+    },
+    {
+      "start": 17.24,
+      "end": 19.32,
+      "text": "Dica 4. Anzol. Pequenininho não, que eu cuspo fora."
+    },
+    {
+      "start": 19.44,
+      "end": 21.48,
+      "text": "Número 4 pra cima. Boca grande pede anzol grande."
+    },
+    {
+      "start": 21.54,
+      "end": 22.72,
+      "text": "Agora você sabe mais de bagre do que a maioria."
+    },
+    {
+      "start": 22.84,
+      "end": 23.94,
+      "text": "Qual dica você não sabia? Comenta aqui."
+    }
+  ],
+  "duracao_seg": 24.11,
+  "idioma_detectado": "pt"
+}
