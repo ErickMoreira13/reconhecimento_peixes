@@ -1,0 +1,22 @@
+{
+  "texto": "Filmou soltando? Foi pra vida, pessoal. Filmou soltando, né?",
+  "segmentos": [
+    {
+      "start": 11.76,
+      "end": 12.84,
+      "text": "Filmou soltando?"
+    },
+    {
+      "start": 13.32,
+      "end": 15.26,
+      "text": "Foi pra vida, pessoal."
+    },
+    {
+      "start": 15.98,
+      "end": 16.8,
+      "text": "Filmou soltando, né?"
+    }
+  ],
+  "duracao_seg": 17.03,
+  "idioma_detectado": "pt"
+}

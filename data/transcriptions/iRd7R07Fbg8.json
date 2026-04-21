@@ -1,0 +1,27 @@
+{
+  "texto": "vai puxar uma tilápia, uma tilápia bonita, assim ó, tem que colocar bem pequenininha senão ele não pega, vai lá Davi, isso, devagar, a estrutura Liliangaia aí ó, ensinando o seu filho aí, olha aí, puxa, vai vai Davi, olha aí, tô dizendo, vai aqui Davi, segura cuidado pra não cair, põe lá dentro lá, tu faz, põe mais lá, lá embaixo logo",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 9.32,
+      "text": "vai puxar uma tilápia, uma tilápia bonita, assim ó, tem que colocar bem pequenininha"
+    },
+    {
+      "start": 9.32,
+      "end": 19.68,
+      "text": "senão ele não pega, vai lá Davi, isso, devagar, a estrutura Liliangaia aí ó, ensinando"
+    },
+    {
+      "start": 19.68,
+      "end": 33.67,
+      "text": "o seu filho aí, olha aí, puxa, vai vai Davi, olha aí, tô dizendo, vai aqui Davi, segura"
+    },
+    {
+      "start": 33.67,
+      "end": 51.18,
+      "text": "cuidado pra não cair, põe lá dentro lá, tu faz, põe mais lá, lá embaixo logo"
+    }
+  ],
+  "duracao_seg": 64.39,
+  "idioma_detectado": "pt"
+}

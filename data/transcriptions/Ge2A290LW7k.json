@@ -1,0 +1,17 @@
+{
+  "texto": "Aí meus amigos, infelizmente cada dia mais, por conta das barragens, é mato, é lodo, é tranqueira descendo no rio. Então o que a gente pode fazer é criar técnicas para sofrer menos com esse mato que cada vez desce mais.",
+  "segmentos": [
+    {
+      "start": 2.0,
+      "end": 8.42,
+      "text": "Aí meus amigos, infelizmente cada dia mais, por conta das barragens, é mato, é lodo, é tranqueira descendo no rio."
+    },
+    {
+      "start": 10.78,
+      "end": 14.74,
+      "text": "Então o que a gente pode fazer é criar técnicas para sofrer menos com esse mato que cada vez desce mais."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

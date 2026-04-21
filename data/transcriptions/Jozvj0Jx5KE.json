@@ -1,0 +1,107 @@
+{
+  "texto": "O dono desse tanque de peixe perguntou pra gente se a gente queria limpar todas essas algas que estavam por cima e ofereceu uma proposta. Ele falou pra gente que daria duas diárias pra cada um de nós ir pescar no pesqueiro dele. Aí eu falei assim pra ele, duas diárias só? Aí ele falou, é, duas diárias. Aí eu confirmei, duas diárias só? Aí ele, é, duas diárias. Eu falei assim, só se for pro resto da vida. E você acredita que ele falou? Então, beleza, vocês tem duas diárias por mês pro resto da vida. Enquanto eu estiver aqui, vocês podem vir pescar duas vezes por mês aqui no meu pesqueiro. Não pensamos duas vezes. Eu e o Matheus já começamos a limpar todo ali essas algas que estavam no pesqueiro. E pensa no calor que estava, pessoal. Estava muito calor e tinha muita alga. Achei que ia ser só meio dia de serviço e a gente acabou o serviço tarde. Não aguentei o calor, tirei meu chapéu ali, pessoal. E fui dar um mergulho, tá, pessoal? Porque estava muito calor. Aí essa parte, pessoal, a gente já estava quase na metade do tanque, tá? Mas isso aí já era.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.92,
+      "text": "O dono desse tanque de peixe perguntou pra gente se a gente queria limpar todas essas algas que estavam por cima e ofereceu uma proposta."
+    },
+    {
+      "start": 8.06,
+      "end": 12.64,
+      "text": "Ele falou pra gente que daria duas diárias pra cada um de nós ir pescar no pesqueiro dele."
+    },
+    {
+      "start": 13.04,
+      "end": 15.7,
+      "text": "Aí eu falei assim pra ele, duas diárias só?"
+    },
+    {
+      "start": 16.06,
+      "end": 17.64,
+      "text": "Aí ele falou, é, duas diárias."
+    },
+    {
+      "start": 17.8,
+      "end": 19.54,
+      "text": "Aí eu confirmei, duas diárias só?"
+    },
+    {
+      "start": 19.92,
+      "end": 21.44,
+      "text": "Aí ele, é, duas diárias."
+    },
+    {
+      "start": 21.52,
+      "end": 23.58,
+      "text": "Eu falei assim, só se for pro resto da vida."
+    },
+    {
+      "start": 23.92,
+      "end": 25.06,
+      "text": "E você acredita que ele falou?"
+    },
+    {
+      "start": 25.34,
+      "end": 29.12,
+      "text": "Então, beleza, vocês tem duas diárias por mês pro resto da vida."
+    },
+    {
+      "start": 29.12,
+      "end": 33.48,
+      "text": "Enquanto eu estiver aqui, vocês podem vir pescar duas vezes por mês aqui no meu pesqueiro."
+    },
+    {
+      "start": 33.88,
+      "end": 35.2,
+      "text": "Não pensamos duas vezes."
+    },
+    {
+      "start": 35.38,
+      "end": 39.98,
+      "text": "Eu e o Matheus já começamos a limpar todo ali essas algas que estavam no pesqueiro."
+    },
+    {
+      "start": 40.02,
+      "end": 41.98,
+      "text": "E pensa no calor que estava, pessoal."
+    },
+    {
+      "start": 42.08,
+      "end": 44.38,
+      "text": "Estava muito calor e tinha muita alga."
+    },
+    {
+      "start": 44.54,
+      "end": 48.3,
+      "text": "Achei que ia ser só meio dia de serviço e a gente acabou o serviço tarde."
+    },
+    {
+      "start": 48.66,
+      "end": 51.16,
+      "text": "Não aguentei o calor, tirei meu chapéu ali, pessoal."
+    },
+    {
+      "start": 51.22,
+      "end": 53.14,
+      "text": "E fui dar um mergulho, tá, pessoal?"
+    },
+    {
+      "start": 53.2,
+      "end": 54.7,
+      "text": "Porque estava muito calor."
+    },
+    {
+      "start": 54.84,
+      "end": 58.78,
+      "text": "Aí essa parte, pessoal, a gente já estava quase na metade do tanque, tá?"
+    },
+    {
+      "start": 59.12,
+      "end": 60.02,
+      "text": "Mas isso aí já era."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

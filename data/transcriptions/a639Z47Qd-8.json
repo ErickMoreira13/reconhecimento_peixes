@@ -1,0 +1,67 @@
+{
+  "texto": "Aê como é que o homem aqui passa aqui ó, chufa na lagoa. O homem chufa na lagoa, não é garão aí ó. Fica o cegre que tem que passar a lagoa. Fica o cegre, olha aí. E aí Pedro e Betinho, você está achando essa cachorra, a live? Rapaz, aqui é o seguinte, não pode chufar na praia, chufa na lagoa, Pivete. Ô caralho! Pivete, quer torcer dele? O Alex, Alex é meu brother, fica em casa, Pivete. Pivete, Betinho. O homem tem dez mil cegre do roma, que é famoso, viu? Pivete.",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 5.46,
+      "text": "Aê como é que o homem aqui passa aqui ó, chufa na lagoa."
+    },
+    {
+      "start": 5.46,
+      "end": 9.42,
+      "text": "O homem chufa na lagoa, não é garão aí ó."
+    },
+    {
+      "start": 9.42,
+      "end": 11.42,
+      "text": "Fica o cegre que tem que passar a lagoa."
+    },
+    {
+      "start": 11.42,
+      "end": 13.42,
+      "text": "Fica o cegre, olha aí."
+    },
+    {
+      "start": 13.42,
+      "end": 18.03,
+      "text": "E aí Pedro e Betinho, você está achando essa cachorra, a live?"
+    },
+    {
+      "start": 18.03,
+      "end": 23.03,
+      "text": "Rapaz, aqui é o seguinte, não pode chufar na praia, chufa na lagoa, Pivete."
+    },
+    {
+      "start": 23.03,
+      "end": 24.03,
+      "text": "Ô caralho!"
+    },
+    {
+      "start": 24.03,
+      "end": 26.58,
+      "text": "Pivete, quer torcer dele?"
+    },
+    {
+      "start": 26.58,
+      "end": 30.58,
+      "text": "O Alex, Alex é meu brother, fica em casa, Pivete."
+    },
+    {
+      "start": 32.58,
+      "end": 33.58,
+      "text": "Pivete, Betinho."
+    },
+    {
+      "start": 33.58,
+      "end": 35.58,
+      "text": "O homem tem dez mil cegre do roma, que é famoso, viu?"
+    },
+    {
+      "start": 35.58,
+      "end": 36.58,
+      "text": "Pivete."
+    }
+  ],
+  "duracao_seg": 37.87,
+  "idioma_detectado": "pt"
+}

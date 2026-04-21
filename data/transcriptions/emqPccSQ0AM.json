@@ -1,0 +1,27 @@
+{
+  "texto": "Aí pessoal, a descarga delas aí, liberar elas para pescar, né? Pode ir seu neném, por favor. Ó o milipeiro, isso aí, beleza pessoal? Obrigado.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 6.01,
+      "text": "Aí pessoal, a descarga delas aí, liberar elas para pescar, né?"
+    },
+    {
+      "start": 6.13,
+      "end": 7.45,
+      "text": "Pode ir seu neném, por favor."
+    },
+    {
+      "start": 17.01,
+      "end": 28.73,
+      "text": "Ó o milipeiro, isso aí, beleza pessoal?"
+    },
+    {
+      "start": 30.36,
+      "end": 30.88,
+      "text": "Obrigado."
+    }
+  ],
+  "duracao_seg": 32.43,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Canto onde eu moro é uma linda passarela O carijó canta cedo bem pertinho da janela Eu levanto quando bate o sininho da capela E lá vou eu pro roçado, tenho Deus de sentinela O almoço, portadela Só que lá no meu ranchinho, pra mulher e os meus filhinhos Tem franguinho na panela",
+  "segmentos": [
+    {
+      "start": 15.25,
+      "end": 19.99,
+      "text": "Canto onde eu moro é uma linda passarela"
+    },
+    {
+      "start": 19.99,
+      "end": 25.89,
+      "text": "O carijó canta cedo bem pertinho da janela"
+    },
+    {
+      "start": 25.89,
+      "end": 31.85,
+      "text": "Eu levanto quando bate o sininho da capela"
+    },
+    {
+      "start": 31.85,
+      "end": 37.75,
+      "text": "E lá vou eu pro roçado, tenho Deus de sentinela"
+    },
+    {
+      "start": 37.75,
+      "end": 43.72,
+      "text": "O almoço, portadela"
+    },
+    {
+      "start": 43.72,
+      "end": 50.08,
+      "text": "Só que lá no meu ranchinho, pra mulher e os meus filhinhos"
+    },
+    {
+      "start": 50.08,
+      "end": 52.6,
+      "text": "Tem franguinho na panela"
+    }
+  ],
+  "duracao_seg": 60.13,
+  "idioma_detectado": "pt"
+}

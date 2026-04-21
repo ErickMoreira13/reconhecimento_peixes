@@ -1,0 +1,22 @@
+{
+  "texto": "Olá rapaziada, a atitude desse pescador, parabéns, olha só, soltando mais de 3 mil peixes no rio, rapaziada, olha só no rio doce, que nem ele tá falando ali E ele tá pedindo, pessoal, pra quem pegar esses peixes ali, não levar esses peixes, soltar o peixe pra ele procriar, né rapaziada, beleza? E olha só, vai sair muito peixe nesse rio aí, rapaziada, vai desolvar esses peixes aí, parabéns pela atitude do pescador, não sei o nome dele ali, quem mais tá de parabéns",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.96,
+      "text": "Olá rapaziada, a atitude desse pescador, parabéns, olha só, soltando mais de 3 mil peixes no rio, rapaziada, olha só no rio doce, que nem ele tá falando ali"
+    },
+    {
+      "start": 7.96,
+      "end": 15.02,
+      "text": "E ele tá pedindo, pessoal, pra quem pegar esses peixes ali, não levar esses peixes, soltar o peixe pra ele procriar, né rapaziada, beleza?"
+    },
+    {
+      "start": 15.68,
+      "end": 25.14,
+      "text": "E olha só, vai sair muito peixe nesse rio aí, rapaziada, vai desolvar esses peixes aí, parabéns pela atitude do pescador, não sei o nome dele ali, quem mais tá de parabéns"
+    }
+  ],
+  "duracao_seg": 25.15,
+  "idioma_detectado": "pt"
+}

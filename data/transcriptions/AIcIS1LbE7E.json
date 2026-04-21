@@ -1,0 +1,32 @@
+{
+  "texto": "Por que que você tá chorando? Eu vou jogar. Mas por que você tá chorando? Porque eu queria levar a empresa. Mas esse é pequenininho, filho.",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 1.37,
+      "text": "Por que que você tá chorando?"
+    },
+    {
+      "start": 1.67,
+      "end": 2.49,
+      "text": "Eu vou jogar."
+    },
+    {
+      "start": 2.81,
+      "end": 3.79,
+      "text": "Mas por que você tá chorando?"
+    },
+    {
+      "start": 4.27,
+      "end": 7.74,
+      "text": "Porque eu queria levar a empresa."
+    },
+    {
+      "start": 7.76,
+      "end": 9.6,
+      "text": "Mas esse é pequenininho, filho."
+    }
+  ],
+  "duracao_seg": 9.75,
+  "idioma_detectado": "pt"
+}

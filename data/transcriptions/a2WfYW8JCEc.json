@@ -1,0 +1,17 @@
+{
+  "texto": "Esse cara achou uma mina de ouro, pois quando ele achou esse pedaço de lodo esquisito, ele colocou nessa panela e começou a girar a panela para tirar toda a lama que tinha ali. Depois de duas horas lavando e tirando toda aquela lama, aquela água que tinha na panela ficou extremamente clara e mostrou que naquele simples pedaço de lodo tinha uma quantidade enorme de ouro.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.32,
+      "text": "Esse cara achou uma mina de ouro, pois quando ele achou esse pedaço de lodo esquisito, ele colocou nessa panela e começou a girar a panela para tirar toda a lama que tinha ali."
+    },
+    {
+      "start": 9.32,
+      "end": 19.32,
+      "text": "Depois de duas horas lavando e tirando toda aquela lama, aquela água que tinha na panela ficou extremamente clara e mostrou que naquele simples pedaço de lodo tinha uma quantidade enorme de ouro."
+    }
+  ],
+  "duracao_seg": 19.75,
+  "idioma_detectado": "pt"
+}

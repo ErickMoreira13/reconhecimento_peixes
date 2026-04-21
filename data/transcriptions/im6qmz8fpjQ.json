@@ -1,0 +1,22 @@
+{
+  "texto": "Qual calibre de espingarda você acha melhor para caça? Calibre 36, calibre 20, calibre 16 ou calibre 12? Deixe aí no comentário.",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 4.04,
+      "text": "Qual calibre de espingarda você acha melhor para caça?"
+    },
+    {
+      "start": 4.64,
+      "end": 11.3,
+      "text": "Calibre 36, calibre 20, calibre 16 ou calibre 12?"
+    },
+    {
+      "start": 12.46,
+      "end": 13.56,
+      "text": "Deixe aí no comentário."
+    }
+  ],
+  "duracao_seg": 14.91,
+  "idioma_detectado": "pt"
+}

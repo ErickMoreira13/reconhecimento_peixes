@@ -1,0 +1,17 @@
+{
+  "texto": "Pena que não é meu caso Pena que não é meu caso",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.33,
+      "text": "Pena que não é meu caso"
+    },
+    {
+      "start": 6.33,
+      "end": 10.01,
+      "text": "Pena que não é meu caso"
+    }
+  ],
+  "duracao_seg": 10.37,
+  "idioma_detectado": "pt"
+}

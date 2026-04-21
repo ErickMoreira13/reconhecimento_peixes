@@ -1,0 +1,22 @@
+{
+  "texto": "Então você mexe lá o rio. Gelata! Tá?",
+  "segmentos": [
+    {
+      "start": 4.82,
+      "end": 6.02,
+      "text": "Então você mexe lá o rio."
+    },
+    {
+      "start": 6.24,
+      "end": 6.8,
+      "text": "Gelata!"
+    },
+    {
+      "start": 7.34,
+      "end": 7.66,
+      "text": "Tá?"
+    }
+  ],
+  "duracao_seg": 9.03,
+  "idioma_detectado": "pt"
+}

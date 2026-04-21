@@ -1,0 +1,17 @@
+{
+  "texto": "Solta aquele bicho que gosta assim Joga de latim",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "Solta aquele bicho que gosta assim"
+    },
+    {
+      "start": 3.66,
+      "end": 9.11,
+      "text": "Joga de latim"
+    }
+  ],
+  "duracao_seg": 9.59,
+  "idioma_detectado": "pt"
+}

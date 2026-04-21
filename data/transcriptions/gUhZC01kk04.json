@@ -1,0 +1,17 @@
+{
+  "texto": "Deixa eu começar os trabalhos aqui da cama Bacana",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 3.25,
+      "text": "Deixa eu começar os trabalhos aqui da cama"
+    },
+    {
+      "start": 3.25,
+      "end": 11.55,
+      "text": "Bacana"
+    }
+  ],
+  "duracao_seg": 82.83,
+  "idioma_detectado": "pt"
+}

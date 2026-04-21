@@ -1,0 +1,52 @@
+{
+  "texto": "This is easily in the top 3 most embarrassing things I've ever said while fishing. They've never stacked up too hard in this dam for me. Huh. You would just really think. It's only got some depth. 100%. It's like 6, 7 foot of water. It actually is though, that's the funny thing. Oh brother, this guy stinks!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": "This is easily in the top 3 most embarrassing things I've ever said while fishing."
+    },
+    {
+      "start": 4.22,
+      "end": 6.34,
+      "text": "They've never stacked up too hard in this dam for me."
+    },
+    {
+      "start": 6.48,
+      "end": 6.68,
+      "text": "Huh."
+    },
+    {
+      "start": 6.76,
+      "end": 7.9,
+      "text": "You would just really think."
+    },
+    {
+      "start": 7.98,
+      "end": 8.72,
+      "text": "It's only got some depth."
+    },
+    {
+      "start": 8.76,
+      "end": 9.12,
+      "text": "100%."
+    },
+    {
+      "start": 9.12,
+      "end": 11.38,
+      "text": "It's like 6, 7 foot of water."
+    },
+    {
+      "start": 14.38,
+      "end": 16.12,
+      "text": "It actually is though, that's the funny thing."
+    },
+    {
+      "start": 16.36,
+      "end": 19.36,
+      "text": "Oh brother, this guy stinks!"
+    }
+  ],
+  "duracao_seg": 19.73,
+  "idioma_detectado": "pt"
+}

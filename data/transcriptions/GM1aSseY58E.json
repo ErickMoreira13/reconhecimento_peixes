@@ -1,0 +1,32 @@
+{
+  "texto": "Por que que você tá chorando? Eu vou jogar! Mas por que você tá chorando? Porque eu queria levar em floresta! Mas esse é pequenininho, filho!",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 1.67,
+      "text": "Por que que você tá chorando?"
+    },
+    {
+      "start": 1.67,
+      "end": 2.81,
+      "text": "Eu vou jogar!"
+    },
+    {
+      "start": 2.81,
+      "end": 4.11,
+      "text": "Mas por que você tá chorando?"
+    },
+    {
+      "start": 4.11,
+      "end": 7.76,
+      "text": "Porque eu queria levar em floresta!"
+    },
+    {
+      "start": 7.76,
+      "end": 9.72,
+      "text": "Mas esse é pequenininho, filho!"
+    }
+  ],
+  "duracao_seg": 9.75,
+  "idioma_detectado": "pt"
+}

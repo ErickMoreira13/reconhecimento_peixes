@@ -1,0 +1,27 @@
+{
+  "texto": "Faz a nuva e vira chuva pra molhar o chão A semente vira planta, se transforma em pão Faz o sol iluminar a terra e deixá-la aquecida Ele faz a lagarta do caço no",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Faz a nuva e vira chuva pra molhar o chão"
+    },
+    {
+      "start": 2.84,
+      "end": 5.84,
+      "text": "A semente vira planta, se transforma em pão"
+    },
+    {
+      "start": 5.84,
+      "end": 10.72,
+      "text": "Faz o sol iluminar a terra e deixá-la aquecida"
+    },
+    {
+      "start": 10.72,
+      "end": 15.02,
+      "text": "Ele faz a lagarta do caço no"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

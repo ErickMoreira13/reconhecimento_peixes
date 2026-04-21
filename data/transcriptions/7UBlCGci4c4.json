@@ -1,0 +1,17 @@
+{
+  "texto": "Que, galera, fazer a soltura de um catfish. Valeu!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Que, galera, fazer a soltura de um catfish."
+    },
+    {
+      "start": 4.45,
+      "end": 4.93,
+      "text": "Valeu!"
+    }
+  ],
+  "duracao_seg": 5.21,
+  "idioma_detectado": "pt"
+}

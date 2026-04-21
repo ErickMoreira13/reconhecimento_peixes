@@ -1,0 +1,77 @@
+{
+  "texto": "Essas imagens aqui vão deixar você impressionado. Vocês sabem o que é isso? É como se fosse um ralo gigante que tem ali na represa de Paraibuna, na região do Vale do Paraíba. Olha, nessa imagem aqui a gente consegue ver a barragem da represa e bem ali na pontinha tem esse escoadouro aqui. Aqui de cima ele é bem pequenininho, mas de perto, esse nosso amigo fez essas imagens fazendo stand-up paddle. Ele fez porque a represa estava baixa, né? Porque esse escoadouro serve justamente para equilibrar ali o volume da represa. Então quando enche muito, a água vai por ali e vai direto para o rio, né? Evitando assim que a represa transborde naquele ponto. Olha só como que é, vendo de cima, né? A região ali da cidade de São José dos Campos, o Vale do Paraíba, onde passa a rodovia dos Tamoios para quem desce para o litoral norte. E de lá a gente consegue ver, ó, esse pontinho aqui.",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 3.27,
+      "text": "Essas imagens aqui vão deixar você impressionado."
+    },
+    {
+      "start": 3.33,
+      "end": 4.17,
+      "text": "Vocês sabem o que é isso?"
+    },
+    {
+      "start": 4.19,
+      "end": 10.33,
+      "text": "É como se fosse um ralo gigante que tem ali na represa de Paraibuna, na região do Vale do Paraíba."
+    },
+    {
+      "start": 10.87,
+      "end": 14.03,
+      "text": "Olha, nessa imagem aqui a gente consegue ver a barragem da represa"
+    },
+    {
+      "start": 14.03,
+      "end": 18.63,
+      "text": "e bem ali na pontinha tem esse escoadouro aqui."
+    },
+    {
+      "start": 19.19,
+      "end": 26.23,
+      "text": "Aqui de cima ele é bem pequenininho, mas de perto, esse nosso amigo fez essas imagens fazendo stand-up paddle."
+    },
+    {
+      "start": 26.23,
+      "end": 28.15,
+      "text": "Ele fez porque a represa estava baixa, né?"
+    },
+    {
+      "start": 28.15,
+      "end": 33.45,
+      "text": "Porque esse escoadouro serve justamente para equilibrar ali o volume da represa."
+    },
+    {
+      "start": 33.85,
+      "end": 38.61,
+      "text": "Então quando enche muito, a água vai por ali e vai direto para o rio, né?"
+    },
+    {
+      "start": 38.65,
+      "end": 41.91,
+      "text": "Evitando assim que a represa transborde naquele ponto."
+    },
+    {
+      "start": 42.33,
+      "end": 44.75,
+      "text": "Olha só como que é, vendo de cima, né?"
+    },
+    {
+      "start": 44.75,
+      "end": 48.05,
+      "text": "A região ali da cidade de São José dos Campos, o Vale do Paraíba,"
+    },
+    {
+      "start": 48.37,
+      "end": 52.03,
+      "text": "onde passa a rodovia dos Tamoios para quem desce para o litoral norte."
+    },
+    {
+      "start": 52.03,
+      "end": 56.69,
+      "text": "E de lá a gente consegue ver, ó, esse pontinho aqui."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

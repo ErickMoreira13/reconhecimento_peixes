@@ -1,0 +1,32 @@
+{
+  "texto": "Se amarte, disfruto acariciarte y ponerte a dormir É escalofriante tenerte de frente, hacerte sonreir Daria cualquier cosa, por tanto, por estar siempre aquí Se amarte, disfruto acariciarte y ponerte de frente, hacerte sonreir Daria cualquier cosa, estar siempre aquí",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 6.5,
+      "text": "Se amarte, disfruto acariciarte y ponerte a dormir"
+    },
+    {
+      "start": 6.5,
+      "end": 17.39,
+      "text": "É escalofriante tenerte de frente, hacerte sonreir"
+    },
+    {
+      "start": 17.39,
+      "end": 27.56,
+      "text": "Daria cualquier cosa, por tanto, por estar siempre aquí"
+    },
+    {
+      "start": 27.56,
+      "end": 49.33,
+      "text": "Se amarte, disfruto acariciarte y ponerte de frente, hacerte sonreir"
+    },
+    {
+      "start": 49.33,
+      "end": 59.2,
+      "text": "Daria cualquier cosa, estar siempre aquí"
+    }
+  ],
+  "duracao_seg": 59.61,
+  "idioma_detectado": "pt"
+}

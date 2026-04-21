@@ -1,0 +1,122 @@
+{
+  "texto": "Chegamos, chegamos aqui na casa do guia, a casinha dele lá em cima lá, ele que vai levar a gente, vamos devagarzinho aqui só para encostar, e ele vai descer, show de bola aqui muito lindo, maior piloto do estado do Amazonas, aqui ó, vamos lá, fazer essa pescaria, show. Eu não gosto da cachaça pelo efeito que ela faz, desconhece pai e mãe, desmoraliza o rapaz, eu puxo ela para frente e ela só me puxa para trás, tchê tchê tchê tchê tchê. Quem gostou do meu aboio, deseja um bom casamento, aquele que não gostou, seja um vaqueiro nojento, vai casar com moça feia, só vai muita enjumento, segura pião, aí é o que o natinho pescador com o maranhão. Bom demais, bom demais, ouvida boa é essa, vocês gostam de... A gente pegou a isca, agora a gente vai ali pegar os peixes grandes, só foi a isca que a gente pegou, assim que funciona, o maranhão aqui, não quer mais nada da vida, se embora, pegar os peixão agora. Isso aqui é só o dinheiro, mais cedo para a casa, papai. Olha, conseguiu, pegou a isca. Olha, eu sei das manhas. O que é que o senhor sabe, hein? Das manhas. Das manhas, aí o cara sabe das manhas, papai. Olha aí, olha aí, papai. Isso aqui é só isca, olha. Olha aí, papai. Oi, Glória. Isso é isca ou é comida? Isso é comida mesmo, ninguém vai para pescar mais, não. Isso aqui vem ferido, alguém...",
+  "segmentos": [
+    {
+      "start": 4.91,
+      "end": 12.09,
+      "text": "Chegamos, chegamos aqui na casa do guia, a casinha dele lá em cima lá, ele que vai levar a gente,"
+    },
+    {
+      "start": 12.09,
+      "end": 19.83,
+      "text": "vamos devagarzinho aqui só para encostar, e ele vai descer, show de bola aqui muito lindo,"
+    },
+    {
+      "start": 19.83,
+      "end": 30.61,
+      "text": "maior piloto do estado do Amazonas, aqui ó, vamos lá, fazer essa pescaria, show."
+    },
+    {
+      "start": 30.61,
+      "end": 38.97,
+      "text": "Eu não gosto da cachaça pelo efeito que ela faz, desconhece pai e mãe, desmoraliza o rapaz,"
+    },
+    {
+      "start": 38.97,
+      "end": 44.07,
+      "text": "eu puxo ela para frente e ela só me puxa para trás, tchê tchê tchê tchê tchê."
+    },
+    {
+      "start": 44.07,
+      "end": 70.62,
+      "text": "Quem gostou do meu aboio, deseja um bom casamento, aquele que não gostou, seja um vaqueiro nojento,"
+    },
+    {
+      "start": 70.62,
+      "end": 80.16,
+      "text": "vai casar com moça feia, só vai muita enjumento, segura pião, aí é o que o natinho pescador com o maranhão."
+    },
+    {
+      "start": 80.16,
+      "end": 88.36,
+      "text": "Bom demais, bom demais, ouvida boa é essa, vocês gostam de..."
+    },
+    {
+      "start": 88.36,
+      "end": 94.23,
+      "text": "A gente pegou a isca, agora a gente vai ali pegar os peixes grandes, só foi a isca que a gente pegou,"
+    },
+    {
+      "start": 94.23,
+      "end": 105.76,
+      "text": "assim que funciona, o maranhão aqui, não quer mais nada da vida, se embora, pegar os peixão agora."
+    },
+    {
+      "start": 105.76,
+      "end": 113.7,
+      "text": "Isso aqui é só o dinheiro, mais cedo para a casa, papai."
+    },
+    {
+      "start": 113.7,
+      "end": 115.62,
+      "text": "Olha, conseguiu, pegou a isca."
+    },
+    {
+      "start": 115.62,
+      "end": 117.62,
+      "text": "Olha, eu sei das manhas."
+    },
+    {
+      "start": 117.62,
+      "end": 118.62,
+      "text": "O que é que o senhor sabe, hein?"
+    },
+    {
+      "start": 118.62,
+      "end": 119.62,
+      "text": "Das manhas."
+    },
+    {
+      "start": 119.62,
+      "end": 122.62,
+      "text": "Das manhas, aí o cara sabe das manhas, papai."
+    },
+    {
+      "start": 122.62,
+      "end": 124.42,
+      "text": "Olha aí, olha aí, papai."
+    },
+    {
+      "start": 124.42,
+      "end": 125.62,
+      "text": "Isso aqui é só isca, olha."
+    },
+    {
+      "start": 125.62,
+      "end": 127.26,
+      "text": "Olha aí, papai."
+    },
+    {
+      "start": 127.26,
+      "end": 128.26,
+      "text": "Oi, Glória."
+    },
+    {
+      "start": 128.26,
+      "end": 130.26,
+      "text": "Isso é isca ou é comida?"
+    },
+    {
+      "start": 130.26,
+      "end": 134.26,
+      "text": "Isso é comida mesmo, ninguém vai para pescar mais, não."
+    },
+    {
+      "start": 134.26,
+      "end": 136.26,
+      "text": "Isso aqui vem ferido, alguém..."
+    }
+  ],
+  "duracao_seg": 136.25,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "tô aqui pra vocês verem embora aí ó ó tá vendo tem muita viu pessoal",
+  "segmentos": [
+    {
+      "start": 1.58,
+      "end": 3.58,
+      "text": "tô aqui pra vocês verem embora"
+    },
+    {
+      "start": 3.58,
+      "end": 9.07,
+      "text": "aí ó"
+    },
+    {
+      "start": 9.07,
+      "end": 11.54,
+      "text": "ó"
+    },
+    {
+      "start": 11.54,
+      "end": 12.54,
+      "text": "tá vendo"
+    },
+    {
+      "start": 12.54,
+      "end": 15.28,
+      "text": "tem muita viu pessoal"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

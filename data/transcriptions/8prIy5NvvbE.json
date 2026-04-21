@@ -1,0 +1,32 @@
+{
+  "texto": "E aí galera, a ceva aqui ó Amarramos o pé de mandioca Olha o tanto que os peixes comeu Vai encostar Hoje nós vamos pegar peixe",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 2.18,
+      "text": "E aí galera, a ceva aqui ó"
+    },
+    {
+      "start": 2.18,
+      "end": 4.42,
+      "text": "Amarramos o pé de mandioca"
+    },
+    {
+      "start": 4.42,
+      "end": 7.26,
+      "text": "Olha o tanto que os peixes comeu"
+    },
+    {
+      "start": 7.26,
+      "end": 9.42,
+      "text": "Vai encostar"
+    },
+    {
+      "start": 9.42,
+      "end": 11.52,
+      "text": "Hoje nós vamos pegar peixe"
+    }
+  ],
+  "duracao_seg": 12.11,
+  "idioma_detectado": "pt"
+}

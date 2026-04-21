@@ -1,0 +1,22 @@
+{
+  "texto": "Maluco, você me solta que eu não tô de brincadeira com você não! Fica calmo, peixinho, fica calmo. Tô te avisando, me solta, maluco!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Maluco, você me solta que eu não tô de brincadeira com você não!"
+    },
+    {
+      "start": 2.84,
+      "end": 5.42,
+      "text": "Fica calmo, peixinho, fica calmo."
+    },
+    {
+      "start": 5.5,
+      "end": 7.32,
+      "text": "Tô te avisando, me solta, maluco!"
+    }
+  ],
+  "duracao_seg": 7.35,
+  "idioma_detectado": "pt"
+}

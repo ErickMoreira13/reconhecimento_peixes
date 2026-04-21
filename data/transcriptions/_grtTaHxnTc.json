@@ -1,0 +1,27 @@
+{
+  "texto": "Vê quantos minutos passa a cana? É. Ó a bica. Tem que levar para o bolo.",
+  "segmentos": [
+    {
+      "start": 6.93,
+      "end": 8.93,
+      "text": "Vê quantos minutos passa a cana?"
+    },
+    {
+      "start": 8.93,
+      "end": 9.93,
+      "text": "É."
+    },
+    {
+      "start": 9.93,
+      "end": 32.89,
+      "text": "Ó a bica."
+    },
+    {
+      "start": 32.89,
+      "end": 34.89,
+      "text": "Tem que levar para o bolo."
+    }
+  ],
+  "duracao_seg": 55.81,
+  "idioma_detectado": "pt"
+}

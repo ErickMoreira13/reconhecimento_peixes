@@ -1,0 +1,62 @@
+{
+  "texto": "Paulo, o pessoal está perguntando aqui quantos peixes cabem nesse lago. Ah, eu vi, eu vi essa pergunta lá, achei muito interessante, olha só. Pessoal, o lago tem 10 por 8 e 1 por 1,45 de profundidade. Então ele tem em torno de 116 metros cúbicos de água. É recomendado colocar de 20 a 40 peixes por metro cúbico. E assim, aqui nós vamos colocar menos, né? Eu vou trabalhar com 1.500 peixes aqui, para mudar a superpopulação, para ter um conforto para os peixes aqui, ter peixes saudáveis, sempre pesquinhos aqui. Tranquilamente dá para suprir com uma família grande. E se você quiser fazer uma renda extra também, com esse tipo de negócio, tranquilamente você pode fazer na sua propriedade, que vale muito a pena.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "Paulo, o pessoal está perguntando aqui quantos peixes cabem nesse lago."
+    },
+    {
+      "start": 3.16,
+      "end": 6.06,
+      "text": "Ah, eu vi, eu vi essa pergunta lá, achei muito interessante, olha só."
+    },
+    {
+      "start": 6.18,
+      "end": 9.72,
+      "text": "Pessoal, o lago tem 10 por 8 e 1 por 1,45 de profundidade."
+    },
+    {
+      "start": 9.8,
+      "end": 12.9,
+      "text": "Então ele tem em torno de 116 metros cúbicos de água."
+    },
+    {
+      "start": 13.02,
+      "end": 16.86,
+      "text": "É recomendado colocar de 20 a 40 peixes por metro cúbico."
+    },
+    {
+      "start": 17.02,
+      "end": 19.6,
+      "text": "E assim, aqui nós vamos colocar menos, né?"
+    },
+    {
+      "start": 19.6,
+      "end": 23.54,
+      "text": "Eu vou trabalhar com 1.500 peixes aqui, para mudar a superpopulação,"
+    },
+    {
+      "start": 23.84,
+      "end": 27.4,
+      "text": "para ter um conforto para os peixes aqui, ter peixes saudáveis, sempre pesquinhos aqui."
+    },
+    {
+      "start": 27.4,
+      "end": 30.06,
+      "text": "Tranquilamente dá para suprir com uma família grande."
+    },
+    {
+      "start": 30.42,
+      "end": 33.96,
+      "text": "E se você quiser fazer uma renda extra também, com esse tipo de negócio,"
+    },
+    {
+      "start": 34.6,
+      "end": 37.14,
+      "text": "tranquilamente você pode fazer na sua propriedade, que vale muito a pena."
+    }
+  ],
+  "duracao_seg": 37.33,
+  "idioma_detectado": "pt"
+}

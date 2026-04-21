@@ -1,0 +1,17 @@
+{
+  "texto": "Essa parte aqui é o depois, com alguns dias, com alguns dias, aquele ali é filho de pescador, olha o trabalho que eles fazem, mesmo artesanalmente, na mão, é papai, aí olha, que eu saio por trás, e quando você olha uma embarcação dessa, você não diz, que ia ficar deste tamanho, é, tudo tem uma medida, Essa aqui é uma embarcação de passeio, construída aqui no estaleiro do mamão, vou descer aqui, está vendo, como é que ela é toda reforçada, toda reforçada, parafusada, é, maravilha, olha, aqui vai entrar aqui, uma parte aqui,",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 33.9,
+      "text": "Essa parte aqui é o depois, com alguns dias, com alguns dias, aquele ali é filho de pescador, olha o trabalho que eles fazem, mesmo artesanalmente, na mão, é papai, aí olha, que eu saio por trás, e quando você olha uma embarcação dessa, você não diz, que ia ficar deste tamanho, é, tudo tem uma medida,"
+    },
+    {
+      "start": 33.9,
+      "end": 59.56,
+      "text": "Essa aqui é uma embarcação de passeio, construída aqui no estaleiro do mamão, vou descer aqui, está vendo, como é que ela é toda reforçada, toda reforçada, parafusada, é, maravilha, olha, aqui vai entrar aqui, uma parte aqui,"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

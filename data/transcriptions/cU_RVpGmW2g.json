@@ -1,0 +1,57 @@
+{
+  "texto": "Por que você deve soltar os peixes grandes? Primeiro, eles não são os melhores para comer. Peixes maiores costumam ter carne mais dura, gosto mais forte e muita gordura. Segundo, são as matrizes. São esses peixes grandes que garantem a reprodução e mantém a população no rio. Tirou eles, o número de peixes começa a cair. E tem mais. O peixe grande é o verdadeiro troféu. Você solta hoje, outro pescador pode ter a mesma emoção amanhã. Ou seja, não é só sobre pegar, é sobre preservar a pescaria.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "Por que você deve soltar os peixes grandes?"
+    },
+    {
+      "start": 2.56,
+      "end": 5.1,
+      "text": "Primeiro, eles não são os melhores para comer."
+    },
+    {
+      "start": 5.7,
+      "end": 10.14,
+      "text": "Peixes maiores costumam ter carne mais dura, gosto mais forte e muita gordura."
+    },
+    {
+      "start": 10.6,
+      "end": 12.38,
+      "text": "Segundo, são as matrizes."
+    },
+    {
+      "start": 13.14,
+      "end": 17.26,
+      "text": "São esses peixes grandes que garantem a reprodução e mantém a população no rio."
+    },
+    {
+      "start": 18.02,
+      "end": 20.78,
+      "text": "Tirou eles, o número de peixes começa a cair."
+    },
+    {
+      "start": 21.3,
+      "end": 22.04,
+      "text": "E tem mais."
+    },
+    {
+      "start": 22.48,
+      "end": 24.62,
+      "text": "O peixe grande é o verdadeiro troféu."
+    },
+    {
+      "start": 24.9,
+      "end": 28.64,
+      "text": "Você solta hoje, outro pescador pode ter a mesma emoção amanhã."
+    },
+    {
+      "start": 28.64,
+      "end": 32.94,
+      "text": "Ou seja, não é só sobre pegar, é sobre preservar a pescaria."
+    }
+  ],
+  "duracao_seg": 33.13,
+  "idioma_detectado": "pt"
+}
