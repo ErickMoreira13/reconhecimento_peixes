@@ -1,0 +1,22 @@
+{
+  "texto": "E olha a quantidade absurda de mandi que esse cara pegou, rapaz. Aqui deve ter mais de 200. E um mandizinho desse, frito na farinha de puba, é bom demais.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "E olha a quantidade absurda de mandi que esse cara pegou, rapaz."
+    },
+    {
+      "start": 3.78,
+      "end": 5.44,
+      "text": "Aqui deve ter mais de 200."
+    },
+    {
+      "start": 6.02,
+      "end": 9.76,
+      "text": "E um mandizinho desse, frito na farinha de puba, é bom demais."
+    }
+  ],
+  "duracao_seg": 10.53,
+  "idioma_detectado": "pt"
+}

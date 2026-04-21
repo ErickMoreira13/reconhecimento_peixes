@@ -1,0 +1,27 @@
+{
+  "texto": "Galerinha, o tamanho desse Piau Flamengo, galera. Olha só o tamanho desse Piau Flamengo. Deixa o like e se inscreve no canal. Olha só.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "Galerinha, o tamanho desse Piau Flamengo, galera."
+    },
+    {
+      "start": 5.73,
+      "end": 10.94,
+      "text": "Olha só o tamanho desse Piau Flamengo."
+    },
+    {
+      "start": 11.52,
+      "end": 13.1,
+      "text": "Deixa o like e se inscreve no canal."
+    },
+    {
+      "start": 14.41,
+      "end": 15.03,
+      "text": "Olha só."
+    }
+  ],
+  "duracao_seg": 15.23,
+  "idioma_detectado": "pt"
+}

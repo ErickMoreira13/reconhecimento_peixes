@@ -1,0 +1,17 @@
+{
+  "texto": "E aí e aí o capô Opa pegou é pequena pequenininha vou soltar ela é boa grande assada mas grande que a boa assada essa aqui não é muito boa bate sim para o anzol aqui soltar ela que te embora embora",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 62.74,
+      "text": "E aí e aí o capô Opa pegou é pequena pequenininha vou soltar ela é boa grande assada mas grande"
+    },
+    {
+      "start": 62.74,
+      "end": 97.8,
+      "text": "que a boa assada essa aqui não é muito boa bate sim para o anzol aqui soltar ela que te embora embora"
+    }
+  ],
+  "duracao_seg": 99.21,
+  "idioma_detectado": "pt"
+}

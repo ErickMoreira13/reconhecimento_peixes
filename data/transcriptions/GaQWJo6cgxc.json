@@ -1,0 +1,37 @@
+{
+  "texto": "Beleza, pessoal? Esse daqui é o sisteminha que perguntaram para mim no último vídeo de me pescar piauzinho três pintas, piau vermelho. Esse sistema aqui, ó. Com chumbo, com chumbo.",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 1.83,
+      "text": "Beleza, pessoal?"
+    },
+    {
+      "start": 1.93,
+      "end": 4.25,
+      "text": "Esse daqui é o sisteminha que perguntaram para mim no último vídeo"
+    },
+    {
+      "start": 4.25,
+      "end": 5.93,
+      "text": "de me pescar piauzinho"
+    },
+    {
+      "start": 5.93,
+      "end": 8.49,
+      "text": "três pintas, piau vermelho."
+    },
+    {
+      "start": 8.87,
+      "end": 9.95,
+      "text": "Esse sistema aqui, ó."
+    },
+    {
+      "start": 11.57,
+      "end": 15.16,
+      "text": "Com chumbo, com chumbo."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

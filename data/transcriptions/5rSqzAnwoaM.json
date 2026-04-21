@@ -1,0 +1,17 @@
+{
+  "texto": "E aí, aí, aí. Um diazão, tá aí.",
+  "segmentos": [
+    {
+      "start": 24.94,
+      "end": 30.98,
+      "text": "E aí, aí, aí."
+    },
+    {
+      "start": 31.48,
+      "end": 37.29,
+      "text": "Um diazão, tá aí."
+    }
+  ],
+  "duracao_seg": 42.55,
+  "idioma_detectado": "pt"
+}

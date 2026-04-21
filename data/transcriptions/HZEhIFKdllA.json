@@ -1,0 +1,47 @@
+{
+  "texto": "E aí, galerinha, o tamanho da ponte, olha, você que é tilapia, olha a batida aí, né? Aqui, Edson, olha, não, nem desse jeito, olha, já pegaram uma bichona dessa? Se não, aprendem com os profissionais. Olha lá, Araújo. Uns 3 quilos mesmo, olha lá. Olha lá, olha, agora pesquinha com o pedra, nem Alves pesca, nem o pesca. Mário Tavares, olha, que coisa linda essa tilapiazona, viu? Basta variedades, olha.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.13,
+      "text": "E aí, galerinha, o tamanho da ponte, olha, você que é tilapia, olha a batida aí, né?"
+    },
+    {
+      "start": 7.53,
+      "end": 12.74,
+      "text": "Aqui, Edson, olha, não, nem desse jeito, olha, já pegaram uma bichona dessa?"
+    },
+    {
+      "start": 13.5,
+      "end": 15.54,
+      "text": "Se não, aprendem com os profissionais."
+    },
+    {
+      "start": 15.92,
+      "end": 16.8,
+      "text": "Olha lá, Araújo."
+    },
+    {
+      "start": 16.88,
+      "end": 17.78,
+      "text": "Uns 3 quilos mesmo, olha lá."
+    },
+    {
+      "start": 17.82,
+      "end": 20.84,
+      "text": "Olha lá, olha, agora pesquinha com o pedra, nem Alves pesca, nem o pesca."
+    },
+    {
+      "start": 21.54,
+      "end": 24.9,
+      "text": "Mário Tavares, olha, que coisa linda essa tilapiazona, viu?"
+    },
+    {
+      "start": 25.28,
+      "end": 26.72,
+      "text": "Basta variedades, olha."
+    }
+  ],
+  "duracao_seg": 26.75,
+  "idioma_detectado": "pt"
+}

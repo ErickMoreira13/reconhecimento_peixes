@@ -1,0 +1,32 @@
+{
+  "texto": "Saiu! Olha o tamanho desse bruto! Engoli um anzol! Vamos que vamos! Bora! Valeu!",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 4.83,
+      "text": "Saiu!"
+    },
+    {
+      "start": 4.83,
+      "end": 6.9,
+      "text": "Olha o tamanho desse bruto!"
+    },
+    {
+      "start": 6.9,
+      "end": 9.15,
+      "text": "Engoli um anzol!"
+    },
+    {
+      "start": 9.15,
+      "end": 11.15,
+      "text": "Vamos que vamos!"
+    },
+    {
+      "start": 11.15,
+      "end": 13.15,
+      "text": "Bora! Valeu!"
+    }
+  ],
+  "duracao_seg": 13.33,
+  "idioma_detectado": "pt"
+}

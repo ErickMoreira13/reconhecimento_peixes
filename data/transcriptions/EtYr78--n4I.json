@@ -1,0 +1,212 @@
+{
+  "texto": "Olha, olha esse aqui, pera aí. Olha só o tamanho desse aracuzão aqui, ó. Não é o cabeça gordo, é o normal. Esse aqui é bonito, pessoal. Rapaz, que lindo, né? Esse aqui dá um frito, hein? É assim, tipo, aqui embaixo tem a ceva. A gente joga esses tucumãs aqui, ó. Tucumã, catauari, ó. É um ponto de ceva aqui da... Quem não conhecia esse tipo de pescaria, é show, ó. Show de bola. Aí deixa aqui, o peixe vem só comer aqui, hein? A gente jogando a isca. Aí faz esses... Aqui, ó, vou mostrar pra vocês. Pera aí, irmão. Ó, tá vendo aqui, ó? Raspa o tucumã e faz isso aqui e coloca no azão. Coloca no azãozinho, hein? Segura aqui, ó. Filma aqui pra mim. Pra mostrar. Tá filmando, né? Filma. Coloca, claro, com a tua mão. A gente pega a massinha do tucumão. Retira. Coloca aqui. Mostra lá, Rô. E joga, ó. Ó, joga. Deixa lá a porrada cantar. Filma do bichão. Ó. Tá lá, ó. Tá lá. Tchau. Tchau. Tchau. Tchau.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.28,
+      "text": "Olha, olha esse aqui, pera aí."
+    },
+    {
+      "start": 3.72,
+      "end": 6.44,
+      "text": "Olha só o tamanho desse aracuzão aqui, ó."
+    },
+    {
+      "start": 7.87,
+      "end": 9.65,
+      "text": "Não é o cabeça gordo, é o normal."
+    },
+    {
+      "start": 10.05,
+      "end": 11.75,
+      "text": "Esse aqui é bonito, pessoal."
+    },
+    {
+      "start": 13.04,
+      "end": 15.6,
+      "text": "Rapaz, que lindo, né?"
+    },
+    {
+      "start": 17.11,
+      "end": 18.57,
+      "text": "Esse aqui dá um frito, hein?"
+    },
+    {
+      "start": 22.36,
+      "end": 25.32,
+      "text": "É assim, tipo, aqui embaixo tem a ceva."
+    },
+    {
+      "start": 25.48,
+      "end": 26.92,
+      "text": "A gente joga esses tucumãs aqui, ó."
+    },
+    {
+      "start": 27.46,
+      "end": 30.4,
+      "text": "Tucumã, catauari, ó."
+    },
+    {
+      "start": 30.4,
+      "end": 35.06,
+      "text": "É um ponto de ceva aqui da..."
+    },
+    {
+      "start": 35.06,
+      "end": 40.07,
+      "text": "Quem não conhecia esse tipo de pescaria, é show, ó."
+    },
+    {
+      "start": 40.21,
+      "end": 40.97,
+      "text": "Show de bola."
+    },
+    {
+      "start": 43.84,
+      "end": 45.9,
+      "text": "Aí deixa aqui, o peixe vem só comer aqui, hein?"
+    },
+    {
+      "start": 45.9,
+      "end": 46.92,
+      "text": "A gente jogando a isca."
+    },
+    {
+      "start": 47.46,
+      "end": 49.1,
+      "text": "Aí faz esses..."
+    },
+    {
+      "start": 49.1,
+      "end": 50.22,
+      "text": "Aqui, ó, vou mostrar pra vocês."
+    },
+    {
+      "start": 50.32,
+      "end": 50.64,
+      "text": "Pera aí, irmão."
+    },
+    {
+      "start": 51.87,
+      "end": 55.04,
+      "text": "Ó, tá vendo aqui, ó?"
+    },
+    {
+      "start": 55.4,
+      "end": 58.7,
+      "text": "Raspa o tucumã e faz isso aqui e coloca no azão."
+    },
+    {
+      "start": 60.69,
+      "end": 61.95,
+      "text": "Coloca no azãozinho, hein?"
+    },
+    {
+      "start": 64.26,
+      "end": 64.96,
+      "text": "Segura aqui, ó."
+    },
+    {
+      "start": 65.8,
+      "end": 66.56,
+      "text": "Filma aqui pra mim."
+    },
+    {
+      "start": 67.43,
+      "end": 67.97,
+      "text": "Pra mostrar."
+    },
+    {
+      "start": 67.97,
+      "end": 69.47,
+      "text": "Tá filmando, né?"
+    },
+    {
+      "start": 69.53,
+      "end": 69.77,
+      "text": "Filma."
+    },
+    {
+      "start": 70.51,
+      "end": 71.69,
+      "text": "Coloca, claro, com a tua mão."
+    },
+    {
+      "start": 71.69,
+      "end": 86.74,
+      "text": "A gente pega a massinha do tucumão."
+    },
+    {
+      "start": 86.88,
+      "end": 87.26,
+      "text": "Retira."
+    },
+    {
+      "start": 89.93,
+      "end": 90.79,
+      "text": "Coloca aqui."
+    },
+    {
+      "start": 92.69,
+      "end": 93.29,
+      "text": "Mostra lá, Rô."
+    },
+    {
+      "start": 94.58,
+      "end": 98.56,
+      "text": "E joga, ó."
+    },
+    {
+      "start": 100.07,
+      "end": 102.22,
+      "text": "Ó, joga."
+    },
+    {
+      "start": 103.97,
+      "end": 105.65,
+      "text": "Deixa lá a porrada cantar."
+    },
+    {
+      "start": 106.7,
+      "end": 107.42,
+      "text": "Filma do bichão."
+    },
+    {
+      "start": 108.08,
+      "end": 108.26,
+      "text": "Ó."
+    },
+    {
+      "start": 109.07,
+      "end": 109.61,
+      "text": "Tá lá, ó."
+    },
+    {
+      "start": 109.61,
+      "end": 110.11,
+      "text": "Tá lá."
+    },
+    {
+      "start": 110.11,
+      "end": 110.47,
+      "text": "Tchau."
+    },
+    {
+      "start": 110.47,
+      "end": 110.81,
+      "text": "Tchau."
+    },
+    {
+      "start": 110.81,
+      "end": 110.87,
+      "text": "Tchau."
+    },
+    {
+      "start": 110.87,
+      "end": 110.95,
+      "text": "Tchau."
+    }
+  ],
+  "duracao_seg": 146.25,
+  "idioma_detectado": "pt"
+}

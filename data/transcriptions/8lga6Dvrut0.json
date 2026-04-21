@@ -1,0 +1,32 @@
+{
+  "texto": "Aí, galera, olha o tamanho do mantizinho que a gente pegou aqui no quebra. Nossa senhora, aqui não pode errar, não. Mano do céu. Jogou na tovira, velho. É um sorobenzinho isso aqui.",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 4.68,
+      "text": "Aí, galera, olha o tamanho do mantizinho que a gente pegou aqui no quebra."
+    },
+    {
+      "start": 7.3,
+      "end": 9.08,
+      "text": "Nossa senhora, aqui não pode errar, não."
+    },
+    {
+      "start": 14.3,
+      "end": 15.46,
+      "text": "Mano do céu."
+    },
+    {
+      "start": 17.92,
+      "end": 19.22,
+      "text": "Jogou na tovira, velho."
+    },
+    {
+      "start": 19.9,
+      "end": 21.08,
+      "text": "É um sorobenzinho isso aqui."
+    }
+  ],
+  "duracao_seg": 26.33,
+  "idioma_detectado": "pt"
+}

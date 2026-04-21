@@ -1,0 +1,27 @@
+{
+  "texto": "vou tratar um peixe hoje, olha aí, pescaria no molinês, entendeu? o frito, o almoço e a janta de hoje, agora vamos tratar um, agora cozinha, para depois dizer que rapaz, não pesca, não faz nada, mas eu faço, eu disse que não sou pescador, só porque eu sou branco que ela, já está tampado, já vai para o frito, vamos lá, vamos lá, vamos lá, vamos lá,",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.64,
+      "text": "vou tratar um peixe hoje, olha aí, pescaria no molinês, entendeu? o frito, o almoço e a"
+    },
+    {
+      "start": 8.64,
+      "end": 15.25,
+      "text": "janta de hoje, agora vamos tratar um, agora cozinha, para depois dizer que rapaz, não"
+    },
+    {
+      "start": 15.25,
+      "end": 25.63,
+      "text": "pesca, não faz nada, mas eu faço, eu disse que não sou pescador, só porque eu sou branco que ela,"
+    },
+    {
+      "start": 25.63,
+      "end": 39.5,
+      "text": "já está tampado, já vai para o frito, vamos lá, vamos lá, vamos lá, vamos lá,"
+    }
+  ],
+  "duracao_seg": 39.99,
+  "idioma_detectado": "pt"
+}

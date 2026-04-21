@@ -1,0 +1,27 @@
+{
+  "texto": "e aí galera mais uma com a milkshake mais um recorde um monstro só chama é nóis galera vou soltar a bichona já não vou ficar muito tempo que recebi só muito fácil de morrer muito frágil milkshake na banda levanta só mostra só mostra a vida é pra vida mostra é nóis",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.24,
+      "text": "e aí galera mais uma com a milkshake mais um recorde um monstro só chama é"
+    },
+    {
+      "start": 8.24,
+      "end": 13.72,
+      "text": "nóis galera vou soltar a bichona já não vou ficar muito tempo que recebi só"
+    },
+    {
+      "start": 13.72,
+      "end": 22.84,
+      "text": "muito fácil de morrer muito frágil milkshake na banda levanta só mostra só"
+    },
+    {
+      "start": 22.84,
+      "end": 32.14,
+      "text": "mostra a vida é pra vida mostra é nóis"
+    }
+  ],
+  "duracao_seg": 30.21,
+  "idioma_detectado": "pt"
+}

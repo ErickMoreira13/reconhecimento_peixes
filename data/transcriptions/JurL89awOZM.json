@@ -1,0 +1,27 @@
+{
+  "texto": "Eu acabei de pegar, e olha o Flamengo galera, esse aqui foi o maior que eu peguei, e você pode estar deixando aquele like, se inscrever no canal, e deixa um comentário também. Pensa que é grande ou não, esse aqui é grande ou não, ó, ó, ó, tamanho, é grande ou não? Grandão demais. É isso aí, deixa aquele like e se inscreve no canal.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 11.18,
+      "text": "Eu acabei de pegar, e olha o Flamengo galera, esse aqui foi o maior que eu peguei, e você pode estar deixando aquele like, se inscrever no canal, e deixa um comentário também."
+    },
+    {
+      "start": 11.78,
+      "end": 18.31,
+      "text": "Pensa que é grande ou não, esse aqui é grande ou não, ó, ó, ó, tamanho, é grande ou não?"
+    },
+    {
+      "start": 18.97,
+      "end": 19.73,
+      "text": "Grandão demais."
+    },
+    {
+      "start": 20.15,
+      "end": 21.63,
+      "text": "É isso aí, deixa aquele like e se inscreve no canal."
+    }
+  ],
+  "duracao_seg": 22.01,
+  "idioma_detectado": "pt"
+}

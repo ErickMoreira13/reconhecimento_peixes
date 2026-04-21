@@ -1,0 +1,22 @@
+{
+  "texto": "Eee, tardezinha boa. Olha aí, começaram a aparecer os bichão, galera. Tem os pacu e os aracu agora, olha aí, ó. Só peixe grande.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 5.1,
+      "text": "Eee, tardezinha boa. Olha aí, começaram a aparecer os bichão, galera."
+    },
+    {
+      "start": 6.42,
+      "end": 9.22,
+      "text": "Tem os pacu e os aracu agora, olha aí, ó."
+    },
+    {
+      "start": 9.64,
+      "end": 11.56,
+      "text": "Só peixe grande."
+    }
+  ],
+  "duracao_seg": 12.39,
+  "idioma_detectado": "pt"
+}

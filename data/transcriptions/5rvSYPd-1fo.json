@@ -1,0 +1,37 @@
+{
+  "texto": "Gente, esse é o Piau Flamengo roubador de risca. Olha a boquinha dele, por isso que não dá pra pegar. Vai indo a gente consegue. Eu peguei isso pra barriga aqui, ó, Marcos. Então vamos soltar ele, André. Piauzinho, o André vai soltar, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Gente, esse é o Piau Flamengo roubador de risca."
+    },
+    {
+      "start": 3.3,
+      "end": 6.4,
+      "text": "Olha a boquinha dele, por isso que não dá pra pegar."
+    },
+    {
+      "start": 7.7,
+      "end": 9.0,
+      "text": "Vai indo a gente consegue."
+    },
+    {
+      "start": 9.46,
+      "end": 11.74,
+      "text": "Eu peguei isso pra barriga aqui, ó, Marcos."
+    },
+    {
+      "start": 13.12,
+      "end": 14.48,
+      "text": "Então vamos soltar ele, André."
+    },
+    {
+      "start": 15.54,
+      "end": 16.92,
+      "text": "Piauzinho, o André vai soltar, ó."
+    }
+  ],
+  "duracao_seg": 20.95,
+  "idioma_detectado": "pt"
+}

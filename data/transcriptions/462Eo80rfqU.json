@@ -1,0 +1,377 @@
+{
+  "texto": "Olá, meus amigos, bom dia. Aqui é quem eu falo, é o mamute pescador de barranco. Acabei de chegar aqui agora, né? Fazia tempo que eu não via pra esse lugar aqui, né? As varas já estão armadas. Vamos tentar amar uma pescaria aí, beleza? Aí, dependendo se é alguns tucunaré, alguns apaiaria, até mesmo tilápia ou piranha, vai sair nas fisgadas pra vocês aí. Se você gostar do vídeo aí, dê aquela forcinha pra mim lá, beleza? Não esqueça de deixar o seu gostei e o seu joinha, tá bom? Bora trabalhar, vamos pescar. Tchau, galera. Fui. Pegou o primeiro, galera. Ah, que droga, escapou. Estourou, não escapou. Claro, você escapou, safado. Agora você não escapa, não. Aí, galera, paiarizão bonito, ó. Primeiro saio, ó, onde já escapou. Você vai pro óleo. Primeiro, galera. Segundo, galera, quer dizer. Olha o trick. Nossa, você engolou ele lá no fundo. Ó, azulzinho, galera. Coisa linda. Foi embora. Ainda bem que não pegou na guia orradeira, senão tem que levar ele embora pra fritar ele, coitado. Você é feroz, hein? Com um brico. Olha que bonitão, ó. Mais um, ó. Vem cá, abocudinho. Aí não, ô safado. Olha que bonito, galera, ó. Triquezinho, ó. Segundo do dia. Ah, se fosse na época que eu levava vocês embora, hein? Vai, trick. Saiu bonito. Tira logo esse peixe, entendeu? Se puxou, hein? Esse é um peixe forte. Esse aqui, ó. Pro óleo. Ai, que merda. Escapou. Pegou sem vergonha até que, enfim. Já chegou da... Coitão esse, hein? Olha aí o tamanho disso aqui. Que jegue de apaiaria, cara. Olha aí, ó. Isso dá quase um quilo. Pegou. Se puxou firme, hein? Vem na ceva, safado. Tá pensando em ir embora já, hein? Olha aí, ó. Que bitelo. Tamanho de apaiaria, galera. Ó. Isso dá gosto de brigar. Não sei o que é, não. Hum. Não aguentou. Estourou. Não aguentou. Isso aqui tem algum toco no fundo aí, caramba. Certeza. Essa porcaria, viu? Isso só dá errado. Se tivesse, já vazou. Ele tá... Ele tá já com ovo já, cara. Não tá batendo mais, não.",
+  "segmentos": [
+    {
+      "start": 19.28,
+      "end": 20.64,
+      "text": "Olá, meus amigos, bom dia."
+    },
+    {
+      "start": 22.22,
+      "end": 24.46,
+      "text": "Aqui é quem eu falo, é o mamute pescador de barranco."
+    },
+    {
+      "start": 25.91,
+      "end": 27.25,
+      "text": "Acabei de chegar aqui agora, né?"
+    },
+    {
+      "start": 29.78,
+      "end": 31.48,
+      "text": "Fazia tempo que eu não via pra esse lugar aqui, né?"
+    },
+    {
+      "start": 32.65,
+      "end": 33.71,
+      "text": "As varas já estão armadas."
+    },
+    {
+      "start": 35.74,
+      "end": 37.16,
+      "text": "Vamos tentar amar uma pescaria aí, beleza?"
+    },
+    {
+      "start": 38.32,
+      "end": 42.08,
+      "text": "Aí, dependendo se é alguns tucunaré, alguns apaiaria, até mesmo tilápia ou piranha,"
+    },
+    {
+      "start": 42.8,
+      "end": 44.36,
+      "text": "vai sair nas fisgadas pra vocês aí."
+    },
+    {
+      "start": 46.68,
+      "end": 49.26,
+      "text": "Se você gostar do vídeo aí, dê aquela forcinha pra mim lá, beleza?"
+    },
+    {
+      "start": 49.34,
+      "end": 51.5,
+      "text": "Não esqueça de deixar o seu gostei e o seu joinha, tá bom?"
+    },
+    {
+      "start": 52.55,
+      "end": 53.93,
+      "text": "Bora trabalhar, vamos pescar."
+    },
+    {
+      "start": 53.93,
+      "end": 55.17,
+      "text": "Tchau, galera. Fui."
+    },
+    {
+      "start": 55.17,
+      "end": 64.25,
+      "text": "Pegou o primeiro, galera."
+    },
+    {
+      "start": 78.16,
+      "end": 79.72,
+      "text": "Ah, que droga, escapou."
+    },
+    {
+      "start": 82.88,
+      "end": 84.18,
+      "text": "Estourou, não escapou."
+    },
+    {
+      "start": 113.74,
+      "end": 115.82,
+      "text": "Claro, você escapou, safado. Agora você não escapa, não."
+    },
+    {
+      "start": 129.95,
+      "end": 131.53,
+      "text": "Aí, galera, paiarizão bonito, ó."
+    },
+    {
+      "start": 132.15,
+      "end": 133.77,
+      "text": "Primeiro saio, ó, onde já escapou."
+    },
+    {
+      "start": 137.55,
+      "end": 138.41,
+      "text": "Você vai pro óleo."
+    },
+    {
+      "start": 153.77,
+      "end": 155.67,
+      "text": "Primeiro, galera. Segundo, galera, quer dizer."
+    },
+    {
+      "start": 160.37,
+      "end": 161.05,
+      "text": "Olha o trick."
+    },
+    {
+      "start": 163.32,
+      "end": 164.54,
+      "text": "Nossa, você engolou ele lá no fundo."
+    },
+    {
+      "start": 166.04,
+      "end": 167.12,
+      "text": "Ó, azulzinho, galera."
+    },
+    {
+      "start": 168.11,
+      "end": 168.71,
+      "text": "Coisa linda."
+    },
+    {
+      "start": 198.78,
+      "end": 199.34,
+      "text": "Foi embora."
+    },
+    {
+      "start": 199.74,
+      "end": 204.8,
+      "text": "Ainda bem que não pegou na guia orradeira, senão tem que levar ele embora pra fritar ele, coitado."
+    },
+    {
+      "start": 204.8,
+      "end": 222.11,
+      "text": "Você é feroz, hein?"
+    },
+    {
+      "start": 236.79,
+      "end": 237.37,
+      "text": "Com um brico."
+    },
+    {
+      "start": 285.38,
+      "end": 286.28,
+      "text": "Olha que bonitão, ó."
+    },
+    {
+      "start": 308.86,
+      "end": 309.54,
+      "text": "Mais um, ó."
+    },
+    {
+      "start": 309.54,
+      "end": 310.36,
+      "text": "Vem cá, abocudinho."
+    },
+    {
+      "start": 320.89,
+      "end": 321.87,
+      "text": "Aí não, ô safado."
+    },
+    {
+      "start": 331.98,
+      "end": 333.06,
+      "text": "Olha que bonito, galera, ó."
+    },
+    {
+      "start": 343.9,
+      "end": 344.56,
+      "text": "Triquezinho, ó."
+    },
+    {
+      "start": 345.84,
+      "end": 346.68,
+      "text": "Segundo do dia."
+    },
+    {
+      "start": 356.57,
+      "end": 358.77,
+      "text": "Ah, se fosse na época que eu levava vocês embora, hein?"
+    },
+    {
+      "start": 373.5,
+      "end": 373.94,
+      "text": "Vai, trick."
+    },
+    {
+      "start": 374.06,
+      "end": 374.64,
+      "text": "Saiu bonito."
+    },
+    {
+      "start": 374.64,
+      "end": 439.86,
+      "text": "Tira logo esse peixe, entendeu?"
+    },
+    {
+      "start": 442.39,
+      "end": 443.23,
+      "text": "Se puxou, hein?"
+    },
+    {
+      "start": 443.75,
+      "end": 449.47,
+      "text": "Esse é um peixe forte."
+    },
+    {
+      "start": 449.55,
+      "end": 450.03,
+      "text": "Esse aqui, ó."
+    },
+    {
+      "start": 450.37,
+      "end": 470.27,
+      "text": "Pro óleo."
+    },
+    {
+      "start": 470.73,
+      "end": 482.12,
+      "text": "Ai, que merda."
+    },
+    {
+      "start": 489.93,
+      "end": 490.41,
+      "text": "Escapou."
+    },
+    {
+      "start": 507.2,
+      "end": 508.8,
+      "text": "Pegou sem vergonha até que, enfim."
+    },
+    {
+      "start": 509.26,
+      "end": 537.88,
+      "text": "Já chegou da..."
+    },
+    {
+      "start": 537.88,
+      "end": 539.82,
+      "text": "Coitão esse, hein?"
+    },
+    {
+      "start": 540.38,
+      "end": 541.34,
+      "text": "Olha aí o tamanho disso aqui."
+    },
+    {
+      "start": 542.51,
+      "end": 544.13,
+      "text": "Que jegue de apaiaria, cara."
+    },
+    {
+      "start": 544.31,
+      "end": 545.01,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 545.01,
+      "end": 549.25,
+      "text": "Isso dá quase um quilo."
+    },
+    {
+      "start": 559.11,
+      "end": 559.51,
+      "text": "Pegou."
+    },
+    {
+      "start": 569.26,
+      "end": 570.38,
+      "text": "Se puxou firme, hein?"
+    },
+    {
+      "start": 573.57,
+      "end": 575.07,
+      "text": "Vem na ceva, safado."
+    },
+    {
+      "start": 575.53,
+      "end": 595.45,
+      "text": "Tá pensando em ir embora já, hein?"
+    },
+    {
+      "start": 595.45,
+      "end": 606.7,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 607.2,
+      "end": 607.88,
+      "text": "Que bitelo."
+    },
+    {
+      "start": 610.94,
+      "end": 612.22,
+      "text": "Tamanho de apaiaria, galera."
+    },
+    {
+      "start": 615.76,
+      "end": 615.96,
+      "text": "Ó."
+    },
+    {
+      "start": 617.98,
+      "end": 619.12,
+      "text": "Isso dá gosto de brigar."
+    },
+    {
+      "start": 624.87,
+      "end": 625.83,
+      "text": "Não sei o que é, não."
+    },
+    {
+      "start": 678.52,
+      "end": 678.84,
+      "text": "Hum."
+    },
+    {
+      "start": 679.02,
+      "end": 679.66,
+      "text": "Não aguentou."
+    },
+    {
+      "start": 685.07,
+      "end": 685.51,
+      "text": "Estourou."
+    },
+    {
+      "start": 699.19,
+      "end": 700.13,
+      "text": "Não aguentou."
+    },
+    {
+      "start": 710.22,
+      "end": 712.18,
+      "text": "Isso aqui tem algum toco no fundo aí, caramba."
+    },
+    {
+      "start": 719.7,
+      "end": 720.18,
+      "text": "Certeza."
+    },
+    {
+      "start": 720.62,
+      "end": 869.05,
+      "text": "Essa porcaria, viu?"
+    },
+    {
+      "start": 869.94,
+      "end": 870.88,
+      "text": "Isso só dá errado."
+    },
+    {
+      "start": 870.88,
+      "end": 1099.77,
+      "text": "Se tivesse, já vazou."
+    },
+    {
+      "start": 1099.87,
+      "end": 1100.05,
+      "text": "Ele tá..."
+    },
+    {
+      "start": 1100.69,
+      "end": 1103.28,
+      "text": "Ele tá já com ovo já, cara."
+    },
+    {
+      "start": 1103.28,
+      "end": 1104.06,
+      "text": "Não tá batendo mais, não."
+    }
+  ],
+  "duracao_seg": 1267.69,
+  "idioma_detectado": "pt"
+}

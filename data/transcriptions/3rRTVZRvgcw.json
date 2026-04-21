@@ -1,0 +1,17 @@
+{
+  "texto": "Olha a sarda aí, maluco! Que vai levar pro frito já, já dá.",
+  "segmentos": [
+    {
+      "start": 2.16,
+      "end": 4.62,
+      "text": "Olha a sarda aí, maluco!"
+    },
+    {
+      "start": 5.53,
+      "end": 7.39,
+      "text": "Que vai levar pro frito já, já dá."
+    }
+  ],
+  "duracao_seg": 9.73,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Esse peixe é o mandi. Ele é bem bonito, ó. Só não pode deixar ele espetar seu dedo. Senão você vai parar no hospital. Isso aqui frita uma delícia.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "Esse peixe é o mandi."
+    },
+    {
+      "start": 2.58,
+      "end": 3.56,
+      "text": "Ele é bem bonito, ó."
+    },
+    {
+      "start": 4.02,
+      "end": 5.82,
+      "text": "Só não pode deixar ele espetar seu dedo."
+    },
+    {
+      "start": 6.4,
+      "end": 7.74,
+      "text": "Senão você vai parar no hospital."
+    },
+    {
+      "start": 8.87,
+      "end": 10.21,
+      "text": "Isso aqui frita uma delícia."
+    }
+  ],
+  "duracao_seg": 11.13,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "O peixe é bom, sei que peixe é não O peixe está de baixo, está cortado Amorão, está a mão do mordi, gente? Ei!",
+  "segmentos": [
+    {
+      "start": 13.17,
+      "end": 15.17,
+      "text": "O peixe é bom, sei que peixe é não"
+    },
+    {
+      "start": 15.17,
+      "end": 17.17,
+      "text": "O peixe está de baixo, está cortado"
+    },
+    {
+      "start": 17.17,
+      "end": 22.34,
+      "text": "Amorão, está a mão do mordi, gente?"
+    },
+    {
+      "start": 22.34,
+      "end": 24.34,
+      "text": "Ei!"
+    }
+  ],
+  "duracao_seg": 24.13,
+  "idioma_detectado": "pt"
+}

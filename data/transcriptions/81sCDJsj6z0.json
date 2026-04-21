@@ -1,0 +1,17 @@
+{
+  "texto": "tá filmando já? bora menino! olha aí ó, variedade de peixe ó, os tucuno, corralbaiano, os tucunão e aí pessoal, o dos mucuninho, olha aí Zay! é porque ainda é 4 horas da manhã, quando der 5 você vai ver",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 8.92,
+      "text": "tá filmando já? bora menino! olha aí ó, variedade de peixe ó, os tucuno, corralbaiano, os tucunão"
+    },
+    {
+      "start": 8.92,
+      "end": 16.08,
+      "text": "e aí pessoal, o dos mucuninho, olha aí Zay! é porque ainda é 4 horas da manhã, quando der 5 você vai ver"
+    }
+  ],
+  "duracao_seg": 16.13,
+  "idioma_detectado": "pt"
+}

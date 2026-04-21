@@ -1,0 +1,17 @@
+{
+  "texto": "Paiari Paiari",
+  "segmentos": [
+    {
+      "start": 1.23,
+      "end": 12.82,
+      "text": "Paiari"
+    },
+    {
+      "start": 12.82,
+      "end": 15.58,
+      "text": "Paiari"
+    }
+  ],
+  "duracao_seg": 29.87,
+  "idioma_detectado": "pt"
+}

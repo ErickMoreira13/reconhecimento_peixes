@@ -1,0 +1,32 @@
+{
+  "texto": "Olha que peixão, pera aí, segura que é grandão. Aê, André! André, será que dá um quilo esse mandinho, André? Olha que beleza, gente. E curdo e pesado.",
+  "segmentos": [
+    {
+      "start": 1.58,
+      "end": 3.66,
+      "text": "Olha que peixão, pera aí, segura que é grandão."
+    },
+    {
+      "start": 8.01,
+      "end": 8.71,
+      "text": "Aê, André!"
+    },
+    {
+      "start": 10.22,
+      "end": 12.48,
+      "text": "André, será que dá um quilo esse mandinho, André?"
+    },
+    {
+      "start": 13.77,
+      "end": 15.25,
+      "text": "Olha que beleza, gente."
+    },
+    {
+      "start": 17.7,
+      "end": 18.8,
+      "text": "E curdo e pesado."
+    }
+  ],
+  "duracao_seg": 19.21,
+  "idioma_detectado": "pt"
+}

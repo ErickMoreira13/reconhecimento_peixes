@@ -1,0 +1,37 @@
+{
+  "texto": "Rapaziada, mandizinho no ferrinho Dá pra vir? Não, vai tá vindo Olha a estruturinha ali, ó Barrancão, filho Tá doido",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 2.78,
+      "text": "Rapaziada, mandizinho no ferrinho"
+    },
+    {
+      "start": 2.78,
+      "end": 3.72,
+      "text": "Dá pra vir?"
+    },
+    {
+      "start": 3.72,
+      "end": 4.7,
+      "text": "Não, vai tá vindo"
+    },
+    {
+      "start": 4.7,
+      "end": 8.32,
+      "text": "Olha a estruturinha ali, ó"
+    },
+    {
+      "start": 8.32,
+      "end": 10.44,
+      "text": "Barrancão, filho"
+    },
+    {
+      "start": 10.44,
+      "end": 12.33,
+      "text": "Tá doido"
+    }
+  ],
+  "duracao_seg": 13.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Pessoal, nós vamos estar fazendo um frito de piau fromega aqui em casa, para estar mostrando aí para vocês, vou acompanhando aí Pessoal, como ficou retalhadinho, ó, isso aqui fica topo para pegar o tempero e corta os espinhos O piau aqui já na gordura quente, vamos ver se está quente, aí pessoal, vai compirar? Aí pessoal, que maravilha, isso fica bom, hein, ó, deixa nos comentários aí O que vocês acham de um peixinho frito assim?",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 7.1,
+      "text": "Pessoal, nós vamos estar fazendo um frito de piau fromega aqui em casa, para estar mostrando aí para vocês, vou acompanhando aí"
+    },
+    {
+      "start": 7.1,
+      "end": 22.85,
+      "text": "Pessoal, como ficou retalhadinho, ó, isso aqui fica topo para pegar o tempero e corta os espinhos"
+    },
+    {
+      "start": 22.85,
+      "end": 43.86,
+      "text": "O piau aqui já na gordura quente, vamos ver se está quente, aí pessoal, vai compirar?"
+    },
+    {
+      "start": 44.38,
+      "end": 56.22,
+      "text": "Aí pessoal, que maravilha, isso fica bom, hein, ó, deixa nos comentários aí"
+    },
+    {
+      "start": 56.22,
+      "end": 59.1,
+      "text": "O que vocês acham de um peixinho frito assim?"
+    }
+  ],
+  "duracao_seg": 60.99,
+  "idioma_detectado": "pt"
+}

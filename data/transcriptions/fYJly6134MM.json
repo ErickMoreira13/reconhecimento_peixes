@@ -1,0 +1,42 @@
+{
+  "texto": "galera eu estou pescando com isca de jori agora eu peguei umas sardinhas nos pacu agora é com isca de jori ele cai daí em cima bate e vem comer vamos fazer um caldo de aracu beleza?",
+  "segmentos": [
+    {
+      "start": 400.05,
+      "end": 402.05,
+      "text": "galera eu estou pescando com isca de jori"
+    },
+    {
+      "start": 402.05,
+      "end": 405.11,
+      "text": "agora eu peguei umas sardinhas nos pacu"
+    },
+    {
+      "start": 405.11,
+      "end": 407.46,
+      "text": "agora é com isca de jori"
+    },
+    {
+      "start": 407.46,
+      "end": 409.94,
+      "text": "ele cai daí em cima"
+    },
+    {
+      "start": 409.94,
+      "end": 413.0,
+      "text": "bate e vem comer"
+    },
+    {
+      "start": 413.0,
+      "end": 526.84,
+      "text": "vamos fazer um caldo de aracu"
+    },
+    {
+      "start": 526.84,
+      "end": 528.84,
+      "text": "beleza?"
+    }
+  ],
+  "duracao_seg": 564.19,
+  "idioma_detectado": "pt"
+}

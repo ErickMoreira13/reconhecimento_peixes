@@ -1,0 +1,332 @@
+{
+  "texto": "Estamos aí chegando aqui para fazer uma pescaria de mandia amarelo no rio Paraíbumo, Paraúna. Estamos aqui para fazer uma pescaria de mandia amarelo no rio Paraúna. O rio também amarelo hoje, mas vamos ver o que a gente dá aí. Varinha, água com a ceba. Vamos lá. Fica para a gente porque hoje tem peixe. Pesca tupi, acompanha o arremesso para pegar a mandia amarela. Nós estamos no rio Paraúna em Presidente Juscelino, logo depois de turdeiro. Lá na boca do peixe, na boquinha. Tem que beliscar aqui e a gente volta. Olha a mandia amarela. Eita! A minhoquinha está chegando aqui. Olha! Que beleza! Mandizão amarelo! Opa! Aí! Olha aí, Fernando! Obrigado por levar para você esse aqui. Peço para você, hein! Falou! Boa! O que é isso aí, Maurão? Parece mais um mandizinho amarelo na nossa. O que é isso, hein? Aqui é pesca tupi. Aqui é pesca tupi, meu irmão. Olha! Olha! Vem ele ali, olha! Podia cair dentro da água, hein, Mauro? Para a gente ir. Olha! Mandizinho amarelo! Olha! Mandizinho amarelo! Olha o tamanho do bicho! Olha! Que é isso! Olha para cá, Mauro! Aí, galera! Olha! Deixa ele virar! Deixa ele virar! Vira, vira, vira, vira! Vira bonito! Aí! Aí, rapaz! Olha! Que é isso, hein! Vamos soltar, viu, gente? Vamos desligar aqui para a gente soltar! Nós vamos ficando por aqui. E a pescaria de hoje, apesar da gente praticar o pesque solte, vocês viram aí que nós estamos pegando os mandizinhos para a gente comer mesmo. Então, isso não estamos fazendo nada demais. É assim mesmo que a gente faz, comer o mandizinho aqui na beirada. E é isso aí! Oi! Rio Paraúna, pescaria de mandia amarelo! Muito obrigado! Deixe seu like, compartilhe e se inscreva no canal aí para dar aquela força! Beleza? Valeu! Um abraço! Até a próxima!",
+  "segmentos": [
+    {
+      "start": 1.14,
+      "end": 10.39,
+      "text": "Estamos aí chegando aqui para fazer uma pescaria de mandia amarelo no rio Paraíbumo, Paraúna."
+    },
+    {
+      "start": 10.39,
+      "end": 15.74,
+      "text": "Estamos aqui para fazer uma pescaria de mandia amarelo no rio Paraúna."
+    },
+    {
+      "start": 15.74,
+      "end": 21.32,
+      "text": "O rio também amarelo hoje, mas vamos ver o que a gente dá aí."
+    },
+    {
+      "start": 21.32,
+      "end": 24.32,
+      "text": "Varinha, água com a ceba."
+    },
+    {
+      "start": 24.32,
+      "end": 28.48,
+      "text": "Vamos lá. Fica para a gente porque hoje tem peixe."
+    },
+    {
+      "start": 28.48,
+      "end": 75.85,
+      "text": "Pesca tupi, acompanha o arremesso para pegar a mandia amarela."
+    },
+    {
+      "start": 75.85,
+      "end": 81.85,
+      "text": "Nós estamos no rio Paraúna em Presidente Juscelino, logo depois de turdeiro."
+    },
+    {
+      "start": 81.85,
+      "end": 99.67,
+      "text": "Lá na boca do peixe, na boquinha."
+    },
+    {
+      "start": 99.67,
+      "end": 103.92,
+      "text": "Tem que beliscar aqui e a gente volta."
+    },
+    {
+      "start": 103.92,
+      "end": 110.63,
+      "text": "Olha a mandia amarela."
+    },
+    {
+      "start": 110.63,
+      "end": 113.46,
+      "text": "Eita!"
+    },
+    {
+      "start": 113.46,
+      "end": 119.26,
+      "text": "A minhoquinha está chegando aqui."
+    },
+    {
+      "start": 119.26,
+      "end": 124.69,
+      "text": "Olha! Que beleza!"
+    },
+    {
+      "start": 124.69,
+      "end": 128.86,
+      "text": "Mandizão amarelo!"
+    },
+    {
+      "start": 128.86,
+      "end": 129.86,
+      "text": "Opa!"
+    },
+    {
+      "start": 129.86,
+      "end": 131.18,
+      "text": "Aí!"
+    },
+    {
+      "start": 131.18,
+      "end": 133.18,
+      "text": "Olha aí, Fernando!"
+    },
+    {
+      "start": 133.18,
+      "end": 134.18,
+      "text": "Obrigado por levar para você esse aqui."
+    },
+    {
+      "start": 134.18,
+      "end": 137.02,
+      "text": "Peço para você, hein!"
+    },
+    {
+      "start": 137.02,
+      "end": 138.02,
+      "text": "Falou!"
+    },
+    {
+      "start": 138.02,
+      "end": 139.02,
+      "text": "Boa!"
+    },
+    {
+      "start": 148.7,
+      "end": 163.75,
+      "text": "O que é isso aí, Maurão?"
+    },
+    {
+      "start": 163.75,
+      "end": 165.75,
+      "text": "Parece mais um mandizinho amarelo na nossa."
+    },
+    {
+      "start": 165.75,
+      "end": 168.46,
+      "text": "O que é isso, hein?"
+    },
+    {
+      "start": 168.46,
+      "end": 170.46,
+      "text": "Aqui é pesca tupi."
+    },
+    {
+      "start": 170.46,
+      "end": 172.46,
+      "text": "Aqui é pesca tupi, meu irmão."
+    },
+    {
+      "start": 172.46,
+      "end": 173.97,
+      "text": "Olha!"
+    },
+    {
+      "start": 173.97,
+      "end": 175.77,
+      "text": "Olha!"
+    },
+    {
+      "start": 175.77,
+      "end": 176.77,
+      "text": "Vem ele ali, olha!"
+    },
+    {
+      "start": 176.77,
+      "end": 179.43,
+      "text": "Podia cair dentro da água, hein, Mauro?"
+    },
+    {
+      "start": 179.43,
+      "end": 180.43,
+      "text": "Para a gente ir."
+    },
+    {
+      "start": 180.43,
+      "end": 181.43,
+      "text": "Olha!"
+    },
+    {
+      "start": 181.43,
+      "end": 183.43,
+      "text": "Mandizinho amarelo!"
+    },
+    {
+      "start": 183.43,
+      "end": 184.43,
+      "text": "Olha!"
+    },
+    {
+      "start": 184.43,
+      "end": 186.43,
+      "text": "Mandizinho amarelo!"
+    },
+    {
+      "start": 186.43,
+      "end": 189.43,
+      "text": "Olha o tamanho do bicho!"
+    },
+    {
+      "start": 189.43,
+      "end": 190.43,
+      "text": "Olha!"
+    },
+    {
+      "start": 190.43,
+      "end": 193.03,
+      "text": "Que é isso!"
+    },
+    {
+      "start": 193.03,
+      "end": 194.03,
+      "text": "Olha para cá, Mauro!"
+    },
+    {
+      "start": 194.03,
+      "end": 195.03,
+      "text": "Aí, galera!"
+    },
+    {
+      "start": 195.03,
+      "end": 196.03,
+      "text": "Olha!"
+    },
+    {
+      "start": 196.03,
+      "end": 197.03,
+      "text": "Deixa ele virar!"
+    },
+    {
+      "start": 197.03,
+      "end": 198.03,
+      "text": "Deixa ele virar!"
+    },
+    {
+      "start": 198.03,
+      "end": 201.09,
+      "text": "Vira, vira, vira, vira!"
+    },
+    {
+      "start": 201.09,
+      "end": 202.7,
+      "text": "Vira bonito!"
+    },
+    {
+      "start": 202.7,
+      "end": 203.7,
+      "text": "Aí!"
+    },
+    {
+      "start": 203.7,
+      "end": 204.7,
+      "text": "Aí, rapaz!"
+    },
+    {
+      "start": 204.7,
+      "end": 205.7,
+      "text": "Olha!"
+    },
+    {
+      "start": 205.7,
+      "end": 206.92,
+      "text": "Que é isso, hein!"
+    },
+    {
+      "start": 206.92,
+      "end": 207.92,
+      "text": "Vamos soltar, viu, gente?"
+    },
+    {
+      "start": 207.92,
+      "end": 209.92,
+      "text": "Vamos desligar aqui para a gente soltar!"
+    },
+    {
+      "start": 223.02,
+      "end": 224.02,
+      "text": "Nós vamos ficando por aqui."
+    },
+    {
+      "start": 224.02,
+      "end": 230.02,
+      "text": "E a pescaria de hoje, apesar da gente praticar o pesque solte, vocês viram aí que nós estamos"
+    },
+    {
+      "start": 230.02,
+      "end": 232.02,
+      "text": "pegando os mandizinhos para a gente comer mesmo."
+    },
+    {
+      "start": 232.02,
+      "end": 235.02,
+      "text": "Então, isso não estamos fazendo nada demais."
+    },
+    {
+      "start": 235.02,
+      "end": 238.02,
+      "text": "É assim mesmo que a gente faz, comer o mandizinho aqui na beirada."
+    },
+    {
+      "start": 238.02,
+      "end": 239.02,
+      "text": "E é isso aí!"
+    },
+    {
+      "start": 239.02,
+      "end": 240.02,
+      "text": "Oi!"
+    },
+    {
+      "start": 240.02,
+      "end": 244.02,
+      "text": "Rio Paraúna, pescaria de mandia amarelo!"
+    },
+    {
+      "start": 244.02,
+      "end": 245.02,
+      "text": "Muito obrigado!"
+    },
+    {
+      "start": 245.02,
+      "end": 249.02,
+      "text": "Deixe seu like, compartilhe e se inscreva no canal aí para dar aquela força!"
+    },
+    {
+      "start": 249.02,
+      "end": 250.02,
+      "text": "Beleza?"
+    },
+    {
+      "start": 250.02,
+      "end": 251.02,
+      "text": "Valeu!"
+    },
+    {
+      "start": 251.02,
+      "end": 252.02,
+      "text": "Um abraço!"
+    },
+    {
+      "start": 252.02,
+      "end": 253.02,
+      "text": "Até a próxima!"
+    }
+  ],
+  "duracao_seg": 263.95,
+  "idioma_detectado": "pt"
+}

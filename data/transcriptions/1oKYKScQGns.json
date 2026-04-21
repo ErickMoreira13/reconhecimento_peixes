@@ -1,0 +1,42 @@
+{
+  "texto": "Aí, tamanho do Jundiá. Olha o tamanho gris lá dentro. Olha o tamanhão. Cruz, cara. Olha o tamanhão. Credo. Falei que era um...",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 3.22,
+      "text": "Aí, tamanho do Jundiá."
+    },
+    {
+      "start": 3.54,
+      "end": 4.5,
+      "text": "Olha o tamanho gris lá dentro."
+    },
+    {
+      "start": 6.06,
+      "end": 8.1,
+      "text": "Olha o tamanhão."
+    },
+    {
+      "start": 8.5,
+      "end": 9.4,
+      "text": "Cruz, cara."
+    },
+    {
+      "start": 9.84,
+      "end": 12.73,
+      "text": "Olha o tamanhão."
+    },
+    {
+      "start": 13.15,
+      "end": 13.75,
+      "text": "Credo."
+    },
+    {
+      "start": 17.75,
+      "end": 18.85,
+      "text": "Falei que era um..."
+    }
+  ],
+  "duracao_seg": 18.89,
+  "idioma_detectado": "pt"
+}

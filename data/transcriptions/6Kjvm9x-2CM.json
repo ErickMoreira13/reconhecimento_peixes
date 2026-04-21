@@ -1,0 +1,32 @@
+{
+  "texto": "Deixa aí. Saca só o tamanho desse aracu, meu irmão! Valeu a pena, velho. É louco, velho? Valeu a pena, hein? Monstro, velho! Aracu, cabelo.",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 4.71,
+      "text": "Deixa aí. Saca só o tamanho desse aracu, meu irmão!"
+    },
+    {
+      "start": 5.45,
+      "end": 6.03,
+      "text": "Valeu a pena, velho."
+    },
+    {
+      "start": 6.03,
+      "end": 6.61,
+      "text": "É louco, velho?"
+    },
+    {
+      "start": 7.05,
+      "end": 7.93,
+      "text": "Valeu a pena, hein?"
+    },
+    {
+      "start": 8.33,
+      "end": 9.41,
+      "text": "Monstro, velho! Aracu, cabelo."
+    }
+  ],
+  "duracao_seg": 9.41,
+  "idioma_detectado": "pt"
+}

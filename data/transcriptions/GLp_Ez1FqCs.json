@@ -1,0 +1,32 @@
+{
+  "texto": "E aí Wilson, mais uma vez é a tua isca bombando aqui ó No tatuacá Na chuva Na chuva, papaiapapá É",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "E aí Wilson, mais uma vez é a tua isca bombando aqui ó"
+    },
+    {
+      "start": 3.66,
+      "end": 5.34,
+      "text": "No tatuacá"
+    },
+    {
+      "start": 5.34,
+      "end": 6.14,
+      "text": "Na chuva"
+    },
+    {
+      "start": 6.14,
+      "end": 8.34,
+      "text": "Na chuva, papaiapapá"
+    },
+    {
+      "start": 8.34,
+      "end": 8.82,
+      "text": "É"
+    }
+  ],
+  "duracao_seg": 10.35,
+  "idioma_detectado": "pt"
+}

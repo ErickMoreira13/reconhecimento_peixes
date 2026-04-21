@@ -1,0 +1,37 @@
+{
+  "texto": "Olha aí, pescador. Vocês aí, ó. Só que era atrás de Tucunaré. Olha aí, ó. Esse é o araco cabeça gorda ali, ó. Vocês.",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 1.87,
+      "text": "Olha aí, pescador."
+    },
+    {
+      "start": 2.19,
+      "end": 2.89,
+      "text": "Vocês aí, ó."
+    },
+    {
+      "start": 3.37,
+      "end": 4.59,
+      "text": "Só que era atrás de Tucunaré."
+    },
+    {
+      "start": 5.53,
+      "end": 6.05,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 8.0,
+      "end": 11.53,
+      "text": "Esse é o araco cabeça gorda ali, ó."
+    },
+    {
+      "start": 14.84,
+      "end": 15.06,
+      "text": "Vocês."
+    }
+  ],
+  "duracao_seg": 15.09,
+  "idioma_detectado": "pt"
+}

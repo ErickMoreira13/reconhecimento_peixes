@@ -1,0 +1,22 @@
+{
+  "texto": "Segundo, outro mandi. Olha os bichinhos do laranja aí na boca dele. Mais um mandi aí.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Segundo, outro mandi."
+    },
+    {
+      "start": 1.66,
+      "end": 3.38,
+      "text": "Olha os bichinhos do laranja aí na boca dele."
+    },
+    {
+      "start": 4.84,
+      "end": 5.98,
+      "text": "Mais um mandi aí."
+    }
+  ],
+  "duracao_seg": 6.87,
+  "idioma_detectado": "pt"
+}

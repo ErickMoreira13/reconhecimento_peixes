@@ -1,0 +1,317 @@
+{
+  "texto": "É só na pescaria de hoje. Spinner. É forte. Ah, perdi. Ah, pegou do lado. Que louca. Que louca de piranha, cara. Mano, pegou na boca mesmo. De noção que piranha é brava. Ó, que cabeçona. Saiu. Piranhuda. Oh, peguei. Deu umas batidinhas secas, mas não juntou. Fraquinha. O povo viu um lambari pulando ali. Olha, falei pra você. Lambari. Um lambarizão grande. Pegou a guiara que está atrás do caiaque. He he he. Piranha. Olha. Pegou a paiari. Ah, perdeu. Que bosta. Olha. Entrou um paiari. Nossa, já está no biquinho de escapar. Esse é o garotão. Beguendo. Nossa, nossa. Não é. Deu traíra. Bocudinha. Bocudinha mesmo. Olha o tamanho disso. Piraíra não. Pequena ainda. Olha. Agora eu peguei. Ora sim. Piranha. Ai, pirainha. E então? Como que eu vou ir? Não é de se apaiar ali, cara. Que moça, velho. Que puta susto, velho. Que puta susto, velho. Olha o traíra. Piraíra. Piraíra. Piraíra. Piraíra. Vai ou não, Mari? Piraíra. Piraíra. Piraíra. Piraíra. Piraíra. Piraíra.",
+  "segmentos": [
+    {
+      "start": 41.65,
+      "end": 43.27,
+      "text": "É só na pescaria de hoje."
+    },
+    {
+      "start": 51.75,
+      "end": 52.23,
+      "text": "Spinner."
+    },
+    {
+      "start": 52.67,
+      "end": 86.22,
+      "text": "É forte."
+    },
+    {
+      "start": 97.28,
+      "end": 98.4,
+      "text": "Ah, perdi."
+    },
+    {
+      "start": 120.72,
+      "end": 121.6,
+      "text": "Ah, pegou do lado."
+    },
+    {
+      "start": 122.06,
+      "end": 122.6,
+      "text": "Que louca."
+    },
+    {
+      "start": 123.74,
+      "end": 135.88,
+      "text": "Que louca de piranha, cara."
+    },
+    {
+      "start": 136.38,
+      "end": 142.06,
+      "text": "Mano, pegou na boca mesmo."
+    },
+    {
+      "start": 167.09,
+      "end": 168.27,
+      "text": "De noção que piranha é brava."
+    },
+    {
+      "start": 169.13,
+      "end": 185.04,
+      "text": "Ó, que cabeçona."
+    },
+    {
+      "start": 196.52,
+      "end": 197.12,
+      "text": "Saiu."
+    },
+    {
+      "start": 197.64,
+      "end": 206.22,
+      "text": "Piranhuda."
+    },
+    {
+      "start": 212.2,
+      "end": 216.6,
+      "text": "Oh, peguei."
+    },
+    {
+      "start": 226.17,
+      "end": 228.29,
+      "text": "Deu umas batidinhas secas, mas não juntou."
+    },
+    {
+      "start": 229.71,
+      "end": 230.27,
+      "text": "Fraquinha."
+    },
+    {
+      "start": 231.59,
+      "end": 233.01,
+      "text": "O povo viu um lambari pulando ali."
+    },
+    {
+      "start": 234.43,
+      "end": 238.57,
+      "text": "Olha, falei pra você."
+    },
+    {
+      "start": 240.66,
+      "end": 241.1,
+      "text": "Lambari."
+    },
+    {
+      "start": 241.54,
+      "end": 248.34,
+      "text": "Um lambarizão grande."
+    },
+    {
+      "start": 252.0,
+      "end": 267.6,
+      "text": "Pegou a guiara que está atrás do caiaque."
+    },
+    {
+      "start": 270.44,
+      "end": 271.0,
+      "text": "He he he."
+    },
+    {
+      "start": 272.08,
+      "end": 272.66,
+      "text": "Piranha."
+    },
+    {
+      "start": 272.98,
+      "end": 273.28,
+      "text": "Olha."
+    },
+    {
+      "start": 274.44,
+      "end": 275.58,
+      "text": "Pegou a paiari."
+    },
+    {
+      "start": 281.43,
+      "end": 282.51,
+      "text": "Ah, perdeu."
+    },
+    {
+      "start": 282.79,
+      "end": 283.37,
+      "text": "Que bosta."
+    },
+    {
+      "start": 288.67,
+      "end": 288.89,
+      "text": "Olha."
+    },
+    {
+      "start": 290.44,
+      "end": 296.23,
+      "text": "Entrou um paiari."
+    },
+    {
+      "start": 301.42,
+      "end": 302.9,
+      "text": "Nossa, já está no biquinho de escapar."
+    },
+    {
+      "start": 310.08,
+      "end": 311.4,
+      "text": "Esse é o garotão."
+    },
+    {
+      "start": 313.11,
+      "end": 313.71,
+      "text": "Beguendo."
+    },
+    {
+      "start": 313.71,
+      "end": 324.06,
+      "text": "Nossa, nossa."
+    },
+    {
+      "start": 329.78,
+      "end": 330.04,
+      "text": "Não é."
+    },
+    {
+      "start": 331.38,
+      "end": 332.18,
+      "text": "Deu traíra."
+    },
+    {
+      "start": 332.3,
+      "end": 334.64,
+      "text": "Bocudinha."
+    },
+    {
+      "start": 337.4,
+      "end": 338.56,
+      "text": "Bocudinha mesmo."
+    },
+    {
+      "start": 338.66,
+      "end": 339.46,
+      "text": "Olha o tamanho disso."
+    },
+    {
+      "start": 352.01,
+      "end": 352.53,
+      "text": "Piraíra não."
+    },
+    {
+      "start": 352.95,
+      "end": 355.85,
+      "text": "Pequena ainda."
+    },
+    {
+      "start": 356.37,
+      "end": 356.69,
+      "text": "Olha."
+    },
+    {
+      "start": 357.33,
+      "end": 363.86,
+      "text": "Agora eu peguei."
+    },
+    {
+      "start": 368.11,
+      "end": 368.65,
+      "text": "Ora sim."
+    },
+    {
+      "start": 374.56,
+      "end": 375.04,
+      "text": "Piranha."
+    },
+    {
+      "start": 375.48,
+      "end": 393.46,
+      "text": "Ai, pirainha."
+    },
+    {
+      "start": 393.9,
+      "end": 409.26,
+      "text": "E então?"
+    },
+    {
+      "start": 421.02,
+      "end": 421.8,
+      "text": "Como que eu vou ir?"
+    },
+    {
+      "start": 422.24,
+      "end": 436.11,
+      "text": "Não é de se apaiar ali, cara."
+    },
+    {
+      "start": 453.16,
+      "end": 454.38,
+      "text": "Que moça, velho."
+    },
+    {
+      "start": 455.74,
+      "end": 457.44,
+      "text": "Que puta susto, velho."
+    },
+    {
+      "start": 457.9,
+      "end": 469.48,
+      "text": "Que puta susto, velho."
+    },
+    {
+      "start": 469.48,
+      "end": 485.76,
+      "text": "Olha o traíra."
+    },
+    {
+      "start": 500.02,
+      "end": 500.58,
+      "text": "Piraíra."
+    },
+    {
+      "start": 500.58,
+      "end": 500.74,
+      "text": "Piraíra."
+    },
+    {
+      "start": 515.28,
+      "end": 515.72,
+      "text": "Piraíra."
+    },
+    {
+      "start": 515.72,
+      "end": 515.96,
+      "text": "Piraíra."
+    },
+    {
+      "start": 521.66,
+      "end": 522.48,
+      "text": "Vai ou não, Mari?"
+    },
+    {
+      "start": 522.48,
+      "end": 522.54,
+      "text": "Piraíra."
+    },
+    {
+      "start": 522.54,
+      "end": 522.74,
+      "text": "Piraíra."
+    },
+    {
+      "start": 522.74,
+      "end": 522.86,
+      "text": "Piraíra."
+    },
+    {
+      "start": 522.86,
+      "end": 523.34,
+      "text": "Piraíra."
+    },
+    {
+      "start": 523.34,
+      "end": 523.82,
+      "text": "Piraíra."
+    },
+    {
+      "start": 523.82,
+      "end": 524.26,
+      "text": "Piraíra."
+    }
+  ],
+  "duracao_seg": 571.19,
+  "idioma_detectado": "pt"
+}
