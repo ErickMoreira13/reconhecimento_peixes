@@ -1,0 +1,197 @@
+{
+  "texto": "Aí, gente, ó. Aqui, ó. Motor ligado. O pião me gritando ali, ó. Vamos lá ver o que é. Ih, passei direto. Segura, segura, segura, segura, segura, segura, segura, segura, segura, segura, segura, segura, segura, segura, bicho. Eita, nós, o homem tá até afobado. O que que você pegou aí, pai? Eita, pega. Ah, pegou um pequenininho, pegou um pequenininho, ah, pegou um pequenininho lá. Onde que eu acertei? Nossa. Rapaz, mas você foi sortudo, hein? Rapaz do céu. Aí. Aí, gente, ó. Mentira. Gente, eu tava lá na casa do chapéu deixando um rapaz lá, ó. Um griteiro aqui, foi bem que que era isso. Olha o tamanho do motor. Olha o tamanzinho da boca do pilhão. Olha o tamanzinho da boca dele. Olha o tamanzinho da boca. Ixi, Maria, tá bravo, hein? Tá bravo. Por isso que eu não coloquei na fieira, senão ele ia vir arrebentar. Ixi, Maria. Mas rapaz, um desse tamanho vai arrebentar. Rapaz do céu, pesado, hein? Cabe a mão dentro, ó. Tira pro pai aqui. Quem que é o chefe? É. Tira pro pai.",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 2.54,
+      "text": "Aí, gente, ó."
+    },
+    {
+      "start": 3.96,
+      "end": 5.5,
+      "text": "Aqui, ó. Motor ligado."
+    },
+    {
+      "start": 6.9,
+      "end": 7.98,
+      "text": "O pião me gritando ali, ó."
+    },
+    {
+      "start": 9.42,
+      "end": 10.56,
+      "text": "Vamos lá ver o que é."
+    },
+    {
+      "start": 17.22,
+      "end": 18.42,
+      "text": "Ih, passei direto."
+    },
+    {
+      "start": 19.27,
+      "end": 20.93,
+      "text": "Segura, segura, segura, segura, segura,"
+    },
+    {
+      "start": 20.93,
+      "end": 21.55,
+      "text": "segura, segura, segura, segura, segura,"
+    },
+    {
+      "start": 21.55,
+      "end": 23.35,
+      "text": "segura, segura, segura, segura, bicho."
+    },
+    {
+      "start": 25.78,
+      "end": 27.66,
+      "text": "Eita, nós, o homem tá até afobado."
+    },
+    {
+      "start": 28.1,
+      "end": 28.98,
+      "text": "O que que você pegou aí, pai?"
+    },
+    {
+      "start": 29.26,
+      "end": 29.88,
+      "text": "Eita, pega."
+    },
+    {
+      "start": 31.26,
+      "end": 32.78,
+      "text": "Ah, pegou um pequenininho,"
+    },
+    {
+      "start": 32.98,
+      "end": 35.64,
+      "text": "pegou um pequenininho, ah, pegou um pequenininho lá."
+    },
+    {
+      "start": 35.82,
+      "end": 36.84,
+      "text": "Onde que eu acertei?"
+    },
+    {
+      "start": 37.36,
+      "end": 37.76,
+      "text": "Nossa."
+    },
+    {
+      "start": 39.17,
+      "end": 40.51,
+      "text": "Rapaz, mas você foi sortudo, hein?"
+    },
+    {
+      "start": 40.99,
+      "end": 43.25,
+      "text": "Rapaz do céu."
+    },
+    {
+      "start": 44.51,
+      "end": 44.81,
+      "text": "Aí."
+    },
+    {
+      "start": 45.47,
+      "end": 46.23,
+      "text": "Aí, gente, ó."
+    },
+    {
+      "start": 46.67,
+      "end": 47.03,
+      "text": "Mentira."
+    },
+    {
+      "start": 47.45,
+      "end": 50.79,
+      "text": "Gente, eu tava lá na casa do chapéu deixando um rapaz lá, ó."
+    },
+    {
+      "start": 51.65,
+      "end": 53.67,
+      "text": "Um griteiro aqui, foi bem que que era isso."
+    },
+    {
+      "start": 55.84,
+      "end": 56.96,
+      "text": "Olha o tamanho do motor."
+    },
+    {
+      "start": 57.56,
+      "end": 59.02,
+      "text": "Olha o tamanzinho da boca do pilhão."
+    },
+    {
+      "start": 59.18,
+      "end": 60.2,
+      "text": "Olha o tamanzinho da boca dele."
+    },
+    {
+      "start": 61.22,
+      "end": 63.62,
+      "text": "Olha o tamanzinho da boca."
+    },
+    {
+      "start": 63.78,
+      "end": 64.82,
+      "text": "Ixi, Maria, tá bravo, hein?"
+    },
+    {
+      "start": 64.98,
+      "end": 65.38,
+      "text": "Tá bravo."
+    },
+    {
+      "start": 65.46,
+      "end": 67.0,
+      "text": "Por isso que eu não coloquei na fieira,"
+    },
+    {
+      "start": 67.12,
+      "end": 68.1,
+      "text": "senão ele ia vir arrebentar."
+    },
+    {
+      "start": 68.2,
+      "end": 68.7,
+      "text": "Ixi, Maria."
+    },
+    {
+      "start": 68.88,
+      "end": 70.62,
+      "text": "Mas rapaz, um desse tamanho vai arrebentar."
+    },
+    {
+      "start": 73.57,
+      "end": 74.89,
+      "text": "Rapaz do céu, pesado, hein?"
+    },
+    {
+      "start": 74.89,
+      "end": 76.79,
+      "text": "Cabe a mão dentro, ó."
+    },
+    {
+      "start": 77.41,
+      "end": 78.37,
+      "text": "Tira pro pai aqui."
+    },
+    {
+      "start": 78.49,
+      "end": 79.09,
+      "text": "Quem que é o chefe?"
+    },
+    {
+      "start": 79.59,
+      "end": 79.87,
+      "text": "É."
+    },
+    {
+      "start": 79.87,
+      "end": 84.45,
+      "text": "Tira pro pai."
+    }
+  ],
+  "duracao_seg": 81.15,
+  "idioma_detectado": "pt"
+}

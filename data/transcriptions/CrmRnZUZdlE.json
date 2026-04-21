@@ -1,0 +1,207 @@
+{
+  "texto": "Bora, bora, bora! Chama! Bora! Chama nas aventuras selvagens! Mandi! Vamos buscar as casas! O que vai de Mandi aí, filho? Não, se as outras quiserem dentro daqui, é um doido! Que jeito que negócio! Ah, não! Vou pegar na água, vou pegar no choco! Que que é isso? Cê viu? Ponto ali, bora! Estou sozinho! Dependendo desses daqui, fica só o colasco, velho! Perto de Alterosa, a gente quase oito horas, a pesqueta é umas nove, mas bateu nada, a água jogou. Vamos que vamos, vamos embora aí, a caminhada é um pouco longa, quase três horas de viagem, mas valeu a pena, divertimos um pouco, tiramos a cabeça um pouco do serviço aí, e é isso aí! Mais um lugar que a gente conhece aí! Bacana! Lugar bonito! Pra gente que gosta! E é isso! Vambora! Pegar a estrada! Tchau! Tchau! Tchau! Tchau! Tchau!",
+  "segmentos": [
+    {
+      "start": 1.84,
+      "end": 4.93,
+      "text": "Bora, bora, bora!"
+    },
+    {
+      "start": 4.93,
+      "end": 7.28,
+      "text": "Chama!"
+    },
+    {
+      "start": 7.28,
+      "end": 9.6,
+      "text": "Bora!"
+    },
+    {
+      "start": 9.6,
+      "end": 11.6,
+      "text": "Chama nas aventuras selvagens!"
+    },
+    {
+      "start": 11.6,
+      "end": 15.23,
+      "text": "Mandi!"
+    },
+    {
+      "start": 15.23,
+      "end": 17.23,
+      "text": "Vamos buscar as casas!"
+    },
+    {
+      "start": 19.26,
+      "end": 21.26,
+      "text": "O que vai de Mandi aí, filho?"
+    },
+    {
+      "start": 21.26,
+      "end": 23.26,
+      "text": "Não, se as outras quiserem dentro daqui,"
+    },
+    {
+      "start": 23.26,
+      "end": 30.35,
+      "text": "é um doido!"
+    },
+    {
+      "start": 30.35,
+      "end": 32.35,
+      "text": "Que jeito que negócio!"
+    },
+    {
+      "start": 32.35,
+      "end": 34.35,
+      "text": "Ah, não!"
+    },
+    {
+      "start": 34.35,
+      "end": 42.5,
+      "text": "Vou pegar na água, vou pegar no choco!"
+    },
+    {
+      "start": 42.5,
+      "end": 44.85,
+      "text": "Que que é isso? Cê viu?"
+    },
+    {
+      "start": 44.85,
+      "end": 64.29,
+      "text": "Ponto ali, bora!"
+    },
+    {
+      "start": 64.29,
+      "end": 78.35,
+      "text": "Estou sozinho!"
+    },
+    {
+      "start": 78.35,
+      "end": 80.35,
+      "text": "Dependendo desses daqui, fica só o colasco,"
+    },
+    {
+      "start": 80.35,
+      "end": 83.34,
+      "text": "velho!"
+    },
+    {
+      "start": 83.34,
+      "end": 332.48,
+      "text": "Perto de Alterosa,"
+    },
+    {
+      "start": 332.48,
+      "end": 338.9,
+      "text": "a gente quase oito horas,"
+    },
+    {
+      "start": 338.9,
+      "end": 341.41,
+      "text": "a pesqueta é umas nove, mas"
+    },
+    {
+      "start": 341.41,
+      "end": 345.04,
+      "text": "bateu nada, a água jogou."
+    },
+    {
+      "start": 345.04,
+      "end": 347.04,
+      "text": "Vamos que vamos,"
+    },
+    {
+      "start": 347.04,
+      "end": 350.29,
+      "text": "vamos embora aí,"
+    },
+    {
+      "start": 350.29,
+      "end": 352.29,
+      "text": "a caminhada é um pouco longa,"
+    },
+    {
+      "start": 352.29,
+      "end": 354.86,
+      "text": "quase três horas de viagem,"
+    },
+    {
+      "start": 354.86,
+      "end": 357.86,
+      "text": "mas valeu a pena, divertimos um pouco,"
+    },
+    {
+      "start": 357.86,
+      "end": 360.43,
+      "text": "tiramos a cabeça um pouco do serviço aí,"
+    },
+    {
+      "start": 360.43,
+      "end": 363.71,
+      "text": "e é isso aí!"
+    },
+    {
+      "start": 363.71,
+      "end": 365.71,
+      "text": "Mais um lugar que a gente conhece aí!"
+    },
+    {
+      "start": 365.71,
+      "end": 368.61,
+      "text": "Bacana!"
+    },
+    {
+      "start": 368.61,
+      "end": 369.7,
+      "text": "Lugar bonito!"
+    },
+    {
+      "start": 369.7,
+      "end": 372.46,
+      "text": "Pra gente que gosta!"
+    },
+    {
+      "start": 372.46,
+      "end": 375.17,
+      "text": "E é isso!"
+    },
+    {
+      "start": 375.17,
+      "end": 376.55,
+      "text": "Vambora!"
+    },
+    {
+      "start": 376.55,
+      "end": 377.55,
+      "text": "Pegar a estrada!"
+    },
+    {
+      "start": 377.55,
+      "end": 378.55,
+      "text": "Tchau!"
+    },
+    {
+      "start": 378.55,
+      "end": 379.55,
+      "text": "Tchau!"
+    },
+    {
+      "start": 379.55,
+      "end": 380.55,
+      "text": "Tchau!"
+    },
+    {
+      "start": 380.55,
+      "end": 381.55,
+      "text": "Tchau!"
+    },
+    {
+      "start": 381.55,
+      "end": 382.55,
+      "text": "Tchau!"
+    }
+  ],
+  "duracao_seg": 378.61,
+  "idioma_detectado": "pt"
+}

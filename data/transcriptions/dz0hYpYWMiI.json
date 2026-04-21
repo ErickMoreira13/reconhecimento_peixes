@@ -1,0 +1,22 @@
+{
+  "texto": "Falecer, acompanha o maíz que vem pegar aqui na deirinha. Falecer, você está pescando, você solta um, ele vai embora e leva o carulho. Tá bom, foram embora.",
+  "segmentos": [
+    {
+      "start": 146.54,
+      "end": 184.3,
+      "text": "Falecer, acompanha o maíz que vem pegar aqui na deirinha."
+    },
+    {
+      "start": 194.16,
+      "end": 201.22,
+      "text": "Falecer, você está pescando, você solta um, ele vai embora e leva o carulho."
+    },
+    {
+      "start": 207.24,
+      "end": 208.64,
+      "text": "Tá bom, foram embora."
+    }
+  ],
+  "duracao_seg": 215.3,
+  "idioma_detectado": "pt"
+}

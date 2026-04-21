@@ -1,0 +1,22 @@
+{
+  "texto": "aqui ó, ilha solteira, primeiro dia de pescaria da nossa expedição aí, a expedição Tucunaré Azul e o foco aí, o nosso objetivo já começou a dar as caras, vamos soltar o animalzão aqui, uma briga incrível, vai lá bichão com estilo, valeu galera, isso aí, top, top.",
+  "segmentos": [
+    {
+      "start": 274.48,
+      "end": 280.9,
+      "text": "aqui ó, ilha solteira, primeiro dia de pescaria da nossa expedição aí, a expedição Tucunaré"
+    },
+    {
+      "start": 280.9,
+      "end": 289.73,
+      "text": "Azul e o foco aí, o nosso objetivo já começou a dar as caras, vamos soltar o animalzão"
+    },
+    {
+      "start": 289.73,
+      "end": 304.37,
+      "text": "aqui, uma briga incrível, vai lá bichão com estilo, valeu galera, isso aí, top, top."
+    }
+  ],
+  "duracao_seg": 314.63,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Beleza? E o peixe? Olha aqui, está cheio de ovos. Está vendo? Obrigado. Foi para a vida. Valeu.",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 1.41,
+      "text": "Beleza? E o peixe?"
+    },
+    {
+      "start": 2.26,
+      "end": 4.0,
+      "text": "Olha aqui, está cheio de ovos."
+    },
+    {
+      "start": 4.38,
+      "end": 4.7,
+      "text": "Está vendo?"
+    },
+    {
+      "start": 5.76,
+      "end": 14.26,
+      "text": "Obrigado."
+    },
+    {
+      "start": 14.4,
+      "end": 15.3,
+      "text": "Foi para a vida."
+    },
+    {
+      "start": 16.14,
+      "end": 16.78,
+      "text": "Valeu."
+    }
+  ],
+  "duracao_seg": 18.51,
+  "idioma_detectado": "pt"
+}

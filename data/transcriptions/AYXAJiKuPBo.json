@@ -1,0 +1,72 @@
+{
+  "texto": "você tá de férias, irmão sentou que coisa que coisa que coisa aconteceu que coisa que coisa que coisa que coisa meu Deus é hoje é hoje",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 12.55,
+      "text": "você tá de férias, irmão"
+    },
+    {
+      "start": 12.55,
+      "end": 23.02,
+      "text": "sentou"
+    },
+    {
+      "start": 23.02,
+      "end": 25.6,
+      "text": "que coisa"
+    },
+    {
+      "start": 25.6,
+      "end": 27.6,
+      "text": "que coisa"
+    },
+    {
+      "start": 27.6,
+      "end": 31.89,
+      "text": "que coisa"
+    },
+    {
+      "start": 31.89,
+      "end": 33.89,
+      "text": "aconteceu"
+    },
+    {
+      "start": 33.89,
+      "end": 35.95,
+      "text": "que coisa"
+    },
+    {
+      "start": 35.95,
+      "end": 38.08,
+      "text": "que coisa"
+    },
+    {
+      "start": 38.08,
+      "end": 40.08,
+      "text": "que coisa"
+    },
+    {
+      "start": 40.08,
+      "end": 43.46,
+      "text": "que coisa"
+    },
+    {
+      "start": 43.46,
+      "end": 45.55,
+      "text": "meu Deus"
+    },
+    {
+      "start": 45.55,
+      "end": 47.55,
+      "text": "é hoje"
+    },
+    {
+      "start": 47.55,
+      "end": 49.55,
+      "text": "é hoje"
+    }
+  ],
+  "duracao_seg": 49.41,
+  "idioma_detectado": "pt"
+}

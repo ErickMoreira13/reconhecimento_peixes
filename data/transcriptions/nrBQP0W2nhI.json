@@ -1,0 +1,67 @@
+{
+  "texto": "O Lago de Sobradinho, ou Barragem de Sobradinho, é um dos maiores lagos artificiais do mundo, com 4.214 quilômetros quadrados, situado no estado da Bahia. Construído na década de 1970 e foi formado a partir da construção da usina hidrelétrica de Sobradinho, sendo parte crucial da matriz energética do Nordeste. Localizado no Rio São Francisco, principal rio da região nordestina do país. Com cerca de 320 quilômetros de extensão, tem uma profundidade que varia entre 8 e 30 metros, e em alguns trechos, sua largura chega a 25 quilômetros. O lago fica ao redor de vários municípios, incluindo Sobradinho, Juazeiro, Casanova, Cento Sé, Pilão Arcado e Remanso. Além de gerar energia para milhões de pessoas no Nordeste brasileiro, o Lago de Sobradinho é essencial para a irrigação, abastecimento de água e pesca. O lago também possui valor paisagístico e turístico, oferecendo passeios de barco, esportes aquáticos e belas vistas do sertão alagado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.96,
+      "text": "O Lago de Sobradinho, ou Barragem de Sobradinho, é um dos maiores lagos artificiais do mundo,"
+    },
+    {
+      "start": 6.34,
+      "end": 11.78,
+      "text": "com 4.214 quilômetros quadrados, situado no estado da Bahia."
+    },
+    {
+      "start": 12.32,
+      "end": 20.08,
+      "text": "Construído na década de 1970 e foi formado a partir da construção da usina hidrelétrica de Sobradinho,"
+    },
+    {
+      "start": 20.54,
+      "end": 23.84,
+      "text": "sendo parte crucial da matriz energética do Nordeste."
+    },
+    {
+      "start": 24.4,
+      "end": 29.44,
+      "text": "Localizado no Rio São Francisco, principal rio da região nordestina do país."
+    },
+    {
+      "start": 30.0,
+      "end": 36.74,
+      "text": "Com cerca de 320 quilômetros de extensão, tem uma profundidade que varia entre 8 e 30 metros,"
+    },
+    {
+      "start": 37.2,
+      "end": 41.0,
+      "text": "e em alguns trechos, sua largura chega a 25 quilômetros."
+    },
+    {
+      "start": 41.66,
+      "end": 50.78,
+      "text": "O lago fica ao redor de vários municípios, incluindo Sobradinho, Juazeiro, Casanova, Cento Sé, Pilão Arcado e Remanso."
+    },
+    {
+      "start": 50.96,
+      "end": 59.22,
+      "text": "Além de gerar energia para milhões de pessoas no Nordeste brasileiro, o Lago de Sobradinho é essencial para a irrigação,"
+    },
+    {
+      "start": 59.22,
+      "end": 61.74,
+      "text": "abastecimento de água e pesca."
+    },
+    {
+      "start": 62.36,
+      "end": 65.7,
+      "text": "O lago também possui valor paisagístico e turístico,"
+    },
+    {
+      "start": 66.1,
+      "end": 71.26,
+      "text": "oferecendo passeios de barco, esportes aquáticos e belas vistas do sertão alagado."
+    }
+  ],
+  "duracao_seg": 71.67,
+  "idioma_detectado": "pt"
+}

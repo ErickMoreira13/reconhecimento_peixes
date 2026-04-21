@@ -1,0 +1,942 @@
+{
+  "texto": "Aô, bom dia! Começamos bem o dia. Uma amarelinha de sashimi. Olha o sashimi! Vai, Elodie. Não deixa, não. Puxa o bicho. Parece um bom peixe. Olha, eles estão pulando, hein? Tá aqui. Tá aí? Tô com ele. Pegou na isquinha fatal? Aê. Tchau, peixinho. Azul aqui, ó. Quem falou que não pega? Quem falou que não pega azul? Olha que bonitinho. Nossa, aí tem uns grandes, cara. Ele veio atrás, era grande, velho. O meu era grande. Não sei se era amarelo ou azul, não consegui ver. Olha lá. Nossa, eu levantei um bonito, velho. Ah! Ui, peguei aqui. Piranha, meu. Meu piranha. Manda pra vida. Ah! Porque aqui tem as estruturas e logo depois faz um drop. Olha aí. Pegou. Nossa, como eles são frescos, cara. Nossa, tá louco, velho. Eu parei a isquinha e ele pegou, cara. Nossa, que fresco, velho. Amarelinho. Amarelinho padrão. No olho. Pegou no olho. Tocuna padrão, ó. Amarelinho. Quer um sashimi? Nós não trouxemos, né? Vai lá, bicho. Vai pra vida. Nossa, meu. Meu chumaço, velho. Rapaz, você não sabe o que é peixe que que mata. É azul ou amarelo? Rapaz do céu. Um chumaço. Pegou. Tocuna, piranha? Tocuna. Nossa, eles andam do lado da isca. Eles olham a isca. Aí eles conferem se vai ter que pegar pra depois pegar. Você tem que parar a isca e chamar o peixe de novo pro peixe tacar, cara. É um negócio... É muito louco. Padrãozinho. Padrão. Vai, neguinho. Vai embora, neguinho. Vem, padrão. Vamos gravar. Tocuna. Tamo melhorando. Tamo melhorando. Pescando no fundo. É. Mas a moça falou que os peixes tão mais no raso, né? Eu acho que tão, mesmo. Tava fora. Ó. É que não dá pra ver a estrutura do fundo, né? Isso já é mais bonito. Isso já deve dar uns 40 e pouco. Sortar. Vai lá. Amarelão. Amarelão. Mais um. Mais um amarelão. Amarelou. É macho. Esse é brabo, hein? É um macho brabo. Calma, bicho. Abre a boca. Abre a bocona. Abre a boquinha. Meu filho. Ó. Esse já tá crescendo. Quanto você acha que tem? 40 e... 43. 42,5. Você foi na... Nas arpas. É um meio. Então, 43. Ó, bichão. Deixa ele ir. Vai, com Deus. Vai pro fundo, vai. Hã? Escapou. Tá bom. Mas eles estão aqui. Achei ele. Vem, tocona. Vem. Pode escapar se quiser, Amarelão. Isso aqui lá na minha terra é mato. Isso aqui no Mato Grosso é mato. Aí, Furlan. No Mato Grosso isso aqui é o quê? É mato. Lado. E você viu? Na frente da ponta. Os peixes estão tudo na frente das pontas. Ele simplesmente puspiu a isca, velho. Então eles estão mais pra margem. Amarelo. Ou azul. Machinho. Machinho. Machinho. Da ponta. Bom, já pegamos um amarelo desse. Da ponta um. Da ponta um amarelo. Piranha tentando morder meu tucunaré, velho. Aí não, né? Agora os caras da besta. Deram dois arremessos. Vamos sair com ela. Ah, amarelinho. Pegou. Ah, não. Uma saicanga. Isso aqui pra cortar a linha é peixe. Elas são as verdadeiras. Pegou. Esse saiu do nada. Fica brancona, hein? É brancona. Eles estão caçando. Machinho. Machinho brabo. Diz um azul. Brancona na área. Vem, Jerry. Tucunaré azul, Jerry. Bora. Jerry. Agora veio. Ah, nossa, mãe. Ele fez um estalhaço na isca. Ah, eles estão na boca, né? A gente está descobrindo agora o comportamento do peixe. O comportamento do peixe. Estava demorando. Tava demorando. Querem me pescar. Está aqui, páreo. O bicho conseguiu escapar sem eu conseguir pegar ele no boca. Gosto de Fuentes. Joginho. Vamos lá. O bicho conseguiu. Vamos lá. Vamos lá. Vamos aqui. Vamos lá. Vamos lá. Vamos lá. Vamos lá. Vamos lá. Vamos lá. Vamos lá.",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 2.92,
+      "text": "Aô, bom dia!"
+    },
+    {
+      "start": 3.9,
+      "end": 5.28,
+      "text": "Começamos bem o dia."
+    },
+    {
+      "start": 7.0,
+      "end": 8.26,
+      "text": "Uma amarelinha de sashimi."
+    },
+    {
+      "start": 10.7,
+      "end": 11.46,
+      "text": "Olha o sashimi!"
+    },
+    {
+      "start": 12.24,
+      "end": 18.17,
+      "text": "Vai, Elodie."
+    },
+    {
+      "start": 19.05,
+      "end": 19.73,
+      "text": "Não deixa, não."
+    },
+    {
+      "start": 21.66,
+      "end": 22.42,
+      "text": "Puxa o bicho."
+    },
+    {
+      "start": 23.97,
+      "end": 24.93,
+      "text": "Parece um bom peixe."
+    },
+    {
+      "start": 27.37,
+      "end": 28.17,
+      "text": "Olha, eles estão pulando, hein?"
+    },
+    {
+      "start": 28.53,
+      "end": 29.04,
+      "text": "Tá aqui."
+    },
+    {
+      "start": 29.26,
+      "end": 29.64,
+      "text": "Tá aí?"
+    },
+    {
+      "start": 29.86,
+      "end": 30.38,
+      "text": "Tô com ele."
+    },
+    {
+      "start": 31.38,
+      "end": 32.52,
+      "text": "Pegou na isquinha fatal?"
+    },
+    {
+      "start": 35.18,
+      "end": 35.54,
+      "text": "Aê."
+    },
+    {
+      "start": 36.74,
+      "end": 37.94,
+      "text": "Tchau, peixinho."
+    },
+    {
+      "start": 40.92,
+      "end": 41.96,
+      "text": "Azul aqui, ó."
+    },
+    {
+      "start": 42.5,
+      "end": 43.88,
+      "text": "Quem falou que não pega?"
+    },
+    {
+      "start": 45.37,
+      "end": 46.49,
+      "text": "Quem falou que não pega azul?"
+    },
+    {
+      "start": 52.28,
+      "end": 52.98,
+      "text": "Olha que bonitinho."
+    },
+    {
+      "start": 56.01,
+      "end": 57.49,
+      "text": "Nossa, aí tem uns grandes, cara."
+    },
+    {
+      "start": 58.32,
+      "end": 59.94,
+      "text": "Ele veio atrás, era grande, velho."
+    },
+    {
+      "start": 64.52,
+      "end": 65.32,
+      "text": "O meu era grande."
+    },
+    {
+      "start": 65.68,
+      "end": 67.28,
+      "text": "Não sei se era amarelo ou azul, não consegui ver."
+    },
+    {
+      "start": 68.68,
+      "end": 69.0,
+      "text": "Olha lá."
+    },
+    {
+      "start": 72.62,
+      "end": 74.08,
+      "text": "Nossa, eu levantei um bonito, velho."
+    },
+    {
+      "start": 76.09,
+      "end": 76.37,
+      "text": "Ah!"
+    },
+    {
+      "start": 76.73,
+      "end": 77.47,
+      "text": "Ui, peguei aqui."
+    },
+    {
+      "start": 78.5,
+      "end": 79.02,
+      "text": "Piranha, meu."
+    },
+    {
+      "start": 79.08,
+      "end": 79.5,
+      "text": "Meu piranha."
+    },
+    {
+      "start": 82.14,
+      "end": 83.04,
+      "text": "Manda pra vida."
+    },
+    {
+      "start": 88.73,
+      "end": 88.93,
+      "text": "Ah!"
+    },
+    {
+      "start": 90.41,
+      "end": 93.23,
+      "text": "Porque aqui tem as estruturas e logo depois faz um drop."
+    },
+    {
+      "start": 100.97,
+      "end": 101.21,
+      "text": "Olha aí."
+    },
+    {
+      "start": 102.46,
+      "end": 102.82,
+      "text": "Pegou."
+    },
+    {
+      "start": 103.14,
+      "end": 104.98,
+      "text": "Nossa, como eles são frescos, cara."
+    },
+    {
+      "start": 105.24,
+      "end": 107.2,
+      "text": "Nossa, tá louco, velho."
+    },
+    {
+      "start": 108.21,
+      "end": 109.87,
+      "text": "Eu parei a isquinha e ele pegou, cara."
+    },
+    {
+      "start": 116.76,
+      "end": 118.48,
+      "text": "Nossa, que fresco, velho."
+    },
+    {
+      "start": 122.89,
+      "end": 123.41,
+      "text": "Amarelinho."
+    },
+    {
+      "start": 125.86,
+      "end": 127.02,
+      "text": "Amarelinho padrão."
+    },
+    {
+      "start": 128.62,
+      "end": 129.28,
+      "text": "No olho."
+    },
+    {
+      "start": 130.13,
+      "end": 130.91,
+      "text": "Pegou no olho."
+    },
+    {
+      "start": 134.18,
+      "end": 135.32,
+      "text": "Tocuna padrão, ó."
+    },
+    {
+      "start": 136.08,
+      "end": 136.6,
+      "text": "Amarelinho."
+    },
+    {
+      "start": 138.28,
+      "end": 138.78,
+      "text": "Quer um sashimi?"
+    },
+    {
+      "start": 138.92,
+      "end": 139.76,
+      "text": "Nós não trouxemos, né?"
+    },
+    {
+      "start": 140.94,
+      "end": 145.74,
+      "text": "Vai lá, bicho."
+    },
+    {
+      "start": 146.08,
+      "end": 146.88,
+      "text": "Vai pra vida."
+    },
+    {
+      "start": 149.08,
+      "end": 150.46,
+      "text": "Nossa, meu."
+    },
+    {
+      "start": 150.46,
+      "end": 151.66,
+      "text": "Meu chumaço, velho."
+    },
+    {
+      "start": 151.66,
+      "end": 154.92,
+      "text": "Rapaz, você não sabe o que é peixe que que mata."
+    },
+    {
+      "start": 157.27,
+      "end": 158.09,
+      "text": "É azul ou amarelo?"
+    },
+    {
+      "start": 161.34,
+      "end": 162.38,
+      "text": "Rapaz do céu."
+    },
+    {
+      "start": 162.9,
+      "end": 163.9,
+      "text": "Um chumaço."
+    },
+    {
+      "start": 176.41,
+      "end": 176.89,
+      "text": "Pegou."
+    },
+    {
+      "start": 177.56,
+      "end": 178.2,
+      "text": "Tocuna, piranha?"
+    },
+    {
+      "start": 178.4,
+      "end": 178.76,
+      "text": "Tocuna."
+    },
+    {
+      "start": 197.07,
+      "end": 198.85,
+      "text": "Nossa, eles andam do lado da isca."
+    },
+    {
+      "start": 199.01,
+      "end": 200.03,
+      "text": "Eles olham a isca."
+    },
+    {
+      "start": 200.77,
+      "end": 203.99,
+      "text": "Aí eles conferem se vai ter que pegar pra depois pegar."
+    },
+    {
+      "start": 205.06,
+      "end": 207.76,
+      "text": "Você tem que parar a isca e chamar o peixe de novo pro peixe tacar, cara."
+    },
+    {
+      "start": 207.84,
+      "end": 208.42,
+      "text": "É um negócio..."
+    },
+    {
+      "start": 208.42,
+      "end": 209.72,
+      "text": "É muito louco."
+    },
+    {
+      "start": 214.01,
+      "end": 214.65,
+      "text": "Padrãozinho."
+    },
+    {
+      "start": 216.58,
+      "end": 216.98,
+      "text": "Padrão."
+    },
+    {
+      "start": 217.66,
+      "end": 217.7,
+      "text": "Vai, neguinho."
+    },
+    {
+      "start": 218.22,
+      "end": 219.04,
+      "text": "Vai embora, neguinho."
+    },
+    {
+      "start": 219.7,
+      "end": 220.9,
+      "text": "Vem, padrão."
+    },
+    {
+      "start": 221.68,
+      "end": 234.55,
+      "text": "Vamos gravar."
+    },
+    {
+      "start": 235.99,
+      "end": 237.95,
+      "text": "Tocuna."
+    },
+    {
+      "start": 240.08,
+      "end": 241.24,
+      "text": "Tamo melhorando."
+    },
+    {
+      "start": 243.61,
+      "end": 244.89,
+      "text": "Tamo melhorando."
+    },
+    {
+      "start": 245.01,
+      "end": 246.01,
+      "text": "Pescando no fundo."
+    },
+    {
+      "start": 254.42,
+      "end": 254.68,
+      "text": "É."
+    },
+    {
+      "start": 255.97,
+      "end": 257.83,
+      "text": "Mas a moça falou que os peixes tão mais no raso, né?"
+    },
+    {
+      "start": 258.48,
+      "end": 259.68,
+      "text": "Eu acho que tão, mesmo."
+    },
+    {
+      "start": 268.82,
+      "end": 269.36,
+      "text": "Tava fora."
+    },
+    {
+      "start": 270.08,
+      "end": 270.64,
+      "text": "Ó."
+    },
+    {
+      "start": 270.64,
+      "end": 273.13,
+      "text": "É que não dá pra ver a estrutura do fundo, né?"
+    },
+    {
+      "start": 275.65,
+      "end": 276.49,
+      "text": "Isso já é mais bonito."
+    },
+    {
+      "start": 277.03,
+      "end": 280.54,
+      "text": "Isso já deve dar uns 40 e pouco."
+    },
+    {
+      "start": 284.26,
+      "end": 284.78,
+      "text": "Sortar."
+    },
+    {
+      "start": 285.46,
+      "end": 285.96,
+      "text": "Vai lá."
+    },
+    {
+      "start": 288.5,
+      "end": 288.98,
+      "text": "Amarelão."
+    },
+    {
+      "start": 291.85,
+      "end": 292.33,
+      "text": "Amarelão."
+    },
+    {
+      "start": 292.87,
+      "end": 293.67,
+      "text": "Mais um."
+    },
+    {
+      "start": 296.22,
+      "end": 297.48,
+      "text": "Mais um amarelão."
+    },
+    {
+      "start": 301.19,
+      "end": 301.63,
+      "text": "Amarelou."
+    },
+    {
+      "start": 305.12,
+      "end": 305.84,
+      "text": "É macho."
+    },
+    {
+      "start": 307.36,
+      "end": 308.02,
+      "text": "Esse é brabo, hein?"
+    },
+    {
+      "start": 308.72,
+      "end": 309.52,
+      "text": "É um macho brabo."
+    },
+    {
+      "start": 312.73,
+      "end": 313.57,
+      "text": "Calma, bicho."
+    },
+    {
+      "start": 313.79,
+      "end": 314.27,
+      "text": "Abre a boca."
+    },
+    {
+      "start": 314.93,
+      "end": 316.03,
+      "text": "Abre a bocona."
+    },
+    {
+      "start": 318.95,
+      "end": 319.81,
+      "text": "Abre a boquinha."
+    },
+    {
+      "start": 319.81,
+      "end": 321.81,
+      "text": "Meu filho."
+    },
+    {
+      "start": 323.92,
+      "end": 324.4,
+      "text": "Ó."
+    },
+    {
+      "start": 326.56,
+      "end": 328.08,
+      "text": "Esse já tá crescendo."
+    },
+    {
+      "start": 332.06,
+      "end": 335.1,
+      "text": "Quanto você acha que tem?"
+    },
+    {
+      "start": 340.09,
+      "end": 340.79,
+      "text": "40 e..."
+    },
+    {
+      "start": 343.46,
+      "end": 343.8,
+      "text": "43."
+    },
+    {
+      "start": 344.52,
+      "end": 345.24,
+      "text": "42,5."
+    },
+    {
+      "start": 346.6,
+      "end": 347.68,
+      "text": "Você foi na..."
+    },
+    {
+      "start": 347.68,
+      "end": 348.68,
+      "text": "Nas arpas."
+    },
+    {
+      "start": 351.6,
+      "end": 352.12,
+      "text": "É um meio."
+    },
+    {
+      "start": 353.95,
+      "end": 354.59,
+      "text": "Então, 43."
+    },
+    {
+      "start": 357.11,
+      "end": 358.19,
+      "text": "Ó, bichão."
+    },
+    {
+      "start": 359.28,
+      "end": 359.86,
+      "text": "Deixa ele ir."
+    },
+    {
+      "start": 362.08,
+      "end": 362.76,
+      "text": "Vai, com Deus."
+    },
+    {
+      "start": 363.75,
+      "end": 364.59,
+      "text": "Vai pro fundo, vai."
+    },
+    {
+      "start": 365.95,
+      "end": 366.11,
+      "text": "Hã?"
+    },
+    {
+      "start": 366.11,
+      "end": 367.49,
+      "text": "Escapou."
+    },
+    {
+      "start": 367.75,
+      "end": 368.05,
+      "text": "Tá bom."
+    },
+    {
+      "start": 369.13,
+      "end": 369.85,
+      "text": "Mas eles estão aqui."
+    },
+    {
+      "start": 370.59,
+      "end": 371.53,
+      "text": "Achei ele."
+    },
+    {
+      "start": 372.05,
+      "end": 382.86,
+      "text": "Vem, tocona."
+    },
+    {
+      "start": 386.09,
+      "end": 386.57,
+      "text": "Vem."
+    },
+    {
+      "start": 386.99,
+      "end": 391.78,
+      "text": "Pode escapar se quiser, Amarelão."
+    },
+    {
+      "start": 424.05,
+      "end": 425.67,
+      "text": "Isso aqui lá na minha terra é mato."
+    },
+    {
+      "start": 427.4,
+      "end": 428.82,
+      "text": "Isso aqui no Mato Grosso é mato."
+    },
+    {
+      "start": 429.63,
+      "end": 430.13,
+      "text": "Aí, Furlan."
+    },
+    {
+      "start": 430.47,
+      "end": 431.49,
+      "text": "No Mato Grosso isso aqui é o quê?"
+    },
+    {
+      "start": 433.05,
+      "end": 433.91,
+      "text": "É mato."
+    },
+    {
+      "start": 441.84,
+      "end": 442.04,
+      "text": "Lado."
+    },
+    {
+      "start": 445.28,
+      "end": 445.7,
+      "text": "E você viu?"
+    },
+    {
+      "start": 445.82,
+      "end": 446.94,
+      "text": "Na frente da ponta."
+    },
+    {
+      "start": 447.68,
+      "end": 449.14,
+      "text": "Os peixes estão tudo na frente das pontas."
+    },
+    {
+      "start": 449.14,
+      "end": 457.05,
+      "text": "Ele simplesmente puspiu a isca, velho."
+    },
+    {
+      "start": 458.57,
+      "end": 460.01,
+      "text": "Então eles estão mais pra margem."
+    },
+    {
+      "start": 466.64,
+      "end": 467.04,
+      "text": "Amarelo."
+    },
+    {
+      "start": 469.38,
+      "end": 469.8,
+      "text": "Ou azul."
+    },
+    {
+      "start": 485.24,
+      "end": 485.64,
+      "text": "Machinho."
+    },
+    {
+      "start": 486.4,
+      "end": 486.84,
+      "text": "Machinho."
+    },
+    {
+      "start": 487.04,
+      "end": 487.44,
+      "text": "Machinho."
+    },
+    {
+      "start": 494.23,
+      "end": 494.81,
+      "text": "Da ponta."
+    },
+    {
+      "start": 495.75,
+      "end": 497.47,
+      "text": "Bom, já pegamos um amarelo desse."
+    },
+    {
+      "start": 498.94,
+      "end": 499.74,
+      "text": "Da ponta um."
+    },
+    {
+      "start": 500.04,
+      "end": 501.18,
+      "text": "Da ponta um amarelo."
+    },
+    {
+      "start": 507.05,
+      "end": 509.11,
+      "text": "Piranha tentando morder meu tucunaré, velho."
+    },
+    {
+      "start": 510.65,
+      "end": 511.27,
+      "text": "Aí não, né?"
+    },
+    {
+      "start": 517.84,
+      "end": 518.8,
+      "text": "Agora os caras da besta."
+    },
+    {
+      "start": 518.88,
+      "end": 519.76,
+      "text": "Deram dois arremessos."
+    },
+    {
+      "start": 519.76,
+      "end": 523.11,
+      "text": "Vamos sair com ela."
+    },
+    {
+      "start": 530.49,
+      "end": 532.71,
+      "text": "Ah, amarelinho."
+    },
+    {
+      "start": 547.24,
+      "end": 547.76,
+      "text": "Pegou."
+    },
+    {
+      "start": 548.26,
+      "end": 548.8,
+      "text": "Ah, não."
+    },
+    {
+      "start": 549.0,
+      "end": 549.68,
+      "text": "Uma saicanga."
+    },
+    {
+      "start": 550.94,
+      "end": 554.28,
+      "text": "Isso aqui pra cortar a linha é peixe."
+    },
+    {
+      "start": 558.41,
+      "end": 559.39,
+      "text": "Elas são as verdadeiras."
+    },
+    {
+      "start": 585.69,
+      "end": 585.99,
+      "text": "Pegou."
+    },
+    {
+      "start": 592.5,
+      "end": 594.0,
+      "text": "Esse saiu do nada."
+    },
+    {
+      "start": 598.3,
+      "end": 599.08,
+      "text": "Fica brancona, hein?"
+    },
+    {
+      "start": 602.1,
+      "end": 602.84,
+      "text": "É brancona."
+    },
+    {
+      "start": 602.92,
+      "end": 603.6,
+      "text": "Eles estão caçando."
+    },
+    {
+      "start": 628.54,
+      "end": 629.18,
+      "text": "Machinho."
+    },
+    {
+      "start": 629.26,
+      "end": 630.5,
+      "text": "Machinho brabo."
+    },
+    {
+      "start": 632.24,
+      "end": 633.1,
+      "text": "Diz um azul."
+    },
+    {
+      "start": 641.08,
+      "end": 642.22,
+      "text": "Brancona na área."
+    },
+    {
+      "start": 642.22,
+      "end": 650.2,
+      "text": "Vem, Jerry."
+    },
+    {
+      "start": 652.06,
+      "end": 654.02,
+      "text": "Tucunaré azul, Jerry."
+    },
+    {
+      "start": 657.5,
+      "end": 657.88,
+      "text": "Bora."
+    },
+    {
+      "start": 662.67,
+      "end": 663.15,
+      "text": "Jerry."
+    },
+    {
+      "start": 681.46,
+      "end": 682.06,
+      "text": "Agora veio."
+    },
+    {
+      "start": 686.28,
+      "end": 687.88,
+      "text": "Ah, nossa, mãe."
+    },
+    {
+      "start": 695.42,
+      "end": 697.62,
+      "text": "Ele fez um estalhaço na isca."
+    },
+    {
+      "start": 706.51,
+      "end": 707.65,
+      "text": "Ah, eles estão na boca, né?"
+    },
+    {
+      "start": 709.3,
+      "end": 711.3,
+      "text": "A gente está descobrindo agora o comportamento do peixe."
+    },
+    {
+      "start": 713.24,
+      "end": 714.82,
+      "text": "O comportamento do peixe."
+    },
+    {
+      "start": 717.39,
+      "end": 719.03,
+      "text": "Estava demorando."
+    },
+    {
+      "start": 719.03,
+      "end": 720.74,
+      "text": "Tava demorando."
+    },
+    {
+      "start": 722.12,
+      "end": 723.32,
+      "text": "Querem me pescar."
+    },
+    {
+      "start": 723.58,
+      "end": 733.53,
+      "text": "Está aqui, páreo."
+    },
+    {
+      "start": 733.53,
+      "end": 739.02,
+      "text": "O bicho conseguiu escapar sem eu conseguir pegar ele no boca."
+    },
+    {
+      "start": 739.6,
+      "end": 740.6,
+      "text": "Gosto de Fuentes."
+    },
+    {
+      "start": 740.6,
+      "end": 740.92,
+      "text": "Joginho."
+    },
+    {
+      "start": 741.22,
+      "end": 741.56,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 741.56,
+      "end": 741.82,
+      "text": "O bicho conseguiu."
+    },
+    {
+      "start": 741.82,
+      "end": 741.96,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 742.06,
+      "end": 742.28,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 742.28,
+      "end": 742.4,
+      "text": "Vamos aqui."
+    },
+    {
+      "start": 742.96,
+      "end": 743.28,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 743.36,
+      "end": 743.48,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 743.48,
+      "end": 743.9,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 743.9,
+      "end": 744.02,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 746.32,
+      "end": 746.46,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 746.46,
+      "end": 747.1,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 748.94,
+      "end": 750.8,
+      "text": "Vamos lá."
+    }
+  ],
+  "duracao_seg": 739.77,
+  "idioma_detectado": "pt"
+}

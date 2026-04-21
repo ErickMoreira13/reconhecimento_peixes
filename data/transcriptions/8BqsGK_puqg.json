@@ -1,0 +1,27 @@
+{
+  "texto": "Tô filmando. Qual é a peixeira? Eita, muito bonito. Aí, pode ligar.",
+  "segmentos": [
+    {
+      "start": 1.1,
+      "end": 21.09,
+      "text": "Tô filmando."
+    },
+    {
+      "start": 22.22,
+      "end": 23.0,
+      "text": "Qual é a peixeira?"
+    },
+    {
+      "start": 28.76,
+      "end": 30.1,
+      "text": "Eita, muito bonito."
+    },
+    {
+      "start": 33.47,
+      "end": 34.25,
+      "text": "Aí, pode ligar."
+    }
+  ],
+  "duracao_seg": 36.99,
+  "idioma_detectado": "pt"
+}

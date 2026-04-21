@@ -1,0 +1,157 @@
+{
+  "texto": "Para conseguir voltar. Segura, segura. Batei atrás. Olha, você aí diz que o pescador é fácil, olha aí. Só curtindo, só curtindo. Não, pensando. O pescador é só frio, pessoal. As gaiolas aqui, tem muita comida aqui, muita selva. Então, ele vem para cá, acha comida fácil. E a gente é besta. Peguei ele de fácil também. Peguei ele de fácil também. E aqui é onde? Sobradinho, no lago Sobradinho. Ali em frente está a usina hidrelétrica. E hoje aqui é do Recife. Oliveira. Da Motum. Melhor ele que tem o bracinho, Motum. E aqui atrás está Leonardo. Leandro, Leonardo. Ele não pode vir não. Ele é branquinho, ele vai negurar o sol de Petrolina, viu? É. Vamos para lá para cá. Rapiazinha. Com aquele cuscuz amarelo. Olha que beleza. Leonardo também está ali, olha. Pegou o dele. E o bom é que ele nem se molhou, meu amigo. O pescador é desse.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 45.79,
+      "text": "Para conseguir voltar. Segura, segura. Batei atrás."
+    },
+    {
+      "start": 45.79,
+      "end": 59.49,
+      "text": "Olha, você aí diz que o pescador é fácil, olha aí."
+    },
+    {
+      "start": 59.49,
+      "end": 61.49,
+      "text": "Só curtindo, só curtindo."
+    },
+    {
+      "start": 61.49,
+      "end": 63.49,
+      "text": "Não, pensando."
+    },
+    {
+      "start": 63.49,
+      "end": 67.49,
+      "text": "O pescador é só frio, pessoal."
+    },
+    {
+      "start": 177.76,
+      "end": 180.76,
+      "text": "As gaiolas aqui, tem muita comida aqui, muita selva."
+    },
+    {
+      "start": 180.76,
+      "end": 183.76,
+      "text": "Então, ele vem para cá, acha comida fácil."
+    },
+    {
+      "start": 183.76,
+      "end": 186.11,
+      "text": "E a gente é besta."
+    },
+    {
+      "start": 186.11,
+      "end": 188.11,
+      "text": "Peguei ele de fácil também."
+    },
+    {
+      "start": 188.11,
+      "end": 190.11,
+      "text": "Peguei ele de fácil também."
+    },
+    {
+      "start": 190.11,
+      "end": 192.11,
+      "text": "E aqui é onde?"
+    },
+    {
+      "start": 192.11,
+      "end": 194.11,
+      "text": "Sobradinho, no lago Sobradinho."
+    },
+    {
+      "start": 194.11,
+      "end": 196.11,
+      "text": "Ali em frente está a usina hidrelétrica."
+    },
+    {
+      "start": 196.11,
+      "end": 198.27,
+      "text": "E hoje aqui é do Recife."
+    },
+    {
+      "start": 198.27,
+      "end": 200.27,
+      "text": "Oliveira."
+    },
+    {
+      "start": 200.27,
+      "end": 202.27,
+      "text": "Da Motum."
+    },
+    {
+      "start": 202.27,
+      "end": 204.27,
+      "text": "Melhor ele que tem o bracinho, Motum."
+    },
+    {
+      "start": 204.27,
+      "end": 206.27,
+      "text": "E aqui atrás está Leonardo."
+    },
+    {
+      "start": 206.27,
+      "end": 209.14,
+      "text": "Leandro, Leonardo."
+    },
+    {
+      "start": 209.14,
+      "end": 211.14,
+      "text": "Ele não pode vir não."
+    },
+    {
+      "start": 211.14,
+      "end": 213.14,
+      "text": "Ele é branquinho, ele vai negurar o sol de Petrolina, viu?"
+    },
+    {
+      "start": 213.14,
+      "end": 215.14,
+      "text": "É."
+    },
+    {
+      "start": 215.14,
+      "end": 339.44,
+      "text": "Vamos para lá para cá."
+    },
+    {
+      "start": 339.44,
+      "end": 340.47,
+      "text": "Rapiazinha."
+    },
+    {
+      "start": 340.47,
+      "end": 341.47,
+      "text": "Com aquele cuscuz amarelo."
+    },
+    {
+      "start": 341.47,
+      "end": 343.92,
+      "text": "Olha que beleza."
+    },
+    {
+      "start": 343.92,
+      "end": 346.11,
+      "text": "Leonardo também está ali, olha."
+    },
+    {
+      "start": 346.11,
+      "end": 347.11,
+      "text": "Pegou o dele."
+    },
+    {
+      "start": 347.11,
+      "end": 349.34,
+      "text": "E o bom é que ele nem se molhou, meu amigo."
+    },
+    {
+      "start": 349.34,
+      "end": 351.34,
+      "text": "O pescador é desse."
+    }
+  ],
+  "duracao_seg": 690.05,
+  "idioma_detectado": "pt"
+}

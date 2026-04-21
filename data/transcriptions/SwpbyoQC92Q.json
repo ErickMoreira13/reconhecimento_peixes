@@ -1,0 +1,22 @@
+{
+  "texto": "Turma, nós achamos um jet ski aqui e não tem ninguém, cara. E aí, turma, vamos levar ele até no pier ali na frente e depois a gente avisa aí pro dono achar. E aí, turma, nós vamos deixar ele amarrado aqui agora num pier mais próximo e fazer um vídeo e mandar no grupo da Marina.",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 7.97,
+      "text": "Turma, nós achamos um jet ski aqui e não tem ninguém, cara."
+    },
+    {
+      "start": 12.87,
+      "end": 23.34,
+      "text": "E aí, turma, vamos levar ele até no pier ali na frente e depois a gente avisa aí pro dono achar."
+    },
+    {
+      "start": 24.45,
+      "end": 30.15,
+      "text": "E aí, turma, nós vamos deixar ele amarrado aqui agora num pier mais próximo e fazer um vídeo e mandar no grupo da Marina."
+    }
+  ],
+  "duracao_seg": 30.77,
+  "idioma_detectado": "pt"
+}

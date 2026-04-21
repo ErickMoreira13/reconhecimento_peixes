@@ -1,0 +1,47 @@
+{
+  "texto": "olha o tamanho da criança aí aqui no recanto das águas ilha solteira mais de 2 kg olha o tamanho da boca eu não vou contar onde que é não porque vocês vêm aqui pescar um abraço pessoal",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 2.38,
+      "text": "olha o tamanho da criança aí"
+    },
+    {
+      "start": 2.38,
+      "end": 4.04,
+      "text": "aqui no recanto das águas"
+    },
+    {
+      "start": 4.04,
+      "end": 4.8,
+      "text": "ilha solteira"
+    },
+    {
+      "start": 4.8,
+      "end": 6.8,
+      "text": "mais de 2 kg"
+    },
+    {
+      "start": 6.8,
+      "end": 10.5,
+      "text": "olha o tamanho da boca"
+    },
+    {
+      "start": 10.5,
+      "end": 13.55,
+      "text": "eu não vou contar onde que é não"
+    },
+    {
+      "start": 13.55,
+      "end": 14.81,
+      "text": "porque vocês vêm aqui pescar"
+    },
+    {
+      "start": 14.81,
+      "end": 16.71,
+      "text": "um abraço pessoal"
+    }
+  ],
+  "duracao_seg": 17.61,
+  "idioma_detectado": "pt"
+}

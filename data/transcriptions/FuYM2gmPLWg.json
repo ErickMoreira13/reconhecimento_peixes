@@ -1,0 +1,287 @@
+{
+  "texto": "Oi galera, eu estou aqui no começo aqui da barragem de sobradinho aqui galera Olha os paredões Ela, o nível, ela está baixo, esse dia ela está baixa Porque ela chega, ela chega a ficar bem alta aqui Olha lá a barragem Ela é bem comprida, ela vai para lá daquelas Lá daquele monte, lá daquela serra lá Ela dá a volta E eu vou levar vocês até lá de cima dos paredões da barragem Aqui é um nível Galera, aqui eu estou lá de cima da barragem Aqui é na represa Aqui, gente, represa Muita água, galera Aqui eu já estou, aqui é sobradinho de uma baía Eu estou do lado da baía, ó Passou, passou da barragem até aquele Não tem aquelas torres lá em cima Ali já é Pernambuco É, que a divisa, eu acho que a divisa é o rio São Francisco, né Eu acho que lá já é Pernambuco E aí, galera, o ponto de peça aqui, ó Tupunaré, piranha, dourados, pintado Tambaqui, rapaz, aqui tem mais, galera Piau, aquele piauzinho de três pintas E já é o lado de baixo da barragem Da represa É isso aí, galera, olha aqui Os paredões aqui, ó Isso aqui é Anteus Magnari, pesado Isso aí, galera, ó Ah, galera, aqui é o ponto do dourado, galera Aqui, ó Altos dourados E aí, galera, aqui já é do lado de baixo da barragem Aqui é água corrente Do lado de baixo da barragem aqui já é água corrente, galera Aqui onde tem os surubim, dourado Piau, pacu Aqui tem vários tipos de peixe Tambaqui Os peixes sobem e vêm subir na um rio Chega aqui, eles param aqui, fica tudo aqui, ó E fica tudo preso aqui Aí, galera, a água é bem alvinha, galera, aqui, ó E fundo, hein Fundo, bem fundo, galera E aí, galera, aqui ainda tem paredões aqui pra frente, ó Tudo é paredões aqui Muito grande a barragem, galera Olha, galera, isso aqui é placa solar, olha Aqui, ele gera energia aqui, galera, aqui, ó Isso aqui é do lado de baixo da barragem Aqui é placa solar Solaris Eles...",
+  "segmentos": [
+    {
+      "start": 4.37,
+      "end": 8.25,
+      "text": "Oi galera, eu estou aqui no começo aqui da barragem de sobradinho aqui galera"
+    },
+    {
+      "start": 8.25,
+      "end": 9.97,
+      "text": "Olha os paredões"
+    },
+    {
+      "start": 9.97,
+      "end": 18.3,
+      "text": "Ela, o nível, ela está baixo, esse dia ela está baixa"
+    },
+    {
+      "start": 18.3,
+      "end": 21.65,
+      "text": "Porque ela chega, ela chega a ficar bem alta aqui"
+    },
+    {
+      "start": 21.65,
+      "end": 23.5,
+      "text": "Olha lá a barragem"
+    },
+    {
+      "start": 23.5,
+      "end": 26.7,
+      "text": "Ela é bem comprida, ela vai para lá daquelas"
+    },
+    {
+      "start": 26.7,
+      "end": 29.64,
+      "text": "Lá daquele monte, lá daquela serra lá"
+    },
+    {
+      "start": 29.64,
+      "end": 31.12,
+      "text": "Ela dá a volta"
+    },
+    {
+      "start": 31.12,
+      "end": 36.85,
+      "text": "E eu vou levar vocês até lá de cima dos paredões da barragem"
+    },
+    {
+      "start": 36.85,
+      "end": 38.09,
+      "text": "Aqui é um nível"
+    },
+    {
+      "start": 38.09,
+      "end": 73.06,
+      "text": "Galera, aqui eu estou lá de cima da barragem"
+    },
+    {
+      "start": 73.06,
+      "end": 74.3,
+      "text": "Aqui é na represa"
+    },
+    {
+      "start": 74.3,
+      "end": 76.14,
+      "text": "Aqui, gente, represa"
+    },
+    {
+      "start": 76.14,
+      "end": 79.79,
+      "text": "Muita água, galera"
+    },
+    {
+      "start": 79.79,
+      "end": 83.17,
+      "text": "Aqui eu já estou, aqui é sobradinho de uma baía"
+    },
+    {
+      "start": 83.17,
+      "end": 85.39,
+      "text": "Eu estou do lado da baía, ó"
+    },
+    {
+      "start": 85.39,
+      "end": 88.43,
+      "text": "Passou, passou da barragem até aquele"
+    },
+    {
+      "start": 88.43,
+      "end": 90.73,
+      "text": "Não tem aquelas torres lá em cima"
+    },
+    {
+      "start": 90.73,
+      "end": 92.49,
+      "text": "Ali já é Pernambuco"
+    },
+    {
+      "start": 92.49,
+      "end": 100.32,
+      "text": "É, que a divisa, eu acho que a divisa é o rio São Francisco, né"
+    },
+    {
+      "start": 100.32,
+      "end": 102.43,
+      "text": "Eu acho que lá já é Pernambuco"
+    },
+    {
+      "start": 102.43,
+      "end": 109.47,
+      "text": "E aí, galera, o ponto de peça aqui, ó"
+    },
+    {
+      "start": 109.47,
+      "end": 112.39,
+      "text": "Tupunaré, piranha, dourados, pintado"
+    },
+    {
+      "start": 112.39,
+      "end": 115.01,
+      "text": "Tambaqui, rapaz, aqui tem mais, galera"
+    },
+    {
+      "start": 115.01,
+      "end": 124.86,
+      "text": "Piau, aquele piauzinho de três pintas"
+    },
+    {
+      "start": 124.86,
+      "end": 139.5,
+      "text": "E já é o lado de baixo da barragem"
+    },
+    {
+      "start": 139.5,
+      "end": 140.34,
+      "text": "Da represa"
+    },
+    {
+      "start": 140.34,
+      "end": 163.92,
+      "text": "É isso aí, galera, olha aqui"
+    },
+    {
+      "start": 163.92,
+      "end": 165.8,
+      "text": "Os paredões aqui, ó"
+    },
+    {
+      "start": 165.8,
+      "end": 169.31,
+      "text": "Isso aqui é Anteus Magnari, pesado"
+    },
+    {
+      "start": 169.31,
+      "end": 171.39,
+      "text": "Isso aí, galera, ó"
+    },
+    {
+      "start": 171.39,
+      "end": 189.12,
+      "text": "Ah, galera, aqui é o ponto do dourado, galera"
+    },
+    {
+      "start": 189.12,
+      "end": 189.78,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 189.78,
+      "end": 191.9,
+      "text": "Altos dourados"
+    },
+    {
+      "start": 191.9,
+      "end": 246.6,
+      "text": "E aí, galera, aqui já é do lado de baixo da barragem"
+    },
+    {
+      "start": 246.6,
+      "end": 249.08,
+      "text": "Aqui é água corrente"
+    },
+    {
+      "start": 249.08,
+      "end": 260.84,
+      "text": "Do lado de baixo da barragem aqui já é água corrente, galera"
+    },
+    {
+      "start": 260.84,
+      "end": 270.21,
+      "text": "Aqui onde tem os surubim, dourado"
+    },
+    {
+      "start": 270.21,
+      "end": 273.92,
+      "text": "Piau, pacu"
+    },
+    {
+      "start": 273.92,
+      "end": 276.24,
+      "text": "Aqui tem vários tipos de peixe"
+    },
+    {
+      "start": 276.24,
+      "end": 276.96,
+      "text": "Tambaqui"
+    },
+    {
+      "start": 276.96,
+      "end": 282.76,
+      "text": "Os peixes sobem e vêm subir na um rio"
+    },
+    {
+      "start": 282.76,
+      "end": 284.7,
+      "text": "Chega aqui, eles param aqui, fica tudo aqui, ó"
+    },
+    {
+      "start": 284.7,
+      "end": 288.26,
+      "text": "E fica tudo preso aqui"
+    },
+    {
+      "start": 288.26,
+      "end": 306.99,
+      "text": "Aí, galera, a água é bem alvinha, galera, aqui, ó"
+    },
+    {
+      "start": 306.99,
+      "end": 308.33,
+      "text": "E fundo, hein"
+    },
+    {
+      "start": 308.33,
+      "end": 311.17,
+      "text": "Fundo, bem fundo, galera"
+    },
+    {
+      "start": 311.17,
+      "end": 343.73,
+      "text": "E aí, galera, aqui ainda tem paredões aqui pra frente, ó"
+    },
+    {
+      "start": 343.73,
+      "end": 350.39,
+      "text": "Tudo é paredões aqui"
+    },
+    {
+      "start": 350.39,
+      "end": 354.52,
+      "text": "Muito grande a barragem, galera"
+    },
+    {
+      "start": 354.52,
+      "end": 356.68,
+      "text": "Olha, galera, isso aqui é placa solar, olha"
+    },
+    {
+      "start": 356.68,
+      "end": 363.66,
+      "text": "Aqui, ele gera energia aqui, galera, aqui, ó"
+    },
+    {
+      "start": 363.66,
+      "end": 402.73,
+      "text": "Isso aqui é do lado de baixo da barragem"
+    },
+    {
+      "start": 402.73,
+      "end": 433.77,
+      "text": "Aqui é placa solar"
+    },
+    {
+      "start": 433.77,
+      "end": 434.77,
+      "text": "Solaris"
+    },
+    {
+      "start": 434.77,
+      "end": 438.94,
+      "text": "Eles..."
+    }
+  ],
+  "duracao_seg": 468.31,
+  "idioma_detectado": "pt"
+}

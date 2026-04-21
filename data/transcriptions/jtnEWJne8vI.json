@@ -1,0 +1,17 @@
+{
+  "texto": "Tem mais aqui dentro, ó Olha o bala",
+  "segmentos": [
+    {
+      "start": 1.94,
+      "end": 18.79,
+      "text": "Tem mais aqui dentro, ó"
+    },
+    {
+      "start": 18.79,
+      "end": 20.65,
+      "text": "Olha o bala"
+    }
+  ],
+  "duracao_seg": 25.31,
+  "idioma_detectado": "pt"
+}

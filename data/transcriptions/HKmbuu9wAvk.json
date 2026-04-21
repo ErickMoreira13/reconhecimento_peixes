@@ -1,0 +1,17 @@
+{
+  "texto": "Ok. Ok.",
+  "segmentos": [
+    {
+      "start": 1.97,
+      "end": 8.06,
+      "text": "Ok."
+    },
+    {
+      "start": 8.06,
+      "end": 9.06,
+      "text": "Ok."
+    }
+  ],
+  "duracao_seg": 22.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "Menor de todos Vai, Luizinho Da hora, hein Tá filmando Aí, pessoal Pescador profissional em Ilha Solteira Dando uma palhinha aqui Pro meu tio e pro meu irmão Beleza? Bye, Johnny Hoffman",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 1.38,
+      "text": "Menor de todos"
+    },
+    {
+      "start": 1.38,
+      "end": 4.72,
+      "text": "Vai, Luizinho"
+    },
+    {
+      "start": 4.72,
+      "end": 6.26,
+      "text": "Da hora, hein"
+    },
+    {
+      "start": 6.26,
+      "end": 8.0,
+      "text": "Tá filmando"
+    },
+    {
+      "start": 8.0,
+      "end": 9.44,
+      "text": "Aí, pessoal"
+    },
+    {
+      "start": 9.44,
+      "end": 12.53,
+      "text": "Pescador profissional em Ilha Solteira"
+    },
+    {
+      "start": 12.53,
+      "end": 14.89,
+      "text": "Dando uma palhinha aqui"
+    },
+    {
+      "start": 14.89,
+      "end": 15.95,
+      "text": "Pro meu tio e pro meu irmão"
+    },
+    {
+      "start": 15.95,
+      "end": 19.68,
+      "text": "Beleza? Bye, Johnny Hoffman"
+    }
+  ],
+  "duracao_seg": 21.35,
+  "idioma_detectado": "pt"
+}

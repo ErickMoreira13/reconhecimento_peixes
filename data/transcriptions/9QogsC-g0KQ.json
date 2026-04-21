@@ -1,0 +1,72 @@
+{
+  "texto": "ó o tamanho desse ó, vou encostar do meu lado, viu ó, ó, o tamanho só queria pegar desse tamanho aqui, ó fazia tempo, bicho que eu não vim aqui jogar um escar artificial pra pegar o povo tá reclamando, ah, é pirambé pirambé é peixe, e gostoso, viu tô na tremendeira da porra aqui ventando, água gelada, agora água tá gelada e pegando peixe",
+  "segmentos": [
+    {
+      "start": 1.36,
+      "end": 2.08,
+      "text": "ó"
+    },
+    {
+      "start": 2.08,
+      "end": 6.72,
+      "text": "o tamanho desse"
+    },
+    {
+      "start": 6.72,
+      "end": 8.48,
+      "text": "ó, vou encostar do meu lado, viu"
+    },
+    {
+      "start": 8.48,
+      "end": 10.74,
+      "text": "ó, ó, o tamanho"
+    },
+    {
+      "start": 10.74,
+      "end": 15.04,
+      "text": "só queria pegar desse tamanho aqui, ó"
+    },
+    {
+      "start": 15.04,
+      "end": 17.42,
+      "text": "fazia tempo, bicho"
+    },
+    {
+      "start": 17.42,
+      "end": 18.12,
+      "text": "que eu não vim aqui"
+    },
+    {
+      "start": 18.12,
+      "end": 20.36,
+      "text": "jogar um escar artificial pra pegar"
+    },
+    {
+      "start": 20.36,
+      "end": 22.82,
+      "text": "o povo tá reclamando, ah, é pirambé"
+    },
+    {
+      "start": 22.82,
+      "end": 25.22,
+      "text": "pirambé é peixe, e gostoso, viu"
+    },
+    {
+      "start": 25.22,
+      "end": 27.53,
+      "text": "tô na tremendeira da porra aqui"
+    },
+    {
+      "start": 27.53,
+      "end": 30.01,
+      "text": "ventando, água gelada, agora água tá gelada"
+    },
+    {
+      "start": 30.01,
+      "end": 31.67,
+      "text": "e pegando peixe"
+    }
+  ],
+  "duracao_seg": 31.87,
+  "idioma_detectado": "pt"
+}

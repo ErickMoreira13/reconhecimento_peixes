@@ -1,0 +1,42 @@
+{
+  "texto": "Olha só a marquinha agora, meio dia? Já são quase meio dia Olha só o que que veio no meu anzol Vê se pode Ué, dá pra ver aí? Uma tartaruga Caraca",
+  "segmentos": [
+    {
+      "start": 1.84,
+      "end": 4.94,
+      "text": "Olha só a marquinha agora, meio dia?"
+    },
+    {
+      "start": 5.94,
+      "end": 7.4,
+      "text": "Já são quase meio dia"
+    },
+    {
+      "start": 7.4,
+      "end": 9.46,
+      "text": "Olha só o que que veio no meu anzol"
+    },
+    {
+      "start": 9.46,
+      "end": 11.3,
+      "text": "Vê se pode"
+    },
+    {
+      "start": 11.3,
+      "end": 15.72,
+      "text": "Ué, dá pra ver aí?"
+    },
+    {
+      "start": 21.73,
+      "end": 22.83,
+      "text": "Uma tartaruga"
+    },
+    {
+      "start": 22.83,
+      "end": 27.35,
+      "text": "Caraca"
+    }
+  ],
+  "duracao_seg": 31.85,
+  "idioma_detectado": "pt"
+}

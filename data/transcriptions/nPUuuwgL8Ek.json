@@ -1,0 +1,17 @@
+{
+  "texto": "e aí meu primo pegando aqui na pescaria agora olha como era estilado eu tô pegando o naré olha conhece a traíra olha a traíra traíra",
+  "segmentos": [
+    {
+      "start": 14.29,
+      "end": 20.72,
+      "text": "e aí meu primo pegando aqui na pescaria agora olha como era estilado eu tô pegando"
+    },
+    {
+      "start": 25.55,
+      "end": 48.94,
+      "text": "o naré olha conhece a traíra olha a traíra traíra"
+    }
+  ],
+  "duracao_seg": 60.27,
+  "idioma_detectado": "pt"
+}

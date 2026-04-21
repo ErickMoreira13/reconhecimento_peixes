@@ -1,0 +1,22 @@
+{
+  "texto": "Olha o que a mulher pegou aqui, na rede do rio O que a mulher pegou aqui na rede do rio Onde eu tô aqui?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Olha o que a mulher pegou aqui, na rede do rio"
+    },
+    {
+      "start": 4.0,
+      "end": 6.46,
+      "text": "O que a mulher pegou aqui na rede do rio"
+    },
+    {
+      "start": 6.46,
+      "end": 9.25,
+      "text": "Onde eu tô aqui?"
+    }
+  ],
+  "duracao_seg": 12.83,
+  "idioma_detectado": "pt"
+}

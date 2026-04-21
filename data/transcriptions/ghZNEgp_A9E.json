@@ -1,0 +1,37 @@
+{
+  "texto": "Dois, um pescando, olha quem pegou o primeiro Olha, amor Aí é grande, hein? É, rapaz Aí, foi, agora Faça uma pata",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "Dois, um pescando, olha quem pegou o primeiro"
+    },
+    {
+      "start": 3.1,
+      "end": 6.46,
+      "text": "Olha, amor"
+    },
+    {
+      "start": 6.46,
+      "end": 8.04,
+      "text": "Aí é grande, hein?"
+    },
+    {
+      "start": 8.5,
+      "end": 9.3,
+      "text": "É, rapaz"
+    },
+    {
+      "start": 9.3,
+      "end": 13.94,
+      "text": "Aí, foi, agora"
+    },
+    {
+      "start": 13.94,
+      "end": 15.04,
+      "text": "Faça uma pata"
+    }
+  ],
+  "duracao_seg": 15.19,
+  "idioma_detectado": "pt"
+}

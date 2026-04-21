@@ -1,0 +1,27 @@
+{
+  "texto": "de sair mais um aqui ó bonito hein o peixe bonito galera fazer soltura dele aqui ó incentivar aí a pesca esportiva galera que traz muita alegria lá foi embora brutal um bruto aqui galera grande é grande mesmo casal aprendeu isso aí galera o peixinho aí ó bom hein aí galera fazer soltura aqui do bicho foi embora bonito em aqui",
+  "segmentos": [
+    {
+      "start": 141.49,
+      "end": 164.49,
+      "text": "de sair mais um aqui ó bonito hein o peixe bonito galera fazer soltura dele aqui ó incentivar aí a"
+    },
+    {
+      "start": 164.49,
+      "end": 200.85,
+      "text": "pesca esportiva galera que traz muita alegria lá foi embora brutal um bruto aqui galera grande"
+    },
+    {
+      "start": 200.85,
+      "end": 334.73,
+      "text": "é grande mesmo casal aprendeu isso aí galera o peixinho aí ó bom hein aí galera fazer soltura aqui do bicho"
+    },
+    {
+      "start": 334.73,
+      "end": 421.47,
+      "text": "foi embora bonito em aqui"
+    }
+  ],
+  "duracao_seg": 526.11,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Graças a Deus, deu bom, pôr do sol. Aí, galera, deu pra fazer um frito, né? Deu bom, deu bom.",
+  "segmentos": [
+    {
+      "start": 422.0,
+      "end": 424.52,
+      "text": "Graças a Deus, deu bom, pôr do sol."
+    },
+    {
+      "start": 425.42,
+      "end": 428.49,
+      "text": "Aí, galera, deu pra fazer um frito, né?"
+    },
+    {
+      "start": 437.86,
+      "end": 438.92,
+      "text": "Deu bom, deu bom."
+    }
+  ],
+  "duracao_seg": 443.27,
+  "idioma_detectado": "pt"
+}

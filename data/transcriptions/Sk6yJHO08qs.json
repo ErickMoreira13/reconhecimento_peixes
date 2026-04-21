@@ -1,0 +1,62 @@
+{
+  "texto": "A Represa de Sobradinho, localizada no Rio São Francisco, no estado da Bahia, é uma das maiores represas do Brasil e do mundo em volume de água. A represa tem um comprimento de aproximadamente 320 quilômetros e uma área de 4.200 quilômetros quadrados, ou seja, equivalente a 3 vezes e meia a extensão da cidade do Rio de Janeiro. Em sua extensão, abrange seis municípios, Casanova, Cento Sé, Remanso, Pilão Arcado, Sobradinho e Juazeiro. A principal função da Represa de Sobradinho é a geração de energia elétrica. Ela alimenta a usina hidrelétrica de Sobradinho, que possui uma capacidade instalada de 1.050 megawatts. Além de sua importância para a geração de energia, a represa é fundamental para o abastecimento de água, irrigação agrícola e navegação no Rio São Francisco. A construção da represa criou o maior lago artificial do Brasil, que também se tornou um importante ponto turístico. A represa desempenha um papel crucial na regulação do fluxo do Rio São Francisco, especialmente durante os períodos",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "A Represa de Sobradinho, localizada no Rio São Francisco, no estado da Bahia,"
+    },
+    {
+      "start": 4.08,
+      "end": 7.38,
+      "text": "é uma das maiores represas do Brasil e do mundo em volume de água."
+    },
+    {
+      "start": 7.48,
+      "end": 14.84,
+      "text": "A represa tem um comprimento de aproximadamente 320 quilômetros e uma área de 4.200 quilômetros quadrados,"
+    },
+    {
+      "start": 15.08,
+      "end": 19.9,
+      "text": "ou seja, equivalente a 3 vezes e meia a extensão da cidade do Rio de Janeiro."
+    },
+    {
+      "start": 19.9,
+      "end": 27.56,
+      "text": "Em sua extensão, abrange seis municípios, Casanova, Cento Sé, Remanso, Pilão Arcado, Sobradinho e Juazeiro."
+    },
+    {
+      "start": 27.56,
+      "end": 31.88,
+      "text": "A principal função da Represa de Sobradinho é a geração de energia elétrica."
+    },
+    {
+      "start": 32.12,
+      "end": 38.62,
+      "text": "Ela alimenta a usina hidrelétrica de Sobradinho, que possui uma capacidade instalada de 1.050 megawatts."
+    },
+    {
+      "start": 38.84,
+      "end": 44.2,
+      "text": "Além de sua importância para a geração de energia, a represa é fundamental para o abastecimento de água,"
+    },
+    {
+      "start": 44.46,
+      "end": 47.42,
+      "text": "irrigação agrícola e navegação no Rio São Francisco."
+    },
+    {
+      "start": 47.42,
+      "end": 53.78,
+      "text": "A construção da represa criou o maior lago artificial do Brasil, que também se tornou um importante ponto turístico."
+    },
+    {
+      "start": 53.78,
+      "end": 60.02,
+      "text": "A represa desempenha um papel crucial na regulação do fluxo do Rio São Francisco, especialmente durante os períodos"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

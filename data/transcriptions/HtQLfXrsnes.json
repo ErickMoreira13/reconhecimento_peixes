@@ -1,0 +1,242 @@
+{
+  "texto": "Primeiro arremesso Vamos ver o que é que dá aí Nada Ó, soltou Ê, lasqueiro Vão tentar, vai Toda estrutura boa ali, não tem? Viu? Ê, lasqueiro Esse é bitela Calma aí, meu filho Vou te soltar Poxa, amuscou a Garateia, rapaz Calma, doido Oh, caramba, calma aí Calma aí, tio Calma aí, que eu vou Soltar meu peixão aqui Soltar meu peixão aqui Aqui Só um minutinho, só um minutinho, tá? Aonde? Peguei Peguei Oi Nossa senhora Oi Filmei, vai Aí, pessoal O bicho Que bonita Aí, é bom Abre e dá mais uma alugação Na bagunçada Você trouxe uma ruta? Meu Deus, não, se despeis Que filó, cara Não, se despeis, não É quem foi Não, não, não, não Não, não, não Não, não Se despeis O bicho É quem foi Abre e dá mais uma alugação",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Primeiro arremesso"
+    },
+    {
+      "start": 2.16,
+      "end": 4.67,
+      "text": "Vamos ver o que é que dá aí"
+    },
+    {
+      "start": 4.67,
+      "end": 25.43,
+      "text": "Nada"
+    },
+    {
+      "start": 25.43,
+      "end": 36.97,
+      "text": "Ó, soltou"
+    },
+    {
+      "start": 36.97,
+      "end": 39.76,
+      "text": "Ê, lasqueiro"
+    },
+    {
+      "start": 39.76,
+      "end": 54.85,
+      "text": "Vão tentar, vai"
+    },
+    {
+      "start": 54.85,
+      "end": 58.3,
+      "text": "Toda estrutura boa ali, não tem?"
+    },
+    {
+      "start": 58.9,
+      "end": 59.08,
+      "text": "Viu?"
+    },
+    {
+      "start": 65.32,
+      "end": 66.56,
+      "text": "Ê, lasqueiro"
+    },
+    {
+      "start": 66.56,
+      "end": 69.08,
+      "text": "Esse é bitela"
+    },
+    {
+      "start": 69.08,
+      "end": 73.64,
+      "text": "Calma aí, meu filho"
+    },
+    {
+      "start": 73.64,
+      "end": 74.76,
+      "text": "Vou te soltar"
+    },
+    {
+      "start": 74.76,
+      "end": 91.68,
+      "text": "Poxa, amuscou a"
+    },
+    {
+      "start": 91.68,
+      "end": 93.76,
+      "text": "Garateia, rapaz"
+    },
+    {
+      "start": 93.76,
+      "end": 96.59,
+      "text": "Calma, doido"
+    },
+    {
+      "start": 124.18,
+      "end": 134.58,
+      "text": "Oh, caramba, calma aí"
+    },
+    {
+      "start": 134.58,
+      "end": 145.25,
+      "text": "Calma aí, tio"
+    },
+    {
+      "start": 145.25,
+      "end": 148.05,
+      "text": "Calma aí, que eu vou"
+    },
+    {
+      "start": 148.05,
+      "end": 150.27,
+      "text": "Soltar meu peixão aqui"
+    },
+    {
+      "start": 150.27,
+      "end": 153.08,
+      "text": "Soltar meu peixão aqui"
+    },
+    {
+      "start": 153.08,
+      "end": 157.55,
+      "text": "Aqui"
+    },
+    {
+      "start": 157.55,
+      "end": 159.67,
+      "text": "Só um minutinho, só um minutinho, tá?"
+    },
+    {
+      "start": 174.22,
+      "end": 175.35,
+      "text": "Aonde?"
+    },
+    {
+      "start": 179.74,
+      "end": 219.49,
+      "text": "Peguei"
+    },
+    {
+      "start": 219.49,
+      "end": 221.35,
+      "text": "Peguei"
+    },
+    {
+      "start": 221.35,
+      "end": 224.28,
+      "text": "Oi"
+    },
+    {
+      "start": 224.28,
+      "end": 232.8,
+      "text": "Nossa senhora"
+    },
+    {
+      "start": 232.8,
+      "end": 236.31,
+      "text": "Oi"
+    },
+    {
+      "start": 236.31,
+      "end": 238.56,
+      "text": "Filmei, vai"
+    },
+    {
+      "start": 238.56,
+      "end": 245.19,
+      "text": "Aí, pessoal"
+    },
+    {
+      "start": 245.19,
+      "end": 250.32,
+      "text": "O bicho"
+    },
+    {
+      "start": 250.32,
+      "end": 255.12,
+      "text": "Que bonita"
+    },
+    {
+      "start": 255.12,
+      "end": 271.38,
+      "text": "Aí, é bom"
+    },
+    {
+      "start": 271.38,
+      "end": 272.74,
+      "text": "Abre e dá mais uma alugação"
+    },
+    {
+      "start": 272.74,
+      "end": 273.54,
+      "text": "Na bagunçada"
+    },
+    {
+      "start": 273.54,
+      "end": 274.64,
+      "text": "Você trouxe uma ruta?"
+    },
+    {
+      "start": 274.64,
+      "end": 276.06,
+      "text": "Meu Deus, não, se despeis"
+    },
+    {
+      "start": 276.06,
+      "end": 277.91,
+      "text": "Que filó, cara"
+    },
+    {
+      "start": 277.91,
+      "end": 279.31,
+      "text": "Não, se despeis, não"
+    },
+    {
+      "start": 279.31,
+      "end": 280.73,
+      "text": "É quem foi"
+    },
+    {
+      "start": 280.73,
+      "end": 283.99,
+      "text": "Não, não, não, não"
+    },
+    {
+      "start": 283.99,
+      "end": 288.62,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 288.62,
+      "end": 289.18,
+      "text": "Não, não"
+    },
+    {
+      "start": 289.18,
+      "end": 290.2,
+      "text": "Se despeis"
+    },
+    {
+      "start": 290.2,
+      "end": 290.78,
+      "text": "O bicho"
+    },
+    {
+      "start": 290.78,
+      "end": 291.18,
+      "text": "É quem foi"
+    },
+    {
+      "start": 291.18,
+      "end": 292.12,
+      "text": "Abre e dá mais uma alugação"
+    }
+  ],
+  "duracao_seg": 289.29,
+  "idioma_detectado": "pt"
+}

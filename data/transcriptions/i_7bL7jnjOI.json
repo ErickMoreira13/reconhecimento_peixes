@@ -1,0 +1,32 @@
+{
+  "texto": "No Rio de São Francisco, no Pissarrão Bahia, olha Belo exemplo lá aqui de Piranha Olha a isquinha, olha os estragos que elas estão fazendo Vamos ver se eu consigo filmar eu capturando uma delas Aguardem um pouquinho",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.29,
+      "text": "No Rio de São Francisco, no Pissarrão Bahia, olha"
+    },
+    {
+      "start": 2.29,
+      "end": 4.85,
+      "text": "Belo exemplo lá aqui de Piranha"
+    },
+    {
+      "start": 4.85,
+      "end": 7.45,
+      "text": "Olha a isquinha, olha os estragos que elas estão fazendo"
+    },
+    {
+      "start": 7.45,
+      "end": 10.51,
+      "text": "Vamos ver se eu consigo filmar eu capturando uma delas"
+    },
+    {
+      "start": 10.51,
+      "end": 11.41,
+      "text": "Aguardem um pouquinho"
+    }
+  ],
+  "duracao_seg": 12.29,
+  "idioma_detectado": "pt"
+}

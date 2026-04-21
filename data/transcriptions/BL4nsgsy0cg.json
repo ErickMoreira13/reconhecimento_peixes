@@ -1,0 +1,27 @@
+{
+  "texto": "o primeiro dourado cinco e quarenta e cinco e quarenta e seis da manhã sai não daqui não sai não olha o regue pesado lá ó cuida pega o dourado aí pô aí ó a varinha sobradinho regue pesado você vê se dá para virar para mim filmar aqui e o bicho tá pulando é bradeira primeiro primeiro dourado viu",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 10.48,
+      "text": "o primeiro dourado cinco e quarenta e cinco e quarenta e seis da manhã sai não daqui não"
+    },
+    {
+      "start": 10.48,
+      "end": 20.52,
+      "text": "sai não olha o regue pesado lá ó cuida pega o dourado aí pô aí ó a varinha sobradinho regue"
+    },
+    {
+      "start": 20.52,
+      "end": 34.66,
+      "text": "pesado você vê se dá para virar para mim filmar aqui e o bicho tá pulando é bradeira primeiro"
+    },
+    {
+      "start": 34.66,
+      "end": 37.66,
+      "text": "primeiro dourado viu"
+    }
+  ],
+  "duracao_seg": 36.27,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "É o seguinte, são 6 e 10 da manhã, então aí no seu motor, pegado, o outro preparando aí as riscas, basta aí, ó, o oração, o frango, o homem pensa que não vai fazer é churrasco, tá certo, pois é, beba o fiche, viu, como é, pescando, vidas para Cristo e peixe por esporte Boa",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 11.85,
+      "text": "É o seguinte, são 6 e 10 da manhã, então aí no seu motor, pegado, o outro preparando"
+    },
+    {
+      "start": 11.85,
+      "end": 18.36,
+      "text": "aí as riscas, basta aí, ó, o oração, o frango, o homem pensa que não vai fazer"
+    },
+    {
+      "start": 18.36,
+      "end": 40.82,
+      "text": "é churrasco, tá certo, pois é, beba o fiche, viu, como é, pescando, vidas para Cristo"
+    },
+    {
+      "start": 40.82,
+      "end": 42.3,
+      "text": "e peixe por esporte"
+    },
+    {
+      "start": 42.3,
+      "end": 43.52,
+      "text": "Boa"
+    }
+  ],
+  "duracao_seg": 44.19,
+  "idioma_detectado": "pt"
+}

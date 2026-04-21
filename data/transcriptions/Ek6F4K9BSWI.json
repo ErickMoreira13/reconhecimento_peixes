@@ -1,0 +1,362 @@
+{
+  "texto": "E aí rapaziada, olha pro tamanho dessas maretas rapaziada, olha pra isso aí, olha Olha pro tamanho das maretas, olha pra isso aí, ó Misericórdia, olha pra isso Controla o barco Diego Aí já não É a despedida rapaziada Ainda tem até sábado, né? Tem até sábado ainda Não, né? Ainda não, né? Começa a vara Não, moço, tava na linha, eu vi que tava na linha ainda Rapaziada, tá meio vacilo esse bicho Tá molecendo não, moço E eu não vejo, mas é o tucunaré É o tucunaré que vem pra cá, moço Aí rapaziada, ele pegou ruim, nem que sabia Como é que pode, moço Eu vi que ele tava na linha, que ele foi pra frente, ali, ó Passou direto pra ali, ó Eu vi na hora que a linha fogou, veio Mas foi porque ele passou pra frente Ô rapaziada, você nunca pegou o dourado, não, menino É, parece que ele nunca fez com o tignão dourado O jeito que ele vem lá pra cá, ó Pega na isca e vem pra cá, o cara vai embora mesmo Aí, ó Aí rapaziada Rapaziada, tucunarézão aí, ó Tá nóis Ô bichão dele Ô bichão dele Viva aí, meu professor Lá, vá Viva aí, meu professor Ô O que a gente saindo dele aí? Eita, moço Olha, rapaziada, como é que tá aí, ó O outro Olha o tamanho do bicho Pra vocês aí direitinho Maré é bonito demais É isso aí Maré de um quilo e meio por aí Ó, bichão, hein Pode ir, rapaz Tá virando o bicho Aí rapaziada, tamo aqui no mesmo setor, rapaziada Aqui é lapada, rapaziada Quando tá batendo assim Acabando Delegão aí, rapaziada Trabalhando o bicho aí, ó Aí Tô com o marézinho Pega o bicho aí Tem que ter calma, moço Vê Ixi, Diego A gente nadando de lado De lado mesmo agora Espantou os peixes Oxa, não pegou, Diego? Olha Eu bebei pertinho, velho Aí, rapaziada O bichão aí, ó Aí, rapaziada Eu bebi pertinho, bicho Só pra testar um lado da isca, ó Porque você lembra que eu falei lá atrás, não foi?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "E aí rapaziada, olha pro tamanho dessas maretas rapaziada, olha pra isso aí, olha"
+    },
+    {
+      "start": 3.48,
+      "end": 8.0,
+      "text": "Olha pro tamanho das maretas, olha pra isso aí, ó"
+    },
+    {
+      "start": 8.0,
+      "end": 10.4,
+      "text": "Misericórdia, olha pra isso"
+    },
+    {
+      "start": 10.4,
+      "end": 13.11,
+      "text": "Controla o barco Diego"
+    },
+    {
+      "start": 13.11,
+      "end": 16.04,
+      "text": "Aí já não"
+    },
+    {
+      "start": 16.04,
+      "end": 22.48,
+      "text": "É a despedida rapaziada"
+    },
+    {
+      "start": 22.48,
+      "end": 25.27,
+      "text": "Ainda tem até sábado, né?"
+    },
+    {
+      "start": 26.09,
+      "end": 27.25,
+      "text": "Tem até sábado ainda"
+    },
+    {
+      "start": 27.25,
+      "end": 33.27,
+      "text": "Não, né? Ainda não, né?"
+    },
+    {
+      "start": 33.81,
+      "end": 34.45,
+      "text": "Começa a vara"
+    },
+    {
+      "start": 34.45,
+      "end": 44.04,
+      "text": "Não, moço, tava na linha, eu vi que tava na linha ainda"
+    },
+    {
+      "start": 44.04,
+      "end": 46.4,
+      "text": "Rapaziada, tá meio vacilo esse bicho"
+    },
+    {
+      "start": 46.4,
+      "end": 49.88,
+      "text": "Tá molecendo não, moço"
+    },
+    {
+      "start": 49.88,
+      "end": 55.72,
+      "text": "E eu não vejo, mas é o tucunaré"
+    },
+    {
+      "start": 55.72,
+      "end": 58.04,
+      "text": "É o tucunaré que vem pra cá, moço"
+    },
+    {
+      "start": 58.04,
+      "end": 62.05,
+      "text": "Aí rapaziada, ele pegou ruim, nem que sabia"
+    },
+    {
+      "start": 62.05,
+      "end": 66.6,
+      "text": "Como é que pode, moço"
+    },
+    {
+      "start": 66.6,
+      "end": 72.34,
+      "text": "Eu vi que ele tava na linha, que ele foi pra frente, ali, ó"
+    },
+    {
+      "start": 72.34,
+      "end": 73.66,
+      "text": "Passou direto pra ali, ó"
+    },
+    {
+      "start": 73.66,
+      "end": 90.54,
+      "text": "Eu vi na hora que a linha fogou, veio"
+    },
+    {
+      "start": 90.54,
+      "end": 92.44,
+      "text": "Mas foi porque ele passou pra frente"
+    },
+    {
+      "start": 92.44,
+      "end": 97.76,
+      "text": "Ô rapaziada, você nunca pegou o dourado, não, menino"
+    },
+    {
+      "start": 97.76,
+      "end": 101.47,
+      "text": "É, parece que ele nunca fez com o tignão dourado"
+    },
+    {
+      "start": 101.47,
+      "end": 103.74,
+      "text": "O jeito que ele vem lá pra cá, ó"
+    },
+    {
+      "start": 103.74,
+      "end": 106.3,
+      "text": "Pega na isca e vem pra cá, o cara vai embora mesmo"
+    },
+    {
+      "start": 106.3,
+      "end": 112.31,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 112.31,
+      "end": 113.73,
+      "text": "Aí rapaziada"
+    },
+    {
+      "start": 113.73,
+      "end": 120.7,
+      "text": "Rapaziada, tucunarézão aí, ó"
+    },
+    {
+      "start": 120.7,
+      "end": 122.07,
+      "text": "Tá nóis"
+    },
+    {
+      "start": 122.07,
+      "end": 124.4,
+      "text": "Ô bichão dele"
+    },
+    {
+      "start": 124.4,
+      "end": 132.35,
+      "text": "Ô bichão dele"
+    },
+    {
+      "start": 132.35,
+      "end": 133.17,
+      "text": "Viva aí, meu professor"
+    },
+    {
+      "start": 133.17,
+      "end": 133.79,
+      "text": "Lá, vá"
+    },
+    {
+      "start": 133.79,
+      "end": 135.65,
+      "text": "Viva aí, meu professor"
+    },
+    {
+      "start": 135.65,
+      "end": 136.25,
+      "text": "Ô"
+    },
+    {
+      "start": 136.25,
+      "end": 138.01,
+      "text": "O que a gente saindo dele aí?"
+    },
+    {
+      "start": 139.01,
+      "end": 140.26,
+      "text": "Eita, moço"
+    },
+    {
+      "start": 140.26,
+      "end": 143.56,
+      "text": "Olha, rapaziada, como é que tá aí, ó"
+    },
+    {
+      "start": 143.56,
+      "end": 151.66,
+      "text": "O outro"
+    },
+    {
+      "start": 151.66,
+      "end": 154.39,
+      "text": "Olha o tamanho do bicho"
+    },
+    {
+      "start": 154.39,
+      "end": 161.37,
+      "text": "Pra vocês aí direitinho"
+    },
+    {
+      "start": 161.37,
+      "end": 163.6,
+      "text": "Maré é bonito demais"
+    },
+    {
+      "start": 163.6,
+      "end": 165.27,
+      "text": "É isso aí"
+    },
+    {
+      "start": 165.27,
+      "end": 168.92,
+      "text": "Maré de um quilo e meio por aí"
+    },
+    {
+      "start": 168.92,
+      "end": 186.83,
+      "text": "Ó, bichão, hein"
+    },
+    {
+      "start": 186.83,
+      "end": 199.69,
+      "text": "Pode ir, rapaz"
+    },
+    {
+      "start": 199.69,
+      "end": 203.65,
+      "text": "Tá virando o bicho"
+    },
+    {
+      "start": 203.65,
+      "end": 208.16,
+      "text": "Aí rapaziada, tamo aqui no mesmo setor, rapaziada"
+    },
+    {
+      "start": 208.16,
+      "end": 210.26,
+      "text": "Aqui é lapada, rapaziada"
+    },
+    {
+      "start": 210.26,
+      "end": 212.87,
+      "text": "Quando tá batendo assim"
+    },
+    {
+      "start": 212.87,
+      "end": 213.15,
+      "text": "Acabando"
+    },
+    {
+      "start": 213.15,
+      "end": 215.55,
+      "text": "Delegão aí, rapaziada"
+    },
+    {
+      "start": 215.55,
+      "end": 216.69,
+      "text": "Trabalhando o bicho aí, ó"
+    },
+    {
+      "start": 216.69,
+      "end": 219.35,
+      "text": "Aí"
+    },
+    {
+      "start": 219.35,
+      "end": 220.45,
+      "text": "Tô com o marézinho"
+    },
+    {
+      "start": 220.45,
+      "end": 226.08,
+      "text": "Pega o bicho aí"
+    },
+    {
+      "start": 226.08,
+      "end": 229.6,
+      "text": "Tem que ter calma, moço"
+    },
+    {
+      "start": 229.6,
+      "end": 231.37,
+      "text": "Vê"
+    },
+    {
+      "start": 231.37,
+      "end": 232.37,
+      "text": "Ixi, Diego"
+    },
+    {
+      "start": 232.37,
+      "end": 233.67,
+      "text": "A gente nadando de lado"
+    },
+    {
+      "start": 233.67,
+      "end": 235.13,
+      "text": "De lado mesmo agora"
+    },
+    {
+      "start": 235.13,
+      "end": 237.1,
+      "text": "Espantou os peixes"
+    },
+    {
+      "start": 237.1,
+      "end": 256.29,
+      "text": "Oxa, não pegou, Diego?"
+    },
+    {
+      "start": 256.29,
+      "end": 256.43,
+      "text": "Olha"
+    },
+    {
+      "start": 256.43,
+      "end": 259.88,
+      "text": "Eu bebei pertinho, velho"
+    },
+    {
+      "start": 259.88,
+      "end": 264.26,
+      "text": "Aí, rapaziada"
+    },
+    {
+      "start": 264.26,
+      "end": 265.14,
+      "text": "O bichão aí, ó"
+    },
+    {
+      "start": 265.14,
+      "end": 271.95,
+      "text": "Aí, rapaziada"
+    },
+    {
+      "start": 271.95,
+      "end": 273.41,
+      "text": "Eu bebi pertinho, bicho"
+    },
+    {
+      "start": 273.41,
+      "end": 276.17,
+      "text": "Só pra testar um lado da isca, ó"
+    },
+    {
+      "start": 276.17,
+      "end": 278.97,
+      "text": "Porque você lembra que eu falei lá atrás, não foi?"
+    }
+  ],
+  "duracao_seg": 286.21,
+  "idioma_detectado": "pt"
+}

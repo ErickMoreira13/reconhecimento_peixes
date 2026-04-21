@@ -1,0 +1,57 @@
+{
+  "texto": "Olha só, um casal foi preso por pesca proibida no Lago de Furnas, em Campos Gerais. Porque a pesca nessa época do ano é proibida por conta da Piracema, lambarizinho. Mas é tanto lambari que me deu água na boca, mas não pode pescar agora, põe no ar. Em um ponto conhecido como Dois Paus, em Campos Gerais, a Polícia Militar de Alfenas prendeu e multou em mais de 16 mil reais um casal de pescadores. Eles foram encaminhados para a delegacia de Alfenas após serem flagrados pescando no lago durante o período da Piracema. Um barco, oito redes e cerca de 20 quilos de peixe da espécie lambari foram apreendidos. Como o pescado estava apto para o consumo, foi doado a uma instituição de Alfenas. O período da Piracema começou em 1º de novembro e vai até 28 de fevereiro do ano que vem. 28 de fevereiro não pode pescar, depois pode, mas...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.78,
+      "text": "Olha só, um casal foi preso por pesca proibida no Lago de Furnas, em Campos Gerais."
+    },
+    {
+      "start": 6.74,
+      "end": 12.14,
+      "text": "Porque a pesca nessa época do ano é proibida por conta da Piracema, lambarizinho."
+    },
+    {
+      "start": 12.44,
+      "end": 15.9,
+      "text": "Mas é tanto lambari que me deu água na boca, mas não pode pescar agora, põe no ar."
+    },
+    {
+      "start": 17.25,
+      "end": 22.21,
+      "text": "Em um ponto conhecido como Dois Paus, em Campos Gerais, a Polícia Militar de Alfenas"
+    },
+    {
+      "start": 22.21,
+      "end": 26.55,
+      "text": "prendeu e multou em mais de 16 mil reais um casal de pescadores."
+    },
+    {
+      "start": 26.55,
+      "end": 33.77,
+      "text": "Eles foram encaminhados para a delegacia de Alfenas após serem flagrados pescando no lago durante o período da Piracema."
+    },
+    {
+      "start": 34.21,
+      "end": 40.01,
+      "text": "Um barco, oito redes e cerca de 20 quilos de peixe da espécie lambari foram apreendidos."
+    },
+    {
+      "start": 40.47,
+      "end": 44.99,
+      "text": "Como o pescado estava apto para o consumo, foi doado a uma instituição de Alfenas."
+    },
+    {
+      "start": 45.39,
+      "end": 50.67,
+      "text": "O período da Piracema começou em 1º de novembro e vai até 28 de fevereiro do ano que vem."
+    },
+    {
+      "start": 52.16,
+      "end": 55.32,
+      "text": "28 de fevereiro não pode pescar, depois pode, mas..."
+    }
+  ],
+  "duracao_seg": 54.71,
+  "idioma_detectado": "pt"
+}

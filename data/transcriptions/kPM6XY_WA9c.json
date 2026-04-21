@@ -1,0 +1,17 @@
+{
+  "texto": "E eu te busco a meia noite E depois disso a gente foge Pra algum lugar que ninguém vai",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 5.51,
+      "text": "E eu te busco a meia noite E depois disso a gente foge"
+    },
+    {
+      "start": 5.51,
+      "end": 7.63,
+      "text": "Pra algum lugar que ninguém vai"
+    }
+  ],
+  "duracao_seg": 7.67,
+  "idioma_detectado": "pt"
+}

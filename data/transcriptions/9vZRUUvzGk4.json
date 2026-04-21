@@ -1,0 +1,47 @@
+{
+  "texto": "A soltura, coisa linda, hein, velho? Você é louco, mano. Olha o negócio, essa belezinha aqui, ó. Ó, de volta, ó. De volta. Vai de volta, dá alegria pra mais gente. Ó, coisa linda! Valeu!",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 3.11,
+      "text": "A soltura, coisa linda, hein, velho?"
+    },
+    {
+      "start": 3.31,
+      "end": 4.25,
+      "text": "Você é louco, mano."
+    },
+    {
+      "start": 4.25,
+      "end": 5.25,
+      "text": "Olha o negócio, essa belezinha aqui, ó."
+    },
+    {
+      "start": 5.89,
+      "end": 7.39,
+      "text": "Ó, de volta, ó."
+    },
+    {
+      "start": 7.63,
+      "end": 8.53,
+      "text": "De volta."
+    },
+    {
+      "start": 9.29,
+      "end": 11.19,
+      "text": "Vai de volta, dá alegria pra mais gente."
+    },
+    {
+      "start": 11.39,
+      "end": 13.39,
+      "text": "Ó, coisa linda!"
+    },
+    {
+      "start": 13.93,
+      "end": 14.49,
+      "text": "Valeu!"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

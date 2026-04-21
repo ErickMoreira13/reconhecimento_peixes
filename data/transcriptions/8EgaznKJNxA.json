@@ -1,0 +1,22 @@
+{
+  "texto": "Aqui na Vaz do Rio, São Francisco Bota aí pra atorar, meu filho Bota o pão pra cá",
+  "segmentos": [
+    {
+      "start": 205.17,
+      "end": 206.91,
+      "text": "Aqui na Vaz do Rio, São Francisco"
+    },
+    {
+      "start": 206.91,
+      "end": 210.01,
+      "text": "Bota aí pra atorar, meu filho"
+    },
+    {
+      "start": 210.01,
+      "end": 210.95,
+      "text": "Bota o pão pra cá"
+    }
+  ],
+  "duracao_seg": 307.15,
+  "idioma_detectado": "pt"
+}
