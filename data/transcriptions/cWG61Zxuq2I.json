@@ -1,0 +1,17 @@
+{
+  "texto": "Get it, hop off a 16 passenger, this a G5, no this not a challenger Big one, I keep some members with me in the fridge",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.93,
+      "text": "Get it, hop off a 16 passenger, this a G5, no this not a challenger"
+    },
+    {
+      "start": 9.93,
+      "end": 11.99,
+      "text": "Big one, I keep some members with me in the fridge"
+    }
+  ],
+  "duracao_seg": 12.01,
+  "idioma_detectado": "pt"
+}

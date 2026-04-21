@@ -1,0 +1,47 @@
+{
+  "texto": "Shimano Antares desceu uma carretilha de quase 10 mil reais que promete não fazer nenhuma cabeleira. Tô com uma isca bem levinha e aqui no lago da minha casa. Vamos fazer um arremesso sem colocar o dedo. Foi lá, caiu, hein? Olha só, tem até um tamba passando aqui. Olha aí o tamba fazendo companhia, mas o importante é isso aqui, ó. Foi lá do outro lado, cara. E não fez nenhum tipo de cabeleira.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Shimano Antares desceu uma carretilha de quase 10 mil reais que promete não fazer nenhuma cabeleira."
+    },
+    {
+      "start": 5.38,
+      "end": 8.44,
+      "text": "Tô com uma isca bem levinha e aqui no lago da minha casa."
+    },
+    {
+      "start": 8.52,
+      "end": 11.12,
+      "text": "Vamos fazer um arremesso sem colocar o dedo."
+    },
+    {
+      "start": 11.44,
+      "end": 12.84,
+      "text": "Foi lá, caiu, hein?"
+    },
+    {
+      "start": 13.3,
+      "end": 15.42,
+      "text": "Olha só, tem até um tamba passando aqui."
+    },
+    {
+      "start": 16.16,
+      "end": 18.8,
+      "text": "Olha aí o tamba fazendo companhia, mas o importante é isso aqui, ó."
+    },
+    {
+      "start": 19.5,
+      "end": 21.12,
+      "text": "Foi lá do outro lado, cara."
+    },
+    {
+      "start": 21.62,
+      "end": 24.42,
+      "text": "E não fez nenhum tipo de cabeleira."
+    }
+  ],
+  "duracao_seg": 24.51,
+  "idioma_detectado": "pt"
+}

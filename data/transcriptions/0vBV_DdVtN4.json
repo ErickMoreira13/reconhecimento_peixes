@@ -1,0 +1,42 @@
+{
+  "texto": "Aí galerinha, agora que eu quero ver, hein? E aí, carretilha ou mulinete? Quem leva a melhor? Vou falar para vocês as principais características de cada uma aqui para mim, que eu gosto mais em cada um. Carretilha, arremesso mais longo, praticidade na pescaria, você cansa muito menos, um material mais leve. Mulinete, quais as vantagens? É mais forte, mais resistente, mais fácil de se jogar também, não dá tanto problema quanto a carretilha, mas seus arremessos também não são muito longos. E aí, qual dos dois você prefere?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "Aí galerinha, agora que eu quero ver, hein? E aí, carretilha ou mulinete?"
+    },
+    {
+      "start": 4.64,
+      "end": 9.06,
+      "text": "Quem leva a melhor? Vou falar para vocês as principais características de cada uma aqui para mim,"
+    },
+    {
+      "start": 9.34,
+      "end": 10.72,
+      "text": "que eu gosto mais em cada um."
+    },
+    {
+      "start": 11.58,
+      "end": 18.36,
+      "text": "Carretilha, arremesso mais longo, praticidade na pescaria, você cansa muito menos, um material mais leve."
+    },
+    {
+      "start": 19.22,
+      "end": 25.78,
+      "text": "Mulinete, quais as vantagens? É mais forte, mais resistente, mais fácil de se jogar também,"
+    },
+    {
+      "start": 25.78,
+      "end": 31.46,
+      "text": "não dá tanto problema quanto a carretilha, mas seus arremessos também não são muito longos."
+    },
+    {
+      "start": 32.27,
+      "end": 34.13,
+      "text": "E aí, qual dos dois você prefere?"
+    }
+  ],
+  "duracao_seg": 34.75,
+  "idioma_detectado": "pt"
+}

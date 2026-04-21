@@ -1,0 +1,17 @@
+{
+  "texto": "Pessoal, os anzol que eu estou utilizando hoje nessa pescaria são os Gamakatsu Maroseigo, tá? Número 16 e 18. Coloquei o 18 em cima e o 16 menorzinho embaixo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.02,
+      "text": "Pessoal, os anzol que eu estou utilizando hoje nessa pescaria são os Gamakatsu Maroseigo, tá?"
+    },
+    {
+      "start": 7.86,
+      "end": 13.34,
+      "text": "Número 16 e 18. Coloquei o 18 em cima e o 16 menorzinho embaixo."
+    }
+  ],
+  "duracao_seg": 13.99,
+  "idioma_detectado": "pt"
+}

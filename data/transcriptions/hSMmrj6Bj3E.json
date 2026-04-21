@@ -1,0 +1,42 @@
+{
+  "texto": "Hoje o de água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua Meu rancho fica na beira, de cá escuto bater Daqui da porta do rancho eu vejo a galha tremer Pescador pisa mansinho no barranco Chega devagar na selva pra dar capão e pra esperar O sol não mexe, deixa...",
+  "segmentos": [
+    {
+      "start": 9.68,
+      "end": 13.94,
+      "text": "Hoje o de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 13.94,
+      "end": 18.7,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 18.7,
+      "end": 24.18,
+      "text": "Meu rancho fica na beira, de cá escuto bater"
+    },
+    {
+      "start": 24.18,
+      "end": 29.72,
+      "text": "Daqui da porta do rancho eu vejo a galha tremer"
+    },
+    {
+      "start": 29.72,
+      "end": 39.92,
+      "text": "Pescador pisa mansinho no barranco"
+    },
+    {
+      "start": 39.92,
+      "end": 49.96,
+      "text": "Chega devagar na selva pra dar capão e pra esperar"
+    },
+    {
+      "start": 49.96,
+      "end": 53.49,
+      "text": "O sol não mexe, deixa..."
+    }
+  ],
+  "duracao_seg": 53.51,
+  "idioma_detectado": "pt"
+}

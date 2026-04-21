@@ -1,0 +1,37 @@
+{
+  "texto": "Agora há pouco eu recebi essa notificação e eu já sei que chegaram novas carretilhas. As últimas quatro que faltavam pra completar esse espaço na mesa. E o objetivo agora é achar um lugar pra essas varas e encher a outra metade de carretilha. E eu comprei essa de carbono de apenas 100 gramas pra bateria artificial. Além dessas três novas carretilhas da marca Samola que eu não conhecia. Agora sim, com a mesa completa, me segue para ver o teste dessas novas carretilhas.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 3.78,
+      "text": "Agora há pouco eu recebi essa notificação e eu já sei que chegaram novas carretilhas."
+    },
+    {
+      "start": 3.82,
+      "end": 6.44,
+      "text": "As últimas quatro que faltavam pra completar esse espaço na mesa."
+    },
+    {
+      "start": 6.5,
+      "end": 9.62,
+      "text": "E o objetivo agora é achar um lugar pra essas varas e encher a outra metade de carretilha."
+    },
+    {
+      "start": 9.66,
+      "end": 12.38,
+      "text": "E eu comprei essa de carbono de apenas 100 gramas pra bateria artificial."
+    },
+    {
+      "start": 12.48,
+      "end": 15.16,
+      "text": "Além dessas três novas carretilhas da marca Samola que eu não conhecia."
+    },
+    {
+      "start": 15.28,
+      "end": 18.54,
+      "text": "Agora sim, com a mesa completa, me segue para ver o teste dessas novas carretilhas."
+    }
+  ],
+  "duracao_seg": 18.67,
+  "idioma_detectado": "pt"
+}

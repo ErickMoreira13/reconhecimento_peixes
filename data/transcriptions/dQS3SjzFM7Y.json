@@ -1,0 +1,52 @@
+{
+  "texto": "Aí amigo, você que comprou um mulinete e não sabe como arremessar, recolhe mais ou menos um palmo lá da isca artificial, vem aqui, segura com o indicador, no meu caso eu estou usando a mão direita para segurar, abre essa trava aqui, levanta essa trava aqui, está pronto, agora está pronto para arremessar. Quando você fizer o movimento de arremessar, não esqueça de abrir o dedo assim, olha lá a isca caindo, é isso aí que vai acontecer. Vamos de novo? Agora vamos na prática, eu vou fazer um arremesso, ok? Segurei com o indicador, liberei a trava e vou arremessar. Sucesso! Fechou aqui, só recolher. Valeu!",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 5.87,
+      "text": "Aí amigo, você que comprou um mulinete e não sabe como arremessar,"
+    },
+    {
+      "start": 6.76,
+      "end": 9.36,
+      "text": "recolhe mais ou menos um palmo lá da isca artificial,"
+    },
+    {
+      "start": 10.52,
+      "end": 16.54,
+      "text": "vem aqui, segura com o indicador, no meu caso eu estou usando a mão direita para segurar,"
+    },
+    {
+      "start": 17.52,
+      "end": 24.21,
+      "text": "abre essa trava aqui, levanta essa trava aqui, está pronto, agora está pronto para arremessar."
+    },
+    {
+      "start": 24.83,
+      "end": 28.99,
+      "text": "Quando você fizer o movimento de arremessar, não esqueça de abrir o dedo assim,"
+    },
+    {
+      "start": 28.99,
+      "end": 30.79,
+      "text": "olha lá a isca caindo, é isso aí que vai acontecer."
+    },
+    {
+      "start": 30.79,
+      "end": 34.65,
+      "text": "Vamos de novo? Agora vamos na prática, eu vou fazer um arremesso, ok?"
+    },
+    {
+      "start": 35.92,
+      "end": 40.01,
+      "text": "Segurei com o indicador, liberei a trava e vou arremessar."
+    },
+    {
+      "start": 41.97,
+      "end": 47.09,
+      "text": "Sucesso! Fechou aqui, só recolher. Valeu!"
+    }
+  ],
+  "duracao_seg": 48.33,
+  "idioma_detectado": "pt"
+}

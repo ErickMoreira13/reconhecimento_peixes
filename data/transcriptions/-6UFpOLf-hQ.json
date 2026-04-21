@@ -1,0 +1,27 @@
+{
+  "texto": "caraca aí pessoal Zalmaro Seigo número 12 uma chubadinha bem pequena uma linha 033 milímetros uma isca imbatível que é caramujo tá maluco isso aqui é o começo aqui pela parte preta que é mais dura ó e vem para parte branca aqui bruto bruto isso é grande isso é grande eita quase quebra meu maracuzão tá maluco mas que é top",
+  "segmentos": [
+    {
+      "start": 2.13,
+      "end": 10.21,
+      "text": "caraca aí pessoal Zalmaro Seigo número 12 uma chubadinha bem pequena uma linha 033 milímetros"
+    },
+    {
+      "start": 10.21,
+      "end": 17.53,
+      "text": "uma isca imbatível que é caramujo tá maluco isso aqui é o começo aqui pela parte preta que é mais"
+    },
+    {
+      "start": 17.53,
+      "end": 44.55,
+      "text": "dura ó e vem para parte branca aqui bruto bruto isso é grande isso é grande eita quase quebra meu"
+    },
+    {
+      "start": 44.55,
+      "end": 58.2,
+      "text": "maracuzão tá maluco mas que é top"
+    }
+  ],
+  "duracao_seg": 59.71,
+  "idioma_detectado": "pt"
+}

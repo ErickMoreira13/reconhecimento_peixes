@@ -1,0 +1,42 @@
+{
+  "texto": "Estou pescando no mar, pô! Pescaria no mar! Caraca! Aqui, velho! Vai ficar rápido ao caso desse jeito! Muito santo aqui! Olha! Caraca!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Estou pescando no mar, pô!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Pescaria no mar!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.03,
+      "text": "Caraca!"
+    },
+    {
+      "start": 6.03,
+      "end": 8.03,
+      "text": "Aqui, velho!"
+    },
+    {
+      "start": 8.03,
+      "end": 10.03,
+      "text": "Vai ficar rápido ao caso desse jeito!"
+    },
+    {
+      "start": 10.03,
+      "end": 12.03,
+      "text": "Muito santo aqui!"
+    },
+    {
+      "start": 12.03,
+      "end": 18.58,
+      "text": "Olha! Caraca!"
+    }
+  ],
+  "duracao_seg": 20.19,
+  "idioma_detectado": "pt"
+}

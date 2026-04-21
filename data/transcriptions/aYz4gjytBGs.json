@@ -1,0 +1,42 @@
+{
+  "texto": "Tô de vida louca, tô de muletom, vi tu que acabou Mil plantão na boca, eu vou pro baile curtir Destino é casinha, do salve na novinha Se trombar com os coxinha, eu falo que sou MC, o maluqueiro Favelado, bem trajado, o buço com o dinheiro Tô fumando óculos com os parceiros Nós é atividade menor de comunidade, se tenta pegar banho",
+  "segmentos": [
+    {
+      "start": 3.02,
+      "end": 5.62,
+      "text": "Tô de vida louca, tô de muletom, vi tu que acabou"
+    },
+    {
+      "start": 5.62,
+      "end": 8.46,
+      "text": "Mil plantão na boca, eu vou pro baile curtir"
+    },
+    {
+      "start": 8.46,
+      "end": 11.5,
+      "text": "Destino é casinha, do salve na novinha"
+    },
+    {
+      "start": 11.5,
+      "end": 15.52,
+      "text": "Se trombar com os coxinha, eu falo que sou MC, o maluqueiro"
+    },
+    {
+      "start": 15.52,
+      "end": 18.52,
+      "text": "Favelado, bem trajado, o buço com o dinheiro"
+    },
+    {
+      "start": 18.52,
+      "end": 21.72,
+      "text": "Tô fumando óculos com os parceiros"
+    },
+    {
+      "start": 21.72,
+      "end": 25.54,
+      "text": "Nós é atividade menor de comunidade, se tenta pegar banho"
+    }
+  ],
+  "duracao_seg": 25.55,
+  "idioma_detectado": "pt"
+}

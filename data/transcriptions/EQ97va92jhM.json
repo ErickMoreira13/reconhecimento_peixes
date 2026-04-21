@@ -1,0 +1,102 @@
+{
+  "texto": "Olha que absurdo essa vara de pesca dobrável, ela já vem pronta com um mulinete embutido e um gatilho. Você desdobra o negócio, arremessa e tá pronta pra pescar um tubarão, meu amigo. Parece ser sensacional, então é óbvio que eu comprei e bora testar esse negócio. Olha lá, isso aqui é bom pra viciante se funcionar, né, Ramon? Já vem pronta. É dobrado. Olha lá, olha só, ela dobra aqui. Olha o gatilho dela. Vamos lá, Ramon, apertou o gatilho. Ó, bonitinho. Vai ter peixe nessa vara hoje, isso eu te garanto. E agora a funcionalidade dela pra ficar arremessando artificial, agradável, Ramon, não esperava. Peguei. Uh, tinha um na linha. Aí, ó. Olha onde ele foi pegado. Caraca, a varinha é boa, hein? Ah, dá nada. Ah, porra! Explodiu a vara, o peixe um pouco maior. Ou seja, uma porcaria essa vara, então tá totalmente desaprovada. Não comprem essa merda, pelo amor de Deus.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.02,
+      "text": "Olha que absurdo essa vara de pesca dobrável, ela já vem pronta com um mulinete embutido e um gatilho."
+    },
+    {
+      "start": 6.1,
+      "end": 11.08,
+      "text": "Você desdobra o negócio, arremessa e tá pronta pra pescar um tubarão, meu amigo."
+    },
+    {
+      "start": 11.16,
+      "end": 15.08,
+      "text": "Parece ser sensacional, então é óbvio que eu comprei e bora testar esse negócio."
+    },
+    {
+      "start": 15.3,
+      "end": 18.98,
+      "text": "Olha lá, isso aqui é bom pra viciante se funcionar, né, Ramon? Já vem pronta."
+    },
+    {
+      "start": 19.26,
+      "end": 20.2,
+      "text": "É dobrado."
+    },
+    {
+      "start": 20.22,
+      "end": 22.38,
+      "text": "Olha lá, olha só, ela dobra aqui."
+    },
+    {
+      "start": 22.96,
+      "end": 23.84,
+      "text": "Olha o gatilho dela."
+    },
+    {
+      "start": 24.12,
+      "end": 25.74,
+      "text": "Vamos lá, Ramon, apertou o gatilho."
+    },
+    {
+      "start": 25.74,
+      "end": 32.39,
+      "text": "Ó, bonitinho. Vai ter peixe nessa vara hoje, isso eu te garanto."
+    },
+    {
+      "start": 32.47,
+      "end": 37.03,
+      "text": "E agora a funcionalidade dela pra ficar arremessando artificial, agradável, Ramon, não esperava."
+    },
+    {
+      "start": 37.37,
+      "end": 37.73,
+      "text": "Peguei."
+    },
+    {
+      "start": 38.17,
+      "end": 39.45,
+      "text": "Uh, tinha um na linha."
+    },
+    {
+      "start": 39.83,
+      "end": 40.61,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 40.73,
+      "end": 42.89,
+      "text": "Olha onde ele foi pegado. Caraca, a varinha é boa, hein?"
+    },
+    {
+      "start": 43.19,
+      "end": 43.77,
+      "text": "Ah, dá nada."
+    },
+    {
+      "start": 44.88,
+      "end": 45.52,
+      "text": "Ah, porra!"
+    },
+    {
+      "start": 48.28,
+      "end": 50.12,
+      "text": "Explodiu a vara, o peixe um pouco maior."
+    },
+    {
+      "start": 50.24,
+      "end": 55.4,
+      "text": "Ou seja, uma porcaria essa vara, então tá totalmente desaprovada."
+    },
+    {
+      "start": 55.4,
+      "end": 58.12,
+      "text": "Não comprem essa merda, pelo amor de Deus."
+    }
+  ],
+  "duracao_seg": 58.11,
+  "idioma_detectado": "pt"
+}

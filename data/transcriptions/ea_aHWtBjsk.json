@@ -1,0 +1,587 @@
+{
+  "texto": "Bom dia, bom dia, bom dia! Mais um domingo de pescaria. Pescaria água limpa do nosso amigo Alemão. Tomei de tomar um café ali com eles. Agora, dez pra sete da manhã. Tomei um cafezinho ali. Cheguei agora, né? Coloquei minhas coisas no aterro, ali no começo do aterro. Agora é amar as varinhas, fazer a massa, fazer a serra e começar. Vamos ver o que vai dar. Essa noite choveu bem. Enfim, a chuva chegou, né? Graças a Deus. Bora lá fazer a pescaria. Olha aí, amigos. Passando a pontinha aqui, onde? O primeiro pontinho aqui, ó. Variante 2,10, 2,40 e 2,70. Intermada. Tô dando umas puxadinhas aqui, mas acredito que seja tilapinha pequena. Massa no jeito. Vamos dar o M2 vermelho. Vamos esperar, ver se o peixe vai encostar. Tô com minhoca também, ó. Minhoca que tá de forma. E também o bichinho da laranja aqui, ó. Alguma coisa esse peixe vai ter que comer hoje. Tentar umas borbulhas aí na frente. Dar uma piscadinha, mas ainda nada de falar que é uma tilapia grande passando. Mas ela vai encostar lá, ó. Tá pulando ali já. Vamos esperar. Vou pegar uma ceginha aqui agora e aguardar. O alemão vai surtar mais um uma geolinha pra gente aí, ó. Pescando ali. Vou procurar aqui. Ah, manda pra lá. Manda pro meu cantinho lá. Show de bola. Agora vou lá pescar, hein, seu alemão. Vai, vai. Ih, solta lá pro meu canto. Aí, solta pro meu canto aí, seu alemão. Ô, louco. Oi. Vixe, vai soltar aqui mesmo. Ô, louco. Agora vamos ver se vai bater aqui. Olha, já bateu. Aí, seu alemão. Brincadeira, viu? O alemão surtou aqui, ó. Os peixes já bateu. Acabou de surtar, já bateu. Fala sério. Obrigado, seu alemão. Tá comendo? O tamanho dessa tilapia, gente? Olha isso. O que é que é essa coisa? Mas eu acho que é tilapinha pequena, Paulo. Não, não. É sério. Cada batida aqui dá no rosto. Não acho? Vou botar a lona lá. Uma parmegiana, parece. Um frango frito. Uma vagem. Arroz e feijão. Pega na boquinha aqui. Só tirou porque foi na boca dele. Tá arrumando a vara aqui, a outra. Sério? Ô, Daniel. Precisa surtar meu peixe? Caramba. Aí, amigos. Cheguei em casa agora, ó. Resultado da pescaria de hoje. Dia muito frio. Muito vento. O dia inteiro ventando. Mas, deu pra salvar o frito. Infelizmente, não deu pra gravar todos. Essas fisgadas aqui. Que toda hora o tripé tava caindo no chão. Acabou o vento. Aí, reservei parar a gravação. Mas, o dia foi maravilhoso, ó. Olha o tamanho da tilapia. Deu bom. Agora, vou trabalhar. Bora limpar. Olha o padrão. Só as bitelas. Coisa linda. Varinha. 2,40m, 2,10m, 2,70m. Massinha. P38. Guabtec. E a massa de banana, mel, amendoim vermelha. Massa da pesca do gordinho. Bora trabalhar. E a massa de banana, mel, amendoim vermelha.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 1.9,
+      "text": "Bom dia, bom dia, bom dia!"
+    },
+    {
+      "start": 2.7,
+      "end": 4.36,
+      "text": "Mais um domingo de pescaria."
+    },
+    {
+      "start": 5.36,
+      "end": 6.44,
+      "text": "Pescaria água limpa"
+    },
+    {
+      "start": 6.44,
+      "end": 8.06,
+      "text": "do nosso amigo Alemão."
+    },
+    {
+      "start": 10.18,
+      "end": 11.82,
+      "text": "Tomei de tomar um café ali com eles."
+    },
+    {
+      "start": 15.01,
+      "end": 16.83,
+      "text": "Agora, dez pra sete da manhã."
+    },
+    {
+      "start": 17.29,
+      "end": 18.41,
+      "text": "Tomei um cafezinho ali."
+    },
+    {
+      "start": 19.15,
+      "end": 20.07,
+      "text": "Cheguei agora, né?"
+    },
+    {
+      "start": 20.29,
+      "end": 21.29,
+      "text": "Coloquei minhas coisas"
+    },
+    {
+      "start": 21.29,
+      "end": 24.53,
+      "text": "no aterro, ali no começo do aterro."
+    },
+    {
+      "start": 26.76,
+      "end": 28.56,
+      "text": "Agora é amar as varinhas, fazer a massa,"
+    },
+    {
+      "start": 28.82,
+      "end": 30.44,
+      "text": "fazer a serra e começar."
+    },
+    {
+      "start": 31.2,
+      "end": 31.82,
+      "text": "Vamos ver"
+    },
+    {
+      "start": 31.82,
+      "end": 34.6,
+      "text": "o que vai dar. Essa noite choveu bem."
+    },
+    {
+      "start": 36.87,
+      "end": 38.07,
+      "text": "Enfim, a chuva chegou, né?"
+    },
+    {
+      "start": 38.11,
+      "end": 40.07,
+      "text": "Graças a Deus. Bora lá"
+    },
+    {
+      "start": 40.07,
+      "end": 41.51,
+      "text": "fazer a pescaria."
+    },
+    {
+      "start": 44.29,
+      "end": 46.19,
+      "text": "Olha aí, amigos. Passando"
+    },
+    {
+      "start": 46.19,
+      "end": 48.17,
+      "text": "a pontinha aqui, onde? O primeiro"
+    },
+    {
+      "start": 48.17,
+      "end": 51.16,
+      "text": "pontinho aqui, ó. Variante"
+    },
+    {
+      "start": 51.16,
+      "end": 53.14,
+      "text": "2,10, 2,40"
+    },
+    {
+      "start": 53.14,
+      "end": 54.58,
+      "text": "e 2,70. Intermada."
+    },
+    {
+      "start": 55.02,
+      "end": 60.65,
+      "text": "Tô dando umas puxadinhas aqui, mas acredito"
+    },
+    {
+      "start": 60.65,
+      "end": 61.93,
+      "text": "que seja tilapinha pequena."
+    },
+    {
+      "start": 66.3,
+      "end": 69.24,
+      "text": "Massa no jeito. Vamos dar o"
+    },
+    {
+      "start": 69.24,
+      "end": 70.76,
+      "text": "M2 vermelho."
+    },
+    {
+      "start": 70.76,
+      "end": 77.64,
+      "text": "Vamos esperar, ver se o peixe vai encostar."
+    },
+    {
+      "start": 78.6,
+      "end": 79.94,
+      "text": "Tô com minhoca também, ó."
+    },
+    {
+      "start": 80.32,
+      "end": 85.55,
+      "text": "Minhoca que tá de forma."
+    },
+    {
+      "start": 85.81,
+      "end": 87.8,
+      "text": "E também"
+    },
+    {
+      "start": 87.8,
+      "end": 89.98,
+      "text": "o bichinho da laranja aqui, ó."
+    },
+    {
+      "start": 90.34,
+      "end": 94.08,
+      "text": "Alguma coisa esse peixe vai ter que comer hoje."
+    },
+    {
+      "start": 96.28,
+      "end": 98.18,
+      "text": "Tentar umas borbulhas aí na frente."
+    },
+    {
+      "start": 100.18,
+      "end": 101.48,
+      "text": "Dar uma piscadinha, mas"
+    },
+    {
+      "start": 101.48,
+      "end": 104.29,
+      "text": "ainda nada de"
+    },
+    {
+      "start": 104.29,
+      "end": 107.88,
+      "text": "falar que é uma tilapia grande"
+    },
+    {
+      "start": 107.88,
+      "end": 108.46,
+      "text": "passando."
+    },
+    {
+      "start": 108.98,
+      "end": 110.18,
+      "text": "Mas ela vai encostar lá, ó."
+    },
+    {
+      "start": 110.26,
+      "end": 111.32,
+      "text": "Tá pulando ali já."
+    },
+    {
+      "start": 112.52,
+      "end": 113.0,
+      "text": "Vamos esperar."
+    },
+    {
+      "start": 113.42,
+      "end": 114.7,
+      "text": "Vou pegar uma ceginha aqui agora"
+    },
+    {
+      "start": 114.7,
+      "end": 115.24,
+      "text": "e aguardar."
+    },
+    {
+      "start": 121.48,
+      "end": 123.08,
+      "text": "O alemão vai surtar mais um"
+    },
+    {
+      "start": 123.08,
+      "end": 125.28,
+      "text": "uma geolinha pra gente aí, ó."
+    },
+    {
+      "start": 126.16,
+      "end": 126.98,
+      "text": "Pescando ali."
+    },
+    {
+      "start": 127.32,
+      "end": 128.14,
+      "text": "Vou procurar aqui."
+    },
+    {
+      "start": 153.59,
+      "end": 154.49,
+      "text": "Ah, manda pra lá."
+    },
+    {
+      "start": 154.61,
+      "end": 155.85,
+      "text": "Manda pro meu cantinho lá."
+    },
+    {
+      "start": 159.72,
+      "end": 163.35,
+      "text": "Show de bola."
+    },
+    {
+      "start": 163.43,
+      "end": 164.69,
+      "text": "Agora vou lá pescar, hein, seu alemão."
+    },
+    {
+      "start": 164.69,
+      "end": 167.35,
+      "text": "Vai, vai."
+    },
+    {
+      "start": 167.35,
+      "end": 170.11,
+      "text": "Ih, solta lá pro meu canto."
+    },
+    {
+      "start": 171.47,
+      "end": 174.13,
+      "text": "Aí, solta pro meu canto aí, seu alemão."
+    },
+    {
+      "start": 175.71,
+      "end": 178.57,
+      "text": "Ô, louco."
+    },
+    {
+      "start": 184.86,
+      "end": 185.4,
+      "text": "Oi."
+    },
+    {
+      "start": 186.18,
+      "end": 187.98,
+      "text": "Vixe, vai soltar aqui mesmo."
+    },
+    {
+      "start": 189.32,
+      "end": 190.36,
+      "text": "Ô, louco."
+    },
+    {
+      "start": 190.36,
+      "end": 196.96,
+      "text": "Agora vamos ver se vai bater aqui."
+    },
+    {
+      "start": 197.38,
+      "end": 198.22,
+      "text": "Olha, já bateu."
+    },
+    {
+      "start": 198.38,
+      "end": 199.22,
+      "text": "Aí, seu alemão."
+    },
+    {
+      "start": 204.36,
+      "end": 205.02,
+      "text": "Brincadeira, viu?"
+    },
+    {
+      "start": 205.66,
+      "end": 207.04,
+      "text": "O alemão surtou aqui, ó."
+    },
+    {
+      "start": 207.1,
+      "end": 208.28,
+      "text": "Os peixes já bateu."
+    },
+    {
+      "start": 208.74,
+      "end": 210.26,
+      "text": "Acabou de surtar, já bateu."
+    },
+    {
+      "start": 211.26,
+      "end": 212.3,
+      "text": "Fala sério."
+    },
+    {
+      "start": 213.1,
+      "end": 214.32,
+      "text": "Obrigado, seu alemão."
+    },
+    {
+      "start": 215.68,
+      "end": 499.04,
+      "text": "Tá comendo?"
+    },
+    {
+      "start": 499.46,
+      "end": 753.0,
+      "text": "O tamanho dessa tilapia, gente?"
+    },
+    {
+      "start": 754.31,
+      "end": 754.69,
+      "text": "Olha isso."
+    },
+    {
+      "start": 754.93,
+      "end": 810.33,
+      "text": "O que é que é essa coisa?"
+    },
+    {
+      "start": 810.75,
+      "end": 823.36,
+      "text": "Mas eu acho que é tilapinha pequena, Paulo."
+    },
+    {
+      "start": 825.06,
+      "end": 825.62,
+      "text": "Não, não."
+    },
+    {
+      "start": 825.72,
+      "end": 826.12,
+      "text": "É sério."
+    },
+    {
+      "start": 826.22,
+      "end": 827.48,
+      "text": "Cada batida aqui dá no rosto."
+    },
+    {
+      "start": 827.82,
+      "end": 828.26,
+      "text": "Não acho?"
+    },
+    {
+      "start": 828.64,
+      "end": 876.38,
+      "text": "Vou botar a lona lá."
+    },
+    {
+      "start": 876.76,
+      "end": 908.36,
+      "text": "Uma parmegiana, parece."
+    },
+    {
+      "start": 908.68,
+      "end": 912.12,
+      "text": "Um frango frito."
+    },
+    {
+      "start": 912.62,
+      "end": 914.36,
+      "text": "Uma vagem."
+    },
+    {
+      "start": 914.74,
+      "end": 915.72,
+      "text": "Arroz e feijão."
+    },
+    {
+      "start": 916.2,
+      "end": 990.76,
+      "text": "Pega na boquinha aqui."
+    },
+    {
+      "start": 991.28,
+      "end": 1008.6,
+      "text": "Só tirou porque foi na boca dele."
+    },
+    {
+      "start": 1008.96,
+      "end": 1054.12,
+      "text": "Tá arrumando a vara aqui, a outra."
+    },
+    {
+      "start": 1054.66,
+      "end": 1056.91,
+      "text": "Sério?"
+    },
+    {
+      "start": 1104.36,
+      "end": 1105.02,
+      "text": "Ô, Daniel."
+    },
+    {
+      "start": 1105.18,
+      "end": 1106.32,
+      "text": "Precisa surtar meu peixe?"
+    },
+    {
+      "start": 1106.46,
+      "end": 1106.98,
+      "text": "Caramba."
+    },
+    {
+      "start": 1108.57,
+      "end": 1109.17,
+      "text": "Aí, amigos."
+    },
+    {
+      "start": 1110.37,
+      "end": 1111.79,
+      "text": "Cheguei em casa agora, ó."
+    },
+    {
+      "start": 1114.72,
+      "end": 1116.34,
+      "text": "Resultado da pescaria de hoje."
+    },
+    {
+      "start": 1117.56,
+      "end": 1118.4,
+      "text": "Dia muito frio."
+    },
+    {
+      "start": 1118.78,
+      "end": 1119.5,
+      "text": "Muito vento."
+    },
+    {
+      "start": 1119.72,
+      "end": 1120.94,
+      "text": "O dia inteiro ventando."
+    },
+    {
+      "start": 1123.29,
+      "end": 1125.41,
+      "text": "Mas, deu pra salvar o frito."
+    },
+    {
+      "start": 1126.19,
+      "end": 1127.99,
+      "text": "Infelizmente, não deu pra gravar todos."
+    },
+    {
+      "start": 1129.43,
+      "end": 1130.69,
+      "text": "Essas fisgadas aqui."
+    },
+    {
+      "start": 1131.29,
+      "end": 1133.49,
+      "text": "Que toda hora o tripé tava caindo no chão."
+    },
+    {
+      "start": 1133.77,
+      "end": 1134.49,
+      "text": "Acabou o vento."
+    },
+    {
+      "start": 1135.74,
+      "end": 1137.18,
+      "text": "Aí, reservei parar a gravação."
+    },
+    {
+      "start": 1137.34,
+      "end": 1140.02,
+      "text": "Mas, o dia foi maravilhoso, ó."
+    },
+    {
+      "start": 1143.16,
+      "end": 1144.2,
+      "text": "Olha o tamanho da tilapia."
+    },
+    {
+      "start": 1145.89,
+      "end": 1146.61,
+      "text": "Deu bom."
+    },
+    {
+      "start": 1146.61,
+      "end": 1148.81,
+      "text": "Agora, vou trabalhar."
+    },
+    {
+      "start": 1149.29,
+      "end": 1149.91,
+      "text": "Bora limpar."
+    },
+    {
+      "start": 1150.61,
+      "end": 1151.13,
+      "text": "Olha o padrão."
+    },
+    {
+      "start": 1151.41,
+      "end": 1152.17,
+      "text": "Só as bitelas."
+    },
+    {
+      "start": 1153.64,
+      "end": 1154.26,
+      "text": "Coisa linda."
+    },
+    {
+      "start": 1155.2,
+      "end": 1155.48,
+      "text": "Varinha."
+    },
+    {
+      "start": 1155.56,
+      "end": 1158.22,
+      "text": "2,40m, 2,10m, 2,70m."
+    },
+    {
+      "start": 1160.18,
+      "end": 1160.7,
+      "text": "Massinha."
+    },
+    {
+      "start": 1162.37,
+      "end": 1163.01,
+      "text": "P38."
+    },
+    {
+      "start": 1163.81,
+      "end": 1164.49,
+      "text": "Guabtec."
+    },
+    {
+      "start": 1166.74,
+      "end": 1170.56,
+      "text": "E a massa de banana, mel, amendoim vermelha."
+    },
+    {
+      "start": 1171.04,
+      "end": 1172.28,
+      "text": "Massa da pesca do gordinho."
+    },
+    {
+      "start": 1175.62,
+      "end": 1176.28,
+      "text": "Bora trabalhar."
+    },
+    {
+      "start": 1176.28,
+      "end": 1206.26,
+      "text": "E a massa de banana, mel, amendoim vermelha."
+    }
+  ],
+  "duracao_seg": 1177.73,
+  "idioma_detectado": "pt"
+}

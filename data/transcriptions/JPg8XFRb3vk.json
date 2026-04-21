@@ -1,0 +1,37 @@
+{
+  "texto": "Essa aqui foi a minha primeira carretilha, quando eu adquiri a primeira carretilha, Jefferson, o pessoal falava assim, ah não, carretilha não dá, dá muita cabeleira, tal, tal, sabe? Aí eu vou tentar, né? Tentei, deu certo, então a primeira carretilha dos anos, começo dos anos 80, 85 saiu a primeira carretilha de perfil baixo, que não era tão baixo, 89 saiu a primeira carretilha da Shimano com perfil baixo. Ah, a Cronark, né? Cronark, né? Aí depois, em seguida, saiu a curada dos anos, e tá aqui, ó. Que legal. É.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.12,
+      "text": "Essa aqui foi a minha primeira carretilha, quando eu adquiri a primeira carretilha, Jefferson, o pessoal falava assim, ah não, carretilha não dá, dá muita cabeleira, tal, tal, sabe?"
+    },
+    {
+      "start": 8.66,
+      "end": 24.02,
+      "text": "Aí eu vou tentar, né? Tentei, deu certo, então a primeira carretilha dos anos, começo dos anos 80, 85 saiu a primeira carretilha de perfil baixo, que não era tão baixo, 89 saiu a primeira carretilha da Shimano com perfil baixo."
+    },
+    {
+      "start": 24.02,
+      "end": 25.02,
+      "text": "Ah, a Cronark, né?"
+    },
+    {
+      "start": 25.02,
+      "end": 30.04,
+      "text": "Cronark, né? Aí depois, em seguida, saiu a curada dos anos, e tá aqui, ó."
+    },
+    {
+      "start": 30.52,
+      "end": 31.04,
+      "text": "Que legal."
+    },
+    {
+      "start": 31.2,
+      "end": 31.36,
+      "text": "É."
+    }
+  ],
+  "duracao_seg": 31.81,
+  "idioma_detectado": "pt"
+}

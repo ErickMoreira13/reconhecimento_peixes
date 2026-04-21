@@ -1,0 +1,67 @@
+{
+  "texto": "E aí, olha como é que está aqui hoje. Hoje vai ser daquele jeito, em festa de ontem, servida de Deus mesmo. Ontem o vento estava maravilhoso, uma lagoa. Olha hoje aí, vai ser que está... Olha o mundo como se derrama. É, vou passar pra lá, pra dentro, hein. E é isso aí, gente. Se ela tiver, se você quiser.",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 2.66,
+      "text": "E aí, olha como é que está aqui hoje."
+    },
+    {
+      "start": 3.86,
+      "end": 5.28,
+      "text": "Hoje vai ser daquele jeito,"
+    },
+    {
+      "start": 5.4,
+      "end": 6.18,
+      "text": "em festa de ontem,"
+    },
+    {
+      "start": 6.44,
+      "end": 7.64,
+      "text": "servida de Deus mesmo."
+    },
+    {
+      "start": 8.78,
+      "end": 10.14,
+      "text": "Ontem o vento estava maravilhoso,"
+    },
+    {
+      "start": 10.2,
+      "end": 11.0,
+      "text": "uma lagoa."
+    },
+    {
+      "start": 11.56,
+      "end": 13.88,
+      "text": "Olha hoje aí, vai ser que está..."
+    },
+    {
+      "start": 13.88,
+      "end": 15.38,
+      "text": "Olha o mundo como se derrama."
+    },
+    {
+      "start": 17.42,
+      "end": 19.18,
+      "text": "É, vou passar pra lá,"
+    },
+    {
+      "start": 19.28,
+      "end": 19.96,
+      "text": "pra dentro, hein."
+    },
+    {
+      "start": 21.38,
+      "end": 22.58,
+      "text": "E é isso aí, gente."
+    },
+    {
+      "start": 23.34,
+      "end": 24.85,
+      "text": "Se ela tiver, se você quiser."
+    }
+  ],
+  "duracao_seg": 25.91,
+  "idioma_detectado": "pt"
+}

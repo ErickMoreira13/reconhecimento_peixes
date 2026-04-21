@@ -1,0 +1,42 @@
+{
+  "texto": "Puxa! Mas o molinete travou de novo, cara! Olha! Não! É todo molinete que eu compro, não presta! Tudo que eu compro, não presta! Todo molinete que eu...",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 2.07,
+      "text": "Puxa!"
+    },
+    {
+      "start": 2.07,
+      "end": 7.54,
+      "text": "Mas o molinete travou de novo, cara!"
+    },
+    {
+      "start": 7.54,
+      "end": 8.54,
+      "text": "Olha!"
+    },
+    {
+      "start": 8.54,
+      "end": 9.79,
+      "text": "Não!"
+    },
+    {
+      "start": 9.79,
+      "end": 12.79,
+      "text": "É todo molinete que eu compro, não presta!"
+    },
+    {
+      "start": 12.79,
+      "end": 20.22,
+      "text": "Tudo que eu compro, não presta!"
+    },
+    {
+      "start": 20.22,
+      "end": 21.22,
+      "text": "Todo molinete que eu..."
+    }
+  ],
+  "duracao_seg": 21.47,
+  "idioma_detectado": "pt"
+}

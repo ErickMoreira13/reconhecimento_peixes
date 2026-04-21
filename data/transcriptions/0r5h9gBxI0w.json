@@ -1,0 +1,32 @@
+{
+  "texto": "Ganhou uma carretilha e não sabe colocar a linha, está aí a dica. Existem várias técnicas, eu gosto muito desse nó, pois ele não fica alto no carretel. Ele é muito simples de fazer e fica muito firme, facilitando que a linha corra corretamente pelo carretel. Após feito o nó, é só puxar e tirar a rebarba para evitar o excesso de linha. Tirado a rebarba, agora é só jogar a linha na água para facilitar o recolhimento e trazer firme segurando com o dedo.",
+  "segmentos": [
+    {
+      "start": 0.16,
+      "end": 3.66,
+      "text": "Ganhou uma carretilha e não sabe colocar a linha, está aí a dica."
+    },
+    {
+      "start": 3.8,
+      "end": 8.68,
+      "text": "Existem várias técnicas, eu gosto muito desse nó, pois ele não fica alto no carretel."
+    },
+    {
+      "start": 8.76,
+      "end": 14.5,
+      "text": "Ele é muito simples de fazer e fica muito firme, facilitando que a linha corra corretamente pelo carretel."
+    },
+    {
+      "start": 14.68,
+      "end": 19.58,
+      "text": "Após feito o nó, é só puxar e tirar a rebarba para evitar o excesso de linha."
+    },
+    {
+      "start": 19.72,
+      "end": 26.12,
+      "text": "Tirado a rebarba, agora é só jogar a linha na água para facilitar o recolhimento e trazer firme segurando com o dedo."
+    }
+  ],
+  "duracao_seg": 29.61,
+  "idioma_detectado": "pt"
+}
