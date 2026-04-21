@@ -1,0 +1,152 @@
+{
+  "texto": "Como que dá a escada aí pra pegar o sargão, hein? Aqui, ó, o ouro aqui, ó Aí eu amassago ele, ó Amassa ele bem amassadinho, ó Marucego 20 O dente de uriço amassado Tá vendo? Só encoberto o anzol aqui, ó O outro dente amassado Entra sargo, entra pampa Gente, exatamente assim, ó Olha que buchado Caprichado, vamos mandar pra dentro aí, ó Vai, sangue! Esse é gigante, sangue! É peixe grande, sangue! Uh, sargão criado no tod, hein? Rapaz, meus amigos O bicho pega, hein? Cuidado, sangue, cuidado Opa! Esse aqui é bitelo Caraca, sangue, é um sargão de dente É um sargão Deixa eu pegar ele pro... Nossa, tá no beijinho, sangue! Olha o tamanho! Olha a fia nele, e aí, ó Rápido, lindo! Que bitelo, sangue! Que bitelo!",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 2.42,
+      "text": "Como que dá a escada aí pra pegar o sargão, hein?"
+    },
+    {
+      "start": 3.1,
+      "end": 4.32,
+      "text": "Aqui, ó, o ouro aqui, ó"
+    },
+    {
+      "start": 4.32,
+      "end": 6.2,
+      "text": "Aí eu amassago ele, ó"
+    },
+    {
+      "start": 6.2,
+      "end": 7.96,
+      "text": "Amassa ele bem amassadinho, ó"
+    },
+    {
+      "start": 7.96,
+      "end": 10.08,
+      "text": "Marucego 20"
+    },
+    {
+      "start": 10.08,
+      "end": 12.04,
+      "text": "O dente de uriço amassado"
+    },
+    {
+      "start": 12.04,
+      "end": 14.44,
+      "text": "Tá vendo? Só encoberto o anzol aqui, ó"
+    },
+    {
+      "start": 14.44,
+      "end": 15.88,
+      "text": "O outro dente amassado"
+    },
+    {
+      "start": 15.88,
+      "end": 17.54,
+      "text": "Entra sargo, entra pampa"
+    },
+    {
+      "start": 17.54,
+      "end": 19.76,
+      "text": "Gente, exatamente assim, ó"
+    },
+    {
+      "start": 19.76,
+      "end": 21.44,
+      "text": "Olha que buchado"
+    },
+    {
+      "start": 21.44,
+      "end": 23.46,
+      "text": "Caprichado, vamos mandar pra dentro aí, ó"
+    },
+    {
+      "start": 23.46,
+      "end": 26.42,
+      "text": "Vai, sangue! Esse é gigante, sangue!"
+    },
+    {
+      "start": 27.12,
+      "end": 28.36,
+      "text": "É peixe grande, sangue!"
+    },
+    {
+      "start": 28.36,
+      "end": 31.68,
+      "text": "Uh, sargão criado no tod, hein?"
+    },
+    {
+      "start": 33.4,
+      "end": 34.56,
+      "text": "Rapaz, meus amigos"
+    },
+    {
+      "start": 34.56,
+      "end": 35.52,
+      "text": "O bicho pega, hein?"
+    },
+    {
+      "start": 36.18,
+      "end": 37.48,
+      "text": "Cuidado, sangue, cuidado"
+    },
+    {
+      "start": 37.48,
+      "end": 39.43,
+      "text": "Opa!"
+    },
+    {
+      "start": 40.01,
+      "end": 41.97,
+      "text": "Esse aqui é bitelo"
+    },
+    {
+      "start": 41.97,
+      "end": 44.41,
+      "text": "Caraca, sangue, é um sargão de dente"
+    },
+    {
+      "start": 44.41,
+      "end": 46.35,
+      "text": "É um sargão"
+    },
+    {
+      "start": 46.35,
+      "end": 49.04,
+      "text": "Deixa eu pegar ele pro..."
+    },
+    {
+      "start": 49.04,
+      "end": 50.86,
+      "text": "Nossa, tá no beijinho, sangue!"
+    },
+    {
+      "start": 51.04,
+      "end": 52.64,
+      "text": "Olha o tamanho!"
+    },
+    {
+      "start": 52.64,
+      "end": 53.88,
+      "text": "Olha a fia nele, e aí, ó"
+    },
+    {
+      "start": 53.88,
+      "end": 55.3,
+      "text": "Rápido, lindo!"
+    },
+    {
+      "start": 55.58,
+      "end": 56.88,
+      "text": "Que bitelo, sangue!"
+    },
+    {
+      "start": 56.88,
+      "end": 59.06,
+      "text": "Que bitelo!"
+    }
+  ],
+  "duracao_seg": 59.35,
+  "idioma_detectado": "pt"
+}

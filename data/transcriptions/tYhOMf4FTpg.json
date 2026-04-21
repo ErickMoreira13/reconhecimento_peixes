@@ -1,0 +1,27 @@
+{
+  "texto": "Peixe bom, hein? Peixe bom. Ligando. Socorro. Vou tentar dar uma afrouxada na linha aqui. Deve ser uma garopa ou um badéjo. Saiu. Saiu. Um badéjo branco, ó. Linda, galera. E arrancar com o mato e tudo. E aí, que coisa linda. Vamos soltar ele, porque esse aqui, ele ainda cresce muito. Vamos soltar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.64,
+      "text": "Peixe bom, hein? Peixe bom. Ligando. Socorro. Vou tentar dar uma afrouxada na linha aqui."
+    },
+    {
+      "start": 10.95,
+      "end": 23.94,
+      "text": "Deve ser uma garopa ou um badéjo. Saiu. Saiu. Um badéjo branco, ó. Linda, galera."
+    },
+    {
+      "start": 24.34,
+      "end": 33.86,
+      "text": "E arrancar com o mato e tudo. E aí, que coisa linda. Vamos soltar ele, porque esse aqui,"
+    },
+    {
+      "start": 33.86,
+      "end": 36.86,
+      "text": "ele ainda cresce muito. Vamos soltar."
+    }
+  ],
+  "duracao_seg": 38.93,
+  "idioma_detectado": "pt"
+}

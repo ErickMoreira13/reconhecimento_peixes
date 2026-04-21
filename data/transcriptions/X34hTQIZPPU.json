@@ -1,0 +1,67 @@
+{
+  "texto": "I was down but now I'm up This all got the same Now I'm up like a seesaw when I'm on a beat Like an old man's lawn, better keep off From the ground to the treatise Got clouds on my feet like Jack in the beat I jumped off quick, went straight in a free fall Bag in the seat like a guy making big, big, big moves Tick-tock turned into a tick-tick-tick, boom Yeah, went and turned it where? I was down but now I'm up Let's go",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "I was down but now I'm up"
+    },
+    {
+      "start": 3.0,
+      "end": 5.81,
+      "text": "This all got the same"
+    },
+    {
+      "start": 5.81,
+      "end": 20.33,
+      "text": "Now I'm up like a seesaw when I'm on a beat"
+    },
+    {
+      "start": 20.33,
+      "end": 22.19,
+      "text": "Like an old man's lawn, better keep off"
+    },
+    {
+      "start": 22.19,
+      "end": 23.61,
+      "text": "From the ground to the treatise"
+    },
+    {
+      "start": 23.61,
+      "end": 25.71,
+      "text": "Got clouds on my feet like Jack in the beat"
+    },
+    {
+      "start": 26.0,
+      "end": 28.02,
+      "text": "I jumped off quick, went straight in a free fall"
+    },
+    {
+      "start": 28.02,
+      "end": 44.09,
+      "text": "Bag in the seat like a guy making big, big, big moves"
+    },
+    {
+      "start": 44.09,
+      "end": 46.13,
+      "text": "Tick-tock turned into a tick-tick-tick, boom"
+    },
+    {
+      "start": 46.13,
+      "end": 52.34,
+      "text": "Yeah, went and turned it where?"
+    },
+    {
+      "start": 52.56,
+      "end": 54.46,
+      "text": "I was down but now I'm up"
+    },
+    {
+      "start": 54.46,
+      "end": 55.26,
+      "text": "Let's go"
+    }
+  ],
+  "duracao_seg": 56.31,
+  "idioma_detectado": "pt"
+}

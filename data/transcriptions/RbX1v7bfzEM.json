@@ -1,0 +1,62 @@
+{
+  "texto": "E aí, Lulu! Então, galera, tamo aqui, ó, mais uma vez. E a parinha aqui de 39, quase 40, ó, não deu medida. Onde ela vai? Mais uma, né? Mais uma. De muitas. De muitas que hoje, graças a Deus, aí, tivemos a oportunidade de tá fisgando. Só que vamos soltar mais uma, né? Então vamos lá. Vamos soltar umas par, viu, galera? Tchau, obrigado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "E aí, Lulu!"
+    },
+    {
+      "start": 1.38,
+      "end": 4.78,
+      "text": "Então, galera, tamo aqui, ó, mais uma vez."
+    },
+    {
+      "start": 5.3,
+      "end": 8.88,
+      "text": "E a parinha aqui de 39, quase 40, ó, não deu medida."
+    },
+    {
+      "start": 9.98,
+      "end": 10.68,
+      "text": "Onde ela vai?"
+    },
+    {
+      "start": 10.84,
+      "end": 12.48,
+      "text": "Mais uma, né? Mais uma."
+    },
+    {
+      "start": 12.72,
+      "end": 13.3,
+      "text": "De muitas."
+    },
+    {
+      "start": 13.42,
+      "end": 18.72,
+      "text": "De muitas que hoje, graças a Deus, aí, tivemos a oportunidade de tá fisgando."
+    },
+    {
+      "start": 19.7,
+      "end": 20.82,
+      "text": "Só que vamos soltar mais uma, né?"
+    },
+    {
+      "start": 21.16,
+      "end": 21.68,
+      "text": "Então vamos lá."
+    },
+    {
+      "start": 21.68,
+      "end": 22.52,
+      "text": "Vamos soltar umas par, viu, galera?"
+    },
+    {
+      "start": 25.09,
+      "end": 25.75,
+      "text": "Tchau, obrigado."
+    }
+  ],
+  "duracao_seg": 27.63,
+  "idioma_detectado": "pt"
+}

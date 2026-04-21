@@ -1,0 +1,42 @@
+{
+  "texto": "Aqui é hardcore, né, moça? Olha, olha! Meu pai do céu! Ó, ó! Uh! Seu cabeça é nóis! Bora!",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 2.41,
+      "text": "Aqui é hardcore, né, moça?"
+    },
+    {
+      "start": 2.75,
+      "end": 3.87,
+      "text": "Olha, olha!"
+    },
+    {
+      "start": 4.29,
+      "end": 5.33,
+      "text": "Meu pai do céu!"
+    },
+    {
+      "start": 6.05,
+      "end": 6.55,
+      "text": "Ó, ó!"
+    },
+    {
+      "start": 6.99,
+      "end": 7.33,
+      "text": "Uh!"
+    },
+    {
+      "start": 8.96,
+      "end": 10.2,
+      "text": "Seu cabeça é nóis!"
+    },
+    {
+      "start": 10.62,
+      "end": 10.98,
+      "text": "Bora!"
+    }
+  ],
+  "duracao_seg": 11.29,
+  "idioma_detectado": "pt"
+}

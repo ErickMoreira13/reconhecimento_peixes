@@ -1,0 +1,42 @@
+{
+  "texto": "Comprei uma carretilha de pesca de ouro de quase 20 mil reais E eu vou tentar pegar um peixe aqui no meu próprio lago E ele foi dar as caras só no final do dia e puxava muito, parecia ser grande E depois de alguns minutos de briga, essa carpa dourada resolveu se entregar E olha como ela realmente parecia uma barra de ouro Comenta aí o que você achou da minha nova carretilha E qual próximo peixe eu devo tentar pescar com ela",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Comprei uma carretilha de pesca de ouro de quase 20 mil reais"
+    },
+    {
+      "start": 3.04,
+      "end": 5.06,
+      "text": "E eu vou tentar pegar um peixe aqui no meu próprio lago"
+    },
+    {
+      "start": 5.06,
+      "end": 8.44,
+      "text": "E ele foi dar as caras só no final do dia e puxava muito, parecia ser grande"
+    },
+    {
+      "start": 8.44,
+      "end": 11.66,
+      "text": "E depois de alguns minutos de briga, essa carpa dourada resolveu se entregar"
+    },
+    {
+      "start": 11.66,
+      "end": 13.82,
+      "text": "E olha como ela realmente parecia uma barra de ouro"
+    },
+    {
+      "start": 13.82,
+      "end": 15.6,
+      "text": "Comenta aí o que você achou da minha nova carretilha"
+    },
+    {
+      "start": 15.6,
+      "end": 17.52,
+      "text": "E qual próximo peixe eu devo tentar pescar com ela"
+    }
+  ],
+  "duracao_seg": 17.57,
+  "idioma_detectado": "pt"
+}

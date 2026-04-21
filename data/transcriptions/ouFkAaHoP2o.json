@@ -1,0 +1,57 @@
+{
+  "texto": "Comprei e vou testar a Antares DC. Muitos a consideram a melhor carretilha do mundo. Vem embalada perfeitamente, parece que você está abrindo o celular. Vem muito protegida, dá uma olhada nesse cromado. Os detalhes e a qualidade do material são de primeira. Possui um ajuste de configuração para cada tipo de pescaria. O X distâncias longas, N nylon, P multifilamento e F flucarbo. Também disponível na versão preta, a Antares DC conta com o melhor sistema anticabeleira do mundo. Mas será que realmente vale os R$ 8 mil que ela é vendida? Deixe a sua opinião nos comentários e não esquece de me seguir.",
+  "segmentos": [
+    {
+      "start": 0.12,
+      "end": 1.82,
+      "text": "Comprei e vou testar a Antares DC."
+    },
+    {
+      "start": 1.88,
+      "end": 3.84,
+      "text": "Muitos a consideram a melhor carretilha do mundo."
+    },
+    {
+      "start": 3.98,
+      "end": 6.6,
+      "text": "Vem embalada perfeitamente, parece que você está abrindo o celular."
+    },
+    {
+      "start": 6.7,
+      "end": 8.84,
+      "text": "Vem muito protegida, dá uma olhada nesse cromado."
+    },
+    {
+      "start": 8.9,
+      "end": 11.06,
+      "text": "Os detalhes e a qualidade do material são de primeira."
+    },
+    {
+      "start": 11.08,
+      "end": 13.9,
+      "text": "Possui um ajuste de configuração para cada tipo de pescaria."
+    },
+    {
+      "start": 13.92,
+      "end": 17.84,
+      "text": "O X distâncias longas, N nylon, P multifilamento e F flucarbo."
+    },
+    {
+      "start": 17.92,
+      "end": 22.32,
+      "text": "Também disponível na versão preta, a Antares DC conta com o melhor sistema anticabeleira do mundo."
+    },
+    {
+      "start": 22.38,
+      "end": 25.26,
+      "text": "Mas será que realmente vale os R$ 8 mil que ela é vendida?"
+    },
+    {
+      "start": 25.3,
+      "end": 27.52,
+      "text": "Deixe a sua opinião nos comentários e não esquece de me seguir."
+    }
+  ],
+  "duracao_seg": 27.75,
+  "idioma_detectado": "pt"
+}

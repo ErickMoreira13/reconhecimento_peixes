@@ -1,0 +1,17 @@
+{
+  "texto": "Cento tá doido, olha o temporal meu amigo, coisa de Deus, obrigado senhor, obrigado papai do céu. Temporal na Amazônia, centro tá doido meu irmão.",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 15.85,
+      "text": "Cento tá doido, olha o temporal meu amigo, coisa de Deus, obrigado senhor, obrigado papai do céu."
+    },
+    {
+      "start": 24.57,
+      "end": 35.22,
+      "text": "Temporal na Amazônia, centro tá doido meu irmão."
+    }
+  ],
+  "duracao_seg": 56.07,
+  "idioma_detectado": "pt"
+}

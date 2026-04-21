@@ -1,0 +1,22 @@
+{
+  "texto": "olha lá olha o baía, olha isso aqui olha isso aqui vai levar, olha lá, a primeira lá, agora é do meio coisa de doido pessoal, muita quilate",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 11.84,
+      "text": "olha lá olha o baía, olha isso aqui olha isso aqui"
+    },
+    {
+      "start": 11.84,
+      "end": 20.96,
+      "text": "vai levar, olha lá, a primeira lá, agora é do meio"
+    },
+    {
+      "start": 20.96,
+      "end": 33.48,
+      "text": "coisa de doido pessoal, muita quilate"
+    }
+  ],
+  "duracao_seg": 34.37,
+  "idioma_detectado": "pt"
+}

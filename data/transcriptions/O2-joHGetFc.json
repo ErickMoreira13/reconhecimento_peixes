@@ -1,0 +1,17 @@
+{
+  "texto": "Dois quilinhos, vara xingu, três metros. E a bicha tá envergando, a boi tá querendo erguer.",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 3.7,
+      "text": "Dois quilinhos, vara xingu, três metros."
+    },
+    {
+      "start": 6.96,
+      "end": 10.44,
+      "text": "E a bicha tá envergando, a boi tá querendo erguer."
+    }
+  ],
+  "duracao_seg": 11.33,
+  "idioma_detectado": "pt"
+}
