@@ -1,0 +1,17 @@
+{
+  "texto": "Vamos a pescar um pulpo. E me ha roto o hilo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 18.13,
+      "text": "Vamos a pescar um pulpo."
+    },
+    {
+      "start": 18.13,
+      "end": 20.13,
+      "text": "E me ha roto o hilo."
+    }
+  ],
+  "duracao_seg": 19.97,
+  "idioma_detectado": "pt"
+}

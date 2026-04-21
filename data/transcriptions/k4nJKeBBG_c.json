@@ -1,0 +1,27 @@
+{
+  "texto": "Na festa do fim de semana, rolemão Ela chega e dizem que subençou Nossa culpa subençou Mata!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.69,
+      "text": "Na festa do fim de semana, rolemão"
+    },
+    {
+      "start": 3.69,
+      "end": 7.32,
+      "text": "Ela chega e dizem que subençou"
+    },
+    {
+      "start": 7.32,
+      "end": 14.29,
+      "text": "Nossa culpa subençou"
+    },
+    {
+      "start": 14.29,
+      "end": 14.65,
+      "text": "Mata!"
+    }
+  ],
+  "duracao_seg": 26.97,
+  "idioma_detectado": "pt"
+}

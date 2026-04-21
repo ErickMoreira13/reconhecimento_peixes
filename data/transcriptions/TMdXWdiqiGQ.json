@@ -1,0 +1,407 @@
+{
+  "texto": "Vambora, cambado. Tá esquentando? Neninho demais. Caramba. Toda hora que eu vou tirar, o bicho escapou. Pegou? Tô filmando, tô filmando. Nossa senhora. Você tá doido. Nossa, que chapola. Vai ter que fazer um vídeo aí. Mostra aí pra nós. Que lindo. Pertinho de mim, rapaz. Nossa, tem um monte. Tem um monte, cara. Ó. Aí. Nossa senhora. Viu? Ó. Pegou. Vem, meu filho. Vem pra mim. Vem, papai. Você tá doido. Ué. Ó. Amarelo bonito, rapaz. Olha ele. Vou botar o filho aqui, meu filho. É pra vida, meu filho. Posso ver? Vem, pé. Ó. Então vamos de nada. Ah, rapaz. Tem a Matrix também. Pretinho. Entrou? Você tá doido, ó. Tudo tá filmando aqui. Meia água? É. Ô, Marca, eu vou ter que apelar porque não tem castor, né? Eu dei pra você que é monstro, cara. Tem base, mano. Ô, qual aí você tá? Ah, aqui. A irmã dela, só que é a verde. Aí. Tem base não, mano. Você tá doido. Eu tô filmando aqui, tá? Essas cachorradas que você tá fazendo aí, eu tô filmando. Essa cachorrada aqui. Essa cachorrada boa. Sabe por quê que eu reboquei? Ó, aqui. Pega meu alicate aí. Eu reboquei. Vê quantos quilos tá dando. Isso aí. Eu reboquei por quanto que não tem castor, sabe? Você tá doido, rapaz? Quantos? Aí. Ah, não, não, não, não, não. Ah. Ê, rapaz. Amarelão. Você tá doido. Ó, ó. Caramba. Você tá doido. Você viu? Olha que bonito, né? Assim. Nossa senhora. Você tá doido.",
+  "segmentos": [
+    {
+      "start": 7.34,
+      "end": 8.54,
+      "text": "Vambora, cambado."
+    },
+    {
+      "start": 21.02,
+      "end": 21.7,
+      "text": "Tá esquentando?"
+    },
+    {
+      "start": 22.1,
+      "end": 78.04,
+      "text": "Neninho demais."
+    },
+    {
+      "start": 95.33,
+      "end": 95.97,
+      "text": "Caramba."
+    },
+    {
+      "start": 108.43,
+      "end": 111.33,
+      "text": "Toda hora que eu vou tirar, o bicho escapou."
+    },
+    {
+      "start": 111.87,
+      "end": 126.03,
+      "text": "Pegou?"
+    },
+    {
+      "start": 129.7,
+      "end": 130.6,
+      "text": "Tô filmando, tô filmando."
+    },
+    {
+      "start": 130.92,
+      "end": 131.76,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 132.89,
+      "end": 133.59,
+      "text": "Você tá doido."
+    },
+    {
+      "start": 134.48,
+      "end": 135.6,
+      "text": "Nossa, que chapola."
+    },
+    {
+      "start": 136.04,
+      "end": 143.96,
+      "text": "Vai ter que fazer um vídeo aí."
+    },
+    {
+      "start": 144.3,
+      "end": 145.38,
+      "text": "Mostra aí pra nós."
+    },
+    {
+      "start": 145.88,
+      "end": 147.46,
+      "text": "Que lindo."
+    },
+    {
+      "start": 190.19,
+      "end": 191.27,
+      "text": "Pertinho de mim, rapaz."
+    },
+    {
+      "start": 192.88,
+      "end": 193.54,
+      "text": "Nossa, tem um monte."
+    },
+    {
+      "start": 194.91,
+      "end": 195.65,
+      "text": "Tem um monte, cara."
+    },
+    {
+      "start": 199.86,
+      "end": 200.06,
+      "text": "Ó."
+    },
+    {
+      "start": 201.58,
+      "end": 201.88,
+      "text": "Aí."
+    },
+    {
+      "start": 222.75,
+      "end": 223.33,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 223.83,
+      "end": 223.99,
+      "text": "Viu?"
+    },
+    {
+      "start": 246.82,
+      "end": 247.02,
+      "text": "Ó."
+    },
+    {
+      "start": 247.2,
+      "end": 247.88,
+      "text": "Pegou."
+    },
+    {
+      "start": 248.3,
+      "end": 256.46,
+      "text": "Vem, meu filho."
+    },
+    {
+      "start": 256.54,
+      "end": 257.22,
+      "text": "Vem pra mim."
+    },
+    {
+      "start": 257.32,
+      "end": 258.08,
+      "text": "Vem, papai."
+    },
+    {
+      "start": 258.93,
+      "end": 259.79,
+      "text": "Você tá doido."
+    },
+    {
+      "start": 262.16,
+      "end": 262.42,
+      "text": "Ué."
+    },
+    {
+      "start": 263.0,
+      "end": 263.18,
+      "text": "Ó."
+    },
+    {
+      "start": 264.11,
+      "end": 265.23,
+      "text": "Amarelo bonito, rapaz."
+    },
+    {
+      "start": 266.49,
+      "end": 266.77,
+      "text": "Olha ele."
+    },
+    {
+      "start": 269.56,
+      "end": 288.9,
+      "text": "Vou botar o filho aqui, meu filho."
+    },
+    {
+      "start": 289.26,
+      "end": 303.27,
+      "text": "É pra vida, meu filho."
+    },
+    {
+      "start": 303.91,
+      "end": 306.82,
+      "text": "Posso ver?"
+    },
+    {
+      "start": 309.04,
+      "end": 309.52,
+      "text": "Vem, pé."
+    },
+    {
+      "start": 311.98,
+      "end": 312.14,
+      "text": "Ó."
+    },
+    {
+      "start": 312.5,
+      "end": 316.69,
+      "text": "Então vamos de nada."
+    },
+    {
+      "start": 318.3,
+      "end": 318.72,
+      "text": "Ah, rapaz."
+    },
+    {
+      "start": 318.76,
+      "end": 319.72,
+      "text": "Tem a Matrix também."
+    },
+    {
+      "start": 320.38,
+      "end": 320.78,
+      "text": "Pretinho."
+    },
+    {
+      "start": 323.05,
+      "end": 323.31,
+      "text": "Entrou?"
+    },
+    {
+      "start": 326.78,
+      "end": 327.78,
+      "text": "Você tá doido, ó."
+    },
+    {
+      "start": 328.69,
+      "end": 329.59,
+      "text": "Tudo tá filmando aqui."
+    },
+    {
+      "start": 329.73,
+      "end": 330.15,
+      "text": "Meia água?"
+    },
+    {
+      "start": 330.85,
+      "end": 331.09,
+      "text": "É."
+    },
+    {
+      "start": 332.84,
+      "end": 335.22,
+      "text": "Ô, Marca, eu vou ter que apelar porque não tem castor, né?"
+    },
+    {
+      "start": 342.98,
+      "end": 344.1,
+      "text": "Eu dei pra você que é monstro, cara."
+    },
+    {
+      "start": 344.68,
+      "end": 345.42,
+      "text": "Tem base, mano."
+    },
+    {
+      "start": 345.46,
+      "end": 346.52,
+      "text": "Ô, qual aí você tá?"
+    },
+    {
+      "start": 346.68,
+      "end": 347.18,
+      "text": "Ah, aqui."
+    },
+    {
+      "start": 347.26,
+      "end": 349.42,
+      "text": "A irmã dela, só que é a verde."
+    },
+    {
+      "start": 349.7,
+      "end": 349.86,
+      "text": "Aí."
+    },
+    {
+      "start": 351.25,
+      "end": 352.01,
+      "text": "Tem base não, mano."
+    },
+    {
+      "start": 352.25,
+      "end": 352.81,
+      "text": "Você tá doido."
+    },
+    {
+      "start": 352.89,
+      "end": 353.71,
+      "text": "Eu tô filmando aqui, tá?"
+    },
+    {
+      "start": 354.63,
+      "end": 357.17,
+      "text": "Essas cachorradas que você tá fazendo aí, eu tô filmando."
+    },
+    {
+      "start": 357.17,
+      "end": 357.63,
+      "text": "Essa cachorrada aqui."
+    },
+    {
+      "start": 358.17,
+      "end": 359.01,
+      "text": "Essa cachorrada boa."
+    },
+    {
+      "start": 359.09,
+      "end": 360.17,
+      "text": "Sabe por quê que eu reboquei?"
+    },
+    {
+      "start": 360.17,
+      "end": 360.37,
+      "text": "Ó, aqui."
+    },
+    {
+      "start": 360.73,
+      "end": 361.75,
+      "text": "Pega meu alicate aí."
+    },
+    {
+      "start": 361.93,
+      "end": 362.57,
+      "text": "Eu reboquei."
+    },
+    {
+      "start": 362.57,
+      "end": 363.51,
+      "text": "Vê quantos quilos tá dando."
+    },
+    {
+      "start": 363.87,
+      "end": 364.05,
+      "text": "Isso aí."
+    },
+    {
+      "start": 365.18,
+      "end": 367.3,
+      "text": "Eu reboquei por quanto que não tem castor, sabe?"
+    },
+    {
+      "start": 368.1,
+      "end": 369.2,
+      "text": "Você tá doido, rapaz?"
+    },
+    {
+      "start": 369.78,
+      "end": 370.22,
+      "text": "Quantos?"
+    },
+    {
+      "start": 380.09,
+      "end": 380.33,
+      "text": "Aí."
+    },
+    {
+      "start": 380.83,
+      "end": 387.99,
+      "text": "Ah, não, não, não, não, não."
+    },
+    {
+      "start": 394.53,
+      "end": 394.89,
+      "text": "Ah."
+    },
+    {
+      "start": 395.81,
+      "end": 396.79,
+      "text": "Ê, rapaz."
+    },
+    {
+      "start": 398.23,
+      "end": 398.71,
+      "text": "Amarelão."
+    },
+    {
+      "start": 402.13,
+      "end": 402.85,
+      "text": "Você tá doido."
+    },
+    {
+      "start": 406.56,
+      "end": 407.04,
+      "text": "Ó, ó."
+    },
+    {
+      "start": 407.9,
+      "end": 408.5,
+      "text": "Caramba."
+    },
+    {
+      "start": 413.42,
+      "end": 414.42,
+      "text": "Você tá doido."
+    },
+    {
+      "start": 415.55,
+      "end": 415.77,
+      "text": "Você viu?"
+    },
+    {
+      "start": 417.68,
+      "end": 418.66,
+      "text": "Olha que bonito, né?"
+    },
+    {
+      "start": 418.74,
+      "end": 418.86,
+      "text": "Assim."
+    },
+    {
+      "start": 421.71,
+      "end": 422.65,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 422.65,
+      "end": 452.63,
+      "text": "Você tá doido."
+    }
+  ],
+  "duracao_seg": 424.71,
+  "idioma_detectado": "pt"
+}

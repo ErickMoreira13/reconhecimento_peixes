@@ -1,0 +1,32 @@
+{
+  "texto": "O LED nos ajuda em uma pesca de noite, assim que, nada, eu recomendo bastante. Esta é uma recomendação mais que nada pessoal, porque eu comprei meio de calentura, por assim dizer, e terminou sendo muito útil ao final, assim que nada, eu recomendo. Quedaria assim, colocada na vara, por exemplo, e a tansa, no caso do Multi, passaria por aqui e por aqui. Uma vez se activa a alarma, por este lado, quando a tansa se tensa, bom, neste caso pode aflojar o carreter, mas aí se aciona.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "O LED nos ajuda em uma pesca de noite, assim que, nada, eu recomendo bastante."
+    },
+    {
+      "start": 5.96,
+      "end": 14.98,
+      "text": "Esta é uma recomendação mais que nada pessoal, porque eu comprei meio de calentura, por assim dizer, e terminou sendo muito útil ao final, assim que nada, eu recomendo."
+    },
+    {
+      "start": 15.4,
+      "end": 26.87,
+      "text": "Quedaria assim, colocada na vara, por exemplo, e a tansa, no caso do Multi, passaria por aqui e por aqui."
+    },
+    {
+      "start": 26.87,
+      "end": 35.42,
+      "text": "Uma vez se activa a alarma, por este lado, quando a tansa se tensa,"
+    },
+    {
+      "start": 39.13,
+      "end": 45.12,
+      "text": "bom, neste caso pode aflojar o carreter, mas aí se aciona."
+    }
+  ],
+  "duracao_seg": 46.71,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Vou te mostrar o neném com carinha de malvadão Vou te mostrar o neném com carinha de malvadão",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 3.79,
+      "text": "Vou te mostrar o neném com carinha de malvadão"
+    },
+    {
+      "start": 3.79,
+      "end": 7.37,
+      "text": "Vou te mostrar o neném com carinha de malvadão"
+    }
+  ],
+  "duracao_seg": 7.39,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Eu pertenço a você, não é me dominando assim Que você vai me entender Eu posso estar sozinho, mas eu sei muito bem aonde",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 18.02,
+      "text": "Eu pertenço a você, não é me dominando assim"
+    },
+    {
+      "start": 18.02,
+      "end": 20.57,
+      "text": "Que você vai me entender"
+    },
+    {
+      "start": 20.57,
+      "end": 24.93,
+      "text": "Eu posso estar sozinho, mas eu sei muito bem aonde"
+    }
+  ],
+  "duracao_seg": 43.73,
+  "idioma_detectado": "pt"
+}

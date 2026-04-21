@@ -1,0 +1,27 @@
+{
+  "texto": "Oh my gosh, here they come, I'm on, oh yep, we're on, there's a lot, oh gosh, I'm getting destroyed in there, I might have multiple fish, I might have two, oh my god, they're all around me, I'm getting destroyed, look at all this, I have two fish, I have two, I have two, I'm flipping them both, oh gosh, that was a bad idea, whoa, what just happened?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.34,
+      "text": "Oh my gosh, here they come, I'm on, oh yep, we're on, there's a lot, oh gosh, I'm getting"
+    },
+    {
+      "start": 9.34,
+      "end": 14.3,
+      "text": "destroyed in there, I might have multiple fish, I might have two, oh my god, they're"
+    },
+    {
+      "start": 14.3,
+      "end": 19.98,
+      "text": "all around me, I'm getting destroyed, look at all this, I have two fish, I have two,"
+    },
+    {
+      "start": 20.48,
+      "end": 27.16,
+      "text": "I have two, I'm flipping them both, oh gosh, that was a bad idea, whoa, what just happened?"
+    }
+  ],
+  "duracao_seg": 27.25,
+  "idioma_detectado": "pt"
+}

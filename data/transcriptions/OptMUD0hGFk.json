@@ -1,0 +1,37 @@
+{
+  "texto": "I'll never buy jerkbaits from Timu again. It's gonna have to be a freaky fish. And it's gonna have to be a freaky fish. So you really gotta like, kinda jerk it, you know? Like it is a jerkbait, so you gotta jerk it.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "I'll never buy jerkbaits from Timu again."
+    },
+    {
+      "start": 3.24,
+      "end": 4.92,
+      "text": "It's gonna have to be a freaky fish."
+    },
+    {
+      "start": 5.06,
+      "end": 6.34,
+      "text": "And it's gonna have to be a freaky fish."
+    },
+    {
+      "start": 6.46,
+      "end": 8.56,
+      "text": "So you really gotta like,"
+    },
+    {
+      "start": 9.08,
+      "end": 10.08,
+      "text": "kinda jerk it, you know?"
+    },
+    {
+      "start": 10.36,
+      "end": 11.98,
+      "text": "Like it is a jerkbait, so you gotta jerk it."
+    }
+  ],
+  "duracao_seg": 13.27,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Tô de muletom e toca, acabo meu plantão na boca, vou pro baile curtir Destino é casinha, meu salve nas novinha, se trombar com os coxinhos Falo que sou MC maluqueiro, favelado, bem trajado e o bolso com dinheiro Tô fumando, é com os parceiros, nós atividade menor de comunidade Se tentar pegar meu lado eu vou pegar o seu primeiro De glock na city, jacaré no pico, eu tô levando a vida desse jeito Mais espírito, mais aguento, vivo nos caminhos estreitos",
+  "segmentos": [
+    {
+      "start": 2.45,
+      "end": 7.59,
+      "text": "Tô de muletom e toca, acabo meu plantão na boca, vou pro baile curtir"
+    },
+    {
+      "start": 7.59,
+      "end": 12.07,
+      "text": "Destino é casinha, meu salve nas novinha, se trombar com os coxinhos"
+    },
+    {
+      "start": 12.07,
+      "end": 17.71,
+      "text": "Falo que sou MC maluqueiro, favelado, bem trajado e o bolso com dinheiro"
+    },
+    {
+      "start": 17.71,
+      "end": 23.61,
+      "text": "Tô fumando, é com os parceiros, nós atividade menor de comunidade"
+    },
+    {
+      "start": 23.61,
+      "end": 26.91,
+      "text": "Se tentar pegar meu lado eu vou pegar o seu primeiro"
+    },
+    {
+      "start": 26.91,
+      "end": 32.07,
+      "text": "De glock na city, jacaré no pico, eu tô levando a vida desse jeito"
+    },
+    {
+      "start": 32.07,
+      "end": 35.43,
+      "text": "Mais espírito, mais aguento, vivo nos caminhos estreitos"
+    }
+  ],
+  "duracao_seg": 36.05,
+  "idioma_detectado": "pt"
+}

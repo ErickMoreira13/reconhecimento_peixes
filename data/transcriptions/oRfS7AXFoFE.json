@@ -1,0 +1,17 @@
+{
+  "texto": "Acorda que essa torta é rosa esquerda, não a mate. Cuidado, uma vez que ajustou, pronto, não precisa dar com toda a força do mundo porque o rompes.",
+  "segmentos": [
+    {
+      "start": 1.84,
+      "end": 6.42,
+      "text": "Acorda que essa torta é rosa esquerda, não a mate."
+    },
+    {
+      "start": 6.42,
+      "end": 13.62,
+      "text": "Cuidado, uma vez que ajustou, pronto, não precisa dar com toda a força do mundo porque o rompes."
+    }
+  ],
+  "duracao_seg": 14.15,
+  "idioma_detectado": "pt"
+}

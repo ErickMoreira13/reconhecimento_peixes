@@ -1,0 +1,22 @@
+{
+  "texto": "Como que come e suelta, come e suelta, vamos golpeando e recogendo, golpeando e recogendo. Isto também podemos fazer com a cadência e velocidade que nós criamos conveniente. Podemos fazer mais lento ou mais rápido.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.94,
+      "text": "Como que come e suelta, come e suelta, vamos golpeando e recogendo, golpeando e recogendo."
+    },
+    {
+      "start": 7.42,
+      "end": 11.96,
+      "text": "Isto também podemos fazer com a cadência e velocidade que nós criamos conveniente."
+    },
+    {
+      "start": 12.32,
+      "end": 14.48,
+      "text": "Podemos fazer mais lento ou mais rápido."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Falaremos do señuelo popper. O señuelo popper é um señuelo superficial. Nos faremos dando pequenos jaloncitos, como o nome diz, fazendo um pop, pop, pop. E recomendo recoger a linha entre cada pop ou jalon. Recuerden utilizar variantes de colores dependendo do clima e da zona onde vivem. Saludos e viva a pesca!",
+  "segmentos": [
+    {
+      "start": 1.36,
+      "end": 3.36,
+      "text": "Falaremos do señuelo popper."
+    },
+    {
+      "start": 3.36,
+      "end": 6.36,
+      "text": "O señuelo popper é um señuelo superficial."
+    },
+    {
+      "start": 6.36,
+      "end": 10.36,
+      "text": "Nos faremos dando pequenos jaloncitos, como o nome diz,"
+    },
+    {
+      "start": 10.36,
+      "end": 13.36,
+      "text": "fazendo um pop, pop, pop."
+    },
+    {
+      "start": 13.36,
+      "end": 18.29,
+      "text": "E recomendo recoger a linha entre cada pop ou jalon."
+    },
+    {
+      "start": 18.29,
+      "end": 23.29,
+      "text": "Recuerden utilizar variantes de colores dependendo do clima e da zona onde vivem."
+    },
+    {
+      "start": 23.29,
+      "end": 26.29,
+      "text": "Saludos e viva a pesca!"
+    }
+  ],
+  "duracao_seg": 26.59,
+  "idioma_detectado": "pt"
+}
