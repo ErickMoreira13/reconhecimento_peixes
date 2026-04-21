@@ -1,0 +1,57 @@
+{
+  "texto": "os controles dos carretes bike casting esta estrella controla o freno esta perilla é para calibrar o peso do señuelo esta palanca libera a bobina ao fazer o tiro esta perilla determina que tanta resistência vai ter a bobina para girar",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "os controles dos carretes bike casting"
+    },
+    {
+      "start": 2.38,
+      "end": 4.77,
+      "text": "esta estrella controla"
+    },
+    {
+      "start": 4.77,
+      "end": 7.87,
+      "text": "o freno"
+    },
+    {
+      "start": 7.87,
+      "end": 11.08,
+      "text": "esta perilla é para calibrar"
+    },
+    {
+      "start": 11.08,
+      "end": 12.82,
+      "text": "o peso do señuelo"
+    },
+    {
+      "start": 12.82,
+      "end": 14.72,
+      "text": "esta palanca"
+    },
+    {
+      "start": 14.72,
+      "end": 17.4,
+      "text": "libera a bobina ao fazer o tiro"
+    },
+    {
+      "start": 17.4,
+      "end": 20.68,
+      "text": "esta perilla determina"
+    },
+    {
+      "start": 20.68,
+      "end": 22.06,
+      "text": "que tanta resistência"
+    },
+    {
+      "start": 22.06,
+      "end": 24.32,
+      "text": "vai ter a bobina para girar"
+    }
+  ],
+  "duracao_seg": 25.43,
+  "idioma_detectado": "pt"
+}

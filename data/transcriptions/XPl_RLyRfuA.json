@@ -1,0 +1,17 @@
+{
+  "texto": "Llegaram as cojinúas no sábado santo. Começam a danillol, danillol.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Llegaram as cojinúas no sábado santo."
+    },
+    {
+      "start": 6.49,
+      "end": 9.27,
+      "text": "Começam a danillol, danillol."
+    }
+  ],
+  "duracao_seg": 10.99,
+  "idioma_detectado": "pt"
+}

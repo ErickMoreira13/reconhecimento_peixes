@@ -1,0 +1,32 @@
+{
+  "texto": "Só os pescadores com experiência o reconhecem ao instante. É uma bolsa de malla soluble em água. Se lena com carnada e se lança diretamente ao ponto de pesca. A malla mantém a carnada unida, o que a faz mais eficaz para atrair peças, e se disolva em apenas 30 segundos.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": "Só os pescadores com experiência o reconhecem ao instante."
+    },
+    {
+      "start": 3.06,
+      "end": 5.04,
+      "text": "É uma bolsa de malla soluble em água."
+    },
+    {
+      "start": 5.2,
+      "end": 8.44,
+      "text": "Se lena com carnada e se lança diretamente ao ponto de pesca."
+    },
+    {
+      "start": 8.58,
+      "end": 12.72,
+      "text": "A malla mantém a carnada unida, o que a faz mais eficaz para atrair peças,"
+    },
+    {
+      "start": 12.92,
+      "end": 14.98,
+      "text": "e se disolva em apenas 30 segundos."
+    }
+  ],
+  "duracao_seg": 15.21,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "eu estou dizendo, eu sei, eu sei que estão aí eu vou para, para, para como se apreta o banheiro aqui, a chicharra? sube, sube, dai arreve, vira, arreve, vira, arreve, vira, arreve, assim aí está",
+  "segmentos": [
+    {
+      "start": 49.74,
+      "end": 60.24,
+      "text": "eu estou dizendo, eu sei, eu sei que estão aí"
+    },
+    {
+      "start": 60.24,
+      "end": 66.26,
+      "text": "eu vou para, para, para"
+    },
+    {
+      "start": 66.26,
+      "end": 72.32,
+      "text": "como se apreta o banheiro aqui, a chicharra?"
+    },
+    {
+      "start": 72.32,
+      "end": 73.04,
+      "text": "sube, sube, dai"
+    },
+    {
+      "start": 73.04,
+      "end": 82.11,
+      "text": "arreve, vira, arreve, vira, arreve, vira, arreve, assim"
+    },
+    {
+      "start": 82.11,
+      "end": 84.03,
+      "text": "aí está"
+    }
+  ],
+  "duracao_seg": 88.27,
+  "idioma_detectado": "pt"
+}
