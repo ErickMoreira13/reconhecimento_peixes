@@ -1,0 +1,27 @@
+{
+  "texto": "Boa de briga, peixe bom de briga, super esportivo, olha como salta, que coisa mais linda! Olha o tamanho desse dente aqui, sensacional, quase do céu! Por isso é conhecido também como peixe vampiro. Vamos devolver para a água.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 9.21,
+      "text": "Boa de briga, peixe bom de briga, super esportivo, olha como salta, que coisa mais linda!"
+    },
+    {
+      "start": 9.21,
+      "end": 18.25,
+      "text": "Olha o tamanho desse dente aqui, sensacional, quase do céu!"
+    },
+    {
+      "start": 18.25,
+      "end": 21.31,
+      "text": "Por isso é conhecido também como peixe vampiro."
+    },
+    {
+      "start": 21.31,
+      "end": 23.31,
+      "text": "Vamos devolver para a água."
+    }
+  ],
+  "duracao_seg": 26.99,
+  "idioma_detectado": "pt"
+}

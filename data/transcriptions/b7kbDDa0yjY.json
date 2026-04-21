@@ -1,0 +1,27 @@
+{
+  "texto": "Amigos, esse é o molinete Tunus 6500 bairro de ônibus Rófimo. Para que serve ele? Para isso aqui, amigos. Monstros da Amazônia de couro como essa gigante Piraíba. Tunus é da Amarine. Se é Amarine, pode confiar.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 3.69,
+      "text": "Amigos, esse é o molinete Tunus 6500 bairro de ônibus Rófimo."
+    },
+    {
+      "start": 4.29,
+      "end": 5.91,
+      "text": "Para que serve ele? Para isso aqui, amigos."
+    },
+    {
+      "start": 6.75,
+      "end": 9.59,
+      "text": "Monstros da Amazônia de couro como essa gigante Piraíba."
+    },
+    {
+      "start": 10.72,
+      "end": 13.86,
+      "text": "Tunus é da Amarine. Se é Amarine, pode confiar."
+    }
+  ],
+  "duracao_seg": 14.69,
+  "idioma_detectado": "pt"
+}

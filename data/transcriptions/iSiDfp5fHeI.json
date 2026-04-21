@@ -1,0 +1,27 @@
+{
+  "texto": "Olha a isca para pegar cachorra, um azol no meio, outro na cabeça. Bora ver. Olha a isquinha boa aqui, ó. Isca nas costas, vamos ver.",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 5.26,
+      "text": "Olha a isca para pegar cachorra, um azol no meio, outro na cabeça."
+    },
+    {
+      "start": 5.94,
+      "end": 6.56,
+      "text": "Bora ver."
+    },
+    {
+      "start": 7.3,
+      "end": 8.58,
+      "text": "Olha a isquinha boa aqui, ó."
+    },
+    {
+      "start": 9.98,
+      "end": 13.49,
+      "text": "Isca nas costas, vamos ver."
+    }
+  ],
+  "duracao_seg": 14.29,
+  "idioma_detectado": "pt"
+}

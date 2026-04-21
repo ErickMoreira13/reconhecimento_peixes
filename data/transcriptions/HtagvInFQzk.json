@@ -1,0 +1,42 @@
+{
+  "texto": "Fala galera do canal, nós estamos aqui para mais um vídeo pessoal, e nós vamos mostrar para vocês aqui o que caiu na malhadeira, tá pessoal? Vamos tirando aqui, vamos mostrando aqui para vocês aqui, ó. Esse aqui para quem não conhece, é o famoso peixe cachorro, pessoal. Olha aí, ó. Peixe cachorro. Isso aqui frito, nem cachorro come, porque não sobra, tá? Porque é muito bom.",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 7.41,
+      "text": "Fala galera do canal, nós estamos aqui para mais um vídeo pessoal, e nós vamos mostrar para vocês aqui o que caiu na malhadeira, tá pessoal?"
+    },
+    {
+      "start": 8.21,
+      "end": 10.73,
+      "text": "Vamos tirando aqui, vamos mostrando aqui para vocês aqui, ó."
+    },
+    {
+      "start": 11.8,
+      "end": 17.24,
+      "text": "Esse aqui para quem não conhece, é o famoso peixe cachorro, pessoal."
+    },
+    {
+      "start": 18.33,
+      "end": 18.95,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 20.7,
+      "end": 21.98,
+      "text": "Peixe cachorro."
+    },
+    {
+      "start": 23.3,
+      "end": 26.14,
+      "text": "Isso aqui frito, nem cachorro come, porque não sobra, tá?"
+    },
+    {
+      "start": 27.05,
+      "end": 28.03,
+      "text": "Porque é muito bom."
+    }
+  ],
+  "duracao_seg": 33.31,
+  "idioma_detectado": "pt"
+}

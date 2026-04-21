@@ -1,0 +1,697 @@
+{
+  "texto": "Programa Rancho do Pescador. Oferecimento Pousada Asa Branca. Nem perdi muita linha. Deu nó? Ai, ó. Tirar só a sujeira da linha. Tamo de volta no mesmo lugar. O que eu fiz agora? Coloquei o anzol um pouquinho maior. Coloquei um 5 barra zero. Vamos continuar aqui. A nossa pescaria de dourada. Quem sabe tem outro peixe aí? Esperando a gente. Fui cair na água. O apapá já pegou. Aê, apapá. Isso, que beleza. Nossa, que beleza de peixe, gente. Mais um pulo. Mais um pulo. Aê. Vem aqui, vem. Nossa, gente, olha o tamanho disso. Olha isso aqui, ó. Tudo marcado. O peixe que pegou ele. Foi um outro peixe grande, hein. E aí, olha isso. Já vamos tirar esse anzol. Calma, calma, calma. Ó, já saiu sozinho. Olha que espetáculo. Peixe maravilhoso. Oh, bravo, bravo. Vai, pode pôr nada. Olha aí. Olha aí. Nem dá pra segurar muita água. É muito rápido. Vai embora. Aê. Vamos lá. Mais um. Pulou o peixe? Ah, falei uai. Bateu e não quis pular? Vem cá você. Você é pequenininha. Vou te tirar aqui, ó. Facinho. Vem fisgada o peixe. E bravo, gente. Calma, peixe. Aí. Olha isso. Vai. Mais uma. Quanto mais longe você jogar, melhor. Ela vai correndo lá no meio. Mais uma. Mais uma. Vem apapá. Isso. Vem pulando. Vem pulando. Do lado de cá. Aí não, peixe. Vem. Isso. Sai do motor. Pegou a sua linha? Peraí que eu já tiro já. Vem cá, peixe. Depois que a gente perdeu a Piraíba, pegamos uma linha. Pegamos um equipamento mais pesado. Tá ali na mão do Carlinho. Soltamos. Soltamos o equipamento mais pesado ali. Pra ver se bate outro. Vou te soltar aqui já, peixe. Vai embora. Aê. Mas não adianta, viu? Carlinho já jogou ali uma isca um monte de vezes. Nem o apapá pega. O peixe gosta de fazer assim mesmo. Equipamento pequeno. Que é pra dar trabalho. Vamos lá. Vamos colocar outra isca. E estamos colocando aquele outro equipamento ali. Se bater um peixe grande, ali a gente vai tirar com certeza. Ou pelo menos uma grande chance de tirar. Não vamos falar certeza não. Porque pescaria nada é certo. E continuamos aqui, ó. O apapá quis pegar e largou. Peixe, vamos. Peixe, vamos. Vem pulando, vem pulando. Peixe, peixe. Peixe, peixe entra de lado aqui na água rápida. Não sei se você é dourado ou se você é palmito. Não consegui ver. Ah, palmitinho. Ah, palmitinho. Ai, que belezinha. Ai, que belezinha. Sua sorte é que o do almoço nós já pegamos hoje. Beleza, né? Vai embora. Furembinha. Sentar aqui. Solta a linha. Segura. Espera um pouquinho. E dourada. Vem pulando. Vem brigar aqui em cima, vem. Ah, escapou aqui. Ia te mostrar, não mostrei. Vamos pôr, Taís, que pega a outra. Joga o mais longe que der. E vai soltando linha. Esse lambari vai descendo na meia água. O peixe vem pulando de novo. Vamos ver se você não escapa aqui, hein? Isso. Pula aqui. Aê, nossa. Olha que apapá bonito, gente. Olha como brilha isso no sol. Que beleza de peixe, gente. Olha aí. Vem, vou tirar esse anzol. Aí, facinho, facinho. Isso.",
+  "segmentos": [
+    {
+      "start": 0.16,
+      "end": 2.66,
+      "text": "Programa Rancho do Pescador."
+    },
+    {
+      "start": 3.26,
+      "end": 5.66,
+      "text": "Oferecimento Pousada Asa Branca."
+    },
+    {
+      "start": 59.69,
+      "end": 61.27,
+      "text": "Nem perdi muita linha."
+    },
+    {
+      "start": 73.64,
+      "end": 74.16,
+      "text": "Deu nó?"
+    },
+    {
+      "start": 79.03,
+      "end": 83.6,
+      "text": "Ai, ó."
+    },
+    {
+      "start": 85.29,
+      "end": 87.05,
+      "text": "Tirar só a sujeira da linha."
+    },
+    {
+      "start": 89.04,
+      "end": 90.58,
+      "text": "Tamo de volta no mesmo lugar."
+    },
+    {
+      "start": 92.05,
+      "end": 92.97,
+      "text": "O que eu fiz agora?"
+    },
+    {
+      "start": 93.11,
+      "end": 95.37,
+      "text": "Coloquei o anzol um pouquinho maior."
+    },
+    {
+      "start": 95.61,
+      "end": 97.01,
+      "text": "Coloquei um 5 barra zero."
+    },
+    {
+      "start": 99.52,
+      "end": 100.7,
+      "text": "Vamos continuar aqui."
+    },
+    {
+      "start": 101.44,
+      "end": 104.22,
+      "text": "A nossa pescaria de dourada."
+    },
+    {
+      "start": 106.74,
+      "end": 108.26,
+      "text": "Quem sabe tem outro peixe aí?"
+    },
+    {
+      "start": 109.55,
+      "end": 110.61,
+      "text": "Esperando a gente."
+    },
+    {
+      "start": 122.45,
+      "end": 123.93,
+      "text": "Fui cair na água."
+    },
+    {
+      "start": 125.21,
+      "end": 126.63,
+      "text": "O apapá já pegou."
+    },
+    {
+      "start": 126.63,
+      "end": 128.23,
+      "text": "Aê, apapá."
+    },
+    {
+      "start": 130.86,
+      "end": 132.78,
+      "text": "Isso, que beleza."
+    },
+    {
+      "start": 134.55,
+      "end": 137.09,
+      "text": "Nossa, que beleza de peixe, gente."
+    },
+    {
+      "start": 138.39,
+      "end": 139.31,
+      "text": "Mais um pulo."
+    },
+    {
+      "start": 140.04,
+      "end": 141.0,
+      "text": "Mais um pulo."
+    },
+    {
+      "start": 141.18,
+      "end": 141.72,
+      "text": "Aê."
+    },
+    {
+      "start": 142.86,
+      "end": 143.68,
+      "text": "Vem aqui, vem."
+    },
+    {
+      "start": 144.2,
+      "end": 150.21,
+      "text": "Nossa, gente, olha o tamanho disso."
+    },
+    {
+      "start": 154.95,
+      "end": 155.91,
+      "text": "Olha isso aqui, ó."
+    },
+    {
+      "start": 157.74,
+      "end": 158.96,
+      "text": "Tudo marcado."
+    },
+    {
+      "start": 160.02,
+      "end": 161.34,
+      "text": "O peixe que pegou ele."
+    },
+    {
+      "start": 161.42,
+      "end": 164.82,
+      "text": "Foi um outro peixe grande, hein."
+    },
+    {
+      "start": 164.82,
+      "end": 186.85,
+      "text": "E aí, olha isso."
+    },
+    {
+      "start": 189.6,
+      "end": 191.32,
+      "text": "Já vamos tirar esse anzol."
+    },
+    {
+      "start": 192.31,
+      "end": 193.69,
+      "text": "Calma, calma, calma."
+    },
+    {
+      "start": 196.61,
+      "end": 198.07,
+      "text": "Ó, já saiu sozinho."
+    },
+    {
+      "start": 204.78,
+      "end": 205.92,
+      "text": "Olha que espetáculo."
+    },
+    {
+      "start": 207.22,
+      "end": 208.3,
+      "text": "Peixe maravilhoso."
+    },
+    {
+      "start": 208.52,
+      "end": 210.14,
+      "text": "Oh, bravo, bravo."
+    },
+    {
+      "start": 210.66,
+      "end": 214.08,
+      "text": "Vai, pode pôr nada."
+    },
+    {
+      "start": 217.74,
+      "end": 218.26,
+      "text": "Olha aí."
+    },
+    {
+      "start": 218.86,
+      "end": 219.34,
+      "text": "Olha aí."
+    },
+    {
+      "start": 220.56,
+      "end": 222.24,
+      "text": "Nem dá pra segurar muita água."
+    },
+    {
+      "start": 222.32,
+      "end": 223.2,
+      "text": "É muito rápido."
+    },
+    {
+      "start": 223.84,
+      "end": 224.38,
+      "text": "Vai embora."
+    },
+    {
+      "start": 224.38,
+      "end": 226.14,
+      "text": "Aê."
+    },
+    {
+      "start": 227.59,
+      "end": 228.15,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 229.03,
+      "end": 229.59,
+      "text": "Mais um."
+    },
+    {
+      "start": 230.03,
+      "end": 271.43,
+      "text": "Pulou o peixe?"
+    },
+    {
+      "start": 271.59,
+      "end": 275.72,
+      "text": "Ah, falei uai."
+    },
+    {
+      "start": 276.44,
+      "end": 277.86,
+      "text": "Bateu e não quis pular?"
+    },
+    {
+      "start": 286.96,
+      "end": 287.72,
+      "text": "Vem cá você."
+    },
+    {
+      "start": 287.86,
+      "end": 288.96,
+      "text": "Você é pequenininha."
+    },
+    {
+      "start": 289.97,
+      "end": 291.21,
+      "text": "Vou te tirar aqui, ó."
+    },
+    {
+      "start": 291.29,
+      "end": 291.97,
+      "text": "Facinho."
+    },
+    {
+      "start": 292.39,
+      "end": 304.69,
+      "text": "Vem fisgada o peixe."
+    },
+    {
+      "start": 304.77,
+      "end": 305.95,
+      "text": "E bravo, gente."
+    },
+    {
+      "start": 306.41,
+      "end": 310.36,
+      "text": "Calma, peixe."
+    },
+    {
+      "start": 315.01,
+      "end": 315.31,
+      "text": "Aí."
+    },
+    {
+      "start": 315.71,
+      "end": 316.37,
+      "text": "Olha isso."
+    },
+    {
+      "start": 318.26,
+      "end": 318.46,
+      "text": "Vai."
+    },
+    {
+      "start": 318.98,
+      "end": 324.65,
+      "text": "Mais uma."
+    },
+    {
+      "start": 324.65,
+      "end": 335.05,
+      "text": "Quanto mais longe você jogar, melhor."
+    },
+    {
+      "start": 335.71,
+      "end": 337.63,
+      "text": "Ela vai correndo lá no meio."
+    },
+    {
+      "start": 354.13,
+      "end": 354.83,
+      "text": "Mais uma."
+    },
+    {
+      "start": 354.95,
+      "end": 355.65,
+      "text": "Mais uma."
+    },
+    {
+      "start": 356.03,
+      "end": 372.14,
+      "text": "Vem apapá."
+    },
+    {
+      "start": 372.38,
+      "end": 372.78,
+      "text": "Isso."
+    },
+    {
+      "start": 372.86,
+      "end": 373.52,
+      "text": "Vem pulando."
+    },
+    {
+      "start": 373.62,
+      "end": 374.3,
+      "text": "Vem pulando."
+    },
+    {
+      "start": 378.19,
+      "end": 379.51,
+      "text": "Do lado de cá."
+    },
+    {
+      "start": 388.09,
+      "end": 389.39,
+      "text": "Aí não, peixe."
+    },
+    {
+      "start": 391.49,
+      "end": 391.71,
+      "text": "Vem."
+    },
+    {
+      "start": 392.15,
+      "end": 394.37,
+      "text": "Isso."
+    },
+    {
+      "start": 394.49,
+      "end": 395.35,
+      "text": "Sai do motor."
+    },
+    {
+      "start": 402.27,
+      "end": 402.97,
+      "text": "Pegou a sua linha?"
+    },
+    {
+      "start": 404.01,
+      "end": 405.19,
+      "text": "Peraí que eu já tiro já."
+    },
+    {
+      "start": 405.61,
+      "end": 407.54,
+      "text": "Vem cá, peixe."
+    },
+    {
+      "start": 410.07,
+      "end": 413.01,
+      "text": "Depois que a gente perdeu a Piraíba, pegamos uma linha."
+    },
+    {
+      "start": 414.04,
+      "end": 419.12,
+      "text": "Pegamos um equipamento mais pesado."
+    },
+    {
+      "start": 419.12,
+      "end": 422.97,
+      "text": "Tá ali na mão do Carlinho."
+    },
+    {
+      "start": 426.54,
+      "end": 427.22,
+      "text": "Soltamos."
+    },
+    {
+      "start": 430.37,
+      "end": 432.99,
+      "text": "Soltamos o equipamento mais pesado ali."
+    },
+    {
+      "start": 433.41,
+      "end": 435.63,
+      "text": "Pra ver se bate outro."
+    },
+    {
+      "start": 435.71,
+      "end": 437.29,
+      "text": "Vou te soltar aqui já, peixe."
+    },
+    {
+      "start": 437.37,
+      "end": 437.83,
+      "text": "Vai embora."
+    },
+    {
+      "start": 438.67,
+      "end": 439.29,
+      "text": "Aê."
+    },
+    {
+      "start": 439.87,
+      "end": 442.62,
+      "text": "Mas não adianta, viu?"
+    },
+    {
+      "start": 444.79,
+      "end": 450.95,
+      "text": "Carlinho já jogou ali uma isca um monte de vezes."
+    },
+    {
+      "start": 452.3,
+      "end": 453.7,
+      "text": "Nem o apapá pega."
+    },
+    {
+      "start": 454.44,
+      "end": 456.3,
+      "text": "O peixe gosta de fazer assim mesmo."
+    },
+    {
+      "start": 456.4,
+      "end": 457.64,
+      "text": "Equipamento pequeno."
+    },
+    {
+      "start": 458.12,
+      "end": 459.4,
+      "text": "Que é pra dar trabalho."
+    },
+    {
+      "start": 460.59,
+      "end": 461.33,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 461.47,
+      "end": 462.93,
+      "text": "Vamos colocar outra isca."
+    },
+    {
+      "start": 465.1,
+      "end": 467.18,
+      "text": "E estamos colocando aquele outro equipamento ali."
+    },
+    {
+      "start": 467.32,
+      "end": 472.68,
+      "text": "Se bater um peixe grande, ali a gente vai tirar com certeza."
+    },
+    {
+      "start": 475.04,
+      "end": 477.9,
+      "text": "Ou pelo menos uma grande chance de tirar."
+    },
+    {
+      "start": 478.62,
+      "end": 480.46,
+      "text": "Não vamos falar certeza não."
+    },
+    {
+      "start": 480.86,
+      "end": 483.08,
+      "text": "Porque pescaria nada é certo."
+    },
+    {
+      "start": 483.34,
+      "end": 486.25,
+      "text": "E continuamos aqui, ó."
+    },
+    {
+      "start": 486.47,
+      "end": 491.46,
+      "text": "O apapá quis pegar e largou."
+    },
+    {
+      "start": 491.46,
+      "end": 498.63,
+      "text": "Peixe, vamos."
+    },
+    {
+      "start": 498.63,
+      "end": 498.67,
+      "text": "Peixe, vamos."
+    },
+    {
+      "start": 499.09,
+      "end": 516.46,
+      "text": "Vem pulando, vem pulando."
+    },
+    {
+      "start": 516.46,
+      "end": 532.92,
+      "text": "Peixe, peixe."
+    },
+    {
+      "start": 532.92,
+      "end": 536.46,
+      "text": "Peixe, peixe entra de lado aqui na água rápida."
+    },
+    {
+      "start": 539.88,
+      "end": 542.74,
+      "text": "Não sei se você é dourado ou se você é palmito."
+    },
+    {
+      "start": 543.48,
+      "end": 544.54,
+      "text": "Não consegui ver."
+    },
+    {
+      "start": 544.54,
+      "end": 546.53,
+      "text": "Ah, palmitinho."
+    },
+    {
+      "start": 546.53,
+      "end": 547.19,
+      "text": "Ah, palmitinho."
+    },
+    {
+      "start": 552.21,
+      "end": 553.21,
+      "text": "Ai, que belezinha."
+    },
+    {
+      "start": 554.37,
+      "end": 555.41,
+      "text": "Ai, que belezinha."
+    },
+    {
+      "start": 572.29,
+      "end": 575.63,
+      "text": "Sua sorte é que o do almoço nós já pegamos hoje."
+    },
+    {
+      "start": 577.49,
+      "end": 578.27,
+      "text": "Beleza, né?"
+    },
+    {
+      "start": 580.06,
+      "end": 580.78,
+      "text": "Vai embora."
+    },
+    {
+      "start": 580.78,
+      "end": 588.38,
+      "text": "Furembinha."
+    },
+    {
+      "start": 594.47,
+      "end": 595.49,
+      "text": "Sentar aqui."
+    },
+    {
+      "start": 602.14,
+      "end": 603.0,
+      "text": "Solta a linha."
+    },
+    {
+      "start": 604.01,
+      "end": 604.69,
+      "text": "Segura."
+    },
+    {
+      "start": 606.43,
+      "end": 607.45,
+      "text": "Espera um pouquinho."
+    },
+    {
+      "start": 607.89,
+      "end": 617.85,
+      "text": "E dourada."
+    },
+    {
+      "start": 620.96,
+      "end": 621.96,
+      "text": "Vem pulando."
+    },
+    {
+      "start": 633.62,
+      "end": 634.98,
+      "text": "Vem brigar aqui em cima, vem."
+    },
+    {
+      "start": 635.46,
+      "end": 651.19,
+      "text": "Ah, escapou aqui."
+    },
+    {
+      "start": 654.04,
+      "end": 656.12,
+      "text": "Ia te mostrar, não mostrei."
+    },
+    {
+      "start": 658.11,
+      "end": 659.79,
+      "text": "Vamos pôr, Taís, que pega a outra."
+    },
+    {
+      "start": 681.75,
+      "end": 683.71,
+      "text": "Joga o mais longe que der."
+    },
+    {
+      "start": 685.66,
+      "end": 687.04,
+      "text": "E vai soltando linha."
+    },
+    {
+      "start": 689.91,
+      "end": 692.21,
+      "text": "Esse lambari vai descendo na meia água."
+    },
+    {
+      "start": 692.21,
+      "end": 723.2,
+      "text": "O peixe vem pulando de novo."
+    },
+    {
+      "start": 723.99,
+      "end": 726.13,
+      "text": "Vamos ver se você não escapa aqui, hein?"
+    },
+    {
+      "start": 726.51,
+      "end": 734.68,
+      "text": "Isso."
+    },
+    {
+      "start": 735.12,
+      "end": 743.7,
+      "text": "Pula aqui."
+    },
+    {
+      "start": 745.52,
+      "end": 746.98,
+      "text": "Aê, nossa."
+    },
+    {
+      "start": 748.45,
+      "end": 750.67,
+      "text": "Olha que apapá bonito, gente."
+    },
+    {
+      "start": 750.75,
+      "end": 752.37,
+      "text": "Olha como brilha isso no sol."
+    },
+    {
+      "start": 773.56,
+      "end": 775.32,
+      "text": "Que beleza de peixe, gente."
+    },
+    {
+      "start": 775.54,
+      "end": 776.06,
+      "text": "Olha aí."
+    },
+    {
+      "start": 776.46,
+      "end": 783.04,
+      "text": "Vem, vou tirar esse anzol."
+    },
+    {
+      "start": 784.84,
+      "end": 787.08,
+      "text": "Aí, facinho, facinho."
+    },
+    {
+      "start": 800.71,
+      "end": 801.31,
+      "text": "Isso."
+    }
+  ],
+  "duracao_seg": 888.97,
+  "idioma_detectado": "pt"
+}

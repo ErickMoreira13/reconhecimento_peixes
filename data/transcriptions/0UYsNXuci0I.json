@@ -1,0 +1,22 @@
+{
+  "texto": "A piabanha! Olha o tamanho da piabanha, Marlene! Me ajuda! Segure aí, segure aí!",
+  "segmentos": [
+    {
+      "start": 42.03,
+      "end": 44.03,
+      "text": "A piabanha! Olha o tamanho da piabanha, Marlene!"
+    },
+    {
+      "start": 44.03,
+      "end": 45.42,
+      "text": "Me ajuda!"
+    },
+    {
+      "start": 45.42,
+      "end": 46.42,
+      "text": "Segure aí, segure aí!"
+    }
+  ],
+  "duracao_seg": 50.37,
+  "idioma_detectado": "pt"
+}

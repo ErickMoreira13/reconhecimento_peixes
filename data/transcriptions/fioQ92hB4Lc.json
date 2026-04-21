@@ -1,0 +1,17 @@
+{
+  "texto": "Que casualidade que hoje temos que analisar tareas se lhe moja A direcção se lhe moja na tarea",
+  "segmentos": [
+    {
+      "start": 1.46,
+      "end": 5.6,
+      "text": "Que casualidade que hoje temos que analisar tareas se lhe moja"
+    },
+    {
+      "start": 5.6,
+      "end": 8.68,
+      "text": "A direcção se lhe moja na tarea"
+    }
+  ],
+  "duracao_seg": 10.47,
+  "idioma_detectado": "pt"
+}

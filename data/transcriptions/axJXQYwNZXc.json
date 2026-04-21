@@ -1,0 +1,52 @@
+{
+  "texto": "E aí errei o arremesso ainda, ó pegou, pegou, ganha, vou tomar minha linha garoto, vai ficar tranquilo que ele tá indo pro fim, toma linha, vai tomando linha garoto, vai tomando linha, isso, toma linha, vai pro meio do rio, vai pro meio do rio, vai pro meio do rio, e tá tão apertado que chega a tomar assim, não faz de uma vez não, pretão, cara esse tá preto demais, cara que lindo véi, que lindo, e o Gonçalo de novo naquela posição ele, você pelo rabo, calma, calma, como é que segura, tá na mão, já saiu garoto, vai bonitão, isso aí é bonitão rapaz, Frederico, já tá perdendo hein Frederico, vem garoto, ensinar pra Frederico como é que é, tava ligando a câmera rapaz, espero que eu tenha ligado né, toma linha rapaz, bebe água, fazendo pião, caralho, ai diabo, toma linha, vai pegar uns, uns 10 desse aqui, o cara não aguenta mais não, rapaz, é grande hein, é grande, chega tá, amarelo com preto já, aquele que mudou de cor, rapaz, um restinho, só tinha o corinho, pegou água da minha fuça, calma rapaz, deixa eu te botar pra cima, não quero botar alicate nele, ele não quer vir de jeito nenhum, ai garoto, Frederico tá com inveja, Frederico tá com inveja, oh garotão, calma rapaz, vou te soltar, não, deixa o bichinho crescer mais um pouco, vai embora rapaz, venha garoto, venha, toma linha meu filho, Frederico já tá agorando, amigo, caralho, é do pretão meu amigo, esse é o mal do dia, é bonito filho, caralho, peraí, ah garoto, que coisa linda, olha, vai se embora meu filho,",
+  "segmentos": [
+    {
+      "start": 4.75,
+      "end": 52.22,
+      "text": "E aí errei o arremesso ainda, ó pegou, pegou, ganha, vou tomar minha linha garoto, vai ficar tranquilo que ele tá indo pro fim, toma linha, vai tomando linha garoto, vai tomando linha, isso, toma linha, vai pro meio do rio, vai pro meio do rio, vai pro meio do rio,"
+    },
+    {
+      "start": 65.15,
+      "end": 133.03,
+      "text": "e tá tão apertado que chega a tomar assim, não faz de uma vez não, pretão, cara esse tá preto demais, cara que lindo véi, que lindo, e o Gonçalo de novo naquela posição ele, você pelo rabo, calma, calma, como é que segura, tá na mão, já saiu garoto, vai bonitão, isso aí é bonitão rapaz,"
+    },
+    {
+      "start": 133.03,
+      "end": 174.11,
+      "text": "Frederico, já tá perdendo hein Frederico, vem garoto, ensinar pra Frederico como é que é, tava ligando a câmera rapaz, espero que eu tenha ligado né, toma linha rapaz, bebe água, fazendo pião,"
+    },
+    {
+      "start": 174.11,
+      "end": 216.36,
+      "text": "caralho, ai diabo, toma linha, vai pegar uns, uns 10 desse aqui, o cara não aguenta mais não, rapaz, é grande hein, é grande, chega tá, amarelo com preto já,"
+    },
+    {
+      "start": 216.36,
+      "end": 252.28,
+      "text": "aquele que mudou de cor, rapaz, um restinho, só tinha o corinho, pegou água da minha fuça, calma rapaz, deixa eu te botar pra cima,"
+    },
+    {
+      "start": 254.84,
+      "end": 263.16,
+      "text": "não quero botar alicate nele, ele não quer vir de jeito nenhum, ai garoto,"
+    },
+    {
+      "start": 263.16,
+      "end": 288.98,
+      "text": "Frederico tá com inveja, Frederico tá com inveja, oh garotão, calma rapaz, vou te soltar, não, deixa o bichinho crescer mais um pouco,"
+    },
+    {
+      "start": 288.98,
+      "end": 338.68,
+      "text": "vai embora rapaz, venha garoto, venha, toma linha meu filho, Frederico já tá agorando, amigo, caralho, é do pretão meu amigo,"
+    },
+    {
+      "start": 338.68,
+      "end": 453.39,
+      "text": "esse é o mal do dia, é bonito filho, caralho, peraí, ah garoto, que coisa linda, olha, vai se embora meu filho,"
+    }
+  ],
+  "duracao_seg": 474.03,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Faz assim, mãozinha pro ar Balança o pescoço pra lá e pra cá Zigirigidum, zigirigidum",
+  "segmentos": [
+    {
+      "start": 4.08,
+      "end": 6.12,
+      "text": "Faz assim, mãozinha pro ar"
+    },
+    {
+      "start": 6.12,
+      "end": 8.66,
+      "text": "Balança o pescoço pra lá e pra cá"
+    },
+    {
+      "start": 8.66,
+      "end": 11.3,
+      "text": "Zigirigidum, zigirigidum"
+    }
+  ],
+  "duracao_seg": 11.75,
+  "idioma_detectado": "pt"
+}

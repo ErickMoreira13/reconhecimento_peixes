@@ -1,0 +1,22 @@
+{
+  "texto": "e eu tô tentando pegar alguma coisa que vem esse cachorro tá aqui em Cuiabá tá uma virose de gripe que tá feio aí tá meio louco aí que eu tô quase nem filmando mas também eu peixe cachorro embora lá com a foguete",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 11.0,
+      "text": "e eu tô tentando pegar alguma coisa que vem esse cachorro tá aqui em Cuiabá tá uma virose de"
+    },
+    {
+      "start": 11.0,
+      "end": 20.85,
+      "text": "gripe que tá feio aí tá meio louco aí que eu tô quase nem filmando mas também eu peixe"
+    },
+    {
+      "start": 20.85,
+      "end": 25.28,
+      "text": "cachorro embora lá com a foguete"
+    }
+  ],
+  "duracao_seg": 25.67,
+  "idioma_detectado": "pt"
+}

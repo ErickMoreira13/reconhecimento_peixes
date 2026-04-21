@@ -1,0 +1,22 @@
+{
+  "texto": "Oi pessoal, tudo bem? Olha só com que eu tô aqui, um tambaqui e olha o tamanho gente, ele é enorme e adivinha que o nosso almoço hoje vai ser esse tambaqui, o papai vai tirar uma banda dele pra gente fazer assado então acompanha aí que a gente vai mostrar pra vocês esse assado",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 7.77,
+      "text": "Oi pessoal, tudo bem? Olha só com que eu tô aqui, um tambaqui e olha o tamanho gente, ele é enorme"
+    },
+    {
+      "start": 7.77,
+      "end": 15.97,
+      "text": "e adivinha que o nosso almoço hoje vai ser esse tambaqui, o papai vai tirar uma banda dele pra gente fazer assado"
+    },
+    {
+      "start": 15.97,
+      "end": 19.95,
+      "text": "então acompanha aí que a gente vai mostrar pra vocês esse assado"
+    }
+  ],
+  "duracao_seg": 20.71,
+  "idioma_detectado": "pt"
+}

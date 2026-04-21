@@ -1,0 +1,27 @@
+{
+  "texto": "Estão pescando na modalidade de currículo, pulou um peixe ali, um peixe esquisito, desligou meu filho, do lado do facão, vamos soltar ele, coloquei um alicate, um anzol, estava preso mas furou o osso, está bem fisgado, pronto, está livre, cachorra, vamos liberar ela, quase um metro, foi embora, estão pescando na modalidade de currículo, Estamos pescando hoje, na modalidade de currículo, estamos usando a isca, a molinita, de que forma estamos pescando hoje, estamos com um anzol, barra 8, um empate de aço comprido, um pequeno chumbo e um girador, estamos arrastando a isca, beirando os camalotes, é onde está os peixes, pintado a piranha, o dourado, Por que eles estão perto do camalote? Como a região aqui é tudo arenosa, o refúgio dos peixes menores é embaixo dos camalotes, é aí que está o alimento do peixe Esse peixe tem dois caninos, bem aparente e corpo bem fino, esse é grande, cachorrona, beira ela",
+  "segmentos": [
+    {
+      "start": 21.23,
+      "end": 172.77,
+      "text": "Estão pescando na modalidade de currículo, pulou um peixe ali, um peixe esquisito, desligou meu filho, do lado do facão, vamos soltar ele, coloquei um alicate, um anzol, estava preso mas furou o osso, está bem fisgado, pronto, está livre, cachorra, vamos liberar ela, quase um metro, foi embora, estão pescando na modalidade de currículo,"
+    },
+    {
+      "start": 172.77,
+      "end": 229.07,
+      "text": "Estamos pescando hoje, na modalidade de currículo, estamos usando a isca, a molinita, de que forma estamos pescando hoje, estamos com um anzol, barra 8, um empate de aço comprido, um pequeno chumbo e um girador, estamos arrastando a isca, beirando os camalotes, é onde está os peixes, pintado a piranha, o dourado,"
+    },
+    {
+      "start": 229.07,
+      "end": 244.99,
+      "text": "Por que eles estão perto do camalote? Como a região aqui é tudo arenosa, o refúgio dos peixes menores é embaixo dos camalotes, é aí que está o alimento do peixe"
+    },
+    {
+      "start": 244.99,
+      "end": 407.92,
+      "text": "Esse peixe tem dois caninos, bem aparente e corpo bem fino, esse é grande, cachorrona, beira ela"
+    }
+  ],
+  "duracao_seg": 524.13,
+  "idioma_detectado": "pt"
+}

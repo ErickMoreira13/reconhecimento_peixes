@@ -1,0 +1,27 @@
+{
+  "texto": "Tem uma ideia de fazer. Eu vou passar para a câmera. Tem uma ideia de fazer. Tem uma ideia de fazer. Nem gostou, hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Tem uma ideia de fazer. Eu vou passar para a câmera."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Tem uma ideia de fazer."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Tem uma ideia de fazer."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Nem gostou, hein?"
+    }
+  ],
+  "duracao_seg": 15.67,
+  "idioma_detectado": "pt"
+}

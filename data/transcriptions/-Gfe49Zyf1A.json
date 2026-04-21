@@ -1,0 +1,47 @@
+{
+  "texto": "Esse peixe voltou à vida depois de oito dias morto, e o que aconteceu vai te chocar. Isso porque quando esse homem foi enterrar seu peixe na terra para se despedir, após uma semana ele foi verificar como estava a situação do peixe. Ele parecia completamente seco, como se o sol tivesse ossecado totalmente. Até as moscas estavam pousando nele, deixando bem claro que o peixinho não estava vivo. Porém todos ficaram sem acreditar quando o homem jogou água na boca do peixe. Isso porque de repente o peixe começou a se mover e abrir a boca, mostrando que havia voltado à vida. Comente aí, como você acha que isso aconteceu?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "Esse peixe voltou à vida depois de oito dias morto, e o que aconteceu vai te chocar."
+    },
+    {
+      "start": 3.88,
+      "end": 6.78,
+      "text": "Isso porque quando esse homem foi enterrar seu peixe na terra para se despedir,"
+    },
+    {
+      "start": 6.9,
+      "end": 9.76,
+      "text": "após uma semana ele foi verificar como estava a situação do peixe."
+    },
+    {
+      "start": 9.84,
+      "end": 13.2,
+      "text": "Ele parecia completamente seco, como se o sol tivesse ossecado totalmente."
+    },
+    {
+      "start": 13.52,
+      "end": 17.24,
+      "text": "Até as moscas estavam pousando nele, deixando bem claro que o peixinho não estava vivo."
+    },
+    {
+      "start": 17.34,
+      "end": 20.68,
+      "text": "Porém todos ficaram sem acreditar quando o homem jogou água na boca do peixe."
+    },
+    {
+      "start": 20.76,
+      "end": 25.16,
+      "text": "Isso porque de repente o peixe começou a se mover e abrir a boca, mostrando que havia voltado à vida."
+    },
+    {
+      "start": 25.3,
+      "end": 26.96,
+      "text": "Comente aí, como você acha que isso aconteceu?"
+    }
+  ],
+  "duracao_seg": 27.31,
+  "idioma_detectado": "pt"
+}

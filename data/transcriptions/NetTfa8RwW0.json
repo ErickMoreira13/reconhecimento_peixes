@@ -1,0 +1,27 @@
+{
+  "texto": "Você solta? Você tá maluco? Tô filmando já não foto Gente, eu não aguento",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 0.9,
+      "text": "Você solta?"
+    },
+    {
+      "start": 1.08,
+      "end": 3.14,
+      "text": "Você tá maluco?"
+    },
+    {
+      "start": 11.34,
+      "end": 12.6,
+      "text": "Tô filmando já não foto"
+    },
+    {
+      "start": 12.6,
+      "end": 13.88,
+      "text": "Gente, eu não aguento"
+    }
+  ],
+  "duracao_seg": 14.11,
+  "idioma_detectado": "pt"
+}

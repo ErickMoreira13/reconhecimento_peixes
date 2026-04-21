@@ -1,0 +1,17 @@
+{
+  "texto": "Música Música",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Música"
+    },
+    {
+      "start": 0.86,
+      "end": 3.08,
+      "text": "Música"
+    }
+  ],
+  "duracao_seg": 8.77,
+  "idioma_detectado": "pt"
+}

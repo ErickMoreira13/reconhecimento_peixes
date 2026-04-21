@@ -1,0 +1,37 @@
+{
+  "texto": "Vou iscar aqui, ó, o lambari de isca, pra tentar pegar traíra aqui, ó. Ó o sistema pra não morrer, tá? Dá pra iscar aqui em cima, que é muito bom também, tá? E dá pra iscar aqui, ó, tá vendo o narizinho dele aqui, ó? Você passa bem aqui no narizinho, ó, ó, tá vendo? E ele continua vivo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "Vou iscar aqui, ó, o lambari de isca, pra tentar pegar traíra aqui, ó."
+    },
+    {
+      "start": 5.2,
+      "end": 6.8,
+      "text": "Ó o sistema pra não morrer, tá?"
+    },
+    {
+      "start": 7.62,
+      "end": 12.14,
+      "text": "Dá pra iscar aqui em cima, que é muito bom também, tá?"
+    },
+    {
+      "start": 13.08,
+      "end": 15.88,
+      "text": "E dá pra iscar aqui, ó, tá vendo o narizinho dele aqui, ó?"
+    },
+    {
+      "start": 15.92,
+      "end": 20.61,
+      "text": "Você passa bem aqui no narizinho, ó, ó, tá vendo?"
+    },
+    {
+      "start": 21.67,
+      "end": 23.17,
+      "text": "E ele continua vivo."
+    }
+  ],
+  "duracao_seg": 23.31,
+  "idioma_detectado": "pt"
+}

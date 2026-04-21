@@ -1,0 +1,42 @@
+{
+  "texto": "Não é uma beleza, hein? Matosu Oh, oh Ta ta ta Oh, oh, oh, oh, oh Tivo Tivo",
+  "segmentos": [
+    {
+      "start": 0.12,
+      "end": 1.66,
+      "text": "Não é uma beleza, hein?"
+    },
+    {
+      "start": 2.26,
+      "end": 3.68,
+      "text": "Matosu"
+    },
+    {
+      "start": 3.68,
+      "end": 4.5,
+      "text": "Oh, oh"
+    },
+    {
+      "start": 4.5,
+      "end": 5.04,
+      "text": "Ta ta ta"
+    },
+    {
+      "start": 5.04,
+      "end": 9.46,
+      "text": "Oh, oh, oh, oh, oh"
+    },
+    {
+      "start": 9.46,
+      "end": 9.8,
+      "text": "Tivo"
+    },
+    {
+      "start": 9.8,
+      "end": 10.62,
+      "text": "Tivo"
+    }
+  ],
+  "duracao_seg": 17.55,
+  "idioma_detectado": "pt"
+}

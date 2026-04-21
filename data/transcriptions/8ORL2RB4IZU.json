@@ -1,0 +1,37 @@
+{
+  "texto": "Pegou, pegou. Não é, não é. Vou tentar trazer, vou tentar trazer. Não é, é a dourada. É a dourada aqui dentro. Uh!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Pegou, pegou."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Não é, não é."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Vou tentar trazer, vou tentar trazer."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Não é, é a dourada."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "É a dourada aqui dentro."
+    },
+    {
+      "start": 8.0,
+      "end": 9.1,
+      "text": "Uh!"
+    }
+  ],
+  "duracao_seg": 9.11,
+  "idioma_detectado": "pt"
+}

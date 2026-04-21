@@ -1,0 +1,27 @@
+{
+  "texto": "Mais uma carpinha aí para nós, da pastilha de mamão papai. Você está brigando? Olha a capinha agora. Olha a capinha aí, olha.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 17.2,
+      "text": "Mais uma carpinha aí para nós, da pastilha de mamão papai."
+    },
+    {
+      "start": 17.68,
+      "end": 27.87,
+      "text": "Você está brigando?"
+    },
+    {
+      "start": 28.33,
+      "end": 35.22,
+      "text": "Olha a capinha agora."
+    },
+    {
+      "start": 35.72,
+      "end": 101.17,
+      "text": "Olha a capinha aí, olha."
+    }
+  ],
+  "duracao_seg": 106.07,
+  "idioma_detectado": "pt"
+}

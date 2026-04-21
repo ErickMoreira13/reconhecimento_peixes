@@ -1,0 +1,37 @@
+{
+  "texto": "Tá sovando? Tô Vamos saltar o jãozinho Peguei ele ano que vem de novo Saltou devagar Aê",
+  "segmentos": [
+    {
+      "start": 1.58,
+      "end": 2.38,
+      "text": "Tá sovando?"
+    },
+    {
+      "start": 2.5,
+      "end": 2.74,
+      "text": "Tô"
+    },
+    {
+      "start": 2.74,
+      "end": 4.92,
+      "text": "Vamos saltar o jãozinho"
+    },
+    {
+      "start": 4.92,
+      "end": 6.64,
+      "text": "Peguei ele ano que vem de novo"
+    },
+    {
+      "start": 6.64,
+      "end": 16.84,
+      "text": "Saltou devagar"
+    },
+    {
+      "start": 16.84,
+      "end": 20.88,
+      "text": "Aê"
+    }
+  ],
+  "duracao_seg": 22.87,
+  "idioma_detectado": "pt"
+}

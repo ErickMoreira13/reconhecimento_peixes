@@ -1,0 +1,32 @@
+{
+  "texto": "Não é uma beleza, ah? Matos... Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Não é uma beleza, ah?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.09,
+      "text": "Matos..."
+    },
+    {
+      "start": 4.09,
+      "end": 5.09,
+      "text": "Oh! Oh!"
+    },
+    {
+      "start": 5.09,
+      "end": 9.9,
+      "text": "Oh! Oh! Oh! Oh! Oh!"
+    },
+    {
+      "start": 9.9,
+      "end": 10.9,
+      "text": "Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh!"
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

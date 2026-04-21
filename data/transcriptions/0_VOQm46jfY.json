@@ -1,0 +1,62 @@
+{
+  "texto": "Caraca! Que nada aí, Gerardo! Filma, meu amor! Filma que aqui não é leve, não! Filma! A esposa é prestativa! Filma! Que aflição de correr aqui, gurizada! Caraca! Ó, ó, ó! Aqui não é leve, não! Aqui não!",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 4.35,
+      "text": "Caraca!"
+    },
+    {
+      "start": 4.35,
+      "end": 6.35,
+      "text": "Que nada aí, Gerardo!"
+    },
+    {
+      "start": 6.35,
+      "end": 9.35,
+      "text": "Filma, meu amor! Filma que aqui não é leve, não!"
+    },
+    {
+      "start": 9.35,
+      "end": 10.35,
+      "text": "Filma!"
+    },
+    {
+      "start": 10.35,
+      "end": 11.35,
+      "text": "A esposa é prestativa!"
+    },
+    {
+      "start": 11.35,
+      "end": 12.35,
+      "text": "Filma!"
+    },
+    {
+      "start": 12.35,
+      "end": 14.35,
+      "text": "Que aflição de correr aqui, gurizada!"
+    },
+    {
+      "start": 14.35,
+      "end": 15.35,
+      "text": "Caraca!"
+    },
+    {
+      "start": 15.35,
+      "end": 16.35,
+      "text": "Ó, ó, ó!"
+    },
+    {
+      "start": 16.35,
+      "end": 18.38,
+      "text": "Aqui não é leve, não!"
+    },
+    {
+      "start": 18.38,
+      "end": 22.4,
+      "text": "Aqui não!"
+    }
+  ],
+  "duracao_seg": 22.65,
+  "idioma_detectado": "pt"
+}

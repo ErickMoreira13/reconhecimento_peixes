@@ -1,0 +1,22 @@
+{
+  "texto": "E aí pessoal, será que a pescaria rendeu? E aí a pescaria zona aí, pegamos o roelão, o ponto do assado aí, graças a Deus. Eu não sei, não sei nada, tu tem?",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 4.5,
+      "text": "E aí pessoal, será que a pescaria rendeu?"
+    },
+    {
+      "start": 6.46,
+      "end": 14.05,
+      "text": "E aí a pescaria zona aí, pegamos o roelão, o ponto do assado aí, graças a Deus."
+    },
+    {
+      "start": 14.29,
+      "end": 16.3,
+      "text": "Eu não sei, não sei nada, tu tem?"
+    }
+  ],
+  "duracao_seg": 17.43,
+  "idioma_detectado": "pt"
+}

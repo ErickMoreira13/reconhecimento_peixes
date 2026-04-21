@@ -1,0 +1,77 @@
+{
+  "texto": "Rapaz, daí que vem aquele ditado, né? Quem não tem a manha não entra não. Se fosse eu indo aí pescar esses peixes aí, mas quando que eu pescava, mano? Era no máximo uma piranha, um mandio. Como é os caras, cria da região, né, mano? Olha aí, vara de pescar. Pescando cachorra, aruanã. Só peixe valorizado na aquarismo, na pesca, mano. E os caras aí, ó, enchendo a canoinha de cachorra. Olha aí, ó. Ah, não precisa... Pra tu ver, né, como é que são as coisas, mano. É isso, galera de interior é foda.",
+  "segmentos": [
+    {
+      "start": 0.66,
+      "end": 2.3,
+      "text": "Rapaz, daí que vem aquele ditado, né?"
+    },
+    {
+      "start": 2.36,
+      "end": 3.84,
+      "text": "Quem não tem a manha não entra não."
+    },
+    {
+      "start": 3.94,
+      "end": 6.4,
+      "text": "Se fosse eu indo aí pescar esses peixes aí,"
+    },
+    {
+      "start": 6.76,
+      "end": 8.2,
+      "text": "mas quando que eu pescava, mano?"
+    },
+    {
+      "start": 8.22,
+      "end": 11.28,
+      "text": "Era no máximo uma piranha, um mandio."
+    },
+    {
+      "start": 11.46,
+      "end": 13.76,
+      "text": "Como é os caras, cria da região, né, mano?"
+    },
+    {
+      "start": 13.78,
+      "end": 15.12,
+      "text": "Olha aí, vara de pescar."
+    },
+    {
+      "start": 15.72,
+      "end": 18.3,
+      "text": "Pescando cachorra, aruanã."
+    },
+    {
+      "start": 18.68,
+      "end": 24.22,
+      "text": "Só peixe valorizado na aquarismo, na pesca, mano."
+    },
+    {
+      "start": 24.26,
+      "end": 27.64,
+      "text": "E os caras aí, ó, enchendo a canoinha de cachorra."
+    },
+    {
+      "start": 28.02,
+      "end": 28.5,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 29.0,
+      "end": 29.52,
+      "text": "Ah, não precisa..."
+    },
+    {
+      "start": 29.52,
+      "end": 32.76,
+      "text": "Pra tu ver, né, como é que são as coisas, mano."
+    },
+    {
+      "start": 33.16,
+      "end": 35.3,
+      "text": "É isso, galera de interior é foda."
+    }
+  ],
+  "duracao_seg": 35.85,
+  "idioma_detectado": "pt"
+}

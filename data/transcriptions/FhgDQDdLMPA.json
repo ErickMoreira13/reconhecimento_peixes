@@ -1,0 +1,17 @@
+{
+  "texto": "Boi, boi, boi, a cara prega essa criança UUUU",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.56,
+      "text": "Boi, boi, boi, a cara prega essa criança"
+    },
+    {
+      "start": 6.56,
+      "end": 7.14,
+      "text": "UUUU"
+    }
+  ],
+  "duracao_seg": 8.37,
+  "idioma_detectado": "pt"
+}

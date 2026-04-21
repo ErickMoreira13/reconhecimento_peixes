@@ -1,0 +1,27 @@
+{
+  "texto": "A espada de Yara que me acabo de sacar aqui no Orinoco Está pequena, se me acaba de dar uma mais grande Vamos a ver, está bom, está muito activo Listo, aí nos seguimos vendo, vámonos",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "A espada de Yara que me acabo de sacar aqui no Orinoco"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Está pequena, se me acaba de dar uma mais grande"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Vamos a ver, está bom, está muito activo"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Listo, aí nos seguimos vendo, vámonos"
+    }
+  ],
+  "duracao_seg": 10.83,
+  "idioma_detectado": "pt"
+}

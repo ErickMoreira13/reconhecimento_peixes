@@ -1,0 +1,37 @@
+{
+  "texto": "olha aí ó, a primeira brancona do dia canta a linha bichona o elson não veio vai ter que ser o seu ser pra me filmar olha aí garota, uma cachorra que você queria olha aí a cabelinha aí olha aí a réplonaise aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.02,
+      "text": "olha aí ó, a primeira brancona do dia"
+    },
+    {
+      "start": 6.02,
+      "end": 12.26,
+      "text": "canta a linha bichona"
+    },
+    {
+      "start": 12.26,
+      "end": 19.61,
+      "text": "o elson não veio vai ter que ser o seu ser pra me filmar"
+    },
+    {
+      "start": 19.61,
+      "end": 28.57,
+      "text": "olha aí garota, uma cachorra que você queria"
+    },
+    {
+      "start": 28.57,
+      "end": 42.65,
+      "text": "olha aí a cabelinha aí"
+    },
+    {
+      "start": 42.65,
+      "end": 44.87,
+      "text": "olha aí a réplonaise aí"
+    }
+  ],
+  "duracao_seg": 45.43,
+  "idioma_detectado": "pt"
+}
