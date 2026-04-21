@@ -1,0 +1,17 @@
+{
+  "texto": "pra vocês aí ó a garrafa pet bem furada era um pouquinho de cada coisa que casca de batata arroz enfim eu vou jogar lá pra dentro",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 7.41,
+      "text": "pra vocês aí ó a garrafa pet bem furada era um pouquinho de cada coisa que"
+    },
+    {
+      "start": 7.41,
+      "end": 15.47,
+      "text": "casca de batata arroz enfim eu vou jogar lá pra dentro"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

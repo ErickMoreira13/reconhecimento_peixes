@@ -1,0 +1,37 @@
+{
+  "texto": "Aí meus amigos Vim aqui na cevinha agora Conferir o trato aqui O trato tá amarrado aqui, tá um meia azedo fedido Tamo cevando pra pegar uns peixinhos daqui uns dias Obrigado, a gente tamo junto",
+  "segmentos": [
+    {
+      "start": 1.46,
+      "end": 2.58,
+      "text": "Aí meus amigos"
+    },
+    {
+      "start": 2.58,
+      "end": 4.94,
+      "text": "Vim aqui na cevinha agora"
+    },
+    {
+      "start": 4.94,
+      "end": 7.28,
+      "text": "Conferir o trato aqui"
+    },
+    {
+      "start": 7.28,
+      "end": 9.66,
+      "text": "O trato tá amarrado aqui, tá um meia azedo fedido"
+    },
+    {
+      "start": 9.66,
+      "end": 12.74,
+      "text": "Tamo cevando pra pegar uns peixinhos daqui uns dias"
+    },
+    {
+      "start": 12.74,
+      "end": 14.84,
+      "text": "Obrigado, a gente tamo junto"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

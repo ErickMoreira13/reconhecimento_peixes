@@ -1,0 +1,72 @@
+{
+  "texto": "Pão sem sova e no liquidificador é muito fácil, vem aprender! Você precisa de uma xícara de água morna, uma colher de sopa de açúcar, um envelope de fermento biológico, dois ovos, um quarto de xícara de óleo e uma xícara de farinha de trigo. É só deixar batendo por mais ou menos um minutinho. Depois despeje em uma tigela e acrescente uma colher de chá de sal e duas xícaras de farinha de trigo. E misture muito bem essa massa com uma espátula. Em seguida já despeje em uma forma retangular de 22 por 10 e por 9 de altura. Ela tem que estar untada e enfarinhada. Tampe com pano e deixe crescendo por uns 40 minutos ou até atingir quase que o topo. Leve ao forno a 200 graus por mais ou menos 40 minutos. Olha como fica super fofinho esse pão. Ele é perfeito para fazer aquele sanduíche bem gostoso. Olha que delícia!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "Pão sem sova e no liquidificador é muito fácil, vem aprender!"
+    },
+    {
+      "start": 4.46,
+      "end": 10.58,
+      "text": "Você precisa de uma xícara de água morna, uma colher de sopa de açúcar, um envelope de fermento biológico,"
+    },
+    {
+      "start": 10.7,
+      "end": 15.0,
+      "text": "dois ovos, um quarto de xícara de óleo e uma xícara de farinha de trigo."
+    },
+    {
+      "start": 15.12,
+      "end": 17.54,
+      "text": "É só deixar batendo por mais ou menos um minutinho."
+    },
+    {
+      "start": 17.66,
+      "end": 23.06,
+      "text": "Depois despeje em uma tigela e acrescente uma colher de chá de sal e duas xícaras de farinha de trigo."
+    },
+    {
+      "start": 23.18,
+      "end": 25.56,
+      "text": "E misture muito bem essa massa com uma espátula."
+    },
+    {
+      "start": 25.56,
+      "end": 30.94,
+      "text": "Em seguida já despeje em uma forma retangular de 22 por 10 e por 9 de altura."
+    },
+    {
+      "start": 31.12,
+      "end": 33.06,
+      "text": "Ela tem que estar untada e enfarinhada."
+    },
+    {
+      "start": 33.2,
+      "end": 37.48,
+      "text": "Tampe com pano e deixe crescendo por uns 40 minutos ou até atingir quase que o topo."
+    },
+    {
+      "start": 37.58,
+      "end": 41.26,
+      "text": "Leve ao forno a 200 graus por mais ou menos 40 minutos."
+    },
+    {
+      "start": 41.58,
+      "end": 43.32,
+      "text": "Olha como fica super fofinho esse pão."
+    },
+    {
+      "start": 43.48,
+      "end": 46.08,
+      "text": "Ele é perfeito para fazer aquele sanduíche bem gostoso."
+    },
+    {
+      "start": 46.42,
+      "end": 47.18,
+      "text": "Olha que delícia!"
+    }
+  ],
+  "duracao_seg": 47.49,
+  "idioma_detectado": "pt"
+}

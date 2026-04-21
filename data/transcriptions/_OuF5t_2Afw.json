@@ -1,0 +1,77 @@
+{
+  "texto": "Ó gente, eu vou dar uma dica aqui Pra quem me pergunta como é que eu engordo Um porco pra ele ficar bem gordo Eu capo no final de semana Boto os dois juntos Capo todo dia no dia só Boto os dois juntos Num chiqueiro pequeno E boto o milho de moio E deixa eles comerem aí Aí gente, eles engordam Fica bonito esse ateu Os dois comendo junto aí Fica bonito",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.13,
+      "text": "Ó gente, eu vou dar uma dica aqui"
+    },
+    {
+      "start": 2.13,
+      "end": 4.39,
+      "text": "Pra quem me pergunta como é que eu engordo"
+    },
+    {
+      "start": 4.39,
+      "end": 6.13,
+      "text": "Um porco pra ele ficar bem gordo"
+    },
+    {
+      "start": 6.13,
+      "end": 7.63,
+      "text": "Eu capo no final de semana"
+    },
+    {
+      "start": 7.63,
+      "end": 10.16,
+      "text": "Boto os dois juntos"
+    },
+    {
+      "start": 10.16,
+      "end": 11.62,
+      "text": "Capo todo dia no dia só"
+    },
+    {
+      "start": 11.62,
+      "end": 12.56,
+      "text": "Boto os dois juntos"
+    },
+    {
+      "start": 12.56,
+      "end": 13.88,
+      "text": "Num chiqueiro pequeno"
+    },
+    {
+      "start": 13.88,
+      "end": 15.52,
+      "text": "E boto o milho de moio"
+    },
+    {
+      "start": 15.52,
+      "end": 16.98,
+      "text": "E deixa eles comerem aí"
+    },
+    {
+      "start": 16.98,
+      "end": 19.44,
+      "text": "Aí gente, eles engordam"
+    },
+    {
+      "start": 19.44,
+      "end": 20.44,
+      "text": "Fica bonito esse ateu"
+    },
+    {
+      "start": 20.44,
+      "end": 21.82,
+      "text": "Os dois comendo junto aí"
+    },
+    {
+      "start": 21.82,
+      "end": 22.72,
+      "text": "Fica bonito"
+    }
+  ],
+  "duracao_seg": 23.19,
+  "idioma_detectado": "pt"
+}

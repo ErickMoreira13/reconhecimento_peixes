@@ -1,0 +1,17 @@
+{
+  "texto": "Água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 3.84,
+      "text": "Água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 3.84,
+      "end": 8.54,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    }
+  ],
+  "duracao_seg": 8.67,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,82 @@
+{
+  "texto": "Pessoal, como servo, as bolas estão aí. Só esperando dar uma secada para ir jogando. Já joguei umas quatro. Para curimba, farelo, terra. Vamos usando aqui a ração de coelho e quirela. Junto com o canhão aqui. Eu coloquei terra também, por conta das curimbas. Vamos fechar aqui e soltar o canhão. Ele tem uma mola ali embaixo. Solta ali, chacoalha. O trato corre lá por baixo. Dá umas puxadas aqui. Ele solta o trato por baixo. Deixa correr e conforme vai passando aqui eu vou abrindo. E segue o jogo.",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 3.6,
+      "text": "Pessoal, como servo, as bolas estão aí."
+    },
+    {
+      "start": 4.06,
+      "end": 5.96,
+      "text": "Só esperando dar uma secada para ir jogando."
+    },
+    {
+      "start": 6.04,
+      "end": 7.04,
+      "text": "Já joguei umas quatro."
+    },
+    {
+      "start": 8.92,
+      "end": 12.8,
+      "text": "Para curimba, farelo, terra."
+    },
+    {
+      "start": 13.6,
+      "end": 16.48,
+      "text": "Vamos usando aqui a ração de coelho e quirela."
+    },
+    {
+      "start": 17.34,
+      "end": 19.32,
+      "text": "Junto com o canhão aqui."
+    },
+    {
+      "start": 19.86,
+      "end": 22.98,
+      "text": "Eu coloquei terra também, por conta das curimbas."
+    },
+    {
+      "start": 23.84,
+      "end": 29.36,
+      "text": "Vamos fechar aqui e soltar o canhão."
+    },
+    {
+      "start": 29.36,
+      "end": 31.44,
+      "text": "Ele tem uma mola ali embaixo."
+    },
+    {
+      "start": 31.44,
+      "end": 34.18,
+      "text": "Solta ali, chacoalha."
+    },
+    {
+      "start": 34.48,
+      "end": 35.86,
+      "text": "O trato corre lá por baixo."
+    },
+    {
+      "start": 36.62,
+      "end": 37.7,
+      "text": "Dá umas puxadas aqui."
+    },
+    {
+      "start": 38.18,
+      "end": 39.96,
+      "text": "Ele solta o trato por baixo."
+    },
+    {
+      "start": 40.94,
+      "end": 44.06,
+      "text": "Deixa correr e conforme vai passando aqui eu vou abrindo."
+    },
+    {
+      "start": 45.28,
+      "end": 46.14,
+      "text": "E segue o jogo."
+    }
+  ],
+  "duracao_seg": 46.71,
+  "idioma_detectado": "pt"
+}

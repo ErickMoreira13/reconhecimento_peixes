@@ -1,0 +1,22 @@
+{
+  "texto": "como é que serva Marquinhos tá ruim chama os peixes vem fala vem como é que chama os peixes vem serva com força Marquinhos sem dó é não tá com tudo também não aí tá bom já rapaz de céu é minha vara pegar essa bexiga aqui tá aqui pronto servado agora é só encostar",
+  "segmentos": [
+    {
+      "start": 1.87,
+      "end": 17.93,
+      "text": "como é que serva Marquinhos tá ruim chama os peixes vem fala vem como é que chama os peixes vem"
+    },
+    {
+      "start": 17.93,
+      "end": 35.95,
+      "text": "serva com força Marquinhos sem dó é não tá com tudo também não aí tá bom já rapaz de céu é minha"
+    },
+    {
+      "start": 35.95,
+      "end": 57.41,
+      "text": "vara pegar essa bexiga aqui tá aqui pronto servado agora é só encostar"
+    }
+  ],
+  "duracao_seg": 59.97,
+  "idioma_detectado": "pt"
+}

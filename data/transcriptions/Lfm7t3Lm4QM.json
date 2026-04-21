@@ -1,0 +1,52 @@
+{
+  "texto": "Fala meus amigos, bom demais? Hoje eu vou estar ensinando para vocês o sistema que eu uso para pescaria na técnica da boia, para traíra, tambaqui e outros peixes, beleza galera? Aqui já está montado, eu montei para adiantar, tá? Um cabo de aço com anzol amarrado na linha. A linha galera, essa linha eu gosto de usar ela sempre 0,80 a 0,100, por quê? Porque se a linha for mais fina, se você pegar um peixe de arrancada, tipo um tambaqui, se bater em alguma estrutura, ele vai estourar muito fácil. Já está tudo montado, vamos amarrar no litro agora galera. O nó que eu gosto de fazer é assim, você tem que segurar aqui turma, para não deixar a linha rodar, passa uma, passa duas, passa três, entra aqui por baixo e sai aqui por cima turma, esse é o nó que eu gosto de fazer. Segura no dente e só puxa, está amarrado, nada arranca...",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 5.83,
+      "text": "Fala meus amigos, bom demais? Hoje eu vou estar ensinando para vocês o sistema que eu uso para"
+    },
+    {
+      "start": 5.83,
+      "end": 12.35,
+      "text": "pescaria na técnica da boia, para traíra, tambaqui e outros peixes, beleza galera? Aqui já está"
+    },
+    {
+      "start": 12.35,
+      "end": 19.67,
+      "text": "montado, eu montei para adiantar, tá? Um cabo de aço com anzol amarrado na linha. A linha galera,"
+    },
+    {
+      "start": 19.67,
+      "end": 26.03,
+      "text": "essa linha eu gosto de usar ela sempre 0,80 a 0,100, por quê? Porque se a linha for mais fina,"
+    },
+    {
+      "start": 26.03,
+      "end": 32.03,
+      "text": "se você pegar um peixe de arrancada, tipo um tambaqui, se bater em alguma estrutura, ele vai estourar"
+    },
+    {
+      "start": 32.03,
+      "end": 37.79,
+      "text": "muito fácil. Já está tudo montado, vamos amarrar no litro agora galera. O nó que eu gosto de fazer é assim,"
+    },
+    {
+      "start": 37.79,
+      "end": 44.54,
+      "text": "você tem que segurar aqui turma, para não deixar a linha rodar, passa uma, passa duas, passa três,"
+    },
+    {
+      "start": 44.54,
+      "end": 56.24,
+      "text": "entra aqui por baixo e sai aqui por cima turma, esse é o nó que eu gosto de fazer. Segura no dente e só puxa,"
+    },
+    {
+      "start": 56.24,
+      "end": 60.12,
+      "text": "está amarrado, nada arranca..."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

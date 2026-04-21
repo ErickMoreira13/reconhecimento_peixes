@@ -1,0 +1,42 @@
+{
+  "texto": "Tá filmando? Lá no patrocinizado, ó. Lá na casa dos porcos lá, ó. Matou. Será que pegou? Pegou. Foi muito longe.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 1.14,
+      "text": "Tá filmando?"
+    },
+    {
+      "start": 1.14,
+      "end": 2.14,
+      "text": "Lá no patrocinizado, ó."
+    },
+    {
+      "start": 2.14,
+      "end": 5.3,
+      "text": "Lá na casa dos porcos lá, ó."
+    },
+    {
+      "start": 13.19,
+      "end": 16.69,
+      "text": "Matou."
+    },
+    {
+      "start": 16.69,
+      "end": 17.69,
+      "text": "Será que pegou?"
+    },
+    {
+      "start": 17.69,
+      "end": 18.69,
+      "text": "Pegou."
+    },
+    {
+      "start": 18.69,
+      "end": 19.69,
+      "text": "Foi muito longe."
+    }
+  ],
+  "duracao_seg": 20.85,
+  "idioma_detectado": "pt"
+}

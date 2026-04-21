@@ -1,0 +1,17 @@
+{
+  "texto": "O meu combustível pra contigo Jesus é a tua",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 6.82,
+      "text": "O meu combustível pra contigo"
+    },
+    {
+      "start": 6.82,
+      "end": 11.58,
+      "text": "Jesus é a tua"
+    }
+  ],
+  "duracao_seg": 14.93,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,62 @@
+{
+  "texto": "Hoje eu vou fazer pimenta em conserva. Eu comprei uma bandejinha pra usar apenas uma e não sabia o que fazer com o restante. Aí me deram a ideia de fazer essa receitinha. Eu cortei assim em rodelinhas, sem tirar o caroço. Coloquei num pote de preferência de vidro, cobri com água quente e tampei com plástico filme. Deixo por 30 minutos, retiro o plástico e deixo escorrendo por mais 30 minutos. Depois que escorrer bem, eu vou colocar ela nesse pote de vidro que já está esterilizado. Pra esterilizar é só ferver por 15 minutinhos. Adiciono uma colher de chá de sal e uma colher de sopa de vinagre e completo o restante com azeite. É importante que o azeite cubra ela por completo pra não correr o risco de estragar a sua pimenta. Agora eu selo o pote e só vou consumir depois de 3 dias.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Hoje eu vou fazer pimenta em conserva."
+    },
+    {
+      "start": 2.34,
+      "end": 6.6,
+      "text": "Eu comprei uma bandejinha pra usar apenas uma e não sabia o que fazer com o restante."
+    },
+    {
+      "start": 6.84,
+      "end": 9.22,
+      "text": "Aí me deram a ideia de fazer essa receitinha."
+    },
+    {
+      "start": 9.52,
+      "end": 13.08,
+      "text": "Eu cortei assim em rodelinhas, sem tirar o caroço."
+    },
+    {
+      "start": 13.54,
+      "end": 19.26,
+      "text": "Coloquei num pote de preferência de vidro, cobri com água quente e tampei com plástico filme."
+    },
+    {
+      "start": 19.84,
+      "end": 24.66,
+      "text": "Deixo por 30 minutos, retiro o plástico e deixo escorrendo por mais 30 minutos."
+    },
+    {
+      "start": 24.66,
+      "end": 29.5,
+      "text": "Depois que escorrer bem, eu vou colocar ela nesse pote de vidro que já está esterilizado."
+    },
+    {
+      "start": 29.5,
+      "end": 32.56,
+      "text": "Pra esterilizar é só ferver por 15 minutinhos."
+    },
+    {
+      "start": 33.86,
+      "end": 41.08,
+      "text": "Adiciono uma colher de chá de sal e uma colher de sopa de vinagre e completo o restante com azeite."
+    },
+    {
+      "start": 41.82,
+      "end": 47.32,
+      "text": "É importante que o azeite cubra ela por completo pra não correr o risco de estragar a sua pimenta."
+    },
+    {
+      "start": 47.7,
+      "end": 52.6,
+      "text": "Agora eu selo o pote e só vou consumir depois de 3 dias."
+    }
+  ],
+  "duracao_seg": 54.63,
+  "idioma_detectado": "pt"
+}

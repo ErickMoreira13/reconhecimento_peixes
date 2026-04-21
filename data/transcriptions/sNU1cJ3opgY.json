@@ -1,0 +1,237 @@
+{
+  "texto": "Aí como fazer o milho a zero, tá? Aproximadamente um quilo e pouco de milho, ó. Tá aqui aproximadamente um quilo. A água que eu vou usar, tá? É a água da chuva, viu pessoal? A água de torneira não serve, tá? Ou a água do filtro você pode usar, tá? Ou do lago onde você pesca aí, tá? Aí você coloca mais ou menos isso aqui, ó. É uns dois dedos acima, tá? Aí você vai deixar ela aqui assim, ok? Aí você vai fazer o quê? Aí você vai levar ela pro fogo, tá? Aí você vai colocar no fogão aqui, ó. Aí você vai esperar ela dar uma fervida, ok? Espera ela ferver um pouco, tá? Aí você vai tampar ela. Aí você vai deixar uns 20 minutinhos, tá? Aí depois espera ela dar uma esfriada, tá? Aí você abre e olha pra ver que jeito que tá um milho, ok? Aí pessoal, ó. Deixei ele cozinhando uns 40 minutos, tá? Com uns 40 minutos aí, ó. Tá? Aí eu abri ele, deixei ele esfriar um pouco, ó. Eu gosto dele mais molinho assim, tá? E mais borrachudo, tá? Aqui no caso aqui, ó. Aí você vai completar ele um pouquinho de água, tá? Aí você vai dar uma mexida nele aqui. E do jeito que ele tá aqui, tá? Aí você vai... Você põe a tampa na panela, tá? Aí você deixa ele esfriar, ok? Aí, mais ou menos umas 24 horas você deixa ele esfriando, tá? Aí você vai despejar ele num balde, ok? Aí você pega, ó, um copo de leite americano, ok? Aí você vai colocar nele. Aí você vai mexer, você vai escolher um lugarzinho pra você guardar esse balde lá, tá? Aí você vai deixar ele, ok? Aí uns 10 dias depois, ele vai tá bom pra você pescar, ok? Mas quiser usar ele antes, tá? Você pode usar, tá? Eu gosto de deixar ele no mínimo uns 10 dias azedando, ok, pessoal? Espero que dê certo esse milho aí nas pescarias de vocês, tá? Um abraço a todos.",
+  "segmentos": [
+    {
+      "start": 3.38,
+      "end": 5.82,
+      "text": "Aí como fazer o milho a zero, tá?"
+    },
+    {
+      "start": 6.84,
+      "end": 8.88,
+      "text": "Aproximadamente um quilo e pouco de milho, ó."
+    },
+    {
+      "start": 17.48,
+      "end": 20.12,
+      "text": "Tá aqui aproximadamente um quilo."
+    },
+    {
+      "start": 20.56,
+      "end": 22.7,
+      "text": "A água que eu vou usar, tá?"
+    },
+    {
+      "start": 23.28,
+      "end": 27.2,
+      "text": "É a água da chuva, viu pessoal?"
+    },
+    {
+      "start": 29.33,
+      "end": 31.81,
+      "text": "A água de torneira não serve, tá?"
+    },
+    {
+      "start": 32.29,
+      "end": 34.43,
+      "text": "Ou a água do filtro você pode usar, tá?"
+    },
+    {
+      "start": 34.93,
+      "end": 40.46,
+      "text": "Ou do lago onde você pesca aí, tá?"
+    },
+    {
+      "start": 40.7,
+      "end": 42.24,
+      "text": "Aí você coloca mais ou menos isso aqui, ó."
+    },
+    {
+      "start": 42.84,
+      "end": 45.08,
+      "text": "É uns dois dedos acima, tá?"
+    },
+    {
+      "start": 45.08,
+      "end": 48.24,
+      "text": "Aí você vai deixar ela aqui assim, ok?"
+    },
+    {
+      "start": 48.88,
+      "end": 52.24,
+      "text": "Aí você vai fazer o quê?"
+    },
+    {
+      "start": 52.58,
+      "end": 54.66,
+      "text": "Aí você vai levar ela pro fogo, tá?"
+    },
+    {
+      "start": 54.9,
+      "end": 56.48,
+      "text": "Aí você vai colocar no fogão aqui, ó."
+    },
+    {
+      "start": 58.3,
+      "end": 69.55,
+      "text": "Aí você vai esperar ela dar uma fervida, ok?"
+    },
+    {
+      "start": 70.03,
+      "end": 72.43,
+      "text": "Espera ela ferver um pouco, tá?"
+    },
+    {
+      "start": 72.91,
+      "end": 74.23,
+      "text": "Aí você vai tampar ela."
+    },
+    {
+      "start": 74.95,
+      "end": 80.68,
+      "text": "Aí você vai deixar uns 20 minutinhos, tá?"
+    },
+    {
+      "start": 81.16,
+      "end": 85.57,
+      "text": "Aí depois espera ela dar uma esfriada, tá?"
+    },
+    {
+      "start": 85.57,
+      "end": 89.77,
+      "text": "Aí você abre e olha pra ver que jeito que tá um milho, ok?"
+    },
+    {
+      "start": 90.41,
+      "end": 94.18,
+      "text": "Aí pessoal, ó."
+    },
+    {
+      "start": 95.97,
+      "end": 102.57,
+      "text": "Deixei ele cozinhando uns 40 minutos, tá?"
+    },
+    {
+      "start": 103.11,
+      "end": 105.01,
+      "text": "Com uns 40 minutos aí, ó."
+    },
+    {
+      "start": 105.19,
+      "end": 105.37,
+      "text": "Tá?"
+    },
+    {
+      "start": 106.21,
+      "end": 108.37,
+      "text": "Aí eu abri ele, deixei ele esfriar um pouco, ó."
+    },
+    {
+      "start": 108.37,
+      "end": 111.49,
+      "text": "Eu gosto dele mais molinho assim, tá?"
+    },
+    {
+      "start": 113.06,
+      "end": 115.08,
+      "text": "E mais borrachudo, tá?"
+    },
+    {
+      "start": 115.66,
+      "end": 117.0,
+      "text": "Aqui no caso aqui, ó."
+    },
+    {
+      "start": 118.87,
+      "end": 121.81,
+      "text": "Aí você vai completar ele um pouquinho de água, tá?"
+    },
+    {
+      "start": 122.59,
+      "end": 124.37,
+      "text": "Aí você vai dar uma mexida nele aqui."
+    },
+    {
+      "start": 126.16,
+      "end": 127.92,
+      "text": "E do jeito que ele tá aqui, tá?"
+    },
+    {
+      "start": 128.26,
+      "end": 129.22,
+      "text": "Aí você vai..."
+    },
+    {
+      "start": 129.22,
+      "end": 133.75,
+      "text": "Você põe a tampa na panela, tá?"
+    },
+    {
+      "start": 134.91,
+      "end": 137.11,
+      "text": "Aí você deixa ele esfriar, ok?"
+    },
+    {
+      "start": 137.11,
+      "end": 143.03,
+      "text": "Aí, mais ou menos umas 24 horas você deixa ele esfriando, tá?"
+    },
+    {
+      "start": 144.18,
+      "end": 147.19,
+      "text": "Aí você vai despejar ele num balde, ok?"
+    },
+    {
+      "start": 147.57,
+      "end": 152.66,
+      "text": "Aí você pega, ó, um copo de leite americano, ok?"
+    },
+    {
+      "start": 153.16,
+      "end": 154.48,
+      "text": "Aí você vai colocar nele."
+    },
+    {
+      "start": 154.58,
+      "end": 159.14,
+      "text": "Aí você vai mexer, você vai escolher um lugarzinho pra você guardar esse balde lá, tá?"
+    },
+    {
+      "start": 159.48,
+      "end": 161.75,
+      "text": "Aí você vai deixar ele, ok?"
+    },
+    {
+      "start": 163.07,
+      "end": 170.47,
+      "text": "Aí uns 10 dias depois, ele vai tá bom pra você pescar, ok?"
+    },
+    {
+      "start": 170.47,
+      "end": 172.51,
+      "text": "Mas quiser usar ele antes, tá?"
+    },
+    {
+      "start": 173.21,
+      "end": 174.99,
+      "text": "Você pode usar, tá?"
+    },
+    {
+      "start": 175.25,
+      "end": 182.24,
+      "text": "Eu gosto de deixar ele no mínimo uns 10 dias azedando, ok, pessoal?"
+    },
+    {
+      "start": 184.13,
+      "end": 187.95,
+      "text": "Espero que dê certo esse milho aí nas pescarias de vocês, tá?"
+    },
+    {
+      "start": 188.51,
+      "end": 189.55,
+      "text": "Um abraço a todos."
+    }
+  ],
+  "duracao_seg": 195.27,
+  "idioma_detectado": "pt"
+}

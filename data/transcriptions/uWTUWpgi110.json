@@ -1,0 +1,27 @@
+{
+  "texto": "Aí, pessoal, ó, ração de coelho, ó, fazer a sembra aqui, ó, jogar aqui pra fazer a sembinha aqui, ó. E dar mais um pouquinho, ó. Vou mostrar pra vocês, ó. Que maravilha, pessoal!",
+  "segmentos": [
+    {
+      "start": 1.17,
+      "end": 6.77,
+      "text": "Aí, pessoal, ó, ração de coelho, ó, fazer a sembra aqui, ó, jogar aqui pra fazer a sembinha aqui, ó."
+    },
+    {
+      "start": 12.12,
+      "end": 13.48,
+      "text": "E dar mais um pouquinho, ó."
+    },
+    {
+      "start": 15.08,
+      "end": 16.42,
+      "text": "Vou mostrar pra vocês, ó."
+    },
+    {
+      "start": 21.18,
+      "end": 22.94,
+      "text": "Que maravilha, pessoal!"
+    }
+  ],
+  "duracao_seg": 24.45,
+  "idioma_detectado": "pt"
+}

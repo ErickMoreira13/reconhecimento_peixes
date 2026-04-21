@@ -1,0 +1,77 @@
+{
+  "texto": "Pessoal, se liga só, dica de milhões aqui pra vocês, tá? Comprei uma boia. Ah, teve algum momento que você já perdeu boia no ar? Você sabe por quê? Você abriu a boia e perdeu ela? Não sabe por quê? Eu vou te explicar o porquê. Se liga só. Qualquer boia, tá pessoal? Qualquer boia que você comprar no mercado, você vai fazer isso aqui. Você vai abrir sua boia. Abriu a boia aqui, ó. Se liga só, hein? Ó, certo? Tá aqui sua boia. Tá vendo essas duas cordinhas? O que você vai fazer? É, exatamente. Você vai dar um nó cego nessa linha aqui, tá? Ó, pega aqui, ó. Dá um e aqui você dá dois, certo? Ó, chique. Agora você não vai mais perder boia no arremesso. Porque às vezes, pessoal, isso aqui tá frouxo, tá? Então, o que acontece? Se você não der um nó, você vai perder a boia. Gostou? Deixa seu like aí pra gente. E, galera, segue nós aí também, né?",
+  "segmentos": [
+    {
+      "start": 1.11,
+      "end": 3.93,
+      "text": "Pessoal, se liga só, dica de milhões aqui pra vocês, tá?"
+    },
+    {
+      "start": 4.81,
+      "end": 9.05,
+      "text": "Comprei uma boia. Ah, teve algum momento que você já perdeu boia no ar?"
+    },
+    {
+      "start": 9.27,
+      "end": 12.71,
+      "text": "Você sabe por quê? Você abriu a boia e perdeu ela? Não sabe por quê?"
+    },
+    {
+      "start": 13.07,
+      "end": 14.83,
+      "text": "Eu vou te explicar o porquê. Se liga só."
+    },
+    {
+      "start": 15.43,
+      "end": 19.31,
+      "text": "Qualquer boia, tá pessoal? Qualquer boia que você comprar no mercado, você vai fazer isso aqui."
+    },
+    {
+      "start": 19.39,
+      "end": 23.54,
+      "text": "Você vai abrir sua boia. Abriu a boia aqui, ó. Se liga só, hein?"
+    },
+    {
+      "start": 24.26,
+      "end": 27.92,
+      "text": "Ó, certo? Tá aqui sua boia. Tá vendo essas duas cordinhas?"
+    },
+    {
+      "start": 27.92,
+      "end": 34.82,
+      "text": "O que você vai fazer? É, exatamente. Você vai dar um nó cego nessa linha aqui, tá?"
+    },
+    {
+      "start": 35.36,
+      "end": 40.26,
+      "text": "Ó, pega aqui, ó. Dá um e aqui você dá dois, certo?"
+    },
+    {
+      "start": 41.16,
+      "end": 46.64,
+      "text": "Ó, chique. Agora você não vai mais perder boia no arremesso."
+    },
+    {
+      "start": 47.08,
+      "end": 49.58,
+      "text": "Porque às vezes, pessoal, isso aqui tá frouxo, tá?"
+    },
+    {
+      "start": 49.98,
+      "end": 53.82,
+      "text": "Então, o que acontece? Se você não der um nó, você vai perder a boia."
+    },
+    {
+      "start": 53.98,
+      "end": 56.0,
+      "text": "Gostou? Deixa seu like aí pra gente."
+    },
+    {
+      "start": 56.0,
+      "end": 58.3,
+      "text": "E, galera, segue nós aí também, né?"
+    }
+  ],
+  "duracao_seg": 59.01,
+  "idioma_detectado": "pt"
+}

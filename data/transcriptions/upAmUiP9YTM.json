@@ -1,0 +1,67 @@
+{
+  "texto": "O peixe aí é grande, hein, gente? Cê tá doido? Cê é o tambaquinho, peixe tá ativo lá da região do Amazonas E o cara chegou ali no espinhão Achou um tuleto do molecão Tem que ser um caceto pra anestesiar o bicho Porque senão, toma da mão do cara e vai embora E mesmo assim ainda, o que tava lá atrás remando facilitou um pouquinho Deu a cacetada, anestesia O bicho mergulhou ainda, que o bicho é forte, resistente, hein? Que bicho bonito, gente Ô, pescaria bruta essa!",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 36.43,
+      "text": "O peixe aí é grande, hein, gente?"
+    },
+    {
+      "start": 36.51,
+      "end": 36.93,
+      "text": "Cê tá doido?"
+    },
+    {
+      "start": 37.19,
+      "end": 40.15,
+      "text": "Cê é o tambaquinho, peixe tá ativo lá da região do Amazonas"
+    },
+    {
+      "start": 40.15,
+      "end": 42.87,
+      "text": "E o cara chegou ali no espinhão"
+    },
+    {
+      "start": 42.87,
+      "end": 44.87,
+      "text": "Achou um tuleto do molecão"
+    },
+    {
+      "start": 44.87,
+      "end": 46.81,
+      "text": "Tem que ser um caceto pra anestesiar o bicho"
+    },
+    {
+      "start": 46.81,
+      "end": 48.97,
+      "text": "Porque senão, toma da mão do cara e vai embora"
+    },
+    {
+      "start": 48.97,
+      "end": 52.53,
+      "text": "E mesmo assim ainda, o que tava lá atrás remando facilitou um pouquinho"
+    },
+    {
+      "start": 52.53,
+      "end": 54.13,
+      "text": "Deu a cacetada, anestesia"
+    },
+    {
+      "start": 54.13,
+      "end": 56.53,
+      "text": "O bicho mergulhou ainda, que o bicho é forte, resistente, hein?"
+    },
+    {
+      "start": 56.69,
+      "end": 57.61,
+      "text": "Que bicho bonito, gente"
+    },
+    {
+      "start": 57.61,
+      "end": 59.35,
+      "text": "Ô, pescaria bruta essa!"
+    }
+  ],
+  "duracao_seg": 59.43,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Oi gente agora já tá feito o buraco eu vou colocar aqui agora a peça frica a lixadeira né e se não com a mão ali não dá tá se tivesse pode esquentar tá vendo agora vou deixar os rebarbinho certo lá eu vou tirar aqueles barbinho para ficar lisinho mais uma lixadinha ali pronto tá E aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.24,
+      "text": "Oi gente agora já tá feito o buraco eu vou colocar aqui agora a peça frica a lixadeira né"
+    },
+    {
+      "start": 7.24,
+      "end": 16.03,
+      "text": "e se não com a mão ali não dá tá se tivesse pode esquentar tá vendo agora vou deixar os"
+    },
+    {
+      "start": 16.03,
+      "end": 22.76,
+      "text": "rebarbinho certo lá eu vou tirar aqueles barbinho para ficar lisinho mais uma lixadinha ali pronto tá"
+    },
+    {
+      "start": 22.76,
+      "end": 28.64,
+      "text": "E aí"
+    }
+  ],
+  "duracao_seg": 23.43,
+  "idioma_detectado": "pt"
+}

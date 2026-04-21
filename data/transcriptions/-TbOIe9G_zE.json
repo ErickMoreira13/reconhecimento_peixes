@@ -1,0 +1,17 @@
+{
+  "texto": "Galera, vou ensinar a fazer uma boia com chumbo, com peso. As ferramentas que a gente vai usar aqui é o ferro de solda, um alicate de bico, um alicate de corte.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 7.44,
+      "text": "Galera, vou ensinar a fazer uma boia com chumbo, com peso."
+    },
+    {
+      "start": 9.81,
+      "end": 14.99,
+      "text": "As ferramentas que a gente vai usar aqui é o ferro de solda, um alicate de bico, um alicate de corte."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

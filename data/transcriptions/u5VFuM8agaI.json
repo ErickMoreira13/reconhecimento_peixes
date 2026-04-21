@@ -1,0 +1,37 @@
+{
+  "texto": "Coloquei a lunetinha, galera. Tá regulada. Efeito eu, primeiro disparo. Tinha aí, galera. Acabou no pé de um tiro, não. Show de bola.",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 2.35,
+      "text": "Coloquei a lunetinha, galera."
+    },
+    {
+      "start": 2.97,
+      "end": 3.67,
+      "text": "Tá regulada."
+    },
+    {
+      "start": 4.82,
+      "end": 6.34,
+      "text": "Efeito eu, primeiro disparo."
+    },
+    {
+      "start": 6.64,
+      "end": 7.06,
+      "text": "Tinha aí, galera."
+    },
+    {
+      "start": 8.53,
+      "end": 9.55,
+      "text": "Acabou no pé de um tiro, não."
+    },
+    {
+      "start": 9.99,
+      "end": 10.55,
+      "text": "Show de bola."
+    }
+  ],
+  "duracao_seg": 12.05,
+  "idioma_detectado": "pt"
+}
