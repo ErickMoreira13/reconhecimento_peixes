@@ -1,0 +1,17 @@
+{
+  "texto": "é isso ó pedacinho opa galera opa esse é gigante ele é bem maior você vai ver piauzão bonito ainda pegou pegou ao garoto",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.63,
+      "text": "é isso ó pedacinho opa galera opa esse é gigante ele é bem maior"
+    },
+    {
+      "start": 9.63,
+      "end": 25.25,
+      "text": "você vai ver piauzão bonito ainda pegou pegou ao garoto"
+    }
+  ],
+  "duracao_seg": 32.89,
+  "idioma_detectado": "pt"
+}

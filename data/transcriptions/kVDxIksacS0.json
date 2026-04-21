@@ -1,0 +1,22 @@
+{
+  "texto": "a facilidade em pegar o peixe olha esse líquido vermelho sendo colocado na mão agora vai colocar sobre a água e observa a quantidade de peixe que vem ó viu você conhece sabe que líquido é esse como é que pega o peixe olha",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 7.33,
+      "text": "a facilidade em pegar o peixe olha esse líquido vermelho sendo colocado na mão agora vai colocar"
+    },
+    {
+      "start": 7.33,
+      "end": 14.71,
+      "text": "sobre a água e observa a quantidade de peixe que vem ó viu você conhece sabe que líquido é esse"
+    },
+    {
+      "start": 14.71,
+      "end": 17.71,
+      "text": "como é que pega o peixe olha"
+    }
+  ],
+  "duracao_seg": 16.27,
+  "idioma_detectado": "pt"
+}

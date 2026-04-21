@@ -1,0 +1,47 @@
+{
+  "texto": "Já vi Piau 3 Pinta Grande Mas igual esse aqui Olha o tamanho E tá sem um rabo que a cachorra veio dando no meio dele Olha o sangue descendo Rapaz do céu Esse vale um like Com certeza",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 2.65,
+      "text": "Já vi Piau 3 Pinta Grande"
+    },
+    {
+      "start": 2.65,
+      "end": 5.36,
+      "text": "Mas igual esse aqui"
+    },
+    {
+      "start": 5.36,
+      "end": 7.75,
+      "text": "Olha o tamanho"
+    },
+    {
+      "start": 7.75,
+      "end": 11.17,
+      "text": "E tá sem um rabo que a cachorra veio dando no meio dele"
+    },
+    {
+      "start": 11.17,
+      "end": 12.11,
+      "text": "Olha o sangue descendo"
+    },
+    {
+      "start": 12.11,
+      "end": 14.88,
+      "text": "Rapaz do céu"
+    },
+    {
+      "start": 14.88,
+      "end": 17.36,
+      "text": "Esse vale um like"
+    },
+    {
+      "start": 17.36,
+      "end": 18.68,
+      "text": "Com certeza"
+    }
+  ],
+  "duracao_seg": 19.55,
+  "idioma_detectado": "pt"
+}

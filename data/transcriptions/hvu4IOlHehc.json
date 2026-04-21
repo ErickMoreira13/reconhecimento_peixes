@@ -1,0 +1,17 @@
+{
+  "texto": "So, do you know anything about techno? No, listen.",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 5.67,
+      "text": "So, do you know anything about techno?"
+    },
+    {
+      "start": 6.75,
+      "end": 8.47,
+      "text": "No, listen."
+    }
+  ],
+  "duracao_seg": 9.31,
+  "idioma_detectado": "pt"
+}

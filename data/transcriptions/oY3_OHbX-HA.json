@@ -1,0 +1,22 @@
+{
+  "texto": "ele foi tentar armar o arpão pela primeira vez e disse que por fazer academia seria tarefa fácil mas não demorou muito e logo começou a se estribuchar após fracassar ele disse que é impossível alguém conseguir então um senhor de cabeça branca com problemas no tendão do braço disse que queria tentar",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.12,
+      "text": "ele foi tentar armar o arpão pela primeira vez e disse que por fazer academia seria tarefa fácil"
+    },
+    {
+      "start": 6.12,
+      "end": 32.07,
+      "text": "mas não demorou muito e logo começou a se estribuchar após fracassar ele disse que é"
+    },
+    {
+      "start": 32.07,
+      "end": 38.91,
+      "text": "impossível alguém conseguir então um senhor de cabeça branca com problemas no tendão do braço disse que queria tentar"
+    }
+  ],
+  "duracao_seg": 39.15,
+  "idioma_detectado": "pt"
+}

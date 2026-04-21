@@ -1,0 +1,172 @@
+{
+  "texto": "Muita gente pergunta aí o que é que eu uso pra tratar das minhocas Hoje eu tô trocando a terra aqui, ó Pegando um pouco de terra nova ali Colocando aqui E aqui estão elas, já lavei elas E eu coloco isso aqui, rapaziada, ó Papelão, esse negócio de cartela de ovo Dá uma umedecida nele, ó E joga aqui dentro, uns pedacinhos pequenos E casca de ovo também Você pode tá jogando aí alface, batata Só não pode jogar nada que contenha óleo, açúcar Mas isso aqui, ó, você pode jogar os papelão aqui dentro Faz uma camada no fundo de terra Joga um pouquinho de papelão Pega as minhocas Joga aí assim, ó Espalhado Vai jogando elas aí O importante é você não colocar minhoca morta no meio aqui, tá? Senão a toxina de umas mata as outras Só jogando aí, ó Depois você vem com um pouco de terra Terra solta de preferência, úmida E joga aí Depois com o tempo é só adicionando, ó Cenoura, fruta, verdura, essas coisas Jogando, nada ácido E jogando água de vez em quando Só pra umedecer Fica muito tempo aqui e não morre Beleza? Tamo junto",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 3.11,
+      "text": "Muita gente pergunta aí o que é que eu uso pra tratar das minhocas"
+    },
+    {
+      "start": 3.11,
+      "end": 5.07,
+      "text": "Hoje eu tô trocando a terra aqui, ó"
+    },
+    {
+      "start": 5.07,
+      "end": 6.55,
+      "text": "Pegando um pouco de terra nova ali"
+    },
+    {
+      "start": 6.55,
+      "end": 7.79,
+      "text": "Colocando aqui"
+    },
+    {
+      "start": 7.79,
+      "end": 10.36,
+      "text": "E aqui estão elas, já lavei elas"
+    },
+    {
+      "start": 10.36,
+      "end": 12.6,
+      "text": "E eu coloco isso aqui, rapaziada, ó"
+    },
+    {
+      "start": 12.6,
+      "end": 14.84,
+      "text": "Papelão, esse negócio de cartela de ovo"
+    },
+    {
+      "start": 14.84,
+      "end": 16.74,
+      "text": "Dá uma umedecida nele, ó"
+    },
+    {
+      "start": 16.74,
+      "end": 20.28,
+      "text": "E joga aqui dentro, uns pedacinhos pequenos"
+    },
+    {
+      "start": 20.28,
+      "end": 22.3,
+      "text": "E casca de ovo também"
+    },
+    {
+      "start": 22.3,
+      "end": 25.22,
+      "text": "Você pode tá jogando aí alface, batata"
+    },
+    {
+      "start": 25.22,
+      "end": 29.0,
+      "text": "Só não pode jogar nada que contenha óleo, açúcar"
+    },
+    {
+      "start": 29.0,
+      "end": 32.81,
+      "text": "Mas isso aqui, ó, você pode jogar os papelão aqui dentro"
+    },
+    {
+      "start": 32.81,
+      "end": 34.79,
+      "text": "Faz uma camada no fundo de terra"
+    },
+    {
+      "start": 34.79,
+      "end": 36.53,
+      "text": "Joga um pouquinho de papelão"
+    },
+    {
+      "start": 36.53,
+      "end": 39.01,
+      "text": "Pega as minhocas"
+    },
+    {
+      "start": 39.01,
+      "end": 41.24,
+      "text": "Joga aí assim, ó"
+    },
+    {
+      "start": 41.24,
+      "end": 42.32,
+      "text": "Espalhado"
+    },
+    {
+      "start": 42.32,
+      "end": 46.9,
+      "text": "Vai jogando elas aí"
+    },
+    {
+      "start": 46.9,
+      "end": 52.06,
+      "text": "O importante é você não colocar minhoca morta no meio aqui, tá?"
+    },
+    {
+      "start": 52.87,
+      "end": 55.13,
+      "text": "Senão a toxina de umas mata as outras"
+    },
+    {
+      "start": 55.13,
+      "end": 56.75,
+      "text": "Só jogando aí, ó"
+    },
+    {
+      "start": 56.75,
+      "end": 60.0,
+      "text": "Depois você vem com um pouco de terra"
+    },
+    {
+      "start": 60.0,
+      "end": 61.96,
+      "text": "Terra solta de preferência, úmida"
+    },
+    {
+      "start": 61.96,
+      "end": 62.84,
+      "text": "E joga aí"
+    },
+    {
+      "start": 62.84,
+      "end": 64.9,
+      "text": "Depois com o tempo é só adicionando, ó"
+    },
+    {
+      "start": 64.9,
+      "end": 67.36,
+      "text": "Cenoura, fruta, verdura, essas coisas"
+    },
+    {
+      "start": 67.36,
+      "end": 68.44,
+      "text": "Jogando, nada ácido"
+    },
+    {
+      "start": 68.44,
+      "end": 71.37,
+      "text": "E jogando água de vez em quando"
+    },
+    {
+      "start": 71.37,
+      "end": 72.15,
+      "text": "Só pra umedecer"
+    },
+    {
+      "start": 72.15,
+      "end": 74.85,
+      "text": "Fica muito tempo aqui e não morre"
+    },
+    {
+      "start": 74.85,
+      "end": 75.29,
+      "text": "Beleza?"
+    },
+    {
+      "start": 75.87,
+      "end": 76.39,
+      "text": "Tamo junto"
+    }
+  ],
+  "duracao_seg": 76.75,
+  "idioma_detectado": "pt"
+}

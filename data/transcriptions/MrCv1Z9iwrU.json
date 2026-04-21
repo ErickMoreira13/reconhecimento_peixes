@@ -1,0 +1,27 @@
+{
+  "texto": "Coisa linda, meu irmão, o tanto, cara. Escapa não, mano. Olha o tamanho do cupim. Já solto a esquina, que dó aqui.",
+  "segmentos": [
+    {
+      "start": 4.24,
+      "end": 6.36,
+      "text": "Coisa linda, meu irmão, o tanto, cara."
+    },
+    {
+      "start": 6.76,
+      "end": 7.5,
+      "text": "Escapa não, mano."
+    },
+    {
+      "start": 8.87,
+      "end": 9.81,
+      "text": "Olha o tamanho do cupim."
+    },
+    {
+      "start": 11.13,
+      "end": 13.03,
+      "text": "Já solto a esquina, que dó aqui."
+    }
+  ],
+  "duracao_seg": 13.97,
+  "idioma_detectado": "pt"
+}

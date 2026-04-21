@@ -1,0 +1,32 @@
+{
+  "texto": "Bom dia povo, tem coisa que a gente tem que falar e mostrar, que a turma não acredita, olha o tamanho dessa minhocosu, olha aqui, ó, vou medir em palmas pra vocês, tá? Dois, três, quatro, e ela se encolheu, tá bom? Olha aqui, olha pra isso, ó, ela tá encolhida, olha o tamanho do meu braço, olha aqui, ó, coisa inédita, né? E pra lembrar vocês, isso aqui não é cobra cega que nem fala, tá? É minhocosu, olha aqui, ó, olha pra isso, ó, inédito! Agora tem um detalhe, eu amo a natureza, agora a sorte dela é que eu não tô indo pescar, senão já era, senão a gente ia transformar ela em pintado desse tamanho assim.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 15.58,
+      "text": "Bom dia povo, tem coisa que a gente tem que falar e mostrar, que a turma não acredita, olha o tamanho dessa minhocosu, olha aqui, ó, vou medir em palmas pra vocês, tá?"
+    },
+    {
+      "start": 16.77,
+      "end": 20.63,
+      "text": "Dois, três, quatro, e ela se encolheu, tá bom?"
+    },
+    {
+      "start": 21.73,
+      "end": 34.59,
+      "text": "Olha aqui, olha pra isso, ó, ela tá encolhida, olha o tamanho do meu braço, olha aqui, ó, coisa inédita, né?"
+    },
+    {
+      "start": 34.59,
+      "end": 50.22,
+      "text": "E pra lembrar vocês, isso aqui não é cobra cega que nem fala, tá? É minhocosu, olha aqui, ó, olha pra isso, ó, inédito!"
+    },
+    {
+      "start": 52.28,
+      "end": 61.66,
+      "text": "Agora tem um detalhe, eu amo a natureza, agora a sorte dela é que eu não tô indo pescar, senão já era, senão a gente ia transformar ela em pintado desse tamanho assim."
+    }
+  ],
+  "duracao_seg": 63.23,
+  "idioma_detectado": "pt"
+}

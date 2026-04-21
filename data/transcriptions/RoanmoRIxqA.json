@@ -1,0 +1,82 @@
+{
+  "texto": "Opa, vamos lá, mais um artesanato com isca artificial aí Vamos ver o que esse cara vai inventar aí, ó Parece que a qualidade do trabalho do homem é boa, hein Bem caprichado, cheio de equipamentos, lixa Olha lá, primeiro ele cortou os anéis da isca dura Tá emendando aí um rabo de uma isca soft Vamos ver o que é que vai sair Ah, ele tá fazendo um molde, galera Um molde, vai pegar o desenho da isca de superfície ali Mistura, micro-ondas O que que vai sair disso aí, hein Ah lá, ó, o molde de silicone, se eu não me engano Saiu aí, isso aqui, ó, devolveu o olho Ó, ficou massa o trabalho, hein Parecendo uma mistura de piaba com camarão",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "text": "Opa, vamos lá, mais um artesanato com isca artificial aí"
+    },
+    {
+      "start": 4.18,
+      "end": 6.64,
+      "text": "Vamos ver o que esse cara vai inventar aí, ó"
+    },
+    {
+      "start": 6.64,
+      "end": 9.96,
+      "text": "Parece que a qualidade do trabalho do homem é boa, hein"
+    },
+    {
+      "start": 9.96,
+      "end": 13.7,
+      "text": "Bem caprichado, cheio de equipamentos, lixa"
+    },
+    {
+      "start": 13.7,
+      "end": 20.44,
+      "text": "Olha lá, primeiro ele cortou os anéis da isca dura"
+    },
+    {
+      "start": 20.44,
+      "end": 23.6,
+      "text": "Tá emendando aí um rabo de uma isca soft"
+    },
+    {
+      "start": 23.6,
+      "end": 25.36,
+      "text": "Vamos ver o que é que vai sair"
+    },
+    {
+      "start": 25.36,
+      "end": 28.06,
+      "text": "Ah, ele tá fazendo um molde, galera"
+    },
+    {
+      "start": 28.06,
+      "end": 34.1,
+      "text": "Um molde, vai pegar o desenho da isca de superfície ali"
+    },
+    {
+      "start": 34.1,
+      "end": 38.56,
+      "text": "Mistura, micro-ondas"
+    },
+    {
+      "start": 38.56,
+      "end": 40.86,
+      "text": "O que que vai sair disso aí, hein"
+    },
+    {
+      "start": 40.86,
+      "end": 45.11,
+      "text": "Ah lá, ó, o molde de silicone, se eu não me engano"
+    },
+    {
+      "start": 45.11,
+      "end": 48.4,
+      "text": "Saiu aí, isso aqui, ó, devolveu o olho"
+    },
+    {
+      "start": 48.4,
+      "end": 50.68,
+      "text": "Ó, ficou massa o trabalho, hein"
+    },
+    {
+      "start": 50.68,
+      "end": 54.85,
+      "text": "Parecendo uma mistura de piaba com camarão"
+    }
+  ],
+  "duracao_seg": 54.85,
+  "idioma_detectado": "pt"
+}

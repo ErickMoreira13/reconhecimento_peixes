@@ -1,0 +1,77 @@
+{
+  "texto": "O que a gente deu lá? A grande de hoje O que a gente apoiou? A gente não caiu Ah, não pode ver a luz não Opa O que eu fiz dessa bonita não? Pra mostrar a vocês No canal Aí pessoal Saiu ou não saiu a bruta? Aí Ó a bocuda Vamos pescar, vamos pescar",
+  "segmentos": [
+    {
+      "start": 18.0,
+      "end": 20.32,
+      "text": "O que a gente deu lá?"
+    },
+    {
+      "start": 20.32,
+      "end": 23.92,
+      "text": "A grande de hoje"
+    },
+    {
+      "start": 23.92,
+      "end": 25.92,
+      "text": "O que a gente apoiou?"
+    },
+    {
+      "start": 25.92,
+      "end": 29.46,
+      "text": "A gente não caiu"
+    },
+    {
+      "start": 29.46,
+      "end": 33.44,
+      "text": "Ah, não pode ver a luz não"
+    },
+    {
+      "start": 33.44,
+      "end": 42.99,
+      "text": "Opa"
+    },
+    {
+      "start": 42.99,
+      "end": 81.06,
+      "text": "O que eu fiz dessa bonita não?"
+    },
+    {
+      "start": 81.06,
+      "end": 84.14,
+      "text": "Pra mostrar a vocês"
+    },
+    {
+      "start": 84.14,
+      "end": 91.01,
+      "text": "No canal"
+    },
+    {
+      "start": 91.01,
+      "end": 93.01,
+      "text": "Aí pessoal"
+    },
+    {
+      "start": 93.01,
+      "end": 99.23,
+      "text": "Saiu ou não saiu a bruta?"
+    },
+    {
+      "start": 99.23,
+      "end": 102.19,
+      "text": "Aí"
+    },
+    {
+      "start": 102.19,
+      "end": 105.6,
+      "text": "Ó a bocuda"
+    },
+    {
+      "start": 105.6,
+      "end": 107.6,
+      "text": "Vamos pescar, vamos pescar"
+    }
+  ],
+  "duracao_seg": 109.43,
+  "idioma_detectado": "pt"
+}

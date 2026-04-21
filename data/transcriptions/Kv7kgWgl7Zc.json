@@ -1,0 +1,42 @@
+{
+  "texto": "Olha aí, galerinha, resultado da pescaria de hoje aí, ó. Beleza? Usando aqui uma setinha que eu mesmo fiz, artesanal. Usando pó de ferro, colatec bondo e furadeira aí, ó. Um espinquete aí, SC330. Show de bola! Bora pescar!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "Olha aí, galerinha, resultado da pescaria de hoje aí, ó."
+    },
+    {
+      "start": 3.9,
+      "end": 4.34,
+      "text": "Beleza?"
+    },
+    {
+      "start": 5.35,
+      "end": 7.45,
+      "text": "Usando aqui uma setinha que eu mesmo fiz, artesanal."
+    },
+    {
+      "start": 8.78,
+      "end": 11.92,
+      "text": "Usando pó de ferro, colatec bondo e furadeira aí, ó."
+    },
+    {
+      "start": 12.76,
+      "end": 15.16,
+      "text": "Um espinquete aí, SC330."
+    },
+    {
+      "start": 15.8,
+      "end": 16.38,
+      "text": "Show de bola!"
+    },
+    {
+      "start": 17.0,
+      "end": 17.6,
+      "text": "Bora pescar!"
+    }
+  ],
+  "duracao_seg": 18.53,
+  "idioma_detectado": "pt"
+}

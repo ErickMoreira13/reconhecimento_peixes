@@ -1,0 +1,17 @@
+{
+  "texto": "Olha ali, quase perdi. Dia dos bolsos.",
+  "segmentos": [
+    {
+      "start": 4.24,
+      "end": 6.7,
+      "text": "Olha ali, quase perdi."
+    },
+    {
+      "start": 6.96,
+      "end": 7.9,
+      "text": "Dia dos bolsos."
+    }
+  ],
+  "duracao_seg": 11.07,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Oh Mandumbé, estou na pescaria hoje à tarde aqui, tem um dentro do barco, já tem outro bitelo aqui, que é o rio das pacas que eu espero, hoje eu não vim caçar não, só dar uma pescada. E vamos que vamos, já saiu mais um agora na boquinha da noite, palmito.",
+  "segmentos": [
+    {
+      "start": 7.76,
+      "end": 19.03,
+      "text": "Oh Mandumbé, estou na pescaria hoje à tarde aqui, tem um dentro do barco, já tem outro bitelo aqui,"
+    },
+    {
+      "start": 19.03,
+      "end": 26.56,
+      "text": "que é o rio das pacas que eu espero, hoje eu não vim caçar não, só dar uma pescada."
+    },
+    {
+      "start": 26.56,
+      "end": 45.14,
+      "text": "E vamos que vamos, já saiu mais um agora na boquinha da noite, palmito."
+    }
+  ],
+  "duracao_seg": 49.69,
+  "idioma_detectado": "pt"
+}

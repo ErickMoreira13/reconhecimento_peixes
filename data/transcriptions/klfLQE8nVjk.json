@@ -1,0 +1,42 @@
+{
+  "texto": "Vamos ver se tem diferença na carne desse pampo, desse aqui nós sangramos, ele saiu bastante sangue, turma. Esses ali não, vamos ver se realmente limpa bem a carne ou não. Olha só, turma, agora o peixe já lavado, olha o quanto ficou branca essa carne, extremamente branca, turma. Então vamos limpar esse aqui agora e vamos ver se a carne também vai tá branca assim. É, a quantidade de sangue que solta, pessoal, olha só, olha como é que a carne aqui já tá bem cheia de sangue. Só que agora vamos lavar e vamos ver como é que fica essa carne aí. É, turma, ó, fica vestígios de mais sangue, mas também não é uma carne escura, é uma carne bem branca, o pampo em si tem uma carne bem branca.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "Vamos ver se tem diferença na carne desse pampo, desse aqui nós sangramos, ele saiu bastante sangue, turma."
+    },
+    {
+      "start": 5.7,
+      "end": 9.02,
+      "text": "Esses ali não, vamos ver se realmente limpa bem a carne ou não."
+    },
+    {
+      "start": 9.32,
+      "end": 15.08,
+      "text": "Olha só, turma, agora o peixe já lavado, olha o quanto ficou branca essa carne, extremamente branca, turma."
+    },
+    {
+      "start": 15.3,
+      "end": 18.58,
+      "text": "Então vamos limpar esse aqui agora e vamos ver se a carne também vai tá branca assim."
+    },
+    {
+      "start": 19.3,
+      "end": 24.22,
+      "text": "É, a quantidade de sangue que solta, pessoal, olha só, olha como é que a carne aqui já tá bem cheia de sangue."
+    },
+    {
+      "start": 24.34,
+      "end": 26.88,
+      "text": "Só que agora vamos lavar e vamos ver como é que fica essa carne aí."
+    },
+    {
+      "start": 26.88,
+      "end": 34.76,
+      "text": "É, turma, ó, fica vestígios de mais sangue, mas também não é uma carne escura, é uma carne bem branca, o pampo em si tem uma carne bem branca."
+    }
+  ],
+  "duracao_seg": 34.95,
+  "idioma_detectado": "pt"
+}

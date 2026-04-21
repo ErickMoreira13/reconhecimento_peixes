@@ -1,0 +1,42 @@
+{
+  "texto": "Opa, esse é grande, esse é grande Olha aí, galera Ó Tamanho do bico de pato, cara Esse eu vou ter que parar aqui Pra não tirar ele dentro d'água, gente Senão eu vou perder ele aqui",
+  "segmentos": [
+    {
+      "start": 1.26,
+      "end": 3.9,
+      "text": "Opa, esse é grande, esse é grande"
+    },
+    {
+      "start": 3.9,
+      "end": 5.2,
+      "text": "Olha aí, galera"
+    },
+    {
+      "start": 5.2,
+      "end": 6.58,
+      "text": "Ó"
+    },
+    {
+      "start": 6.58,
+      "end": 9.95,
+      "text": "Tamanho do bico de pato, cara"
+    },
+    {
+      "start": 9.95,
+      "end": 15.05,
+      "text": "Esse eu vou ter que parar aqui"
+    },
+    {
+      "start": 15.05,
+      "end": 16.31,
+      "text": "Pra não tirar ele dentro d'água, gente"
+    },
+    {
+      "start": 16.31,
+      "end": 17.37,
+      "text": "Senão eu vou perder ele aqui"
+    }
+  ],
+  "duracao_seg": 17.97,
+  "idioma_detectado": "pt"
+}

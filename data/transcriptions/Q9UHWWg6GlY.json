@@ -1,0 +1,72 @@
+{
+  "texto": "cor de cororô é? cor de cororô isso é pra você olha aí mano isso aí é engravidos tava um show tarde de 5 meses rapaz, eu favo engravidou e até a pança né Dona ai ai meu Deus do céu ai meu Deus do céu ai capitão mano olha que cutaria mano Eita branco, o negócio é bonito",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "cor de cororô é?"
+    },
+    {
+      "start": 2.56,
+      "end": 4.0,
+      "text": "cor de cororô"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "isso é pra você"
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "text": "olha aí mano"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "isso aí é engravidos"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "tava um show tarde de 5 meses"
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "rapaz, eu favo engravidou e até a pança né Dona"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "ai ai meu Deus do céu"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "ai meu Deus do céu"
+    },
+    {
+      "start": 22.0,
+      "end": 25.02,
+      "text": "ai capitão mano"
+    },
+    {
+      "start": 25.02,
+      "end": 27.02,
+      "text": "olha"
+    },
+    {
+      "start": 27.02,
+      "end": 29.02,
+      "text": "que cutaria mano"
+    },
+    {
+      "start": 29.02,
+      "end": 33.66,
+      "text": "Eita branco, o negócio é bonito"
+    }
+  ],
+  "duracao_seg": 34.75,
+  "idioma_detectado": "pt"
+}

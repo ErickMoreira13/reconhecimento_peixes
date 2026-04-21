@@ -1,0 +1,17 @@
+{
+  "texto": "a desgraça a goceta é",
+  "segmentos": [
+    {
+      "start": 6.86,
+      "end": 8.86,
+      "text": "a desgraça"
+    },
+    {
+      "start": 11.79,
+      "end": 13.79,
+      "text": "a goceta é"
+    }
+  ],
+  "duracao_seg": 13.27,
+  "idioma_detectado": "pt"
+}

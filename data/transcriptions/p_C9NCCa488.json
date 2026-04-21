@@ -1,0 +1,37 @@
+{
+  "texto": "então está aqui novamente, não sei como é que vocês vão estar enxergando aí cachorro aqui dentro, olha lá, tem um apoio aqui, como eu vi lá apoia, segura na posição que você quer engata novamente, vamos estar fazendo um disparo em uma folhinha daquela ali vamos ver como vai estar saindo olha a puxada disso pessoal, olha lá",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "então está aqui novamente, não sei como é que vocês vão estar enxergando aí"
+    },
+    {
+      "start": 2.76,
+      "end": 6.5,
+      "text": "cachorro aqui dentro, olha lá, tem um apoio aqui, como eu vi lá"
+    },
+    {
+      "start": 6.5,
+      "end": 10.0,
+      "text": "apoia, segura na posição que você quer"
+    },
+    {
+      "start": 10.0,
+      "end": 14.58,
+      "text": "engata novamente, vamos estar fazendo um disparo em uma folhinha daquela ali"
+    },
+    {
+      "start": 14.58,
+      "end": 17.16,
+      "text": "vamos ver como vai estar saindo"
+    },
+    {
+      "start": 17.16,
+      "end": 21.38,
+      "text": "olha a puxada disso pessoal, olha lá"
+    }
+  ],
+  "duracao_seg": 21.99,
+  "idioma_detectado": "pt"
+}

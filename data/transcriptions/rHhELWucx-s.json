@@ -1,0 +1,32 @@
+{
+  "texto": "73 Oh, não falei? Ah, não! Que ataque esse peixe deu, gente! Aê, tucuna!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "73"
+    },
+    {
+      "start": 1.2,
+      "end": 5.54,
+      "text": "Oh, não falei?"
+    },
+    {
+      "start": 5.54,
+      "end": 35.77,
+      "text": "Ah, não!"
+    },
+    {
+      "start": 35.77,
+      "end": 38.77,
+      "text": "Que ataque esse peixe deu, gente!"
+    },
+    {
+      "start": 38.77,
+      "end": 57.71,
+      "text": "Aê, tucuna!"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

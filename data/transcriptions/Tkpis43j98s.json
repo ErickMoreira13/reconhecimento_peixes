@@ -1,0 +1,17 @@
+{
+  "texto": "Você já viu um baiacu inflando? Se liga nesse vídeo!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "Você já viu um baiacu inflando?"
+    },
+    {
+      "start": 2.76,
+      "end": 3.98,
+      "text": "Se liga nesse vídeo!"
+    }
+  ],
+  "duracao_seg": 11.87,
+  "idioma_detectado": "pt"
+}

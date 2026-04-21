@@ -1,0 +1,22 @@
+{
+  "texto": "Olha aqui o que eu encontrei aqui, eu estava fazendo cova para plantar um milho, encontrei um minhocosu, olha o tamanho, olha o tamanho desse bichão, para quem gosta de pescar é uma maravilha, olha, bem gordo, né?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.17,
+      "text": "Olha aqui o que eu encontrei aqui, eu estava fazendo cova para plantar um milho, encontrei"
+    },
+    {
+      "start": 5.17,
+      "end": 12.64,
+      "text": "um minhocosu, olha o tamanho, olha o tamanho desse bichão, para quem gosta de pescar"
+    },
+    {
+      "start": 12.64,
+      "end": 19.24,
+      "text": "é uma maravilha, olha, bem gordo, né?"
+    }
+  ],
+  "duracao_seg": 19.85,
+  "idioma_detectado": "pt"
+}

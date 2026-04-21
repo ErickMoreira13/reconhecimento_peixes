@@ -1,0 +1,52 @@
+{
+  "texto": "Coraçãozinho curtido na cachaça Põe pra curtir, galera Pode ficar aí 3 dias de boa Você pode estar pescando os piauzinhos Que ele não perde Puxou muito Coraçãozinho Piauzinho três pinta Puxou de tudo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "Coraçãozinho curtido na cachaça"
+    },
+    {
+      "start": 2.34,
+      "end": 5.22,
+      "text": "Põe pra curtir, galera"
+    },
+    {
+      "start": 5.22,
+      "end": 6.82,
+      "text": "Pode ficar aí 3 dias de boa"
+    },
+    {
+      "start": 6.82,
+      "end": 9.31,
+      "text": "Você pode estar pescando os piauzinhos"
+    },
+    {
+      "start": 9.31,
+      "end": 10.15,
+      "text": "Que ele não perde"
+    },
+    {
+      "start": 10.15,
+      "end": 14.4,
+      "text": "Puxou muito"
+    },
+    {
+      "start": 14.4,
+      "end": 18.54,
+      "text": "Coraçãozinho"
+    },
+    {
+      "start": 18.54,
+      "end": 20.3,
+      "text": "Piauzinho três pinta"
+    },
+    {
+      "start": 20.3,
+      "end": 25.86,
+      "text": "Puxou de tudo"
+    }
+  ],
+  "duracao_seg": 29.07,
+  "idioma_detectado": "pt"
+}

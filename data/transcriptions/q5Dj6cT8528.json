@@ -1,0 +1,22 @@
+{
+  "texto": "dá um tirinho com o arpão que eu fiz ele é duplo com duas borrachas mas eu vou atirar só com uma que a outra é muito forte tá dando muito trabalho para tirar a seta lá da taba vamos lá um tiro com uns dois metros e no peixe a gente atira mais mais de perto a ver dentro da manchinha aí já era peixinho",
+  "segmentos": [
+    {
+      "start": 1.58,
+      "end": 9.25,
+      "text": "dá um tirinho com o arpão que eu fiz ele é duplo com duas borrachas mas eu vou atirar só com uma"
+    },
+    {
+      "start": 9.25,
+      "end": 15.35,
+      "text": "que a outra é muito forte tá dando muito trabalho para tirar a seta lá da taba vamos lá um tiro com"
+    },
+    {
+      "start": 15.35,
+      "end": 30.92,
+      "text": "uns dois metros e no peixe a gente atira mais mais de perto a ver dentro da manchinha aí já era peixinho"
+    }
+  ],
+  "duracao_seg": 31.25,
+  "idioma_detectado": "pt"
+}

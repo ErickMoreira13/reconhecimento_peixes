@@ -1,0 +1,277 @@
+{
+  "texto": "Fala turma, beleza? Estamos aqui no rio já, fazendo uma pescadinha Riozão da hora aí, ó As varinhas já estão no jeito Aqui no rio Piracicaba Estou aqui em um ponto diferente Aqui já próximo da represa de Santa Maria da Serra E vamos ver se sai alguma coisa aí A gente está utilizando aqui Coração de boi Tem milho Calabresa E tem a massa também, ó Massa P45 Feita com ovo, açúcar E a água do rio Vamos ver se sai alguma coisa aí A gente mostra pra vocês Acompanha aí Curimba Foi embora ainda Curimba, pessoal Olha o piauzinho Esse está roubando o isco, ó Aê, vou soltar ele aqui, pessoal Vira lenha aí, pessoal Passa a guata aí Ei Vai Passa a guata Passa a guata Não precisa não, é pequeno E já Saiu o primeiro aqui, pessoal Primeiro piauçu Eles encostaram aqui pertinho Peguei Vamos soltar ele Mais um piauzinho, pessoal Esse daqui tem a boquinha pequenininha, ó Soltar ele Está saindo na massa, pessoal Pessoal, eu fui pôr isca de novo Nem deu tempo, ó Peguei na outra vara Bonitinho também Pelo jeito começaram a encostar na ceva aqui, hein Mais um Piau da boca pequena Esse aqui peixinho esquisito Aqui só sai desse, ó Tchau, tchau Tchau, tchau Tchau, tchau",
+  "segmentos": [
+    {
+      "start": 1.41,
+      "end": 2.95,
+      "text": "Fala turma, beleza?"
+    },
+    {
+      "start": 4.34,
+      "end": 6.9,
+      "text": "Estamos aqui no rio já, fazendo uma pescadinha"
+    },
+    {
+      "start": 6.9,
+      "end": 9.56,
+      "text": "Riozão da hora aí, ó"
+    },
+    {
+      "start": 9.56,
+      "end": 21.17,
+      "text": "As varinhas já estão no jeito"
+    },
+    {
+      "start": 21.17,
+      "end": 23.9,
+      "text": "Aqui no rio Piracicaba"
+    },
+    {
+      "start": 23.9,
+      "end": 25.74,
+      "text": "Estou aqui em um ponto diferente"
+    },
+    {
+      "start": 25.74,
+      "end": 30.07,
+      "text": "Aqui já próximo da represa de Santa Maria da Serra"
+    },
+    {
+      "start": 30.07,
+      "end": 31.89,
+      "text": "E vamos ver se sai alguma coisa aí"
+    },
+    {
+      "start": 31.89,
+      "end": 33.61,
+      "text": "A gente está utilizando aqui"
+    },
+    {
+      "start": 33.61,
+      "end": 36.3,
+      "text": "Coração de boi"
+    },
+    {
+      "start": 36.3,
+      "end": 38.82,
+      "text": "Tem milho"
+    },
+    {
+      "start": 38.82,
+      "end": 42.72,
+      "text": "Calabresa"
+    },
+    {
+      "start": 42.72,
+      "end": 46.1,
+      "text": "E tem a massa também, ó"
+    },
+    {
+      "start": 46.1,
+      "end": 48.04,
+      "text": "Massa P45"
+    },
+    {
+      "start": 48.04,
+      "end": 52.21,
+      "text": "Feita com ovo, açúcar"
+    },
+    {
+      "start": 52.21,
+      "end": 53.99,
+      "text": "E a água do rio"
+    },
+    {
+      "start": 53.99,
+      "end": 57.11,
+      "text": "Vamos ver se sai alguma coisa aí"
+    },
+    {
+      "start": 57.11,
+      "end": 58.41,
+      "text": "A gente mostra pra vocês"
+    },
+    {
+      "start": 58.41,
+      "end": 59.83,
+      "text": "Acompanha aí"
+    },
+    {
+      "start": 59.83,
+      "end": 83.78,
+      "text": "Curimba"
+    },
+    {
+      "start": 83.78,
+      "end": 92.62,
+      "text": "Foi embora ainda"
+    },
+    {
+      "start": 92.62,
+      "end": 94.72,
+      "text": "Curimba, pessoal"
+    },
+    {
+      "start": 94.72,
+      "end": 108.12,
+      "text": "Olha o piauzinho"
+    },
+    {
+      "start": 108.12,
+      "end": 111.94,
+      "text": "Esse está roubando o isco, ó"
+    },
+    {
+      "start": 111.94,
+      "end": 131.64,
+      "text": "Aê, vou soltar ele aqui, pessoal"
+    },
+    {
+      "start": 131.64,
+      "end": 174.58,
+      "text": "Vira lenha aí, pessoal"
+    },
+    {
+      "start": 174.58,
+      "end": 350.69,
+      "text": "Passa a guata aí"
+    },
+    {
+      "start": 350.69,
+      "end": 352.08,
+      "text": "Ei"
+    },
+    {
+      "start": 352.08,
+      "end": 353.68,
+      "text": "Vai"
+    },
+    {
+      "start": 353.68,
+      "end": 355.99,
+      "text": "Passa a guata"
+    },
+    {
+      "start": 355.99,
+      "end": 357.6,
+      "text": "Passa a guata"
+    },
+    {
+      "start": 357.6,
+      "end": 369.98,
+      "text": "Não precisa não, é pequeno"
+    },
+    {
+      "start": 369.98,
+      "end": 398.52,
+      "text": "E já"
+    },
+    {
+      "start": 398.52,
+      "end": 401.79,
+      "text": "Saiu o primeiro aqui, pessoal"
+    },
+    {
+      "start": 401.79,
+      "end": 403.31,
+      "text": "Primeiro piauçu"
+    },
+    {
+      "start": 403.31,
+      "end": 408.14,
+      "text": "Eles encostaram aqui pertinho"
+    },
+    {
+      "start": 408.14,
+      "end": 409.04,
+      "text": "Peguei"
+    },
+    {
+      "start": 409.04,
+      "end": 420.84,
+      "text": "Vamos soltar ele"
+    },
+    {
+      "start": 420.84,
+      "end": 443.12,
+      "text": "Mais um piauzinho, pessoal"
+    },
+    {
+      "start": 443.12,
+      "end": 460.46,
+      "text": "Esse daqui tem a boquinha pequenininha, ó"
+    },
+    {
+      "start": 460.46,
+      "end": 467.02,
+      "text": "Soltar ele"
+    },
+    {
+      "start": 467.02,
+      "end": 472.72,
+      "text": "Está saindo na massa, pessoal"
+    },
+    {
+      "start": 472.72,
+      "end": 490.08,
+      "text": "Pessoal, eu fui pôr isca de novo"
+    },
+    {
+      "start": 490.08,
+      "end": 492.11,
+      "text": "Nem deu tempo, ó"
+    },
+    {
+      "start": 492.11,
+      "end": 493.19,
+      "text": "Peguei na outra vara"
+    },
+    {
+      "start": 493.19,
+      "end": 497.76,
+      "text": "Bonitinho também"
+    },
+    {
+      "start": 497.76,
+      "end": 509.94,
+      "text": "Pelo jeito começaram a encostar na ceva aqui, hein"
+    },
+    {
+      "start": 509.94,
+      "end": 527.21,
+      "text": "Mais um"
+    },
+    {
+      "start": 527.21,
+      "end": 536.27,
+      "text": "Piau da boca pequena"
+    },
+    {
+      "start": 536.27,
+      "end": 587.3,
+      "text": "Esse aqui peixinho esquisito"
+    },
+    {
+      "start": 587.3,
+      "end": 613.01,
+      "text": "Aqui só sai desse, ó"
+    },
+    {
+      "start": 613.01,
+      "end": 670.28,
+      "text": "Tchau, tchau"
+    },
+    {
+      "start": 670.28,
+      "end": 671.28,
+      "text": "Tchau, tchau"
+    },
+    {
+      "start": 671.28,
+      "end": 672.28,
+      "text": "Tchau, tchau"
+    }
+  ],
+  "duracao_seg": 755.09,
+  "idioma_detectado": "pt"
+}

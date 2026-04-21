@@ -1,0 +1,27 @@
+{
+  "texto": "olá nilton bom dia o nilton vou mostrar um detalhezinho pra você aqui ó esse é o seu kit gatilho que eu fiz a setinha garra de águia vou mostrar a posição de puxar o gatilho aqui ó dessa maneira aqui e esse aqui é o puxadão aquele estilinho que eu mesmo confeccionei mão cheia aqui ó aí você pega ele aqui assim ó",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 6.95,
+      "text": "olá nilton bom dia o nilton vou mostrar um detalhezinho pra você aqui ó esse é o seu"
+    },
+    {
+      "start": 6.95,
+      "end": 15.33,
+      "text": "kit gatilho que eu fiz a setinha garra de águia vou mostrar a posição de puxar o gatilho aqui"
+    },
+    {
+      "start": 15.33,
+      "end": 22.93,
+      "text": "ó dessa maneira aqui e esse aqui é o puxadão aquele estilinho que eu mesmo confeccionei"
+    },
+    {
+      "start": 22.93,
+      "end": 27.03,
+      "text": "mão cheia aqui ó aí você pega ele aqui assim ó"
+    }
+  ],
+  "duracao_seg": 35.79,
+  "idioma_detectado": "pt"
+}
