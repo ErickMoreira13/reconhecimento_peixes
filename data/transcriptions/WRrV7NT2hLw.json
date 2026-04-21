@@ -1,0 +1,42 @@
+{
+  "texto": "negócio aqui, tu não tem uma isca dessa translúcida não? pequena ou leva? aí já sai mais amarelo né bicho? olha, tem que abrir pô, não abri não tem que abrir pô ele, você abre ele todo aí depois trava, falei aqui naquele já mais esbranquecido né? é",
+  "segmentos": [
+    {
+      "start": 48.46,
+      "end": 126.25,
+      "text": "negócio aqui, tu não tem uma isca dessa translúcida não?"
+    },
+    {
+      "start": 126.25,
+      "end": 261.38,
+      "text": "pequena ou leva? aí já sai mais amarelo né bicho?"
+    },
+    {
+      "start": 261.38,
+      "end": 292.22,
+      "text": "olha, tem que abrir pô, não abri não"
+    },
+    {
+      "start": 295.05,
+      "end": 298.14,
+      "text": "tem que abrir pô ele, você abre ele todo"
+    },
+    {
+      "start": 298.14,
+      "end": 311.42,
+      "text": "aí depois trava, falei aqui naquele"
+    },
+    {
+      "start": 311.42,
+      "end": 323.44,
+      "text": "já mais esbranquecido né?"
+    },
+    {
+      "start": 323.44,
+      "end": 344.25,
+      "text": "é"
+    }
+  ],
+  "duracao_seg": 428.25,
+  "idioma_detectado": "pt"
+}

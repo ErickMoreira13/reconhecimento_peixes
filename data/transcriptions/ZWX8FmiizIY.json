@@ -1,0 +1,62 @@
+{
+  "texto": "Brunão e seu peixe Lago de Sobradinho Meu primeiro Meu primeiro do Munaré Chegando aí Cuidado no Torá Ô bichão É isso aí garoto E aí galera É emoção demais Cara",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Brunão e seu peixe"
+    },
+    {
+      "start": 2.76,
+      "end": 5.56,
+      "text": "Lago de Sobradinho"
+    },
+    {
+      "start": 5.56,
+      "end": 6.92,
+      "text": "Meu primeiro"
+    },
+    {
+      "start": 6.92,
+      "end": 8.9,
+      "text": "Meu primeiro do Munaré"
+    },
+    {
+      "start": 8.9,
+      "end": 10.06,
+      "text": "Chegando aí"
+    },
+    {
+      "start": 10.06,
+      "end": 21.63,
+      "text": "Cuidado no Torá"
+    },
+    {
+      "start": 21.63,
+      "end": 23.89,
+      "text": "Ô bichão"
+    },
+    {
+      "start": 23.89,
+      "end": 25.99,
+      "text": "É isso aí garoto"
+    },
+    {
+      "start": 25.99,
+      "end": 31.24,
+      "text": "E aí galera"
+    },
+    {
+      "start": 31.24,
+      "end": 33.99,
+      "text": "É emoção demais"
+    },
+    {
+      "start": 33.99,
+      "end": 34.45,
+      "text": "Cara"
+    }
+  ],
+  "duracao_seg": 39.23,
+  "idioma_detectado": "pt"
+}

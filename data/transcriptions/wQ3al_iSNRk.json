@@ -1,0 +1,17 @@
+{
+  "texto": "Aí, ó, campamento aqui de boa, azeólica aqui, ó, aí, ó, sem barco, viu, azeólica ali, ó, elas ali, ó, azeólica ali, ó, lindas, lindas, aí o que que eu peguei aqui, ó, o que que papai pegou nazeólica, ó, ó, o que que papai pegou nazeólica? Três dourados, duas pirambebas e uma paiaria aqui, ó, corró baiano, só o ouro aí, ó, os douradão aí, ó, quando papai vem, faz assim, ó, quebradeira!",
+  "segmentos": [
+    {
+      "start": 1.52,
+      "end": 28.09,
+      "text": "Aí, ó, campamento aqui de boa, azeólica aqui, ó, aí, ó, sem barco, viu, azeólica ali, ó, elas ali, ó, azeólica ali, ó, lindas, lindas, aí o que que eu peguei aqui, ó, o que que papai pegou nazeólica, ó, ó, o que que papai pegou nazeólica?"
+    },
+    {
+      "start": 28.09,
+      "end": 44.06,
+      "text": "Três dourados, duas pirambebas e uma paiaria aqui, ó, corró baiano, só o ouro aí, ó, os douradão aí, ó, quando papai vem, faz assim, ó, quebradeira!"
+    }
+  ],
+  "duracao_seg": 44.55,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,47 @@
+{
+  "texto": "Está cansado, César? Não! Não! Esse cara é bruto da febre! Olha o bicho bonito da porra! Agora ele saiu! É isso! Corta o pitado não, doido!",
+  "segmentos": [
+    {
+      "start": 3.79,
+      "end": 5.79,
+      "text": "Está cansado, César?"
+    },
+    {
+      "start": 5.79,
+      "end": 6.79,
+      "text": "Não!"
+    },
+    {
+      "start": 6.79,
+      "end": 7.79,
+      "text": "Não!"
+    },
+    {
+      "start": 7.79,
+      "end": 8.79,
+      "text": "Esse cara é bruto da febre!"
+    },
+    {
+      "start": 8.79,
+      "end": 10.79,
+      "text": "Olha o bicho bonito da porra!"
+    },
+    {
+      "start": 10.79,
+      "end": 11.79,
+      "text": "Agora ele saiu!"
+    },
+    {
+      "start": 11.79,
+      "end": 12.79,
+      "text": "É isso!"
+    },
+    {
+      "start": 12.79,
+      "end": 14.79,
+      "text": "Corta o pitado não, doido!"
+    }
+  ],
+  "duracao_seg": 16.65,
+  "idioma_detectado": "pt"
+}

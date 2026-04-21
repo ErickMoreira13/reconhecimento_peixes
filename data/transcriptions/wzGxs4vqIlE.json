@@ -1,0 +1,27 @@
+{
+  "texto": "Tinha uma aqui, tava pescando aqui, ficou na beirada dele pra comer peixe, era pequena. A prainha da ilha, já era. Agora dá pra você tirar foto melhor, ó. Ó, a peixe aí.",
+  "segmentos": [
+    {
+      "start": 2.93,
+      "end": 8.91,
+      "text": "Tinha uma aqui, tava pescando aqui, ficou na beirada dele pra comer peixe, era pequena."
+    },
+    {
+      "start": 10.42,
+      "end": 13.82,
+      "text": "A prainha da ilha, já era."
+    },
+    {
+      "start": 13.9,
+      "end": 15.84,
+      "text": "Agora dá pra você tirar foto melhor, ó."
+    },
+    {
+      "start": 17.33,
+      "end": 21.1,
+      "text": "Ó, a peixe aí."
+    }
+  ],
+  "duracao_seg": 24.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Segura, Juazeiro, que lá vai a água. É o bicho. Se segura, Juazeiro e Petrolina, que lá vai a água, menino. Barranjo de Sobradinho.",
+  "segmentos": [
+    {
+      "start": 1.62,
+      "end": 3.88,
+      "text": "Segura, Juazeiro, que lá vai a água."
+    },
+    {
+      "start": 4.32,
+      "end": 6.44,
+      "text": "É o bicho."
+    },
+    {
+      "start": 8.54,
+      "end": 13.08,
+      "text": "Se segura, Juazeiro e Petrolina, que lá vai a água, menino."
+    },
+    {
+      "start": 16.21,
+      "end": 17.89,
+      "text": "Barranjo de Sobradinho."
+    }
+  ],
+  "duracao_seg": 19.45,
+  "idioma_detectado": "pt"
+}

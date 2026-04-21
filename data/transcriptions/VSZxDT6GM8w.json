@@ -1,0 +1,67 @@
+{
+  "texto": "Olha o ronco que esse bicho dá. Tirei. Pronto. Tira assim ó. É bonito né Cezé? Tá cansado. Tá cansado né? Tá. Tá caí dentro. Caiu, caiu. Quem disse que o cara segura? Segura o beijo. O beijo tem o beijo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Olha o ronco que esse bicho dá."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Tirei."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Pronto."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Tira assim ó."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "É bonito né Cezé?"
+    },
+    {
+      "start": 10.0,
+      "end": 13.28,
+      "text": "Tá cansado."
+    },
+    {
+      "start": 13.28,
+      "end": 15.28,
+      "text": "Tá cansado né?"
+    },
+    {
+      "start": 15.28,
+      "end": 17.28,
+      "text": "Tá. Tá caí dentro."
+    },
+    {
+      "start": 17.28,
+      "end": 19.28,
+      "text": "Caiu, caiu."
+    },
+    {
+      "start": 19.28,
+      "end": 23.86,
+      "text": "Quem disse que o cara segura?"
+    },
+    {
+      "start": 23.86,
+      "end": 28.8,
+      "text": "Segura o beijo."
+    },
+    {
+      "start": 28.8,
+      "end": 30.8,
+      "text": "O beijo tem o beijo."
+    }
+  ],
+  "duracao_seg": 29.75,
+  "idioma_detectado": "pt"
+}

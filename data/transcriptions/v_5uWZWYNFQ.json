@@ -1,0 +1,22 @@
+{
+  "texto": "Bom dia, aí galera do Petróleo da Cayaque Ficha Faltar mais uma penhacinha, bebezinho Vai pra vida, meu irmão",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "Bom dia, aí galera do Petróleo da Cayaque Ficha"
+    },
+    {
+      "start": 2.68,
+      "end": 6.75,
+      "text": "Faltar mais uma penhacinha, bebezinho"
+    },
+    {
+      "start": 6.75,
+      "end": 12.69,
+      "text": "Vai pra vida, meu irmão"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}
