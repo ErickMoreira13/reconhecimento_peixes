@@ -1,0 +1,32 @@
+{
+  "texto": "Nossa, eu vi ela saindo daqui Olha ela aqui Dois tuconaré monstro Joga atrás de mim Joga saindo do igarapé, pai",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Nossa, eu vi ela saindo daqui"
+    },
+    {
+      "start": 3.6,
+      "end": 8.86,
+      "text": "Olha ela aqui"
+    },
+    {
+      "start": 8.86,
+      "end": 10.76,
+      "text": "Dois tuconaré monstro"
+    },
+    {
+      "start": 10.76,
+      "end": 12.32,
+      "text": "Joga atrás de mim"
+    },
+    {
+      "start": 12.32,
+      "end": 14.46,
+      "text": "Joga saindo do igarapé, pai"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

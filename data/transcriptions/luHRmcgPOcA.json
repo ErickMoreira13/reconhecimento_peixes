@@ -1,0 +1,32 @@
+{
+  "texto": "Olá pessoal, estamos em plena prohibição, aqui é Rio Arges, em zona de Rosti, a água é pequena. Vocês sabem que, em prohibição, peste depõe icre, are necessidade de cotão, de água que inundem zone de vegetação, acolo se depõe icrele, precisão se desvolte, la la la, la la la, exact inversamente acontece na nós. Destru astea e vorba, podul ati vazut arata bine, de la Terești, ce sa zic, semne bune anuare. Asta e, sa va spun ca e sfarsitul lunii aprilie 2026, da? Hai, va pup, numai bine, pa, pa!",
+  "segmentos": [
+    {
+      "start": 12.94,
+      "end": 20.62,
+      "text": "Olá pessoal, estamos em plena prohibição, aqui é Rio Arges, em zona de Rosti, a água é pequena."
+    },
+    {
+      "start": 20.62,
+      "end": 32.99,
+      "text": "Vocês sabem que, em prohibição, peste depõe icre, are necessidade de cotão, de água que inundem zone de vegetação,"
+    },
+    {
+      "start": 32.99,
+      "end": 39.99,
+      "text": "acolo se depõe icrele, precisão se desvolte, la la la, la la la, exact inversamente acontece na nós."
+    },
+    {
+      "start": 39.99,
+      "end": 50.7,
+      "text": "Destru astea e vorba, podul ati vazut arata bine, de la Terești, ce sa zic, semne bune anuare."
+    },
+    {
+      "start": 50.7,
+      "end": 59.21,
+      "text": "Asta e, sa va spun ca e sfarsitul lunii aprilie 2026, da? Hai, va pup, numai bine, pa, pa!"
+    }
+  ],
+  "duracao_seg": 59.45,
+  "idioma_detectado": "pt"
+}

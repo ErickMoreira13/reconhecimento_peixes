@@ -1,0 +1,17 @@
+{
+  "texto": "Vó, vó. Ah, vó, tiazalus Brank a idê, égdu, ó.",
+  "segmentos": [
+    {
+      "start": 5.39,
+      "end": 6.11,
+      "text": "Vó, vó."
+    },
+    {
+      "start": 10.22,
+      "end": 11.96,
+      "text": "Ah, vó, tiazalus Brank a idê, égdu, ó."
+    }
+  ],
+  "duracao_seg": 14.59,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "É demais, o homem é demais, brinca com esse guri, brinca com o Marcel velho, olha o tamanho desse boi, olha o tamanho desse boi. Madureira soltando a Piraíba que ele pegou aqui ó, aí é bonito hein, olha aí Madureira, olha o tamanho da bicha, pousada o que? Pousada Monteiro, aí sim, valeu a pena ou não? Nossa senhora o braço está doendo hein bicho. Ferrando o bichão aqui ó, pousada Monteiro, alta floresta, não sei nem que hora que é, só que você vai estar no meio do ano, mês 6, olha, tomando linha virada, olha, deixa vamos trabalhar. Aqui é furgindo linha, apoiando, puxa braba, e aí rapaz, olha, piraíba lá, aham moleque, ô bebê, igual é o banquete de todo mundo aqui, cê é louco cachorreiro, vai quebrar a vara do homem. Nossa velho, olha o alicate atrás aí.",
+  "segmentos": [
+    {
+      "start": 27.86,
+      "end": 76.79,
+      "text": "É demais, o homem é demais, brinca com esse guri, brinca com o Marcel velho, olha o tamanho desse boi, olha o tamanho desse boi."
+    },
+    {
+      "start": 81.68,
+      "end": 90.54,
+      "text": "Madureira soltando a Piraíba que ele pegou aqui ó, aí é bonito hein, olha aí Madureira, olha o tamanho da bicha, pousada o que?"
+    },
+    {
+      "start": 91.06,
+      "end": 99.0,
+      "text": "Pousada Monteiro, aí sim, valeu a pena ou não? Nossa senhora o braço está doendo hein bicho."
+    },
+    {
+      "start": 99.0,
+      "end": 141.72,
+      "text": "Ferrando o bichão aqui ó, pousada Monteiro, alta floresta, não sei nem que hora que é, só que você vai estar no meio do ano, mês 6, olha, tomando linha virada, olha, deixa vamos trabalhar."
+    },
+    {
+      "start": 141.72,
+      "end": 206.59,
+      "text": "Aqui é furgindo linha, apoiando, puxa braba, e aí rapaz, olha, piraíba lá, aham moleque, ô bebê, igual é o banquete de todo mundo aqui, cê é louco cachorreiro, vai quebrar a vara do homem."
+    },
+    {
+      "start": 207.01,
+      "end": 213.36,
+      "text": "Nossa velho, olha o alicate atrás aí."
+    }
+  ],
+  "duracao_seg": 218.35,
+  "idioma_detectado": "pt"
+}

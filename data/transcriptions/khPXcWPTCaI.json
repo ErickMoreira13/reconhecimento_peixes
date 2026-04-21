@@ -1,0 +1,17 @@
+{
+  "texto": "Tanto logo cedinho, em dia de pescaria, tomo meu café quentinho, pra encarar a brisa fria. Vou pela estrada batida, a passarada subia, levo a traia e a matula, só volto no fim do dia.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.89,
+      "text": "Tanto logo cedinho, em dia de pescaria, tomo meu café quentinho, pra encarar a brisa fria."
+    },
+    {
+      "start": 10.89,
+      "end": 26.2,
+      "text": "Vou pela estrada batida, a passarada subia, levo a traia e a matula, só volto no fim do dia."
+    }
+  ],
+  "duracao_seg": 30.47,
+  "idioma_detectado": "pt"
+}

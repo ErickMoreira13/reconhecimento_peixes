@@ -1,0 +1,37 @@
+{
+  "texto": "Pãozinho, ó, pra cá, pra cá, uma amassadinha nele, eu gosto de fazer isso aqui, tá, pessoal? Gosto, tá? O pão é uma isca que ele perde muito a aerodinâmica no arremesso. Por isso que eu gosto de usar a chumbada de 40 gramas, que na hora do arremesso, a chumbada, ela vai na frente da boia-pão. O que acontece? Pra auxiliar ainda mais, ó, eu dou uma molhadinha no pão, só pra ganhar um pezinho mais, tá? E assim não dá cabeleira por conta do vento contra.",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 9.86,
+      "text": "Pãozinho, ó, pra cá, pra cá, uma amassadinha nele, eu gosto de fazer isso aqui, tá, pessoal?"
+    },
+    {
+      "start": 11.0,
+      "end": 11.6,
+      "text": "Gosto, tá?"
+    },
+    {
+      "start": 12.02,
+      "end": 15.64,
+      "text": "O pão é uma isca que ele perde muito a aerodinâmica no arremesso."
+    },
+    {
+      "start": 16.06,
+      "end": 22.26,
+      "text": "Por isso que eu gosto de usar a chumbada de 40 gramas, que na hora do arremesso, a chumbada, ela vai na frente da boia-pão."
+    },
+    {
+      "start": 22.74,
+      "end": 28.3,
+      "text": "O que acontece? Pra auxiliar ainda mais, ó, eu dou uma molhadinha no pão, só pra ganhar um pezinho mais, tá?"
+    },
+    {
+      "start": 28.88,
+      "end": 31.76,
+      "text": "E assim não dá cabeleira por conta do vento contra."
+    }
+  ],
+  "duracao_seg": 41.17,
+  "idioma_detectado": "pt"
+}

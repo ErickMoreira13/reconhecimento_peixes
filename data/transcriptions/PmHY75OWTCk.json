@@ -1,0 +1,22 @@
+{
+  "texto": "Ae gurizada, olha a Joana do Maquiné A água tá um pouco fria ainda Mas tá pegando",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "Ae gurizada, olha a Joana do Maquiné"
+    },
+    {
+      "start": 1.88,
+      "end": 7.36,
+      "text": "A água tá um pouco fria ainda"
+    },
+    {
+      "start": 7.36,
+      "end": 8.06,
+      "text": "Mas tá pegando"
+    }
+  ],
+  "duracao_seg": 9.49,
+  "idioma_detectado": "pt"
+}

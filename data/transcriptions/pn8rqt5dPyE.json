@@ -1,0 +1,22 @@
+{
+  "texto": "Spooky, scary skeletons And shivers down your spine Shrieking skulls, well shocked",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Spooky, scary skeletons"
+    },
+    {
+      "start": 2.96,
+      "end": 4.66,
+      "text": "And shivers down your spine"
+    },
+    {
+      "start": 4.66,
+      "end": 6.48,
+      "text": "Shrieking skulls, well shocked"
+    }
+  ],
+  "duracao_seg": 6.49,
+  "idioma_detectado": "pt"
+}

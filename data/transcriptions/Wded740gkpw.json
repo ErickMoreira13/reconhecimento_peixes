@@ -1,0 +1,17 @@
+{
+  "texto": "Hoje o de água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar o mar",
+  "segmentos": [
+    {
+      "start": 9.71,
+      "end": 13.95,
+      "text": "Hoje o de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 13.95,
+      "end": 18.25,
+      "text": "Eu armo um anzol de galha pra pegar o mar"
+    }
+  ],
+  "duracao_seg": 18.27,
+  "idioma_detectado": "pt"
+}

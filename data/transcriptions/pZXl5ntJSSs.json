@@ -1,0 +1,22 @@
+{
+  "texto": "nós pegamos aqui um carazão esse aqui é um pouco maior olha só o tamanho desse cara aqui esse aqui é grande pessoal olha só tá doido opa",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 5.57,
+      "text": "nós pegamos aqui um carazão esse aqui é um pouco maior olha só o tamanho desse cara aqui"
+    },
+    {
+      "start": 5.57,
+      "end": 10.55,
+      "text": "esse aqui é grande pessoal olha só tá doido"
+    },
+    {
+      "start": 10.55,
+      "end": 12.76,
+      "text": "opa"
+    }
+  ],
+  "duracao_seg": 14.47,
+  "idioma_detectado": "pt"
+}

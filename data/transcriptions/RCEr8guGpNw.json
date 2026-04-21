@@ -1,0 +1,37 @@
+{
+  "texto": "Apertou muito, tá bom, tá bom, tá bom, só que a bala. É um pacuzinho, né? Hum, meu amor. Sai o bicho aí. Traz ele, vai trazendo, vai trazendo, vai trazendo. Vai, irmão.",
+  "segmentos": [
+    {
+      "start": 40.62,
+      "end": 45.65,
+      "text": "Apertou muito, tá bom, tá bom, tá bom, só que a bala."
+    },
+    {
+      "start": 45.65,
+      "end": 47.94,
+      "text": "É um pacuzinho, né?"
+    },
+    {
+      "start": 47.94,
+      "end": 49.94,
+      "text": "Hum, meu amor."
+    },
+    {
+      "start": 49.94,
+      "end": 52.35,
+      "text": "Sai o bicho aí."
+    },
+    {
+      "start": 52.35,
+      "end": 54.35,
+      "text": "Traz ele, vai trazendo, vai trazendo, vai trazendo."
+    },
+    {
+      "start": 54.35,
+      "end": 57.34,
+      "text": "Vai, irmão."
+    }
+  ],
+  "duracao_seg": 59.05,
+  "idioma_detectado": "pt"
+}

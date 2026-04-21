@@ -1,0 +1,177 @@
+{
+  "texto": "Paulo, olha aqui ó, como é que foi o negócio? Vocês se perderam aí, rodou uns quantos quilômetros perdidos? Uns dez, né? Rodonamos! Ei, mas não tem jeito não, se eu sair no meio da turma, o trem vira bagunça, né? Bota a cara do Luizinho aí também. Ah, bota a cara aí, filho. Ei, ô, garaba. Esses dois homens saíram do barraco, eram as cinco horas da manhã, pra eu poder vir aqui no lago buscar uns trens. Quando deu umas oito horas, o meu pai preocupou, nós foi atrás deles, velho. Topa uma vez perdido muito embaixo, na beira desse piranha velho aí. Ei, mas... Caralho. Hã? Aí, ó, fala aí, como é que é o Luizinho, tá chorando? Chorando, pedindo adeus pra... Não, delírio não. ... salvar o almo dele. Ô, João Paulo, como é que foi com o Luiz passar na piranha, na pingueira? Arrastando a boga na piranha, arrastando a boga no pau, né? Arrastando. Eu falei pra ele, ele falou, não, eu falei, bom, passa nesse pé, em pé, moço. Ele falou, não, eu sou ruim de mais de equilíbrio, né? É não, mano. É igual o pedarrudo. É ruim de mais de equilíbrio, ele dizia nele, né? É não. Mas... Tchau. Tchau. Tchau. Tchau, tchau. Tchau.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Paulo, olha aqui ó, como é que foi o negócio?"
+    },
+    {
+      "start": 2.04,
+      "end": 3.82,
+      "text": "Vocês se perderam aí, rodou uns quantos quilômetros perdidos?"
+    },
+    {
+      "start": 4.36,
+      "end": 5.06,
+      "text": "Uns dez, né?"
+    },
+    {
+      "start": 5.78,
+      "end": 6.18,
+      "text": "Rodonamos!"
+    },
+    {
+      "start": 6.88,
+      "end": 9.94,
+      "text": "Ei, mas não tem jeito não, se eu sair no meio da turma, o trem vira bagunça, né?"
+    },
+    {
+      "start": 10.28,
+      "end": 11.42,
+      "text": "Bota a cara do Luizinho aí também."
+    },
+    {
+      "start": 11.7,
+      "end": 13.56,
+      "text": "Ah, bota a cara aí, filho."
+    },
+    {
+      "start": 14.46,
+      "end": 16.24,
+      "text": "Ei, ô, garaba."
+    },
+    {
+      "start": 16.72,
+      "end": 19.22,
+      "text": "Esses dois homens saíram do barraco, eram as cinco horas da manhã,"
+    },
+    {
+      "start": 19.32,
+      "end": 20.8,
+      "text": "pra eu poder vir aqui no lago buscar uns trens."
+    },
+    {
+      "start": 21.44,
+      "end": 24.16,
+      "text": "Quando deu umas oito horas, o meu pai preocupou, nós foi atrás deles, velho."
+    },
+    {
+      "start": 24.18,
+      "end": 26.92,
+      "text": "Topa uma vez perdido muito embaixo, na beira desse piranha velho aí."
+    },
+    {
+      "start": 27.66,
+      "end": 28.3,
+      "text": "Ei, mas..."
+    },
+    {
+      "start": 28.3,
+      "end": 28.62,
+      "text": "Caralho."
+    },
+    {
+      "start": 28.84,
+      "end": 29.12,
+      "text": "Hã?"
+    },
+    {
+      "start": 29.12,
+      "end": 32.35,
+      "text": "Aí, ó, fala aí, como é que é o Luizinho, tá chorando?"
+    },
+    {
+      "start": 32.75,
+      "end": 34.11,
+      "text": "Chorando, pedindo adeus pra..."
+    },
+    {
+      "start": 34.11,
+      "end": 34.79,
+      "text": "Não, delírio não."
+    },
+    {
+      "start": 34.79,
+      "end": 35.91,
+      "text": "... salvar o almo dele."
+    },
+    {
+      "start": 37.11,
+      "end": 40.19,
+      "text": "Ô, João Paulo, como é que foi com o Luiz passar na piranha, na pingueira?"
+    },
+    {
+      "start": 40.35,
+      "end": 44.23,
+      "text": "Arrastando a boga na piranha, arrastando a boga no pau, né?"
+    },
+    {
+      "start": 44.31,
+      "end": 44.75,
+      "text": "Arrastando."
+    },
+    {
+      "start": 45.47,
+      "end": 49.73,
+      "text": "Eu falei pra ele, ele falou, não, eu falei, bom, passa nesse pé, em pé, moço."
+    },
+    {
+      "start": 49.73,
+      "end": 51.35,
+      "text": "Ele falou, não, eu sou ruim de mais de equilíbrio, né?"
+    },
+    {
+      "start": 52.91,
+      "end": 53.51,
+      "text": "É não, mano."
+    },
+    {
+      "start": 53.51,
+      "end": 54.33,
+      "text": "É igual o pedarrudo."
+    },
+    {
+      "start": 55.95,
+      "end": 57.55,
+      "text": "É ruim de mais de equilíbrio, ele dizia nele, né?"
+    },
+    {
+      "start": 57.65,
+      "end": 58.27,
+      "text": "É não."
+    },
+    {
+      "start": 58.27,
+      "end": 59.03,
+      "text": "Mas..."
+    },
+    {
+      "start": 59.03,
+      "end": 59.91,
+      "text": "Tchau."
+    },
+    {
+      "start": 59.91,
+      "end": 60.07,
+      "text": "Tchau."
+    },
+    {
+      "start": 60.07,
+      "end": 60.25,
+      "text": "Tchau."
+    },
+    {
+      "start": 60.25,
+      "end": 61.37,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 61.37,
+      "end": 61.47,
+      "text": "Tchau."
+    }
+  ],
+  "duracao_seg": 59.93,
+  "idioma_detectado": "pt"
+}

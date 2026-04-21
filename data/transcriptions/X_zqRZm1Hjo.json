@@ -1,0 +1,22 @@
+{
+  "texto": "Aí galera, você que quer montar um sistema desse em casa, estamos aí com o curso aí, criação de tilapia em caixa d'água, você quiser adquirir, vai estar à disposição vocês aí, nosso curso de criação de tilapia em caixa d'água.",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 6.16,
+      "text": "Aí galera, você que quer montar um sistema desse em casa, estamos aí com o curso aí,"
+    },
+    {
+      "start": 6.64,
+      "end": 10.82,
+      "text": "criação de tilapia em caixa d'água, você quiser adquirir, vai estar à disposição"
+    },
+    {
+      "start": 10.82,
+      "end": 13.7,
+      "text": "vocês aí, nosso curso de criação de tilapia em caixa d'água."
+    }
+  ],
+  "duracao_seg": 14.95,
+  "idioma_detectado": "pt"
+}

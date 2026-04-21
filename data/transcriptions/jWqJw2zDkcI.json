@@ -1,0 +1,22 @@
+{
+  "texto": "Casca de bala, eu e casca de bala Nós não pés, não abaquejamos, pés, não abaquejamos Vai não",
+  "segmentos": [
+    {
+      "start": 4.53,
+      "end": 7.17,
+      "text": "Casca de bala, eu e casca de bala"
+    },
+    {
+      "start": 7.17,
+      "end": 15.88,
+      "text": "Nós não pés, não abaquejamos, pés, não abaquejamos"
+    },
+    {
+      "start": 15.88,
+      "end": 16.48,
+      "text": "Vai não"
+    }
+  ],
+  "duracao_seg": 19.39,
+  "idioma_detectado": "pt"
+}

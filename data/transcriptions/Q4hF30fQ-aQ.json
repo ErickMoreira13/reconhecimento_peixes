@@ -1,0 +1,57 @@
+{
+  "texto": "Essa daqui é uma embarcação de pesca, essa daqui é uma embarcação de pesca de pequeno porte, essa dali é de grande porte, como eu já filmei em outro vídeo. Então, quando no começo faz uma embarcação dessa daqui, algumas pessoas até perguntam, uma embarcação dessa fica por quanto? É de 180 a 220, ponto. Então, o que acontece? Algumas pessoas falam, é caro. Não, só você botar duas pessoas para trabalhar mesmo com vontade, a pessoa tira, né? Está vendo aqui, essas partes aqui? Porque vai entrar aqui a parte dos gavetes, isso aqui é como se fosse uma linha, vamos falar assim, se eu olho aqui na parte da frente, tudo preparadinho já desse lado, aí falta, já foi tudo riscado para ser colocado do outro. Está vendo? A embarcação daquela que entra, vai ficar aqui no farol mesmo, essa daqui.",
+  "segmentos": [
+    {
+      "start": 0.66,
+      "end": 7.08,
+      "text": "Essa daqui é uma embarcação de pesca, essa daqui é uma embarcação de pesca de pequeno porte,"
+    },
+    {
+      "start": 7.86,
+      "end": 10.98,
+      "text": "essa dali é de grande porte, como eu já filmei em outro vídeo."
+    },
+    {
+      "start": 11.74,
+      "end": 17.04,
+      "text": "Então, quando no começo faz uma embarcação dessa daqui, algumas pessoas até perguntam,"
+    },
+    {
+      "start": 17.12,
+      "end": 24.38,
+      "text": "uma embarcação dessa fica por quanto? É de 180 a 220, ponto."
+    },
+    {
+      "start": 24.38,
+      "end": 30.7,
+      "text": "Então, o que acontece? Algumas pessoas falam, é caro."
+    },
+    {
+      "start": 30.82,
+      "end": 35.94,
+      "text": "Não, só você botar duas pessoas para trabalhar mesmo com vontade, a pessoa tira, né?"
+    },
+    {
+      "start": 36.24,
+      "end": 41.96,
+      "text": "Está vendo aqui, essas partes aqui? Porque vai entrar aqui a parte dos gavetes,"
+    },
+    {
+      "start": 42.52,
+      "end": 46.86,
+      "text": "isso aqui é como se fosse uma linha, vamos falar assim, se eu olho aqui na parte da frente,"
+    },
+    {
+      "start": 47.82,
+      "end": 54.62,
+      "text": "tudo preparadinho já desse lado, aí falta, já foi tudo riscado para ser colocado do outro."
+    },
+    {
+      "start": 55.4,
+      "end": 60.0,
+      "text": "Está vendo? A embarcação daquela que entra, vai ficar aqui no farol mesmo, essa daqui."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,62 @@
+{
+  "texto": "Calma aí, o bicho tá meio rodando. É? Tá dentro da água lá, ó. Pegou pelo... Pegou filé. Pegou bem? Pegou bem. Ah, esse peixinho aí é... Tem que dizer, hein? Esse peixinho aí da rapala é muito bom. O que que tu achou do instrutor aí? Falou certo no tipo da isca ou não?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Calma aí, o bicho tá meio rodando."
+    },
+    {
+      "start": 1.98,
+      "end": 5.08,
+      "text": "É? Tá dentro da água lá, ó."
+    },
+    {
+      "start": 5.28,
+      "end": 5.98,
+      "text": "Pegou pelo..."
+    },
+    {
+      "start": 5.98,
+      "end": 6.48,
+      "text": "Pegou filé."
+    },
+    {
+      "start": 6.76,
+      "end": 7.22,
+      "text": "Pegou bem?"
+    },
+    {
+      "start": 7.66,
+      "end": 8.14,
+      "text": "Pegou bem."
+    },
+    {
+      "start": 8.28,
+      "end": 11.08,
+      "text": "Ah, esse peixinho aí é..."
+    },
+    {
+      "start": 11.08,
+      "end": 12.2,
+      "text": "Tem que dizer, hein?"
+    },
+    {
+      "start": 13.56,
+      "end": 16.5,
+      "text": "Esse peixinho aí da rapala é muito bom."
+    },
+    {
+      "start": 18.35,
+      "end": 19.67,
+      "text": "O que que tu achou do instrutor aí?"
+    },
+    {
+      "start": 20.43,
+      "end": 22.97,
+      "text": "Falou certo no tipo da isca ou não?"
+    }
+  ],
+  "duracao_seg": 23.21,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,767 @@
+{
+  "texto": "Rapaziada aí do Guerreiro da Pesca Hoje nós vamos fazer uma pescaria Nossos amigos aí Vieram de longe Fazer uma pescaria Daqui a pouco nós estamos mostrando aí em Alto Maí Vamos afundir aí Estamos esperando aqui o Mestre Reinaldo Para nós Fazer essa pescaria aí Estamos esperados aí, se Deus quiser vai dar tudo certo Se Deus quiser Aqui o Artêmio, o Valdeniz E aqui é o Sérgio Lima Guerreiro da Pesca Estamos juntos aí, rapaziada Valeu Aê rapaziada Estamos indo aí, volta o Marinho Nosso amigo Artêmio Valdeniz aí O Reinaldo Está indo aí Maré é seu, ventaço é seu Daqui a pouco nós estamos aí Qualquer coisa aí Aê galera Valdeniz aí já pegou o primeiro Quatro eles Tem menino novo engatinhado Ele está igual o Hugo Vem de verde Nós ficaria aqui Mais rapaziada Vamos prestar Nós vamos terminar o dia Lá na Ponta Grossa O dia hoje é grande Vou em verde Eu quero ver agora ele puxando aí Aê Jesus Vamos aí a invocada Aê Stênio Seu amigo Stênio Olha Cadê tu Stênio? Eu não vejo Mande um alô aí Para o rapaziada Do Pesca de Anzol Alô aí Para a família Pesca de Anzol O meu amigo Rodeniz aqui Está meio decadente Está igual o Hugo Verde e verde E aí gente E aí Stênio Teu amigo aí Olha Tá mais país Do que para mim É porque nós estamos aqui perto Da coxa A terra está bem baixinha Mas Daqui de nada Usaria com uma pareçada Mas está bom Também com a lagoa O mar É assim mesmo rapaziada A vida do mar é assim Vida sofrida Vamos alô aí Para o rapaziada Do Guerreiro da Pesca Estamos juntos Estamos aqui Fazendo uma aventura Aqui Em Alcurrar Né Aí rapaziada Estamos aqui Ferrando Aqui Aqui é Colasso de um Peixezinho Feitaram E a Carapitanga Olha Uma Carapitanga E a nossa amiga Aí Valdeniz Ferrou a Carapitanga A Bicuara Bicuara Bicuara grauda Que o nosso amigo Gastei O Bico de Pro Ferrou O Pirambuzão Que eu ferrei Ali a qual O mestre Reinaldo Ferrou Isso aí Lá Vamos aí rapaziada É que não é brincadeira Se divertindo aqui Com os amigos E é assim mesmo A diversão Continua A diversão Continua Passar aí Os peixinhos Nosso amigo Valdeniz Aprovou Deu uma surra E nós Deu uma surra Feia Ele está igual Verde e verde Ele está meio enjoado Mas é assim mesmo A primeira viagem Dele no mar A nossa vela Está faltando Só o patrocínio Na vela Mas que rei nada Estamos chegando Nossa amiga Ele arregou Gente É saca medonha E a sorte é porque Nós estamos bem Pertinho da terra É",
+  "segmentos": [
+    {
+      "start": 1.1,
+      "end": 59.28,
+      "text": "Rapaziada aí do Guerreiro da Pesca"
+    },
+    {
+      "start": 59.28,
+      "end": 60.84,
+      "text": "Hoje nós vamos fazer uma pescaria"
+    },
+    {
+      "start": 60.84,
+      "end": 62.48,
+      "text": "Nossos amigos aí"
+    },
+    {
+      "start": 62.48,
+      "end": 63.34,
+      "text": "Vieram de longe"
+    },
+    {
+      "start": 63.34,
+      "end": 65.42,
+      "text": "Fazer uma pescaria"
+    },
+    {
+      "start": 65.42,
+      "end": 68.74,
+      "text": "Daqui a pouco nós estamos mostrando aí em Alto Maí"
+    },
+    {
+      "start": 68.74,
+      "end": 70.42,
+      "text": "Vamos afundir aí"
+    },
+    {
+      "start": 70.42,
+      "end": 73.17,
+      "text": "Estamos esperando aqui o Mestre Reinaldo"
+    },
+    {
+      "start": 73.17,
+      "end": 74.95,
+      "text": "Para nós"
+    },
+    {
+      "start": 74.95,
+      "end": 76.41,
+      "text": "Fazer essa pescaria aí"
+    },
+    {
+      "start": 76.41,
+      "end": 79.39,
+      "text": "Estamos esperados aí, se Deus quiser vai dar tudo certo"
+    },
+    {
+      "start": 79.39,
+      "end": 80.15,
+      "text": "Se Deus quiser"
+    },
+    {
+      "start": 80.15,
+      "end": 82.67,
+      "text": "Aqui o Artêmio, o Valdeniz"
+    },
+    {
+      "start": 82.67,
+      "end": 84.77,
+      "text": "E aqui é o Sérgio Lima"
+    },
+    {
+      "start": 84.77,
+      "end": 85.77,
+      "text": "Guerreiro da Pesca"
+    },
+    {
+      "start": 85.77,
+      "end": 87.97,
+      "text": "Estamos juntos aí, rapaziada"
+    },
+    {
+      "start": 87.97,
+      "end": 88.57,
+      "text": "Valeu"
+    },
+    {
+      "start": 88.57,
+      "end": 91.23,
+      "text": "Aê rapaziada"
+    },
+    {
+      "start": 91.23,
+      "end": 92.93,
+      "text": "Estamos indo aí, volta o Marinho"
+    },
+    {
+      "start": 92.93,
+      "end": 95.17,
+      "text": "Nosso amigo Artêmio"
+    },
+    {
+      "start": 95.17,
+      "end": 96.31,
+      "text": "Valdeniz aí"
+    },
+    {
+      "start": 96.31,
+      "end": 99.47,
+      "text": "O Reinaldo"
+    },
+    {
+      "start": 99.47,
+      "end": 102.4,
+      "text": "Está indo aí"
+    },
+    {
+      "start": 102.4,
+      "end": 106.52,
+      "text": "Maré é seu, ventaço é seu"
+    },
+    {
+      "start": 106.52,
+      "end": 134.22,
+      "text": "Daqui a pouco nós estamos aí"
+    },
+    {
+      "start": 134.22,
+      "end": 136.98,
+      "text": "Qualquer coisa aí"
+    },
+    {
+      "start": 253.34,
+      "end": 259.48,
+      "text": "Aê galera"
+    },
+    {
+      "start": 259.48,
+      "end": 265.99,
+      "text": "Valdeniz aí já pegou o primeiro"
+    },
+    {
+      "start": 265.99,
+      "end": 269.19,
+      "text": "Quatro eles"
+    },
+    {
+      "start": 269.19,
+      "end": 271.83,
+      "text": "Tem menino novo engatinhado"
+    },
+    {
+      "start": 271.83,
+      "end": 274.35,
+      "text": "Ele está igual o Hugo"
+    },
+    {
+      "start": 274.35,
+      "end": 275.09,
+      "text": "Vem de verde"
+    },
+    {
+      "start": 275.09,
+      "end": 279.41,
+      "text": "Nós ficaria aqui"
+    },
+    {
+      "start": 279.41,
+      "end": 280.69,
+      "text": "Mais rapaziada"
+    },
+    {
+      "start": 280.69,
+      "end": 295.04,
+      "text": "Vamos prestar"
+    },
+    {
+      "start": 295.04,
+      "end": 295.94,
+      "text": "Nós vamos terminar o dia"
+    },
+    {
+      "start": 295.94,
+      "end": 297.84,
+      "text": "Lá na Ponta Grossa"
+    },
+    {
+      "start": 297.84,
+      "end": 300.68,
+      "text": "O dia hoje é grande"
+    },
+    {
+      "start": 300.68,
+      "end": 306.28,
+      "text": "Vou em verde"
+    },
+    {
+      "start": 306.28,
+      "end": 308.38,
+      "text": "Eu quero ver agora ele puxando aí"
+    },
+    {
+      "start": 308.38,
+      "end": 309.58,
+      "text": "Aê Jesus"
+    },
+    {
+      "start": 309.58,
+      "end": 312.28,
+      "text": "Vamos aí a invocada"
+    },
+    {
+      "start": 312.28,
+      "end": 314.24,
+      "text": "Aê Stênio"
+    },
+    {
+      "start": 314.24,
+      "end": 315.28,
+      "text": "Seu amigo Stênio"
+    },
+    {
+      "start": 315.28,
+      "end": 315.66,
+      "text": "Olha"
+    },
+    {
+      "start": 315.66,
+      "end": 318.13,
+      "text": "Cadê tu Stênio?"
+    },
+    {
+      "start": 318.37,
+      "end": 319.07,
+      "text": "Eu não vejo"
+    },
+    {
+      "start": 319.07,
+      "end": 323.49,
+      "text": "Mande um alô aí"
+    },
+    {
+      "start": 323.49,
+      "end": 324.05,
+      "text": "Para o rapaziada"
+    },
+    {
+      "start": 324.05,
+      "end": 325.45,
+      "text": "Do Pesca de Anzol"
+    },
+    {
+      "start": 325.45,
+      "end": 325.99,
+      "text": "Alô aí"
+    },
+    {
+      "start": 325.99,
+      "end": 326.31,
+      "text": "Para a família"
+    },
+    {
+      "start": 326.31,
+      "end": 327.41,
+      "text": "Pesca de Anzol"
+    },
+    {
+      "start": 327.41,
+      "end": 328.66,
+      "text": "O meu amigo"
+    },
+    {
+      "start": 328.66,
+      "end": 329.14,
+      "text": "Rodeniz aqui"
+    },
+    {
+      "start": 329.14,
+      "end": 330.44,
+      "text": "Está meio decadente"
+    },
+    {
+      "start": 330.44,
+      "end": 331.42,
+      "text": "Está igual o Hugo"
+    },
+    {
+      "start": 331.42,
+      "end": 332.08,
+      "text": "Verde e verde"
+    },
+    {
+      "start": 332.08,
+      "end": 334.7,
+      "text": "E aí gente"
+    },
+    {
+      "start": 334.7,
+      "end": 335.44,
+      "text": "E aí Stênio"
+    },
+    {
+      "start": 335.44,
+      "end": 336.14,
+      "text": "Teu amigo aí"
+    },
+    {
+      "start": 336.14,
+      "end": 336.38,
+      "text": "Olha"
+    },
+    {
+      "start": 336.38,
+      "end": 339.14,
+      "text": "Tá mais país"
+    },
+    {
+      "start": 339.14,
+      "end": 339.82,
+      "text": "Do que para mim"
+    },
+    {
+      "start": 339.82,
+      "end": 341.54,
+      "text": "É porque nós estamos aqui perto"
+    },
+    {
+      "start": 341.54,
+      "end": 342.58,
+      "text": "Da coxa"
+    },
+    {
+      "start": 342.58,
+      "end": 345.05,
+      "text": "A terra está bem baixinha"
+    },
+    {
+      "start": 345.05,
+      "end": 345.89,
+      "text": "Mas"
+    },
+    {
+      "start": 345.89,
+      "end": 347.27,
+      "text": "Daqui de nada"
+    },
+    {
+      "start": 347.27,
+      "end": 348.77,
+      "text": "Usaria com uma pareçada"
+    },
+    {
+      "start": 348.77,
+      "end": 349.97,
+      "text": "Mas está bom"
+    },
+    {
+      "start": 349.97,
+      "end": 351.13,
+      "text": "Também com a lagoa"
+    },
+    {
+      "start": 351.13,
+      "end": 351.75,
+      "text": "O mar"
+    },
+    {
+      "start": 351.75,
+      "end": 358.36,
+      "text": "É assim mesmo rapaziada"
+    },
+    {
+      "start": 358.36,
+      "end": 359.28,
+      "text": "A vida do mar é assim"
+    },
+    {
+      "start": 359.28,
+      "end": 360.2,
+      "text": "Vida sofrida"
+    },
+    {
+      "start": 360.2,
+      "end": 362.26,
+      "text": "Vamos alô aí"
+    },
+    {
+      "start": 362.26,
+      "end": 363.0,
+      "text": "Para o rapaziada"
+    },
+    {
+      "start": 363.0,
+      "end": 364.12,
+      "text": "Do Guerreiro da Pesca"
+    },
+    {
+      "start": 364.12,
+      "end": 365.06,
+      "text": "Estamos juntos"
+    },
+    {
+      "start": 365.06,
+      "end": 366.12,
+      "text": "Estamos aqui"
+    },
+    {
+      "start": 366.12,
+      "end": 367.0,
+      "text": "Fazendo uma aventura"
+    },
+    {
+      "start": 367.0,
+      "end": 367.58,
+      "text": "Aqui"
+    },
+    {
+      "start": 367.58,
+      "end": 369.52,
+      "text": "Em Alcurrar"
+    },
+    {
+      "start": 369.52,
+      "end": 369.8,
+      "text": "Né"
+    },
+    {
+      "start": 369.8,
+      "end": 560.11,
+      "text": "Aí rapaziada"
+    },
+    {
+      "start": 560.11,
+      "end": 560.63,
+      "text": "Estamos aqui"
+    },
+    {
+      "start": 560.63,
+      "end": 561.05,
+      "text": "Ferrando"
+    },
+    {
+      "start": 561.05,
+      "end": 561.35,
+      "text": "Aqui"
+    },
+    {
+      "start": 561.35,
+      "end": 561.61,
+      "text": "Aqui é"
+    },
+    {
+      "start": 561.61,
+      "end": 562.61,
+      "text": "Colasso de um"
+    },
+    {
+      "start": 562.61,
+      "end": 564.52,
+      "text": "Peixezinho"
+    },
+    {
+      "start": 564.52,
+      "end": 565.24,
+      "text": "Feitaram"
+    },
+    {
+      "start": 565.24,
+      "end": 572.46,
+      "text": "E a Carapitanga"
+    },
+    {
+      "start": 572.46,
+      "end": 574.38,
+      "text": "Olha"
+    },
+    {
+      "start": 574.38,
+      "end": 575.04,
+      "text": "Uma Carapitanga"
+    },
+    {
+      "start": 575.04,
+      "end": 575.64,
+      "text": "E a nossa amiga"
+    },
+    {
+      "start": 575.64,
+      "end": 575.96,
+      "text": "Aí"
+    },
+    {
+      "start": 575.96,
+      "end": 577.02,
+      "text": "Valdeniz"
+    },
+    {
+      "start": 577.02,
+      "end": 578.34,
+      "text": "Ferrou a Carapitanga"
+    },
+    {
+      "start": 578.34,
+      "end": 584.2,
+      "text": "A Bicuara"
+    },
+    {
+      "start": 584.2,
+      "end": 585.68,
+      "text": "Bicuara"
+    },
+    {
+      "start": 585.68,
+      "end": 586.92,
+      "text": "Bicuara grauda"
+    },
+    {
+      "start": 586.92,
+      "end": 587.56,
+      "text": "Que o nosso amigo"
+    },
+    {
+      "start": 587.56,
+      "end": 587.94,
+      "text": "Gastei"
+    },
+    {
+      "start": 587.94,
+      "end": 589.5,
+      "text": "O Bico de Pro"
+    },
+    {
+      "start": 589.5,
+      "end": 590.14,
+      "text": "Ferrou"
+    },
+    {
+      "start": 590.14,
+      "end": 594.98,
+      "text": "O Pirambuzão"
+    },
+    {
+      "start": 594.98,
+      "end": 595.96,
+      "text": "Que eu ferrei"
+    },
+    {
+      "start": 595.96,
+      "end": 603.82,
+      "text": "Ali a qual"
+    },
+    {
+      "start": 603.82,
+      "end": 604.54,
+      "text": "O mestre Reinaldo"
+    },
+    {
+      "start": 604.54,
+      "end": 604.88,
+      "text": "Ferrou"
+    },
+    {
+      "start": 604.88,
+      "end": 605.24,
+      "text": "Isso aí"
+    },
+    {
+      "start": 605.24,
+      "end": 605.48,
+      "text": "Lá"
+    },
+    {
+      "start": 605.48,
+      "end": 613.07,
+      "text": "Vamos aí rapaziada"
+    },
+    {
+      "start": 613.07,
+      "end": 613.87,
+      "text": "É que não é brincadeira"
+    },
+    {
+      "start": 613.87,
+      "end": 614.79,
+      "text": "Se divertindo aqui"
+    },
+    {
+      "start": 614.79,
+      "end": 615.47,
+      "text": "Com os amigos"
+    },
+    {
+      "start": 615.47,
+      "end": 618.04,
+      "text": "E é assim mesmo"
+    },
+    {
+      "start": 618.04,
+      "end": 619.0,
+      "text": "A diversão"
+    },
+    {
+      "start": 619.0,
+      "end": 619.5,
+      "text": "Continua"
+    },
+    {
+      "start": 619.5,
+      "end": 621.28,
+      "text": "A diversão"
+    },
+    {
+      "start": 621.28,
+      "end": 621.88,
+      "text": "Continua"
+    },
+    {
+      "start": 621.88,
+      "end": 814.68,
+      "text": "Passar aí"
+    },
+    {
+      "start": 814.68,
+      "end": 815.26,
+      "text": "Os peixinhos"
+    },
+    {
+      "start": 815.26,
+      "end": 819.88,
+      "text": "Nosso amigo"
+    },
+    {
+      "start": 819.88,
+      "end": 820.52,
+      "text": "Valdeniz"
+    },
+    {
+      "start": 820.52,
+      "end": 821.26,
+      "text": "Aprovou"
+    },
+    {
+      "start": 821.26,
+      "end": 822.16,
+      "text": "Deu uma surra"
+    },
+    {
+      "start": 822.16,
+      "end": 822.46,
+      "text": "E nós"
+    },
+    {
+      "start": 822.46,
+      "end": 824.86,
+      "text": "Deu uma surra"
+    },
+    {
+      "start": 824.86,
+      "end": 825.26,
+      "text": "Feia"
+    },
+    {
+      "start": 825.26,
+      "end": 825.9,
+      "text": "Ele está igual"
+    },
+    {
+      "start": 825.9,
+      "end": 827.04,
+      "text": "Verde e verde"
+    },
+    {
+      "start": 827.04,
+      "end": 829.92,
+      "text": "Ele está meio enjoado"
+    },
+    {
+      "start": 829.92,
+      "end": 830.6,
+      "text": "Mas é assim mesmo"
+    },
+    {
+      "start": 830.6,
+      "end": 831.36,
+      "text": "A primeira viagem"
+    },
+    {
+      "start": 831.36,
+      "end": 832.0,
+      "text": "Dele no mar"
+    },
+    {
+      "start": 832.0,
+      "end": 834.61,
+      "text": "A nossa vela"
+    },
+    {
+      "start": 834.61,
+      "end": 836.92,
+      "text": "Está faltando"
+    },
+    {
+      "start": 836.92,
+      "end": 837.66,
+      "text": "Só o patrocínio"
+    },
+    {
+      "start": 837.66,
+      "end": 838.68,
+      "text": "Na vela"
+    },
+    {
+      "start": 838.68,
+      "end": 841.58,
+      "text": "Mas que rei nada"
+    },
+    {
+      "start": 841.58,
+      "end": 866.01,
+      "text": "Estamos chegando"
+    },
+    {
+      "start": 866.01,
+      "end": 867.84,
+      "text": "Nossa amiga"
+    },
+    {
+      "start": 867.84,
+      "end": 868.58,
+      "text": "Ele arregou"
+    },
+    {
+      "start": 868.58,
+      "end": 868.94,
+      "text": "Gente"
+    },
+    {
+      "start": 868.94,
+      "end": 882.68,
+      "text": "É saca medonha"
+    },
+    {
+      "start": 882.68,
+      "end": 885.16,
+      "text": "E a sorte é porque"
+    },
+    {
+      "start": 885.16,
+      "end": 885.62,
+      "text": "Nós estamos bem"
+    },
+    {
+      "start": 885.62,
+      "end": 886.5,
+      "text": "Pertinho da terra"
+    },
+    {
+      "start": 886.5,
+      "end": 886.78,
+      "text": "É"
+    }
+  ],
+  "duracao_seg": 952.17,
+  "idioma_detectado": "pt"
+}

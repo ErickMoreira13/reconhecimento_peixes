@@ -1,0 +1,587 @@
+{
+  "texto": "E aí, pessoal, bora fazer uma pescaria comigo? Hoje o meu companheiro que está aqui disse que não vai pescar. Pessoal, hoje eu vou ficar só por trás das câmeras, hein? Vamos fazer uma pescaria caipira hoje bem simples, né mãe? E eu preciso garantir o peixe. Eu hoje fiquei com a responsabilidade de fazer o jantar sozinho. Hoje eu estou até por fora do barco, porque eu não vou ter envolvimento nenhum com o anzol e com o peixe hoje, tá pessoal? Vai ser só a minha mãezona que vai garantir a peixada, hein? É, o compromisso dele é só quando o peixe já estiver pronto. Por enquanto ele não quer compromisso com o peixe. Bora lá? Bora. Estou preparada já. Vai pegar, vai pegar. Peguei. Venha, venha, venha. Ih, eu peguei de novo. Rapaz, olha o jeito que o peixe sai da água. Virando mais que disco. Como assim? Jesus. Pranelinha, calma aí. Vou acalmar ela. Disco de vinil. Calma aí, vou acalmar ela. Rapaz, demorou, mas eu peguei, ó. Tá, calma aí. Vai. Olha a cor. Pera aí, mãe, pera aí. É bonita, né? Rapaz, ela quer me morder, mas eu não deixo não. Ó. Piranha roxa. Roxinha que vocês não estão vendo pessoalmente, ó. Mas é bonita, né? Mas ela é muito roxa. Vai para o balde. Vai pegar. Vai pegar, vai pegar, vai pegar. Olha, gente, olha. Afundar. Venha, venha. Eita, peguei. Ih, peguei. Essa é a maior, hein? Venha, venha, venha. Pacu. É mesmo, né? Ai, ai, ai. É mesmo. Socorro, cadê a linha? Puxa direito. Ih, gente do céu. Olha só o que eu peguei. Olha o tamanho da Lapa de Pacu, pessoal. Olha, agora desse tamanho aqui é difícil pegar, viu? Ah, agora não quero sair daqui, não. Não sai, uai. Esse daqui, esse Pacu aqui é... Aí, mete o dedo aí para o pessoal vir aí. Aí, gente, olha aí, ó. Não, mas esse Pacu aqui, ele tem um dentão. Ele come a mesma fruta que o tambaquei come, né? Ele tem um dentão. Eu não vou botar, não. Ele fura. Bora lá. Bora ver quem é que está puxando aqui. Estou pescando a linha de mão hoje, olha. Olha, está puxando. Rapaz, eu já estou ouvindo, hein? Eita. Está aí coando. Olha aí quem foi que saiu aqui, ó. Quem foi? Quem foi? Olha o tamanho do meu chorão, gente. Aí sim, hein? Parecendo uma pirarara, mas... Rapaz, esse daqui já está crescido, não está? Me assustei bem. Olha, está pegando aí o outro. Pegou. Aqui é um pequenininho que veio, olha. Pegou, pegou, pegou. Estou pescando duplo. Vou jogar para o balde aqui. É o pessoal. Peguei. Venha, venha. Rapaz. Foga não. Mas é peixe, entendeu? É peixe, é. Frita e come com espinha e tudo, porque... Olha. Uxa, você é uma lamparia. É uma piranha. É uma piranha. Olha. A boca. Aqui, quando tu frita, ela come com espinha e tudo. Nem precisa se preocupar. O balde está bonito, olha. Olha, olha. Tem. Afundar. Venha, venha. Eita, peguei. Uhul, peguei essa maior, hein? Venha, venha, venha. Então, vamos lá. Vê. Eita, venha. Venha.",
+  "segmentos": [
+    {
+      "start": 14.83,
+      "end": 17.33,
+      "text": "E aí, pessoal, bora fazer uma pescaria comigo?"
+    },
+    {
+      "start": 17.99,
+      "end": 21.21,
+      "text": "Hoje o meu companheiro que está aqui disse que não vai pescar."
+    },
+    {
+      "start": 21.69,
+      "end": 24.21,
+      "text": "Pessoal, hoje eu vou ficar só por trás das câmeras, hein?"
+    },
+    {
+      "start": 25.15,
+      "end": 28.25,
+      "text": "Vamos fazer uma pescaria caipira hoje bem simples, né mãe?"
+    },
+    {
+      "start": 28.81,
+      "end": 30.51,
+      "text": "E eu preciso garantir o peixe."
+    },
+    {
+      "start": 30.73,
+      "end": 35.25,
+      "text": "Eu hoje fiquei com a responsabilidade de fazer o jantar sozinho."
+    },
+    {
+      "start": 35.73,
+      "end": 43.01,
+      "text": "Hoje eu estou até por fora do barco, porque eu não vou ter envolvimento nenhum com o anzol e com o peixe hoje, tá pessoal?"
+    },
+    {
+      "start": 43.01,
+      "end": 45.39,
+      "text": "Vai ser só a minha mãezona que vai garantir a peixada, hein?"
+    },
+    {
+      "start": 45.69,
+      "end": 48.81,
+      "text": "É, o compromisso dele é só quando o peixe já estiver pronto."
+    },
+    {
+      "start": 48.93,
+      "end": 51.01,
+      "text": "Por enquanto ele não quer compromisso com o peixe."
+    },
+    {
+      "start": 51.41,
+      "end": 51.77,
+      "text": "Bora lá?"
+    },
+    {
+      "start": 52.29,
+      "end": 52.65,
+      "text": "Bora."
+    },
+    {
+      "start": 53.25,
+      "end": 54.31,
+      "text": "Estou preparada já."
+    },
+    {
+      "start": 84.43,
+      "end": 85.45,
+      "text": "Vai pegar, vai pegar."
+    },
+    {
+      "start": 91.34,
+      "end": 91.82,
+      "text": "Peguei."
+    },
+    {
+      "start": 92.84,
+      "end": 93.94,
+      "text": "Venha, venha, venha."
+    },
+    {
+      "start": 94.56,
+      "end": 95.84,
+      "text": "Ih, eu peguei de novo."
+    },
+    {
+      "start": 98.42,
+      "end": 100.48,
+      "text": "Rapaz, olha o jeito que o peixe sai da água."
+    },
+    {
+      "start": 101.38,
+      "end": 102.72,
+      "text": "Virando mais que disco."
+    },
+    {
+      "start": 102.9,
+      "end": 103.5,
+      "text": "Como assim?"
+    },
+    {
+      "start": 104.0,
+      "end": 104.36,
+      "text": "Jesus."
+    },
+    {
+      "start": 105.8,
+      "end": 107.5,
+      "text": "Pranelinha, calma aí."
+    },
+    {
+      "start": 107.5,
+      "end": 109.67,
+      "text": "Vou acalmar ela."
+    },
+    {
+      "start": 109.69,
+      "end": 110.57,
+      "text": "Disco de vinil."
+    },
+    {
+      "start": 110.69,
+      "end": 112.05,
+      "text": "Calma aí, vou acalmar ela."
+    },
+    {
+      "start": 112.79,
+      "end": 114.23,
+      "text": "Rapaz, demorou, mas eu peguei, ó."
+    },
+    {
+      "start": 116.31,
+      "end": 116.97,
+      "text": "Tá, calma aí."
+    },
+    {
+      "start": 117.57,
+      "end": 117.93,
+      "text": "Vai."
+    },
+    {
+      "start": 118.73,
+      "end": 120.13,
+      "text": "Olha a cor."
+    },
+    {
+      "start": 121.07,
+      "end": 122.21,
+      "text": "Pera aí, mãe, pera aí."
+    },
+    {
+      "start": 127.42,
+      "end": 128.22,
+      "text": "É bonita, né?"
+    },
+    {
+      "start": 130.01,
+      "end": 132.05,
+      "text": "Rapaz, ela quer me morder, mas eu não deixo não."
+    },
+    {
+      "start": 132.85,
+      "end": 133.01,
+      "text": "Ó."
+    },
+    {
+      "start": 133.99,
+      "end": 134.81,
+      "text": "Piranha roxa."
+    },
+    {
+      "start": 135.25,
+      "end": 137.69,
+      "text": "Roxinha que vocês não estão vendo pessoalmente, ó."
+    },
+    {
+      "start": 137.95,
+      "end": 138.85,
+      "text": "Mas é bonita, né?"
+    },
+    {
+      "start": 138.85,
+      "end": 140.17,
+      "text": "Mas ela é muito roxa."
+    },
+    {
+      "start": 141.03,
+      "end": 142.11,
+      "text": "Vai para o balde."
+    },
+    {
+      "start": 142.61,
+      "end": 149.69,
+      "text": "Vai pegar."
+    },
+    {
+      "start": 149.69,
+      "end": 158.07,
+      "text": "Vai pegar, vai pegar, vai pegar."
+    },
+    {
+      "start": 158.19,
+      "end": 158.89,
+      "text": "Olha, gente, olha."
+    },
+    {
+      "start": 160.8,
+      "end": 161.24,
+      "text": "Afundar."
+    },
+    {
+      "start": 161.94,
+      "end": 162.54,
+      "text": "Venha, venha."
+    },
+    {
+      "start": 162.98,
+      "end": 164.06,
+      "text": "Eita, peguei."
+    },
+    {
+      "start": 165.12,
+      "end": 165.9,
+      "text": "Ih, peguei."
+    },
+    {
+      "start": 165.96,
+      "end": 166.96,
+      "text": "Essa é a maior, hein?"
+    },
+    {
+      "start": 169.72,
+      "end": 170.82,
+      "text": "Venha, venha, venha."
+    },
+    {
+      "start": 173.23,
+      "end": 173.71,
+      "text": "Pacu."
+    },
+    {
+      "start": 174.7,
+      "end": 175.66,
+      "text": "É mesmo, né?"
+    },
+    {
+      "start": 176.06,
+      "end": 176.92,
+      "text": "Ai, ai, ai."
+    },
+    {
+      "start": 177.16,
+      "end": 177.74,
+      "text": "É mesmo."
+    },
+    {
+      "start": 178.22,
+      "end": 179.26,
+      "text": "Socorro, cadê a linha?"
+    },
+    {
+      "start": 179.42,
+      "end": 180.1,
+      "text": "Puxa direito."
+    },
+    {
+      "start": 180.1,
+      "end": 181.24,
+      "text": "Ih, gente do céu."
+    },
+    {
+      "start": 181.32,
+      "end": 182.46,
+      "text": "Olha só o que eu peguei."
+    },
+    {
+      "start": 184.69,
+      "end": 186.89,
+      "text": "Olha o tamanho da Lapa de Pacu, pessoal."
+    },
+    {
+      "start": 186.89,
+      "end": 190.07,
+      "text": "Olha, agora desse tamanho aqui é difícil pegar, viu?"
+    },
+    {
+      "start": 190.07,
+      "end": 192.3,
+      "text": "Ah, agora não quero sair daqui, não."
+    },
+    {
+      "start": 193.97,
+      "end": 194.83,
+      "text": "Não sai, uai."
+    },
+    {
+      "start": 194.99,
+      "end": 197.17,
+      "text": "Esse daqui, esse Pacu aqui é..."
+    },
+    {
+      "start": 197.17,
+      "end": 198.89,
+      "text": "Aí, mete o dedo aí para o pessoal vir aí."
+    },
+    {
+      "start": 199.67,
+      "end": 200.75,
+      "text": "Aí, gente, olha aí, ó."
+    },
+    {
+      "start": 200.91,
+      "end": 203.97,
+      "text": "Não, mas esse Pacu aqui, ele tem um dentão."
+    },
+    {
+      "start": 204.88,
+      "end": 206.94,
+      "text": "Ele come a mesma fruta que o tambaquei come, né?"
+    },
+    {
+      "start": 207.02,
+      "end": 207.66,
+      "text": "Ele tem um dentão."
+    },
+    {
+      "start": 207.74,
+      "end": 208.44,
+      "text": "Eu não vou botar, não."
+    },
+    {
+      "start": 208.48,
+      "end": 209.08,
+      "text": "Ele fura."
+    },
+    {
+      "start": 210.74,
+      "end": 211.24,
+      "text": "Bora lá."
+    },
+    {
+      "start": 243.2,
+      "end": 244.4,
+      "text": "Bora ver quem é que está puxando aqui."
+    },
+    {
+      "start": 244.48,
+      "end": 246.16,
+      "text": "Estou pescando a linha de mão hoje, olha."
+    },
+    {
+      "start": 246.7,
+      "end": 247.92,
+      "text": "Olha, está puxando."
+    },
+    {
+      "start": 247.92,
+      "end": 253.89,
+      "text": "Rapaz, eu já estou ouvindo, hein?"
+    },
+    {
+      "start": 254.45,
+      "end": 254.81,
+      "text": "Eita."
+    },
+    {
+      "start": 255.01,
+      "end": 255.65,
+      "text": "Está aí coando."
+    },
+    {
+      "start": 256.25,
+      "end": 257.73,
+      "text": "Olha aí quem foi que saiu aqui, ó."
+    },
+    {
+      "start": 257.85,
+      "end": 258.19,
+      "text": "Quem foi?"
+    },
+    {
+      "start": 258.27,
+      "end": 258.57,
+      "text": "Quem foi?"
+    },
+    {
+      "start": 259.97,
+      "end": 262.19,
+      "text": "Olha o tamanho do meu chorão, gente."
+    },
+    {
+      "start": 264.13,
+      "end": 264.85,
+      "text": "Aí sim, hein?"
+    },
+    {
+      "start": 266.54,
+      "end": 268.38,
+      "text": "Parecendo uma pirarara, mas..."
+    },
+    {
+      "start": 268.38,
+      "end": 270.78,
+      "text": "Rapaz, esse daqui já está crescido, não está?"
+    },
+    {
+      "start": 272.18,
+      "end": 273.08,
+      "text": "Me assustei bem."
+    },
+    {
+      "start": 273.28,
+      "end": 274.54,
+      "text": "Olha, está pegando aí o outro."
+    },
+    {
+      "start": 274.82,
+      "end": 275.22,
+      "text": "Pegou."
+    },
+    {
+      "start": 277.03,
+      "end": 279.23,
+      "text": "Aqui é um pequenininho que veio, olha."
+    },
+    {
+      "start": 281.85,
+      "end": 282.95,
+      "text": "Pegou, pegou, pegou."
+    },
+    {
+      "start": 283.27,
+      "end": 284.43,
+      "text": "Estou pescando duplo."
+    },
+    {
+      "start": 284.43,
+      "end": 290.3,
+      "text": "Vou jogar para o balde aqui."
+    },
+    {
+      "start": 298.39,
+      "end": 299.01,
+      "text": "É o pessoal."
+    },
+    {
+      "start": 308.83,
+      "end": 309.35,
+      "text": "Peguei."
+    },
+    {
+      "start": 310.67,
+      "end": 311.41,
+      "text": "Venha, venha."
+    },
+    {
+      "start": 312.55,
+      "end": 312.99,
+      "text": "Rapaz."
+    },
+    {
+      "start": 313.31,
+      "end": 313.87,
+      "text": "Foga não."
+    },
+    {
+      "start": 316.96,
+      "end": 318.3,
+      "text": "Mas é peixe, entendeu?"
+    },
+    {
+      "start": 318.88,
+      "end": 319.58,
+      "text": "É peixe, é."
+    },
+    {
+      "start": 320.55,
+      "end": 323.77,
+      "text": "Frita e come com espinha e tudo, porque..."
+    },
+    {
+      "start": 323.77,
+      "end": 323.99,
+      "text": "Olha."
+    },
+    {
+      "start": 326.4,
+      "end": 327.64,
+      "text": "Uxa, você é uma lamparia."
+    },
+    {
+      "start": 329.77,
+      "end": 330.31,
+      "text": "É uma piranha."
+    },
+    {
+      "start": 331.0,
+      "end": 332.0,
+      "text": "É uma piranha."
+    },
+    {
+      "start": 333.7,
+      "end": 333.9,
+      "text": "Olha."
+    },
+    {
+      "start": 336.35,
+      "end": 336.91,
+      "text": "A boca."
+    },
+    {
+      "start": 337.97,
+      "end": 340.49,
+      "text": "Aqui, quando tu frita, ela come com espinha e tudo."
+    },
+    {
+      "start": 340.49,
+      "end": 342.17,
+      "text": "Nem precisa se preocupar."
+    },
+    {
+      "start": 344.77,
+      "end": 346.27,
+      "text": "O balde está bonito, olha."
+    },
+    {
+      "start": 347.08,
+      "end": 347.62,
+      "text": "Olha, olha."
+    },
+    {
+      "start": 349.26,
+      "end": 349.58,
+      "text": "Tem."
+    },
+    {
+      "start": 365.8,
+      "end": 366.32,
+      "text": "Afundar."
+    },
+    {
+      "start": 367.02,
+      "end": 367.64,
+      "text": "Venha, venha."
+    },
+    {
+      "start": 368.08,
+      "end": 369.14,
+      "text": "Eita, peguei."
+    },
+    {
+      "start": 370.21,
+      "end": 372.07,
+      "text": "Uhul, peguei essa maior, hein?"
+    },
+    {
+      "start": 374.76,
+      "end": 375.92,
+      "text": "Venha, venha, venha."
+    },
+    {
+      "start": 375.92,
+      "end": 376.24,
+      "text": "Então, vamos lá."
+    },
+    {
+      "start": 376.24,
+      "end": 376.92,
+      "text": "Vê."
+    },
+    {
+      "start": 393.24,
+      "end": 394.02,
+      "text": "Eita, venha."
+    },
+    {
+      "start": 394.02,
+      "end": 394.14,
+      "text": "Venha."
+    }
+  ],
+  "duracao_seg": 420.05,
+  "idioma_detectado": "pt"
+}

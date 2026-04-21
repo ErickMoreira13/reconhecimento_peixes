@@ -1,0 +1,202 @@
+{
+  "texto": "Hoje eu fui pegar umas traíras gigantes nesse açude velho abandonado. E já faz mais de um ano que ninguém pesca aqui. As bichas é pra tá gigante, viu? E eu vou tá usando essa isca mágica aqui que eu aprendi. A bicha é só bater na água que as traíras ficam tudo doidas. Joguei a isca na água e não demorou nada. As bichas já começaram a beliscar. Essa isca não falha não, viu? Eu já fui puxando aí. Mas olha que azar, a bicha caiu dentro de novo. Vamos pra mais uma tentativa. Dessa vez eu acho que vai dar certo. Joguei aí no mesmo lugar e rapaz, a bicha deu um bote na isca. Não deu tempo pra fazer nada, a bicha foi embora de novo. O açude tava infestado de traíra, viu? Só que eu não tava conseguindo pegar nenhuma. Coloquei aí novamente, a traíra pegou. Mas quando eu puxei ela soltou novamente. E poderia ser que a isca tivesse grande. Então eu diminuí, ó. Essa daí quase que vinha. Eu já tava com raiva já pra desistir, viu? Não tinha condição não de um negócio desse. Desse tanto de traíra, eu não ia pegar nenhuma. Olha aqui, ó. Mais uma que conseguiu escapar. Rapaz, já tava até sem esperança, mas joguei o anzol mais uma vez, ó. E dessa vez uma veio. Até que enfim eu consegui pegar uma danada de uma traíra aqui. E essa aí é grandinha, já dá um frito. E eu fiquei animado. Joguei mais uma vez pra tentar pegar outra. E peguei outra. Essa aí também não conseguiu escapar não. E esse foi o resultado da pescaria. Duas traíras e um monto que fugiu. E eu vou voltar aqui com o anzol melhor. Porque esse meu aqui tá ruim demais. E aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "Hoje eu fui pegar umas traíras gigantes nesse açude velho abandonado."
+    },
+    {
+      "start": 3.62,
+      "end": 5.74,
+      "text": "E já faz mais de um ano que ninguém pesca aqui."
+    },
+    {
+      "start": 5.92,
+      "end": 7.42,
+      "text": "As bichas é pra tá gigante, viu?"
+    },
+    {
+      "start": 7.54,
+      "end": 10.06,
+      "text": "E eu vou tá usando essa isca mágica aqui que eu aprendi."
+    },
+    {
+      "start": 10.2,
+      "end": 12.78,
+      "text": "A bicha é só bater na água que as traíras ficam tudo doidas."
+    },
+    {
+      "start": 12.92,
+      "end": 15.18,
+      "text": "Joguei a isca na água e não demorou nada."
+    },
+    {
+      "start": 15.28,
+      "end": 16.92,
+      "text": "As bichas já começaram a beliscar."
+    },
+    {
+      "start": 17.08,
+      "end": 18.44,
+      "text": "Essa isca não falha não, viu?"
+    },
+    {
+      "start": 18.54,
+      "end": 19.66,
+      "text": "Eu já fui puxando aí."
+    },
+    {
+      "start": 19.9,
+      "end": 22.04,
+      "text": "Mas olha que azar, a bicha caiu dentro de novo."
+    },
+    {
+      "start": 22.2,
+      "end": 23.54,
+      "text": "Vamos pra mais uma tentativa."
+    },
+    {
+      "start": 23.64,
+      "end": 24.96,
+      "text": "Dessa vez eu acho que vai dar certo."
+    },
+    {
+      "start": 25.14,
+      "end": 28.44,
+      "text": "Joguei aí no mesmo lugar e rapaz, a bicha deu um bote na isca."
+    },
+    {
+      "start": 28.44,
+      "end": 30.88,
+      "text": "Não deu tempo pra fazer nada, a bicha foi embora de novo."
+    },
+    {
+      "start": 30.96,
+      "end": 32.94,
+      "text": "O açude tava infestado de traíra, viu?"
+    },
+    {
+      "start": 33.04,
+      "end": 34.72,
+      "text": "Só que eu não tava conseguindo pegar nenhuma."
+    },
+    {
+      "start": 35.02,
+      "end": 36.88,
+      "text": "Coloquei aí novamente, a traíra pegou."
+    },
+    {
+      "start": 37.0,
+      "end": 38.6,
+      "text": "Mas quando eu puxei ela soltou novamente."
+    },
+    {
+      "start": 38.9,
+      "end": 40.74,
+      "text": "E poderia ser que a isca tivesse grande."
+    },
+    {
+      "start": 40.88,
+      "end": 41.82,
+      "text": "Então eu diminuí, ó."
+    },
+    {
+      "start": 41.88,
+      "end": 43.16,
+      "text": "Essa daí quase que vinha."
+    },
+    {
+      "start": 43.4,
+      "end": 45.34,
+      "text": "Eu já tava com raiva já pra desistir, viu?"
+    },
+    {
+      "start": 45.56,
+      "end": 47.28,
+      "text": "Não tinha condição não de um negócio desse."
+    },
+    {
+      "start": 47.38,
+      "end": 49.54,
+      "text": "Desse tanto de traíra, eu não ia pegar nenhuma."
+    },
+    {
+      "start": 49.82,
+      "end": 50.42,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 50.42,
+      "end": 51.82,
+      "text": "Mais uma que conseguiu escapar."
+    },
+    {
+      "start": 52.18,
+      "end": 55.56,
+      "text": "Rapaz, já tava até sem esperança, mas joguei o anzol mais uma vez, ó."
+    },
+    {
+      "start": 55.7,
+      "end": 56.78,
+      "text": "E dessa vez uma veio."
+    },
+    {
+      "start": 56.78,
+      "end": 59.6,
+      "text": "Até que enfim eu consegui pegar uma danada de uma traíra aqui."
+    },
+    {
+      "start": 59.84,
+      "end": 61.56,
+      "text": "E essa aí é grandinha, já dá um frito."
+    },
+    {
+      "start": 61.78,
+      "end": 62.66,
+      "text": "E eu fiquei animado."
+    },
+    {
+      "start": 62.72,
+      "end": 64.48,
+      "text": "Joguei mais uma vez pra tentar pegar outra."
+    },
+    {
+      "start": 64.7,
+      "end": 65.48,
+      "text": "E peguei outra."
+    },
+    {
+      "start": 65.54,
+      "end": 67.16,
+      "text": "Essa aí também não conseguiu escapar não."
+    },
+    {
+      "start": 67.32,
+      "end": 68.88,
+      "text": "E esse foi o resultado da pescaria."
+    },
+    {
+      "start": 68.96,
+      "end": 70.74,
+      "text": "Duas traíras e um monto que fugiu."
+    },
+    {
+      "start": 70.86,
+      "end": 72.44,
+      "text": "E eu vou voltar aqui com o anzol melhor."
+    },
+    {
+      "start": 72.56,
+      "end": 74.06,
+      "text": "Porque esse meu aqui tá ruim demais."
+    },
+    {
+      "start": 74.06,
+      "end": 79.18,
+      "text": "E aí"
+    }
+  ],
+  "duracao_seg": 74.25,
+  "idioma_detectado": "pt"
+}

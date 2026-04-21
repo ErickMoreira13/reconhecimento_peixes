@@ -1,0 +1,52 @@
+{
+  "texto": "Nossa, é o peixe. Que rato do peixe. Cadê o peixe? Cadê o peixe? Cadê o peixe? Cadê o peixe? O peixe vai tirando... vai tirando... vai tirando o peixe do peixe.",
+  "segmentos": [
+    {
+      "start": 2.86,
+      "end": 3.86,
+      "text": "Nossa, é o peixe."
+    },
+    {
+      "start": 3.86,
+      "end": 4.93,
+      "text": "Que rato do peixe."
+    },
+    {
+      "start": 4.93,
+      "end": 6.02,
+      "text": "Cadê o peixe?"
+    },
+    {
+      "start": 6.02,
+      "end": 7.02,
+      "text": "Cadê o peixe?"
+    },
+    {
+      "start": 7.02,
+      "end": 8.02,
+      "text": "Cadê o peixe?"
+    },
+    {
+      "start": 8.02,
+      "end": 10.05,
+      "text": "Cadê o peixe?"
+    },
+    {
+      "start": 10.05,
+      "end": 12.05,
+      "text": "O peixe vai tirando..."
+    },
+    {
+      "start": 12.05,
+      "end": 13.05,
+      "text": "vai tirando..."
+    },
+    {
+      "start": 13.05,
+      "end": 15.05,
+      "text": "vai tirando o peixe do peixe."
+    }
+  ],
+  "duracao_seg": 15.95,
+  "idioma_detectado": "pt"
+}

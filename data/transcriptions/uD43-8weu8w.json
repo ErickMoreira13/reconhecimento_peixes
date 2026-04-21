@@ -1,0 +1,17 @@
+{
+  "texto": "O que você vai morrer? Eu vou morrer",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 1.88,
+      "text": "O que você vai morrer?"
+    },
+    {
+      "start": 1.88,
+      "end": 2.94,
+      "text": "Eu vou morrer"
+    }
+  ],
+  "duracao_seg": 11.15,
+  "idioma_detectado": "pt"
+}

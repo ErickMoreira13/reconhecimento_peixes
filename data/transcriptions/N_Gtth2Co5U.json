@@ -1,0 +1,602 @@
+{
+  "texto": "Senhoras e senhores, diretamente na melhor quinta-feira de Manaus, a quinta-feira mais forrozeira da cidade O oferecimento e a realização de J. Evandro G. Entretenimento, diretamente da Botecaria Manaus Senhoras e senhores, com vocês, vem pra cá, Afonso Cearese, ao vivo! Afonso Cearese chega no pé de serra Obrigado pela presença, todos os rapaziados amassam com a gente Você que não conhece, vem conhecer Manaus, vem conhecer o melhor forrão pé de serra É aqui, você encontra toda quinta-feira aqui na Botecaria Manaus e é bom demais, viu? Vamos, senhora! Mas agora eu vou chamar uma participação muito especial, o cara que eu sou fã, meu irmãozinho Atilamelo, chega pra cá, Atilamelo! Espalha, forró de raiz! Fica a vontade, meu irmão, vamos embora! Isso tá bonito, cara! O negócio tá quente aqui, viu? É doido, né? Forró raiz, obrigado por você, Carinha DJ Evandro Júnior, só quem tá solteiro aí Só quem tá solteiro aí Tudo certo? Aquela bichão, a galera que gosta do forró raiz de qualidade Assim, ó É com você que eu vou viver nessa paixão Eu não consigo nem pensar em solidão Daqui pra mim, meus amores Agradecer meu parceiro Afonso E essa banda maravilhosa Danielzinho Bachista mais sexy de Manaus Ô, bicho bonito Vou fazer essa só com a fresca Obrigado, DJ Vandrujão, meu parceiro, meu irmão Sou eu Que é o que você quer Você É tarde Por quê? Porque hoje sou eu que não quero De sensações que eu somente é você Forço! Forró de raiz, Afonso e Arendes Eu lindo Gosto de ti de graça, bicho A humildade que tem nesse coração Faz acontecer o que você é hoje Você tem essa Toma sarro de pão com o Atilamelo Obrigado, galera! Nós estamos juntos Atilamelo Deus abençoe Um beijo Estamos juntos É a quinta cearense O nome dele é Alessandro Lima Participação especial Chega pra cá, meu vaqueiro Vamos embora Vamos nós, Afonso Bora Toque forró Estamos juntos Bora Show de bola Bola, banda, pé na boa Chama, forró raiz Bola, DJ, banda, junho Sonare Ela que de novo vem chegando Obrigado, Alessandro Lima Obrigado, quem agradece é eu Agradecer a você, Didier Vandujun E essa banda maravilhosa E a toda a botecaria Estamos juntos Show! Chililic, chililic A poeira É o chililic, chililic Chililic Tom da perda do rap Cama do sabumada É o chililic, chililic Tá gostando da gritão pra nós, aê! Seria, Afonso É sucesso aqui Tenha o seu dedo Tenha a sua assinatura Com certeza Toda quinta-feira Obrigado pela nossa parceria Que seja duradoura de muitos anos Obrigado, Alessandro Vamos embora Vamos juntos Toque forró, meu DJ Vamos embora, na pegada Forrozeira dessa banda maravilhosa Vamos fazer o sucesso Que tá estourando a voz do DJ Meu pai paga a minha faculdade Não quero ser doutor Não nasci pra estudar Putaria no posto e gasolina Saiu pra farrear Faculdade Não quer estudar Gasolina Saiu pra cima, papai Obrigado, viu? Eu quero agradeço, irmão Tamo junto e misturado Parabéns pelo DVD maravilhoso Audiovisual agora, né? É contigo, Gabriel Obrigado, viu? Show Aqui da Serenha Se botar em pau, meu povo Meu gente!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "text": "Senhoras e senhores, diretamente na melhor quinta-feira de Manaus, a quinta-feira mais forrozeira da cidade"
+    },
+    {
+      "start": 6.5,
+      "end": 13.22,
+      "text": "O oferecimento e a realização de J. Evandro G. Entretenimento, diretamente da Botecaria Manaus"
+    },
+    {
+      "start": 13.22,
+      "end": 19.46,
+      "text": "Senhoras e senhores, com vocês, vem pra cá, Afonso Cearese, ao vivo!"
+    },
+    {
+      "start": 26.5,
+      "end": 37.57,
+      "text": "Afonso Cearese chega no pé de serra"
+    },
+    {
+      "start": 37.57,
+      "end": 2277.62,
+      "text": "Obrigado pela presença, todos os rapaziados amassam com a gente"
+    },
+    {
+      "start": 2277.62,
+      "end": 2282.74,
+      "text": "Você que não conhece, vem conhecer Manaus, vem conhecer o melhor forrão pé de serra"
+    },
+    {
+      "start": 2282.74,
+      "end": 2287.3,
+      "text": "É aqui, você encontra toda quinta-feira aqui na Botecaria Manaus e é bom demais, viu?"
+    },
+    {
+      "start": 2287.72,
+      "end": 2288.24,
+      "text": "Vamos, senhora!"
+    },
+    {
+      "start": 2288.46,
+      "end": 2295.03,
+      "text": "Mas agora eu vou chamar uma participação muito especial, o cara que eu sou fã, meu irmãozinho"
+    },
+    {
+      "start": 2295.03,
+      "end": 2297.63,
+      "text": "Atilamelo, chega pra cá, Atilamelo!"
+    },
+    {
+      "start": 2300.2,
+      "end": 2301.68,
+      "text": "Espalha, forró de raiz!"
+    },
+    {
+      "start": 2302.28,
+      "end": 2304.7,
+      "text": "Fica a vontade, meu irmão, vamos embora!"
+    },
+    {
+      "start": 2304.98,
+      "end": 2306.54,
+      "text": "Isso tá bonito, cara!"
+    },
+    {
+      "start": 2306.78,
+      "end": 2307.9,
+      "text": "O negócio tá quente aqui, viu?"
+    },
+    {
+      "start": 2308.06,
+      "end": 2308.74,
+      "text": "É doido, né?"
+    },
+    {
+      "start": 2308.74,
+      "end": 2312.58,
+      "text": "Forró raiz, obrigado por você, Carinha"
+    },
+    {
+      "start": 2312.58,
+      "end": 2316.29,
+      "text": "DJ Evandro Júnior, só quem tá solteiro aí"
+    },
+    {
+      "start": 2316.29,
+      "end": 2318.35,
+      "text": "Só quem tá solteiro aí"
+    },
+    {
+      "start": 2318.35,
+      "end": 2322.0,
+      "text": "Tudo certo?"
+    },
+    {
+      "start": 2325.46,
+      "end": 2468.26,
+      "text": "Aquela bichão, a galera que gosta do forró raiz de qualidade"
+    },
+    {
+      "start": 2468.26,
+      "end": 2469.4,
+      "text": "Assim, ó"
+    },
+    {
+      "start": 2469.4,
+      "end": 2473.0,
+      "text": "É com você que eu vou viver nessa paixão"
+    },
+    {
+      "start": 2473.0,
+      "end": 2478.78,
+      "text": "Eu não consigo nem pensar em solidão"
+    },
+    {
+      "start": 2478.78,
+      "end": 2491.46,
+      "text": "Daqui pra mim, meus amores"
+    },
+    {
+      "start": 2491.46,
+      "end": 2495.03,
+      "text": "Agradecer meu parceiro Afonso"
+    },
+    {
+      "start": 2495.03,
+      "end": 2497.18,
+      "text": "E essa banda maravilhosa"
+    },
+    {
+      "start": 2497.82,
+      "end": 2498.86,
+      "text": "Danielzinho"
+    },
+    {
+      "start": 2498.86,
+      "end": 2502.29,
+      "text": "Bachista mais sexy de Manaus"
+    },
+    {
+      "start": 2502.29,
+      "end": 2504.39,
+      "text": "Ô, bicho bonito"
+    },
+    {
+      "start": 2504.39,
+      "end": 2508.87,
+      "text": "Vou fazer essa só com a fresca"
+    },
+    {
+      "start": 2508.87,
+      "end": 2511.51,
+      "text": "Obrigado, DJ Vandrujão, meu parceiro, meu irmão"
+    },
+    {
+      "start": 2511.51,
+      "end": 2516.27,
+      "text": "Sou eu"
+    },
+    {
+      "start": 2516.27,
+      "end": 2517.73,
+      "text": "Que é o que você quer"
+    },
+    {
+      "start": 2517.73,
+      "end": 2518.95,
+      "text": "Você"
+    },
+    {
+      "start": 2518.95,
+      "end": 2520.49,
+      "text": "É tarde"
+    },
+    {
+      "start": 2520.49,
+      "end": 2521.63,
+      "text": "Por quê?"
+    },
+    {
+      "start": 2521.85,
+      "end": 2523.65,
+      "text": "Porque hoje sou eu que não quero"
+    },
+    {
+      "start": 2523.65,
+      "end": 2566.97,
+      "text": "De sensações que eu somente é você"
+    },
+    {
+      "start": 2566.97,
+      "end": 2605.36,
+      "text": "Forço!"
+    },
+    {
+      "start": 2607.34,
+      "end": 2609.0,
+      "text": "Forró de raiz, Afonso e Arendes"
+    },
+    {
+      "start": 2609.0,
+      "end": 2609.9,
+      "text": "Eu lindo"
+    },
+    {
+      "start": 2609.9,
+      "end": 2612.0,
+      "text": "Gosto de ti de graça, bicho"
+    },
+    {
+      "start": 2612.0,
+      "end": 2615.26,
+      "text": "A humildade que tem nesse coração"
+    },
+    {
+      "start": 2615.26,
+      "end": 2617.64,
+      "text": "Faz acontecer o que você é hoje"
+    },
+    {
+      "start": 2617.64,
+      "end": 2620.37,
+      "text": "Você tem essa"
+    },
+    {
+      "start": 2620.37,
+      "end": 2623.67,
+      "text": "Toma sarro de pão com o Atilamelo"
+    },
+    {
+      "start": 2623.67,
+      "end": 2624.43,
+      "text": "Obrigado, galera!"
+    },
+    {
+      "start": 2628.78,
+      "end": 2629.46,
+      "text": "Nós estamos juntos"
+    },
+    {
+      "start": 2629.46,
+      "end": 2630.34,
+      "text": "Atilamelo"
+    },
+    {
+      "start": 2630.34,
+      "end": 2631.44,
+      "text": "Deus abençoe"
+    },
+    {
+      "start": 2631.44,
+      "end": 2632.0,
+      "text": "Um beijo"
+    },
+    {
+      "start": 2632.0,
+      "end": 2632.9,
+      "text": "Estamos juntos"
+    },
+    {
+      "start": 2632.9,
+      "end": 2635.08,
+      "text": "É a quinta cearense"
+    },
+    {
+      "start": 2635.08,
+      "end": 2636.56,
+      "text": "O nome dele é Alessandro Lima"
+    },
+    {
+      "start": 2636.56,
+      "end": 2637.88,
+      "text": "Participação especial"
+    },
+    {
+      "start": 2637.88,
+      "end": 2638.98,
+      "text": "Chega pra cá, meu vaqueiro"
+    },
+    {
+      "start": 2638.98,
+      "end": 2639.46,
+      "text": "Vamos embora"
+    },
+    {
+      "start": 2639.46,
+      "end": 2642.64,
+      "text": "Vamos nós, Afonso"
+    },
+    {
+      "start": 2642.64,
+      "end": 2642.86,
+      "text": "Bora"
+    },
+    {
+      "start": 2642.86,
+      "end": 2643.66,
+      "text": "Toque forró"
+    },
+    {
+      "start": 2643.66,
+      "end": 2644.28,
+      "text": "Estamos juntos"
+    },
+    {
+      "start": 2644.28,
+      "end": 2644.62,
+      "text": "Bora"
+    },
+    {
+      "start": 2644.62,
+      "end": 2645.36,
+      "text": "Show de bola"
+    },
+    {
+      "start": 2645.36,
+      "end": 2646.82,
+      "text": "Bola, banda, pé na boa"
+    },
+    {
+      "start": 2646.82,
+      "end": 2648.7,
+      "text": "Chama, forró raiz"
+    },
+    {
+      "start": 2648.7,
+      "end": 2665.22,
+      "text": "Bola, DJ, banda, junho"
+    },
+    {
+      "start": 2665.22,
+      "end": 2666.95,
+      "text": "Sonare"
+    },
+    {
+      "start": 2666.95,
+      "end": 2672.23,
+      "text": "Ela que de novo vem chegando"
+    },
+    {
+      "start": 2672.23,
+      "end": 2912.25,
+      "text": "Obrigado, Alessandro Lima"
+    },
+    {
+      "start": 2912.25,
+      "end": 2913.39,
+      "text": "Obrigado, quem agradece é eu"
+    },
+    {
+      "start": 2913.39,
+      "end": 2914.85,
+      "text": "Agradecer a você, Didier Vandujun"
+    },
+    {
+      "start": 2914.85,
+      "end": 2915.77,
+      "text": "E essa banda maravilhosa"
+    },
+    {
+      "start": 2915.77,
+      "end": 2916.63,
+      "text": "E a toda a botecaria"
+    },
+    {
+      "start": 2916.63,
+      "end": 2917.37,
+      "text": "Estamos juntos"
+    },
+    {
+      "start": 2917.37,
+      "end": 2919.22,
+      "text": "Show!"
+    },
+    {
+      "start": 4062.65,
+      "end": 4063.71,
+      "text": "Chililic, chililic"
+    },
+    {
+      "start": 4063.71,
+      "end": 4064.41,
+      "text": "A poeira"
+    },
+    {
+      "start": 4064.41,
+      "end": 4066.75,
+      "text": "É o chililic, chililic"
+    },
+    {
+      "start": 4066.75,
+      "end": 4067.33,
+      "text": "Chililic"
+    },
+    {
+      "start": 4067.33,
+      "end": 4068.39,
+      "text": "Tom da perda do rap"
+    },
+    {
+      "start": 4068.39,
+      "end": 4069.65,
+      "text": "Cama do sabumada"
+    },
+    {
+      "start": 4069.65,
+      "end": 4071.55,
+      "text": "É o chililic, chililic"
+    },
+    {
+      "start": 4071.55,
+      "end": 4100.72,
+      "text": "Tá gostando da gritão pra nós, aê!"
+    },
+    {
+      "start": 4714.35,
+      "end": 4715.25,
+      "text": "Seria, Afonso"
+    },
+    {
+      "start": 4715.25,
+      "end": 4716.53,
+      "text": "É sucesso aqui"
+    },
+    {
+      "start": 4716.53,
+      "end": 4717.75,
+      "text": "Tenha o seu dedo"
+    },
+    {
+      "start": 4717.75,
+      "end": 4718.57,
+      "text": "Tenha a sua assinatura"
+    },
+    {
+      "start": 4718.57,
+      "end": 4719.09,
+      "text": "Com certeza"
+    },
+    {
+      "start": 4719.09,
+      "end": 4719.93,
+      "text": "Toda quinta-feira"
+    },
+    {
+      "start": 4719.93,
+      "end": 4721.51,
+      "text": "Obrigado pela nossa parceria"
+    },
+    {
+      "start": 4721.51,
+      "end": 4723.51,
+      "text": "Que seja duradoura de muitos anos"
+    },
+    {
+      "start": 4723.51,
+      "end": 4724.65,
+      "text": "Obrigado, Alessandro"
+    },
+    {
+      "start": 4724.65,
+      "end": 4725.05,
+      "text": "Vamos embora"
+    },
+    {
+      "start": 4725.05,
+      "end": 4725.85,
+      "text": "Vamos juntos"
+    },
+    {
+      "start": 4725.85,
+      "end": 4727.03,
+      "text": "Toque forró, meu DJ"
+    },
+    {
+      "start": 4727.03,
+      "end": 4728.77,
+      "text": "Vamos embora, na pegada"
+    },
+    {
+      "start": 4728.77,
+      "end": 4731.26,
+      "text": "Forrozeira dessa banda maravilhosa"
+    },
+    {
+      "start": 4731.26,
+      "end": 4732.06,
+      "text": "Vamos fazer o sucesso"
+    },
+    {
+      "start": 4732.06,
+      "end": 4733.24,
+      "text": "Que tá estourando a voz do DJ"
+    },
+    {
+      "start": 4733.24,
+      "end": 4735.9,
+      "text": "Meu pai paga a minha faculdade"
+    },
+    {
+      "start": 4735.9,
+      "end": 4737.3,
+      "text": "Não quero ser doutor"
+    },
+    {
+      "start": 4737.3,
+      "end": 4738.62,
+      "text": "Não nasci pra estudar"
+    },
+    {
+      "start": 4738.62,
+      "end": 4742.4,
+      "text": "Putaria no posto e gasolina"
+    },
+    {
+      "start": 4742.4,
+      "end": 4743.74,
+      "text": "Saiu pra farrear"
+    },
+    {
+      "start": 4743.74,
+      "end": 4746.32,
+      "text": "Faculdade"
+    },
+    {
+      "start": 4746.32,
+      "end": 4748.92,
+      "text": "Não quer estudar"
+    },
+    {
+      "start": 4748.92,
+      "end": 4752.69,
+      "text": "Gasolina"
+    },
+    {
+      "start": 4752.69,
+      "end": 4769.26,
+      "text": "Saiu pra cima, papai"
+    },
+    {
+      "start": 4769.26,
+      "end": 4895.25,
+      "text": "Obrigado, viu?"
+    },
+    {
+      "start": 4895.99,
+      "end": 4896.73,
+      "text": "Eu quero agradeço, irmão"
+    },
+    {
+      "start": 4896.73,
+      "end": 4897.59,
+      "text": "Tamo junto e misturado"
+    },
+    {
+      "start": 4897.59,
+      "end": 4898.95,
+      "text": "Parabéns pelo DVD maravilhoso"
+    },
+    {
+      "start": 4898.95,
+      "end": 4900.19,
+      "text": "Audiovisual agora, né?"
+    },
+    {
+      "start": 4900.61,
+      "end": 4901.21,
+      "text": "É contigo, Gabriel"
+    },
+    {
+      "start": 4901.21,
+      "end": 4902.11,
+      "text": "Obrigado, viu?"
+    },
+    {
+      "start": 4902.45,
+      "end": 4902.61,
+      "text": "Show"
+    },
+    {
+      "start": 4902.61,
+      "end": 4908.68,
+      "text": "Aqui da Serenha"
+    },
+    {
+      "start": 4908.68,
+      "end": 5318.48,
+      "text": "Se botar em pau, meu povo"
+    },
+    {
+      "start": 5318.48,
+      "end": 5321.53,
+      "text": "Meu gente!"
+    }
+  ],
+  "duracao_seg": 5347.03,
+  "idioma_detectado": "pt"
+}

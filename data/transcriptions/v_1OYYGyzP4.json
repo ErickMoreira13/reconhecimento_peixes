@@ -1,0 +1,22 @@
+{
+  "texto": "Vai, vai, vai. Ai, quer? Ai, quer?",
+  "segmentos": [
+    {
+      "start": 2.13,
+      "end": 4.13,
+      "text": "Vai, vai, vai."
+    },
+    {
+      "start": 4.13,
+      "end": 8.02,
+      "text": "Ai, quer?"
+    },
+    {
+      "start": 8.02,
+      "end": 16.51,
+      "text": "Ai, quer?"
+    }
+  ],
+  "duracao_seg": 58.29,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,47 @@
+{
+  "texto": "Rapaziada, estamos aqui na equipe do Quilombo aqui. Nós não podemos identificar direito, né? Porque senão os caras invadem aí. Olha aí, só pensa. Olha aí, moleque. Eu e o Rodrigo aí do Kika Regaçal, da equipe do Quilombo. Estamos juntos aí, valeu? Valeu.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Rapaziada, estamos aqui na equipe do Quilombo aqui."
+    },
+    {
+      "start": 4.2,
+      "end": 5.7,
+      "text": "Nós não podemos identificar direito, né?"
+    },
+    {
+      "start": 5.78,
+      "end": 7.24,
+      "text": "Porque senão os caras invadem aí."
+    },
+    {
+      "start": 7.88,
+      "end": 8.96,
+      "text": "Olha aí, só pensa."
+    },
+    {
+      "start": 10.08,
+      "end": 10.92,
+      "text": "Olha aí, moleque."
+    },
+    {
+      "start": 11.88,
+      "end": 15.4,
+      "text": "Eu e o Rodrigo aí do Kika Regaçal, da equipe do Quilombo."
+    },
+    {
+      "start": 15.88,
+      "end": 17.04,
+      "text": "Estamos juntos aí, valeu?"
+    },
+    {
+      "start": 17.66,
+      "end": 18.1,
+      "text": "Valeu."
+    }
+  ],
+  "duracao_seg": 18.89,
+  "idioma_detectado": "pt"
+}

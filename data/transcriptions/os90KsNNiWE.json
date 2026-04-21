@@ -1,0 +1,57 @@
+{
+  "texto": "Rapaz, o assunto é só isso aí. Você vê que a anta caiu dentro do reservatório. Esse reservatório é utilizado para vários fins e meios dentro da propriedade e ele é revestido de uma geomembrana bem lisinha, rapaz. O animal não consegue sair de jeito nenhum e pode ocasionar a morte do animal, né? É estritamente necessário que tenha um alambrado, uma cerca bem reforçada ali ao redor todo dele. Um reservatório desse pode ter de 500 mil a 1 milhão, até mais, de litros d'água. Então, rapaz, como é que pode, né? Uma propriedade dessa você vê que é de plantio, que gera riqueza, que tem uma cadeia gigantesca de pessoas que transitam, que estão ali sempre e não dão a ideia de cercar isso aí, né?",
+  "segmentos": [
+    {
+      "start": 0.16,
+      "end": 3.74,
+      "text": "Rapaz, o assunto é só isso aí. Você vê que a anta caiu dentro do reservatório."
+    },
+    {
+      "start": 3.86,
+      "end": 7.32,
+      "text": "Esse reservatório é utilizado para vários fins e meios dentro da propriedade"
+    },
+    {
+      "start": 7.32,
+      "end": 10.56,
+      "text": "e ele é revestido de uma geomembrana bem lisinha, rapaz."
+    },
+    {
+      "start": 10.62,
+      "end": 14.84,
+      "text": "O animal não consegue sair de jeito nenhum e pode ocasionar a morte do animal, né?"
+    },
+    {
+      "start": 15.08,
+      "end": 21.56,
+      "text": "É estritamente necessário que tenha um alambrado, uma cerca bem reforçada ali ao redor todo dele."
+    },
+    {
+      "start": 22.12,
+      "end": 26.98,
+      "text": "Um reservatório desse pode ter de 500 mil a 1 milhão, até mais, de litros d'água."
+    },
+    {
+      "start": 27.34,
+      "end": 28.6,
+      "text": "Então, rapaz, como é que pode, né?"
+    },
+    {
+      "start": 28.6,
+      "end": 31.66,
+      "text": "Uma propriedade dessa você vê que é de plantio, que gera riqueza,"
+    },
+    {
+      "start": 31.76,
+      "end": 35.66,
+      "text": "que tem uma cadeia gigantesca de pessoas que transitam, que estão ali sempre"
+    },
+    {
+      "start": 35.66,
+      "end": 38.68,
+      "text": "e não dão a ideia de cercar isso aí, né?"
+    }
+  ],
+  "duracao_seg": 39.31,
+  "idioma_detectado": "pt"
+}

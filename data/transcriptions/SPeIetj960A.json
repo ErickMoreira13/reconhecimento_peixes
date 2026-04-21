@@ -1,0 +1,22 @@
+{
+  "texto": "E aí, estiliceias, ó. Chama. Peixe embora e peixe dívida. Ó o topo.",
+  "segmentos": [
+    {
+      "start": 0.78,
+      "end": 2.34,
+      "text": "E aí, estiliceias, ó."
+    },
+    {
+      "start": 3.04,
+      "end": 4.94,
+      "text": "Chama. Peixe embora e peixe dívida."
+    },
+    {
+      "start": 7.15,
+      "end": 7.93,
+      "text": "Ó o topo."
+    }
+  ],
+  "duracao_seg": 13.59,
+  "idioma_detectado": "pt"
+}
