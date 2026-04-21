@@ -1,0 +1,27 @@
+{
+  "texto": "Tava na peneira, eu tava peneirando Eu tava no namoro, eu tava namorando Tava na peneira, eu tava Eu tava no namoro, eu tava na farinhada Lá na Serra do Teixeira Namorei um a cabocla Nunca vi tão feiticeira",
+  "segmentos": [
+    {
+      "start": 2.13,
+      "end": 10.11,
+      "text": "Tava na peneira, eu tava peneirando Eu tava no namoro, eu tava namorando"
+    },
+    {
+      "start": 10.11,
+      "end": 20.49,
+      "text": "Tava na peneira, eu tava Eu tava no namoro, eu tava na farinhada"
+    },
+    {
+      "start": 20.49,
+      "end": 24.49,
+      "text": "Lá na Serra do Teixeira Namorei um a cabocla"
+    },
+    {
+      "start": 24.49,
+      "end": 26.85,
+      "text": "Nunca vi tão feiticeira"
+    }
+  ],
+  "duracao_seg": 28.51,
+  "idioma_detectado": "pt"
+}

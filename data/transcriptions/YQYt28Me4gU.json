@@ -1,0 +1,42 @@
+{
+  "texto": "Essa rima que a gente entra e não sai Nós estamos na farinhada e daqui não vai mais Quando a gente faz essa rima, nós chega e põe no kawai Uhul! A farinhada! Quem cantou ainda? Cantou o farinheiro! Olha aí, farinha fina e boa!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.82,
+      "text": "Essa rima que a gente entra e não sai"
+    },
+    {
+      "start": 2.82,
+      "end": 7.32,
+      "text": "Nós estamos na farinhada e daqui não vai mais"
+    },
+    {
+      "start": 7.32,
+      "end": 12.24,
+      "text": "Quando a gente faz essa rima, nós chega e põe no kawai"
+    },
+    {
+      "start": 12.24,
+      "end": 13.26,
+      "text": "Uhul!"
+    },
+    {
+      "start": 13.76,
+      "end": 14.92,
+      "text": "A farinhada!"
+    },
+    {
+      "start": 15.5,
+      "end": 17.56,
+      "text": "Quem cantou ainda? Cantou o farinheiro!"
+    },
+    {
+      "start": 21.8,
+      "end": 25.63,
+      "text": "Olha aí, farinha fina e boa!"
+    }
+  ],
+  "duracao_seg": 50.39,
+  "idioma_detectado": "pt"
+}

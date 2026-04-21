@@ -1,0 +1,27 @@
+{
+  "texto": "Bom, nós estamos aqui fazendo em uma das etapas do processo da extração da farinha da mandioca. Estamos no processo agora de beneficiamento e isso daqui a pouco nós vamos serrar que a gente vai registrar e mostrar para vocês também. Olha só o descascador mirim ali, tem tudo isso aqui, estamos aqui fazendo esse registro tão importante aqui, então é isso gente, até mais ver.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 16.75,
+      "text": "Bom, nós estamos aqui fazendo em uma das etapas do processo da extração da farinha da mandioca."
+    },
+    {
+      "start": 18.13,
+      "end": 24.88,
+      "text": "Estamos no processo agora de beneficiamento e isso daqui a pouco nós vamos serrar"
+    },
+    {
+      "start": 24.88,
+      "end": 28.36,
+      "text": "que a gente vai registrar e mostrar para vocês também."
+    },
+    {
+      "start": 28.36,
+      "end": 50.24,
+      "text": "Olha só o descascador mirim ali, tem tudo isso aqui, estamos aqui fazendo esse registro tão importante aqui, então é isso gente, até mais ver."
+    }
+  ],
+  "duracao_seg": 50.89,
+  "idioma_detectado": "pt"
+}
