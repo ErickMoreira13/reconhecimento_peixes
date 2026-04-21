@@ -145,12 +145,14 @@ def upsert_queries(textos: list[str], db_path: Path | None = None):
 
 def pega_query_ativa(db_path: Path | None = None) -> str | None:
     # retorna uma query ativa qualquer. ordem por menos buscados primeiro pra
-    # dar vazao parelha entre queries novas e antigas
+    # dar vazao parelha entre queries novas e antigas.
+    # o atualizado_em como tiebreaker evita cair infinito na mesma query
+    # quando a busca falha e total_buscados nao muda (youtube rate limit etc)
     with conectar(db_path) as conn:
         row = conn.execute("""
             SELECT texto FROM queries
             WHERE status = 'ativa'
-            ORDER BY total_buscados ASC, criado_em ASC
+            ORDER BY total_buscados ASC, atualizado_em ASC, criado_em ASC
             LIMIT 1
         """).fetchone()
     return row[0] if row else None
