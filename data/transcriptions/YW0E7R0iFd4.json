@@ -1,0 +1,22 @@
+{
+  "texto": "É uma arte, né? O cara ali com a varinha de pescar na tremedeira danada ali pra simular que o peixinho tá ali desnorteado ali na isca ali, olha lá, o peixe já veio, já começou a olhar, tentou atacar uma vez, errou, agora o que que ele vai fazer? Vai jogar mais pra cá e aí o peixe, ele vai pegar isso aí. E olha como é que o pescador continua na técnica ali de tremedeira, né? Meio que simulando ali que o peixinho tá ali tremendo. Olha lá, puxou, pegou e já...",
+  "segmentos": [
+    {
+      "start": 0.1,
+      "end": 11.22,
+      "text": "É uma arte, né? O cara ali com a varinha de pescar na tremedeira danada ali pra simular que o peixinho tá ali desnorteado ali na isca ali, olha lá, o peixe já veio, já começou a olhar, tentou atacar uma vez, errou, agora o que que ele vai fazer?"
+    },
+    {
+      "start": 11.32,
+      "end": 17.7,
+      "text": "Vai jogar mais pra cá e aí o peixe, ele vai pegar isso aí. E olha como é que o pescador continua na técnica ali de tremedeira, né?"
+    },
+    {
+      "start": 18.12,
+      "end": 22.0,
+      "text": "Meio que simulando ali que o peixinho tá ali tremendo. Olha lá, puxou, pegou e já..."
+    }
+  ],
+  "duracao_seg": 22.11,
+  "idioma_detectado": "pt"
+}

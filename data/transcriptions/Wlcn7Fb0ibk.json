@@ -1,0 +1,37 @@
+{
+  "texto": "Queda antiga aí, sabe o que é isso aqui? Nossa, quando eu era molequinho, eu era doido pra achar isso aqui. Ó, polho de boi. Isso aqui, quando a gente era moleque, pegava esse caroço aqui, ó. Esfregava em algum lugar, na parede, no coisinha, nos outros e encostava. Rapaz, mas queimava, hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Queda antiga aí, sabe o que é isso aqui?"
+    },
+    {
+      "start": 2.44,
+      "end": 5.8,
+      "text": "Nossa, quando eu era molequinho, eu era doido pra achar isso aqui."
+    },
+    {
+      "start": 6.16,
+      "end": 10.22,
+      "text": "Ó, polho de boi."
+    },
+    {
+      "start": 14.7,
+      "end": 19.26,
+      "text": "Isso aqui, quando a gente era moleque, pegava esse caroço aqui, ó."
+    },
+    {
+      "start": 21.18,
+      "end": 26.98,
+      "text": "Esfregava em algum lugar, na parede, no coisinha, nos outros e encostava."
+    },
+    {
+      "start": 27.08,
+      "end": 28.4,
+      "text": "Rapaz, mas queimava, hein?"
+    }
+  ],
+  "duracao_seg": 29.13,
+  "idioma_detectado": "pt"
+}

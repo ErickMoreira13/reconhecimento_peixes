@@ -1,0 +1,17 @@
+{
+  "texto": "Fala galera, vou dar uma dica aqui para vocês, pãozinho de doce caseiro, chinuzinho 12, nós vamos iscar esse pão aqui, pega essa dica aí, vamos fisgar esse pão, dar uma amassada nele aqui e ele vai ficar dessa forma aqui. O que eu vou fazer agora? Molhar ele ali na água, na hora que ele afundar, vou colocar aqui no meu carona e arremessar, daí a pouco vocês vão ver o resultado aí, beleza?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 21.79,
+      "text": "Fala galera, vou dar uma dica aqui para vocês, pãozinho de doce caseiro, chinuzinho 12, nós vamos iscar esse pão aqui, pega essa dica aí, vamos fisgar esse pão, dar uma amassada nele aqui e ele vai ficar dessa forma aqui."
+    },
+    {
+      "start": 21.79,
+      "end": 32.82,
+      "text": "O que eu vou fazer agora? Molhar ele ali na água, na hora que ele afundar, vou colocar aqui no meu carona e arremessar, daí a pouco vocês vão ver o resultado aí, beleza?"
+    }
+  ],
+  "duracao_seg": 33.39,
+  "idioma_detectado": "pt"
+}

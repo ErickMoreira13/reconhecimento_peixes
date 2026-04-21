@@ -1,0 +1,17 @@
+{
+  "texto": "Cada dia boiada descendo, quem vai fazer valer vai, quem não vê acontecendo Porque eu tô pronto, preparado e querendo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.46,
+      "text": "Cada dia boiada descendo, quem vai fazer valer vai, quem não vê acontecendo"
+    },
+    {
+      "start": 7.46,
+      "end": 11.16,
+      "text": "Porque eu tô pronto, preparado e querendo"
+    }
+  ],
+  "duracao_seg": 11.23,
+  "idioma_detectado": "pt"
+}

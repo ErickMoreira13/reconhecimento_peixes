@@ -1,0 +1,302 @@
+{
+  "texto": "Ó, pescadeira raiz aqui, em ação de novo, dona divina. Tô aprendendo a pescar piau com ela, hein? Ó lá, é mãe. Uuuu, bonito! Isso aí, é disso que eu tô falando. Ó o Zezão ali, fala Zezé! Eu só vou tocar nem nada! Nada? Cada um com sua cruz. Pescadora raiz, tirando um piau. Olha aí pra você ver, o que é uma pescadora raiz? Olha lá, o que é isso? Um piauzinho desse dá pra comer cinco pratos de arroz. É disso que eu tô falando. Aqui presta, Zezé! Opa, peguei. Nossa, é bom, tá brigando. É. Piau? Não sei o que é não. Deixa eu ver. Se demorar, tu vai dar perto de sentir. Eu acho que não é um piau. Tá correndo muito pra cima, já é outro peixe. Um piau. Ô, mutreca bonito! Olha isso! Espetáculo! Ah, não! Não! O chumbado é mais pesado. Taquei mais um chumbado. Foi. Saiu, Zezé! Não, acho que não foi embora. Não, acho que não foi embora não. Será que não? Tá aqui. Peguei. Chegou? Levantei de barulho. Vou deixar, não vai que não faz barulho. Foi embora? Não sei, eu acho que foi. Dizem que um término de namoro dói, mas... Já experimentou tomar uma ferroada de chorãozinho desse aqui? É, Zezé! Dói não, dói! Pega, Zezé! Pega, Zezé! Pega, Zezé! Segura, Zezé! Segura, Zezé! Segura, Zezé! Ué, mas não tinha jeito, Zezé! Abriu o anzol, Zezé! Abriu! Depois pegou, Zezé! Não, tá bom, Zezé!",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 5.04,
+      "text": "Ó, pescadeira raiz aqui, em ação de novo, dona divina."
+    },
+    {
+      "start": 6.64,
+      "end": 8.18,
+      "text": "Tô aprendendo a pescar piau com ela, hein?"
+    },
+    {
+      "start": 9.19,
+      "end": 10.03,
+      "text": "Ó lá, é mãe."
+    },
+    {
+      "start": 10.73,
+      "end": 12.11,
+      "text": "Uuuu, bonito!"
+    },
+    {
+      "start": 17.22,
+      "end": 19.34,
+      "text": "Isso aí, é disso que eu tô falando."
+    },
+    {
+      "start": 22.56,
+      "end": 23.94,
+      "text": "Ó o Zezão ali, fala Zezé!"
+    },
+    {
+      "start": 24.38,
+      "end": 25.42,
+      "text": "Eu só vou tocar nem nada!"
+    },
+    {
+      "start": 25.48,
+      "end": 25.92,
+      "text": "Nada?"
+    },
+    {
+      "start": 29.38,
+      "end": 31.79,
+      "text": "Cada um com sua cruz."
+    },
+    {
+      "start": 34.39,
+      "end": 37.17,
+      "text": "Pescadora raiz, tirando um piau."
+    },
+    {
+      "start": 39.67,
+      "end": 41.33,
+      "text": "Olha aí pra você ver, o que é uma pescadora raiz?"
+    },
+    {
+      "start": 41.33,
+      "end": 48.38,
+      "text": "Olha lá, o que é isso?"
+    },
+    {
+      "start": 50.36,
+      "end": 52.24,
+      "text": "Um piauzinho desse dá pra comer cinco pratos de arroz."
+    },
+    {
+      "start": 56.69,
+      "end": 57.41,
+      "text": "É disso que eu tô falando."
+    },
+    {
+      "start": 62.52,
+      "end": 63.5,
+      "text": "Aqui presta, Zezé!"
+    },
+    {
+      "start": 64.51,
+      "end": 65.53,
+      "text": "Opa, peguei."
+    },
+    {
+      "start": 65.87,
+      "end": 67.17,
+      "text": "Nossa, é bom, tá brigando."
+    },
+    {
+      "start": 68.1,
+      "end": 68.26,
+      "text": "É."
+    },
+    {
+      "start": 69.2,
+      "end": 69.4,
+      "text": "Piau?"
+    },
+    {
+      "start": 69.68,
+      "end": 70.54,
+      "text": "Não sei o que é não."
+    },
+    {
+      "start": 72.35,
+      "end": 72.81,
+      "text": "Deixa eu ver."
+    },
+    {
+      "start": 72.81,
+      "end": 75.65,
+      "text": "Se demorar, tu vai dar perto de sentir."
+    },
+    {
+      "start": 76.84,
+      "end": 78.06,
+      "text": "Eu acho que não é um piau."
+    },
+    {
+      "start": 79.38,
+      "end": 81.34,
+      "text": "Tá correndo muito pra cima, já é outro peixe."
+    },
+    {
+      "start": 84.18,
+      "end": 84.64,
+      "text": "Um piau."
+    },
+    {
+      "start": 85.26,
+      "end": 87.63,
+      "text": "Ô, mutreca bonito!"
+    },
+    {
+      "start": 89.68,
+      "end": 90.16,
+      "text": "Olha isso!"
+    },
+    {
+      "start": 91.4,
+      "end": 91.84,
+      "text": "Espetáculo!"
+    },
+    {
+      "start": 93.24,
+      "end": 93.7,
+      "text": "Ah, não!"
+    },
+    {
+      "start": 93.7,
+      "end": 93.98,
+      "text": "Não!"
+    },
+    {
+      "start": 96.36,
+      "end": 107.75,
+      "text": "O chumbado é mais pesado."
+    },
+    {
+      "start": 108.74,
+      "end": 109.86,
+      "text": "Taquei mais um chumbado."
+    },
+    {
+      "start": 111.28,
+      "end": 111.48,
+      "text": "Foi."
+    },
+    {
+      "start": 120.52,
+      "end": 121.14,
+      "text": "Saiu, Zezé!"
+    },
+    {
+      "start": 123.82,
+      "end": 125.26,
+      "text": "Não, acho que não foi embora."
+    },
+    {
+      "start": 125.26,
+      "end": 125.48,
+      "text": "Não, acho que não foi embora não."
+    },
+    {
+      "start": 125.72,
+      "end": 126.14,
+      "text": "Será que não?"
+    },
+    {
+      "start": 126.14,
+      "end": 126.46,
+      "text": "Tá aqui."
+    },
+    {
+      "start": 127.34,
+      "end": 127.74,
+      "text": "Peguei."
+    },
+    {
+      "start": 128.52,
+      "end": 128.92,
+      "text": "Chegou?"
+    },
+    {
+      "start": 130.18,
+      "end": 130.94,
+      "text": "Levantei de barulho."
+    },
+    {
+      "start": 137.34,
+      "end": 138.74,
+      "text": "Vou deixar, não vai que não faz barulho."
+    },
+    {
+      "start": 139.06,
+      "end": 139.44,
+      "text": "Foi embora?"
+    },
+    {
+      "start": 139.76,
+      "end": 140.6,
+      "text": "Não sei, eu acho que foi."
+    },
+    {
+      "start": 141.14,
+      "end": 378.53,
+      "text": "Dizem que um término de namoro dói, mas..."
+    },
+    {
+      "start": 380.31,
+      "end": 383.49,
+      "text": "Já experimentou tomar uma ferroada de chorãozinho desse aqui?"
+    },
+    {
+      "start": 383.75,
+      "end": 384.33,
+      "text": "É, Zezé!"
+    },
+    {
+      "start": 385.68,
+      "end": 386.54,
+      "text": "Dói não, dói!"
+    },
+    {
+      "start": 386.54,
+      "end": 410.92,
+      "text": "Pega, Zezé!"
+    },
+    {
+      "start": 411.0,
+      "end": 411.44,
+      "text": "Pega, Zezé!"
+    },
+    {
+      "start": 411.58,
+      "end": 412.2,
+      "text": "Pega, Zezé!"
+    },
+    {
+      "start": 412.54,
+      "end": 413.04,
+      "text": "Segura, Zezé!"
+    },
+    {
+      "start": 413.18,
+      "end": 413.62,
+      "text": "Segura, Zezé!"
+    },
+    {
+      "start": 414.08,
+      "end": 414.7,
+      "text": "Segura, Zezé!"
+    },
+    {
+      "start": 419.81,
+      "end": 421.33,
+      "text": "Ué, mas não tinha jeito, Zezé!"
+    },
+    {
+      "start": 422.84,
+      "end": 424.02,
+      "text": "Abriu o anzol, Zezé!"
+    },
+    {
+      "start": 425.47,
+      "end": 425.83,
+      "text": "Abriu!"
+    },
+    {
+      "start": 428.32,
+      "end": 429.36,
+      "text": "Depois pegou, Zezé!"
+    },
+    {
+      "start": 429.36,
+      "end": 430.56,
+      "text": "Não, tá bom, Zezé!"
+    }
+  ],
+  "duracao_seg": 430.59,
+  "idioma_detectado": "pt"
+}

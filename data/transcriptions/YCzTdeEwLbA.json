@@ -1,0 +1,32 @@
+{
+  "texto": "aí galera, o resultado da pescaria é só piau limpa é da de retudim murimba e piau valeu",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 2.85,
+      "text": "aí galera, o resultado da pescaria"
+    },
+    {
+      "start": 2.85,
+      "end": 5.18,
+      "text": "é só piau limpa"
+    },
+    {
+      "start": 5.18,
+      "end": 7.82,
+      "text": "é da de retudim"
+    },
+    {
+      "start": 7.82,
+      "end": 9.42,
+      "text": "murimba e piau"
+    },
+    {
+      "start": 9.42,
+      "end": 11.42,
+      "text": "valeu"
+    }
+  ],
+  "duracao_seg": 14.99,
+  "idioma_detectado": "pt"
+}

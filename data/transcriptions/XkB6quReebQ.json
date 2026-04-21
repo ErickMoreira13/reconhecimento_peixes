@@ -1,0 +1,42 @@
+{
+  "texto": "Cara, a melhor isca pra rio, sem sombra de dúvidas, é essa. Cara, eu testei e aprovei demais, tá? Aprovei muito, pessoal. Essa é uma das melhores iscas de verdade pra você pescar em rios e água barrendo. Pra você pegar aqueles peixão de coros, aqueles mandir grandes, sabe? Isso aqui não vai largar por nada seu azol, tá? Essa é a melhor.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 4.8,
+      "text": "Cara, a melhor isca pra rio, sem sombra de dúvidas, é essa."
+    },
+    {
+      "start": 4.92,
+      "end": 7.12,
+      "text": "Cara, eu testei e aprovei demais, tá?"
+    },
+    {
+      "start": 7.42,
+      "end": 8.56,
+      "text": "Aprovei muito, pessoal."
+    },
+    {
+      "start": 8.72,
+      "end": 14.16,
+      "text": "Essa é uma das melhores iscas de verdade pra você pescar em rios e água barrendo."
+    },
+    {
+      "start": 14.24,
+      "end": 18.42,
+      "text": "Pra você pegar aqueles peixão de coros, aqueles mandir grandes, sabe?"
+    },
+    {
+      "start": 18.94,
+      "end": 20.76,
+      "text": "Isso aqui não vai largar por nada seu azol, tá?"
+    },
+    {
+      "start": 21.5,
+      "end": 22.24,
+      "text": "Essa é a melhor."
+    }
+  ],
+  "duracao_seg": 22.51,
+  "idioma_detectado": "pt"
+}

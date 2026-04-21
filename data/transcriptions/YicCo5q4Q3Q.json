@@ -1,0 +1,22 @@
+{
+  "texto": "Vou pegar um peixe lindo, o pial. Um importante peixe nativo da bacia amazônica muito pescado nos rios brasileiros. Adquira seus piaus na Adeidã.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Vou pegar um peixe lindo, o pial."
+    },
+    {
+      "start": 2.52,
+      "end": 7.14,
+      "text": "Um importante peixe nativo da bacia amazônica muito pescado nos rios brasileiros."
+    },
+    {
+      "start": 7.38,
+      "end": 9.1,
+      "text": "Adquira seus piaus na Adeidã."
+    }
+  ],
+  "duracao_seg": 9.49,
+  "idioma_detectado": "pt"
+}

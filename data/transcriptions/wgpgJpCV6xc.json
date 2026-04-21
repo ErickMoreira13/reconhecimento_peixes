@@ -1,0 +1,37 @@
+{
+  "texto": "Ô pai, ô pai, tem que ir lá no meio do minharal roubando ninho. Ué mãe, vai lá ver então, se o cara estiver catando ninho para vender, você conversa, vai lá. Não, deixa eu comer, deixa eu comer. Aê, quer que estiver no meio do minharal, saia para fora que a porra vai comer. Ô Diô, o que você está fazendo aqui Diô? Vai embora para casa.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Ô pai, ô pai, tem que ir lá no meio do minharal roubando ninho."
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "text": "Ué mãe, vai lá ver então, se o cara estiver catando ninho para vender, você conversa, vai lá."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Não, deixa eu comer, deixa eu comer."
+    },
+    {
+      "start": 8.0,
+      "end": 25.42,
+      "text": "Aê, quer que estiver no meio do minharal, saia para fora que a porra vai comer."
+    },
+    {
+      "start": 25.42,
+      "end": 27.42,
+      "text": "Ô Diô, o que você está fazendo aqui Diô?"
+    },
+    {
+      "start": 27.42,
+      "end": 28.42,
+      "text": "Vai embora para casa."
+    }
+  ],
+  "duracao_seg": 31.79,
+  "idioma_detectado": "pt"
+}

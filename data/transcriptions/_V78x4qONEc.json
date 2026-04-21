@@ -1,0 +1,42 @@
+{
+  "texto": "hoje eu quero trazer uma dica aqui pra quem gosta de pegar piau, pessoal olha só, eu botei aqui uma garateia um pouco grandinha essa aqui é pra pegar corimba, aquele piau grande",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 2.14,
+      "text": "hoje eu quero trazer uma dica aqui"
+    },
+    {
+      "start": 2.14,
+      "end": 4.78,
+      "text": "pra quem gosta de pegar"
+    },
+    {
+      "start": 4.78,
+      "end": 6.02,
+      "text": "piau, pessoal"
+    },
+    {
+      "start": 6.02,
+      "end": 8.72,
+      "text": "olha só, eu botei aqui"
+    },
+    {
+      "start": 8.72,
+      "end": 10.96,
+      "text": "uma garateia um pouco grandinha"
+    },
+    {
+      "start": 10.96,
+      "end": 12.84,
+      "text": "essa aqui é pra pegar"
+    },
+    {
+      "start": 12.84,
+      "end": 14.9,
+      "text": "corimba, aquele piau grande"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

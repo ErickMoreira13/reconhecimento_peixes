@@ -1,0 +1,62 @@
+{
+  "texto": "E aí pessoal, boa noite Fazendo aquela massa Pra amanhã Poder ir no pesqueiro Pescar na diária Aqui já tem uma massa que eu fiz E fazer essa outra aqui Vamos ver o que amanhã sai Vou pôr mais um negócio aqui Pra dar uma liga E bora lá, né",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.17,
+      "text": "E aí pessoal, boa noite"
+    },
+    {
+      "start": 2.17,
+      "end": 4.41,
+      "text": "Fazendo aquela massa"
+    },
+    {
+      "start": 4.41,
+      "end": 6.43,
+      "text": "Pra amanhã"
+    },
+    {
+      "start": 6.43,
+      "end": 7.85,
+      "text": "Poder ir no pesqueiro"
+    },
+    {
+      "start": 7.85,
+      "end": 10.16,
+      "text": "Pescar na diária"
+    },
+    {
+      "start": 10.16,
+      "end": 12.38,
+      "text": "Aqui já tem uma massa que eu fiz"
+    },
+    {
+      "start": 12.38,
+      "end": 14.73,
+      "text": "E fazer essa outra aqui"
+    },
+    {
+      "start": 14.73,
+      "end": 17.36,
+      "text": "Vamos ver o que amanhã sai"
+    },
+    {
+      "start": 17.36,
+      "end": 19.1,
+      "text": "Vou pôr mais um negócio aqui"
+    },
+    {
+      "start": 19.1,
+      "end": 19.9,
+      "text": "Pra dar uma liga"
+    },
+    {
+      "start": 19.9,
+      "end": 22.43,
+      "text": "E bora lá, né"
+    }
+  ],
+  "duracao_seg": 22.71,
+  "idioma_detectado": "pt"
+}
