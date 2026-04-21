@@ -1,0 +1,17 @@
+{
+  "texto": "Tá saindo, quem disse que não ia sair? Tá no pescador, na instalação como é que fizeram aqui, olha o caninho que colocaram",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 5.03,
+      "text": "Tá saindo, quem disse que não ia sair?"
+    },
+    {
+      "start": 5.03,
+      "end": 11.32,
+      "text": "Tá no pescador, na instalação como é que fizeram aqui, olha o caninho que colocaram"
+    }
+  ],
+  "duracao_seg": 14.83,
+  "idioma_detectado": "pt"
+}

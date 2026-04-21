@@ -1,0 +1,82 @@
+{
+  "texto": "Ele vai colocar o peixe aí? Meu Deus, meu Deus, só pega a boca Encosta bem a boca aí, fecha a boca Fecha a boca Encosta lá, encosta lá Isso, isso Filma, Chiara A sombra, sombra Tira o braço dela Isso Mostra a boca bem encostada Olha, olha 91,5 91,5 cm O peixe do peixe na Colômbia",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 9.82,
+      "text": "Ele vai colocar o peixe aí?"
+    },
+    {
+      "start": 9.82,
+      "end": 18.3,
+      "text": "Meu Deus, meu Deus, só pega a boca"
+    },
+    {
+      "start": 18.3,
+      "end": 20.75,
+      "text": "Encosta bem a boca aí, fecha a boca"
+    },
+    {
+      "start": 20.75,
+      "end": 21.75,
+      "text": "Fecha a boca"
+    },
+    {
+      "start": 21.75,
+      "end": 24.04,
+      "text": "Encosta lá, encosta lá"
+    },
+    {
+      "start": 24.04,
+      "end": 25.04,
+      "text": "Isso, isso"
+    },
+    {
+      "start": 25.04,
+      "end": 26.04,
+      "text": "Filma, Chiara"
+    },
+    {
+      "start": 26.04,
+      "end": 28.04,
+      "text": "A sombra, sombra"
+    },
+    {
+      "start": 28.04,
+      "end": 29.04,
+      "text": "Tira o braço dela"
+    },
+    {
+      "start": 29.04,
+      "end": 30.04,
+      "text": "Isso"
+    },
+    {
+      "start": 30.04,
+      "end": 32.04,
+      "text": "Mostra a boca bem encostada"
+    },
+    {
+      "start": 32.04,
+      "end": 34.07,
+      "text": "Olha, olha"
+    },
+    {
+      "start": 34.07,
+      "end": 37.38,
+      "text": "91,5"
+    },
+    {
+      "start": 37.38,
+      "end": 41.38,
+      "text": "91,5 cm"
+    },
+    {
+      "start": 41.38,
+      "end": 44.38,
+      "text": "O peixe do peixe na Colômbia"
+    }
+  ],
+  "duracao_seg": 44.99,
+  "idioma_detectado": "pt"
+}

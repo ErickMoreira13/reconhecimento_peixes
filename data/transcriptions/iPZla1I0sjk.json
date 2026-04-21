@@ -1,0 +1,32 @@
+{
+  "texto": "Um dia me perguntaram, respondi com alegria Das coisas que eu mais gosto, que alegram meu dia a dia Gosto de mulher bonita, de viola e cantoria Pra completar meu prazer Gosto de pensar",
+  "segmentos": [
+    {
+      "start": 2.38,
+      "end": 6.7,
+      "text": "Um dia me perguntaram, respondi com alegria"
+    },
+    {
+      "start": 6.7,
+      "end": 11.8,
+      "text": "Das coisas que eu mais gosto, que alegram meu dia a dia"
+    },
+    {
+      "start": 11.8,
+      "end": 17.18,
+      "text": "Gosto de mulher bonita, de viola e cantoria"
+    },
+    {
+      "start": 17.18,
+      "end": 23.43,
+      "text": "Pra completar meu prazer"
+    },
+    {
+      "start": 23.43,
+      "end": 29.9,
+      "text": "Gosto de pensar"
+    }
+  ],
+  "duracao_seg": 29.91,
+  "idioma_detectado": "pt"
+}

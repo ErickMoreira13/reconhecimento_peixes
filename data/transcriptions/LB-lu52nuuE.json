@@ -1,0 +1,17 @@
+{
+  "texto": "Olha aí, o troféu da tarde, na reguinha, beliscou o 49 ali, faltou um trisco para bater a 50, aí valeu, é isso aí, olha aí o troféuzão, fim de tarde, 49 bateu, faltou um trisquinho para 50, bruto, e vamos respeitar a gente, vamos lembrar, a gente é mais feliz pescando do que comendo peixe, olha, ficou paradinha aí, ah, bonitona!",
+  "segmentos": [
+    {
+      "start": 1.23,
+      "end": 35.73,
+      "text": "Olha aí, o troféu da tarde, na reguinha, beliscou o 49 ali, faltou um trisco para bater a 50, aí valeu, é isso aí, olha aí o troféuzão, fim de tarde, 49 bateu, faltou um trisquinho para 50, bruto, e vamos respeitar a gente, vamos lembrar, a gente é mais feliz pescando do que comendo peixe,"
+    },
+    {
+      "start": 35.73,
+      "end": 42.34,
+      "text": "olha, ficou paradinha aí, ah, bonitona!"
+    }
+  ],
+  "duracao_seg": 57.03,
+  "idioma_detectado": "pt"
+}

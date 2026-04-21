@@ -1,0 +1,17 @@
+{
+  "texto": "Você vai ter que parar de pescar para poder salvar o mundo Eu tô fora, meu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Você vai ter que parar de pescar para poder salvar o mundo"
+    },
+    {
+      "start": 3.04,
+      "end": 7.6,
+      "text": "Eu tô fora, meu"
+    }
+  ],
+  "duracao_seg": 7.87,
+  "idioma_detectado": "pt"
+}

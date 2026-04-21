@@ -1,0 +1,407 @@
+{
+  "texto": "Alonga a vara, alonga a vara, isso garoto, dia primeiro, dia do mentiroso Alonga a vara, alonga a vara, aula, calma, calma, deixa eu levantar, deixa eu levantar Ih garoto, aula, aí garoto, dia do mentiroso, aí Quem nasce 23 de abril, pô, quem nasce 23 de abril, ó, vem na lula, hein Olha aí, ó, tem 23 de abril aí, ó, é isso aí, olha o mengão aí, ó Agora tem que saber pegar, pô, tem que saber, né, não adianta vir e não saber pegar, né Trabalha o peixe, Serjão, trabalha o peixe, trabalha o peixe, Serjão É toda hora que tiram o palco, olha o molinete dele Ô Luiz, quer sair no vídeo, cala lá e pega até o palco Ô Luiz, quem tu pega peixe ajuda, né Luiz É, quem não pega peixe come carne Trabalha, Serjão, trabalha Vou beber mais uma cerveja Mais 10 minutos, pede aí, aqui, ó Conhece, o que que eu tô te falando? Seu Luiz, pô, fala, escuta, seu Luiz, pô Aí, o que que eu tô te falando? Aqui é isso, pô Aí, Serjão, fala pra ele Vem cá, neném Se por acaso, quem quiser o primeiro peixe Pô, Serjão, tu já sabe que tu lá no churrasco, né A aula dele Lá ela Show de bola Qual o dia de hoje? Hoje é dia 1º de abril Aí, o que que você tá tirando aí? Aí, cavalinha Aí, ó, o peixe aqui, ô DBG Ô DBG Aí, ó, cavalinha aí, ó Cavalinha aí Cavalinha, isso aqui é cavalinha Isso aí é tira e vira, isso aí é tira e vira Aí, ó A aula, tio Paulinho, na cavalinha Show de bola Vou te dar o seu aqui É verdade É mentira não É verdade, aí, ó Semana santa dos caras aí garantida Tá bem cravada, tá bem cravada, tá bem cravada Vamos aí, vambora, vambora, vambora, vambora Aí, garoto, tem Corvina também Aí, ó, o homem aí, ó, brabo de hoje Tem que ter peixe que tem, pô Pega a roa aí Passa a goia pra amador, rapaz Aqui não tem negócio de amador, não Aqui é profissional, pô Saiu, seu Luiz, saiu não? Convido que saia Porra, aqui os caras tão querendo sabotar, seu Luiz Não, mas são mesmo Não tem nada aí não, cara Não, não tem não, tem não É, isso aí, um curvinão desse Olha lá, olha como é que vem o pão, pô Ih, caralho, olha lá Olha lá, Corvina Aí, pra que eu quero, quero Passagualha? Passagualha, você é pra amador? Eu falador ou salvador? Porra, vou ficar quietinho, não falo nada Aí, viu? Diferença que faz? Olha, garoto, é peixe para rai Sobe de uma vez, só de uma vez, só de uma vez Olha, beijo, já beijo, já beijo, já beijo Sobe, se não é Pegou outra ali Aí, ficou certo Aí, tá enrolação Aí, garoto Tá tão invejoso aqui, ó Tá tão invejoso aí? Tá invejoso aqui, ó Não sei",
+  "segmentos": [
+    {
+      "start": 0.58,
+      "end": 4.74,
+      "text": "Alonga a vara, alonga a vara, isso garoto, dia primeiro, dia do mentiroso"
+    },
+    {
+      "start": 4.74,
+      "end": 10.3,
+      "text": "Alonga a vara, alonga a vara, aula, calma, calma, deixa eu levantar, deixa eu levantar"
+    },
+    {
+      "start": 10.3,
+      "end": 18.89,
+      "text": "Ih garoto, aula, aí garoto, dia do mentiroso, aí"
+    },
+    {
+      "start": 18.89,
+      "end": 24.28,
+      "text": "Quem nasce 23 de abril, pô, quem nasce 23 de abril, ó, vem na lula, hein"
+    },
+    {
+      "start": 24.28,
+      "end": 29.94,
+      "text": "Olha aí, ó, tem 23 de abril aí, ó, é isso aí, olha o mengão aí, ó"
+    },
+    {
+      "start": 29.94,
+      "end": 34.68,
+      "text": "Agora tem que saber pegar, pô, tem que saber, né, não adianta vir e não saber pegar, né"
+    },
+    {
+      "start": 34.68,
+      "end": 40.82,
+      "text": "Trabalha o peixe, Serjão, trabalha o peixe, trabalha o peixe, Serjão"
+    },
+    {
+      "start": 40.82,
+      "end": 44.32,
+      "text": "É toda hora que tiram o palco, olha o molinete dele"
+    },
+    {
+      "start": 44.32,
+      "end": 46.52,
+      "text": "Ô Luiz, quer sair no vídeo, cala lá e pega até o palco"
+    },
+    {
+      "start": 46.52,
+      "end": 53.28,
+      "text": "Ô Luiz, quem tu pega peixe ajuda, né Luiz"
+    },
+    {
+      "start": 53.28,
+      "end": 56.26,
+      "text": "É, quem não pega peixe come carne"
+    },
+    {
+      "start": 56.26,
+      "end": 59.86,
+      "text": "Trabalha, Serjão, trabalha"
+    },
+    {
+      "start": 59.86,
+      "end": 61.4,
+      "text": "Vou beber mais uma cerveja"
+    },
+    {
+      "start": 61.4,
+      "end": 63.16,
+      "text": "Mais 10 minutos, pede aí, aqui, ó"
+    },
+    {
+      "start": 63.16,
+      "end": 64.84,
+      "text": "Conhece, o que que eu tô te falando?"
+    },
+    {
+      "start": 65.0,
+      "end": 67.16,
+      "text": "Seu Luiz, pô, fala, escuta, seu Luiz, pô"
+    },
+    {
+      "start": 67.16,
+      "end": 69.6,
+      "text": "Aí, o que que eu tô te falando? Aqui é isso, pô"
+    },
+    {
+      "start": 69.6,
+      "end": 71.3,
+      "text": "Aí, Serjão, fala pra ele"
+    },
+    {
+      "start": 71.3,
+      "end": 72.8,
+      "text": "Vem cá, neném"
+    },
+    {
+      "start": 72.8,
+      "end": 77.93,
+      "text": "Se por acaso, quem quiser o primeiro peixe"
+    },
+    {
+      "start": 77.93,
+      "end": 80.79,
+      "text": "Pô, Serjão, tu já sabe que tu lá no churrasco, né"
+    },
+    {
+      "start": 80.79,
+      "end": 82.47,
+      "text": "A aula dele"
+    },
+    {
+      "start": 82.47,
+      "end": 83.13,
+      "text": "Lá ela"
+    },
+    {
+      "start": 83.13,
+      "end": 84.53,
+      "text": "Show de bola"
+    },
+    {
+      "start": 84.53,
+      "end": 85.79,
+      "text": "Qual o dia de hoje?"
+    },
+    {
+      "start": 86.35,
+      "end": 88.17,
+      "text": "Hoje é dia 1º de abril"
+    },
+    {
+      "start": 88.17,
+      "end": 89.67,
+      "text": "Aí, o que que você tá tirando aí?"
+    },
+    {
+      "start": 90.01,
+      "end": 90.87,
+      "text": "Aí, cavalinha"
+    },
+    {
+      "start": 90.87,
+      "end": 92.37,
+      "text": "Aí, ó, o peixe aqui, ô DBG"
+    },
+    {
+      "start": 92.37,
+      "end": 94.48,
+      "text": "Ô DBG"
+    },
+    {
+      "start": 94.48,
+      "end": 96.48,
+      "text": "Aí, ó, cavalinha aí, ó"
+    },
+    {
+      "start": 96.48,
+      "end": 97.38,
+      "text": "Cavalinha aí"
+    },
+    {
+      "start": 97.38,
+      "end": 100.2,
+      "text": "Cavalinha, isso aqui é cavalinha"
+    },
+    {
+      "start": 100.2,
+      "end": 102.78,
+      "text": "Isso aí é tira e vira, isso aí é tira e vira"
+    },
+    {
+      "start": 102.78,
+      "end": 103.52,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 103.52,
+      "end": 105.48,
+      "text": "A aula, tio Paulinho, na cavalinha"
+    },
+    {
+      "start": 105.48,
+      "end": 106.9,
+      "text": "Show de bola"
+    },
+    {
+      "start": 106.9,
+      "end": 107.54,
+      "text": "Vou te dar o seu aqui"
+    },
+    {
+      "start": 107.54,
+      "end": 109.66,
+      "text": "É verdade"
+    },
+    {
+      "start": 109.66,
+      "end": 111.98,
+      "text": "É mentira não"
+    },
+    {
+      "start": 111.98,
+      "end": 113.3,
+      "text": "É verdade, aí, ó"
+    },
+    {
+      "start": 113.3,
+      "end": 115.92,
+      "text": "Semana santa dos caras aí garantida"
+    },
+    {
+      "start": 115.92,
+      "end": 118.34,
+      "text": "Tá bem cravada, tá bem cravada, tá bem cravada"
+    },
+    {
+      "start": 118.34,
+      "end": 120.9,
+      "text": "Vamos aí, vambora, vambora, vambora, vambora"
+    },
+    {
+      "start": 120.9,
+      "end": 123.14,
+      "text": "Aí, garoto, tem Corvina também"
+    },
+    {
+      "start": 123.14,
+      "end": 125.7,
+      "text": "Aí, ó, o homem aí, ó, brabo de hoje"
+    },
+    {
+      "start": 125.7,
+      "end": 130.22,
+      "text": "Tem que ter peixe que tem, pô"
+    },
+    {
+      "start": 130.22,
+      "end": 131.48,
+      "text": "Pega a roa aí"
+    },
+    {
+      "start": 131.48,
+      "end": 133.8,
+      "text": "Passa a goia pra amador, rapaz"
+    },
+    {
+      "start": 133.8,
+      "end": 135.34,
+      "text": "Aqui não tem negócio de amador, não"
+    },
+    {
+      "start": 135.34,
+      "end": 138.14,
+      "text": "Aqui é profissional, pô"
+    },
+    {
+      "start": 138.14,
+      "end": 140.74,
+      "text": "Saiu, seu Luiz, saiu não?"
+    },
+    {
+      "start": 141.1,
+      "end": 141.84,
+      "text": "Convido que saia"
+    },
+    {
+      "start": 141.84,
+      "end": 143.46,
+      "text": "Porra, aqui os caras tão querendo sabotar, seu Luiz"
+    },
+    {
+      "start": 143.46,
+      "end": 144.5,
+      "text": "Não, mas são mesmo"
+    },
+    {
+      "start": 144.5,
+      "end": 145.9,
+      "text": "Não tem nada aí não, cara"
+    },
+    {
+      "start": 145.9,
+      "end": 147.82,
+      "text": "Não, não tem não, tem não"
+    },
+    {
+      "start": 147.82,
+      "end": 151.82,
+      "text": "É, isso aí, um curvinão desse"
+    },
+    {
+      "start": 151.82,
+      "end": 155.04,
+      "text": "Olha lá, olha como é que vem o pão, pô"
+    },
+    {
+      "start": 155.04,
+      "end": 157.7,
+      "text": "Ih, caralho, olha lá"
+    },
+    {
+      "start": 157.7,
+      "end": 159.06,
+      "text": "Olha lá, Corvina"
+    },
+    {
+      "start": 159.06,
+      "end": 162.38,
+      "text": "Aí, pra que eu quero, quero"
+    },
+    {
+      "start": 162.38,
+      "end": 164.22,
+      "text": "Passagualha?"
+    },
+    {
+      "start": 164.24,
+      "end": 166.2,
+      "text": "Passagualha, você é pra amador?"
+    },
+    {
+      "start": 166.46,
+      "end": 168.74,
+      "text": "Eu falador ou salvador?"
+    },
+    {
+      "start": 170.13,
+      "end": 172.29,
+      "text": "Porra, vou ficar quietinho, não falo nada"
+    },
+    {
+      "start": 172.29,
+      "end": 174.33,
+      "text": "Aí, viu?"
+    },
+    {
+      "start": 174.81,
+      "end": 175.77,
+      "text": "Diferença que faz?"
+    },
+    {
+      "start": 176.37,
+      "end": 178.47,
+      "text": "Olha, garoto, é peixe para rai"
+    },
+    {
+      "start": 178.47,
+      "end": 183.6,
+      "text": "Sobe de uma vez, só de uma vez, só de uma vez"
+    },
+    {
+      "start": 183.6,
+      "end": 184.98,
+      "text": "Olha, beijo, já beijo, já beijo, já beijo"
+    },
+    {
+      "start": 184.98,
+      "end": 185.66,
+      "text": "Sobe, se não é"
+    },
+    {
+      "start": 185.66,
+      "end": 186.52,
+      "text": "Pegou outra ali"
+    },
+    {
+      "start": 186.52,
+      "end": 187.54,
+      "text": "Aí, ficou certo"
+    },
+    {
+      "start": 187.54,
+      "end": 189.58,
+      "text": "Aí, tá enrolação"
+    },
+    {
+      "start": 189.58,
+      "end": 191.6,
+      "text": "Aí, garoto"
+    },
+    {
+      "start": 191.6,
+      "end": 193.36,
+      "text": "Tá tão invejoso aqui, ó"
+    },
+    {
+      "start": 193.36,
+      "end": 195.08,
+      "text": "Tá tão invejoso aí?"
+    },
+    {
+      "start": 195.16,
+      "end": 196.26,
+      "text": "Tá invejoso aqui, ó"
+    },
+    {
+      "start": 196.26,
+      "end": 197.84,
+      "text": "Não sei"
+    }
+  ],
+  "duracao_seg": 205.67,
+  "idioma_detectado": "pt"
+}

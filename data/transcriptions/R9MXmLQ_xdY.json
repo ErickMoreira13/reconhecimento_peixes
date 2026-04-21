@@ -1,0 +1,17 @@
+{
+  "texto": "Lása me apontou, trilha do notar Fosseu, mas tu haja",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 4.4,
+      "text": "Lása me apontou, trilha do notar"
+    },
+    {
+      "start": 4.4,
+      "end": 11.56,
+      "text": "Fosseu, mas tu haja"
+    }
+  ],
+  "duracao_seg": 18.85,
+  "idioma_detectado": "pt"
+}

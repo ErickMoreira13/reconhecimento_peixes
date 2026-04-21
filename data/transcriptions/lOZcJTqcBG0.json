@@ -1,0 +1,27 @@
+{
+  "texto": "montar foi fácil, depois o mais difícil foi alinhar ele, sabe, deixar tudo aliadinho mas ficou chique, ficou bem funcional vai dar certinho, não precisamos um vídeo assim que eu... desculpa o trem",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 5.64,
+      "text": "montar foi fácil, depois o mais difícil foi alinhar ele, sabe, deixar tudo aliadinho"
+    },
+    {
+      "start": 5.64,
+      "end": 12.14,
+      "text": "mas ficou chique, ficou bem funcional vai dar certinho, não precisamos"
+    },
+    {
+      "start": 12.14,
+      "end": 16.1,
+      "text": "um vídeo assim que eu..."
+    },
+    {
+      "start": 16.1,
+      "end": 24.12,
+      "text": "desculpa o trem"
+    }
+  ],
+  "duracao_seg": 26.59,
+  "idioma_detectado": "pt"
+}

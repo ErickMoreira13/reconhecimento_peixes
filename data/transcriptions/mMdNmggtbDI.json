@@ -1,0 +1,32 @@
+{
+  "texto": "O cliente tinha deixado a corda cair no fundo do poço. Ele tentou tirar a bomba para fora puxando a mangueira, mas a mangueira arrebentava e não saíam, porque a corda prendia, tipo uma bucha. Com essa ferramenta que meu irmão fabricou, conseguimos pescar a corda.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "O cliente tinha deixado a corda cair no fundo do poço."
+    },
+    {
+      "start": 3.52,
+      "end": 6.42,
+      "text": "Ele tentou tirar a bomba para fora puxando a mangueira,"
+    },
+    {
+      "start": 6.8,
+      "end": 8.96,
+      "text": "mas a mangueira arrebentava e não saíam,"
+    },
+    {
+      "start": 9.32,
+      "end": 11.9,
+      "text": "porque a corda prendia, tipo uma bucha."
+    },
+    {
+      "start": 12.7,
+      "end": 16.2,
+      "text": "Com essa ferramenta que meu irmão fabricou, conseguimos pescar a corda."
+    }
+  ],
+  "duracao_seg": 17.47,
+  "idioma_detectado": "pt"
+}

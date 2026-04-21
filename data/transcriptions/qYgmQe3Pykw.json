@@ -1,0 +1,27 @@
+{
+  "texto": "Na festa do fim de semana, só roulebon Ela chega e desencana com o passo bençol Palasso bençol Palasso",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "Na festa do fim de semana, só roulebon"
+    },
+    {
+      "start": 4.08,
+      "end": 8.26,
+      "text": "Ela chega e desencana com o passo bençol"
+    },
+    {
+      "start": 8.26,
+      "end": 9.86,
+      "text": "Palasso bençol"
+    },
+    {
+      "start": 9.86,
+      "end": 13.08,
+      "text": "Palasso"
+    }
+  ],
+  "duracao_seg": 13.07,
+  "idioma_detectado": "pt"
+}

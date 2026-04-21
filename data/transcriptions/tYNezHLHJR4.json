@@ -1,0 +1,47 @@
+{
+  "texto": "Orar num pedacinho de terra, vivendo o contrário da guerra Acordando todo dia sem ouvir bozinas na janela Plantar e colher, pescar e comer, só o suficiente pra viver Uns bichos espalhados e um amor do lado, esperando a família crescer Eu trabalhei e tenho tudo isso, mas eu tô preso na cidade, entre os prédios e os compromissos Por que que a gente lê de nossa paz por cogeria? Por que a gente não toca o celular, o céu que brinda Batei o tempo pra dar um descanso, pra curtir meu rancho",
+  "segmentos": [
+    {
+      "start": 0.44,
+      "end": 7.84,
+      "text": "Orar num pedacinho de terra, vivendo o contrário da guerra"
+    },
+    {
+      "start": 7.84,
+      "end": 13.48,
+      "text": "Acordando todo dia sem ouvir bozinas na janela"
+    },
+    {
+      "start": 13.48,
+      "end": 22.21,
+      "text": "Plantar e colher, pescar e comer, só o suficiente pra viver"
+    },
+    {
+      "start": 22.21,
+      "end": 29.31,
+      "text": "Uns bichos espalhados e um amor do lado, esperando a família crescer"
+    },
+    {
+      "start": 29.31,
+      "end": 38.37,
+      "text": "Eu trabalhei e tenho tudo isso, mas eu tô preso na cidade, entre os prédios e os compromissos"
+    },
+    {
+      "start": 38.37,
+      "end": 44.94,
+      "text": "Por que que a gente lê de nossa paz por cogeria?"
+    },
+    {
+      "start": 46.0,
+      "end": 52.4,
+      "text": "Por que a gente não toca o celular, o céu que brinda"
+    },
+    {
+      "start": 52.4,
+      "end": 57.36,
+      "text": "Batei o tempo pra dar um descanso, pra curtir meu rancho"
+    }
+  ],
+  "duracao_seg": 57.75,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Você está acima, né, Tobias? Olha o tamanho disso! Olha o tamanho disso! Olha o tamanho disso! Vamos tirar a pala de Itatai!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Você está acima, né, Tobias?"
+    },
+    {
+      "start": 2.7,
+      "end": 5.28,
+      "text": "Olha o tamanho disso!"
+    },
+    {
+      "start": 5.28,
+      "end": 7.28,
+      "text": "Olha o tamanho disso!"
+    },
+    {
+      "start": 7.28,
+      "end": 12.8,
+      "text": "Olha o tamanho disso!"
+    },
+    {
+      "start": 12.8,
+      "end": 15.09,
+      "text": "Vamos tirar a pala de Itatai!"
+    }
+  ],
+  "duracao_seg": 57.61,
+  "idioma_detectado": "pt"
+}

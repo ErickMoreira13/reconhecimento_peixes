@@ -1,0 +1,42 @@
+{
+  "texto": "Rapaz, aqui na barragem 4 Olha o tamanho Dessa criança Olha o tamanzão desse bebezão Que saiu aqui Primeiro, primeiro que eu pego desse tamanho Show, fi",
+  "segmentos": [
+    {
+      "start": 1.68,
+      "end": 3.6,
+      "text": "Rapaz, aqui na barragem 4"
+    },
+    {
+      "start": 3.6,
+      "end": 5.68,
+      "text": "Olha o tamanho"
+    },
+    {
+      "start": 5.68,
+      "end": 7.02,
+      "text": "Dessa criança"
+    },
+    {
+      "start": 7.02,
+      "end": 9.89,
+      "text": "Olha o tamanzão desse bebezão"
+    },
+    {
+      "start": 9.89,
+      "end": 10.47,
+      "text": "Que saiu aqui"
+    },
+    {
+      "start": 10.47,
+      "end": 13.29,
+      "text": "Primeiro, primeiro que eu pego desse tamanho"
+    },
+    {
+      "start": 13.29,
+      "end": 15.08,
+      "text": "Show, fi"
+    }
+  ],
+  "duracao_seg": 18.19,
+  "idioma_detectado": "pt"
+}

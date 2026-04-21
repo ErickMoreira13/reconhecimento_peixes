@@ -1,0 +1,27 @@
+{
+  "texto": "Olha o tamanho dele. Olha o peixão. Esse é o piau branco ou campineiro. Aê, André, vamos pegar outro.",
+  "segmentos": [
+    {
+      "start": 7.38,
+      "end": 9.72,
+      "text": "Olha o tamanho dele."
+    },
+    {
+      "start": 14.36,
+      "end": 16.06,
+      "text": "Olha o peixão."
+    },
+    {
+      "start": 17.1,
+      "end": 21.33,
+      "text": "Esse é o piau branco ou campineiro."
+    },
+    {
+      "start": 22.19,
+      "end": 24.45,
+      "text": "Aê, André, vamos pegar outro."
+    }
+  ],
+  "duracao_seg": 25.69,
+  "idioma_detectado": "pt"
+}

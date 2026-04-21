@@ -1,0 +1,52 @@
+{
+  "texto": "Tucunarézão, moleque Esse Tucunaré é top Meu Deus do céu Olha o tamanho disso Nossa senhora Caralho, moleque Esse ganhava em mil contas Esse ganhava em setecentos Valeu, Paulo",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 6.88,
+      "text": "Tucunarézão, moleque"
+    },
+    {
+      "start": 6.88,
+      "end": 9.64,
+      "text": "Esse Tucunaré é top"
+    },
+    {
+      "start": 9.64,
+      "end": 17.62,
+      "text": "Meu Deus do céu"
+    },
+    {
+      "start": 17.62,
+      "end": 21.78,
+      "text": "Olha o tamanho disso"
+    },
+    {
+      "start": 21.78,
+      "end": 25.18,
+      "text": "Nossa senhora"
+    },
+    {
+      "start": 25.18,
+      "end": 27.96,
+      "text": "Caralho, moleque"
+    },
+    {
+      "start": 27.96,
+      "end": 32.83,
+      "text": "Esse ganhava em mil contas"
+    },
+    {
+      "start": 32.83,
+      "end": 34.95,
+      "text": "Esse ganhava em setecentos"
+    },
+    {
+      "start": 34.95,
+      "end": 37.64,
+      "text": "Valeu, Paulo"
+    }
+  ],
+  "duracao_seg": 37.65,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Ó, eu vou postar, viu? Não sei o que... Ela vai estressar com vocês.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "Ó, eu vou postar, viu?"
+    },
+    {
+      "start": 2.16,
+      "end": 3.28,
+      "text": "Não sei o que..."
+    },
+    {
+      "start": 3.28,
+      "end": 5.24,
+      "text": "Ela vai estressar com vocês."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

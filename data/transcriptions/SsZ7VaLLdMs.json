@@ -1,0 +1,27 @@
+{
+  "texto": "e é ele é grande pessoa é testando a 45 especial com esse não quebra né pessoal é apoclipcho é bruto pessoal tomara que não escapa é apocalipse queiro meus amigos linha boa agora tomara que nenhum rosa que quebra é ele pessoal é ele meus amigos linha boa em pessoal aí eu tava ainda lá aqui ó é um maciço amarelo pessoal aí bruto aí meu amigo ju",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 22.49,
+      "text": "e é ele é grande pessoa é testando a 45 especial com esse não quebra né pessoal é apoclipcho é"
+    },
+    {
+      "start": 22.49,
+      "end": 33.42,
+      "text": "bruto pessoal tomara que não escapa é apocalipse queiro meus amigos linha boa agora tomara que"
+    },
+    {
+      "start": 33.42,
+      "end": 48.73,
+      "text": "nenhum rosa que quebra é ele pessoal é ele meus amigos linha boa em pessoal aí eu tava ainda lá"
+    },
+    {
+      "start": 48.73,
+      "end": 59.82,
+      "text": "aqui ó é um maciço amarelo pessoal aí bruto aí meu amigo ju"
+    }
+  ],
+  "duracao_seg": 59.83,
+  "idioma_detectado": "pt"
+}

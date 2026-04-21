@@ -1,0 +1,62 @@
+{
+  "texto": "Oi pessoal, ó, se vocês tem problema aí com um cano de poço artesiano aí que não tá saindo, devido não ter colocado aquele praforo de travamento, de barra em barra, eis aqui a solução, eu desenvolvi essa ferramenta aqui, ó, pra resolver seus problemas aí, ó, é só chegar, puxar pra cima as travas aqui, descer a barra, né, com um cabo de aço, com a ferramenta aí, e chegou lá embaixo na barra, lá na última barra, ou se você quiser puxar de barra em barra, também puxe, mas se quiser puxar da barra de baixo lá, puxando todas, e tirando de barra por barra, é só encarcar lá de baixo lá, soltou a trava aqui, ó, soltou a trava aqui, ó, e puxou pra cima, aí a barra sai, entendeu? Sem dificuldade nenhuma aí, ó, beleza, galera?",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 6.29,
+      "text": "Oi pessoal, ó, se vocês tem problema aí com um cano de poço artesiano aí que não tá saindo,"
+    },
+    {
+      "start": 6.39,
+      "end": 10.87,
+      "text": "devido não ter colocado aquele praforo de travamento, de barra em barra,"
+    },
+    {
+      "start": 11.67,
+      "end": 14.35,
+      "text": "eis aqui a solução, eu desenvolvi essa ferramenta aqui, ó,"
+    },
+    {
+      "start": 15.07,
+      "end": 20.28,
+      "text": "pra resolver seus problemas aí, ó, é só chegar, puxar pra cima as travas aqui,"
+    },
+    {
+      "start": 20.38,
+      "end": 25.18,
+      "text": "descer a barra, né, com um cabo de aço, com a ferramenta aí,"
+    },
+    {
+      "start": 25.18,
+      "end": 28.12,
+      "text": "e chegou lá embaixo na barra, lá na última barra,"
+    },
+    {
+      "start": 28.12,
+      "end": 31.13,
+      "text": "ou se você quiser puxar de barra em barra, também puxe,"
+    },
+    {
+      "start": 31.33,
+      "end": 37.59,
+      "text": "mas se quiser puxar da barra de baixo lá, puxando todas, e tirando de barra por barra,"
+    },
+    {
+      "start": 38.01,
+      "end": 41.19,
+      "text": "é só encarcar lá de baixo lá, soltou a trava aqui, ó,"
+    },
+    {
+      "start": 42.56,
+      "end": 47.0,
+      "text": "soltou a trava aqui, ó, e puxou pra cima, aí a barra sai, entendeu?"
+    },
+    {
+      "start": 48.16,
+      "end": 50.7,
+      "text": "Sem dificuldade nenhuma aí, ó, beleza, galera?"
+    }
+  ],
+  "duracao_seg": 51.85,
+  "idioma_detectado": "pt"
+}

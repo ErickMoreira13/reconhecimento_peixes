@@ -1,0 +1,22 @@
+{
+  "texto": "Olha o tamanho da máquina galera! Para mandar para a vida! É peixe lindo!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Olha o tamanho da máquina galera!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.19,
+      "text": "Para mandar para a vida!"
+    },
+    {
+      "start": 4.19,
+      "end": 5.19,
+      "text": "É peixe lindo!"
+    }
+  ],
+  "duracao_seg": 7.63,
+  "idioma_detectado": "pt"
+}

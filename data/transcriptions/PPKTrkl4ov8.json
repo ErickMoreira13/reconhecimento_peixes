@@ -1,0 +1,37 @@
+{
+  "texto": "E tem alguém que tá se incomodando No tuts, tuts, no paredão tocando E o coração dela quase parando Sai do e, eu pulo E vai ver TV Tá passando eu vivendo no...",
+  "segmentos": [
+    {
+      "start": 1.3,
+      "end": 8.67,
+      "text": "E tem alguém que tá se incomodando"
+    },
+    {
+      "start": 8.67,
+      "end": 12.01,
+      "text": "No tuts, tuts, no paredão tocando"
+    },
+    {
+      "start": 12.01,
+      "end": 15.75,
+      "text": "E o coração dela quase parando"
+    },
+    {
+      "start": 15.75,
+      "end": 20.32,
+      "text": "Sai do e, eu pulo"
+    },
+    {
+      "start": 20.32,
+      "end": 24.37,
+      "text": "E vai ver TV"
+    },
+    {
+      "start": 24.37,
+      "end": 29.57,
+      "text": "Tá passando eu vivendo no..."
+    }
+  ],
+  "duracao_seg": 29.57,
+  "idioma_detectado": "pt"
+}

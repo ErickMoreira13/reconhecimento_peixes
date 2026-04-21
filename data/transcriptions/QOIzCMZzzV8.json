@@ -1,0 +1,22 @@
+{
+  "texto": "Assim se vê mil dólares em pesca, este barco pesquero acaba de atrapar com uma rede mil dólares em pesca. Estos se almacenan na parte de baixo do barco para depois chegar à terra firme e poder venderlos a pessoas. Muitas pessoas decidem esperar os barcos pesqueros porque é o mais fresco que poderão conseguir.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "Assim se vê mil dólares em pesca, este barco pesquero acaba de atrapar com uma rede mil dólares em pesca."
+    },
+    {
+      "start": 5.16,
+      "end": 10.4,
+      "text": "Estos se almacenan na parte de baixo do barco para depois chegar à terra firme e poder venderlos a pessoas."
+    },
+    {
+      "start": 10.4,
+      "end": 14.7,
+      "text": "Muitas pessoas decidem esperar os barcos pesqueros porque é o mais fresco que poderão conseguir."
+    }
+  ],
+  "duracao_seg": 14.73,
+  "idioma_detectado": "pt"
+}

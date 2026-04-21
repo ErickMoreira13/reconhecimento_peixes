@@ -1,0 +1,27 @@
+{
+  "texto": "É que é difícil, não, não. Ai, velho rei. Não se quer que levar. É gigante, amor.",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 7.9,
+      "text": "É que é difícil, não, não."
+    },
+    {
+      "start": 7.9,
+      "end": 11.12,
+      "text": "Ai, velho rei."
+    },
+    {
+      "start": 11.12,
+      "end": 17.79,
+      "text": "Não se quer que levar."
+    },
+    {
+      "start": 17.79,
+      "end": 20.21,
+      "text": "É gigante, amor."
+    }
+  ],
+  "duracao_seg": 21.23,
+  "idioma_detectado": "pt"
+}

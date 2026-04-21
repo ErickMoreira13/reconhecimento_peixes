@@ -1,0 +1,107 @@
+{
+  "texto": "Olha o peixe Peixe bom Peixe bom Olha como está uma linha Peixe grande, amigos Encharutou meu gig Trocaria o pé Esse, meus amigos É do boné virado Esse é do boné virado Olha aí Onde ele botou o gig? Aí o bichão Vamos soltar Olha aí, amigos Bichão Olha que gordo, hein Mais um desse aqui Já está feito com a minha pescaria Olha, safado",
+  "segmentos": [
+    {
+      "start": 3.44,
+      "end": 4.4,
+      "text": "Olha o peixe"
+    },
+    {
+      "start": 4.4,
+      "end": 6.54,
+      "text": "Peixe bom"
+    },
+    {
+      "start": 6.54,
+      "end": 8.8,
+      "text": "Peixe bom"
+    },
+    {
+      "start": 8.8,
+      "end": 11.89,
+      "text": "Olha como está uma linha"
+    },
+    {
+      "start": 11.89,
+      "end": 17.06,
+      "text": "Peixe grande, amigos"
+    },
+    {
+      "start": 17.06,
+      "end": 24.47,
+      "text": "Encharutou meu gig"
+    },
+    {
+      "start": 24.47,
+      "end": 27.07,
+      "text": "Trocaria o pé"
+    },
+    {
+      "start": 27.07,
+      "end": 30.06,
+      "text": "Esse, meus amigos"
+    },
+    {
+      "start": 30.06,
+      "end": 32.36,
+      "text": "É do boné virado"
+    },
+    {
+      "start": 32.36,
+      "end": 34.94,
+      "text": "Esse é do boné virado"
+    },
+    {
+      "start": 34.94,
+      "end": 35.78,
+      "text": "Olha aí"
+    },
+    {
+      "start": 35.78,
+      "end": 39.33,
+      "text": "Onde ele botou o gig?"
+    },
+    {
+      "start": 45.02,
+      "end": 45.52,
+      "text": "Aí o bichão"
+    },
+    {
+      "start": 45.52,
+      "end": 46.44,
+      "text": "Vamos soltar"
+    },
+    {
+      "start": 46.44,
+      "end": 49.85,
+      "text": "Olha aí, amigos"
+    },
+    {
+      "start": 49.85,
+      "end": 50.27,
+      "text": "Bichão"
+    },
+    {
+      "start": 50.27,
+      "end": 53.28,
+      "text": "Olha que gordo, hein"
+    },
+    {
+      "start": 53.28,
+      "end": 53.98,
+      "text": "Mais um desse aqui"
+    },
+    {
+      "start": 53.98,
+      "end": 55.4,
+      "text": "Já está feito com a minha pescaria"
+    },
+    {
+      "start": 55.4,
+      "end": 56.92,
+      "text": "Olha, safado"
+    }
+  ],
+  "duracao_seg": 57.43,
+  "idioma_detectado": "pt"
+}
