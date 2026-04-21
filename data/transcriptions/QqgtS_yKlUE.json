@@ -1,0 +1,952 @@
+{
+  "texto": "e fala bebê olha a pancadaria horrível a cor da água aqui tá crítica hoje a cor da água tá suja nossa então bora nós oi oi oi oi oi oi taísca tá embolada por aí vai trabalho devagar tu pode trabalhar bater oi segundo a dizer que foi o primeiro foi o segundo arremessa segunda remessa Abaixa aí, ó. É. Aqui, ó. Aqui, ó. Aí. Caraca, moleque, cara. Porque eu vou ter trabalho agora, viu? Eia! Escapou! Ele pegou de novo! Alain, você que eu tô em bagaça ou não? Opa! Opa! Escapou! Vai, continua, continua. Vai que pega a outra, vai. Vai. Ó, 12 litros. Isso aí, moleque. Cadê o... Vamos... Aí vai. Aí, ó. Tá aí a monstra, moleque. É nóis, papai. É o tamanho da moleca. É papai do Rio Tocantins. É só o começo. Então, anda. Pensa lá. Opa, sai, ela fez. Ela fingiu de morta, depois ela vaza. Fingiu de morta. Beleza. Ela finge, depois ela... Vai e bora. Ah, então tá valendo. Valeu. Mostra lá. Mostra lá, pai. Primeiro peixe. Cachorrinha facão. Isso aí. Isso aí. Isso aqui é certeza. Pega ver tudo aí. Isso parece que tá apertado. Tivei que choveu ontem. Se você falou que fica bom quando chove. Nossa senhora. Tá louco. Agora já tá debaixo. Uhum. Nossa senhora. Nossa senhora. Que tapa, cara. Cê tá doido. Mais devagar. Mais devagar, pô. Vamos lá. Vamos lá. Vamos andar de volta. Nossa senhora. Tomou da nuca. Mentira, cara. Tivei que... Tivei que arrasar. Não vai precisar não. Tivei que... Na boca. Oi. Tivei que... Que sacanagem, bebê? Pega o giga aí que eu te arrumei. É? Joga pra você ver. Hahaha. Hahaha. Joga aí. Pra você ver o que que é bagaça. Me dá outra vara lá então. Vou deixar montado. Qual? É. Essa daqui é a praça. Joga o giga aí. Pega o negócio. Né? Se ela some assim. Cê pode jogar o giga. Aquela ali mesmo. Sem problema. Pô. Já veio uma pra almoço. Hahaha. É ela mesmo. Mostra aí, pô. Nossa. Aqui é diversidade. Nós tá pescando a papá. Vamos. Eu vou pegar do almoço. Tá aí. Hahaha. Meu Deus o lixo. Já escapou. Tá ventriscando o fundo aí. Hahaha. Ó. Nossa senhora. Hahaha. Ai ai ai. É cro cro. Um bilhão. Trezentos e trinta e cinco mil. Quatrocentos e oitenta e três. Hahaha. Hahaha. Ó. Ela não tica. Pode. Aqui não vem assim não. Olha o tamanho das curvinhas. Nossa cara. Hahaha. Hahaha. O tamanho. Olha o tamanho. Nossa. Hahaha. Hahaha. É cavalo. Cavalo. Cavalo. Nossa senhora. Ah. Tinha que cuspir aí. Caralho. Caralho. Cacete. Você viu o tamanho dessa. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Caralho. Olha, ela está correndo para o barco Caraca O trabalho dela é olhento Você fez agora ela ou não conseguiu? Não, estou escando com ela Vai, Gosp Agora essa aí podia saltar Pode saltar já direto, né? Pode Aí valeu",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 19.14,
+      "text": "e fala bebê olha a pancadaria horrível a cor da água aqui tá crítica hoje a cor da água tá suja"
+    },
+    {
+      "start": 19.14,
+      "end": 55.48,
+      "text": "nossa então bora nós oi oi oi oi oi oi taísca tá embolada por aí vai trabalho devagar tu pode"
+    },
+    {
+      "start": 55.48,
+      "end": 67.94,
+      "text": "trabalhar bater oi segundo a dizer que foi o primeiro foi o segundo arremessa segunda remessa"
+    },
+    {
+      "start": 67.94,
+      "end": 68.94,
+      "text": "Abaixa aí, ó."
+    },
+    {
+      "start": 68.94,
+      "end": 70.03,
+      "text": "É."
+    },
+    {
+      "start": 70.03,
+      "end": 71.93,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 71.93,
+      "end": 73.98,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 73.98,
+      "end": 77.58,
+      "text": "Aí."
+    },
+    {
+      "start": 77.58,
+      "end": 79.58,
+      "text": "Caraca, moleque, cara."
+    },
+    {
+      "start": 79.58,
+      "end": 81.58,
+      "text": "Porque eu vou ter trabalho agora, viu?"
+    },
+    {
+      "start": 81.58,
+      "end": 82.58,
+      "text": "Eia!"
+    },
+    {
+      "start": 82.58,
+      "end": 83.58,
+      "text": "Escapou!"
+    },
+    {
+      "start": 83.58,
+      "end": 85.58,
+      "text": "Ele pegou de novo!"
+    },
+    {
+      "start": 85.58,
+      "end": 90.34,
+      "text": "Alain, você que eu tô em bagaça ou não?"
+    },
+    {
+      "start": 90.34,
+      "end": 91.34,
+      "text": "Opa!"
+    },
+    {
+      "start": 91.34,
+      "end": 92.34,
+      "text": "Opa!"
+    },
+    {
+      "start": 92.34,
+      "end": 93.34,
+      "text": "Escapou!"
+    },
+    {
+      "start": 93.34,
+      "end": 96.88,
+      "text": "Vai, continua, continua."
+    },
+    {
+      "start": 96.88,
+      "end": 98.88,
+      "text": "Vai que pega a outra, vai."
+    },
+    {
+      "start": 98.88,
+      "end": 104.2,
+      "text": "Vai."
+    },
+    {
+      "start": 104.2,
+      "end": 109.66,
+      "text": "Ó, 12 litros."
+    },
+    {
+      "start": 109.66,
+      "end": 122.06,
+      "text": "Isso aí, moleque."
+    },
+    {
+      "start": 122.06,
+      "end": 125.4,
+      "text": "Cadê o..."
+    },
+    {
+      "start": 125.4,
+      "end": 126.72,
+      "text": "Vamos..."
+    },
+    {
+      "start": 126.72,
+      "end": 127.72,
+      "text": "Aí vai."
+    },
+    {
+      "start": 127.72,
+      "end": 129.36,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 129.36,
+      "end": 132.35,
+      "text": "Tá aí a monstra, moleque."
+    },
+    {
+      "start": 132.35,
+      "end": 134.38,
+      "text": "É nóis, papai."
+    },
+    {
+      "start": 134.38,
+      "end": 136.8,
+      "text": "É o tamanho da moleca."
+    },
+    {
+      "start": 136.8,
+      "end": 138.8,
+      "text": "É papai do Rio Tocantins."
+    },
+    {
+      "start": 138.8,
+      "end": 139.8,
+      "text": "É só o começo."
+    },
+    {
+      "start": 139.8,
+      "end": 140.8,
+      "text": "Então, anda."
+    },
+    {
+      "start": 140.8,
+      "end": 144.04,
+      "text": "Pensa lá."
+    },
+    {
+      "start": 144.04,
+      "end": 157.82,
+      "text": "Opa, sai, ela fez."
+    },
+    {
+      "start": 157.82,
+      "end": 160.82,
+      "text": "Ela fingiu de morta, depois ela vaza."
+    },
+    {
+      "start": 160.82,
+      "end": 161.82,
+      "text": "Fingiu de morta."
+    },
+    {
+      "start": 161.82,
+      "end": 162.82,
+      "text": "Beleza."
+    },
+    {
+      "start": 162.82,
+      "end": 164.82,
+      "text": "Ela finge, depois ela..."
+    },
+    {
+      "start": 164.82,
+      "end": 165.82,
+      "text": "Vai e bora."
+    },
+    {
+      "start": 165.82,
+      "end": 166.82,
+      "text": "Ah, então tá valendo."
+    },
+    {
+      "start": 166.82,
+      "end": 168.9,
+      "text": "Valeu."
+    },
+    {
+      "start": 168.9,
+      "end": 170.9,
+      "text": "Mostra lá."
+    },
+    {
+      "start": 170.9,
+      "end": 172.9,
+      "text": "Mostra lá, pai."
+    },
+    {
+      "start": 172.9,
+      "end": 176.41,
+      "text": "Primeiro peixe."
+    },
+    {
+      "start": 176.41,
+      "end": 178.54,
+      "text": "Cachorrinha facão."
+    },
+    {
+      "start": 178.54,
+      "end": 180.66,
+      "text": "Isso aí."
+    },
+    {
+      "start": 180.66,
+      "end": 181.7,
+      "text": "Isso aí."
+    },
+    {
+      "start": 181.7,
+      "end": 182.7,
+      "text": "Isso aqui é certeza."
+    },
+    {
+      "start": 182.7,
+      "end": 183.86,
+      "text": "Pega ver tudo aí."
+    },
+    {
+      "start": 183.86,
+      "end": 184.86,
+      "text": "Isso parece que tá apertado."
+    },
+    {
+      "start": 184.86,
+      "end": 186.92,
+      "text": "Tivei que choveu ontem."
+    },
+    {
+      "start": 186.92,
+      "end": 189.18,
+      "text": "Se você falou que fica bom quando chove."
+    },
+    {
+      "start": 189.18,
+      "end": 190.18,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 190.18,
+      "end": 191.18,
+      "text": "Tá louco."
+    },
+    {
+      "start": 191.18,
+      "end": 193.3,
+      "text": "Agora já tá debaixo."
+    },
+    {
+      "start": 193.3,
+      "end": 194.3,
+      "text": "Uhum."
+    },
+    {
+      "start": 194.3,
+      "end": 195.3,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 195.3,
+      "end": 196.3,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 196.3,
+      "end": 197.3,
+      "text": "Que tapa, cara."
+    },
+    {
+      "start": 197.3,
+      "end": 198.3,
+      "text": "Cê tá doido."
+    },
+    {
+      "start": 198.3,
+      "end": 199.3,
+      "text": "Mais devagar."
+    },
+    {
+      "start": 199.3,
+      "end": 201.42,
+      "text": "Mais devagar, pô."
+    },
+    {
+      "start": 201.42,
+      "end": 202.42,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 202.42,
+      "end": 203.42,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 203.42,
+      "end": 209.76,
+      "text": "Vamos andar de volta."
+    },
+    {
+      "start": 209.76,
+      "end": 210.76,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 210.76,
+      "end": 211.76,
+      "text": "Tomou da nuca."
+    },
+    {
+      "start": 211.76,
+      "end": 212.76,
+      "text": "Mentira, cara."
+    },
+    {
+      "start": 212.76,
+      "end": 213.76,
+      "text": "Tivei que..."
+    },
+    {
+      "start": 213.76,
+      "end": 214.76,
+      "text": "Tivei que arrasar."
+    },
+    {
+      "start": 214.76,
+      "end": 215.76,
+      "text": "Não vai precisar não."
+    },
+    {
+      "start": 215.76,
+      "end": 227.83,
+      "text": "Tivei que..."
+    },
+    {
+      "start": 227.83,
+      "end": 228.83,
+      "text": "Na boca."
+    },
+    {
+      "start": 228.83,
+      "end": 229.83,
+      "text": "Oi."
+    },
+    {
+      "start": 229.83,
+      "end": 231.57,
+      "text": "Tivei que..."
+    },
+    {
+      "start": 231.57,
+      "end": 234.18,
+      "text": "Que sacanagem, bebê?"
+    },
+    {
+      "start": 234.18,
+      "end": 236.18,
+      "text": "Pega o giga aí que eu te arrumei."
+    },
+    {
+      "start": 236.18,
+      "end": 237.18,
+      "text": "É?"
+    },
+    {
+      "start": 237.18,
+      "end": 238.18,
+      "text": "Joga pra você ver."
+    },
+    {
+      "start": 238.18,
+      "end": 239.18,
+      "text": "Hahaha."
+    },
+    {
+      "start": 239.18,
+      "end": 240.18,
+      "text": "Hahaha."
+    },
+    {
+      "start": 240.18,
+      "end": 241.18,
+      "text": "Joga aí."
+    },
+    {
+      "start": 241.18,
+      "end": 248.34,
+      "text": "Pra você ver o que que é bagaça."
+    },
+    {
+      "start": 248.34,
+      "end": 252.06,
+      "text": "Me dá outra vara lá então."
+    },
+    {
+      "start": 252.06,
+      "end": 253.06,
+      "text": "Vou deixar montado."
+    },
+    {
+      "start": 253.06,
+      "end": 254.06,
+      "text": "Qual?"
+    },
+    {
+      "start": 254.06,
+      "end": 255.06,
+      "text": "É."
+    },
+    {
+      "start": 255.06,
+      "end": 256.06,
+      "text": "Essa daqui é a praça."
+    },
+    {
+      "start": 256.06,
+      "end": 257.06,
+      "text": "Joga o giga aí."
+    },
+    {
+      "start": 257.06,
+      "end": 264.53,
+      "text": "Pega o negócio."
+    },
+    {
+      "start": 264.53,
+      "end": 265.53,
+      "text": "Né?"
+    },
+    {
+      "start": 265.53,
+      "end": 266.53,
+      "text": "Se ela some assim."
+    },
+    {
+      "start": 266.53,
+      "end": 267.53,
+      "text": "Cê pode jogar o giga."
+    },
+    {
+      "start": 267.53,
+      "end": 268.53,
+      "text": "Aquela ali mesmo."
+    },
+    {
+      "start": 268.53,
+      "end": 270.04,
+      "text": "Sem problema."
+    },
+    {
+      "start": 270.04,
+      "end": 271.04,
+      "text": "Pô."
+    },
+    {
+      "start": 271.04,
+      "end": 272.04,
+      "text": "Já veio uma pra almoço."
+    },
+    {
+      "start": 272.04,
+      "end": 273.04,
+      "text": "Hahaha."
+    },
+    {
+      "start": 273.04,
+      "end": 275.77,
+      "text": "É ela mesmo."
+    },
+    {
+      "start": 275.77,
+      "end": 278.11,
+      "text": "Mostra aí, pô."
+    },
+    {
+      "start": 278.11,
+      "end": 279.11,
+      "text": "Nossa."
+    },
+    {
+      "start": 279.11,
+      "end": 281.11,
+      "text": "Aqui é diversidade."
+    },
+    {
+      "start": 281.11,
+      "end": 283.11,
+      "text": "Nós tá pescando a papá."
+    },
+    {
+      "start": 283.11,
+      "end": 284.11,
+      "text": "Vamos."
+    },
+    {
+      "start": 284.11,
+      "end": 285.11,
+      "text": "Eu vou pegar do almoço."
+    },
+    {
+      "start": 285.11,
+      "end": 286.11,
+      "text": "Tá aí."
+    },
+    {
+      "start": 286.11,
+      "end": 287.11,
+      "text": "Hahaha."
+    },
+    {
+      "start": 287.11,
+      "end": 299.18,
+      "text": "Meu Deus o lixo."
+    },
+    {
+      "start": 299.18,
+      "end": 300.18,
+      "text": "Já escapou."
+    },
+    {
+      "start": 300.18,
+      "end": 303.22,
+      "text": "Tá ventriscando o fundo aí."
+    },
+    {
+      "start": 303.22,
+      "end": 304.22,
+      "text": "Hahaha."
+    },
+    {
+      "start": 304.22,
+      "end": 305.34,
+      "text": "Ó."
+    },
+    {
+      "start": 305.34,
+      "end": 306.34,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 306.34,
+      "end": 308.72,
+      "text": "Hahaha."
+    },
+    {
+      "start": 308.72,
+      "end": 309.72,
+      "text": "Ai ai ai."
+    },
+    {
+      "start": 309.72,
+      "end": 311.75,
+      "text": "É cro cro."
+    },
+    {
+      "start": 311.75,
+      "end": 312.98,
+      "text": "Um bilhão."
+    },
+    {
+      "start": 312.98,
+      "end": 314.98,
+      "text": "Trezentos e trinta e cinco mil."
+    },
+    {
+      "start": 314.98,
+      "end": 315.98,
+      "text": "Quatrocentos e oitenta e três."
+    },
+    {
+      "start": 315.98,
+      "end": 317.04,
+      "text": "Hahaha."
+    },
+    {
+      "start": 317.04,
+      "end": 318.04,
+      "text": "Hahaha."
+    },
+    {
+      "start": 318.04,
+      "end": 320.51,
+      "text": "Ó."
+    },
+    {
+      "start": 320.51,
+      "end": 327.72,
+      "text": "Ela não tica."
+    },
+    {
+      "start": 327.72,
+      "end": 328.72,
+      "text": "Pode."
+    },
+    {
+      "start": 328.72,
+      "end": 330.42,
+      "text": "Aqui não vem assim não."
+    },
+    {
+      "start": 330.42,
+      "end": 332.42,
+      "text": "Olha o tamanho das curvinhas."
+    },
+    {
+      "start": 332.42,
+      "end": 333.42,
+      "text": "Nossa cara."
+    },
+    {
+      "start": 333.42,
+      "end": 334.42,
+      "text": "Hahaha."
+    },
+    {
+      "start": 334.42,
+      "end": 335.71,
+      "text": "Hahaha."
+    },
+    {
+      "start": 335.71,
+      "end": 336.97,
+      "text": "O tamanho."
+    },
+    {
+      "start": 336.97,
+      "end": 337.97,
+      "text": "Olha o tamanho."
+    },
+    {
+      "start": 337.97,
+      "end": 339.1,
+      "text": "Nossa."
+    },
+    {
+      "start": 339.1,
+      "end": 340.1,
+      "text": "Hahaha."
+    },
+    {
+      "start": 340.1,
+      "end": 341.8,
+      "text": "Hahaha."
+    },
+    {
+      "start": 341.8,
+      "end": 343.5,
+      "text": "É cavalo."
+    },
+    {
+      "start": 343.5,
+      "end": 344.5,
+      "text": "Cavalo."
+    },
+    {
+      "start": 344.5,
+      "end": 345.5,
+      "text": "Cavalo."
+    },
+    {
+      "start": 345.5,
+      "end": 346.5,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 346.5,
+      "end": 347.5,
+      "text": "Ah."
+    },
+    {
+      "start": 347.5,
+      "end": 348.5,
+      "text": "Tinha que cuspir aí."
+    },
+    {
+      "start": 348.5,
+      "end": 349.63,
+      "text": "Caralho."
+    },
+    {
+      "start": 349.63,
+      "end": 350.63,
+      "text": "Caralho."
+    },
+    {
+      "start": 350.63,
+      "end": 351.63,
+      "text": "Cacete."
+    },
+    {
+      "start": 351.63,
+      "end": 352.63,
+      "text": "Você viu o tamanho dessa."
+    },
+    {
+      "start": 352.63,
+      "end": 353.63,
+      "text": "Caralho."
+    },
+    {
+      "start": 353.63,
+      "end": 354.63,
+      "text": "Caralho."
+    },
+    {
+      "start": 354.63,
+      "end": 355.63,
+      "text": "Caralho."
+    },
+    {
+      "start": 355.63,
+      "end": 356.63,
+      "text": "Caralho."
+    },
+    {
+      "start": 356.63,
+      "end": 358.88,
+      "text": "Caralho."
+    },
+    {
+      "start": 358.88,
+      "end": 359.88,
+      "text": "Caralho."
+    },
+    {
+      "start": 359.88,
+      "end": 361.2,
+      "text": "Caralho."
+    },
+    {
+      "start": 361.2,
+      "end": 362.2,
+      "text": "Caralho."
+    },
+    {
+      "start": 362.2,
+      "end": 363.2,
+      "text": "Caralho."
+    },
+    {
+      "start": 363.2,
+      "end": 364.2,
+      "text": "Caralho."
+    },
+    {
+      "start": 364.2,
+      "end": 365.42,
+      "text": "Caralho."
+    },
+    {
+      "start": 365.42,
+      "end": 366.42,
+      "text": "Caralho."
+    },
+    {
+      "start": 366.42,
+      "end": 367.42,
+      "text": "Caralho."
+    },
+    {
+      "start": 367.42,
+      "end": 369.19,
+      "text": "Caralho."
+    },
+    {
+      "start": 369.19,
+      "end": 370.19,
+      "text": "Caralho."
+    },
+    {
+      "start": 370.19,
+      "end": 371.19,
+      "text": "Caralho."
+    },
+    {
+      "start": 371.19,
+      "end": 373.12,
+      "text": "Caralho."
+    },
+    {
+      "start": 373.12,
+      "end": 374.12,
+      "text": "Caralho."
+    },
+    {
+      "start": 374.12,
+      "end": 375.12,
+      "text": "Caralho."
+    },
+    {
+      "start": 375.12,
+      "end": 376.12,
+      "text": "Caralho."
+    },
+    {
+      "start": 376.12,
+      "end": 377.57,
+      "text": "Caralho."
+    },
+    {
+      "start": 377.57,
+      "end": 379.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 379.37,
+      "end": 380.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 380.37,
+      "end": 381.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 381.37,
+      "end": 382.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 382.37,
+      "end": 383.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 383.37,
+      "end": 384.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 384.37,
+      "end": 385.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 385.37,
+      "end": 386.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 386.37,
+      "end": 387.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 387.37,
+      "end": 388.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 388.37,
+      "end": 389.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 389.37,
+      "end": 390.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 390.37,
+      "end": 391.37,
+      "text": "Caralho."
+    },
+    {
+      "start": 391.37,
+      "end": 394.7,
+      "text": "Caralho."
+    },
+    {
+      "start": 394.7,
+      "end": 397.53,
+      "text": "Olha, ela está correndo para o barco"
+    },
+    {
+      "start": 397.53,
+      "end": 416.65,
+      "text": "Caraca"
+    },
+    {
+      "start": 416.65,
+      "end": 419.5,
+      "text": "O trabalho dela é olhento"
+    },
+    {
+      "start": 419.5,
+      "end": 426.46,
+      "text": "Você fez agora ela ou não conseguiu?"
+    },
+    {
+      "start": 426.46,
+      "end": 427.44,
+      "text": "Não, estou escando com ela"
+    },
+    {
+      "start": 427.44,
+      "end": 431.27,
+      "text": "Vai, Gosp"
+    },
+    {
+      "start": 431.27,
+      "end": 434.47,
+      "text": "Agora essa aí podia saltar"
+    },
+    {
+      "start": 434.47,
+      "end": 438.29,
+      "text": "Pode saltar já direto, né?"
+    },
+    {
+      "start": 438.29,
+      "end": 438.99,
+      "text": "Pode"
+    },
+    {
+      "start": 438.99,
+      "end": 452.33,
+      "text": "Aí valeu"
+    }
+  ],
+  "duracao_seg": 470.19,
+  "idioma_detectado": "pt"
+}

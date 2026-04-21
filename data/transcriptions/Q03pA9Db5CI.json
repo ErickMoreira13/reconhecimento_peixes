@@ -1,0 +1,17 @@
+{
+  "texto": "Foi? Filmou? A papelzinha aqui, guia até deu a máquina, sangrou um pouquinho, mas foi parte do show. Um, dois, três e...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.55,
+      "text": "Foi? Filmou? A papelzinha aqui, guia até deu a máquina, sangrou um pouquinho, mas foi parte do show."
+    },
+    {
+      "start": 8.23,
+      "end": 9.17,
+      "text": "Um, dois, três e..."
+    }
+  ],
+  "duracao_seg": 10.01,
+  "idioma_detectado": "pt"
+}

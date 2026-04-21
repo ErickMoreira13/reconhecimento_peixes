@@ -1,0 +1,102 @@
+{
+  "texto": "Olha o peixe aí Deixa eu tirar isso aqui pra não cruzar Deixa essa linha esticada aqui, ó Não pode ser afrouxalinha, senão dá porcaria Ó Agora que ele tá bravo aqui É só pra nós ver ele dar uma última Corridinha aqui Olha aí, ó, outro jauzinho, ó Vou botar você aqui pra dentro E a piranha não pegou ele não, ó Jauzeira Azul marucego lá, super marucego 30 No fio do bigodinho Ai, bichão Por que você não brigou lá? Deixa eu brigar aqui, vai lá Tchau, meus amigos, vai embora, vai Vai, safado",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 4.09,
+      "text": "Olha o peixe aí"
+    },
+    {
+      "start": 4.09,
+      "end": 8.86,
+      "text": "Deixa eu tirar isso aqui pra não cruzar"
+    },
+    {
+      "start": 8.86,
+      "end": 10.74,
+      "text": "Deixa essa linha esticada aqui, ó"
+    },
+    {
+      "start": 10.74,
+      "end": 13.78,
+      "text": "Não pode ser afrouxalinha, senão dá porcaria"
+    },
+    {
+      "start": 13.78,
+      "end": 15.26,
+      "text": "Ó"
+    },
+    {
+      "start": 15.26,
+      "end": 18.06,
+      "text": "Agora que ele tá bravo aqui"
+    },
+    {
+      "start": 18.06,
+      "end": 22.38,
+      "text": "É só pra nós ver ele dar uma última"
+    },
+    {
+      "start": 22.38,
+      "end": 23.9,
+      "text": "Corridinha aqui"
+    },
+    {
+      "start": 23.9,
+      "end": 26.96,
+      "text": "Olha aí, ó, outro jauzinho, ó"
+    },
+    {
+      "start": 26.96,
+      "end": 30.24,
+      "text": "Vou botar você aqui pra dentro"
+    },
+    {
+      "start": 30.24,
+      "end": 38.88,
+      "text": "E a piranha não pegou ele não, ó"
+    },
+    {
+      "start": 38.88,
+      "end": 41.27,
+      "text": "Jauzeira"
+    },
+    {
+      "start": 41.27,
+      "end": 44.37,
+      "text": "Azul marucego lá, super marucego 30"
+    },
+    {
+      "start": 44.37,
+      "end": 46.79,
+      "text": "No fio do bigodinho"
+    },
+    {
+      "start": 46.79,
+      "end": 48.76,
+      "text": "Ai, bichão"
+    },
+    {
+      "start": 48.76,
+      "end": 50.0,
+      "text": "Por que você não brigou lá?"
+    },
+    {
+      "start": 50.62,
+      "end": 52.12,
+      "text": "Deixa eu brigar aqui, vai lá"
+    },
+    {
+      "start": 52.12,
+      "end": 55.12,
+      "text": "Tchau, meus amigos, vai embora, vai"
+    },
+    {
+      "start": 55.12,
+      "end": 56.73,
+      "text": "Vai, safado"
+    }
+  ],
+  "duracao_seg": 58.13,
+  "idioma_detectado": "pt"
+}

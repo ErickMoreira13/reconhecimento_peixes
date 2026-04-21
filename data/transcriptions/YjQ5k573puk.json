@@ -1,0 +1,662 @@
+{
+  "texto": "Meus amigos, boa tarde, acabei voltando aqui pro ponto, parceiro que não é da cidade, queria dar uma olhada aqui na pescaria do Apapá, ali no carro se arrumando já tá vindo já, vamos ver se sai umas imagens legais daqui a pouco aí, bora! Olha aí meus amigos, estamos reunidos aqui na orla, Denis já apareceu ali, o Evaldo, olha o Vitão aqui do nosso lado, parceiro novo aí, Divino tá ali quietinho, ali tem outra equipe do outro lado, bora ver se sai alguma coisa, uma ação, bora vai, não quer ir embora não, não quer ir embora Vitor, olha só, não quer ir embora não, olha o Evaldinho engatado Pegou? Pega aqui Eu filmei a minha queda, segura aqui Vitor, joga lá Adivine, olha aqui, eu filmei e foi a minha queda aqui Agora eu tô entregue Não Não Não Não, é tu Olha aí Vai embora papai Olha aí papai Demorou mas começou Pegou? Peguei Opa Tá aí refugiando banhinha aí, ó Já tô indo em parte Opa Não acredita Oi Ei Denis, depois eu te passo a esquina Calma, calma, que eu vou tirar, calma Calma, calma, calma Pode ficar aí Fiquei tranquilo Tirar pra ti, senão tu vai te machucar Eita caramba, tem uma linha aqui comigo Cadê essa? Tô tirando Enrolando Valeu Essa Cadê minha sandália Agora Juca, cadê? E aí pessoal, olha o Evaldo pisgão aqui Saiu, Evaldo Opa, opa Deixa eu te ajudar aqui, deixa eu te ajudar Trazer, bora trazer, olha Tá igual mesmo? Agora papai Divino, divino Tá vendo? Uhu, na deixadinha Bora Denis Cadê ele? Aqui Cadê? Mas não Tu é doido, hein? Caramba, deixaram até um pote aqui com os bichos, tá só o filé Olha Vitor, quem foi aquele tarado que jogou pra ali? Onde eles estão? Olha lá fora, velho Lá fora, velho Lá fora, velho Olha Olha aí papai Ei, não dispensou nem uma bicudinha aqui galera Olha o Vitor agarrado com ela aí É o quê? Olha aí, irmão Mas quando? Olha só lá, família Oxe Oxe, essa daqui é bruto Ontem saiu no final do dia Adeus Jari Adeus Jari Temporada do Jari Temporada agora, hein Ei Vitor, tá gravando aqui? Dá uma olhada aí Tá ligado aí na frente Tá Caramba, saiu Olha Olha Deus Buscar lá o chefe agora, o Papai Noel Nossa Caramba Caramba Pô, mas charutou, mano Ih, caramba Calma aí, Val Calma Calma aí, Val Será que isso é bruto? Isso é um animal, ei Calma aí, Val Deixa eu passar Cadê esse cavalo? Trezentas gramas de peixe Ai meu Deus Eu vou precisar Dendes, eu vou precisar Dendes, eu vou precisar de tira Dendes Eu caí com tudo com o celular Segunda-feira eu já tô lá Olha aí, pessoal Vim aqui pertinho Beleza É Dendes, papai Bora Não, isso aqui não tem nome, Evaldo Olha o peixe aqui, ó Bora Evaldo, descobri mais um macete agora Na faculdade aqui Ei, Vitor Rapaz Traz, traz bichão Ela lá pra beira, lá pra beira Eita Show, papai Leve nela Pra ela vir quase na superfície Traz um pouco a ponta da vara pra cima Pra ela vir mais rasgando a flor da água Assim? É É a papai Desceu, foi? Desceu, foi? Esse não desce mais",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 18.57,
+      "text": "Meus amigos, boa tarde, acabei voltando aqui pro ponto, parceiro que não é da cidade, queria dar uma olhada aqui na pescaria do Apapá, ali no carro se arrumando já tá vindo já, vamos ver se sai umas imagens legais daqui a pouco aí, bora!"
+    },
+    {
+      "start": 18.57,
+      "end": 66.32,
+      "text": "Olha aí meus amigos, estamos reunidos aqui na orla, Denis já apareceu ali, o Evaldo, olha o Vitão aqui do nosso lado, parceiro novo aí, Divino tá ali quietinho, ali tem outra equipe do outro lado, bora ver se sai alguma coisa, uma ação, bora vai, não quer ir embora não, não quer ir embora Vitor, olha só, não quer ir embora não, olha o Evaldinho engatado"
+    },
+    {
+      "start": 71.42,
+      "end": 73.86,
+      "text": "Pegou?"
+    },
+    {
+      "start": 80.5,
+      "end": 81.5,
+      "text": "Pega aqui"
+    },
+    {
+      "start": 83.5,
+      "end": 87.59,
+      "text": "Eu filmei a minha queda, segura aqui Vitor, joga lá"
+    },
+    {
+      "start": 92.83,
+      "end": 95.83,
+      "text": "Adivine, olha aqui, eu filmei e foi a minha queda aqui"
+    },
+    {
+      "start": 97.57,
+      "end": 102.4,
+      "text": "Agora eu tô entregue"
+    },
+    {
+      "start": 115.08,
+      "end": 116.08,
+      "text": "Não"
+    },
+    {
+      "start": 116.08,
+      "end": 120.73,
+      "text": "Não"
+    },
+    {
+      "start": 120.73,
+      "end": 121.73,
+      "text": "Não"
+    },
+    {
+      "start": 121.73,
+      "end": 122.73,
+      "text": "Não, é tu"
+    },
+    {
+      "start": 122.73,
+      "end": 123.73,
+      "text": "Olha aí"
+    },
+    {
+      "start": 123.73,
+      "end": 126.81,
+      "text": "Vai embora papai"
+    },
+    {
+      "start": 126.81,
+      "end": 130.29,
+      "text": "Olha aí papai"
+    },
+    {
+      "start": 130.29,
+      "end": 132.51,
+      "text": "Demorou mas começou"
+    },
+    {
+      "start": 133.51,
+      "end": 134.51,
+      "text": "Pegou?"
+    },
+    {
+      "start": 134.51,
+      "end": 140.25,
+      "text": "Peguei"
+    },
+    {
+      "start": 140.25,
+      "end": 141.25,
+      "text": "Opa"
+    },
+    {
+      "start": 144.26,
+      "end": 152.09,
+      "text": "Tá aí refugiando banhinha aí, ó"
+    },
+    {
+      "start": 152.09,
+      "end": 153.12,
+      "text": "Já tô indo em parte"
+    },
+    {
+      "start": 153.12,
+      "end": 157.26,
+      "text": "Opa"
+    },
+    {
+      "start": 157.26,
+      "end": 158.26,
+      "text": "Não acredita"
+    },
+    {
+      "start": 166.88,
+      "end": 168.39,
+      "text": "Oi"
+    },
+    {
+      "start": 170.99,
+      "end": 172.99,
+      "text": "Ei Denis, depois eu te passo a esquina"
+    },
+    {
+      "start": 173.99,
+      "end": 177.68,
+      "text": "Calma, calma, que eu vou tirar, calma"
+    },
+    {
+      "start": 177.68,
+      "end": 178.68,
+      "text": "Calma, calma, calma"
+    },
+    {
+      "start": 178.68,
+      "end": 179.68,
+      "text": "Pode ficar aí"
+    },
+    {
+      "start": 179.68,
+      "end": 180.68,
+      "text": "Fiquei tranquilo"
+    },
+    {
+      "start": 180.68,
+      "end": 183.03,
+      "text": "Tirar pra ti, senão tu vai te machucar"
+    },
+    {
+      "start": 193.66,
+      "end": 194.66,
+      "text": "Eita caramba, tem uma linha aqui comigo"
+    },
+    {
+      "start": 196.66,
+      "end": 199.17,
+      "text": "Cadê essa?"
+    },
+    {
+      "start": 199.17,
+      "end": 200.17,
+      "text": "Tô tirando"
+    },
+    {
+      "start": 200.17,
+      "end": 201.17,
+      "text": "Enrolando"
+    },
+    {
+      "start": 201.17,
+      "end": 202.17,
+      "text": "Valeu"
+    },
+    {
+      "start": 202.17,
+      "end": 213.99,
+      "text": "Essa"
+    },
+    {
+      "start": 213.99,
+      "end": 216.6,
+      "text": "Cadê minha sandália"
+    },
+    {
+      "start": 216.6,
+      "end": 219.46,
+      "text": "Agora Juca, cadê?"
+    },
+    {
+      "start": 219.46,
+      "end": 221.46,
+      "text": "E aí pessoal, olha o Evaldo pisgão aqui"
+    },
+    {
+      "start": 221.46,
+      "end": 222.46,
+      "text": "Saiu, Evaldo"
+    },
+    {
+      "start": 222.46,
+      "end": 223.66,
+      "text": "Opa, opa"
+    },
+    {
+      "start": 223.66,
+      "end": 229.6,
+      "text": "Deixa eu te ajudar aqui, deixa eu te ajudar"
+    },
+    {
+      "start": 229.6,
+      "end": 233.14,
+      "text": "Trazer, bora trazer, olha"
+    },
+    {
+      "start": 234.14,
+      "end": 235.3,
+      "text": "Tá igual mesmo?"
+    },
+    {
+      "start": 235.3,
+      "end": 239.95,
+      "text": "Agora papai"
+    },
+    {
+      "start": 239.95,
+      "end": 243.23,
+      "text": "Divino, divino"
+    },
+    {
+      "start": 243.23,
+      "end": 259.46,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 259.46,
+      "end": 260.46,
+      "text": "Uhu, na deixadinha"
+    },
+    {
+      "start": 269.06,
+      "end": 270.06,
+      "text": "Bora Denis"
+    },
+    {
+      "start": 270.06,
+      "end": 279.15,
+      "text": "Cadê ele?"
+    },
+    {
+      "start": 279.15,
+      "end": 280.15,
+      "text": "Aqui"
+    },
+    {
+      "start": 280.15,
+      "end": 281.18,
+      "text": "Cadê?"
+    },
+    {
+      "start": 281.18,
+      "end": 282.57,
+      "text": "Mas não"
+    },
+    {
+      "start": 282.57,
+      "end": 283.57,
+      "text": "Tu é doido, hein?"
+    },
+    {
+      "start": 283.57,
+      "end": 289.38,
+      "text": "Caramba, deixaram até um pote aqui com os bichos, tá só o filé"
+    },
+    {
+      "start": 290.67,
+      "end": 293.67,
+      "text": "Olha Vitor, quem foi aquele tarado que jogou pra ali?"
+    },
+    {
+      "start": 293.67,
+      "end": 295.06,
+      "text": "Onde eles estão?"
+    },
+    {
+      "start": 295.06,
+      "end": 303.87,
+      "text": "Olha lá fora, velho"
+    },
+    {
+      "start": 303.87,
+      "end": 306.25,
+      "text": "Lá fora, velho"
+    },
+    {
+      "start": 306.25,
+      "end": 307.25,
+      "text": "Lá fora, velho"
+    },
+    {
+      "start": 307.25,
+      "end": 308.25,
+      "text": "Olha"
+    },
+    {
+      "start": 308.25,
+      "end": 309.25,
+      "text": "Olha aí papai"
+    },
+    {
+      "start": 309.25,
+      "end": 312.92,
+      "text": "Ei, não dispensou nem uma bicudinha aqui galera"
+    },
+    {
+      "start": 312.92,
+      "end": 314.92,
+      "text": "Olha o Vitor agarrado com ela aí"
+    },
+    {
+      "start": 314.92,
+      "end": 323.37,
+      "text": "É o quê?"
+    },
+    {
+      "start": 323.37,
+      "end": 327.09,
+      "text": "Olha aí, irmão"
+    },
+    {
+      "start": 327.09,
+      "end": 330.66,
+      "text": "Mas quando?"
+    },
+    {
+      "start": 330.66,
+      "end": 337.74,
+      "text": "Olha só lá, família"
+    },
+    {
+      "start": 337.74,
+      "end": 342.35,
+      "text": "Oxe"
+    },
+    {
+      "start": 342.35,
+      "end": 344.35,
+      "text": "Oxe, essa daqui é bruto"
+    },
+    {
+      "start": 344.35,
+      "end": 348.27,
+      "text": "Ontem saiu no final do dia"
+    },
+    {
+      "start": 348.27,
+      "end": 350.27,
+      "text": "Adeus"
+    },
+    {
+      "start": 350.27,
+      "end": 352.27,
+      "text": "Jari"
+    },
+    {
+      "start": 352.27,
+      "end": 354.56,
+      "text": "Adeus Jari"
+    },
+    {
+      "start": 354.56,
+      "end": 355.56,
+      "text": "Temporada do Jari"
+    },
+    {
+      "start": 355.56,
+      "end": 358.01,
+      "text": "Temporada agora, hein"
+    },
+    {
+      "start": 358.01,
+      "end": 360.36,
+      "text": "Ei Vitor, tá gravando aqui?"
+    },
+    {
+      "start": 360.36,
+      "end": 361.36,
+      "text": "Dá uma olhada aí"
+    },
+    {
+      "start": 361.36,
+      "end": 362.36,
+      "text": "Tá ligado aí na frente"
+    },
+    {
+      "start": 362.36,
+      "end": 363.36,
+      "text": "Tá"
+    },
+    {
+      "start": 363.36,
+      "end": 374.64,
+      "text": "Caramba, saiu"
+    },
+    {
+      "start": 374.64,
+      "end": 378.08,
+      "text": "Olha"
+    },
+    {
+      "start": 378.08,
+      "end": 383.98,
+      "text": "Olha"
+    },
+    {
+      "start": 383.98,
+      "end": 386.83,
+      "text": "Deus"
+    },
+    {
+      "start": 386.83,
+      "end": 388.83,
+      "text": "Buscar lá o chefe agora, o Papai Noel"
+    },
+    {
+      "start": 392.55,
+      "end": 393.55,
+      "text": "Nossa"
+    },
+    {
+      "start": 393.55,
+      "end": 400.66,
+      "text": "Caramba"
+    },
+    {
+      "start": 400.66,
+      "end": 409.45,
+      "text": "Caramba"
+    },
+    {
+      "start": 422.8,
+      "end": 424.86,
+      "text": "Pô, mas charutou, mano"
+    },
+    {
+      "start": 424.86,
+      "end": 426.73,
+      "text": "Ih, caramba"
+    },
+    {
+      "start": 426.73,
+      "end": 427.73,
+      "text": "Calma aí, Val"
+    },
+    {
+      "start": 427.73,
+      "end": 428.73,
+      "text": "Calma"
+    },
+    {
+      "start": 428.73,
+      "end": 429.73,
+      "text": "Calma aí, Val"
+    },
+    {
+      "start": 437.73,
+      "end": 439.73,
+      "text": "Será que isso é bruto?"
+    },
+    {
+      "start": 439.73,
+      "end": 441.79,
+      "text": "Isso é um animal, ei"
+    },
+    {
+      "start": 441.79,
+      "end": 442.79,
+      "text": "Calma aí, Val"
+    },
+    {
+      "start": 442.79,
+      "end": 444.98,
+      "text": "Deixa eu passar"
+    },
+    {
+      "start": 444.98,
+      "end": 447.2,
+      "text": "Cadê esse cavalo?"
+    },
+    {
+      "start": 447.2,
+      "end": 449.74,
+      "text": "Trezentas gramas de peixe"
+    },
+    {
+      "start": 449.74,
+      "end": 459.64,
+      "text": "Ai meu Deus"
+    },
+    {
+      "start": 459.64,
+      "end": 461.64,
+      "text": "Eu vou precisar"
+    },
+    {
+      "start": 461.64,
+      "end": 462.64,
+      "text": "Dendes, eu vou precisar"
+    },
+    {
+      "start": 462.64,
+      "end": 463.64,
+      "text": "Dendes, eu vou precisar de tira"
+    },
+    {
+      "start": 463.64,
+      "end": 464.93,
+      "text": "Dendes"
+    },
+    {
+      "start": 464.93,
+      "end": 466.93,
+      "text": "Eu caí com tudo com o celular"
+    },
+    {
+      "start": 466.93,
+      "end": 470.82,
+      "text": "Segunda-feira eu já tô lá"
+    },
+    {
+      "start": 470.82,
+      "end": 472.42,
+      "text": "Olha aí, pessoal"
+    },
+    {
+      "start": 472.42,
+      "end": 473.42,
+      "text": "Vim aqui pertinho"
+    },
+    {
+      "start": 473.42,
+      "end": 500.18,
+      "text": "Beleza"
+    },
+    {
+      "start": 500.18,
+      "end": 504.46,
+      "text": "É Dendes, papai"
+    },
+    {
+      "start": 504.46,
+      "end": 505.46,
+      "text": "Bora"
+    },
+    {
+      "start": 505.46,
+      "end": 511.1,
+      "text": "Não, isso aqui não tem nome, Evaldo"
+    },
+    {
+      "start": 514.45,
+      "end": 515.45,
+      "text": "Olha o peixe aqui, ó"
+    },
+    {
+      "start": 516.45,
+      "end": 524.62,
+      "text": "Bora"
+    },
+    {
+      "start": 526.62,
+      "end": 532.52,
+      "text": "Evaldo, descobri mais um macete agora"
+    },
+    {
+      "start": 533.52,
+      "end": 534.52,
+      "text": "Na faculdade aqui"
+    },
+    {
+      "start": 540.38,
+      "end": 541.38,
+      "text": "Ei, Vitor"
+    },
+    {
+      "start": 542.38,
+      "end": 543.38,
+      "text": "Rapaz"
+    },
+    {
+      "start": 545.44,
+      "end": 546.44,
+      "text": "Traz, traz bichão"
+    },
+    {
+      "start": 546.44,
+      "end": 547.44,
+      "text": "Ela lá pra beira, lá pra beira"
+    },
+    {
+      "start": 547.44,
+      "end": 551.46,
+      "text": "Eita"
+    },
+    {
+      "start": 551.46,
+      "end": 552.46,
+      "text": "Show, papai"
+    },
+    {
+      "start": 554.1,
+      "end": 555.29,
+      "text": "Leve nela"
+    },
+    {
+      "start": 555.29,
+      "end": 556.29,
+      "text": "Pra ela vir quase na superfície"
+    },
+    {
+      "start": 556.29,
+      "end": 557.29,
+      "text": "Traz um pouco a ponta da vara pra cima"
+    },
+    {
+      "start": 557.29,
+      "end": 560.29,
+      "text": "Pra ela vir mais rasgando a flor da água"
+    },
+    {
+      "start": 560.29,
+      "end": 561.29,
+      "text": "Assim?"
+    },
+    {
+      "start": 561.29,
+      "end": 569.55,
+      "text": "É"
+    },
+    {
+      "start": 574.14,
+      "end": 575.14,
+      "text": "É a papai"
+    },
+    {
+      "start": 578.74,
+      "end": 579.74,
+      "text": "Desceu, foi?"
+    },
+    {
+      "start": 579.74,
+      "end": 580.74,
+      "text": "Desceu, foi?"
+    },
+    {
+      "start": 580.74,
+      "end": 581.74,
+      "text": "Esse não desce mais"
+    }
+  ],
+  "duracao_seg": 587.59,
+  "idioma_detectado": "pt"
+}

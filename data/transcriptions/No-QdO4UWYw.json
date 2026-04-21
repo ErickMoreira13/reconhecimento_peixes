@@ -1,0 +1,32 @@
+{
+  "texto": "Traz aí, Dimaro Aí, ó Estreou Olha o tamanho Olha o monstro",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 2.45,
+      "text": "Traz aí, Dimaro"
+    },
+    {
+      "start": 2.45,
+      "end": 4.4,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 4.4,
+      "end": 6.8,
+      "text": "Estreou"
+    },
+    {
+      "start": 6.8,
+      "end": 8.7,
+      "text": "Olha o tamanho"
+    },
+    {
+      "start": 8.7,
+      "end": 10.57,
+      "text": "Olha o monstro"
+    }
+  ],
+  "duracao_seg": 11.97,
+  "idioma_detectado": "pt"
+}

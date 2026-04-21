@@ -1,0 +1,57 @@
+{
+  "texto": "Pessoal, esse é o peixe cachorra, e você já deve ter percebido o porquê do nome, não é mesmo? Trata-se de uma espécie de peixe, distribuída nas bacias amazônica e araguaia tocantins. O peixe cachorro habita locais de águas mais rápidas, e com estruturas como paus e pedras. É um peixe de meia água, que vive em canais e praias de rios, lagos e na mata inundada. O cachorro possui as camas pequenas, corpo alto e comprido. Sua boca é oblíqua, com uma fileira de dentes e um par de presas na mandíbula. Estas são tão grandes, que a maxila superior possui dois buracos, para acomodá-las quando a boca está fechada. Suas nadadeiras peitorais são grandes, possui coloração prato uniforme, com uma mancha preta alongada. Pode alcançar um metro e meio de comprimento total, e pesa cerca de 20 quilos. O peixe cachorro é rigoroso.",
+  "segmentos": [
+    {
+      "start": 0.64,
+      "end": 6.74,
+      "text": "Pessoal, esse é o peixe cachorra, e você já deve ter percebido o porquê do nome, não é mesmo?"
+    },
+    {
+      "start": 7.54,
+      "end": 13.66,
+      "text": "Trata-se de uma espécie de peixe, distribuída nas bacias amazônica e araguaia tocantins."
+    },
+    {
+      "start": 14.26,
+      "end": 20.0,
+      "text": "O peixe cachorro habita locais de águas mais rápidas, e com estruturas como paus e pedras."
+    },
+    {
+      "start": 20.74,
+      "end": 27.14,
+      "text": "É um peixe de meia água, que vive em canais e praias de rios, lagos e na mata inundada."
+    },
+    {
+      "start": 27.14,
+      "end": 31.68,
+      "text": "O cachorro possui as camas pequenas, corpo alto e comprido."
+    },
+    {
+      "start": 32.22,
+      "end": 37.26,
+      "text": "Sua boca é oblíqua, com uma fileira de dentes e um par de presas na mandíbula."
+    },
+    {
+      "start": 37.94,
+      "end": 44.88,
+      "text": "Estas são tão grandes, que a maxila superior possui dois buracos, para acomodá-las quando a boca está fechada."
+    },
+    {
+      "start": 45.34,
+      "end": 51.92,
+      "text": "Suas nadadeiras peitorais são grandes, possui coloração prato uniforme, com uma mancha preta alongada."
+    },
+    {
+      "start": 51.92,
+      "end": 57.88,
+      "text": "Pode alcançar um metro e meio de comprimento total, e pesa cerca de 20 quilos."
+    },
+    {
+      "start": 58.5,
+      "end": 60.06,
+      "text": "O peixe cachorro é rigoroso."
+    }
+  ],
+  "duracao_seg": 60.07,
+  "idioma_detectado": "pt"
+}

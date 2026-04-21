@@ -1,0 +1,47 @@
+{
+  "texto": "Surubim. Mito ou verdade? Bora descobrir. Surubim só se alimenta à noite. Mito. Ele é mais ativo à noite, mas também pode caçar durante o dia. Surubim não enxerga bem. Verdade. Ele depende muito mais dos barbilhões para sentir vibração do que da visão. Surubim é peixe de água parada. Mito. Prefere rios com correnteza e estruturas como troncos e poços. Surubim só come peixe. Mito. Também pode comer crustáceos, insetos e outros organismos. Surubim não cresce muito. Mito. Pode atingir tamanhos grandes e virar um verdadeiro troféu. Surubim é difícil de fisgar. Verdade. É desconfiado e muitas vezes só ataca na hora certa. Quais desses você achava que eram verdade?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "Surubim. Mito ou verdade? Bora descobrir. Surubim só se alimenta à noite."
+    },
+    {
+      "start": 4.4,
+      "end": 8.04,
+      "text": "Mito. Ele é mais ativo à noite, mas também pode caçar durante o dia."
+    },
+    {
+      "start": 8.22,
+      "end": 14.02,
+      "text": "Surubim não enxerga bem. Verdade. Ele depende muito mais dos barbilhões para sentir vibração do que da visão."
+    },
+    {
+      "start": 14.3,
+      "end": 19.4,
+      "text": "Surubim é peixe de água parada. Mito. Prefere rios com correnteza e estruturas como troncos e poços."
+    },
+    {
+      "start": 19.64,
+      "end": 24.58,
+      "text": "Surubim só come peixe. Mito. Também pode comer crustáceos, insetos e outros organismos."
+    },
+    {
+      "start": 24.78,
+      "end": 29.28,
+      "text": "Surubim não cresce muito. Mito. Pode atingir tamanhos grandes e virar um verdadeiro troféu."
+    },
+    {
+      "start": 29.28,
+      "end": 34.1,
+      "text": "Surubim é difícil de fisgar. Verdade. É desconfiado e muitas vezes só ataca na hora certa."
+    },
+    {
+      "start": 34.28,
+      "end": 35.9,
+      "text": "Quais desses você achava que eram verdade?"
+    }
+  ],
+  "duracao_seg": 36.05,
+  "idioma_detectado": "pt"
+}

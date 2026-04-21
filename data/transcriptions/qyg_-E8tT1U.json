@@ -1,0 +1,27 @@
+{
+  "texto": "Aí, baseada, pra vocês entenderem o tamanho disso aqui, vem perto, mostra a cabeça dela aqui, dá um foco. Ó, olha a barriga, vem daqui, vem daqui, vem daqui. Ó a barriga. Ui, isso, vou entrar aí na água e já vou.",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 7.06,
+      "text": "Aí, baseada, pra vocês entenderem o tamanho disso aqui, vem perto, mostra a cabeça dela aqui, dá um foco."
+    },
+    {
+      "start": 8.76,
+      "end": 11.32,
+      "text": "Ó, olha a barriga, vem daqui, vem daqui, vem daqui."
+    },
+    {
+      "start": 11.88,
+      "end": 12.32,
+      "text": "Ó a barriga."
+    },
+    {
+      "start": 13.75,
+      "end": 18.69,
+      "text": "Ui, isso, vou entrar aí na água e já vou."
+    }
+  ],
+  "duracao_seg": 22.53,
+  "idioma_detectado": "pt"
+}

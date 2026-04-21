@@ -1,0 +1,17 @@
+{
+  "texto": "Aqui você já leva o tambaqui tratado. Você pode comer assado, cozido, frito, da forma de sua preferência. Vamos caminhando por aqui, vamos caminhando...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.84,
+      "text": "Aqui você já leva o tambaqui tratado. Você pode comer assado, cozido, frito, da forma de sua preferência."
+    },
+    {
+      "start": 11.52,
+      "end": 14.0,
+      "text": "Vamos caminhando por aqui, vamos caminhando..."
+    }
+  ],
+  "duracao_seg": 14.01,
+  "idioma_detectado": "pt"
+}

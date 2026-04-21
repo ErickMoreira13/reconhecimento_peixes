@@ -1,0 +1,27 @@
+{
+  "texto": "Bora, bora, bora. Domingou por aqui. Você tá doido, menino. O trem tá cheio, hein. A água aqui é no doido.",
+  "segmentos": [
+    {
+      "start": 1.58,
+      "end": 4.02,
+      "text": "Bora, bora, bora. Domingou por aqui."
+    },
+    {
+      "start": 6.06,
+      "end": 7.4,
+      "text": "Você tá doido, menino."
+    },
+    {
+      "start": 7.52,
+      "end": 8.38,
+      "text": "O trem tá cheio, hein."
+    },
+    {
+      "start": 12.2,
+      "end": 15.01,
+      "text": "A água aqui é no doido."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

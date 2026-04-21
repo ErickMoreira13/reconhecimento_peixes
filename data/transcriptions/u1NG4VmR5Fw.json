@@ -1,0 +1,47 @@
+{
+  "texto": "O que é? Não vi O que é? O tamanho desse cara É grande Mais um para a galera aí Mais um para a galera aí do Alavão Caraca",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 2.21,
+      "text": "O que é?"
+    },
+    {
+      "start": 2.21,
+      "end": 4.21,
+      "text": "Não vi"
+    },
+    {
+      "start": 4.21,
+      "end": 6.21,
+      "text": "O que é?"
+    },
+    {
+      "start": 6.21,
+      "end": 8.62,
+      "text": "O tamanho desse cara"
+    },
+    {
+      "start": 8.62,
+      "end": 10.62,
+      "text": "É grande"
+    },
+    {
+      "start": 10.62,
+      "end": 14.62,
+      "text": "Mais um para a galera aí"
+    },
+    {
+      "start": 14.62,
+      "end": 18.62,
+      "text": "Mais um para a galera aí do Alavão"
+    },
+    {
+      "start": 18.62,
+      "end": 20.62,
+      "text": "Caraca"
+    }
+  ],
+  "duracao_seg": 20.57,
+  "idioma_detectado": "pt"
+}
