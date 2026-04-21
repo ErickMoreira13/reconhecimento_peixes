@@ -1,0 +1,17 @@
+{
+  "texto": "Segura! Você é doido?",
+  "segmentos": [
+    {
+      "start": 4.75,
+      "end": 5.93,
+      "text": "Segura!"
+    },
+    {
+      "start": 6.19,
+      "end": 12.85,
+      "text": "Você é doido?"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

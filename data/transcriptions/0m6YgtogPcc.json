@@ -1,0 +1,287 @@
+{
+  "texto": "Gopro, começaram a gravar. Calma, calma, calma. Isso aí. Só segura. Deixa ir embora, deixa ir embora. Nossa, que da hora. Trai pra cá, pra lá. Pra cá, pra cá não. Outro lado, outro lado. Aí. Só trabalha. Isso, segura. Isso, Morimutsan. Agora já era, tá dominado. Queria fazer um dublê de gigante, mas não vai dar não. Segura, segura, segura. Aí, aí, aí. Nossa, que jaca. Esse é. Esse bateu os 80. Vamos ver, né? Já era. Isso. Não dá ponta de vara, não. Levanta a vara. Não, não. Isso. Deixa tensionado. Ae. Na Boni? Isso aí. Isso aí já apagou ela por 10 vezes. Ae. Nossa, que cena que eu filmei. Hihihi. Tá tudo filmando. Tem o troféu do dia. Tudo filmado. Pai do céu. Esse é um monstro. É um monstro. Enxarutou. Não vai escapar, não. Ajuda lá. Isso aí é grande, hein? Olha. Esse tem mais de 80. Segura, segura. Enxarutou. Pega na linha, pega na linha. Aí, aí, aí. Boa. Levanta. Levanta. Levanta. Levanta. Olha o tamanho dessa jaca. GoPro, parar de gravar. Levanta. Levanta. Levanta. Levanta. Levanta.",
+  "segmentos": [
+    {
+      "start": 57.1,
+      "end": 59.74,
+      "text": "Gopro, começaram a gravar."
+    },
+    {
+      "start": 59.74,
+      "end": 64.18,
+      "text": "Calma, calma, calma."
+    },
+    {
+      "start": 64.18,
+      "end": 69.86,
+      "text": "Isso aí."
+    },
+    {
+      "start": 69.86,
+      "end": 77.81,
+      "text": "Só segura."
+    },
+    {
+      "start": 77.81,
+      "end": 79.81,
+      "text": "Deixa ir embora, deixa ir embora."
+    },
+    {
+      "start": 79.81,
+      "end": 81.81,
+      "text": "Nossa, que da hora."
+    },
+    {
+      "start": 81.81,
+      "end": 96.9,
+      "text": "Trai pra cá, pra lá."
+    },
+    {
+      "start": 96.9,
+      "end": 98.9,
+      "text": "Pra cá, pra cá não. Outro lado, outro lado."
+    },
+    {
+      "start": 98.9,
+      "end": 101.28,
+      "text": "Aí. Só trabalha."
+    },
+    {
+      "start": 101.28,
+      "end": 108.59,
+      "text": "Isso, segura."
+    },
+    {
+      "start": 108.59,
+      "end": 110.59,
+      "text": "Isso, Morimutsan."
+    },
+    {
+      "start": 110.59,
+      "end": 123.86,
+      "text": "Agora já era, tá dominado."
+    },
+    {
+      "start": 123.86,
+      "end": 125.86,
+      "text": "Queria fazer um dublê de gigante, mas não vai dar não."
+    },
+    {
+      "start": 125.86,
+      "end": 128.94,
+      "text": "Segura, segura, segura."
+    },
+    {
+      "start": 130.94,
+      "end": 136.34,
+      "text": "Aí, aí, aí."
+    },
+    {
+      "start": 136.34,
+      "end": 138.34,
+      "text": "Nossa, que jaca."
+    },
+    {
+      "start": 138.34,
+      "end": 140.72,
+      "text": "Esse é."
+    },
+    {
+      "start": 141.14,
+      "end": 143.14,
+      "text": "Esse bateu os 80."
+    },
+    {
+      "start": 143.14,
+      "end": 150.58,
+      "text": "Vamos ver, né? Já era."
+    },
+    {
+      "start": 150.58,
+      "end": 154.08,
+      "text": "Isso. Não dá ponta de vara, não."
+    },
+    {
+      "start": 154.08,
+      "end": 156.08,
+      "text": "Levanta a vara. Não, não."
+    },
+    {
+      "start": 156.08,
+      "end": 158.08,
+      "text": "Isso. Deixa tensionado."
+    },
+    {
+      "start": 158.08,
+      "end": 172.37,
+      "text": "Ae. Na Boni?"
+    },
+    {
+      "start": 172.37,
+      "end": 179.23,
+      "text": "Isso aí."
+    },
+    {
+      "start": 179.23,
+      "end": 190.99,
+      "text": "Isso aí já apagou ela por 10 vezes."
+    },
+    {
+      "start": 190.99,
+      "end": 192.99,
+      "text": "Ae. Nossa,"
+    },
+    {
+      "start": 192.99,
+      "end": 194.99,
+      "text": "que cena que eu filmei."
+    },
+    {
+      "start": 194.99,
+      "end": 196.99,
+      "text": "Hihihi."
+    },
+    {
+      "start": 196.99,
+      "end": 197.99,
+      "text": "Tá tudo filmando."
+    },
+    {
+      "start": 197.99,
+      "end": 199.99,
+      "text": "Tem o troféu do dia."
+    },
+    {
+      "start": 199.99,
+      "end": 200.99,
+      "text": "Tudo filmado."
+    },
+    {
+      "start": 200.99,
+      "end": 201.99,
+      "text": "Pai do céu."
+    },
+    {
+      "start": 201.99,
+      "end": 203.99,
+      "text": "Esse é um monstro."
+    },
+    {
+      "start": 203.99,
+      "end": 206.02,
+      "text": "É um monstro."
+    },
+    {
+      "start": 206.02,
+      "end": 208.18,
+      "text": "Enxarutou."
+    },
+    {
+      "start": 208.18,
+      "end": 209.18,
+      "text": "Não vai escapar, não."
+    },
+    {
+      "start": 209.18,
+      "end": 212.33,
+      "text": "Ajuda lá."
+    },
+    {
+      "start": 212.33,
+      "end": 220.82,
+      "text": "Isso aí é grande, hein?"
+    },
+    {
+      "start": 220.82,
+      "end": 227.64,
+      "text": "Olha."
+    },
+    {
+      "start": 227.64,
+      "end": 231.3,
+      "text": "Esse tem mais de 80."
+    },
+    {
+      "start": 231.3,
+      "end": 234.49,
+      "text": "Segura, segura."
+    },
+    {
+      "start": 234.49,
+      "end": 235.49,
+      "text": "Enxarutou."
+    },
+    {
+      "start": 235.49,
+      "end": 237.13,
+      "text": "Pega na linha, pega na linha."
+    },
+    {
+      "start": 237.13,
+      "end": 239.13,
+      "text": "Aí, aí, aí."
+    },
+    {
+      "start": 239.13,
+      "end": 241.13,
+      "text": "Boa."
+    },
+    {
+      "start": 241.13,
+      "end": 243.22,
+      "text": "Levanta."
+    },
+    {
+      "start": 243.22,
+      "end": 244.22,
+      "text": "Levanta."
+    },
+    {
+      "start": 244.22,
+      "end": 245.22,
+      "text": "Levanta."
+    },
+    {
+      "start": 245.22,
+      "end": 246.22,
+      "text": "Levanta."
+    },
+    {
+      "start": 246.22,
+      "end": 248.22,
+      "text": "Olha o tamanho dessa jaca."
+    },
+    {
+      "start": 248.22,
+      "end": 250.22,
+      "text": "GoPro, parar de gravar."
+    },
+    {
+      "start": 250.22,
+      "end": 251.22,
+      "text": "Levanta."
+    },
+    {
+      "start": 251.22,
+      "end": 252.22,
+      "text": "Levanta."
+    },
+    {
+      "start": 252.22,
+      "end": 253.22,
+      "text": "Levanta."
+    },
+    {
+      "start": 253.22,
+      "end": 254.22,
+      "text": "Levanta."
+    },
+    {
+      "start": 254.22,
+      "end": 255.22,
+      "text": "Levanta."
+    }
+  ],
+  "duracao_seg": 376.65,
+  "idioma_detectado": "pt"
+}

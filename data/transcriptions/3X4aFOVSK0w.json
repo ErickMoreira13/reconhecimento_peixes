@@ -1,0 +1,92 @@
+{
+  "texto": "Eu peguei um tucunaré de 90 centímetros lá no tronco daquela árvore. Ei, ei, ei, ei, a gente só que teve um pescador que pegou um tucunaré de 90 centímetros. Bora, bora, bora, bora. Cuida que a gente já tá com alta aqui, se não não vier. Cuida, cuida, cuida, cuida. Vamos escutar o áudio direitinho pra gente saber onde for o local? Vai aí prestando atenção pra gente não se perder. Que a gente chega lá. Passa por baixo daquele cipó. Depois que ele passar por baixo do cipó, você vai dar uma ré e entrar à esquerda. Presta atenção, vai entrar à esquerda depois de passar do cipó. Aí dobra direita, esquerda, direita, direita, esquerda, esquerda, direita, esquerda, direita, esquerda. E no final você vai dobrar às esquerdas, às esquerdas, viu? Entra à esquerda. Pronto, aí chega. Foi no tronco daquela árvore que tem a galha seca que eu peguei, eu tô com um tucunaré de 90. Hoje eu peço.",
+  "segmentos": [
+    {
+      "start": 0.16,
+      "end": 3.8,
+      "text": "Eu peguei um tucunaré de 90 centímetros lá no tronco daquela árvore."
+    },
+    {
+      "start": 4.38,
+      "end": 8.12,
+      "text": "Ei, ei, ei, ei, a gente só que teve um pescador que pegou um tucunaré de 90 centímetros."
+    },
+    {
+      "start": 8.28,
+      "end": 9.04,
+      "text": "Bora, bora, bora, bora."
+    },
+    {
+      "start": 9.5,
+      "end": 11.58,
+      "text": "Cuida que a gente já tá com alta aqui, se não não vier."
+    },
+    {
+      "start": 11.74,
+      "end": 12.74,
+      "text": "Cuida, cuida, cuida, cuida."
+    },
+    {
+      "start": 13.16,
+      "end": 15.8,
+      "text": "Vamos escutar o áudio direitinho pra gente saber onde for o local?"
+    },
+    {
+      "start": 16.22,
+      "end": 18.02,
+      "text": "Vai aí prestando atenção pra gente não se perder."
+    },
+    {
+      "start": 18.44,
+      "end": 19.16,
+      "text": "Que a gente chega lá."
+    },
+    {
+      "start": 19.92,
+      "end": 22.08,
+      "text": "Passa por baixo daquele cipó."
+    },
+    {
+      "start": 22.88,
+      "end": 27.64,
+      "text": "Depois que ele passar por baixo do cipó, você vai dar uma ré e entrar à esquerda."
+    },
+    {
+      "start": 27.64,
+      "end": 30.96,
+      "text": "Presta atenção, vai entrar à esquerda depois de passar do cipó."
+    },
+    {
+      "start": 31.26,
+      "end": 37.16,
+      "text": "Aí dobra direita, esquerda, direita, direita, esquerda, esquerda, direita, esquerda, direita, esquerda."
+    },
+    {
+      "start": 37.68,
+      "end": 42.02,
+      "text": "E no final você vai dobrar às esquerdas, às esquerdas, viu?"
+    },
+    {
+      "start": 42.16,
+      "end": 43.42,
+      "text": "Entra à esquerda."
+    },
+    {
+      "start": 43.56,
+      "end": 44.24,
+      "text": "Pronto, aí chega."
+    },
+    {
+      "start": 44.32,
+      "end": 47.44,
+      "text": "Foi no tronco daquela árvore que tem a galha seca que eu peguei, eu tô com um tucunaré de 90."
+    },
+    {
+      "start": 47.54,
+      "end": 48.42,
+      "text": "Hoje eu peço."
+    }
+  ],
+  "duracao_seg": 53.75,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "aquela típica pergunta que todo pescador se faz ó rio aqui e aqui uma entradinha de garapé de mata fechada entra ou não entra sozinho eu não vou só com vocês bora lá essa entradinha aqui é raso e tá muito fechado lá dentro caraca bora ver se tem aqui olha isso cartão de visita",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 10.16,
+      "text": "aquela típica pergunta que todo pescador se faz ó rio aqui e aqui uma entradinha de garapé de"
+    },
+    {
+      "start": 10.16,
+      "end": 29.7,
+      "text": "mata fechada entra ou não entra sozinho eu não vou só com vocês bora lá essa entradinha aqui"
+    },
+    {
+      "start": 29.7,
+      "end": 58.8,
+      "text": "é raso e tá muito fechado lá dentro caraca bora ver se tem aqui olha isso cartão de visita"
+    }
+  ],
+  "duracao_seg": 59.97,
+  "idioma_detectado": "pt"
+}

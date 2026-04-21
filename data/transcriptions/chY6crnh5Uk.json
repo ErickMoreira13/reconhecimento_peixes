@@ -1,0 +1,17 @@
+{
+  "texto": "Bicho, caramba, olha o tamanho, olha o tamanho desse bicho, olha aí, olha o tamanho desse cara, olha isso, muito grande, muito grande, gigantesco, olha só o tamanho cara, que monstro ó, parece que foi atingido aqui ó, primeiro no focinho, bem aqui, é, tá aqui a marca ó, foi atingido aqui no focinho, ali a cabeça tá inchada, aqui ó, aqui outro buraco aqui ó, perto do olho Mas ó, vê se eu consigo abrir a boca dele, olha aí, olha o tamanho da boca dele aqui ó, só pra vocês que tem uma ideia do tamanho da boca do bicho ó, vai, vai embora",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 40.32,
+      "text": "Bicho, caramba, olha o tamanho, olha o tamanho desse bicho, olha aí, olha o tamanho desse cara, olha isso, muito grande, muito grande, gigantesco, olha só o tamanho cara, que monstro ó, parece que foi atingido aqui ó, primeiro no focinho, bem aqui, é, tá aqui a marca ó, foi atingido aqui no focinho, ali a cabeça tá inchada, aqui ó, aqui outro buraco aqui ó, perto do olho"
+    },
+    {
+      "start": 40.56,
+      "end": 58.75,
+      "text": "Mas ó, vê se eu consigo abrir a boca dele, olha aí, olha o tamanho da boca dele aqui ó, só pra vocês que tem uma ideia do tamanho da boca do bicho ó, vai, vai embora"
+    }
+  ],
+  "duracao_seg": 59.21,
+  "idioma_detectado": "pt"
+}

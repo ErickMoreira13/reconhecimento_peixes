@@ -1,0 +1,22 @@
+{
+  "texto": "Aaaaaaa... O-o-o-o-o-o-r-s-ho-o-r-s-h-o-r- Aaaaaa...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Aaaaaaa..."
+    },
+    {
+      "start": 1.08,
+      "end": 7.41,
+      "text": "O-o-o-o-o-o-r-s-ho-o-r-s-h-o-r-"
+    },
+    {
+      "start": 7.41,
+      "end": 8.41,
+      "text": "Aaaaaa..."
+    }
+  ],
+  "duracao_seg": 9.33,
+  "idioma_detectado": "pt"
+}

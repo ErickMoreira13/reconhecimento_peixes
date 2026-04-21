@@ -1,0 +1,22 @@
+{
+  "texto": "Esse é a tropa do tubarão Vem com a tropa do tubarão Tutututututututututututututututututututututututs",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Esse é a tropa do tubarão"
+    },
+    {
+      "start": 2.6,
+      "end": 4.02,
+      "text": "Vem com a tropa do tubarão"
+    },
+    {
+      "start": 4.02,
+      "end": 9.26,
+      "text": "Tutututututututututututututututututututututututs"
+    }
+  ],
+  "duracao_seg": 6.77,
+  "idioma_detectado": "pt"
+}

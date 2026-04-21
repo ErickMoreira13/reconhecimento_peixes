@@ -1,0 +1,27 @@
+{
+  "texto": "E essa aqui é top! Uhu! Ah, moleque! O louco é... Haha!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.03,
+      "text": "E essa aqui é top!"
+    },
+    {
+      "start": 6.03,
+      "end": 8.03,
+      "text": "Uhu! Ah, moleque!"
+    },
+    {
+      "start": 8.03,
+      "end": 10.64,
+      "text": "O louco é..."
+    },
+    {
+      "start": 10.64,
+      "end": 15.52,
+      "text": "Haha!"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

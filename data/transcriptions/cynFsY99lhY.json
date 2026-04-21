@@ -1,0 +1,27 @@
+{
+  "texto": "E aí galera, o troféu, a bruta da raia, bateu aqui na, é, na, como é o nome do peixinho? É, foi com a pilombeta. Pilombeta aqui, é certeiro, arremessou 5 minutos, 10 minutos e ela bateu, né? Valeu galera, deixa o joinha.",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 10.76,
+      "text": "E aí galera, o troféu, a bruta da raia, bateu aqui na, é, na, como é o nome do peixinho?"
+    },
+    {
+      "start": 11.16,
+      "end": 12.42,
+      "text": "É, foi com a pilombeta."
+    },
+    {
+      "start": 12.72,
+      "end": 17.56,
+      "text": "Pilombeta aqui, é certeiro, arremessou 5 minutos, 10 minutos e ela bateu, né?"
+    },
+    {
+      "start": 18.0,
+      "end": 19.68,
+      "text": "Valeu galera, deixa o joinha."
+    }
+  ],
+  "duracao_seg": 20.07,
+  "idioma_detectado": "pt"
+}

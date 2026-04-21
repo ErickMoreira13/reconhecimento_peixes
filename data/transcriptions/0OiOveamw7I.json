@@ -1,0 +1,32 @@
+{
+  "texto": "Opa! Já? Rapaz, olha a briga! Olha, uma trinchã dona! Opa! Uma bela de uma trinchã, hein? Olha, coisa linda! Bonita, hein? Linda!",
+  "segmentos": [
+    {
+      "start": 1.3,
+      "end": 5.77,
+      "text": "Opa! Já? Rapaz, olha a briga!"
+    },
+    {
+      "start": 6.49,
+      "end": 7.45,
+      "text": "Olha, uma trinchã dona!"
+    },
+    {
+      "start": 7.75,
+      "end": 9.69,
+      "text": "Opa! Uma bela de uma trinchã, hein?"
+    },
+    {
+      "start": 11.42,
+      "end": 12.62,
+      "text": "Olha, coisa linda!"
+    },
+    {
+      "start": 12.92,
+      "end": 13.94,
+      "text": "Bonita, hein? Linda!"
+    }
+  ],
+  "duracao_seg": 16.09,
+  "idioma_detectado": "pt"
+}

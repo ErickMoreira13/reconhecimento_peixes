@@ -1,0 +1,27 @@
+{
+  "texto": "Fiz, I'm stylish, black talk, big t-shirt, Billy Fats on my wrist, but I want that dance Niggas talk crazy when I'm put up inside Mile hot",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": "Fiz, I'm stylish, black talk, big t-shirt, Billy"
+    },
+    {
+      "start": 3.18,
+      "end": 6.06,
+      "text": "Fats on my wrist, but I want that dance"
+    },
+    {
+      "start": 6.06,
+      "end": 8.4,
+      "text": "Niggas talk crazy when I'm put up inside"
+    },
+    {
+      "start": 8.4,
+      "end": 9.2,
+      "text": "Mile hot"
+    }
+  ],
+  "duracao_seg": 9.21,
+  "idioma_detectado": "pt"
+}

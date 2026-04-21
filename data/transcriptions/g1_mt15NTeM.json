@@ -1,0 +1,627 @@
+{
+  "texto": "No lejano norte, no Wizard, esses sistemas de alta pressão se vão aquelar, não teremos alivio, é algo sério. Um estranho clima amenaza a zona de pesca e a flota. Um muro de altas pressões limita a costa ocidental, causando as baixas pressões ao norte. O resultado, uma série de tormentas orientadas diretamente à zona de cangrejos de as nieves. E também a flota. Temos uma tormenta agora. Olas de 10 metros, 6 graus bajo zero. Mas o melhor é que a pesca é boa. De cangrejos! Deve de predir! Deo cangrejos! Sos muitos! Sim! A pesar do mal clima. Estamos no norte. Há uma montaña de cangrejos e não pararam de subir nas caulas. O capitão Keith Colburn tem um promedio de 500 cangrejos por caula. A tripulação trabalha duro. Foi um viaje difícil. Começamos com mal clima, faixas no barco e caulas vacias. Não pude ser pior. Não temos tido descanso. E tenho que ir a entregar-los. E com uma descarga cerca, Keith não tem tempo. Nem excusas. Venidos a bordo! Jalas llenas! Seis! Muito bem! Seis setenta e cinco! Nos temos! Ah! Ah! Que! Aléjate! Que m******! De um lado! Pero já quase não tinha! Eu tenho! Eu tenho! Aqui vamos ou não! Cuidado! Ponlo na rueda! Sim, eu sei! Oh, oh! Algo le pasó a Freddy. Estás bien? Ah! Golpeado! Esa última jaula se metió debajo del barco y tenía mucha tensión. Después la boya voló por el borde. Y creo que golpeó la mano de Freddy. Mueve su mano, pero cuelga de su p*** brazo. Algo le pasa, eso es seguro. Esa es la última. Tenemos algo de tiempo. Entren, coman y séguense. Entendido! Ouch! ¿Puedes mover tu dedo? ¿Puedes? Siento la punta del dedo un poco sensible. ¿Un poco sensible? Apuesto a que eso es lo que sientes. ¿Es una broma? La sensibilidad de Freddy proviene de un hematoma subungual. Si no tienen un diccionario, es cuando un vaso sanguíneo explota debajo de la uña. Usaremos una aguja. ¿Se puede hacer eso? Claro que se puede. Eso haremos. Sacaremos toda la sangre y te sentirás como un hombre nuevo. El clima está empeorando. Hay rocío congelado y olas de 10 metros. Eso te agota por completo, pero tengo que seguir. Ya veremos si la pesca es buena o si los cangrejos se fueron de este lugar. El capitán Keith Colvul lucha contra las olas para llegar a sus jaulas. Es aterrador. No hemos podido descansar de este clima este año. Ya veremos qué pasa. Aquí viene. Ahora estamos contra el tiempo. Espero que las jaulas tengan 400 cangrejos. Si no, estaremos en grandes problemas. Luego de enfrentarse al mal clima, jaulas vacías, fallas y un dedo aplastado... Sí, tendremos muchos. Encontramos esos cangrejos. Sí. El capitán Keith y su tripulación pescan 185 mil kilos de cangrejos. Con suerte, las subiremos y volveremos a St. Paul. Y con una descarga en solo 30 horas, Keith quiere subir los últimos cangrejos de un viaje brutal. Esa mierda de ahí es lo máximo. La vida es buena. ¡Mira esto, jefe! ¡Que siga así! ¡Son grandes! ¡Sí! ¡Ah! ¡Cuatro, tres! ¡Cuatro, tres, cero! ¡Muy bien! Perfecto. Tenemos 400. Pongan más carnada. Si las volvemos a cargar con carnada, podemos dejarlas en el agua por unos cuatro o cinco días. ¡Cáulalo! Falta muy poco para terminar nuestra temporada. Lanzaremos las jaulas y volveremos al pueblo. Cuatro, cincuenta. Cinco, cincuenta. Seiscientos. ¡Sí! ¡Muy bien! Seis cincuenta. Bien, la última. ¡Vamos! Pescamos 122 mil kilos en tres días. Conseguimos los cangrejos y un poco más. Con el 33% de su cuota a bordo. Bien, salgamos de aquí. ¡Vamos a la isla! ¡Entendido, jefe! Keith cierra las escotillas y regresa. Próxima parada, St. Paul.",
+  "segmentos": [
+    {
+      "start": 8.3,
+      "end": 22.04,
+      "text": "No lejano norte, no Wizard, esses sistemas de alta pressão se vão aquelar, não teremos alivio, é algo sério."
+    },
+    {
+      "start": 24.74,
+      "end": 29.37,
+      "text": "Um estranho clima amenaza a zona de pesca e a flota."
+    },
+    {
+      "start": 33.71,
+      "end": 39.51,
+      "text": "Um muro de altas pressões limita a costa ocidental, causando as baixas pressões ao norte."
+    },
+    {
+      "start": 40.35,
+      "end": 46.37,
+      "text": "O resultado, uma série de tormentas orientadas diretamente à zona de cangrejos de as nieves."
+    },
+    {
+      "start": 46.37,
+      "end": 48.92,
+      "text": "E também a flota."
+    },
+    {
+      "start": 54.29,
+      "end": 55.73,
+      "text": "Temos uma tormenta agora."
+    },
+    {
+      "start": 57.11,
+      "end": 60.36,
+      "text": "Olas de 10 metros, 6 graus bajo zero."
+    },
+    {
+      "start": 61.16,
+      "end": 63.12,
+      "text": "Mas o melhor é que a pesca é boa."
+    },
+    {
+      "start": 64.22,
+      "end": 66.45,
+      "text": "De cangrejos!"
+    },
+    {
+      "start": 66.61,
+      "end": 67.43,
+      "text": "Deve de predir!"
+    },
+    {
+      "start": 67.83,
+      "end": 71.44,
+      "text": "Deo cangrejos!"
+    },
+    {
+      "start": 71.5,
+      "end": 72.02,
+      "text": "Sos muitos!"
+    },
+    {
+      "start": 72.34,
+      "end": 74.08,
+      "text": "Sim!"
+    },
+    {
+      "start": 74.98,
+      "end": 78.82,
+      "text": "A pesar do mal clima."
+    },
+    {
+      "start": 81.58,
+      "end": 82.48,
+      "text": "Estamos no norte."
+    },
+    {
+      "start": 83.16,
+      "end": 86.26,
+      "text": "Há uma montaña de cangrejos e não pararam de subir nas caulas."
+    },
+    {
+      "start": 86.26,
+      "end": 91.26,
+      "text": "O capitão Keith Colburn tem um promedio de 500 cangrejos por caula."
+    },
+    {
+      "start": 91.76,
+      "end": 95.72,
+      "text": "A tripulação trabalha duro."
+    },
+    {
+      "start": 96.02,
+      "end": 97.38,
+      "text": "Foi um viaje difícil."
+    },
+    {
+      "start": 97.74,
+      "end": 103.94,
+      "text": "Começamos com mal clima, faixas no barco e caulas vacias."
+    },
+    {
+      "start": 105.15,
+      "end": 106.05,
+      "text": "Não pude ser pior."
+    },
+    {
+      "start": 106.59,
+      "end": 107.93,
+      "text": "Não temos tido descanso."
+    },
+    {
+      "start": 109.68,
+      "end": 111.12,
+      "text": "E tenho que ir a entregar-los."
+    },
+    {
+      "start": 111.12,
+      "end": 116.26,
+      "text": "E com uma descarga cerca, Keith não tem tempo."
+    },
+    {
+      "start": 116.96,
+      "end": 117.9,
+      "text": "Nem excusas."
+    },
+    {
+      "start": 118.3,
+      "end": 121.15,
+      "text": "Venidos a bordo!"
+    },
+    {
+      "start": 121.49,
+      "end": 122.35,
+      "text": "Jalas llenas!"
+    },
+    {
+      "start": 123.11,
+      "end": 123.71,
+      "text": "Seis!"
+    },
+    {
+      "start": 127.13,
+      "end": 128.01,
+      "text": "Muito bem!"
+    },
+    {
+      "start": 128.15,
+      "end": 129.19,
+      "text": "Seis setenta e cinco!"
+    },
+    {
+      "start": 130.47,
+      "end": 133.89,
+      "text": "Nos temos!"
+    },
+    {
+      "start": 135.52,
+      "end": 135.78,
+      "text": "Ah!"
+    },
+    {
+      "start": 136.08,
+      "end": 136.3,
+      "text": "Ah!"
+    },
+    {
+      "start": 146.31,
+      "end": 146.47,
+      "text": "Que!"
+    },
+    {
+      "start": 146.61,
+      "end": 147.07,
+      "text": "Aléjate!"
+    },
+    {
+      "start": 148.51,
+      "end": 149.19,
+      "text": "Que m******!"
+    },
+    {
+      "start": 149.37,
+      "end": 152.98,
+      "text": "De um lado!"
+    },
+    {
+      "start": 153.04,
+      "end": 154.04,
+      "text": "Pero já quase não tinha!"
+    },
+    {
+      "start": 154.28,
+      "end": 154.7,
+      "text": "Eu tenho!"
+    },
+    {
+      "start": 154.8,
+      "end": 155.14,
+      "text": "Eu tenho!"
+    },
+    {
+      "start": 155.72,
+      "end": 157.59,
+      "text": "Aqui vamos ou não!"
+    },
+    {
+      "start": 157.69,
+      "end": 158.29,
+      "text": "Cuidado!"
+    },
+    {
+      "start": 158.43,
+      "end": 159.09,
+      "text": "Ponlo na rueda!"
+    },
+    {
+      "start": 159.17,
+      "end": 159.69,
+      "text": "Sim, eu sei!"
+    },
+    {
+      "start": 165.4,
+      "end": 165.74,
+      "text": "Oh, oh!"
+    },
+    {
+      "start": 165.74,
+      "end": 167.9,
+      "text": "Algo le pasó a Freddy."
+    },
+    {
+      "start": 168.51,
+      "end": 169.25,
+      "text": "Estás bien?"
+    },
+    {
+      "start": 169.87,
+      "end": 170.13,
+      "text": "Ah!"
+    },
+    {
+      "start": 171.14,
+      "end": 171.7,
+      "text": "Golpeado!"
+    },
+    {
+      "start": 172.52,
+      "end": 176.18,
+      "text": "Esa última jaula se metió debajo del barco y tenía mucha tensión."
+    },
+    {
+      "start": 177.46,
+      "end": 179.14,
+      "text": "Después la boya voló por el borde."
+    },
+    {
+      "start": 179.7,
+      "end": 181.86,
+      "text": "Y creo que golpeó la mano de Freddy."
+    },
+    {
+      "start": 186.6,
+      "end": 189.06,
+      "text": "Mueve su mano, pero cuelga de su p*** brazo."
+    },
+    {
+      "start": 189.4,
+      "end": 190.84,
+      "text": "Algo le pasa, eso es seguro."
+    },
+    {
+      "start": 196.54,
+      "end": 197.38,
+      "text": "Esa es la última."
+    },
+    {
+      "start": 197.78,
+      "end": 198.7,
+      "text": "Tenemos algo de tiempo."
+    },
+    {
+      "start": 199.28,
+      "end": 200.66,
+      "text": "Entren, coman y séguense."
+    },
+    {
+      "start": 202.63,
+      "end": 203.19,
+      "text": "Entendido!"
+    },
+    {
+      "start": 203.81,
+      "end": 212.9,
+      "text": "Ouch!"
+    },
+    {
+      "start": 217.01,
+      "end": 218.41,
+      "text": "¿Puedes mover tu dedo?"
+    },
+    {
+      "start": 220.12,
+      "end": 220.76,
+      "text": "¿Puedes?"
+    },
+    {
+      "start": 221.44,
+      "end": 224.4,
+      "text": "Siento la punta del dedo un poco sensible."
+    },
+    {
+      "start": 224.68,
+      "end": 225.98,
+      "text": "¿Un poco sensible?"
+    },
+    {
+      "start": 226.34,
+      "end": 227.9,
+      "text": "Apuesto a que eso es lo que sientes."
+    },
+    {
+      "start": 228.06,
+      "end": 228.66,
+      "text": "¿Es una broma?"
+    },
+    {
+      "start": 229.0,
+      "end": 232.5,
+      "text": "La sensibilidad de Freddy proviene de un hematoma subungual."
+    },
+    {
+      "start": 233.16,
+      "end": 238.42,
+      "text": "Si no tienen un diccionario, es cuando un vaso sanguíneo explota debajo de la uña."
+    },
+    {
+      "start": 238.6,
+      "end": 239.64,
+      "text": "Usaremos una aguja."
+    },
+    {
+      "start": 240.36,
+      "end": 241.22,
+      "text": "¿Se puede hacer eso?"
+    },
+    {
+      "start": 241.52,
+      "end": 242.54,
+      "text": "Claro que se puede."
+    },
+    {
+      "start": 242.76,
+      "end": 243.22,
+      "text": "Eso haremos."
+    },
+    {
+      "start": 243.64,
+      "end": 247.22,
+      "text": "Sacaremos toda la sangre y te sentirás como un hombre nuevo."
+    },
+    {
+      "start": 247.72,
+      "end": 249.32,
+      "text": "El clima está empeorando."
+    },
+    {
+      "start": 250.22,
+      "end": 253.16,
+      "text": "Hay rocío congelado y olas de 10 metros."
+    },
+    {
+      "start": 254.19,
+      "end": 257.05,
+      "text": "Eso te agota por completo, pero tengo que seguir."
+    },
+    {
+      "start": 259.0,
+      "end": 264.32,
+      "text": "Ya veremos si la pesca es buena o si los cangrejos se fueron de este lugar."
+    },
+    {
+      "start": 264.32,
+      "end": 269.36,
+      "text": "El capitán Keith Colvul lucha contra las olas para llegar a sus jaulas."
+    },
+    {
+      "start": 270.0,
+      "end": 271.4,
+      "text": "Es aterrador."
+    },
+    {
+      "start": 272.78,
+      "end": 275.28,
+      "text": "No hemos podido descansar de este clima este año."
+    },
+    {
+      "start": 276.54,
+      "end": 277.36,
+      "text": "Ya veremos qué pasa."
+    },
+    {
+      "start": 277.88,
+      "end": 283.76,
+      "text": "Aquí viene."
+    },
+    {
+      "start": 289.86,
+      "end": 291.34,
+      "text": "Ahora estamos contra el tiempo."
+    },
+    {
+      "start": 292.34,
+      "end": 294.94,
+      "text": "Espero que las jaulas tengan 400 cangrejos."
+    },
+    {
+      "start": 294.94,
+      "end": 298.3,
+      "text": "Si no, estaremos en grandes problemas."
+    },
+    {
+      "start": 300.18,
+      "end": 306.62,
+      "text": "Luego de enfrentarse al mal clima, jaulas vacías, fallas y un dedo aplastado..."
+    },
+    {
+      "start": 306.62,
+      "end": 308.08,
+      "text": "Sí, tendremos muchos."
+    },
+    {
+      "start": 308.34,
+      "end": 309.56,
+      "text": "Encontramos esos cangrejos."
+    },
+    {
+      "start": 309.68,
+      "end": 309.92,
+      "text": "Sí."
+    },
+    {
+      "start": 310.46,
+      "end": 315.88,
+      "text": "El capitán Keith y su tripulación pescan 185 mil kilos de cangrejos."
+    },
+    {
+      "start": 316.52,
+      "end": 319.94,
+      "text": "Con suerte, las subiremos y volveremos a St. Paul."
+    },
+    {
+      "start": 321.07,
+      "end": 327.27,
+      "text": "Y con una descarga en solo 30 horas, Keith quiere subir los últimos cangrejos de un viaje brutal."
+    },
+    {
+      "start": 327.27,
+      "end": 341.14,
+      "text": "Esa mierda de ahí es lo máximo."
+    },
+    {
+      "start": 342.51,
+      "end": 343.29,
+      "text": "La vida es buena."
+    },
+    {
+      "start": 346.0,
+      "end": 347.4,
+      "text": "¡Mira esto, jefe!"
+    },
+    {
+      "start": 347.9,
+      "end": 349.13,
+      "text": "¡Que siga así!"
+    },
+    {
+      "start": 349.8,
+      "end": 350.46,
+      "text": "¡Son grandes!"
+    },
+    {
+      "start": 351.18,
+      "end": 351.56,
+      "text": "¡Sí!"
+    },
+    {
+      "start": 352.4,
+      "end": 352.86,
+      "text": "¡Ah!"
+    },
+    {
+      "start": 354.68,
+      "end": 355.86,
+      "text": "¡Cuatro, tres!"
+    },
+    {
+      "start": 356.22,
+      "end": 358.57,
+      "text": "¡Cuatro, tres, cero!"
+    },
+    {
+      "start": 358.77,
+      "end": 359.35,
+      "text": "¡Muy bien!"
+    },
+    {
+      "start": 359.89,
+      "end": 360.49,
+      "text": "Perfecto."
+    },
+    {
+      "start": 360.61,
+      "end": 361.33,
+      "text": "Tenemos 400."
+    },
+    {
+      "start": 362.29,
+      "end": 363.45,
+      "text": "Pongan más carnada."
+    },
+    {
+      "start": 365.57,
+      "end": 370.97,
+      "text": "Si las volvemos a cargar con carnada, podemos dejarlas en el agua por unos cuatro o cinco días."
+    },
+    {
+      "start": 373.32,
+      "end": 373.84,
+      "text": "¡Cáulalo!"
+    },
+    {
+      "start": 376.69,
+      "end": 379.17,
+      "text": "Falta muy poco para terminar nuestra temporada."
+    },
+    {
+      "start": 380.11,
+      "end": 382.59,
+      "text": "Lanzaremos las jaulas y volveremos al pueblo."
+    },
+    {
+      "start": 392.04,
+      "end": 393.06,
+      "text": "Cuatro, cincuenta."
+    },
+    {
+      "start": 395.36,
+      "end": 396.6,
+      "text": "Cinco, cincuenta."
+    },
+    {
+      "start": 397.99,
+      "end": 398.91,
+      "text": "Seiscientos."
+    },
+    {
+      "start": 399.47,
+      "end": 399.83,
+      "text": "¡Sí!"
+    },
+    {
+      "start": 400.55,
+      "end": 401.17,
+      "text": "¡Muy bien!"
+    },
+    {
+      "start": 401.35,
+      "end": 402.17,
+      "text": "Seis cincuenta."
+    },
+    {
+      "start": 405.08,
+      "end": 406.08,
+      "text": "Bien, la última."
+    },
+    {
+      "start": 406.32,
+      "end": 406.58,
+      "text": "¡Vamos!"
+    },
+    {
+      "start": 409.55,
+      "end": 413.11,
+      "text": "Pescamos 122 mil kilos en tres días."
+    },
+    {
+      "start": 414.39,
+      "end": 416.47,
+      "text": "Conseguimos los cangrejos y un poco más."
+    },
+    {
+      "start": 417.6,
+      "end": 420.12,
+      "text": "Con el 33% de su cuota a bordo."
+    },
+    {
+      "start": 421.35,
+      "end": 422.45,
+      "text": "Bien, salgamos de aquí."
+    },
+    {
+      "start": 422.45,
+      "end": 424.14,
+      "text": "¡Vamos a la isla!"
+    },
+    {
+      "start": 424.9,
+      "end": 425.92,
+      "text": "¡Entendido, jefe!"
+    },
+    {
+      "start": 426.34,
+      "end": 429.3,
+      "text": "Keith cierra las escotillas y regresa."
+    },
+    {
+      "start": 431.26,
+      "end": 433.26,
+      "text": "Próxima parada, St. Paul."
+    }
+  ],
+  "duracao_seg": 447.83,
+  "idioma_detectado": "pt"
+}

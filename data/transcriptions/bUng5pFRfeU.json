@@ -1,0 +1,92 @@
+{
+  "texto": "O bicho não quebrou não Não quebrou não Ó, cuidado aí Segura a minha mão aí Eu não vou levantar a sua bola, tá certo? Claro não Não quer pra lá, né? Vai Não quer pra lá Tá com a bola, não? Não, o cara vai roubando Aí não vai mais, ó Tá aí nisso, tá aí nisso E aí E aí E aí E aí",
+  "segmentos": [
+    {
+      "start": 2.03,
+      "end": 4.03,
+      "text": "O bicho não quebrou não"
+    },
+    {
+      "start": 4.03,
+      "end": 6.03,
+      "text": "Não quebrou não"
+    },
+    {
+      "start": 6.03,
+      "end": 8.03,
+      "text": "Ó, cuidado aí"
+    },
+    {
+      "start": 8.03,
+      "end": 10.03,
+      "text": "Segura a minha mão aí"
+    },
+    {
+      "start": 10.03,
+      "end": 12.03,
+      "text": "Eu não vou levantar a sua bola, tá certo?"
+    },
+    {
+      "start": 12.03,
+      "end": 14.03,
+      "text": "Claro não"
+    },
+    {
+      "start": 14.03,
+      "end": 16.26,
+      "text": "Não quer pra lá, né?"
+    },
+    {
+      "start": 16.26,
+      "end": 18.42,
+      "text": "Vai"
+    },
+    {
+      "start": 18.42,
+      "end": 20.67,
+      "text": "Não quer pra lá"
+    },
+    {
+      "start": 20.67,
+      "end": 22.67,
+      "text": "Tá com a bola, não?"
+    },
+    {
+      "start": 22.67,
+      "end": 24.67,
+      "text": "Não, o cara vai roubando"
+    },
+    {
+      "start": 24.67,
+      "end": 27.66,
+      "text": "Aí não vai mais, ó"
+    },
+    {
+      "start": 27.66,
+      "end": 31.58,
+      "text": "Tá aí nisso, tá aí nisso"
+    },
+    {
+      "start": 31.58,
+      "end": 34.13,
+      "text": "E aí"
+    },
+    {
+      "start": 34.13,
+      "end": 36.13,
+      "text": "E aí"
+    },
+    {
+      "start": 36.13,
+      "end": 38.13,
+      "text": "E aí"
+    },
+    {
+      "start": 38.13,
+      "end": 40.13,
+      "text": "E aí"
+    }
+  ],
+  "duracao_seg": 38.57,
+  "idioma_detectado": "pt"
+}

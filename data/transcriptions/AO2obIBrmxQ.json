@@ -1,0 +1,22 @@
+{
+  "texto": "Galera, peguei um tuconarezinho minúsculo e vou fazer ele de isca para ver se eu pego um peixinho de couro aqui nessa represa. E aí, será que eu vou pegar um peixe ou não com essa isca? Deixa aí nos comentários o que vocês acharam dela.",
+  "segmentos": [
+    {
+      "start": 1.76,
+      "end": 7.72,
+      "text": "Galera, peguei um tuconarezinho minúsculo e vou fazer ele de isca para ver se eu pego um peixinho de couro aqui nessa represa."
+    },
+    {
+      "start": 8.92,
+      "end": 11.38,
+      "text": "E aí, será que eu vou pegar um peixe ou não com essa isca?"
+    },
+    {
+      "start": 12.18,
+      "end": 14.52,
+      "text": "Deixa aí nos comentários o que vocês acharam dela."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

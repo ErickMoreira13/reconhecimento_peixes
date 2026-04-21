@@ -1,0 +1,57 @@
+{
+  "texto": "A dificuldade da vida está na cabeça de cada um. Para ser feliz, não precisa subir com o jato. Não. Felicidade está na sua porta. Toda hora batendo, eu estou aqui. Porque já a coisa melhor que tem é quando nós dormimos e acordamos. Graças a Deus, meu pai. Vamos de novo. Me dê um dia feliz aí para me lutar que eu estou pronto. Tem felicidade melhor?",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 4.08,
+      "text": "A dificuldade da vida está na cabeça de cada um."
+    },
+    {
+      "start": 5.62,
+      "end": 8.48,
+      "text": "Para ser feliz, não precisa subir com o jato."
+    },
+    {
+      "start": 9.57,
+      "end": 9.81,
+      "text": "Não."
+    },
+    {
+      "start": 12.01,
+      "end": 13.49,
+      "text": "Felicidade está na sua porta."
+    },
+    {
+      "start": 14.48,
+      "end": 16.02,
+      "text": "Toda hora batendo, eu estou aqui."
+    },
+    {
+      "start": 18.25,
+      "end": 20.95,
+      "text": "Porque já a coisa melhor que tem é quando nós dormimos e acordamos."
+    },
+    {
+      "start": 21.07,
+      "end": 22.25,
+      "text": "Graças a Deus, meu pai."
+    },
+    {
+      "start": 22.91,
+      "end": 23.47,
+      "text": "Vamos de novo."
+    },
+    {
+      "start": 24.05,
+      "end": 26.31,
+      "text": "Me dê um dia feliz aí para me lutar que eu estou pronto."
+    },
+    {
+      "start": 27.38,
+      "end": 28.32,
+      "text": "Tem felicidade melhor?"
+    }
+  ],
+  "duracao_seg": 30.27,
+  "idioma_detectado": "pt"
+}

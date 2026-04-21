@@ -1,0 +1,17 @@
+{
+  "texto": "E coça? Ah, ia é lá!",
+  "segmentos": [
+    {
+      "start": 17.65,
+      "end": 18.65,
+      "text": "E coça?"
+    },
+    {
+      "start": 18.65,
+      "end": 20.96,
+      "text": "Ah, ia é lá!"
+    }
+  ],
+  "duracao_seg": 21.27,
+  "idioma_detectado": "pt"
+}

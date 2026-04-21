@@ -1,0 +1,37 @@
+{
+  "texto": "Isso, cara! Ei, Malaguetinho, olha a traia dele! Olha a traia dele, meu curiço! A dele não veio, ele veio armado! Meu, cravado! Osó cravado!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Isso, cara!"
+    },
+    {
+      "start": 1.52,
+      "end": 3.58,
+      "text": "Ei, Malaguetinho, olha a traia dele!"
+    },
+    {
+      "start": 4.0,
+      "end": 5.34,
+      "text": "Olha a traia dele, meu curiço!"
+    },
+    {
+      "start": 5.36,
+      "end": 7.48,
+      "text": "A dele não veio, ele veio armado!"
+    },
+    {
+      "start": 8.74,
+      "end": 9.84,
+      "text": "Meu, cravado!"
+    },
+    {
+      "start": 9.92,
+      "end": 10.7,
+      "text": "Osó cravado!"
+    }
+  ],
+  "duracao_seg": 10.87,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Conocias a pesca mais estranha de China? Quando baixa a marea, os pescadores se internam em os manglares e pantanos, deslizando-se sobre o barro. Allí, com anzuelos e suas mãos, pescan o Muts Keeper, um pez semi-anfibio que pode caminar fora do água. Você sabe que sua carne suave e dulce alcança precios de loucura nos mercados?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Conocias a pesca mais estranha de China?"
+    },
+    {
+      "start": 2.28,
+      "end": 6.02,
+      "text": "Quando baixa a marea, os pescadores se internam em os manglares e pantanos,"
+    },
+    {
+      "start": 6.3,
+      "end": 7.72,
+      "text": "deslizando-se sobre o barro."
+    },
+    {
+      "start": 7.96,
+      "end": 10.82,
+      "text": "Allí, com anzuelos e suas mãos, pescan o Muts Keeper,"
+    },
+    {
+      "start": 11.04,
+      "end": 13.66,
+      "text": "um pez semi-anfibio que pode caminar fora do água."
+    },
+    {
+      "start": 14.02,
+      "end": 17.54,
+      "text": "Você sabe que sua carne suave e dulce alcança precios de loucura nos mercados?"
+    }
+  ],
+  "duracao_seg": 17.79,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Que troféu, olha o tamanho do garoto Bonito, hein? Ganhamos o dia",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Que troféu, olha o tamanho do garoto"
+    },
+    {
+      "start": 4.2,
+      "end": 14.3,
+      "text": "Bonito, hein? Ganhamos o dia"
+    }
+  ],
+  "duracao_seg": 16.21,
+  "idioma_detectado": "pt"
+}

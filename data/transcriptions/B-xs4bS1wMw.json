@@ -1,0 +1,37 @@
+{
+  "texto": "Este homem usou uma caça de pesca de apenas 5 centímetros de largo, mas usou uma das melhores linhas de pesca por sua resistência, assim que depois de colocar o cebo na caça, a lançou para o água. E, depois de uns minutos, algo mordeu o anzuelo. Resultou ser um peça real do tamanho de uma mão.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "Este homem usou uma caça de pesca de apenas 5 centímetros de largo,"
+    },
+    {
+      "start": 2.86,
+      "end": 5.68,
+      "text": "mas usou uma das melhores linhas de pesca por sua resistência,"
+    },
+    {
+      "start": 5.8,
+      "end": 7.5,
+      "text": "assim que depois de colocar o cebo na caça,"
+    },
+    {
+      "start": 7.6,
+      "end": 8.56,
+      "text": "a lançou para o água."
+    },
+    {
+      "start": 8.66,
+      "end": 10.54,
+      "text": "E, depois de uns minutos, algo mordeu o anzuelo."
+    },
+    {
+      "start": 10.64,
+      "end": 13.18,
+      "text": "Resultou ser um peça real do tamanho de uma mão."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "O sentimento não mudou, bambu virou carbono, filamento, carretilha, jangada de garrafa pet, vira barco com escotilha É meu pai, o garoto cresceu, e o sonho de pescar ainda não adormeceu E hoje sou eu ensinando a meu filho a paixão, de montar acampamento, fazer fogo no chão Aproveitar as coisas simples, improvisar com a natureza, pedra vira banco",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.18,
+      "text": "O sentimento não mudou, bambu virou carbono, filamento, carretilha, jangada de garrafa pet, vira barco com escotilha"
+    },
+    {
+      "start": 7.18,
+      "end": 12.92,
+      "text": "É meu pai, o garoto cresceu, e o sonho de pescar ainda não adormeceu"
+    },
+    {
+      "start": 12.92,
+      "end": 18.48,
+      "text": "E hoje sou eu ensinando a meu filho a paixão, de montar acampamento, fazer fogo no chão"
+    },
+    {
+      "start": 18.48,
+      "end": 23.4,
+      "text": "Aproveitar as coisas simples, improvisar com a natureza, pedra vira banco"
+    }
+  ],
+  "duracao_seg": 23.63,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Esse deu trabalho. Ele puxou o caiaque.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 1.51,
+      "text": "Esse deu trabalho."
+    },
+    {
+      "start": 8.18,
+      "end": 10.2,
+      "text": "Ele puxou o caiaque."
+    }
+  ],
+  "duracao_seg": 23.63,
+  "idioma_detectado": "pt"
+}

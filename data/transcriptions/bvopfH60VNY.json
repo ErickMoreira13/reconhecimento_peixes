@@ -1,0 +1,37 @@
+{
+  "texto": "Bros, fíjense como este niño estaba sentado en uma esquina do estanque para pescar Se untou barro na cara para que os peces grandes não se dieran conta de que ele estava ali Colocou um pez pequeno frente a ele como cebo Llega um pez, estava esperando para atraparlo Depois de um rato, atrapou ao pez com suas mãos Alguna vez has visto pescar de esta maneira?",
+  "segmentos": [
+    {
+      "start": 1.2,
+      "end": 5.84,
+      "text": "Bros, fíjense como este niño estaba sentado en uma esquina do estanque para pescar"
+    },
+    {
+      "start": 5.84,
+      "end": 10.26,
+      "text": "Se untou barro na cara para que os peces grandes não se dieran conta de que ele estava ali"
+    },
+    {
+      "start": 10.26,
+      "end": 12.7,
+      "text": "Colocou um pez pequeno frente a ele como cebo"
+    },
+    {
+      "start": 12.7,
+      "end": 15.3,
+      "text": "Llega um pez, estava esperando para atraparlo"
+    },
+    {
+      "start": 15.3,
+      "end": 18.06,
+      "text": "Depois de um rato, atrapou ao pez com suas mãos"
+    },
+    {
+      "start": 18.06,
+      "end": 20.34,
+      "text": "Alguna vez has visto pescar de esta maneira?"
+    }
+  ],
+  "duracao_seg": 20.59,
+  "idioma_detectado": "pt"
+}

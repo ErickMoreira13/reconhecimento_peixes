@@ -1,0 +1,72 @@
+{
+  "texto": "Parou, parou, parou. Parou lá. Vou ter que travar aqui embaixo, só um pouquinho. Veio o cabo ou não veio, Felipe, Marquinhos? Poxa. Tá aí, né? Ó, certinho, enganchou ali. Nossa, aí não tem que ficar, tu. Olha só que ferramenta especial era. Escreveu o Paraná Nú. Ao contrário do que eu pensava, ele pescou pelo arpão mais curto. Aqui de cima, tá vendo? Eu achei que ia pegar nesse de baixo. Ou ele pegou e escapou no de baixo. Vai lá, solassado.",
+  "segmentos": [
+    {
+      "start": 8.88,
+      "end": 10.45,
+      "text": "Parou, parou, parou. Parou lá."
+    },
+    {
+      "start": 11.36,
+      "end": 13.04,
+      "text": "Vou ter que travar aqui embaixo, só um pouquinho."
+    },
+    {
+      "start": 14.85,
+      "end": 16.91,
+      "text": "Veio o cabo ou não veio, Felipe, Marquinhos?"
+    },
+    {
+      "start": 17.21,
+      "end": 17.61,
+      "text": "Poxa."
+    },
+    {
+      "start": 18.31,
+      "end": 18.75,
+      "text": "Tá aí, né?"
+    },
+    {
+      "start": 19.55,
+      "end": 20.99,
+      "text": "Ó, certinho, enganchou ali."
+    },
+    {
+      "start": 21.13,
+      "end": 22.33,
+      "text": "Nossa, aí não tem que ficar, tu."
+    },
+    {
+      "start": 22.61,
+      "end": 24.41,
+      "text": "Olha só que ferramenta especial era."
+    },
+    {
+      "start": 28.94,
+      "end": 29.96,
+      "text": "Escreveu o Paraná Nú."
+    },
+    {
+      "start": 33.8,
+      "end": 38.5,
+      "text": "Ao contrário do que eu pensava, ele pescou pelo arpão mais curto."
+    },
+    {
+      "start": 39.02,
+      "end": 40.82,
+      "text": "Aqui de cima, tá vendo? Eu achei que ia pegar nesse de baixo."
+    },
+    {
+      "start": 41.83,
+      "end": 43.65,
+      "text": "Ou ele pegou e escapou no de baixo."
+    },
+    {
+      "start": 43.85,
+      "end": 45.25,
+      "text": "Vai lá, solassado."
+    }
+  ],
+  "duracao_seg": 45.37,
+  "idioma_detectado": "pt"
+}

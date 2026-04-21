@@ -1,0 +1,37 @@
+{
+  "texto": "Nossa, o Estrela Cadê, hein? Eu tenho muito o que fazer um pedido Por favor, eu quero muito ser famoso Olha só, ela tá chegando perto Será que vai se realizar? Opa, mas peraí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Nossa, o Estrela Cadê, hein?"
+    },
+    {
+      "start": 1.5,
+      "end": 3.12,
+      "text": "Eu tenho muito o que fazer um pedido"
+    },
+    {
+      "start": 3.12,
+      "end": 5.18,
+      "text": "Por favor, eu quero muito ser famoso"
+    },
+    {
+      "start": 5.18,
+      "end": 6.88,
+      "text": "Olha só, ela tá chegando perto"
+    },
+    {
+      "start": 6.88,
+      "end": 8.08,
+      "text": "Será que vai se realizar?"
+    },
+    {
+      "start": 8.24,
+      "end": 9.76,
+      "text": "Opa, mas peraí"
+    }
+  ],
+  "duracao_seg": 13.47,
+  "idioma_detectado": "pt"
+}

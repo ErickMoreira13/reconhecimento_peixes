@@ -1,0 +1,37 @@
+{
+  "texto": "Este chico nota primeiro que a carretera está rota nesse tramo. De inmediato estaciona a sua auto a um lado e saca a sua caña de pescar, já que debaixo há bastante água. Ao ver esta loucura, seu irmão insiste para que se vayan rápido, mas ele se nega rotundamente e diz que não se irão sem atrapar algum pez. E justo quando lança o anzuelo e tira de a caña, logra atrapar a um.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "Este chico nota primeiro que a carretera está rota nesse tramo."
+    },
+    {
+      "start": 3.26,
+      "end": 6.64,
+      "text": "De inmediato estaciona a sua auto a um lado e saca a sua caña de pescar,"
+    },
+    {
+      "start": 6.72,
+      "end": 8.48,
+      "text": "já que debaixo há bastante água."
+    },
+    {
+      "start": 8.62,
+      "end": 11.78,
+      "text": "Ao ver esta loucura, seu irmão insiste para que se vayan rápido,"
+    },
+    {
+      "start": 11.92,
+      "end": 16.18,
+      "text": "mas ele se nega rotundamente e diz que não se irão sem atrapar algum pez."
+    },
+    {
+      "start": 16.28,
+      "end": 19.76,
+      "text": "E justo quando lança o anzuelo e tira de a caña, logra atrapar a um."
+    }
+  ],
+  "duracao_seg": 20.07,
+  "idioma_detectado": "pt"
+}

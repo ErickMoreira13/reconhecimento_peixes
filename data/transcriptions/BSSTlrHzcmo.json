@@ -1,0 +1,17 @@
+{
+  "texto": "Malang Bilang Malang Bilang",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Malang Bilang"
+    },
+    {
+      "start": 2.0,
+      "end": 6.53,
+      "text": "Malang Bilang"
+    }
+  ],
+  "duracao_seg": 8.93,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Aí, senhores, olha que beleza, olha, olha aqui, quase saindo, ó, trabalho bonito. Aí!",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 10.49,
+      "text": "Aí, senhores, olha que beleza, olha, olha aqui, quase saindo, ó, trabalho bonito."
+    },
+    {
+      "start": 11.63,
+      "end": 11.89,
+      "text": "Aí!"
+    }
+  ],
+  "duracao_seg": 12.91,
+  "idioma_detectado": "pt"
+}

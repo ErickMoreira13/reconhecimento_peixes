@@ -1,0 +1,17 @@
+{
+  "texto": "Sometimes the dream is finally wake up Don't wake up",
+  "segmentos": [
+    {
+      "start": 0.66,
+      "end": 4.95,
+      "text": "Sometimes the dream is finally wake up"
+    },
+    {
+      "start": 4.95,
+      "end": 6.23,
+      "text": "Don't wake up"
+    }
+  ],
+  "duracao_seg": 7.25,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,97 @@
+{
+  "texto": "Vamos ver. Que dia que é hoje? 30 de setembro, sábado. Tá filmando? De 2023. 3. Rio e Viema. Olha aqui, moçada. Derrama, reche. Ó. Olha que barra de ouro. Olha que preucio. Olha que coisa linda, gente. Vai. Olha, hein? Vai, vai pra vir. Aê! Valeu!",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 1.3,
+      "text": "Vamos ver."
+    },
+    {
+      "start": 1.82,
+      "end": 2.48,
+      "text": "Que dia que é hoje?"
+    },
+    {
+      "start": 2.74,
+      "end": 4.1,
+      "text": "30 de setembro, sábado."
+    },
+    {
+      "start": 4.24,
+      "end": 4.76,
+      "text": "Tá filmando?"
+    },
+    {
+      "start": 4.84,
+      "end": 5.5,
+      "text": "De 2023."
+    },
+    {
+      "start": 6.02,
+      "end": 6.34,
+      "text": "3."
+    },
+    {
+      "start": 6.62,
+      "end": 7.26,
+      "text": "Rio e Viema."
+    },
+    {
+      "start": 7.36,
+      "end": 8.48,
+      "text": "Olha aqui, moçada."
+    },
+    {
+      "start": 8.58,
+      "end": 9.38,
+      "text": "Derrama, reche."
+    },
+    {
+      "start": 9.5,
+      "end": 9.7,
+      "text": "Ó."
+    },
+    {
+      "start": 10.18,
+      "end": 11.62,
+      "text": "Olha que barra de ouro."
+    },
+    {
+      "start": 11.8,
+      "end": 12.62,
+      "text": "Olha que preucio."
+    },
+    {
+      "start": 13.08,
+      "end": 14.66,
+      "text": "Olha que coisa linda, gente."
+    },
+    {
+      "start": 14.84,
+      "end": 15.32,
+      "text": "Vai."
+    },
+    {
+      "start": 15.32,
+      "end": 15.7,
+      "text": "Olha, hein?"
+    },
+    {
+      "start": 15.7,
+      "end": 16.72,
+      "text": "Vai, vai pra vir."
+    },
+    {
+      "start": 17.46,
+      "end": 17.82,
+      "text": "Aê!"
+    },
+    {
+      "start": 20.1,
+      "end": 20.54,
+      "text": "Valeu!"
+    }
+  ],
+  "duracao_seg": 21.13,
+  "idioma_detectado": "pt"
+}

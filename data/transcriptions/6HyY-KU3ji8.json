@@ -1,0 +1,37 @@
+{
+  "texto": "Essa é uma técnica de pesca muito fácil, com uma botinha de vinho, com um buraco na parte de baixo. Le colocamos pan como carnada para atrair os peces quando a metemos no rio. Por uns 10 minutos a vamos deixar reposar aí. E depois a vamos sacar e vamos ter já uns bons peces. Usando uma simples botinha de vinho podemos pegar muitos, muitos peces. Muito fácil, prática.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Essa é uma técnica de pesca muito fácil, com uma botinha de vinho, com um buraco na parte de baixo."
+    },
+    {
+      "start": 4.38,
+      "end": 8.7,
+      "text": "Le colocamos pan como carnada para atrair os peces quando a metemos no rio."
+    },
+    {
+      "start": 8.82,
+      "end": 10.96,
+      "text": "Por uns 10 minutos a vamos deixar reposar aí."
+    },
+    {
+      "start": 11.08,
+      "end": 14.68,
+      "text": "E depois a vamos sacar e vamos ter já uns bons peces."
+    },
+    {
+      "start": 15.08,
+      "end": 18.88,
+      "text": "Usando uma simples botinha de vinho podemos pegar muitos, muitos peces."
+    },
+    {
+      "start": 18.98,
+      "end": 19.74,
+      "text": "Muito fácil, prática."
+    }
+  ],
+  "duracao_seg": 20.13,
+  "idioma_detectado": "pt"
+}
