@@ -1,0 +1,42 @@
+{
+  "texto": "Pessoal veja só o momento de embarque de um peixe camurupim capturado de espinhel pelo nosso amigo Chico e nosso amigo Jaildo na nossa praia Eles me informaram que esse peixe aí dava mais ou menos uns 40 kg Eles cortaram um pedaço para comer e o outro pedaço que eles venderam deu 35 kg e o kg foi comercializado a 20 reais A pescaria é considerada muito boa né, por conta que o pedaço que eles venderam rendeu mais ou menos em dinheiro para eles 700 reais Só um peixe foi feito a pescaria graças a Deus E nesse dia eles conseguiram capturar apenas esse camurupim e um arraia galera Mas foi considerada a pescaria muito abençoada graças a Deus",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 9.24,
+      "text": "Pessoal veja só o momento de embarque de um peixe camurupim capturado de espinhel pelo nosso amigo Chico e nosso amigo Jaildo na nossa praia"
+    },
+    {
+      "start": 9.24,
+      "end": 13.0,
+      "text": "Eles me informaram que esse peixe aí dava mais ou menos uns 40 kg"
+    },
+    {
+      "start": 13.0,
+      "end": 23.02,
+      "text": "Eles cortaram um pedaço para comer e o outro pedaço que eles venderam deu 35 kg e o kg foi comercializado a 20 reais"
+    },
+    {
+      "start": 23.02,
+      "end": 31.7,
+      "text": "A pescaria é considerada muito boa né, por conta que o pedaço que eles venderam rendeu mais ou menos em dinheiro para eles 700 reais"
+    },
+    {
+      "start": 31.7,
+      "end": 34.82,
+      "text": "Só um peixe foi feito a pescaria graças a Deus"
+    },
+    {
+      "start": 34.82,
+      "end": 39.16,
+      "text": "E nesse dia eles conseguiram capturar apenas esse camurupim e um arraia galera"
+    },
+    {
+      "start": 39.16,
+      "end": 43.21,
+      "text": "Mas foi considerada a pescaria muito abençoada graças a Deus"
+    }
+  ],
+  "duracao_seg": 46.15,
+  "idioma_detectado": "pt"
+}

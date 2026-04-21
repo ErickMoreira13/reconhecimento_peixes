@@ -1,0 +1,67 @@
+{
+  "texto": "Se você tirar uma cópia da Mona Lisa e esticar, espremer e girar à vontade, ao sobrepor na pintura original, pelo menos um ponto vai ter permanecido no mesmo lugar. Parece bruxaria, mas é matemática. É o Teorema do Ponto Fixo de Brouwer, que garante que, se você mexer à vontade uma xícara de café, no fim, sempre vai ter pelo menos uma molécula no mesmo lugar em que estava inicialmente. Pois é, cara, você pode mexer, girar ou esticar à vontade. Sempre tem um ponto que fica fixo. É o que garante o Teorema. Isso acontece porque ao deslocar os pontos dessa reta, por exemplo, os pontos da esquerda são jogados para a direita e os pontos da direita são jogados para a esquerda. Logo, pelo menos um ponto deve ser jogado verticalmente para baixo. Esse é o ponto que fica fixo. E, de novo, fica constatado que matemática é arte. O resto é fazer conta.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "text": "Se você tirar uma cópia da Mona Lisa e esticar, espremer e girar à vontade,"
+    },
+    {
+      "start": 5.28,
+      "end": 10.84,
+      "text": "ao sobrepor na pintura original, pelo menos um ponto vai ter permanecido no mesmo lugar."
+    },
+    {
+      "start": 11.66,
+      "end": 14.42,
+      "text": "Parece bruxaria, mas é matemática."
+    },
+    {
+      "start": 14.84,
+      "end": 20.6,
+      "text": "É o Teorema do Ponto Fixo de Brouwer, que garante que, se você mexer à vontade uma xícara de café,"
+    },
+    {
+      "start": 20.78,
+      "end": 26.5,
+      "text": "no fim, sempre vai ter pelo menos uma molécula no mesmo lugar em que estava inicialmente."
+    },
+    {
+      "start": 26.5,
+      "end": 30.3,
+      "text": "Pois é, cara, você pode mexer, girar ou esticar à vontade."
+    },
+    {
+      "start": 30.62,
+      "end": 34.18,
+      "text": "Sempre tem um ponto que fica fixo. É o que garante o Teorema."
+    },
+    {
+      "start": 34.54,
+      "end": 38.1,
+      "text": "Isso acontece porque ao deslocar os pontos dessa reta, por exemplo,"
+    },
+    {
+      "start": 38.46,
+      "end": 43.12,
+      "text": "os pontos da esquerda são jogados para a direita e os pontos da direita são jogados para a esquerda."
+    },
+    {
+      "start": 43.42,
+      "end": 46.94,
+      "text": "Logo, pelo menos um ponto deve ser jogado verticalmente para baixo."
+    },
+    {
+      "start": 47.34,
+      "end": 49.06,
+      "text": "Esse é o ponto que fica fixo."
+    },
+    {
+      "start": 49.32,
+      "end": 53.7,
+      "text": "E, de novo, fica constatado que matemática é arte. O resto é fazer conta."
+    }
+  ],
+  "duracao_seg": 54.07,
+  "idioma_detectado": "pt"
+}

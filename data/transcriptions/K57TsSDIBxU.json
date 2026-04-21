@@ -1,0 +1,57 @@
+{
+  "texto": "E aí galera, vou mostrar para vocês a outra ceva que eu uso nas pescarias também né esse aqui é milho azedo, você deixa o milho de molho uns 5 dias antes de pescar aí nunca deixa faltar água, de vez em quando vocês abram a tampa porque ela fermenta, ela estufa de vez em quando você tem que ir uma vez por dia, você tem que ir lá abrir para não estourar a garrafa e aí eu vou colocar aqui no balde, o cheiro é bem forte, esse aqui na verdade é usado na ceva em rios essa aqui é de amaciante mas foi bem lavado, não deixa com cheiro de amaciante, talvez pode espantar o peixe aí esse aqui é uma farela de arroz que eu uso, qualquer agropecuária você encontra né aí a quantia que você mistura até ele dá uma consistência até virar uma massa aí quem não quer que pega cheiro na mão aí mistura com uma luva qualquer coisa mas eu não me importo com isso, ela vai virando uma pasta, aí pessoal eu jogo aqui um pouco perto, tchau",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.12,
+      "text": "E aí galera, vou mostrar para vocês a outra ceva que eu uso nas pescarias também né"
+    },
+    {
+      "start": 6.12,
+      "end": 15.7,
+      "text": "esse aqui é milho azedo, você deixa o milho de molho uns 5 dias antes de pescar"
+    },
+    {
+      "start": 15.7,
+      "end": 23.15,
+      "text": "aí nunca deixa faltar água, de vez em quando vocês abram a tampa porque ela fermenta, ela estufa"
+    },
+    {
+      "start": 23.15,
+      "end": 27.57,
+      "text": "de vez em quando você tem que ir uma vez por dia, você tem que ir lá abrir para não estourar a garrafa"
+    },
+    {
+      "start": 27.57,
+      "end": 69.81,
+      "text": "e aí eu vou colocar aqui no balde, o cheiro é bem forte, esse aqui na verdade é usado na ceva em rios"
+    },
+    {
+      "start": 69.81,
+      "end": 77.92,
+      "text": "essa aqui é de amaciante mas foi bem lavado, não deixa com cheiro de amaciante, talvez pode espantar o peixe"
+    },
+    {
+      "start": 77.92,
+      "end": 88.91,
+      "text": "aí esse aqui é uma farela de arroz que eu uso, qualquer agropecuária você encontra né"
+    },
+    {
+      "start": 88.91,
+      "end": 93.47,
+      "text": "aí a quantia que você mistura até ele dá uma consistência até virar uma massa"
+    },
+    {
+      "start": 93.47,
+      "end": 109.58,
+      "text": "aí quem não quer que pega cheiro na mão aí mistura com uma luva qualquer coisa mas eu"
+    },
+    {
+      "start": 109.58,
+      "end": 146.42,
+      "text": "não me importo com isso, ela vai virando uma pasta, aí pessoal eu jogo aqui um pouco perto, tchau"
+    }
+  ],
+  "duracao_seg": 160.75,
+  "idioma_detectado": "pt"
+}

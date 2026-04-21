@@ -1,0 +1,22 @@
+{
+  "texto": "é isso aí pessoal o hidrocervador que eu fiz caseiro é isso aí segurando aqui fiz um peso de vai soltando os milhos né grão a grão assim vai é isso aí",
+  "segmentos": [
+    {
+      "start": 1.9,
+      "end": 22.0,
+      "text": "é isso aí pessoal o hidrocervador que eu fiz caseiro é isso aí segurando aqui"
+    },
+    {
+      "start": 22.0,
+      "end": 37.78,
+      "text": "fiz um peso de vai soltando os milhos né grão a grão assim vai"
+    },
+    {
+      "start": 37.78,
+      "end": 41.56,
+      "text": "é isso aí"
+    }
+  ],
+  "duracao_seg": 43.4,
+  "idioma_detectado": "pt"
+}

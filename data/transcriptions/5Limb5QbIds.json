@@ -1,0 +1,22 @@
+{
+  "texto": "Nossa, e é mesmo. Mas não dá pra pegar. Não dá, tá muito longe.",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 3.22,
+      "text": "Nossa, e é mesmo."
+    },
+    {
+      "start": 3.88,
+      "end": 4.7,
+      "text": "Mas não dá pra pegar."
+    },
+    {
+      "start": 6.55,
+      "end": 7.41,
+      "text": "Não dá, tá muito longe."
+    }
+  ],
+  "duracao_seg": 9.21,
+  "idioma_detectado": "pt"
+}

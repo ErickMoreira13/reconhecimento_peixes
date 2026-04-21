@@ -1,0 +1,42 @@
+{
+  "texto": "E aí pessoal, é umidade, o tratador não precisa puxar o peso O que fica parado no fundo da água Isso é só o tratador Puxou, engatou no barco, só encher ele Solta de novo Tem um pezinho aqui do chum pra ajudar a descer É isso aí, põe aquela...",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 3.52,
+      "text": "E aí pessoal, é umidade, o tratador não precisa puxar o peso"
+    },
+    {
+      "start": 3.52,
+      "end": 5.92,
+      "text": "O que fica parado no fundo da água"
+    },
+    {
+      "start": 5.92,
+      "end": 8.22,
+      "text": "Isso é só o tratador"
+    },
+    {
+      "start": 8.22,
+      "end": 11.76,
+      "text": "Puxou, engatou no barco, só encher ele"
+    },
+    {
+      "start": 11.76,
+      "end": 15.0,
+      "text": "Solta de novo"
+    },
+    {
+      "start": 15.0,
+      "end": 19.62,
+      "text": "Tem um pezinho aqui do chum pra ajudar a descer"
+    },
+    {
+      "start": 19.62,
+      "end": 23.58,
+      "text": "É isso aí, põe aquela..."
+    }
+  ],
+  "duracao_seg": 23.73,
+  "idioma_detectado": "pt"
+}

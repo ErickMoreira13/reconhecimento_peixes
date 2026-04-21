@@ -1,0 +1,27 @@
+{
+  "texto": "Ô, Rondé Reker, ó. Peraí. Pode chamar nome, não. Tô na merenda.",
+  "segmentos": [
+    {
+      "start": 15.15,
+      "end": 17.6,
+      "text": "Ô, Rondé Reker, ó."
+    },
+    {
+      "start": 17.6,
+      "end": 18.95,
+      "text": "Peraí."
+    },
+    {
+      "start": 25.67,
+      "end": 27.67,
+      "text": "Pode chamar nome, não."
+    },
+    {
+      "start": 27.67,
+      "end": 43.53,
+      "text": "Tô na merenda."
+    }
+  ],
+  "duracao_seg": 49.11,
+  "idioma_detectado": "pt"
+}

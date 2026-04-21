@@ -1,0 +1,37 @@
+{
+  "texto": "na massa esqueceu a massa porém porque é que tem adriana essa massa aí que tem ração de cavalo já vem com um melaço farelo de arroz farinha de trigo e raspa de algodão para pesca e essência de queijo essa boa de queijo se atrás da curiça amanhã o trem bom é meu amigo cheirando cheirando rapaz se assar faz bolo como nem sabe é meus amigos essa ração de cavalo é boa ela já vem com melaço não preciso nem de comprar o melaço separado não boa demais bacana já estamos preparando para amanhã pegar bastante curiça isso é mais difícil fazer não mexer esse trem tudo acaba ficando pesado",
+  "segmentos": [
+    {
+      "start": 7.31,
+      "end": 22.71,
+      "text": "na massa esqueceu a massa porém porque é que tem adriana essa massa aí que tem ração de cavalo"
+    },
+    {
+      "start": 22.71,
+      "end": 33.81,
+      "text": "já vem com um melaço farelo de arroz farinha de trigo e raspa de algodão para pesca e essência de"
+    },
+    {
+      "start": 33.81,
+      "end": 44.07,
+      "text": "queijo essa boa de queijo se atrás da curiça amanhã o trem bom é meu amigo cheirando cheirando rapaz"
+    },
+    {
+      "start": 44.07,
+      "end": 55.45,
+      "text": "se assar faz bolo como nem sabe é meus amigos essa ração de cavalo é boa ela já vem com melaço"
+    },
+    {
+      "start": 55.45,
+      "end": 61.27,
+      "text": "não preciso nem de comprar o melaço separado não boa demais bacana já estamos preparando para amanhã"
+    },
+    {
+      "start": 61.27,
+      "end": 71.9,
+      "text": "pegar bastante curiça isso é mais difícil fazer não mexer esse trem tudo acaba ficando pesado"
+    }
+  ],
+  "duracao_seg": 79.27,
+  "idioma_detectado": "pt"
+}

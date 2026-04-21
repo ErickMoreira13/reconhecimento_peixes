@@ -1,0 +1,27 @@
+{
+  "texto": "Pau e vou arremessar, vou deixar na pirada do barranco, é a famosa ceva definitiva e esse aqui vai ficar um mês, vai passar de um mês aqui, os curimbas vêm chupa, chupando esses ingredientes aqui, eu vou furar também, e aí vem os piaus, o duco, a fura e vai acostumando os peixes aqui, então aqui",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.86,
+      "text": "Pau e vou arremessar, vou deixar na pirada do barranco, é a famosa ceva definitiva"
+    },
+    {
+      "start": 5.86,
+      "end": 14.82,
+      "text": "e esse aqui vai ficar um mês, vai passar de um mês aqui, os curimbas vêm chupa, chupando"
+    },
+    {
+      "start": 14.82,
+      "end": 22.3,
+      "text": "esses ingredientes aqui, eu vou furar também, e aí vem os piaus, o duco, a fura e vai"
+    },
+    {
+      "start": 22.3,
+      "end": 26.3,
+      "text": "acostumando os peixes aqui, então aqui"
+    }
+  ],
+  "duracao_seg": 26.97,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "Hoje, meus caros, eu vou mostrar pra vocês essa arma de chumbinho aqui maravilhosa, conhecida por Gun Power. Tem a força de uma arma de fogo calibre 22. Então a gente tem esse cilindro aqui, onde você carrega com ar comprimido. Puxou aqui pra baixo, pum. Aqui a gente vai inserir o chumbinho. Colocou aqui, fechou. Tem a travinha aqui embaixo, ó, vou puxar a travinha, pum. Pronto pra disparo. Aí, gente.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "Hoje, meus caros, eu vou mostrar pra vocês essa arma de chumbinho aqui maravilhosa, conhecida por Gun Power."
+    },
+    {
+      "start": 6.58,
+      "end": 9.06,
+      "text": "Tem a força de uma arma de fogo calibre 22."
+    },
+    {
+      "start": 9.22,
+      "end": 12.74,
+      "text": "Então a gente tem esse cilindro aqui, onde você carrega com ar comprimido."
+    },
+    {
+      "start": 12.86,
+      "end": 14.38,
+      "text": "Puxou aqui pra baixo, pum."
+    },
+    {
+      "start": 14.46,
+      "end": 15.98,
+      "text": "Aqui a gente vai inserir o chumbinho."
+    },
+    {
+      "start": 16.14,
+      "end": 17.78,
+      "text": "Colocou aqui, fechou."
+    },
+    {
+      "start": 17.88,
+      "end": 20.22,
+      "text": "Tem a travinha aqui embaixo, ó, vou puxar a travinha, pum."
+    },
+    {
+      "start": 20.36,
+      "end": 21.24,
+      "text": "Pronto pra disparo."
+    },
+    {
+      "start": 22.26,
+      "end": 22.84,
+      "text": "Aí, gente."
+    }
+  ],
+  "duracao_seg": 25.35,
+  "idioma_detectado": "pt"
+}

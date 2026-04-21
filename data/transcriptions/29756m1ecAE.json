@@ -1,0 +1,37 @@
+{
+  "texto": "E aí pessoal, tamanho da Corimba Olha o tamanho do gigante E vem dos seus 5, 7 quilos sossegado É, com certeza É muita bitela, hein? Tá muito luxo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "E aí pessoal, tamanho da Corimba"
+    },
+    {
+      "start": 1.22,
+      "end": 3.82,
+      "text": "Olha o tamanho do gigante"
+    },
+    {
+      "start": 3.82,
+      "end": 7.24,
+      "text": "E vem dos seus 5, 7 quilos sossegado"
+    },
+    {
+      "start": 7.24,
+      "end": 9.08,
+      "text": "É, com certeza"
+    },
+    {
+      "start": 9.08,
+      "end": 9.96,
+      "text": "É muita bitela, hein?"
+    },
+    {
+      "start": 10.22,
+      "end": 11.8,
+      "text": "Tá muito luxo"
+    }
+  ],
+  "duracao_seg": 12.37,
+  "idioma_detectado": "pt"
+}

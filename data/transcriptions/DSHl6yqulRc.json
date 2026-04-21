@@ -1,0 +1,17 @@
+{
+  "texto": "caramba então é assim que se faz a ração para coi morrer não sabia aí mas o ovo não quebra não é o ovo é o ferro",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 8.83,
+      "text": "caramba então é assim que se faz a ração para coi morrer não sabia aí mas o ovo não quebra não é"
+    },
+    {
+      "start": 8.83,
+      "end": 11.23,
+      "text": "o ovo é o ferro"
+    }
+  ],
+  "duracao_seg": 10.87,
+  "idioma_detectado": "pt"
+}

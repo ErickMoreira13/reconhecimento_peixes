@@ -1,0 +1,27 @@
+{
+  "texto": "e eu vou dar um tiro aqui agora colocar cápsula aliás a munição coloquei eu vou armar amor agora fechar aqui tá armado eu vou tentar acertar aquele trocinho branco tá lá na frente não tem buraco nenhum lá vou ver se eu consigo fazer um para mim mostrar a facilidade que ela sai vou tentar filmar e atirar aqui tirei para quebrar ela e agora tirar a cápsula pegar bem aqui ó",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 16.7,
+      "text": "e eu vou dar um tiro aqui agora colocar cápsula aliás a munição coloquei eu vou armar amor agora"
+    },
+    {
+      "start": 16.7,
+      "end": 33.16,
+      "text": "fechar aqui tá armado eu vou tentar acertar aquele trocinho branco tá lá na frente não"
+    },
+    {
+      "start": 33.16,
+      "end": 41.02,
+      "text": "tem buraco nenhum lá vou ver se eu consigo fazer um para mim mostrar a facilidade que"
+    },
+    {
+      "start": 41.02,
+      "end": 77.88,
+      "text": "ela sai vou tentar filmar e atirar aqui tirei para quebrar ela e agora tirar a cápsula pegar bem aqui ó"
+    }
+  ],
+  "duracao_seg": 88.19,
+  "idioma_detectado": "pt"
+}

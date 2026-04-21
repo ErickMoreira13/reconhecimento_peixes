@@ -1,0 +1,17 @@
+{
+  "texto": "Você sabia que se em um balde colocar ração de coelho e cobrir com água, deixe de molho por dois dias, depois adicione trigo e milho moído, misture bem e pronto. Você acabou de preparar uma massinha poderosa para pescaria.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.62,
+      "text": "Você sabia que se em um balde colocar ração de coelho e cobrir com água, deixe de molho por dois dias, depois adicione trigo e milho moído, misture bem e pronto."
+    },
+    {
+      "start": 11.28,
+      "end": 14.58,
+      "text": "Você acabou de preparar uma massinha poderosa para pescaria."
+    }
+  ],
+  "duracao_seg": 15.11,
+  "idioma_detectado": "pt"
+}
