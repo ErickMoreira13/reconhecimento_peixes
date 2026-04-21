@@ -1,0 +1,112 @@
+{
+  "texto": "Tá, meu amor. Agora tá. Não acredito. Olha, ó. Eu peguei o flamengão. Costuma escapulir. Cuidado nessa hora aí, ó. Esse aqui não. Você vira. Você tira do anzol. Já bota lá na setinha. É, amor. A prova é que você pegou o peixe. Não acredito, amor. Segura o peixe, amor. Se tu tirar do anzol ele, der um pulo aí, já era. Porra, então toma. Eu peguei. Tami, pera aí. Irisei, Vito. Irisei, Vito e Marley. Eu peguei, eu. É, agora eu vou tirar do anzol porque você vai acabar deixando o peixe embora. Porque ela tá doidinha já. É mesmo. Tami. Aperta aí agora no...",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.9,
+      "text": "Tá, meu amor. Agora tá. Não acredito."
+    },
+    {
+      "start": 3.54,
+      "end": 6.28,
+      "text": "Olha, ó. Eu peguei o flamengão."
+    },
+    {
+      "start": 6.74,
+      "end": 8.54,
+      "text": "Costuma escapulir. Cuidado nessa hora aí, ó."
+    },
+    {
+      "start": 9.54,
+      "end": 10.46,
+      "text": "Esse aqui não."
+    },
+    {
+      "start": 11.28,
+      "end": 12.86,
+      "text": "Você vira. Você tira do anzol."
+    },
+    {
+      "start": 13.36,
+      "end": 14.4,
+      "text": "Já bota lá na setinha."
+    },
+    {
+      "start": 14.4,
+      "end": 14.78,
+      "text": "É, amor."
+    },
+    {
+      "start": 15.12,
+      "end": 16.46,
+      "text": "A prova é que você pegou o peixe."
+    },
+    {
+      "start": 16.58,
+      "end": 19.15,
+      "text": "Não acredito, amor."
+    },
+    {
+      "start": 22.21,
+      "end": 23.43,
+      "text": "Segura o peixe, amor."
+    },
+    {
+      "start": 29.39,
+      "end": 32.19,
+      "text": "Se tu tirar do anzol ele, der um pulo aí, já era."
+    },
+    {
+      "start": 32.57,
+      "end": 33.31,
+      "text": "Porra, então toma."
+    },
+    {
+      "start": 33.31,
+      "end": 36.96,
+      "text": "Eu peguei."
+    },
+    {
+      "start": 36.96,
+      "end": 37.7,
+      "text": "Tami, pera aí."
+    },
+    {
+      "start": 38.54,
+      "end": 39.74,
+      "text": "Irisei, Vito."
+    },
+    {
+      "start": 40.08,
+      "end": 42.1,
+      "text": "Irisei, Vito e Marley. Eu peguei, eu."
+    },
+    {
+      "start": 42.4,
+      "end": 45.34,
+      "text": "É, agora eu vou tirar do anzol porque você vai acabar deixando o peixe embora."
+    },
+    {
+      "start": 45.46,
+      "end": 46.26,
+      "text": "Porque ela tá doidinha já."
+    },
+    {
+      "start": 46.3,
+      "end": 46.72,
+      "text": "É mesmo."
+    },
+    {
+      "start": 47.59,
+      "end": 47.83,
+      "text": "Tami."
+    },
+    {
+      "start": 48.25,
+      "end": 49.51,
+      "text": "Aperta aí agora no..."
+    }
+  ],
+  "duracao_seg": 49.55,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Cuidado com o lima Sim, coroa Traga um negócio, Jean Olha o vermelhinho Olha",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 3.46,
+      "text": "Cuidado com o lima"
+    },
+    {
+      "start": 3.46,
+      "end": 10.45,
+      "text": "Sim, coroa"
+    },
+    {
+      "start": 10.45,
+      "end": 12.64,
+      "text": "Traga um negócio, Jean"
+    },
+    {
+      "start": 12.64,
+      "end": 15.98,
+      "text": "Olha o vermelhinho"
+    },
+    {
+      "start": 15.98,
+      "end": 17.98,
+      "text": "Olha"
+    }
+  ],
+  "duracao_seg": 19.31,
+  "idioma_detectado": "pt"
+}

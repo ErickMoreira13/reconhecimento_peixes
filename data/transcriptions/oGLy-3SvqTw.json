@@ -1,0 +1,212 @@
+{
+  "texto": "Bora fazer uma pescaria rapidinho aqui, ó. Chinoo, número 6. Aí, ó. Azulzinho pequeno. Vamos atrás de pegar aracu, matrichan e uns carazinhos. Olha aí, escasinha. Salsichinha, hein. Deixa eu enxergar aqui a câmera. Direto mesmo. Bota aqui, ó. Para ficar... Vamos indicar aí a salsicha, ó. Descou a salsichinha. Agora para dentro da água. Olha aí que a gente consegue pegar. Fisgou. Olha aí, ó. Descou, agora fisgou. Apaga o aracuzinho, é brabo. Olha aí, ó. E aí, olha aí, aracu. Aracu guloso. Caiu. Bora tirar. Fica, senhora aracu. Queimando esse guloso. Aí, aracuzinho. Fisgou, peraí. Deixa eu tirar aqui. Deixa eu acalmar. Acabou já de soltar. Aê, ó. Olha aí, galera. Esse aracuzinho, ó. Vai. Corrida. Excelente. E aí, ó. E aí, ó. E aí, ó. E aí, ó.",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 3.65,
+      "text": "Bora fazer uma pescaria rapidinho aqui, ó."
+    },
+    {
+      "start": 5.41,
+      "end": 7.11,
+      "text": "Chinoo, número 6."
+    },
+    {
+      "start": 8.56,
+      "end": 8.96,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 9.1,
+      "end": 10.12,
+      "text": "Azulzinho pequeno."
+    },
+    {
+      "start": 11.73,
+      "end": 19.11,
+      "text": "Vamos atrás de pegar aracu, matrichan e uns carazinhos."
+    },
+    {
+      "start": 20.0,
+      "end": 21.12,
+      "text": "Olha aí, escasinha."
+    },
+    {
+      "start": 22.92,
+      "end": 23.7,
+      "text": "Salsichinha, hein."
+    },
+    {
+      "start": 32.96,
+      "end": 34.74,
+      "text": "Deixa eu enxergar aqui a câmera."
+    },
+    {
+      "start": 36.78,
+      "end": 37.54,
+      "text": "Direto mesmo."
+    },
+    {
+      "start": 39.42,
+      "end": 40.04,
+      "text": "Bota aqui, ó."
+    },
+    {
+      "start": 40.04,
+      "end": 40.9,
+      "text": "Para ficar..."
+    },
+    {
+      "start": 40.9,
+      "end": 42.36,
+      "text": "Vamos indicar aí a salsicha, ó."
+    },
+    {
+      "start": 43.4,
+      "end": 44.68,
+      "text": "Descou a salsichinha."
+    },
+    {
+      "start": 45.76,
+      "end": 46.68,
+      "text": "Agora para dentro da água."
+    },
+    {
+      "start": 47.02,
+      "end": 47.96,
+      "text": "Olha aí que a gente consegue pegar."
+    },
+    {
+      "start": 63.12,
+      "end": 63.56,
+      "text": "Fisgou."
+    },
+    {
+      "start": 64.28,
+      "end": 64.88,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 66.49,
+      "end": 67.85,
+      "text": "Descou, agora fisgou."
+    },
+    {
+      "start": 71.3,
+      "end": 73.64,
+      "text": "Apaga o aracuzinho, é brabo."
+    },
+    {
+      "start": 73.64,
+      "end": 74.08,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 79.65,
+      "end": 85.86,
+      "text": "E aí, olha aí, aracu."
+    },
+    {
+      "start": 88.48,
+      "end": 90.12,
+      "text": "Aracu guloso."
+    },
+    {
+      "start": 91.83,
+      "end": 92.39,
+      "text": "Caiu."
+    },
+    {
+      "start": 93.9,
+      "end": 94.46,
+      "text": "Bora tirar."
+    },
+    {
+      "start": 95.77,
+      "end": 96.69,
+      "text": "Fica, senhora aracu."
+    },
+    {
+      "start": 97.47,
+      "end": 98.65,
+      "text": "Queimando esse guloso."
+    },
+    {
+      "start": 99.89,
+      "end": 100.89,
+      "text": "Aí, aracuzinho."
+    },
+    {
+      "start": 115.45,
+      "end": 116.29,
+      "text": "Fisgou, peraí."
+    },
+    {
+      "start": 116.97,
+      "end": 117.67,
+      "text": "Deixa eu tirar aqui."
+    },
+    {
+      "start": 118.25,
+      "end": 118.89,
+      "text": "Deixa eu acalmar."
+    },
+    {
+      "start": 118.99,
+      "end": 119.83,
+      "text": "Acabou já de soltar."
+    },
+    {
+      "start": 119.83,
+      "end": 122.07,
+      "text": "Aê, ó."
+    },
+    {
+      "start": 125.02,
+      "end": 125.52,
+      "text": "Olha aí, galera."
+    },
+    {
+      "start": 126.79,
+      "end": 127.79,
+      "text": "Esse aracuzinho, ó."
+    },
+    {
+      "start": 129.42,
+      "end": 129.76,
+      "text": "Vai."
+    },
+    {
+      "start": 131.68,
+      "end": 132.14,
+      "text": "Corrida."
+    },
+    {
+      "start": 134.77,
+      "end": 135.29,
+      "text": "Excelente."
+    },
+    {
+      "start": 135.29,
+      "end": 136.71,
+      "text": "E aí, ó."
+    },
+    {
+      "start": 136.71,
+      "end": 137.57,
+      "text": "E aí, ó."
+    },
+    {
+      "start": 137.57,
+      "end": 138.57,
+      "text": "E aí, ó."
+    },
+    {
+      "start": 138.57,
+      "end": 138.83,
+      "text": "E aí, ó."
+    }
+  ],
+  "duracao_seg": 136.17,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,132 @@
+{
+  "texto": "Meu amigo biólogo Henrique, olha aí. Esse aqui é o Carau Açúcar, que a gente conhece aqui. É, meu irmão, esse é o momento que o aquarista tem quase que um infarto. Esse é o canal Videira Pesca, e ele tá mostrando pra mim como é que é a pesca. Tem dois dele. Na região dele, tem dois ainda, cara. Tem maré. Pra quem não sabe o que eu tô falando, cara, esse é um Astronauts Ocelatus, ou Oscar, também conhecido como Apaiari, aqui na região sudeste. Um daquele tamanho ali tá mais ou menos entre 100 e 200. Dependendo da coloração, pode chegar a 400, 600 reais, se for uma variação, uma mutação. Mas, no norte do país, ele é alimento. Ele não é tido como um recurso pesqueiro pra criação de açude, porque ele demora um pouco mais a crescer. Mas diz a galera que ele é muito saboroso. Porém, pra nós que somos aquaristas, é uma pena muito grande, porque é um peixe que, sabe, parece que interage com o dono dele. Ele sabe distinguir o dono, o tratador, quem dá comida, pra uma outra pessoa. E, realmente, ele recebe o nome Oscar, não é à toa. Quem gosta de aquário, sabe exatamente o que eu tô falando. Mas, é isso aí, cara. É vida. Um local é comida. No outro local, ele é apreciado como animal de estimação. É assim que funciona.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Meu amigo biólogo Henrique, olha aí."
+    },
+    {
+      "start": 3.93,
+      "end": 6.15,
+      "text": "Esse aqui é o Carau Açúcar, que a gente conhece aqui."
+    },
+    {
+      "start": 8.16,
+      "end": 13.13,
+      "text": "É, meu irmão, esse é o momento que o aquarista tem quase que um infarto."
+    },
+    {
+      "start": 13.45,
+      "end": 17.63,
+      "text": "Esse é o canal Videira Pesca, e ele tá mostrando pra mim como é que é a pesca."
+    },
+    {
+      "start": 17.65,
+      "end": 18.37,
+      "text": "Tem dois dele."
+    },
+    {
+      "start": 18.69,
+      "end": 20.33,
+      "text": "Na região dele, tem dois ainda, cara."
+    },
+    {
+      "start": 20.37,
+      "end": 20.73,
+      "text": "Tem maré."
+    },
+    {
+      "start": 22.15,
+      "end": 27.07,
+      "text": "Pra quem não sabe o que eu tô falando, cara, esse é um Astronauts Ocelatus, ou Oscar,"
+    },
+    {
+      "start": 27.27,
+      "end": 30.03,
+      "text": "também conhecido como Apaiari, aqui na região sudeste."
+    },
+    {
+      "start": 30.03,
+      "end": 33.65,
+      "text": "Um daquele tamanho ali tá mais ou menos entre 100 e 200."
+    },
+    {
+      "start": 34.03,
+      "end": 38.65,
+      "text": "Dependendo da coloração, pode chegar a 400, 600 reais, se for uma variação, uma mutação."
+    },
+    {
+      "start": 38.91,
+      "end": 41.03,
+      "text": "Mas, no norte do país, ele é alimento."
+    },
+    {
+      "start": 41.49,
+      "end": 45.03,
+      "text": "Ele não é tido como um recurso pesqueiro pra criação de açude,"
+    },
+    {
+      "start": 45.25,
+      "end": 47.25,
+      "text": "porque ele demora um pouco mais a crescer."
+    },
+    {
+      "start": 47.51,
+      "end": 49.21,
+      "text": "Mas diz a galera que ele é muito saboroso."
+    },
+    {
+      "start": 49.53,
+      "end": 52.31,
+      "text": "Porém, pra nós que somos aquaristas, é uma pena muito grande,"
+    },
+    {
+      "start": 52.41,
+      "end": 56.29,
+      "text": "porque é um peixe que, sabe, parece que interage com o dono dele."
+    },
+    {
+      "start": 56.29,
+      "end": 60.55,
+      "text": "Ele sabe distinguir o dono, o tratador, quem dá comida, pra uma outra pessoa."
+    },
+    {
+      "start": 60.75,
+      "end": 63.79,
+      "text": "E, realmente, ele recebe o nome Oscar, não é à toa."
+    },
+    {
+      "start": 64.07,
+      "end": 66.97,
+      "text": "Quem gosta de aquário, sabe exatamente o que eu tô falando."
+    },
+    {
+      "start": 67.25,
+      "end": 68.55,
+      "text": "Mas, é isso aí, cara."
+    },
+    {
+      "start": 68.59,
+      "end": 68.87,
+      "text": "É vida."
+    },
+    {
+      "start": 68.97,
+      "end": 69.77,
+      "text": "Um local é comida."
+    },
+    {
+      "start": 70.13,
+      "end": 73.15,
+      "text": "No outro local, ele é apreciado como animal de estimação."
+    },
+    {
+      "start": 73.43,
+      "end": 74.53,
+      "text": "É assim que funciona."
+    }
+  ],
+  "duracao_seg": 75.21,
+  "idioma_detectado": "pt"
+}

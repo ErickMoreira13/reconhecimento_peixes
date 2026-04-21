@@ -1,0 +1,37 @@
+{
+  "texto": "Fala galera, viemos pescar usando minhoca, conseguimos pegar alguns mandinhos amarelos Olha, esse aqui é bonito né, mandizinho amarelo, tá vivo ainda, é bonito né Mas olha aqui que coisa mais linda, uhuuu Olha o tamanho desse peixe galera, olha o tamanho desse peixe Uhuuu, um mandinha surro galera, hoje vai ter muqueca Uhuuu",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 7.62,
+      "text": "Fala galera, viemos pescar usando minhoca, conseguimos pegar alguns mandinhos amarelos"
+    },
+    {
+      "start": 7.62,
+      "end": 12.76,
+      "text": "Olha, esse aqui é bonito né, mandizinho amarelo, tá vivo ainda, é bonito né"
+    },
+    {
+      "start": 12.76,
+      "end": 17.26,
+      "text": "Mas olha aqui que coisa mais linda, uhuuu"
+    },
+    {
+      "start": 17.26,
+      "end": 24.28,
+      "text": "Olha o tamanho desse peixe galera, olha o tamanho desse peixe"
+    },
+    {
+      "start": 24.28,
+      "end": 31.02,
+      "text": "Uhuuu, um mandinha surro galera, hoje vai ter muqueca"
+    },
+    {
+      "start": 31.9,
+      "end": 32.5,
+      "text": "Uhuuu"
+    }
+  ],
+  "duracao_seg": 35.25,
+  "idioma_detectado": "pt"
+}

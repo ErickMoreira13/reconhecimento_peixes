@@ -1,0 +1,72 @@
+{
+  "texto": "Não quebra não! Não! Ai sim popeu! Pega o alicate, pega o alicate Neto! Ai ajuda Neto, ajuda! Não, não quebra não popeu, só não deixa passar a linha debaixo do ar! Não, não quebra não! Não deixa passar a linha debaixo do ar! Não deixa passar! Não acaba não! Não acaba não! Ae, puxa! Ae! Aaaaah, garota!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Não quebra não!"
+    },
+    {
+      "start": 2.0,
+      "end": 6.04,
+      "text": "Não!"
+    },
+    {
+      "start": 6.04,
+      "end": 8.04,
+      "text": "Ai sim popeu!"
+    },
+    {
+      "start": 8.04,
+      "end": 10.04,
+      "text": "Pega o alicate, pega o alicate Neto!"
+    },
+    {
+      "start": 10.04,
+      "end": 11.04,
+      "text": "Ai ajuda Neto, ajuda!"
+    },
+    {
+      "start": 11.04,
+      "end": 14.04,
+      "text": "Não, não quebra não popeu, só não deixa passar a linha debaixo do ar!"
+    },
+    {
+      "start": 14.04,
+      "end": 16.33,
+      "text": "Não, não quebra não!"
+    },
+    {
+      "start": 16.33,
+      "end": 19.93,
+      "text": "Não deixa passar a linha debaixo do ar!"
+    },
+    {
+      "start": 19.93,
+      "end": 25.16,
+      "text": "Não deixa passar!"
+    },
+    {
+      "start": 25.16,
+      "end": 29.24,
+      "text": "Não acaba não!"
+    },
+    {
+      "start": 29.24,
+      "end": 31.53,
+      "text": "Não acaba não!"
+    },
+    {
+      "start": 31.53,
+      "end": 33.53,
+      "text": "Ae, puxa! Ae!"
+    },
+    {
+      "start": 33.53,
+      "end": 35.94,
+      "text": "Aaaaah, garota!"
+    }
+  ],
+  "duracao_seg": 40.09,
+  "idioma_detectado": "pt"
+}

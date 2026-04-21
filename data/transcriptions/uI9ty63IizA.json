@@ -1,0 +1,37 @@
+{
+  "texto": "Mano, a pegada desse bicho foi cabulosa, Corinho Olha o tamanho desse bicho aqui, mano Olha isso, cara Vou pôr na minha perna aqui, pôdeu Olha, tamanho do mandinho, mano Tá aqui, pai, o tamanho da canela só, né?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "Mano, a pegada desse bicho foi cabulosa, Corinho"
+    },
+    {
+      "start": 4.08,
+      "end": 6.74,
+      "text": "Olha o tamanho desse bicho aqui, mano"
+    },
+    {
+      "start": 6.74,
+      "end": 9.53,
+      "text": "Olha isso, cara"
+    },
+    {
+      "start": 9.53,
+      "end": 11.19,
+      "text": "Vou pôr na minha perna aqui, pôdeu"
+    },
+    {
+      "start": 11.19,
+      "end": 14.79,
+      "text": "Olha, tamanho do mandinho, mano"
+    },
+    {
+      "start": 14.79,
+      "end": 16.96,
+      "text": "Tá aqui, pai, o tamanho da canela só, né?"
+    }
+  ],
+  "duracao_seg": 18.55,
+  "idioma_detectado": "pt"
+}

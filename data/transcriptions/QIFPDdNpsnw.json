@@ -1,0 +1,47 @@
+{
+  "texto": "Aí ó, olha ali que lavanda que deu na água ali. Ô Clebinho, esse aí como que é então? Esse aqui é o Piauzinho Flamengo. O Piauzinho Flamengo, né? Rapaz, ainda bem que é Flamengo, né? Já é 1x0 aqui, porque se fosse Corinthians nós estávamos perdendo, né Clebinho? Fechou. Fechou, galera.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Aí ó, olha ali que lavanda que deu na água ali."
+    },
+    {
+      "start": 3.0,
+      "end": 4.58,
+      "text": "Ô Clebinho, esse aí como que é então?"
+    },
+    {
+      "start": 4.68,
+      "end": 6.3,
+      "text": "Esse aqui é o Piauzinho Flamengo."
+    },
+    {
+      "start": 6.4,
+      "end": 7.5,
+      "text": "O Piauzinho Flamengo, né?"
+    },
+    {
+      "start": 8.18,
+      "end": 9.56,
+      "text": "Rapaz, ainda bem que é Flamengo, né?"
+    },
+    {
+      "start": 9.6,
+      "end": 12.84,
+      "text": "Já é 1x0 aqui, porque se fosse Corinthians nós estávamos perdendo, né Clebinho?"
+    },
+    {
+      "start": 13.08,
+      "end": 13.4,
+      "text": "Fechou."
+    },
+    {
+      "start": 13.7,
+      "end": 14.28,
+      "text": "Fechou, galera."
+    }
+  ],
+  "duracao_seg": 15.79,
+  "idioma_detectado": "pt"
+}

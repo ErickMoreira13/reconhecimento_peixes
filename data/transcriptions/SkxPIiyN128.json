@@ -1,0 +1,37 @@
+{
+  "texto": "vou tentar, vou tentar com camarão agora eu peguei com camarão, bora ver agora peguei outro, esse aqui é mais bonito, tem que fazer com uma focinha a mais calma aí, não vai se engatar aí não, esse não, será que eu levo esse? rapaz, eu chamo a tora, bomba aqui chicó camarãozinho, não esse eu vou levar para fritar, esse eu tenho que levar para fritar não, eu vou tentar fazer um assado, olha o tamanho da Lapa",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 10.9,
+      "text": "vou tentar, vou tentar com camarão agora eu peguei com camarão, bora ver agora"
+    },
+    {
+      "start": 10.9,
+      "end": 30.13,
+      "text": "peguei outro, esse aqui é mais bonito, tem que fazer com uma focinha a mais"
+    },
+    {
+      "start": 30.13,
+      "end": 39.83,
+      "text": "calma aí, não vai se engatar aí não, esse não, será que eu levo esse?"
+    },
+    {
+      "start": 39.83,
+      "end": 48.8,
+      "text": "rapaz, eu chamo a tora, bomba aqui chicó"
+    },
+    {
+      "start": 48.8,
+      "end": 53.28,
+      "text": "camarãozinho, não esse eu vou levar para fritar, esse eu tenho que levar para fritar"
+    },
+    {
+      "start": 53.28,
+      "end": 59.98,
+      "text": "não, eu vou tentar fazer um assado, olha o tamanho da Lapa"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

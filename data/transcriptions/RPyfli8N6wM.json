@@ -1,0 +1,17 @@
+{
+  "texto": "Olha que peixe bonita, esse aqui tá bonito, rapaiari, puxou, puxou, briga muito, bonito, rapaiari bonita, ficou linda pessoal, já puxou já, pegou, pegou, olha que bonito, rapaiari, eu botei pra filmar pessoal, mas peguei, mas a câmera mudou, mas é outro, olha aqui já, olha, pegou, pegou, pegou, já com dá, Olha o tamanho, agora esse tá naquele modelo, peru, olha, olha, racunda, olha o tamanho, tu é duro, nunca tinha pego um desse tamanho não",
+  "segmentos": [
+    {
+      "start": 47.54,
+      "end": 252.52,
+      "text": "Olha que peixe bonita, esse aqui tá bonito, rapaiari, puxou, puxou, briga muito, bonito, rapaiari bonita, ficou linda pessoal, já puxou já, pegou, pegou, olha que bonito, rapaiari, eu botei pra filmar pessoal, mas peguei, mas a câmera mudou, mas é outro, olha aqui já, olha, pegou, pegou, pegou, já com dá,"
+    },
+    {
+      "start": 252.52,
+      "end": 291.49,
+      "text": "Olha o tamanho, agora esse tá naquele modelo, peru, olha, olha, racunda, olha o tamanho, tu é duro, nunca tinha pego um desse tamanho não"
+    }
+  ],
+  "duracao_seg": 313.61,
+  "idioma_detectado": "pt"
+}

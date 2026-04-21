@@ -1,0 +1,22 @@
+{
+  "texto": "peguei oi oi oi oi oi a pega já peguei aqui ó oi oi olha lá rapaz oi que bonito cara o piauve que massa cara o bicho é forte hein olha que bonito anzolzinho fatal aquele que você me deu em fatal né fatal olha do jeito que pega fica né jeito que pega fica",
+  "segmentos": [
+    {
+      "start": 29.94,
+      "end": 44.84,
+      "text": "peguei oi oi oi oi oi a pega já peguei aqui ó oi oi olha lá rapaz oi que bonito cara o piauve"
+    },
+    {
+      "start": 44.84,
+      "end": 56.3,
+      "text": "que massa cara o bicho é forte hein olha que bonito anzolzinho fatal aquele que você me deu"
+    },
+    {
+      "start": 56.3,
+      "end": 60.04,
+      "text": "em fatal né fatal olha do jeito que pega fica né jeito que pega fica"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

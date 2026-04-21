@@ -1,0 +1,17 @@
+{
+  "texto": "Mãe de? Olha o mandizão.",
+  "segmentos": [
+    {
+      "start": 7.09,
+      "end": 7.73,
+      "text": "Mãe de?"
+    },
+    {
+      "start": 11.26,
+      "end": 12.22,
+      "text": "Olha o mandizão."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

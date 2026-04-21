@@ -1,0 +1,22 @@
+{
+  "texto": "Hoje a gente vai pescar com jujuba, olha aí, vocês já pescaram jujuba? Nem eu, então vamos testar, ver se pega peixe Já isquei a jujubinha aí, cortei ela, isquei, agora vamos ver se a gente pega peixe Rapaz, não é que essa jujuba pega mesmo? Olha aí, pegou seu aracu, rapaz, na jujuba ali",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 8.5,
+      "text": "Hoje a gente vai pescar com jujuba, olha aí, vocês já pescaram jujuba? Nem eu, então vamos testar, ver se pega peixe"
+    },
+    {
+      "start": 8.5,
+      "end": 14.67,
+      "text": "Já isquei a jujubinha aí, cortei ela, isquei, agora vamos ver se a gente pega peixe"
+    },
+    {
+      "start": 14.67,
+      "end": 22.52,
+      "text": "Rapaz, não é que essa jujuba pega mesmo? Olha aí, pegou seu aracu, rapaz, na jujuba ali"
+    }
+  ],
+  "duracao_seg": 23.25,
+  "idioma_detectado": "pt"
+}

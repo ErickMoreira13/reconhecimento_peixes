@@ -1,0 +1,27 @@
+{
+  "texto": "Aí galera, estamos aqui no Mato Grosso e eu vou mostrar para vocês o maior Piau Flamengo que eu já vi na minha vida, velho. Piau de quase 2kg. Olha o tamanho do menino aqui, ó. Você está doido.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 6.44,
+      "text": "Aí galera, estamos aqui no Mato Grosso e eu vou mostrar para vocês o maior Piau Flamengo que eu já vi na minha vida, velho."
+    },
+    {
+      "start": 7.67,
+      "end": 9.17,
+      "text": "Piau de quase 2kg."
+    },
+    {
+      "start": 9.57,
+      "end": 11.45,
+      "text": "Olha o tamanho do menino aqui, ó."
+    },
+    {
+      "start": 12.3,
+      "end": 13.34,
+      "text": "Você está doido."
+    }
+  ],
+  "duracao_seg": 14.35,
+  "idioma_detectado": "pt"
+}

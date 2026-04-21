@@ -1,0 +1,27 @@
+{
+  "texto": "Olha isso! Era a cor lustrada. Que bonito isso. Esse aqui é pequeno filhotinho. Vai crescer mais.",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 4.4,
+      "text": "Olha isso! Era a cor lustrada."
+    },
+    {
+      "start": 4.4,
+      "end": 6.4,
+      "text": "Que bonito isso."
+    },
+    {
+      "start": 6.4,
+      "end": 8.62,
+      "text": "Esse aqui é pequeno filhotinho."
+    },
+    {
+      "start": 8.62,
+      "end": 10.62,
+      "text": "Vai crescer mais."
+    }
+  ],
+  "duracao_seg": 10.75,
+  "idioma_detectado": "pt"
+}

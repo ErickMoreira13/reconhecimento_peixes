@@ -1,0 +1,67 @@
+{
+  "texto": "É o top agora hein Rony Olha o Flamengo grande Nossa esse briga hein É o Flamengo Olha que tamanho de piau Só puxar nele aqui Bonito demais hein Olha que maravilha Os olhinhos pegou bem no beicinho Show de bola né Show Valeu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "É o top agora hein Rony"
+    },
+    {
+      "start": 1.28,
+      "end": 7.19,
+      "text": "Olha o Flamengo grande"
+    },
+    {
+      "start": 7.19,
+      "end": 9.6,
+      "text": "Nossa esse briga hein"
+    },
+    {
+      "start": 9.6,
+      "end": 13.04,
+      "text": "É o Flamengo"
+    },
+    {
+      "start": 13.04,
+      "end": 15.47,
+      "text": "Olha que tamanho de piau"
+    },
+    {
+      "start": 15.47,
+      "end": 18.66,
+      "text": "Só puxar nele aqui"
+    },
+    {
+      "start": 18.66,
+      "end": 29.61,
+      "text": "Bonito demais hein"
+    },
+    {
+      "start": 29.61,
+      "end": 31.34,
+      "text": "Olha que maravilha"
+    },
+    {
+      "start": 31.34,
+      "end": 34.16,
+      "text": "Os olhinhos pegou bem no beicinho"
+    },
+    {
+      "start": 34.16,
+      "end": 38.23,
+      "text": "Show de bola né"
+    },
+    {
+      "start": 38.23,
+      "end": 38.61,
+      "text": "Show"
+    },
+    {
+      "start": 38.61,
+      "end": 39.97,
+      "text": "Valeu"
+    }
+  ],
+  "duracao_seg": 42.39,
+  "idioma_detectado": "pt"
+}

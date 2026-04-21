@@ -1,0 +1,17 @@
+{
+  "texto": "Rondizão na minhoca aí galera, na vara telescópica, na beiradinha Olha os minhocão do barranco aí, desgosta",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.98,
+      "text": "Rondizão na minhoca aí galera, na vara telescópica, na beiradinha"
+    },
+    {
+      "start": 4.98,
+      "end": 10.28,
+      "text": "Olha os minhocão do barranco aí, desgosta"
+    }
+  ],
+  "duracao_seg": 11.75,
+  "idioma_detectado": "pt"
+}

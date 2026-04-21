@@ -1,0 +1,27 @@
+{
+  "texto": "E aí Para ser tão noce, ele tem que fazer o meu pai Não? Não, não.",
+  "segmentos": [
+    {
+      "start": 2.61,
+      "end": 3.61,
+      "text": "E aí"
+    },
+    {
+      "start": 3.61,
+      "end": 7.63,
+      "text": "Para ser tão noce, ele tem que fazer o meu pai"
+    },
+    {
+      "start": 7.63,
+      "end": 8.95,
+      "text": "Não?"
+    },
+    {
+      "start": 8.95,
+      "end": 9.95,
+      "text": "Não, não."
+    }
+  ],
+  "duracao_seg": 9.21,
+  "idioma_detectado": "pt"
+}

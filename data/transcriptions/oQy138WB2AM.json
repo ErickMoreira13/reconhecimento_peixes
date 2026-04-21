@@ -1,0 +1,27 @@
+{
+  "texto": "e não o spinner oi tá pelo olho do bicho todo mordido Nossa isso aqui foi atacado velho Nossa senhora pensa numa paiaria que tá todo mordido vai rapaziada a mordida que ele tomou aqui velho caraca ele deve ter tomado uma mordida uma traíra vai ter a boca certinho assim ó aí para lá para ver se você tá molhado para si",
+  "segmentos": [
+    {
+      "start": 2.1,
+      "end": 27.88,
+      "text": "e não o spinner oi tá pelo olho do bicho todo mordido Nossa isso aqui foi atacado velho Nossa"
+    },
+    {
+      "start": 27.88,
+      "end": 41.36,
+      "text": "senhora pensa numa paiaria que tá todo mordido vai rapaziada a mordida que ele tomou aqui velho"
+    },
+    {
+      "start": 41.36,
+      "end": 52.73,
+      "text": "caraca ele deve ter tomado uma mordida uma traíra vai ter a boca certinho assim ó aí para lá para"
+    },
+    {
+      "start": 52.73,
+      "end": 55.32,
+      "text": "ver se você tá molhado para si"
+    }
+  ],
+  "duracao_seg": 55.43,
+  "idioma_detectado": "pt"
+}

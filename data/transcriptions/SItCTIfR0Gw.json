@@ -1,0 +1,127 @@
+{
+  "texto": "Ele vai no mais gostoso Rapaz, hoje está ruim Aí, Zé Você já está no pau lá Eu estou vendo se o outro está por aqui, mas pelo jeito ele está solteiro Deixa eu te levar lá Eu achei meio estranho também, mas eu acho que é tudo na área azul Piranha preta? Piranha preta e gigante É, caraca Piranha preta? Pega na linha, vai quebrar a vara Piranha preta, grande Piranha? Cuidado com os dentes Aqui tem muita Olha na foto aí, na filmagem De cabeça para baixo, assim? Assim? Rapaz, do céu Isso que é uma piranha Olha o tamanho da boca Isso aí é bom, tem uma carne emborrachada, mas é boa É, não, só caldo",
+  "segmentos": [
+    {
+      "start": 90.9,
+      "end": 237.29,
+      "text": "Ele vai no mais gostoso"
+    },
+    {
+      "start": 237.29,
+      "end": 247.94,
+      "text": "Rapaz, hoje está ruim"
+    },
+    {
+      "start": 247.94,
+      "end": 251.12,
+      "text": "Aí, Zé"
+    },
+    {
+      "start": 251.12,
+      "end": 253.11,
+      "text": "Você já está no pau lá"
+    },
+    {
+      "start": 253.11,
+      "end": 259.72,
+      "text": "Eu estou vendo se o outro está por aqui, mas pelo jeito ele está solteiro"
+    },
+    {
+      "start": 259.72,
+      "end": 269.25,
+      "text": "Deixa eu te levar lá"
+    },
+    {
+      "start": 269.25,
+      "end": 282.08,
+      "text": "Eu achei meio estranho também, mas eu acho que é tudo na área azul"
+    },
+    {
+      "start": 282.08,
+      "end": 286.34,
+      "text": "Piranha preta?"
+    },
+    {
+      "start": 287.68,
+      "end": 289.26,
+      "text": "Piranha preta e gigante"
+    },
+    {
+      "start": 289.26,
+      "end": 295.21,
+      "text": "É, caraca"
+    },
+    {
+      "start": 295.21,
+      "end": 298.72,
+      "text": "Piranha preta?"
+    },
+    {
+      "start": 298.72,
+      "end": 308.71,
+      "text": "Pega na linha, vai quebrar a vara"
+    },
+    {
+      "start": 308.71,
+      "end": 320.73,
+      "text": "Piranha preta, grande"
+    },
+    {
+      "start": 320.73,
+      "end": 336.52,
+      "text": "Piranha?"
+    },
+    {
+      "start": 337.06,
+      "end": 338.08,
+      "text": "Cuidado com os dentes"
+    },
+    {
+      "start": 338.08,
+      "end": 341.04,
+      "text": "Aqui tem muita"
+    },
+    {
+      "start": 341.04,
+      "end": 345.67,
+      "text": "Olha na foto aí, na filmagem"
+    },
+    {
+      "start": 345.67,
+      "end": 347.88,
+      "text": "De cabeça para baixo, assim?"
+    },
+    {
+      "start": 348.7,
+      "end": 349.1,
+      "text": "Assim?"
+    },
+    {
+      "start": 351.4,
+      "end": 352.22,
+      "text": "Rapaz, do céu"
+    },
+    {
+      "start": 352.22,
+      "end": 353.42,
+      "text": "Isso que é uma piranha"
+    },
+    {
+      "start": 353.42,
+      "end": 355.36,
+      "text": "Olha o tamanho da boca"
+    },
+    {
+      "start": 355.36,
+      "end": 360.99,
+      "text": "Isso aí é bom, tem uma carne emborrachada, mas é boa"
+    },
+    {
+      "start": 360.99,
+      "end": 365.14,
+      "text": "É, não, só caldo"
+    }
+  ],
+  "duracao_seg": 465.27,
+  "idioma_detectado": "pt"
+}

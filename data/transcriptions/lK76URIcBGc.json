@@ -1,0 +1,17 @@
+{
+  "texto": "Tá no biquinho, no biquinho dele. Olha o araguzão.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "Tá no biquinho, no biquinho dele."
+    },
+    {
+      "start": 8.98,
+      "end": 12.44,
+      "text": "Olha o araguzão."
+    }
+  ],
+  "duracao_seg": 17.51,
+  "idioma_detectado": "pt"
+}

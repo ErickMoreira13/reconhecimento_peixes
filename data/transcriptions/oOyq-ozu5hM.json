@@ -1,0 +1,27 @@
+{
+  "texto": "mandizão aí ó peguei na mortandela ó zoiudo",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 1.56,
+      "text": "mandizão aí ó"
+    },
+    {
+      "start": 1.56,
+      "end": 4.54,
+      "text": "peguei na mortandela"
+    },
+    {
+      "start": 4.54,
+      "end": 6.44,
+      "text": "ó"
+    },
+    {
+      "start": 6.44,
+      "end": 10.28,
+      "text": "zoiudo"
+    }
+  ],
+  "duracao_seg": 12.25,
+  "idioma_detectado": "pt"
+}
