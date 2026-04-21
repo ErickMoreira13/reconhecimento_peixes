@@ -1,0 +1,17 @@
+{
+  "texto": "Aí aqui eu tenho farelo de arroz que você encontra na sua cidade aí e a farinha de trigo, pode ser qualquer marca tá galera, precisa a mais barata que você tiver aí, a farinha de trigo e o farelo de arroz, aqui ó, o óleo de piqui, é o que dá o cheiro, a cor na massa aí, o copo de farelo cheio tá, aí você despeja aqui ó no baldinho e agora você vai pegar o mesmo quantidade que você colocou de farelo, você vai colocar de farinha, você despeja junto, beleza? Aqui não tem muito segredo não galerinha, é pôr a mão na massa mesmo, um pouquinho de água mesmo ó, põe um golinho e vai mexendo, aí você vai mexendo com a mão mesmo,",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 34.1,
+      "text": "Aí aqui eu tenho farelo de arroz que você encontra na sua cidade aí e a farinha de trigo, pode ser qualquer marca tá galera, precisa a mais barata que você tiver aí, a farinha de trigo e o farelo de arroz, aqui ó, o óleo de piqui, é o que dá o cheiro, a cor na massa aí, o copo de farelo cheio tá, aí você despeja aqui ó no baldinho e agora você vai pegar o mesmo quantidade que você colocou de farelo,"
+    },
+    {
+      "start": 34.1,
+      "end": 59.56,
+      "text": "você vai colocar de farinha, você despeja junto, beleza? Aqui não tem muito segredo não galerinha, é pôr a mão na massa mesmo, um pouquinho de água mesmo ó, põe um golinho e vai mexendo, aí você vai mexendo com a mão mesmo,"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "E aí galera, o tamanho das brincadeirinhas aí, ó Ó, ó esse aqui, esse aqui, dois palmos de piau, tudo piau três pintas Piauzão três pintas aí, ó Só lespa aqui do viciado na pescaria",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "E aí galera, o tamanho das brincadeirinhas aí, ó"
+    },
+    {
+      "start": 2.98,
+      "end": 10.6,
+      "text": "Ó, ó esse aqui, esse aqui, dois palmos de piau, tudo piau três pintas"
+    },
+    {
+      "start": 10.6,
+      "end": 13.92,
+      "text": "Piauzão três pintas aí, ó"
+    },
+    {
+      "start": 13.92,
+      "end": 17.31,
+      "text": "Só lespa aqui do viciado na pescaria"
+    }
+  ],
+  "duracao_seg": 18.41,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Vou dar início hoje aí, ó, com a abaca pop, consagrada, né? Aí isso que é bom, se tiver peixe, dizem que só não vem se não tiver peixe.",
+  "segmentos": [
+    {
+      "start": 1.62,
+      "end": 5.88,
+      "text": "Vou dar início hoje aí, ó, com a abaca pop, consagrada, né?"
+    },
+    {
+      "start": 8.77,
+      "end": 12.83,
+      "text": "Aí isso que é bom, se tiver peixe, dizem que só não vem se não tiver peixe."
+    }
+  ],
+  "duracao_seg": 14.69,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Uma dica aqui para a dona de casa, ó, pegar água quente, joga em cima da tilápia para tirar esse lodo aqui e ela vai ficar clarinha. Aí você vem com a faca dentro da água quente e só faz isso aqui, ó, tá vendo? Tira tudo. Aí, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.86,
+      "text": "Uma dica aqui para a dona de casa, ó, pegar água quente, joga em cima da tilápia para tirar esse lodo aqui e ela vai ficar clarinha."
+    },
+    {
+      "start": 7.66,
+      "end": 14.0,
+      "text": "Aí você vem com a faca dentro da água quente e só faz isso aqui, ó, tá vendo? Tira tudo. Aí, ó."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

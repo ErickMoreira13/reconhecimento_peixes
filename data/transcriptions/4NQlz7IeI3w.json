@@ -1,0 +1,382 @@
+{
+  "texto": "Minha gente, um seguidor pediu pra eu tá fazendo uma massa Diz que é boa, velha, pacu E aí, menino, eu fiz a massa Uma massa de farelo de soja e banana E suco de maracujá Olha só o tamanho da bolota que eu fiz Isso aqui já tá, é duro Aí eu já fiz ontem umas bolotinhas adiantadas Aí elas deram uma firmada Aí eu vou colocar aqui nesses três munetes Vou armar aqui e vou dar uma saídinha Aí eu volto pra ver se vai ter algum pacu pendurado da vara, né? Bora lá Vou tá colocando uma primeiro Nesse munete tem uma chumbada um pouco mais leve Eita que tá dura Onde ela tava mais mole Vou jogar lá Esse daqui eu vou colocar aqui Esse daqui é o de multifilamento do meu bem Nossa, até que ela ficou firme no onzol, ó E ela é cheirosa Vou jogar no mesmo lugar Aí esse daqui vai ser o murnetão que eu ganho de seguidor Apesar que esse daqui também foi presente de seguidor Aqui, ó Vou colocar essa daqui que é a maior Aqui como tá com chumbão pesado a gente pode jogar pra cima Matou Vou colocar nesse daqui, minha gente Vamos dar um tempinho Mais uma hora, duas horas A gente volta pra ver se tem alguma coisa botada aqui Se tiver comida aí Acho que a gente volta e coloca mais de novo Porque tem bastante Ai, minha gente, cheguei aqui Timo O amor falou que aqui tem peixe Esse munete Bora ver se tem mesmo Ai, meu Deus Tem um peixe Ai, é um pacu Eu tô mal Deus do céu Pê não solta o bicho Aba que não solta o trem Esse daqui emborcado, deixa eu ver Não, esse daqui não tem nada não Vamos ver se comeu Não, esse daqui não comeu, gente Gente do céu Vamos ver se daqui Não, esse daqui comeu Ai, meu gente, ficou um Ai, minha gente, olha aqui Meu primeiro pacu do ano Grande Olha que lindo Cara, primeiro do ano Grande, né? Porque o outro que eu peguei era pequeno E olha que foi na massa, menina Ainda tem uma bolota lá, ó Tem uma bolota lá, minha gente, ó Da massa de soja Que o seguidor indicou Já armei três munetes Pôs no grão Munetão Com chumbão e um anzolzão Pegou esse pacu Eu não sei se dá medida, menina Mas a gente vai comer ele frito",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Minha gente, um seguidor pediu pra eu tá fazendo uma massa"
+    },
+    {
+      "start": 3.32,
+      "end": 4.9,
+      "text": "Diz que é boa, velha, pacu"
+    },
+    {
+      "start": 4.9,
+      "end": 6.48,
+      "text": "E aí, menino, eu fiz a massa"
+    },
+    {
+      "start": 6.48,
+      "end": 9.92,
+      "text": "Uma massa de farelo de soja e banana"
+    },
+    {
+      "start": 9.92,
+      "end": 11.28,
+      "text": "E suco de maracujá"
+    },
+    {
+      "start": 11.28,
+      "end": 12.64,
+      "text": "Olha só o tamanho da bolota que eu fiz"
+    },
+    {
+      "start": 12.64,
+      "end": 13.72,
+      "text": "Isso aqui já tá, é duro"
+    },
+    {
+      "start": 13.72,
+      "end": 17.48,
+      "text": "Aí eu já fiz ontem umas bolotinhas adiantadas"
+    },
+    {
+      "start": 17.48,
+      "end": 18.8,
+      "text": "Aí elas deram uma firmada"
+    },
+    {
+      "start": 18.8,
+      "end": 20.94,
+      "text": "Aí eu vou colocar aqui nesses três munetes"
+    },
+    {
+      "start": 20.94,
+      "end": 23.46,
+      "text": "Vou armar aqui e vou dar uma saídinha"
+    },
+    {
+      "start": 23.46,
+      "end": 26.38,
+      "text": "Aí eu volto pra ver se vai ter algum pacu pendurado da vara, né?"
+    },
+    {
+      "start": 26.44,
+      "end": 26.78,
+      "text": "Bora lá"
+    },
+    {
+      "start": 26.78,
+      "end": 28.02,
+      "text": "Vou tá colocando uma primeiro"
+    },
+    {
+      "start": 28.02,
+      "end": 29.94,
+      "text": "Nesse munete tem uma chumbada um pouco mais leve"
+    },
+    {
+      "start": 29.94,
+      "end": 31.47,
+      "text": "Eita que tá dura"
+    },
+    {
+      "start": 31.47,
+      "end": 32.75,
+      "text": "Onde ela tava mais mole"
+    },
+    {
+      "start": 32.75,
+      "end": 33.53,
+      "text": "Vou jogar lá"
+    },
+    {
+      "start": 33.53,
+      "end": 37.98,
+      "text": "Esse daqui eu vou colocar aqui"
+    },
+    {
+      "start": 37.98,
+      "end": 40.58,
+      "text": "Esse daqui é o de multifilamento do meu bem"
+    },
+    {
+      "start": 40.58,
+      "end": 42.6,
+      "text": "Nossa, até que ela ficou firme no onzol, ó"
+    },
+    {
+      "start": 42.6,
+      "end": 43.92,
+      "text": "E ela é cheirosa"
+    },
+    {
+      "start": 43.92,
+      "end": 45.96,
+      "text": "Vou jogar no mesmo lugar"
+    },
+    {
+      "start": 45.96,
+      "end": 49.82,
+      "text": "Aí esse daqui vai ser o murnetão que eu ganho de seguidor"
+    },
+    {
+      "start": 49.82,
+      "end": 52.06,
+      "text": "Apesar que esse daqui também foi presente de seguidor"
+    },
+    {
+      "start": 52.06,
+      "end": 52.7,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 52.7,
+      "end": 54.14,
+      "text": "Vou colocar essa daqui que é a maior"
+    },
+    {
+      "start": 54.14,
+      "end": 56.78,
+      "text": "Aqui como tá com chumbão pesado a gente pode jogar pra cima"
+    },
+    {
+      "start": 56.78,
+      "end": 61.06,
+      "text": "Matou"
+    },
+    {
+      "start": 61.06,
+      "end": 62.86,
+      "text": "Vou colocar nesse daqui, minha gente"
+    },
+    {
+      "start": 62.86,
+      "end": 64.56,
+      "text": "Vamos dar um tempinho"
+    },
+    {
+      "start": 64.56,
+      "end": 65.8,
+      "text": "Mais uma hora, duas horas"
+    },
+    {
+      "start": 65.8,
+      "end": 68.04,
+      "text": "A gente volta pra ver se tem alguma coisa botada aqui"
+    },
+    {
+      "start": 68.04,
+      "end": 69.02,
+      "text": "Se tiver comida aí"
+    },
+    {
+      "start": 69.02,
+      "end": 70.38,
+      "text": "Acho que a gente volta e coloca mais de novo"
+    },
+    {
+      "start": 70.38,
+      "end": 71.06,
+      "text": "Porque tem bastante"
+    },
+    {
+      "start": 71.06,
+      "end": 72.44,
+      "text": "Ai, minha gente, cheguei aqui"
+    },
+    {
+      "start": 72.44,
+      "end": 72.9,
+      "text": "Timo"
+    },
+    {
+      "start": 72.9,
+      "end": 74.68,
+      "text": "O amor falou que aqui tem peixe"
+    },
+    {
+      "start": 74.68,
+      "end": 75.24,
+      "text": "Esse munete"
+    },
+    {
+      "start": 75.24,
+      "end": 76.32,
+      "text": "Bora ver se tem mesmo"
+    },
+    {
+      "start": 76.32,
+      "end": 81.33,
+      "text": "Ai, meu Deus"
+    },
+    {
+      "start": 81.33,
+      "end": 82.71,
+      "text": "Tem um peixe"
+    },
+    {
+      "start": 82.71,
+      "end": 84.21,
+      "text": "Ai, é um pacu"
+    },
+    {
+      "start": 84.21,
+      "end": 93.58,
+      "text": "Eu tô mal"
+    },
+    {
+      "start": 93.58,
+      "end": 107.86,
+      "text": "Deus do céu"
+    },
+    {
+      "start": 107.86,
+      "end": 109.82,
+      "text": "Pê não solta o bicho"
+    },
+    {
+      "start": 109.82,
+      "end": 110.82,
+      "text": "Aba que não solta o trem"
+    },
+    {
+      "start": 110.82,
+      "end": 112.6,
+      "text": "Esse daqui emborcado, deixa eu ver"
+    },
+    {
+      "start": 112.6,
+      "end": 117.06,
+      "text": "Não, esse daqui não tem nada não"
+    },
+    {
+      "start": 117.06,
+      "end": 118.0,
+      "text": "Vamos ver se comeu"
+    },
+    {
+      "start": 118.0,
+      "end": 119.6,
+      "text": "Não, esse daqui não comeu, gente"
+    },
+    {
+      "start": 119.6,
+      "end": 122.22,
+      "text": "Gente do céu"
+    },
+    {
+      "start": 122.22,
+      "end": 123.12,
+      "text": "Vamos ver se daqui"
+    },
+    {
+      "start": 123.12,
+      "end": 125.5,
+      "text": "Não, esse daqui comeu"
+    },
+    {
+      "start": 125.5,
+      "end": 127.42,
+      "text": "Ai, meu gente, ficou um"
+    },
+    {
+      "start": 127.42,
+      "end": 129.52,
+      "text": "Ai, minha gente, olha aqui"
+    },
+    {
+      "start": 129.52,
+      "end": 131.58,
+      "text": "Meu primeiro pacu do ano"
+    },
+    {
+      "start": 131.58,
+      "end": 132.48,
+      "text": "Grande"
+    },
+    {
+      "start": 132.48,
+      "end": 133.48,
+      "text": "Olha que lindo"
+    },
+    {
+      "start": 133.48,
+      "end": 134.7,
+      "text": "Cara, primeiro do ano"
+    },
+    {
+      "start": 134.7,
+      "end": 135.28,
+      "text": "Grande, né?"
+    },
+    {
+      "start": 135.28,
+      "end": 136.4,
+      "text": "Porque o outro que eu peguei era pequeno"
+    },
+    {
+      "start": 136.4,
+      "end": 138.6,
+      "text": "E olha que foi na massa, menina"
+    },
+    {
+      "start": 138.6,
+      "end": 139.88,
+      "text": "Ainda tem uma bolota lá, ó"
+    },
+    {
+      "start": 139.88,
+      "end": 141.4,
+      "text": "Tem uma bolota lá, minha gente, ó"
+    },
+    {
+      "start": 141.4,
+      "end": 142.74,
+      "text": "Da massa de soja"
+    },
+    {
+      "start": 142.74,
+      "end": 144.26,
+      "text": "Que o seguidor indicou"
+    },
+    {
+      "start": 144.26,
+      "end": 145.34,
+      "text": "Já armei três munetes"
+    },
+    {
+      "start": 145.34,
+      "end": 145.96,
+      "text": "Pôs no grão"
+    },
+    {
+      "start": 145.96,
+      "end": 146.62,
+      "text": "Munetão"
+    },
+    {
+      "start": 146.62,
+      "end": 148.26,
+      "text": "Com chumbão e um anzolzão"
+    },
+    {
+      "start": 148.26,
+      "end": 149.14,
+      "text": "Pegou esse pacu"
+    },
+    {
+      "start": 149.14,
+      "end": 150.56,
+      "text": "Eu não sei se dá medida, menina"
+    },
+    {
+      "start": 150.56,
+      "end": 152.52,
+      "text": "Mas a gente vai comer ele frito"
+    }
+  ],
+  "duracao_seg": 152.75,
+  "idioma_detectado": "pt"
+}

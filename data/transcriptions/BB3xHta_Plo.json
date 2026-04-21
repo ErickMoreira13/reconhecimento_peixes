@@ -1,0 +1,22 @@
+{
+  "texto": "Quando tiram este peixe da água e abrem sua boca, imediatamente começam a sair muitos peixinhos. Na verdade, este é o peixe aroana, que depois de pôr os ovos os guarda na boca para protegê-los dos predadores. E quando os bebês nascem, simplesmente os deixa sair de lá.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.06,
+      "text": "Quando tiram este peixe da água e abrem sua boca, imediatamente começam a sair muitos peixinhos."
+    },
+    {
+      "start": 5.24,
+      "end": 10.84,
+      "text": "Na verdade, este é o peixe aroana, que depois de pôr os ovos os guarda na boca para protegê-los dos predadores."
+    },
+    {
+      "start": 11.06,
+      "end": 14.24,
+      "text": "E quando os bebês nascem, simplesmente os deixa sair de lá."
+    }
+  ],
+  "duracao_seg": 14.37,
+  "idioma_detectado": "pt"
+}

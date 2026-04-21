@@ -1,0 +1,52 @@
+{
+  "texto": "Galerinha, a tilapinha que agora entrou na massinha Eu pesco assim, ó Com a massinha, eu pesco dois nos ozinhos Uma na massinha e outra na ração Entendeu? O esquema que eu faço em todas as varas aqui é dessa forma Entendeu? Vamos pescar Bora pescar",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Galerinha, a tilapinha que agora entrou na massinha"
+    },
+    {
+      "start": 4.96,
+      "end": 6.82,
+      "text": "Eu pesco assim, ó"
+    },
+    {
+      "start": 6.82,
+      "end": 9.88,
+      "text": "Com a massinha, eu pesco dois nos ozinhos"
+    },
+    {
+      "start": 9.88,
+      "end": 13.59,
+      "text": "Uma na massinha e outra na ração"
+    },
+    {
+      "start": 13.59,
+      "end": 14.95,
+      "text": "Entendeu?"
+    },
+    {
+      "start": 16.12,
+      "end": 20.1,
+      "text": "O esquema que eu faço em todas as varas aqui é dessa forma"
+    },
+    {
+      "start": 20.1,
+      "end": 20.85,
+      "text": "Entendeu?"
+    },
+    {
+      "start": 21.41,
+      "end": 22.84,
+      "text": "Vamos pescar"
+    },
+    {
+      "start": 22.84,
+      "end": 23.64,
+      "text": "Bora pescar"
+    }
+  ],
+  "duracao_seg": 23.53,
+  "idioma_detectado": "pt"
+}

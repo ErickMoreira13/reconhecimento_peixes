@@ -1,0 +1,22 @@
+{
+  "texto": "Rapaziada, hoje eu vou tentar só com isca artificial, eu tô com essa daqui ó, essa daqui ela tem um giradorzinho popper, ela tem um giradorzinho atrás aqui ó, conforme a gente puxa, ela vem girando na água e fazendo bastante barulho, irrita bem a traíra",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.62,
+      "text": "Rapaziada, hoje eu vou tentar só com isca artificial, eu tô com essa daqui ó, essa daqui ela tem um giradorzinho"
+    },
+    {
+      "start": 7.62,
+      "end": 14.45,
+      "text": "popper, ela tem um giradorzinho atrás aqui ó, conforme a gente puxa, ela vem girando na água"
+    },
+    {
+      "start": 14.45,
+      "end": 18.84,
+      "text": "e fazendo bastante barulho, irrita bem a traíra"
+    }
+  ],
+  "duracao_seg": 19.03,
+  "idioma_detectado": "pt"
+}

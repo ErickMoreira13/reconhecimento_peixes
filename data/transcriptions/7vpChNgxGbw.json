@@ -1,0 +1,357 @@
+{
+  "texto": "Pessoal, estou aqui no rio Piracicaba e aqui ao meu lado está o Sr. Paulo. Tudo bem, Sr. Paulo? Tudo bem, graças a Deus. Prazer em me ver, meu parceiro. Olha, vou mostrar aqui primeiro o rio. Somos aqui no bairro Artemis, em Piracicaba. E o Sr. Paulo e o parceiro dele aqui, como o senhor chama? Flaércio. Flaércio. E aí estão pescando aqui e ele falou para mim que tem uma técnica aqui. Como que é, Sr. Paulo? Pescar na ração de coelho. Diretamente no azão. Então está aqui a ração. Está aqui a ração, vamos colocar então. Ensina o pessoal aí. É muito grande, tem que diminuir, olha. Vê esse tamanhinho aqui que fica bom para ele já morder o azão. Olha aqui. Agora coloco aqui, dá uma viradinha na física, pronto. Está aí. Encaixado aí. Só jogar lá. Só já pegou o quê? Já peguei piapara. Hoje só piapara. Desse jeito? Desse jeito. Não acredito. Olha lá. Então vou mostrar aqui como que ele encaixou aqui no vanzão. Não é fisgado, é encaixado. É encaixado. Olha lá, ele vai fazer o arremesso. Olha lá. Já está lançada a sorte. Agora o companheiro junto aí dá mais sorte. E para provar que o senhor está falando a verdade, o senhor vai pegar o peixe ali e mostrar para os curiosos lá da internet. Pega ali o saco de peixe ali. Olha lá. Ah, saco de peixe. Pensei que eu não fiz gato. Não, não, não. Vamos ficar aqui um pouquinho. Aqui as piaparinhas aí, olha lá. Aí, gente. Não é mentira. Não é causa de pescador, não. O homem já pegou duas, o senhor falou? Três. Três? Três. Então quer dizer, dá resultado, né? E agora o senhor pegou uma tartaruga aqui agora. É, ela se esgou, mas escapou sozinha. Então vamos mostrar o parceiro aqui dele. É o senhor João, né? Não, o Laércio. Do Laércio. O senhor João. Pera aí. Olha lá o São Paulo, então, esperando o peixe. Parabéns aí, o São Paulo, pela dica aí, viu? Então o quesol que é, que dá certo? O quesol é mostarda e número seis da Noruega, Norueguia. Ah lá, beleza. Cor de bronze, hein? Cor de bronze. Não é brilhante, é cor de bronze. Tá certo. Vamos mostrar as varas aqui. Olha que lugar bonito, gente. Aqui em Artemis, ó.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 5.98,
+      "text": "Pessoal, estou aqui no rio Piracicaba e aqui ao meu lado está o Sr. Paulo. Tudo bem, Sr. Paulo?"
+    },
+    {
+      "start": 6.26,
+      "end": 8.44,
+      "text": "Tudo bem, graças a Deus. Prazer em me ver, meu parceiro."
+    },
+    {
+      "start": 9.72,
+      "end": 12.18,
+      "text": "Olha, vou mostrar aqui primeiro o rio."
+    },
+    {
+      "start": 12.78,
+      "end": 16.58,
+      "text": "Somos aqui no bairro Artemis, em Piracicaba."
+    },
+    {
+      "start": 18.01,
+      "end": 20.63,
+      "text": "E o Sr. Paulo e o parceiro dele aqui, como o senhor chama?"
+    },
+    {
+      "start": 21.91,
+      "end": 22.31,
+      "text": "Flaércio."
+    },
+    {
+      "start": 22.77,
+      "end": 23.17,
+      "text": "Flaércio."
+    },
+    {
+      "start": 23.17,
+      "end": 29.04,
+      "text": "E aí estão pescando aqui e ele falou para mim que tem uma técnica aqui. Como que é, Sr. Paulo?"
+    },
+    {
+      "start": 29.26,
+      "end": 30.8,
+      "text": "Pescar na ração de coelho."
+    },
+    {
+      "start": 31.48,
+      "end": 32.5,
+      "text": "Diretamente no azão."
+    },
+    {
+      "start": 33.18,
+      "end": 34.6,
+      "text": "Então está aqui a ração."
+    },
+    {
+      "start": 34.62,
+      "end": 36.52,
+      "text": "Está aqui a ração, vamos colocar então."
+    },
+    {
+      "start": 36.54,
+      "end": 37.68,
+      "text": "Ensina o pessoal aí."
+    },
+    {
+      "start": 38.4,
+      "end": 40.18,
+      "text": "É muito grande, tem que diminuir, olha."
+    },
+    {
+      "start": 40.78,
+      "end": 43.8,
+      "text": "Vê esse tamanhinho aqui que fica bom para ele já morder o azão."
+    },
+    {
+      "start": 44.04,
+      "end": 44.32,
+      "text": "Olha aqui."
+    },
+    {
+      "start": 44.74,
+      "end": 48.8,
+      "text": "Agora coloco aqui, dá uma viradinha na física, pronto."
+    },
+    {
+      "start": 49.16,
+      "end": 49.54,
+      "text": "Está aí."
+    },
+    {
+      "start": 50.2,
+      "end": 50.9,
+      "text": "Encaixado aí."
+    },
+    {
+      "start": 50.9,
+      "end": 52.14,
+      "text": "Só jogar lá."
+    },
+    {
+      "start": 52.58,
+      "end": 53.72,
+      "text": "Só já pegou o quê?"
+    },
+    {
+      "start": 54.28,
+      "end": 55.9,
+      "text": "Já peguei piapara."
+    },
+    {
+      "start": 56.34,
+      "end": 57.28,
+      "text": "Hoje só piapara."
+    },
+    {
+      "start": 57.7,
+      "end": 58.62,
+      "text": "Desse jeito?"
+    },
+    {
+      "start": 59.06,
+      "end": 59.66,
+      "text": "Desse jeito."
+    },
+    {
+      "start": 60.8,
+      "end": 61.46,
+      "text": "Não acredito."
+    },
+    {
+      "start": 62.16,
+      "end": 62.44,
+      "text": "Olha lá."
+    },
+    {
+      "start": 62.82,
+      "end": 66.22,
+      "text": "Então vou mostrar aqui como que ele encaixou aqui no vanzão."
+    },
+    {
+      "start": 66.48,
+      "end": 67.92,
+      "text": "Não é fisgado, é encaixado."
+    },
+    {
+      "start": 67.94,
+      "end": 68.86,
+      "text": "É encaixado."
+    },
+    {
+      "start": 69.28,
+      "end": 70.78,
+      "text": "Olha lá, ele vai fazer o arremesso."
+    },
+    {
+      "start": 71.32,
+      "end": 72.16,
+      "text": "Olha lá."
+    },
+    {
+      "start": 73.56,
+      "end": 75.26,
+      "text": "Já está lançada a sorte."
+    },
+    {
+      "start": 75.42,
+      "end": 78.14,
+      "text": "Agora o companheiro junto aí dá mais sorte."
+    },
+    {
+      "start": 78.14,
+      "end": 83.82,
+      "text": "E para provar que o senhor está falando a verdade, o senhor vai pegar o peixe ali e mostrar para os curiosos lá da internet."
+    },
+    {
+      "start": 84.28,
+      "end": 85.82,
+      "text": "Pega ali o saco de peixe ali."
+    },
+    {
+      "start": 85.94,
+      "end": 86.1,
+      "text": "Olha lá."
+    },
+    {
+      "start": 86.1,
+      "end": 87.06,
+      "text": "Ah, saco de peixe."
+    },
+    {
+      "start": 87.14,
+      "end": 88.08,
+      "text": "Pensei que eu não fiz gato."
+    },
+    {
+      "start": 88.24,
+      "end": 89.1,
+      "text": "Não, não, não."
+    },
+    {
+      "start": 89.1,
+      "end": 89.96,
+      "text": "Vamos ficar aqui um pouquinho."
+    },
+    {
+      "start": 90.88,
+      "end": 92.74,
+      "text": "Aqui as piaparinhas aí, olha lá."
+    },
+    {
+      "start": 93.67,
+      "end": 94.17,
+      "text": "Aí, gente."
+    },
+    {
+      "start": 94.17,
+      "end": 95.77,
+      "text": "Não é mentira."
+    },
+    {
+      "start": 95.89,
+      "end": 98.65,
+      "text": "Não é causa de pescador, não."
+    },
+    {
+      "start": 99.09,
+      "end": 102.39,
+      "text": "O homem já pegou duas, o senhor falou?"
+    },
+    {
+      "start": 102.87,
+      "end": 103.17,
+      "text": "Três."
+    },
+    {
+      "start": 103.81,
+      "end": 104.25,
+      "text": "Três?"
+    },
+    {
+      "start": 104.71,
+      "end": 104.95,
+      "text": "Três."
+    },
+    {
+      "start": 105.21,
+      "end": 106.69,
+      "text": "Então quer dizer, dá resultado, né?"
+    },
+    {
+      "start": 106.75,
+      "end": 109.03,
+      "text": "E agora o senhor pegou uma tartaruga aqui agora."
+    },
+    {
+      "start": 109.03,
+      "end": 111.35,
+      "text": "É, ela se esgou, mas escapou sozinha."
+    },
+    {
+      "start": 113.13,
+      "end": 115.03,
+      "text": "Então vamos mostrar o parceiro aqui dele."
+    },
+    {
+      "start": 115.33,
+      "end": 116.03,
+      "text": "É o senhor João, né?"
+    },
+    {
+      "start": 116.47,
+      "end": 117.09,
+      "text": "Não, o Laércio."
+    },
+    {
+      "start": 117.11,
+      "end": 117.79,
+      "text": "Do Laércio."
+    },
+    {
+      "start": 117.83,
+      "end": 118.23,
+      "text": "O senhor João."
+    },
+    {
+      "start": 118.69,
+      "end": 118.93,
+      "text": "Pera aí."
+    },
+    {
+      "start": 119.93,
+      "end": 122.05,
+      "text": "Olha lá o São Paulo, então, esperando o peixe."
+    },
+    {
+      "start": 123.71,
+      "end": 126.09,
+      "text": "Parabéns aí, o São Paulo, pela dica aí, viu?"
+    },
+    {
+      "start": 127.8,
+      "end": 129.5,
+      "text": "Então o quesol que é, que dá certo?"
+    },
+    {
+      "start": 129.6,
+      "end": 132.98,
+      "text": "O quesol é mostarda e número seis da Noruega, Norueguia."
+    },
+    {
+      "start": 133.46,
+      "end": 134.7,
+      "text": "Ah lá, beleza."
+    },
+    {
+      "start": 134.72,
+      "end": 135.62,
+      "text": "Cor de bronze, hein?"
+    },
+    {
+      "start": 135.76,
+      "end": 136.72,
+      "text": "Cor de bronze."
+    },
+    {
+      "start": 136.88,
+      "end": 139.44,
+      "text": "Não é brilhante, é cor de bronze."
+    },
+    {
+      "start": 139.44,
+      "end": 140.16,
+      "text": "Tá certo."
+    },
+    {
+      "start": 140.24,
+      "end": 141.3,
+      "text": "Vamos mostrar as varas aqui."
+    },
+    {
+      "start": 143.33,
+      "end": 144.49,
+      "text": "Olha que lugar bonito, gente."
+    },
+    {
+      "start": 145.13,
+      "end": 146.17,
+      "text": "Aqui em Artemis, ó."
+    }
+  ],
+  "duracao_seg": 147.55,
+  "idioma_detectado": "pt"
+}

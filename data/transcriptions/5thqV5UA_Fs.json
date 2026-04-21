@@ -1,0 +1,37 @@
+{
+  "texto": "Aô, peixinho Olha o Três Pintas aí, galera Olha que pior bonito, galera É isso aí Vai pra vida, moleque Olha lá, ó",
+  "segmentos": [
+    {
+      "start": 3.28,
+      "end": 5.06,
+      "text": "Aô, peixinho"
+    },
+    {
+      "start": 5.06,
+      "end": 8.0,
+      "text": "Olha o Três Pintas aí, galera"
+    },
+    {
+      "start": 8.0,
+      "end": 9.78,
+      "text": "Olha que pior bonito, galera"
+    },
+    {
+      "start": 9.78,
+      "end": 10.92,
+      "text": "É isso aí"
+    },
+    {
+      "start": 10.92,
+      "end": 13.83,
+      "text": "Vai pra vida, moleque"
+    },
+    {
+      "start": 13.83,
+      "end": 14.37,
+      "text": "Olha lá, ó"
+    }
+  ],
+  "duracao_seg": 14.93,
+  "idioma_detectado": "pt"
+}

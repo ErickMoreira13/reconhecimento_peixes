@@ -1,0 +1,22 @@
+{
+  "texto": "Caramba, aqui dentro Ah, fuleiro Aqui dentro",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.41,
+      "text": "Caramba, aqui dentro"
+    },
+    {
+      "start": 8.41,
+      "end": 11.69,
+      "text": "Ah, fuleiro"
+    },
+    {
+      "start": 11.69,
+      "end": 14.19,
+      "text": "Aqui dentro"
+    }
+  ],
+  "duracao_seg": 15.33,
+  "idioma_detectado": "pt"
+}

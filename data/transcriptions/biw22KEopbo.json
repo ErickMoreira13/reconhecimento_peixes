@@ -1,0 +1,52 @@
+{
+  "texto": "Jesus amado caraca velho não vai apavorar não tem que ser na cabeça olha aqui pessoal que coisa linda que coisa linda vai embora que coisa linda",
+  "segmentos": [
+    {
+      "start": 3.22,
+      "end": 25.01,
+      "text": "Jesus amado"
+    },
+    {
+      "start": 25.01,
+      "end": 30.87,
+      "text": "caraca velho"
+    },
+    {
+      "start": 30.87,
+      "end": 35.16,
+      "text": "não vai apavorar não"
+    },
+    {
+      "start": 35.16,
+      "end": 40.44,
+      "text": "tem que ser na cabeça"
+    },
+    {
+      "start": 40.44,
+      "end": 50.75,
+      "text": "olha aqui pessoal"
+    },
+    {
+      "start": 50.75,
+      "end": 52.17,
+      "text": "que coisa linda"
+    },
+    {
+      "start": 52.17,
+      "end": 54.11,
+      "text": "que coisa linda"
+    },
+    {
+      "start": 54.11,
+      "end": 58.96,
+      "text": "vai embora"
+    },
+    {
+      "start": 58.96,
+      "end": 88.94,
+      "text": "que coisa linda"
+    }
+  ],
+  "duracao_seg": 59.51,
+  "idioma_detectado": "pt"
+}

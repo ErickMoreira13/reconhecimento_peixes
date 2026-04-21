@@ -1,0 +1,32 @@
+{
+  "texto": "Como é difícil a vida do pescador De noite ele mosca o assor Na agaiada da taboca E dia ele queima no sol Dando banho na minhoca",
+  "segmentos": [
+    {
+      "start": 1.58,
+      "end": 5.58,
+      "text": "Como é difícil a vida do pescador"
+    },
+    {
+      "start": 5.58,
+      "end": 8.5,
+      "text": "De noite ele mosca o assor"
+    },
+    {
+      "start": 8.5,
+      "end": 11.54,
+      "text": "Na agaiada da taboca"
+    },
+    {
+      "start": 11.54,
+      "end": 14.76,
+      "text": "E dia ele queima no sol"
+    },
+    {
+      "start": 14.76,
+      "end": 17.5,
+      "text": "Dando banho na minhoca"
+    }
+  ],
+  "duracao_seg": 18.05,
+  "idioma_detectado": "pt"
+}

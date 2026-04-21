@@ -1,0 +1,57 @@
+{
+  "texto": "cuidado não estourar a linha olha o tamanho essa é acho que ela engoliu lá agora ela alcançou, vem tirando dá vermelhona essa é a lapa da tilapa olha aí essa tá só no gogozinho",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 1.43,
+      "text": "cuidado não estourar a linha"
+    },
+    {
+      "start": 1.43,
+      "end": 7.43,
+      "text": "olha o tamanho"
+    },
+    {
+      "start": 7.43,
+      "end": 9.33,
+      "text": "essa é"
+    },
+    {
+      "start": 9.33,
+      "end": 18.98,
+      "text": "acho que ela engoliu lá"
+    },
+    {
+      "start": 18.98,
+      "end": 20.8,
+      "text": "agora ela alcançou, vem tirando"
+    },
+    {
+      "start": 20.8,
+      "end": 25.2,
+      "text": "dá vermelhona"
+    },
+    {
+      "start": 25.2,
+      "end": 33.38,
+      "text": "essa é a lapa da tilapa"
+    },
+    {
+      "start": 33.38,
+      "end": 42.02,
+      "text": "olha aí"
+    },
+    {
+      "start": 42.02,
+      "end": 44.82,
+      "text": "essa tá"
+    },
+    {
+      "start": 44.82,
+      "end": 48.59,
+      "text": "só no gogozinho"
+    }
+  ],
+  "duracao_seg": 55.89,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "A base alimentada é essa aqui ó, boiadeira de frutas, boiadeira de sete, saponete e mamãe. Aí aqui já tem o négda, tem a fruta, tem a proteína. Eu entendo que aqui na boiadeira de sete já tem frutas, frutas cristalizadas e frutas hidratadas. Mas eu prefiro o sete físico.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 11.44,
+      "text": "A base alimentada é essa aqui ó, boiadeira de frutas, boiadeira de sete, saponete e mamãe."
+    },
+    {
+      "start": 11.44,
+      "end": 17.15,
+      "text": "Aí aqui já tem o négda, tem a fruta, tem a proteína."
+    },
+    {
+      "start": 17.15,
+      "end": 24.65,
+      "text": "Eu entendo que aqui na boiadeira de sete já tem frutas, frutas cristalizadas e frutas hidratadas."
+    },
+    {
+      "start": 24.65,
+      "end": 26.65,
+      "text": "Mas eu prefiro o sete físico."
+    }
+  ],
+  "duracao_seg": 26.87,
+  "idioma_detectado": "pt"
+}

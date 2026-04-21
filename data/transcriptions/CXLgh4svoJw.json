@@ -1,0 +1,22 @@
+{
+  "texto": "Ó pessoal, encontramos o trairão aqui, eu vou jogar a hélice. Trabalho pra trairão na hélice é só recolhendo. Ela vem fazendo esse barulho aí na água, ó.",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 3.24,
+      "text": "Ó pessoal, encontramos o trairão aqui, eu vou jogar a hélice."
+    },
+    {
+      "start": 3.94,
+      "end": 7.54,
+      "text": "Trabalho pra trairão na hélice é só recolhendo."
+    },
+    {
+      "start": 8.0,
+      "end": 9.7,
+      "text": "Ela vem fazendo esse barulho aí na água, ó."
+    }
+  ],
+  "duracao_seg": 10.37,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Separar quase um metro, né? Vamos pegar, vamos enrolar uma, duas, três vezes, fazer como se fosse um nó cego. Salivar, salivou. E o que nós vamos fazer? Nesse nó aqui, a gente vai cortar uma das pernas. Aí vai ficar uma pernada mais curta e uma outra bem mais longa. Vai dar três iscas, cortar a parte traseira e pode iscar todas as partes aqui, beleza?",
+  "segmentos": [
+    {
+      "start": 3.31,
+      "end": 5.07,
+      "text": "Separar quase um metro, né?"
+    },
+    {
+      "start": 6.01,
+      "end": 22.56,
+      "text": "Vamos pegar, vamos enrolar uma, duas, três vezes, fazer como se fosse um nó cego."
+    },
+    {
+      "start": 23.14,
+      "end": 27.3,
+      "text": "Salivar, salivou."
+    },
+    {
+      "start": 28.02,
+      "end": 29.02,
+      "text": "E o que nós vamos fazer?"
+    },
+    {
+      "start": 29.7,
+      "end": 32.96,
+      "text": "Nesse nó aqui, a gente vai cortar uma das pernas."
+    },
+    {
+      "start": 33.54,
+      "end": 45.4,
+      "text": "Aí vai ficar uma pernada mais curta e uma outra bem mais longa."
+    },
+    {
+      "start": 45.4,
+      "end": 56.02,
+      "text": "Vai dar três iscas, cortar a parte traseira e pode iscar todas as partes aqui, beleza?"
+    }
+  ],
+  "duracao_seg": 56.85,
+  "idioma_detectado": "pt"
+}

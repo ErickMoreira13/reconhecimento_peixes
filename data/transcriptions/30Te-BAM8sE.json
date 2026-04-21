@@ -1,0 +1,27 @@
+{
+  "texto": "Opa! Tira, tira! Olha! A cachara não cresce que nem eu pintado, mas... gigante ela não é.",
+  "segmentos": [
+    {
+      "start": 5.1,
+      "end": 7.76,
+      "text": "Opa! Tira, tira!"
+    },
+    {
+      "start": 35.19,
+      "end": 35.39,
+      "text": "Olha!"
+    },
+    {
+      "start": 39.36,
+      "end": 42.28,
+      "text": "A cachara não cresce que nem eu pintado, mas..."
+    },
+    {
+      "start": 42.28,
+      "end": 43.34,
+      "text": "gigante ela não é."
+    }
+  ],
+  "duracao_seg": 56.03,
+  "idioma_detectado": "pt"
+}

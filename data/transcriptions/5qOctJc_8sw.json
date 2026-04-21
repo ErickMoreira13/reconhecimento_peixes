@@ -1,0 +1,77 @@
+{
+  "texto": "Fidalgo, esse acho que é o único peixe de couro que salta fora d'água. Opa! Tira, tira! O que é? Vem embora. Não adianta querer segurar, que não segura. Passou outro peixe do lado, filmou. Ele vê a claridade lá pro fundo. Esse é o peixe, caixara. Pintada da bacia do Plata, Rio Paraguai, Rio Paraná. Caixara da bacia amazônica. Pintado tem pinta. Caixara tem listra. Mas essa é valente pro tamanho dela, pequenininha assim, ignorante. Olha, caixara não cresce que nem o pintado, mas gigante ela não é.",
+  "segmentos": [
+    {
+      "start": 42.16,
+      "end": 55.67,
+      "text": "Fidalgo, esse acho que é o único peixe de couro que salta fora d'água."
+    },
+    {
+      "start": 82.84,
+      "end": 85.24,
+      "text": "Opa! Tira, tira!"
+    },
+    {
+      "start": 202.89,
+      "end": 203.25,
+      "text": "O que é?"
+    },
+    {
+      "start": 203.59,
+      "end": 232.72,
+      "text": "Vem embora."
+    },
+    {
+      "start": 248.75,
+      "end": 250.45,
+      "text": "Não adianta querer segurar, que não segura."
+    },
+    {
+      "start": 280.81,
+      "end": 283.26,
+      "text": "Passou outro peixe do lado, filmou."
+    },
+    {
+      "start": 305.38,
+      "end": 307.77,
+      "text": "Ele vê a claridade lá pro fundo."
+    },
+    {
+      "start": 340.42,
+      "end": 487.06,
+      "text": "Esse é o peixe, caixara."
+    },
+    {
+      "start": 490.52,
+      "end": 494.74,
+      "text": "Pintada da bacia do Plata, Rio Paraguai, Rio Paraná."
+    },
+    {
+      "start": 498.67,
+      "end": 500.25,
+      "text": "Caixara da bacia amazônica."
+    },
+    {
+      "start": 502.17,
+      "end": 503.53,
+      "text": "Pintado tem pinta."
+    },
+    {
+      "start": 503.53,
+      "end": 505.37,
+      "text": "Caixara tem listra."
+    },
+    {
+      "start": 505.79,
+      "end": 524.59,
+      "text": "Mas essa é valente pro tamanho dela, pequenininha assim, ignorante."
+    },
+    {
+      "start": 550.22,
+      "end": 558.34,
+      "text": "Olha, caixara não cresce que nem o pintado, mas gigante ela não é."
+    }
+  ],
+  "duracao_seg": 572.77,
+  "idioma_detectado": "pt"
+}

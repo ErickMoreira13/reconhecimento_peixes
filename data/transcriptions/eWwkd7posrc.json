@@ -1,0 +1,72 @@
+{
+  "texto": "Aí a gente tá aqui no Paraiso Verde, tá pescando aqui no Paredão, certo? Então a gente tá fazendo um remesso um pouco longe. Então, ó, tô usando a carretilha Vesa, branquinha. Uma carretilha extremamente pequena e muito leve, cabe bastante linha. Tô usando aqui a linha Super High Long, 033, certo? Porque o peixe aqui é muito manhoso. Tô usando a varilubina, 25 libras, certo? Tô usando aqui, ó. Só se encheu junto antes. Coloco o EVAzinho no meio, certo? E ó, só se encheu. Vou dar uma remessa lá pra vocês. Vem, meu amor, vou pegar o peixe.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 3.73,
+      "text": "Aí a gente tá aqui no Paraiso Verde, tá pescando aqui no Paredão, certo?"
+    },
+    {
+      "start": 3.79,
+      "end": 5.27,
+      "text": "Então a gente tá fazendo um remesso um pouco longe."
+    },
+    {
+      "start": 6.01,
+      "end": 8.09,
+      "text": "Então, ó, tô usando a carretilha Vesa, branquinha."
+    },
+    {
+      "start": 8.63,
+      "end": 12.85,
+      "text": "Uma carretilha extremamente pequena e muito leve, cabe bastante linha."
+    },
+    {
+      "start": 13.31,
+      "end": 17.05,
+      "text": "Tô usando aqui a linha Super High Long, 033, certo?"
+    },
+    {
+      "start": 17.09,
+      "end": 18.25,
+      "text": "Porque o peixe aqui é muito manhoso."
+    },
+    {
+      "start": 18.75,
+      "end": 21.17,
+      "text": "Tô usando a varilubina, 25 libras, certo?"
+    },
+    {
+      "start": 21.25,
+      "end": 21.91,
+      "text": "Tô usando aqui, ó."
+    },
+    {
+      "start": 22.43,
+      "end": 23.37,
+      "text": "Só se encheu junto antes."
+    },
+    {
+      "start": 23.47,
+      "end": 27.0,
+      "text": "Coloco o EVAzinho no meio, certo?"
+    },
+    {
+      "start": 27.0,
+      "end": 28.24,
+      "text": "E ó, só se encheu."
+    },
+    {
+      "start": 28.3,
+      "end": 29.34,
+      "text": "Vou dar uma remessa lá pra vocês."
+    },
+    {
+      "start": 29.34,
+      "end": 41.26,
+      "text": "Vem, meu amor, vou pegar o peixe."
+    }
+  ],
+  "duracao_seg": 46.65,
+  "idioma_detectado": "pt"
+}

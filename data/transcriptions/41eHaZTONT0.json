@@ -1,0 +1,57 @@
+{
+  "texto": "Meu Deus, olha o que eu encontrei aqui. Esse é o peixe pedra. Esse peixe aqui é uma alta periculosidade. Olha só, parece uma pedra mesmo, né? E quem pisa nesse peixe... Olha só a água do mar aqui, ó. Nossa Senhora, tá até tremendo aqui, ó. Quem pisa nesse peixe pode ter graves consequências. Então tem que tomar muito cuidado. Não!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "Meu Deus, olha o que eu encontrei aqui."
+    },
+    {
+      "start": 2.32,
+      "end": 3.5,
+      "text": "Esse é o peixe pedra."
+    },
+    {
+      "start": 4.2,
+      "end": 7.32,
+      "text": "Esse peixe aqui é uma alta periculosidade."
+    },
+    {
+      "start": 7.42,
+      "end": 8.8,
+      "text": "Olha só, parece uma pedra mesmo, né?"
+    },
+    {
+      "start": 9.34,
+      "end": 10.96,
+      "text": "E quem pisa nesse peixe..."
+    },
+    {
+      "start": 10.96,
+      "end": 12.04,
+      "text": "Olha só a água do mar aqui, ó."
+    },
+    {
+      "start": 12.44,
+      "end": 13.58,
+      "text": "Nossa Senhora, tá até tremendo aqui, ó."
+    },
+    {
+      "start": 13.86,
+      "end": 16.34,
+      "text": "Quem pisa nesse peixe pode ter graves consequências."
+    },
+    {
+      "start": 16.96,
+      "end": 17.96,
+      "text": "Então tem que tomar muito cuidado."
+    },
+    {
+      "start": 18.08,
+      "end": 18.26,
+      "text": "Não!"
+    }
+  ],
+  "duracao_seg": 18.37,
+  "idioma_detectado": "pt"
+}

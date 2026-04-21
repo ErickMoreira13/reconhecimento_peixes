@@ -1,0 +1,17 @@
+{
+  "texto": "Eu achei uma minhoquinha artificial na bolsa do meu filho, risquei, vamos ver? Minhoca artificial, aê!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.93,
+      "text": "Eu achei uma minhoquinha artificial na bolsa do meu filho, risquei, vamos ver?"
+    },
+    {
+      "start": 8.51,
+      "end": 15.88,
+      "text": "Minhoca artificial, aê!"
+    }
+  ],
+  "duracao_seg": 19.41,
+  "idioma_detectado": "pt"
+}

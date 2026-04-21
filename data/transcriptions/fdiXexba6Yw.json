@@ -1,0 +1,17 @@
+{
+  "texto": "Aí rapaziada, ó, pesca de estilingue aqui no canal com o meu amigo Jorge aí, ó, ó, os peixes lá, ó, pegou? Aí, aí, aí, é brincadeira não, hein, vou comprar.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 36.51,
+      "text": "Aí rapaziada, ó, pesca de estilingue aqui no canal com o meu amigo Jorge aí, ó, ó, os peixes lá, ó, pegou?"
+    },
+    {
+      "start": 37.82,
+      "end": 48.82,
+      "text": "Aí, aí, aí, é brincadeira não, hein, vou comprar."
+    }
+  ],
+  "duracao_seg": 53.33,
+  "idioma_detectado": "pt"
+}

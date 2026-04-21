@@ -1,0 +1,32 @@
+{
+  "texto": "A pescaria deu boa, né? Olha o tanto de cachara que tem aí do lado. E o pescador tá dando peixe pro jacaré. Coisa boa é fartura. E não é qualquer peixe não, é um bico de pássaro.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 1.82,
+      "text": "A pescaria deu boa, né?"
+    },
+    {
+      "start": 2.42,
+      "end": 5.4,
+      "text": "Olha o tanto de cachara que tem aí do lado."
+    },
+    {
+      "start": 6.34,
+      "end": 9.18,
+      "text": "E o pescador tá dando peixe pro jacaré."
+    },
+    {
+      "start": 10.02,
+      "end": 11.56,
+      "text": "Coisa boa é fartura."
+    },
+    {
+      "start": 11.6,
+      "end": 13.66,
+      "text": "E não é qualquer peixe não, é um bico de pássaro."
+    }
+  ],
+  "duracao_seg": 14.19,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,97 @@
+{
+  "texto": "E aí pessoal, beleza? Essa daqui é uma massinha Feita com ração de coelho Peguei a ração de coelho Coloquei ela naquele balde ali E deixei ela úmida Deixei ela por 4 dias Úmida Aí ela ficou com um cheiro forte Cheirou bem forte Aí hoje Eu misturei um pouco de trigo E um pouco de leite condensado Pra ela ficar com essa Ficou boa Ficou no tipo pra pesca Isso aí é uma boa dica Uma massinha ótima pra pesca",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 1.71,
+      "text": "E aí pessoal, beleza?"
+    },
+    {
+      "start": 2.72,
+      "end": 3.94,
+      "text": "Essa daqui é uma massinha"
+    },
+    {
+      "start": 3.94,
+      "end": 7.01,
+      "text": "Feita com ração de coelho"
+    },
+    {
+      "start": 7.01,
+      "end": 9.77,
+      "text": "Peguei a ração de coelho"
+    },
+    {
+      "start": 9.77,
+      "end": 13.33,
+      "text": "Coloquei ela naquele balde ali"
+    },
+    {
+      "start": 13.33,
+      "end": 15.67,
+      "text": "E deixei ela úmida"
+    },
+    {
+      "start": 15.67,
+      "end": 17.55,
+      "text": "Deixei ela por 4 dias"
+    },
+    {
+      "start": 17.55,
+      "end": 18.39,
+      "text": "Úmida"
+    },
+    {
+      "start": 18.39,
+      "end": 21.47,
+      "text": "Aí ela ficou com um cheiro forte"
+    },
+    {
+      "start": 21.47,
+      "end": 23.11,
+      "text": "Cheirou bem forte"
+    },
+    {
+      "start": 23.11,
+      "end": 24.66,
+      "text": "Aí hoje"
+    },
+    {
+      "start": 24.66,
+      "end": 27.48,
+      "text": "Eu misturei um pouco de trigo"
+    },
+    {
+      "start": 27.48,
+      "end": 29.86,
+      "text": "E um pouco de leite condensado"
+    },
+    {
+      "start": 29.86,
+      "end": 31.36,
+      "text": "Pra ela ficar com essa"
+    },
+    {
+      "start": 31.36,
+      "end": 36.49,
+      "text": "Ficou boa"
+    },
+    {
+      "start": 36.49,
+      "end": 40.43,
+      "text": "Ficou no tipo pra pesca"
+    },
+    {
+      "start": 40.43,
+      "end": 42.57,
+      "text": "Isso aí é uma boa dica"
+    },
+    {
+      "start": 42.57,
+      "end": 44.41,
+      "text": "Uma massinha ótima pra pesca"
+    }
+  ],
+  "duracao_seg": 46.51,
+  "idioma_detectado": "pt"
+}

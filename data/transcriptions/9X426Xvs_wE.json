@@ -1,0 +1,17 @@
+{
+  "texto": "Já vê o peixe, já vê o peixe, olha a peixe aí, já vê o peixe. Já? Já não, entende.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.36,
+      "text": "Já vê o peixe, já vê o peixe, olha a peixe aí, já vê o peixe."
+    },
+    {
+      "start": 7.72,
+      "end": 9.56,
+      "text": "Já? Já não, entende."
+    }
+  ],
+  "duracao_seg": 10.33,
+  "idioma_detectado": "pt"
+}

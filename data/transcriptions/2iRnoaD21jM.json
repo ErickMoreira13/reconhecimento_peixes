@@ -1,0 +1,27 @@
+{
+  "texto": "O que é daí? O que é daí? O que é daí? O que é daí?",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 3.07,
+      "text": "O que é daí?"
+    },
+    {
+      "start": 3.07,
+      "end": 5.62,
+      "text": "O que é daí?"
+    },
+    {
+      "start": 5.62,
+      "end": 14.5,
+      "text": "O que é daí?"
+    },
+    {
+      "start": 14.5,
+      "end": 16.5,
+      "text": "O que é daí?"
+    }
+  ],
+  "duracao_seg": 16.63,
+  "idioma_detectado": "pt"
+}

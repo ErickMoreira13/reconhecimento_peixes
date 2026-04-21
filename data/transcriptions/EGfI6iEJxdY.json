@@ -1,0 +1,22 @@
+{
+  "texto": "Refúgio de água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua Meu rancho fica na beira de cá escuto",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 4.66,
+      "text": "Refúgio de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 4.66,
+      "end": 9.52,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 9.52,
+      "end": 14.34,
+      "text": "Meu rancho fica na beira de cá escuto"
+    }
+  ],
+  "duracao_seg": 14.37,
+  "idioma_detectado": "pt"
+}

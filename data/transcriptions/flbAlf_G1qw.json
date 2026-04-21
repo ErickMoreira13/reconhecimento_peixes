@@ -1,0 +1,17 @@
+{
+  "texto": "é grande é o do boné virado olha aqui olha aqui mano olha o tamanho o bichão bruto",
+  "segmentos": [
+    {
+      "start": 4.08,
+      "end": 25.18,
+      "text": "é grande é o do boné virado"
+    },
+    {
+      "start": 25.18,
+      "end": 42.96,
+      "text": "olha aqui olha aqui mano olha o tamanho o bichão bruto"
+    }
+  ],
+  "duracao_seg": 43.01,
+  "idioma_detectado": "pt"
+}

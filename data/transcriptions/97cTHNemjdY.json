@@ -1,0 +1,17 @@
+{
+  "texto": "Eu joguei, eu joguei ela ali em cima ali e peguei, isquei uns peixes três vezes, né? Aí agora eu estou nessa região aqui nesse lado aqui, vou jogar aqui, vou testar ela para você ver com que ela é, ó.",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 9.66,
+      "text": "Eu joguei, eu joguei ela ali em cima ali e peguei, isquei uns peixes três vezes, né?"
+    },
+    {
+      "start": 10.12,
+      "end": 14.76,
+      "text": "Aí agora eu estou nessa região aqui nesse lado aqui, vou jogar aqui, vou testar ela para você ver com que ela é, ó."
+    }
+  ],
+  "duracao_seg": 15.31,
+  "idioma_detectado": "pt"
+}

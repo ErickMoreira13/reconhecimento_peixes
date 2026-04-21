@@ -1,0 +1,22 @@
+{
+  "texto": "Rapaz, só me lembrar que hoje ainda é quinta-feira E vi uma bicha dessa, tu é doido Olha o tamanho",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 4.47,
+      "text": "Rapaz, só me lembrar que hoje ainda é quinta-feira"
+    },
+    {
+      "start": 4.47,
+      "end": 11.73,
+      "text": "E vi uma bicha dessa, tu é doido"
+    },
+    {
+      "start": 11.73,
+      "end": 13.4,
+      "text": "Olha o tamanho"
+    }
+  ],
+  "duracao_seg": 15.81,
+  "idioma_detectado": "pt"
+}
