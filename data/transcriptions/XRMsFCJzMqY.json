@@ -1,0 +1,22 @@
+{
+  "texto": "É de laça! É de laça! É de laça! É de laça!",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 2.37,
+      "text": "É de laça! É de laça!"
+    },
+    {
+      "start": 2.37,
+      "end": 4.37,
+      "text": "É de laça!"
+    },
+    {
+      "start": 4.37,
+      "end": 6.46,
+      "text": "É de laça!"
+    }
+  ],
+  "duracao_seg": 15.73,
+  "idioma_detectado": "pt"
+}

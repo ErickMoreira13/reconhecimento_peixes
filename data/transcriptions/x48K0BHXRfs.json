@@ -1,0 +1,17 @@
+{
+  "texto": "Que cucuruta, hein? Monstro!",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 1.4,
+      "text": "Que cucuruta, hein?"
+    },
+    {
+      "start": 9.0,
+      "end": 9.6,
+      "text": "Monstro!"
+    }
+  ],
+  "duracao_seg": 11.53,
+  "idioma_detectado": "pt"
+}

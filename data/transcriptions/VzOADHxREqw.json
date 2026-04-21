@@ -1,0 +1,22 @@
+{
+  "texto": "é peixe um peixe que eu não sei o que que é não mas é peixe e forte e forte e amandir é mandir não é um bague rapaz é um bague olha aqui rapaz rapaz rapaz é um bague é um bague comum olha aqui eu ia tirar a linha parece que não tinha nada",
+  "segmentos": [
+    {
+      "start": 5.52,
+      "end": 13.3,
+      "text": "é peixe um peixe que eu não sei o que que é não mas é peixe e forte e forte e amandir"
+    },
+    {
+      "start": 13.3,
+      "end": 34.79,
+      "text": "é mandir não é um bague rapaz é um bague olha aqui rapaz"
+    },
+    {
+      "start": 34.79,
+      "end": 59.1,
+      "text": "rapaz rapaz é um bague é um bague comum olha aqui eu ia tirar a linha parece que não tinha nada"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

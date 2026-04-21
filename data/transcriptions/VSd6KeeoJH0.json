@@ -1,0 +1,27 @@
+{
+  "texto": "meu amigo? Tu viu? Ai, mas não era só um não, filho. Tinha um monte aí. Bateu com vontade. Lindo, olha. Vira de tupuna. Olha aí o galão dele. Teve esse cara que burrou aqui, ó.",
+  "segmentos": [
+    {
+      "start": 164.56,
+      "end": 172.7,
+      "text": "meu amigo? Tu viu? Ai, mas não era só um não, filho. Tinha um monte aí."
+    },
+    {
+      "start": 173.2,
+      "end": 286.12,
+      "text": "Bateu com vontade. Lindo, olha."
+    },
+    {
+      "start": 288.06,
+      "end": 301.04,
+      "text": "Vira de tupuna. Olha aí o galão dele."
+    },
+    {
+      "start": 301.48,
+      "end": 310.1,
+      "text": "Teve esse cara que burrou aqui, ó."
+    }
+  ],
+  "duracao_seg": 352.57,
+  "idioma_detectado": "pt"
+}

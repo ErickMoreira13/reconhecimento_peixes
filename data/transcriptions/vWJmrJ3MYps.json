@@ -1,0 +1,27 @@
+{
+  "texto": "A soltura da fêmea Cuidado os dedos na boca dela Pega no rabo Fique marquendo aqui o caralho",
+  "segmentos": [
+    {
+      "start": 3.63,
+      "end": 5.11,
+      "text": "A soltura da fêmea"
+    },
+    {
+      "start": 5.11,
+      "end": 7.07,
+      "text": "Cuidado os dedos na boca dela"
+    },
+    {
+      "start": 7.07,
+      "end": 8.11,
+      "text": "Pega no rabo"
+    },
+    {
+      "start": 8.11,
+      "end": 19.92,
+      "text": "Fique marquendo aqui o caralho"
+    }
+  ],
+  "duracao_seg": 19.97,
+  "idioma_detectado": "pt"
+}

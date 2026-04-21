@@ -1,0 +1,17 @@
+{
+  "texto": "Este é um dos momentos mais estresantes que pode passar na pesca quando você vê um bom peço e o arpão tem seguro, e quando você tenta disparar, não sai a varia, algo muito estresante. Alguma vez te ha passado? Deja um comentário.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 8.93,
+      "text": "Este é um dos momentos mais estresantes que pode passar na pesca quando você vê um bom peço e o arpão tem seguro, e quando você tenta disparar, não sai a varia, algo muito estresante."
+    },
+    {
+      "start": 8.93,
+      "end": 11.43,
+      "text": "Alguma vez te ha passado? Deja um comentário."
+    }
+  ],
+  "duracao_seg": 12.27,
+  "idioma_detectado": "pt"
+}

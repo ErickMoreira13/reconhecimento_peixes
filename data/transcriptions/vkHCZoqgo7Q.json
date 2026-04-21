@@ -1,0 +1,27 @@
+{
+  "texto": "O que é louco, irmão? Agora a gente tá ao vivo aqui nesse toque Você é louco, mano Oh, meu Deus, muito obrigado",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "O que é louco, irmão?"
+    },
+    {
+      "start": 3.1,
+      "end": 5.34,
+      "text": "Agora a gente tá ao vivo aqui nesse toque"
+    },
+    {
+      "start": 5.34,
+      "end": 8.26,
+      "text": "Você é louco, mano"
+    },
+    {
+      "start": 8.26,
+      "end": 9.64,
+      "text": "Oh, meu Deus, muito obrigado"
+    }
+  ],
+  "duracao_seg": 11.87,
+  "idioma_detectado": "pt"
+}

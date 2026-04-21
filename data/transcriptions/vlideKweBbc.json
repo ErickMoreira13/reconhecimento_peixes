@@ -1,0 +1,27 @@
+{
+  "texto": "e meu deus do céu olha a velocidade do caiaque olha a velocidade do caiaque gente deixa eu chegar ali eu ficar por aqui nossa senhora tá maluco garoto vem para cima vem para lá não nossa senhora que é isso não eu mato não para lá não para lá não para lá não tá aqui tá aqui tá aqui ela vai sair olha aí aí é assim baixa um pouquinho nossa eu também tô todo lapado vai embora",
+  "segmentos": [
+    {
+      "start": 2.42,
+      "end": 12.72,
+      "text": "e meu deus do céu olha a velocidade do caiaque olha a velocidade do caiaque gente deixa eu"
+    },
+    {
+      "start": 12.72,
+      "end": 26.72,
+      "text": "chegar ali eu ficar por aqui nossa senhora tá maluco garoto vem para cima vem para lá não"
+    },
+    {
+      "start": 26.72,
+      "end": 46.76,
+      "text": "nossa senhora que é isso não eu mato não para lá não para lá não para lá não tá aqui tá aqui tá aqui ela vai sair"
+    },
+    {
+      "start": 46.76,
+      "end": 57.68,
+      "text": "olha aí aí é assim baixa um pouquinho nossa eu também tô todo lapado vai embora"
+    }
+  ],
+  "duracao_seg": 57.45,
+  "idioma_detectado": "pt"
+}
