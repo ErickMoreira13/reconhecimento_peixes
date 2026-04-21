@@ -1,0 +1,17 @@
+{
+  "texto": "Aí galerite, pescador vida mansa, pescaria de tilapia, sisteminha com os automáticos. É mais galera, vamos pegar mais.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 5.14,
+      "text": "Aí galerite, pescador vida mansa, pescaria de tilapia, sisteminha com os automáticos."
+    },
+    {
+      "start": 6.43,
+      "end": 7.73,
+      "text": "É mais galera, vamos pegar mais."
+    }
+  ],
+  "duracao_seg": 9.97,
+  "idioma_detectado": "pt"
+}

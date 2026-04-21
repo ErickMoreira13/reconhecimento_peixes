@@ -1,0 +1,32 @@
+{
+  "texto": "Pessoal, dá uma olhada ó, vocês querem isca de qualidade, tu vira boa, ó, um churrasquinho na beira do rio e um peixe desse tamanho, é isso do que é isca viva, já viu barbola desse tamanho? Parece uma piraíba moço, e ó, é o Tiagão viu Juninho, você fala que o Tiago não pega nada, olha aqui Juninho ó, olha, acertador Juninho!",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 7.62,
+      "text": "Pessoal, dá uma olhada ó, vocês querem isca de qualidade, tu vira boa, ó, um churrasquinho"
+    },
+    {
+      "start": 7.62,
+      "end": 12.68,
+      "text": "na beira do rio e um peixe desse tamanho, é isso do que é isca viva, já viu barbola"
+    },
+    {
+      "start": 12.68,
+      "end": 13.32,
+      "text": "desse tamanho?"
+    },
+    {
+      "start": 13.8,
+      "end": 19.32,
+      "text": "Parece uma piraíba moço, e ó, é o Tiagão viu Juninho, você fala que o Tiago não pega"
+    },
+    {
+      "start": 19.32,
+      "end": 24.6,
+      "text": "nada, olha aqui Juninho ó, olha, acertador Juninho!"
+    }
+  ],
+  "duracao_seg": 27.05,
+  "idioma_detectado": "pt"
+}

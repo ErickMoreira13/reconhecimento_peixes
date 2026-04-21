@@ -1,0 +1,47 @@
+{
+  "texto": "Bota aí pra frente daquelas ali. Valeu! Coitado do bagulzinho. Essa é a carga, galera. Eu vou indo, ó. E eu preciso que... Ela vai pra rir. Não vai, não vai.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Bota aí pra frente daquelas ali."
+    },
+    {
+      "start": 5.41,
+      "end": 5.97,
+      "text": "Valeu!"
+    },
+    {
+      "start": 6.11,
+      "end": 7.49,
+      "text": "Coitado do bagulzinho."
+    },
+    {
+      "start": 8.41,
+      "end": 9.97,
+      "text": "Essa é a carga, galera."
+    },
+    {
+      "start": 10.01,
+      "end": 10.73,
+      "text": "Eu vou indo, ó."
+    },
+    {
+      "start": 11.73,
+      "end": 13.59,
+      "text": "E eu preciso que..."
+    },
+    {
+      "start": 13.59,
+      "end": 14.23,
+      "text": "Ela vai pra rir."
+    },
+    {
+      "start": 14.57,
+      "end": 14.99,
+      "text": "Não vai, não vai."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Seguem! Esse é pego no lambari? No lambari? É sério!",
+  "segmentos": [
+    {
+      "start": 2.45,
+      "end": 4.45,
+      "text": "Seguem!"
+    },
+    {
+      "start": 4.45,
+      "end": 9.65,
+      "text": "Esse é pego no lambari?"
+    },
+    {
+      "start": 9.65,
+      "end": 12.35,
+      "text": "No lambari?"
+    },
+    {
+      "start": 12.35,
+      "end": 14.35,
+      "text": "É sério!"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

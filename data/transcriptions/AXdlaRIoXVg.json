@@ -1,0 +1,17 @@
+{
+  "texto": "Foi às quatro horas da manhã, meu cachorro de guarda latiu Levantei para ver o que é, meu casaco de friki cheiro",
+  "segmentos": [
+    {
+      "start": 6.7,
+      "end": 12.38,
+      "text": "Foi às quatro horas da manhã, meu cachorro de guarda latiu"
+    },
+    {
+      "start": 12.38,
+      "end": 20.51,
+      "text": "Levantei para ver o que é, meu casaco de friki cheiro"
+    }
+  ],
+  "duracao_seg": 20.51,
+  "idioma_detectado": "pt"
+}

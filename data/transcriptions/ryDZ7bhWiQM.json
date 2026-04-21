@@ -1,0 +1,122 @@
+{
+  "texto": "Opa! Subindo pra cima É o perigo mesmo Vai caber Olha o tamanho Trazendo pra cá devagar Olha o tamanho Você vai pegar na mão? Isso é grande Não precisa trazer coador grande Pode pôr sua coador na cabeça Não cabe, sei lá A cabeça tem medo de puxar a linha Agora vai cansar Coador, não vai caber Não vai caber Não tem cabeça mesmo por dentro Ah, ele não mata pra trás Esse é grande meu Vem Eu aparei aqui Desceu uma vez, voltou outra vez Uma vez, voltou outra vez",
+  "segmentos": [
+    {
+      "start": 2.96,
+      "end": 4.96,
+      "text": "Opa!"
+    },
+    {
+      "start": 4.96,
+      "end": 35.95,
+      "text": "Subindo pra cima"
+    },
+    {
+      "start": 35.95,
+      "end": 54.53,
+      "text": "É o perigo mesmo"
+    },
+    {
+      "start": 54.53,
+      "end": 79.34,
+      "text": "Vai caber"
+    },
+    {
+      "start": 79.34,
+      "end": 95.14,
+      "text": "Olha o tamanho"
+    },
+    {
+      "start": 95.14,
+      "end": 99.09,
+      "text": "Trazendo pra cá devagar"
+    },
+    {
+      "start": 99.09,
+      "end": 103.62,
+      "text": "Olha o tamanho"
+    },
+    {
+      "start": 103.62,
+      "end": 111.73,
+      "text": "Você vai pegar na mão?"
+    },
+    {
+      "start": 111.73,
+      "end": 129.5,
+      "text": "Isso é grande"
+    },
+    {
+      "start": 129.5,
+      "end": 131.5,
+      "text": "Não precisa trazer coador grande"
+    },
+    {
+      "start": 139.54,
+      "end": 141.54,
+      "text": "Pode pôr sua coador na cabeça"
+    },
+    {
+      "start": 141.54,
+      "end": 143.54,
+      "text": "Não cabe, sei lá"
+    },
+    {
+      "start": 143.54,
+      "end": 146.94,
+      "text": "A cabeça tem medo de puxar a linha"
+    },
+    {
+      "start": 178.93,
+      "end": 221.92,
+      "text": "Agora vai cansar"
+    },
+    {
+      "start": 221.92,
+      "end": 223.92,
+      "text": "Coador, não vai caber"
+    },
+    {
+      "start": 223.92,
+      "end": 225.92,
+      "text": "Não vai caber"
+    },
+    {
+      "start": 227.92,
+      "end": 232.06,
+      "text": "Não tem cabeça mesmo por dentro"
+    },
+    {
+      "start": 232.06,
+      "end": 234.06,
+      "text": "Ah, ele não mata pra trás"
+    },
+    {
+      "start": 255.17,
+      "end": 258.16,
+      "text": "Esse é grande meu"
+    },
+    {
+      "start": 258.16,
+      "end": 266.4,
+      "text": "Vem"
+    },
+    {
+      "start": 266.4,
+      "end": 268.4,
+      "text": "Eu aparei aqui"
+    },
+    {
+      "start": 268.4,
+      "end": 270.4,
+      "text": "Desceu uma vez, voltou outra vez"
+    },
+    {
+      "start": 270.4,
+      "end": 272.4,
+      "text": "Uma vez, voltou outra vez"
+    }
+  ],
+  "duracao_seg": 272.91,
+  "idioma_detectado": "pt"
+}

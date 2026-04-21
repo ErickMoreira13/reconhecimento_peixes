@@ -1,0 +1,27 @@
+{
+  "texto": "Bora, bora, turminha. Olha lá o Victor lá, dá uma loiveta. Bora, bora ou não? Tocando uma moda aqui, ó. Ó, as colombinhas do Piaparão, isso que eu vivo aí, ó. Cê tá doido, olha o troféuzão aí, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.09,
+      "text": "Bora, bora, turminha. Olha lá o Victor lá, dá uma loiveta. Bora, bora ou não?"
+    },
+    {
+      "start": 6.09,
+      "end": 8.59,
+      "text": "Tocando uma moda aqui, ó."
+    },
+    {
+      "start": 8.59,
+      "end": 14.19,
+      "text": "Ó, as colombinhas do Piaparão, isso que eu vivo aí, ó."
+    },
+    {
+      "start": 14.19,
+      "end": 17.19,
+      "text": "Cê tá doido, olha o troféuzão aí, ó."
+    }
+  ],
+  "duracao_seg": 17.37,
+  "idioma_detectado": "pt"
+}

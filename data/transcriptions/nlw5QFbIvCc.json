@@ -1,0 +1,27 @@
+{
+  "texto": "Rapaziada, barbadinho 45 centímetros Não deu medida, viu Bora pra vida, bora pra água",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 1.88,
+      "text": "Rapaziada, barbadinho"
+    },
+    {
+      "start": 1.88,
+      "end": 4.26,
+      "text": "45 centímetros"
+    },
+    {
+      "start": 4.26,
+      "end": 5.94,
+      "text": "Não deu medida, viu"
+    },
+    {
+      "start": 5.94,
+      "end": 8.63,
+      "text": "Bora pra vida, bora pra água"
+    }
+  ],
+  "duracao_seg": 12.69,
+  "idioma_detectado": "pt"
+}

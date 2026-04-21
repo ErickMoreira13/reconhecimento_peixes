@@ -1,0 +1,37 @@
+{
+  "texto": "Vou até colocar pra gravar E já vou falar, ó Vou gravar porque na descida aqui vai pegar, ó O meu passou, tá pingando Já sempre aconteceu Roscou",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 3.35,
+      "text": "Vou até colocar pra gravar"
+    },
+    {
+      "start": 3.35,
+      "end": 5.58,
+      "text": "E já vou falar, ó"
+    },
+    {
+      "start": 5.58,
+      "end": 8.18,
+      "text": "Vou gravar porque na descida aqui vai pegar, ó"
+    },
+    {
+      "start": 8.18,
+      "end": 12.69,
+      "text": "O meu passou, tá pingando"
+    },
+    {
+      "start": 12.69,
+      "end": 76.42,
+      "text": "Já sempre aconteceu"
+    },
+    {
+      "start": 76.42,
+      "end": 78.52,
+      "text": "Roscou"
+    }
+  ],
+  "duracao_seg": 151.79,
+  "idioma_detectado": "pt"
+}

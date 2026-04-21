@@ -1,0 +1,27 @@
+{
+  "texto": "To survive, I'll be honest Your love fainted, totally me I am so obsessed I want to chop your kwa bi ule",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "To survive, I'll be honest"
+    },
+    {
+      "start": 2.72,
+      "end": 5.58,
+      "text": "Your love fainted, totally me"
+    },
+    {
+      "start": 5.58,
+      "end": 8.02,
+      "text": "I am so obsessed"
+    },
+    {
+      "start": 8.02,
+      "end": 11.28,
+      "text": "I want to chop your kwa bi ule"
+    }
+  ],
+  "duracao_seg": 11.65,
+  "idioma_detectado": "pt"
+}

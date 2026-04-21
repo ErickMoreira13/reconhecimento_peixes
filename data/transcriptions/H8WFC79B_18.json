@@ -1,0 +1,47 @@
+{
+  "texto": "O menino aqui e aquele outro ali, o irmão dele, estavam tentando pescar piaba aqui e não estão conseguindo pegar nada. Aí, eu pedi para ele ir lá buscar uma garrafa lá na casa dele, para a gente fazer uma armadilha aqui rapidão, com uma faca, bolacha e uma garrafa. Aí agora eles vão pegar peixe. Para fazer a armadilha, a gente pega aqui, faz um furo na garrafa, aí faz outro furo para cá e outro furo para cá. Aí vocês vão dobrar aqui para dentro as beiradas. Pode dobrar bem. Agora, pronto, isso aqui já é suficiente. Aí pega umas bolachas aqui, todinha, e joga dentro da garrafa.",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 7.57,
+      "text": "O menino aqui e aquele outro ali, o irmão dele, estavam tentando pescar piaba aqui e não estão conseguindo pegar nada."
+    },
+    {
+      "start": 8.29,
+      "end": 17.41,
+      "text": "Aí, eu pedi para ele ir lá buscar uma garrafa lá na casa dele, para a gente fazer uma armadilha aqui rapidão, com uma faca, bolacha e uma garrafa."
+    },
+    {
+      "start": 18.49,
+      "end": 19.99,
+      "text": "Aí agora eles vão pegar peixe."
+    },
+    {
+      "start": 19.99,
+      "end": 34.64,
+      "text": "Para fazer a armadilha, a gente pega aqui, faz um furo na garrafa, aí faz outro furo para cá e outro furo para cá."
+    },
+    {
+      "start": 36.44,
+      "end": 39.74,
+      "text": "Aí vocês vão dobrar aqui para dentro as beiradas."
+    },
+    {
+      "start": 42.14,
+      "end": 43.06,
+      "text": "Pode dobrar bem."
+    },
+    {
+      "start": 45.0,
+      "end": 52.62,
+      "text": "Agora, pronto, isso aqui já é suficiente."
+    },
+    {
+      "start": 52.76,
+      "end": 58.91,
+      "text": "Aí pega umas bolachas aqui, todinha, e joga dentro da garrafa."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

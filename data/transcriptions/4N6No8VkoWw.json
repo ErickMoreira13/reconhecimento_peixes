@@ -1,0 +1,32 @@
+{
+  "texto": "E olha aí galera, como eu falei para vocês que eu ia mostrar a diferença do Tambiú para o Lambari Prata, eu não imaginei que pudesse acontecer isso, mas aconteceu. Olha aqui galera, mostrar para vocês, o Tambiú é esse aqui, tá gente? E esse aqui é o Lambari Prata, olhem aqui que o Tambiú tem uma manchinha escura aqui, bem próximo aqui da cabeça dele. E o Lambari Prata não tem, olha aí gente, embora o Tambiú é de pequeno porte e o Lambari um pouco maior, mas está aí, aqui vocês comparam a diferença, o Tambiú é um pouco mais largo do que o Lambari Prata e está aí, gente, que pescaria excepcional. E eu jamais podia imaginar, como eu falei para vocês, que mostraria a diferença dos dois e está aqui, vim os dois aqui na mesma linha, a gente está pescando com dois anzóis aí, né gente? E está aqui então, o Tambiúzinho, o primeiro aqui, um pouquinho mais largo e aqui o Lambari Prata, está aí, olha.",
+  "segmentos": [
+    {
+      "start": 5.9,
+      "end": 15.06,
+      "text": "E olha aí galera, como eu falei para vocês que eu ia mostrar a diferença do Tambiú para o Lambari Prata, eu não imaginei que pudesse acontecer isso, mas aconteceu."
+    },
+    {
+      "start": 15.22,
+      "end": 26.5,
+      "text": "Olha aqui galera, mostrar para vocês, o Tambiú é esse aqui, tá gente? E esse aqui é o Lambari Prata, olhem aqui que o Tambiú tem uma manchinha escura aqui, bem próximo aqui da cabeça dele."
+    },
+    {
+      "start": 26.5,
+      "end": 42.1,
+      "text": "E o Lambari Prata não tem, olha aí gente, embora o Tambiú é de pequeno porte e o Lambari um pouco maior, mas está aí, aqui vocês comparam a diferença, o Tambiú é um pouco mais largo do que o Lambari Prata e está aí, gente, que pescaria excepcional."
+    },
+    {
+      "start": 42.1,
+      "end": 51.64,
+      "text": "E eu jamais podia imaginar, como eu falei para vocês, que mostraria a diferença dos dois e está aqui, vim os dois aqui na mesma linha, a gente está pescando com dois anzóis aí, né gente?"
+    },
+    {
+      "start": 51.64,
+      "end": 59.64,
+      "text": "E está aqui então, o Tambiúzinho, o primeiro aqui, um pouquinho mais largo e aqui o Lambari Prata, está aí, olha."
+    }
+  ],
+  "duracao_seg": 59.93,
+  "idioma_detectado": "pt"
+}

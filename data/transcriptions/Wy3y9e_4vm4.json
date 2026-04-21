@@ -1,0 +1,22 @@
+{
+  "texto": "E aí, ó, melhor da pesca aqui pra vocês, a Pesca FM, ó. E aí, Paquitão, mais um aqui naquele cantinho abençoado, ó. Saúl!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "E aí, ó, melhor da pesca aqui pra vocês, a Pesca FM, ó."
+    },
+    {
+      "start": 3.28,
+      "end": 6.24,
+      "text": "E aí, Paquitão, mais um aqui naquele cantinho abençoado, ó."
+    },
+    {
+      "start": 6.84,
+      "end": 7.28,
+      "text": "Saúl!"
+    }
+  ],
+  "duracao_seg": 9.21,
+  "idioma_detectado": "pt"
+}

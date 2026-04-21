@@ -1,0 +1,22 @@
+{
+  "texto": "E aí Juninho, estou com o Nareno, está querendo Eu vim atrás das margaredas Mas pega mesmo",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.69,
+      "text": "E aí Juninho, estou com o Nareno, está querendo"
+    },
+    {
+      "start": 2.69,
+      "end": 7.06,
+      "text": "Eu vim atrás das margaredas"
+    },
+    {
+      "start": 7.06,
+      "end": 11.88,
+      "text": "Mas pega mesmo"
+    }
+  ],
+  "duracao_seg": 12.45,
+  "idioma_detectado": "pt"
+}

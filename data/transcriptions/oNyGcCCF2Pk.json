@@ -1,0 +1,22 @@
+{
+  "texto": "Procurei ouro onde só tinha pedra Alguém que parecia o que não era Paguei pra ver e vi tudo e um pouco mais E foi pra guerra um coração em paz Brinquei com fogo e chamei o perigo",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 7.87,
+      "text": "Procurei ouro onde só tinha pedra Alguém que parecia o que não era"
+    },
+    {
+      "start": 7.87,
+      "end": 15.59,
+      "text": "Paguei pra ver e vi tudo e um pouco mais E foi pra guerra um coração em paz"
+    },
+    {
+      "start": 15.59,
+      "end": 19.05,
+      "text": "Brinquei com fogo e chamei o perigo"
+    }
+  ],
+  "duracao_seg": 19.55,
+  "idioma_detectado": "pt"
+}

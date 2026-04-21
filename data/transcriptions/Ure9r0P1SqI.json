@@ -1,0 +1,17 @@
+{
+  "texto": "Cortando e preparando o barbado ao molho. Agora é só fazer o preparo.",
+  "segmentos": [
+    {
+      "start": 1.1,
+      "end": 3.66,
+      "text": "Cortando e preparando o barbado ao molho."
+    },
+    {
+      "start": 17.74,
+      "end": 19.24,
+      "text": "Agora é só fazer o preparo."
+    }
+  ],
+  "duracao_seg": 59.87,
+  "idioma_detectado": "pt"
+}

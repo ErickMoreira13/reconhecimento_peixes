@@ -1,0 +1,37 @@
+{
+  "texto": "TAP 4 iscas para carpas Minhocas Milho verde Pastilhas Massas comprada, caseira Me segui para mais dicas",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": "TAP 4 iscas para carpas"
+    },
+    {
+      "start": 2.28,
+      "end": 4.8,
+      "text": "Minhocas"
+    },
+    {
+      "start": 4.8,
+      "end": 8.58,
+      "text": "Milho verde"
+    },
+    {
+      "start": 8.58,
+      "end": 12.64,
+      "text": "Pastilhas"
+    },
+    {
+      "start": 12.64,
+      "end": 17.93,
+      "text": "Massas comprada, caseira"
+    },
+    {
+      "start": 17.93,
+      "end": 21.56,
+      "text": "Me segui para mais dicas"
+    }
+  ],
+  "duracao_seg": 23.49,
+  "idioma_detectado": "pt"
+}

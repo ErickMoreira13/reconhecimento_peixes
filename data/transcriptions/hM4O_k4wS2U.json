@@ -1,0 +1,32 @@
+{
+  "texto": "Acho que eu nunca vi um barbado desse tamanho. Rapaz do céu! Olha! Não, gigante! É cruzada com sucuri.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Acho que eu nunca vi um barbado desse tamanho."
+    },
+    {
+      "start": 1.96,
+      "end": 3.04,
+      "text": "Rapaz do céu!"
+    },
+    {
+      "start": 3.82,
+      "end": 4.12,
+      "text": "Olha!"
+    },
+    {
+      "start": 4.66,
+      "end": 6.16,
+      "text": "Não, gigante!"
+    },
+    {
+      "start": 6.74,
+      "end": 8.24,
+      "text": "É cruzada com sucuri."
+    }
+  ],
+  "duracao_seg": 8.29,
+  "idioma_detectado": "pt"
+}

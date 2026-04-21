@@ -1,0 +1,32 @@
+{
+  "texto": "Aí galera, sistema do porretinho Pra pescatilapa na batida Ó, ponteirinha Perto do barranco Sisteminha top",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 2.92,
+      "text": "Aí galera, sistema do porretinho"
+    },
+    {
+      "start": 2.92,
+      "end": 4.68,
+      "text": "Pra pescatilapa na batida"
+    },
+    {
+      "start": 4.68,
+      "end": 9.42,
+      "text": "Ó, ponteirinha"
+    },
+    {
+      "start": 9.42,
+      "end": 10.88,
+      "text": "Perto do barranco"
+    },
+    {
+      "start": 10.88,
+      "end": 13.72,
+      "text": "Sisteminha top"
+    }
+  ],
+  "duracao_seg": 16.17,
+  "idioma_detectado": "pt"
+}

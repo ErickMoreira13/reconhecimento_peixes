@@ -1,0 +1,47 @@
+{
+  "texto": "Salve, salve Paulão! E aí galera, beleza? Olha pra vocês verem, topo demais Lagão Curumbá 3, hein? Pegar os piaulinhos, pegar Paulão! Bora, bora, bora! A água tá meio suja aí, o seu coelho disse que piau tá meio difícil, mas eu quero é piau! Motor ligado, vamos lá pro ponto, acompanha aí galerinha, vambora! Chora a largar! Piau, quer ver? Ah, já pegou o primeiro barbadinho! Ae galera, ó! A lenda voltou! Tirei, tirei, tirei, mostra aí! Aqui? Não, aqui pro lado de cá, moço, a câmera tá aqui! Rapaz, a lenda já começou pegando! Rapaz, mas não deu tempo, nem deu respirar rapaz! Não, vou ter que soltar aí Paulo! Pode soltar! Esse aqui é barbado! Cresce! Não deu nem tempo galera, eu nem montei meu equipamento, o Paulão já pegou, barbadinho! Ó, que bonitinho! Quieto, quieto! Esse tem espora ou não? Tem não! Olha que bonitinho! Ó, os barbilhão dele! Barbadinho, bem filhotinho! Então Paulo, é seu, solta a criança! Não, pode soltar aí! Não, não, solta a criança, solta aqui ó! Eu tô voltando hoje! Pegar mais, hein! Pegar mais!",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 12.5,
+      "text": "Salve, salve Paulão! E aí galera, beleza? Olha pra vocês verem, topo demais Lagão Curumbá 3, hein?"
+    },
+    {
+      "start": 12.78,
+      "end": 22.7,
+      "text": "Pegar os piaulinhos, pegar Paulão! Bora, bora, bora! A água tá meio suja aí, o seu coelho disse que piau tá meio difícil, mas eu quero é piau!"
+    },
+    {
+      "start": 23.06,
+      "end": 29.86,
+      "text": "Motor ligado, vamos lá pro ponto, acompanha aí galerinha, vambora! Chora a largar!"
+    },
+    {
+      "start": 29.86,
+      "end": 66.86,
+      "text": "Piau, quer ver? Ah, já pegou o primeiro barbadinho! Ae galera, ó! A lenda voltou! Tirei, tirei, tirei, mostra aí! Aqui? Não, aqui pro lado de cá, moço, a câmera tá aqui! Rapaz, a lenda já começou pegando! Rapaz, mas não deu tempo, nem deu respirar rapaz!"
+    },
+    {
+      "start": 66.86,
+      "end": 81.27,
+      "text": "Não, vou ter que soltar aí Paulo! Pode soltar! Esse aqui é barbado! Cresce! Não deu nem tempo galera, eu nem montei meu equipamento, o Paulão já pegou, barbadinho!"
+    },
+    {
+      "start": 82.8,
+      "end": 93.94,
+      "text": "Ó, que bonitinho! Quieto, quieto! Esse tem espora ou não? Tem não! Olha que bonitinho! Ó, os barbilhão dele! Barbadinho, bem filhotinho!"
+    },
+    {
+      "start": 94.7,
+      "end": 98.66,
+      "text": "Então Paulo, é seu, solta a criança! Não, pode soltar aí! Não, não, solta a criança, solta aqui ó!"
+    },
+    {
+      "start": 98.66,
+      "end": 103.14,
+      "text": "Eu tô voltando hoje! Pegar mais, hein! Pegar mais!"
+    }
+  ],
+  "duracao_seg": 112.51,
+  "idioma_detectado": "pt"
+}

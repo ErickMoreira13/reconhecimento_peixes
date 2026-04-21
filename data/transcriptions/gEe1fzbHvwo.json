@@ -1,0 +1,62 @@
+{
+  "texto": "Achou isca aqui de novo, moçada, ó, tá na boca, ó Ó, ó, amanhoso, amanhoso, ó, ó, ó Deve ser barbado Pra tá nessa moagem toda, pra pegar é barbado Ó, ó, ó, ui Ai, ai, ai, ai Ai, peixe Ai, peixe Tá na boca, ó, ó Desguei Olha lá, barbado, tô falando que era barbado?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.69,
+      "text": "Achou isca aqui de novo, moçada, ó, tá na boca, ó"
+    },
+    {
+      "start": 3.69,
+      "end": 12.56,
+      "text": "Ó, ó, amanhoso, amanhoso, ó, ó, ó"
+    },
+    {
+      "start": 12.56,
+      "end": 15.26,
+      "text": "Deve ser barbado"
+    },
+    {
+      "start": 15.26,
+      "end": 19.1,
+      "text": "Pra tá nessa moagem toda, pra pegar é barbado"
+    },
+    {
+      "start": 19.1,
+      "end": 21.82,
+      "text": "Ó, ó, ó, ui"
+    },
+    {
+      "start": 21.82,
+      "end": 23.74,
+      "text": "Ai, ai, ai, ai"
+    },
+    {
+      "start": 23.74,
+      "end": 25.66,
+      "text": "Ai, peixe"
+    },
+    {
+      "start": 25.66,
+      "end": 28.04,
+      "text": "Ai, peixe"
+    },
+    {
+      "start": 28.04,
+      "end": 32.18,
+      "text": "Tá na boca, ó, ó"
+    },
+    {
+      "start": 32.84,
+      "end": 37.01,
+      "text": "Desguei"
+    },
+    {
+      "start": 37.01,
+      "end": 45.47,
+      "text": "Olha lá, barbado, tô falando que era barbado?"
+    }
+  ],
+  "duracao_seg": 45.95,
+  "idioma_detectado": "pt"
+}
