@@ -1,0 +1,17 @@
+{
+  "texto": "Vai se entregar pra mim, como a primeira vez Vai delirar de amor, sentir o meu coração",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 8.03,
+      "text": "Vai se entregar pra mim, como a primeira vez"
+    },
+    {
+      "start": 8.03,
+      "end": 14.87,
+      "text": "Vai delirar de amor, sentir o meu coração"
+    }
+  ],
+  "duracao_seg": 14.87,
+  "idioma_detectado": "pt"
+}

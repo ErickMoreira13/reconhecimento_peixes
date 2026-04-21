@@ -1,0 +1,117 @@
+{
+  "texto": "Pode ir no fundo. Vamos lá logo. Corvinho. Varejãozinho. Tô filmando. Pirarara no Espinel. Tô cansado, tô cansado. Tá. Tô filmando bem. Pirarara no Espinel. Seis e... Seis e quinze da manhã. Olha o Gilzão aqui. Já nasceu. Cansador, né? Pra soltar dali. Soltar aqui logo. Cabeça de frango. Prender esse... Aqui ó bicho. Será outro? Engatado aqui. Encanto ali é bom.",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 4.1,
+      "text": "Pode ir no fundo."
+    },
+    {
+      "start": 4.1,
+      "end": 9.14,
+      "text": "Vamos lá logo."
+    },
+    {
+      "start": 9.14,
+      "end": 15.9,
+      "text": "Corvinho."
+    },
+    {
+      "start": 15.9,
+      "end": 22.48,
+      "text": "Varejãozinho."
+    },
+    {
+      "start": 22.48,
+      "end": 77.95,
+      "text": "Tô filmando."
+    },
+    {
+      "start": 77.95,
+      "end": 83.28,
+      "text": "Pirarara no Espinel."
+    },
+    {
+      "start": 83.28,
+      "end": 88.37,
+      "text": "Tô cansado, tô cansado."
+    },
+    {
+      "start": 88.37,
+      "end": 90.53,
+      "text": "Tá."
+    },
+    {
+      "start": 90.53,
+      "end": 101.62,
+      "text": "Tô filmando bem."
+    },
+    {
+      "start": 101.62,
+      "end": 104.48,
+      "text": "Pirarara no Espinel."
+    },
+    {
+      "start": 104.48,
+      "end": 106.96,
+      "text": "Seis e..."
+    },
+    {
+      "start": 106.96,
+      "end": 110.3,
+      "text": "Seis e quinze da manhã."
+    },
+    {
+      "start": 110.3,
+      "end": 113.55,
+      "text": "Olha o Gilzão aqui."
+    },
+    {
+      "start": 113.55,
+      "end": 115.97,
+      "text": "Já nasceu."
+    },
+    {
+      "start": 115.97,
+      "end": 120.59,
+      "text": "Cansador, né?"
+    },
+    {
+      "start": 120.59,
+      "end": 131.46,
+      "text": "Pra soltar dali."
+    },
+    {
+      "start": 131.46,
+      "end": 144.69,
+      "text": "Soltar aqui logo."
+    },
+    {
+      "start": 144.69,
+      "end": 147.97,
+      "text": "Cabeça de frango."
+    },
+    {
+      "start": 147.97,
+      "end": 199.06,
+      "text": "Prender esse..."
+    },
+    {
+      "start": 199.06,
+      "end": 208.58,
+      "text": "Aqui ó bicho."
+    },
+    {
+      "start": 208.58,
+      "end": 211.86,
+      "text": "Será outro? Engatado aqui."
+    },
+    {
+      "start": 227.26,
+      "end": 233.36,
+      "text": "Encanto ali é bom."
+    }
+  ],
+  "duracao_seg": 254.63,
+  "idioma_detectado": "pt"
+}

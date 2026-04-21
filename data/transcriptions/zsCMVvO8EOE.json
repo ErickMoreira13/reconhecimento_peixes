@@ -1,0 +1,47 @@
+{
+  "texto": "O título tá pegando pra direita demais Roda pra trás Pra pegar pra esquerda Tá pegando pra esquerda demais, roda pra frente Tá pegando em cima demais, baixa aqui Tá pegando embaixo demais Soba aqui, ó É isso aí, galera, curta o meu vídeo",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 2.51,
+      "text": "O título tá pegando pra direita demais"
+    },
+    {
+      "start": 2.51,
+      "end": 4.13,
+      "text": "Roda pra trás"
+    },
+    {
+      "start": 4.13,
+      "end": 5.49,
+      "text": "Pra pegar pra esquerda"
+    },
+    {
+      "start": 5.49,
+      "end": 7.67,
+      "text": "Tá pegando pra esquerda demais, roda pra frente"
+    },
+    {
+      "start": 7.67,
+      "end": 10.43,
+      "text": "Tá pegando em cima demais, baixa aqui"
+    },
+    {
+      "start": 10.43,
+      "end": 11.99,
+      "text": "Tá pegando embaixo demais"
+    },
+    {
+      "start": 11.99,
+      "end": 13.21,
+      "text": "Soba aqui, ó"
+    },
+    {
+      "start": 13.21,
+      "end": 14.97,
+      "text": "É isso aí, galera, curta o meu vídeo"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}
