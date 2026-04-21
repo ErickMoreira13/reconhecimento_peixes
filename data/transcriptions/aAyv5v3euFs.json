@@ -1,0 +1,52 @@
+{
+  "texto": "Olha lá, o Samuel está pescando um macaco Olha que bonito, hein? Que risgado, olha Que coisa linda Olha aí, olha 20 30 centímetros Passa na medida, irmão Fechando",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 4.34,
+      "text": "Olha lá, o Samuel está pescando um macaco"
+    },
+    {
+      "start": 4.34,
+      "end": 6.62,
+      "text": "Olha que bonito, hein?"
+    },
+    {
+      "start": 6.62,
+      "end": 7.68,
+      "text": "Que risgado, olha"
+    },
+    {
+      "start": 7.68,
+      "end": 12.64,
+      "text": "Que coisa linda"
+    },
+    {
+      "start": 12.64,
+      "end": 14.8,
+      "text": "Olha aí, olha"
+    },
+    {
+      "start": 14.8,
+      "end": 16.47,
+      "text": "20"
+    },
+    {
+      "start": 16.47,
+      "end": 18.99,
+      "text": "30 centímetros"
+    },
+    {
+      "start": 18.99,
+      "end": 20.65,
+      "text": "Passa na medida, irmão"
+    },
+    {
+      "start": 20.65,
+      "end": 23.3,
+      "text": "Fechando"
+    }
+  ],
+  "duracao_seg": 23.53,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "E quando eu pego o peixe agora, ele faz um barulho. Ele faz um barulho? Faz. Ah, Zé da Manga.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "E quando eu pego o peixe agora, ele faz um barulho."
+    },
+    {
+      "start": 2.7,
+      "end": 3.32,
+      "text": "Ele faz um barulho?"
+    },
+    {
+      "start": 3.44,
+      "end": 3.88,
+      "text": "Faz."
+    },
+    {
+      "start": 4.81,
+      "end": 6.41,
+      "text": "Ah, Zé da Manga."
+    }
+  ],
+  "duracao_seg": 7.19,
+  "idioma_detectado": "pt"
+}

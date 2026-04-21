@@ -1,0 +1,32 @@
+{
+  "texto": "Arriba a España, com esse pedaço de pepino. Não o quero soltar. Olha, vai. Que bonita. Vete, campeona.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Arriba a España, com esse pedaço de pepino."
+    },
+    {
+      "start": 4.91,
+      "end": 5.65,
+      "text": "Não o quero soltar."
+    },
+    {
+      "start": 7.43,
+      "end": 7.83,
+      "text": "Olha, vai."
+    },
+    {
+      "start": 8.33,
+      "end": 8.83,
+      "text": "Que bonita."
+    },
+    {
+      "start": 10.47,
+      "end": 11.19,
+      "text": "Vete, campeona."
+    }
+  ],
+  "duracao_seg": 11.83,
+  "idioma_detectado": "pt"
+}

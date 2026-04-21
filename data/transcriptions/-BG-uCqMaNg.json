@@ -1,0 +1,32 @@
+{
+  "texto": "Massinha na água, e é só caprichar na fisgada, porque aí o show fica por conta do matrinchando. Ele vai levando pro lado de baixo do barco, né, pra tentar puxar, tentar escapar. Ah, mas ele é bonito, hein, seu Carlos? Não é tão pequeno, não. Oh, olha o troféu. Tem que ser esportivo, não é só guinchar o peixe do rio.",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 6.13,
+      "text": "Massinha na água, e é só caprichar na fisgada, porque aí o show fica por conta do matrinchando."
+    },
+    {
+      "start": 8.82,
+      "end": 14.26,
+      "text": "Ele vai levando pro lado de baixo do barco, né, pra tentar puxar, tentar escapar."
+    },
+    {
+      "start": 14.88,
+      "end": 18.39,
+      "text": "Ah, mas ele é bonito, hein, seu Carlos? Não é tão pequeno, não."
+    },
+    {
+      "start": 21.08,
+      "end": 24.43,
+      "text": "Oh, olha o troféu."
+    },
+    {
+      "start": 24.99,
+      "end": 27.47,
+      "text": "Tem que ser esportivo, não é só guinchar o peixe do rio."
+    }
+  ],
+  "duracao_seg": 27.49,
+  "idioma_detectado": "pt"
+}

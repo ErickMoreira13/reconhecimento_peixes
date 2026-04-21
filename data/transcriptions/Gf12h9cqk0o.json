@@ -1,0 +1,42 @@
+{
+  "texto": "O Guiché de fez a pescaria da tarde, hein? Ó, e é ela. Braba. Braba, braba, braba. Calma, bichão. Calma. Vamos pra casa.",
+  "segmentos": [
+    {
+      "start": 9.74,
+      "end": 34.6,
+      "text": "O Guiché de fez a pescaria da tarde, hein?"
+    },
+    {
+      "start": 34.88,
+      "end": 35.72,
+      "text": "Ó, e é ela."
+    },
+    {
+      "start": 36.34,
+      "end": 36.78,
+      "text": "Braba."
+    },
+    {
+      "start": 38.24,
+      "end": 39.44,
+      "text": "Braba, braba, braba."
+    },
+    {
+      "start": 39.92,
+      "end": 53.09,
+      "text": "Calma, bichão."
+    },
+    {
+      "start": 53.45,
+      "end": 53.93,
+      "text": "Calma."
+    },
+    {
+      "start": 58.84,
+      "end": 59.5,
+      "text": "Vamos pra casa."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

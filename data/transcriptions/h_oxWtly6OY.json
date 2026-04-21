@@ -1,0 +1,37 @@
+{
+  "texto": "aí ó, essa vai de volta pra vida, hein, ó o tamanho ó, bonito, hein, ó que chique, vai vai pra vida, vai já era, galera",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 2.75,
+      "text": "aí ó, essa vai de volta"
+    },
+    {
+      "start": 2.75,
+      "end": 4.75,
+      "text": "pra vida, hein, ó o tamanho"
+    },
+    {
+      "start": 4.75,
+      "end": 6.69,
+      "text": "ó, bonito, hein, ó"
+    },
+    {
+      "start": 6.69,
+      "end": 11.18,
+      "text": "que chique, vai"
+    },
+    {
+      "start": 11.18,
+      "end": 12.84,
+      "text": "vai pra vida, vai"
+    },
+    {
+      "start": 12.84,
+      "end": 17.19,
+      "text": "já era, galera"
+    }
+  ],
+  "duracao_seg": 17.63,
+  "idioma_detectado": "pt"
+}

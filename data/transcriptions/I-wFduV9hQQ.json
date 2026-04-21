@@ -1,0 +1,42 @@
+{
+  "texto": "Se liga só que dica top pra você aí que gosta de pescar carpa, né? Fazer aquela pescaria de carpa de fundo. Essa dica aqui funciona muito. Eu uso ela nas minhas pescarias e super dá certo, tá, pessoal? Utilizo pra fazer ela bichinho de laranja e bolinha de jamel, tá? Não é a mesma bolinha que esse cara tá utilizando, mas com bolinha de jamel dá super certo também. Faça isso na sua pescaria que você vai ter muito resultado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "Se liga só que dica top pra você aí que gosta de pescar carpa, né?"
+    },
+    {
+      "start": 4.2,
+      "end": 6.1,
+      "text": "Fazer aquela pescaria de carpa de fundo."
+    },
+    {
+      "start": 6.5,
+      "end": 8.16,
+      "text": "Essa dica aqui funciona muito."
+    },
+    {
+      "start": 8.44,
+      "end": 12.0,
+      "text": "Eu uso ela nas minhas pescarias e super dá certo, tá, pessoal?"
+    },
+    {
+      "start": 12.38,
+      "end": 16.48,
+      "text": "Utilizo pra fazer ela bichinho de laranja e bolinha de jamel, tá?"
+    },
+    {
+      "start": 16.62,
+      "end": 21.18,
+      "text": "Não é a mesma bolinha que esse cara tá utilizando, mas com bolinha de jamel dá super certo também."
+    },
+    {
+      "start": 21.6,
+      "end": 24.16,
+      "text": "Faça isso na sua pescaria que você vai ter muito resultado."
+    }
+  ],
+  "duracao_seg": 24.49,
+  "idioma_detectado": "pt"
+}

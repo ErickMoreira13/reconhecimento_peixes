@@ -1,0 +1,72 @@
+{
+  "texto": "Olha o tamanho do piraca. Olha o tamanho dessa piraca, Natália. O que é que eu vou no passaguá? Isso daí. Vem, tá aí o que que eu pego. Eu confio na minha passaguada. Eu quero que filma. Filma, filma. Nossa senhora! Nossa senhora! Cuidado com a garateia. Se pegar na garateia, ela solta. Nossa senhora! Deixa ela calmar. Bocó!",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 4.02,
+      "text": "Olha o tamanho do piraca. Olha o tamanho dessa piraca, Natália."
+    },
+    {
+      "start": 6.02,
+      "end": 7.02,
+      "text": "O que é que eu vou no passaguá?"
+    },
+    {
+      "start": 8.05,
+      "end": 10.07,
+      "text": "Isso daí."
+    },
+    {
+      "start": 10.07,
+      "end": 12.07,
+      "text": "Vem, tá aí o que que eu pego."
+    },
+    {
+      "start": 12.07,
+      "end": 14.07,
+      "text": "Eu confio na minha passaguada."
+    },
+    {
+      "start": 14.07,
+      "end": 16.07,
+      "text": "Eu quero que filma."
+    },
+    {
+      "start": 16.07,
+      "end": 17.07,
+      "text": "Filma, filma."
+    },
+    {
+      "start": 17.07,
+      "end": 19.07,
+      "text": "Nossa senhora!"
+    },
+    {
+      "start": 19.07,
+      "end": 22.07,
+      "text": "Nossa senhora! Cuidado com a garateia."
+    },
+    {
+      "start": 22.07,
+      "end": 24.07,
+      "text": "Se pegar na garateia, ela solta."
+    },
+    {
+      "start": 24.07,
+      "end": 25.07,
+      "text": "Nossa senhora!"
+    },
+    {
+      "start": 25.07,
+      "end": 26.07,
+      "text": "Deixa ela calmar."
+    },
+    {
+      "start": 26.07,
+      "end": 29.12,
+      "text": "Bocó!"
+    }
+  ],
+  "duracao_seg": 29.31,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Bricon orbignionus, popularmente conhecido como Piracanjuba. Piracanjuba, Bracanjuba ou Bracanjuba, é um peixe que habita na bacia do rio de La Plata e que está em risco de extinção. Chega a medir até 80 centímetros de comprimento e pesar mais de 6 quilogramas.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Bricon orbignionus, popularmente conhecido como Piracanjuba."
+    },
+    {
+      "start": 5.1,
+      "end": 11.56,
+      "text": "Piracanjuba, Bracanjuba ou Bracanjuba, é um peixe que habita na bacia do rio de La Plata e que está em risco de extinção."
+    },
+    {
+      "start": 12.14,
+      "end": 16.78,
+      "text": "Chega a medir até 80 centímetros de comprimento e pesar mais de 6 quilogramas."
+    }
+  ],
+  "duracao_seg": 17.05,
+  "idioma_detectado": "pt"
+}

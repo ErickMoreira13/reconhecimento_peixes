@@ -1,0 +1,27 @@
+{
+  "texto": "A tabarona é um peixe ósseo de escamas, semelhante ao parente dourado, Salminus brasiliensis. As grandes diferenças são a cor prateada e o tamanho. Paramente são encontrados exemplares da espécie com mais de 50 centímetros e o peso de até 5 quilos. Em média, mede 35 centímetros e pesa 1.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.86,
+      "text": "A tabarona é um peixe ósseo de escamas, semelhante ao parente dourado, Salminus brasiliensis."
+    },
+    {
+      "start": 6.28,
+      "end": 9.14,
+      "text": "As grandes diferenças são a cor prateada e o tamanho."
+    },
+    {
+      "start": 9.68,
+      "end": 15.76,
+      "text": "Paramente são encontrados exemplares da espécie com mais de 50 centímetros e o peso de até 5 quilos."
+    },
+    {
+      "start": 16.26,
+      "end": 19.52,
+      "text": "Em média, mede 35 centímetros e pesa 1."
+    }
+  ],
+  "duracao_seg": 19.65,
+  "idioma_detectado": "pt"
+}

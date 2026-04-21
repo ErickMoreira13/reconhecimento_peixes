@@ -1,0 +1,42 @@
+{
+  "texto": "Nossa! Peixão, mano! Uou! Nossa! É primitivo, Matias! Foi só nublar, velho. Foi só ficar nublado que o peixe abriu a boca, Tavinho. No inline. Ixi, não sai não, ó. Agora passou para a garateia. Nossa! É muita ação de peixe, Tavinho. Gravando, hein, mano. Nossa! Ô, graças a Deus. E não vai ficar cego, hein. Caramba, isso te salvei. É muita ação de peixe. Mais uma, Tavinho. No mesmo ponto, galera. Que top. Mais uma foto.",
+  "segmentos": [
+    {
+      "start": 7.54,
+      "end": 14.54,
+      "text": "Nossa! Peixão, mano! Uou! Nossa! É primitivo, Matias!"
+    },
+    {
+      "start": 14.54,
+      "end": 19.57,
+      "text": "Foi só nublar, velho. Foi só ficar nublado que o peixe abriu a boca, Tavinho."
+    },
+    {
+      "start": 19.57,
+      "end": 26.78,
+      "text": "No inline. Ixi, não sai não, ó. Agora passou para a garateia."
+    },
+    {
+      "start": 26.78,
+      "end": 34.47,
+      "text": "Nossa! É muita ação de peixe, Tavinho. Gravando, hein, mano."
+    },
+    {
+      "start": 34.47,
+      "end": 44.27,
+      "text": "Nossa! Ô, graças a Deus. E não vai ficar cego, hein."
+    },
+    {
+      "start": 44.27,
+      "end": 50.5,
+      "text": "Caramba, isso te salvei. É muita ação de peixe."
+    },
+    {
+      "start": 50.5,
+      "end": 58.06,
+      "text": "Mais uma, Tavinho. No mesmo ponto, galera. Que top. Mais uma foto."
+    }
+  ],
+  "duracao_seg": 58.85,
+  "idioma_detectado": "pt"
+}

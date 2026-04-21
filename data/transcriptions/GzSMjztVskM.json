@@ -1,0 +1,17 @@
+{
+  "texto": "e aí tá aqui o bicho opa que o bicho acabou aí bonita aí a soltura da bicha aí ó vai para a vida aí",
+  "segmentos": [
+    {
+      "start": 3.98,
+      "end": 15.52,
+      "text": "e aí tá aqui o bicho opa que o bicho"
+    },
+    {
+      "start": 15.52,
+      "end": 35.65,
+      "text": "acabou aí bonita aí a soltura da bicha aí ó vai para a vida aí"
+    }
+  ],
+  "duracao_seg": 36.69,
+  "idioma_detectado": "pt"
+}

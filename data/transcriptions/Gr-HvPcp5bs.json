@@ -1,0 +1,32 @@
+{
+  "texto": "E aí dá para não pular na tua barriga o cabelo da fleda é para não pular de lá para cá e na tua barriga sacou o que merda homem não cura bicho assim pegando o outro arco mais",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 3.6,
+      "text": "E aí"
+    },
+    {
+      "start": 3.6,
+      "end": 11.37,
+      "text": "dá para não pular na tua barriga o cabelo da fleda"
+    },
+    {
+      "start": 11.37,
+      "end": 21.04,
+      "text": "é para não pular de lá para cá e na tua barriga sacou o que merda homem não"
+    },
+    {
+      "start": 21.04,
+      "end": 23.4,
+      "text": "cura bicho assim"
+    },
+    {
+      "start": 29.64,
+      "end": 32.7,
+      "text": "pegando o outro arco mais"
+    }
+  ],
+  "duracao_seg": 34.27,
+  "idioma_detectado": "pt"
+}

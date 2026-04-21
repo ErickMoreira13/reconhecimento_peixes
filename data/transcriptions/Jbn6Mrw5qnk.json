@@ -1,0 +1,27 @@
+{
+  "texto": "Olha as mamurinhas aqui, do Parima. É monstro, é grande. Acabei de pegar uma aqui na linha 060. Olha aí, com shark.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Olha as mamurinhas aqui, do Parima."
+    },
+    {
+      "start": 2.44,
+      "end": 3.98,
+      "text": "É monstro, é grande."
+    },
+    {
+      "start": 4.12,
+      "end": 6.22,
+      "text": "Acabei de pegar uma aqui na linha 060."
+    },
+    {
+      "start": 7.37,
+      "end": 8.43,
+      "text": "Olha aí, com shark."
+    }
+  ],
+  "duracao_seg": 9.53,
+  "idioma_detectado": "pt"
+}

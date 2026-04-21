@@ -1,0 +1,52 @@
+{
+  "texto": "Pera, levanta aí, levanta assim. Olha o tamanho doido. Olha o tamanho da vida. Nossa, é grande maipia. Olha o passaguá dos caras. Que passaguá, rapaz. Um, dois, três. Foi. Um, dois, três. Foi.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Pera, levanta aí, levanta assim."
+    },
+    {
+      "start": 2.52,
+      "end": 3.82,
+      "text": "Olha o tamanho doido."
+    },
+    {
+      "start": 4.26,
+      "end": 5.56,
+      "text": "Olha o tamanho da vida."
+    },
+    {
+      "start": 12.86,
+      "end": 14.34,
+      "text": "Nossa, é grande maipia."
+    },
+    {
+      "start": 25.01,
+      "end": 26.63,
+      "text": "Olha o passaguá dos caras."
+    },
+    {
+      "start": 26.85,
+      "end": 28.83,
+      "text": "Que passaguá, rapaz."
+    },
+    {
+      "start": 31.02,
+      "end": 32.12,
+      "text": "Um, dois, três."
+    },
+    {
+      "start": 32.6,
+      "end": 33.84,
+      "text": "Foi. Um, dois, três."
+    },
+    {
+      "start": 34.6,
+      "end": 34.84,
+      "text": "Foi."
+    }
+  ],
+  "duracao_seg": 42.09,
+  "idioma_detectado": "pt"
+}

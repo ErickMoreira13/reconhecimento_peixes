@@ -1,0 +1,17 @@
+{
+  "texto": "Essa aqui é a imitação da bicudinha, tá vendo? Os jigs aqui, o shed, esse aqui é o estojinho. Essa aqui é a zisca que eu uso, pra pegar as tabarana.",
+  "segmentos": [
+    {
+      "start": 0.76,
+      "end": 7.1,
+      "text": "Essa aqui é a imitação da bicudinha, tá vendo? Os jigs aqui, o shed, esse aqui é o estojinho."
+    },
+    {
+      "start": 7.2,
+      "end": 10.08,
+      "text": "Essa aqui é a zisca que eu uso, pra pegar as tabarana."
+    }
+  ],
+  "duracao_seg": 10.29,
+  "idioma_detectado": "pt"
+}

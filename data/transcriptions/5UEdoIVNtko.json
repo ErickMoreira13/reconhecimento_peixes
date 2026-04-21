@@ -1,0 +1,92 @@
+{
+  "texto": "Mais um peixinho no camarão Que eu falei, o peixe invoca Não tem jeito, viu gente? Invoca com a coisa A gente tem piracanjuba de novo Ô maravilha Piracanjuba de novo O programa vai ficar top Com essas piracanjubas, olha lá Olha lá, piracanjuba Que maravilha, hein? Peixe totalmente esportivo, viu? Tem alguns que falam que é matrinchã Mas na verdade esse peixe aqui Chama-se piracanjuba Olha aí, que maravilha Água, valeu galera",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": "Mais um peixinho no camarão"
+    },
+    {
+      "start": 1.52,
+      "end": 3.38,
+      "text": "Que eu falei, o peixe invoca"
+    },
+    {
+      "start": 3.38,
+      "end": 4.84,
+      "text": "Não tem jeito, viu gente?"
+    },
+    {
+      "start": 5.72,
+      "end": 6.82,
+      "text": "Invoca com a coisa"
+    },
+    {
+      "start": 6.82,
+      "end": 10.17,
+      "text": "A gente tem piracanjuba de novo"
+    },
+    {
+      "start": 10.17,
+      "end": 11.65,
+      "text": "Ô maravilha"
+    },
+    {
+      "start": 11.65,
+      "end": 13.41,
+      "text": "Piracanjuba de novo"
+    },
+    {
+      "start": 13.41,
+      "end": 18.43,
+      "text": "O programa vai ficar top"
+    },
+    {
+      "start": 18.43,
+      "end": 20.61,
+      "text": "Com essas piracanjubas, olha lá"
+    },
+    {
+      "start": 20.61,
+      "end": 22.67,
+      "text": "Olha lá, piracanjuba"
+    },
+    {
+      "start": 22.67,
+      "end": 35.1,
+      "text": "Que maravilha, hein?"
+    },
+    {
+      "start": 35.66,
+      "end": 38.96,
+      "text": "Peixe totalmente esportivo, viu?"
+    },
+    {
+      "start": 40.0,
+      "end": 41.54,
+      "text": "Tem alguns que falam que é matrinchã"
+    },
+    {
+      "start": 41.54,
+      "end": 43.66,
+      "text": "Mas na verdade esse peixe aqui"
+    },
+    {
+      "start": 43.66,
+      "end": 45.44,
+      "text": "Chama-se piracanjuba"
+    },
+    {
+      "start": 45.44,
+      "end": 46.54,
+      "text": "Olha aí, que maravilha"
+    },
+    {
+      "start": 46.54,
+      "end": 56.38,
+      "text": "Água, valeu galera"
+    }
+  ],
+  "duracao_seg": 56.89,
+  "idioma_detectado": "pt"
+}

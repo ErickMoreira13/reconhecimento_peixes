@@ -1,0 +1,22 @@
+{
+  "texto": "Peguei, ó. Fazer barulho e aí vem. Ó, tá falando? Peguei um bruto. Olha lá. Peguei uns bruto ali pra trás. Tá barulho aí que você pega. Esse aqui tá pequeno, mas tá bom, vou levar assim mesmo. Ai, ai, ai. O quê? Tem. Monstro. Mas faz tempo?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 505.46,
+      "text": "Peguei, ó. Fazer barulho e aí vem. Ó, tá falando? Peguei um bruto. Olha lá. Peguei uns bruto ali pra trás."
+    },
+    {
+      "start": 509.17,
+      "end": 514.99,
+      "text": "Tá barulho aí que você pega. Esse aqui tá pequeno, mas tá bom, vou levar assim mesmo."
+    },
+    {
+      "start": 522.0,
+      "end": 541.31,
+      "text": "Ai, ai, ai. O quê? Tem. Monstro. Mas faz tempo?"
+    }
+  ],
+  "duracao_seg": 779.75,
+  "idioma_detectado": "pt"
+}

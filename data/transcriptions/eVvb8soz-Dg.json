@@ -1,0 +1,367 @@
+{
+  "texto": "Rapaziada, chegando de novo no ponto aí, ó. No ponto das tabaranas. Amanheceu ventando hoje, rapaz. Um vento gelado. O sol saiu. Vou tentar uns arremessos ali. O rio tá meio baixo. Vamos ver o que vai dar. Pode ser que dê um peixinho aí. Vamos lá, vou posicionar a câmera aqui. Pode ser que entre uma tabarana aí. Vamos lá. Ó, entrou. Nossa, rapaz, olha. Vai pro ar. Nossa, que tabarana bitela. Rapaz, nossa, que linda, cara. Peixe lindo, hein. Tomara que não escapa. Vai pular, vai pular. Vai pular. Linda, linda. Que peixe enorme, gente. Parece que é uma coisa. Até parece que é o mesmo, hein. Até parece que é vídeo repetido. Mas não é vídeo repetido, não. Ah, meu Deus do céu, rapaz. Que peixe bruto. Que tamanho de peixe que é esse, gente. Olha isso aqui. Vai, pula uma vez. Rapaz, ela é tão grande que não tá aguentando nem pular pra fora da água. Tomara que esteja bem fisgada pra não escapar aqui na beirinha. Lindo peixe, hein. Legal. Ela tá só na garateia de baixo, rapaz. Parece que tá bem fisgada, assim. Tentar tirar ela. Pera lá, minha linda, que eu já vou soltar o C. Estressar o C, não. Olha que peixe. Olha que tamanho de peixe, galera. Olha que alicate aqui. Olha que tamanho de peixe. Nossa, pai. Que peixe bruto. Olha isso aí. Machucou a guelra dela. A isca. A isca machucou a guelra dela. Aí, ó. Olha que tamanho de peixe. Coisa linda. Pouco mais de dois quilos, ó. Vamos soltar ela. Não estressar o peixe, não. Olha lá, vai embora, hein. Vai embora, minha linda. Olha lá, que lindeza. Oh, bruta. Rapaz do céu. Que lugar que é esse, gente. Lugar maravilhoso. Ei, rio pardo, hein. Ó, pescaria bruta. Peixe lindo, hein. Isso aí, galera. Abraço. Show de bola. Lugar top demais. Tchau, tchau.",
+  "segmentos": [
+    {
+      "start": 3.7,
+      "end": 5.96,
+      "text": "Rapaziada, chegando de novo no ponto aí, ó."
+    },
+    {
+      "start": 8.1,
+      "end": 9.36,
+      "text": "No ponto das tabaranas."
+    },
+    {
+      "start": 11.07,
+      "end": 12.51,
+      "text": "Amanheceu ventando hoje, rapaz."
+    },
+    {
+      "start": 12.51,
+      "end": 13.45,
+      "text": "Um vento gelado."
+    },
+    {
+      "start": 15.19,
+      "end": 16.13,
+      "text": "O sol saiu."
+    },
+    {
+      "start": 16.21,
+      "end": 19.36,
+      "text": "Vou tentar uns arremessos ali."
+    },
+    {
+      "start": 19.42,
+      "end": 20.26,
+      "text": "O rio tá meio baixo."
+    },
+    {
+      "start": 22.99,
+      "end": 23.83,
+      "text": "Vamos ver o que vai dar."
+    },
+    {
+      "start": 24.29,
+      "end": 25.47,
+      "text": "Pode ser que dê um peixinho aí."
+    },
+    {
+      "start": 29.0,
+      "end": 30.52,
+      "text": "Vamos lá, vou posicionar a câmera aqui."
+    },
+    {
+      "start": 34.16,
+      "end": 35.5,
+      "text": "Pode ser que entre uma tabarana aí."
+    },
+    {
+      "start": 39.66,
+      "end": 40.0,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 40.48,
+      "end": 117.0,
+      "text": "Ó, entrou."
+    },
+    {
+      "start": 118.44,
+      "end": 119.64,
+      "text": "Nossa, rapaz, olha."
+    },
+    {
+      "start": 120.94,
+      "end": 121.62,
+      "text": "Vai pro ar."
+    },
+    {
+      "start": 122.55,
+      "end": 124.27,
+      "text": "Nossa, que tabarana bitela."
+    },
+    {
+      "start": 124.27,
+      "end": 128.42,
+      "text": "Rapaz, nossa, que linda, cara."
+    },
+    {
+      "start": 129.83,
+      "end": 130.67,
+      "text": "Peixe lindo, hein."
+    },
+    {
+      "start": 135.01,
+      "end": 136.37,
+      "text": "Tomara que não escapa."
+    },
+    {
+      "start": 140.68,
+      "end": 141.58,
+      "text": "Vai pular, vai pular."
+    },
+    {
+      "start": 143.24,
+      "end": 144.06,
+      "text": "Vai pular."
+    },
+    {
+      "start": 144.6,
+      "end": 150.29,
+      "text": "Linda, linda."
+    },
+    {
+      "start": 152.16,
+      "end": 154.3,
+      "text": "Que peixe enorme, gente."
+    },
+    {
+      "start": 154.44,
+      "end": 155.5,
+      "text": "Parece que é uma coisa."
+    },
+    {
+      "start": 157.69,
+      "end": 159.07,
+      "text": "Até parece que é o mesmo, hein."
+    },
+    {
+      "start": 161.23,
+      "end": 162.87,
+      "text": "Até parece que é vídeo repetido."
+    },
+    {
+      "start": 164.5,
+      "end": 166.16,
+      "text": "Mas não é vídeo repetido, não."
+    },
+    {
+      "start": 168.3,
+      "end": 171.15,
+      "text": "Ah, meu Deus do céu, rapaz."
+    },
+    {
+      "start": 171.23,
+      "end": 172.63,
+      "text": "Que peixe bruto."
+    },
+    {
+      "start": 172.63,
+      "end": 176.75,
+      "text": "Que tamanho de peixe que é esse, gente."
+    },
+    {
+      "start": 176.81,
+      "end": 177.31,
+      "text": "Olha isso aqui."
+    },
+    {
+      "start": 180.65,
+      "end": 181.69,
+      "text": "Vai, pula uma vez."
+    },
+    {
+      "start": 184.08,
+      "end": 187.18,
+      "text": "Rapaz, ela é tão grande que não tá aguentando nem pular pra fora da água."
+    },
+    {
+      "start": 189.12,
+      "end": 192.0,
+      "text": "Tomara que esteja bem fisgada pra não escapar aqui na beirinha."
+    },
+    {
+      "start": 195.82,
+      "end": 196.84,
+      "text": "Lindo peixe, hein."
+    },
+    {
+      "start": 203.16,
+      "end": 203.6,
+      "text": "Legal."
+    },
+    {
+      "start": 207.97,
+      "end": 210.19,
+      "text": "Ela tá só na garateia de baixo, rapaz."
+    },
+    {
+      "start": 212.08,
+      "end": 213.36,
+      "text": "Parece que tá bem fisgada, assim."
+    },
+    {
+      "start": 217.21,
+      "end": 218.07,
+      "text": "Tentar tirar ela."
+    },
+    {
+      "start": 226.01,
+      "end": 227.73,
+      "text": "Pera lá, minha linda, que eu já vou soltar o C."
+    },
+    {
+      "start": 229.08,
+      "end": 229.94,
+      "text": "Estressar o C, não."
+    },
+    {
+      "start": 229.94,
+      "end": 238.78,
+      "text": "Olha que peixe."
+    },
+    {
+      "start": 240.66,
+      "end": 242.46,
+      "text": "Olha que tamanho de peixe, galera."
+    },
+    {
+      "start": 243.82,
+      "end": 244.86,
+      "text": "Olha que alicate aqui."
+    },
+    {
+      "start": 246.46,
+      "end": 247.9,
+      "text": "Olha que tamanho de peixe."
+    },
+    {
+      "start": 249.15,
+      "end": 250.15,
+      "text": "Nossa, pai."
+    },
+    {
+      "start": 250.19,
+      "end": 251.15,
+      "text": "Que peixe bruto."
+    },
+    {
+      "start": 252.86,
+      "end": 253.42,
+      "text": "Olha isso aí."
+    },
+    {
+      "start": 253.74,
+      "end": 254.84,
+      "text": "Machucou a guelra dela."
+    },
+    {
+      "start": 255.9,
+      "end": 256.5,
+      "text": "A isca."
+    },
+    {
+      "start": 259.13,
+      "end": 260.59,
+      "text": "A isca machucou a guelra dela."
+    },
+    {
+      "start": 266.75,
+      "end": 267.23,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 268.43,
+      "end": 269.75,
+      "text": "Olha que tamanho de peixe."
+    },
+    {
+      "start": 271.21,
+      "end": 271.91,
+      "text": "Coisa linda."
+    },
+    {
+      "start": 273.94,
+      "end": 275.22,
+      "text": "Pouco mais de dois quilos, ó."
+    },
+    {
+      "start": 277.04,
+      "end": 277.92,
+      "text": "Vamos soltar ela."
+    },
+    {
+      "start": 279.56,
+      "end": 280.84,
+      "text": "Não estressar o peixe, não."
+    },
+    {
+      "start": 280.84,
+      "end": 285.44,
+      "text": "Olha lá, vai embora, hein."
+    },
+    {
+      "start": 288.08,
+      "end": 289.42,
+      "text": "Vai embora, minha linda."
+    },
+    {
+      "start": 290.65,
+      "end": 291.87,
+      "text": "Olha lá, que lindeza."
+    },
+    {
+      "start": 293.68,
+      "end": 294.92,
+      "text": "Oh, bruta."
+    },
+    {
+      "start": 297.86,
+      "end": 298.82,
+      "text": "Rapaz do céu."
+    },
+    {
+      "start": 298.9,
+      "end": 300.24,
+      "text": "Que lugar que é esse, gente."
+    },
+    {
+      "start": 301.84,
+      "end": 303.12,
+      "text": "Lugar maravilhoso."
+    },
+    {
+      "start": 305.78,
+      "end": 306.88,
+      "text": "Ei, rio pardo, hein."
+    },
+    {
+      "start": 309.6,
+      "end": 312.35,
+      "text": "Ó, pescaria bruta."
+    },
+    {
+      "start": 314.79,
+      "end": 315.69,
+      "text": "Peixe lindo, hein."
+    },
+    {
+      "start": 317.63,
+      "end": 318.25,
+      "text": "Isso aí, galera."
+    },
+    {
+      "start": 318.35,
+      "end": 318.81,
+      "text": "Abraço."
+    },
+    {
+      "start": 320.69,
+      "end": 321.39,
+      "text": "Show de bola."
+    },
+    {
+      "start": 324.19,
+      "end": 325.23,
+      "text": "Lugar top demais."
+    },
+    {
+      "start": 325.23,
+      "end": 327.33,
+      "text": "Tchau, tchau."
+    }
+  ],
+  "duracao_seg": 331.83,
+  "idioma_detectado": "pt"
+}

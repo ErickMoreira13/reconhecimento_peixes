@@ -1,0 +1,27 @@
+{
+  "texto": "Refoljo de água suja é lugar de peixe juntar Eu armo um anzol de gaia pra pegar uma rua Meu rancho fica na beira de cá escuto bater Daqui da porta do rancho eu vejo a gaia tremer",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "Refoljo de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 4.6,
+      "end": 9.36,
+      "text": "Eu armo um anzol de gaia pra pegar uma rua"
+    },
+    {
+      "start": 9.36,
+      "end": 14.83,
+      "text": "Meu rancho fica na beira de cá escuto bater"
+    },
+    {
+      "start": 14.83,
+      "end": 20.23,
+      "text": "Daqui da porta do rancho eu vejo a gaia tremer"
+    }
+  ],
+  "duracao_seg": 20.27,
+  "idioma_detectado": "pt"
+}

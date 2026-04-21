@@ -1,0 +1,172 @@
+{
+  "texto": "Duas matrinchãs? Duas matrinchãs? É elas que estão comendo, é? Olha aí! Olha aí, com essa aí você pode falar como, Tassi? Ah, bota! Duas piracanjubas, né? Peixe bom? Foi embora! Toca aqui, Passa Tassi Vem com massa e tudo Puxou a cabeça no mato Pra se livrar do anzol Não fica triste não Com esse aqui eu posso falar? Ah, bota! É repeteco, Piapara? Não! São os mesmos São os mesmos São os piaussus Esse aqui não tem berruga na boca, ó Não é berruguena 42 Indo pra 43, ó 42 centímetros Ah, que maravilha! Vai pra água Sai assim Sai bonito Para os outros, velho Ó, tá aí E vou embora!",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 2.11,
+      "text": "Duas matrinchãs?"
+    },
+    {
+      "start": 2.11,
+      "end": 4.11,
+      "text": "Duas matrinchãs?"
+    },
+    {
+      "start": 4.11,
+      "end": 6.11,
+      "text": "É elas que estão comendo, é?"
+    },
+    {
+      "start": 6.11,
+      "end": 8.11,
+      "text": "Olha aí!"
+    },
+    {
+      "start": 8.11,
+      "end": 10.11,
+      "text": "Olha aí, com essa aí você pode falar"
+    },
+    {
+      "start": 10.11,
+      "end": 12.11,
+      "text": "como, Tassi?"
+    },
+    {
+      "start": 12.11,
+      "end": 16.74,
+      "text": "Ah, bota!"
+    },
+    {
+      "start": 16.74,
+      "end": 18.74,
+      "text": "Duas piracanjubas, né?"
+    },
+    {
+      "start": 18.74,
+      "end": 20.74,
+      "text": "Peixe bom?"
+    },
+    {
+      "start": 20.74,
+      "end": 22.74,
+      "text": "Foi embora!"
+    },
+    {
+      "start": 22.74,
+      "end": 32.74,
+      "text": "Toca aqui, Passa Tassi"
+    },
+    {
+      "start": 32.74,
+      "end": 34.74,
+      "text": "Vem com massa e tudo"
+    },
+    {
+      "start": 34.74,
+      "end": 37.02,
+      "text": "Puxou a cabeça no mato"
+    },
+    {
+      "start": 37.02,
+      "end": 41.36,
+      "text": "Pra se livrar do anzol"
+    },
+    {
+      "start": 41.36,
+      "end": 51.81,
+      "text": "Não fica triste não"
+    },
+    {
+      "start": 51.81,
+      "end": 53.81,
+      "text": "Com esse aqui eu posso falar?"
+    },
+    {
+      "start": 53.81,
+      "end": 56.64,
+      "text": "Ah, bota!"
+    },
+    {
+      "start": 56.64,
+      "end": 58.64,
+      "text": "É repeteco, Piapara? Não!"
+    },
+    {
+      "start": 58.64,
+      "end": 60.64,
+      "text": "São os mesmos"
+    },
+    {
+      "start": 60.64,
+      "end": 62.64,
+      "text": "São os mesmos"
+    },
+    {
+      "start": 62.64,
+      "end": 64.64,
+      "text": "São os piaussus"
+    },
+    {
+      "start": 64.64,
+      "end": 66.7,
+      "text": "Esse aqui não tem berruga na boca, ó"
+    },
+    {
+      "start": 66.7,
+      "end": 68.7,
+      "text": "Não é berruguena"
+    },
+    {
+      "start": 68.7,
+      "end": 70.7,
+      "text": "42"
+    },
+    {
+      "start": 70.7,
+      "end": 72.7,
+      "text": "Indo pra 43, ó"
+    },
+    {
+      "start": 72.7,
+      "end": 74.8,
+      "text": "42 centímetros"
+    },
+    {
+      "start": 74.8,
+      "end": 76.8,
+      "text": "Ah, que maravilha!"
+    },
+    {
+      "start": 76.8,
+      "end": 79.79,
+      "text": "Vai pra água"
+    },
+    {
+      "start": 79.79,
+      "end": 82.3,
+      "text": "Sai assim"
+    },
+    {
+      "start": 82.3,
+      "end": 84.3,
+      "text": "Sai bonito"
+    },
+    {
+      "start": 84.3,
+      "end": 85.3,
+      "text": "Para os outros, velho"
+    },
+    {
+      "start": 85.3,
+      "end": 86.3,
+      "text": "Ó, tá aí"
+    },
+    {
+      "start": 86.3,
+      "end": 87.3,
+      "text": "E vou embora!"
+    }
+  ],
+  "duracao_seg": 87.63,
+  "idioma_detectado": "pt"
+}

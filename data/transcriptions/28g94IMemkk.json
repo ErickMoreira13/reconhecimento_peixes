@@ -1,0 +1,57 @@
+{
+  "texto": "É uma trechão, ó, brigadou! Viu pra trás, hein, Bíblia? Bonito! Tá correndo pra debaixo do barco. Pegava e soltava, pegava e soltava, né? Na sua mesmo, de uma, duas, seis vezes. Essa ela pegou com vontade, pegou, hein? Puxou. Eee, menina! E ela foi com apetite, os outros peixes a gente tava tentando, tentando, mas...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": "É uma trechão, ó, brigadou!"
+    },
+    {
+      "start": 3.44,
+      "end": 4.62,
+      "text": "Viu pra trás, hein, Bíblia?"
+    },
+    {
+      "start": 6.62,
+      "end": 7.06,
+      "text": "Bonito!"
+    },
+    {
+      "start": 8.34,
+      "end": 10.24,
+      "text": "Tá correndo pra debaixo do barco."
+    },
+    {
+      "start": 12.35,
+      "end": 14.43,
+      "text": "Pegava e soltava, pegava e soltava, né?"
+    },
+    {
+      "start": 14.61,
+      "end": 16.41,
+      "text": "Na sua mesmo, de uma, duas, seis vezes."
+    },
+    {
+      "start": 17.17,
+      "end": 18.79,
+      "text": "Essa ela pegou com vontade, pegou, hein?"
+    },
+    {
+      "start": 19.63,
+      "end": 20.11,
+      "text": "Puxou."
+    },
+    {
+      "start": 23.07,
+      "end": 24.75,
+      "text": "Eee, menina!"
+    },
+    {
+      "start": 25.39,
+      "end": 29.11,
+      "text": "E ela foi com apetite, os outros peixes a gente tava tentando, tentando, mas..."
+    }
+  ],
+  "duracao_seg": 29.15,
+  "idioma_detectado": "pt"
+}

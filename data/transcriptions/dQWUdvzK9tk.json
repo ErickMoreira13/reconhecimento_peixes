@@ -1,0 +1,77 @@
+{
+  "texto": "Estou filmando O alicate está aqui Não, dá o outro alicate E esse aqui? Não, ele vai escapar Eu tenho a garra Pega pelo rabo Tem o alicate Laranjado aí Pega aí Procura ele aí Acho que está aí Se não tiraram Nossa",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "Estou filmando"
+    },
+    {
+      "start": 0.74,
+      "end": 17.17,
+      "text": "O alicate está aqui"
+    },
+    {
+      "start": 17.17,
+      "end": 20.27,
+      "text": "Não, dá o outro alicate"
+    },
+    {
+      "start": 20.27,
+      "end": 22.19,
+      "text": "E esse aqui?"
+    },
+    {
+      "start": 23.13,
+      "end": 24.15,
+      "text": "Não, ele vai escapar"
+    },
+    {
+      "start": 24.15,
+      "end": 25.99,
+      "text": "Eu tenho a garra"
+    },
+    {
+      "start": 25.99,
+      "end": 28.09,
+      "text": "Pega pelo rabo"
+    },
+    {
+      "start": 28.09,
+      "end": 32.9,
+      "text": "Tem o alicate"
+    },
+    {
+      "start": 32.9,
+      "end": 34.04,
+      "text": "Laranjado aí"
+    },
+    {
+      "start": 34.04,
+      "end": 34.68,
+      "text": "Pega aí"
+    },
+    {
+      "start": 34.68,
+      "end": 35.98,
+      "text": "Procura ele aí"
+    },
+    {
+      "start": 35.98,
+      "end": 36.56,
+      "text": "Acho que está aí"
+    },
+    {
+      "start": 36.56,
+      "end": 38.1,
+      "text": "Se não tiraram"
+    },
+    {
+      "start": 38.1,
+      "end": 59.67,
+      "text": "Nossa"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

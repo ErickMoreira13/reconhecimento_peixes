@@ -1,0 +1,27 @@
+{
+  "texto": "Cuidado, é grande! É imensa! Já está mais cansada. Olha aqui, não é? Que hermoso pescadango!",
+  "segmentos": [
+    {
+      "start": 3.98,
+      "end": 27.88,
+      "text": "Cuidado, é grande! É imensa!"
+    },
+    {
+      "start": 27.88,
+      "end": 56.37,
+      "text": "Já está mais cansada."
+    },
+    {
+      "start": 56.37,
+      "end": 71.88,
+      "text": "Olha aqui, não é?"
+    },
+    {
+      "start": 78.86,
+      "end": 208.32,
+      "text": "Que hermoso pescadango!"
+    }
+  ],
+  "duracao_seg": 218.69,
+  "idioma_detectado": "pt"
+}

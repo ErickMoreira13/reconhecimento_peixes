@@ -1,0 +1,87 @@
+{
+  "texto": "Amigos! Amigos! A outra lá! Mais uma! Mais uma! Peguei o casal! Olha, você engoliu a outra, mano! Que lava! É! Aí! Caramba! Caramba! Que lava! É! Aí! Caramba!",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 1.75,
+      "text": "Amigos!"
+    },
+    {
+      "start": 1.75,
+      "end": 2.75,
+      "text": "Amigos!"
+    },
+    {
+      "start": 2.75,
+      "end": 3.75,
+      "text": "A outra lá!"
+    },
+    {
+      "start": 3.75,
+      "end": 4.75,
+      "text": "Mais uma!"
+    },
+    {
+      "start": 4.75,
+      "end": 5.75,
+      "text": "Mais uma!"
+    },
+    {
+      "start": 5.75,
+      "end": 6.75,
+      "text": "Peguei o casal!"
+    },
+    {
+      "start": 6.75,
+      "end": 7.75,
+      "text": "Olha, você engoliu a outra, mano!"
+    },
+    {
+      "start": 7.75,
+      "end": 8.75,
+      "text": "Que lava!"
+    },
+    {
+      "start": 8.75,
+      "end": 9.75,
+      "text": "É!"
+    },
+    {
+      "start": 9.75,
+      "end": 10.75,
+      "text": "Aí!"
+    },
+    {
+      "start": 10.75,
+      "end": 11.75,
+      "text": "Caramba!"
+    },
+    {
+      "start": 11.75,
+      "end": 12.75,
+      "text": "Caramba!"
+    },
+    {
+      "start": 12.75,
+      "end": 13.75,
+      "text": "Que lava!"
+    },
+    {
+      "start": 13.75,
+      "end": 14.75,
+      "text": "É!"
+    },
+    {
+      "start": 14.75,
+      "end": 15.75,
+      "text": "Aí!"
+    },
+    {
+      "start": 15.75,
+      "end": 18.75,
+      "text": "Caramba!"
+    }
+  ],
+  "duracao_seg": 19.01,
+  "idioma_detectado": "pt"
+}

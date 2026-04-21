@@ -1,0 +1,17 @@
+{
+  "texto": "ó a bicha é brava cara é pequena mas é brava não escapar nunca não escapar nunca peguei ela aqui mesmo ó piraquinha filé lindinha em tirar ela aqui",
+  "segmentos": [
+    {
+      "start": 3.02,
+      "end": 23.34,
+      "text": "ó a bicha é brava cara é pequena mas é brava não escapar nunca"
+    },
+    {
+      "start": 23.34,
+      "end": 47.4,
+      "text": "não escapar nunca peguei ela aqui mesmo ó piraquinha filé lindinha em tirar ela aqui"
+    }
+  ],
+  "duracao_seg": 54.15,
+  "idioma_detectado": "pt"
+}

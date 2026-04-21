@@ -1,0 +1,27 @@
+{
+  "texto": "saber que peixe que o peixe risca é a estica o an pequeno pescaria de mata enxã no currículo pessoal pescaria de mata enxã no currículo já tem 700 gramas mas já está boa eu não trouxe comida e eu vim fazer uma excursão aqui no garapé vou fazer o almoço dela hoje vou fazer mata enxã assada valeu pessoal",
+  "segmentos": [
+    {
+      "start": 59.79,
+      "end": 136.4,
+      "text": "saber que peixe que o peixe risca é a estica o an pequeno pescaria de"
+    },
+    {
+      "start": 136.4,
+      "end": 188.17,
+      "text": "mata enxã no currículo pessoal pescaria de mata enxã no currículo já tem 700"
+    },
+    {
+      "start": 188.17,
+      "end": 196.95,
+      "text": "gramas mas já está boa eu não trouxe comida e eu vim fazer uma excursão aqui"
+    },
+    {
+      "start": 196.95,
+      "end": 204.15,
+      "text": "no garapé vou fazer o almoço dela hoje vou fazer mata enxã assada valeu pessoal"
+    }
+  ],
+  "duracao_seg": 203.57,
+  "idioma_detectado": "pt"
+}

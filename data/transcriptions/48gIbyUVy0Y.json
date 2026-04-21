@@ -1,0 +1,82 @@
+{
+  "texto": "você vê a carinha dele? a carinha dele! você vê o peixinho dele? levanta a barra e dá uma mensagem pra pular ó rapaz! olha o tamanho! errei, Jamba! não é não, não é não segura, segura, pega e a parte segura, segura, segura você vê? tá louco! cuidado, hein? deixa eu ver a câmera tá louco",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "você vê a carinha dele?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "a carinha dele!"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "você vê o peixinho dele?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "levanta a barra e dá uma mensagem pra pular"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "ó rapaz!"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "olha o tamanho!"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "errei, Jamba!"
+    },
+    {
+      "start": 12.0,
+      "end": 14.16,
+      "text": "não é não, não é não"
+    },
+    {
+      "start": 14.16,
+      "end": 16.16,
+      "text": "segura, segura, pega"
+    },
+    {
+      "start": 16.16,
+      "end": 20.54,
+      "text": "e a parte segura, segura, segura"
+    },
+    {
+      "start": 20.54,
+      "end": 23.44,
+      "text": "você vê?"
+    },
+    {
+      "start": 23.44,
+      "end": 25.76,
+      "text": "tá louco!"
+    },
+    {
+      "start": 25.76,
+      "end": 27.82,
+      "text": "cuidado, hein?"
+    },
+    {
+      "start": 27.82,
+      "end": 29.82,
+      "text": "deixa eu ver a câmera"
+    },
+    {
+      "start": 29.82,
+      "end": 31.82,
+      "text": "tá louco"
+    }
+  ],
+  "duracao_seg": 30.55,
+  "idioma_detectado": "pt"
+}
