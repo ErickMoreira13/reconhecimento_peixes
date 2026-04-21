@@ -1,0 +1,27 @@
+{
+  "texto": "Um homem teve uma ideia repentina e transformou. Uma cesta de verduras em um dispositivo de pesca improvisado. Ele submergiu a cesta em uma área com grande concentração de peixes e os peixes ao redor rapidamente foram atraídos.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Um homem teve uma ideia repentina e transformou."
+    },
+    {
+      "start": 3.4,
+      "end": 6.64,
+      "text": "Uma cesta de verduras em um dispositivo de pesca improvisado."
+    },
+    {
+      "start": 7.02,
+      "end": 11.26,
+      "text": "Ele submergiu a cesta em uma área com grande concentração de peixes"
+    },
+    {
+      "start": 11.26,
+      "end": 14.28,
+      "text": "e os peixes ao redor rapidamente foram atraídos."
+    }
+  ],
+  "duracao_seg": 14.71,
+  "idioma_detectado": "pt"
+}

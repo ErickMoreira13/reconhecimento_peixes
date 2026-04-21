@@ -1,0 +1,17 @@
+{
+  "texto": "Já é sexta, eu tô, fiquem fim de semana Transporta o copo, tem só gata aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.47,
+      "text": "Já é sexta, eu tô, fiquem fim de semana"
+    },
+    {
+      "start": 3.47,
+      "end": 6.07,
+      "text": "Transporta o copo, tem só gata aí"
+    }
+  ],
+  "duracao_seg": 6.39,
+  "idioma_detectado": "pt"
+}

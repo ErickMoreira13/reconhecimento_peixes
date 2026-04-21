@@ -1,0 +1,32 @@
+{
+  "texto": "Vantagens de criar o bichinho da laranja Reproduz fácil e estilapia asama, fácil de pescar com ele Contém muita proteína Bom demais Você não precisa comprar toda vez que for pescar",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Vantagens de criar o bichinho da laranja"
+    },
+    {
+      "start": 2.58,
+      "end": 7.16,
+      "text": "Reproduz fácil e estilapia asama, fácil de pescar com ele"
+    },
+    {
+      "start": 7.16,
+      "end": 9.3,
+      "text": "Contém muita proteína"
+    },
+    {
+      "start": 9.3,
+      "end": 11.16,
+      "text": "Bom demais"
+    },
+    {
+      "start": 11.16,
+      "end": 14.76,
+      "text": "Você não precisa comprar toda vez que for pescar"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

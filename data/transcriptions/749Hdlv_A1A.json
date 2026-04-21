@@ -1,0 +1,612 @@
+{
+  "texto": "Agora eu vou pescar! Lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá. Vem, peixinho! Eu tenho uma comidinha deliciosa pra você! Vem, peixinho! Oi, boneca JT! O que você tá fazendo? Eu tô pescando! Tá de brincadeira, né? Existe peixe na piscina! Existe sim, boneca Maria Clara! Outro dia eu pesquei um grandão! Aham, tá bom! Eu vou ficar aqui sentada esperando e vou até tirar um cochilinho! Você está rindo, é? Antes de você acordar eu vou ter pego um peixe! Ok! Lago nos mares, nos rios, nadam na piscina! Ah, eu peguei um peixe! Eu peguei um peixe! Eu peguei um peixe, Maria! Eu te ajudo! Eu peguei um peixe! Vai, me ajuda! Como isso é possível? Eu peguei um peixe, Maria! Força, força! Só o peixão que eu pesquei, Maria! Consegui, boneca Maria Clara! Não te disse que tinha peixe aqui nessa piscina? Nossa! Agora eu preciso ir embora! Tchau! Um peixe também! Animais vertebrados? Mas o que é isso, boneca Maria Clara? É em agente! Entendi! Será que eles estão com fome? Boa ideia! Vamos! Ok! Oi, tudo bem? Tudo bem! Você tem comida pra peixe? E tubarão? Nossa! Que tubarão gigante! Olha, eu não tenho comida de tubarão, mas eu tenho várias frutas e cereal! Yummy! Eu acho que não é legal dar cereais para os peixes, né? Como mesmo? É levar os peixinhos para onde que precisam e se... Imagina só um tubarão comendo cereal! Ia ser muito engraçado, mas nada saudável pra eles! Maria, foi a melhor coisa que a gente fez! A gente só deve pescar se for pra nossa alimentação! É verdade, boneco JP! Caso contrário, melhor deixar os animais livres na natureza! É isso aí! Vamos! Bora lá! Maria, cuidado pra você não cair! Maria, você tá ouvindo isso? Vê o que é! Aparece um baú! Vamos levar pra casa! Eu acho que não é a última vez num dão bom! Maria, não dá tempo pra pensar! Vamos logo que tá chovendo! Baú? Maria, relaxa! O que pode dar de errado em abrir um baú? Ok! Bom, então! Viu só, Maria? São só brinquedinhos! Saúde, Maria! Olha! Eu peguei um elefante! E eu peguei um leão! Que legal! Você escutou isso, Maria? Tá vindo de lá, JP! O que o tigre faz? Miau? Ou ra! Olha! Olha só, Maria! Isso aqui é um dinossauro! Dinossauros foram extintos há milhares de anos! Olha só que bonitinho! Bonitinho! Maria! Que fruto da nossa imaginação! Viu, Maria? Não nada! É tudo coisa da nossa imaginação! E, Maria? É tudo da nossa imaginação! Eu vou colocar uma música que gira! Gira, gira, gira, gira! Gira, gira, gira, gira, gira, gira! Gira, gira, gira, gira! Ah! Ele tá no banheiro! Não é o problema, hein? Maria Clara, desculpa! Ok! E, lixos orgânicos e embalagem! Lixo orgânico, embalagens e garrafas plásticas! Pode deixar que da próxima vez eu não vou fazer mais isso! O que é que eu fiz? Já sei! Preciso de mais papel! É mesmo? Pode deixar, Maria! Acho que aqui é um bom lugar! A nossa árvore ficou muito grande! Muito obrigado por todas as dicas, Maria Clara! Vocês, galerinha, não vão esquecer dessas dicas e vamos salvar o mundo!",
+  "segmentos": [
+    {
+      "start": 1.16,
+      "end": 5.84,
+      "text": "Agora eu vou pescar!"
+    },
+    {
+      "start": 6.44,
+      "end": 10.08,
+      "text": "Lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá."
+    },
+    {
+      "start": 10.14,
+      "end": 14.62,
+      "text": "Vem, peixinho!"
+    },
+    {
+      "start": 14.92,
+      "end": 17.72,
+      "text": "Eu tenho uma comidinha deliciosa pra você!"
+    },
+    {
+      "start": 18.06,
+      "end": 19.14,
+      "text": "Vem, peixinho!"
+    },
+    {
+      "start": 19.86,
+      "end": 24.1,
+      "text": "Oi, boneca JT!"
+    },
+    {
+      "start": 24.51,
+      "end": 25.65,
+      "text": "O que você tá fazendo?"
+    },
+    {
+      "start": 26.31,
+      "end": 27.49,
+      "text": "Eu tô pescando!"
+    },
+    {
+      "start": 28.07,
+      "end": 30.32,
+      "text": "Tá de brincadeira, né?"
+    },
+    {
+      "start": 31.32,
+      "end": 34.27,
+      "text": "Existe peixe na piscina!"
+    },
+    {
+      "start": 35.59,
+      "end": 37.65,
+      "text": "Existe sim, boneca Maria Clara!"
+    },
+    {
+      "start": 37.65,
+      "end": 40.65,
+      "text": "Outro dia eu pesquei um grandão!"
+    },
+    {
+      "start": 42.71,
+      "end": 44.28,
+      "text": "Aham, tá bom!"
+    },
+    {
+      "start": 44.66,
+      "end": 48.76,
+      "text": "Eu vou ficar aqui sentada esperando e vou até tirar um cochilinho!"
+    },
+    {
+      "start": 49.8,
+      "end": 51.24,
+      "text": "Você está rindo, é?"
+    },
+    {
+      "start": 51.9,
+      "end": 54.38,
+      "text": "Antes de você acordar eu vou ter pego um peixe!"
+    },
+    {
+      "start": 55.42,
+      "end": 55.92,
+      "text": "Ok!"
+    },
+    {
+      "start": 56.98,
+      "end": 70.03,
+      "text": "Lago nos mares, nos rios, nadam na piscina!"
+    },
+    {
+      "start": 71.59,
+      "end": 73.31,
+      "text": "Ah, eu peguei um peixe!"
+    },
+    {
+      "start": 73.51,
+      "end": 74.29,
+      "text": "Eu peguei um peixe!"
+    },
+    {
+      "start": 74.47,
+      "end": 75.59,
+      "text": "Eu peguei um peixe, Maria!"
+    },
+    {
+      "start": 75.59,
+      "end": 75.95,
+      "text": "Eu te ajudo!"
+    },
+    {
+      "start": 76.45,
+      "end": 77.33,
+      "text": "Eu peguei um peixe!"
+    },
+    {
+      "start": 77.53,
+      "end": 78.47,
+      "text": "Vai, me ajuda!"
+    },
+    {
+      "start": 78.65,
+      "end": 79.33,
+      "text": "Como isso é possível?"
+    },
+    {
+      "start": 79.33,
+      "end": 80.79,
+      "text": "Eu peguei um peixe, Maria!"
+    },
+    {
+      "start": 81.29,
+      "end": 82.31,
+      "text": "Força, força!"
+    },
+    {
+      "start": 82.51,
+      "end": 90.83,
+      "text": "Só o peixão que eu pesquei, Maria!"
+    },
+    {
+      "start": 93.69,
+      "end": 95.43,
+      "text": "Consegui, boneca Maria Clara!"
+    },
+    {
+      "start": 99.42,
+      "end": 101.64,
+      "text": "Não te disse que tinha peixe aqui nessa piscina?"
+    },
+    {
+      "start": 102.22,
+      "end": 102.74,
+      "text": "Nossa!"
+    },
+    {
+      "start": 103.74,
+      "end": 104.9,
+      "text": "Agora eu preciso ir embora!"
+    },
+    {
+      "start": 105.14,
+      "end": 105.36,
+      "text": "Tchau!"
+    },
+    {
+      "start": 106.36,
+      "end": 122.91,
+      "text": "Um peixe também!"
+    },
+    {
+      "start": 223.77,
+      "end": 225.37,
+      "text": "Animais vertebrados?"
+    },
+    {
+      "start": 226.21,
+      "end": 229.0,
+      "text": "Mas o que é isso, boneca Maria Clara?"
+    },
+    {
+      "start": 229.46,
+      "end": 234.64,
+      "text": "É em agente!"
+    },
+    {
+      "start": 237.4,
+      "end": 237.9,
+      "text": "Entendi!"
+    },
+    {
+      "start": 237.9,
+      "end": 240.49,
+      "text": "Será que eles estão com fome?"
+    },
+    {
+      "start": 241.29,
+      "end": 245.32,
+      "text": "Boa ideia!"
+    },
+    {
+      "start": 245.74,
+      "end": 246.04,
+      "text": "Vamos!"
+    },
+    {
+      "start": 246.38,
+      "end": 246.84,
+      "text": "Ok!"
+    },
+    {
+      "start": 263.72,
+      "end": 264.54,
+      "text": "Oi, tudo bem?"
+    },
+    {
+      "start": 264.8,
+      "end": 265.44,
+      "text": "Tudo bem!"
+    },
+    {
+      "start": 266.36,
+      "end": 267.88,
+      "text": "Você tem comida pra peixe?"
+    },
+    {
+      "start": 268.26,
+      "end": 269.06,
+      "text": "E tubarão?"
+    },
+    {
+      "start": 270.09,
+      "end": 270.61,
+      "text": "Nossa!"
+    },
+    {
+      "start": 270.87,
+      "end": 272.25,
+      "text": "Que tubarão gigante!"
+    },
+    {
+      "start": 272.89,
+      "end": 276.75,
+      "text": "Olha, eu não tenho comida de tubarão, mas eu tenho várias frutas e cereal!"
+    },
+    {
+      "start": 277.21,
+      "end": 277.57,
+      "text": "Yummy!"
+    },
+    {
+      "start": 277.87,
+      "end": 281.09,
+      "text": "Eu acho que não é legal dar cereais para os peixes, né?"
+    },
+    {
+      "start": 281.43,
+      "end": 283.67,
+      "text": "Como mesmo?"
+    },
+    {
+      "start": 283.79,
+      "end": 293.37,
+      "text": "É levar os peixinhos para onde que precisam e se..."
+    },
+    {
+      "start": 293.37,
+      "end": 296.23,
+      "text": "Imagina só um tubarão comendo cereal!"
+    },
+    {
+      "start": 296.71,
+      "end": 300.39,
+      "text": "Ia ser muito engraçado, mas nada saudável pra eles!"
+    },
+    {
+      "start": 301.53,
+      "end": 324.79,
+      "text": "Maria, foi a melhor coisa que a gente fez!"
+    },
+    {
+      "start": 325.13,
+      "end": 328.41,
+      "text": "A gente só deve pescar se for pra nossa alimentação!"
+    },
+    {
+      "start": 328.59,
+      "end": 330.13,
+      "text": "É verdade, boneco JP!"
+    },
+    {
+      "start": 330.55,
+      "end": 334.09,
+      "text": "Caso contrário, melhor deixar os animais livres na natureza!"
+    },
+    {
+      "start": 334.25,
+      "end": 335.03,
+      "text": "É isso aí!"
+    },
+    {
+      "start": 335.09,
+      "end": 335.39,
+      "text": "Vamos!"
+    },
+    {
+      "start": 336.23,
+      "end": 336.81,
+      "text": "Bora lá!"
+    },
+    {
+      "start": 342.23,
+      "end": 348.4,
+      "text": "Maria, cuidado pra você não cair!"
+    },
+    {
+      "start": 352.46,
+      "end": 354.24,
+      "text": "Maria, você tá ouvindo isso?"
+    },
+    {
+      "start": 354.24,
+      "end": 360.2,
+      "text": "Vê o que é!"
+    },
+    {
+      "start": 360.52,
+      "end": 369.88,
+      "text": "Aparece um baú!"
+    },
+    {
+      "start": 369.96,
+      "end": 372.62,
+      "text": "Vamos levar pra casa!"
+    },
+    {
+      "start": 372.94,
+      "end": 377.98,
+      "text": "Eu acho que não é a última vez num dão bom!"
+    },
+    {
+      "start": 378.02,
+      "end": 379.66,
+      "text": "Maria, não dá tempo pra pensar!"
+    },
+    {
+      "start": 379.92,
+      "end": 381.08,
+      "text": "Vamos logo que tá chovendo!"
+    },
+    {
+      "start": 382.46,
+      "end": 398.69,
+      "text": "Baú?"
+    },
+    {
+      "start": 399.07,
+      "end": 400.33,
+      "text": "Maria, relaxa!"
+    },
+    {
+      "start": 400.59,
+      "end": 402.37,
+      "text": "O que pode dar de errado em abrir um baú?"
+    },
+    {
+      "start": 402.51,
+      "end": 402.91,
+      "text": "Ok!"
+    },
+    {
+      "start": 403.35,
+      "end": 403.95,
+      "text": "Bom, então!"
+    },
+    {
+      "start": 407.14,
+      "end": 407.96,
+      "text": "Viu só, Maria?"
+    },
+    {
+      "start": 408.2,
+      "end": 409.48,
+      "text": "São só brinquedinhos!"
+    },
+    {
+      "start": 415.29,
+      "end": 416.21,
+      "text": "Saúde, Maria!"
+    },
+    {
+      "start": 417.81,
+      "end": 419.66,
+      "text": "Olha!"
+    },
+    {
+      "start": 420.22,
+      "end": 421.68,
+      "text": "Eu peguei um elefante!"
+    },
+    {
+      "start": 421.68,
+      "end": 423.46,
+      "text": "E eu peguei um leão!"
+    },
+    {
+      "start": 425.26,
+      "end": 428.47,
+      "text": "Que legal!"
+    },
+    {
+      "start": 434.72,
+      "end": 436.24,
+      "text": "Você escutou isso, Maria?"
+    },
+    {
+      "start": 436.46,
+      "end": 437.84,
+      "text": "Tá vindo de lá, JP!"
+    },
+    {
+      "start": 442.78,
+      "end": 518.67,
+      "text": "O que o tigre faz?"
+    },
+    {
+      "start": 519.19,
+      "end": 519.65,
+      "text": "Miau?"
+    },
+    {
+      "start": 520.21,
+      "end": 520.77,
+      "text": "Ou ra!"
+    },
+    {
+      "start": 521.33,
+      "end": 571.04,
+      "text": "Olha!"
+    },
+    {
+      "start": 571.28,
+      "end": 574.02,
+      "text": "Olha só, Maria!"
+    },
+    {
+      "start": 574.2,
+      "end": 575.72,
+      "text": "Isso aqui é um dinossauro!"
+    },
+    {
+      "start": 575.98,
+      "end": 578.76,
+      "text": "Dinossauros foram extintos há milhares de anos!"
+    },
+    {
+      "start": 579.38,
+      "end": 580.46,
+      "text": "Olha só que bonitinho!"
+    },
+    {
+      "start": 582.91,
+      "end": 583.55,
+      "text": "Bonitinho!"
+    },
+    {
+      "start": 589.15,
+      "end": 589.53,
+      "text": "Maria!"
+    },
+    {
+      "start": 589.93,
+      "end": 592.09,
+      "text": "Que fruto da nossa imaginação!"
+    },
+    {
+      "start": 592.09,
+      "end": 600.48,
+      "text": "Viu, Maria?"
+    },
+    {
+      "start": 600.74,
+      "end": 601.62,
+      "text": "Não nada!"
+    },
+    {
+      "start": 601.92,
+      "end": 603.94,
+      "text": "É tudo coisa da nossa imaginação!"
+    },
+    {
+      "start": 604.44,
+      "end": 613.52,
+      "text": "E, Maria?"
+    },
+    {
+      "start": 613.68,
+      "end": 615.48,
+      "text": "É tudo da nossa imaginação!"
+    },
+    {
+      "start": 616.14,
+      "end": 642.61,
+      "text": "Eu vou colocar uma música que gira!"
+    },
+    {
+      "start": 643.19,
+      "end": 644.98,
+      "text": "Gira, gira, gira, gira!"
+    },
+    {
+      "start": 645.36,
+      "end": 663.58,
+      "text": "Gira, gira, gira, gira, gira, gira!"
+    },
+    {
+      "start": 665.32,
+      "end": 666.68,
+      "text": "Gira, gira, gira, gira!"
+    },
+    {
+      "start": 666.76,
+      "end": 763.3,
+      "text": "Ah!"
+    },
+    {
+      "start": 763.44,
+      "end": 764.56,
+      "text": "Ele tá no banheiro!"
+    },
+    {
+      "start": 764.94,
+      "end": 908.37,
+      "text": "Não é o problema, hein?"
+    },
+    {
+      "start": 908.65,
+      "end": 923.04,
+      "text": "Maria Clara, desculpa!"
+    },
+    {
+      "start": 923.26,
+      "end": 923.68,
+      "text": "Ok!"
+    },
+    {
+      "start": 923.68,
+      "end": 958.18,
+      "text": "E, lixos orgânicos e embalagem!"
+    },
+    {
+      "start": 958.4,
+      "end": 961.86,
+      "text": "Lixo orgânico, embalagens e garrafas plásticas!"
+    },
+    {
+      "start": 999.4,
+      "end": 1016.25,
+      "text": "Pode deixar que da próxima vez eu não vou fazer mais isso!"
+    },
+    {
+      "start": 1016.61,
+      "end": 1069.62,
+      "text": "O que é que eu fiz?"
+    },
+    {
+      "start": 1070.02,
+      "end": 1071.22,
+      "text": "Já sei!"
+    },
+    {
+      "start": 1094.59,
+      "end": 1095.91,
+      "text": "Preciso de mais papel!"
+    },
+    {
+      "start": 1113.49,
+      "end": 1114.29,
+      "text": "É mesmo?"
+    },
+    {
+      "start": 1114.95,
+      "end": 1126.14,
+      "text": "Pode deixar, Maria!"
+    },
+    {
+      "start": 1126.44,
+      "end": 1133.22,
+      "text": "Acho que aqui é um bom lugar!"
+    },
+    {
+      "start": 1133.7,
+      "end": 1150.97,
+      "text": "A nossa árvore ficou muito grande!"
+    },
+    {
+      "start": 1151.45,
+      "end": 1157.18,
+      "text": "Muito obrigado por todas as dicas, Maria Clara!"
+    },
+    {
+      "start": 1157.18,
+      "end": 1163.7,
+      "text": "Vocês, galerinha, não vão esquecer dessas dicas e vamos salvar o mundo!"
+    }
+  ],
+  "duracao_seg": 1306.23,
+  "idioma_detectado": "pt"
+}

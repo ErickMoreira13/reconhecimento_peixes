@@ -1,0 +1,32 @@
+{
+  "texto": "Mano, só em Curitiba você vê isso, o cara é igual a garpa, não passei o público. Como assim, mano? Caralho, mano. Esse tá com fome. Você é louco, parça.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 4.44,
+      "text": "Mano, só em Curitiba você vê isso, o cara é igual a garpa, não passei o público."
+    },
+    {
+      "start": 4.96,
+      "end": 6.18,
+      "text": "Como assim, mano?"
+    },
+    {
+      "start": 7.88,
+      "end": 9.24,
+      "text": "Caralho, mano."
+    },
+    {
+      "start": 12.16,
+      "end": 13.02,
+      "text": "Esse tá com fome."
+    },
+    {
+      "start": 13.04,
+      "end": 14.38,
+      "text": "Você é louco, parça."
+    }
+  ],
+  "duracao_seg": 15.55,
+  "idioma_detectado": "pt"
+}

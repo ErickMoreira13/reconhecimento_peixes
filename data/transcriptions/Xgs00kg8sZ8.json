@@ -1,0 +1,32 @@
+{
+  "texto": "Mira, enquanto este homem estava tranquilamente junto ao rio pescando e comendo, seu bromista amigo movia a caña de vez em quando para que creia que um peço havia mordido o anzuelo, mas cada vez que revisava, não encontrava nada e voltava a comer. Finalmente, o amigo se cansou, se enfadou e arrojou a caña ao lago. Então, o homem, sem pensarlo, saiu ao lago de maneira graciosa.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "Mira, enquanto este homem estava tranquilamente junto ao rio pescando e comendo,"
+    },
+    {
+      "start": 4.04,
+      "end": 9.0,
+      "text": "seu bromista amigo movia a caña de vez em quando para que creia que um peço havia mordido o anzuelo,"
+    },
+    {
+      "start": 9.06,
+      "end": 12.2,
+      "text": "mas cada vez que revisava, não encontrava nada e voltava a comer."
+    },
+    {
+      "start": 12.46,
+      "end": 15.58,
+      "text": "Finalmente, o amigo se cansou, se enfadou e arrojou a caña ao lago."
+    },
+    {
+      "start": 15.7,
+      "end": 18.94,
+      "text": "Então, o homem, sem pensarlo, saiu ao lago de maneira graciosa."
+    }
+  ],
+  "duracao_seg": 19.11,
+  "idioma_detectado": "pt"
+}

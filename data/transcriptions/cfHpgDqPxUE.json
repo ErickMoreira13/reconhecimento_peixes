@@ -1,0 +1,172 @@
+{
+  "texto": "Alan, mas o que estás fazendo? Estou pescando um pouco, a ver se tenho sorte Mas não é que esta é uma piscina? Que queres pescar aqui? Sim, sim, o que tu digas Venha um tempo e verás que haver pescado algo Sim, claro Mas sigues aqui Não há encontrado nada, verdade? Estou me atacando O que? Estou me atacando Estou me atacando O que dices? A ver Um zapato É que te esperas? É uma piscina Eu vou seguir, seguro que encontro algo A ver se deixamos de perder o tempo Ojo, eu pico outra vez Vamos, outro zapato Não, não, não Isto é algo bom seguro Sim, claro Uma chancla, não? Vamos, vamos Iphone 15 Pro Maxi Funciona perfectamente Pero que dices? De donde ha salido eso? Pero Pero que?",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 1.62,
+      "text": "Alan, mas o que estás fazendo?"
+    },
+    {
+      "start": 1.72,
+      "end": 3.08,
+      "text": "Estou pescando um pouco, a ver se tenho sorte"
+    },
+    {
+      "start": 3.08,
+      "end": 4.5,
+      "text": "Mas não é que esta é uma piscina?"
+    },
+    {
+      "start": 4.56,
+      "end": 5.4,
+      "text": "Que queres pescar aqui?"
+    },
+    {
+      "start": 5.42,
+      "end": 6.26,
+      "text": "Sim, sim, o que tu digas"
+    },
+    {
+      "start": 6.26,
+      "end": 7.62,
+      "text": "Venha um tempo e verás que haver pescado algo"
+    },
+    {
+      "start": 7.62,
+      "end": 8.1,
+      "text": "Sim, claro"
+    },
+    {
+      "start": 8.1,
+      "end": 9.0,
+      "text": "Mas sigues aqui"
+    },
+    {
+      "start": 9.0,
+      "end": 10.06,
+      "text": "Não há encontrado nada, verdade?"
+    },
+    {
+      "start": 10.16,
+      "end": 10.58,
+      "text": "Estou me atacando"
+    },
+    {
+      "start": 10.58,
+      "end": 11.04,
+      "text": "O que?"
+    },
+    {
+      "start": 11.3,
+      "end": 12.02,
+      "text": "Estou me atacando"
+    },
+    {
+      "start": 12.02,
+      "end": 12.64,
+      "text": "Estou me atacando"
+    },
+    {
+      "start": 12.64,
+      "end": 13.16,
+      "text": "O que dices?"
+    },
+    {
+      "start": 13.48,
+      "end": 13.76,
+      "text": "A ver"
+    },
+    {
+      "start": 13.76,
+      "end": 14.66,
+      "text": "Um zapato"
+    },
+    {
+      "start": 14.66,
+      "end": 15.52,
+      "text": "É que te esperas?"
+    },
+    {
+      "start": 15.56,
+      "end": 16.12,
+      "text": "É uma piscina"
+    },
+    {
+      "start": 16.12,
+      "end": 17.38,
+      "text": "Eu vou seguir, seguro que encontro algo"
+    },
+    {
+      "start": 17.38,
+      "end": 19.04,
+      "text": "A ver se deixamos de perder o tempo"
+    },
+    {
+      "start": 19.04,
+      "end": 19.86,
+      "text": "Ojo, eu pico outra vez"
+    },
+    {
+      "start": 19.86,
+      "end": 21.32,
+      "text": "Vamos, outro zapato"
+    },
+    {
+      "start": 21.32,
+      "end": 21.9,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 21.9,
+      "end": 22.6,
+      "text": "Isto é algo bom seguro"
+    },
+    {
+      "start": 22.6,
+      "end": 23.26,
+      "text": "Sim, claro"
+    },
+    {
+      "start": 23.26,
+      "end": 24.06,
+      "text": "Uma chancla, não?"
+    },
+    {
+      "start": 24.16,
+      "end": 24.64,
+      "text": "Vamos, vamos"
+    },
+    {
+      "start": 24.64,
+      "end": 26.46,
+      "text": "Iphone 15 Pro Maxi"
+    },
+    {
+      "start": 26.46,
+      "end": 27.0,
+      "text": "Funciona perfectamente"
+    },
+    {
+      "start": 27.0,
+      "end": 27.54,
+      "text": "Pero que dices?"
+    },
+    {
+      "start": 27.64,
+      "end": 28.36,
+      "text": "De donde ha salido eso?"
+    },
+    {
+      "start": 28.36,
+      "end": 28.7,
+      "text": "Pero"
+    },
+    {
+      "start": 28.7,
+      "end": 30.0,
+      "text": "Pero que?"
+    }
+  ],
+  "duracao_seg": 30.37,
+  "idioma_detectado": "pt"
+}

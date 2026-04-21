@@ -1,0 +1,17 @@
+{
+  "texto": "desse peixe, isso aqui que eu chamo de espetáculo, olha",
+  "segmentos": [
+    {
+      "start": 58.77,
+      "end": 61.58,
+      "text": "desse peixe, isso aqui"
+    },
+    {
+      "start": 61.58,
+      "end": 63.14,
+      "text": "que eu chamo de espetáculo, olha"
+    }
+  ],
+  "duracao_seg": 89.29,
+  "idioma_detectado": "pt"
+}

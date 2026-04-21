@@ -1,0 +1,22 @@
+{
+  "texto": "E aí vem, vem, vem Olha a outra Sim, eu vi, olha só",
+  "segmentos": [
+    {
+      "start": 2.86,
+      "end": 11.46,
+      "text": "E aí vem, vem, vem"
+    },
+    {
+      "start": 11.46,
+      "end": 14.0,
+      "text": "Olha a outra"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Sim, eu vi, olha só"
+    }
+  ],
+  "duracao_seg": 16.35,
+  "idioma_detectado": "pt"
+}

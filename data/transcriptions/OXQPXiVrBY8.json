@@ -1,0 +1,42 @@
+{
+  "texto": "aqui desse peixe agora, né meus amigos eu acho que ficou bom ó, batatinha só falta ela, sexta-feira quem fez, fez natureza",
+  "segmentos": [
+    {
+      "start": 66.03,
+      "end": 68.15,
+      "text": "aqui desse peixe agora, né meus amigos"
+    },
+    {
+      "start": 68.15,
+      "end": 71.03,
+      "text": "eu acho que ficou bom"
+    },
+    {
+      "start": 71.03,
+      "end": 78.61,
+      "text": "ó, batatinha"
+    },
+    {
+      "start": 78.61,
+      "end": 84.84,
+      "text": "só falta"
+    },
+    {
+      "start": 84.84,
+      "end": 99.2,
+      "text": "ela, sexta-feira"
+    },
+    {
+      "start": 99.2,
+      "end": 100.92,
+      "text": "quem fez, fez"
+    },
+    {
+      "start": 100.92,
+      "end": 102.9,
+      "text": "natureza"
+    }
+  ],
+  "duracao_seg": 114.63,
+  "idioma_detectado": "pt"
+}

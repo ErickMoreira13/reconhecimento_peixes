@@ -1,0 +1,17 @@
+{
+  "texto": "Nessa sexta-feira sua tela vão testar a pescaria, confere a do mar, sente a pressão, confere a do mar, confere mais uma pescaria nesta segunda, 5 e meia da tarde, aguarde. Primeiro já ficou hein, ó, ó, vamos ver bem aí, ó.",
+  "segmentos": [
+    {
+      "start": 1.71,
+      "end": 19.0,
+      "text": "Nessa sexta-feira sua tela vão testar a pescaria, confere a do mar, sente a pressão, confere a do mar, confere mais uma pescaria nesta segunda, 5 e meia da tarde, aguarde."
+    },
+    {
+      "start": 19.24,
+      "end": 24.1,
+      "text": "Primeiro já ficou hein, ó, ó, vamos ver bem aí, ó."
+    }
+  ],
+  "duracao_seg": 27.05,
+  "idioma_detectado": "pt"
+}

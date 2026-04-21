@@ -1,0 +1,57 @@
+{
+  "texto": "Bom, amigos, meu irmão vai agarrar o temblador, vamos ver, ojalá que não o veja. Alguém passa duro por dentro da caia. Não, parece que não, não viu? E a pinça... Ui, sim passa. Ui, sim pega. Vamos ver, amigos. Ah, muito temblador. Está grandíssimo. Com os braços.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Bom, amigos, meu irmão vai agarrar o temblador, vamos ver, ojalá que não o veja."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Alguém passa duro por dentro da caia."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Não, parece que não, não viu?"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "E a pinça..."
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Ui, sim passa."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Ui, sim pega."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Vamos ver, amigos."
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Ah, muito temblador."
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Está grandíssimo."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Com os braços."
+    }
+  ],
+  "duracao_seg": 15.61,
+  "idioma_detectado": "pt"
+}
