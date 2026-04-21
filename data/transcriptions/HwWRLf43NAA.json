@@ -1,0 +1,37 @@
+{
+  "texto": "Só no balão, meu estilo é burro São os calejados, já explica tudo Sou um vaqueiro e esse é meu mundo Bem desarrumado, meu cheiro é do mate O amor é meu cavalo, só no E se é boiado, o mundo tem meu cavalo agora",
+  "segmentos": [
+    {
+      "start": 5.39,
+      "end": 12.12,
+      "text": "Só no balão, meu estilo é burro"
+    },
+    {
+      "start": 12.12,
+      "end": 14.61,
+      "text": "São os calejados, já explica tudo"
+    },
+    {
+      "start": 14.61,
+      "end": 17.24,
+      "text": "Sou um vaqueiro e esse é meu mundo"
+    },
+    {
+      "start": 17.24,
+      "end": 23.2,
+      "text": "Bem desarrumado, meu cheiro é do mate"
+    },
+    {
+      "start": 23.2,
+      "end": 24.77,
+      "text": "O amor é meu cavalo, só no"
+    },
+    {
+      "start": 24.77,
+      "end": 33.91,
+      "text": "E se é boiado, o mundo tem meu cavalo agora"
+    }
+  ],
+  "duracao_seg": 34.91,
+  "idioma_detectado": "pt"
+}

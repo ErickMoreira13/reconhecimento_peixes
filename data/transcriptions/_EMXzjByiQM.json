@@ -1,0 +1,17 @@
+{
+  "texto": "Let's go Let's go",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 1.15,
+      "text": "Let's go"
+    },
+    {
+      "start": 1.15,
+      "end": 7.93,
+      "text": "Let's go"
+    }
+  ],
+  "duracao_seg": 8.31,
+  "idioma_detectado": "pt"
+}

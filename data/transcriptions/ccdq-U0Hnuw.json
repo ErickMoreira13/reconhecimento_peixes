@@ -1,0 +1,67 @@
+{
+  "texto": "Aí vamos nós! Peguei! Ei, não se preocupe, cara. Você vai fisgar algo. Alguma hora. Na verdade, Parker, estou pescando algo bem grande! Isso é feito de papel machê. Você fez isso? Isso seria loucura! Está com seu nome. Minha arte! Está muito bom!",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 1.94,
+      "text": "Aí vamos nós!"
+    },
+    {
+      "start": 2.62,
+      "end": 3.34,
+      "text": "Peguei!"
+    },
+    {
+      "start": 3.78,
+      "end": 5.1,
+      "text": "Ei, não se preocupe, cara."
+    },
+    {
+      "start": 5.3,
+      "end": 6.22,
+      "text": "Você vai fisgar algo."
+    },
+    {
+      "start": 6.56,
+      "end": 7.62,
+      "text": "Alguma hora."
+    },
+    {
+      "start": 8.48,
+      "end": 12.88,
+      "text": "Na verdade, Parker, estou pescando algo bem grande!"
+    },
+    {
+      "start": 19.38,
+      "end": 21.0,
+      "text": "Isso é feito de papel machê."
+    },
+    {
+      "start": 21.76,
+      "end": 23.2,
+      "text": "Você fez isso?"
+    },
+    {
+      "start": 23.68,
+      "end": 26.0,
+      "text": "Isso seria loucura!"
+    },
+    {
+      "start": 26.44,
+      "end": 27.54,
+      "text": "Está com seu nome."
+    },
+    {
+      "start": 27.54,
+      "end": 31.34,
+      "text": "Minha arte!"
+    },
+    {
+      "start": 31.76,
+      "end": 33.86,
+      "text": "Está muito bom!"
+    }
+  ],
+  "duracao_seg": 37.63,
+  "idioma_detectado": "pt"
+}

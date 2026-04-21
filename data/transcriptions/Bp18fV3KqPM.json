@@ -1,0 +1,67 @@
+{
+  "texto": "Massa de pesca pegadeira com apenas 3 ingredientes. Vamos utilizar ração de coelho, farinha de trigo e suco em pó de maracujá. Cobrimos a ração com água e deixamos ela absorver até começar a esfarelar. Num recipiente maior, vamos despejar a ração, adicionar o suco de maracujá e misturar tudo. Após isso, é hora de acrescentar a farinha e botar a mão na massa. Amasse bem até que fique homogênea. Se ficar muito grudenta, adicione farinha aos poucos. E se ficar seca, vá molhando a mão e modelando até chegar na consistência ideal. Quando a massa estiver bem macia, está pronta. Ela fica fácil de modelar e não escapa do anzol. É uma massa econômica e muito funcional para as pescarias mais simples de tilápia, pacu, curimba, carpa, entre outras espécies. Comente se você já utilizou.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Massa de pesca pegadeira com apenas 3 ingredientes."
+    },
+    {
+      "start": 3.56,
+      "end": 8.26,
+      "text": "Vamos utilizar ração de coelho, farinha de trigo e suco em pó de maracujá."
+    },
+    {
+      "start": 8.92,
+      "end": 13.46,
+      "text": "Cobrimos a ração com água e deixamos ela absorver até começar a esfarelar."
+    },
+    {
+      "start": 14.35,
+      "end": 20.67,
+      "text": "Num recipiente maior, vamos despejar a ração, adicionar o suco de maracujá e misturar tudo."
+    },
+    {
+      "start": 24.12,
+      "end": 27.76,
+      "text": "Após isso, é hora de acrescentar a farinha e botar a mão na massa."
+    },
+    {
+      "start": 28.64,
+      "end": 31.04,
+      "text": "Amasse bem até que fique homogênea."
+    },
+    {
+      "start": 31.04,
+      "end": 35.26,
+      "text": "Se ficar muito grudenta, adicione farinha aos poucos."
+    },
+    {
+      "start": 35.7,
+      "end": 40.7,
+      "text": "E se ficar seca, vá molhando a mão e modelando até chegar na consistência ideal."
+    },
+    {
+      "start": 41.56,
+      "end": 44.26,
+      "text": "Quando a massa estiver bem macia, está pronta."
+    },
+    {
+      "start": 44.92,
+      "end": 48.0,
+      "text": "Ela fica fácil de modelar e não escapa do anzol."
+    },
+    {
+      "start": 48.78,
+      "end": 58.0,
+      "text": "É uma massa econômica e muito funcional para as pescarias mais simples de tilápia, pacu, curimba, carpa, entre outras espécies."
+    },
+    {
+      "start": 58.8,
+      "end": 60.04,
+      "text": "Comente se você já utilizou."
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

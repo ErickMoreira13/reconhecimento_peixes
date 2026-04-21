@@ -1,0 +1,32 @@
+{
+  "texto": "Vamos ver essas larvinhas aqui devorando esse fruto que eu não conheço, parece um melão, mas não deve ser. Galera, essas larvas são conhecidas como tenebrio, tá? São larvas de um coleóptero, de um besourinho, elas vão se tornar esse besouro. Só que elas são extremamente vorazes e se alimentam de qualquer matéria orgânica que vocês colocam pra ela. Muitas pessoas criam essas larvas pra alimentar aves ou até mesmo répteis.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 5.97,
+      "text": "Vamos ver essas larvinhas aqui devorando esse fruto que eu não conheço, parece um melão, mas não deve ser."
+    },
+    {
+      "start": 6.27,
+      "end": 8.87,
+      "text": "Galera, essas larvas são conhecidas como tenebrio, tá?"
+    },
+    {
+      "start": 9.11,
+      "end": 13.07,
+      "text": "São larvas de um coleóptero, de um besourinho, elas vão se tornar esse besouro."
+    },
+    {
+      "start": 13.37,
+      "end": 18.07,
+      "text": "Só que elas são extremamente vorazes e se alimentam de qualquer matéria orgânica que vocês colocam pra ela."
+    },
+    {
+      "start": 18.43,
+      "end": 22.17,
+      "text": "Muitas pessoas criam essas larvas pra alimentar aves ou até mesmo répteis."
+    }
+  ],
+  "duracao_seg": 22.51,
+  "idioma_detectado": "pt"
+}

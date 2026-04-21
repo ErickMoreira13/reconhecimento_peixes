@@ -1,0 +1,17 @@
+{
+  "texto": "É verdade, não é? Ok?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "É verdade, não é?"
+    },
+    {
+      "start": 2.7,
+      "end": 4.7,
+      "text": "Ok?"
+    }
+  ],
+  "duracao_seg": 25.73,
+  "idioma_detectado": "pt"
+}

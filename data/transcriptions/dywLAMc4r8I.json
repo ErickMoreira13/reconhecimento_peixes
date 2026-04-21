@@ -1,0 +1,42 @@
+{
+  "texto": "É bom demais Olha aí pessoal, olha Fazendo aqui o beijo da hora A minha família Todinha é doida por isso aqui Beijuzinho Tão longe",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": "É bom demais"
+    },
+    {
+      "start": 3.18,
+      "end": 5.86,
+      "text": "Olha aí pessoal, olha"
+    },
+    {
+      "start": 5.86,
+      "end": 7.94,
+      "text": "Fazendo aqui o beijo da hora"
+    },
+    {
+      "start": 7.94,
+      "end": 9.7,
+      "text": "A minha família"
+    },
+    {
+      "start": 9.7,
+      "end": 12.06,
+      "text": "Todinha é doida por isso aqui"
+    },
+    {
+      "start": 12.06,
+      "end": 15.08,
+      "text": "Beijuzinho"
+    },
+    {
+      "start": 15.08,
+      "end": 15.62,
+      "text": "Tão longe"
+    }
+  ],
+  "duracao_seg": 18.23,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Hoje vamos fazer uma mistura de trigo e fubá. Vamos pescar com boia na garrafinha. Porque a Thainha está comendo na superfície. Em pouco tempo já rendeu a primeira. E galera, segue aí o Pesca Colatina.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "Hoje vamos fazer uma mistura de trigo e fubá."
+    },
+    {
+      "start": 2.96,
+      "end": 5.14,
+      "text": "Vamos pescar com boia na garrafinha."
+    },
+    {
+      "start": 5.46,
+      "end": 7.58,
+      "text": "Porque a Thainha está comendo na superfície."
+    },
+    {
+      "start": 8.02,
+      "end": 9.6,
+      "text": "Em pouco tempo já rendeu a primeira."
+    },
+    {
+      "start": 10.18,
+      "end": 12.4,
+      "text": "E galera, segue aí o Pesca Colatina."
+    }
+  ],
+  "duracao_seg": 14.73,
+  "idioma_detectado": "pt"
+}

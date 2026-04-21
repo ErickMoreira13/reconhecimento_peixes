@@ -1,0 +1,72 @@
+{
+  "texto": "Dever de casa é o chamado Teorema de Napoleão. Você pode procurar o nome, mas eu vou falar bem rápido. Dado um triângulo qualquer, constrói três triângulos equiláteros fora dos lados desse triângulo qualquer, certo? Provar que os centros dos triângulos equiláteros formam também um triângulo equilátero. Isso é conhecido como Teorema de Napoleão. Eu acho a solução mais simples para ele utilizar isso que a gente acabou de ver. Eu considero a solução mais simples. Então, entendeu? Você pega um triângulo qualquer, constrói três triângulos equiláteros exteriores aos lados e você quer provar que os três centros dos triângulos equiláteros formam também um triângulo equilátero.",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 3.09,
+      "text": "Dever de casa é o chamado Teorema de Napoleão."
+    },
+    {
+      "start": 5.63,
+      "end": 8.35,
+      "text": "Você pode procurar o nome, mas eu vou falar bem rápido."
+    },
+    {
+      "start": 9.49,
+      "end": 14.41,
+      "text": "Dado um triângulo qualquer, constrói três triângulos equiláteros"
+    },
+    {
+      "start": 14.41,
+      "end": 17.95,
+      "text": "fora dos lados desse triângulo qualquer, certo?"
+    },
+    {
+      "start": 19.1,
+      "end": 22.78,
+      "text": "Provar que os centros dos triângulos equiláteros"
+    },
+    {
+      "start": 22.78,
+      "end": 25.72,
+      "text": "formam também um triângulo equilátero."
+    },
+    {
+      "start": 25.72,
+      "end": 30.36,
+      "text": "Isso é conhecido como Teorema de Napoleão."
+    },
+    {
+      "start": 30.36,
+      "end": 39.57,
+      "text": "Eu acho a solução mais simples para ele utilizar isso que a gente acabou de ver."
+    },
+    {
+      "start": 40.79,
+      "end": 43.47,
+      "text": "Eu considero a solução mais simples."
+    },
+    {
+      "start": 43.85,
+      "end": 45.57,
+      "text": "Então, entendeu? Você pega um triângulo qualquer,"
+    },
+    {
+      "start": 46.09,
+      "end": 49.75,
+      "text": "constrói três triângulos equiláteros exteriores aos lados"
+    },
+    {
+      "start": 49.75,
+      "end": 54.96,
+      "text": "e você quer provar que os três centros dos triângulos equiláteros"
+    },
+    {
+      "start": 54.96,
+      "end": 58.18,
+      "text": "formam também um triângulo equilátero."
+    }
+  ],
+  "duracao_seg": 58.45,
+  "idioma_detectado": "pt"
+}

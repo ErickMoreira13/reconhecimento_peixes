@@ -1,0 +1,27 @@
+{
+  "texto": "Olha o tamanho desse peixe, meu irmão! Rapaziada, passa nesse monstro aí! Você é peixe que chora! Olha aqui!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Olha o tamanho desse peixe, meu irmão!"
+    },
+    {
+      "start": 7.19,
+      "end": 9.19,
+      "text": "Rapaziada, passa nesse monstro aí!"
+    },
+    {
+      "start": 12.3,
+      "end": 14.3,
+      "text": "Você é peixe que chora!"
+    },
+    {
+      "start": 14.3,
+      "end": 15.3,
+      "text": "Olha aqui!"
+    }
+  ],
+  "duracao_seg": 17.01,
+  "idioma_detectado": "pt"
+}

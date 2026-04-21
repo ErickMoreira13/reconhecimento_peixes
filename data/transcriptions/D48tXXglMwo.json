@@ -1,0 +1,17 @@
+{
+  "texto": "Dá pra fazer mão adianta, ganha um dinheirinho a mais, já fiz um café ali ó, fazendo Mercado Livre. Hoje eu catei 31 pacotes pra fazer, já tô desenrolando já, depois eu falo mais pra vocês.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 6.78,
+      "text": "Dá pra fazer mão adianta, ganha um dinheirinho a mais, já fiz um café ali ó, fazendo Mercado Livre."
+    },
+    {
+      "start": 6.86,
+      "end": 15.02,
+      "text": "Hoje eu catei 31 pacotes pra fazer, já tô desenrolando já, depois eu falo mais pra vocês."
+    }
+  ],
+  "duracao_seg": 15.15,
+  "idioma_detectado": "pt"
+}

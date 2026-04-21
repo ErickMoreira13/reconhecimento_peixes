@@ -1,0 +1,32 @@
+{
+  "texto": "ó, vai ficar assim ó, limpinho, limpinho e aí o coco fica muito mais gostoso né porque ainda tá com óleo, não tá ressecado não é aquele coco de mercado olha aí ó",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "ó, vai ficar assim ó, limpinho, limpinho"
+    },
+    {
+      "start": 2.86,
+      "end": 7.02,
+      "text": "e aí o coco fica muito mais gostoso né"
+    },
+    {
+      "start": 7.02,
+      "end": 8.9,
+      "text": "porque ainda tá com óleo, não tá ressecado"
+    },
+    {
+      "start": 8.9,
+      "end": 10.36,
+      "text": "não é aquele coco de mercado"
+    },
+    {
+      "start": 10.36,
+      "end": 12.6,
+      "text": "olha aí ó"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

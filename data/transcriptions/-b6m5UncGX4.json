@@ -1,0 +1,17 @@
+{
+  "texto": "Só havia um cidadão feliz. Era disso que eu estava falando.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 2.06,
+      "text": "Só havia um cidadão feliz."
+    },
+    {
+      "start": 2.92,
+      "end": 5.3,
+      "text": "Era disso que eu estava falando."
+    }
+  ],
+  "duracao_seg": 8.05,
+  "idioma_detectado": "pt"
+}

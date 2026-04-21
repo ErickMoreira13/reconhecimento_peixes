@@ -1,0 +1,52 @@
+{
+  "texto": "Hoje, meus coros, vou apresentar para vocês uma Diana. É uma arma de chumbinho que já foi a top das top das top antigamente. Ela uniu uma tecnologia de mola com pistão. Ela tem muita durabilidade e muita força. Ela vai atirar esse chumbinho 5,5 aqui a 900 pés por segundo. É uma arma pesada, tem que carregar ela manualmente. Colocou o chumbinho aqui, eu vou apertar essa trava aqui, que vai descer aqui. E aí eu vou conseguir fechar ela. A trava de segurança dela, a gente vai destravar.",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 4.66,
+      "text": "Hoje, meus coros, vou apresentar para vocês uma Diana."
+    },
+    {
+      "start": 4.9,
+      "end": 9.36,
+      "text": "É uma arma de chumbinho que já foi a top das top das top antigamente."
+    },
+    {
+      "start": 9.48,
+      "end": 13.0,
+      "text": "Ela uniu uma tecnologia de mola com pistão."
+    },
+    {
+      "start": 13.16,
+      "end": 15.2,
+      "text": "Ela tem muita durabilidade e muita força."
+    },
+    {
+      "start": 15.32,
+      "end": 19.66,
+      "text": "Ela vai atirar esse chumbinho 5,5 aqui a 900 pés por segundo."
+    },
+    {
+      "start": 19.8,
+      "end": 22.44,
+      "text": "É uma arma pesada, tem que carregar ela manualmente."
+    },
+    {
+      "start": 22.44,
+      "end": 27.34,
+      "text": "Colocou o chumbinho aqui, eu vou apertar essa trava aqui, que vai descer aqui."
+    },
+    {
+      "start": 27.76,
+      "end": 29.76,
+      "text": "E aí eu vou conseguir fechar ela."
+    },
+    {
+      "start": 29.76,
+      "end": 32.12,
+      "text": "A trava de segurança dela, a gente vai destravar."
+    }
+  ],
+  "duracao_seg": 35.83,
+  "idioma_detectado": "pt"
+}

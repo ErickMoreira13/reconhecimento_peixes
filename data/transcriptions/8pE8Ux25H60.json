@@ -1,0 +1,72 @@
+{
+  "texto": "Vamos mostrar aqui um pouquinho da variada, viu gatinho, para vocês. Aí as espremeras, estão espremero, tirando a goma, tirando a goma. Aqui estão serrando, aí cai aqui dentro, aqui pega a massa para levar para ali, ó. Vai levar para lá agora, levando a massa aí, ó. O que é isso que está levando ainda? Cuida, Lele Barbosa! Aí, ó, o Leleu aí só trabalhando aí, colocando massa. Aí estão encerrando. E aqui já é a pressa, aqui já está secando a massa para fazer a farinha, a torrar, tá bom? Então, o Leleu aí, colocando massa, trabalhando, o homem é diferenciado. Segue o homem aí, o Leleu, é o nome dele. Leleu Barbosa, no pai. O pai todo trabalhando.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Vamos mostrar aqui um pouquinho da variada, viu gatinho, para vocês."
+    },
+    {
+      "start": 6.54,
+      "end": 13.16,
+      "text": "Aí as espremeras, estão espremero, tirando a goma, tirando a goma."
+    },
+    {
+      "start": 13.9,
+      "end": 21.06,
+      "text": "Aqui estão serrando, aí cai aqui dentro, aqui pega a massa para levar para ali, ó."
+    },
+    {
+      "start": 21.26,
+      "end": 25.36,
+      "text": "Vai levar para lá agora, levando a massa aí, ó."
+    },
+    {
+      "start": 26.72,
+      "end": 30.53,
+      "text": "O que é isso que está levando ainda?"
+    },
+    {
+      "start": 31.11,
+      "end": 33.41,
+      "text": "Cuida, Lele Barbosa!"
+    },
+    {
+      "start": 33.41,
+      "end": 38.49,
+      "text": "Aí, ó, o Leleu aí só trabalhando aí, colocando massa."
+    },
+    {
+      "start": 39.11,
+      "end": 40.93,
+      "text": "Aí estão encerrando."
+    },
+    {
+      "start": 41.93,
+      "end": 49.51,
+      "text": "E aqui já é a pressa, aqui já está secando a massa para fazer a farinha, a torrar, tá bom?"
+    },
+    {
+      "start": 50.71,
+      "end": 55.67,
+      "text": "Então, o Leleu aí, colocando massa, trabalhando, o homem é diferenciado."
+    },
+    {
+      "start": 56.15,
+      "end": 59.43,
+      "text": "Segue o homem aí, o Leleu, é o nome dele."
+    },
+    {
+      "start": 60.37,
+      "end": 62.47,
+      "text": "Leleu Barbosa, no pai."
+    },
+    {
+      "start": 62.47,
+      "end": 69.33,
+      "text": "O pai todo trabalhando."
+    }
+  ],
+  "duracao_seg": 70.81,
+  "idioma_detectado": "pt"
+}

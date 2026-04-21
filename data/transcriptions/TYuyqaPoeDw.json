@@ -1,0 +1,107 @@
+{
+  "texto": "Ixi Maria, aqui está uma caneta de trouxa aqui Fava preta Aqui é o fava preta Fava preta, chamada aqui A bicha é de troca É o bago da fava preta Estaram a bicha no facão aí, Antônio É o bago da fava preta É com tanto pra ver Terra forte Aham, vamos jogar tudo Não tem nada que eu vou tirar Molinha, hein? Piloto de raiz Olha, Antônio, piloto de raiz aqui Doze, doze, treze, quatorze com essa Quatorze aí Olha aí É isso aí Aqui já foi ontem",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.65,
+      "text": "Ixi Maria, aqui está uma caneta de trouxa aqui"
+    },
+    {
+      "start": 2.65,
+      "end": 3.65,
+      "text": "Fava preta"
+    },
+    {
+      "start": 3.65,
+      "end": 6.97,
+      "text": "Aqui é o fava preta"
+    },
+    {
+      "start": 6.97,
+      "end": 8.67,
+      "text": "Fava preta, chamada aqui"
+    },
+    {
+      "start": 8.67,
+      "end": 10.17,
+      "text": "A bicha é de troca"
+    },
+    {
+      "start": 10.17,
+      "end": 11.27,
+      "text": "É o bago da fava preta"
+    },
+    {
+      "start": 11.27,
+      "end": 12.77,
+      "text": "Estaram a bicha no facão aí, Antônio"
+    },
+    {
+      "start": 12.77,
+      "end": 14.47,
+      "text": "É o bago da fava preta"
+    },
+    {
+      "start": 14.47,
+      "end": 15.92,
+      "text": "É com tanto pra ver"
+    },
+    {
+      "start": 15.92,
+      "end": 16.72,
+      "text": "Terra forte"
+    },
+    {
+      "start": 16.72,
+      "end": 18.72,
+      "text": "Aham, vamos jogar tudo"
+    },
+    {
+      "start": 18.72,
+      "end": 22.59,
+      "text": "Não tem nada que eu vou tirar"
+    },
+    {
+      "start": 22.59,
+      "end": 26.36,
+      "text": "Molinha, hein?"
+    },
+    {
+      "start": 26.36,
+      "end": 37.86,
+      "text": "Piloto de raiz"
+    },
+    {
+      "start": 37.86,
+      "end": 41.52,
+      "text": "Olha, Antônio, piloto de raiz aqui"
+    },
+    {
+      "start": 41.52,
+      "end": 44.92,
+      "text": "Doze, doze, treze, quatorze com essa"
+    },
+    {
+      "start": 44.92,
+      "end": 46.92,
+      "text": "Quatorze aí"
+    },
+    {
+      "start": 46.92,
+      "end": 47.92,
+      "text": "Olha aí"
+    },
+    {
+      "start": 47.92,
+      "end": 50.17,
+      "text": "É isso aí"
+    },
+    {
+      "start": 50.17,
+      "end": 51.17,
+      "text": "Aqui já foi ontem"
+    }
+  ],
+  "duracao_seg": 50.95,
+  "idioma_detectado": "pt"
+}

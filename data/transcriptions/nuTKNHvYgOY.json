@@ -1,0 +1,37 @@
+{
+  "texto": "vamos soltar a traíra bela de uma traíra acho que é a maior que eu já peguei traijão galera você viu que a massa dá resultado",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "vamos soltar a traíra"
+    },
+    {
+      "start": 3.38,
+      "end": 5.95,
+      "text": "bela de uma traíra"
+    },
+    {
+      "start": 5.95,
+      "end": 8.69,
+      "text": "acho que é a maior"
+    },
+    {
+      "start": 8.69,
+      "end": 11.49,
+      "text": "que eu já peguei"
+    },
+    {
+      "start": 11.49,
+      "end": 13.71,
+      "text": "traijão galera"
+    },
+    {
+      "start": 13.71,
+      "end": 15.71,
+      "text": "você viu que a massa dá resultado"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

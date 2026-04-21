@@ -1,0 +1,22 @@
+{
+  "texto": "o Gigi que que foi porque você mandou ficar quieto você tá pescando Gigi desculpa você vai pegar um peixão você pegou Gigi deixa eu ver nossa o peixão Gigi puxa puxa deixa eu ver nossa o tamanho dele Gigi",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 9.06,
+      "text": "o Gigi que que foi porque você mandou ficar quieto você tá pescando Gigi desculpa você"
+    },
+    {
+      "start": 9.06,
+      "end": 21.61,
+      "text": "vai pegar um peixão você pegou Gigi deixa eu ver nossa o peixão Gigi puxa puxa deixa eu ver"
+    },
+    {
+      "start": 21.61,
+      "end": 25.22,
+      "text": "nossa o tamanho dele Gigi"
+    }
+  ],
+  "duracao_seg": 25.29,
+  "idioma_detectado": "pt"
+}

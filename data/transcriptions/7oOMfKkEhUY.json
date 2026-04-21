@@ -1,0 +1,92 @@
+{
+  "texto": "Pescador, pescador, dá uma olhada nessa dupla aqui, hein? Tchauzão e Frank na área. E aí, como é que foi o negócio hoje? Frio e vento, mas peixe não pode comer. Tá da cachaquinho, o jeito que tá. Analiza. Vai ver. Aí, galera, ó. Olha isso aqui. É tilápia com força pra ninguém colocar defeito. Não fique espantado com o negócio de vento e frio, não. Né, Frank? Bota a gazalha, Tião. E vem pescar. Quer tirar a patra comendo com força. E só pega pra ir, Frank. E eu tenho que tirar o chapéu pra vocês. Tamo junto. Obrigado, galera.",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 4.3,
+      "text": "Pescador, pescador, dá uma olhada nessa dupla aqui, hein?"
+    },
+    {
+      "start": 4.86,
+      "end": 6.7,
+      "text": "Tchauzão e Frank na área."
+    },
+    {
+      "start": 7.64,
+      "end": 9.52,
+      "text": "E aí, como é que foi o negócio hoje?"
+    },
+    {
+      "start": 9.98,
+      "end": 11.9,
+      "text": "Frio e vento, mas peixe não pode comer."
+    },
+    {
+      "start": 14.0,
+      "end": 15.76,
+      "text": "Tá da cachaquinho, o jeito que tá."
+    },
+    {
+      "start": 16.16,
+      "end": 16.7,
+      "text": "Analiza."
+    },
+    {
+      "start": 17.54,
+      "end": 17.94,
+      "text": "Vai ver."
+    },
+    {
+      "start": 18.78,
+      "end": 19.92,
+      "text": "Aí, galera, ó."
+    },
+    {
+      "start": 20.5,
+      "end": 21.04,
+      "text": "Olha isso aqui."
+    },
+    {
+      "start": 21.98,
+      "end": 25.42,
+      "text": "É tilápia com força pra ninguém colocar defeito."
+    },
+    {
+      "start": 25.82,
+      "end": 28.66,
+      "text": "Não fique espantado com o negócio de vento e frio, não."
+    },
+    {
+      "start": 28.66,
+      "end": 31.14,
+      "text": "Né, Frank? Bota a gazalha, Tião."
+    },
+    {
+      "start": 31.86,
+      "end": 32.74,
+      "text": "E vem pescar."
+    },
+    {
+      "start": 33.18,
+      "end": 35.08,
+      "text": "Quer tirar a patra comendo com força."
+    },
+    {
+      "start": 36.44,
+      "end": 38.78,
+      "text": "E só pega pra ir, Frank."
+    },
+    {
+      "start": 39.1,
+      "end": 41.38,
+      "text": "E eu tenho que tirar o chapéu pra vocês."
+    },
+    {
+      "start": 41.92,
+      "end": 43.44,
+      "text": "Tamo junto. Obrigado, galera."
+    }
+  ],
+  "duracao_seg": 44.97,
+  "idioma_detectado": "pt"
+}

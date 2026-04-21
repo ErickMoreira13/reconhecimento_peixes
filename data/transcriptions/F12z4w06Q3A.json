@@ -1,0 +1,82 @@
+{
+  "texto": "Bom dia a todos, estamos aqui na Chacra Palmitau O repórter Raimundo aí, o ator Raimundo fazendo a farinha Estou começando a farinhada agora Veja a farinhada arrumada que está aqui O homem está igual um menino aqui, é igual um passarinho Olha lá o processo O processo da farinha daqui Nós já trouxemos da roça, já ferremos, já peneremos Agora estamos fazendo a farinha aqui, a neidinha aqui no comando E vamos aqui fazendo o repórter Nós estamos aqui, viu? E peço uma farinhada arrumada que vai ser beiju, tapioca Se vocês quiserem me ajudar nós, estamos aqui esperando, viu? Tchau, tchei, tchau Fala aí, neidinha, alguma coisa aí?",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 3.8,
+      "text": "Bom dia a todos, estamos aqui na Chacra Palmitau"
+    },
+    {
+      "start": 3.8,
+      "end": 7.68,
+      "text": "O repórter Raimundo aí, o ator Raimundo fazendo a farinha"
+    },
+    {
+      "start": 7.68,
+      "end": 9.56,
+      "text": "Estou começando a farinhada agora"
+    },
+    {
+      "start": 9.56,
+      "end": 12.22,
+      "text": "Veja a farinhada arrumada que está aqui"
+    },
+    {
+      "start": 12.22,
+      "end": 15.14,
+      "text": "O homem está igual um menino aqui, é igual um passarinho"
+    },
+    {
+      "start": 15.14,
+      "end": 16.3,
+      "text": "Olha lá o processo"
+    },
+    {
+      "start": 16.3,
+      "end": 17.54,
+      "text": "O processo da farinha daqui"
+    },
+    {
+      "start": 17.54,
+      "end": 20.98,
+      "text": "Nós já trouxemos da roça, já ferremos, já peneremos"
+    },
+    {
+      "start": 20.98,
+      "end": 23.66,
+      "text": "Agora estamos fazendo a farinha aqui, a neidinha aqui no comando"
+    },
+    {
+      "start": 23.66,
+      "end": 27.3,
+      "text": "E vamos aqui fazendo o repórter"
+    },
+    {
+      "start": 27.3,
+      "end": 28.32,
+      "text": "Nós estamos aqui, viu?"
+    },
+    {
+      "start": 29.35,
+      "end": 32.87,
+      "text": "E peço uma farinhada arrumada que vai ser beiju, tapioca"
+    },
+    {
+      "start": 32.87,
+      "end": 35.83,
+      "text": "Se vocês quiserem me ajudar nós, estamos aqui esperando, viu?"
+    },
+    {
+      "start": 36.74,
+      "end": 37.7,
+      "text": "Tchau, tchei, tchau"
+    },
+    {
+      "start": 37.7,
+      "end": 39.32,
+      "text": "Fala aí, neidinha, alguma coisa aí?"
+    }
+  ],
+  "duracao_seg": 39.71,
+  "idioma_detectado": "pt"
+}

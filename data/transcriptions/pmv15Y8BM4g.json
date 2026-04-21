@@ -1,0 +1,37 @@
+{
+  "texto": "Tudo bem com vocês? Eu tô mostrando aqui as coisas aqui de farinha, de farinhada. Eu quero te falar um negócio pra vocês, vocês que assistem, só se inscreve, entendeu? Não precisa nem dar o like, só se inscreve. Vai dar ajudando muito. Ó, se vocês estivessem se inscrevendo, esses todos que assistem, eu já tinha pegado minha monetização, entendeu? Só se inscreve ou compartilha, tanto faz, tá bom? É nóis!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "Tudo bem com vocês? Eu tô mostrando aqui as coisas aqui de farinha, de farinhada."
+    },
+    {
+      "start": 6.0,
+      "end": 12.56,
+      "text": "Eu quero te falar um negócio pra vocês, vocês que assistem, só se inscreve, entendeu?"
+    },
+    {
+      "start": 13.08,
+      "end": 16.97,
+      "text": "Não precisa nem dar o like, só se inscreve. Vai dar ajudando muito."
+    },
+    {
+      "start": 17.67,
+      "end": 24.33,
+      "text": "Ó, se vocês estivessem se inscrevendo, esses todos que assistem, eu já tinha pegado minha monetização, entendeu?"
+    },
+    {
+      "start": 25.7,
+      "end": 29.64,
+      "text": "Só se inscreve ou compartilha, tanto faz, tá bom?"
+    },
+    {
+      "start": 29.64,
+      "end": 31.0,
+      "text": "É nóis!"
+    }
+  ],
+  "duracao_seg": 82.85,
+  "idioma_detectado": "pt"
+}

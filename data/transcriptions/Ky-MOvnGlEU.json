@@ -1,0 +1,32 @@
+{
+  "texto": "Caralho. Aqui não tem pedra não. Ei, ué. Vamos tomar aqui. Ei, cara.",
+  "segmentos": [
+    {
+      "start": 2.61,
+      "end": 3.61,
+      "text": "Caralho."
+    },
+    {
+      "start": 15.68,
+      "end": 17.68,
+      "text": "Aqui não tem pedra não."
+    },
+    {
+      "start": 18.68,
+      "end": 22.25,
+      "text": "Ei, ué."
+    },
+    {
+      "start": 28.75,
+      "end": 30.75,
+      "text": "Vamos tomar aqui."
+    },
+    {
+      "start": 30.75,
+      "end": 32.75,
+      "text": "Ei, cara."
+    }
+  ],
+  "duracao_seg": 33.53,
+  "idioma_detectado": "pt"
+}

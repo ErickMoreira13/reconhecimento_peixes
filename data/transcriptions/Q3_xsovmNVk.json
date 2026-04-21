@@ -1,0 +1,27 @@
+{
+  "texto": "Eu lembro que eu sou o rei Paxe Ele tá pra não arribar nenhum rodo Aqui você vai ficar querendo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.39,
+      "text": "Eu lembro que eu sou o rei"
+    },
+    {
+      "start": 2.39,
+      "end": 3.9,
+      "text": "Paxe"
+    },
+    {
+      "start": 3.9,
+      "end": 29.46,
+      "text": "Ele tá pra não arribar nenhum rodo"
+    },
+    {
+      "start": 29.46,
+      "end": 33.98,
+      "text": "Aqui você vai ficar querendo"
+    }
+  ],
+  "duracao_seg": 35.95,
+  "idioma_detectado": "pt"
+}
