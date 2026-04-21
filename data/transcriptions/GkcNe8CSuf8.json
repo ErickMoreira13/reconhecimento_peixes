@@ -1,0 +1,27 @@
+{
+  "texto": "Oh! Oh! Me lo vaciá, me lo vaciá, me lo vaciá Re-label 12 Me quedo sin hilo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 23.18,
+      "text": "Oh! Oh!"
+    },
+    {
+      "start": 23.18,
+      "end": 28.35,
+      "text": "Me lo vaciá, me lo vaciá, me lo vaciá"
+    },
+    {
+      "start": 28.35,
+      "end": 31.38,
+      "text": "Re-label 12"
+    },
+    {
+      "start": 31.38,
+      "end": 44.67,
+      "text": "Me quedo sin hilo"
+    }
+  ],
+  "duracao_seg": 54.35,
+  "idioma_detectado": "pt"
+}

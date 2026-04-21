@@ -1,0 +1,37 @@
+{
+  "texto": "Bom amigos, vamos tentar pegar esta chicharra para pescar com chicharra, já que se nos olvidou a carnada. Não sei quantos se han pescado com chicharra. Deixem-me nos comentários a ver se les funcionou ou não. Aqui a agarramos. Vamos tratar de... não sei em realidade onde podemos clavar esta que não se mora, mas vamos clavar ali no centro. Parece que si se moriu, mas é só para que flote. Para que flote e a carnada se quede arriba. E vamos a lanzarlo. Quem sabe que... Vamos a ver. Vamos a dejarlo un rato mi gente.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 6.01,
+      "text": "Bom amigos, vamos tentar pegar esta chicharra para pescar com chicharra, já que se nos"
+    },
+    {
+      "start": 6.01,
+      "end": 11.94,
+      "text": "olvidou a carnada. Não sei quantos se han pescado com chicharra. Deixem-me nos comentários"
+    },
+    {
+      "start": 11.94,
+      "end": 23.72,
+      "text": "a ver se les funcionou ou não. Aqui a agarramos. Vamos tratar de... não sei"
+    },
+    {
+      "start": 23.72,
+      "end": 28.46,
+      "text": "em realidade onde podemos clavar esta que não se mora, mas vamos clavar ali no centro."
+    },
+    {
+      "start": 28.46,
+      "end": 41.06,
+      "text": "Parece que si se moriu, mas é só para que flote. Para que flote e a carnada se quede"
+    },
+    {
+      "start": 41.06,
+      "end": 52.22,
+      "text": "arriba. E vamos a lanzarlo. Quem sabe que... Vamos a ver. Vamos a dejarlo un rato mi gente."
+    }
+  ],
+  "duracao_seg": 52.59,
+  "idioma_detectado": "pt"
+}

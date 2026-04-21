@@ -1,0 +1,57 @@
+{
+  "texto": "Boia-cevadeira ou boia-torpedo, qual é melhor? Normalmente, a boia-cevadeira é mais eficiente, já que ela atrai o peixe para a superfície e, consequentemente, perto da sua isca. Então, quando a isca está flutuando ou com um chicote curto, a pescaria acaba sendo muito mais eficiente com boia-cevadeira. Coisa que já não acontece quando a gente usa chicotes maiores. A isca fica muito longe da ceva, então não faz muito sentido usar uma boia-cevadeira. É aí que entra a boia-torpedo. As boias-torpedo têm uma variedade maior de pesos e tamanhos, então ela acaba sendo muito versátil dependendo da isca que você usa. As boias mais pesadas alcançam distâncias maiores de arremesso e carregam iscas mais pesadas. Já as boias menores são mais sensíveis e garantem sucesso em dias de peixe maiôs. Gostou da dica? Então siga o Perfigo Tem Muito Mais!",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 3.1,
+      "text": "Boia-cevadeira ou boia-torpedo, qual é melhor?"
+    },
+    {
+      "start": 3.88,
+      "end": 10.26,
+      "text": "Normalmente, a boia-cevadeira é mais eficiente, já que ela atrai o peixe para a superfície e, consequentemente, perto da sua isca."
+    },
+    {
+      "start": 10.54,
+      "end": 16.72,
+      "text": "Então, quando a isca está flutuando ou com um chicote curto, a pescaria acaba sendo muito mais eficiente com boia-cevadeira."
+    },
+    {
+      "start": 17.0,
+      "end": 19.9,
+      "text": "Coisa que já não acontece quando a gente usa chicotes maiores."
+    },
+    {
+      "start": 20.06,
+      "end": 24.16,
+      "text": "A isca fica muito longe da ceva, então não faz muito sentido usar uma boia-cevadeira."
+    },
+    {
+      "start": 24.58,
+      "end": 26.34,
+      "text": "É aí que entra a boia-torpedo."
+    },
+    {
+      "start": 26.34,
+      "end": 33.1,
+      "text": "As boias-torpedo têm uma variedade maior de pesos e tamanhos, então ela acaba sendo muito versátil dependendo da isca que você usa."
+    },
+    {
+      "start": 33.48,
+      "end": 38.1,
+      "text": "As boias mais pesadas alcançam distâncias maiores de arremesso e carregam iscas mais pesadas."
+    },
+    {
+      "start": 38.48,
+      "end": 42.16,
+      "text": "Já as boias menores são mais sensíveis e garantem sucesso em dias de peixe maiôs."
+    },
+    {
+      "start": 42.42,
+      "end": 45.12,
+      "text": "Gostou da dica? Então siga o Perfigo Tem Muito Mais!"
+    }
+  ],
+  "duracao_seg": 45.45,
+  "idioma_detectado": "pt"
+}

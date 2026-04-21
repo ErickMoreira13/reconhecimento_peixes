@@ -1,0 +1,27 @@
+{
+  "texto": "O que ele deu, mas ele foi fechado Olha, olha! Olha, olha, olha! Agora sim! Agora sim!",
+  "segmentos": [
+    {
+      "start": 2.45,
+      "end": 5.9,
+      "text": "O que ele deu, mas ele foi fechado"
+    },
+    {
+      "start": 5.9,
+      "end": 8.28,
+      "text": "Olha, olha!"
+    },
+    {
+      "start": 8.28,
+      "end": 10.34,
+      "text": "Olha, olha, olha!"
+    },
+    {
+      "start": 12.34,
+      "end": 14.2,
+      "text": "Agora sim! Agora sim!"
+    }
+  ],
+  "duracao_seg": 14.23,
+  "idioma_detectado": "pt"
+}

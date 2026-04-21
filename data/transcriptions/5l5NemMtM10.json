@@ -1,0 +1,22 @@
+{
+  "texto": "I've been fucking awesome, poppin' pills, man, I feel it's like a rockstar I've been fucking awesome, poppin' pills, man, I feel it's like a rockstar All my brothers got that guess I'm",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "I've been fucking awesome, poppin' pills, man, I feel it's like a rockstar"
+    },
+    {
+      "start": 3.44,
+      "end": 8.4,
+      "text": "I've been fucking awesome, poppin' pills, man, I feel it's like a rockstar"
+    },
+    {
+      "start": 8.4,
+      "end": 11.21,
+      "text": "All my brothers got that guess I'm"
+    }
+  ],
+  "duracao_seg": 11.21,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "How to properly fish with a jerk bait. All you gotta do is cast it in around some structure, give it short jerks to dive down, let it slowly float up. Short jerks, let it float up.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 2.26,
+      "text": "How to properly fish with a jerk bait."
+    },
+    {
+      "start": 2.64,
+      "end": 4.88,
+      "text": "All you gotta do is cast it in around some structure,"
+    },
+    {
+      "start": 5.4,
+      "end": 8.34,
+      "text": "give it short jerks to dive down, let it slowly float up."
+    },
+    {
+      "start": 8.72,
+      "end": 10.38,
+      "text": "Short jerks, let it float up."
+    }
+  ],
+  "duracao_seg": 11.29,
+  "idioma_detectado": "pt"
+}

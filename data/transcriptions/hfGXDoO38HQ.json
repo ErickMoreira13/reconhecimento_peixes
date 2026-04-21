@@ -1,0 +1,697 @@
+{
+  "texto": "Será que esses amarelos chegam a quantos quilos, hein, sô? Viu? Foi. Vai jogar, ele vai bater. Olha. Vai bater. Olha. Cuna. Caraca, maluco. Que tamanho de tucuninha. Que bonito, velho. Vem, tucuninha. Ele tá na sua, sô. Bate aí. Eu vou... Vou e sô. Dá mais de 50, viu? Dá. E ele não tá muito firme, não, viu? Ô, João. Peguei o alicate, não. Que bonito. Serra da mesa. Hã? Eu falo o alicate é aquele de... pôr na boca dele. Esse. Hã? Vem cá, tucuninha. Aê, bichão. Belo peixe. Ô, bichão. Na pop. Tá com alicate aí, João? Vai atrapalhar você pescar, velho. Nossa. Ah, tirei já. Ô, bitelo. Feminha. Na área é bonita, viu? Fêmea. Vamos medir ele. Vamos pegar mais. Tá cedo, né? Vamos medir ele aqui pra ver o que que isso vai dar. Tiramos. Vamos lá, vamos lá. Boquinha fechada. 59. 59. Faltou pouco pra 60. Ó. 59. Quase bateu 60. Ô, criança. Bora soltar esse bichão pra vida. Que ele merece. Brigou muito. Vai lá, bichão. Descansa. E vai pra vida. Vai lá, vai lá, vai lá. Isso, garoto. Na pop. Bateu bonito. Tomou linha. Bora que tem mais. Segura que tem o... Opa. Você tá doido, menino. Que bicho forte. Ele não aguenta ver um barulho, viu, João? Eu tenho outra aqui, dessa aqui. Pode pegar ela. Aê, bichão. Opa. Foda grande, hein? Hã? Outra feminina, sua. Aê, bichão. Peraí que agora eu tenho que pegar o alicate. Eu tenho que pegar esse alicate maior aqui mesmo. É ele que tá mais fácil. Vem pra cá. Não filmei soltando peixe, não. Perdemos a filmagem soltando peixe. Mas o bichão foi pra vida. Vamos mostrar aqui o que a gente tá pescando hoje. A pescaria hoje tá na Popper. A Vulcan da Marina Sport. Isso aqui é uma isca de 100 milímetros. 18 gramas. Tá saindo muito peixe. Essas batidas aqui que deixou ela machucada são piranhas. Mas hoje tá batendo muito Tucunaré. Bora pegar mais. A pescaria não tem lógica não, né, senhor? Já veio aqui com o sol rachando. Tudo favorável. Eu tenho uma dessa aqui, você quer? Tá demais, bicho. Ô, louco. Ele pegou a isca. Olha se tiver mais aí. Quietou, né, senhor? Quantas horas? Deve ser o horário. Sai daí! Soltou. E era grande, viu? Esse era bom. Foi embora. Tá ficando detonada. Tá ficando detonada a isquinha. Ele reojou na isca e depois voltou. Na Pop, os pequenos meio que fogem delas. Tá? Põe a meia água. Deve ser o casal. Cavalo, viu? Isso é bonito, João. A linha aguenta. Não esquenta a cabeça com isso, não. Tá vendo? Ele vai pular fora d'água. Esse snap dele é cruel, velho. A linha aguenta, velho. Eu nem esquentei a cabeça aqui, porque eu fico com medo de ligar esse motor aqui e passar na linha é pior. Tô na área bonito, viu? Ele dava uns 60 centímetros, eu acho. Ele era grande. Olha. Bicuda. Ah, tô com uma areiazinha. Pequenininho. Olha, que ataque bonito. Olha, que ataque bonito.",
+  "segmentos": [
+    {
+      "start": 2.51,
+      "end": 5.09,
+      "text": "Será que esses amarelos chegam a quantos quilos, hein, sô?"
+    },
+    {
+      "start": 11.56,
+      "end": 11.96,
+      "text": "Viu?"
+    },
+    {
+      "start": 12.74,
+      "end": 13.14,
+      "text": "Foi."
+    },
+    {
+      "start": 16.88,
+      "end": 17.96,
+      "text": "Vai jogar, ele vai bater."
+    },
+    {
+      "start": 18.46,
+      "end": 18.7,
+      "text": "Olha."
+    },
+    {
+      "start": 22.15,
+      "end": 22.77,
+      "text": "Vai bater."
+    },
+    {
+      "start": 23.43,
+      "end": 24.64,
+      "text": "Olha."
+    },
+    {
+      "start": 25.28,
+      "end": 35.26,
+      "text": "Cuna."
+    },
+    {
+      "start": 44.49,
+      "end": 45.75,
+      "text": "Caraca, maluco."
+    },
+    {
+      "start": 45.95,
+      "end": 54.51,
+      "text": "Que tamanho de tucuninha."
+    },
+    {
+      "start": 54.77,
+      "end": 55.99,
+      "text": "Que bonito, velho."
+    },
+    {
+      "start": 57.63,
+      "end": 58.37,
+      "text": "Vem, tucuninha."
+    },
+    {
+      "start": 60.0,
+      "end": 60.9,
+      "text": "Ele tá na sua, sô."
+    },
+    {
+      "start": 61.08,
+      "end": 61.54,
+      "text": "Bate aí."
+    },
+    {
+      "start": 61.78,
+      "end": 62.44,
+      "text": "Eu vou..."
+    },
+    {
+      "start": 62.44,
+      "end": 66.04,
+      "text": "Vou e sô."
+    },
+    {
+      "start": 66.04,
+      "end": 72.22,
+      "text": "Dá mais de 50, viu?"
+    },
+    {
+      "start": 73.12,
+      "end": 73.42,
+      "text": "Dá."
+    },
+    {
+      "start": 73.42,
+      "end": 78.8,
+      "text": "E ele não tá muito firme, não, viu?"
+    },
+    {
+      "start": 81.33,
+      "end": 81.75,
+      "text": "Ô, João."
+    },
+    {
+      "start": 83.08,
+      "end": 84.3,
+      "text": "Peguei o alicate, não."
+    },
+    {
+      "start": 90.55,
+      "end": 92.29,
+      "text": "Que bonito."
+    },
+    {
+      "start": 98.62,
+      "end": 99.9,
+      "text": "Serra da mesa."
+    },
+    {
+      "start": 104.42,
+      "end": 104.66,
+      "text": "Hã?"
+    },
+    {
+      "start": 106.83,
+      "end": 113.66,
+      "text": "Eu falo o alicate é aquele de..."
+    },
+    {
+      "start": 114.36,
+      "end": 115.24,
+      "text": "pôr na boca dele."
+    },
+    {
+      "start": 115.34,
+      "end": 115.6,
+      "text": "Esse."
+    },
+    {
+      "start": 123.96,
+      "end": 124.22,
+      "text": "Hã?"
+    },
+    {
+      "start": 125.72,
+      "end": 127.54,
+      "text": "Vem cá, tucuninha."
+    },
+    {
+      "start": 130.44,
+      "end": 132.82,
+      "text": "Aê, bichão."
+    },
+    {
+      "start": 136.09,
+      "end": 137.37,
+      "text": "Belo peixe."
+    },
+    {
+      "start": 144.26,
+      "end": 145.82,
+      "text": "Ô, bichão."
+    },
+    {
+      "start": 147.52,
+      "end": 150.19,
+      "text": "Na pop."
+    },
+    {
+      "start": 154.26,
+      "end": 155.32,
+      "text": "Tá com alicate aí, João?"
+    },
+    {
+      "start": 156.61,
+      "end": 157.89,
+      "text": "Vai atrapalhar você pescar, velho."
+    },
+    {
+      "start": 158.31,
+      "end": 158.59,
+      "text": "Nossa."
+    },
+    {
+      "start": 163.08,
+      "end": 163.72,
+      "text": "Ah, tirei já."
+    },
+    {
+      "start": 166.13,
+      "end": 167.99,
+      "text": "Ô, bitelo."
+    },
+    {
+      "start": 169.38,
+      "end": 169.82,
+      "text": "Feminha."
+    },
+    {
+      "start": 170.24,
+      "end": 171.14,
+      "text": "Na área é bonita, viu?"
+    },
+    {
+      "start": 172.02,
+      "end": 172.5,
+      "text": "Fêmea."
+    },
+    {
+      "start": 172.94,
+      "end": 173.6,
+      "text": "Vamos medir ele."
+    },
+    {
+      "start": 178.62,
+      "end": 179.4,
+      "text": "Vamos pegar mais."
+    },
+    {
+      "start": 179.5,
+      "end": 180.16,
+      "text": "Tá cedo, né?"
+    },
+    {
+      "start": 181.16,
+      "end": 183.84,
+      "text": "Vamos medir ele aqui pra ver o que que isso vai dar."
+    },
+    {
+      "start": 186.48,
+      "end": 186.92,
+      "text": "Tiramos."
+    },
+    {
+      "start": 186.92,
+      "end": 189.68,
+      "text": "Vamos lá, vamos lá."
+    },
+    {
+      "start": 190.84,
+      "end": 192.1,
+      "text": "Boquinha fechada."
+    },
+    {
+      "start": 200.05,
+      "end": 200.65,
+      "text": "59."
+    },
+    {
+      "start": 206.57,
+      "end": 207.21,
+      "text": "59."
+    },
+    {
+      "start": 208.82,
+      "end": 210.22,
+      "text": "Faltou pouco pra 60."
+    },
+    {
+      "start": 214.7,
+      "end": 214.96,
+      "text": "Ó."
+    },
+    {
+      "start": 220.95,
+      "end": 221.63,
+      "text": "59."
+    },
+    {
+      "start": 222.11,
+      "end": 223.63,
+      "text": "Quase bateu 60."
+    },
+    {
+      "start": 227.08,
+      "end": 228.74,
+      "text": "Ô, criança."
+    },
+    {
+      "start": 233.52,
+      "end": 235.14,
+      "text": "Bora soltar esse bichão pra vida."
+    },
+    {
+      "start": 236.22,
+      "end": 237.08,
+      "text": "Que ele merece."
+    },
+    {
+      "start": 237.4,
+      "end": 238.06,
+      "text": "Brigou muito."
+    },
+    {
+      "start": 238.06,
+      "end": 243.15,
+      "text": "Vai lá, bichão."
+    },
+    {
+      "start": 244.3,
+      "end": 244.86,
+      "text": "Descansa."
+    },
+    {
+      "start": 245.82,
+      "end": 247.14,
+      "text": "E vai pra vida."
+    },
+    {
+      "start": 247.66,
+      "end": 252.3,
+      "text": "Vai lá, vai lá, vai lá."
+    },
+    {
+      "start": 252.68,
+      "end": 255.6,
+      "text": "Isso, garoto."
+    },
+    {
+      "start": 259.92,
+      "end": 260.44,
+      "text": "Na pop."
+    },
+    {
+      "start": 260.82,
+      "end": 261.54,
+      "text": "Bateu bonito."
+    },
+    {
+      "start": 261.66,
+      "end": 262.22,
+      "text": "Tomou linha."
+    },
+    {
+      "start": 264.6,
+      "end": 265.44,
+      "text": "Bora que tem mais."
+    },
+    {
+      "start": 300.38,
+      "end": 301.12,
+      "text": "Segura que tem o..."
+    },
+    {
+      "start": 304.87,
+      "end": 305.57,
+      "text": "Opa."
+    },
+    {
+      "start": 307.88,
+      "end": 309.94,
+      "text": "Você tá doido, menino."
+    },
+    {
+      "start": 310.46,
+      "end": 311.58,
+      "text": "Que bicho forte."
+    },
+    {
+      "start": 311.58,
+      "end": 314.63,
+      "text": "Ele não aguenta ver um barulho, viu, João?"
+    },
+    {
+      "start": 323.26,
+      "end": 324.66,
+      "text": "Eu tenho outra aqui, dessa aqui."
+    },
+    {
+      "start": 325.06,
+      "end": 325.88,
+      "text": "Pode pegar ela."
+    },
+    {
+      "start": 325.88,
+      "end": 331.35,
+      "text": "Aê, bichão."
+    },
+    {
+      "start": 333.84,
+      "end": 334.32,
+      "text": "Opa."
+    },
+    {
+      "start": 335.58,
+      "end": 336.42,
+      "text": "Foda grande, hein?"
+    },
+    {
+      "start": 336.64,
+      "end": 336.88,
+      "text": "Hã?"
+    },
+    {
+      "start": 340.11,
+      "end": 341.29,
+      "text": "Outra feminina, sua."
+    },
+    {
+      "start": 347.27,
+      "end": 350.03,
+      "text": "Aê, bichão."
+    },
+    {
+      "start": 354.45,
+      "end": 356.37,
+      "text": "Peraí que agora eu tenho que pegar o alicate."
+    },
+    {
+      "start": 357.07,
+      "end": 363.1,
+      "text": "Eu tenho que pegar esse alicate maior aqui mesmo."
+    },
+    {
+      "start": 364.24,
+      "end": 365.66,
+      "text": "É ele que tá mais fácil."
+    },
+    {
+      "start": 367.75,
+      "end": 368.65,
+      "text": "Vem pra cá."
+    },
+    {
+      "start": 370.95,
+      "end": 372.33,
+      "text": "Não filmei soltando peixe, não."
+    },
+    {
+      "start": 377.19,
+      "end": 379.23,
+      "text": "Perdemos a filmagem soltando peixe."
+    },
+    {
+      "start": 379.23,
+      "end": 380.61,
+      "text": "Mas o bichão foi pra vida."
+    },
+    {
+      "start": 384.45,
+      "end": 386.75,
+      "text": "Vamos mostrar aqui o que a gente tá pescando hoje."
+    },
+    {
+      "start": 395.17,
+      "end": 397.25,
+      "text": "A pescaria hoje tá na Popper."
+    },
+    {
+      "start": 398.99,
+      "end": 400.49,
+      "text": "A Vulcan da Marina Sport."
+    },
+    {
+      "start": 400.71,
+      "end": 403.19,
+      "text": "Isso aqui é uma isca de 100 milímetros."
+    },
+    {
+      "start": 405.04,
+      "end": 406.04,
+      "text": "18 gramas."
+    },
+    {
+      "start": 406.32,
+      "end": 407.3,
+      "text": "Tá saindo muito peixe."
+    },
+    {
+      "start": 408.08,
+      "end": 411.18,
+      "text": "Essas batidas aqui que deixou ela machucada são piranhas."
+    },
+    {
+      "start": 412.42,
+      "end": 414.16,
+      "text": "Mas hoje tá batendo muito Tucunaré."
+    },
+    {
+      "start": 415.5,
+      "end": 416.28,
+      "text": "Bora pegar mais."
+    },
+    {
+      "start": 420.8,
+      "end": 422.26,
+      "text": "A pescaria não tem lógica não, né, senhor?"
+    },
+    {
+      "start": 422.26,
+      "end": 423.82,
+      "text": "Já veio aqui com o sol rachando."
+    },
+    {
+      "start": 423.92,
+      "end": 424.76,
+      "text": "Tudo favorável."
+    },
+    {
+      "start": 424.76,
+      "end": 438.0,
+      "text": "Eu tenho uma dessa aqui, você quer?"
+    },
+    {
+      "start": 438.46,
+      "end": 461.82,
+      "text": "Tá demais, bicho."
+    },
+    {
+      "start": 462.02,
+      "end": 462.64,
+      "text": "Ô, louco."
+    },
+    {
+      "start": 469.52,
+      "end": 479.02,
+      "text": "Ele pegou a isca."
+    },
+    {
+      "start": 480.92,
+      "end": 481.96,
+      "text": "Olha se tiver mais aí."
+    },
+    {
+      "start": 485.55,
+      "end": 486.45,
+      "text": "Quietou, né, senhor?"
+    },
+    {
+      "start": 486.97,
+      "end": 487.65,
+      "text": "Quantas horas?"
+    },
+    {
+      "start": 488.41,
+      "end": 489.33,
+      "text": "Deve ser o horário."
+    },
+    {
+      "start": 513.9,
+      "end": 514.34,
+      "text": "Sai daí!"
+    },
+    {
+      "start": 519.23,
+      "end": 519.75,
+      "text": "Soltou."
+    },
+    {
+      "start": 519.97,
+      "end": 520.89,
+      "text": "E era grande, viu?"
+    },
+    {
+      "start": 521.39,
+      "end": 525.62,
+      "text": "Esse era bom."
+    },
+    {
+      "start": 528.91,
+      "end": 529.73,
+      "text": "Foi embora."
+    },
+    {
+      "start": 529.73,
+      "end": 540.82,
+      "text": "Tá ficando detonada."
+    },
+    {
+      "start": 542.09,
+      "end": 543.59,
+      "text": "Tá ficando detonada a isquinha."
+    },
+    {
+      "start": 554.6,
+      "end": 556.62,
+      "text": "Ele reojou na isca e depois voltou."
+    },
+    {
+      "start": 568.71,
+      "end": 571.47,
+      "text": "Na Pop, os pequenos meio que fogem delas."
+    },
+    {
+      "start": 572.63,
+      "end": 572.79,
+      "text": "Tá?"
+    },
+    {
+      "start": 573.15,
+      "end": 595.19,
+      "text": "Põe a meia água."
+    },
+    {
+      "start": 603.18,
+      "end": 604.16,
+      "text": "Deve ser o casal."
+    },
+    {
+      "start": 636.92,
+      "end": 637.54,
+      "text": "Cavalo, viu?"
+    },
+    {
+      "start": 641.11,
+      "end": 642.07,
+      "text": "Isso é bonito, João."
+    },
+    {
+      "start": 646.18,
+      "end": 646.76,
+      "text": "A linha aguenta."
+    },
+    {
+      "start": 646.84,
+      "end": 647.86,
+      "text": "Não esquenta a cabeça com isso, não."
+    },
+    {
+      "start": 647.86,
+      "end": 662.12,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 663.6,
+      "end": 664.76,
+      "text": "Ele vai pular fora d'água."
+    },
+    {
+      "start": 665.22,
+      "end": 666.7,
+      "text": "Esse snap dele é cruel, velho."
+    },
+    {
+      "start": 669.74,
+      "end": 670.74,
+      "text": "A linha aguenta, velho."
+    },
+    {
+      "start": 670.76,
+      "end": 674.14,
+      "text": "Eu nem esquentei a cabeça aqui, porque eu fico com medo de ligar esse motor aqui e passar"
+    },
+    {
+      "start": 674.14,
+      "end": 674.9,
+      "text": "na linha é pior."
+    },
+    {
+      "start": 678.51,
+      "end": 679.49,
+      "text": "Tô na área bonito, viu?"
+    },
+    {
+      "start": 680.48,
+      "end": 682.5,
+      "text": "Ele dava uns 60 centímetros, eu acho."
+    },
+    {
+      "start": 682.94,
+      "end": 683.6,
+      "text": "Ele era grande."
+    },
+    {
+      "start": 691.85,
+      "end": 692.09,
+      "text": "Olha."
+    },
+    {
+      "start": 693.16,
+      "end": 693.56,
+      "text": "Bicuda."
+    },
+    {
+      "start": 695.03,
+      "end": 695.85,
+      "text": "Ah, tô com uma areiazinha."
+    },
+    {
+      "start": 699.45,
+      "end": 699.85,
+      "text": "Pequenininho."
+    },
+    {
+      "start": 733.3,
+      "end": 734.56,
+      "text": "Olha, que ataque bonito."
+    },
+    {
+      "start": 734.56,
+      "end": 764.54,
+      "text": "Olha, que ataque bonito."
+    }
+  ],
+  "duracao_seg": 737.49,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,72 @@
+{
+  "texto": "Fala rapaziada, tudo certo com vocês? Eu sou o Tato, estou pescando aqui no Pesqueiro do Rei, em Campo Magro. O equipamento que eu estou usando hoje é a vara esparta, com a carretilha V73 da Albatross Fischer. Vou iniciar a pescaria hoje de fundo. Como a gente está com muito pacu, peixe novo, que tem uma dentição muito fechada, vou iniciar o sistema de pesca de fundo. Eu coloquei aqui uma miçanguinha para peça, um EVA no anzol, para segurar a massa, que eu estou trabalhando com uma massa um pouquinho mais mole, para evitar a manha do peixe, que o peixe acabou de voltar da estufa para o pesqueiro. Então, vou colocar esse EVA no anzol para ajudar a segurar a massa no arremesso. A linha que eu estou usando é o multifilamento 047 da Albatross Fischer, para evitar esse corte. Se vocês verem aqui, vai evitar o atrito direto com a boca, evitando o corte. E aqui está o girador com esse pedacinho de multifilamento, beleza?",
+  "segmentos": [
+    {
+      "start": 0.16,
+      "end": 5.14,
+      "text": "Fala rapaziada, tudo certo com vocês? Eu sou o Tato, estou pescando aqui no Pesqueiro do Rei, em Campo Magro."
+    },
+    {
+      "start": 5.9,
+      "end": 10.74,
+      "text": "O equipamento que eu estou usando hoje é a vara esparta, com a carretilha V73 da Albatross Fischer."
+    },
+    {
+      "start": 11.38,
+      "end": 13.82,
+      "text": "Vou iniciar a pescaria hoje de fundo."
+    },
+    {
+      "start": 14.69,
+      "end": 18.83,
+      "text": "Como a gente está com muito pacu, peixe novo, que tem uma dentição muito fechada,"
+    },
+    {
+      "start": 19.05,
+      "end": 20.97,
+      "text": "vou iniciar o sistema de pesca de fundo."
+    },
+    {
+      "start": 21.07,
+      "end": 26.17,
+      "text": "Eu coloquei aqui uma miçanguinha para peça, um EVA no anzol,"
+    },
+    {
+      "start": 26.17,
+      "end": 29.61,
+      "text": "para segurar a massa, que eu estou trabalhando com uma massa um pouquinho mais mole,"
+    },
+    {
+      "start": 29.67,
+      "end": 33.55,
+      "text": "para evitar a manha do peixe, que o peixe acabou de voltar da estufa para o pesqueiro."
+    },
+    {
+      "start": 34.17,
+      "end": 39.02,
+      "text": "Então, vou colocar esse EVA no anzol para ajudar a segurar a massa no arremesso."
+    },
+    {
+      "start": 39.76,
+      "end": 43.08,
+      "text": "A linha que eu estou usando é o multifilamento 047 da Albatross Fischer,"
+    },
+    {
+      "start": 43.86,
+      "end": 46.4,
+      "text": "para evitar esse corte."
+    },
+    {
+      "start": 46.4,
+      "end": 52.14,
+      "text": "Se vocês verem aqui, vai evitar o atrito direto com a boca, evitando o corte."
+    },
+    {
+      "start": 52.4,
+      "end": 55.16,
+      "text": "E aqui está o girador com esse pedacinho de multifilamento, beleza?"
+    }
+  ],
+  "duracao_seg": 56.15,
+  "idioma_detectado": "pt"
+}

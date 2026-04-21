@@ -1,0 +1,52 @@
+{
+  "texto": "Esse aqui é um estilingue moderno. Além de ter esse negócio aqui pra puxar ele e ficar mais fácil, ele tem essa paradinha aqui de segurar e ainda por cima tem um laser. Só que eu não encontrei a pilha, mas ele fica aqui embaixo pra você mirar. Estilingue Nutella, que meu pai antigamente fazia o bagulho com um pedacinho de galho, assim, né? Colocava elástico e já era. Mas esse aqui, mano, é o estilingue da atualidade. Eu tô com uma boleira de airsoft aqui dentro, vamos ver se ele é forte pelo barulho. Tu ensina em feitada a ver o estilingue moderno. É, o estilingue é forte. Tá com leão, mas que esse aqui é massa, mas o estilingue antigo é muito mais presença, né?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Esse aqui é um estilingue moderno. Além de ter esse negócio aqui pra puxar ele e ficar mais fácil,"
+    },
+    {
+      "start": 4.58,
+      "end": 7.36,
+      "text": "ele tem essa paradinha aqui de segurar e ainda por cima tem um laser."
+    },
+    {
+      "start": 7.6,
+      "end": 9.9,
+      "text": "Só que eu não encontrei a pilha, mas ele fica aqui embaixo pra você mirar."
+    },
+    {
+      "start": 9.96,
+      "end": 14.06,
+      "text": "Estilingue Nutella, que meu pai antigamente fazia o bagulho com um pedacinho de galho, assim, né?"
+    },
+    {
+      "start": 14.2,
+      "end": 17.58,
+      "text": "Colocava elástico e já era. Mas esse aqui, mano, é o estilingue da atualidade."
+    },
+    {
+      "start": 17.76,
+      "end": 20.54,
+      "text": "Eu tô com uma boleira de airsoft aqui dentro, vamos ver se ele é forte pelo barulho."
+    },
+    {
+      "start": 20.8,
+      "end": 22.48,
+      "text": "Tu ensina em feitada a ver o estilingue moderno."
+    },
+    {
+      "start": 24.68,
+      "end": 25.44,
+      "text": "É, o estilingue é forte."
+    },
+    {
+      "start": 25.74,
+      "end": 30.78,
+      "text": "Tá com leão, mas que esse aqui é massa, mas o estilingue antigo é muito mais presença, né?"
+    }
+  ],
+  "duracao_seg": 30.99,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Some days the good things aren't easy to find But if you're looking, you'll see plenty around It's in the background and out in plain sight",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "Some days the good things aren't easy to find"
+    },
+    {
+      "start": 4.24,
+      "end": 9.09,
+      "text": "But if you're looking, you'll see plenty around"
+    },
+    {
+      "start": 9.09,
+      "end": 14.3,
+      "text": "It's in the background and out in plain sight"
+    }
+  ],
+  "duracao_seg": 14.59,
+  "idioma_detectado": "pt"
+}

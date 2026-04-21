@@ -1,0 +1,57 @@
+{
+  "texto": "Guys, Bronzolio, estamos aqui, cara. Guys, Bronzolio, Belsi. Entra bem o gombolho. Espera, dá-me que te dão a mano. Não, não, não, estamos com o gombolho. Cisarra de Danny, Bronzolio. Vai, Danny. Vai, vai. Vai, vai. Vai, Danny.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 2.35,
+      "text": "Guys, Bronzolio, estamos aqui, cara."
+    },
+    {
+      "start": 3.05,
+      "end": 4.85,
+      "text": "Guys, Bronzolio, Belsi."
+    },
+    {
+      "start": 4.85,
+      "end": 5.65,
+      "text": "Entra bem o gombolho."
+    },
+    {
+      "start": 5.67,
+      "end": 6.67,
+      "text": "Espera, dá-me que te dão a mano."
+    },
+    {
+      "start": 6.69,
+      "end": 7.61,
+      "text": "Não, não, não, estamos com o gombolho."
+    },
+    {
+      "start": 10.4,
+      "end": 12.42,
+      "text": "Cisarra de Danny, Bronzolio."
+    },
+    {
+      "start": 13.32,
+      "end": 14.0,
+      "text": "Vai, Danny."
+    },
+    {
+      "start": 14.6,
+      "end": 15.16,
+      "text": "Vai, vai."
+    },
+    {
+      "start": 15.16,
+      "end": 15.56,
+      "text": "Vai, vai."
+    },
+    {
+      "start": 15.56,
+      "end": 16.54,
+      "text": "Vai, Danny."
+    }
+  ],
+  "duracao_seg": 17.21,
+  "idioma_detectado": "pt"
+}

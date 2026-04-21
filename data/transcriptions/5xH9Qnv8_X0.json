@@ -1,0 +1,17 @@
+{
+  "texto": "olha filho cuidado com seu rosto viu escutou meu filho cuidado com seu rosto tá olha olha meu deus bota aqui para mim filmar bota aqui aqui legal muito bom",
+  "segmentos": [
+    {
+      "start": 4.62,
+      "end": 81.67,
+      "text": "olha filho cuidado com seu rosto viu escutou meu filho cuidado com seu rosto"
+    },
+    {
+      "start": 81.67,
+      "end": 107.96,
+      "text": "tá olha olha meu deus bota aqui para mim filmar bota aqui aqui legal muito bom"
+    }
+  ],
+  "duracao_seg": 113.89,
+  "idioma_detectado": "pt"
+}

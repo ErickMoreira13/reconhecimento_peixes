@@ -1,0 +1,57 @@
+{
+  "texto": "Ó galera, aqui ó Pescaria na represa de Furnas Mostra aqui, mostra aqui Soltando um tucunarézinho opaca, pequenininho, né? Vai pra vida Ó, fazendo pescaria esportiva sempre, galera Sempre soltando tucunaré Foi embora Foi embora o bichão É, foi embora ainda não, mas vamos ver se pega mais",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "Ó galera, aqui ó"
+    },
+    {
+      "start": 1.6,
+      "end": 3.7,
+      "text": "Pescaria na represa de Furnas"
+    },
+    {
+      "start": 3.7,
+      "end": 4.9,
+      "text": "Mostra aqui, mostra aqui"
+    },
+    {
+      "start": 4.9,
+      "end": 7.98,
+      "text": "Soltando um tucunarézinho opaca, pequenininho, né?"
+    },
+    {
+      "start": 8.04,
+      "end": 8.62,
+      "text": "Vai pra vida"
+    },
+    {
+      "start": 8.62,
+      "end": 11.78,
+      "text": "Ó, fazendo pescaria esportiva sempre, galera"
+    },
+    {
+      "start": 11.78,
+      "end": 13.04,
+      "text": "Sempre soltando tucunaré"
+    },
+    {
+      "start": 13.04,
+      "end": 13.68,
+      "text": "Foi embora"
+    },
+    {
+      "start": 13.68,
+      "end": 14.86,
+      "text": "Foi embora o bichão"
+    },
+    {
+      "start": 14.86,
+      "end": 17.04,
+      "text": "É, foi embora ainda não, mas vamos ver se pega mais"
+    }
+  ],
+  "duracao_seg": 17.45,
+  "idioma_detectado": "pt"
+}

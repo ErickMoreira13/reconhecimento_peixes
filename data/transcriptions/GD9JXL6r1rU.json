@@ -1,0 +1,17 @@
+{
+  "texto": "Chicos, o popper mais bestiolaco que eu tenho na mão, mais de 3kg, funcionará no agua? Vamos a prová-lo. Madre mía, funciona!",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 11.45,
+      "text": "Chicos, o popper mais bestiolaco que eu tenho na mão, mais de 3kg, funcionará no agua? Vamos a prová-lo."
+    },
+    {
+      "start": 11.45,
+      "end": 23.66,
+      "text": "Madre mía, funciona!"
+    }
+  ],
+  "duracao_seg": 24.11,
+  "idioma_detectado": "pt"
+}
