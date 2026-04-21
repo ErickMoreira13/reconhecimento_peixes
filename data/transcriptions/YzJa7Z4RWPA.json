@@ -1,0 +1,37 @@
+{
+  "texto": "Deus fez o mundo tão lindo, só belezas que rodeia Colocando lá no espaço, lua nova e lua cheia Fez o sol e a luz divina, que o mundo inteiro clareia No céu estrelas paradas, a lua e o sol passeia Deus fez o mar azulado, é o castelo da sereia Fez peixe grande e pequeno, e também fez a baleia",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.78,
+      "text": "Deus fez o mundo tão lindo, só belezas que rodeia"
+    },
+    {
+      "start": 5.78,
+      "end": 12.8,
+      "text": "Colocando lá no espaço, lua nova e lua cheia"
+    },
+    {
+      "start": 12.8,
+      "end": 20.86,
+      "text": "Fez o sol e a luz divina, que o mundo inteiro clareia"
+    },
+    {
+      "start": 20.86,
+      "end": 29.99,
+      "text": "No céu estrelas paradas, a lua e o sol passeia"
+    },
+    {
+      "start": 29.99,
+      "end": 39.39,
+      "text": "Deus fez o mar azulado, é o castelo da sereia"
+    },
+    {
+      "start": 39.39,
+      "end": 45.87,
+      "text": "Fez peixe grande e pequeno, e também fez a baleia"
+    }
+  ],
+  "duracao_seg": 45.89,
+  "idioma_detectado": "pt"
+}

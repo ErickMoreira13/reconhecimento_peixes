@@ -1,0 +1,22 @@
+{
+  "texto": "Está cada vez mais comum a gente ver os pescadores usando essa modalidade de pescaria. Eles usam só uma garrafa, colocam um tipo de comida aí dentro, aí o peixe entra, mas não consegue voltar, as escamas travam.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": "Está cada vez mais comum a gente ver os pescadores usando essa modalidade de pescaria."
+    },
+    {
+      "start": 7.3,
+      "end": 12.06,
+      "text": "Eles usam só uma garrafa, colocam um tipo de comida aí dentro,"
+    },
+    {
+      "start": 12.66,
+      "end": 16.92,
+      "text": "aí o peixe entra, mas não consegue voltar, as escamas travam."
+    }
+  ],
+  "duracao_seg": 17.11,
+  "idioma_detectado": "pt"
+}
