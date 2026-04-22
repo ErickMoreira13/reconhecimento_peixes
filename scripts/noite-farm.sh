@@ -86,8 +86,10 @@ ciclo() {
     timeout 600 $PY -m src.main baixar --limit 50 --workers 8 >>"$LOG" 2>&1 || log "  baixar falhou"
 
     # 3) transcreve (delete audio apos)
+    # timeout 1h: 50 audios com videos longos (algum de 1h40 no batch) nao cabe
+    # em 30min, ai estoura o timeout e perde tudo. 1h geralmente basta
     log "transcrever: limit 50"
-    timeout 1800 $PY -m src.main transcrever --limit 50 >>"$LOG" 2>&1 || log "  transcrever timeout"
+    timeout 3600 $PY -m src.main transcrever --limit 50 >>"$LOG" 2>&1 || log "  transcrever timeout"
 
     # snapshot de progresso
     local contagem
