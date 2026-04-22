@@ -48,19 +48,29 @@ def cmd_baixar(args):
     falhou = 0
 
     if args.workers > 1:
-        # paralelo
-        resultados = yt.baixa_audios_em_paralelo(
-            pendentes, config.RAW_AUDIO_DIR, workers=args.workers
-        )
+        # paralelo inline: marca cada video NO DB assim que termina, nao espera
+        # batch inteiro. se o processo morre no meio (timeout etc), o que ja
+        # baixou ta persistido em vez de virar audio orfao
+        from concurrent.futures import ThreadPoolExecutor, as_completed
         with ui.progresso(len(pendentes), "baixando (paralelo)") as (prog, task):
-            for v, audio in resultados:
-                if audio:
-                    yt.marca_baixado(v["video_id"], audio, DB_PATH)
-                    ok_count += 1
-                else:
-                    yt.marca_falhou(v["video_id"], DB_PATH)
-                    falhou += 1
-                prog.advance(task)
+            with ThreadPoolExecutor(max_workers=args.workers) as pool:
+                futures = {
+                    pool.submit(yt.baixa_audio, v["url"], config.RAW_AUDIO_DIR): v
+                    for v in pendentes
+                }
+                for fut in as_completed(futures):
+                    v = futures[fut]
+                    try:
+                        audio = fut.result()
+                    except Exception:
+                        audio = None
+                    if audio:
+                        yt.marca_baixado(v["video_id"], audio, DB_PATH)
+                        ok_count += 1
+                    else:
+                        yt.marca_falhou(v["video_id"], DB_PATH)
+                        falhou += 1
+                    prog.advance(task)
     else:
         # sequencial
         with ui.progresso(len(pendentes), "baixando") as (prog, task):
