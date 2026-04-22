@@ -1,0 +1,27 @@
+{
+  "texto": "Hoje a coisa fica séria Vai ser tchucu, tchucu nela Vem jogando a aba, vou fazer tremer as férias Tchucu nela, tchucu",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 4.11,
+      "text": "Hoje a coisa fica séria"
+    },
+    {
+      "start": 4.11,
+      "end": 5.95,
+      "text": "Vai ser tchucu, tchucu nela"
+    },
+    {
+      "start": 5.95,
+      "end": 12.12,
+      "text": "Vem jogando a aba, vou fazer tremer as férias"
+    },
+    {
+      "start": 12.12,
+      "end": 15.06,
+      "text": "Tchucu nela, tchucu"
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

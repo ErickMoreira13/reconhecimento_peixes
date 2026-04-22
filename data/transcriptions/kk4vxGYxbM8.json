@@ -1,0 +1,47 @@
+{
+  "texto": "Ah, eu nem filmei. Rapaziada, o Mirra jogou a isca, só deu uma trabalhadinha, olha o que ele veio pegar aqui, mano. Um polvo. Um minutinho pra tirar, ele gruda na mão da gente. A gente vai tirar aqui agora. Deixa pra ele, gente, ele precisa fazer um... Olha o Charlão aqui. E aí, Charlão?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Ah, eu nem filmei."
+    },
+    {
+      "start": 2.52,
+      "end": 6.8,
+      "text": "Rapaziada, o Mirra jogou a isca, só deu uma trabalhadinha, olha o que ele veio pegar aqui, mano."
+    },
+    {
+      "start": 7.62,
+      "end": 8.34,
+      "text": "Um polvo."
+    },
+    {
+      "start": 8.72,
+      "end": 11.42,
+      "text": "Um minutinho pra tirar, ele gruda na mão da gente."
+    },
+    {
+      "start": 11.44,
+      "end": 13.5,
+      "text": "A gente vai tirar aqui agora."
+    },
+    {
+      "start": 14.14,
+      "end": 16.18,
+      "text": "Deixa pra ele, gente, ele precisa fazer um..."
+    },
+    {
+      "start": 16.18,
+      "end": 17.96,
+      "text": "Olha o Charlão aqui."
+    },
+    {
+      "start": 18.16,
+      "end": 18.72,
+      "text": "E aí, Charlão?"
+    }
+  ],
+  "duracao_seg": 18.95,
+  "idioma_detectado": "pt"
+}

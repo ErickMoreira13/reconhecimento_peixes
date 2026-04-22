@@ -1,0 +1,42 @@
+{
+  "texto": "Pô, isso acho que é sacanagem, cara Eu vim aqui só de pilha mesmo, isso aí é sacanagem mesmo Caboclo d'água Pô, isso é sacanagem Só porque tem um poço ali, ó Aí o cara vem falar pra mim que tem caboclo d'água Pô, pelo amor de Deus, né",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.6,
+      "text": "Pô, isso acho que é sacanagem, cara"
+    },
+    {
+      "start": 2.6,
+      "end": 5.24,
+      "text": "Eu vim aqui só de pilha mesmo, isso aí é sacanagem mesmo"
+    },
+    {
+      "start": 5.24,
+      "end": 6.6,
+      "text": "Caboclo d'água"
+    },
+    {
+      "start": 6.6,
+      "end": 8.77,
+      "text": "Pô, isso é sacanagem"
+    },
+    {
+      "start": 8.77,
+      "end": 11.78,
+      "text": "Só porque tem um poço ali, ó"
+    },
+    {
+      "start": 11.78,
+      "end": 13.86,
+      "text": "Aí o cara vem falar pra mim que tem caboclo d'água"
+    },
+    {
+      "start": 13.86,
+      "end": 15.14,
+      "text": "Pô, pelo amor de Deus, né"
+    }
+  ],
+  "duracao_seg": 15.87,
+  "idioma_detectado": "pt"
+}

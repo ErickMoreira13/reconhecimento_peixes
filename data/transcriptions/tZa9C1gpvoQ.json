@@ -1,0 +1,47 @@
+{
+  "texto": "Sustento da minha família, minha nação Dessas terras trago minhas conquistas De luta e igualdade unica Eu agradeço das águas da vida, minha paixão Pescador, sou pescador, eu sou Barco a bela remar, do levato É tamba que a carinha pescar De sonhador, sou pescador",
+  "segmentos": [
+    {
+      "start": 12.69,
+      "end": 18.5,
+      "text": "Sustento da minha família, minha nação"
+    },
+    {
+      "start": 18.5,
+      "end": 22.1,
+      "text": "Dessas terras trago minhas conquistas"
+    },
+    {
+      "start": 22.1,
+      "end": 27.47,
+      "text": "De luta e igualdade unica"
+    },
+    {
+      "start": 27.47,
+      "end": 30.99,
+      "text": "Eu agradeço das águas da vida, minha paixão"
+    },
+    {
+      "start": 30.99,
+      "end": 51.3,
+      "text": "Pescador, sou pescador, eu sou"
+    },
+    {
+      "start": 51.3,
+      "end": 55.46,
+      "text": "Barco a bela remar, do levato"
+    },
+    {
+      "start": 55.46,
+      "end": 58.38,
+      "text": "É tamba que a carinha pescar"
+    },
+    {
+      "start": 58.38,
+      "end": 112.97,
+      "text": "De sonhador, sou pescador"
+    }
+  ],
+  "duracao_seg": 178.15,
+  "idioma_detectado": "pt"
+}

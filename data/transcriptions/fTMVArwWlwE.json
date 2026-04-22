@@ -1,0 +1,42 @@
+{
+  "texto": "Charpily! Ah, que tu ia, bai? Mamã, mamã... Mariane? Vreau să mă surp pe asta, Că asta-i foarte mare! Mariane, vim a-ti vede-te!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Charpily!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.74,
+      "text": "Ah, que tu ia, bai?"
+    },
+    {
+      "start": 4.74,
+      "end": 7.54,
+      "text": "Mamã, mamã..."
+    },
+    {
+      "start": 7.54,
+      "end": 8.54,
+      "text": "Mariane?"
+    },
+    {
+      "start": 8.54,
+      "end": 10.54,
+      "text": "Vreau să mă surp pe asta,"
+    },
+    {
+      "start": 10.54,
+      "end": 11.54,
+      "text": "Că asta-i foarte mare!"
+    },
+    {
+      "start": 11.54,
+      "end": 12.54,
+      "text": "Mariane, vim a-ti vede-te!"
+    }
+  ],
+  "duracao_seg": 12.57,
+  "idioma_detectado": "pt"
+}

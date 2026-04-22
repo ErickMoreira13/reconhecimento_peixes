@@ -1,0 +1,27 @@
+{
+  "texto": "eu volto com o nerezão, que bonito, valeu, esse é o troféu esse é o troféu do frio quem disse que no frio não pega peixe, olha aí 45 minutos do segundo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.98,
+      "text": "eu volto com o nerezão, que bonito, valeu, esse é o troféu"
+    },
+    {
+      "start": 9.98,
+      "end": 10.98,
+      "text": "esse é o troféu do frio"
+    },
+    {
+      "start": 10.98,
+      "end": 14.98,
+      "text": "quem disse que no frio não pega peixe, olha aí"
+    },
+    {
+      "start": 14.98,
+      "end": 21.38,
+      "text": "45 minutos do segundo"
+    }
+  ],
+  "duracao_seg": 22.19,
+  "idioma_detectado": "pt"
+}

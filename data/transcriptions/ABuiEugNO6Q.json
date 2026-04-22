@@ -1,0 +1,32 @@
+{
+  "texto": "De ladinho assim mesmo? É, tem que ser de lado. Cara, o céu tá longe, ele tá no meio de agaiada. É piapau ou piau grande.",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 5.4,
+      "text": "De ladinho assim mesmo?"
+    },
+    {
+      "start": 6.54,
+      "end": 7.44,
+      "text": "É, tem que ser de lado."
+    },
+    {
+      "start": 8.32,
+      "end": 9.52,
+      "text": "Cara, o céu tá longe,"
+    },
+    {
+      "start": 9.64,
+      "end": 10.8,
+      "text": "ele tá no meio de agaiada."
+    },
+    {
+      "start": 12.7,
+      "end": 14.34,
+      "text": "É piapau ou piau grande."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

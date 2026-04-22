@@ -1,0 +1,27 @@
+{
+  "texto": "Não tem distância, não importa o caminho, para que possa me impedir. Seja onde for a boca, que me criou e me ensinou a lhe seguir. Na aldeia é quando os tambores tocam, reúne moço, velhinho e criança. Clareia a aldeia de seu pé na branca, distância não importa.",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 8.11,
+      "text": "Não tem distância, não importa o caminho, para que possa me impedir."
+    },
+    {
+      "start": 8.63,
+      "end": 14.91,
+      "text": "Seja onde for a boca, que me criou e me ensinou a lhe seguir."
+    },
+    {
+      "start": 15.57,
+      "end": 23.52,
+      "text": "Na aldeia é quando os tambores tocam, reúne moço, velhinho e criança."
+    },
+    {
+      "start": 27.97,
+      "end": 137.66,
+      "text": "Clareia a aldeia de seu pé na branca, distância não importa."
+    }
+  ],
+  "duracao_seg": 212.51,
+  "idioma_detectado": "pt"
+}

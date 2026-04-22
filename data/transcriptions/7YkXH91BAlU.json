@@ -1,0 +1,17 @@
+{
+  "texto": "Pescadora aí com o troféu dela. Ô, grandão, olha.",
+  "segmentos": [
+    {
+      "start": 5.42,
+      "end": 7.54,
+      "text": "Pescadora aí com o troféu dela."
+    },
+    {
+      "start": 8.12,
+      "end": 12.14,
+      "text": "Ô, grandão, olha."
+    }
+  ],
+  "duracao_seg": 15.35,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Quando o pessoal fala que é beira de água perigosa, que não é pra pescar sozinha, é por causa desses detalhezinhos assim. É vem pescar, não pega nada, fura o dedo, perde a vida, perde tudo. Quando o pessoal fala que é beira de água perigosa, que não é pra pescar sozinha...",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 7.02,
+      "text": "Quando o pessoal fala que é beira de água perigosa, que não é pra pescar sozinha, é por causa desses detalhezinhos assim."
+    },
+    {
+      "start": 7.94,
+      "end": 12.2,
+      "text": "É vem pescar, não pega nada, fura o dedo, perde a vida, perde tudo."
+    },
+    {
+      "start": 12.84,
+      "end": 16.82,
+      "text": "Quando o pessoal fala que é beira de água perigosa, que não é pra pescar sozinha..."
+    }
+  ],
+  "duracao_seg": 16.71,
+  "idioma_detectado": "pt"
+}

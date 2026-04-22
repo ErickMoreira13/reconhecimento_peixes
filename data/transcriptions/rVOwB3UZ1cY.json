@@ -1,0 +1,62 @@
+{
+  "texto": "Primeiro de que? Julho, né? É. Primeiro de julho de 2023. Olha a cepa. Olha a cepa. É bruta ou não é? Pequenininha, viu? Pai, 2,1kg. 2,1kg. Bombacipão.",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 1.51,
+      "text": "Primeiro de que?"
+    },
+    {
+      "start": 1.67,
+      "end": 2.03,
+      "text": "Julho, né?"
+    },
+    {
+      "start": 2.19,
+      "end": 2.39,
+      "text": "É."
+    },
+    {
+      "start": 3.54,
+      "end": 6.78,
+      "text": "Primeiro de julho de 2023."
+    },
+    {
+      "start": 9.39,
+      "end": 10.21,
+      "text": "Olha a cepa."
+    },
+    {
+      "start": 11.91,
+      "end": 12.99,
+      "text": "Olha a cepa."
+    },
+    {
+      "start": 16.61,
+      "end": 18.51,
+      "text": "É bruta ou não é?"
+    },
+    {
+      "start": 26.32,
+      "end": 27.3,
+      "text": "Pequenininha, viu?"
+    },
+    {
+      "start": 30.38,
+      "end": 31.8,
+      "text": "Pai, 2,1kg."
+    },
+    {
+      "start": 31.8,
+      "end": 33.06,
+      "text": "2,1kg."
+    },
+    {
+      "start": 33.44,
+      "end": 34.74,
+      "text": "Bombacipão."
+    }
+  ],
+  "duracao_seg": 35.41,
+  "idioma_detectado": "pt"
+}

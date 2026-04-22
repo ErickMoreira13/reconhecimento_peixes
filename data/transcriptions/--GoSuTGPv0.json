@@ -1,0 +1,37 @@
+{
+  "texto": "Três coisas que todo goleiro iniciante precisa saber. Para qualquer chute que você tente fazer o encaixe, você vai usar o triângulo. Quando a bola vier na rasteira, você nunca faça isso, porque senão você vai tomar o gol. Sempre, ó, dobre a perna e faça o encaixe. Não tenha medo da bola. E se você não está com confiança para fazer o encaixe, espalme ela para escanteio.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Três coisas que todo goleiro iniciante precisa saber."
+    },
+    {
+      "start": 3.0,
+      "end": 7.26,
+      "text": "Para qualquer chute que você tente fazer o encaixe, você vai usar o triângulo."
+    },
+    {
+      "start": 7.52,
+      "end": 12.12,
+      "text": "Quando a bola vier na rasteira, você nunca faça isso, porque senão você vai tomar o gol."
+    },
+    {
+      "start": 12.44,
+      "end": 15.8,
+      "text": "Sempre, ó, dobre a perna e faça o encaixe."
+    },
+    {
+      "start": 15.92,
+      "end": 17.06,
+      "text": "Não tenha medo da bola."
+    },
+    {
+      "start": 17.12,
+      "end": 21.48,
+      "text": "E se você não está com confiança para fazer o encaixe, espalme ela para escanteio."
+    }
+  ],
+  "duracao_seg": 21.65,
+  "idioma_detectado": "pt"
+}

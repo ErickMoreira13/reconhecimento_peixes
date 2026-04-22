@@ -1,0 +1,17 @@
+{
+  "texto": "Cabô, cabô, cabô com o canindé, quem tá morto tá deitado, quem tá vivo tá de pé Cabô, cabô, cabô com o canindé, quem tá morto tá deitado, quem tá...",
+  "segmentos": [
+    {
+      "start": 1.06,
+      "end": 6.96,
+      "text": "Cabô, cabô, cabô com o canindé, quem tá morto tá deitado, quem tá vivo tá de pé"
+    },
+    {
+      "start": 6.96,
+      "end": 11.58,
+      "text": "Cabô, cabô, cabô com o canindé, quem tá morto tá deitado, quem tá..."
+    }
+  ],
+  "duracao_seg": 65.89,
+  "idioma_detectado": "pt"
+}

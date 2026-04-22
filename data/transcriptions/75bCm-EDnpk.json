@@ -1,0 +1,17 @@
+{
+  "texto": "Eu acho pescador, meu mano, tô na beirada e tô pescando Eu acho pescador",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 7.48,
+      "text": "Eu acho pescador, meu mano, tô na beirada e tô pescando"
+    },
+    {
+      "start": 7.48,
+      "end": 8.64,
+      "text": "Eu acho pescador"
+    }
+  ],
+  "duracao_seg": 79.57,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Aí, galerinha do YouTube, vamos já para o campeonato de estilingue aí, ó. Nosso amigão aí, ó. Vem lá de Curitiba, vamos só participar aí do torneio de estilingue. Aí, galera, aí, ó. Beto.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 3.36,
+      "text": "Aí, galerinha do YouTube, vamos já para o campeonato de estilingue aí, ó."
+    },
+    {
+      "start": 3.54,
+      "end": 4.58,
+      "text": "Nosso amigão aí, ó."
+    },
+    {
+      "start": 5.64,
+      "end": 9.2,
+      "text": "Vem lá de Curitiba, vamos só participar aí do torneio de estilingue."
+    },
+    {
+      "start": 10.06,
+      "end": 10.84,
+      "text": "Aí, galera, aí, ó."
+    },
+    {
+      "start": 14.64,
+      "end": 15.08,
+      "text": "Beto."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

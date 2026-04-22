@@ -1,0 +1,47 @@
+{
+  "texto": "Azulão, Claudinho? Amarelão ou azulão? Deixa e sorte a linha, dá a linha Traz ele pra cá devagar Dá a linha, vem pro lado de trás, do lado de trás Nossa, que monstro Proféu, hein, Claudinho? Vamos levar a dele, Claudinho",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 1.11,
+      "text": "Azulão, Claudinho?"
+    },
+    {
+      "start": 4.21,
+      "end": 5.21,
+      "text": "Amarelão ou azulão?"
+    },
+    {
+      "start": 5.21,
+      "end": 7.21,
+      "text": "Deixa e sorte a linha, dá a linha"
+    },
+    {
+      "start": 7.21,
+      "end": 9.75,
+      "text": "Traz ele pra cá devagar"
+    },
+    {
+      "start": 9.75,
+      "end": 11.75,
+      "text": "Dá a linha, vem pro lado de trás, do lado de trás"
+    },
+    {
+      "start": 11.75,
+      "end": 17.09,
+      "text": "Nossa, que monstro"
+    },
+    {
+      "start": 17.09,
+      "end": 28.88,
+      "text": "Proféu, hein, Claudinho?"
+    },
+    {
+      "start": 28.88,
+      "end": 42.1,
+      "text": "Vamos levar a dele, Claudinho"
+    }
+  ],
+  "duracao_seg": 53.19,
+  "idioma_detectado": "pt"
+}

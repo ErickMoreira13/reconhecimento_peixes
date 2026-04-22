@@ -1,0 +1,27 @@
+{
+  "texto": "Eu não sou daqui, aí é só Eu não tenho amor, aí é só Eu sou da Bahia, aí é só Eu não sou o Salvador, aí é só",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 3.66,
+      "text": "Eu não sou daqui, aí é só"
+    },
+    {
+      "start": 3.66,
+      "end": 6.6,
+      "text": "Eu não tenho amor, aí é só"
+    },
+    {
+      "start": 6.6,
+      "end": 9.76,
+      "text": "Eu sou da Bahia, aí é só"
+    },
+    {
+      "start": 9.76,
+      "end": 12.8,
+      "text": "Eu não sou o Salvador, aí é só"
+    }
+  ],
+  "duracao_seg": 18.67,
+  "idioma_detectado": "pt"
+}

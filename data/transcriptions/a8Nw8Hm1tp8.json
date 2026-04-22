@@ -1,0 +1,17 @@
+{
+  "texto": "Ah, pra coleção, tá vendo? Ó o bichão, ó. Tá vendo? Ó como tá aí, ó. Ó o bicho como tá, ó. Se mexendo ainda, fresquinho. Se mexendo fresquinho agora, ó. Tá vendo? Aí, ó. É, aqui, é, aqui, é.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 14.12,
+      "text": "Ah, pra coleção, tá vendo? Ó o bichão, ó. Tá vendo? Ó como tá aí, ó. Ó o bicho como tá, ó."
+    },
+    {
+      "start": 14.78,
+      "end": 26.72,
+      "text": "Se mexendo ainda, fresquinho. Se mexendo fresquinho agora, ó. Tá vendo? Aí, ó. É, aqui, é, aqui, é."
+    }
+  ],
+  "duracao_seg": 26.75,
+  "idioma_detectado": "pt"
+}

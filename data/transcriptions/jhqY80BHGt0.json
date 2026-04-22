@@ -1,0 +1,22 @@
+{
+  "texto": "Bota a isca na boca dele. Vai lá, pega na mão. Tô com o naré com a mão.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Bota a isca na boca dele."
+    },
+    {
+      "start": 3.74,
+      "end": 4.54,
+      "text": "Vai lá, pega na mão."
+    },
+    {
+      "start": 10.16,
+      "end": 11.76,
+      "text": "Tô com o naré com a mão."
+    }
+  ],
+  "duracao_seg": 12.75,
+  "idioma_detectado": "pt"
+}

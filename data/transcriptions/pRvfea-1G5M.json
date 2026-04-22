@@ -1,0 +1,32 @@
+{
+  "texto": "Se eu pudesse voltar aos meus tempos de criança, ter a juventude, a perseverança, ovo no si, a casa de alvenaria, ver passarinhos cantando e arrever o pé de manjericão, o ira morando lá no oco do mourão. Os bezerros no piquete, nossas vacas leiteiras, papai tirando leite, cedinho na mangueira, e a revera aquarim, suas águas bem claras, e lambarim, monjolo e amoeira, as vacas mar e a preta, a tirolesa e a prenda. Na varanda tábua grande, cheia de queijo curar, ganha assando pança, reserva de mata, linda floresta fechada, as trilhas fundas do gado, detalhando a envelada. E arrever o sol, com seus raios fluorescentes, escondendo atrás da serra, dia da gente, o pé de dama da noite, com o mastro de São João, e até hoje perfuma minha imaginação. O caso é que eu não posso, fazer o tempo voltar, sem chumaço, e já não pode cantar, indo na cidade, perdendo as forças aos poucos, não consigo perder, o meu jeitão de caboclo.",
+  "segmentos": [
+    {
+      "start": 17.17,
+      "end": 54.53,
+      "text": "Se eu pudesse voltar aos meus tempos de criança, ter a juventude, a perseverança, ovo no si, a casa de alvenaria, ver passarinhos cantando e arrever o pé de manjericão, o ira morando lá no oco do mourão."
+    },
+    {
+      "start": 54.53,
+      "end": 110.22,
+      "text": "Os bezerros no piquete, nossas vacas leiteiras, papai tirando leite, cedinho na mangueira, e a revera aquarim, suas águas bem claras, e lambarim, monjolo e amoeira, as vacas mar e a preta, a tirolesa e a prenda."
+    },
+    {
+      "start": 110.22,
+      "end": 136.09,
+      "text": "Na varanda tábua grande, cheia de queijo curar, ganha assando pança, reserva de mata, linda floresta fechada, as trilhas fundas do gado, detalhando a envelada."
+    },
+    {
+      "start": 136.09,
+      "end": 177.4,
+      "text": "E arrever o sol, com seus raios fluorescentes, escondendo atrás da serra, dia da gente, o pé de dama da noite, com o mastro de São João, e até hoje perfuma minha imaginação."
+    },
+    {
+      "start": 177.4,
+      "end": 203.9,
+      "text": "O caso é que eu não posso, fazer o tempo voltar, sem chumaço, e já não pode cantar, indo na cidade, perdendo as forças aos poucos, não consigo perder, o meu jeitão de caboclo."
+    }
+  ],
+  "duracao_seg": 211.97,
+  "idioma_detectado": "pt"
+}
