@@ -95,6 +95,21 @@ def cmd_transcrever(args):
                 prog.advance(task)
                 continue
 
+            # audio gigante (10h+) trava o batch no whisper e estoura timeout
+            # perdendo os outros 49 do ciclo. melhor pular. 150MB em opus 128k
+            # eh ~2.5h de audio, ja e muito pra um video de pescaria normal
+            tam_mb = aud.stat().st_size / 1024 / 1024
+            if tam_mb > 150:
+                prog.console.log(f"[yellow]pulando {v['video_id']}: audio muito grande ({tam_mb:.0f}MB)")
+                yt.marca_falhou(v["video_id"], DB_PATH)
+                try:
+                    aud.unlink()
+                except Exception:
+                    pass
+                falhou += 1
+                prog.advance(task)
+                continue
+
             try:
                 resultado = wt.transcreve(aud)
                 out = wt.salva_transcricao(v["video_id"], resultado, config.TRANSCR_DIR)
