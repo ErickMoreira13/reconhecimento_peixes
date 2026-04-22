@@ -1,0 +1,17 @@
+{
+  "texto": "E o nome é John C. E o nome é John C.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.47,
+      "text": "E o nome é John C."
+    },
+    {
+      "start": 3.47,
+      "end": 3.97,
+      "text": "E o nome é John C."
+    }
+  ],
+  "duracao_seg": 6.13,
+  "idioma_detectado": "pt"
+}

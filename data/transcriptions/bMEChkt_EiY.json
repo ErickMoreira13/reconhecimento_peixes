@@ -1,0 +1,22 @@
+{
+  "texto": "A técnica de você cultivar plantas em água consiste na hidroponia. Olha que legal essa técnica de você utilizar a garrafa pet para você plantar em casa. Comenta aqui embaixo se você gostou dessa ideia.",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 6.31,
+      "text": "A técnica de você cultivar plantas em água consiste na hidroponia."
+    },
+    {
+      "start": 6.67,
+      "end": 10.75,
+      "text": "Olha que legal essa técnica de você utilizar a garrafa pet para você plantar em casa."
+    },
+    {
+      "start": 10.89,
+      "end": 12.55,
+      "text": "Comenta aqui embaixo se você gostou dessa ideia."
+    }
+  ],
+  "duracao_seg": 13.17,
+  "idioma_detectado": "pt"
+}

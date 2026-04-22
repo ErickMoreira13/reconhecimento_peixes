@@ -1,0 +1,27 @@
+{
+  "texto": "Aí, pessoal, aqui é a segunda piranha já que a gente tá pegando. Essa é bem maior, bem mais preta. E tô pegando elas com a isquinha artificial. Essa piranhona aí é grande, menino.",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 4.09,
+      "text": "Aí, pessoal, aqui é a segunda piranha já que a gente tá pegando."
+    },
+    {
+      "start": 4.29,
+      "end": 7.05,
+      "text": "Essa é bem maior, bem mais preta."
+    },
+    {
+      "start": 8.14,
+      "end": 10.46,
+      "text": "E tô pegando elas com a isquinha artificial."
+    },
+    {
+      "start": 13.15,
+      "end": 15.87,
+      "text": "Essa piranhona aí é grande, menino."
+    }
+  ],
+  "duracao_seg": 16.93,
+  "idioma_detectado": "pt"
+}

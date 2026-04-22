@@ -1,0 +1,32 @@
+{
+  "texto": "Aí, ó. Vai. Bora pro sashimi? Aí, ó. Espiando. Só limpar aqui e tirar um filé. Por no gelo.",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.22,
+      "text": "Aí, ó. Vai."
+    },
+    {
+      "start": 4.26,
+      "end": 5.16,
+      "text": "Bora pro sashimi?"
+    },
+    {
+      "start": 5.42,
+      "end": 7.22,
+      "text": "Aí, ó. Espiando."
+    },
+    {
+      "start": 10.56,
+      "end": 12.02,
+      "text": "Só limpar aqui e tirar um filé."
+    },
+    {
+      "start": 13.18,
+      "end": 13.92,
+      "text": "Por no gelo."
+    }
+  ],
+  "duracao_seg": 14.57,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "Essa é a caipirinho. Caipirinha de vinho? E se você nunca provou, você tá perdendo tempo. A gente vai começar fazendo uma caipirinha básica. Então pegue um limão e corte em oito pedacinhos. Agora é só colocar em um copo com uma colher de sopa de açúcar e macerar tudo muito bem. Coloque meia dose de cachaçita e duas doses do vinho de sua preferência. Agora é só mexer muito bem e completar com bastante gelo triturado. Finalize com uma rodelinha de limão e esse drink fica maravilhoso.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.1,
+      "text": "Essa é a caipirinho."
+    },
+    {
+      "start": 1.3,
+      "end": 2.28,
+      "text": "Caipirinha de vinho?"
+    },
+    {
+      "start": 2.48,
+      "end": 5.08,
+      "text": "E se você nunca provou, você tá perdendo tempo."
+    },
+    {
+      "start": 5.28,
+      "end": 7.38,
+      "text": "A gente vai começar fazendo uma caipirinha básica."
+    },
+    {
+      "start": 7.46,
+      "end": 9.7,
+      "text": "Então pegue um limão e corte em oito pedacinhos."
+    },
+    {
+      "start": 9.7,
+      "end": 14.08,
+      "text": "Agora é só colocar em um copo com uma colher de sopa de açúcar e macerar tudo muito bem."
+    },
+    {
+      "start": 14.18,
+      "end": 18.46,
+      "text": "Coloque meia dose de cachaçita e duas doses do vinho de sua preferência."
+    },
+    {
+      "start": 18.54,
+      "end": 22.32,
+      "text": "Agora é só mexer muito bem e completar com bastante gelo triturado."
+    },
+    {
+      "start": 22.44,
+      "end": 26.48,
+      "text": "Finalize com uma rodelinha de limão e esse drink fica maravilhoso."
+    }
+  ],
+  "duracao_seg": 26.77,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Foi embora Ó o milho azedo aí, ó Forte mesmo, nós jogamos um pouquinho ali, ó Deixa o peixe encostando aí, ó",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Foi embora"
+    },
+    {
+      "start": 1.22,
+      "end": 8.06,
+      "text": "Ó o milho azedo aí, ó"
+    },
+    {
+      "start": 8.06,
+      "end": 10.32,
+      "text": "Forte mesmo, nós jogamos um pouquinho ali, ó"
+    },
+    {
+      "start": 10.32,
+      "end": 12.62,
+      "text": "Deixa o peixe encostando aí, ó"
+    }
+  ],
+  "duracao_seg": 12.73,
+  "idioma_detectado": "pt"
+}

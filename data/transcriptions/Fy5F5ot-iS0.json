@@ -1,0 +1,102 @@
+{
+  "texto": "O cara fez, ele pega um pedacinho de papel, certo? Deixa eu pegar o anzol aqui pra mostrar pra vocês Tá aqui o anzol, ó, tá vazio Aí, ó, pegou um, ó Pegou mais um ali, galera, ó, ó lá Aham, bichão Então, galera, eu vou fazer igual o cara da propaganda Eu tenho minhas dúvidas Mas, ó, pegar um pedacinho, tá até meio grande Com anzol pequeno, aqui eu vou dobrar ele em dois, assim, ó Ó, vou botar aqui na ponta do anzol Assim, certo? Vou chacoalhar o fedorzinho aqui Igual o cara fez lá no comercial, tá, galera? Ele bota assim, ó, como tá aqui E agora, ó, ele encharca Ó, encharcou, tá vendo? Agora vamos ver se isso aqui funciona Se pegar...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.11,
+      "text": "O cara fez, ele pega um pedacinho de papel, certo?"
+    },
+    {
+      "start": 4.9,
+      "end": 6.6,
+      "text": "Deixa eu pegar o anzol aqui pra mostrar pra vocês"
+    },
+    {
+      "start": 6.6,
+      "end": 9.06,
+      "text": "Tá aqui o anzol, ó, tá vazio"
+    },
+    {
+      "start": 9.06,
+      "end": 10.68,
+      "text": "Aí, ó, pegou um, ó"
+    },
+    {
+      "start": 10.68,
+      "end": 13.55,
+      "text": "Pegou mais um ali, galera, ó, ó lá"
+    },
+    {
+      "start": 13.55,
+      "end": 15.9,
+      "text": "Aham, bichão"
+    },
+    {
+      "start": 15.9,
+      "end": 19.09,
+      "text": "Então, galera, eu vou fazer igual o cara da propaganda"
+    },
+    {
+      "start": 19.09,
+      "end": 21.3,
+      "text": "Eu tenho minhas dúvidas"
+    },
+    {
+      "start": 21.3,
+      "end": 25.79,
+      "text": "Mas, ó, pegar um pedacinho, tá até meio grande"
+    },
+    {
+      "start": 25.79,
+      "end": 29.87,
+      "text": "Com anzol pequeno, aqui eu vou dobrar ele em dois, assim, ó"
+    },
+    {
+      "start": 30.9,
+      "end": 33.4,
+      "text": "Ó, vou botar aqui na ponta do anzol"
+    },
+    {
+      "start": 33.4,
+      "end": 35.6,
+      "text": "Assim, certo?"
+    },
+    {
+      "start": 36.2,
+      "end": 38.16,
+      "text": "Vou chacoalhar o fedorzinho aqui"
+    },
+    {
+      "start": 38.16,
+      "end": 42.29,
+      "text": "Igual o cara fez lá no comercial, tá, galera?"
+    },
+    {
+      "start": 43.5,
+      "end": 46.38,
+      "text": "Ele bota assim, ó, como tá aqui"
+    },
+    {
+      "start": 46.38,
+      "end": 51.21,
+      "text": "E agora, ó, ele encharca"
+    },
+    {
+      "start": 51.21,
+      "end": 52.77,
+      "text": "Ó, encharcou, tá vendo?"
+    },
+    {
+      "start": 56.36,
+      "end": 58.64,
+      "text": "Agora vamos ver se isso aqui funciona"
+    },
+    {
+      "start": 58.64,
+      "end": 60.06,
+      "text": "Se pegar..."
+    }
+  ],
+  "duracao_seg": 60.07,
+  "idioma_detectado": "pt"
+}

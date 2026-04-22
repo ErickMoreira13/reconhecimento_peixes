@@ -1,0 +1,22 @@
+{
+  "texto": "A gente começa a prender o coloagem Olha o que é o coloagem aqui A prender o coloagem",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 3.71,
+      "text": "A gente começa a prender o coloagem"
+    },
+    {
+      "start": 3.71,
+      "end": 7.38,
+      "text": "Olha o que é o coloagem aqui"
+    },
+    {
+      "start": 7.38,
+      "end": 10.82,
+      "text": "A prender o coloagem"
+    }
+  ],
+  "duracao_seg": 11.39,
+  "idioma_detectado": "pt"
+}

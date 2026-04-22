@@ -1,0 +1,72 @@
+{
+  "texto": "Pessoal, beleza? Bem-vindo aí no canal Azul Louco Vou dar uma dica pra vocês aí como fazer hoje uma melequinha Pescar corimba, tá? Só colocar aí a farinha de trigo, tá bom? Somente farinha de trigo, mais nada Adicionar aí a água, tá? A água e ir mexendo, beleza? Adicionar e ir mexendo, ir mexendo O que dá esse ponto aqui, que é o ponto aí de grude Tá pronta aí a melequinha, beleza? Uma massa pra pegar corimba, piapara, tá certo? Deixa eu descansar por uns 20 minutos aí, beleza? Tá prontinha, forte abraço aí, até mais!",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 6.86,
+      "text": "Pessoal, beleza? Bem-vindo aí no canal Azul Louco"
+    },
+    {
+      "start": 6.86,
+      "end": 11.18,
+      "text": "Vou dar uma dica pra vocês aí como fazer hoje uma melequinha"
+    },
+    {
+      "start": 11.18,
+      "end": 14.08,
+      "text": "Pescar corimba, tá?"
+    },
+    {
+      "start": 14.14,
+      "end": 17.4,
+      "text": "Só colocar aí a farinha de trigo, tá bom?"
+    },
+    {
+      "start": 17.82,
+      "end": 19.68,
+      "text": "Somente farinha de trigo, mais nada"
+    },
+    {
+      "start": 19.68,
+      "end": 27.72,
+      "text": "Adicionar aí a água, tá?"
+    },
+    {
+      "start": 29.12,
+      "end": 33.87,
+      "text": "A água e ir mexendo, beleza?"
+    },
+    {
+      "start": 33.87,
+      "end": 38.72,
+      "text": "Adicionar e ir mexendo, ir mexendo"
+    },
+    {
+      "start": 38.72,
+      "end": 45.05,
+      "text": "O que dá esse ponto aqui, que é o ponto aí de grude"
+    },
+    {
+      "start": 45.05,
+      "end": 49.33,
+      "text": "Tá pronta aí a melequinha, beleza?"
+    },
+    {
+      "start": 49.67,
+      "end": 54.43,
+      "text": "Uma massa pra pegar corimba, piapara, tá certo?"
+    },
+    {
+      "start": 54.87,
+      "end": 57.17,
+      "text": "Deixa eu descansar por uns 20 minutos aí, beleza?"
+    },
+    {
+      "start": 57.41,
+      "end": 59.95,
+      "text": "Tá prontinha, forte abraço aí, até mais!"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

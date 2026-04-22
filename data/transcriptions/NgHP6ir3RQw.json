@@ -1,0 +1,87 @@
+{
+  "texto": "E aí galera, tudo joia? Estamos aqui numa ceba de um parceiro aqui Olha aqui a fartura Que é coco bacuri, ó Olha o tanto de caixa aqui pendurada Aqui no chão O próximo aqui é um suquinho de maracujá Pra dar cheiro, tá aqui pingando Ó, a gotinha aí O próximo aqui é um saleirinho Tem sal aí dentro E aí vai repondo a água e a água da chuva também E vai pingando aqui Pingando aí no chão E aqui é o cevador automático, tá com milho É, o trem aqui tá chique, ó Aê",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.82,
+      "text": "E aí galera, tudo joia? Estamos aqui numa ceba de um parceiro aqui"
+    },
+    {
+      "start": 2.82,
+      "end": 3.98,
+      "text": "Olha aqui a fartura"
+    },
+    {
+      "start": 3.98,
+      "end": 5.78,
+      "text": "Que é coco bacuri, ó"
+    },
+    {
+      "start": 5.78,
+      "end": 7.3,
+      "text": "Olha o tanto de caixa aqui pendurada"
+    },
+    {
+      "start": 7.3,
+      "end": 9.19,
+      "text": "Aqui no chão"
+    },
+    {
+      "start": 9.19,
+      "end": 12.98,
+      "text": "O próximo aqui é um suquinho de maracujá"
+    },
+    {
+      "start": 12.98,
+      "end": 14.9,
+      "text": "Pra dar cheiro, tá aqui pingando"
+    },
+    {
+      "start": 14.9,
+      "end": 16.69,
+      "text": "Ó, a gotinha aí"
+    },
+    {
+      "start": 16.69,
+      "end": 18.98,
+      "text": "O próximo aqui é um saleirinho"
+    },
+    {
+      "start": 18.98,
+      "end": 20.75,
+      "text": "Tem sal aí dentro"
+    },
+    {
+      "start": 20.75,
+      "end": 23.57,
+      "text": "E aí vai repondo a água e a água da chuva também"
+    },
+    {
+      "start": 23.57,
+      "end": 24.53,
+      "text": "E vai pingando aqui"
+    },
+    {
+      "start": 24.53,
+      "end": 26.18,
+      "text": "Pingando aí no chão"
+    },
+    {
+      "start": 26.18,
+      "end": 29.48,
+      "text": "E aqui é o cevador automático, tá com milho"
+    },
+    {
+      "start": 29.48,
+      "end": 32.5,
+      "text": "É, o trem aqui tá chique, ó"
+    },
+    {
+      "start": 32.5,
+      "end": 34.9,
+      "text": "Aê"
+    }
+  ],
+  "duracao_seg": 36.55,
+  "idioma_detectado": "pt"
+}

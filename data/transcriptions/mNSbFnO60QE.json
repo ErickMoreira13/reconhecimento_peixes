@@ -1,0 +1,22 @@
+{
+  "texto": "Olha aí, o pessoal no Rio não perdoa nem paca Capivara, né? Paca não, capivara Isso é terrível",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.13,
+      "text": "Olha aí, o pessoal no Rio não perdoa nem paca"
+    },
+    {
+      "start": 3.13,
+      "end": 6.38,
+      "text": "Capivara, né? Paca não, capivara"
+    },
+    {
+      "start": 6.38,
+      "end": 7.64,
+      "text": "Isso é terrível"
+    }
+  ],
+  "duracao_seg": 8.37,
+  "idioma_detectado": "pt"
+}

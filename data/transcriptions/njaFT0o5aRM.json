@@ -1,0 +1,17 @@
+{
+  "texto": "E aí E aí",
+  "segmentos": [
+    {
+      "start": 23.12,
+      "end": 252.01,
+      "text": "E aí"
+    },
+    {
+      "start": 252.03,
+      "end": 260.26,
+      "text": "E aí"
+    }
+  ],
+  "duracao_seg": 390.65,
+  "idioma_detectado": "pt"
+}

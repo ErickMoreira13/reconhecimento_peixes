@@ -1,0 +1,27 @@
+{
+  "texto": "pão de leite condensado, aqui eu tenho 500ml de água morna, aqui eu tenho fermento ó, fermento seco de 10 gramas, dissolver o fermento, a caixinha de leite condensado, gente aqui ó, eu tenho 1kg farinha de trigo, vou colocar aos pouquinhos, vamos pegar com a mão, vou deixar ela descansando aqui tá, aí logo vem tá bom gente olha a nossa massa, vamos crescer, vamos tirar a varela, ela está untada do bolinho, gente agora eu vou abrir esse aqui, vamos ver pra poder crescer, agora eu vou levar ao forno, olha aqui gente, olha só gente, se inscreva no canal",
+  "segmentos": [
+    {
+      "start": 1.14,
+      "end": 10.9,
+      "text": "pão de leite condensado, aqui eu tenho 500ml de água morna, aqui eu tenho fermento ó, fermento seco"
+    },
+    {
+      "start": 10.9,
+      "end": 19.64,
+      "text": "de 10 gramas, dissolver o fermento, a caixinha de leite condensado, gente aqui ó, eu tenho"
+    },
+    {
+      "start": 19.64,
+      "end": 29.94,
+      "text": "1kg farinha de trigo, vou colocar aos pouquinhos, vamos pegar com a mão, vou deixar ela descansando aqui tá, aí logo vem tá bom gente"
+    },
+    {
+      "start": 29.94,
+      "end": 52.27,
+      "text": "olha a nossa massa, vamos crescer, vamos tirar a varela, ela está untada do bolinho, gente agora eu vou abrir esse aqui, vamos ver pra poder crescer, agora eu vou levar ao forno, olha aqui gente, olha só gente, se inscreva no canal"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

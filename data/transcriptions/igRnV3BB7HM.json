@@ -1,0 +1,47 @@
+{
+  "texto": "Galera ó, agora eu vou mostrar pra vocês o porquê que eu fiz aquele negócio da cordinha com a madeirinha no galão Pra facilitar na hora de você colocar o trato Você vem aqui ó, ó lá ó, puxou ó Só engata lá, engata lá onde você colocou, fez o buraquinho, já era Ó, viu como é que é fácil pra colocar o trato? Colocou tudo ali, bate pra dentro né, pra travar Pronto, já tá feito, colocamos o trato, já abastecemos em pouco menos de 30 segundos Pronto, já tá feito, colocamos o trato, já abastecemos em pouco menos de 30 segundos",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "Galera ó, agora eu vou mostrar pra vocês o porquê que eu fiz aquele negócio da cordinha com a madeirinha no galão"
+    },
+    {
+      "start": 5.64,
+      "end": 8.34,
+      "text": "Pra facilitar na hora de você colocar o trato"
+    },
+    {
+      "start": 8.34,
+      "end": 13.04,
+      "text": "Você vem aqui ó, ó lá ó, puxou ó"
+    },
+    {
+      "start": 13.04,
+      "end": 18.74,
+      "text": "Só engata lá, engata lá onde você colocou, fez o buraquinho, já era"
+    },
+    {
+      "start": 18.74,
+      "end": 25.5,
+      "text": "Ó, viu como é que é fácil pra colocar o trato?"
+    },
+    {
+      "start": 28.1,
+      "end": 33.72,
+      "text": "Colocou tudo ali, bate pra dentro né, pra travar"
+    },
+    {
+      "start": 33.72,
+      "end": 39.84,
+      "text": "Pronto, já tá feito, colocamos o trato, já abastecemos em pouco menos de 30 segundos"
+    },
+    {
+      "start": 39.84,
+      "end": 69.82,
+      "text": "Pronto, já tá feito, colocamos o trato, já abastecemos em pouco menos de 30 segundos"
+    }
+  ],
+  "duracao_seg": 40.21,
+  "idioma_detectado": "pt"
+}

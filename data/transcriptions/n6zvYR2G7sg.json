@@ -1,0 +1,22 @@
+{
+  "texto": "O que é isso? O que é isso? Oh, o que é isso?",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.4,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 2.4,
+      "end": 4.4,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 4.4,
+      "end": 6.4,
+      "text": "Oh, o que é isso?"
+    }
+  ],
+  "duracao_seg": 5.71,
+  "idioma_detectado": "pt"
+}

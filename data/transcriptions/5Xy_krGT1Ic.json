@@ -1,0 +1,72 @@
+{
+  "texto": "Se você aí usar essa massa, você vai falir o dono do pesqueiro, com certeza vai pegar todos os peixes do tanque. Vamos começar, pessoal, adicionando um pouco de mistura pra bolo de fubá. Em média, uma xícara e meio já é o suficiente, tá bom, pessoal? Agora que vem o ingrediente secreto que ninguém te conta quando coloca nas massas, que é a essência de baunilha. Isso vai fazer ficar com cheiro muito forte e, consequentemente, com um gosto muito forte também. Vamos contar comigo, pessoal, é aproximadamente 10 gotas, tá? Vamos lá, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 gotas, pessoal. Agora vamos adicionar bem pouquinho a água, tá? Porque senão vai ficar muito mole. Com uma colher, vai mexendo essa mistura que ela vai ficar nesse ponto bem grudento, tá? Feito isso, gente, agora vamos adicionar mais uma xícara e meia da mesma mistura de bolo, tá? Aí a gente vai com as mãos e vai dando ponto nessa massa. E é desse jeito que essa massa vai ficar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.9,
+      "text": "Se você aí usar essa massa, você vai falir o dono do pesqueiro, com certeza vai pegar todos os peixes do tanque."
+    },
+    {
+      "start": 7.16,
+      "end": 10.74,
+      "text": "Vamos começar, pessoal, adicionando um pouco de mistura pra bolo de fubá."
+    },
+    {
+      "start": 10.9,
+      "end": 14.5,
+      "text": "Em média, uma xícara e meio já é o suficiente, tá bom, pessoal?"
+    },
+    {
+      "start": 14.82,
+      "end": 21.06,
+      "text": "Agora que vem o ingrediente secreto que ninguém te conta quando coloca nas massas, que é a essência de baunilha."
+    },
+    {
+      "start": 21.3,
+      "end": 26.34,
+      "text": "Isso vai fazer ficar com cheiro muito forte e, consequentemente, com um gosto muito forte também."
+    },
+    {
+      "start": 26.34,
+      "end": 30.32,
+      "text": "Vamos contar comigo, pessoal, é aproximadamente 10 gotas, tá?"
+    },
+    {
+      "start": 30.54,
+      "end": 38.76,
+      "text": "Vamos lá, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 gotas, pessoal."
+    },
+    {
+      "start": 38.96,
+      "end": 42.0,
+      "text": "Agora vamos adicionar bem pouquinho a água, tá?"
+    },
+    {
+      "start": 42.12,
+      "end": 43.86,
+      "text": "Porque senão vai ficar muito mole."
+    },
+    {
+      "start": 44.2,
+      "end": 48.86,
+      "text": "Com uma colher, vai mexendo essa mistura que ela vai ficar nesse ponto bem grudento, tá?"
+    },
+    {
+      "start": 48.96,
+      "end": 54.1,
+      "text": "Feito isso, gente, agora vamos adicionar mais uma xícara e meia da mesma mistura de bolo, tá?"
+    },
+    {
+      "start": 54.1,
+      "end": 57.44,
+      "text": "Aí a gente vai com as mãos e vai dando ponto nessa massa."
+    },
+    {
+      "start": 57.58,
+      "end": 59.8,
+      "text": "E é desse jeito que essa massa vai ficar."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "O segredo também, galera, você não vai dar tranco, tá? Você vai deixar um tanto assim de linha, mais ou menos, ó, dá pra ver aí a quantidade de linha? Ó, um metro e meio, mais ou menos, de linha. E vai fazer o arremesso, ó, um pêndulo, ó. Tá vendo, ó?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "O segredo também, galera, você não vai dar tranco, tá?"
+    },
+    {
+      "start": 4.14,
+      "end": 7.88,
+      "text": "Você vai deixar um tanto assim de linha, mais ou menos, ó, dá pra ver aí a quantidade de linha?"
+    },
+    {
+      "start": 8.68,
+      "end": 11.68,
+      "text": "Ó, um metro e meio, mais ou menos, de linha."
+    },
+    {
+      "start": 13.48,
+      "end": 17.3,
+      "text": "E vai fazer o arremesso, ó, um pêndulo, ó."
+    },
+    {
+      "start": 20.71,
+      "end": 21.31,
+      "text": "Tá vendo, ó?"
+    }
+  ],
+  "duracao_seg": 22.81,
+  "idioma_detectado": "pt"
+}

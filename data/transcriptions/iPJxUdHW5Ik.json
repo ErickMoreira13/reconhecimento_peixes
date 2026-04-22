@@ -1,0 +1,42 @@
+{
+  "texto": "Essa cebola roxa em conserva tá sendo a alegria aqui de casa. Uma delícia, muito saborosa, super combina com qualquer salada do dia a dia. Agrega o nosso almoço e é perfeita com arroz branco. Começa fatiando a cebola no mandolim. Transfere pra um pote de vidro, uma colher de sopa de açúcar, uma colher de chá de sal, vinagre de maçã, azeite de oliva e orégano. Cobre com água fervente e leva pra geladeira e pode consumir no dia seguinte.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "Essa cebola roxa em conserva tá sendo a alegria aqui de casa."
+    },
+    {
+      "start": 3.86,
+      "end": 8.6,
+      "text": "Uma delícia, muito saborosa, super combina com qualquer salada do dia a dia."
+    },
+    {
+      "start": 8.72,
+      "end": 11.98,
+      "text": "Agrega o nosso almoço e é perfeita com arroz branco."
+    },
+    {
+      "start": 12.1,
+      "end": 14.12,
+      "text": "Começa fatiando a cebola no mandolim."
+    },
+    {
+      "start": 14.24,
+      "end": 19.3,
+      "text": "Transfere pra um pote de vidro, uma colher de sopa de açúcar, uma colher de chá de sal,"
+    },
+    {
+      "start": 19.44,
+      "end": 22.56,
+      "text": "vinagre de maçã, azeite de oliva e orégano."
+    },
+    {
+      "start": 22.56,
+      "end": 27.14,
+      "text": "Cobre com água fervente e leva pra geladeira e pode consumir no dia seguinte."
+    }
+  ],
+  "duracao_seg": 27.35,
+  "idioma_detectado": "pt"
+}

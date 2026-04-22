@@ -1,0 +1,17 @@
+{
+  "texto": "só mede aqui ó e corta mais ou menos no meio pessoal e esse pedacinho aqui pessoal esse pedacinho nós vamos miscar aí fica igual um bichinho",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.14,
+      "text": "só mede aqui ó e corta mais ou menos no meio pessoal e esse pedacinho aqui pessoal"
+    },
+    {
+      "start": 9.14,
+      "end": 13.38,
+      "text": "esse pedacinho nós vamos miscar aí fica igual um bichinho"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

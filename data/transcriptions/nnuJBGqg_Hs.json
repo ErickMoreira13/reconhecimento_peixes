@@ -1,0 +1,52 @@
+{
+  "texto": "Aí, rapaziada, a massinha nossa que vocês viram o Jean preparar aí, né? Massinha nossa com banana. Pega o nosso feromônio, ó. Você faz a coxinha da massa, ó. E pinga as gotinhas, mano, ó. Pinga. E a pasta entre ela, a massa, ó. É um fedor esse feromônio. E pau, esse é o segredo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": "Aí, rapaziada, a massinha nossa que vocês viram o Jean preparar aí, né?"
+    },
+    {
+      "start": 3.32,
+      "end": 4.66,
+      "text": "Massinha nossa com banana."
+    },
+    {
+      "start": 5.24,
+      "end": 6.52,
+      "text": "Pega o nosso feromônio, ó."
+    },
+    {
+      "start": 6.88,
+      "end": 8.76,
+      "text": "Você faz a coxinha da massa, ó."
+    },
+    {
+      "start": 9.2,
+      "end": 10.88,
+      "text": "E pinga as gotinhas, mano, ó."
+    },
+    {
+      "start": 11.64,
+      "end": 12.08,
+      "text": "Pinga."
+    },
+    {
+      "start": 12.98,
+      "end": 15.2,
+      "text": "E a pasta entre ela, a massa, ó."
+    },
+    {
+      "start": 15.28,
+      "end": 16.94,
+      "text": "É um fedor esse feromônio."
+    },
+    {
+      "start": 17.42,
+      "end": 18.92,
+      "text": "E pau, esse é o segredo."
+    }
+  ],
+  "duracao_seg": 19.71,
+  "idioma_detectado": "pt"
+}

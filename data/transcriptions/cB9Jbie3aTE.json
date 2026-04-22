@@ -1,0 +1,142 @@
+{
+  "texto": "A primeira forma clássica é a que todo mundo aprendeu a fazer. Uma cuiazinha, uma erva mate moída grossa aqui da Banca 2. Vamos encher a cuia até o pescocinho. Vira toda a erva para o lado da cuia. Dá uma bisoiada aqui, se está certinho. Metade com a erva, metade sem a erva. E aí colocar a primeira água. Eu sempre começo com a água temperatura ambiente. Água da torneira, para não queimar a erva. Isso aqui eu aprendi com meu pai, com meu nono. Todo mundo sempre fez assim. Nunca se coloca água quente na primeira vez. Queima a erva, queima a língua e altera o sabor do teu mate. Detalhe importante, não atira água lá no morro. Porque se tu atira água lá no morro, o morro faz isso aqui. Ele cai. E aí quando tu for por a bomba, vai botar a bomba num monte de erva já concentrada nesse lado da cuia. Isso aí vai fazer com que aperte o mate. Vai entupir com certeza. Vira a cuia, deixa metade com, metade sem. E larga ela bem mansamente desse lado. Ela tem que sempre cair escorrendo na parede da cuia. Vai absorvendo mansamente a água e vai inchando o morrinho. Aí depois, tu pode colocar uma aguinha quente. Para dar mais uma compactada no morro. Aí sim o morro vai inchar bem, vai compactar bem e não vai cair. E por final, como é de tradição, tampa, insere a bomba, tá pronto o teu mate.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "A primeira forma clássica é a que todo mundo aprendeu a fazer."
+    },
+    {
+      "start": 3.38,
+      "end": 7.56,
+      "text": "Uma cuiazinha, uma erva mate moída grossa aqui da Banca 2."
+    },
+    {
+      "start": 8.26,
+      "end": 10.64,
+      "text": "Vamos encher a cuia até o pescocinho."
+    },
+    {
+      "start": 11.04,
+      "end": 14.16,
+      "text": "Vira toda a erva para o lado da cuia."
+    },
+    {
+      "start": 14.46,
+      "end": 16.64,
+      "text": "Dá uma bisoiada aqui, se está certinho."
+    },
+    {
+      "start": 16.96,
+      "end": 19.4,
+      "text": "Metade com a erva, metade sem a erva."
+    },
+    {
+      "start": 19.5,
+      "end": 21.44,
+      "text": "E aí colocar a primeira água."
+    },
+    {
+      "start": 21.74,
+      "end": 25.02,
+      "text": "Eu sempre começo com a água temperatura ambiente."
+    },
+    {
+      "start": 25.22,
+      "end": 27.62,
+      "text": "Água da torneira, para não queimar a erva."
+    },
+    {
+      "start": 27.62,
+      "end": 30.02,
+      "text": "Isso aqui eu aprendi com meu pai, com meu nono."
+    },
+    {
+      "start": 30.18,
+      "end": 31.34,
+      "text": "Todo mundo sempre fez assim."
+    },
+    {
+      "start": 31.74,
+      "end": 34.44,
+      "text": "Nunca se coloca água quente na primeira vez."
+    },
+    {
+      "start": 34.58,
+      "end": 39.14,
+      "text": "Queima a erva, queima a língua e altera o sabor do teu mate."
+    },
+    {
+      "start": 39.34,
+      "end": 42.72,
+      "text": "Detalhe importante, não atira água lá no morro."
+    },
+    {
+      "start": 42.78,
+      "end": 45.16,
+      "text": "Porque se tu atira água lá no morro, o morro faz isso aqui."
+    },
+    {
+      "start": 45.4,
+      "end": 46.2,
+      "text": "Ele cai."
+    },
+    {
+      "start": 46.56,
+      "end": 53.04,
+      "text": "E aí quando tu for por a bomba, vai botar a bomba num monte de erva já concentrada nesse lado da cuia."
+    },
+    {
+      "start": 53.22,
+      "end": 55.12,
+      "text": "Isso aí vai fazer com que aperte o mate."
+    },
+    {
+      "start": 55.32,
+      "end": 56.62,
+      "text": "Vai entupir com certeza."
+    },
+    {
+      "start": 56.62,
+      "end": 59.58,
+      "text": "Vira a cuia, deixa metade com, metade sem."
+    },
+    {
+      "start": 59.86,
+      "end": 62.94,
+      "text": "E larga ela bem mansamente desse lado."
+    },
+    {
+      "start": 63.24,
+      "end": 66.06,
+      "text": "Ela tem que sempre cair escorrendo na parede da cuia."
+    },
+    {
+      "start": 66.24,
+      "end": 70.88,
+      "text": "Vai absorvendo mansamente a água e vai inchando o morrinho."
+    },
+    {
+      "start": 71.06,
+      "end": 74.12,
+      "text": "Aí depois, tu pode colocar uma aguinha quente."
+    },
+    {
+      "start": 74.84,
+      "end": 77.38,
+      "text": "Para dar mais uma compactada no morro."
+    },
+    {
+      "start": 77.5,
+      "end": 81.52,
+      "text": "Aí sim o morro vai inchar bem, vai compactar bem e não vai cair."
+    },
+    {
+      "start": 81.52,
+      "end": 87.76,
+      "text": "E por final, como é de tradição, tampa, insere a bomba, tá pronto o teu mate."
+    }
+  ],
+  "duracao_seg": 88.85,
+  "idioma_detectado": "pt"
+}

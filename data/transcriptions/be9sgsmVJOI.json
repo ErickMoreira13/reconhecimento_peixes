@@ -1,0 +1,22 @@
+{
+  "texto": "Tem peixe grande aqui na represa, barba. E eu não tenho. Tá vendo as costas dessa bicha.",
+  "segmentos": [
+    {
+      "start": 1.84,
+      "end": 3.88,
+      "text": "Tem peixe grande aqui na represa, barba."
+    },
+    {
+      "start": 5.97,
+      "end": 6.63,
+      "text": "E eu não tenho."
+    },
+    {
+      "start": 7.13,
+      "end": 9.3,
+      "text": "Tá vendo as costas dessa bicha."
+    }
+  ],
+  "duracao_seg": 10.99,
+  "idioma_detectado": "pt"
+}

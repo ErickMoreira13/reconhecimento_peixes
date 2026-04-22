@@ -1,0 +1,27 @@
+{
+  "texto": "Aí pessoal, na pescaria de hoje Primeiro peixe que está saindo É essa piranha preta E é valente, do olho vermelho",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 2.53,
+      "text": "Aí pessoal, na pescaria de hoje"
+    },
+    {
+      "start": 2.53,
+      "end": 5.11,
+      "text": "Primeiro peixe que está saindo"
+    },
+    {
+      "start": 5.11,
+      "end": 6.73,
+      "text": "É essa piranha preta"
+    },
+    {
+      "start": 6.73,
+      "end": 8.87,
+      "text": "E é valente, do olho vermelho"
+    }
+  ],
+  "duracao_seg": 11.25,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Ah, piranha boa, amiga. Você não jogou a outra fora, não, né? Nada.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 2.06,
+      "text": "Ah, piranha boa, amiga."
+    },
+    {
+      "start": 2.3,
+      "end": 3.76,
+      "text": "Você não jogou a outra fora, não, né?"
+    },
+    {
+      "start": 4.5,
+      "end": 4.88,
+      "text": "Nada."
+    }
+  ],
+  "duracao_seg": 5.81,
+  "idioma_detectado": "pt"
+}

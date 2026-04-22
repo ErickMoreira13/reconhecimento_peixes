@@ -1,0 +1,47 @@
+{
+  "texto": "Essa conserva de cebola roxa é o acompanhamento perfeito. Eu adoro com salada, mas combina com tudo. É só fatiar a cebola bem fininha. Eu gosto de usar o mandolini, mas é opcional. E coloca em um pote higienizado. Com água quente, aceto balsanço, açúcar, orégano, azeite, sal. Tampa, chacoalha bem e pode levar pra geladeira. E consumir no dia seguinte.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Essa conserva de cebola roxa é o acompanhamento perfeito."
+    },
+    {
+      "start": 3.68,
+      "end": 6.16,
+      "text": "Eu adoro com salada, mas combina com tudo."
+    },
+    {
+      "start": 6.26,
+      "end": 7.84,
+      "text": "É só fatiar a cebola bem fininha."
+    },
+    {
+      "start": 8.06,
+      "end": 9.94,
+      "text": "Eu gosto de usar o mandolini, mas é opcional."
+    },
+    {
+      "start": 10.2,
+      "end": 11.7,
+      "text": "E coloca em um pote higienizado."
+    },
+    {
+      "start": 11.72,
+      "end": 15.66,
+      "text": "Com água quente, aceto balsanço, açúcar, orégano, azeite, sal."
+    },
+    {
+      "start": 15.74,
+      "end": 18.24,
+      "text": "Tampa, chacoalha bem e pode levar pra geladeira."
+    },
+    {
+      "start": 18.26,
+      "end": 19.38,
+      "text": "E consumir no dia seguinte."
+    }
+  ],
+  "duracao_seg": 19.55,
+  "idioma_detectado": "pt"
+}

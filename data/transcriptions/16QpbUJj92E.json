@@ -1,0 +1,32 @@
+{
+  "texto": "Então, Lino, lá na casa de pés que ela tá... Chegou a liçanga... Aquelas flores quentes lá, sabe? Aham, tá bom. Ué!",
+  "segmentos": [
+    {
+      "start": 3.38,
+      "end": 5.38,
+      "text": "Então, Lino, lá na casa de pés que ela tá..."
+    },
+    {
+      "start": 5.38,
+      "end": 9.24,
+      "text": "Chegou a liçanga..."
+    },
+    {
+      "start": 9.24,
+      "end": 11.3,
+      "text": "Aquelas flores quentes lá, sabe?"
+    },
+    {
+      "start": 11.3,
+      "end": 13.3,
+      "text": "Aham, tá bom."
+    },
+    {
+      "start": 13.3,
+      "end": 19.14,
+      "text": "Ué!"
+    }
+  ],
+  "duracao_seg": 29.99,
+  "idioma_detectado": "pt"
+}

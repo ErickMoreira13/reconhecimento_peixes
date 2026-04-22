@@ -1,0 +1,27 @@
+{
+  "texto": "oi galera o tamanho do piranhão Olha a serva do Corvina aqui ó tamanho bicho soltar porque esse aqui não pode ter uma piracema soltar bicho que isso aqui não importa só ela foi embora que é oi meu filho e me escapo eu tenho uma boa aqui ó é essa aí não é só bater piranha agora só piranha piranha piranha troquei minha risca",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.86,
+      "text": "oi galera o tamanho do piranhão Olha a serva do Corvina aqui ó tamanho bicho soltar porque"
+    },
+    {
+      "start": 9.86,
+      "end": 30.74,
+      "text": "esse aqui não pode ter uma piracema soltar bicho que isso aqui não importa só ela foi embora que é"
+    },
+    {
+      "start": 30.74,
+      "end": 66.66,
+      "text": "oi meu filho e me escapo eu tenho uma boa aqui ó é essa aí não é só bater piranha agora só"
+    },
+    {
+      "start": 66.66,
+      "end": 71.29,
+      "text": "piranha piranha piranha troquei minha risca"
+    }
+  ],
+  "duracao_seg": 73.75,
+  "idioma_detectado": "pt"
+}

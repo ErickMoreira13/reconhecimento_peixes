@@ -1,0 +1,37 @@
+{
+  "texto": "Tchê, muitos me perguntam qual a diferença da erva mate grossa para a erva mate fina. Simplesmente a erva fina é mais suave, bem mais suave e é uma erva que é mais complicada de fazer porque ela entope muito fácil. Se fazer com cautela, que nem eu estou fazendo, apertando bem o morrinho para não deixar a erva cair lá embaixo quando for botar água, tem que ser um chimarrão feito bem na manha, com cautela para não cair essa erva lá embaixo porque senão vai entupir. Chimarrão de erva tradicional é um chimarrão bem suave, na metade da térmica já está uma água bem pura, chimarrão bem suave. Para quem gosta de erva mate suave é só escolher uma tradicional.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 5.56,
+      "text": "Tchê, muitos me perguntam qual a diferença da erva mate grossa para a erva mate fina."
+    },
+    {
+      "start": 6.74,
+      "end": 14.46,
+      "text": "Simplesmente a erva fina é mais suave, bem mais suave e é uma erva que é mais complicada de fazer porque ela entope muito fácil."
+    },
+    {
+      "start": 15.16,
+      "end": 22.78,
+      "text": "Se fazer com cautela, que nem eu estou fazendo, apertando bem o morrinho para não deixar a erva cair lá embaixo quando for botar água,"
+    },
+    {
+      "start": 22.78,
+      "end": 29.64,
+      "text": "tem que ser um chimarrão feito bem na manha, com cautela para não cair essa erva lá embaixo porque senão vai entupir."
+    },
+    {
+      "start": 29.64,
+      "end": 40.8,
+      "text": "Chimarrão de erva tradicional é um chimarrão bem suave, na metade da térmica já está uma água bem pura, chimarrão bem suave."
+    },
+    {
+      "start": 41.4,
+      "end": 44.96,
+      "text": "Para quem gosta de erva mate suave é só escolher uma tradicional."
+    }
+  ],
+  "duracao_seg": 45.73,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,47 @@
+{
+  "texto": "Vou cortar aqui Cortar aqui, ó Essa aqui é da boa Envelado Envelado Arasagi, galera Aí, ó Cortar os pedacinhos Maior",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 1.8,
+      "text": "Vou cortar aqui"
+    },
+    {
+      "start": 1.8,
+      "end": 3.14,
+      "text": "Cortar aqui, ó"
+    },
+    {
+      "start": 3.14,
+      "end": 5.34,
+      "text": "Essa aqui é da boa"
+    },
+    {
+      "start": 5.34,
+      "end": 5.94,
+      "text": "Envelado"
+    },
+    {
+      "start": 5.94,
+      "end": 8.42,
+      "text": "Envelado Arasagi, galera"
+    },
+    {
+      "start": 8.42,
+      "end": 9.72,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 9.72,
+      "end": 12.74,
+      "text": "Cortar os pedacinhos"
+    },
+    {
+      "start": 12.74,
+      "end": 13.44,
+      "text": "Maior"
+    }
+  ],
+  "duracao_seg": 14.03,
+  "idioma_detectado": "pt"
+}
