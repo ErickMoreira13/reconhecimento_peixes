@@ -1,0 +1,32 @@
+{
+  "texto": "Atenção, hoje foi muita bala em Apodi! Não saia de casa, tenha muito cuidado! Eita papai, tá assistindo um programa sobre tiro! Jajá mais notícias! Agora eu dou um e dá papai!",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 5.37,
+      "text": "Atenção, hoje foi muita bala em Apodi!"
+    },
+    {
+      "start": 5.37,
+      "end": 7.61,
+      "text": "Não saia de casa, tenha muito cuidado!"
+    },
+    {
+      "start": 7.61,
+      "end": 17.73,
+      "text": "Eita papai, tá assistindo um programa sobre tiro!"
+    },
+    {
+      "start": 17.73,
+      "end": 29.97,
+      "text": "Jajá mais notícias!"
+    },
+    {
+      "start": 29.97,
+      "end": 44.19,
+      "text": "Agora eu dou um e dá papai!"
+    }
+  ],
+  "duracao_seg": 48.11,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,102 @@
+{
+  "texto": "Vamos limpar a raia de um jeito muito fácil. Você vai precisar de uma faquinha bem miudinha. Ela só precisa estar bem afiada pra você riscar ela aqui, ó. Tá vendo? Riscou. Já separou aqui, ó. Aí nós... Ó, você vai riscar ela aqui, ó. Todo o percurso dela, do começo até o fim. Próximo passo, você vai precisar de um alicate, ó. Você vai segurar aqui, ó. E, ó, ó como sai o couro bem facinho. E eu vejo o pessoal sofrendo tanto pra tirar o couro da raia, ó. Meu amigo, aqui não tem dificuldade. E aí vocês já deixem aí nos comentários. Vocês sabiam que assim limpava a raia bem facinho? Ó, só segura aqui, ó. Ó como é satisfatório, ó. Precisa nem fazer força.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "Vamos limpar a raia de um jeito muito fácil."
+    },
+    {
+      "start": 3.6,
+      "end": 5.94,
+      "text": "Você vai precisar de uma faquinha bem miudinha."
+    },
+    {
+      "start": 6.52,
+      "end": 9.4,
+      "text": "Ela só precisa estar bem afiada pra você riscar ela aqui, ó."
+    },
+    {
+      "start": 10.04,
+      "end": 10.38,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 11.42,
+      "end": 11.9,
+      "text": "Riscou."
+    },
+    {
+      "start": 13.03,
+      "end": 14.19,
+      "text": "Já separou aqui, ó."
+    },
+    {
+      "start": 14.19,
+      "end": 15.19,
+      "text": "Aí nós..."
+    },
+    {
+      "start": 15.19,
+      "end": 17.09,
+      "text": "Ó, você vai riscar ela aqui, ó."
+    },
+    {
+      "start": 17.65,
+      "end": 21.62,
+      "text": "Todo o percurso dela, do começo até o fim."
+    },
+    {
+      "start": 23.09,
+      "end": 25.35,
+      "text": "Próximo passo, você vai precisar de um alicate, ó."
+    },
+    {
+      "start": 25.79,
+      "end": 26.93,
+      "text": "Você vai segurar aqui, ó."
+    },
+    {
+      "start": 27.49,
+      "end": 29.63,
+      "text": "E, ó, ó como sai o couro bem facinho."
+    },
+    {
+      "start": 29.63,
+      "end": 34.65,
+      "text": "E eu vejo o pessoal sofrendo tanto pra tirar o couro da raia, ó."
+    },
+    {
+      "start": 35.88,
+      "end": 38.3,
+      "text": "Meu amigo, aqui não tem dificuldade."
+    },
+    {
+      "start": 40.66,
+      "end": 42.44,
+      "text": "E aí vocês já deixem aí nos comentários."
+    },
+    {
+      "start": 43.26,
+      "end": 46.24,
+      "text": "Vocês sabiam que assim limpava a raia bem facinho?"
+    },
+    {
+      "start": 46.62,
+      "end": 48.16,
+      "text": "Ó, só segura aqui, ó."
+    },
+    {
+      "start": 48.18,
+      "end": 49.32,
+      "text": "Ó como é satisfatório, ó."
+    },
+    {
+      "start": 49.76,
+      "end": 51.08,
+      "text": "Precisa nem fazer força."
+    }
+  ],
+  "duracao_seg": 51.27,
+  "idioma_detectado": "pt"
+}

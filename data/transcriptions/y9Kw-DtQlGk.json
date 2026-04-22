@@ -1,0 +1,72 @@
+{
+  "texto": "Bem-vindos ao tutorial de emissão de certificado de regularidade. Lembramos que o certificado de regularidade só pode ser emitido por pescadores que estão em situação ativa no PESCBrasil RGB Pescador e Pescadora Profissional. Clique em entrar com gov.br. Digite o seu CPF e clique em continuar. Digite a sua senha em entrar. Você será redirecionado para a página inicial do sistema. Clique em pescador profissional ativo. Em seguida, clique em opções. Em seguida, clique no card certificado de regularidade. Seu certificado será emitido. O certificado pode ser usado como comprovante de regularidade junto ao Ministério da Pesca e Aquicultura no Registro Geral da Atividade Pesqueira, onde o QR Code serve para autenticar o documento emitido.",
+  "segmentos": [
+    {
+      "start": 4.24,
+      "end": 8.14,
+      "text": "Bem-vindos ao tutorial de emissão de certificado de regularidade."
+    },
+    {
+      "start": 8.8,
+      "end": 14.24,
+      "text": "Lembramos que o certificado de regularidade só pode ser emitido por pescadores que estão em situação ativa"
+    },
+    {
+      "start": 14.24,
+      "end": 18.22,
+      "text": "no PESCBrasil RGB Pescador e Pescadora Profissional."
+    },
+    {
+      "start": 19.17,
+      "end": 21.87,
+      "text": "Clique em entrar com gov.br."
+    },
+    {
+      "start": 28.01,
+      "end": 30.95,
+      "text": "Digite o seu CPF e clique em continuar."
+    },
+    {
+      "start": 35.9,
+      "end": 45.11,
+      "text": "Digite a sua senha em entrar."
+    },
+    {
+      "start": 46.18,
+      "end": 49.38,
+      "text": "Você será redirecionado para a página inicial do sistema."
+    },
+    {
+      "start": 49.38,
+      "end": 56.23,
+      "text": "Clique em pescador profissional ativo."
+    },
+    {
+      "start": 61.19,
+      "end": 63.53,
+      "text": "Em seguida, clique em opções."
+    },
+    {
+      "start": 73.22,
+      "end": 76.5,
+      "text": "Em seguida, clique no card certificado de regularidade."
+    },
+    {
+      "start": 84.12,
+      "end": 85.84,
+      "text": "Seu certificado será emitido."
+    },
+    {
+      "start": 88.97,
+      "end": 94.39,
+      "text": "O certificado pode ser usado como comprovante de regularidade junto ao Ministério da Pesca e Aquicultura"
+    },
+    {
+      "start": 94.39,
+      "end": 101.25,
+      "text": "no Registro Geral da Atividade Pesqueira, onde o QR Code serve para autenticar o documento emitido."
+    }
+  ],
+  "duracao_seg": 107.59,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,132 @@
+{
+  "texto": "Vem comigo pescar de rede com o meu pai. E a primeira coisa que tu tem que fazer é achar um lugar bom pra te colocar a rede. Meu pai mandou eu subir aqui pra procurar uma garrafa. Peguei a garrafa e meu pai foi logo colocando ela na ponta da rede. Depois disso ele amarrou outra ponta da rede nesse galho. E agora eu tenho que remar e meu pai tá jogando a rede. Depois que a gente esticou essa rede em toda essa área. A gente vai esperar um pouco até a hora de ver a rede. Tu é doido? Não demorou muito tempo. Meu pai puxou a rede e veio logo um peixe. E depois ele pegou mais essa pescada aqui. Égua, quando eu vi ele não jogou outra no porão do casco. E agora ele pegou esse peixinho branco aí. Rapaz, e eu pisquei e ele pegou mais três peixes. O negócio tava bom mesmo. No final da rede ele ainda pegou esse aí. Tu é doido? Esse peixe é muito firme. E olha o céu como tava aí. Que coisa linda, tu é doido? Depois de um tempo meu pai foi puxar a rede de novo. Ele pegou esse daí e tinha outro querendo escapar disso. Meu pai falou tu vai fugir sim. Mano, e a pescarinha de hoje foi muito boa. Meu pai puxava a rede e eu só vi os peixes subindo. Chegou no final da rede, olha como o fundo do casco tava.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.02,
+      "text": "Vem comigo pescar de rede com o meu pai."
+    },
+    {
+      "start": 2.04,
+      "end": 5.5,
+      "text": "E a primeira coisa que tu tem que fazer é achar um lugar bom pra te colocar a rede."
+    },
+    {
+      "start": 5.56,
+      "end": 7.88,
+      "text": "Meu pai mandou eu subir aqui pra procurar uma garrafa."
+    },
+    {
+      "start": 7.94,
+      "end": 11.0,
+      "text": "Peguei a garrafa e meu pai foi logo colocando ela na ponta da rede."
+    },
+    {
+      "start": 11.12,
+      "end": 13.86,
+      "text": "Depois disso ele amarrou outra ponta da rede nesse galho."
+    },
+    {
+      "start": 13.88,
+      "end": 16.48,
+      "text": "E agora eu tenho que remar e meu pai tá jogando a rede."
+    },
+    {
+      "start": 16.64,
+      "end": 19.22,
+      "text": "Depois que a gente esticou essa rede em toda essa área."
+    },
+    {
+      "start": 19.28,
+      "end": 21.92,
+      "text": "A gente vai esperar um pouco até a hora de ver a rede."
+    },
+    {
+      "start": 21.92,
+      "end": 23.78,
+      "text": "Tu é doido? Não demorou muito tempo."
+    },
+    {
+      "start": 23.86,
+      "end": 25.76,
+      "text": "Meu pai puxou a rede e veio logo um peixe."
+    },
+    {
+      "start": 25.82,
+      "end": 28.14,
+      "text": "E depois ele pegou mais essa pescada aqui."
+    },
+    {
+      "start": 28.14,
+      "end": 30.54,
+      "text": "Égua, quando eu vi ele não jogou outra no porão do casco."
+    },
+    {
+      "start": 30.56,
+      "end": 32.64,
+      "text": "E agora ele pegou esse peixinho branco aí."
+    },
+    {
+      "start": 32.9,
+      "end": 35.54,
+      "text": "Rapaz, e eu pisquei e ele pegou mais três peixes."
+    },
+    {
+      "start": 35.62,
+      "end": 37.22,
+      "text": "O negócio tava bom mesmo."
+    },
+    {
+      "start": 37.28,
+      "end": 39.16,
+      "text": "No final da rede ele ainda pegou esse aí."
+    },
+    {
+      "start": 39.26,
+      "end": 41.44,
+      "text": "Tu é doido? Esse peixe é muito firme."
+    },
+    {
+      "start": 41.46,
+      "end": 43.1,
+      "text": "E olha o céu como tava aí."
+    },
+    {
+      "start": 43.18,
+      "end": 45.02,
+      "text": "Que coisa linda, tu é doido?"
+    },
+    {
+      "start": 45.18,
+      "end": 47.58,
+      "text": "Depois de um tempo meu pai foi puxar a rede de novo."
+    },
+    {
+      "start": 47.7,
+      "end": 50.42,
+      "text": "Ele pegou esse daí e tinha outro querendo escapar disso."
+    },
+    {
+      "start": 50.42,
+      "end": 52.26,
+      "text": "Meu pai falou tu vai fugir sim."
+    },
+    {
+      "start": 52.38,
+      "end": 54.5,
+      "text": "Mano, e a pescarinha de hoje foi muito boa."
+    },
+    {
+      "start": 54.6,
+      "end": 57.14,
+      "text": "Meu pai puxava a rede e eu só vi os peixes subindo."
+    },
+    {
+      "start": 57.14,
+      "end": 59.96,
+      "text": "Chegou no final da rede, olha como o fundo do casco tava."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

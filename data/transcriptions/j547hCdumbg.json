@@ -1,0 +1,37 @@
+{
+  "texto": "Tô de moletom, me toca, acabo, me plantão na boca, eu vou pro baile curtir Destino é casinha, o salve na novinha, se tromba com os puxinhos, falo que sou MC O maluque, favela, despejado, bolso com dinheiro, fumando o acus, o cacete Mais atividade, menor de comunidade, se tentar pegar meu lado, vou pegar o cidinho Igual que nasci de jacaré no peito, levando a vida de um sujeito mais estrito Nós habito vivo nos caminhos estreitos, eu de quem nasci pros canchinhos, eu sou suspeito e quem se puda",
+  "segmentos": [
+    {
+      "start": 1.17,
+      "end": 21.84,
+      "text": "Tô de moletom, me toca, acabo, me plantão na boca, eu vou pro baile curtir"
+    },
+    {
+      "start": 21.84,
+      "end": 27.66,
+      "text": "Destino é casinha, o salve na novinha, se tromba com os puxinhos, falo que sou MC"
+    },
+    {
+      "start": 27.66,
+      "end": 35.1,
+      "text": "O maluque, favela, despejado, bolso com dinheiro, fumando o acus, o cacete"
+    },
+    {
+      "start": 35.1,
+      "end": 40.74,
+      "text": "Mais atividade, menor de comunidade, se tentar pegar meu lado, vou pegar o cidinho"
+    },
+    {
+      "start": 40.74,
+      "end": 47.02,
+      "text": "Igual que nasci de jacaré no peito, levando a vida de um sujeito mais estrito"
+    },
+    {
+      "start": 47.02,
+      "end": 53.22,
+      "text": "Nós habito vivo nos caminhos estreitos, eu de quem nasci pros canchinhos, eu sou suspeito e quem se puda"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

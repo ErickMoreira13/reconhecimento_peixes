@@ -1,0 +1,17 @@
+{
+  "texto": "Se meus joelhos não doessem mais De um bom que traga fé",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 12.15,
+      "text": "Se meus joelhos não doessem mais"
+    },
+    {
+      "start": 12.15,
+      "end": 16.26,
+      "text": "De um bom que traga fé"
+    }
+  ],
+  "duracao_seg": 245.43,
+  "idioma_detectado": "pt"
+}

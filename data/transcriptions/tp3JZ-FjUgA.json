@@ -1,0 +1,17 @@
+{
+  "texto": "I know, I know, I know that you hate me My life is sweet",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "I know, I know, I know that you hate me"
+    },
+    {
+      "start": 3.72,
+      "end": 5.62,
+      "text": "My life is sweet"
+    }
+  ],
+  "duracao_seg": 7.11,
+  "idioma_detectado": "pt"
+}

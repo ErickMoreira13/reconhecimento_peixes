@@ -1,0 +1,22 @@
+{
+  "texto": "Na casinha, o salve na novinha Se tromba com os puxinhos, falo que sou MC Na loja, favela do meu prajado",
+  "segmentos": [
+    {
+      "start": 2.58,
+      "end": 24.96,
+      "text": "Na casinha, o salve na novinha"
+    },
+    {
+      "start": 24.96,
+      "end": 27.74,
+      "text": "Se tromba com os puxinhos, falo que sou MC"
+    },
+    {
+      "start": 27.74,
+      "end": 30.64,
+      "text": "Na loja, favela do meu prajado"
+    }
+  ],
+  "duracao_seg": 30.65,
+  "idioma_detectado": "pt"
+}

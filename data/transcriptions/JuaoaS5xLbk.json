@@ -1,0 +1,17 @@
+{
+  "texto": "Eu mato de pescador, meu mano, tô na beira do Itopestão Eu mato de pescador",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.74,
+      "text": "Eu mato de pescador, meu mano, tô na beira do Itopestão"
+    },
+    {
+      "start": 5.74,
+      "end": 7.3,
+      "text": "Eu mato de pescador"
+    }
+  ],
+  "duracao_seg": 77.31,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "O vento balançou Meu barco em alto mar Me cercou e afogou Mas então eu clamei no te dar",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 2.98,
+      "text": "O vento balançou"
+    },
+    {
+      "start": 2.98,
+      "end": 6.46,
+      "text": "Meu barco em alto mar"
+    },
+    {
+      "start": 6.46,
+      "end": 13.59,
+      "text": "Me cercou e afogou"
+    },
+    {
+      "start": 13.59,
+      "end": 19.13,
+      "text": "Mas então eu clamei no te dar"
+    }
+  ],
+  "duracao_seg": 58.13,
+  "idioma_detectado": "pt"
+}

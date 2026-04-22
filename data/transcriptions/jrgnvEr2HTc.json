@@ -1,0 +1,22 @@
+{
+  "texto": "Quem é bom já nasce feito, quem é ruim só atrapalha Eu bato logo no burro e não bato na cangalha Entrei numa guerra dura",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 5.59,
+      "text": "Quem é bom já nasce feito, quem é ruim só atrapalha"
+    },
+    {
+      "start": 5.59,
+      "end": 10.05,
+      "text": "Eu bato logo no burro e não bato na cangalha"
+    },
+    {
+      "start": 10.05,
+      "end": 12.15,
+      "text": "Entrei numa guerra dura"
+    }
+  ],
+  "duracao_seg": 12.27,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Olha só que incrível esses pescados aí, aparentemente são os peixes atum, né? O pessoal acredita que estejam fazendo esse recebimento aí desse peixe em alguma empresa, de alguma peixaria ou alguma empresa que trabalha com a distribuição desses peixes. Olha só a quantidade de atums, atums gigantescos e a forma que eles fazem a organização desse peixe. E depois para fazer a descarga, né? Eles tentam fazer ali o desarme de um dos peixes para poder sair quebrando essa amarração e aí os peixes descerem bacana demais, né?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.38,
+      "text": "Olha só que incrível esses pescados aí, aparentemente são os peixes atum, né?"
+    },
+    {
+      "start": 4.62,
+      "end": 8.84,
+      "text": "O pessoal acredita que estejam fazendo esse recebimento aí desse peixe em alguma empresa,"
+    },
+    {
+      "start": 9.06,
+      "end": 13.66,
+      "text": "de alguma peixaria ou alguma empresa que trabalha com a distribuição desses peixes."
+    },
+    {
+      "start": 14.02,
+      "end": 19.0,
+      "text": "Olha só a quantidade de atums, atums gigantescos e a forma que eles fazem a organização desse peixe."
+    },
+    {
+      "start": 19.0,
+      "end": 20.96,
+      "text": "E depois para fazer a descarga, né?"
+    },
+    {
+      "start": 21.24,
+      "end": 26.1,
+      "text": "Eles tentam fazer ali o desarme de um dos peixes para poder sair quebrando essa amarração"
+    },
+    {
+      "start": 26.1,
+      "end": 28.78,
+      "text": "e aí os peixes descerem bacana demais, né?"
+    }
+  ],
+  "duracao_seg": 29.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Meu pai não gosta de mim, minha mãe foi quem me criou Meu pai não gosta de mim, minha mãe foi quem me criou Me pegou pelo pé e me jogou na lagoa, seu Martim que ele é remador de canoa Me pegou pelo pé e me jogou na lagoa, seu Martim que ele é remador de canoa Meu pai não gosta de mim, meu pai não gosta de mim",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 9.06,
+      "text": "Meu pai não gosta de mim, minha mãe foi quem me criou"
+    },
+    {
+      "start": 9.06,
+      "end": 14.52,
+      "text": "Meu pai não gosta de mim, minha mãe foi quem me criou"
+    },
+    {
+      "start": 14.52,
+      "end": 19.62,
+      "text": "Me pegou pelo pé e me jogou na lagoa, seu Martim que ele é remador de canoa"
+    },
+    {
+      "start": 19.62,
+      "end": 25.32,
+      "text": "Me pegou pelo pé e me jogou na lagoa, seu Martim que ele é remador de canoa"
+    },
+    {
+      "start": 25.32,
+      "end": 35.05,
+      "text": "Meu pai não gosta de mim, meu pai não gosta de mim"
+    }
+  ],
+  "duracao_seg": 59.97,
+  "idioma_detectado": "pt"
+}

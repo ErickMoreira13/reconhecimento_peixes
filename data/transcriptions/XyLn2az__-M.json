@@ -1,0 +1,17 @@
+{
+  "texto": "Hoje eu acordei puto, nem tomei café Queria coisa, mas não tinha mulher Perdi três contas, meu irmão É que as coisas não tá fácil, irmão",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.06,
+      "text": "Hoje eu acordei puto, nem tomei café Queria coisa, mas não tinha mulher"
+    },
+    {
+      "start": 7.06,
+      "end": 13.8,
+      "text": "Perdi três contas, meu irmão É que as coisas não tá fácil, irmão"
+    }
+  ],
+  "duracao_seg": 14.21,
+  "idioma_detectado": "pt"
+}

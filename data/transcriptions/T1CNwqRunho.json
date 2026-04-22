@@ -1,0 +1,77 @@
+{
+  "texto": "Ó pessoal, tá aqui eu e a Fabiola, ó Oi gente A canoa já cheia do peixe, né Fabiola? Isso Olha aí Tirando mais peixe aqui No tupunaré É gente, hoje foi o dia de pesca e deu bom Ó Deu Só na malhadeira, né Fabiola? Foi Porque a gente já veio, é tarde Mas deu tudo certo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Ó pessoal, tá aqui eu e a Fabiola, ó"
+    },
+    {
+      "start": 2.38,
+      "end": 3.34,
+      "text": "Oi gente"
+    },
+    {
+      "start": 3.34,
+      "end": 5.62,
+      "text": "A canoa já cheia do peixe, né Fabiola?"
+    },
+    {
+      "start": 5.68,
+      "end": 6.14,
+      "text": "Isso"
+    },
+    {
+      "start": 6.14,
+      "end": 7.42,
+      "text": "Olha aí"
+    },
+    {
+      "start": 7.42,
+      "end": 8.88,
+      "text": "Tirando mais peixe aqui"
+    },
+    {
+      "start": 8.88,
+      "end": 11.13,
+      "text": "No tupunaré"
+    },
+    {
+      "start": 11.13,
+      "end": 14.61,
+      "text": "É gente, hoje foi o dia de pesca e deu bom"
+    },
+    {
+      "start": 14.61,
+      "end": 15.98,
+      "text": "Ó"
+    },
+    {
+      "start": 15.98,
+      "end": 16.76,
+      "text": "Deu"
+    },
+    {
+      "start": 16.76,
+      "end": 19.33,
+      "text": "Só na malhadeira, né Fabiola?"
+    },
+    {
+      "start": 19.41,
+      "end": 19.79,
+      "text": "Foi"
+    },
+    {
+      "start": 19.79,
+      "end": 22.35,
+      "text": "Porque a gente já veio, é tarde"
+    },
+    {
+      "start": 22.35,
+      "end": 24.9,
+      "text": "Mas deu tudo certo"
+    }
+  ],
+  "duracao_seg": 26.41,
+  "idioma_detectado": "pt"
+}

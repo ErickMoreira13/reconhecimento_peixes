@@ -1,0 +1,17 @@
+{
+  "texto": "Juzum, eu tô, tem alguém que tá se incomodando O tuts, tuts do paredão tocando",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 6.07,
+      "text": "Juzum, eu tô, tem alguém que tá se incomodando"
+    },
+    {
+      "start": 6.07,
+      "end": 9.09,
+      "text": "O tuts, tuts do paredão tocando"
+    }
+  ],
+  "duracao_seg": 9.45,
+  "idioma_detectado": "pt"
+}

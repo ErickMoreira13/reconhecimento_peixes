@@ -1,0 +1,32 @@
+{
+  "texto": "agora eu vi que lascou, não dá tempo mais nem eu pegar uma piaba vai arrancar com outra por que que tu não ficou lá na capital mesmo, então vai acabar com os peixes aí eu vou pegar mais o que? tem que fazer vergonha foi como é que pode eu passar",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 3.74,
+      "text": "agora eu vi que lascou, não dá tempo mais nem eu pegar uma piaba"
+    },
+    {
+      "start": 3.74,
+      "end": 7.98,
+      "text": "vai arrancar com outra"
+    },
+    {
+      "start": 7.98,
+      "end": 11.98,
+      "text": "por que que tu não ficou lá na capital mesmo, então vai acabar com os peixes aí eu vou pegar mais o que?"
+    },
+    {
+      "start": 11.98,
+      "end": 14.01,
+      "text": "tem que fazer vergonha foi"
+    },
+    {
+      "start": 14.01,
+      "end": 16.01,
+      "text": "como é que pode eu passar"
+    }
+  ],
+  "duracao_seg": 15.59,
+  "idioma_detectado": "pt"
+}

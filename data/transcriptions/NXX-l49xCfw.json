@@ -1,0 +1,152 @@
+{
+  "texto": "Só filma, só filma, só filma, só filma, só filma, só filma, vai, leve ela lá. Ai, que bichinho ali, olha, que pescaria, né? Não, ela vai pesado, não ganha mais, ó. Aí, pode deixar. Ô mãe, vai lá, ô mãe mesmo. Estou filmando aqui. Estou filmando, não, estou filmando. Não, segura, segura. Deixa no barco, deixa no barco, não vai lá. Aí, ó, olha o bicho, olha o tamanho, está azul. E aí, é não minha, ó. Ganhei uma pescaria, ó. Não existe coisa. Ô, tem que cuidar com ela agora. Bater, bater na cara da nossa. Calma, calma. Calma que não estamos chegando. Baixa a cabeça. Deixa ela longe do barco, deixa ela longe do barco. Vai em casa, vai. Fazer isso aí, fazer isso aí. De que jeito? Ele prendeu a mão, ó. Deixa passar a água aí, deixa passar a água aí. Deixa passar a água aí, deixa passar a água aí. Vai soltar, vai soltar. Pera um pouquinho. Não, aí a mãe, está aí, ó. Solta.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.58,
+      "text": "Só filma, só filma, só filma, só filma, só filma, só filma, vai, leve ela lá."
+    },
+    {
+      "start": 12.44,
+      "end": 17.09,
+      "text": "Ai, que bichinho ali, olha, que pescaria, né?"
+    },
+    {
+      "start": 18.69,
+      "end": 21.76,
+      "text": "Não, ela vai pesado, não ganha mais, ó."
+    },
+    {
+      "start": 22.54,
+      "end": 23.24,
+      "text": "Aí, pode deixar."
+    },
+    {
+      "start": 23.82,
+      "end": 24.9,
+      "text": "Ô mãe, vai lá, ô mãe mesmo."
+    },
+    {
+      "start": 28.08,
+      "end": 28.74,
+      "text": "Estou filmando aqui."
+    },
+    {
+      "start": 29.02,
+      "end": 30.22,
+      "text": "Estou filmando, não, estou filmando."
+    },
+    {
+      "start": 30.68,
+      "end": 31.56,
+      "text": "Não, segura, segura."
+    },
+    {
+      "start": 35.67,
+      "end": 37.35,
+      "text": "Deixa no barco, deixa no barco, não vai lá."
+    },
+    {
+      "start": 39.36,
+      "end": 41.72,
+      "text": "Aí, ó, olha o bicho, olha o tamanho, está azul."
+    },
+    {
+      "start": 41.72,
+      "end": 44.26,
+      "text": "E aí, é não minha, ó."
+    },
+    {
+      "start": 45.93,
+      "end": 47.07,
+      "text": "Ganhei uma pescaria, ó."
+    },
+    {
+      "start": 48.23,
+      "end": 49.25,
+      "text": "Não existe coisa."
+    },
+    {
+      "start": 50.03,
+      "end": 51.17,
+      "text": "Ô, tem que cuidar com ela agora."
+    },
+    {
+      "start": 52.15,
+      "end": 54.35,
+      "text": "Bater, bater na cara da nossa."
+    },
+    {
+      "start": 56.1,
+      "end": 65.62,
+      "text": "Calma, calma."
+    },
+    {
+      "start": 68.54,
+      "end": 69.5,
+      "text": "Calma que não estamos chegando."
+    },
+    {
+      "start": 70.24,
+      "end": 70.76,
+      "text": "Baixa a cabeça."
+    },
+    {
+      "start": 71.48,
+      "end": 73.2,
+      "text": "Deixa ela longe do barco, deixa ela longe do barco."
+    },
+    {
+      "start": 73.64,
+      "end": 80.54,
+      "text": "Vai em casa, vai."
+    },
+    {
+      "start": 82.32,
+      "end": 83.34,
+      "text": "Fazer isso aí, fazer isso aí."
+    },
+    {
+      "start": 83.74,
+      "end": 84.24,
+      "text": "De que jeito?"
+    },
+    {
+      "start": 84.5,
+      "end": 85.6,
+      "text": "Ele prendeu a mão, ó."
+    },
+    {
+      "start": 85.86,
+      "end": 87.88,
+      "text": "Deixa passar a água aí, deixa passar a água aí."
+    },
+    {
+      "start": 87.88,
+      "end": 89.82,
+      "text": "Deixa passar a água aí, deixa passar a água aí."
+    },
+    {
+      "start": 89.82,
+      "end": 91.96,
+      "text": "Vai soltar, vai soltar."
+    },
+    {
+      "start": 92.22,
+      "end": 92.64,
+      "text": "Pera um pouquinho."
+    },
+    {
+      "start": 93.6,
+      "end": 94.94,
+      "text": "Não, aí a mãe, está aí, ó."
+    },
+    {
+      "start": 95.34,
+      "end": 95.66,
+      "text": "Solta."
+    }
+  ],
+  "duracao_seg": 100.15,
+  "idioma_detectado": "pt"
+}

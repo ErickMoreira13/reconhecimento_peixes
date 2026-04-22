@@ -1,0 +1,17 @@
+{
+  "texto": "Devidinha simples, essa que eu levo Vivendo no mato caipira, de fato feliz e não",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.74,
+      "text": "Devidinha simples, essa que eu levo"
+    },
+    {
+      "start": 4.74,
+      "end": 9.22,
+      "text": "Vivendo no mato caipira, de fato feliz e não"
+    }
+  ],
+  "duracao_seg": 19.89,
+  "idioma_detectado": "pt"
+}

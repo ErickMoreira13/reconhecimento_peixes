@@ -1,0 +1,87 @@
+{
+  "texto": "Vamos trabalhar lá. É, pa! Tá bom do caralho agora. Vai pra lá, Frank. Vai pra lá, Frank. Era pra te dar do ré, Frank. Não vindo pra cá, pô. Acho que dá mais, hein? Acho que é mais, hein? Pula, bichão, que eu quero filmar de novo. Pô, Frank. Não é esse que eu queria pegar, mano. Hã? O que eu fiz é bom, né? 7 quilos, 6 quilos. Ele é todo largão, né?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Vamos trabalhar lá."
+    },
+    {
+      "start": 1.0,
+      "end": 7.12,
+      "text": "É, pa!"
+    },
+    {
+      "start": 7.12,
+      "end": 8.6,
+      "text": "Tá bom do caralho agora."
+    },
+    {
+      "start": 8.6,
+      "end": 14.72,
+      "text": "Vai pra lá, Frank."
+    },
+    {
+      "start": 14.72,
+      "end": 15.72,
+      "text": "Vai pra lá, Frank."
+    },
+    {
+      "start": 15.72,
+      "end": 17.3,
+      "text": "Era pra te dar do ré, Frank."
+    },
+    {
+      "start": 17.3,
+      "end": 19.3,
+      "text": "Não vindo pra cá, pô."
+    },
+    {
+      "start": 19.3,
+      "end": 33.17,
+      "text": "Acho que dá mais, hein?"
+    },
+    {
+      "start": 33.17,
+      "end": 35.39,
+      "text": "Acho que é mais, hein?"
+    },
+    {
+      "start": 35.39,
+      "end": 42.29,
+      "text": "Pula, bichão, que eu quero filmar de novo."
+    },
+    {
+      "start": 42.29,
+      "end": 45.62,
+      "text": "Pô, Frank."
+    },
+    {
+      "start": 45.62,
+      "end": 47.62,
+      "text": "Não é esse que eu queria pegar, mano."
+    },
+    {
+      "start": 47.62,
+      "end": 49.9,
+      "text": "Hã?"
+    },
+    {
+      "start": 49.9,
+      "end": 52.64,
+      "text": "O que eu fiz é bom, né?"
+    },
+    {
+      "start": 52.64,
+      "end": 54.64,
+      "text": "7 quilos, 6 quilos."
+    },
+    {
+      "start": 54.64,
+      "end": 58.37,
+      "text": "Ele é todo largão, né?"
+    }
+  ],
+  "duracao_seg": 58.41,
+  "idioma_detectado": "pt"
+}
