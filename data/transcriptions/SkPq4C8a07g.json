@@ -1,0 +1,22 @@
+{
+  "texto": "Fala pessoal, eu sou o Gato Galáctico E hoje, fala galera, beleza? Eu sou o Rinaldinho e...",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 5.12,
+      "text": "Fala pessoal, eu sou o Gato Galáctico"
+    },
+    {
+      "start": 5.12,
+      "end": 7.38,
+      "text": "E hoje, fala galera, beleza?"
+    },
+    {
+      "start": 7.62,
+      "end": 9.24,
+      "text": "Eu sou o Rinaldinho e..."
+    }
+  ],
+  "duracao_seg": 14.95,
+  "idioma_detectado": "pt"
+}

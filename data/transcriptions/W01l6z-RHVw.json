@@ -1,0 +1,32 @@
+{
+  "texto": "A camisa do jogador que parar, eu tenho 24 horas pra conhecer ele. Messi? Até parece que você vai conseguir encontrar um Messi em 24 horas. É verdade. Mas se eu conseguir, vocês vão ter que se inscrever no canal.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "A camisa do jogador que parar, eu tenho 24 horas pra conhecer ele."
+    },
+    {
+      "start": 9.21,
+      "end": 9.57,
+      "text": "Messi?"
+    },
+    {
+      "start": 10.23,
+      "end": 13.07,
+      "text": "Até parece que você vai conseguir encontrar um Messi em 24 horas."
+    },
+    {
+      "start": 13.15,
+      "end": 13.65,
+      "text": "É verdade."
+    },
+    {
+      "start": 13.79,
+      "end": 15.99,
+      "text": "Mas se eu conseguir, vocês vão ter que se inscrever no canal."
+    }
+  ],
+  "duracao_seg": 18.23,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,77 @@
+{
+  "texto": "Você sabia que o Brasil abriga a maior ilha fluvial do mundo? É isso mesmo! Estamos falando da Ilha do Bananal. A Ilha do Bananal fica no estado do Tocantins, entre os rios Araguaia e Javaés. Ela tem cerca de 20 mil quilômetros quadrados de área, o equivalente ao tamanho de El Salvador. Essa ilha é uma verdadeira joia da biodiversidade, abrigando espécies únicas da fauna e da flora brasileira. Além disso, é território protegido e lar de povos indígenas como os Carajás e Javaés. E o mais incrível é que, mesmo sendo tão especial, muita gente nunca ouviu falar dela. O que achou dessa curiosidade sobre o nosso Brasil? Conta pra gente nos comentários!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.74,
+      "text": "Você sabia que o Brasil abriga a maior ilha fluvial do mundo?"
+    },
+    {
+      "start": 4.54,
+      "end": 5.34,
+      "text": "É isso mesmo!"
+    },
+    {
+      "start": 5.98,
+      "end": 8.32,
+      "text": "Estamos falando da Ilha do Bananal."
+    },
+    {
+      "start": 9.23,
+      "end": 12.33,
+      "text": "A Ilha do Bananal fica no estado do Tocantins,"
+    },
+    {
+      "start": 13.05,
+      "end": 15.29,
+      "text": "entre os rios Araguaia e Javaés."
+    },
+    {
+      "start": 16.15,
+      "end": 19.45,
+      "text": "Ela tem cerca de 20 mil quilômetros quadrados de área,"
+    },
+    {
+      "start": 20.01,
+      "end": 22.25,
+      "text": "o equivalente ao tamanho de El Salvador."
+    },
+    {
+      "start": 23.07,
+      "end": 26.53,
+      "text": "Essa ilha é uma verdadeira joia da biodiversidade,"
+    },
+    {
+      "start": 26.53,
+      "end": 30.77,
+      "text": "abrigando espécies únicas da fauna e da flora brasileira."
+    },
+    {
+      "start": 31.31,
+      "end": 37.63,
+      "text": "Além disso, é território protegido e lar de povos indígenas como os Carajás e Javaés."
+    },
+    {
+      "start": 38.35,
+      "end": 41.31,
+      "text": "E o mais incrível é que, mesmo sendo tão especial,"
+    },
+    {
+      "start": 41.81,
+      "end": 43.99,
+      "text": "muita gente nunca ouviu falar dela."
+    },
+    {
+      "start": 44.63,
+      "end": 47.59,
+      "text": "O que achou dessa curiosidade sobre o nosso Brasil?"
+    },
+    {
+      "start": 48.25,
+      "end": 49.77,
+      "text": "Conta pra gente nos comentários!"
+    }
+  ],
+  "duracao_seg": 50.27,
+  "idioma_detectado": "pt"
+}

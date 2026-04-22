@@ -1,0 +1,22 @@
+{
+  "texto": "Projeto em sua vida, mesmo alguém achando que tudo acabou Desespero em meio a esta prova, do que Deus falou Na Bíblia está escrito, tudo tem seu tempo",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 33.82,
+      "text": "Projeto em sua vida, mesmo alguém achando que tudo acabou"
+    },
+    {
+      "start": 33.82,
+      "end": 46.54,
+      "text": "Desespero em meio a esta prova, do que Deus falou"
+    },
+    {
+      "start": 46.54,
+      "end": 52.79,
+      "text": "Na Bíblia está escrito, tudo tem seu tempo"
+    }
+  ],
+  "duracao_seg": 271.75,
+  "idioma_detectado": "pt"
+}

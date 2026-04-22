@@ -1,0 +1,52 @@
+{
+  "texto": "Águia bonita que voa no espaço aqui da terra. Vejo passar riscando o azul, dourado traço, linha ascendente no ar. E aqui do asfalto, olho no alto, meus pensamentos sempre te encontram voando perto de Deus. Repentindo como um trovão, veloz como a águia dourada se dão. Esse povo civilizado que todo índio sabe viver, com a natureza sempre a seu lado. E olhando o céu pode ver, o vento sopra e a chuva cai, as nuvens passam. E você vai, asas abertas, força e coragem vão nesse rumo de paz. Rápido como, repentindo como um trovão, veloz como a águia dourada. No meu caminho, como se pousa longe do espinho, como se luta por esse mundo, como se salva esse ninho.",
+  "segmentos": [
+    {
+      "start": 10.16,
+      "end": 16.42,
+      "text": "Águia bonita que voa no espaço aqui da terra."
+    },
+    {
+      "start": 17.2,
+      "end": 26.7,
+      "text": "Vejo passar riscando o azul, dourado traço, linha ascendente no ar."
+    },
+    {
+      "start": 26.7,
+      "end": 47.52,
+      "text": "E aqui do asfalto, olho no alto, meus pensamentos sempre te encontram voando perto de Deus."
+    },
+    {
+      "start": 47.52,
+      "end": 66.06,
+      "text": "Repentindo como um trovão, veloz como a águia dourada se dão."
+    },
+    {
+      "start": 66.06,
+      "end": 93.06,
+      "text": "Esse povo civilizado que todo índio sabe viver, com a natureza sempre a seu lado."
+    },
+    {
+      "start": 93.22,
+      "end": 106.9,
+      "text": "E olhando o céu pode ver, o vento sopra e a chuva cai, as nuvens passam."
+    },
+    {
+      "start": 106.9,
+      "end": 117.01,
+      "text": "E você vai, asas abertas, força e coragem vão nesse rumo de paz."
+    },
+    {
+      "start": 121.29,
+      "end": 133.22,
+      "text": "Rápido como, repentindo como um trovão, veloz como a águia dourada."
+    },
+    {
+      "start": 133.22,
+      "end": 193.47,
+      "text": "No meu caminho, como se pousa longe do espinho, como se luta por esse mundo, como se salva esse ninho."
+    }
+  ],
+  "duracao_seg": 262.21,
+  "idioma_detectado": "pt"
+}

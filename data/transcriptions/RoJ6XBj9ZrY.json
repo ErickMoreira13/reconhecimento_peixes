@@ -1,0 +1,597 @@
+{
+  "texto": "E aí menino, chegando aqui na beirada do rio Douradinho, pensa num sacrifício pra entrar aqui Aqui é só com... só com autorização, pensa num lugar que tem peixe, olha lá Ó, riozão aí, beirando, e vamos caçar um lugar pra nós acampar aí pra cima Eita doido, eu peguei muito com naré ali de 4,5 quilos, pesado, nossa senhora Aí ó, pensa num riozão bonito, ó Ela tá morninha, pra gente tá... Aqui pra você ver mais um dia Abençoado, só de manhã, olha aí pra vocês verem, olha, o que é tucunaré Aí, aí, olha aí, Xará pra você ver, ó O trem aqui é bom, Xará, esse Douradinho aqui eu vou falar pra você, rapaz Só coisa de Deus mesmo Aí, ó Vai, mocinha Bão demais Sempre pro certo Aí Aí, aí, Edo Falei pra você que tu ia pegar, eu tô com o naré de cima da árvore Falei pra você que, ó, manézão, ó Aprende aí, ó Aí, ó Tá saindo com água, mas tá saindo, ó Ó Ó, aí, ó Ô, bruto Olha aí, ó Pega aí, Rocha Vai mandar pra cima, tá filmando Pega aí, tá aqui, tem jeito, a linha vai arrebentar Então, pera aí, ó, tá aí, Edo Pega ele aí, pra ele Acampamento nosso Aí, o Edão, só fritando os... Aí, faz o vídeo, velho Aí, menino, ó Aqui pega, moço Aí, pega, aí, ó lá, abasteado Tá filmando Pega aí Vai É, douradinho, velho Bão de pesca Olha só, cara, olha Olha o tamanho, olha o tamanho Olha o tamanho desse trem, ó Olha o tamanho do... Olha o tamanho do pirozco, ó Olha Filhotão, ó Olha Puta que lamella, olha Vai me enroscar na linha Já foi Ai do céu Olha aí Vai enroscar tudo, tem nada não Ei, o que que nós vamos fazer com isso? Olha o tamanho do bicho, aí, olha Olha, olha Tá nos pés novos, mas não vai levar, não Não, não tem jeito de levar, cara Olha o tamanho do trem, aí, ó Puta que lamella Com cinquenta quilos a mais Olha Já matou a vontade, cara Já valeu o petróleo de vinho Olha só Nossa do céu Aí, nunca peguei um trem desse, cara Olha só que bitelo, rapaz Tá bom, né Olha Olha Olha o tamanho do bicho, olha Olha a força que tem, mano Rapaz do céu Dá filé demais Oi Cê tá duro Tá bom Tá bom Aô, menino, aí Olha o tamanho do Olha aí, do pirarucu Pegou aqui, olha o tamanho Aô, menino Vai Cê tá duro Olha Aô, menino, ó Vamos lá, tamanho da cabeça do bicho Solta, então Vai, filma aí Vai Chega mais pra lá Um, dois Não vai levantar Vai quebrar a cabeça Não, quebra não Tá filmando, né Ah, filma Não, não, pode sortar Tá bom 60 quilos, mais, caralho Tá bom Vamos ver se ele vai embora Ah, não vai não Agora ele já vaza Cadê ele? Ele vai embora Oxa, virou ele Já foi Já foi Foi, não Foi Tô Olha",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "E aí menino, chegando aqui na beirada do rio Douradinho, pensa num sacrifício pra entrar aqui"
+    },
+    {
+      "start": 5.08,
+      "end": 10.16,
+      "text": "Aqui é só com... só com autorização, pensa num lugar que tem peixe, olha lá"
+    },
+    {
+      "start": 10.16,
+      "end": 14.58,
+      "text": "Ó, riozão aí, beirando, e vamos caçar um lugar pra nós acampar aí pra cima"
+    },
+    {
+      "start": 14.58,
+      "end": 21.68,
+      "text": "Eita doido, eu peguei muito com naré ali de 4,5 quilos, pesado, nossa senhora"
+    },
+    {
+      "start": 21.68,
+      "end": 26.0,
+      "text": "Aí ó, pensa num riozão bonito, ó"
+    },
+    {
+      "start": 26.0,
+      "end": 36.4,
+      "text": "Ela tá morninha, pra gente tá..."
+    },
+    {
+      "start": 36.4,
+      "end": 67.42,
+      "text": "Aqui pra você ver mais um dia"
+    },
+    {
+      "start": 67.42,
+      "end": 70.84,
+      "text": "Abençoado, só de manhã, olha aí pra vocês verem, olha, o que é tucunaré"
+    },
+    {
+      "start": 70.84,
+      "end": 74.58,
+      "text": "Aí, aí, olha aí, Xará pra você ver, ó"
+    },
+    {
+      "start": 74.58,
+      "end": 79.96,
+      "text": "O trem aqui é bom, Xará, esse Douradinho aqui eu vou falar pra você, rapaz"
+    },
+    {
+      "start": 79.96,
+      "end": 82.32,
+      "text": "Só coisa de Deus mesmo"
+    },
+    {
+      "start": 82.32,
+      "end": 88.38,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 88.38,
+      "end": 89.92,
+      "text": "Vai, mocinha"
+    },
+    {
+      "start": 89.92,
+      "end": 95.4,
+      "text": "Bão demais"
+    },
+    {
+      "start": 95.4,
+      "end": 97.08,
+      "text": "Sempre pro certo"
+    },
+    {
+      "start": 97.08,
+      "end": 114.3,
+      "text": "Aí"
+    },
+    {
+      "start": 114.3,
+      "end": 115.42,
+      "text": "Aí, aí, Edo"
+    },
+    {
+      "start": 115.42,
+      "end": 117.72,
+      "text": "Falei pra você que tu ia pegar, eu tô com o naré de cima da árvore"
+    },
+    {
+      "start": 117.72,
+      "end": 120.14,
+      "text": "Falei pra você que, ó, manézão, ó"
+    },
+    {
+      "start": 120.14,
+      "end": 121.72,
+      "text": "Aprende aí, ó"
+    },
+    {
+      "start": 121.72,
+      "end": 123.4,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 123.4,
+      "end": 126.22,
+      "text": "Tá saindo com água, mas tá saindo, ó"
+    },
+    {
+      "start": 126.22,
+      "end": 126.76,
+      "text": "Ó"
+    },
+    {
+      "start": 126.76,
+      "end": 128.1,
+      "text": "Ó, aí, ó"
+    },
+    {
+      "start": 128.1,
+      "end": 131.47,
+      "text": "Ô, bruto"
+    },
+    {
+      "start": 131.47,
+      "end": 133.67,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 133.67,
+      "end": 135.86,
+      "text": "Pega aí, Rocha"
+    },
+    {
+      "start": 135.86,
+      "end": 138.06,
+      "text": "Vai mandar pra cima, tá filmando"
+    },
+    {
+      "start": 138.06,
+      "end": 141.1,
+      "text": "Pega aí, tá aqui, tem jeito, a linha vai arrebentar"
+    },
+    {
+      "start": 141.1,
+      "end": 143.78,
+      "text": "Então, pera aí, ó, tá aí, Edo"
+    },
+    {
+      "start": 143.78,
+      "end": 145.2,
+      "text": "Pega ele aí, pra ele"
+    },
+    {
+      "start": 145.2,
+      "end": 149.42,
+      "text": "Acampamento nosso"
+    },
+    {
+      "start": 149.42,
+      "end": 160.33,
+      "text": "Aí, o Edão, só fritando os..."
+    },
+    {
+      "start": 160.33,
+      "end": 162.01,
+      "text": "Aí, faz o vídeo, velho"
+    },
+    {
+      "start": 162.01,
+      "end": 164.25,
+      "text": "Aí, menino, ó"
+    },
+    {
+      "start": 164.25,
+      "end": 166.25,
+      "text": "Aqui pega, moço"
+    },
+    {
+      "start": 166.25,
+      "end": 168.57,
+      "text": "Aí, pega, aí, ó lá, abasteado"
+    },
+    {
+      "start": 168.57,
+      "end": 173.12,
+      "text": "Tá filmando"
+    },
+    {
+      "start": 173.12,
+      "end": 173.82,
+      "text": "Pega aí"
+    },
+    {
+      "start": 173.82,
+      "end": 174.9,
+      "text": "Vai"
+    },
+    {
+      "start": 174.9,
+      "end": 177.86,
+      "text": "É, douradinho, velho"
+    },
+    {
+      "start": 177.86,
+      "end": 179.24,
+      "text": "Bão de pesca"
+    },
+    {
+      "start": 179.24,
+      "end": 180.1,
+      "text": "Olha só, cara, olha"
+    },
+    {
+      "start": 180.1,
+      "end": 181.32,
+      "text": "Olha o tamanho, olha o tamanho"
+    },
+    {
+      "start": 181.32,
+      "end": 182.06,
+      "text": "Olha o tamanho desse trem, ó"
+    },
+    {
+      "start": 182.06,
+      "end": 183.12,
+      "text": "Olha o tamanho do..."
+    },
+    {
+      "start": 183.12,
+      "end": 184.8,
+      "text": "Olha o tamanho do pirozco, ó"
+    },
+    {
+      "start": 184.8,
+      "end": 185.1,
+      "text": "Olha"
+    },
+    {
+      "start": 185.1,
+      "end": 186.6,
+      "text": "Filhotão, ó"
+    },
+    {
+      "start": 186.6,
+      "end": 186.84,
+      "text": "Olha"
+    },
+    {
+      "start": 186.84,
+      "end": 190.05,
+      "text": "Puta que lamella, olha"
+    },
+    {
+      "start": 190.05,
+      "end": 190.73,
+      "text": "Vai me enroscar na linha"
+    },
+    {
+      "start": 190.73,
+      "end": 192.43,
+      "text": "Já foi"
+    },
+    {
+      "start": 192.43,
+      "end": 194.03,
+      "text": "Ai do céu"
+    },
+    {
+      "start": 194.03,
+      "end": 195.3,
+      "text": "Olha aí"
+    },
+    {
+      "start": 195.3,
+      "end": 198.34,
+      "text": "Vai enroscar tudo, tem nada não"
+    },
+    {
+      "start": 198.34,
+      "end": 201.42,
+      "text": "Ei, o que que nós vamos fazer com isso?"
+    },
+    {
+      "start": 201.42,
+      "end": 203.04,
+      "text": "Olha o tamanho do bicho, aí, olha"
+    },
+    {
+      "start": 203.04,
+      "end": 204.59,
+      "text": "Olha, olha"
+    },
+    {
+      "start": 204.59,
+      "end": 206.59,
+      "text": "Tá nos pés novos, mas não vai levar, não"
+    },
+    {
+      "start": 206.59,
+      "end": 207.95,
+      "text": "Não, não tem jeito de levar, cara"
+    },
+    {
+      "start": 207.95,
+      "end": 209.59,
+      "text": "Olha o tamanho do trem, aí, ó"
+    },
+    {
+      "start": 209.59,
+      "end": 212.6,
+      "text": "Puta que lamella"
+    },
+    {
+      "start": 212.6,
+      "end": 213.98,
+      "text": "Com cinquenta quilos a mais"
+    },
+    {
+      "start": 213.98,
+      "end": 214.22,
+      "text": "Olha"
+    },
+    {
+      "start": 214.22,
+      "end": 219.46,
+      "text": "Já matou a vontade, cara"
+    },
+    {
+      "start": 219.46,
+      "end": 221.18,
+      "text": "Já valeu o petróleo de vinho"
+    },
+    {
+      "start": 221.18,
+      "end": 221.64,
+      "text": "Olha só"
+    },
+    {
+      "start": 221.64,
+      "end": 222.42,
+      "text": "Nossa do céu"
+    },
+    {
+      "start": 222.42,
+      "end": 224.04,
+      "text": "Aí, nunca peguei um trem desse, cara"
+    },
+    {
+      "start": 224.04,
+      "end": 226.3,
+      "text": "Olha só que bitelo, rapaz"
+    },
+    {
+      "start": 226.3,
+      "end": 229.06,
+      "text": "Tá bom, né"
+    },
+    {
+      "start": 229.06,
+      "end": 229.22,
+      "text": "Olha"
+    },
+    {
+      "start": 229.22,
+      "end": 230.28,
+      "text": "Olha"
+    },
+    {
+      "start": 230.28,
+      "end": 233.74,
+      "text": "Olha o tamanho do bicho, olha"
+    },
+    {
+      "start": 233.74,
+      "end": 235.06,
+      "text": "Olha a força que tem, mano"
+    },
+    {
+      "start": 235.06,
+      "end": 236.98,
+      "text": "Rapaz do céu"
+    },
+    {
+      "start": 236.98,
+      "end": 238.34,
+      "text": "Dá filé demais"
+    },
+    {
+      "start": 238.34,
+      "end": 238.54,
+      "text": "Oi"
+    },
+    {
+      "start": 238.54,
+      "end": 240.64,
+      "text": "Cê tá duro"
+    },
+    {
+      "start": 240.64,
+      "end": 241.32,
+      "text": "Tá bom"
+    },
+    {
+      "start": 241.32,
+      "end": 241.64,
+      "text": "Tá bom"
+    },
+    {
+      "start": 241.64,
+      "end": 243.12,
+      "text": "Aô, menino, aí"
+    },
+    {
+      "start": 243.12,
+      "end": 244.68,
+      "text": "Olha o tamanho do"
+    },
+    {
+      "start": 244.68,
+      "end": 246.02,
+      "text": "Olha aí, do pirarucu"
+    },
+    {
+      "start": 246.02,
+      "end": 247.22,
+      "text": "Pegou aqui, olha o tamanho"
+    },
+    {
+      "start": 247.22,
+      "end": 249.48,
+      "text": "Aô, menino"
+    },
+    {
+      "start": 249.48,
+      "end": 250.48,
+      "text": "Vai"
+    },
+    {
+      "start": 250.48,
+      "end": 253.83,
+      "text": "Cê tá duro"
+    },
+    {
+      "start": 253.83,
+      "end": 254.03,
+      "text": "Olha"
+    },
+    {
+      "start": 254.03,
+      "end": 259.1,
+      "text": "Aô, menino, ó"
+    },
+    {
+      "start": 259.1,
+      "end": 261.88,
+      "text": "Vamos lá, tamanho da cabeça do bicho"
+    },
+    {
+      "start": 261.88,
+      "end": 262.9,
+      "text": "Solta, então"
+    },
+    {
+      "start": 262.9,
+      "end": 265.02,
+      "text": "Vai, filma aí"
+    },
+    {
+      "start": 265.02,
+      "end": 266.64,
+      "text": "Vai"
+    },
+    {
+      "start": 266.64,
+      "end": 270.53,
+      "text": "Chega mais pra lá"
+    },
+    {
+      "start": 270.53,
+      "end": 271.77,
+      "text": "Um, dois"
+    },
+    {
+      "start": 271.77,
+      "end": 273.69,
+      "text": "Não vai levantar"
+    },
+    {
+      "start": 273.69,
+      "end": 274.45,
+      "text": "Vai quebrar a cabeça"
+    },
+    {
+      "start": 274.45,
+      "end": 276.13,
+      "text": "Não, quebra não"
+    },
+    {
+      "start": 276.13,
+      "end": 279.65,
+      "text": "Tá filmando, né"
+    },
+    {
+      "start": 279.65,
+      "end": 280.39,
+      "text": "Ah, filma"
+    },
+    {
+      "start": 280.39,
+      "end": 282.35,
+      "text": "Não, não, pode sortar"
+    },
+    {
+      "start": 282.35,
+      "end": 282.69,
+      "text": "Tá bom"
+    },
+    {
+      "start": 282.69,
+      "end": 283.91,
+      "text": "60 quilos, mais, caralho"
+    },
+    {
+      "start": 283.91,
+      "end": 284.81,
+      "text": "Tá bom"
+    },
+    {
+      "start": 284.81,
+      "end": 285.61,
+      "text": "Vamos ver se ele vai embora"
+    },
+    {
+      "start": 285.61,
+      "end": 286.55,
+      "text": "Ah, não vai não"
+    },
+    {
+      "start": 286.55,
+      "end": 287.71,
+      "text": "Agora ele já vaza"
+    },
+    {
+      "start": 287.71,
+      "end": 289.24,
+      "text": "Cadê ele?"
+    },
+    {
+      "start": 290.36,
+      "end": 291.1,
+      "text": "Ele vai embora"
+    },
+    {
+      "start": 291.1,
+      "end": 292.24,
+      "text": "Oxa, virou ele"
+    },
+    {
+      "start": 292.24,
+      "end": 292.86,
+      "text": "Já foi"
+    },
+    {
+      "start": 292.86,
+      "end": 294.2,
+      "text": "Já foi"
+    },
+    {
+      "start": 294.2,
+      "end": 295.08,
+      "text": "Foi, não"
+    },
+    {
+      "start": 295.08,
+      "end": 295.7,
+      "text": "Foi"
+    },
+    {
+      "start": 295.7,
+      "end": 296.26,
+      "text": "Tô"
+    },
+    {
+      "start": 296.26,
+      "end": 297.3,
+      "text": "Olha"
+    }
+  ],
+  "duracao_seg": 297.49,
+  "idioma_detectado": "pt"
+}

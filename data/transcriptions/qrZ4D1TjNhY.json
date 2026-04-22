@@ -1,0 +1,22 @@
+{
+  "texto": "Esse cara decidiu cortar sua moto ao meio só pra não ter que dar carona pro seu vizinho. Porém, quando esse homem foi fazer o mesmo, o seu carro ficou tão leve que toda vez que ele freia, o veículo empina. Mas ninguém foi mais louco que esse cara, pois ele rebaixou tanto o seu carro que nem dá pra ver as rodas.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.42,
+      "text": "Esse cara decidiu cortar sua moto ao meio só pra não ter que dar carona pro seu vizinho."
+    },
+    {
+      "start": 4.54,
+      "end": 10.42,
+      "text": "Porém, quando esse homem foi fazer o mesmo, o seu carro ficou tão leve que toda vez que ele freia, o veículo empina."
+    },
+    {
+      "start": 10.6,
+      "end": 15.96,
+      "text": "Mas ninguém foi mais louco que esse cara, pois ele rebaixou tanto o seu carro que nem dá pra ver as rodas."
+    }
+  ],
+  "duracao_seg": 16.23,
+  "idioma_detectado": "pt"
+}

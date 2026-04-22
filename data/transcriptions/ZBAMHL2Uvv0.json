@@ -1,0 +1,22 @@
+{
+  "texto": "É que o pai tá on, tipo o Neymar Tô tranquilinho, outro patamar Que é revu",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 3.6,
+      "text": "É que o pai tá on, tipo o Neymar"
+    },
+    {
+      "start": 3.6,
+      "end": 7.44,
+      "text": "Tô tranquilinho, outro patamar"
+    },
+    {
+      "start": 7.44,
+      "end": 10.83,
+      "text": "Que é revu"
+    }
+  ],
+  "duracao_seg": 10.87,
+  "idioma_detectado": "pt"
+}

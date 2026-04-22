@@ -1,0 +1,52 @@
+{
+  "texto": "Rony aqui, eu aqui, o nosso piloteiro lá atrás E o filmador que é o Thierry E acabou de morrer a bateria Acabou a bateria, acabou a cerveja Acabou o dia com 50 peixes dentro do barco Mentira, mas não tem problema, tamo aí, tamo aí Cinquentinha pra hoje, primeiro dia Seu desfilando, receba Olha aí, cara, valeu, Nica, muito obrigado",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.46,
+      "text": "Rony aqui, eu aqui, o nosso piloteiro lá atrás"
+    },
+    {
+      "start": 7.46,
+      "end": 11.1,
+      "text": "E o filmador que é o Thierry"
+    },
+    {
+      "start": 11.1,
+      "end": 13.08,
+      "text": "E acabou de morrer a bateria"
+    },
+    {
+      "start": 13.08,
+      "end": 16.82,
+      "text": "Acabou a bateria, acabou a cerveja"
+    },
+    {
+      "start": 16.82,
+      "end": 20.44,
+      "text": "Acabou o dia com 50 peixes dentro do barco"
+    },
+    {
+      "start": 20.44,
+      "end": 24.16,
+      "text": "Mentira, mas não tem problema, tamo aí, tamo aí"
+    },
+    {
+      "start": 24.16,
+      "end": 27.18,
+      "text": "Cinquentinha pra hoje, primeiro dia"
+    },
+    {
+      "start": 27.18,
+      "end": 94.82,
+      "text": "Seu desfilando, receba"
+    },
+    {
+      "start": 94.82,
+      "end": 127.16,
+      "text": "Olha aí, cara, valeu, Nica, muito obrigado"
+    }
+  ],
+  "duracao_seg": 154.47,
+  "idioma_detectado": "pt"
+}

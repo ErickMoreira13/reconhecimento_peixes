@@ -1,0 +1,22 @@
+{
+  "texto": "É isso aí. A linha do mal. Boa, gente.",
+  "segmentos": [
+    {
+      "start": 3.12,
+      "end": 8.92,
+      "text": "É isso aí."
+    },
+    {
+      "start": 9.1,
+      "end": 10.5,
+      "text": "A linha do mal."
+    },
+    {
+      "start": 12.46,
+      "end": 13.28,
+      "text": "Boa, gente."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

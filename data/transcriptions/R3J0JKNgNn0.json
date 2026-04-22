@@ -1,0 +1,32 @@
+{
+  "texto": "Que coisa linda, que coisa linda que vocês gostavam que estão perdendo, né? Agora eu vou voltar, deixa eu pegar esse negócio que eu vou voltar pra fumar, novamente pra dar uma pescada. Que coisa linda, que coisa linda, é uma sereia. Já saiu um peixinho, né? Aí.",
+  "segmentos": [
+    {
+      "start": 2.29,
+      "end": 205.14,
+      "text": "Que coisa linda, que coisa linda que vocês gostavam que estão perdendo, né?"
+    },
+    {
+      "start": 206.45,
+      "end": 210.47,
+      "text": "Agora eu vou voltar, deixa eu pegar esse negócio que eu vou voltar pra fumar, novamente pra dar uma pescada."
+    },
+    {
+      "start": 210.47,
+      "end": 220.04,
+      "text": "Que coisa linda, que coisa linda, é uma sereia."
+    },
+    {
+      "start": 226.13,
+      "end": 227.49,
+      "text": "Já saiu um peixinho, né?"
+    },
+    {
+      "start": 228.24,
+      "end": 228.5,
+      "text": "Aí."
+    }
+  ],
+  "duracao_seg": 362.67,
+  "idioma_detectado": "pt"
+}

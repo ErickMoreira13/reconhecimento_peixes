@@ -1,0 +1,17 @@
+{
+  "texto": "O meu brilho você quer Meu perfume",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 7.52,
+      "text": "O meu brilho você quer"
+    },
+    {
+      "start": 7.52,
+      "end": 8.34,
+      "text": "Meu perfume"
+    }
+  ],
+  "duracao_seg": 14.89,
+  "idioma_detectado": "pt"
+}

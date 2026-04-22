@@ -1,0 +1,22 @@
+{
+  "texto": "E aí, Brão? E aí? O Gabigol tá te chamando lá.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "E aí, Brão?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "E aí?"
+    },
+    {
+      "start": 2.0,
+      "end": 5.06,
+      "text": "O Gabigol tá te chamando lá."
+    }
+  ],
+  "duracao_seg": 13.47,
+  "idioma_detectado": "pt"
+}

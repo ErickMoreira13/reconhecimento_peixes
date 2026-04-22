@@ -1,0 +1,47 @@
+{
+  "texto": "Como é que pode, Richard? Como é que você vai chegar na Copa desse jeito? Como é que vai representar a camisazinha amarela, boy? Você vai chegar em canto nenhum desse jeito. Mas na Copa do Mundo eu faço. Vocês dois aí, você e os outros caras. Vinícius, no meio de três. Vamos ao bolo, Richard, ele sobe!",
+  "segmentos": [
+    {
+      "start": 5.62,
+      "end": 6.98,
+      "text": "Como é que pode, Richard?"
+    },
+    {
+      "start": 7.58,
+      "end": 9.5,
+      "text": "Como é que você vai chegar na Copa desse jeito?"
+    },
+    {
+      "start": 9.58,
+      "end": 12.02,
+      "text": "Como é que vai representar a camisazinha amarela, boy?"
+    },
+    {
+      "start": 12.36,
+      "end": 13.96,
+      "text": "Você vai chegar em canto nenhum desse jeito."
+    },
+    {
+      "start": 14.36,
+      "end": 15.76,
+      "text": "Mas na Copa do Mundo eu faço."
+    },
+    {
+      "start": 15.94,
+      "end": 18.18,
+      "text": "Vocês dois aí, você e os outros caras."
+    },
+    {
+      "start": 18.52,
+      "end": 19.76,
+      "text": "Vinícius, no meio de três."
+    },
+    {
+      "start": 19.88,
+      "end": 21.7,
+      "text": "Vamos ao bolo, Richard, ele sobe!"
+    }
+  ],
+  "duracao_seg": 27.71,
+  "idioma_detectado": "pt"
+}
