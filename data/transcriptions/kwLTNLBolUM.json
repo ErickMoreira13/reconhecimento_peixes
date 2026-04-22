@@ -1,0 +1,17 @@
+{
+  "texto": "E aí Morena, bora dar um rolê, monta aqui na motoca. Eu hein, ai que ridículo, quem disse que eu preciso de homem para poder andar de moto?",
+  "segmentos": [
+    {
+      "start": 3.41,
+      "end": 7.19,
+      "text": "E aí Morena, bora dar um rolê, monta aqui na motoca."
+    },
+    {
+      "start": 7.19,
+      "end": 12.95,
+      "text": "Eu hein, ai que ridículo, quem disse que eu preciso de homem para poder andar de moto?"
+    }
+  ],
+  "duracao_seg": 18.69,
+  "idioma_detectado": "pt"
+}

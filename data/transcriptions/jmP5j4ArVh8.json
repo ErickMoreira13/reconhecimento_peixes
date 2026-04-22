@@ -1,0 +1,17 @@
+{
+  "texto": "Tira onda pois agora quem não quer sou eu Quem não quer sou eu",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 2.73,
+      "text": "Tira onda pois agora quem não quer sou eu"
+    },
+    {
+      "start": 2.73,
+      "end": 8.4,
+      "text": "Quem não quer sou eu"
+    }
+  ],
+  "duracao_seg": 26.45,
+  "idioma_detectado": "pt"
+}

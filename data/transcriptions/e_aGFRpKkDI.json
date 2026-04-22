@@ -1,0 +1,217 @@
+{
+  "texto": "Você vai dar uma pirâmide Só que o peixe não está batendo na superfície Ele bate mais na água Peixe tamanhoso Que cheirinho, cheirinho Não é aqui, sabe onde você veio o bagaço O cheirinho vai botar essa aqui E ela está destruída já É só um pouquinho É só um pouquinho, é chumbada e um paninho Olha lá Neto, mostra para o cheirinho Olha lá Neto, mostra para o cheirinho Rapaz, eu filmei aí, cheirinho Filmei a pancada Rapaz, mas que porrada Eita porra Aí é o que, moço? Vou sair daqui Rapaz, é grande isso aí Pegou, Neto, pegou Aqui, como é que nós está aqui No acampamento Acampamento não, aqui é só uma parada Pegou, Neto, pegou Vai Neto Espera aí, espera aí, vamos jogar Ficar mais para longe Olha Neto, é barroco Neto é barroco É grande, é grande Mas foi bom Dá um cheirinho lá Aqui, os caras estão pegando os peixes Aí pega, já só Limpa aqui e joga aqui na grelha As latinhas dá para não recartar Não precisa se preocupar não, gente Aí para você ver os filézinhos Você dá um talento neles aqui Pegando já e você está passando Olha o nosso churrasqueiro aí Dá um talento, dá um talento Muito obrigado, gente",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 2.44,
+      "text": "Você vai dar uma pirâmide"
+    },
+    {
+      "start": 2.44,
+      "end": 26.94,
+      "text": "Só que o peixe não está batendo na superfície"
+    },
+    {
+      "start": 26.94,
+      "end": 29.04,
+      "text": "Ele bate mais na água"
+    },
+    {
+      "start": 29.04,
+      "end": 32.66,
+      "text": "Peixe tamanhoso"
+    },
+    {
+      "start": 32.66,
+      "end": 44.9,
+      "text": "Que cheirinho, cheirinho"
+    },
+    {
+      "start": 44.9,
+      "end": 49.04,
+      "text": "Não é aqui, sabe onde você veio o bagaço"
+    },
+    {
+      "start": 49.04,
+      "end": 52.57,
+      "text": "O cheirinho vai botar essa aqui"
+    },
+    {
+      "start": 52.57,
+      "end": 56.72,
+      "text": "E ela está destruída já"
+    },
+    {
+      "start": 56.72,
+      "end": 59.07,
+      "text": "É só um pouquinho"
+    },
+    {
+      "start": 59.07,
+      "end": 65.12,
+      "text": "É só um pouquinho, é chumbada e um paninho"
+    },
+    {
+      "start": 65.12,
+      "end": 69.75,
+      "text": "Olha lá Neto, mostra para o cheirinho"
+    },
+    {
+      "start": 69.75,
+      "end": 73.06,
+      "text": "Olha lá Neto, mostra para o cheirinho"
+    },
+    {
+      "start": 73.06,
+      "end": 75.22,
+      "text": "Rapaz, eu filmei aí, cheirinho"
+    },
+    {
+      "start": 75.22,
+      "end": 76.28,
+      "text": "Filmei a pancada"
+    },
+    {
+      "start": 76.28,
+      "end": 81.03,
+      "text": "Rapaz, mas que porrada"
+    },
+    {
+      "start": 81.03,
+      "end": 82.81,
+      "text": "Eita porra"
+    },
+    {
+      "start": 82.81,
+      "end": 84.59,
+      "text": "Aí é o que, moço? Vou sair daqui"
+    },
+    {
+      "start": 84.59,
+      "end": 86.51,
+      "text": "Rapaz, é grande isso aí"
+    },
+    {
+      "start": 86.51,
+      "end": 89.56,
+      "text": "Pegou, Neto, pegou"
+    },
+    {
+      "start": 89.56,
+      "end": 95.3,
+      "text": "Aqui, como é que nós está aqui"
+    },
+    {
+      "start": 95.3,
+      "end": 96.02,
+      "text": "No acampamento"
+    },
+    {
+      "start": 96.02,
+      "end": 98.08,
+      "text": "Acampamento não, aqui é só uma parada"
+    },
+    {
+      "start": 98.08,
+      "end": 105.63,
+      "text": "Pegou, Neto, pegou"
+    },
+    {
+      "start": 105.63,
+      "end": 107.9,
+      "text": "Vai Neto"
+    },
+    {
+      "start": 107.9,
+      "end": 109.56,
+      "text": "Espera aí, espera aí, vamos jogar"
+    },
+    {
+      "start": 109.56,
+      "end": 110.4,
+      "text": "Ficar mais para longe"
+    },
+    {
+      "start": 110.4,
+      "end": 144.81,
+      "text": "Olha Neto, é barroco"
+    },
+    {
+      "start": 144.81,
+      "end": 147.19,
+      "text": "Neto é barroco"
+    },
+    {
+      "start": 147.19,
+      "end": 148.61,
+      "text": "É grande, é grande"
+    },
+    {
+      "start": 148.61,
+      "end": 157.04,
+      "text": "Mas foi bom"
+    },
+    {
+      "start": 157.04,
+      "end": 159.73,
+      "text": "Dá um cheirinho lá"
+    },
+    {
+      "start": 159.73,
+      "end": 168.03,
+      "text": "Aqui, os caras estão pegando os peixes"
+    },
+    {
+      "start": 168.03,
+      "end": 169.17,
+      "text": "Aí pega, já só"
+    },
+    {
+      "start": 169.17,
+      "end": 171.09,
+      "text": "Limpa aqui e joga aqui na grelha"
+    },
+    {
+      "start": 171.09,
+      "end": 174.67,
+      "text": "As latinhas dá para não recartar"
+    },
+    {
+      "start": 174.67,
+      "end": 175.73,
+      "text": "Não precisa se preocupar não, gente"
+    },
+    {
+      "start": 175.73,
+      "end": 177.7,
+      "text": "Aí para você ver os filézinhos"
+    },
+    {
+      "start": 177.7,
+      "end": 179.48,
+      "text": "Você dá um talento neles aqui"
+    },
+    {
+      "start": 179.48,
+      "end": 184.17,
+      "text": "Pegando já e você está passando"
+    },
+    {
+      "start": 184.17,
+      "end": 188.1,
+      "text": "Olha o nosso churrasqueiro aí"
+    },
+    {
+      "start": 188.1,
+      "end": 193.52,
+      "text": "Dá um talento, dá um talento"
+    },
+    {
+      "start": 193.52,
+      "end": 195.12,
+      "text": "Muito obrigado, gente"
+    }
+  ],
+  "duracao_seg": 195.31,
+  "idioma_detectado": "pt"
+}

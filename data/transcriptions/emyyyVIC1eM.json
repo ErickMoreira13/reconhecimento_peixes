@@ -1,0 +1,27 @@
+{
+  "texto": "Olha isso! Se você tirar uma foto do seu filho e o reflexo do olho estiver branco, você deveria levá-lo a um oftalmologista. A luz do flash deixa os olhos vermelhos porque eles refletem a cor dos vasos sanguíneos no interior do olho. E se estiverem brancos, pode não ser nada, ou será ter um câncer no olho, um retinoblastoma.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "text": "Olha isso! Se você tirar uma foto do seu filho e o reflexo do olho estiver branco,"
+    },
+    {
+      "start": 4.26,
+      "end": 6.76,
+      "text": "você deveria levá-lo a um oftalmologista."
+    },
+    {
+      "start": 6.86,
+      "end": 11.98,
+      "text": "A luz do flash deixa os olhos vermelhos porque eles refletem a cor dos vasos sanguíneos no interior do olho."
+    },
+    {
+      "start": 12.06,
+      "end": 16.68,
+      "text": "E se estiverem brancos, pode não ser nada, ou será ter um câncer no olho, um retinoblastoma."
+    }
+  ],
+  "duracao_seg": 16.73,
+  "idioma_detectado": "pt"
+}

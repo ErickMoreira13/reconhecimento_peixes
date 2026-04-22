@@ -1,0 +1,32 @@
+{
+  "texto": "Papagaio louro do bico dourado Leva essa cartinha pro meu namorado Se estiver dormindo, bata na porta Se estiver acordado, deixe recado Papagaio louro do bico dourado Leva essa cartinha pro meu namorado Se estiver dormindo, bata na porta Se estiver acordado, deixe recado Papagaio louro do bico dourado",
+  "segmentos": [
+    {
+      "start": 11.12,
+      "end": 18.82,
+      "text": "Papagaio louro do bico dourado Leva essa cartinha pro meu namorado"
+    },
+    {
+      "start": 18.82,
+      "end": 26.8,
+      "text": "Se estiver dormindo, bata na porta Se estiver acordado, deixe recado"
+    },
+    {
+      "start": 26.8,
+      "end": 55.8,
+      "text": "Papagaio louro do bico dourado Leva essa cartinha pro meu namorado"
+    },
+    {
+      "start": 55.8,
+      "end": 59.76,
+      "text": "Se estiver dormindo, bata na porta Se estiver acordado, deixe recado"
+    },
+    {
+      "start": 59.76,
+      "end": 75.7,
+      "text": "Papagaio louro do bico dourado"
+    }
+  ],
+  "duracao_seg": 90.85,
+  "idioma_detectado": "pt"
+}

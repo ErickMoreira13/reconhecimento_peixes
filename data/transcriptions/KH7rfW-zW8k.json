@@ -1,0 +1,812 @@
+{
+  "texto": "Já é Fica só o palhaço aí, Sofé Vem, vem depois Vem, depois Vem, depois Vem, depois Vem, depois Será que dá uns quantos metros de dura? Fê, tá arrancando a frita aí não? Não A frita pode ser nós mesmos, daí Cama, arranca a frita Corta aqui, a doce Matou, Fê? Matou mesmo Cadê ela? Tem piranha? Cadê? Eu tô sem trabalho aqui Pega Não, mas só que pra limpar o peixe tem que ir pra lá pra baixo Não, ela vai escamar Vai escamar não, beleza Não, ela vai escamar Pra abrir tem que ser lá embaixo Não, tem que ser lá embaixo Não, tem que ser lá embaixo Porque se você for saber tem que ser lá embaixo Nossa, vocês estão bem curtidos Vai lá pra o peixe da vó Que você tá limpiaço, pra caramba E porque foi ele que colocou lá fora Foi lá pra aldeia de novo, pra barreira Aí aqui tá o peixe frito Essas peixinhas fritas aí, ó Pra quem gosta de um peixinho frito aí, ó Vai virar um torrezinho Entendeu? Negócio muito top Aí ó, fogãozinho a lenha E ali tá a nossa churrasqueira Que nós vamos assar os piaus Ali Eu vou correr de controle Nossa Estamos assando os peixes aqui, ó O meu amigo aqui, mineiro Vai virar, ó Aí ó, virando O peixe na grelha E a galera tá ali, ó Dois trabalhando Quase trinta ali esperando pra cobrir É a vida, né? Faz da hora de pescar, limpar os peixes Todo mundo limpou Ei, rapaz Pegou nenhum só Só tá na colpeira Ah, caba boa Dá um alô pra nós aí, Joel Já estamos indo pra segunda rodada De grelha de peixe aqui, ó Piauzinho aí, ó Trincando aí, ó Só piau Cabeça de óleo Que a gente chama piau três pinta Cabeça gorda Como muitos, muitos conhecem E aqui, pessoal É um verdadeiro paraíso ecológico Um detalhe Às vezes tem alguém que tá nos assistindo Parece que a gente tá aqui Pledando os peixes, né? A gente não usa a rede É só no anzol E detalhe Não levamos peixe Comemos aqui Aqui no acampamento Mas comemos bastante, tá? Tem companheiro aqui Que come cinco Oito peixes desse aqui, ó Mas é isso aí, pessoal Só pra vocês terem uma ideia Que do outro lado aqui Um duzentos metros aqui Trezentos metros do lado do rio É a ilha do Bananal A maior ilha fluvial do mundo É de minuto em minuto Vai lá Vira aí Vai para a cozinha aí, ó E para deixar a terceira rodada Porque... Tá, não é? É Vou pegar logo dois Só dois Só dois Só dois Vou pegar dois então Vou pegar dois Vamos Vamos Se pode, vou pegar dois Vou pegar dois pequenos Peixe Deixa eu ver se é o peixe aqui Rapaz aqui Uuuu Rapazinho bem fraco Ah, moça aqui também, ó Vamos lá Vamos pegar dois, gente Como é que fica aí os espinhos do piau aí, ó A gente vai tirando o lombo dele, ó A maioria dos espinhos Que é as pistelinhas Vai ficando agarrada na farinha, ó A gente come essa farinha também Que é muito gostosa também Que é bem temperada E... O espinho vai saindo aqui, ó Vai virando aqui, ó Esse lombo A carne aqui dele Vai sair também agora, ó Olha o que sobra do piauzinho do rapaz aí, ó É igual o piauzinho do peixinho do pica-pau Sobrou só esqueletinho, ó Brinca Vamos ver o que sobrou aqui, dá Daqui a tanto de peixe aqui Rapaz do céu Os caras comeram tudo, ó Olha, sobrou esses nequinhos Vai ter uns que vai comer, ó Que caré sobrou também Ó pastor e meu senhor Os anjos que o louvam Eu também o louvarei Entoando aleluias ao meu rei O louvarei Entoando aleluias ao meu rei Onde um dia eu vi Ter pecado castigado em Jesus Jesus meu senhor É que um dia receba E agora? Eu tenho as manhas não entra não Isso é a instrução de um profissional Doce, doce como o mel E batom, tu já gosta de um mu... Se não tem as manhas não entra não Isso é a instrução de um profissional Hahahaha",
+  "segmentos": [
+    {
+      "start": 47.22,
+      "end": 48.22,
+      "text": "Já é"
+    },
+    {
+      "start": 48.22,
+      "end": 50.22,
+      "text": "Fica só o palhaço aí, Sofé"
+    },
+    {
+      "start": 50.22,
+      "end": 51.22,
+      "text": "Vem, vem depois"
+    },
+    {
+      "start": 51.22,
+      "end": 52.22,
+      "text": "Vem, depois"
+    },
+    {
+      "start": 52.22,
+      "end": 53.22,
+      "text": "Vem, depois"
+    },
+    {
+      "start": 53.22,
+      "end": 54.22,
+      "text": "Vem, depois"
+    },
+    {
+      "start": 54.22,
+      "end": 55.22,
+      "text": "Vem, depois"
+    },
+    {
+      "start": 55.22,
+      "end": 68.19,
+      "text": "Será que dá uns quantos metros de dura?"
+    },
+    {
+      "start": 68.19,
+      "end": 101.39,
+      "text": "Fê, tá arrancando a frita aí não?"
+    },
+    {
+      "start": 101.39,
+      "end": 102.39,
+      "text": "Não"
+    },
+    {
+      "start": 102.39,
+      "end": 105.9,
+      "text": "A frita pode ser nós mesmos, daí"
+    },
+    {
+      "start": 105.9,
+      "end": 107.9,
+      "text": "Cama, arranca a frita"
+    },
+    {
+      "start": 107.9,
+      "end": 108.9,
+      "text": "Corta aqui, a doce"
+    },
+    {
+      "start": 111.38,
+      "end": 114.34,
+      "text": "Matou, Fê?"
+    },
+    {
+      "start": 114.34,
+      "end": 116.78,
+      "text": "Matou mesmo"
+    },
+    {
+      "start": 116.78,
+      "end": 117.78,
+      "text": "Cadê ela?"
+    },
+    {
+      "start": 117.78,
+      "end": 121.41,
+      "text": "Tem piranha?"
+    },
+    {
+      "start": 121.41,
+      "end": 123.41,
+      "text": "Cadê? Eu tô sem trabalho aqui"
+    },
+    {
+      "start": 123.41,
+      "end": 124.41,
+      "text": "Pega"
+    },
+    {
+      "start": 124.41,
+      "end": 126.41,
+      "text": "Não, mas só que pra limpar o peixe tem que ir pra lá pra baixo"
+    },
+    {
+      "start": 126.41,
+      "end": 127.41,
+      "text": "Não, ela vai escamar"
+    },
+    {
+      "start": 127.41,
+      "end": 128.41,
+      "text": "Vai escamar não, beleza"
+    },
+    {
+      "start": 128.41,
+      "end": 129.41,
+      "text": "Não, ela vai escamar"
+    },
+    {
+      "start": 129.41,
+      "end": 131.41,
+      "text": "Pra abrir tem que ser lá embaixo"
+    },
+    {
+      "start": 131.41,
+      "end": 133.37,
+      "text": "Não, tem que ser lá embaixo"
+    },
+    {
+      "start": 133.37,
+      "end": 136.52,
+      "text": "Não, tem que ser lá embaixo"
+    },
+    {
+      "start": 136.52,
+      "end": 138.52,
+      "text": "Porque se você for saber tem que ser lá embaixo"
+    },
+    {
+      "start": 138.52,
+      "end": 140.52,
+      "text": "Nossa, vocês estão bem curtidos"
+    },
+    {
+      "start": 140.52,
+      "end": 141.52,
+      "text": "Vai lá pra o peixe da vó"
+    },
+    {
+      "start": 141.52,
+      "end": 143.52,
+      "text": "Que você tá limpiaço, pra caramba"
+    },
+    {
+      "start": 143.52,
+      "end": 211.47,
+      "text": "E porque foi ele que colocou lá fora"
+    },
+    {
+      "start": 211.47,
+      "end": 213.47,
+      "text": "Foi lá pra aldeia de novo, pra barreira"
+    },
+    {
+      "start": 213.47,
+      "end": 221.84,
+      "text": "Aí aqui tá o peixe frito"
+    },
+    {
+      "start": 221.84,
+      "end": 225.16,
+      "text": "Essas peixinhas fritas aí, ó"
+    },
+    {
+      "start": 225.16,
+      "end": 229.38,
+      "text": "Pra quem gosta de um peixinho frito aí, ó"
+    },
+    {
+      "start": 229.38,
+      "end": 231.86,
+      "text": "Vai virar um torrezinho"
+    },
+    {
+      "start": 231.86,
+      "end": 232.86,
+      "text": "Entendeu?"
+    },
+    {
+      "start": 232.86,
+      "end": 233.86,
+      "text": "Negócio muito top"
+    },
+    {
+      "start": 233.86,
+      "end": 235.86,
+      "text": "Aí ó, fogãozinho a lenha"
+    },
+    {
+      "start": 235.86,
+      "end": 237.86,
+      "text": "E ali tá a nossa churrasqueira"
+    },
+    {
+      "start": 237.86,
+      "end": 240.15,
+      "text": "Que nós vamos assar os piaus"
+    },
+    {
+      "start": 240.15,
+      "end": 241.15,
+      "text": "Ali"
+    },
+    {
+      "start": 241.15,
+      "end": 245.1,
+      "text": "Eu vou correr de controle"
+    },
+    {
+      "start": 245.1,
+      "end": 246.1,
+      "text": "Nossa"
+    },
+    {
+      "start": 246.1,
+      "end": 259.22,
+      "text": "Estamos assando os peixes aqui, ó"
+    },
+    {
+      "start": 259.22,
+      "end": 261.31,
+      "text": "O meu amigo aqui, mineiro"
+    },
+    {
+      "start": 261.31,
+      "end": 262.31,
+      "text": "Vai virar, ó"
+    },
+    {
+      "start": 262.31,
+      "end": 263.31,
+      "text": "Aí ó, virando"
+    },
+    {
+      "start": 263.31,
+      "end": 265.31,
+      "text": "O peixe na grelha"
+    },
+    {
+      "start": 265.31,
+      "end": 266.31,
+      "text": "E a galera tá ali, ó"
+    },
+    {
+      "start": 266.31,
+      "end": 268.31,
+      "text": "Dois trabalhando"
+    },
+    {
+      "start": 268.31,
+      "end": 271.86,
+      "text": "Quase trinta ali esperando pra cobrir"
+    },
+    {
+      "start": 271.86,
+      "end": 273.21,
+      "text": "É a vida, né?"
+    },
+    {
+      "start": 273.21,
+      "end": 276.21,
+      "text": "Faz da hora de pescar, limpar os peixes"
+    },
+    {
+      "start": 276.21,
+      "end": 277.21,
+      "text": "Todo mundo limpou"
+    },
+    {
+      "start": 277.21,
+      "end": 278.21,
+      "text": "Ei, rapaz"
+    },
+    {
+      "start": 278.21,
+      "end": 279.21,
+      "text": "Pegou nenhum só"
+    },
+    {
+      "start": 279.21,
+      "end": 280.21,
+      "text": "Só tá na colpeira"
+    },
+    {
+      "start": 280.21,
+      "end": 281.21,
+      "text": "Ah, caba boa"
+    },
+    {
+      "start": 281.21,
+      "end": 283.21,
+      "text": "Dá um alô pra nós aí, Joel"
+    },
+    {
+      "start": 283.21,
+      "end": 288.2,
+      "text": "Já estamos indo pra segunda rodada"
+    },
+    {
+      "start": 288.2,
+      "end": 290.81,
+      "text": "De grelha de peixe aqui, ó"
+    },
+    {
+      "start": 290.81,
+      "end": 291.97,
+      "text": "Piauzinho aí, ó"
+    },
+    {
+      "start": 291.97,
+      "end": 292.97,
+      "text": "Trincando aí, ó"
+    },
+    {
+      "start": 292.97,
+      "end": 295.22,
+      "text": "Só piau"
+    },
+    {
+      "start": 295.22,
+      "end": 297.35,
+      "text": "Cabeça de óleo"
+    },
+    {
+      "start": 297.35,
+      "end": 298.35,
+      "text": "Que a gente chama piau três pinta"
+    },
+    {
+      "start": 298.35,
+      "end": 299.35,
+      "text": "Cabeça gorda"
+    },
+    {
+      "start": 299.35,
+      "end": 301.35,
+      "text": "Como muitos, muitos conhecem"
+    },
+    {
+      "start": 301.35,
+      "end": 302.35,
+      "text": "E aqui, pessoal"
+    },
+    {
+      "start": 302.35,
+      "end": 304.35,
+      "text": "É um verdadeiro paraíso ecológico"
+    },
+    {
+      "start": 304.35,
+      "end": 305.35,
+      "text": "Um detalhe"
+    },
+    {
+      "start": 305.35,
+      "end": 307.35,
+      "text": "Às vezes tem alguém que tá nos assistindo"
+    },
+    {
+      "start": 307.35,
+      "end": 308.35,
+      "text": "Parece que a gente tá aqui"
+    },
+    {
+      "start": 308.35,
+      "end": 310.35,
+      "text": "Pledando os peixes, né?"
+    },
+    {
+      "start": 310.35,
+      "end": 312.35,
+      "text": "A gente não usa a rede"
+    },
+    {
+      "start": 312.35,
+      "end": 313.35,
+      "text": "É só no anzol"
+    },
+    {
+      "start": 313.35,
+      "end": 314.35,
+      "text": "E detalhe"
+    },
+    {
+      "start": 314.35,
+      "end": 315.35,
+      "text": "Não levamos peixe"
+    },
+    {
+      "start": 315.35,
+      "end": 316.35,
+      "text": "Comemos aqui"
+    },
+    {
+      "start": 316.35,
+      "end": 318.35,
+      "text": "Aqui no acampamento"
+    },
+    {
+      "start": 318.35,
+      "end": 320.35,
+      "text": "Mas comemos bastante, tá?"
+    },
+    {
+      "start": 320.35,
+      "end": 322.35,
+      "text": "Tem companheiro aqui"
+    },
+    {
+      "start": 322.35,
+      "end": 323.35,
+      "text": "Que come cinco"
+    },
+    {
+      "start": 323.35,
+      "end": 325.35,
+      "text": "Oito peixes desse aqui, ó"
+    },
+    {
+      "start": 325.35,
+      "end": 327.64,
+      "text": "Mas é isso aí, pessoal"
+    },
+    {
+      "start": 327.64,
+      "end": 329.64,
+      "text": "Só pra vocês terem uma ideia"
+    },
+    {
+      "start": 329.64,
+      "end": 330.64,
+      "text": "Que do outro lado aqui"
+    },
+    {
+      "start": 330.64,
+      "end": 331.64,
+      "text": "Um duzentos metros aqui"
+    },
+    {
+      "start": 331.64,
+      "end": 332.64,
+      "text": "Trezentos metros do lado do rio"
+    },
+    {
+      "start": 332.64,
+      "end": 334.64,
+      "text": "É a ilha do Bananal"
+    },
+    {
+      "start": 334.64,
+      "end": 336.64,
+      "text": "A maior ilha fluvial do mundo"
+    },
+    {
+      "start": 336.64,
+      "end": 344.02,
+      "text": "É de minuto em minuto"
+    },
+    {
+      "start": 344.02,
+      "end": 345.02,
+      "text": "Vai lá"
+    },
+    {
+      "start": 345.02,
+      "end": 346.02,
+      "text": "Vira aí"
+    },
+    {
+      "start": 346.02,
+      "end": 347.02,
+      "text": "Vai para a cozinha aí, ó"
+    },
+    {
+      "start": 347.02,
+      "end": 349.75,
+      "text": "E para deixar a terceira rodada"
+    },
+    {
+      "start": 349.75,
+      "end": 351.01,
+      "text": "Porque..."
+    },
+    {
+      "start": 351.01,
+      "end": 352.01,
+      "text": "Tá, não é?"
+    },
+    {
+      "start": 352.01,
+      "end": 353.01,
+      "text": "É"
+    },
+    {
+      "start": 353.01,
+      "end": 354.01,
+      "text": "Vou pegar logo dois"
+    },
+    {
+      "start": 354.01,
+      "end": 355.01,
+      "text": "Só dois"
+    },
+    {
+      "start": 355.01,
+      "end": 356.01,
+      "text": "Só dois"
+    },
+    {
+      "start": 356.01,
+      "end": 357.01,
+      "text": "Só dois"
+    },
+    {
+      "start": 357.01,
+      "end": 358.01,
+      "text": "Vou pegar dois então"
+    },
+    {
+      "start": 358.01,
+      "end": 359.01,
+      "text": "Vou pegar dois"
+    },
+    {
+      "start": 359.01,
+      "end": 360.01,
+      "text": "Vamos"
+    },
+    {
+      "start": 360.01,
+      "end": 361.01,
+      "text": "Vamos"
+    },
+    {
+      "start": 361.01,
+      "end": 362.01,
+      "text": "Se pode, vou pegar dois"
+    },
+    {
+      "start": 362.01,
+      "end": 363.01,
+      "text": "Vou pegar dois pequenos"
+    },
+    {
+      "start": 363.01,
+      "end": 364.01,
+      "text": "Peixe"
+    },
+    {
+      "start": 364.01,
+      "end": 366.01,
+      "text": "Deixa eu ver se é o peixe aqui"
+    },
+    {
+      "start": 366.01,
+      "end": 367.01,
+      "text": "Rapaz aqui"
+    },
+    {
+      "start": 367.01,
+      "end": 368.01,
+      "text": "Uuuu"
+    },
+    {
+      "start": 368.01,
+      "end": 369.01,
+      "text": "Rapazinho bem fraco"
+    },
+    {
+      "start": 369.01,
+      "end": 370.01,
+      "text": "Ah, moça aqui também, ó"
+    },
+    {
+      "start": 370.01,
+      "end": 371.01,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 371.01,
+      "end": 373.01,
+      "text": "Vamos pegar dois, gente"
+    },
+    {
+      "start": 373.01,
+      "end": 378.92,
+      "text": "Como é que fica aí os espinhos do piau aí, ó"
+    },
+    {
+      "start": 378.92,
+      "end": 381.46,
+      "text": "A gente vai tirando o lombo dele, ó"
+    },
+    {
+      "start": 381.46,
+      "end": 383.5,
+      "text": "A maioria dos espinhos"
+    },
+    {
+      "start": 383.5,
+      "end": 384.5,
+      "text": "Que é as pistelinhas"
+    },
+    {
+      "start": 384.5,
+      "end": 386.5,
+      "text": "Vai ficando agarrada na farinha, ó"
+    },
+    {
+      "start": 386.5,
+      "end": 388.5,
+      "text": "A gente come essa farinha também"
+    },
+    {
+      "start": 388.5,
+      "end": 389.5,
+      "text": "Que é muito gostosa também"
+    },
+    {
+      "start": 389.5,
+      "end": 390.5,
+      "text": "Que é bem temperada"
+    },
+    {
+      "start": 390.5,
+      "end": 392.5,
+      "text": "E..."
+    },
+    {
+      "start": 392.5,
+      "end": 393.82,
+      "text": "O espinho vai saindo aqui, ó"
+    },
+    {
+      "start": 393.82,
+      "end": 394.82,
+      "text": "Vai virando aqui, ó"
+    },
+    {
+      "start": 394.82,
+      "end": 395.82,
+      "text": "Esse lombo"
+    },
+    {
+      "start": 395.82,
+      "end": 397.85,
+      "text": "A carne aqui dele"
+    },
+    {
+      "start": 397.85,
+      "end": 398.85,
+      "text": "Vai sair também agora, ó"
+    },
+    {
+      "start": 398.85,
+      "end": 403.62,
+      "text": "Olha o que sobra do piauzinho do rapaz aí, ó"
+    },
+    {
+      "start": 403.62,
+      "end": 406.62,
+      "text": "É igual o piauzinho do peixinho do pica-pau"
+    },
+    {
+      "start": 406.62,
+      "end": 409.62,
+      "text": "Sobrou só esqueletinho, ó"
+    },
+    {
+      "start": 409.62,
+      "end": 410.62,
+      "text": "Brinca"
+    },
+    {
+      "start": 410.62,
+      "end": 412.62,
+      "text": "Vamos ver o que sobrou aqui, dá"
+    },
+    {
+      "start": 412.62,
+      "end": 414.62,
+      "text": "Daqui a tanto de peixe aqui"
+    },
+    {
+      "start": 414.62,
+      "end": 416.62,
+      "text": "Rapaz do céu"
+    },
+    {
+      "start": 416.62,
+      "end": 419.62,
+      "text": "Os caras comeram tudo, ó"
+    },
+    {
+      "start": 419.62,
+      "end": 421.62,
+      "text": "Olha, sobrou esses nequinhos"
+    },
+    {
+      "start": 421.62,
+      "end": 423.62,
+      "text": "Vai ter uns que vai comer, ó"
+    },
+    {
+      "start": 423.62,
+      "end": 425.62,
+      "text": "Que caré sobrou também"
+    },
+    {
+      "start": 425.62,
+      "end": 429.62,
+      "text": "Ó pastor e meu senhor"
+    },
+    {
+      "start": 429.62,
+      "end": 433.83,
+      "text": "Os anjos que o louvam"
+    },
+    {
+      "start": 433.83,
+      "end": 436.83,
+      "text": "Eu também o louvarei"
+    },
+    {
+      "start": 436.83,
+      "end": 440.83,
+      "text": "Entoando aleluias ao meu rei"
+    },
+    {
+      "start": 440.83,
+      "end": 442.83,
+      "text": "O louvarei"
+    },
+    {
+      "start": 442.83,
+      "end": 447.83,
+      "text": "Entoando aleluias ao meu rei"
+    },
+    {
+      "start": 447.83,
+      "end": 450.93,
+      "text": "Onde um dia eu vi"
+    },
+    {
+      "start": 450.93,
+      "end": 455.93,
+      "text": "Ter pecado castigado em Jesus"
+    },
+    {
+      "start": 455.93,
+      "end": 458.93,
+      "text": "Jesus meu senhor"
+    },
+    {
+      "start": 458.93,
+      "end": 462.44,
+      "text": "É que um dia receba"
+    },
+    {
+      "start": 462.44,
+      "end": 479.09,
+      "text": "E agora?"
+    },
+    {
+      "start": 479.09,
+      "end": 576.74,
+      "text": "Eu tenho as manhas não entra não"
+    },
+    {
+      "start": 576.74,
+      "end": 578.74,
+      "text": "Isso é a instrução de um profissional"
+    },
+    {
+      "start": 578.74,
+      "end": 590.54,
+      "text": "Doce, doce como o mel"
+    },
+    {
+      "start": 590.54,
+      "end": 599.78,
+      "text": "E batom, tu já gosta de um mu..."
+    },
+    {
+      "start": 599.78,
+      "end": 601.78,
+      "text": "Se não tem as manhas não entra não"
+    },
+    {
+      "start": 601.78,
+      "end": 603.78,
+      "text": "Isso é a instrução de um profissional"
+    },
+    {
+      "start": 603.78,
+      "end": 605.78,
+      "text": "Hahahaha"
+    }
+  ],
+  "duracao_seg": 605.35,
+  "idioma_detectado": "pt"
+}

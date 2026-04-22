@@ -1,0 +1,42 @@
+{
+  "texto": "pescada aí que é o negócio. Vira peixe daqui a pouco. É onda viu macho. Olha aí o porózão aí ó. É beleza. Tamo comendo ele aqui ó. Comi o poró aqui ó.",
+  "segmentos": [
+    {
+      "start": 138.83,
+      "end": 140.83,
+      "text": "pescada aí que é o negócio."
+    },
+    {
+      "start": 140.83,
+      "end": 166.51,
+      "text": "Vira peixe daqui a pouco."
+    },
+    {
+      "start": 166.51,
+      "end": 171.46,
+      "text": "É onda viu macho."
+    },
+    {
+      "start": 171.46,
+      "end": 173.46,
+      "text": "Olha aí o porózão aí ó."
+    },
+    {
+      "start": 173.46,
+      "end": 176.06,
+      "text": "É beleza."
+    },
+    {
+      "start": 176.06,
+      "end": 178.38,
+      "text": "Tamo comendo ele aqui ó."
+    },
+    {
+      "start": 178.38,
+      "end": 180.42,
+      "text": "Comi o poró aqui ó."
+    }
+  ],
+  "duracao_seg": 184.45,
+  "idioma_detectado": "pt"
+}

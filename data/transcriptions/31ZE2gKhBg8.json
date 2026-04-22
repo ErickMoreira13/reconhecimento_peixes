@@ -1,0 +1,32 @@
+{
+  "texto": "Um cafezinho quieto, o cheiro do mato O sol iluminando o meu sertão Aqui nós tem riqueza, tem simplicidade A humildade tá no coração Obrigado meu Deus",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 4.46,
+      "text": "Um cafezinho quieto, o cheiro do mato"
+    },
+    {
+      "start": 4.46,
+      "end": 7.06,
+      "text": "O sol iluminando o meu sertão"
+    },
+    {
+      "start": 7.06,
+      "end": 10.8,
+      "text": "Aqui nós tem riqueza, tem simplicidade"
+    },
+    {
+      "start": 10.8,
+      "end": 13.28,
+      "text": "A humildade tá no coração"
+    },
+    {
+      "start": 13.28,
+      "end": 14.62,
+      "text": "Obrigado meu Deus"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

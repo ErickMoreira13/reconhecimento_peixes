@@ -1,0 +1,37 @@
+{
+  "texto": "Próximo paciente, por favor, que aqui nós temos aqui Moça, você é um personagem de filme de terror, por acaso Quer saber, de acordo com as minhas habilidades de maratonador de filme de terror Isso não é Karen, você é um zumbi E isso não é comigo, acho que você precisa de um antídoto E só mais uma coisa, qual é o nome do filme, por favor?",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 9.19,
+      "text": "Próximo paciente, por favor, que aqui nós temos aqui"
+    },
+    {
+      "start": 9.19,
+      "end": 12.64,
+      "text": "Moça, você é um personagem de filme de terror, por acaso"
+    },
+    {
+      "start": 12.64,
+      "end": 16.08,
+      "text": "Quer saber, de acordo com as minhas habilidades de maratonador de filme de terror"
+    },
+    {
+      "start": 16.08,
+      "end": 18.2,
+      "text": "Isso não é Karen, você é um zumbi"
+    },
+    {
+      "start": 18.2,
+      "end": 20.6,
+      "text": "E isso não é comigo, acho que você precisa de um antídoto"
+    },
+    {
+      "start": 20.6,
+      "end": 22.58,
+      "text": "E só mais uma coisa, qual é o nome do filme, por favor?"
+    }
+  ],
+  "duracao_seg": 22.71,
+  "idioma_detectado": "pt"
+}

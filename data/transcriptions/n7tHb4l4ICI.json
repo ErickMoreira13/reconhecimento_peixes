@@ -1,0 +1,22 @@
+{
+  "texto": "Olha os botos fazendo a farra no cardum de peixe. Muito bonito. Ilha do Bananá.",
+  "segmentos": [
+    {
+      "start": 29.17,
+      "end": 32.07,
+      "text": "Olha os botos fazendo a farra no cardum de peixe."
+    },
+    {
+      "start": 38.23,
+      "end": 38.75,
+      "text": "Muito bonito."
+    },
+    {
+      "start": 39.41,
+      "end": 43.55,
+      "text": "Ilha do Bananá."
+    }
+  ],
+  "duracao_seg": 74.31,
+  "idioma_detectado": "pt"
+}

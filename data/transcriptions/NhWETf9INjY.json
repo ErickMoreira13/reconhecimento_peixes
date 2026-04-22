@@ -1,0 +1,37 @@
+{
+  "texto": "Escurecer e não der mais o brilho Mas simplesmente apenas um eclipse Acontecer é tempo de dor É o apocalipse sobre os mar Explosão de bombas vai falhar É pane no santo, aleluia",
+  "segmentos": [
+    {
+      "start": 47.7,
+      "end": 50.14,
+      "text": "Escurecer e não der mais o brilho"
+    },
+    {
+      "start": 50.14,
+      "end": 56.02,
+      "text": "Mas simplesmente apenas um eclipse"
+    },
+    {
+      "start": 56.02,
+      "end": 63.51,
+      "text": "Acontecer é tempo de dor"
+    },
+    {
+      "start": 63.51,
+      "end": 73.04,
+      "text": "É o apocalipse sobre os mar"
+    },
+    {
+      "start": 73.04,
+      "end": 92.1,
+      "text": "Explosão de bombas vai falhar"
+    },
+    {
+      "start": 92.1,
+      "end": 293.43,
+      "text": "É pane no santo, aleluia"
+    }
+  ],
+  "duracao_seg": 299.91,
+  "idioma_detectado": "pt"
+}

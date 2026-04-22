@@ -1,0 +1,32 @@
+{
+  "texto": "Ah, tem peixinho vivo. Ergue ele do teu lado, eu tô filmando. Rapaz, pegou aqui na ponte aqui. Tá amando? Olha que coisa linda.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 1.57,
+      "text": "Ah, tem peixinho vivo."
+    },
+    {
+      "start": 2.47,
+      "end": 3.91,
+      "text": "Ergue ele do teu lado, eu tô filmando."
+    },
+    {
+      "start": 15.29,
+      "end": 17.01,
+      "text": "Rapaz, pegou aqui na ponte aqui."
+    },
+    {
+      "start": 18.85,
+      "end": 19.39,
+      "text": "Tá amando?"
+    },
+    {
+      "start": 19.77,
+      "end": 20.73,
+      "text": "Olha que coisa linda."
+    }
+  ],
+  "duracao_seg": 21.09,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,127 @@
+{
+  "texto": "Eu comprei esse carrinho na internet que promete mudar de cor na água Um carro que muda de cor na água Isso não existe, mano, eu duvido Se esse carrinho realmente mudar de cor na água Todo mundo vai ter que se inscrever no canal, combinado? Esses aqui são os dois carrinhos que vieram Peguei um copo de água e vamos jogar o carrinho na temperatura ambiente Pra ver o que que acontece Caraca, velho, o que que tá acontecendo, meu Deus? Olha isso, gente, ele ficou todo amarelo Temos agora mais duas águas Essa água quente e essa água gelada Vou começar enfiando o carrinho na água quente 3, 2, 1 e... Nada aconteceu Deixa eu enfiar na água gelada e... Oh, meu Deus! Olha isso, mano Nosso carrinho mudou de cor completamente Agora sim eu vou botar na quente, ó Na quente, meu Deus do céu, que loucura Carrinho todo vermelho, carrinho agora todo amarelo Pelo visto o carrinho realmente mudou de cor na água É, eu tive que me inscrever no canal",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "Eu comprei esse carrinho na internet que promete mudar de cor na água"
+    },
+    {
+      "start": 3.16,
+      "end": 5.0,
+      "text": "Um carro que muda de cor na água"
+    },
+    {
+      "start": 5.0,
+      "end": 6.76,
+      "text": "Isso não existe, mano, eu duvido"
+    },
+    {
+      "start": 6.76,
+      "end": 8.84,
+      "text": "Se esse carrinho realmente mudar de cor na água"
+    },
+    {
+      "start": 8.84,
+      "end": 11.44,
+      "text": "Todo mundo vai ter que se inscrever no canal, combinado?"
+    },
+    {
+      "start": 11.54,
+      "end": 13.28,
+      "text": "Esses aqui são os dois carrinhos que vieram"
+    },
+    {
+      "start": 13.28,
+      "end": 15.72,
+      "text": "Peguei um copo de água e vamos jogar o carrinho na temperatura ambiente"
+    },
+    {
+      "start": 15.72,
+      "end": 17.24,
+      "text": "Pra ver o que que acontece"
+    },
+    {
+      "start": 17.24,
+      "end": 20.4,
+      "text": "Caraca, velho, o que que tá acontecendo, meu Deus?"
+    },
+    {
+      "start": 20.68,
+      "end": 23.74,
+      "text": "Olha isso, gente, ele ficou todo amarelo"
+    },
+    {
+      "start": 23.74,
+      "end": 25.2,
+      "text": "Temos agora mais duas águas"
+    },
+    {
+      "start": 25.2,
+      "end": 27.22,
+      "text": "Essa água quente e essa água gelada"
+    },
+    {
+      "start": 27.22,
+      "end": 29.44,
+      "text": "Vou começar enfiando o carrinho na água quente"
+    },
+    {
+      "start": 29.44,
+      "end": 31.78,
+      "text": "3, 2, 1 e..."
+    },
+    {
+      "start": 31.78,
+      "end": 32.84,
+      "text": "Nada aconteceu"
+    },
+    {
+      "start": 32.84,
+      "end": 36.0,
+      "text": "Deixa eu enfiar na água gelada e..."
+    },
+    {
+      "start": 36.0,
+      "end": 37.46,
+      "text": "Oh, meu Deus!"
+    },
+    {
+      "start": 37.62,
+      "end": 38.94,
+      "text": "Olha isso, mano"
+    },
+    {
+      "start": 38.94,
+      "end": 41.28,
+      "text": "Nosso carrinho mudou de cor completamente"
+    },
+    {
+      "start": 41.28,
+      "end": 42.76,
+      "text": "Agora sim eu vou botar na quente, ó"
+    },
+    {
+      "start": 42.76,
+      "end": 45.14,
+      "text": "Na quente, meu Deus do céu, que loucura"
+    },
+    {
+      "start": 45.14,
+      "end": 48.66,
+      "text": "Carrinho todo vermelho, carrinho agora todo amarelo"
+    },
+    {
+      "start": 48.66,
+      "end": 51.44,
+      "text": "Pelo visto o carrinho realmente mudou de cor na água"
+    },
+    {
+      "start": 51.44,
+      "end": 54.6,
+      "text": "É, eu tive que me inscrever no canal"
+    }
+  ],
+  "duracao_seg": 54.71,
+  "idioma_detectado": "pt"
+}

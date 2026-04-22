@@ -1,0 +1,42 @@
+{
+  "texto": "Tire um tempo para pescar. Aproveite enquanto você é jovem e ainda tem saúde. A vida passa rápido e as melhores lembranças não são feitas dentro de um escritório ou grudado no celular. São feitas na beira do rio, sentindo a brisa, ouvindo o som da água e compartilhando histórias com os amigos. Não espere a correria da vida te impedir de aproveitar. Pegue sua vara, vá para a beira do rio e sinta a paz que só a pescaria pode trazer. Porque no fim das contas, os melhores momentos são aqueles vividos com simplicidade e alegria. Mas lembre-se, pesque com sabedoria.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.62,
+      "text": "Tire um tempo para pescar. Aproveite enquanto você é jovem e ainda tem saúde."
+    },
+    {
+      "start": 6.24,
+      "end": 13.48,
+      "text": "A vida passa rápido e as melhores lembranças não são feitas dentro de um escritório ou grudado no celular."
+    },
+    {
+      "start": 14.08,
+      "end": 21.78,
+      "text": "São feitas na beira do rio, sentindo a brisa, ouvindo o som da água e compartilhando histórias com os amigos."
+    },
+    {
+      "start": 22.38,
+      "end": 25.9,
+      "text": "Não espere a correria da vida te impedir de aproveitar."
+    },
+    {
+      "start": 25.9,
+      "end": 32.68,
+      "text": "Pegue sua vara, vá para a beira do rio e sinta a paz que só a pescaria pode trazer."
+    },
+    {
+      "start": 33.12,
+      "end": 39.9,
+      "text": "Porque no fim das contas, os melhores momentos são aqueles vividos com simplicidade e alegria."
+    },
+    {
+      "start": 40.4,
+      "end": 43.3,
+      "text": "Mas lembre-se, pesque com sabedoria."
+    }
+  ],
+  "duracao_seg": 43.67,
+  "idioma_detectado": "pt"
+}

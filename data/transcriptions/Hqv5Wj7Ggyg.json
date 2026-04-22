@@ -1,0 +1,42 @@
+{
+  "texto": "E aí, Sr. Francisco, tá quase na hora de eu pegar eles, hein? Como é que faz? Se você consegue, põe o celular. Nossa, o que você gordo! Olha lá. Olha aqui o tamanho do monstro. Olha aí que biteta.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "E aí, Sr. Francisco, tá quase na hora de eu pegar eles, hein?"
+    },
+    {
+      "start": 4.42,
+      "end": 5.0,
+      "text": "Como é que faz?"
+    },
+    {
+      "start": 7.5,
+      "end": 9.04,
+      "text": "Se você consegue, põe o celular."
+    },
+    {
+      "start": 9.4,
+      "end": 10.72,
+      "text": "Nossa, o que você gordo!"
+    },
+    {
+      "start": 10.96,
+      "end": 11.28,
+      "text": "Olha lá."
+    },
+    {
+      "start": 11.4,
+      "end": 12.92,
+      "text": "Olha aqui o tamanho do monstro."
+    },
+    {
+      "start": 13.8,
+      "end": 15.02,
+      "text": "Olha aí que biteta."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

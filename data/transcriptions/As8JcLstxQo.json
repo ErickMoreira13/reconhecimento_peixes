@@ -1,0 +1,37 @@
+{
+  "texto": "É o peixe legítimo da Amazônia É o maior peixe de escama do mundo Olha que lindo, aqui em Rio Branco O pesqueiro tamanduá Cê tá doido Peixe pra mais de...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.55,
+      "text": "É o peixe legítimo da Amazônia"
+    },
+    {
+      "start": 3.55,
+      "end": 6.19,
+      "text": "É o maior peixe de escama do mundo"
+    },
+    {
+      "start": 6.19,
+      "end": 9.13,
+      "text": "Olha que lindo, aqui em Rio Branco"
+    },
+    {
+      "start": 9.13,
+      "end": 11.21,
+      "text": "O pesqueiro tamanduá"
+    },
+    {
+      "start": 11.21,
+      "end": 13.26,
+      "text": "Cê tá doido"
+    },
+    {
+      "start": 13.26,
+      "end": 15.38,
+      "text": "Peixe pra mais de..."
+    }
+  ],
+  "duracao_seg": 14.99,
+  "idioma_detectado": "pt"
+}

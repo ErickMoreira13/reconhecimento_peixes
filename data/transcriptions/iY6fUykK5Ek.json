@@ -1,0 +1,22 @@
+{
+  "texto": "They call the sun And it's been the rule Of many a poor girl",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "They call the sun"
+    },
+    {
+      "start": 4.24,
+      "end": 9.34,
+      "text": "And it's been the rule"
+    },
+    {
+      "start": 9.34,
+      "end": 12.57,
+      "text": "Of many a poor girl"
+    }
+  ],
+  "duracao_seg": 13.81,
+  "idioma_detectado": "pt"
+}

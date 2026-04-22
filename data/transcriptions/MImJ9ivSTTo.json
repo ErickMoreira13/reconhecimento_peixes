@@ -1,0 +1,62 @@
+{
+  "texto": "Não me amarra, dinheiro não Mais formosura, dinheiro não A pele escura, dinheiro não A carne dura, dinheiro não Moça preta do curso Beleza pura, federação Beleza pura, boca do rio Beleza pura, dinheiro não Quando essa preta começa a tratar do cabelo É de se olhar, toda tramada transa, transa do cabelo Conchas do mar, ela manda buscar pra botar no cabelo",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 3.17,
+      "text": "Não me amarra, dinheiro não"
+    },
+    {
+      "start": 3.17,
+      "end": 7.26,
+      "text": "Mais formosura, dinheiro não"
+    },
+    {
+      "start": 7.26,
+      "end": 11.42,
+      "text": "A pele escura, dinheiro não"
+    },
+    {
+      "start": 11.42,
+      "end": 15.64,
+      "text": "A carne dura, dinheiro não"
+    },
+    {
+      "start": 15.64,
+      "end": 19.46,
+      "text": "Moça preta do curso"
+    },
+    {
+      "start": 19.46,
+      "end": 23.88,
+      "text": "Beleza pura, federação"
+    },
+    {
+      "start": 23.88,
+      "end": 28.07,
+      "text": "Beleza pura, boca do rio"
+    },
+    {
+      "start": 28.07,
+      "end": 31.97,
+      "text": "Beleza pura, dinheiro não"
+    },
+    {
+      "start": 31.97,
+      "end": 36.76,
+      "text": "Quando essa preta começa a tratar do cabelo"
+    },
+    {
+      "start": 36.76,
+      "end": 40.88,
+      "text": "É de se olhar, toda tramada transa, transa do cabelo"
+    },
+    {
+      "start": 40.88,
+      "end": 45.4,
+      "text": "Conchas do mar, ela manda buscar pra botar no cabelo"
+    }
+  ],
+  "duracao_seg": 46.07,
+  "idioma_detectado": "pt"
+}

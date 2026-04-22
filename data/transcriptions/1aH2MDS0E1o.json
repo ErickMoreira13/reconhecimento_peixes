@@ -1,0 +1,97 @@
+{
+  "texto": "Aí, aqui no riozinho como é que é, vai tocando aí, Zé Roberto. Aí o nosso guia aí tocando a raia, a mãezinha dela. Já viu que vai tocar a raia. Eu vou botar bem de pertinho, ó, o tamanhozinho do porão. Aí parou. Pra cá não, só vai pra cá pra meu rumo não, doida. Fica pra ir. Vai tocado. Quebrou, então, a mãezinha, ó. Aí, ó, bem perto do porão. Essa aí, ela não tem que falar na nossa. Tem, sim. Você ainda tem, mano. Tem, ó. Uma abaca. Aí, ó, o corajoso está acolado no meio da praia, dois quilômetros do rio. Aí, o primo do tubarão.",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 3.73,
+      "text": "Aí, aqui no riozinho como é que é, vai tocando aí, Zé Roberto."
+    },
+    {
+      "start": 3.73,
+      "end": 6.43,
+      "text": "Aí o nosso guia aí tocando a raia, a mãezinha dela."
+    },
+    {
+      "start": 6.43,
+      "end": 8.43,
+      "text": "Já viu que vai tocar a raia."
+    },
+    {
+      "start": 8.43,
+      "end": 10.43,
+      "text": "Eu vou botar bem de pertinho, ó, o tamanhozinho do porão."
+    },
+    {
+      "start": 10.43,
+      "end": 11.43,
+      "text": "Aí parou."
+    },
+    {
+      "start": 11.43,
+      "end": 13.43,
+      "text": "Pra cá não, só vai pra cá pra meu rumo não, doida."
+    },
+    {
+      "start": 13.43,
+      "end": 15.43,
+      "text": "Fica pra ir."
+    },
+    {
+      "start": 15.43,
+      "end": 16.43,
+      "text": "Vai tocado."
+    },
+    {
+      "start": 16.43,
+      "end": 18.43,
+      "text": "Quebrou, então, a mãezinha, ó."
+    },
+    {
+      "start": 19.53,
+      "end": 20.53,
+      "text": "Aí, ó, bem perto do porão."
+    },
+    {
+      "start": 20.53,
+      "end": 22.53,
+      "text": "Essa aí, ela não tem que falar na nossa."
+    },
+    {
+      "start": 22.53,
+      "end": 23.53,
+      "text": "Tem, sim."
+    },
+    {
+      "start": 23.53,
+      "end": 24.53,
+      "text": "Você ainda tem, mano."
+    },
+    {
+      "start": 24.53,
+      "end": 25.53,
+      "text": "Tem, ó."
+    },
+    {
+      "start": 25.53,
+      "end": 26.53,
+      "text": "Uma abaca."
+    },
+    {
+      "start": 26.53,
+      "end": 28.53,
+      "text": "Aí, ó, o corajoso está acolado no meio da praia,"
+    },
+    {
+      "start": 28.53,
+      "end": 29.53,
+      "text": "dois quilômetros do rio."
+    },
+    {
+      "start": 29.53,
+      "end": 32.9,
+      "text": "Aí, o primo do tubarão."
+    }
+  ],
+  "duracao_seg": 35.91,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,67 @@
+{
+  "texto": "Tô vendo aquelas pontinhas brancas que tá passando? Olha a outra aqui, ó. Olha as pontinhas brancas aí, ó. Isso aí é uma armadilha que chama-se landuá, pra pegar o siri. Então é assim, turma, que é capturado o siri aqui na região. Landuá, landuá. Landuá. Isso ele toca no fundo do rio, com uma isca de peixe, aí o siri vem, cai dentro e ele só puxa. O golpe tá aí, turma. O siri cai quem quer. O golpe tá aí. Cai quem quer.",
+  "segmentos": [
+    {
+      "start": 1.36,
+      "end": 4.08,
+      "text": "Tô vendo aquelas pontinhas brancas que tá passando?"
+    },
+    {
+      "start": 4.78,
+      "end": 5.72,
+      "text": "Olha a outra aqui, ó."
+    },
+    {
+      "start": 6.36,
+      "end": 7.6,
+      "text": "Olha as pontinhas brancas aí, ó."
+    },
+    {
+      "start": 7.68,
+      "end": 10.96,
+      "text": "Isso aí é uma armadilha que chama-se landuá, pra pegar o siri."
+    },
+    {
+      "start": 13.5,
+      "end": 16.36,
+      "text": "Então é assim, turma, que é capturado o siri aqui na região."
+    },
+    {
+      "start": 18.08,
+      "end": 19.0,
+      "text": "Landuá, landuá."
+    },
+    {
+      "start": 19.4,
+      "end": 19.84,
+      "text": "Landuá."
+    },
+    {
+      "start": 20.1,
+      "end": 26.38,
+      "text": "Isso ele toca no fundo do rio, com uma isca de peixe, aí o siri vem, cai dentro e ele só puxa."
+    },
+    {
+      "start": 27.06,
+      "end": 28.72,
+      "text": "O golpe tá aí, turma."
+    },
+    {
+      "start": 28.72,
+      "end": 29.72,
+      "text": "O siri cai quem quer."
+    },
+    {
+      "start": 29.72,
+      "end": 30.58,
+      "text": "O golpe tá aí."
+    },
+    {
+      "start": 30.58,
+      "end": 31.9,
+      "text": "Cai quem quer."
+    }
+  ],
+  "duracao_seg": 32.09,
+  "idioma_detectado": "pt"
+}

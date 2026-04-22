@@ -1,0 +1,87 @@
+{
+  "texto": "Aí, pituca, uns piauzinhos, cabeça gorda, assadinho. Daqui a pouco nós vamos saborear eles. Pena que eu não posso mandar um pedaço para tu aí, mas quem sabe um outro dia nós vamos dar uma pescada junto, viu? É isso aí. Olha aí o seu Flávio chegando, hein seu Flávio? Oi! Cadê os peixes? Mostra os tucunaré aí. Vamos ver agora os tucunaré. Um pacuzinho ferrado. Olha aí. Os outros nem estão comendo ali, viu? Não é só esses não. É que nem estão comendo. Um pacuzinho ferrado aí. Bonito. É isso aí. Não, aí está filmando, né?",
+  "segmentos": [
+    {
+      "start": 1.36,
+      "end": 6.52,
+      "text": "Aí, pituca, uns piauzinhos, cabeça gorda, assadinho."
+    },
+    {
+      "start": 7.54,
+      "end": 9.74,
+      "text": "Daqui a pouco nós vamos saborear eles."
+    },
+    {
+      "start": 10.81,
+      "end": 17.91,
+      "text": "Pena que eu não posso mandar um pedaço para tu aí, mas quem sabe um outro dia nós vamos dar uma pescada junto, viu?"
+    },
+    {
+      "start": 19.24,
+      "end": 20.04,
+      "text": "É isso aí."
+    },
+    {
+      "start": 21.58,
+      "end": 23.94,
+      "text": "Olha aí o seu Flávio chegando, hein seu Flávio?"
+    },
+    {
+      "start": 24.16,
+      "end": 24.46,
+      "text": "Oi!"
+    },
+    {
+      "start": 24.82,
+      "end": 26.78,
+      "text": "Cadê os peixes? Mostra os tucunaré aí."
+    },
+    {
+      "start": 29.72,
+      "end": 31.06,
+      "text": "Vamos ver agora os tucunaré."
+    },
+    {
+      "start": 31.72,
+      "end": 32.98,
+      "text": "Um pacuzinho ferrado."
+    },
+    {
+      "start": 34.14,
+      "end": 34.72,
+      "text": "Olha aí."
+    },
+    {
+      "start": 34.72,
+      "end": 37.6,
+      "text": "Os outros nem estão comendo ali, viu? Não é só esses não."
+    },
+    {
+      "start": 38.16,
+      "end": 39.04,
+      "text": "É que nem estão comendo."
+    },
+    {
+      "start": 39.14,
+      "end": 40.36,
+      "text": "Um pacuzinho ferrado aí."
+    },
+    {
+      "start": 40.8,
+      "end": 41.24,
+      "text": "Bonito."
+    },
+    {
+      "start": 42.69,
+      "end": 43.51,
+      "text": "É isso aí."
+    },
+    {
+      "start": 45.69,
+      "end": 46.55,
+      "text": "Não, aí está filmando, né?"
+    }
+  ],
+  "duracao_seg": 47.11,
+  "idioma_detectado": "pt"
+}

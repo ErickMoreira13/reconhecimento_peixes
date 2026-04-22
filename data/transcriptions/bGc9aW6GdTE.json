@@ -1,0 +1,22 @@
+{
+  "texto": "Kinder Joy ou o ovo dourado misterioso? Kinder Joy, abriu o Kinder Joy, qual será a surpresa? É a coleção Durex World, untando dinossauro, que dinossauro é esse?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Kinder Joy ou o ovo dourado misterioso?"
+    },
+    {
+      "start": 2.66,
+      "end": 7.24,
+      "text": "Kinder Joy, abriu o Kinder Joy, qual será a surpresa?"
+    },
+    {
+      "start": 7.24,
+      "end": 12.04,
+      "text": "É a coleção Durex World, untando dinossauro, que dinossauro é esse?"
+    }
+  ],
+  "duracao_seg": 12.09,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,327 @@
+{
+  "texto": "Retiro do Eber, a ilha do Bananal, que vai para o Araguaia, o rancho, a casa, aqui é o lugar que nada agora, sairia de embora, isso aqui é bom. Aqui é o outro retiro do Eber. Você chegou lá e tirou perto do selva, não, daqui, sei lá. O Gustavão aqui, olha o lugar que lá está dentro do lago aqui, olha. Aqui do sertão do Araguaia. Araguaia. E toda a tarde o Tucumaré, hein. Olha o Gustavo ali na frente, ele já está entrando aqui para ir para o Galá. Entrando aqui para ir para o lago, para pescar o Tucumaré. O lagão deu as caras, mano. Olha o lado, está chegando. Já tem uns peixes que está faltando. Jacaré, toda hora nós vemos aqui. Olha, olha apontando o lago. Olha, o peixe está batendo. Está bonito. Aqui tem peixe. Olha os peixes. Olha lá. O Tucumaré, o Tucumaré, cadê o seu mureneiro, Gustavo? Nossa, olha aqui. Mete linha na cara dele. Olha onde os peixes estão correndo. Nossa, Deus. Agora nós vamos pegar o peixe. Olha o tamanzinho do lado. Peguei. Já pegou um, olha o Gustavo. Está trazendo. Está trazendo. Isso, Gustavo. Pode trazer. Olha, vem dois atrás. Olha o tanto. Acabou. Isso é pesar demais. Vem devagar, devagar. Olha o Gustavo. Olha o Gustavo. Está bom para pegar? Está bom para pegar? Gustavo não dá conta dele, não. Não gostava dá conta, não. Não, o Gustavo só está perdendo, Zó. Nós chegou, nós pegou no cardão, bem na boca dos botos do lado da caranha lá, nega. Primeira lapada que ele pegou, pegou esse tamanho aqui, olha. Ele pegou mais? Ele reuniou, arrebentou ali e foi embora com as noites. Ele não pegou nada. Olha o tuiuiu. Olha aí. Bora. Graças um peixinho. Olha o tanto que é mansinho. Dali, você vai lá mais um minho do carinho? Dali. Dali. Dali. Dali. Cachoeirinha. Olha o boto lá. Dali. Dali. Dali.",
+  "segmentos": [
+    {
+      "start": 1.1,
+      "end": 24.7,
+      "text": "Retiro do Eber, a ilha do Bananal, que vai para o Araguaia, o rancho, a casa, aqui é o lugar que nada agora, sairia de embora, isso aqui é bom."
+    },
+    {
+      "start": 39.76,
+      "end": 41.4,
+      "text": "Aqui é o outro retiro do Eber."
+    },
+    {
+      "start": 60.04,
+      "end": 65.0,
+      "text": "Você chegou lá e tirou perto do selva, não, daqui, sei lá."
+    },
+    {
+      "start": 65.0,
+      "end": 73.52,
+      "text": "O Gustavão aqui, olha o lugar que lá está dentro do lago aqui, olha."
+    },
+    {
+      "start": 74.3,
+      "end": 77.7,
+      "text": "Aqui do sertão do Araguaia."
+    },
+    {
+      "start": 78.88,
+      "end": 79.32,
+      "text": "Araguaia."
+    },
+    {
+      "start": 79.38,
+      "end": 81.26,
+      "text": "E toda a tarde o Tucumaré, hein."
+    },
+    {
+      "start": 83.04,
+      "end": 88.23,
+      "text": "Olha o Gustavo ali na frente, ele já está entrando aqui para ir para o Galá."
+    },
+    {
+      "start": 92.36,
+      "end": 94.66,
+      "text": "Entrando aqui para ir para o lago, para pescar o Tucumaré."
+    },
+    {
+      "start": 95.0,
+      "end": 96.78,
+      "text": "O lagão deu as caras, mano."
+    },
+    {
+      "start": 97.16,
+      "end": 98.66,
+      "text": "Olha o lado, está chegando."
+    },
+    {
+      "start": 100.99,
+      "end": 106.3,
+      "text": "Já tem uns peixes que está faltando."
+    },
+    {
+      "start": 106.3,
+      "end": 110.26,
+      "text": "Jacaré, toda hora nós vemos aqui."
+    },
+    {
+      "start": 113.62,
+      "end": 115.86,
+      "text": "Olha, olha apontando o lago."
+    },
+    {
+      "start": 117.44,
+      "end": 119.48,
+      "text": "Olha, o peixe está batendo."
+    },
+    {
+      "start": 120.26,
+      "end": 127.83,
+      "text": "Está bonito."
+    },
+    {
+      "start": 134.31,
+      "end": 135.43,
+      "text": "Aqui tem peixe."
+    },
+    {
+      "start": 135.73,
+      "end": 136.45,
+      "text": "Olha os peixes."
+    },
+    {
+      "start": 137.09,
+      "end": 137.39,
+      "text": "Olha lá."
+    },
+    {
+      "start": 137.39,
+      "end": 140.73,
+      "text": "O Tucumaré, o Tucumaré, cadê o seu mureneiro, Gustavo?"
+    },
+    {
+      "start": 144.0,
+      "end": 144.7,
+      "text": "Nossa, olha aqui."
+    },
+    {
+      "start": 145.0,
+      "end": 146.3,
+      "text": "Mete linha na cara dele."
+    },
+    {
+      "start": 146.3,
+      "end": 146.96,
+      "text": "Olha onde os peixes estão correndo."
+    },
+    {
+      "start": 148.74,
+      "end": 149.66,
+      "text": "Nossa, Deus."
+    },
+    {
+      "start": 149.94,
+      "end": 151.14,
+      "text": "Agora nós vamos pegar o peixe."
+    },
+    {
+      "start": 151.22,
+      "end": 152.08,
+      "text": "Olha o tamanzinho do lado."
+    },
+    {
+      "start": 152.14,
+      "end": 152.46,
+      "text": "Peguei."
+    },
+    {
+      "start": 152.46,
+      "end": 153.96,
+      "text": "Já pegou um, olha o Gustavo."
+    },
+    {
+      "start": 154.0,
+      "end": 154.52,
+      "text": "Está trazendo."
+    },
+    {
+      "start": 154.6,
+      "end": 155.22,
+      "text": "Está trazendo."
+    },
+    {
+      "start": 155.62,
+      "end": 156.5,
+      "text": "Isso, Gustavo."
+    },
+    {
+      "start": 156.58,
+      "end": 157.04,
+      "text": "Pode trazer."
+    },
+    {
+      "start": 157.38,
+      "end": 158.5,
+      "text": "Olha, vem dois atrás."
+    },
+    {
+      "start": 158.6,
+      "end": 159.0,
+      "text": "Olha o tanto."
+    },
+    {
+      "start": 159.34,
+      "end": 159.86,
+      "text": "Acabou."
+    },
+    {
+      "start": 159.94,
+      "end": 160.76,
+      "text": "Isso é pesar demais."
+    },
+    {
+      "start": 160.98,
+      "end": 161.92,
+      "text": "Vem devagar, devagar."
+    },
+    {
+      "start": 162.06,
+      "end": 162.32,
+      "text": "Olha o Gustavo."
+    },
+    {
+      "start": 162.32,
+      "end": 162.54,
+      "text": "Olha o Gustavo."
+    },
+    {
+      "start": 162.68,
+      "end": 165.52,
+      "text": "Está bom para pegar?"
+    },
+    {
+      "start": 167.17,
+      "end": 167.49,
+      "text": "Está bom para pegar?"
+    },
+    {
+      "start": 167.75,
+      "end": 169.37,
+      "text": "Gustavo não dá conta dele, não."
+    },
+    {
+      "start": 169.79,
+      "end": 170.77,
+      "text": "Não gostava dá conta, não."
+    },
+    {
+      "start": 170.83,
+      "end": 173.63,
+      "text": "Não, o Gustavo só está perdendo, Zó."
+    },
+    {
+      "start": 173.77,
+      "end": 178.69,
+      "text": "Nós chegou, nós pegou no cardão, bem na boca dos botos do lado da caranha lá, nega."
+    },
+    {
+      "start": 178.69,
+      "end": 181.95,
+      "text": "Primeira lapada que ele pegou, pegou esse tamanho aqui, olha."
+    },
+    {
+      "start": 182.95,
+      "end": 184.13,
+      "text": "Ele pegou mais?"
+    },
+    {
+      "start": 184.37,
+      "end": 187.77,
+      "text": "Ele reuniou, arrebentou ali e foi embora com as noites."
+    },
+    {
+      "start": 187.89,
+      "end": 188.53,
+      "text": "Ele não pegou nada."
+    },
+    {
+      "start": 189.15,
+      "end": 189.87,
+      "text": "Olha o tuiuiu."
+    },
+    {
+      "start": 191.04,
+      "end": 191.34,
+      "text": "Olha aí."
+    },
+    {
+      "start": 191.56,
+      "end": 191.82,
+      "text": "Bora."
+    },
+    {
+      "start": 192.48,
+      "end": 193.5,
+      "text": "Graças um peixinho."
+    },
+    {
+      "start": 197.76,
+      "end": 198.84,
+      "text": "Olha o tanto que é mansinho."
+    },
+    {
+      "start": 199.1,
+      "end": 201.22,
+      "text": "Dali, você vai lá mais um minho do carinho?"
+    },
+    {
+      "start": 202.06,
+      "end": 202.46,
+      "text": "Dali."
+    },
+    {
+      "start": 202.84,
+      "end": 203.12,
+      "text": "Dali."
+    },
+    {
+      "start": 203.12,
+      "end": 203.18,
+      "text": "Dali."
+    },
+    {
+      "start": 203.18,
+      "end": 203.62,
+      "text": "Dali."
+    },
+    {
+      "start": 275.21,
+      "end": 275.89,
+      "text": "Cachoeirinha."
+    },
+    {
+      "start": 275.89,
+      "end": 289.06,
+      "text": "Olha o boto lá."
+    },
+    {
+      "start": 289.14,
+      "end": 294.02,
+      "text": "Dali."
+    },
+    {
+      "start": 294.02,
+      "end": 294.3,
+      "text": "Dali."
+    },
+    {
+      "start": 294.3,
+      "end": 295.3,
+      "text": "Dali."
+    }
+  ],
+  "duracao_seg": 403.75,
+  "idioma_detectado": "pt"
+}

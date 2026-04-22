@@ -1,0 +1,57 @@
+{
+  "texto": "Sigo pra cá, me sigo em terra do vento Na ilha eu me concentro E o Corea 1 é sinistro Eu sigo firme e não desisto Uma parada no farol pra beber uma água E o vento ali não para No Maceió, festa da boa Vamos depois velejar na lagoa As Kite Clip não pode As Kite Clip não vai se acabar",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.34,
+      "text": "Sigo pra cá, me sigo em terra do vento"
+    },
+    {
+      "start": 4.34,
+      "end": 7.4,
+      "text": "Na ilha eu me concentro"
+    },
+    {
+      "start": 7.4,
+      "end": 10.78,
+      "text": "E o Corea 1 é sinistro"
+    },
+    {
+      "start": 10.78,
+      "end": 13.9,
+      "text": "Eu sigo firme e não desisto"
+    },
+    {
+      "start": 13.9,
+      "end": 17.28,
+      "text": "Uma parada no farol pra beber uma água"
+    },
+    {
+      "start": 17.28,
+      "end": 20.51,
+      "text": "E o vento ali não para"
+    },
+    {
+      "start": 20.51,
+      "end": 23.71,
+      "text": "No Maceió, festa da boa"
+    },
+    {
+      "start": 23.71,
+      "end": 27.39,
+      "text": "Vamos depois velejar na lagoa"
+    },
+    {
+      "start": 27.39,
+      "end": 47.81,
+      "text": "As Kite Clip não pode"
+    },
+    {
+      "start": 47.81,
+      "end": 55.06,
+      "text": "As Kite Clip não vai se acabar"
+    }
+  ],
+  "duracao_seg": 59.61,
+  "idioma_detectado": "pt"
+}

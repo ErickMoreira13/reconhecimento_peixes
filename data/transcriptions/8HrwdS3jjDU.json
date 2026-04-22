@@ -1,0 +1,27 @@
+{
+  "texto": "Como é que dá comida jacaré, ó. Você joga no barranco e vai lá buscar, ó. Mexe o peixe desgraçado. Desgraçado o peixe não mexeu, véi.",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 2.54,
+      "text": "Como é que dá comida jacaré, ó."
+    },
+    {
+      "start": 3.2,
+      "end": 6.68,
+      "text": "Você joga no barranco e vai lá buscar, ó."
+    },
+    {
+      "start": 7.12,
+      "end": 8.12,
+      "text": "Mexe o peixe desgraçado."
+    },
+    {
+      "start": 8.42,
+      "end": 13.14,
+      "text": "Desgraçado o peixe não mexeu, véi."
+    }
+  ],
+  "duracao_seg": 27.77,
+  "idioma_detectado": "pt"
+}

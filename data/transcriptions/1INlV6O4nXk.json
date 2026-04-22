@@ -1,0 +1,17 @@
+{
+  "texto": "Outro! Esse dá certeza!",
+  "segmentos": [
+    {
+      "start": 3.6,
+      "end": 4.26,
+      "text": "Outro!"
+    },
+    {
+      "start": 20.49,
+      "end": 21.57,
+      "text": "Esse dá certeza!"
+    }
+  ],
+  "duracao_seg": 43.97,
+  "idioma_detectado": "pt"
+}

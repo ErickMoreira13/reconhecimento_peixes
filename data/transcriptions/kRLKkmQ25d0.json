@@ -1,0 +1,27 @@
+{
+  "texto": "Esse aqui vai pra onde? É, esse aqui, Guto, vai lá pra cima, é? É, esse vai ser pra alunçar o cimento Então, vamos...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "Esse aqui vai pra onde?"
+    },
+    {
+      "start": 2.06,
+      "end": 7.54,
+      "text": "É, esse aqui, Guto, vai lá pra cima, é?"
+    },
+    {
+      "start": 9.13,
+      "end": 12.78,
+      "text": "É, esse vai ser pra alunçar o cimento"
+    },
+    {
+      "start": 12.78,
+      "end": 14.98,
+      "text": "Então, vamos..."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

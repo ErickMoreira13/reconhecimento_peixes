@@ -1,0 +1,77 @@
+{
+  "texto": "Ó a bicha, ó a bicha, ó a bicha Uhul moleque Olá parda véi Olá Aí ó É esse rebojo aí que ela dá Ê Zaião Uhul moço Soltar a décima que nós pegamos hoje né Dallé Olha lá Vai fazer outro feliz Vai lá Dallé, solta lá Vai embora Vazou",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Ó a bicha, ó a bicha, ó a bicha"
+    },
+    {
+      "start": 3.36,
+      "end": 6.8,
+      "text": "Uhul moleque"
+    },
+    {
+      "start": 6.8,
+      "end": 12.21,
+      "text": "Olá parda véi"
+    },
+    {
+      "start": 12.21,
+      "end": 13.13,
+      "text": "Olá"
+    },
+    {
+      "start": 13.13,
+      "end": 15.1,
+      "text": "Aí ó"
+    },
+    {
+      "start": 15.1,
+      "end": 17.28,
+      "text": "É esse rebojo aí que ela dá"
+    },
+    {
+      "start": 17.28,
+      "end": 25.46,
+      "text": "Ê Zaião"
+    },
+    {
+      "start": 25.46,
+      "end": 33.22,
+      "text": "Uhul moço"
+    },
+    {
+      "start": 33.22,
+      "end": 36.82,
+      "text": "Soltar a décima que nós pegamos hoje né Dallé"
+    },
+    {
+      "start": 36.82,
+      "end": 38.14,
+      "text": "Olha lá"
+    },
+    {
+      "start": 38.14,
+      "end": 40.48,
+      "text": "Vai fazer outro feliz"
+    },
+    {
+      "start": 40.48,
+      "end": 41.8,
+      "text": "Vai lá Dallé, solta lá"
+    },
+    {
+      "start": 41.8,
+      "end": 44.27,
+      "text": "Vai embora"
+    },
+    {
+      "start": 44.27,
+      "end": 44.95,
+      "text": "Vazou"
+    }
+  ],
+  "duracao_seg": 45.37,
+  "idioma_detectado": "pt"
+}

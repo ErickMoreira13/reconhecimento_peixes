@@ -1,0 +1,27 @@
+{
+  "texto": "Tô de férias, sem hora pra água Tô de férias, com tempo pra viajar Tô de férias, pronto pra maratonar Sentado no meu sofá, pipoca com guaraná",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 3.87,
+      "text": "Tô de férias, sem hora pra água"
+    },
+    {
+      "start": 3.87,
+      "end": 7.3,
+      "text": "Tô de férias, com tempo pra viajar"
+    },
+    {
+      "start": 7.3,
+      "end": 11.08,
+      "text": "Tô de férias, pronto pra maratonar"
+    },
+    {
+      "start": 11.08,
+      "end": 14.74,
+      "text": "Sentado no meu sofá, pipoca com guaraná"
+    }
+  ],
+  "duracao_seg": 14.81,
+  "idioma_detectado": "pt"
+}

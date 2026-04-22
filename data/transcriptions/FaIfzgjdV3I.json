@@ -1,0 +1,22 @@
+{
+  "texto": "Vamos lá, vamos lá. Vamos lá. Vamos lá.",
+  "segmentos": [
+    {
+      "start": 20.91,
+      "end": 32.93,
+      "text": "Vamos lá, vamos lá."
+    },
+    {
+      "start": 32.93,
+      "end": 56.21,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 56.21,
+      "end": 58.21,
+      "text": "Vamos lá."
+    }
+  ],
+  "duracao_seg": 83.47,
+  "idioma_detectado": "pt"
+}

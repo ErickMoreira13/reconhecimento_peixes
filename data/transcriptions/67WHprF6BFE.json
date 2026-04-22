@@ -1,0 +1,17 @@
+{
+  "texto": "Chama papai, coisa mais linda, coisa mais linda, olha o Alex, vai pra vida meu filho, vai pra vida, olha Chama papai",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.28,
+      "text": "Chama papai, coisa mais linda, coisa mais linda, olha o Alex, vai pra vida meu filho, vai pra vida, olha"
+    },
+    {
+      "start": 7.28,
+      "end": 14.62,
+      "text": "Chama papai"
+    }
+  ],
+  "duracao_seg": 14.75,
+  "idioma_detectado": "pt"
+}

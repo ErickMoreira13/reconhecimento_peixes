@@ -1,0 +1,517 @@
+{
+  "texto": "Bom dia, mano, velho! Mais um dia aqui de pesca. Estamos de caminho aqui lá pra ilha. Mais uma tentativa. Isso aí mais que eu tô fazendo aqui é pra matar a saudade do Jajá aí da ponte do Água Fria. Estamos chegando aqui na ponte agora. O rio Água Fria. Tem o pessoal aqui já dando uma pescada. Rio muito bonito. Vou descer aqui, o Jota vai dar uma paradinha ali no caminhão pra gente ver melhor. Parei um pouquinho. É Jajá. Gosta aí, Jajá. Vou dar uma... Eu vou dar uma invertida aqui agora na câmera pra vocês verem melhor. Pera aí. Vamos lá. Estamos na carroceria do caminhão aqui. Pera aí. Vamos lá pra vocês verem aqui. Ih, Jajá, ó. Se matar a saudade sua aqui do Água Fria. A turminha pescando no rádio. A pontezinha velha tá aí, Jajá. Não sei se é a mesma que você passava nela antigamente. Não, mas... Tá aqui, ó. Os coronas de madeira. Pescando. O rio Lira. Algarfia. O rio, ó. Cantolão. O rio aqui descendo. Tô vendo uns piauzinhos ali que a galera tá pescando, né? Ontem a gente passou aqui pro pessoal tirando uns piauzinhos. Tô bem no meio da ponte agora. Já tem água fria. Estada do Tocantins. Do Tauzona. Tá funcionando com a gente. Lá tá com a minha água que a gente tá viajando nele. Esse pezinho aqui, ó. Pegou ceitinho, hein? Pegou ceitinho. Beleza demais, ó. Já capturado essa manhã aqui. Vamos passar agora aqui dentro do Rio Verdeen. Depois que o Rio Javaé deságua dentro dele. Já vamos passar aqui com o caminhão. Agora o nosso piloto é o Zé. Ai, rapaz. Não, o trem é puro, menino. Vamos passando e vamos chegando. Não, não, não. Vamos passando aqui. Vai que vai o trem, ó. O Zé vai fazendo o ônibus e vamos passando. Já estamos do outro lado, já. E olha aqui já é a parte do Rio Javaé. Vamos aqui do outro lado, já. Vamos ver o meu Deus. O negócio aqui deu uma complicada aqui dentro da ilha. Pra passar aqui o Tucum deu uma atrapalhada. O Zé teve que dar uma quebrada ali pra gente passar. O Zé teve que dar uma quebrada ali pra gente passar. O Zé teve que dar um toco. Uma quebrada de árvore ali, ó. Se o Zé não tira esse facão dessa bainha, ele ficava doido. Tá desde sete horas da manhã com esse facão. Boa tarde, mano, velho. Agora nós arrumamos uma latada aqui violenta, viu? Vou contar um negócio pra vocês. Mano, velho, ele tá no Natal de Mamona aqui dentro da ilha. Não, o trem não dá pra rodar, não. É dez quilômetros, cinco quilômetros. Vai o parceiro ali na frente, ali, ó. Nosso guia ali na caminhonete. Tô pra trás dessa mamona aqui dentro da ilha. Mas misericórdia, meu filho. É poeira. É uma lua ali que não tem tamanho. Olha lá como é que tá a lua. Olha lá a lua, olha lá como é que tá. Calor, poeira, mamona, buraco. O trem não roda, não. O trem não rende, não. O povo ali atrás tá com a bunda com os quadrados, ó. É brinquedão, minha gente. Tá a turma aqui dentro do... Aqui dentro da gabina aqui. Vou mostrar pra vocês, ó. Aqui vai lá na gabina. É o João. É a divina. É o Valdermar. O trem vai, vai, vai, tem. Tchau, obrigado.",
+  "segmentos": [
+    {
+      "start": 1.23,
+      "end": 3.23,
+      "text": "Bom dia, mano, velho!"
+    },
+    {
+      "start": 3.87,
+      "end": 5.93,
+      "text": "Mais um dia aqui de pesca."
+    },
+    {
+      "start": 7.24,
+      "end": 9.18,
+      "text": "Estamos de caminho aqui lá pra ilha."
+    },
+    {
+      "start": 10.1,
+      "end": 11.14,
+      "text": "Mais uma tentativa."
+    },
+    {
+      "start": 12.32,
+      "end": 14.28,
+      "text": "Isso aí mais que eu tô fazendo aqui é pra"
+    },
+    {
+      "start": 14.28,
+      "end": 17.68,
+      "text": "matar a saudade do Jajá aí da ponte do Água Fria."
+    },
+    {
+      "start": 19.05,
+      "end": 20.83,
+      "text": "Estamos chegando aqui na ponte agora."
+    },
+    {
+      "start": 22.26,
+      "end": 23.24,
+      "text": "O rio Água Fria."
+    },
+    {
+      "start": 24.53,
+      "end": 26.75,
+      "text": "Tem o pessoal aqui já dando uma pescada."
+    },
+    {
+      "start": 27.51,
+      "end": 28.53,
+      "text": "Rio muito bonito."
+    },
+    {
+      "start": 29.97,
+      "end": 32.67,
+      "text": "Vou descer aqui, o Jota vai dar uma paradinha ali no caminhão"
+    },
+    {
+      "start": 32.67,
+      "end": 34.31,
+      "text": "pra gente ver melhor."
+    },
+    {
+      "start": 35.03,
+      "end": 35.63,
+      "text": "Parei um pouquinho."
+    },
+    {
+      "start": 36.23,
+      "end": 36.67,
+      "text": "É Jajá."
+    },
+    {
+      "start": 37.77,
+      "end": 38.67,
+      "text": "Gosta aí, Jajá."
+    },
+    {
+      "start": 44.66,
+      "end": 45.98,
+      "text": "Vou dar uma..."
+    },
+    {
+      "start": 45.98,
+      "end": 49.64,
+      "text": "Eu vou dar uma invertida aqui agora na câmera"
+    },
+    {
+      "start": 49.64,
+      "end": 52.32,
+      "text": "pra vocês verem melhor."
+    },
+    {
+      "start": 52.82,
+      "end": 53.12,
+      "text": "Pera aí."
+    },
+    {
+      "start": 53.46,
+      "end": 53.78,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 59.85,
+      "end": 61.97,
+      "text": "Estamos na carroceria do caminhão aqui."
+    },
+    {
+      "start": 63.27,
+      "end": 63.63,
+      "text": "Pera aí."
+    },
+    {
+      "start": 65.5,
+      "end": 66.72,
+      "text": "Vamos lá pra vocês verem aqui."
+    },
+    {
+      "start": 67.14,
+      "end": 67.98,
+      "text": "Ih, Jajá, ó."
+    },
+    {
+      "start": 68.99,
+      "end": 71.29,
+      "text": "Se matar a saudade sua aqui do Água Fria."
+    },
+    {
+      "start": 73.75,
+      "end": 75.85,
+      "text": "A turminha pescando no rádio."
+    },
+    {
+      "start": 75.85,
+      "end": 83.33,
+      "text": "A pontezinha velha tá aí, Jajá."
+    },
+    {
+      "start": 85.34,
+      "end": 87.78,
+      "text": "Não sei se é a mesma que você passava nela antigamente."
+    },
+    {
+      "start": 87.92,
+      "end": 88.42,
+      "text": "Não, mas..."
+    },
+    {
+      "start": 89.12,
+      "end": 89.78,
+      "text": "Tá aqui, ó."
+    },
+    {
+      "start": 91.79,
+      "end": 93.27,
+      "text": "Os coronas de madeira."
+    },
+    {
+      "start": 95.09,
+      "end": 95.65,
+      "text": "Pescando."
+    },
+    {
+      "start": 101.91,
+      "end": 102.47,
+      "text": "O rio Lira."
+    },
+    {
+      "start": 104.63,
+      "end": 105.15,
+      "text": "Algarfia."
+    },
+    {
+      "start": 105.63,
+      "end": 108.46,
+      "text": "O rio, ó."
+    },
+    {
+      "start": 121.24,
+      "end": 121.92,
+      "text": "Cantolão."
+    },
+    {
+      "start": 127.84,
+      "end": 129.08,
+      "text": "O rio aqui descendo."
+    },
+    {
+      "start": 131.82,
+      "end": 134.18,
+      "text": "Tô vendo uns piauzinhos ali que a galera tá pescando, né?"
+    },
+    {
+      "start": 135.2,
+      "end": 136.76,
+      "text": "Ontem a gente passou aqui pro pessoal"
+    },
+    {
+      "start": 136.76,
+      "end": 138.9,
+      "text": "tirando uns piauzinhos."
+    },
+    {
+      "start": 138.9,
+      "end": 144.36,
+      "text": "Tô bem no meio da ponte agora."
+    },
+    {
+      "start": 144.5,
+      "end": 148.05,
+      "text": "Já tem água fria."
+    },
+    {
+      "start": 150.05,
+      "end": 151.35,
+      "text": "Estada do Tocantins."
+    },
+    {
+      "start": 154.18,
+      "end": 155.02,
+      "text": "Do Tauzona."
+    },
+    {
+      "start": 155.12,
+      "end": 156.46,
+      "text": "Tá funcionando com a gente."
+    },
+    {
+      "start": 156.54,
+      "end": 159.44,
+      "text": "Lá tá com a minha água que a gente tá viajando nele."
+    },
+    {
+      "start": 167.14,
+      "end": 168.48,
+      "text": "Esse pezinho aqui, ó."
+    },
+    {
+      "start": 169.8,
+      "end": 170.86,
+      "text": "Pegou ceitinho, hein?"
+    },
+    {
+      "start": 171.4,
+      "end": 182.54,
+      "text": "Pegou ceitinho."
+    },
+    {
+      "start": 184.34,
+      "end": 185.44,
+      "text": "Beleza demais, ó."
+    },
+    {
+      "start": 185.44,
+      "end": 187.32,
+      "text": "Já capturado essa manhã aqui."
+    },
+    {
+      "start": 187.32,
+      "end": 228.37,
+      "text": "Vamos passar agora aqui dentro do Rio Verdeen."
+    },
+    {
+      "start": 229.32,
+      "end": 234.19,
+      "text": "Depois que o Rio Javaé deságua dentro dele."
+    },
+    {
+      "start": 234.29,
+      "end": 235.83,
+      "text": "Já vamos passar aqui com o caminhão."
+    },
+    {
+      "start": 236.77,
+      "end": 238.67,
+      "text": "Agora o nosso piloto é o Zé."
+    },
+    {
+      "start": 240.18,
+      "end": 241.28,
+      "text": "Ai, rapaz."
+    },
+    {
+      "start": 241.38,
+      "end": 242.98,
+      "text": "Não, o trem é puro, menino."
+    },
+    {
+      "start": 244.0,
+      "end": 246.36,
+      "text": "Vamos passando e vamos chegando."
+    },
+    {
+      "start": 246.36,
+      "end": 246.72,
+      "text": "Não, não, não."
+    },
+    {
+      "start": 250.1,
+      "end": 251.78,
+      "text": "Vamos passando aqui."
+    },
+    {
+      "start": 251.88,
+      "end": 253.2,
+      "text": "Vai que vai o trem, ó."
+    },
+    {
+      "start": 253.2,
+      "end": 256.38,
+      "text": "O Zé vai fazendo o ônibus e vamos passando."
+    },
+    {
+      "start": 257.2,
+      "end": 258.68,
+      "text": "Já estamos do outro lado, já."
+    },
+    {
+      "start": 259.9,
+      "end": 262.66,
+      "text": "E olha aqui já é a parte do Rio Javaé."
+    },
+    {
+      "start": 264.72,
+      "end": 266.02,
+      "text": "Vamos aqui do outro lado, já."
+    },
+    {
+      "start": 267.4,
+      "end": 268.18,
+      "text": "Vamos ver o meu Deus."
+    },
+    {
+      "start": 279.49,
+      "end": 282.47,
+      "text": "O negócio aqui deu uma complicada aqui dentro da ilha."
+    },
+    {
+      "start": 283.07,
+      "end": 285.47,
+      "text": "Pra passar aqui o Tucum deu uma atrapalhada."
+    },
+    {
+      "start": 285.55,
+      "end": 288.73,
+      "text": "O Zé teve que dar uma quebrada ali pra gente passar."
+    },
+    {
+      "start": 288.73,
+      "end": 288.81,
+      "text": "O Zé teve que dar uma quebrada ali pra gente passar."
+    },
+    {
+      "start": 289.01,
+      "end": 290.11,
+      "text": "O Zé teve que dar um toco."
+    },
+    {
+      "start": 292.08,
+      "end": 293.62,
+      "text": "Uma quebrada de árvore ali, ó."
+    },
+    {
+      "start": 294.79,
+      "end": 297.19,
+      "text": "Se o Zé não tira esse facão dessa bainha, ele ficava doido."
+    },
+    {
+      "start": 297.19,
+      "end": 299.33,
+      "text": "Tá desde sete horas da manhã com esse facão."
+    },
+    {
+      "start": 315.14,
+      "end": 316.64,
+      "text": "Boa tarde, mano, velho."
+    },
+    {
+      "start": 317.82,
+      "end": 320.6,
+      "text": "Agora nós arrumamos uma latada aqui violenta, viu?"
+    },
+    {
+      "start": 321.14,
+      "end": 322.48,
+      "text": "Vou contar um negócio pra vocês."
+    },
+    {
+      "start": 323.48,
+      "end": 326.98,
+      "text": "Mano, velho, ele tá no Natal de Mamona aqui dentro da ilha."
+    },
+    {
+      "start": 326.98,
+      "end": 329.1,
+      "text": "Não, o trem não dá pra rodar, não."
+    },
+    {
+      "start": 329.74,
+      "end": 332.32,
+      "text": "É dez quilômetros, cinco quilômetros."
+    },
+    {
+      "start": 333.02,
+      "end": 335.66,
+      "text": "Vai o parceiro ali na frente, ali, ó."
+    },
+    {
+      "start": 336.28,
+      "end": 338.02,
+      "text": "Nosso guia ali na caminhonete."
+    },
+    {
+      "start": 338.86,
+      "end": 340.94,
+      "text": "Tô pra trás dessa mamona aqui dentro da ilha."
+    },
+    {
+      "start": 341.02,
+      "end": 342.16,
+      "text": "Mas misericórdia, meu filho."
+    },
+    {
+      "start": 342.24,
+      "end": 343.06,
+      "text": "É poeira."
+    },
+    {
+      "start": 343.94,
+      "end": 345.66,
+      "text": "É uma lua ali que não tem tamanho."
+    },
+    {
+      "start": 345.78,
+      "end": 346.72,
+      "text": "Olha lá como é que tá a lua."
+    },
+    {
+      "start": 347.16,
+      "end": 348.84,
+      "text": "Olha lá a lua, olha lá como é que tá."
+    },
+    {
+      "start": 348.84,
+      "end": 353.8,
+      "text": "Calor, poeira, mamona, buraco."
+    },
+    {
+      "start": 354.5,
+      "end": 355.38,
+      "text": "O trem não roda, não."
+    },
+    {
+      "start": 355.44,
+      "end": 356.32,
+      "text": "O trem não rende, não."
+    },
+    {
+      "start": 357.54,
+      "end": 360.14,
+      "text": "O povo ali atrás tá com a bunda com os quadrados, ó."
+    },
+    {
+      "start": 362.84,
+      "end": 364.86,
+      "text": "É brinquedão, minha gente."
+    },
+    {
+      "start": 365.67,
+      "end": 367.43,
+      "text": "Tá a turma aqui dentro do..."
+    },
+    {
+      "start": 367.43,
+      "end": 368.77,
+      "text": "Aqui dentro da gabina aqui."
+    },
+    {
+      "start": 368.85,
+      "end": 369.75,
+      "text": "Vou mostrar pra vocês, ó."
+    },
+    {
+      "start": 370.41,
+      "end": 371.49,
+      "text": "Aqui vai lá na gabina."
+    },
+    {
+      "start": 373.05,
+      "end": 373.63,
+      "text": "É o João."
+    },
+    {
+      "start": 374.17,
+      "end": 375.92,
+      "text": "É a divina."
+    },
+    {
+      "start": 376.79,
+      "end": 377.67,
+      "text": "É o Valdermar."
+    },
+    {
+      "start": 377.67,
+      "end": 379.73,
+      "text": "O trem vai, vai, vai, tem."
+    },
+    {
+      "start": 380.53,
+      "end": 381.39,
+      "text": "Tchau, obrigado."
+    }
+  ],
+  "duracao_seg": 422.71,
+  "idioma_detectado": "pt"
+}

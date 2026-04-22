@@ -1,0 +1,47 @@
+{
+  "texto": "Ó, ó, ó, ó, ó, isso vai dar, isso vai dar treta. Meu pai tinha preparado uma balada de bambu pra pescar com isca natural, pedacinho de peixe. Vou pegar e fazer uma pescaria de barranco mesmo, aqui em volta da pousada. Pegou! Aí, ó, ó, ó, essa daqui escorrega, hein, ó, essa daqui é filhote, e muito maiores, eita! Nossa, vocês viram como ela pegou? Ó, ó, isso vai dar, isso vai dar treta. Aí, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "Ó, ó, ó, ó, ó, isso vai dar, isso vai dar treta."
+    },
+    {
+      "start": 4.1,
+      "end": 9.68,
+      "text": "Meu pai tinha preparado uma balada de bambu pra pescar com isca natural, pedacinho de peixe."
+    },
+    {
+      "start": 10.34,
+      "end": 14.84,
+      "text": "Vou pegar e fazer uma pescaria de barranco mesmo, aqui em volta da pousada."
+    },
+    {
+      "start": 15.94,
+      "end": 16.5,
+      "text": "Pegou!"
+    },
+    {
+      "start": 20.61,
+      "end": 39.54,
+      "text": "Aí, ó, ó, ó, essa daqui escorrega, hein, ó, essa daqui é filhote, e muito maiores, eita!"
+    },
+    {
+      "start": 39.54,
+      "end": 49.32,
+      "text": "Nossa, vocês viram como ela pegou?"
+    },
+    {
+      "start": 49.68,
+      "end": 52.28,
+      "text": "Ó, ó, isso vai dar, isso vai dar treta."
+    },
+    {
+      "start": 53.61,
+      "end": 53.95,
+      "text": "Aí, ó."
+    }
+  ],
+  "duracao_seg": 54.87,
+  "idioma_detectado": "pt"
+}

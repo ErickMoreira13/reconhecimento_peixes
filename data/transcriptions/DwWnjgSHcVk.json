@@ -1,0 +1,37 @@
+{
+  "texto": "Guarda-peito e um cinturão reforçado Chapéu de couro de gado e um par de luva bem feito Sapato do bico estreito e um espora niquelada Corda de fazer laçada pra laçar boi mandingueiro Falta um boi vaqueiro no meio dessa boiada Falta um boi vaqueiro",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 3.1,
+      "text": "Guarda-peito e um cinturão reforçado"
+    },
+    {
+      "start": 3.1,
+      "end": 5.82,
+      "text": "Chapéu de couro de gado e um par de luva bem feito"
+    },
+    {
+      "start": 5.82,
+      "end": 8.84,
+      "text": "Sapato do bico estreito e um espora niquelada"
+    },
+    {
+      "start": 8.84,
+      "end": 12.04,
+      "text": "Corda de fazer laçada pra laçar boi mandingueiro"
+    },
+    {
+      "start": 12.04,
+      "end": 15.02,
+      "text": "Falta um boi vaqueiro no meio dessa boiada"
+    },
+    {
+      "start": 15.02,
+      "end": 16.06,
+      "text": "Falta um boi vaqueiro"
+    }
+  ],
+  "duracao_seg": 21.03,
+  "idioma_detectado": "pt"
+}

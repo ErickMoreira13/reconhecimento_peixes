@@ -1,0 +1,77 @@
+{
+  "texto": "A maior ilha fluvial do mundo é a Ilha do Bananal. Situada no estado do Tocantins, o seu território é cercado pelo rio Araguaia e o rio Javaés. Ela tem uma área de aproximadamente 20 mil quilômetros quadrados. A ilha abriga o Parque Nacional do Araguaia e é também uma terras indígena, lar das comunidades Carajá e Javaé. É um local de rica biodiversidade e um grande berçário natural de peixes. Os municípios de Formoso do Araguaia, Lagoa da Confusão e Piúm dividem a ilha. É comum haver confusão entre a Ilha do Bananal e a Ilha do Marajó, no Pará. A Marajó, com cerca de 40 mil e 100 quilômetros quadrados, é frequentemente citada como a maior ilha flúvio-marinha do mundo, pois é cercada tanto por água doce do rio Amazonas e do rio Pará, quanto pela água salgada do Oceano Atlântico. Já a Ilha do Bananal é estritamente fluvial, cercada apenas por água doce, o que a consolida como a maior ilha fluvial do mundo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.14,
+      "text": "A maior ilha fluvial do mundo é a Ilha do Bananal."
+    },
+    {
+      "start": 3.7,
+      "end": 9.84,
+      "text": "Situada no estado do Tocantins, o seu território é cercado pelo rio Araguaia e o rio Javaés."
+    },
+    {
+      "start": 10.38,
+      "end": 14.22,
+      "text": "Ela tem uma área de aproximadamente 20 mil quilômetros quadrados."
+    },
+    {
+      "start": 14.8,
+      "end": 19.94,
+      "text": "A ilha abriga o Parque Nacional do Araguaia e é também uma terras indígena,"
+    },
+    {
+      "start": 20.08,
+      "end": 22.62,
+      "text": "lar das comunidades Carajá e Javaé."
+    },
+    {
+      "start": 23.18,
+      "end": 27.9,
+      "text": "É um local de rica biodiversidade e um grande berçário natural de peixes."
+    },
+    {
+      "start": 27.9,
+      "end": 34.14,
+      "text": "Os municípios de Formoso do Araguaia, Lagoa da Confusão e Piúm dividem a ilha."
+    },
+    {
+      "start": 34.6,
+      "end": 39.78,
+      "text": "É comum haver confusão entre a Ilha do Bananal e a Ilha do Marajó, no Pará."
+    },
+    {
+      "start": 40.34,
+      "end": 44.34,
+      "text": "A Marajó, com cerca de 40 mil e 100 quilômetros quadrados,"
+    },
+    {
+      "start": 44.74,
+      "end": 48.68,
+      "text": "é frequentemente citada como a maior ilha flúvio-marinha do mundo,"
+    },
+    {
+      "start": 49.16,
+      "end": 53.12,
+      "text": "pois é cercada tanto por água doce do rio Amazonas e do rio Pará,"
+    },
+    {
+      "start": 53.52,
+      "end": 56.16,
+      "text": "quanto pela água salgada do Oceano Atlântico."
+    },
+    {
+      "start": 56.16,
+      "end": 62.36,
+      "text": "Já a Ilha do Bananal é estritamente fluvial, cercada apenas por água doce,"
+    },
+    {
+      "start": 62.72,
+      "end": 65.7,
+      "text": "o que a consolida como a maior ilha fluvial do mundo."
+    }
+  ],
+  "duracao_seg": 66.13,
+  "idioma_detectado": "pt"
+}
