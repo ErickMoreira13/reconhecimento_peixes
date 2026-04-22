@@ -1,0 +1,17 @@
+{
+  "texto": "O pescador briga pela sua vida com o caboclo d'água. Veja isso.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "O pescador briga pela sua vida com o caboclo d'água."
+    },
+    {
+      "start": 3.96,
+      "end": 4.62,
+      "text": "Veja isso."
+    }
+  ],
+  "duracao_seg": 50.63,
+  "idioma_detectado": "pt"
+}

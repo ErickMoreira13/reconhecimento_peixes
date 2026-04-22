@@ -1,0 +1,42 @@
+{
+  "texto": "aqui é do canal Paulo Pescador Amador, na tua região, qual que é o nome desse peixe? Aqui na minha região esse peixe se chama jejum, e a gente usa ele para pescaria de caixara, pintado, peixe de couro. Mas o dourado também gosta dele. Eu estou pescando aqui hoje numa corredeira, na verdade não é uma corredeira, é uma pedreira, Rio Miranda, um lugar gostoso, lugar preservado, uma delícia aqui. Hoje estou usando essa risca de jejum, tá? Na sua região, como que você usa esse peixe?",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 8.46,
+      "text": "aqui é do canal Paulo Pescador Amador, na tua região, qual que é o nome desse peixe?"
+    },
+    {
+      "start": 10.05,
+      "end": 21.28,
+      "text": "Aqui na minha região esse peixe se chama jejum, e a gente usa ele para pescaria de caixara, pintado, peixe de couro."
+    },
+    {
+      "start": 22.27,
+      "end": 23.89,
+      "text": "Mas o dourado também gosta dele."
+    },
+    {
+      "start": 23.89,
+      "end": 34.85,
+      "text": "Eu estou pescando aqui hoje numa corredeira, na verdade não é uma corredeira, é uma pedreira, Rio Miranda,"
+    },
+    {
+      "start": 34.85,
+      "end": 45.08,
+      "text": "um lugar gostoso, lugar preservado, uma delícia aqui."
+    },
+    {
+      "start": 46.49,
+      "end": 50.91,
+      "text": "Hoje estou usando essa risca de jejum, tá?"
+    },
+    {
+      "start": 53.37,
+      "end": 55.95,
+      "text": "Na sua região, como que você usa esse peixe?"
+    }
+  ],
+  "duracao_seg": 56.11,
+  "idioma_detectado": "pt"
+}

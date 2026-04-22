@@ -1,0 +1,27 @@
+{
+  "texto": "Foguei a tarrafa na água, vi um sol Foi minha surpresa quase Coração disparou Papo cheio pra ser somente",
+  "segmentos": [
+    {
+      "start": 18.06,
+      "end": 21.98,
+      "text": "Foguei a tarrafa na água, vi um sol"
+    },
+    {
+      "start": 21.98,
+      "end": 30.52,
+      "text": "Foi minha surpresa quase"
+    },
+    {
+      "start": 30.52,
+      "end": 37.88,
+      "text": "Coração disparou"
+    },
+    {
+      "start": 37.88,
+      "end": 43.86,
+      "text": "Papo cheio pra ser somente"
+    }
+  ],
+  "duracao_seg": 227.15,
+  "idioma_detectado": "pt"
+}

@@ -170,3 +170,9 @@
 {"ts":"2026-04-22T00:19:41-04:00","ciclo":3,"contagem":{"baixado": 225, "extraido": 6, "falhou": 983, "pendente": 2991, "transcrito": 5753, "verificado": 46}}
 {"ts":"2026-04-22T00:44:47-04:00","ciclo":4,"contagem":{"baixado": 175, "extraido": 6, "falhou": 983, "pendente": 2991, "transcrito": 5803, "verificado": 46}}
 {"ts":"2026-04-22T01:20:20-04:00","ciclo":5,"contagem":{"baixado": 125, "extraido": 6, "falhou": 983, "pendente": 2991, "transcrito": 5853, "verificado": 46}}
+{"ts":"2026-04-22T02:01:09-04:00","ciclo":6,"contagem":{"baixado": 85, "extraido": 6, "falhou": 983, "pendente": 2991, "transcrito": 5893, "verificado": 46}}
+{"ts":"2026-04-22T02:41:58-04:00","ciclo":7,"contagem":{"baixado": 85, "extraido": 6, "falhou": 983, "pendente": 2991, "transcrito": 5893, "verificado": 46}}
+{"ts":"2026-04-22T04:13:31-04:00","ciclo":1,"contagem":{"baixado": 83, "extraido": 6, "falhou": 983, "pendente": 2991, "transcrito": 5895, "verificado": 46}}
+{"ts":"2026-04-22T04:54:40-04:00","ciclo":1,"contagem":{"baixado": 33, "extraido": 6, "falhou": 985, "pendente": 2991, "transcrito": 5943, "verificado": 46}}
+{"ts":"2026-04-22T05:14:54-04:00","ciclo":2,"contagem":{"extraido": 6, "falhou": 985, "pendente": 2991, "transcrito": 5976, "verificado": 46}}
+{"ts":"2026-04-22T05:25:47-04:00","ciclo":3,"contagem":{"extraido": 6, "falhou": 985, "pendente": 2991, "transcrito": 5976, "verificado": 46}}

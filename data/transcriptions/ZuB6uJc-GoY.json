@@ -1,0 +1,37 @@
+{
+  "texto": "Mais uma, vai ser pesado, hein? Eita, Lula grande aí. Eita! Olha o tamanho da Lula, cara. Pelo amor de Deus. Só canudão aí, isso aí, galera.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "Mais uma, vai ser pesado, hein?"
+    },
+    {
+      "start": 4.02,
+      "end": 5.26,
+      "text": "Eita, Lula grande aí."
+    },
+    {
+      "start": 6.64,
+      "end": 7.08,
+      "text": "Eita!"
+    },
+    {
+      "start": 8.72,
+      "end": 10.16,
+      "text": "Olha o tamanho da Lula, cara."
+    },
+    {
+      "start": 10.24,
+      "end": 11.36,
+      "text": "Pelo amor de Deus."
+    },
+    {
+      "start": 12.48,
+      "end": 13.84,
+      "text": "Só canudão aí, isso aí, galera."
+    }
+  ],
+  "duracao_seg": 14.51,
+  "idioma_detectado": "pt"
+}

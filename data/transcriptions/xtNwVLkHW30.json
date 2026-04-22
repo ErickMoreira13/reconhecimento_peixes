@@ -1,0 +1,97 @@
+{
+  "texto": "Deus, eu dei um balanço no mar Deus, eu dei um balanço no mar Eu sou marinheiro de Manjá Agora apitou o navio É que a bar está toda tomada Agora apitou o navio Toda tomada Quem me chama O mar chegou, o saravá O mar chegou Também sou remador A ponta da minha espada A mares e a molho A ponta da minha espada A mares e a molho Também sou remador A ponta da minha espada A mares e a molho",
+  "segmentos": [
+    {
+      "start": 17.71,
+      "end": 26.58,
+      "text": "Deus, eu dei um balanço no mar"
+    },
+    {
+      "start": 26.58,
+      "end": 603.56,
+      "text": "Deus, eu dei um balanço no mar"
+    },
+    {
+      "start": 603.56,
+      "end": 800.19,
+      "text": "Eu sou marinheiro de Manjá"
+    },
+    {
+      "start": 800.19,
+      "end": 817.58,
+      "text": "Agora apitou o navio"
+    },
+    {
+      "start": 817.58,
+      "end": 831.16,
+      "text": "É que a bar está toda tomada"
+    },
+    {
+      "start": 831.16,
+      "end": 839.57,
+      "text": "Agora apitou o navio"
+    },
+    {
+      "start": 839.57,
+      "end": 890.48,
+      "text": "Toda tomada"
+    },
+    {
+      "start": 890.48,
+      "end": 1023.97,
+      "text": "Quem me chama"
+    },
+    {
+      "start": 1023.97,
+      "end": 1446.17,
+      "text": "O mar chegou, o saravá"
+    },
+    {
+      "start": 1446.17,
+      "end": 1450.02,
+      "text": "O mar chegou"
+    },
+    {
+      "start": 1450.02,
+      "end": 1638.19,
+      "text": "Também sou remador"
+    },
+    {
+      "start": 1638.19,
+      "end": 1642.92,
+      "text": "A ponta da minha espada"
+    },
+    {
+      "start": 1642.92,
+      "end": 1646.5,
+      "text": "A mares e a molho"
+    },
+    {
+      "start": 1646.5,
+      "end": 1650.91,
+      "text": "A ponta da minha espada"
+    },
+    {
+      "start": 1650.91,
+      "end": 1653.71,
+      "text": "A mares e a molho"
+    },
+    {
+      "start": 1653.71,
+      "end": 1661.5,
+      "text": "Também sou remador"
+    },
+    {
+      "start": 1661.5,
+      "end": 1663.5,
+      "text": "A ponta da minha espada"
+    },
+    {
+      "start": 1663.5,
+      "end": 1665.5,
+      "text": "A mares e a molho"
+    }
+  ],
+  "duracao_seg": 1820.21,
+  "idioma_detectado": "pt"
+}

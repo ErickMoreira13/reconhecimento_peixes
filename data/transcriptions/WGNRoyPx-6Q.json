@@ -1,0 +1,62 @@
+{
+  "texto": "Naquela noite, o rio estava mais silencioso do que nunca, como se até a água temesse o que se escondia em suas profundezas. Quando a canoa de João começou a balançar sozinha, ele soube que havia cometido um erro terrível. Todos o avisavam sobre o caboclo d'água, mas ele ria das histórias, chamando-as de superstição. João entrou na canoa e partiu rio adentro, sem oferendas e sem medo. De repente, um cheiro forte de peixe podre encheu o ar, e a água ao redor da canoa começou a borbulhar. No meio das bolhas, uma figura emergiu lentamente. Era o caboclo d'água. Você desrespeitou o rio, João. E agora ele vai te levar. Desesperado, João tentou remar para longe, mas a canoa foi virada com um movimento brusco. Suas pernas foram agarradas por mãos frias e implacáveis.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.76,
+      "text": "Naquela noite, o rio estava mais silencioso do que nunca, como se até a água temesse o que se escondia em suas profundezas."
+    },
+    {
+      "start": 9.56,
+      "end": 15.68,
+      "text": "Quando a canoa de João começou a balançar sozinha, ele soube que havia cometido um erro terrível."
+    },
+    {
+      "start": 16.28,
+      "end": 23.12,
+      "text": "Todos o avisavam sobre o caboclo d'água, mas ele ria das histórias, chamando-as de superstição."
+    },
+    {
+      "start": 23.9,
+      "end": 28.7,
+      "text": "João entrou na canoa e partiu rio adentro, sem oferendas e sem medo."
+    },
+    {
+      "start": 28.7,
+      "end": 36.56,
+      "text": "De repente, um cheiro forte de peixe podre encheu o ar, e a água ao redor da canoa começou a borbulhar."
+    },
+    {
+      "start": 37.41,
+      "end": 41.15,
+      "text": "No meio das bolhas, uma figura emergiu lentamente."
+    },
+    {
+      "start": 41.75,
+      "end": 43.69,
+      "text": "Era o caboclo d'água."
+    },
+    {
+      "start": 43.89,
+      "end": 45.77,
+      "text": "Você desrespeitou o rio, João."
+    },
+    {
+      "start": 46.55,
+      "end": 48.37,
+      "text": "E agora ele vai te levar."
+    },
+    {
+      "start": 49.37,
+      "end": 55.33,
+      "text": "Desesperado, João tentou remar para longe, mas a canoa foi virada com um movimento brusco."
+    },
+    {
+      "start": 55.33,
+      "end": 59.53,
+      "text": "Suas pernas foram agarradas por mãos frias e implacáveis."
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}
