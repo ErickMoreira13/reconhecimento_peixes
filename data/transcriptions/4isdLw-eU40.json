@@ -1,0 +1,17 @@
+{
+  "texto": "Aproveitar aqui a maré e o Paratigat. E eu vou levar para comer. Bom tamanho do Paratigat. É uma boa Paratigat.",
+  "segmentos": [
+    {
+      "start": 1.14,
+      "end": 12.46,
+      "text": "Aproveitar aqui a maré e o Paratigat. E eu vou levar para comer. Bom tamanho do Paratigat."
+    },
+    {
+      "start": 12.46,
+      "end": 16.58,
+      "text": "É uma boa Paratigat."
+    }
+  ],
+  "duracao_seg": 16.29,
+  "idioma_detectado": "pt"
+}

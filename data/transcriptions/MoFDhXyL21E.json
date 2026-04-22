@@ -1,0 +1,32 @@
+{
+  "texto": "aí pessoal saiu o primeiro ó apalharizinho peguei outro pessoal outra apalharizinho aí pessoal saiu o primeiro amarelinho saiu o primeiro amarelo aí pessoal esse aqui é pequeno vamos mandar para a vida aí pessoal que saiu aí ó não é isso que eu vivo hein piauzão vamos mandar para a vida pessoal peguei um peguei um pessoal e é bom apalharizinho é isso não é uma ideia para a vida não",
+  "segmentos": [
+    {
+      "start": 33.97,
+      "end": 166.52,
+      "text": "aí pessoal saiu o primeiro ó apalharizinho peguei outro pessoal outra apalharizinho"
+    },
+    {
+      "start": 166.52,
+      "end": 433.25,
+      "text": "aí pessoal saiu o primeiro amarelinho saiu o primeiro amarelo aí pessoal esse aqui é pequeno"
+    },
+    {
+      "start": 433.25,
+      "end": 512.66,
+      "text": "vamos mandar para a vida aí pessoal que saiu aí ó não é isso que eu vivo hein piauzão"
+    },
+    {
+      "start": 542.19,
+      "end": 652.6,
+      "text": "vamos mandar para a vida pessoal peguei um peguei um pessoal e é bom apalharizinho"
+    },
+    {
+      "start": 652.6,
+      "end": 658.82,
+      "text": "é isso não é uma ideia para a vida não"
+    }
+  ],
+  "duracao_seg": 706.21,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Começar mais um dia aqui de pescaria galera aí, o Leandrão vai mergulhar com nós aí, vamos lá ver o que que sai hoje né, o que que nós vamos almoçar né. Patalho, aí agora sim, pra aprender aí ó, troço de corposo né, com o lombrigo de gás, só sal, me deixa, entra o sal né, o lombrigo de tempero né, um bandinho pra casa e tá bom né. Ó, você já pega aqui ó, ó, é isso aí, se você parar a gueira assim ó, aí tá beleza, parou a gueira aqui abaixo tá. Carainha fresquinho, assadinha massa ouro, top hein, uma saladinha arroz branco, não precisa mais nada. Carainha fresquinho, assadinha massa ouro, top hein, uma saladinha arroz branco, não precisa mais nada.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 320.75,
+      "text": "Começar mais um dia aqui de pescaria galera aí, o Leandrão vai mergulhar com nós aí, vamos lá ver o que que sai hoje né, o que que nós vamos almoçar né."
+    },
+    {
+      "start": 320.75,
+      "end": 743.58,
+      "text": "Patalho, aí agora sim, pra aprender aí ó, troço de corposo né, com o lombrigo de gás, só sal, me deixa, entra o sal né, o lombrigo de tempero né, um bandinho pra casa e tá bom né."
+    },
+    {
+      "start": 743.58,
+      "end": 807.64,
+      "text": "Ó, você já pega aqui ó, ó, é isso aí, se você parar a gueira assim ó, aí tá beleza, parou a gueira aqui abaixo tá."
+    },
+    {
+      "start": 807.64,
+      "end": 833.78,
+      "text": "Carainha fresquinho, assadinha massa ouro, top hein, uma saladinha arroz branco, não precisa mais nada."
+    },
+    {
+      "start": 833.78,
+      "end": 847.28,
+      "text": "Carainha fresquinho, assadinha massa ouro, top hein, uma saladinha arroz branco, não precisa mais nada."
+    }
+  ],
+  "duracao_seg": 859.25,
+  "idioma_detectado": "pt"
+}

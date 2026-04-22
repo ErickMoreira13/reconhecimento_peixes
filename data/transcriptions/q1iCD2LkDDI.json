@@ -1,0 +1,42 @@
+{
+  "texto": "Você sabia que aqui em Lajeado, Tocantins, nós temos vários pontos turísticos? Aqui é o Viva a Vida! Aqui é o professor Carlos Ribeiro. Para você saber informações sobre o nosso Tocantins, clique aqui no canal Estudantes Ação. Clique em Turistando pelo Tocantins, pontos turísticos. Os nossos estudantes têm várias informações para passar para vocês, beleza? Valeu, grande abraço, tamo junto e vamos para cima!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.18,
+      "text": "Você sabia que aqui em Lajeado, Tocantins, nós temos vários pontos turísticos?"
+    },
+    {
+      "start": 5.84,
+      "end": 7.94,
+      "text": "Aqui é o Viva a Vida!"
+    },
+    {
+      "start": 9.18,
+      "end": 10.96,
+      "text": "Aqui é o professor Carlos Ribeiro."
+    },
+    {
+      "start": 11.5,
+      "end": 16.92,
+      "text": "Para você saber informações sobre o nosso Tocantins, clique aqui no canal Estudantes Ação."
+    },
+    {
+      "start": 17.7,
+      "end": 21.3,
+      "text": "Clique em Turistando pelo Tocantins, pontos turísticos."
+    },
+    {
+      "start": 21.82,
+      "end": 25.82,
+      "text": "Os nossos estudantes têm várias informações para passar para vocês, beleza?"
+    },
+    {
+      "start": 25.82,
+      "end": 30.32,
+      "text": "Valeu, grande abraço, tamo junto e vamos para cima!"
+    }
+  ],
+  "duracao_seg": 30.79,
+  "idioma_detectado": "pt"
+}

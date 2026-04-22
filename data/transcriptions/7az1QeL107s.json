@@ -1,0 +1,117 @@
+{
+  "texto": "Fala meu povo, tudo tranquilo? Dá uma olhada no tamanho da nave O tamanho, o tamanho Traírãozinho aqui na barragem 4, meu povo É, rapaz do céu Na esquinha, ó Fica perto aqui, ó A esquinha do Fábio Baca Um pop-it Show de bola, show de bola Rapaz, um pop-erzinho, ó Cê tá doido Olha o tamanho da criança Olha o tamanho Comigo, galera Fazer a soltura aqui, ó Do Trairão Ó, dá uma olhadinha Oita É, bicho bravo Cê tá doido Show de bola",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 2.5,
+      "text": "Fala meu povo, tudo tranquilo?"
+    },
+    {
+      "start": 2.94,
+      "end": 5.42,
+      "text": "Dá uma olhada no tamanho da nave"
+    },
+    {
+      "start": 5.42,
+      "end": 8.1,
+      "text": "O tamanho, o tamanho"
+    },
+    {
+      "start": 8.1,
+      "end": 12.3,
+      "text": "Traírãozinho aqui na barragem 4, meu povo"
+    },
+    {
+      "start": 12.3,
+      "end": 13.88,
+      "text": "É, rapaz do céu"
+    },
+    {
+      "start": 13.88,
+      "end": 15.1,
+      "text": "Na esquinha, ó"
+    },
+    {
+      "start": 15.1,
+      "end": 16.28,
+      "text": "Fica perto aqui, ó"
+    },
+    {
+      "start": 16.28,
+      "end": 17.92,
+      "text": "A esquinha do Fábio Baca"
+    },
+    {
+      "start": 17.92,
+      "end": 19.44,
+      "text": "Um pop-it"
+    },
+    {
+      "start": 19.44,
+      "end": 22.46,
+      "text": "Show de bola, show de bola"
+    },
+    {
+      "start": 22.46,
+      "end": 26.34,
+      "text": "Rapaz, um pop-erzinho, ó"
+    },
+    {
+      "start": 26.34,
+      "end": 28.15,
+      "text": "Cê tá doido"
+    },
+    {
+      "start": 28.15,
+      "end": 29.73,
+      "text": "Olha o tamanho da criança"
+    },
+    {
+      "start": 29.73,
+      "end": 30.97,
+      "text": "Olha o tamanho"
+    },
+    {
+      "start": 30.97,
+      "end": 32.44,
+      "text": "Comigo, galera"
+    },
+    {
+      "start": 32.44,
+      "end": 34.49,
+      "text": "Fazer a soltura aqui, ó"
+    },
+    {
+      "start": 34.49,
+      "end": 35.35,
+      "text": "Do Trairão"
+    },
+    {
+      "start": 35.35,
+      "end": 37.99,
+      "text": "Ó, dá uma olhadinha"
+    },
+    {
+      "start": 37.99,
+      "end": 40.27,
+      "text": "Oita"
+    },
+    {
+      "start": 40.27,
+      "end": 42.35,
+      "text": "É, bicho bravo"
+    },
+    {
+      "start": 42.35,
+      "end": 44.07,
+      "text": "Cê tá doido"
+    },
+    {
+      "start": 44.07,
+      "end": 45.33,
+      "text": "Show de bola"
+    }
+  ],
+  "duracao_seg": 53.11,
+  "idioma_detectado": "pt"
+}

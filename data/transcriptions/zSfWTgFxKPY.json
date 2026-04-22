@@ -1,0 +1,37 @@
+{
+  "texto": "Não tô vendo nada. Eu vou passar quase. Hã? Passar quase. Ah, que fofo. Ó, tô doido.",
+  "segmentos": [
+    {
+      "start": 2.06,
+      "end": 3.2,
+      "text": "Não tô vendo nada."
+    },
+    {
+      "start": 17.08,
+      "end": 18.12,
+      "text": "Eu vou passar quase."
+    },
+    {
+      "start": 19.26,
+      "end": 19.5,
+      "text": "Hã?"
+    },
+    {
+      "start": 19.72,
+      "end": 20.42,
+      "text": "Passar quase."
+    },
+    {
+      "start": 21.32,
+      "end": 22.16,
+      "text": "Ah, que fofo."
+    },
+    {
+      "start": 22.78,
+      "end": 23.94,
+      "text": "Ó, tô doido."
+    }
+  ],
+  "duracao_seg": 26.69,
+  "idioma_detectado": "pt"
+}

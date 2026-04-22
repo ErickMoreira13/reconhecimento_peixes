@@ -1,0 +1,17 @@
+{
+  "texto": "Nosso carro de boi conservado Quatro jovens",
+  "segmentos": [
+    {
+      "start": 15.34,
+      "end": 18.1,
+      "text": "Nosso carro de boi conservado"
+    },
+    {
+      "start": 18.1,
+      "end": 19.28,
+      "text": "Quatro jovens"
+    }
+  ],
+  "duracao_seg": 19.27,
+  "idioma_detectado": "pt"
+}

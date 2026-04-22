@@ -1,0 +1,42 @@
+{
+  "texto": "na estrada da Huawei 150, você vai ver essa placa Porto Praia, logo aqui na frente vai estar a entrada do lugar onde que eu estou vindo, que é na estrada da Huawei 150, muro branco, escrito aqui ó, número 150, fez aqui na represa, aí você pode entrar tranquilo, que o portão sempre está aberto aqui, das 6 horas da manhã até às 17 horas, a ruinha aqui é bem tranquila, pode entrar tranquilo, qualquer carro entra aqui fácil, aí é hora que chegar lá, a gente mostra as coisas pra vocês lá, mais um lambari, vai ser uma tilapinha, pequenininha, volta pra vida, tá crescendo, tá crescendo, um grandalo, ó, já com o dabitelão, carazinho, lapinha pequenininha, vida, lambari, fez um carazinho, lambari,",
+  "segmentos": [
+    {
+      "start": 42.0,
+      "end": 50.45,
+      "text": "na estrada da Huawei 150, você vai ver essa placa Porto Praia, logo aqui na frente vai estar a entrada"
+    },
+    {
+      "start": 50.45,
+      "end": 61.47,
+      "text": "do lugar onde que eu estou vindo, que é na estrada da Huawei 150, muro branco, escrito aqui ó, número 150,"
+    },
+    {
+      "start": 61.47,
+      "end": 68.34,
+      "text": "fez aqui na represa, aí você pode entrar tranquilo, que o portão sempre está aberto aqui, das 6 horas da"
+    },
+    {
+      "start": 68.34,
+      "end": 76.27,
+      "text": "manhã até às 17 horas, a ruinha aqui é bem tranquila, pode entrar tranquilo, qualquer carro entra aqui fácil,"
+    },
+    {
+      "start": 76.27,
+      "end": 231.05,
+      "text": "aí é hora que chegar lá, a gente mostra as coisas pra vocês lá, mais um lambari, vai ser uma tilapinha, pequenininha,"
+    },
+    {
+      "start": 231.05,
+      "end": 449.2,
+      "text": "volta pra vida, tá crescendo, tá crescendo, um grandalo, ó, já com o dabitelão, carazinho, lapinha pequenininha,"
+    },
+    {
+      "start": 449.2,
+      "end": 521.9,
+      "text": "vida, lambari, fez um carazinho, lambari,"
+    }
+  ],
+  "duracao_seg": 671.09,
+  "idioma_detectado": "pt"
+}

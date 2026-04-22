@@ -1,0 +1,27 @@
+{
+  "texto": "Os que confiam no Deus são como os montes de Sião Os já difícil vem, mas eles não se avalarão O tempo tá ruim, tudo tá horrível Deus não disse que era fácil, só que era",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 4.68,
+      "text": "Os que confiam no Deus são como os montes de Sião"
+    },
+    {
+      "start": 4.68,
+      "end": 8.08,
+      "text": "Os já difícil vem, mas eles não se avalarão"
+    },
+    {
+      "start": 8.08,
+      "end": 11.26,
+      "text": "O tempo tá ruim, tudo tá horrível"
+    },
+    {
+      "start": 11.26,
+      "end": 13.48,
+      "text": "Deus não disse que era fácil, só que era"
+    }
+  ],
+  "duracao_seg": 13.51,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,777 @@
+{
+  "texto": "Pera aí, não chega não, chega não que ele tá na árvore Pera aí, segura ele aí Você me ajudou agora, velho Taca tá aberto aqui Moço de Deus, ele pegou Ele pegou Ele pegou em cima do caiaque, moço Que pegada mais chique, cara Que trem maluco Adivinha qual risco Ah, mega beça Eu falei pra você Moço, ele pegou chique demais Nossa, se a câmera estivesse Filmando, moço Que porrada Foi aí, eu tava tirando a isca, rapaz Barranca ali Vai fazer a filmagem dele Nossa, eu acho aquele escapaco Ele pegou numa garatainha só Passar agora, não tem grilão, depois, né Tá aí? Então, melhor ainda Mas não faz mal perder, não, doido Isso aí acontece Nem eu, rapaz, ele veio do fundo, rapaz Que loucura de peixe Que loucura Ele subiu bonito demais Aguenta aí, bichinho Gui louca de oi desse peixe Dia 18 Do 12 de 2020 Primeiro torneio virtual Gigantes do Lago Em caiaque Vamos fazer a medida do peixe aqui, ó Vou olhar a régua Por aqui, né A senha é Cayaqueiro, pesca e campo Cayaqueiro, pesca e campo É, ó, na régua Quarenta e cinco Quarenta e cinco e meio Quarenta e cinco Pescador Jorge No lago de Pirapitinga Dia Dezoito Dezoito do vinte Dezoito do doze Dois mil e vinte Fazer a soltura dela Amarelão Vai pra vida Deu alegria demais Ó, ô, ô, ô, bicho bonito Dá não Só pra nós verem, né Dá, mas não dá não Ele tá no rasinho Dá não ainda Vinte e sete Bora Tem outro atrás, não Passa no caiaque Em cima dele Tá bem pego Tá não, né Tentando chegar aí Passa Traz ele aqui Dá pra você pegar também Chega aí, ó Vou ver se o outro Tá por aqui Mas já passou aqui em cima Tudo, né Foi, ele parou a isca Mais um amarelinho Mas que ele foi embora Não preciso nem falar, né Primeiro torneio Virtual em caiaque Gigantes do Lagos Hoje é Dezoito Do doze Dois mil e vinte A senha é Cayaqueiro Pesque Camp Vou medir ele Vou olhar a régua Boca fechada Rabo espalmado Quarenta e um Quarenta e um centímetros Espera aí que vai virar Quarenta e um centímetros A senha é Cayaqueiro Pesque Camp Hoje é Dezoito Doze Dois mil e vinte Vamos Voltar ele aqui Vida pra ele Que esse aqui Deu alegria pra nós Bora Amarelinho Bonitinho Não Dá trinta É mega best Né cara Não tem jeito Desquinha da vez Ó Mega best Bonito demais Né Tava aqui Ó Saiu Ó Vou Pôr ele na régua Aqui Vou pôr ele na régua Vou ver Quanto que vai dar Se ele der trinta e nove Trinta e oito Não adianta Né Foi embora Tá bom Tá bom Mulícate Abriu Tá bom Tchau Tchau Tchau Tchau Tchau Tchau Tchau",
+  "segmentos": [
+    {
+      "start": 59.54,
+      "end": 61.34,
+      "text": "Pera aí, não chega não, chega não que ele tá na árvore"
+    },
+    {
+      "start": 61.34,
+      "end": 64.95,
+      "text": "Pera aí, segura ele aí"
+    },
+    {
+      "start": 64.95,
+      "end": 69.04,
+      "text": "Você me ajudou agora, velho"
+    },
+    {
+      "start": 69.04,
+      "end": 71.66,
+      "text": "Taca tá aberto aqui"
+    },
+    {
+      "start": 71.66,
+      "end": 73.87,
+      "text": "Moço de Deus, ele pegou"
+    },
+    {
+      "start": 73.87,
+      "end": 75.15,
+      "text": "Ele pegou"
+    },
+    {
+      "start": 75.15,
+      "end": 78.42,
+      "text": "Ele pegou em cima do caiaque, moço"
+    },
+    {
+      "start": 78.42,
+      "end": 81.13,
+      "text": "Que pegada mais chique, cara"
+    },
+    {
+      "start": 81.13,
+      "end": 82.23,
+      "text": "Que trem maluco"
+    },
+    {
+      "start": 82.23,
+      "end": 87.43,
+      "text": "Adivinha qual risco"
+    },
+    {
+      "start": 87.43,
+      "end": 90.72,
+      "text": "Ah, mega beça"
+    },
+    {
+      "start": 90.72,
+      "end": 91.78,
+      "text": "Eu falei pra você"
+    },
+    {
+      "start": 91.78,
+      "end": 94.84,
+      "text": "Moço, ele pegou chique demais"
+    },
+    {
+      "start": 94.84,
+      "end": 95.98,
+      "text": "Nossa, se a câmera estivesse"
+    },
+    {
+      "start": 95.98,
+      "end": 98.81,
+      "text": "Filmando, moço"
+    },
+    {
+      "start": 98.81,
+      "end": 99.93,
+      "text": "Que porrada"
+    },
+    {
+      "start": 99.93,
+      "end": 103.06,
+      "text": "Foi aí, eu tava tirando a isca, rapaz"
+    },
+    {
+      "start": 103.06,
+      "end": 105.91,
+      "text": "Barranca ali"
+    },
+    {
+      "start": 105.91,
+      "end": 108.24,
+      "text": "Vai fazer a filmagem dele"
+    },
+    {
+      "start": 108.24,
+      "end": 110.86,
+      "text": "Nossa, eu acho aquele escapaco"
+    },
+    {
+      "start": 110.86,
+      "end": 112.16,
+      "text": "Ele pegou numa garatainha só"
+    },
+    {
+      "start": 112.16,
+      "end": 115.01,
+      "text": "Passar agora, não tem grilão, depois, né"
+    },
+    {
+      "start": 115.01,
+      "end": 119.6,
+      "text": "Tá aí? Então, melhor ainda"
+    },
+    {
+      "start": 119.6,
+      "end": 121.16,
+      "text": "Mas não faz mal perder, não, doido"
+    },
+    {
+      "start": 121.16,
+      "end": 121.96,
+      "text": "Isso aí acontece"
+    },
+    {
+      "start": 121.96,
+      "end": 129.94,
+      "text": "Nem eu, rapaz, ele veio do fundo, rapaz"
+    },
+    {
+      "start": 129.94,
+      "end": 132.2,
+      "text": "Que loucura de peixe"
+    },
+    {
+      "start": 132.2,
+      "end": 135.5,
+      "text": "Que loucura"
+    },
+    {
+      "start": 135.5,
+      "end": 155.0,
+      "text": "Ele subiu bonito demais"
+    },
+    {
+      "start": 155.0,
+      "end": 158.0,
+      "text": "Aguenta aí, bichinho"
+    },
+    {
+      "start": 158.0,
+      "end": 165.08,
+      "text": "Gui louca de oi desse peixe"
+    },
+    {
+      "start": 165.08,
+      "end": 178.01,
+      "text": "Dia 18"
+    },
+    {
+      "start": 178.01,
+      "end": 180.01,
+      "text": "Do 12 de 2020"
+    },
+    {
+      "start": 180.01,
+      "end": 182.28,
+      "text": "Primeiro torneio virtual"
+    },
+    {
+      "start": 182.28,
+      "end": 183.22,
+      "text": "Gigantes do Lago"
+    },
+    {
+      "start": 183.22,
+      "end": 184.08,
+      "text": "Em caiaque"
+    },
+    {
+      "start": 184.08,
+      "end": 186.15,
+      "text": "Vamos fazer a medida do peixe aqui, ó"
+    },
+    {
+      "start": 186.15,
+      "end": 189.15,
+      "text": "Vou olhar a régua"
+    },
+    {
+      "start": 189.15,
+      "end": 193.36,
+      "text": "Por aqui, né"
+    },
+    {
+      "start": 193.36,
+      "end": 207.18,
+      "text": "A senha é"
+    },
+    {
+      "start": 207.18,
+      "end": 209.37,
+      "text": "Cayaqueiro, pesca e campo"
+    },
+    {
+      "start": 209.37,
+      "end": 212.9,
+      "text": "Cayaqueiro, pesca e campo"
+    },
+    {
+      "start": 212.9,
+      "end": 218.85,
+      "text": "É, ó, na régua"
+    },
+    {
+      "start": 218.85,
+      "end": 221.23,
+      "text": "Quarenta e cinco"
+    },
+    {
+      "start": 221.23,
+      "end": 222.65,
+      "text": "Quarenta e cinco e meio"
+    },
+    {
+      "start": 222.65,
+      "end": 223.43,
+      "text": "Quarenta e cinco"
+    },
+    {
+      "start": 223.43,
+      "end": 226.8,
+      "text": "Pescador Jorge"
+    },
+    {
+      "start": 226.8,
+      "end": 228.92,
+      "text": "No lago de"
+    },
+    {
+      "start": 228.92,
+      "end": 229.92,
+      "text": "Pirapitinga"
+    },
+    {
+      "start": 229.92,
+      "end": 237.1,
+      "text": "Dia"
+    },
+    {
+      "start": 237.1,
+      "end": 237.82,
+      "text": "Dezoito"
+    },
+    {
+      "start": 237.82,
+      "end": 238.32,
+      "text": "Dezoito do vinte"
+    },
+    {
+      "start": 238.32,
+      "end": 241.5,
+      "text": "Dezoito do doze"
+    },
+    {
+      "start": 241.5,
+      "end": 242.14,
+      "text": "Dois mil e vinte"
+    },
+    {
+      "start": 242.14,
+      "end": 244.01,
+      "text": "Fazer a soltura dela"
+    },
+    {
+      "start": 244.01,
+      "end": 246.18,
+      "text": "Amarelão"
+    },
+    {
+      "start": 246.18,
+      "end": 250.99,
+      "text": "Vai pra vida"
+    },
+    {
+      "start": 250.99,
+      "end": 253.0,
+      "text": "Deu alegria demais"
+    },
+    {
+      "start": 253.0,
+      "end": 255.38,
+      "text": "Ó, ô, ô, ô, bicho bonito"
+    },
+    {
+      "start": 255.38,
+      "end": 261.03,
+      "text": "Dá não"
+    },
+    {
+      "start": 261.03,
+      "end": 271.16,
+      "text": "Só pra nós verem, né"
+    },
+    {
+      "start": 271.16,
+      "end": 273.3,
+      "text": "Dá, mas não dá não"
+    },
+    {
+      "start": 273.3,
+      "end": 280.94,
+      "text": "Ele tá no rasinho"
+    },
+    {
+      "start": 280.94,
+      "end": 292.96,
+      "text": "Dá não ainda"
+    },
+    {
+      "start": 292.96,
+      "end": 293.74,
+      "text": "Vinte e sete"
+    },
+    {
+      "start": 293.74,
+      "end": 297.62,
+      "text": "Bora"
+    },
+    {
+      "start": 297.62,
+      "end": 307.48,
+      "text": "Tem outro atrás, não"
+    },
+    {
+      "start": 307.48,
+      "end": 311.46,
+      "text": "Passa no caiaque"
+    },
+    {
+      "start": 311.46,
+      "end": 312.0,
+      "text": "Em cima dele"
+    },
+    {
+      "start": 312.0,
+      "end": 315.17,
+      "text": "Tá bem pego"
+    },
+    {
+      "start": 315.17,
+      "end": 315.77,
+      "text": "Tá não, né"
+    },
+    {
+      "start": 315.77,
+      "end": 318.12,
+      "text": "Tentando chegar aí"
+    },
+    {
+      "start": 318.12,
+      "end": 319.43,
+      "text": "Passa"
+    },
+    {
+      "start": 319.43,
+      "end": 324.2,
+      "text": "Traz ele aqui"
+    },
+    {
+      "start": 324.2,
+      "end": 325.92,
+      "text": "Dá pra você pegar também"
+    },
+    {
+      "start": 325.92,
+      "end": 332.18,
+      "text": "Chega aí, ó"
+    },
+    {
+      "start": 332.18,
+      "end": 335.96,
+      "text": "Vou ver se o outro"
+    },
+    {
+      "start": 335.96,
+      "end": 336.44,
+      "text": "Tá por aqui"
+    },
+    {
+      "start": 336.44,
+      "end": 338.86,
+      "text": "Mas já passou aqui em cima"
+    },
+    {
+      "start": 338.86,
+      "end": 339.4,
+      "text": "Tudo, né"
+    },
+    {
+      "start": 339.4,
+      "end": 342.96,
+      "text": "Foi, ele parou a isca"
+    },
+    {
+      "start": 342.96,
+      "end": 346.71,
+      "text": "Mais um amarelinho"
+    },
+    {
+      "start": 346.71,
+      "end": 453.05,
+      "text": "Mas que ele foi embora"
+    },
+    {
+      "start": 453.05,
+      "end": 458.01,
+      "text": "Não preciso nem falar, né"
+    },
+    {
+      "start": 458.01,
+      "end": 474.81,
+      "text": "Primeiro torneio"
+    },
+    {
+      "start": 474.81,
+      "end": 476.15,
+      "text": "Virtual em caiaque"
+    },
+    {
+      "start": 476.15,
+      "end": 477.21,
+      "text": "Gigantes do Lagos"
+    },
+    {
+      "start": 477.21,
+      "end": 478.77,
+      "text": "Hoje é"
+    },
+    {
+      "start": 478.77,
+      "end": 480.34,
+      "text": "Dezoito"
+    },
+    {
+      "start": 480.34,
+      "end": 480.94,
+      "text": "Do doze"
+    },
+    {
+      "start": 480.94,
+      "end": 481.76,
+      "text": "Dois mil e vinte"
+    },
+    {
+      "start": 481.76,
+      "end": 483.78,
+      "text": "A senha é"
+    },
+    {
+      "start": 483.78,
+      "end": 484.38,
+      "text": "Cayaqueiro"
+    },
+    {
+      "start": 484.38,
+      "end": 485.1,
+      "text": "Pesque Camp"
+    },
+    {
+      "start": 485.1,
+      "end": 486.83,
+      "text": "Vou medir ele"
+    },
+    {
+      "start": 486.83,
+      "end": 488.07,
+      "text": "Vou olhar a régua"
+    },
+    {
+      "start": 488.07,
+      "end": 506.35,
+      "text": "Boca fechada"
+    },
+    {
+      "start": 506.35,
+      "end": 507.11,
+      "text": "Rabo espalmado"
+    },
+    {
+      "start": 507.11,
+      "end": 508.77,
+      "text": "Quarenta e um"
+    },
+    {
+      "start": 508.77,
+      "end": 511.64,
+      "text": "Quarenta e um centímetros"
+    },
+    {
+      "start": 511.64,
+      "end": 512.34,
+      "text": "Espera aí que vai virar"
+    },
+    {
+      "start": 516.05,
+      "end": 517.29,
+      "text": "Quarenta e um centímetros"
+    },
+    {
+      "start": 517.29,
+      "end": 518.88,
+      "text": "A senha é"
+    },
+    {
+      "start": 518.88,
+      "end": 519.44,
+      "text": "Cayaqueiro"
+    },
+    {
+      "start": 519.44,
+      "end": 520.22,
+      "text": "Pesque Camp"
+    },
+    {
+      "start": 520.22,
+      "end": 522.38,
+      "text": "Hoje é"
+    },
+    {
+      "start": 522.38,
+      "end": 522.94,
+      "text": "Dezoito"
+    },
+    {
+      "start": 522.94,
+      "end": 523.76,
+      "text": "Doze"
+    },
+    {
+      "start": 523.76,
+      "end": 524.56,
+      "text": "Dois mil e vinte"
+    },
+    {
+      "start": 524.56,
+      "end": 526.44,
+      "text": "Vamos"
+    },
+    {
+      "start": 526.44,
+      "end": 528.71,
+      "text": "Voltar ele aqui"
+    },
+    {
+      "start": 528.71,
+      "end": 530.36,
+      "text": "Vida pra ele"
+    },
+    {
+      "start": 530.36,
+      "end": 530.74,
+      "text": "Que esse aqui"
+    },
+    {
+      "start": 530.74,
+      "end": 531.7,
+      "text": "Deu alegria pra nós"
+    },
+    {
+      "start": 531.7,
+      "end": 536.82,
+      "text": "Bora"
+    },
+    {
+      "start": 536.82,
+      "end": 538.46,
+      "text": "Amarelinho"
+    },
+    {
+      "start": 538.46,
+      "end": 538.92,
+      "text": "Bonitinho"
+    },
+    {
+      "start": 538.92,
+      "end": 544.85,
+      "text": "Não"
+    },
+    {
+      "start": 544.85,
+      "end": 546.22,
+      "text": "Dá trinta"
+    },
+    {
+      "start": 546.22,
+      "end": 551.06,
+      "text": "É mega best"
+    },
+    {
+      "start": 551.06,
+      "end": 551.56,
+      "text": "Né cara"
+    },
+    {
+      "start": 551.56,
+      "end": 553.62,
+      "text": "Não tem jeito"
+    },
+    {
+      "start": 553.62,
+      "end": 575.08,
+      "text": "Desquinha da vez"
+    },
+    {
+      "start": 575.08,
+      "end": 575.3,
+      "text": "Ó"
+    },
+    {
+      "start": 575.3,
+      "end": 577.18,
+      "text": "Mega best"
+    },
+    {
+      "start": 577.18,
+      "end": 581.64,
+      "text": "Bonito demais"
+    },
+    {
+      "start": 581.64,
+      "end": 581.86,
+      "text": "Né"
+    },
+    {
+      "start": 581.86,
+      "end": 591.13,
+      "text": "Tava aqui"
+    },
+    {
+      "start": 591.13,
+      "end": 620.74,
+      "text": "Ó"
+    },
+    {
+      "start": 620.74,
+      "end": 621.22,
+      "text": "Saiu"
+    },
+    {
+      "start": 621.22,
+      "end": 627.52,
+      "text": "Ó"
+    },
+    {
+      "start": 627.52,
+      "end": 627.98,
+      "text": "Vou"
+    },
+    {
+      "start": 627.98,
+      "end": 630.34,
+      "text": "Pôr ele na régua"
+    },
+    {
+      "start": 630.34,
+      "end": 630.6,
+      "text": "Aqui"
+    },
+    {
+      "start": 630.6,
+      "end": 632.92,
+      "text": "Vou pôr ele na régua"
+    },
+    {
+      "start": 632.92,
+      "end": 633.28,
+      "text": "Vou ver"
+    },
+    {
+      "start": 633.28,
+      "end": 634.22,
+      "text": "Quanto que vai dar"
+    },
+    {
+      "start": 634.22,
+      "end": 636.57,
+      "text": "Se ele der trinta e nove"
+    },
+    {
+      "start": 636.57,
+      "end": 637.13,
+      "text": "Trinta e oito"
+    },
+    {
+      "start": 637.13,
+      "end": 638.19,
+      "text": "Não adianta"
+    },
+    {
+      "start": 638.19,
+      "end": 638.45,
+      "text": "Né"
+    },
+    {
+      "start": 638.45,
+      "end": 669.02,
+      "text": "Foi embora"
+    },
+    {
+      "start": 669.02,
+      "end": 670.04,
+      "text": "Tá bom"
+    },
+    {
+      "start": 670.04,
+      "end": 673.14,
+      "text": "Tá bom"
+    },
+    {
+      "start": 673.14,
+      "end": 675.89,
+      "text": "Mulícate"
+    },
+    {
+      "start": 675.89,
+      "end": 676.39,
+      "text": "Abriu"
+    },
+    {
+      "start": 676.39,
+      "end": 677.35,
+      "text": "Tá bom"
+    },
+    {
+      "start": 677.35,
+      "end": 677.85,
+      "text": "Tchau"
+    },
+    {
+      "start": 677.85,
+      "end": 678.39,
+      "text": "Tchau"
+    },
+    {
+      "start": 678.39,
+      "end": 678.87,
+      "text": "Tchau"
+    },
+    {
+      "start": 678.87,
+      "end": 679.39,
+      "text": "Tchau"
+    },
+    {
+      "start": 679.39,
+      "end": 679.63,
+      "text": "Tchau"
+    },
+    {
+      "start": 679.63,
+      "end": 679.73,
+      "text": "Tchau"
+    },
+    {
+      "start": 679.73,
+      "end": 679.99,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 682.81,
+  "idioma_detectado": "pt"
+}

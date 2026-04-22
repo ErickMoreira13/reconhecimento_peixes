@@ -1,0 +1,37 @@
+{
+  "texto": "Tava muito bem seguro. Eu tô tremendo. Eu tô tremendo. Olha isso. Olha o tamanho desse trairão. É muito pesado.",
+  "segmentos": [
+    {
+      "start": 2.64,
+      "end": 4.08,
+      "text": "Tava muito bem seguro."
+    },
+    {
+      "start": 6.64,
+      "end": 7.38,
+      "text": "Eu tô tremendo."
+    },
+    {
+      "start": 8.14,
+      "end": 8.88,
+      "text": "Eu tô tremendo."
+    },
+    {
+      "start": 10.59,
+      "end": 11.03,
+      "text": "Olha isso."
+    },
+    {
+      "start": 15.72,
+      "end": 17.24,
+      "text": "Olha o tamanho desse trairão."
+    },
+    {
+      "start": 19.44,
+      "end": 25.02,
+      "text": "É muito pesado."
+    }
+  ],
+  "duracao_seg": 33.13,
+  "idioma_detectado": "pt"
+}

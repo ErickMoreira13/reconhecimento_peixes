@@ -1,0 +1,802 @@
+{
+  "texto": "Não peguei, não peguei. É grande, hein, Maruim? Não, tirei. Olha lá, Maruim. Nossa, que tamanho. Meu Deus do céu. É troféu, Maruim. Pegou na GoPro, Maruim. Moleque, você cantou a bola. Você cantou a bola, o chorozinho obedeceu. Lindo peixe, lindo peixe, Maruim. Lindo, lindo, lindo. Esse é o guia, Maruim. Rio Aracá, né, Maruim? Peixinho grande. Aê, Jesus, a carretilhinha tá cantando. O Maruim cantou a bola, onde que ele tava. Né, Maruim? Peixão lindo. Aqui, né, Maruim? Nossa, que cavalo, Maruim. Cavalo, Maruim. Olha, Maruim. Os garateias tão cravadas na boca dele, Maruim. As duas. É, peixão. Rio Aracá. Olha aí o tamanho da nave. É, Maruim. Valeu, Maruim. Olha o tamanho da nave, rapaziada, ó. É, louco. Olha, Maruim, do céu. Nave, nave, nave. Lindo o peixe, velho. Pelo amor de Deus. Obrigado. Vamos medir o bicho agora, tirar a foto e depois nós vamos soltar essa nave aí. Quantas libras deu, Maruim? Quatorze. Quatorze libras de tucunaré, galera, ó. Olha a nave aí, ó. Sessenta e seis centímetros de tucunaré, ó. Açu. Dá uma visão na boca do bicho. Engoliu a T20. Vamos soltar agora o danadão aqui, ó. Olha que coisa mais linda. Aô, maravilha. Obrigado, Deus. Obrigado, obrigado. Nossa, pegar uma nave dessa aqui não tem preço, velho. Ah, tá pronto pra ir embora, hein. Que lindo, cara. Olha a pintura. Tucunaré é bonito, velho. Olha que lá. Que lápa de tucunaré. Vai embora, filho. Vai bem devagarzinho. Vai embora. Ó. Uma nave. Ih, oh. Chorãozito aqui, o Maruim, o trio. Os caras passam em cima do peixe e vão embora, Maruim. Deixa pra nós. É, tio. Passaram aí, aceleraram o motor e largaram o bichão pra nós aí, ó. Homem. Deixa pra nós que nem pega. Aí, ó. Nós gosta de pegar grande, né, Maruim? Tá na caixa. Ih, oh. Olha o que fez. Engoliu a T20. Puta que pariu. É foto, Maruim. Engoliu a T20, rapaziada. Olha onde foi parar essa T20. Meu pai do céu. Que pancada. Não tava com a câmera ligada pra pegar esse ataque lindo. Que pancada na superfície. Agora, Maruim, momento da foto. Medir e depois a gente volta a fazer a soltura do bicho. Aqui, ó. Vai. Aí. Ó a nave. Foi? É. Vamos soltar ele aqui. Já sofreu demais. Vai lá embora. Vai, filho. Aí, ó. O da cara é ele da fã do onde? Tem. Eu vou pegar ele. E o galho ele voa na isca, hein? Né, Maruim? Olha a onda que fez aqui, Maruim. Aí. Pegou. Pegou. Fez uma onda. Fez uma onda. Veio buscar a bone aqui. Na cara do gol. Safadinho. Aí. Olha que malandrinho, Maruim. Onde que ele veio buscar a sozinha? Olha. Igual o fiote daquele, Maruim. Aí, ó. O fiote daquele um que a gente pegou lá. Do gigantão. Né, Maruim? É. Olha lá. Esse aqui é o filhinho daquele gigante. Valeu, Maruim. Vai pra vida, bichão. Aí. Explodir aqui, Maruim, ó. Ó. Errou. Você viu, Maruim? É. Nem eu creio aí. Aí. Eu tinha errado, Maruim. Vai aqui. Olha ali. Tá o carduminho aqui, ó. Que da hora, Maruim. Borboletinha. Olha o outro. Olha o outro aqui. Que da hora, borboletinha, Maruim. Vou pegar mais um, Maruim. Borboletinha, carduminho. Que paulada, velho. Paquinha. Você viu? É uma outra que fez jogar isso, cara? Olha que lindo. Esse paco aqui, meu. Dá o alicate pra mim. Tira, por favor. Tira ele aqui. Tira ele aqui. Não se machucou. Machucada, meu. Vai lá. Pancada, meu paquinha.",
+  "segmentos": [
+    {
+      "start": 9.87,
+      "end": 11.25,
+      "text": "Não peguei, não peguei."
+    },
+    {
+      "start": 16.06,
+      "end": 16.72,
+      "text": "É grande, hein, Maruim?"
+    },
+    {
+      "start": 17.14,
+      "end": 26.35,
+      "text": "Não, tirei."
+    },
+    {
+      "start": 29.08,
+      "end": 29.52,
+      "text": "Olha lá, Maruim."
+    },
+    {
+      "start": 29.62,
+      "end": 30.34,
+      "text": "Nossa, que tamanho."
+    },
+    {
+      "start": 31.73,
+      "end": 33.03,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 33.21,
+      "end": 34.27,
+      "text": "É troféu, Maruim."
+    },
+    {
+      "start": 36.78,
+      "end": 38.82,
+      "text": "Pegou na GoPro, Maruim."
+    },
+    {
+      "start": 39.18,
+      "end": 41.96,
+      "text": "Moleque, você cantou a bola."
+    },
+    {
+      "start": 43.7,
+      "end": 46.24,
+      "text": "Você cantou a bola, o chorozinho obedeceu."
+    },
+    {
+      "start": 54.21,
+      "end": 56.41,
+      "text": "Lindo peixe, lindo peixe, Maruim."
+    },
+    {
+      "start": 56.87,
+      "end": 59.34,
+      "text": "Lindo, lindo, lindo."
+    },
+    {
+      "start": 59.34,
+      "end": 62.91,
+      "text": "Esse é o guia, Maruim."
+    },
+    {
+      "start": 64.73,
+      "end": 65.83,
+      "text": "Rio Aracá, né, Maruim?"
+    },
+    {
+      "start": 66.13,
+      "end": 69.07,
+      "text": "Peixinho grande."
+    },
+    {
+      "start": 69.07,
+      "end": 95.7,
+      "text": "Aê, Jesus, a carretilhinha tá cantando."
+    },
+    {
+      "start": 98.51,
+      "end": 100.53,
+      "text": "O Maruim cantou a bola, onde que ele tava."
+    },
+    {
+      "start": 101.98,
+      "end": 102.42,
+      "text": "Né, Maruim?"
+    },
+    {
+      "start": 102.86,
+      "end": 108.12,
+      "text": "Peixão lindo."
+    },
+    {
+      "start": 109.66,
+      "end": 110.2,
+      "text": "Aqui, né, Maruim?"
+    },
+    {
+      "start": 113.86,
+      "end": 115.4,
+      "text": "Nossa, que cavalo, Maruim."
+    },
+    {
+      "start": 117.02,
+      "end": 118.08,
+      "text": "Cavalo, Maruim."
+    },
+    {
+      "start": 121.94,
+      "end": 122.56,
+      "text": "Olha, Maruim."
+    },
+    {
+      "start": 122.84,
+      "end": 124.82,
+      "text": "Os garateias tão cravadas na boca dele, Maruim."
+    },
+    {
+      "start": 125.34,
+      "end": 125.92,
+      "text": "As duas."
+    },
+    {
+      "start": 128.55,
+      "end": 130.07,
+      "text": "É, peixão."
+    },
+    {
+      "start": 130.07,
+      "end": 131.25,
+      "text": "Rio Aracá."
+    },
+    {
+      "start": 132.86,
+      "end": 134.34,
+      "text": "Olha aí o tamanho da nave."
+    },
+    {
+      "start": 135.35,
+      "end": 136.49,
+      "text": "É, Maruim."
+    },
+    {
+      "start": 144.01,
+      "end": 145.11,
+      "text": "Valeu, Maruim."
+    },
+    {
+      "start": 145.11,
+      "end": 147.21,
+      "text": "Olha o tamanho da nave, rapaziada, ó."
+    },
+    {
+      "start": 148.22,
+      "end": 149.22,
+      "text": "É, louco."
+    },
+    {
+      "start": 149.3,
+      "end": 150.64,
+      "text": "Olha, Maruim, do céu."
+    },
+    {
+      "start": 152.26,
+      "end": 153.72,
+      "text": "Nave, nave, nave."
+    },
+    {
+      "start": 155.49,
+      "end": 156.71,
+      "text": "Lindo o peixe, velho."
+    },
+    {
+      "start": 156.99,
+      "end": 157.97,
+      "text": "Pelo amor de Deus."
+    },
+    {
+      "start": 158.39,
+      "end": 158.83,
+      "text": "Obrigado."
+    },
+    {
+      "start": 161.2,
+      "end": 165.34,
+      "text": "Vamos medir o bicho agora, tirar a foto e depois nós vamos soltar essa nave aí."
+    },
+    {
+      "start": 168.07,
+      "end": 169.11,
+      "text": "Quantas libras deu, Maruim?"
+    },
+    {
+      "start": 169.11,
+      "end": 170.01,
+      "text": "Quatorze."
+    },
+    {
+      "start": 170.23,
+      "end": 172.43,
+      "text": "Quatorze libras de tucunaré, galera, ó."
+    },
+    {
+      "start": 173.55,
+      "end": 174.63,
+      "text": "Olha a nave aí, ó."
+    },
+    {
+      "start": 175.43,
+      "end": 177.33,
+      "text": "Sessenta e seis centímetros de tucunaré, ó."
+    },
+    {
+      "start": 177.33,
+      "end": 177.67,
+      "text": "Açu."
+    },
+    {
+      "start": 178.52,
+      "end": 179.72,
+      "text": "Dá uma visão na boca do bicho."
+    },
+    {
+      "start": 180.22,
+      "end": 181.8,
+      "text": "Engoliu a T20."
+    },
+    {
+      "start": 182.79,
+      "end": 184.79,
+      "text": "Vamos soltar agora o danadão aqui, ó."
+    },
+    {
+      "start": 184.79,
+      "end": 186.62,
+      "text": "Olha que coisa mais linda."
+    },
+    {
+      "start": 187.73,
+      "end": 189.49,
+      "text": "Aô, maravilha."
+    },
+    {
+      "start": 190.79,
+      "end": 191.63,
+      "text": "Obrigado, Deus."
+    },
+    {
+      "start": 193.11,
+      "end": 194.19,
+      "text": "Obrigado, obrigado."
+    },
+    {
+      "start": 195.8,
+      "end": 198.28,
+      "text": "Nossa, pegar uma nave dessa aqui não tem preço, velho."
+    },
+    {
+      "start": 198.72,
+      "end": 201.51,
+      "text": "Ah, tá pronto pra ir embora, hein."
+    },
+    {
+      "start": 201.93,
+      "end": 204.89,
+      "text": "Que lindo, cara."
+    },
+    {
+      "start": 204.95,
+      "end": 205.83,
+      "text": "Olha a pintura."
+    },
+    {
+      "start": 205.83,
+      "end": 208.94,
+      "text": "Tucunaré é bonito, velho."
+    },
+    {
+      "start": 210.06,
+      "end": 210.74,
+      "text": "Olha que lá."
+    },
+    {
+      "start": 211.3,
+      "end": 212.46,
+      "text": "Que lápa de tucunaré."
+    },
+    {
+      "start": 214.65,
+      "end": 215.37,
+      "text": "Vai embora, filho."
+    },
+    {
+      "start": 215.39,
+      "end": 216.19,
+      "text": "Vai bem devagarzinho."
+    },
+    {
+      "start": 217.29,
+      "end": 217.71,
+      "text": "Vai embora."
+    },
+    {
+      "start": 218.7,
+      "end": 218.86,
+      "text": "Ó."
+    },
+    {
+      "start": 218.94,
+      "end": 219.86,
+      "text": "Uma nave."
+    },
+    {
+      "start": 220.46,
+      "end": 221.08,
+      "text": "Ih, oh."
+    },
+    {
+      "start": 222.38,
+      "end": 224.74,
+      "text": "Chorãozito aqui, o Maruim, o trio."
+    },
+    {
+      "start": 228.47,
+      "end": 230.73,
+      "text": "Os caras passam em cima do peixe e vão embora, Maruim."
+    },
+    {
+      "start": 230.97,
+      "end": 231.65,
+      "text": "Deixa pra nós."
+    },
+    {
+      "start": 234.03,
+      "end": 234.37,
+      "text": "É, tio."
+    },
+    {
+      "start": 235.21,
+      "end": 238.25,
+      "text": "Passaram aí, aceleraram o motor e largaram o bichão pra nós aí, ó."
+    },
+    {
+      "start": 240.46,
+      "end": 240.9,
+      "text": "Homem."
+    },
+    {
+      "start": 241.69,
+      "end": 242.81,
+      "text": "Deixa pra nós que nem pega."
+    },
+    {
+      "start": 243.05,
+      "end": 243.39,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 244.2,
+      "end": 245.6,
+      "text": "Nós gosta de pegar grande, né, Maruim?"
+    },
+    {
+      "start": 245.6,
+      "end": 249.66,
+      "text": "Tá na caixa."
+    },
+    {
+      "start": 249.92,
+      "end": 250.38,
+      "text": "Ih, oh."
+    },
+    {
+      "start": 251.52,
+      "end": 252.44,
+      "text": "Olha o que fez."
+    },
+    {
+      "start": 252.54,
+      "end": 253.3,
+      "text": "Engoliu a T20."
+    },
+    {
+      "start": 255.21,
+      "end": 256.31,
+      "text": "Puta que pariu."
+    },
+    {
+      "start": 257.38,
+      "end": 259.08,
+      "text": "É foto, Maruim."
+    },
+    {
+      "start": 260.54,
+      "end": 262.24,
+      "text": "Engoliu a T20, rapaziada."
+    },
+    {
+      "start": 262.24,
+      "end": 263.62,
+      "text": "Olha onde foi parar essa T20."
+    },
+    {
+      "start": 265.17,
+      "end": 266.65,
+      "text": "Meu pai do céu."
+    },
+    {
+      "start": 268.46,
+      "end": 269.22,
+      "text": "Que pancada."
+    },
+    {
+      "start": 269.88,
+      "end": 272.74,
+      "text": "Não tava com a câmera ligada pra pegar esse ataque lindo."
+    },
+    {
+      "start": 274.61,
+      "end": 277.11,
+      "text": "Que pancada na superfície."
+    },
+    {
+      "start": 280.58,
+      "end": 282.26,
+      "text": "Agora, Maruim, momento da foto."
+    },
+    {
+      "start": 282.38,
+      "end": 285.56,
+      "text": "Medir e depois a gente volta a fazer a soltura do bicho."
+    },
+    {
+      "start": 285.56,
+      "end": 287.81,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 287.81,
+      "end": 288.03,
+      "text": "Vai."
+    },
+    {
+      "start": 289.47,
+      "end": 289.69,
+      "text": "Aí."
+    },
+    {
+      "start": 290.35,
+      "end": 290.97,
+      "text": "Ó a nave."
+    },
+    {
+      "start": 297.83,
+      "end": 298.09,
+      "text": "Foi?"
+    },
+    {
+      "start": 300.1,
+      "end": 300.38,
+      "text": "É."
+    },
+    {
+      "start": 301.65,
+      "end": 302.57,
+      "text": "Vamos soltar ele aqui."
+    },
+    {
+      "start": 302.61,
+      "end": 303.41,
+      "text": "Já sofreu demais."
+    },
+    {
+      "start": 303.55,
+      "end": 305.18,
+      "text": "Vai lá embora."
+    },
+    {
+      "start": 305.26,
+      "end": 305.54,
+      "text": "Vai, filho."
+    },
+    {
+      "start": 306.82,
+      "end": 307.14,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 307.52,
+      "end": 324.84,
+      "text": "O da cara é ele da fã do onde?"
+    },
+    {
+      "start": 325.1,
+      "end": 325.38,
+      "text": "Tem."
+    },
+    {
+      "start": 325.48,
+      "end": 326.08,
+      "text": "Eu vou pegar ele."
+    },
+    {
+      "start": 327.99,
+      "end": 329.27,
+      "text": "E o galho ele voa na isca, hein?"
+    },
+    {
+      "start": 329.59,
+      "end": 329.93,
+      "text": "Né, Maruim?"
+    },
+    {
+      "start": 331.87,
+      "end": 332.97,
+      "text": "Olha a onda que fez aqui, Maruim."
+    },
+    {
+      "start": 333.91,
+      "end": 334.05,
+      "text": "Aí."
+    },
+    {
+      "start": 334.41,
+      "end": 336.56,
+      "text": "Pegou."
+    },
+    {
+      "start": 337.67,
+      "end": 338.03,
+      "text": "Pegou."
+    },
+    {
+      "start": 338.03,
+      "end": 339.07,
+      "text": "Fez uma onda."
+    },
+    {
+      "start": 339.17,
+      "end": 339.71,
+      "text": "Fez uma onda."
+    },
+    {
+      "start": 340.45,
+      "end": 341.49,
+      "text": "Veio buscar a bone aqui."
+    },
+    {
+      "start": 341.49,
+      "end": 343.05,
+      "text": "Na cara do gol."
+    },
+    {
+      "start": 343.05,
+      "end": 347.13,
+      "text": "Safadinho."
+    },
+    {
+      "start": 349.08,
+      "end": 349.34,
+      "text": "Aí."
+    },
+    {
+      "start": 352.18,
+      "end": 353.32,
+      "text": "Olha que malandrinho, Maruim."
+    },
+    {
+      "start": 354.18,
+      "end": 356.95,
+      "text": "Onde que ele veio buscar a sozinha?"
+    },
+    {
+      "start": 358.01,
+      "end": 358.29,
+      "text": "Olha."
+    },
+    {
+      "start": 358.67,
+      "end": 360.15,
+      "text": "Igual o fiote daquele, Maruim."
+    },
+    {
+      "start": 362.5,
+      "end": 363.59,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 363.59,
+      "end": 365.45,
+      "text": "O fiote daquele um que a gente pegou lá."
+    },
+    {
+      "start": 365.73,
+      "end": 366.79,
+      "text": "Do gigantão."
+    },
+    {
+      "start": 367.13,
+      "end": 367.49,
+      "text": "Né, Maruim?"
+    },
+    {
+      "start": 367.61,
+      "end": 367.73,
+      "text": "É."
+    },
+    {
+      "start": 371.19,
+      "end": 371.57,
+      "text": "Olha lá."
+    },
+    {
+      "start": 371.95,
+      "end": 374.41,
+      "text": "Esse aqui é o filhinho daquele gigante."
+    },
+    {
+      "start": 379.69,
+      "end": 380.39,
+      "text": "Valeu, Maruim."
+    },
+    {
+      "start": 380.39,
+      "end": 382.67,
+      "text": "Vai pra vida, bichão."
+    },
+    {
+      "start": 382.81,
+      "end": 382.99,
+      "text": "Aí."
+    },
+    {
+      "start": 382.99,
+      "end": 384.73,
+      "text": "Explodir aqui, Maruim, ó."
+    },
+    {
+      "start": 389.86,
+      "end": 390.08,
+      "text": "Ó."
+    },
+    {
+      "start": 390.66,
+      "end": 390.98,
+      "text": "Errou."
+    },
+    {
+      "start": 391.06,
+      "end": 391.48,
+      "text": "Você viu, Maruim?"
+    },
+    {
+      "start": 391.62,
+      "end": 391.78,
+      "text": "É."
+    },
+    {
+      "start": 391.9,
+      "end": 393.4,
+      "text": "Nem eu creio aí."
+    },
+    {
+      "start": 393.86,
+      "end": 394.0,
+      "text": "Aí."
+    },
+    {
+      "start": 394.85,
+      "end": 395.87,
+      "text": "Eu tinha errado, Maruim."
+    },
+    {
+      "start": 397.01,
+      "end": 397.53,
+      "text": "Vai aqui."
+    },
+    {
+      "start": 397.59,
+      "end": 397.75,
+      "text": "Olha ali."
+    },
+    {
+      "start": 397.79,
+      "end": 398.61,
+      "text": "Tá o carduminho aqui, ó."
+    },
+    {
+      "start": 401.09,
+      "end": 401.99,
+      "text": "Que da hora, Maruim."
+    },
+    {
+      "start": 403.32,
+      "end": 403.72,
+      "text": "Borboletinha."
+    },
+    {
+      "start": 403.8,
+      "end": 404.3,
+      "text": "Olha o outro."
+    },
+    {
+      "start": 405.12,
+      "end": 407.26,
+      "text": "Olha o outro aqui."
+    },
+    {
+      "start": 410.63,
+      "end": 412.15,
+      "text": "Que da hora, borboletinha, Maruim."
+    },
+    {
+      "start": 415.99,
+      "end": 416.99,
+      "text": "Vou pegar mais um, Maruim."
+    },
+    {
+      "start": 420.82,
+      "end": 421.9,
+      "text": "Borboletinha, carduminho."
+    },
+    {
+      "start": 441.22,
+      "end": 442.34,
+      "text": "Que paulada, velho."
+    },
+    {
+      "start": 444.25,
+      "end": 444.65,
+      "text": "Paquinha."
+    },
+    {
+      "start": 445.21,
+      "end": 461.9,
+      "text": "Você viu?"
+    },
+    {
+      "start": 461.9,
+      "end": 462.84,
+      "text": "É uma outra que fez jogar isso, cara?"
+    },
+    {
+      "start": 465.9,
+      "end": 466.54,
+      "text": "Olha que lindo."
+    },
+    {
+      "start": 467.68,
+      "end": 468.5,
+      "text": "Esse paco aqui, meu."
+    },
+    {
+      "start": 468.5,
+      "end": 475.3,
+      "text": "Dá o alicate pra mim."
+    },
+    {
+      "start": 475.98,
+      "end": 476.4,
+      "text": "Tira, por favor."
+    },
+    {
+      "start": 481.08,
+      "end": 481.64,
+      "text": "Tira ele aqui."
+    },
+    {
+      "start": 481.64,
+      "end": 481.94,
+      "text": "Tira ele aqui."
+    },
+    {
+      "start": 484.04,
+      "end": 485.85,
+      "text": "Não se machucou."
+    },
+    {
+      "start": 486.21,
+      "end": 492.41,
+      "text": "Machucada, meu."
+    },
+    {
+      "start": 493.86,
+      "end": 494.14,
+      "text": "Vai lá."
+    },
+    {
+      "start": 498.82,
+      "end": 501.04,
+      "text": "Pancada, meu paquinha."
+    }
+  ],
+  "duracao_seg": 503.39,
+  "idioma_detectado": "pt"
+}

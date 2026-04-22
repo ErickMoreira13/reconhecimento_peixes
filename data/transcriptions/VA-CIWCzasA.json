@@ -1,0 +1,477 @@
+{
+  "texto": "Acordo de manhã com um sorriso no rosto Pensando no rio, no peixe, no gosto Da brisa que sopra, do sol a esquentar A natureza é meu lugar de relaxar Vamos lá, companheiro, para o rio pescar O sol brilha ao vivo e relaxar Casa apertada já não te satisfaz Ô, João, tá acontecendo aí? Você tá estressado? Você não veio aqui pra desestressar? Parece que me chamo de pernilongal, ou seja, João Ô, João, seu pé é preto mesmo ou esse é pernilongo? Não, não, tá deixado Aí, Joãozinho, ó, peixe aqui não é sorte, ó, meu filho, ó, cheira aí Vê se é o cheiro que você sentia quando você... Aí, menino, ó, vai pra vida Vai pra vida, João Jogue aí a emoção É só um destreiro, meu oiceiro Nos move Nos faz vencer desafios Seja pescando os lagos Nas represas ou nos rios São salta no peito Seja no frio ou calor O sangue corre na veia Veia de pescador Nos pescando e soltando Nosso rei do rio Qual que é a diferença do Pacu, Curitibano Que o resto dos Pacu É veia de pescador Pescando de norte a sul É veia de pescador Com a gente, meu irmão Nos pescando e soltando Seja no Maurício Buscando a preservação Com o arroz Abastecendo a farmácia Sem remédio ninguém sobrevive A paz tem nada a ver Se a gente chega lá em casa Arroz, feijão, salada, tomate ou frio Olha aqui o que nós passamos Deixa os meninos comendo tomate ou frio Deixa os meninos comendo tomate ou frio Deixa os meninos comendo tomate ou frio Demorou Demorou Demorou Vamos chegar o dente nesse trem Aqui tem pra todo mundo Né? Vamos pra hoje também O queijo Todos nós E mais ou menos É isso aí Esse aí é o João Nilson Piruta Barca É isso aí Só o ouro Paideira feijão Que que é isso aí pescador? Lagartixa? Lagartixa Paideira Fala não do pai dele É aqui O Maurício? O Maurício Vou fazer uma pergunta pra você aqui, companheiro Dá pra namorar aqui, hein? Não cortar mais compromissão Agora Estiga ele, João Estiga ele Olha o tanto ali, moço Subi aí, João Tá bicho Igual achei aquela embarcação Aquilo ali de noite Olhar ali de noite Crederei que eu ajude e nem F Tiboinging Vou depois Vamos lá Vamos lá Vamos lá Vamos lá Vamos lá Vamos lá Vamos lá",
+  "segmentos": [
+    {
+      "start": 4.24,
+      "end": 8.92,
+      "text": "Acordo de manhã com um sorriso no rosto"
+    },
+    {
+      "start": 8.92,
+      "end": 13.16,
+      "text": "Pensando no rio, no peixe, no gosto"
+    },
+    {
+      "start": 13.16,
+      "end": 17.6,
+      "text": "Da brisa que sopra, do sol a esquentar"
+    },
+    {
+      "start": 17.6,
+      "end": 24.64,
+      "text": "A natureza é meu lugar de relaxar"
+    },
+    {
+      "start": 24.64,
+      "end": 31.57,
+      "text": "Vamos lá, companheiro, para o rio pescar"
+    },
+    {
+      "start": 31.57,
+      "end": 40.48,
+      "text": "O sol brilha ao vivo e relaxar"
+    },
+    {
+      "start": 40.48,
+      "end": 46.38,
+      "text": "Casa apertada já não te satisfaz"
+    },
+    {
+      "start": 46.38,
+      "end": 52.42,
+      "text": "Ô, João, tá acontecendo aí?"
+    },
+    {
+      "start": 52.86,
+      "end": 54.6,
+      "text": "Você tá estressado?"
+    },
+    {
+      "start": 54.96,
+      "end": 56.78,
+      "text": "Você não veio aqui pra desestressar?"
+    },
+    {
+      "start": 61.64,
+      "end": 63.82,
+      "text": "Parece que me chamo de pernilongal, ou seja, João"
+    },
+    {
+      "start": 63.82,
+      "end": 70.21,
+      "text": "Ô, João, seu pé é preto mesmo ou esse é pernilongo?"
+    },
+    {
+      "start": 70.65,
+      "end": 71.59,
+      "text": "Não, não, tá deixado"
+    },
+    {
+      "start": 71.59,
+      "end": 93.83,
+      "text": "Aí, Joãozinho, ó, peixe aqui não é sorte, ó, meu filho, ó, cheira aí"
+    },
+    {
+      "start": 93.83,
+      "end": 97.27,
+      "text": "Vê se é o cheiro que você sentia quando você..."
+    },
+    {
+      "start": 97.27,
+      "end": 101.66,
+      "text": "Aí, menino, ó, vai pra vida"
+    },
+    {
+      "start": 101.66,
+      "end": 104.11,
+      "text": "Vai pra vida, João"
+    },
+    {
+      "start": 104.11,
+      "end": 107.5,
+      "text": "Jogue aí a emoção"
+    },
+    {
+      "start": 107.5,
+      "end": 136.63,
+      "text": "É só um destreiro, meu oiceiro"
+    },
+    {
+      "start": 136.63,
+      "end": 172.44,
+      "text": "Nos move"
+    },
+    {
+      "start": 172.44,
+      "end": 176.08,
+      "text": "Nos faz vencer desafios"
+    },
+    {
+      "start": 176.08,
+      "end": 179.84,
+      "text": "Seja pescando os lagos"
+    },
+    {
+      "start": 179.84,
+      "end": 183.46,
+      "text": "Nas represas ou nos rios"
+    },
+    {
+      "start": 183.46,
+      "end": 188.18,
+      "text": "São salta no peito"
+    },
+    {
+      "start": 188.18,
+      "end": 191.56,
+      "text": "Seja no frio ou calor"
+    },
+    {
+      "start": 191.56,
+      "end": 194.57,
+      "text": "O sangue corre na veia"
+    },
+    {
+      "start": 195.35,
+      "end": 200.06,
+      "text": "Veia de pescador"
+    },
+    {
+      "start": 200.06,
+      "end": 218.47,
+      "text": "Nos pescando e soltando"
+    },
+    {
+      "start": 218.47,
+      "end": 220.94,
+      "text": "Nosso rei do rio"
+    },
+    {
+      "start": 221.78,
+      "end": 224.34,
+      "text": "Qual que é a diferença do Pacu, Curitibano"
+    },
+    {
+      "start": 224.34,
+      "end": 226.46,
+      "text": "Que o resto dos Pacu"
+    },
+    {
+      "start": 226.46,
+      "end": 229.02,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 229.02,
+      "end": 234.3,
+      "text": "Pescando de norte a sul"
+    },
+    {
+      "start": 234.3,
+      "end": 263.41,
+      "text": "É veia de pescador"
+    },
+    {
+      "start": 263.41,
+      "end": 268.68,
+      "text": "Com a gente, meu irmão"
+    },
+    {
+      "start": 268.68,
+      "end": 273.57,
+      "text": "Nos pescando e soltando"
+    },
+    {
+      "start": 273.57,
+      "end": 274.49,
+      "text": "Seja no Maurício"
+    },
+    {
+      "start": 274.49,
+      "end": 276.31,
+      "text": "Buscando a preservação"
+    },
+    {
+      "start": 276.31,
+      "end": 277.05,
+      "text": "Com o arroz"
+    },
+    {
+      "start": 277.05,
+      "end": 279.43,
+      "text": "Abastecendo a farmácia"
+    },
+    {
+      "start": 279.43,
+      "end": 282.05,
+      "text": "Sem remédio ninguém sobrevive"
+    },
+    {
+      "start": 282.63,
+      "end": 284.43,
+      "text": "A paz tem nada a ver"
+    },
+    {
+      "start": 284.43,
+      "end": 285.51,
+      "text": "Se a gente chega lá em casa"
+    },
+    {
+      "start": 285.51,
+      "end": 287.49,
+      "text": "Arroz, feijão, salada, tomate ou frio"
+    },
+    {
+      "start": 287.49,
+      "end": 288.99,
+      "text": "Olha aqui o que nós passamos"
+    },
+    {
+      "start": 288.99,
+      "end": 291.99,
+      "text": "Deixa os meninos comendo tomate ou frio"
+    },
+    {
+      "start": 291.99,
+      "end": 293.99,
+      "text": "Deixa os meninos comendo tomate ou frio"
+    },
+    {
+      "start": 293.99,
+      "end": 295.99,
+      "text": "Deixa os meninos comendo tomate ou frio"
+    },
+    {
+      "start": 295.99,
+      "end": 296.99,
+      "text": "Demorou"
+    },
+    {
+      "start": 296.99,
+      "end": 297.99,
+      "text": "Demorou"
+    },
+    {
+      "start": 297.99,
+      "end": 298.99,
+      "text": "Demorou"
+    },
+    {
+      "start": 298.99,
+      "end": 299.99,
+      "text": "Vamos chegar o dente nesse trem"
+    },
+    {
+      "start": 299.99,
+      "end": 300.99,
+      "text": "Aqui tem pra todo mundo"
+    },
+    {
+      "start": 300.99,
+      "end": 301.99,
+      "text": "Né?"
+    },
+    {
+      "start": 301.99,
+      "end": 302.99,
+      "text": "Vamos pra hoje também"
+    },
+    {
+      "start": 302.99,
+      "end": 303.99,
+      "text": "O queijo"
+    },
+    {
+      "start": 303.99,
+      "end": 304.99,
+      "text": "Todos nós"
+    },
+    {
+      "start": 304.99,
+      "end": 305.99,
+      "text": "E mais ou menos"
+    },
+    {
+      "start": 305.99,
+      "end": 306.99,
+      "text": "É isso aí"
+    },
+    {
+      "start": 306.99,
+      "end": 307.99,
+      "text": "Esse aí é o João Nilson"
+    },
+    {
+      "start": 307.99,
+      "end": 308.99,
+      "text": "Piruta Barca"
+    },
+    {
+      "start": 308.99,
+      "end": 309.99,
+      "text": "É isso aí"
+    },
+    {
+      "start": 309.99,
+      "end": 311.99,
+      "text": "Só o ouro"
+    },
+    {
+      "start": 311.99,
+      "end": 324.16,
+      "text": "Paideira feijão"
+    },
+    {
+      "start": 324.16,
+      "end": 325.16,
+      "text": "Que que é isso aí pescador?"
+    },
+    {
+      "start": 325.16,
+      "end": 326.16,
+      "text": "Lagartixa?"
+    },
+    {
+      "start": 326.16,
+      "end": 327.16,
+      "text": "Lagartixa"
+    },
+    {
+      "start": 327.16,
+      "end": 328.16,
+      "text": "Paideira"
+    },
+    {
+      "start": 328.16,
+      "end": 330.55,
+      "text": "Fala não do pai dele"
+    },
+    {
+      "start": 330.55,
+      "end": 331.55,
+      "text": "É aqui"
+    },
+    {
+      "start": 335.92,
+      "end": 336.92,
+      "text": "O Maurício?"
+    },
+    {
+      "start": 336.92,
+      "end": 337.92,
+      "text": "O Maurício"
+    },
+    {
+      "start": 351.56,
+      "end": 353.56,
+      "text": "Vou fazer uma pergunta pra você aqui, companheiro"
+    },
+    {
+      "start": 353.56,
+      "end": 354.59,
+      "text": "Dá pra namorar aqui, hein?"
+    },
+    {
+      "start": 354.59,
+      "end": 356.59,
+      "text": "Não cortar mais compromissão"
+    },
+    {
+      "start": 356.59,
+      "end": 357.59,
+      "text": "Agora"
+    },
+    {
+      "start": 357.59,
+      "end": 639.12,
+      "text": "Estiga ele, João"
+    },
+    {
+      "start": 639.12,
+      "end": 640.12,
+      "text": "Estiga ele"
+    },
+    {
+      "start": 640.12,
+      "end": 641.12,
+      "text": "Olha o tanto ali, moço"
+    },
+    {
+      "start": 641.12,
+      "end": 650.47,
+      "text": "Subi aí, João"
+    },
+    {
+      "start": 650.47,
+      "end": 655.6,
+      "text": "Tá bicho"
+    },
+    {
+      "start": 655.6,
+      "end": 656.6,
+      "text": "Igual achei aquela embarcação"
+    },
+    {
+      "start": 656.6,
+      "end": 657.6,
+      "text": "Aquilo ali de noite"
+    },
+    {
+      "start": 657.6,
+      "end": 658.6,
+      "text": "Olhar ali de noite"
+    },
+    {
+      "start": 659.82,
+      "end": 660.86,
+      "text": "Crederei que eu ajude e nem"
+    },
+    {
+      "start": 664.82,
+      "end": 665.82,
+      "text": "F Tiboinging"
+    },
+    {
+      "start": 666.82,
+      "end": 668.82,
+      "text": "Vou depois"
+    },
+    {
+      "start": 668.82,
+      "end": 669.82,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 669.82,
+      "end": 670.82,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 670.82,
+      "end": 671.82,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 671.82,
+      "end": 672.82,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 672.82,
+      "end": 673.82,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 673.82,
+      "end": 675.82,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 675.82,
+      "end": 676.28,
+      "text": "Vamos lá"
+    }
+  ],
+  "duracao_seg": 753.15,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,237 @@
+{
+  "texto": "Tilapona bonita, pretona. Lapa aí, ó. Passei na tela. Bateu outra bitela ali, ó. Beleza. Que show. Tilapona bonita aí, ó. Show de bola. Vamos pra mais. Passei na tela. Opa, mais uma. Essa não é tão grande, não. Opa, tava puxando na outra aqui, ó. Dublê, ó. Aí, que belezinha, ó. Mais uma, ó. Show, galera. Gostoso demais, tilapinha. Que show. Aí, rapaziada, ó. Pescaria com milho verde aqui, ó. Só colocar aqui, ó. Sem segredo nenhum. Dê o balãozinho pra cá, que beleza. Só jogar pra dentro da água e esperar a lapada. Bora. Chega. Tá na linha. Beleza, aí, ó. Tilapona bonita aí, ó. Coisa linda. Chama. Mais uma. Boa, hein. Aí, ó. Tilapona preta bonita. Show de bola, galera. Cara, acabei de perder uma boa. A linha quebrou. A boinha tá lá no meio andando sozinha. Ela deve tá fisgada lá, ó. Olha que joia. Top de linha. Passeia na tela. Olha. Olha.",
+  "segmentos": [
+    {
+      "start": 144.69,
+      "end": 146.15,
+      "text": "Tilapona bonita, pretona."
+    },
+    {
+      "start": 146.67,
+      "end": 158.36,
+      "text": "Lapa aí, ó."
+    },
+    {
+      "start": 161.36,
+      "end": 162.54,
+      "text": "Passei na tela."
+    },
+    {
+      "start": 187.16,
+      "end": 188.62,
+      "text": "Bateu outra bitela ali, ó."
+    },
+    {
+      "start": 190.53,
+      "end": 191.01,
+      "text": "Beleza."
+    },
+    {
+      "start": 191.49,
+      "end": 220.28,
+      "text": "Que show."
+    },
+    {
+      "start": 220.48,
+      "end": 221.72,
+      "text": "Tilapona bonita aí, ó."
+    },
+    {
+      "start": 223.2,
+      "end": 224.04,
+      "text": "Show de bola."
+    },
+    {
+      "start": 225.63,
+      "end": 226.39,
+      "text": "Vamos pra mais."
+    },
+    {
+      "start": 226.59,
+      "end": 227.51,
+      "text": "Passei na tela."
+    },
+    {
+      "start": 230.4,
+      "end": 231.18,
+      "text": "Opa, mais uma."
+    },
+    {
+      "start": 233.99,
+      "end": 235.01,
+      "text": "Essa não é tão grande, não."
+    },
+    {
+      "start": 235.17,
+      "end": 236.51,
+      "text": "Opa, tava puxando na outra aqui, ó."
+    },
+    {
+      "start": 236.51,
+      "end": 237.05,
+      "text": "Dublê, ó."
+    },
+    {
+      "start": 237.47,
+      "end": 248.31,
+      "text": "Aí, que belezinha, ó."
+    },
+    {
+      "start": 248.55,
+      "end": 268.02,
+      "text": "Mais uma, ó."
+    },
+    {
+      "start": 269.88,
+      "end": 270.64,
+      "text": "Show, galera."
+    },
+    {
+      "start": 273.51,
+      "end": 275.15,
+      "text": "Gostoso demais, tilapinha."
+    },
+    {
+      "start": 275.71,
+      "end": 278.7,
+      "text": "Que show."
+    },
+    {
+      "start": 282.9,
+      "end": 283.88,
+      "text": "Aí, rapaziada, ó."
+    },
+    {
+      "start": 283.88,
+      "end": 285.96,
+      "text": "Pescaria com milho verde aqui, ó."
+    },
+    {
+      "start": 286.12,
+      "end": 287.16,
+      "text": "Só colocar aqui, ó."
+    },
+    {
+      "start": 287.16,
+      "end": 288.08,
+      "text": "Sem segredo nenhum."
+    },
+    {
+      "start": 289.74,
+      "end": 291.48,
+      "text": "Dê o balãozinho pra cá, que beleza."
+    },
+    {
+      "start": 293.34,
+      "end": 295.62,
+      "text": "Só jogar pra dentro da água e esperar a lapada."
+    },
+    {
+      "start": 296.57,
+      "end": 296.97,
+      "text": "Bora."
+    },
+    {
+      "start": 300.78,
+      "end": 301.22,
+      "text": "Chega."
+    },
+    {
+      "start": 301.36,
+      "end": 301.94,
+      "text": "Tá na linha."
+    },
+    {
+      "start": 303.88,
+      "end": 304.6,
+      "text": "Beleza, aí, ó."
+    },
+    {
+      "start": 306.22,
+      "end": 307.44,
+      "text": "Tilapona bonita aí, ó."
+    },
+    {
+      "start": 320.56,
+      "end": 321.48,
+      "text": "Coisa linda."
+    },
+    {
+      "start": 328.21,
+      "end": 328.65,
+      "text": "Chama."
+    },
+    {
+      "start": 329.01,
+      "end": 329.53,
+      "text": "Mais uma."
+    },
+    {
+      "start": 330.82,
+      "end": 331.32,
+      "text": "Boa, hein."
+    },
+    {
+      "start": 331.48,
+      "end": 331.82,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 332.91,
+      "end": 334.27,
+      "text": "Tilapona preta bonita."
+    },
+    {
+      "start": 335.78,
+      "end": 336.76,
+      "text": "Show de bola, galera."
+    },
+    {
+      "start": 341.4,
+      "end": 343.0,
+      "text": "Cara, acabei de perder uma boa."
+    },
+    {
+      "start": 344.78,
+      "end": 345.7,
+      "text": "A linha quebrou."
+    },
+    {
+      "start": 345.7,
+      "end": 347.66,
+      "text": "A boinha tá lá no meio andando sozinha."
+    },
+    {
+      "start": 347.78,
+      "end": 349.0,
+      "text": "Ela deve tá fisgada lá, ó."
+    },
+    {
+      "start": 349.32,
+      "end": 351.56,
+      "text": "Olha que joia."
+    },
+    {
+      "start": 353.36,
+      "end": 354.16,
+      "text": "Top de linha."
+    },
+    {
+      "start": 354.9,
+      "end": 355.9,
+      "text": "Passeia na tela."
+    },
+    {
+      "start": 355.9,
+      "end": 355.98,
+      "text": "Olha."
+    },
+    {
+      "start": 355.98,
+      "end": 356.3,
+      "text": "Olha."
+    }
+  ],
+  "duracao_seg": 361.35,
+  "idioma_detectado": "pt"
+}

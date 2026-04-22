@@ -1,0 +1,22 @@
+{
+  "texto": "Oh, Xalana sem querer, tu aumentas minha dor Nessas águas tão serenas vai levando Oh",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.36,
+      "text": "Oh, Xalana sem querer, tu aumentas minha dor"
+    },
+    {
+      "start": 7.36,
+      "end": 12.49,
+      "text": "Nessas águas tão serenas vai levando"
+    },
+    {
+      "start": 12.49,
+      "end": 15.04,
+      "text": "Oh"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "O famoso Açude Oroz do Ceará possui um hotel que fica em uma ilha bem no meio do açude e muita gente não sabia que existia. E para quem não sabe, o Açude Oroz é o segundo maior reservatório de água do estado do Ceará. E quem visita o local tem essa opção de se hospedar no meio do açude, local que também é um restaurante e recebe um grande número de pessoas, principalmente nos finais de semana. E o Açude Oroz é um verdadeiro atrativo turístico da região que chega a receber até diversas excursões que vêm de cidades distantes. E que o Açude ao longo de sua área possui diversas ilhas e uma delas conta com um hotel que inclusive oferece uma vista privilegiada para o sangradouro do Açude.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.9,
+      "text": "O famoso Açude Oroz do Ceará possui um hotel que fica em uma ilha bem no meio do açude e muita gente não sabia que existia."
+    },
+    {
+      "start": 9.56,
+      "end": 14.78,
+      "text": "E para quem não sabe, o Açude Oroz é o segundo maior reservatório de água do estado do Ceará."
+    },
+    {
+      "start": 15.56,
+      "end": 25.88,
+      "text": "E quem visita o local tem essa opção de se hospedar no meio do açude, local que também é um restaurante e recebe um grande número de pessoas, principalmente nos finais de semana."
+    },
+    {
+      "start": 25.88,
+      "end": 34.4,
+      "text": "E o Açude Oroz é um verdadeiro atrativo turístico da região que chega a receber até diversas excursões que vêm de cidades distantes."
+    },
+    {
+      "start": 34.9,
+      "end": 45.48,
+      "text": "E que o Açude ao longo de sua área possui diversas ilhas e uma delas conta com um hotel que inclusive oferece uma vista privilegiada para o sangradouro do Açude."
+    }
+  ],
+  "duracao_seg": 45.65,
+  "idioma_detectado": "pt"
+}

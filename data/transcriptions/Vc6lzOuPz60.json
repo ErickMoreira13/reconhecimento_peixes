@@ -1,0 +1,472 @@
+{
+  "texto": "Bom dia família, mais uma pescaria Meu amigo Luiz aí, ó Do Pesca Maravilhosa Tudo pronto, meu cara que já tá lá na Galera aí chegando aí pra pescar Fique tranquilo Itaipu Niterói Fala galera, mais uma pescaria Itaipu Vamos ver o que sai hoje aí, vamos ver se a gente mata uns peixinhos Primeira vez aqui Eu e meu amigo Luiz do Pesca Maravilhosa Vamos lá, família radical Entrada muito tranquila Mas lembrando que a gente analisou Bem a condição ontem Escolhendo qual lugar onde a gente ia Qual ponte onde a gente ia Tá? Uma laje aqui na frente A gente tá aqui bem na frente do estacionamento A gente tá bem aqui em frente do estacionamento É... A gente olhou bem a previsão O mar tá dando Meio metro Até um metro Pra pescar de caiaque Normalmente é tranquilo Você pode usar o site wind Ou... Algum outro tem de... Alguns de surf Porco Aí ó, primeira ação do dia Acabamos de chegar Primeira remessa Olha só, o porquinho Olha aqui ó No rosa, no camarão rosa Soltou Acabei de perder o porquinho Na linha Segundo peixinho do dia Vamos lá Pode ser pequeno, mas Tá tendo ação Um lugarzinho promissor Um lugarzinho promissor Olha só, vamos ver o que que é Porcazinha De gatinho, de cocorroca Tia Coisa da linha A altura da água é 16 graus Um pouco fraca Meu amigo Luiz aí do Pesca Maravilhosa Perdeu um robalão O único peixe bom do dia aí Soltou já em cima na flor da água Saiu um robalinho pequeno Soltou E... O lugar é muito bom Gostamos Potencial excelente Com certeza Muito em breve Teremos novas pescarias aqui Super indico Lugar bom pra estacionar É... Visual alucinante E... Até a próxima aí Valeu galera Se inscreve lá no canal No finalzinho agora Entrou muito vento também Saímos cedo É... Então não pegamos A maré boa Devido a esse vento muito forte Que entrou agora de tarde aí Por volta de meio dia Já tava na previsão Então a ideia era fazer uma pescaria Só na parte da manhã mesmo Então Valeu aí Até a próxima galera",
+  "segmentos": [
+    {
+      "start": 9.26,
+      "end": 11.92,
+      "text": "Bom dia família, mais uma pescaria"
+    },
+    {
+      "start": 11.92,
+      "end": 13.88,
+      "text": "Meu amigo Luiz aí, ó"
+    },
+    {
+      "start": 13.88,
+      "end": 16.62,
+      "text": "Do Pesca Maravilhosa"
+    },
+    {
+      "start": 16.62,
+      "end": 19.86,
+      "text": "Tudo pronto, meu cara que já tá lá na"
+    },
+    {
+      "start": 19.86,
+      "end": 23.17,
+      "text": "Galera aí chegando aí pra pescar"
+    },
+    {
+      "start": 23.17,
+      "end": 25.44,
+      "text": "Fique tranquilo"
+    },
+    {
+      "start": 25.44,
+      "end": 26.72,
+      "text": "Itaipu"
+    },
+    {
+      "start": 26.72,
+      "end": 28.71,
+      "text": "Niterói"
+    },
+    {
+      "start": 28.71,
+      "end": 64.98,
+      "text": "Fala galera, mais uma pescaria"
+    },
+    {
+      "start": 64.98,
+      "end": 66.08,
+      "text": "Itaipu"
+    },
+    {
+      "start": 66.08,
+      "end": 69.2,
+      "text": "Vamos ver o que sai hoje aí, vamos ver se a gente mata uns peixinhos"
+    },
+    {
+      "start": 69.2,
+      "end": 70.18,
+      "text": "Primeira vez aqui"
+    },
+    {
+      "start": 70.18,
+      "end": 72.3,
+      "text": "Eu e meu amigo Luiz do Pesca Maravilhosa"
+    },
+    {
+      "start": 72.3,
+      "end": 73.78,
+      "text": "Vamos lá, família radical"
+    },
+    {
+      "start": 73.78,
+      "end": 125.17,
+      "text": "Entrada muito tranquila"
+    },
+    {
+      "start": 125.17,
+      "end": 128.04,
+      "text": "Mas lembrando que a gente analisou"
+    },
+    {
+      "start": 128.04,
+      "end": 129.98,
+      "text": "Bem a condição ontem"
+    },
+    {
+      "start": 129.98,
+      "end": 132.3,
+      "text": "Escolhendo qual lugar onde a gente ia"
+    },
+    {
+      "start": 132.3,
+      "end": 133.88,
+      "text": "Qual ponte onde a gente ia"
+    },
+    {
+      "start": 133.88,
+      "end": 135.3,
+      "text": "Tá?"
+    },
+    {
+      "start": 136.9,
+      "end": 138.06,
+      "text": "Uma laje aqui na frente"
+    },
+    {
+      "start": 138.06,
+      "end": 142.74,
+      "text": "A gente tá aqui bem na frente do estacionamento"
+    },
+    {
+      "start": 142.74,
+      "end": 150.87,
+      "text": "A gente tá bem aqui em frente do estacionamento"
+    },
+    {
+      "start": 150.87,
+      "end": 153.26,
+      "text": "É..."
+    },
+    {
+      "start": 153.26,
+      "end": 155.6,
+      "text": "A gente olhou bem a previsão"
+    },
+    {
+      "start": 155.6,
+      "end": 157.64,
+      "text": "O mar tá dando"
+    },
+    {
+      "start": 157.64,
+      "end": 158.6,
+      "text": "Meio metro"
+    },
+    {
+      "start": 158.6,
+      "end": 159.98,
+      "text": "Até um metro"
+    },
+    {
+      "start": 159.98,
+      "end": 161.64,
+      "text": "Pra pescar de caiaque"
+    },
+    {
+      "start": 161.64,
+      "end": 163.72,
+      "text": "Normalmente é tranquilo"
+    },
+    {
+      "start": 163.72,
+      "end": 165.3,
+      "text": "Você pode usar o site wind"
+    },
+    {
+      "start": 165.3,
+      "end": 167.78,
+      "text": "Ou..."
+    },
+    {
+      "start": 167.78,
+      "end": 169.08,
+      "text": "Algum outro tem de..."
+    },
+    {
+      "start": 169.08,
+      "end": 170.08,
+      "text": "Alguns de surf"
+    },
+    {
+      "start": 170.08,
+      "end": 173.04,
+      "text": "Porco"
+    },
+    {
+      "start": 173.04,
+      "end": 175.83,
+      "text": "Aí ó, primeira ação do dia"
+    },
+    {
+      "start": 175.83,
+      "end": 177.23,
+      "text": "Acabamos de chegar"
+    },
+    {
+      "start": 177.23,
+      "end": 178.59,
+      "text": "Primeira remessa"
+    },
+    {
+      "start": 178.59,
+      "end": 179.71,
+      "text": "Olha só, o porquinho"
+    },
+    {
+      "start": 179.71,
+      "end": 181.65,
+      "text": "Olha aqui ó"
+    },
+    {
+      "start": 181.65,
+      "end": 193.16,
+      "text": "No rosa, no camarão rosa"
+    },
+    {
+      "start": 193.16,
+      "end": 194.12,
+      "text": "Soltou"
+    },
+    {
+      "start": 194.12,
+      "end": 195.7,
+      "text": "Acabei de perder o porquinho"
+    },
+    {
+      "start": 195.7,
+      "end": 198.43,
+      "text": "Na linha"
+    },
+    {
+      "start": 198.43,
+      "end": 199.71,
+      "text": "Segundo peixinho do dia"
+    },
+    {
+      "start": 199.71,
+      "end": 202.7,
+      "text": "Vamos lá"
+    },
+    {
+      "start": 202.7,
+      "end": 206.66,
+      "text": "Pode ser pequeno, mas"
+    },
+    {
+      "start": 206.66,
+      "end": 209.25,
+      "text": "Tá tendo ação"
+    },
+    {
+      "start": 209.25,
+      "end": 210.63,
+      "text": "Um lugarzinho promissor"
+    },
+    {
+      "start": 210.63,
+      "end": 210.95,
+      "text": "Um lugarzinho promissor"
+    },
+    {
+      "start": 210.95,
+      "end": 212.37,
+      "text": "Olha só, vamos ver o que que é"
+    },
+    {
+      "start": 212.37,
+      "end": 223.03,
+      "text": "Porcazinha"
+    },
+    {
+      "start": 223.03,
+      "end": 225.46,
+      "text": "De gatinho, de cocorroca"
+    },
+    {
+      "start": 225.46,
+      "end": 239.9,
+      "text": "Tia"
+    },
+    {
+      "start": 239.9,
+      "end": 248.24,
+      "text": "Coisa da linha"
+    },
+    {
+      "start": 248.24,
+      "end": 438.71,
+      "text": "A altura da água é 16 graus"
+    },
+    {
+      "start": 438.71,
+      "end": 440.47,
+      "text": "Um pouco fraca"
+    },
+    {
+      "start": 440.47,
+      "end": 443.25,
+      "text": "Meu amigo Luiz aí do Pesca Maravilhosa"
+    },
+    {
+      "start": 443.25,
+      "end": 444.31,
+      "text": "Perdeu um robalão"
+    },
+    {
+      "start": 444.31,
+      "end": 446.94,
+      "text": "O único peixe bom do dia aí"
+    },
+    {
+      "start": 446.94,
+      "end": 449.18,
+      "text": "Soltou já em cima na flor da água"
+    },
+    {
+      "start": 449.18,
+      "end": 451.57,
+      "text": "Saiu um robalinho pequeno"
+    },
+    {
+      "start": 451.57,
+      "end": 452.23,
+      "text": "Soltou"
+    },
+    {
+      "start": 452.23,
+      "end": 454.44,
+      "text": "E..."
+    },
+    {
+      "start": 454.44,
+      "end": 456.89,
+      "text": "O lugar é muito bom"
+    },
+    {
+      "start": 456.89,
+      "end": 457.49,
+      "text": "Gostamos"
+    },
+    {
+      "start": 457.49,
+      "end": 460.31,
+      "text": "Potencial excelente"
+    },
+    {
+      "start": 460.31,
+      "end": 461.03,
+      "text": "Com certeza"
+    },
+    {
+      "start": 461.03,
+      "end": 462.43,
+      "text": "Muito em breve"
+    },
+    {
+      "start": 462.43,
+      "end": 464.41,
+      "text": "Teremos novas pescarias aqui"
+    },
+    {
+      "start": 464.41,
+      "end": 466.07,
+      "text": "Super indico"
+    },
+    {
+      "start": 466.07,
+      "end": 467.99,
+      "text": "Lugar bom pra estacionar"
+    },
+    {
+      "start": 467.99,
+      "end": 469.11,
+      "text": "É..."
+    },
+    {
+      "start": 469.11,
+      "end": 470.67,
+      "text": "Visual alucinante"
+    },
+    {
+      "start": 470.67,
+      "end": 472.42,
+      "text": "E..."
+    },
+    {
+      "start": 472.42,
+      "end": 473.34,
+      "text": "Até a próxima aí"
+    },
+    {
+      "start": 473.34,
+      "end": 473.96,
+      "text": "Valeu galera"
+    },
+    {
+      "start": 473.96,
+      "end": 475.34,
+      "text": "Se inscreve lá no canal"
+    },
+    {
+      "start": 475.34,
+      "end": 478.21,
+      "text": "No finalzinho agora"
+    },
+    {
+      "start": 478.21,
+      "end": 479.85,
+      "text": "Entrou muito vento também"
+    },
+    {
+      "start": 479.85,
+      "end": 481.35,
+      "text": "Saímos cedo"
+    },
+    {
+      "start": 481.35,
+      "end": 483.4,
+      "text": "É..."
+    },
+    {
+      "start": 483.4,
+      "end": 484.86,
+      "text": "Então não pegamos"
+    },
+    {
+      "start": 484.86,
+      "end": 485.64,
+      "text": "A maré boa"
+    },
+    {
+      "start": 485.64,
+      "end": 489.69,
+      "text": "Devido a esse vento muito forte"
+    },
+    {
+      "start": 489.69,
+      "end": 491.15,
+      "text": "Que entrou agora de tarde aí"
+    },
+    {
+      "start": 491.15,
+      "end": 492.93,
+      "text": "Por volta de meio dia"
+    },
+    {
+      "start": 492.93,
+      "end": 494.65,
+      "text": "Já tava na previsão"
+    },
+    {
+      "start": 494.65,
+      "end": 496.35,
+      "text": "Então a ideia era fazer uma pescaria"
+    },
+    {
+      "start": 496.35,
+      "end": 497.71,
+      "text": "Só na parte da manhã mesmo"
+    },
+    {
+      "start": 497.71,
+      "end": 498.92,
+      "text": "Então"
+    },
+    {
+      "start": 498.92,
+      "end": 500.61,
+      "text": "Valeu aí"
+    },
+    {
+      "start": 500.61,
+      "end": 501.71,
+      "text": "Até a próxima galera"
+    }
+  ],
+  "duracao_seg": 512.77,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Se você quiser, se você quiser, hold on to it, hold on to it Cause most of us are bad at it, gotta get rich from faking it And even if it dissolves, it's still better than nothing else",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.37,
+      "text": "Se você quiser, se você quiser, hold on to it, hold on to it"
+    },
+    {
+      "start": 5.37,
+      "end": 10.71,
+      "text": "Cause most of us are bad at it, gotta get rich from faking it"
+    },
+    {
+      "start": 10.71,
+      "end": 14.97,
+      "text": "And even if it dissolves, it's still better than nothing else"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,872 @@
+{
+  "texto": "Tá aí, colar só os pedaços lá pendurados Mas é fácil pra voltar depois Tudo bem, pessoal? Vamos fazer a primeira pescaria aí, o Bob Depois do desastre que teve aí no Rio Grande do Sul Espero que Deus abençoe, que Deus ajude A reconstruir a cidade mais afetada ali Que foi Troca Salles e o Sul Vale do Taquari O Rio tá alto ainda, tá perigoso Nós vamos pescar nos remanços aqui Vamos acampar aqui de cima Vamos dar pra ver aí essa parte toda marrom ali, ó As árvores que foram Ficaram embaixo d'água que secou Vou tentar depois entrar ali Tem uma lagoa ali pro lado de lá, ali a cozinha de cima Vamos ver se tem algum peixinho lá dentro Beleza, gurizada? Acompanhe aí como é que vai ser Se vamos conseguir fazer uma fritada Né, Bob? Bobzinho Bobzinho, ó Bobzinho caiaqueiro Não se assusta Pedaço Tem um caíco aqui enterrado Vai ser fácil pra voltar depois Né, Bob? Tem que atravessar pro lado do lá pra nós pescar Vamos dar uma olhada aí pra cima O que que a gente entrou e trouxe e destruiu, hein? Vem, Bob, vem Vem, Bob Arrar o caiaque aqui Bom, Bob Que não tinha nem condição de caminhar por aqui Abriu fora tudo Vem, Bob, vem Uma árvore de espinho, cara Fechamos uma cuia Tá bem boa ainda Força da água, cara É impressionante, cara Meu Deus do céu Caico lá Só os pedaços lá pendurados E aí, Bob? Vem Vem, vamo, Bob Aqui, ó Vamo Tem que aprender a montar no caiaque, Bob Vem, vem Aqui, ó Aqui Vai Sobe aí, Bob Sobe Sobe Vamo, Bob Vamo Vamo Tem que te ensinar, Bobzinho Tem que te ensinar a montar no caiaque Vamo, Bob Vamo Aqui, ó Aqui Vem, vem Vem aqui, ó Aqui, Bob Aqui, ó Vamo Vamo, Bob Vamo Vamo, vamo Vem Vem Vem, vem Vem, Bob Vem, vem, Bob Vamo Vem, Bob Vem, vem Pula, pula Pula Vem Aqui, ó Vamo ver se ele vem Vem, vem Vem Vem aqui, ó Aqui, ó Aqui, ó Pula, pula, Bob Vamo Vamo, ó Vamo, Bob, vim Vem, aqui, ó Vem Vem, ó Ó, Bob, vamo Vamo, vamo Vamo, Bob, vamo Vamo, Bob, vamo Vem, aqui, ó Aqui, aqui Aqui Aqui Vem Vem Iazá, guri Entra ali Aí, ó Aí, guri Aprendeu a entrar no caiaque Vou apontar por aqui Aqui, um remanção Vamo ver se saiu um jundiai Vem, Bob Maraki e Sarandiki Aqui Aqui no remanço Já tá aqui, ó Ah, esse aqui eu vi que Que era bom A carregada que deu, cara Olha ali, Bob Vi que a carregada foi bonita O rio tá baixando Os peixes vão Vão começar a comer, gurizada Eles ficaram sem comer Esse tempo aí Que o rio teve alto Eles vão sair pra comer agora Aí, Bob Bebe água ali, bebe Aí, Bob Ih, um bichão, Bob Ô, véio Vamo largar pra vida O garoto Vamo voltar pro acampamento Fazer o acampamento Limpar os peixes aí E fazer a fritada Tá doido, cara Cês vim apurado subir, né, Bob? Tô gastando essa banha aqui Só pra manter o fogo agora Tô fritar tudo moiada Tem que queimar essa banha Colocar uma chaleira Esquentada De água pra mim Fazer um café Comer peixe E tomar um café Tá, Bob Chega aí, Bob Chega aí que vamo comer, Bob Bom, né, Bob? Tirar os espinhos pra ti aqui, né Tá, Bob Tá quente, né? A banha salvou O meu dia Se não fosse a banha Não ia conseguir fazer o fogo Vamo, Bob",
+  "segmentos": [
+    {
+      "start": 2.99,
+      "end": 5.41,
+      "text": "Tá aí, colar só os pedaços lá pendurados"
+    },
+    {
+      "start": 5.41,
+      "end": 29.63,
+      "text": "Mas é fácil pra voltar depois"
+    },
+    {
+      "start": 29.63,
+      "end": 67.34,
+      "text": "Tudo bem, pessoal?"
+    },
+    {
+      "start": 69.62,
+      "end": 71.56,
+      "text": "Vamos fazer a primeira pescaria aí, o Bob"
+    },
+    {
+      "start": 71.56,
+      "end": 81.15,
+      "text": "Depois do desastre que teve aí no Rio Grande do Sul"
+    },
+    {
+      "start": 81.15,
+      "end": 87.48,
+      "text": "Espero que Deus abençoe, que Deus ajude"
+    },
+    {
+      "start": 87.48,
+      "end": 91.87,
+      "text": "A reconstruir a cidade mais afetada ali"
+    },
+    {
+      "start": 91.87,
+      "end": 94.19,
+      "text": "Que foi Troca Salles e o Sul"
+    },
+    {
+      "start": 94.19,
+      "end": 96.67,
+      "text": "Vale do Taquari"
+    },
+    {
+      "start": 96.67,
+      "end": 102.07,
+      "text": "O Rio tá alto ainda, tá perigoso"
+    },
+    {
+      "start": 102.07,
+      "end": 106.1,
+      "text": "Nós vamos pescar nos remanços aqui"
+    },
+    {
+      "start": 106.1,
+      "end": 108.06,
+      "text": "Vamos acampar aqui de cima"
+    },
+    {
+      "start": 108.06,
+      "end": 115.52,
+      "text": "Vamos dar pra ver aí essa parte toda marrom ali, ó"
+    },
+    {
+      "start": 115.52,
+      "end": 117.75,
+      "text": "As árvores que foram"
+    },
+    {
+      "start": 117.75,
+      "end": 120.21,
+      "text": "Ficaram embaixo d'água que secou"
+    },
+    {
+      "start": 120.21,
+      "end": 123.53,
+      "text": "Vou tentar depois entrar ali"
+    },
+    {
+      "start": 123.53,
+      "end": 126.03,
+      "text": "Tem uma lagoa ali pro lado de lá, ali a cozinha de cima"
+    },
+    {
+      "start": 126.03,
+      "end": 129.95,
+      "text": "Vamos ver se tem algum peixinho lá dentro"
+    },
+    {
+      "start": 129.95,
+      "end": 132.87,
+      "text": "Beleza, gurizada?"
+    },
+    {
+      "start": 133.19,
+      "end": 134.47,
+      "text": "Acompanhe aí como é que vai ser"
+    },
+    {
+      "start": 134.47,
+      "end": 137.78,
+      "text": "Se vamos conseguir fazer uma fritada"
+    },
+    {
+      "start": 137.78,
+      "end": 138.94,
+      "text": "Né, Bob?"
+    },
+    {
+      "start": 138.94,
+      "end": 140.16,
+      "text": "Bobzinho"
+    },
+    {
+      "start": 140.16,
+      "end": 141.88,
+      "text": "Bobzinho, ó"
+    },
+    {
+      "start": 141.88,
+      "end": 143.54,
+      "text": "Bobzinho caiaqueiro"
+    },
+    {
+      "start": 143.54,
+      "end": 158.0,
+      "text": "Não se assusta"
+    },
+    {
+      "start": 158.0,
+      "end": 195.34,
+      "text": "Pedaço"
+    },
+    {
+      "start": 195.34,
+      "end": 196.78,
+      "text": "Tem um caíco aqui enterrado"
+    },
+    {
+      "start": 196.78,
+      "end": 230.51,
+      "text": "Vai ser fácil pra voltar depois"
+    },
+    {
+      "start": 230.51,
+      "end": 243.55,
+      "text": "Né, Bob?"
+    },
+    {
+      "start": 243.55,
+      "end": 252.68,
+      "text": "Tem que atravessar pro lado do lá pra nós pescar"
+    },
+    {
+      "start": 252.68,
+      "end": 301.76,
+      "text": "Vamos dar uma olhada aí pra cima"
+    },
+    {
+      "start": 301.76,
+      "end": 309.65,
+      "text": "O que que a gente entrou e trouxe e destruiu, hein?"
+    },
+    {
+      "start": 311.17,
+      "end": 311.75,
+      "text": "Vem, Bob, vem"
+    },
+    {
+      "start": 311.75,
+      "end": 315.28,
+      "text": "Vem, Bob"
+    },
+    {
+      "start": 315.28,
+      "end": 331.35,
+      "text": "Arrar o caiaque aqui"
+    },
+    {
+      "start": 331.35,
+      "end": 354.59,
+      "text": "Bom, Bob"
+    },
+    {
+      "start": 354.59,
+      "end": 374.7,
+      "text": "Que não tinha nem condição de caminhar por aqui"
+    },
+    {
+      "start": 374.7,
+      "end": 377.68,
+      "text": "Abriu fora tudo"
+    },
+    {
+      "start": 377.68,
+      "end": 384.82,
+      "text": "Vem, Bob, vem"
+    },
+    {
+      "start": 384.82,
+      "end": 420.79,
+      "text": "Uma árvore de espinho, cara"
+    },
+    {
+      "start": 420.79,
+      "end": 478.22,
+      "text": "Fechamos uma cuia"
+    },
+    {
+      "start": 478.22,
+      "end": 483.44,
+      "text": "Tá bem boa ainda"
+    },
+    {
+      "start": 483.44,
+      "end": 493.62,
+      "text": "Força da água, cara"
+    },
+    {
+      "start": 493.62,
+      "end": 497.99,
+      "text": "É impressionante, cara"
+    },
+    {
+      "start": 497.99,
+      "end": 499.84,
+      "text": "Meu Deus do céu"
+    },
+    {
+      "start": 499.84,
+      "end": 504.16,
+      "text": "Caico lá"
+    },
+    {
+      "start": 504.16,
+      "end": 505.68,
+      "text": "Só os pedaços lá pendurados"
+    },
+    {
+      "start": 505.68,
+      "end": 550.42,
+      "text": "E aí, Bob?"
+    },
+    {
+      "start": 583.01,
+      "end": 583.41,
+      "text": "Vem"
+    },
+    {
+      "start": 583.41,
+      "end": 584.09,
+      "text": "Vem, vamo, Bob"
+    },
+    {
+      "start": 584.09,
+      "end": 584.87,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 584.87,
+      "end": 585.03,
+      "text": "Vamo"
+    },
+    {
+      "start": 585.03,
+      "end": 587.88,
+      "text": "Tem que aprender a montar no caiaque, Bob"
+    },
+    {
+      "start": 587.88,
+      "end": 589.71,
+      "text": "Vem, vem"
+    },
+    {
+      "start": 589.71,
+      "end": 590.39,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 590.39,
+      "end": 590.65,
+      "text": "Aqui"
+    },
+    {
+      "start": 590.65,
+      "end": 591.47,
+      "text": "Vai"
+    },
+    {
+      "start": 591.47,
+      "end": 592.17,
+      "text": "Sobe aí, Bob"
+    },
+    {
+      "start": 592.17,
+      "end": 592.49,
+      "text": "Sobe"
+    },
+    {
+      "start": 592.49,
+      "end": 593.73,
+      "text": "Sobe"
+    },
+    {
+      "start": 593.73,
+      "end": 598.22,
+      "text": "Vamo, Bob"
+    },
+    {
+      "start": 598.22,
+      "end": 598.42,
+      "text": "Vamo"
+    },
+    {
+      "start": 598.42,
+      "end": 599.24,
+      "text": "Vamo"
+    },
+    {
+      "start": 599.24,
+      "end": 605.75,
+      "text": "Tem que te ensinar, Bobzinho"
+    },
+    {
+      "start": 605.75,
+      "end": 608.91,
+      "text": "Tem que te ensinar a montar no caiaque"
+    },
+    {
+      "start": 608.91,
+      "end": 615.18,
+      "text": "Vamo, Bob"
+    },
+    {
+      "start": 615.18,
+      "end": 615.4,
+      "text": "Vamo"
+    },
+    {
+      "start": 615.4,
+      "end": 616.0,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 616.0,
+      "end": 616.76,
+      "text": "Aqui"
+    },
+    {
+      "start": 616.76,
+      "end": 618.38,
+      "text": "Vem, vem"
+    },
+    {
+      "start": 618.38,
+      "end": 620.37,
+      "text": "Vem aqui, ó"
+    },
+    {
+      "start": 620.37,
+      "end": 622.53,
+      "text": "Aqui, Bob"
+    },
+    {
+      "start": 622.53,
+      "end": 623.21,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 623.21,
+      "end": 623.41,
+      "text": "Vamo"
+    },
+    {
+      "start": 623.41,
+      "end": 626.16,
+      "text": "Vamo, Bob"
+    },
+    {
+      "start": 626.16,
+      "end": 626.36,
+      "text": "Vamo"
+    },
+    {
+      "start": 626.36,
+      "end": 627.96,
+      "text": "Vamo, vamo"
+    },
+    {
+      "start": 627.96,
+      "end": 628.28,
+      "text": "Vem"
+    },
+    {
+      "start": 628.28,
+      "end": 628.94,
+      "text": "Vem"
+    },
+    {
+      "start": 628.94,
+      "end": 630.2,
+      "text": "Vem, vem"
+    },
+    {
+      "start": 630.2,
+      "end": 631.18,
+      "text": "Vem, Bob"
+    },
+    {
+      "start": 631.18,
+      "end": 632.22,
+      "text": "Vem, vem, Bob"
+    },
+    {
+      "start": 632.22,
+      "end": 632.54,
+      "text": "Vamo"
+    },
+    {
+      "start": 632.54,
+      "end": 638.9,
+      "text": "Vem, Bob"
+    },
+    {
+      "start": 638.9,
+      "end": 639.52,
+      "text": "Vem, vem"
+    },
+    {
+      "start": 639.52,
+      "end": 640.4,
+      "text": "Pula, pula"
+    },
+    {
+      "start": 640.4,
+      "end": 640.94,
+      "text": "Pula"
+    },
+    {
+      "start": 640.94,
+      "end": 641.52,
+      "text": "Vem"
+    },
+    {
+      "start": 641.52,
+      "end": 642.18,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 642.18,
+      "end": 642.92,
+      "text": "Vamo ver se ele vem"
+    },
+    {
+      "start": 642.92,
+      "end": 644.48,
+      "text": "Vem, vem"
+    },
+    {
+      "start": 644.48,
+      "end": 644.88,
+      "text": "Vem"
+    },
+    {
+      "start": 644.88,
+      "end": 645.98,
+      "text": "Vem aqui, ó"
+    },
+    {
+      "start": 645.98,
+      "end": 646.72,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 646.72,
+      "end": 647.58,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 647.58,
+      "end": 649.25,
+      "text": "Pula, pula, Bob"
+    },
+    {
+      "start": 649.25,
+      "end": 649.53,
+      "text": "Vamo"
+    },
+    {
+      "start": 649.53,
+      "end": 650.53,
+      "text": "Vamo, ó"
+    },
+    {
+      "start": 650.53,
+      "end": 651.03,
+      "text": "Vamo, Bob, vim"
+    },
+    {
+      "start": 651.03,
+      "end": 651.57,
+      "text": "Vem, aqui, ó"
+    },
+    {
+      "start": 651.57,
+      "end": 652.49,
+      "text": "Vem"
+    },
+    {
+      "start": 652.49,
+      "end": 652.89,
+      "text": "Vem, ó"
+    },
+    {
+      "start": 652.89,
+      "end": 654.21,
+      "text": "Ó, Bob, vamo"
+    },
+    {
+      "start": 654.21,
+      "end": 655.31,
+      "text": "Vamo, vamo"
+    },
+    {
+      "start": 655.31,
+      "end": 657.1,
+      "text": "Vamo, Bob, vamo"
+    },
+    {
+      "start": 657.1,
+      "end": 659.13,
+      "text": "Vamo, Bob, vamo"
+    },
+    {
+      "start": 659.13,
+      "end": 660.25,
+      "text": "Vem, aqui, ó"
+    },
+    {
+      "start": 660.25,
+      "end": 661.49,
+      "text": "Aqui, aqui"
+    },
+    {
+      "start": 661.49,
+      "end": 662.21,
+      "text": "Aqui"
+    },
+    {
+      "start": 662.21,
+      "end": 663.21,
+      "text": "Aqui"
+    },
+    {
+      "start": 663.21,
+      "end": 663.89,
+      "text": "Vem"
+    },
+    {
+      "start": 663.89,
+      "end": 664.55,
+      "text": "Vem"
+    },
+    {
+      "start": 664.55,
+      "end": 667.36,
+      "text": "Iazá, guri"
+    },
+    {
+      "start": 667.36,
+      "end": 669.04,
+      "text": "Entra ali"
+    },
+    {
+      "start": 669.04,
+      "end": 669.52,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 669.52,
+      "end": 671.22,
+      "text": "Aí, guri"
+    },
+    {
+      "start": 671.22,
+      "end": 672.9,
+      "text": "Aprendeu a entrar no caiaque"
+    },
+    {
+      "start": 672.9,
+      "end": 675.2,
+      "text": "Vou apontar por aqui"
+    },
+    {
+      "start": 675.2,
+      "end": 676.12,
+      "text": "Aqui, um remanção"
+    },
+    {
+      "start": 676.12,
+      "end": 680.91,
+      "text": "Vamo ver se saiu um jundiai"
+    },
+    {
+      "start": 680.91,
+      "end": 682.85,
+      "text": "Vem, Bob"
+    },
+    {
+      "start": 682.85,
+      "end": 688.02,
+      "text": "Maraki e Sarandiki"
+    },
+    {
+      "start": 688.02,
+      "end": 778.9,
+      "text": "Aqui"
+    },
+    {
+      "start": 778.9,
+      "end": 779.66,
+      "text": "Aqui no remanço"
+    },
+    {
+      "start": 779.66,
+      "end": 922.59,
+      "text": "Já tá aqui, ó"
+    },
+    {
+      "start": 922.59,
+      "end": 925.34,
+      "text": "Ah, esse aqui eu vi que"
+    },
+    {
+      "start": 925.34,
+      "end": 926.9,
+      "text": "Que era bom"
+    },
+    {
+      "start": 926.9,
+      "end": 929.26,
+      "text": "A carregada que deu, cara"
+    },
+    {
+      "start": 929.26,
+      "end": 945.83,
+      "text": "Olha ali, Bob"
+    },
+    {
+      "start": 945.83,
+      "end": 966.6,
+      "text": "Vi que a carregada foi bonita"
+    },
+    {
+      "start": 966.6,
+      "end": 987.3,
+      "text": "O rio tá baixando"
+    },
+    {
+      "start": 987.3,
+      "end": 987.92,
+      "text": "Os peixes vão"
+    },
+    {
+      "start": 987.92,
+      "end": 989.78,
+      "text": "Vão começar a comer, gurizada"
+    },
+    {
+      "start": 989.78,
+      "end": 992.24,
+      "text": "Eles ficaram sem comer"
+    },
+    {
+      "start": 992.24,
+      "end": 992.9,
+      "text": "Esse tempo aí"
+    },
+    {
+      "start": 992.9,
+      "end": 993.78,
+      "text": "Que o rio teve alto"
+    },
+    {
+      "start": 993.78,
+      "end": 1001.26,
+      "text": "Eles vão sair pra comer agora"
+    },
+    {
+      "start": 1001.26,
+      "end": 1037.79,
+      "text": "Aí, Bob"
+    },
+    {
+      "start": 1037.79,
+      "end": 1085.84,
+      "text": "Bebe água ali, bebe"
+    },
+    {
+      "start": 1085.84,
+      "end": 1124.26,
+      "text": "Aí, Bob"
+    },
+    {
+      "start": 1124.26,
+      "end": 1127.54,
+      "text": "Ih, um bichão, Bob"
+    },
+    {
+      "start": 1127.54,
+      "end": 1132.92,
+      "text": "Ô, véio"
+    },
+    {
+      "start": 1132.92,
+      "end": 1163.45,
+      "text": "Vamo largar pra vida"
+    },
+    {
+      "start": 1163.45,
+      "end": 1164.01,
+      "text": "O garoto"
+    },
+    {
+      "start": 1164.01,
+      "end": 1175.75,
+      "text": "Vamo voltar pro acampamento"
+    },
+    {
+      "start": 1175.75,
+      "end": 1178.52,
+      "text": "Fazer o acampamento"
+    },
+    {
+      "start": 1178.52,
+      "end": 1184.78,
+      "text": "Limpar os peixes aí"
+    },
+    {
+      "start": 1184.78,
+      "end": 1185.74,
+      "text": "E fazer a fritada"
+    },
+    {
+      "start": 1185.74,
+      "end": 1215.36,
+      "text": "Tá doido, cara"
+    },
+    {
+      "start": 1215.36,
+      "end": 1230.75,
+      "text": "Cês vim apurado subir, né, Bob?"
+    },
+    {
+      "start": 1231.13,
+      "end": 1614.37,
+      "text": "Tô gastando essa banha aqui"
+    },
+    {
+      "start": 1614.37,
+      "end": 1617.2,
+      "text": "Só pra manter o fogo agora"
+    },
+    {
+      "start": 1617.2,
+      "end": 1628.41,
+      "text": "Tô fritar tudo moiada"
+    },
+    {
+      "start": 1628.41,
+      "end": 1632.32,
+      "text": "Tem que queimar essa banha"
+    },
+    {
+      "start": 1632.32,
+      "end": 1732.53,
+      "text": "Colocar uma chaleira"
+    },
+    {
+      "start": 1732.53,
+      "end": 1733.17,
+      "text": "Esquentada"
+    },
+    {
+      "start": 1733.17,
+      "end": 1734.63,
+      "text": "De água pra mim"
+    },
+    {
+      "start": 1734.63,
+      "end": 1736.77,
+      "text": "Fazer um café"
+    },
+    {
+      "start": 1736.77,
+      "end": 1789.44,
+      "text": "Comer peixe"
+    },
+    {
+      "start": 1789.44,
+      "end": 1790.87,
+      "text": "E tomar um café"
+    },
+    {
+      "start": 1790.87,
+      "end": 1850.07,
+      "text": "Tá, Bob"
+    },
+    {
+      "start": 1850.07,
+      "end": 1851.84,
+      "text": "Chega aí, Bob"
+    },
+    {
+      "start": 1851.84,
+      "end": 1854.72,
+      "text": "Chega aí que vamo comer, Bob"
+    },
+    {
+      "start": 1854.72,
+      "end": 1971.36,
+      "text": "Bom, né, Bob?"
+    },
+    {
+      "start": 1973.25,
+      "end": 1974.51,
+      "text": "Tirar os espinhos pra ti aqui, né"
+    },
+    {
+      "start": 1974.51,
+      "end": 1980.31,
+      "text": "Tá, Bob"
+    },
+    {
+      "start": 1980.31,
+      "end": 1985.34,
+      "text": "Tá quente, né?"
+    },
+    {
+      "start": 1994.15,
+      "end": 1995.27,
+      "text": "A banha salvou"
+    },
+    {
+      "start": 1995.27,
+      "end": 1996.03,
+      "text": "O meu dia"
+    },
+    {
+      "start": 1996.03,
+      "end": 1997.98,
+      "text": "Se não fosse a banha"
+    },
+    {
+      "start": 1997.98,
+      "end": 1999.28,
+      "text": "Não ia conseguir fazer o fogo"
+    },
+    {
+      "start": 1999.28,
+      "end": 2039.02,
+      "text": "Vamo, Bob"
+    }
+  ],
+  "duracao_seg": 2115.47,
+  "idioma_detectado": "pt"
+}

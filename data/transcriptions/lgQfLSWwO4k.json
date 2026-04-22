@@ -1,0 +1,37 @@
+{
+  "texto": "Isso aqui. É aqui, João. É, eu vou te... É, eu vou te... Eu vou te botar, né? É, eu vou te...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "Isso aqui."
+    },
+    {
+      "start": 2.94,
+      "end": 3.58,
+      "text": "É aqui, João."
+    },
+    {
+      "start": 4.72,
+      "end": 5.84,
+      "text": "É, eu vou te..."
+    },
+    {
+      "start": 5.84,
+      "end": 7.74,
+      "text": "É, eu vou te..."
+    },
+    {
+      "start": 7.74,
+      "end": 9.18,
+      "text": "Eu vou te botar, né?"
+    },
+    {
+      "start": 9.9,
+      "end": 10.9,
+      "text": "É, eu vou te..."
+    }
+  ],
+  "duracao_seg": 11.73,
+  "idioma_detectado": "pt"
+}

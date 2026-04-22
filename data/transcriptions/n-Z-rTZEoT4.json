@@ -1,0 +1,37 @@
+{
+  "texto": "Ó, estamos aqui na represa do Guarapiranga, ó, camarada Fabinha aí, ó, acabou de tirar a traíra. Perdi várias também, mas ó, está saindo, hein? Vamos aí. Esquinha artificial. Vamos tirar a esquinha aí e vamos continuar. Vamos continuar, estamos juntos.",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 6.92,
+      "text": "Ó, estamos aqui na represa do Guarapiranga, ó, camarada Fabinha aí, ó, acabou de tirar a traíra."
+    },
+    {
+      "start": 7.44,
+      "end": 9.56,
+      "text": "Perdi várias também, mas ó, está saindo, hein?"
+    },
+    {
+      "start": 10.43,
+      "end": 10.89,
+      "text": "Vamos aí."
+    },
+    {
+      "start": 11.03,
+      "end": 11.45,
+      "text": "Esquinha artificial."
+    },
+    {
+      "start": 13.65,
+      "end": 15.47,
+      "text": "Vamos tirar a esquinha aí e vamos continuar."
+    },
+    {
+      "start": 15.65,
+      "end": 16.79,
+      "text": "Vamos continuar, estamos juntos."
+    }
+  ],
+  "duracao_seg": 17.39,
+  "idioma_detectado": "pt"
+}

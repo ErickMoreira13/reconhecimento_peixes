@@ -1,0 +1,32 @@
+{
+  "texto": "No último Sobrevência Real, a gente ficou na beira do rio, e um rio relativamente grande, e a gente levou um kitzinho pesca pra pescar, só que uma semana antes da gravação, teve uma grande inundação, muita água, quase levou a ponte, que mudou, então levou a maior parte dos peixes, desceram, então ali já não tinha quase nenhum peixe, então o peixe também é sorte.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.14,
+      "text": "No último Sobrevência Real, a gente ficou na beira do rio,"
+    },
+    {
+      "start": 3.68,
+      "end": 7.74,
+      "text": "e um rio relativamente grande, e a gente levou um kitzinho pesca pra pescar,"
+    },
+    {
+      "start": 8.16,
+      "end": 12.1,
+      "text": "só que uma semana antes da gravação, teve uma grande inundação,"
+    },
+    {
+      "start": 12.32,
+      "end": 16.72,
+      "text": "muita água, quase levou a ponte, que mudou, então levou a maior parte dos peixes,"
+    },
+    {
+      "start": 16.84,
+      "end": 20.96,
+      "text": "desceram, então ali já não tinha quase nenhum peixe, então o peixe também é sorte."
+    }
+  ],
+  "duracao_seg": 21.27,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Levanto logo cedinho, em dia de pescaria Tomo meu café quentinho, pra encarar a brisa fria Vou pela estrada batida, a passarada subia Levo a traia e a matula, só volto no fim do dia A natureza é minha, e eu sou da natureza Tenho tudo o que preciso, minha vida é uma vida",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 21.05,
+      "text": "Levanto logo cedinho, em dia de pescaria Tomo meu café quentinho, pra encarar a brisa fria"
+    },
+    {
+      "start": 21.05,
+      "end": 36.34,
+      "text": "Vou pela estrada batida, a passarada subia Levo a traia e a matula, só volto no fim do dia"
+    },
+    {
+      "start": 36.34,
+      "end": 50.04,
+      "text": "A natureza é minha, e eu sou da natureza Tenho tudo o que preciso, minha vida é uma vida"
+    }
+  ],
+  "duracao_seg": 50.03,
+  "idioma_detectado": "pt"
+}

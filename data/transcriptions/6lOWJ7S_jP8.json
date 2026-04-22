@@ -1,0 +1,17 @@
+{
+  "texto": "Piranha, olha a varinha dobrando, vai, vai vendo a menina. Olha a boia, olha a boia, olha a boia cortando, olha a bichona cortando, olha a bichona.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.51,
+      "text": "Piranha, olha a varinha dobrando, vai, vai vendo a menina."
+    },
+    {
+      "start": 17.6,
+      "end": 43.71,
+      "text": "Olha a boia, olha a boia, olha a boia cortando, olha a bichona cortando, olha a bichona."
+    }
+  ],
+  "duracao_seg": 44.41,
+  "idioma_detectado": "pt"
+}

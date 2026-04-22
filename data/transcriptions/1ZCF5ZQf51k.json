@@ -1,0 +1,22 @@
+{
+  "texto": "Ah, o primeiro saiu, hein, Fih? Esqueça tudo, olha o tamanho do buguelo. Bichão, hein, Fih?",
+  "segmentos": [
+    {
+      "start": 1.39,
+      "end": 3.63,
+      "text": "Ah, o primeiro saiu, hein, Fih?"
+    },
+    {
+      "start": 4.23,
+      "end": 6.29,
+      "text": "Esqueça tudo, olha o tamanho do buguelo."
+    },
+    {
+      "start": 7.6,
+      "end": 8.52,
+      "text": "Bichão, hein, Fih?"
+    }
+  ],
+  "duracao_seg": 9.15,
+  "idioma_detectado": "pt"
+}

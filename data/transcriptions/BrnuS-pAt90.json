@@ -1,0 +1,967 @@
+{
+  "texto": "aí ó, antes do sol sair o esquema já é esse aí ó, amarelinho já na linha aí ó, na porta mas o destino é o mesmo primeiro do dia, primeirinho pra estrear ó, sol nem saiu isso é o da fomeagem não espera nem subir no barco, eles já estão batendo nesca obrigado, vou pegar mais caramba será que é, ó lá, pegou o bicho não quer essa farinxica aqui não nossa senhora ele tá vindo, ele tá choco pô, tá choco, tem meia água não olha o jique o jique que tá vindo aí foi lá pertinho ó nossa, é grande, é grande solta, abre a flexão, tamo no meio abre a flexão que você não perde ele de jeito nenhum aí ele se embola deixa ele levar, não deixa levar tanto trabalha com ele mais ou menos no visual com ela meio aberta foi na meia água eu ver fiz, carai tá filmando pega um negócio aqui pra ver se é cadê o alicate, o Herbit? esse é grande, viu Herbit cadê o alicate, o Herbit? chega pra lá faz aquele mesmo esquema calma, calma não, calma folga, folga, quando você me dá ele aqui você abre a carretilha mas não sai não, tá, chá do tato eu mostrei pra vocês e vocês, eita, calma vai pra lá, Herbit, vira a sua pra lá ué, é caro do mitão, César eu acho que, César, ah, velho, eu acho que é chupo eu pedi dois, eu pedi dois, César ah, velho, esse ali é dois ferros, César ah, então ele deve estar naquela fase igual eu peguei aquele grandão ontem aí, fazer a medição do monstro dele aí eu acho que era cardumo, viu que ele grampeou dois e os peixes capuliram e cada um pegou um deles ali esse é o maior bora lá, Lua, pra medição dele aí boquinha fechada lá, ó boca fechada o rabo espalmado aí 56 56, mas é largo, velho, largo, largo e agora, Lua solta o bichão, hein fica a vida, né, o bichão manda lá forte, rapadinho tchau, obrigado ó, meu Deus ó, lá, Lua, Lua ó caramba ah, acho que é pro Lio acho que é pro Lio, cara olha, velho, o vento daqui já virou de novo ó, ó, ó, atrás, ó, Lua ó, o grandão atrás, ó, o maior atrás, Lua nossa senhora Cante, tem três vocês vão fazer eu perdi, cuidado pois é, velho cuidado nossa senhora, é grande cadê o bichão aí ainda? olha o três, velho, três bicho, deu a volta pro lado de cá nossa, velho tá encharutado, mano laço a bicada nele pra mim, velho tá, tá roçando o negócio e sem negócio tá facinho dele comer aí, dá o bote aí aí, moleque aí, pode deixar ele até dentro d'água não preciso nem tirar vamos aqui que eu vou soltar ele dentro d'água olha o tamanho aí, vamos fazer a soltura do bichão aí medição e soltura vamos ver quanto que esse bicho vai dar olha aí 62, bem medido e agora mandar o bichão pra vida 62 tá querendo ir, meu filho? soltar o bichão aí onde é que capturou? vai embora valeu valeu inadmissível na outra vez não é que eu vi um bem te vi, moleque era só jogar que tinha com a carrevilha folgadona não é grandão não mas nossa eita olha o outro atrás olha o outro atrás nossa moleque eita quase eita esse aqui pegou batendo, velho nas costas vai sair que pipoco que pipoco aí o bem te vizinho avisou, hein a filmagem eu não esqueci de gravar, eu acho eu acho que eu apertei tomara que eu ia pegar pelo menos a captura bonitinho opa olha o outro aí deu um pipoco aqui na borda do barco e mesmo assim ele encarou de novo tá violento aí, bom você teve sua chance não quis agora pega o peixe com herbic esse herbic também esses peixes dele não vai contar não tá na meia água olha o peixe aí dá cuidado mais nada sem sal não vai nada aí soltar o peixinho aí tá de casal bem aqui no um ladinho vai embora meu filho vai soltar o outro aí o braço ó ó escapuliu cara será que não era cardume não? viu só viu quantos? só dois, né? não, o meu era azul ó ó vai pegar, vai pegar pegou? tá vindo atrás? tem outro? ixi, tu vai perder perdeu? ah ó ó ó ó ó",
+  "segmentos": [
+    {
+      "start": 1.58,
+      "end": 3.3,
+      "text": "aí ó, antes do sol sair"
+    },
+    {
+      "start": 3.3,
+      "end": 5.34,
+      "text": "o esquema já é esse aí"
+    },
+    {
+      "start": 5.34,
+      "end": 9.14,
+      "text": "ó, amarelinho já na linha"
+    },
+    {
+      "start": 9.14,
+      "end": 17.76,
+      "text": "aí ó, na porta"
+    },
+    {
+      "start": 17.76,
+      "end": 20.02,
+      "text": "mas o destino é o mesmo"
+    },
+    {
+      "start": 20.02,
+      "end": 22.5,
+      "text": "primeiro do dia, primeirinho pra estrear"
+    },
+    {
+      "start": 22.5,
+      "end": 23.52,
+      "text": "ó, sol nem saiu"
+    },
+    {
+      "start": 23.52,
+      "end": 27.62,
+      "text": "isso é o da fomeagem"
+    },
+    {
+      "start": 27.62,
+      "end": 30.3,
+      "text": "não espera nem subir"
+    },
+    {
+      "start": 30.3,
+      "end": 31.72,
+      "text": "no barco, eles já estão batendo nesca"
+    },
+    {
+      "start": 31.72,
+      "end": 38.48,
+      "text": "obrigado, vou pegar mais"
+    },
+    {
+      "start": 38.48,
+      "end": 41.29,
+      "text": "caramba"
+    },
+    {
+      "start": 41.29,
+      "end": 44.02,
+      "text": "será que é, ó lá, pegou"
+    },
+    {
+      "start": 44.02,
+      "end": 50.97,
+      "text": "o bicho não quer essa farinxica aqui não"
+    },
+    {
+      "start": 50.97,
+      "end": 55.01,
+      "text": "nossa senhora"
+    },
+    {
+      "start": 55.01,
+      "end": 61.17,
+      "text": "ele tá vindo, ele tá choco"
+    },
+    {
+      "start": 61.17,
+      "end": 64.03,
+      "text": "pô, tá choco, tem meia água não"
+    },
+    {
+      "start": 64.03,
+      "end": 66.93,
+      "text": "olha o jique"
+    },
+    {
+      "start": 66.93,
+      "end": 68.37,
+      "text": "o jique que tá vindo aí"
+    },
+    {
+      "start": 68.37,
+      "end": 73.84,
+      "text": "foi lá pertinho"
+    },
+    {
+      "start": 73.84,
+      "end": 74.5,
+      "text": "ó"
+    },
+    {
+      "start": 74.5,
+      "end": 86.16,
+      "text": "nossa, é grande, é grande"
+    },
+    {
+      "start": 86.16,
+      "end": 88.08,
+      "text": "solta, abre a flexão, tamo no meio"
+    },
+    {
+      "start": 88.08,
+      "end": 90.02,
+      "text": "abre a flexão que você não perde ele de jeito nenhum"
+    },
+    {
+      "start": 90.02,
+      "end": 93.94,
+      "text": "aí ele se embola"
+    },
+    {
+      "start": 93.94,
+      "end": 97.76,
+      "text": "deixa ele levar, não deixa levar tanto"
+    },
+    {
+      "start": 97.76,
+      "end": 99.38,
+      "text": "trabalha com ele mais ou menos no visual"
+    },
+    {
+      "start": 99.38,
+      "end": 100.56,
+      "text": "com ela meio aberta"
+    },
+    {
+      "start": 100.56,
+      "end": 104.46,
+      "text": "foi na meia água"
+    },
+    {
+      "start": 104.46,
+      "end": 107.02,
+      "text": "eu ver fiz, carai"
+    },
+    {
+      "start": 107.02,
+      "end": 108.83,
+      "text": "tá filmando"
+    },
+    {
+      "start": 108.83,
+      "end": 111.71,
+      "text": "pega um negócio aqui pra ver se é"
+    },
+    {
+      "start": 111.71,
+      "end": 114.49,
+      "text": "cadê o alicate, o Herbit?"
+    },
+    {
+      "start": 114.93,
+      "end": 116.37,
+      "text": "esse é grande, viu Herbit"
+    },
+    {
+      "start": 116.37,
+      "end": 120.45,
+      "text": "cadê o alicate, o Herbit?"
+    },
+    {
+      "start": 121.19,
+      "end": 125.97,
+      "text": "chega pra lá"
+    },
+    {
+      "start": 125.97,
+      "end": 127.87,
+      "text": "faz aquele mesmo esquema"
+    },
+    {
+      "start": 127.87,
+      "end": 130.04,
+      "text": "calma, calma não, calma"
+    },
+    {
+      "start": 130.04,
+      "end": 132.12,
+      "text": "folga, folga, quando você me dá ele aqui"
+    },
+    {
+      "start": 132.12,
+      "end": 133.56,
+      "text": "você abre a carretilha"
+    },
+    {
+      "start": 133.56,
+      "end": 135.04,
+      "text": "mas não sai não, tá, chá do tato"
+    },
+    {
+      "start": 135.04,
+      "end": 145.16,
+      "text": "eu mostrei pra vocês"
+    },
+    {
+      "start": 145.16,
+      "end": 147.38,
+      "text": "e vocês, eita, calma"
+    },
+    {
+      "start": 147.38,
+      "end": 149.6,
+      "text": "vai pra lá, Herbit, vira a sua pra lá"
+    },
+    {
+      "start": 149.6,
+      "end": 151.08,
+      "text": "ué, é caro do mitão, César"
+    },
+    {
+      "start": 151.08,
+      "end": 154.12,
+      "text": "eu acho que, César, ah, velho, eu acho que é chupo"
+    },
+    {
+      "start": 154.12,
+      "end": 155.78,
+      "text": "eu pedi dois, eu pedi dois, César"
+    },
+    {
+      "start": 155.78,
+      "end": 156.92,
+      "text": "ah, velho, esse ali"
+    },
+    {
+      "start": 156.92,
+      "end": 158.78,
+      "text": "é dois ferros, César"
+    },
+    {
+      "start": 158.78,
+      "end": 161.96,
+      "text": "ah, então ele deve estar naquela fase"
+    },
+    {
+      "start": 161.96,
+      "end": 164.3,
+      "text": "igual eu peguei aquele grandão ontem"
+    },
+    {
+      "start": 164.3,
+      "end": 172.49,
+      "text": "aí, fazer a medição do monstro dele aí"
+    },
+    {
+      "start": 172.49,
+      "end": 174.01,
+      "text": "eu acho que era cardumo, viu"
+    },
+    {
+      "start": 174.01,
+      "end": 176.05,
+      "text": "que ele grampeou dois e os peixes capuliram"
+    },
+    {
+      "start": 176.05,
+      "end": 178.39,
+      "text": "e cada um pegou um deles ali"
+    },
+    {
+      "start": 178.39,
+      "end": 179.77,
+      "text": "esse é o maior"
+    },
+    {
+      "start": 179.77,
+      "end": 182.87,
+      "text": "bora lá, Lua, pra medição dele aí"
+    },
+    {
+      "start": 182.87,
+      "end": 194.66,
+      "text": "boquinha fechada lá, ó"
+    },
+    {
+      "start": 194.66,
+      "end": 197.3,
+      "text": "boca fechada"
+    },
+    {
+      "start": 197.3,
+      "end": 199.22,
+      "text": "o rabo espalmado aí"
+    },
+    {
+      "start": 199.22,
+      "end": 200.24,
+      "text": "56"
+    },
+    {
+      "start": 200.24,
+      "end": 203.46,
+      "text": "56, mas é largo, velho, largo, largo"
+    },
+    {
+      "start": 203.46,
+      "end": 205.28,
+      "text": "e agora, Lua"
+    },
+    {
+      "start": 205.28,
+      "end": 206.76,
+      "text": "solta o bichão, hein"
+    },
+    {
+      "start": 206.76,
+      "end": 208.4,
+      "text": "fica a vida, né, o bichão"
+    },
+    {
+      "start": 208.4,
+      "end": 211.15,
+      "text": "manda lá"
+    },
+    {
+      "start": 211.15,
+      "end": 228.5,
+      "text": "forte, rapadinho"
+    },
+    {
+      "start": 228.5,
+      "end": 232.78,
+      "text": "tchau, obrigado"
+    },
+    {
+      "start": 232.78,
+      "end": 256.4,
+      "text": "ó, meu Deus"
+    },
+    {
+      "start": 256.4,
+      "end": 258.92,
+      "text": "ó, lá, Lua, Lua"
+    },
+    {
+      "start": 258.92,
+      "end": 275.3,
+      "text": "ó"
+    },
+    {
+      "start": 275.3,
+      "end": 279.78,
+      "text": "caramba"
+    },
+    {
+      "start": 279.78,
+      "end": 283.4,
+      "text": "ah, acho que é pro Lio"
+    },
+    {
+      "start": 283.4,
+      "end": 290.93,
+      "text": "acho que é pro Lio, cara"
+    },
+    {
+      "start": 290.93,
+      "end": 297.14,
+      "text": "olha, velho, o vento daqui já virou de novo"
+    },
+    {
+      "start": 297.14,
+      "end": 302.62,
+      "text": "ó, ó, ó, atrás, ó, Lua"
+    },
+    {
+      "start": 302.62,
+      "end": 306.72,
+      "text": "ó, o grandão atrás, ó, o maior atrás, Lua"
+    },
+    {
+      "start": 306.72,
+      "end": 315.18,
+      "text": "nossa senhora"
+    },
+    {
+      "start": 315.18,
+      "end": 330.31,
+      "text": "Cante, tem três"
+    },
+    {
+      "start": 330.31,
+      "end": 331.63,
+      "text": "vocês vão fazer eu perdi, cuidado"
+    },
+    {
+      "start": 331.63,
+      "end": 333.23,
+      "text": "pois é, velho"
+    },
+    {
+      "start": 333.23,
+      "end": 334.7,
+      "text": "cuidado"
+    },
+    {
+      "start": 334.7,
+      "end": 340.12,
+      "text": "nossa senhora, é grande"
+    },
+    {
+      "start": 340.12,
+      "end": 350.6,
+      "text": "cadê o bichão aí ainda?"
+    },
+    {
+      "start": 351.72,
+      "end": 353.22,
+      "text": "olha o três, velho, três"
+    },
+    {
+      "start": 353.22,
+      "end": 374.4,
+      "text": "bicho, deu a volta pro lado de cá"
+    },
+    {
+      "start": 374.4,
+      "end": 377.16,
+      "text": "nossa, velho"
+    },
+    {
+      "start": 377.16,
+      "end": 390.45,
+      "text": "tá encharutado, mano"
+    },
+    {
+      "start": 390.45,
+      "end": 398.71,
+      "text": "laço a bicada nele pra mim, velho"
+    },
+    {
+      "start": 398.71,
+      "end": 405.47,
+      "text": "tá, tá roçando o negócio e sem negócio"
+    },
+    {
+      "start": 405.47,
+      "end": 408.03,
+      "text": "tá facinho dele comer"
+    },
+    {
+      "start": 408.03,
+      "end": 409.11,
+      "text": "aí, dá o bote aí"
+    },
+    {
+      "start": 409.11,
+      "end": 411.24,
+      "text": "aí, moleque"
+    },
+    {
+      "start": 411.24,
+      "end": 413.64,
+      "text": "aí, pode deixar ele até dentro d'água"
+    },
+    {
+      "start": 413.64,
+      "end": 414.32,
+      "text": "não preciso nem tirar"
+    },
+    {
+      "start": 414.32,
+      "end": 416.52,
+      "text": "vamos aqui que eu vou soltar ele dentro d'água"
+    },
+    {
+      "start": 416.52,
+      "end": 419.44,
+      "text": "olha o tamanho"
+    },
+    {
+      "start": 419.44,
+      "end": 429.56,
+      "text": "aí, vamos fazer a soltura do bichão aí"
+    },
+    {
+      "start": 429.56,
+      "end": 430.9,
+      "text": "medição e soltura"
+    },
+    {
+      "start": 430.9,
+      "end": 435.17,
+      "text": "vamos ver quanto que esse bicho vai dar"
+    },
+    {
+      "start": 435.17,
+      "end": 437.2,
+      "text": "olha aí"
+    },
+    {
+      "start": 437.2,
+      "end": 444.27,
+      "text": "62, bem medido"
+    },
+    {
+      "start": 444.27,
+      "end": 446.09,
+      "text": "e agora"
+    },
+    {
+      "start": 446.09,
+      "end": 448.46,
+      "text": "mandar o bichão pra vida"
+    },
+    {
+      "start": 448.46,
+      "end": 450.66,
+      "text": "62"
+    },
+    {
+      "start": 450.66,
+      "end": 461.54,
+      "text": "tá querendo ir, meu filho?"
+    },
+    {
+      "start": 466.49,
+      "end": 467.69,
+      "text": "soltar o bichão aí"
+    },
+    {
+      "start": 467.69,
+      "end": 469.89,
+      "text": "onde é que capturou?"
+    },
+    {
+      "start": 469.97,
+      "end": 470.31,
+      "text": "vai embora"
+    },
+    {
+      "start": 470.31,
+      "end": 473.49,
+      "text": "valeu"
+    },
+    {
+      "start": 473.49,
+      "end": 475.42,
+      "text": "valeu"
+    },
+    {
+      "start": 475.42,
+      "end": 486.31,
+      "text": "inadmissível"
+    },
+    {
+      "start": 486.31,
+      "end": 493.46,
+      "text": "na outra vez"
+    },
+    {
+      "start": 493.46,
+      "end": 494.78,
+      "text": "não é que eu vi um bem te vi, moleque"
+    },
+    {
+      "start": 494.78,
+      "end": 495.36,
+      "text": "era só jogar"
+    },
+    {
+      "start": 495.36,
+      "end": 496.32,
+      "text": "que tinha"
+    },
+    {
+      "start": 496.32,
+      "end": 501.22,
+      "text": "com a carrevilha folgadona"
+    },
+    {
+      "start": 501.22,
+      "end": 503.48,
+      "text": "não é grandão não"
+    },
+    {
+      "start": 503.48,
+      "end": 503.66,
+      "text": "mas"
+    },
+    {
+      "start": 503.66,
+      "end": 505.96,
+      "text": "nossa"
+    },
+    {
+      "start": 505.96,
+      "end": 510.07,
+      "text": "eita"
+    },
+    {
+      "start": 510.07,
+      "end": 512.57,
+      "text": "olha o outro atrás"
+    },
+    {
+      "start": 512.57,
+      "end": 513.53,
+      "text": "olha o outro atrás"
+    },
+    {
+      "start": 513.53,
+      "end": 517.6,
+      "text": "nossa"
+    },
+    {
+      "start": 517.6,
+      "end": 521.88,
+      "text": "moleque"
+    },
+    {
+      "start": 521.88,
+      "end": 522.52,
+      "text": "eita"
+    },
+    {
+      "start": 522.52,
+      "end": 524.42,
+      "text": "quase"
+    },
+    {
+      "start": 524.42,
+      "end": 527.05,
+      "text": "eita"
+    },
+    {
+      "start": 527.05,
+      "end": 527.67,
+      "text": "esse aqui pegou"
+    },
+    {
+      "start": 527.67,
+      "end": 528.49,
+      "text": "batendo, velho"
+    },
+    {
+      "start": 528.49,
+      "end": 529.21,
+      "text": "nas costas"
+    },
+    {
+      "start": 529.21,
+      "end": 531.16,
+      "text": "vai sair"
+    },
+    {
+      "start": 531.16,
+      "end": 538.32,
+      "text": "que pipoco"
+    },
+    {
+      "start": 538.32,
+      "end": 543.75,
+      "text": "que pipoco"
+    },
+    {
+      "start": 543.75,
+      "end": 544.75,
+      "text": "aí o bem te vizinho"
+    },
+    {
+      "start": 544.75,
+      "end": 546.76,
+      "text": "avisou, hein"
+    },
+    {
+      "start": 546.76,
+      "end": 552.76,
+      "text": "a filmagem"
+    },
+    {
+      "start": 552.76,
+      "end": 555.02,
+      "text": "eu não esqueci de gravar, eu acho"
+    },
+    {
+      "start": 555.02,
+      "end": 557.14,
+      "text": "eu acho que eu apertei"
+    },
+    {
+      "start": 557.14,
+      "end": 558.62,
+      "text": "tomara que eu ia pegar pelo menos a captura"
+    },
+    {
+      "start": 558.62,
+      "end": 560.07,
+      "text": "bonitinho"
+    },
+    {
+      "start": 560.07,
+      "end": 563.32,
+      "text": "opa"
+    },
+    {
+      "start": 563.32,
+      "end": 570.86,
+      "text": "olha o outro aí"
+    },
+    {
+      "start": 570.86,
+      "end": 575.06,
+      "text": "deu um pipoco aqui na borda do barco"
+    },
+    {
+      "start": 575.06,
+      "end": 576.9,
+      "text": "e mesmo assim ele encarou de novo"
+    },
+    {
+      "start": 576.9,
+      "end": 578.91,
+      "text": "tá violento"
+    },
+    {
+      "start": 578.91,
+      "end": 585.16,
+      "text": "aí, bom"
+    },
+    {
+      "start": 585.16,
+      "end": 586.99,
+      "text": "você teve sua chance"
+    },
+    {
+      "start": 586.99,
+      "end": 589.67,
+      "text": "não quis"
+    },
+    {
+      "start": 589.67,
+      "end": 590.89,
+      "text": "agora pega o peixe com herbic"
+    },
+    {
+      "start": 590.89,
+      "end": 598.0,
+      "text": "esse herbic"
+    },
+    {
+      "start": 598.0,
+      "end": 598.18,
+      "text": "também"
+    },
+    {
+      "start": 598.18,
+      "end": 598.8,
+      "text": "esses peixes dele"
+    },
+    {
+      "start": 598.8,
+      "end": 599.56,
+      "text": "não vai contar não"
+    },
+    {
+      "start": 599.56,
+      "end": 601.34,
+      "text": "tá na meia água"
+    },
+    {
+      "start": 601.34,
+      "end": 608.08,
+      "text": "olha o peixe aí"
+    },
+    {
+      "start": 608.08,
+      "end": 610.9,
+      "text": "dá cuidado"
+    },
+    {
+      "start": 610.9,
+      "end": 613.24,
+      "text": "mais nada"
+    },
+    {
+      "start": 613.24,
+      "end": 613.84,
+      "text": "sem sal"
+    },
+    {
+      "start": 613.84,
+      "end": 619.33,
+      "text": "não vai nada"
+    },
+    {
+      "start": 619.33,
+      "end": 621.55,
+      "text": "aí"
+    },
+    {
+      "start": 621.55,
+      "end": 623.61,
+      "text": "soltar o peixinho aí"
+    },
+    {
+      "start": 623.61,
+      "end": 625.25,
+      "text": "tá de casal"
+    },
+    {
+      "start": 625.25,
+      "end": 625.79,
+      "text": "bem aqui no"
+    },
+    {
+      "start": 625.79,
+      "end": 626.99,
+      "text": "um ladinho"
+    },
+    {
+      "start": 626.99,
+      "end": 628.94,
+      "text": "vai embora meu filho"
+    },
+    {
+      "start": 628.94,
+      "end": 629.12,
+      "text": "vai"
+    },
+    {
+      "start": 629.12,
+      "end": 635.34,
+      "text": "soltar o outro aí"
+    },
+    {
+      "start": 635.34,
+      "end": 660.45,
+      "text": "o braço"
+    },
+    {
+      "start": 660.45,
+      "end": 662.7,
+      "text": "ó"
+    },
+    {
+      "start": 662.7,
+      "end": 667.09,
+      "text": "ó"
+    },
+    {
+      "start": 667.09,
+      "end": 677.82,
+      "text": "escapuliu"
+    },
+    {
+      "start": 677.82,
+      "end": 682.16,
+      "text": "cara"
+    },
+    {
+      "start": 682.16,
+      "end": 691.23,
+      "text": "será que não era cardume não?"
+    },
+    {
+      "start": 693.35,
+      "end": 693.73,
+      "text": "viu só"
+    },
+    {
+      "start": 693.73,
+      "end": 694.37,
+      "text": "viu quantos?"
+    },
+    {
+      "start": 694.89,
+      "end": 695.53,
+      "text": "só dois, né?"
+    },
+    {
+      "start": 695.53,
+      "end": 697.15,
+      "text": "não, o meu era azul"
+    },
+    {
+      "start": 697.15,
+      "end": 698.55,
+      "text": "ó"
+    },
+    {
+      "start": 698.55,
+      "end": 705.89,
+      "text": "ó"
+    },
+    {
+      "start": 705.89,
+      "end": 706.63,
+      "text": "vai pegar, vai pegar"
+    },
+    {
+      "start": 706.63,
+      "end": 707.92,
+      "text": "pegou?"
+    },
+    {
+      "start": 719.56,
+      "end": 720.24,
+      "text": "tá vindo atrás?"
+    },
+    {
+      "start": 720.88,
+      "end": 721.3,
+      "text": "tem outro?"
+    },
+    {
+      "start": 726.72,
+      "end": 727.68,
+      "text": "ixi, tu vai perder"
+    },
+    {
+      "start": 727.68,
+      "end": 734.69,
+      "text": "perdeu?"
+    },
+    {
+      "start": 734.69,
+      "end": 735.7,
+      "text": "ah"
+    },
+    {
+      "start": 735.7,
+      "end": 736.2,
+      "text": "ó"
+    },
+    {
+      "start": 736.2,
+      "end": 736.38,
+      "text": "ó"
+    },
+    {
+      "start": 736.38,
+      "end": 736.42,
+      "text": "ó"
+    },
+    {
+      "start": 736.42,
+      "end": 736.74,
+      "text": "ó"
+    },
+    {
+      "start": 736.74,
+      "end": 736.94,
+      "text": "ó"
+    }
+  ],
+  "duracao_seg": 744.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Olha isso, olha o tamanho Olha o tamanho disso Aqui Torto Mariotti O nome desse som é Simplesmente Pescador Varinha de Bambu",
+  "segmentos": [
+    {
+      "start": 19.41,
+      "end": 22.48,
+      "text": "Olha isso, olha o tamanho"
+    },
+    {
+      "start": 22.48,
+      "end": 24.99,
+      "text": "Olha o tamanho disso"
+    },
+    {
+      "start": 24.99,
+      "end": 26.89,
+      "text": "Aqui Torto Mariotti"
+    },
+    {
+      "start": 26.89,
+      "end": 28.69,
+      "text": "O nome desse som é"
+    },
+    {
+      "start": 28.69,
+      "end": 30.85,
+      "text": "Simplesmente Pescador"
+    },
+    {
+      "start": 30.85,
+      "end": 35.99,
+      "text": "Varinha de Bambu"
+    }
+  ],
+  "duracao_seg": 36.13,
+  "idioma_detectado": "pt"
+}

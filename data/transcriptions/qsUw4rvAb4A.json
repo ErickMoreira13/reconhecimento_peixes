@@ -1,0 +1,52 @@
+{
+  "texto": "Pessoal, estou fazendo aqui uma ceva com cabeça de salmão. Vou pegar umas piranhas aí. Estou fazendo um litro. Vou passar agora a cabeça do salmão aqui. Vou amarrar uma pedra. Vou jogar dentro da lagoa. Estreparo aí. É, vai ficar sem bonita. A cevinha aí.",
+  "segmentos": [
+    {
+      "start": 1.81,
+      "end": 5.71,
+      "text": "Pessoal, estou fazendo aqui uma ceva com cabeça de salmão."
+    },
+    {
+      "start": 6.6,
+      "end": 7.54,
+      "text": "Vou pegar umas piranhas aí."
+    },
+    {
+      "start": 8.2,
+      "end": 8.94,
+      "text": "Estou fazendo um litro."
+    },
+    {
+      "start": 9.72,
+      "end": 12.79,
+      "text": "Vou passar agora a cabeça do salmão aqui."
+    },
+    {
+      "start": 13.37,
+      "end": 14.29,
+      "text": "Vou amarrar uma pedra."
+    },
+    {
+      "start": 17.13,
+      "end": 18.49,
+      "text": "Vou jogar dentro da lagoa."
+    },
+    {
+      "start": 19.94,
+      "end": 20.78,
+      "text": "Estreparo aí."
+    },
+    {
+      "start": 21.02,
+      "end": 22.24,
+      "text": "É, vai ficar sem bonita."
+    },
+    {
+      "start": 45.55,
+      "end": 46.45,
+      "text": "A cevinha aí."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

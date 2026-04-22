@@ -1,0 +1,17 @@
+{
+  "texto": "Rebojo de água suja é lugar de peixe juntar Eu armo um anzol de galha pra...",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 4.99,
+      "text": "Rebojo de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 4.99,
+      "end": 7.83,
+      "text": "Eu armo um anzol de galha pra..."
+    }
+  ],
+  "duracao_seg": 7.83,
+  "idioma_detectado": "pt"
+}

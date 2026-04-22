@@ -1,0 +1,57 @@
+{
+  "texto": "esse pegou bonito hein esse pegou bonito calma garoto calma garoto calma garoto eu nem sei de ele tá preso ele tá bem na pontinha para escapar caralho porra garoto aí sacola mostra ele aí agora eu quero tirar na praia tá aí pode levantar ele pega pelo rabo aí é isso não colocar na régua não é garoto a gente vai fazer a soltura lá na praia aí aí aí pessoal fechão aqui do água boa opa não você quer ir embora velho você já vai embora valeu pessoal hein valeu aí pela o esforço tá difícil mas fazendo a coisa certinha trabalhando a isca a gente consegue pegar um bocudão desse lindo demais pega o corpo dele tudo aí aí vamos soltar ufa onde mais valeu pela companhia vem cá meu parceiro esse é o cara valeu vamos embora tem muito mais carinho",
+  "segmentos": [
+    {
+      "start": 38.0,
+      "end": 91.91,
+      "text": "esse pegou bonito hein esse pegou bonito calma garoto calma garoto calma garoto"
+    },
+    {
+      "start": 91.91,
+      "end": 111.59,
+      "text": "eu nem sei de ele tá preso ele tá bem na pontinha para escapar"
+    },
+    {
+      "start": 111.59,
+      "end": 130.46,
+      "text": "caralho porra"
+    },
+    {
+      "start": 130.46,
+      "end": 148.93,
+      "text": "garoto aí sacola mostra ele aí agora eu quero tirar na praia tá aí pode levantar ele pega pelo rabo aí"
+    },
+    {
+      "start": 148.93,
+      "end": 161.08,
+      "text": "é isso não colocar na régua não é garoto a gente vai fazer a soltura lá na praia"
+    },
+    {
+      "start": 161.08,
+      "end": 170.99,
+      "text": "aí aí aí pessoal fechão aqui do água boa"
+    },
+    {
+      "start": 170.99,
+      "end": 181.28,
+      "text": "opa não você quer ir embora velho você já vai embora valeu pessoal hein valeu aí pela"
+    },
+    {
+      "start": 181.28,
+      "end": 190.65,
+      "text": "o esforço tá difícil mas fazendo a coisa certinha trabalhando a isca a gente consegue pegar um"
+    },
+    {
+      "start": 190.65,
+      "end": 222.32,
+      "text": "bocudão desse lindo demais pega o corpo dele tudo aí aí vamos soltar ufa onde mais valeu pela"
+    },
+    {
+      "start": 222.32,
+      "end": 228.62,
+      "text": "companhia vem cá meu parceiro esse é o cara valeu vamos embora tem muito mais carinho"
+    }
+  ],
+  "duracao_seg": 253.75,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Galera, olha o tanto de peixe que esse cara pegou aí, ó. Olha, um enfieira de um lado cheio de tucunaré, do outro também cheio de tucunaré, ó. E eles ainda falaram que chamou um tal de Gilmar pra pescar. Gilmar falou que tava chovendo, que não pegava nada não, aí, ó.",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 2.61,
+      "text": "Galera, olha o tanto de peixe que esse cara pegou aí, ó."
+    },
+    {
+      "start": 3.17,
+      "end": 7.45,
+      "text": "Olha, um enfieira de um lado cheio de tucunaré, do outro também cheio de tucunaré, ó."
+    },
+    {
+      "start": 7.91,
+      "end": 10.15,
+      "text": "E eles ainda falaram que chamou um tal de Gilmar pra pescar."
+    },
+    {
+      "start": 10.45,
+      "end": 13.17,
+      "text": "Gilmar falou que tava chovendo, que não pegava nada não, aí, ó."
+    }
+  ],
+  "duracao_seg": 13.77,
+  "idioma_detectado": "pt"
+}

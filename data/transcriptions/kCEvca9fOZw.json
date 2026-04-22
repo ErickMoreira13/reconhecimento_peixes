@@ -1,0 +1,72 @@
+{
+  "texto": "Tá filmando? Tá filmando. Manda aí perto. Vai pra trás. Aí depois eu dou um lixo. Que dia que é hoje aí? Aí as brancas aí. Dourado. Douradão aí. Deixou um naré no chão. E outra, tem lá no Picoá ainda. Aquele Zego Roela lá que... Falou que na batalha de cobra. Aí as cobras aqui ó. Tamo junto.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.13,
+      "text": "Tá filmando? Tá filmando."
+    },
+    {
+      "start": 2.13,
+      "end": 6.85,
+      "text": "Manda aí perto."
+    },
+    {
+      "start": 6.85,
+      "end": 9.07,
+      "text": "Vai pra trás."
+    },
+    {
+      "start": 9.07,
+      "end": 11.07,
+      "text": "Aí depois eu dou um lixo."
+    },
+    {
+      "start": 11.07,
+      "end": 13.36,
+      "text": "Que dia que é hoje aí?"
+    },
+    {
+      "start": 14.22,
+      "end": 16.22,
+      "text": "Aí as brancas aí."
+    },
+    {
+      "start": 16.22,
+      "end": 18.77,
+      "text": "Dourado. Douradão aí."
+    },
+    {
+      "start": 18.77,
+      "end": 20.77,
+      "text": "Deixou um naré no chão."
+    },
+    {
+      "start": 20.77,
+      "end": 22.77,
+      "text": "E outra, tem lá no Picoá ainda."
+    },
+    {
+      "start": 22.77,
+      "end": 24.86,
+      "text": "Aquele Zego Roela lá que..."
+    },
+    {
+      "start": 24.86,
+      "end": 26.86,
+      "text": "Falou que na batalha de cobra."
+    },
+    {
+      "start": 26.86,
+      "end": 28.86,
+      "text": "Aí as cobras aqui ó."
+    },
+    {
+      "start": 28.86,
+      "end": 30.86,
+      "text": "Tamo junto."
+    }
+  ],
+  "duracao_seg": 31.99,
+  "idioma_detectado": "pt"
+}

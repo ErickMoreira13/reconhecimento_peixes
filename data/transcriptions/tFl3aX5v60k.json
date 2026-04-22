@@ -1,0 +1,17 @@
+{
+  "texto": "Se eu uso a manga da camisa que é dobrada, calça bag bem rasgada porque eu sou fuleiro Se eu vou pro centro no domingo do perfume eu uso o bingo que deixa de feder no prédio inteiro",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 7.02,
+      "text": "Se eu uso a manga da camisa que é dobrada, calça bag bem rasgada porque eu sou fuleiro"
+    },
+    {
+      "start": 7.02,
+      "end": 14.26,
+      "text": "Se eu vou pro centro no domingo do perfume eu uso o bingo que deixa de feder no prédio inteiro"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

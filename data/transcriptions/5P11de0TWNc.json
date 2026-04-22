@@ -1,0 +1,17 @@
+{
+  "texto": "é uma bomba que é uma bomba puxa que tiver não espalha que esporte a porra aqui é o mordeiro espera aí peraí peraí porra isso aqui é bomba",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 6.14,
+      "text": "é uma bomba que é uma bomba puxa que tiver não espalha que esporte a porra aqui é o mordeiro"
+    },
+    {
+      "start": 6.14,
+      "end": 9.32,
+      "text": "espera aí peraí peraí porra isso aqui é bomba"
+    }
+  ],
+  "duracao_seg": 11.93,
+  "idioma_detectado": "pt"
+}

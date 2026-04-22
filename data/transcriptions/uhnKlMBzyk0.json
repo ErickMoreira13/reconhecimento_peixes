@@ -1,0 +1,57 @@
+{
+  "texto": "Aí puxa, não gostei, tá pesado Tá vendo ele? Quantos metros aí? Ó, olha lá, tá bem pego, ainda bem que tá nozol, se fosse garatera eu tinha escapado Aí, nossa, é grande cara, saiu, nossa Olha, olha aí, vai ser mais forte É só o Arbelinha O Emerson Engastai o alicate aí, o boga, né? Nelson, o famoso risco",
+  "segmentos": [
+    {
+      "start": 11.57,
+      "end": 18.96,
+      "text": "Aí puxa, não gostei, tá pesado"
+    },
+    {
+      "start": 18.96,
+      "end": 135.11,
+      "text": "Tá vendo ele?"
+    },
+    {
+      "start": 135.11,
+      "end": 145.7,
+      "text": "Quantos metros aí?"
+    },
+    {
+      "start": 145.7,
+      "end": 156.59,
+      "text": "Ó, olha lá, tá bem pego, ainda bem que tá nozol, se fosse garatera eu tinha escapado"
+    },
+    {
+      "start": 156.59,
+      "end": 164.36,
+      "text": "Aí, nossa, é grande cara, saiu, nossa"
+    },
+    {
+      "start": 164.36,
+      "end": 176.83,
+      "text": "Olha, olha aí, vai ser mais forte"
+    },
+    {
+      "start": 176.83,
+      "end": 308.23,
+      "text": "É só o Arbelinha"
+    },
+    {
+      "start": 308.23,
+      "end": 314.77,
+      "text": "O Emerson"
+    },
+    {
+      "start": 314.77,
+      "end": 324.02,
+      "text": "Engastai o alicate aí, o boga, né?"
+    },
+    {
+      "start": 324.02,
+      "end": 346.66,
+      "text": "Nelson, o famoso risco"
+    }
+  ],
+  "duracao_seg": 542.71,
+  "idioma_detectado": "pt"
+}

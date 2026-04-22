@@ -1,0 +1,42 @@
+{
+  "texto": "Deixando ela pegar um arzinho, uma aguinha. Ó. Ela tá bem oxigenada. Beleza pra sair já, ó. Bora. Vai com Deus. Chama.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.56,
+      "text": "Deixando ela pegar um arzinho, uma aguinha."
+    },
+    {
+      "start": 5.8,
+      "end": 6.0,
+      "text": "Ó."
+    },
+    {
+      "start": 6.99,
+      "end": 8.01,
+      "text": "Ela tá bem oxigenada."
+    },
+    {
+      "start": 8.09,
+      "end": 9.15,
+      "text": "Beleza pra sair já, ó."
+    },
+    {
+      "start": 10.92,
+      "end": 11.24,
+      "text": "Bora."
+    },
+    {
+      "start": 11.66,
+      "end": 12.28,
+      "text": "Vai com Deus."
+    },
+    {
+      "start": 13.04,
+      "end": 13.6,
+      "text": "Chama."
+    }
+  ],
+  "duracao_seg": 14.11,
+  "idioma_detectado": "pt"
+}

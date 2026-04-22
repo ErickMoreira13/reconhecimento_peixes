@@ -1,0 +1,37 @@
+{
+  "texto": "É o amigo pescador Da natureza é amante e defensor Passa seus dias ensinando a preservar A vida dos lagos, dos rios e do mar Reino do Baio, o apresentador Do pesca dinâmica ao programa",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "É o amigo pescador"
+    },
+    {
+      "start": 2.3,
+      "end": 7.4,
+      "text": "Da natureza é amante e defensor"
+    },
+    {
+      "start": 7.4,
+      "end": 12.1,
+      "text": "Passa seus dias ensinando a preservar"
+    },
+    {
+      "start": 12.1,
+      "end": 17.08,
+      "text": "A vida dos lagos, dos rios e do mar"
+    },
+    {
+      "start": 17.08,
+      "end": 21.56,
+      "text": "Reino do Baio, o apresentador"
+    },
+    {
+      "start": 21.56,
+      "end": 24.98,
+      "text": "Do pesca dinâmica ao programa"
+    }
+  ],
+  "duracao_seg": 25.01,
+  "idioma_detectado": "pt"
+}

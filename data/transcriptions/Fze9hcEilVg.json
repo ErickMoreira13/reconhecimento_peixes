@@ -1,0 +1,17 @@
+{
+  "texto": "Tem uns peixes graúdos aqui, pessoal, mas eles bichos estão ariscos ainda, estão em busca dos maiores. A imagem pode ficar diferente porque estava chuviscando e estava usando outra câmera.",
+  "segmentos": [
+    {
+      "start": 32.98,
+      "end": 48.33,
+      "text": "Tem uns peixes graúdos aqui, pessoal, mas eles bichos estão ariscos ainda, estão em busca dos maiores."
+    },
+    {
+      "start": 48.93,
+      "end": 60.33,
+      "text": "A imagem pode ficar diferente porque estava chuviscando e estava usando outra câmera."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,87 @@
+{
+  "texto": "Qual o melhor horário para pescar traíra? Quer saber qual é a hora certa para fisgar a traíra? Esse predador explosivo de ataques violentos? A traíra é agressiva, mas não ataca o tempo todo. Existem horários em que ela fica muito mais ativa. E se você escolher bem, as chances de sucesso aumentam muito. Amanhecer O primeiro horário de ouro é amanhecer. Logo cedo, a traíra sai dos abrigos como galhadas, margens com vegetação e começa a caçar. Com a luz baixa e a água fresca, ela ataca sem medo. Fim de tarde O segundo horário matador é o fim de tarde, perto do pôr do sol. É nesse momento que a traíra volta a se movimentar em busca de alimento. E muitas vezes acontecem os ataques mais explosivos do dia. No meio do dia, ela fica mais parada e a noite pode até atacar, mas depende do ambiente. Resumindo, se quer aumentar as chances, aposte sempre no amanhecer e no fim de tarde.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Qual o melhor horário para pescar traíra?"
+    },
+    {
+      "start": 3.04,
+      "end": 6.1,
+      "text": "Quer saber qual é a hora certa para fisgar a traíra?"
+    },
+    {
+      "start": 6.68,
+      "end": 9.6,
+      "text": "Esse predador explosivo de ataques violentos?"
+    },
+    {
+      "start": 10.08,
+      "end": 13.46,
+      "text": "A traíra é agressiva, mas não ataca o tempo todo."
+    },
+    {
+      "start": 14.06,
+      "end": 16.9,
+      "text": "Existem horários em que ela fica muito mais ativa."
+    },
+    {
+      "start": 17.36,
+      "end": 21.2,
+      "text": "E se você escolher bem, as chances de sucesso aumentam muito."
+    },
+    {
+      "start": 21.88,
+      "end": 22.56,
+      "text": "Amanhecer"
+    },
+    {
+      "start": 22.56,
+      "end": 25.28,
+      "text": "O primeiro horário de ouro é amanhecer."
+    },
+    {
+      "start": 25.28,
+      "end": 32.0,
+      "text": "Logo cedo, a traíra sai dos abrigos como galhadas, margens com vegetação e começa a caçar."
+    },
+    {
+      "start": 32.44,
+      "end": 36.18,
+      "text": "Com a luz baixa e a água fresca, ela ataca sem medo."
+    },
+    {
+      "start": 36.64,
+      "end": 37.28,
+      "text": "Fim de tarde"
+    },
+    {
+      "start": 37.28,
+      "end": 41.74,
+      "text": "O segundo horário matador é o fim de tarde, perto do pôr do sol."
+    },
+    {
+      "start": 42.22,
+      "end": 45.9,
+      "text": "É nesse momento que a traíra volta a se movimentar em busca de alimento."
+    },
+    {
+      "start": 46.42,
+      "end": 50.02,
+      "text": "E muitas vezes acontecem os ataques mais explosivos do dia."
+    },
+    {
+      "start": 50.02,
+      "end": 56.62,
+      "text": "No meio do dia, ela fica mais parada e a noite pode até atacar, mas depende do ambiente."
+    },
+    {
+      "start": 57.2,
+      "end": 62.94,
+      "text": "Resumindo, se quer aumentar as chances, aposte sempre no amanhecer e no fim de tarde."
+    }
+  ],
+  "duracao_seg": 62.95,
+  "idioma_detectado": "pt"
+}

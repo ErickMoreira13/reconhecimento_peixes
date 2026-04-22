@@ -1,0 +1,47 @@
+{
+  "texto": "O sol vai se esconder, a rua vai sair A noite vai chegar e a terra vai dormir Pra enfeitar o céu, estrelas vão brilhar E os rios continuam indo atrás do mar São bocas feito fera, dividindo a fome O homem atrás da vida e a vida atrás do homem A chuva faz barrar e morro desabar E os rios continuam",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 3.49,
+      "text": "O sol vai se esconder, a rua vai sair"
+    },
+    {
+      "start": 3.49,
+      "end": 8.19,
+      "text": "A noite vai chegar e a terra vai dormir"
+    },
+    {
+      "start": 8.19,
+      "end": 12.38,
+      "text": "Pra enfeitar o céu, estrelas vão brilhar"
+    },
+    {
+      "start": 12.38,
+      "end": 16.8,
+      "text": "E os rios continuam indo atrás do mar"
+    },
+    {
+      "start": 16.8,
+      "end": 21.22,
+      "text": "São bocas feito fera, dividindo a fome"
+    },
+    {
+      "start": 21.22,
+      "end": 25.71,
+      "text": "O homem atrás da vida e a vida atrás do homem"
+    },
+    {
+      "start": 25.71,
+      "end": 29.98,
+      "text": "A chuva faz barrar e morro desabar"
+    },
+    {
+      "start": 29.98,
+      "end": 32.12,
+      "text": "E os rios continuam"
+    }
+  ],
+  "duracao_seg": 32.13,
+  "idioma_detectado": "pt"
+}

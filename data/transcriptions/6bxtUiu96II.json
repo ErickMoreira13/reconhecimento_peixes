@@ -1,0 +1,17 @@
+{
+  "texto": "Hoje a gente tá pescando aqui em Tietê, na cidade de Comissão, batendo uma parte. Esses aqui, ó, certinho.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 7.13,
+      "text": "Hoje a gente tá pescando aqui em Tietê, na cidade de Comissão, batendo uma parte."
+    },
+    {
+      "start": 571.26,
+      "end": 581.55,
+      "text": "Esses aqui, ó, certinho."
+    }
+  ],
+  "duracao_seg": 582.41,
+  "idioma_detectado": "pt"
+}

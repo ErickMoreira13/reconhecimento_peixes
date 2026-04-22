@@ -1,0 +1,62 @@
+{
+  "texto": "é, vai bora arremessar igual o Nelson Nakamura porque o arremesso de Nelson é bonito o Flipkast é bonito, né? é lindo arremessar no Flipkast é, faz parte quebrou mais uma tá ruim não suba uma Bahia show",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 1.99,
+      "text": "é, vai"
+    },
+    {
+      "start": 1.99,
+      "end": 4.57,
+      "text": "bora arremessar igual o Nelson Nakamura"
+    },
+    {
+      "start": 4.57,
+      "end": 6.53,
+      "text": "porque o arremesso de Nelson é bonito"
+    },
+    {
+      "start": 6.53,
+      "end": 7.53,
+      "text": "o Flipkast"
+    },
+    {
+      "start": 7.53,
+      "end": 11.24,
+      "text": "é bonito, né?"
+    },
+    {
+      "start": 12.2,
+      "end": 14.04,
+      "text": "é lindo arremessar no Flipkast"
+    },
+    {
+      "start": 14.04,
+      "end": 19.04,
+      "text": "é, faz parte"
+    },
+    {
+      "start": 19.04,
+      "end": 22.34,
+      "text": "quebrou mais uma"
+    },
+    {
+      "start": 22.34,
+      "end": 24.51,
+      "text": "tá ruim não"
+    },
+    {
+      "start": 24.51,
+      "end": 29.36,
+      "text": "suba uma Bahia"
+    },
+    {
+      "start": 29.36,
+      "end": 31.33,
+      "text": "show"
+    }
+  ],
+  "duracao_seg": 32.89,
+  "idioma_detectado": "pt"
+}

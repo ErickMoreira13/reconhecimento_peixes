@@ -1,0 +1,17 @@
+{
+  "texto": "Aí galera, já começou cedo aqui ó, 6h30 da manhã, ó já bateu o pompinho, esse horário bate o pompinho no marzão, ó que paisagem, meio nublado, um dia quebrando, tá sempre batendo o pompinho, já bateu o pompinho decente, tamanhozinho bom. Vamos que vamos galera, pescaria top, é isso aí, Albertina Aria, canal Betão da Pescaria, ó o tamanhozinho, só no pompinho, primeiro de hoje, vamos que vamos.",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 18.95,
+      "text": "Aí galera, já começou cedo aqui ó, 6h30 da manhã, ó já bateu o pompinho, esse horário bate o pompinho no marzão, ó que paisagem, meio nublado, um dia quebrando, tá sempre batendo o pompinho, já bateu o pompinho decente, tamanhozinho bom."
+    },
+    {
+      "start": 19.89,
+      "end": 31.1,
+      "text": "Vamos que vamos galera, pescaria top, é isso aí, Albertina Aria, canal Betão da Pescaria, ó o tamanhozinho, só no pompinho, primeiro de hoje, vamos que vamos."
+    }
+  ],
+  "duracao_seg": 31.75,
+  "idioma_detectado": "pt"
+}

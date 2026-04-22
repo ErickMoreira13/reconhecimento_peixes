@@ -1,0 +1,27 @@
+{
+  "texto": "I weep, I love everything Fire spreading all around my room My world's so bright, it's hard to breathe But that's alright, hush",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.63,
+      "text": "I weep, I love everything"
+    },
+    {
+      "start": 3.63,
+      "end": 8.1,
+      "text": "Fire spreading all around my room"
+    },
+    {
+      "start": 8.1,
+      "end": 11.1,
+      "text": "My world's so bright, it's hard to breathe"
+    },
+    {
+      "start": 11.1,
+      "end": 12.96,
+      "text": "But that's alright, hush"
+    }
+  ],
+  "duracao_seg": 14.99,
+  "idioma_detectado": "pt"
+}

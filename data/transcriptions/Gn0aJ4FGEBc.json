@@ -1,0 +1,87 @@
+{
+  "texto": "Aí, descendo o rio abaixo, em Ubarana, em busca de Tucunaré. Sexta-feira, já deve ser umas quatro e pouco, quase cinco horas. E tamo aí, descendo atrás dos vitelos. Tentar pegar um pouco hoje e deixar um pouco pra amanhã, que ainda sábado tem o dia inteiro. Ó, amém. Quase que a selar é dentro da água. Ó, Ubarana. Ó a bocada ali, ó. Patro Canaré, ó. Tão até pulando, mas nem chegou, eles tão pulando. O rancho ali embaixo, tá liberado o rancho pra nós. Liberado o ranchinho ali pra nós. Nós vamos chegar lá, apoiar lá e... Vão se virar por lá. Comida não tem mesmo? Vão ter que pegar teixo pra comer.",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 7.43,
+      "text": "Aí, descendo o rio abaixo, em Ubarana, em busca de Tucunaré."
+    },
+    {
+      "start": 8.71,
+      "end": 13.09,
+      "text": "Sexta-feira, já deve ser umas quatro e pouco, quase cinco horas."
+    },
+    {
+      "start": 15.18,
+      "end": 16.94,
+      "text": "E tamo aí, descendo atrás dos vitelos."
+    },
+    {
+      "start": 18.26,
+      "end": 23.14,
+      "text": "Tentar pegar um pouco hoje e deixar um pouco pra amanhã, que ainda sábado tem o dia inteiro."
+    },
+    {
+      "start": 23.54,
+      "end": 25.48,
+      "text": "Ó, amém."
+    },
+    {
+      "start": 26.44,
+      "end": 28.74,
+      "text": "Quase que a selar é dentro da água."
+    },
+    {
+      "start": 28.74,
+      "end": 34.78,
+      "text": "Ó, Ubarana."
+    },
+    {
+      "start": 36.33,
+      "end": 37.33,
+      "text": "Ó a bocada ali, ó."
+    },
+    {
+      "start": 39.44,
+      "end": 40.44,
+      "text": "Patro Canaré, ó."
+    },
+    {
+      "start": 41.66,
+      "end": 44.14,
+      "text": "Tão até pulando, mas nem chegou, eles tão pulando."
+    },
+    {
+      "start": 44.54,
+      "end": 47.68,
+      "text": "O rancho ali embaixo, tá liberado o rancho pra nós."
+    },
+    {
+      "start": 49.4,
+      "end": 50.76,
+      "text": "Liberado o ranchinho ali pra nós."
+    },
+    {
+      "start": 50.8,
+      "end": 53.12,
+      "text": "Nós vamos chegar lá, apoiar lá e..."
+    },
+    {
+      "start": 53.12,
+      "end": 54.28,
+      "text": "Vão se virar por lá."
+    },
+    {
+      "start": 55.37,
+      "end": 56.43,
+      "text": "Comida não tem mesmo?"
+    },
+    {
+      "start": 56.83,
+      "end": 58.03,
+      "text": "Vão ter que pegar teixo pra comer."
+    }
+  ],
+  "duracao_seg": 59.03,
+  "idioma_detectado": "pt"
+}

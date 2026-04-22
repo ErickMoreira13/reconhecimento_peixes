@@ -1,0 +1,62 @@
+{
+  "texto": "Eita papai Olha aí o outro ali, levanta o campo aí Nós perdemos tempo hoje Aí é o de vocês dois, né? A produção de vocês dois Tem quantos meus aí? Três, né? E aqui é o de papai Eu já matei sabe quantos... Sete bichos aí, fora o baiano Quanto é que tu quer nesse ganho? Deixa eu mostrar o papai ali na...",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 4.33,
+      "text": "Eita papai"
+    },
+    {
+      "start": 4.33,
+      "end": 6.73,
+      "text": "Olha aí o outro ali, levanta o campo aí"
+    },
+    {
+      "start": 6.73,
+      "end": 10.19,
+      "text": "Nós perdemos tempo hoje"
+    },
+    {
+      "start": 10.19,
+      "end": 11.39,
+      "text": "Aí é o de vocês dois, né?"
+    },
+    {
+      "start": 11.39,
+      "end": 12.69,
+      "text": "A produção de vocês dois"
+    },
+    {
+      "start": 12.69,
+      "end": 15.01,
+      "text": "Tem quantos meus aí? Três, né?"
+    },
+    {
+      "start": 15.01,
+      "end": 18.23,
+      "text": "E aqui é o de papai"
+    },
+    {
+      "start": 18.23,
+      "end": 23.33,
+      "text": "Eu já matei sabe quantos..."
+    },
+    {
+      "start": 23.33,
+      "end": 26.9,
+      "text": "Sete bichos aí, fora o baiano"
+    },
+    {
+      "start": 26.9,
+      "end": 28.4,
+      "text": "Quanto é que tu quer nesse ganho?"
+    },
+    {
+      "start": 28.4,
+      "end": 30.4,
+      "text": "Deixa eu mostrar o papai ali na..."
+    }
+  ],
+  "duracao_seg": 29.97,
+  "idioma_detectado": "pt"
+}

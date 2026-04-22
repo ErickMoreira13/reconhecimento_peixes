@@ -1,0 +1,307 @@
+{
+  "texto": "Fala rapaze, dá uma brincadinha? Funda pra caralho, como sempre, nós vamos tentar alguma coisinha, né? Aí, ó, uma alagadinha legal aqui, pra acreditar mais. Tá aí, né? Uma trairinha. Vamos ver se bate alguma coisa. Maninhoza, maninhoza, entra aí, ó. Tá com fome, não? Tá um lixo, né, tá preso, hein? Não, Tine, mano. Tem garota aí, ó, de filmar, que tá acabando a bateria. Quem disse que não ia sair uma? Pelo menos uma saiu, né? Pena que eu não filmei a pancada, né? Ah, que triste. Mas valeu, né? Pelo menos uma saiu, um lugar desse não vai sair um peixe, cara. Tá sério. Pera aí, rapaziada. Já que pulou, vai embora. Já que pulou, vai embora. Vai embora, vai embora. Show! Ah, finalmente uma trairinha, né, irmão? É, rapaziada. Dei vários arremetos nessa ponta aqui. Ó, vamos ver se até agora vai. É aí mesmo que eu queria. Passar bem no meio dos matos. Vai saber uma bocada boa, né? Ó! Sai, garoto! Ai, sabia! Quando passa no meio do mato, mano. Ah! Escapou, mano! No meio do mato lá, hein? Bem que eu falei. Ai, que show, cara. Puta, cara. É alguma coisa, né? Tentar mais, né? Ele é foda, né? É o horário dela. É o horário que ela quer e pronto. Bati, bati, nada. Deu até uma chancadinha, mas nada. Agora, seis horas da tarde. Curecendo, a filha da mãe resolveu. Ai, só mais um arremesso. Só mais um, de verdade. Eu vou embora. Pra um pãozinho. Valeu, traeiras! Agora, esse mato mexeu demais. Ah, que tá... Ah, que tá mexendo mesmo, né? É o vento. É isso aí, rapaziada. Vamos dar uma brincada, né? Não sou demais a pescaria, né, meu cachorro. Valeu? É nóis! Tá mexendo, né?",
+  "segmentos": [
+    {
+      "start": 0.82,
+      "end": 4.8,
+      "text": "Fala rapaze, dá uma brincadinha?"
+    },
+    {
+      "start": 5.54,
+      "end": 17.87,
+      "text": "Funda pra caralho, como sempre, nós vamos tentar alguma coisinha, né?"
+    },
+    {
+      "start": 28.29,
+      "end": 33.91,
+      "text": "Aí, ó, uma alagadinha legal aqui, pra acreditar mais."
+    },
+    {
+      "start": 34.86,
+      "end": 37.02,
+      "text": "Tá aí, né? Uma trairinha. Vamos ver se bate alguma coisa."
+    },
+    {
+      "start": 106.89,
+      "end": 146.58,
+      "text": "Maninhoza, maninhoza, entra aí, ó."
+    },
+    {
+      "start": 147.26,
+      "end": 148.0,
+      "text": "Tá com fome, não?"
+    },
+    {
+      "start": 149.21,
+      "end": 246.63,
+      "text": "Tá um lixo, né, tá preso, hein?"
+    },
+    {
+      "start": 247.03,
+      "end": 255.59,
+      "text": "Não, Tine, mano."
+    },
+    {
+      "start": 255.59,
+      "end": 299.49,
+      "text": "Tem garota aí, ó, de filmar, que tá acabando a bateria."
+    },
+    {
+      "start": 303.17,
+      "end": 305.47,
+      "text": "Quem disse que não ia sair uma? Pelo menos uma saiu, né?"
+    },
+    {
+      "start": 306.13,
+      "end": 307.81,
+      "text": "Pena que eu não filmei a pancada, né?"
+    },
+    {
+      "start": 308.43,
+      "end": 309.39,
+      "text": "Ah, que triste."
+    },
+    {
+      "start": 310.2,
+      "end": 310.96,
+      "text": "Mas valeu, né?"
+    },
+    {
+      "start": 311.28,
+      "end": 313.9,
+      "text": "Pelo menos uma saiu, um lugar desse não vai sair um peixe, cara."
+    },
+    {
+      "start": 314.98,
+      "end": 315.64,
+      "text": "Tá sério."
+    },
+    {
+      "start": 316.08,
+      "end": 319.82,
+      "text": "Pera aí, rapaziada."
+    },
+    {
+      "start": 321.38,
+      "end": 323.78,
+      "text": "Já que pulou, vai embora. Já que pulou, vai embora."
+    },
+    {
+      "start": 324.78,
+      "end": 325.56,
+      "text": "Vai embora, vai embora."
+    },
+    {
+      "start": 326.54,
+      "end": 326.98,
+      "text": "Show!"
+    },
+    {
+      "start": 326.98,
+      "end": 333.05,
+      "text": "Ah, finalmente uma trairinha, né, irmão?"
+    },
+    {
+      "start": 334.08,
+      "end": 335.02,
+      "text": "É, rapaziada."
+    },
+    {
+      "start": 335.4,
+      "end": 373.73,
+      "text": "Dei vários arremetos nessa ponta aqui."
+    },
+    {
+      "start": 373.73,
+      "end": 375.8,
+      "text": "Ó, vamos ver se até agora vai."
+    },
+    {
+      "start": 376.24,
+      "end": 398.48,
+      "text": "É aí mesmo que eu queria."
+    },
+    {
+      "start": 399.5,
+      "end": 403.76,
+      "text": "Passar bem no meio dos matos."
+    },
+    {
+      "start": 404.04,
+      "end": 412.21,
+      "text": "Vai saber uma bocada boa, né?"
+    },
+    {
+      "start": 415.3,
+      "end": 415.44,
+      "text": "Ó!"
+    },
+    {
+      "start": 417.57,
+      "end": 418.99,
+      "text": "Sai, garoto!"
+    },
+    {
+      "start": 421.24,
+      "end": 422.48,
+      "text": "Ai, sabia!"
+    },
+    {
+      "start": 423.51,
+      "end": 425.45,
+      "text": "Quando passa no meio do mato, mano."
+    },
+    {
+      "start": 428.99,
+      "end": 429.39,
+      "text": "Ah!"
+    },
+    {
+      "start": 430.77,
+      "end": 432.15,
+      "text": "Escapou, mano!"
+    },
+    {
+      "start": 432.85,
+      "end": 440.12,
+      "text": "No meio do mato lá, hein?"
+    },
+    {
+      "start": 440.12,
+      "end": 440.78,
+      "text": "Bem que eu falei."
+    },
+    {
+      "start": 442.61,
+      "end": 444.19,
+      "text": "Ai, que show, cara."
+    },
+    {
+      "start": 444.37,
+      "end": 444.83,
+      "text": "Puta, cara."
+    },
+    {
+      "start": 446.26,
+      "end": 447.4,
+      "text": "É alguma coisa, né?"
+    },
+    {
+      "start": 447.4,
+      "end": 449.76,
+      "text": "Tentar mais, né?"
+    },
+    {
+      "start": 450.08,
+      "end": 469.84,
+      "text": "Ele é foda, né?"
+    },
+    {
+      "start": 469.84,
+      "end": 470.48,
+      "text": "É o horário dela."
+    },
+    {
+      "start": 470.54,
+      "end": 472.22,
+      "text": "É o horário que ela quer e pronto."
+    },
+    {
+      "start": 473.48,
+      "end": 475.26,
+      "text": "Bati, bati, nada."
+    },
+    {
+      "start": 477.06,
+      "end": 478.84,
+      "text": "Deu até uma chancadinha, mas nada."
+    },
+    {
+      "start": 480.98,
+      "end": 483.1,
+      "text": "Agora, seis horas da tarde."
+    },
+    {
+      "start": 483.82,
+      "end": 485.62,
+      "text": "Curecendo, a filha da mãe resolveu."
+    },
+    {
+      "start": 486.04,
+      "end": 514.24,
+      "text": "Ai, só mais um arremesso."
+    },
+    {
+      "start": 515.56,
+      "end": 516.7,
+      "text": "Só mais um, de verdade."
+    },
+    {
+      "start": 517.04,
+      "end": 517.72,
+      "text": "Eu vou embora."
+    },
+    {
+      "start": 519.21,
+      "end": 520.09,
+      "text": "Pra um pãozinho."
+    },
+    {
+      "start": 541.25,
+      "end": 542.37,
+      "text": "Valeu, traeiras!"
+    },
+    {
+      "start": 542.37,
+      "end": 545.75,
+      "text": "Agora, esse mato mexeu demais."
+    },
+    {
+      "start": 547.57,
+      "end": 548.47,
+      "text": "Ah, que tá..."
+    },
+    {
+      "start": 548.47,
+      "end": 549.67,
+      "text": "Ah, que tá mexendo mesmo, né?"
+    },
+    {
+      "start": 549.67,
+      "end": 550.09,
+      "text": "É o vento."
+    },
+    {
+      "start": 567.63,
+      "end": 568.63,
+      "text": "É isso aí, rapaziada."
+    },
+    {
+      "start": 568.81,
+      "end": 569.95,
+      "text": "Vamos dar uma brincada, né?"
+    },
+    {
+      "start": 572.56,
+      "end": 575.24,
+      "text": "Não sou demais a pescaria, né, meu cachorro."
+    },
+    {
+      "start": 575.46,
+      "end": 575.72,
+      "text": "Valeu?"
+    },
+    {
+      "start": 575.84,
+      "end": 576.52,
+      "text": "É nóis!"
+    },
+    {
+      "start": 576.52,
+      "end": 591.98,
+      "text": "Tá mexendo, né?"
+    }
+  ],
+  "duracao_seg": 581.89,
+  "idioma_detectado": "pt"
+}

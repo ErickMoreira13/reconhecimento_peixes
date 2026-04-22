@@ -1,0 +1,32 @@
+{
+  "texto": "O que é que você quer pensar? Dois o tempo em que a boneca estiver dizendo Batatinha frita, um, dois, três Vamos começar o jogo Batatinha frita",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "text": "O que é que você quer pensar?"
+    },
+    {
+      "start": 0.8,
+      "end": 3.12,
+      "text": "Dois o tempo em que a boneca estiver dizendo"
+    },
+    {
+      "start": 3.12,
+      "end": 6.14,
+      "text": "Batatinha frita, um, dois, três"
+    },
+    {
+      "start": 6.14,
+      "end": 7.96,
+      "text": "Vamos começar o jogo"
+    },
+    {
+      "start": 7.96,
+      "end": 10.26,
+      "text": "Batatinha frita"
+    }
+  ],
+  "duracao_seg": 11.01,
+  "idioma_detectado": "pt"
+}

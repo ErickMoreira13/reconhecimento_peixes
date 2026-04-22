@@ -1,0 +1,32 @@
+{
+  "texto": "Olha o lugar delas aqui, ó. Pocinho pequenininho do Alegre, daquele modelo pesqueiro. Só chegar e pegar todos os peixes do rio aqui. Aqui tem ele, hein. O poço tá uma trinchando.",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 2.45,
+      "text": "Olha o lugar delas aqui, ó."
+    },
+    {
+      "start": 3.69,
+      "end": 11.1,
+      "text": "Pocinho pequenininho do Alegre, daquele modelo pesqueiro."
+    },
+    {
+      "start": 21.79,
+      "end": 23.77,
+      "text": "Só chegar e pegar todos os peixes do rio aqui."
+    },
+    {
+      "start": 23.87,
+      "end": 24.53,
+      "text": "Aqui tem ele, hein."
+    },
+    {
+      "start": 25.75,
+      "end": 26.71,
+      "text": "O poço tá uma trinchando."
+    }
+  ],
+  "duracao_seg": 27.75,
+  "idioma_detectado": "pt"
+}

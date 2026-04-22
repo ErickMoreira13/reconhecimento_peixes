@@ -1,0 +1,22 @@
+{
+  "texto": "A fotinha, tem uma caminhadinha do lado. Achei. Esse Ronaldo brigar mesmo com os perfil.",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.68,
+      "text": "A fotinha, tem uma caminhadinha do lado."
+    },
+    {
+      "start": 2.78,
+      "end": 3.14,
+      "text": "Achei."
+    },
+    {
+      "start": 5.65,
+      "end": 7.65,
+      "text": "Esse Ronaldo brigar mesmo com os perfil."
+    }
+  ],
+  "duracao_seg": 9.91,
+  "idioma_detectado": "pt"
+}

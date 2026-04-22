@@ -1,0 +1,77 @@
+{
+  "texto": "Pescadores, nós estamos aqui na Serra da Mesa. Olha a situação que a gente está pescando. Muita vegetação, o lago está muito inundado. E o que está fazendo sucesso, sucesso, aqui nessa pescaria. Olha aqui, ó. Você está doido? Olha aqui, ó. M-Action 15, papai. M-Action 15. Não é só para o azul, não. O azul gosta demais. Principalmente nessa situação está fazendo a diferença. E, ó. Chama.",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 3.73,
+      "text": "Pescadores, nós estamos aqui na Serra da Mesa."
+    },
+    {
+      "start": 4.21,
+      "end": 5.93,
+      "text": "Olha a situação que a gente está pescando."
+    },
+    {
+      "start": 6.57,
+      "end": 9.25,
+      "text": "Muita vegetação, o lago está muito inundado."
+    },
+    {
+      "start": 9.75,
+      "end": 14.71,
+      "text": "E o que está fazendo sucesso, sucesso, aqui nessa pescaria."
+    },
+    {
+      "start": 15.35,
+      "end": 15.89,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 16.57,
+      "end": 17.93,
+      "text": "Você está doido?"
+    },
+    {
+      "start": 18.23,
+      "end": 18.91,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 19.35,
+      "end": 21.57,
+      "text": "M-Action 15, papai."
+    },
+    {
+      "start": 22.13,
+      "end": 23.35,
+      "text": "M-Action 15."
+    },
+    {
+      "start": 23.35,
+      "end": 24.45,
+      "text": "Não é só para o azul, não."
+    },
+    {
+      "start": 24.51,
+      "end": 26.43,
+      "text": "O azul gosta demais."
+    },
+    {
+      "start": 26.59,
+      "end": 28.85,
+      "text": "Principalmente nessa situação está fazendo a diferença."
+    },
+    {
+      "start": 29.8,
+      "end": 30.12,
+      "text": "E, ó."
+    },
+    {
+      "start": 30.12,
+      "end": 31.04,
+      "text": "Chama."
+    }
+  ],
+  "duracao_seg": 32.87,
+  "idioma_detectado": "pt"
+}

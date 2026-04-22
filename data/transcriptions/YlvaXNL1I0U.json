@@ -1,0 +1,17 @@
+{
+  "texto": "Pescaria aqui na Praia do Paredão, varinha armada, chuveirinha ali mais ou menos, comendo frito, o saquinho é cheio de peixe, lugar bonita, mais pra cá, olha o tamanho desse flamengão, que dá um close no bicho, rapaziada, fim de pescaria, olha o resultado da pescaria aí, é nóis, é nóis, masinho, boa, boa, Pescaria na Praia do Paredão, é nóis, é nóis, só nós dois, as ozinhas armadas, Zacarias aí, aprendemos, aprendi meu primo, é só puxar, show de bola, valeu, valeu, tamo junto.",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 149.62,
+      "text": "Pescaria aqui na Praia do Paredão, varinha armada, chuveirinha ali mais ou menos, comendo frito, o saquinho é cheio de peixe, lugar bonita, mais pra cá, olha o tamanho desse flamengão, que dá um close no bicho, rapaziada, fim de pescaria, olha o resultado da pescaria aí, é nóis, é nóis, masinho, boa, boa,"
+    },
+    {
+      "start": 149.62,
+      "end": 171.29,
+      "text": "Pescaria na Praia do Paredão, é nóis, é nóis, só nós dois, as ozinhas armadas, Zacarias aí, aprendemos, aprendi meu primo, é só puxar, show de bola, valeu, valeu, tamo junto."
+    }
+  ],
+  "duracao_seg": 206.41,
+  "idioma_detectado": "pt"
+}

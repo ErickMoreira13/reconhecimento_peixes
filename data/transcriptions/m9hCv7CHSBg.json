@@ -1,0 +1,17 @@
+{
+  "texto": "galera, olha o tamanho dessa tabarana aqui, tabaranasso, velho, olha, elas estão crescendo, galera, estou batendo uma isquinha aqui, olha o tamanho dessa tabarana, olha, e é brava, né, velho, é um douradinho, né, essa é grandona, olha o tamanho da tabarana, foi, ó, legal, né, tomara que proqui fique grandona para a gente sempre pegar elas aí na represa, olha, está dando pra vê-la lá ainda, não vai dar para vocês verem não, mas eu estou vendo, valeu!",
+  "segmentos": [
+    {
+      "start": 7.34,
+      "end": 33.17,
+      "text": "galera, olha o tamanho dessa tabarana aqui, tabaranasso, velho, olha, elas estão crescendo, galera, estou batendo uma isquinha aqui, olha o tamanho dessa tabarana, olha, e é brava, né, velho, é um douradinho, né, essa é grandona,"
+    },
+    {
+      "start": 33.17,
+      "end": 47.74,
+      "text": "olha o tamanho da tabarana, foi, ó, legal, né, tomara que proqui fique grandona para a gente sempre pegar elas aí na represa, olha, está dando pra vê-la lá ainda, não vai dar para vocês verem não, mas eu estou vendo, valeu!"
+    }
+  ],
+  "duracao_seg": 53.41,
+  "idioma_detectado": "pt"
+}

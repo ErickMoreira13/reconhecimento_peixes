@@ -1,0 +1,547 @@
+{
+  "texto": "Olá gente, tudo bem? Hoje eu vou fazer mais um vídeo pra vocês aqui Eu tô num lago de São Pedro hoje, onde tá de friagem Vou mostrar pra vocês também aqui Pescando um pouco, né? De arpão, pesca diferente E espero que vocês gostem Se você gostar, deixe seu like aí e se inscreva São seis horas da manhã aqui, ó O dia tá clareando, já tem algumas canoas ali Tem algumas canoas ali, ó Aí como é que tá de peixe aí, ó Peixe miúdo bebendo aí Aí aqui tem surubim Jundiá, cuiu Tudo misturado pelo meio aqui, ó Aí aquelas Coisinhas pretas Pretinhas que vocês estão vendo aí, ó É peixe, cuiuia Aí esse aí é cuiu Tem dois aqui, ó Tem outro pra ali Tem vários desses pra ali, ó Tem uma taça jundiá aqui agora Aqui é o jundiá Jundiá Pra mostrar pra vocês, tá Entre pé aí eu não sei quem Girar a câmera Vem agora Para ali agora Vários peixes mortos aqui, ó Tem dois surubim ali, ó Não vou matar aí não Só mostrar pra vocês Dois surubim aí, cuiu Olha o surubim ali, ó Para ali Eu não matei não, só pra mostrar pra vocês Matar cuiu não, olha só Surubim, guiá Matar peixe agora eu vou mostrar pra vocês aqui, ó Não quero mais, já tô indo embora Aqui é só mesmo pra comer Aqui, ó Até conseguir matar esses aqui, ó Acho que Menos de Menos de uma hora aqui, ó Jundiá Surubim Tem muito peixe aqui, ó Olha aí na beira Olha aí na beira como é que tá aí, ó Peixe morto aí, ó É o terceiro dia de friagem hoje Agora eu vou só mostrar pra vocês aí, ó Como é que tá o surubim Surubim aí, ó Aqui no topo desse pau, ó É cuiu Olha o surubim aí, tudo bebendo Outro aqui, ó Ali, ó Tem mais Pinotou aqui, espantou esse Aí outro lá, ó Pessoal por ali, ó As canoas matando também É o peixe que tá morto, ó Tem vários peixes miúdos ali, ó Esse daí é um cuiu Esse aqui já é um jundiá morto Já é no terceiro dia de friagem Tem muito peixe morto Surubim, jundiá Olha o tamanho desse aí, ó Jundiá morto Surubim Cuiu Pirarara Fora os outros peixes miúdos Que é de diversas qualidades Vem da pescada Piranha Esse negócio branco Que vocês estão vendo aí, ó Isso aí tudo é o pescado morto, ó Pra ali, ó Como é que tá ali, ó Aí, galera Se você gostar aí Não esqueça de Se inscrever Deixar seu like Deixar seu comentário Compartilha aí com seus amigos Me ajude a divulgar Valeu, galera Até o próximo vídeo Olha aí, ó Chamo pra você mais uma vez aí Que eu consegui matar ele Tô indo embora já Que é só mesmo Pro consumo Tchau, tchau",
+  "segmentos": [
+    {
+      "start": 0.78,
+      "end": 2.02,
+      "text": "Olá gente, tudo bem?"
+    },
+    {
+      "start": 2.6,
+      "end": 4.3,
+      "text": "Hoje eu vou fazer mais um vídeo pra vocês aqui"
+    },
+    {
+      "start": 4.3,
+      "end": 6.92,
+      "text": "Eu tô num lago de São Pedro hoje, onde tá de friagem"
+    },
+    {
+      "start": 6.92,
+      "end": 9.32,
+      "text": "Vou mostrar pra vocês também aqui"
+    },
+    {
+      "start": 9.32,
+      "end": 11.66,
+      "text": "Pescando um pouco, né?"
+    },
+    {
+      "start": 11.8,
+      "end": 13.62,
+      "text": "De arpão, pesca diferente"
+    },
+    {
+      "start": 13.62,
+      "end": 16.18,
+      "text": "E espero que vocês gostem"
+    },
+    {
+      "start": 16.18,
+      "end": 18.1,
+      "text": "Se você gostar, deixe seu like aí e se inscreva"
+    },
+    {
+      "start": 18.1,
+      "end": 21.04,
+      "text": "São seis horas da manhã aqui, ó"
+    },
+    {
+      "start": 21.04,
+      "end": 24.24,
+      "text": "O dia tá clareando, já tem algumas canoas ali"
+    },
+    {
+      "start": 24.24,
+      "end": 34.01,
+      "text": "Tem algumas canoas ali, ó"
+    },
+    {
+      "start": 34.01,
+      "end": 39.68,
+      "text": "Aí como é que tá de peixe aí, ó"
+    },
+    {
+      "start": 39.68,
+      "end": 42.15,
+      "text": "Peixe miúdo bebendo aí"
+    },
+    {
+      "start": 42.15,
+      "end": 44.17,
+      "text": "Aí aqui tem surubim"
+    },
+    {
+      "start": 44.17,
+      "end": 46.48,
+      "text": "Jundiá, cuiu"
+    },
+    {
+      "start": 46.48,
+      "end": 49.31,
+      "text": "Tudo misturado pelo meio aqui, ó"
+    },
+    {
+      "start": 49.31,
+      "end": 55.47,
+      "text": "Aí aquelas"
+    },
+    {
+      "start": 55.47,
+      "end": 57.72,
+      "text": "Coisinhas pretas"
+    },
+    {
+      "start": 57.72,
+      "end": 59.44,
+      "text": "Pretinhas que vocês estão vendo aí, ó"
+    },
+    {
+      "start": 59.44,
+      "end": 65.6,
+      "text": "É peixe, cuiuia"
+    },
+    {
+      "start": 65.6,
+      "end": 74.77,
+      "text": "Aí esse aí é cuiu"
+    },
+    {
+      "start": 74.77,
+      "end": 78.64,
+      "text": "Tem dois aqui, ó"
+    },
+    {
+      "start": 78.64,
+      "end": 81.0,
+      "text": "Tem outro pra ali"
+    },
+    {
+      "start": 81.0,
+      "end": 87.34,
+      "text": "Tem vários desses pra ali, ó"
+    },
+    {
+      "start": 87.34,
+      "end": 128.9,
+      "text": "Tem uma taça jundiá aqui agora"
+    },
+    {
+      "start": 128.9,
+      "end": 157.05,
+      "text": "Aqui é o jundiá"
+    },
+    {
+      "start": 157.05,
+      "end": 157.79,
+      "text": "Jundiá"
+    },
+    {
+      "start": 157.79,
+      "end": 207.5,
+      "text": "Pra mostrar pra vocês, tá"
+    },
+    {
+      "start": 207.5,
+      "end": 210.55,
+      "text": "Entre pé aí eu não sei quem"
+    },
+    {
+      "start": 210.55,
+      "end": 212.6,
+      "text": "Girar a câmera"
+    },
+    {
+      "start": 212.6,
+      "end": 249.08,
+      "text": "Vem agora"
+    },
+    {
+      "start": 249.08,
+      "end": 341.76,
+      "text": "Para ali agora"
+    },
+    {
+      "start": 341.76,
+      "end": 488.72,
+      "text": "Vários peixes mortos aqui, ó"
+    },
+    {
+      "start": 488.72,
+      "end": 493.56,
+      "text": "Tem dois surubim ali, ó"
+    },
+    {
+      "start": 493.56,
+      "end": 495.39,
+      "text": "Não vou matar aí não"
+    },
+    {
+      "start": 495.39,
+      "end": 496.39,
+      "text": "Só mostrar pra vocês"
+    },
+    {
+      "start": 496.39,
+      "end": 507.44,
+      "text": "Dois surubim aí, cuiu"
+    },
+    {
+      "start": 507.44,
+      "end": 517.08,
+      "text": "Olha o surubim ali, ó"
+    },
+    {
+      "start": 517.08,
+      "end": 518.56,
+      "text": "Para ali"
+    },
+    {
+      "start": 518.56,
+      "end": 522.0,
+      "text": "Eu não matei não, só pra mostrar pra vocês"
+    },
+    {
+      "start": 522.0,
+      "end": 598.89,
+      "text": "Matar cuiu não, olha só"
+    },
+    {
+      "start": 598.89,
+      "end": 600.11,
+      "text": "Surubim, guiá"
+    },
+    {
+      "start": 600.11,
+      "end": 1466.82,
+      "text": "Matar peixe agora eu vou mostrar pra vocês aqui, ó"
+    },
+    {
+      "start": 1466.82,
+      "end": 1469.01,
+      "text": "Não quero mais, já tô indo embora"
+    },
+    {
+      "start": 1469.01,
+      "end": 1472.17,
+      "text": "Aqui é só mesmo pra comer"
+    },
+    {
+      "start": 1472.17,
+      "end": 1474.04,
+      "text": "Aqui, ó"
+    },
+    {
+      "start": 1474.04,
+      "end": 1478.88,
+      "text": "Até conseguir matar esses aqui, ó"
+    },
+    {
+      "start": 1478.88,
+      "end": 1479.16,
+      "text": "Acho que"
+    },
+    {
+      "start": 1479.16,
+      "end": 1481.24,
+      "text": "Menos de"
+    },
+    {
+      "start": 1481.24,
+      "end": 1485.22,
+      "text": "Menos de uma hora aqui, ó"
+    },
+    {
+      "start": 1485.22,
+      "end": 1487.23,
+      "text": "Jundiá"
+    },
+    {
+      "start": 1487.23,
+      "end": 1489.88,
+      "text": "Surubim"
+    },
+    {
+      "start": 1489.88,
+      "end": 1496.58,
+      "text": "Tem muito peixe aqui, ó"
+    },
+    {
+      "start": 1499.34,
+      "end": 1499.94,
+      "text": "Olha aí na beira"
+    },
+    {
+      "start": 1499.94,
+      "end": 1502.59,
+      "text": "Olha aí na beira como é que tá aí, ó"
+    },
+    {
+      "start": 1502.59,
+      "end": 1504.82,
+      "text": "Peixe morto aí, ó"
+    },
+    {
+      "start": 1504.82,
+      "end": 1506.86,
+      "text": "É o terceiro dia de friagem hoje"
+    },
+    {
+      "start": 1506.86,
+      "end": 1512.4,
+      "text": "Agora eu vou só mostrar pra vocês aí, ó"
+    },
+    {
+      "start": 1512.4,
+      "end": 1518.97,
+      "text": "Como é que tá o surubim"
+    },
+    {
+      "start": 1518.97,
+      "end": 1521.14,
+      "text": "Surubim aí, ó"
+    },
+    {
+      "start": 1521.14,
+      "end": 1524.62,
+      "text": "Aqui no topo desse pau, ó"
+    },
+    {
+      "start": 1524.62,
+      "end": 1525.5,
+      "text": "É cuiu"
+    },
+    {
+      "start": 1525.5,
+      "end": 1532.28,
+      "text": "Olha o surubim aí, tudo bebendo"
+    },
+    {
+      "start": 1532.28,
+      "end": 1537.61,
+      "text": "Outro aqui, ó"
+    },
+    {
+      "start": 1537.61,
+      "end": 1542.6,
+      "text": "Ali, ó"
+    },
+    {
+      "start": 1542.6,
+      "end": 1543.46,
+      "text": "Tem mais"
+    },
+    {
+      "start": 1543.46,
+      "end": 1549.33,
+      "text": "Pinotou aqui, espantou esse"
+    },
+    {
+      "start": 1549.33,
+      "end": 1561.9,
+      "text": "Aí outro lá, ó"
+    },
+    {
+      "start": 1561.9,
+      "end": 1586.69,
+      "text": "Pessoal por ali, ó"
+    },
+    {
+      "start": 1586.69,
+      "end": 1589.07,
+      "text": "As canoas matando também"
+    },
+    {
+      "start": 1589.07,
+      "end": 1613.86,
+      "text": "É o peixe que tá morto, ó"
+    },
+    {
+      "start": 1613.86,
+      "end": 1623.38,
+      "text": "Tem vários peixes miúdos ali, ó"
+    },
+    {
+      "start": 1623.38,
+      "end": 1624.16,
+      "text": "Esse daí é um cuiu"
+    },
+    {
+      "start": 1624.16,
+      "end": 1631.34,
+      "text": "Esse aqui já é um jundiá morto"
+    },
+    {
+      "start": 1631.34,
+      "end": 1633.92,
+      "text": "Já é no terceiro dia de friagem"
+    },
+    {
+      "start": 1633.92,
+      "end": 1636.0,
+      "text": "Tem muito peixe morto"
+    },
+    {
+      "start": 1636.0,
+      "end": 1637.38,
+      "text": "Surubim, jundiá"
+    },
+    {
+      "start": 1637.38,
+      "end": 1639.4,
+      "text": "Olha o tamanho desse aí, ó"
+    },
+    {
+      "start": 1639.4,
+      "end": 1647.58,
+      "text": "Jundiá morto"
+    },
+    {
+      "start": 1647.58,
+      "end": 1648.34,
+      "text": "Surubim"
+    },
+    {
+      "start": 1648.34,
+      "end": 1649.14,
+      "text": "Cuiu"
+    },
+    {
+      "start": 1649.14,
+      "end": 1651.2,
+      "text": "Pirarara"
+    },
+    {
+      "start": 1651.2,
+      "end": 1654.59,
+      "text": "Fora os outros peixes miúdos"
+    },
+    {
+      "start": 1654.59,
+      "end": 1655.93,
+      "text": "Que é de diversas qualidades"
+    },
+    {
+      "start": 1655.93,
+      "end": 1658.67,
+      "text": "Vem da pescada"
+    },
+    {
+      "start": 1658.67,
+      "end": 1659.31,
+      "text": "Piranha"
+    },
+    {
+      "start": 1659.31,
+      "end": 1663.58,
+      "text": "Esse negócio branco"
+    },
+    {
+      "start": 1663.58,
+      "end": 1664.5,
+      "text": "Que vocês estão vendo aí, ó"
+    },
+    {
+      "start": 1664.5,
+      "end": 1666.68,
+      "text": "Isso aí tudo é o pescado morto, ó"
+    },
+    {
+      "start": 1666.68,
+      "end": 1669.92,
+      "text": "Pra ali, ó"
+    },
+    {
+      "start": 1669.92,
+      "end": 1672.11,
+      "text": "Como é que tá ali, ó"
+    },
+    {
+      "start": 1672.11,
+      "end": 1682.56,
+      "text": "Aí, galera"
+    },
+    {
+      "start": 1682.56,
+      "end": 1683.5,
+      "text": "Se você gostar aí"
+    },
+    {
+      "start": 1683.5,
+      "end": 1685.04,
+      "text": "Não esqueça de"
+    },
+    {
+      "start": 1685.04,
+      "end": 1686.67,
+      "text": "Se inscrever"
+    },
+    {
+      "start": 1686.67,
+      "end": 1687.53,
+      "text": "Deixar seu like"
+    },
+    {
+      "start": 1687.53,
+      "end": 1689.44,
+      "text": "Deixar seu comentário"
+    },
+    {
+      "start": 1689.44,
+      "end": 1692.07,
+      "text": "Compartilha aí com seus amigos"
+    },
+    {
+      "start": 1692.07,
+      "end": 1693.07,
+      "text": "Me ajude a divulgar"
+    },
+    {
+      "start": 1693.07,
+      "end": 1697.51,
+      "text": "Valeu, galera"
+    },
+    {
+      "start": 1697.51,
+      "end": 1698.71,
+      "text": "Até o próximo vídeo"
+    },
+    {
+      "start": 1698.71,
+      "end": 1700.43,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 1700.43,
+      "end": 1701.89,
+      "text": "Chamo pra você mais uma vez aí"
+    },
+    {
+      "start": 1701.89,
+      "end": 1704.48,
+      "text": "Que eu consegui matar ele"
+    },
+    {
+      "start": 1704.48,
+      "end": 1705.46,
+      "text": "Tô indo embora já"
+    },
+    {
+      "start": 1705.46,
+      "end": 1707.17,
+      "text": "Que é só mesmo"
+    },
+    {
+      "start": 1707.17,
+      "end": 1710.19,
+      "text": "Pro consumo"
+    },
+    {
+      "start": 1710.19,
+      "end": 1712.19,
+      "text": "Tchau, tchau"
+    }
+  ],
+  "duracao_seg": 1712.39,
+  "idioma_detectado": "pt"
+}

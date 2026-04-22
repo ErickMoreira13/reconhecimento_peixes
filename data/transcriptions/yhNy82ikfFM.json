@@ -1,0 +1,22 @@
+{
+  "texto": "Não é uma beleza, hein? Gv Cunha é foda! Peguei!",
+  "segmentos": [
+    {
+      "start": 0.12,
+      "end": 1.68,
+      "text": "Não é uma beleza, hein?"
+    },
+    {
+      "start": 10.04,
+      "end": 20.14,
+      "text": "Gv Cunha é foda!"
+    },
+    {
+      "start": 24.19,
+      "end": 24.83,
+      "text": "Peguei!"
+    }
+  ],
+  "duracao_seg": 29.23,
+  "idioma_detectado": "pt"
+}

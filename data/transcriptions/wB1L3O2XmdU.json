@@ -1,0 +1,107 @@
+{
+  "texto": "Ó, eu trouxe o celular pra filmar, porque o Carcaça me falou, eu falei, é conversa fiada. Fala aí, Carcaça. Aí, ó. Olha aqui, ó. Vem te ver. Não acredito nisso. Puta que pariu. Vamos voltar lá na gaiada e mostrar o vídeo pro rapaz. Olha só. Puta que pariu. Mas ninguém acredita numa coisa dessa, bicho. Olha aqui, ó. Fica comigo, ó. Não, não. Ó, eu trouxe o celular. Viu? Eu trouxe o celular pra ninguém falar que é mentira, velho. Acabei de encostar aqui, olha aqui a natureza. E... Não, ontem, não, ontem.",
+  "segmentos": [
+    {
+      "start": 0.78,
+      "end": 7.08,
+      "text": "Ó, eu trouxe o celular pra filmar, porque o Carcaça me falou, eu falei, é conversa fiada."
+    },
+    {
+      "start": 7.78,
+      "end": 8.5,
+      "text": "Fala aí, Carcaça."
+    },
+    {
+      "start": 9.0,
+      "end": 9.44,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 9.96,
+      "end": 10.82,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 11.0,
+      "end": 11.68,
+      "text": "Vem te ver."
+    },
+    {
+      "start": 12.28,
+      "end": 14.36,
+      "text": "Não acredito nisso."
+    },
+    {
+      "start": 21.76,
+      "end": 23.6,
+      "text": "Puta que pariu."
+    },
+    {
+      "start": 24.94,
+      "end": 28.04,
+      "text": "Vamos voltar lá na gaiada e mostrar o vídeo pro rapaz."
+    },
+    {
+      "start": 28.04,
+      "end": 31.0,
+      "text": "Olha só."
+    },
+    {
+      "start": 40.54,
+      "end": 46.3,
+      "text": "Puta que pariu."
+    },
+    {
+      "start": 46.78,
+      "end": 48.8,
+      "text": "Mas ninguém acredita numa coisa dessa, bicho."
+    },
+    {
+      "start": 50.47,
+      "end": 51.35,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 53.24,
+      "end": 56.16,
+      "text": "Fica comigo, ó."
+    },
+    {
+      "start": 57.34,
+      "end": 58.44,
+      "text": "Não, não."
+    },
+    {
+      "start": 58.9,
+      "end": 60.38,
+      "text": "Ó, eu trouxe o celular."
+    },
+    {
+      "start": 61.33,
+      "end": 61.77,
+      "text": "Viu?"
+    },
+    {
+      "start": 62.13,
+      "end": 64.51,
+      "text": "Eu trouxe o celular pra ninguém falar que é mentira, velho."
+    },
+    {
+      "start": 64.95,
+      "end": 66.95,
+      "text": "Acabei de encostar aqui, olha aqui a natureza."
+    },
+    {
+      "start": 67.33,
+      "end": 67.65,
+      "text": "E..."
+    },
+    {
+      "start": 67.65,
+      "end": 71.56,
+      "text": "Não, ontem, não, ontem."
+    }
+  ],
+  "duracao_seg": 71.61,
+  "idioma_detectado": "pt"
+}

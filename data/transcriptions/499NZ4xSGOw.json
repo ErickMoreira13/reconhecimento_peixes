@@ -1,0 +1,512 @@
+{
+  "texto": "Cuidado com... é bom alicate. O alicate está bem na profeta. Está bem aqui, ó. É porque se meter a mão ele bate, aí lá vai, engata na sua mão. Meu dedo quase no ramo. Olha aí. Ele é assim de veneza. Achar o... Achar o... Mais ou menos vocês estão aí. Não é, cara. Está grande as estrelas no fundo mesmo, cara. Aê, Alexandre. Negão tucuna. O bicho está pequeno ainda. Vamos pegar os grandes. Tem o pai e a mãe. Mas dá para o frito hoje. Mas vai vir os grandes. Olha, tem um outro aqui, Alexandre. Tem um monte, tem um monte atrás. Viu atrás da isca, ó. Escapou. É. Parou mesmo. Mato. Olha aí, pessoal. Para pegar a pinhaba aí, ó. Ela vai entrar dentro da garrafa, ó. Quando ela não entrar, ela fica presa. Opa. Espantou o bicho. Eu vou mergulhar. Olha. Que cuna. Conaré mirim. Conaré mirim. Conaré mirim. Olha só, rapaz lindo ele. Começa para sair para a pescaria. Um cafezinho preto, né, Alexandre. Um cafezinho preto, né, Alexandre. Um cafezinho preto, um cuscuz. Aí eu descer para poder pegar aquela... Com a Alexandre. Aqui o seu Messias que vai levar a gente lá do lado. Ou de lutada. Já perdemos uma capivara agora de manhã. Não é aquela capivara. Mas tudo bem. Mas tudo bem. A pata dela... O tamanho da minha mão. Você filmou o rato que ela fez ali. Aqui, ó. Fugindo. Ela não falou ontem. A gente achava macacinha para cozinhar para comer aqui hoje de manhã. Não descemos lá na roça. Alicate, hein. Aqui é bom. Você viu? Eu falei que aqui era bom. Aqui está mais... Ah, ó. Fui na primeira aqui, mano. Segura aí. Cuidado aqui. Tem um anzol bem aqui. Eu pensei passando. Então pôr na ispa e ele enganchou, ó. Ele vai. Segura aí, é. Ele nem enganchou na boca mesmo. Só põe a porta. Ele ia passando. Um outro aqui pegar na ispa e ele tem que passar aqui mesmo. Não dá para o teu dedo aí. É, que esse cabelo vai ficar com a colinha ali, ó. Pessoal. Tem uma jararaca que está com cria ali. Jararaca. Não dá muito aqui. Oi. Olha só, galera. Olha ali ela ali, ó. Dentro da caixa. E qual é a lombra? Então, que ela vai sair? Se ela sair daí? Ela vai sair. Ela vai sair. Olha só, bicho. Tá vendo? Tá de boa ela ali. E o nome que... Tá vendo? Tá de boa ela ali. Tá vendo ela? Tá vendo ela? E ela já tá com a... Saí de pôr no lado. E aí, pôr no lado.",
+  "segmentos": [
+    {
+      "start": 137.23,
+      "end": 139.23,
+      "text": "Cuidado com... é bom alicate."
+    },
+    {
+      "start": 139.23,
+      "end": 143.69,
+      "text": "O alicate está bem na profeta."
+    },
+    {
+      "start": 143.69,
+      "end": 144.69,
+      "text": "Está bem aqui, ó."
+    },
+    {
+      "start": 150.61,
+      "end": 152.61,
+      "text": "É porque se meter a mão ele bate,"
+    },
+    {
+      "start": 152.61,
+      "end": 154.61,
+      "text": "aí lá vai, engata na sua mão."
+    },
+    {
+      "start": 154.61,
+      "end": 157.38,
+      "text": "Meu dedo quase no ramo."
+    },
+    {
+      "start": 157.38,
+      "end": 163.28,
+      "text": "Olha aí."
+    },
+    {
+      "start": 163.28,
+      "end": 165.28,
+      "text": "Ele é assim de veneza."
+    },
+    {
+      "start": 165.28,
+      "end": 167.86,
+      "text": "Achar o... Achar o..."
+    },
+    {
+      "start": 167.86,
+      "end": 169.86,
+      "text": "Mais ou menos vocês estão aí."
+    },
+    {
+      "start": 169.86,
+      "end": 214.1,
+      "text": "Não é, cara."
+    },
+    {
+      "start": 214.1,
+      "end": 216.1,
+      "text": "Está grande as estrelas no fundo mesmo, cara."
+    },
+    {
+      "start": 216.1,
+      "end": 221.81,
+      "text": "Aê, Alexandre."
+    },
+    {
+      "start": 221.81,
+      "end": 231.52,
+      "text": "Negão tucuna."
+    },
+    {
+      "start": 231.52,
+      "end": 233.55,
+      "text": "O bicho está pequeno ainda. Vamos pegar os grandes."
+    },
+    {
+      "start": 233.55,
+      "end": 238.14,
+      "text": "Tem o pai e a mãe."
+    },
+    {
+      "start": 238.14,
+      "end": 248.91,
+      "text": "Mas dá para o frito hoje."
+    },
+    {
+      "start": 248.91,
+      "end": 307.87,
+      "text": "Mas vai vir os grandes."
+    },
+    {
+      "start": 307.87,
+      "end": 310.54,
+      "text": "Olha, tem um outro aqui, Alexandre."
+    },
+    {
+      "start": 310.54,
+      "end": 317.76,
+      "text": "Tem um monte, tem um monte atrás."
+    },
+    {
+      "start": 317.76,
+      "end": 399.09,
+      "text": "Viu atrás da isca, ó."
+    },
+    {
+      "start": 399.09,
+      "end": 402.21,
+      "text": "Escapou."
+    },
+    {
+      "start": 430.64,
+      "end": 432.9,
+      "text": "É."
+    },
+    {
+      "start": 432.9,
+      "end": 442.38,
+      "text": "Parou mesmo."
+    },
+    {
+      "start": 442.38,
+      "end": 449.02,
+      "text": "Mato."
+    },
+    {
+      "start": 449.02,
+      "end": 454.29,
+      "text": "Olha aí, pessoal."
+    },
+    {
+      "start": 454.29,
+      "end": 457.25,
+      "text": "Para pegar a pinhaba aí, ó."
+    },
+    {
+      "start": 457.25,
+      "end": 460.34,
+      "text": "Ela vai entrar dentro da garrafa, ó."
+    },
+    {
+      "start": 460.34,
+      "end": 462.34,
+      "text": "Quando ela não entrar, ela fica presa."
+    },
+    {
+      "start": 479.1,
+      "end": 481.68,
+      "text": "Opa."
+    },
+    {
+      "start": 481.68,
+      "end": 490.14,
+      "text": "Espantou o bicho."
+    },
+    {
+      "start": 490.14,
+      "end": 496.82,
+      "text": "Eu vou mergulhar."
+    },
+    {
+      "start": 496.82,
+      "end": 499.17,
+      "text": "Olha."
+    },
+    {
+      "start": 499.17,
+      "end": 538.64,
+      "text": "Que cuna."
+    },
+    {
+      "start": 538.64,
+      "end": 542.46,
+      "text": "Conaré mirim."
+    },
+    {
+      "start": 542.46,
+      "end": 545.55,
+      "text": "Conaré mirim."
+    },
+    {
+      "start": 545.55,
+      "end": 550.46,
+      "text": "Conaré mirim."
+    },
+    {
+      "start": 550.46,
+      "end": 564.4,
+      "text": "Olha só, rapaz lindo ele."
+    },
+    {
+      "start": 564.4,
+      "end": 566.4,
+      "text": "Começa para sair para a pescaria."
+    },
+    {
+      "start": 566.4,
+      "end": 589.68,
+      "text": "Um cafezinho preto, né, Alexandre."
+    },
+    {
+      "start": 589.68,
+      "end": 591.68,
+      "text": "Um cafezinho preto, né, Alexandre."
+    },
+    {
+      "start": 591.68,
+      "end": 593.68,
+      "text": "Um cafezinho preto, um cuscuz."
+    },
+    {
+      "start": 593.68,
+      "end": 594.68,
+      "text": "Aí eu descer para poder pegar aquela..."
+    },
+    {
+      "start": 594.68,
+      "end": 595.68,
+      "text": "Com a Alexandre."
+    },
+    {
+      "start": 595.68,
+      "end": 597.68,
+      "text": "Aqui o seu Messias que vai levar a gente lá do lado."
+    },
+    {
+      "start": 597.68,
+      "end": 598.68,
+      "text": "Ou de lutada."
+    },
+    {
+      "start": 598.68,
+      "end": 600.68,
+      "text": "Já perdemos uma capivara agora de manhã."
+    },
+    {
+      "start": 600.68,
+      "end": 601.68,
+      "text": "Não é aquela capivara."
+    },
+    {
+      "start": 601.68,
+      "end": 602.68,
+      "text": "Mas tudo bem."
+    },
+    {
+      "start": 602.68,
+      "end": 603.68,
+      "text": "Mas tudo bem."
+    },
+    {
+      "start": 603.68,
+      "end": 604.68,
+      "text": "A pata dela..."
+    },
+    {
+      "start": 604.68,
+      "end": 606.68,
+      "text": "O tamanho da minha mão."
+    },
+    {
+      "start": 606.68,
+      "end": 608.68,
+      "text": "Você filmou o rato que ela fez ali."
+    },
+    {
+      "start": 608.68,
+      "end": 609.68,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 609.68,
+      "end": 610.71,
+      "text": "Fugindo."
+    },
+    {
+      "start": 610.71,
+      "end": 611.71,
+      "text": "Ela não falou ontem."
+    },
+    {
+      "start": 611.71,
+      "end": 614.71,
+      "text": "A gente achava macacinha para cozinhar para comer aqui hoje de manhã."
+    },
+    {
+      "start": 614.71,
+      "end": 617.7,
+      "text": "Não descemos lá na roça."
+    },
+    {
+      "start": 617.7,
+      "end": 749.71,
+      "text": "Alicate, hein."
+    },
+    {
+      "start": 749.71,
+      "end": 763.86,
+      "text": "Aqui é bom."
+    },
+    {
+      "start": 763.86,
+      "end": 764.86,
+      "text": "Você viu? Eu falei que aqui era bom."
+    },
+    {
+      "start": 764.86,
+      "end": 765.86,
+      "text": "Aqui está mais..."
+    },
+    {
+      "start": 765.86,
+      "end": 766.86,
+      "text": "Ah, ó."
+    },
+    {
+      "start": 766.86,
+      "end": 768.86,
+      "text": "Fui na primeira aqui, mano."
+    },
+    {
+      "start": 768.86,
+      "end": 772.23,
+      "text": "Segura aí."
+    },
+    {
+      "start": 772.23,
+      "end": 773.23,
+      "text": "Cuidado aqui."
+    },
+    {
+      "start": 773.23,
+      "end": 774.23,
+      "text": "Tem um anzol bem aqui."
+    },
+    {
+      "start": 774.23,
+      "end": 775.23,
+      "text": "Eu pensei passando."
+    },
+    {
+      "start": 775.23,
+      "end": 776.23,
+      "text": "Então pôr na ispa e ele enganchou, ó."
+    },
+    {
+      "start": 776.23,
+      "end": 777.23,
+      "text": "Ele vai."
+    },
+    {
+      "start": 777.23,
+      "end": 778.23,
+      "text": "Segura aí, é."
+    },
+    {
+      "start": 778.23,
+      "end": 779.23,
+      "text": "Ele nem enganchou na boca mesmo."
+    },
+    {
+      "start": 779.23,
+      "end": 780.23,
+      "text": "Só põe a porta."
+    },
+    {
+      "start": 780.23,
+      "end": 781.23,
+      "text": "Ele ia passando."
+    },
+    {
+      "start": 781.23,
+      "end": 783.23,
+      "text": "Um outro aqui pegar na ispa e ele tem que passar aqui mesmo."
+    },
+    {
+      "start": 783.23,
+      "end": 784.23,
+      "text": "Não dá para o teu dedo aí."
+    },
+    {
+      "start": 784.23,
+      "end": 792.32,
+      "text": "É, que esse cabelo vai ficar com a colinha ali, ó."
+    },
+    {
+      "start": 792.32,
+      "end": 813.22,
+      "text": "Pessoal."
+    },
+    {
+      "start": 813.22,
+      "end": 816.22,
+      "text": "Tem uma jararaca que está com cria ali."
+    },
+    {
+      "start": 816.22,
+      "end": 821.22,
+      "text": "Jararaca."
+    },
+    {
+      "start": 821.22,
+      "end": 822.22,
+      "text": "Não dá muito aqui."
+    },
+    {
+      "start": 822.22,
+      "end": 831.96,
+      "text": "Oi."
+    },
+    {
+      "start": 831.96,
+      "end": 857.02,
+      "text": "Olha só, galera."
+    },
+    {
+      "start": 857.02,
+      "end": 859.02,
+      "text": "Olha ali ela ali, ó."
+    },
+    {
+      "start": 859.02,
+      "end": 860.02,
+      "text": "Dentro da caixa."
+    },
+    {
+      "start": 860.02,
+      "end": 861.02,
+      "text": "E qual é a lombra?"
+    },
+    {
+      "start": 861.02,
+      "end": 862.02,
+      "text": "Então, que ela vai sair?"
+    },
+    {
+      "start": 862.02,
+      "end": 863.38,
+      "text": "Se ela sair daí?"
+    },
+    {
+      "start": 863.38,
+      "end": 864.38,
+      "text": "Ela vai sair."
+    },
+    {
+      "start": 864.38,
+      "end": 872.45,
+      "text": "Ela vai sair."
+    },
+    {
+      "start": 872.45,
+      "end": 873.45,
+      "text": "Olha só, bicho."
+    },
+    {
+      "start": 873.45,
+      "end": 874.45,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 874.45,
+      "end": 875.45,
+      "text": "Tá de boa ela ali."
+    },
+    {
+      "start": 875.45,
+      "end": 881.12,
+      "text": "E o nome que..."
+    },
+    {
+      "start": 881.12,
+      "end": 896.04,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 896.04,
+      "end": 897.04,
+      "text": "Tá de boa ela ali."
+    },
+    {
+      "start": 897.04,
+      "end": 898.04,
+      "text": "Tá vendo ela?"
+    },
+    {
+      "start": 898.04,
+      "end": 899.04,
+      "text": "Tá vendo ela?"
+    },
+    {
+      "start": 899.04,
+      "end": 901.06,
+      "text": "E ela já tá com a..."
+    },
+    {
+      "start": 901.06,
+      "end": 902.06,
+      "text": "Saí de pôr no lado."
+    },
+    {
+      "start": 902.06,
+      "end": 903.06,
+      "text": "E aí, pôr no lado."
+    }
+  ],
+  "duracao_seg": 1028.43,
+  "idioma_detectado": "pt"
+}

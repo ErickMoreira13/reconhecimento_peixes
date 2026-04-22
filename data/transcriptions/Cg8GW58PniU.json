@@ -1,0 +1,97 @@
+{
+  "texto": "Traz um zol de dourado pra mim, Kavaka? Vai. Um zol de dourado? Com aquela. Põe as coisas primeiro. Vou falar... Com o pé. Quebrar a ponta. Quebrar a ponta de sua vara. Aí. Fecha esse baldinho aí. Dito pra caralho. O que ele tá fazendo? Pendurar a vara? Tem uns porquinhos aqui, se quiser tentar fincar ele aí. Né? E aqui nesse mato aqui, ó. Onde que tá esse mato aqui?",
+  "segmentos": [
+    {
+      "start": 15.28,
+      "end": 17.28,
+      "text": "Traz um zol de dourado pra mim, Kavaka?"
+    },
+    {
+      "start": 17.28,
+      "end": 18.28,
+      "text": "Vai."
+    },
+    {
+      "start": 18.28,
+      "end": 21.71,
+      "text": "Um zol de dourado?"
+    },
+    {
+      "start": 21.71,
+      "end": 23.71,
+      "text": "Com aquela."
+    },
+    {
+      "start": 23.71,
+      "end": 24.71,
+      "text": "Põe as coisas primeiro."
+    },
+    {
+      "start": 24.71,
+      "end": 32.6,
+      "text": "Vou falar..."
+    },
+    {
+      "start": 32.6,
+      "end": 98.98,
+      "text": "Com o pé."
+    },
+    {
+      "start": 98.98,
+      "end": 99.98,
+      "text": "Quebrar a ponta."
+    },
+    {
+      "start": 99.98,
+      "end": 103.67,
+      "text": "Quebrar a ponta de sua vara."
+    },
+    {
+      "start": 103.67,
+      "end": 260.26,
+      "text": "Aí."
+    },
+    {
+      "start": 260.26,
+      "end": 261.26,
+      "text": "Fecha esse baldinho aí."
+    },
+    {
+      "start": 261.26,
+      "end": 265.46,
+      "text": "Dito pra caralho."
+    },
+    {
+      "start": 265.46,
+      "end": 444.54,
+      "text": "O que ele tá fazendo?"
+    },
+    {
+      "start": 444.54,
+      "end": 445.54,
+      "text": "Pendurar a vara?"
+    },
+    {
+      "start": 445.54,
+      "end": 450.21,
+      "text": "Tem uns porquinhos aqui, se quiser tentar fincar ele aí."
+    },
+    {
+      "start": 450.21,
+      "end": 452.14,
+      "text": "Né?"
+    },
+    {
+      "start": 452.14,
+      "end": 459.26,
+      "text": "E aqui nesse mato aqui, ó."
+    },
+    {
+      "start": 459.26,
+      "end": 460.26,
+      "text": "Onde que tá esse mato aqui?"
+    }
+  ],
+  "duracao_seg": 469.07,
+  "idioma_detectado": "pt"
+}

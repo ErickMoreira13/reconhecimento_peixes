@@ -1,0 +1,42 @@
+{
+  "texto": "Bonito aí, ó. Olha que bonito. Coisa linda aí, a natureza é uma coisa maravilhosa aí. Vamos que vamos. Segue a gente no canal aí. Abraço. Valeu.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Bonito aí, ó."
+    },
+    {
+      "start": 3.1,
+      "end": 3.8,
+      "text": "Olha que bonito."
+    },
+    {
+      "start": 6.86,
+      "end": 9.44,
+      "text": "Coisa linda aí, a natureza é uma coisa maravilhosa aí."
+    },
+    {
+      "start": 10.1,
+      "end": 10.66,
+      "text": "Vamos que vamos."
+    },
+    {
+      "start": 11.36,
+      "end": 12.4,
+      "text": "Segue a gente no canal aí."
+    },
+    {
+      "start": 12.62,
+      "end": 13.06,
+      "text": "Abraço."
+    },
+    {
+      "start": 13.38,
+      "end": 13.86,
+      "text": "Valeu."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

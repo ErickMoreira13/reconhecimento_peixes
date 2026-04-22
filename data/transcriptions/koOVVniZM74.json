@@ -1,0 +1,292 @@
+{
+  "texto": "Aê Luciano, não é fisgar fofo não, viu velho Agora levou até a minha linha junto aí É nada rapaz, aí ó O dietro aí é boa, viu dietro Ó, faz Não vai sair não É nada, velho Pega o Passaguá, Passaguá, Passaguá Olha, eu mandei uma Aí vem com a minha linha e tudo, velho Bora ver, se não for piranha Eu peguei Eu que peguei Foi você que pegou Foi eu que peguei sem saber ainda Foi não, rapaz É minha, rapaz Escapou nada, velho Escapou nada, hein Aí, ó Não é que não, velho Pelo amor de Deus Nem fala esse nome Aê, saí a bola de prata Olha o outro lá, olha o outro lá Olha o outro tirando lá também Deixa eu tirar aqui logo para não perder Tá difícil de pegar aí Perder a que pega ainda No terceiro, acho que é Tá aqui, ó Tá aqui Tá aqui o bicho Tá aqui o bicho Tá do meu lado, rapaz Ó, eu tô fazendo isso Não tô ensinando, velho Ah, mas isso aí também, ó Eu não tenho pegadão Não, não, mas é o Miguel Vamos lá, Miguel Miguel é Ó Tem mais ali, viu, gente Pescaria na Barra Bonita Ó É o barco E as vi a equipada E as vi a equipada Não, não, não É o barco E aí É o barco E aí É o barco E aí É o barco",
+  "segmentos": [
+    {
+      "start": 9.78,
+      "end": 24.77,
+      "text": "Aê Luciano, não é fisgar fofo não, viu velho"
+    },
+    {
+      "start": 24.77,
+      "end": 31.16,
+      "text": "Agora levou até a minha linha junto aí"
+    },
+    {
+      "start": 31.16,
+      "end": 32.08,
+      "text": "É nada rapaz, aí ó"
+    },
+    {
+      "start": 32.08,
+      "end": 37.27,
+      "text": "O dietro aí é boa, viu dietro"
+    },
+    {
+      "start": 37.27,
+      "end": 41.1,
+      "text": "Ó, faz"
+    },
+    {
+      "start": 41.1,
+      "end": 43.68,
+      "text": "Não vai sair não"
+    },
+    {
+      "start": 43.68,
+      "end": 46.5,
+      "text": "É nada, velho"
+    },
+    {
+      "start": 46.5,
+      "end": 48.68,
+      "text": "Pega o Passaguá, Passaguá, Passaguá"
+    },
+    {
+      "start": 48.68,
+      "end": 50.18,
+      "text": "Olha, eu mandei uma"
+    },
+    {
+      "start": 50.18,
+      "end": 54.62,
+      "text": "Aí vem com a minha linha e tudo, velho"
+    },
+    {
+      "start": 54.62,
+      "end": 56.26,
+      "text": "Bora ver, se não for piranha"
+    },
+    {
+      "start": 56.26,
+      "end": 66.51,
+      "text": "Eu peguei"
+    },
+    {
+      "start": 66.51,
+      "end": 67.95,
+      "text": "Eu que peguei"
+    },
+    {
+      "start": 67.95,
+      "end": 68.95,
+      "text": "Foi você que pegou"
+    },
+    {
+      "start": 68.95,
+      "end": 72.67,
+      "text": "Foi eu que peguei sem saber ainda"
+    },
+    {
+      "start": 72.67,
+      "end": 73.71,
+      "text": "Foi não, rapaz"
+    },
+    {
+      "start": 73.71,
+      "end": 75.31,
+      "text": "É minha, rapaz"
+    },
+    {
+      "start": 75.31,
+      "end": 77.74,
+      "text": "Escapou nada, velho"
+    },
+    {
+      "start": 77.74,
+      "end": 78.38,
+      "text": "Escapou nada, hein"
+    },
+    {
+      "start": 78.38,
+      "end": 78.96,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 78.96,
+      "end": 80.94,
+      "text": "Não é que não, velho"
+    },
+    {
+      "start": 80.94,
+      "end": 81.68,
+      "text": "Pelo amor de Deus"
+    },
+    {
+      "start": 81.68,
+      "end": 83.4,
+      "text": "Nem fala esse nome"
+    },
+    {
+      "start": 83.4,
+      "end": 87.49,
+      "text": "Aê, saí a bola de prata"
+    },
+    {
+      "start": 87.49,
+      "end": 90.87,
+      "text": "Olha o outro lá, olha o outro lá"
+    },
+    {
+      "start": 90.87,
+      "end": 93.18,
+      "text": "Olha o outro tirando lá também"
+    },
+    {
+      "start": 93.18,
+      "end": 102.86,
+      "text": "Deixa eu tirar aqui logo para não perder"
+    },
+    {
+      "start": 102.86,
+      "end": 104.78,
+      "text": "Tá difícil de pegar aí"
+    },
+    {
+      "start": 104.78,
+      "end": 105.66,
+      "text": "Perder a que pega ainda"
+    },
+    {
+      "start": 105.66,
+      "end": 108.14,
+      "text": "No terceiro, acho que é"
+    },
+    {
+      "start": 108.14,
+      "end": 109.06,
+      "text": "Tá aqui, ó"
+    },
+    {
+      "start": 109.06,
+      "end": 109.6,
+      "text": "Tá aqui"
+    },
+    {
+      "start": 109.6,
+      "end": 112.96,
+      "text": "Tá aqui o bicho"
+    },
+    {
+      "start": 112.96,
+      "end": 114.62,
+      "text": "Tá aqui o bicho"
+    },
+    {
+      "start": 114.62,
+      "end": 116.64,
+      "text": "Tá do meu lado, rapaz"
+    },
+    {
+      "start": 116.64,
+      "end": 120.54,
+      "text": "Ó, eu tô fazendo isso"
+    },
+    {
+      "start": 120.54,
+      "end": 121.64,
+      "text": "Não tô ensinando, velho"
+    },
+    {
+      "start": 121.64,
+      "end": 122.96,
+      "text": "Ah, mas isso aí também, ó"
+    },
+    {
+      "start": 122.96,
+      "end": 124.26,
+      "text": "Eu não tenho pegadão"
+    },
+    {
+      "start": 124.26,
+      "end": 125.02,
+      "text": "Não, não, mas é o Miguel"
+    },
+    {
+      "start": 125.02,
+      "end": 130.73,
+      "text": "Vamos lá, Miguel"
+    },
+    {
+      "start": 130.73,
+      "end": 132.72,
+      "text": "Miguel é"
+    },
+    {
+      "start": 132.72,
+      "end": 133.6,
+      "text": "Ó"
+    },
+    {
+      "start": 133.6,
+      "end": 135.5,
+      "text": "Tem mais ali, viu, gente"
+    },
+    {
+      "start": 135.5,
+      "end": 138.76,
+      "text": "Pescaria na Barra Bonita"
+    },
+    {
+      "start": 138.76,
+      "end": 139.16,
+      "text": "Ó"
+    },
+    {
+      "start": 139.16,
+      "end": 141.12,
+      "text": "É o barco"
+    },
+    {
+      "start": 141.12,
+      "end": 146.69,
+      "text": "E as vi a equipada"
+    },
+    {
+      "start": 146.69,
+      "end": 146.75,
+      "text": "E as vi a equipada"
+    },
+    {
+      "start": 146.75,
+      "end": 147.75,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 147.75,
+      "end": 148.59,
+      "text": "É o barco"
+    },
+    {
+      "start": 148.59,
+      "end": 148.67,
+      "text": "E aí"
+    },
+    {
+      "start": 148.67,
+      "end": 149.71,
+      "text": "É o barco"
+    },
+    {
+      "start": 149.71,
+      "end": 150.51,
+      "text": "E aí"
+    },
+    {
+      "start": 150.51,
+      "end": 152.73,
+      "text": "É o barco"
+    },
+    {
+      "start": 152.73,
+      "end": 153.67,
+      "text": "E aí"
+    },
+    {
+      "start": 153.67,
+      "end": 155.07,
+      "text": "É o barco"
+    }
+  ],
+  "duracao_seg": 149.47,
+  "idioma_detectado": "pt"
+}

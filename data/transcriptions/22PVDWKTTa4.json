@@ -1,0 +1,32 @@
+{
+  "texto": "Vida ribeirinha no Amazonas. Peixe na friagem. Pegou, cara? Como é que está? Matando.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "Vida ribeirinha no Amazonas."
+    },
+    {
+      "start": 2.04,
+      "end": 3.04,
+      "text": "Peixe na friagem."
+    },
+    {
+      "start": 15.14,
+      "end": 15.64,
+      "text": "Pegou, cara?"
+    },
+    {
+      "start": 16.06,
+      "end": 18.25,
+      "text": "Como é que está?"
+    },
+    {
+      "start": 18.65,
+      "end": 29.86,
+      "text": "Matando."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

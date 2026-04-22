@@ -1,0 +1,27 @@
+{
+  "texto": "Fala galera, hoje eu fui fazer uma pescaria num pesqueiro aqui próximo da minha região e acabei topando com cardume de tucunaré. Na hora eu tava com óculos polarizado e olha a diferença, por que que é bom tá sempre usando óculos polarizado?",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 5.55,
+      "text": "Fala galera, hoje eu fui fazer uma pescaria num pesqueiro aqui próximo da minha região"
+    },
+    {
+      "start": 5.55,
+      "end": 8.89,
+      "text": "e acabei topando com cardume de tucunaré."
+    },
+    {
+      "start": 9.55,
+      "end": 13.11,
+      "text": "Na hora eu tava com óculos polarizado e olha a diferença,"
+    },
+    {
+      "start": 13.43,
+      "end": 16.49,
+      "text": "por que que é bom tá sempre usando óculos polarizado?"
+    }
+  ],
+  "duracao_seg": 17.61,
+  "idioma_detectado": "pt"
+}

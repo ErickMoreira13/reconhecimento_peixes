@@ -1,0 +1,42 @@
+{
+  "texto": "fala aí o seu lambari de ribeirão rapaz eu te falar acabou que me ensinaram a ceva muito boa eu tenho usado todo feliz eu achei que era boa não é boa não é não perto dessa aí não olha aí olha aí ceva boa essa daí olha lá mostra como é que faz amigão é pescador de verdade acha que só serve boa não é não por essa é uma bolsa aí ó joga na água aí você vê que ó na hora vem chegando você bota o anzolio no meio aí hein chorei chonado coisa linda olha aí ó olha só e vai chegando meu irmão piranha é piranha meu amigo aí rapaz até até tem até um lacoste",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 6.67,
+      "text": "fala aí o seu lambari de ribeirão rapaz eu te falar acabou que me ensinaram a"
+    },
+    {
+      "start": 6.67,
+      "end": 12.55,
+      "text": "ceva muito boa eu tenho usado todo feliz eu achei que era boa não é boa não é"
+    },
+    {
+      "start": 12.55,
+      "end": 19.91,
+      "text": "não perto dessa aí não olha aí olha aí ceva boa essa daí olha lá mostra como é"
+    },
+    {
+      "start": 19.91,
+      "end": 30.44,
+      "text": "que faz amigão é pescador de verdade acha que só serve boa não é não por"
+    },
+    {
+      "start": 30.44,
+      "end": 40.15,
+      "text": "essa é uma bolsa aí ó joga na água aí você vê que ó na hora vem chegando você bota o anzolio no meio"
+    },
+    {
+      "start": 40.15,
+      "end": 54.29,
+      "text": "aí hein chorei chonado coisa linda olha aí ó olha só e vai chegando meu irmão piranha é piranha meu amigo"
+    },
+    {
+      "start": 54.29,
+      "end": 58.04,
+      "text": "aí rapaz até até tem até um lacoste"
+    }
+  ],
+  "duracao_seg": 58.13,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Quanto ouro conseguiu esse chico em um ano? Enero, febrero, marzo e abril, mayo, junio, julio, agosto, septembre, octubre, noviembre e diciembre. Vou pesá-lo para calcular o preço. Conseguiu 51 gramos, uns 4.500 dólares.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "Quanto ouro conseguiu esse chico em um ano?"
+    },
+    {
+      "start": 2.7,
+      "end": 11.48,
+      "text": "Enero, febrero, marzo e abril,"
+    },
+    {
+      "start": 13.92,
+      "end": 24.02,
+      "text": "mayo, junio, julio, agosto,"
+    },
+    {
+      "start": 29.25,
+      "end": 32.39,
+      "text": "septembre, octubre, noviembre e diciembre."
+    },
+    {
+      "start": 47.15,
+      "end": 48.87,
+      "text": "Vou pesá-lo para calcular o preço."
+    },
+    {
+      "start": 52.85,
+      "end": 54.79,
+      "text": "Conseguiu 51 gramos,"
+    },
+    {
+      "start": 56.25,
+      "end": 58.03,
+      "text": "uns 4.500 dólares."
+    }
+  ],
+  "duracao_seg": 58.63,
+  "idioma_detectado": "pt"
+}

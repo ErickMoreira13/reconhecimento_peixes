@@ -1,0 +1,22 @@
+{
+  "texto": "Meu amigo Raimundinho da Canoeiros acabou de pegar um Tucuna e tá aí fazendo a soltura porque o bom é preservar. O pesca e solte aqui é a coisa boa. Ô Raimundinho!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.83,
+      "text": "Meu amigo Raimundinho da Canoeiros acabou de pegar um Tucuna e tá aí fazendo a soltura"
+    },
+    {
+      "start": 5.83,
+      "end": 10.75,
+      "text": "porque o bom é preservar. O pesca e solte aqui é a coisa boa."
+    },
+    {
+      "start": 12.06,
+      "end": 13.06,
+      "text": "Ô Raimundinho!"
+    }
+  ],
+  "duracao_seg": 14.01,
+  "idioma_detectado": "pt"
+}

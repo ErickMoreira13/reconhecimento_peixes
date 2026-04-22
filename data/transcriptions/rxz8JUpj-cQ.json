@@ -1,0 +1,252 @@
+{
+  "texto": "Olha aí, olha o Ronival da situação Pega nada não Arranca Bruninho, arranca a bicha Bruninho Vai ver que foi pra isso Cadê o trem moço, a peneira de tirar? Bruno, aí tu dá uma trabalhada mais rápido Porque tem a pedra lá Arranca a bicha Bruninho, arranca a bicha Vai ver que foi pra isso menino Você é cachorro Arranca a bicha, arranca a bicha Bruninho Tá batendo na minha linha, mas pode arrancar Não tem problema não Olha aí Ronival deu conta Dizendo que o Bruno não tira o peixe Tira o peixe Bruno, trabalha o peixe Nós aqui é desse jeito Nós só sabe fazer assim Bora, tira o peixe Bruninho Tira o peixe Bruno, quando ela chegar perto Você vai descer lá pra ela não triscar nas pedras Vamos perder esse peixe aí não Que é pro Ronival pagar a língua dele Olha, tá lá, agorando o cara Dizendo que o cara não pesca nada Aqui nós pega o peixe, viu Eu trouxe, os cara foi no ponto Cheguei aqui, Ronival ficou aqui Olha lá, cachorrona boa Olha o tamanho Ronival, tá bom pra ti? Olha aí o tamanho da lipa Ei, deixa eu pegar a peneira, segura ela aí Segura ela aí Bruno Pera aí, Ronival pega a peneira Não, não, não, não foi não Soltou cara, soltou Falei pra tu não fazer Soltou, mas mostrou Mas mostrou a cachorra Tá aí ó Valeu ou não valeu Bruno? Valeu demais, valeu, valeu A briga foi boa, foi boa Só não fez, foi puxar a bicha Aqui ó, agora puxei aqui ó Segura aqui Bruno Segura que agora foi boa",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 4.69,
+      "text": "Olha aí, olha o Ronival da situação"
+    },
+    {
+      "start": 4.69,
+      "end": 6.69,
+      "text": "Pega nada não"
+    },
+    {
+      "start": 6.69,
+      "end": 8.69,
+      "text": "Arranca Bruninho, arranca a bicha Bruninho"
+    },
+    {
+      "start": 8.69,
+      "end": 10.69,
+      "text": "Vai ver que foi pra isso"
+    },
+    {
+      "start": 10.69,
+      "end": 12.69,
+      "text": "Cadê o trem moço, a peneira de tirar?"
+    },
+    {
+      "start": 12.69,
+      "end": 14.69,
+      "text": "Bruno, aí tu dá uma trabalhada mais rápido"
+    },
+    {
+      "start": 14.69,
+      "end": 16.69,
+      "text": "Porque tem a pedra lá"
+    },
+    {
+      "start": 16.69,
+      "end": 18.69,
+      "text": "Arranca a bicha Bruninho, arranca a bicha"
+    },
+    {
+      "start": 18.69,
+      "end": 20.69,
+      "text": "Vai ver que foi pra isso menino"
+    },
+    {
+      "start": 20.69,
+      "end": 23.36,
+      "text": "Você é cachorro"
+    },
+    {
+      "start": 23.36,
+      "end": 25.58,
+      "text": "Arranca a bicha, arranca a bicha Bruninho"
+    },
+    {
+      "start": 25.58,
+      "end": 29.22,
+      "text": "Tá batendo na minha linha, mas pode arrancar"
+    },
+    {
+      "start": 29.22,
+      "end": 31.34,
+      "text": "Não tem problema não"
+    },
+    {
+      "start": 31.34,
+      "end": 33.6,
+      "text": "Olha aí"
+    },
+    {
+      "start": 33.6,
+      "end": 35.98,
+      "text": "Ronival deu conta"
+    },
+    {
+      "start": 35.98,
+      "end": 37.98,
+      "text": "Dizendo que o Bruno não tira o peixe"
+    },
+    {
+      "start": 37.98,
+      "end": 39.98,
+      "text": "Tira o peixe Bruno, trabalha o peixe"
+    },
+    {
+      "start": 39.98,
+      "end": 42.78,
+      "text": "Nós aqui é desse jeito"
+    },
+    {
+      "start": 42.78,
+      "end": 44.78,
+      "text": "Nós só sabe fazer assim"
+    },
+    {
+      "start": 44.78,
+      "end": 46.91,
+      "text": "Bora, tira o peixe Bruninho"
+    },
+    {
+      "start": 46.91,
+      "end": 48.91,
+      "text": "Tira o peixe"
+    },
+    {
+      "start": 48.91,
+      "end": 50.91,
+      "text": "Bruno, quando ela chegar perto"
+    },
+    {
+      "start": 50.91,
+      "end": 52.91,
+      "text": "Você vai descer lá pra ela não triscar nas pedras"
+    },
+    {
+      "start": 52.91,
+      "end": 54.91,
+      "text": "Vamos perder esse peixe aí não"
+    },
+    {
+      "start": 54.91,
+      "end": 56.91,
+      "text": "Que é pro Ronival pagar a língua dele"
+    },
+    {
+      "start": 56.91,
+      "end": 58.91,
+      "text": "Olha, tá lá, agorando o cara"
+    },
+    {
+      "start": 58.91,
+      "end": 60.91,
+      "text": "Dizendo que o cara não pesca nada"
+    },
+    {
+      "start": 60.91,
+      "end": 62.91,
+      "text": "Aqui nós pega o peixe, viu"
+    },
+    {
+      "start": 62.91,
+      "end": 65.01,
+      "text": "Eu trouxe, os cara foi no ponto"
+    },
+    {
+      "start": 65.01,
+      "end": 67.01,
+      "text": "Cheguei aqui, Ronival ficou aqui"
+    },
+    {
+      "start": 67.01,
+      "end": 69.01,
+      "text": "Olha lá, cachorrona boa"
+    },
+    {
+      "start": 69.01,
+      "end": 71.01,
+      "text": "Olha o tamanho Ronival, tá bom pra ti?"
+    },
+    {
+      "start": 71.01,
+      "end": 73.01,
+      "text": "Olha aí o tamanho da lipa"
+    },
+    {
+      "start": 73.01,
+      "end": 75.01,
+      "text": "Ei, deixa eu pegar a peneira, segura ela aí"
+    },
+    {
+      "start": 75.01,
+      "end": 77.01,
+      "text": "Segura ela aí Bruno"
+    },
+    {
+      "start": 77.01,
+      "end": 79.01,
+      "text": "Pera aí, Ronival pega a peneira"
+    },
+    {
+      "start": 79.01,
+      "end": 81.01,
+      "text": "Não, não, não, não foi não"
+    },
+    {
+      "start": 81.01,
+      "end": 83.01,
+      "text": "Soltou cara, soltou"
+    },
+    {
+      "start": 83.01,
+      "end": 85.01,
+      "text": "Falei pra tu não fazer"
+    },
+    {
+      "start": 85.01,
+      "end": 87.01,
+      "text": "Soltou, mas mostrou"
+    },
+    {
+      "start": 87.01,
+      "end": 89.01,
+      "text": "Mas mostrou a cachorra"
+    },
+    {
+      "start": 89.01,
+      "end": 90.14,
+      "text": "Tá aí ó"
+    },
+    {
+      "start": 90.14,
+      "end": 91.14,
+      "text": "Valeu ou não valeu Bruno?"
+    },
+    {
+      "start": 91.14,
+      "end": 93.14,
+      "text": "Valeu demais, valeu, valeu"
+    },
+    {
+      "start": 93.14,
+      "end": 95.14,
+      "text": "A briga foi boa, foi boa"
+    },
+    {
+      "start": 95.14,
+      "end": 97.14,
+      "text": "Só não fez, foi puxar a bicha"
+    },
+    {
+      "start": 97.14,
+      "end": 99.23,
+      "text": "Aqui ó, agora puxei aqui ó"
+    },
+    {
+      "start": 99.23,
+      "end": 101.3,
+      "text": "Segura aqui Bruno"
+    },
+    {
+      "start": 101.3,
+      "end": 103.3,
+      "text": "Segura que agora foi boa"
+    }
+  ],
+  "duracao_seg": 102.19,
+  "idioma_detectado": "pt"
+}

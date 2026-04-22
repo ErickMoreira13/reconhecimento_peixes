@@ -1,0 +1,67 @@
+{
+  "texto": "A parte final para armazenar os corruptos, eu coloco um gelinho reciclado. Pode ser uma garrafa PET com gelo. Eles no recipiente. Coloco ele no fundo. Pode ser qualquer pote aí, uma garrafa PET. Só que é ruim para tirar. Essa daqui é uma maiorzinha. Pode ser aqueles galãozinhos de 5, 10 litros, né? Corta ele para colocar na caixa térmica. Pode deixar fechado, sem problema nenhum. E é só isso. Pronto para pescar.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 4.91,
+      "text": "A parte final para armazenar os corruptos, eu coloco um gelinho reciclado."
+    },
+    {
+      "start": 5.77,
+      "end": 7.33,
+      "text": "Pode ser uma garrafa PET com gelo."
+    },
+    {
+      "start": 8.44,
+      "end": 9.36,
+      "text": "Eles no recipiente."
+    },
+    {
+      "start": 9.56,
+      "end": 10.46,
+      "text": "Coloco ele no fundo."
+    },
+    {
+      "start": 11.96,
+      "end": 15.36,
+      "text": "Pode ser qualquer pote aí, uma garrafa PET."
+    },
+    {
+      "start": 16.0,
+      "end": 16.64,
+      "text": "Só que é ruim para tirar."
+    },
+    {
+      "start": 16.74,
+      "end": 17.5,
+      "text": "Essa daqui é uma maiorzinha."
+    },
+    {
+      "start": 17.68,
+      "end": 19.48,
+      "text": "Pode ser aqueles galãozinhos de 5, 10 litros, né?"
+    },
+    {
+      "start": 20.2,
+      "end": 22.6,
+      "text": "Corta ele para colocar na caixa térmica."
+    },
+    {
+      "start": 22.76,
+      "end": 24.14,
+      "text": "Pode deixar fechado, sem problema nenhum."
+    },
+    {
+      "start": 25.93,
+      "end": 26.47,
+      "text": "E é só isso."
+    },
+    {
+      "start": 29.95,
+      "end": 30.53,
+      "text": "Pronto para pescar."
+    }
+  ],
+  "duracao_seg": 31.73,
+  "idioma_detectado": "pt"
+}

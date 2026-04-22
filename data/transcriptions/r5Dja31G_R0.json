@@ -1,0 +1,642 @@
+{
+  "texto": "Vou colocar meu caiaquinho na água, hoje em dia não tá bonito, tô sem a rodinha ainda. Vou ver o que eu vou arrumar, vou botar esse trem dentro d'água. Vamos lá. Opa! Agora eu vou descer rastando ele, pra descer é tranquilo, né? Só não quero arranhar ele aqui na grama, não, na grama não, na terra nem não. O que eu vou arrumar? Não sei. Tem até alguém aqui, né? Sempre tem gente pescando. Esse aqui foi fácil. Pensei que a minha vida de caiaqueiro fosse mais fácil. Será que eu desço? Vou fazer assim, vou tentar pegar ele por etapas, pra eu não fuder ele com a areia aqui. É pesadinho também. Por mais que o caiaque seja leve, esse aqui é leve, né? Comparado aos outros. Não vamos abusar da minha coluna. Porra, não deu certo. Uma macia, terrível. Ai, que agarrada. Cheguei. Não abri a vara, vai tudo. Agora deixa eu me organizar. Pensar. Como que eu... Ou providenciar esse carrinho pra ontem. Você tá doido? Vou fazer um... Vou ver na internet ontem como faz. Ai. Eu tenho cliente até segunda. Segunda chamada pra me ajudar. A fazer. Deve ter um diazinho de fogo ou dois. Aí eu já faço. Aí. Mano, agora eu vou empurrar, né? Aí, acho que já tá dando bom. Vou subir nesse trem. Vai devagar. Ó, vou virar ele já. Ai, encheu de barro o buraco. Ah, já desenchi. Oba, tô colete. Esqueci a no colete. Você tá doida. Vou ficar sem colete não. Eu estou. Eu tenho que arrumar a minha... Eu vou sair daqui. Me louca. Ó, eu vou dar uma batidinha. Esse matinho ali. Esqueci tão me mordendo já. Fica puta. É quase. Negócio... Ai, que massa. Vou botar. Eu tô sem... Snap. Eu vou ter que... Até aqui. E ele é peixe bom. Ah, perdi. Meu primeiro peixe de caiaque. Como que eu vou tirar ele? Ah, que peixão. Ai, meu Deus. Eu tô sem bogar. O que é isso? Ai, meu Deus. Peixe. Vamos lá. Vamos lá. Que a mamãe já pesca. Eu tenho 10 anos. O filho não dá conta. Eu tô com o narizinho. Lasqueira. Bom demais. Vou jogar mais lá. Vamos lá. Não pode. Ai, tô pro pau. Volta, peixe. Varinha de 14 libras. Volta aqui. O peixe dai. Ô, o caiaque lontras veio me dando sorte demais. O primeiro pescaria com ele. Ai, senhor. Olha o lambuço que ele fez aqui. Ai, gente. Me dá um desconto. Dá um desconto. Ui, o que eu vou arrumar com esse peixe? Fudeu. Nu. O que eu vou arrumar com esse peixe? Vou ter que ir ali em casa. Não. Vou ter que ir remando com ele? O que eu faço? Meu Deus do céu. Volta aqui. Deixa eu ver. Ele charutou, mano. Aê, ajuda nós. Peraí. Peraí, peixe. Muito bom. Muito bom. Não tinha limpar a câmera aqui. Olha só como que eu fiquei. Nossa senhora. Peguei dois peixes. Nem acredito. Pesquei só aqui, gente. Só aqui. Nem sei daqui. Peguei dois peixões. Tive sorte demais com o meu novo caiaquinho. Estreiei ele. Estreiei ele. Isso.",
+  "segmentos": [
+    {
+      "start": 4.34,
+      "end": 9.87,
+      "text": "Vou colocar meu caiaquinho na água, hoje em dia não tá bonito, tô sem a rodinha ainda."
+    },
+    {
+      "start": 11.32,
+      "end": 13.42,
+      "text": "Vou ver o que eu vou arrumar, vou botar esse trem dentro d'água."
+    },
+    {
+      "start": 13.96,
+      "end": 14.44,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 15.18,
+      "end": 15.58,
+      "text": "Opa!"
+    },
+    {
+      "start": 25.25,
+      "end": 28.49,
+      "text": "Agora eu vou descer rastando ele, pra descer é tranquilo, né?"
+    },
+    {
+      "start": 29.72,
+      "end": 36.88,
+      "text": "Só não quero arranhar ele aqui na grama, não, na grama não, na terra nem não."
+    },
+    {
+      "start": 38.24,
+      "end": 39.26,
+      "text": "O que eu vou arrumar?"
+    },
+    {
+      "start": 40.52,
+      "end": 41.3,
+      "text": "Não sei."
+    },
+    {
+      "start": 41.58,
+      "end": 45.2,
+      "text": "Tem até alguém aqui, né?"
+    },
+    {
+      "start": 45.86,
+      "end": 47.1,
+      "text": "Sempre tem gente pescando."
+    },
+    {
+      "start": 47.1,
+      "end": 53.05,
+      "text": "Esse aqui foi fácil."
+    },
+    {
+      "start": 59.09,
+      "end": 61.19,
+      "text": "Pensei que a minha vida de caiaqueiro fosse mais fácil."
+    },
+    {
+      "start": 62.73,
+      "end": 63.73,
+      "text": "Será que eu desço?"
+    },
+    {
+      "start": 66.64,
+      "end": 77.64,
+      "text": "Vou fazer assim, vou tentar pegar ele por etapas, pra eu não fuder ele com a areia aqui."
+    },
+    {
+      "start": 85.1,
+      "end": 86.5,
+      "text": "É pesadinho também."
+    },
+    {
+      "start": 86.98,
+      "end": 103.74,
+      "text": "Por mais que o caiaque seja leve, esse aqui é leve, né?"
+    },
+    {
+      "start": 103.8,
+      "end": 104.76,
+      "text": "Comparado aos outros."
+    },
+    {
+      "start": 106.22,
+      "end": 110.27,
+      "text": "Não vamos abusar da minha coluna."
+    },
+    {
+      "start": 111.51,
+      "end": 112.75,
+      "text": "Porra, não deu certo."
+    },
+    {
+      "start": 112.75,
+      "end": 140.62,
+      "text": "Uma macia, terrível."
+    },
+    {
+      "start": 142.19,
+      "end": 144.38,
+      "text": "Ai, que agarrada."
+    },
+    {
+      "start": 144.38,
+      "end": 153.59,
+      "text": "Cheguei."
+    },
+    {
+      "start": 153.83,
+      "end": 154.83,
+      "text": "Não abri a vara, vai tudo."
+    },
+    {
+      "start": 160.26,
+      "end": 161.64,
+      "text": "Agora deixa eu me organizar."
+    },
+    {
+      "start": 162.76,
+      "end": 163.32,
+      "text": "Pensar."
+    },
+    {
+      "start": 164.31,
+      "end": 173.18,
+      "text": "Como que eu..."
+    },
+    {
+      "start": 173.18,
+      "end": 175.0,
+      "text": "Ou providenciar esse carrinho pra ontem."
+    },
+    {
+      "start": 175.95,
+      "end": 177.17,
+      "text": "Você tá doido?"
+    },
+    {
+      "start": 178.06,
+      "end": 181.84,
+      "text": "Vou fazer um..."
+    },
+    {
+      "start": 181.84,
+      "end": 183.38,
+      "text": "Vou ver na internet ontem como faz."
+    },
+    {
+      "start": 183.8,
+      "end": 183.98,
+      "text": "Ai."
+    },
+    {
+      "start": 184.81,
+      "end": 186.03,
+      "text": "Eu tenho cliente até segunda."
+    },
+    {
+      "start": 186.86,
+      "end": 188.7,
+      "text": "Segunda chamada pra me ajudar."
+    },
+    {
+      "start": 189.56,
+      "end": 190.12,
+      "text": "A fazer."
+    },
+    {
+      "start": 191.19,
+      "end": 193.07,
+      "text": "Deve ter um diazinho de fogo ou dois."
+    },
+    {
+      "start": 193.77,
+      "end": 194.67,
+      "text": "Aí eu já faço."
+    },
+    {
+      "start": 194.67,
+      "end": 196.97,
+      "text": "Aí."
+    },
+    {
+      "start": 198.26,
+      "end": 199.48,
+      "text": "Mano, agora eu vou empurrar, né?"
+    },
+    {
+      "start": 202.08,
+      "end": 203.22,
+      "text": "Aí, acho que já tá dando bom."
+    },
+    {
+      "start": 204.65,
+      "end": 205.55,
+      "text": "Vou subir nesse trem."
+    },
+    {
+      "start": 209.71,
+      "end": 210.13,
+      "text": "Vai devagar."
+    },
+    {
+      "start": 210.59,
+      "end": 215.18,
+      "text": "Ó, vou virar ele já."
+    },
+    {
+      "start": 215.5,
+      "end": 217.48,
+      "text": "Ai, encheu de barro o buraco."
+    },
+    {
+      "start": 217.6,
+      "end": 218.28,
+      "text": "Ah, já desenchi."
+    },
+    {
+      "start": 230.16,
+      "end": 231.26,
+      "text": "Oba, tô colete."
+    },
+    {
+      "start": 231.4,
+      "end": 232.22,
+      "text": "Esqueci a no colete."
+    },
+    {
+      "start": 233.25,
+      "end": 234.33,
+      "text": "Você tá doida."
+    },
+    {
+      "start": 234.79,
+      "end": 236.36,
+      "text": "Vou ficar sem colete não."
+    },
+    {
+      "start": 236.82,
+      "end": 254.22,
+      "text": "Eu estou."
+    },
+    {
+      "start": 254.22,
+      "end": 259.25,
+      "text": "Eu tenho que arrumar a minha..."
+    },
+    {
+      "start": 259.25,
+      "end": 261.32,
+      "text": "Eu vou sair daqui."
+    },
+    {
+      "start": 264.14,
+      "end": 266.39,
+      "text": "Me louca."
+    },
+    {
+      "start": 270.45,
+      "end": 271.69,
+      "text": "Ó, eu vou dar uma batidinha."
+    },
+    {
+      "start": 272.96,
+      "end": 274.04,
+      "text": "Esse matinho ali."
+    },
+    {
+      "start": 274.54,
+      "end": 278.58,
+      "text": "Esqueci tão me mordendo já."
+    },
+    {
+      "start": 278.74,
+      "end": 279.38,
+      "text": "Fica puta."
+    },
+    {
+      "start": 282.62,
+      "end": 283.06,
+      "text": "É quase."
+    },
+    {
+      "start": 283.14,
+      "end": 284.06,
+      "text": "Negócio..."
+    },
+    {
+      "start": 284.06,
+      "end": 288.16,
+      "text": "Ai, que massa."
+    },
+    {
+      "start": 296.87,
+      "end": 297.53,
+      "text": "Vou botar."
+    },
+    {
+      "start": 297.65,
+      "end": 298.83,
+      "text": "Eu tô sem..."
+    },
+    {
+      "start": 298.83,
+      "end": 302.14,
+      "text": "Snap."
+    },
+    {
+      "start": 302.5,
+      "end": 306.56,
+      "text": "Eu vou ter que..."
+    },
+    {
+      "start": 306.56,
+      "end": 369.44,
+      "text": "Até aqui."
+    },
+    {
+      "start": 369.9,
+      "end": 371.39,
+      "text": "E ele é peixe bom."
+    },
+    {
+      "start": 372.93,
+      "end": 373.41,
+      "text": "Ah, perdi."
+    },
+    {
+      "start": 373.79,
+      "end": 379.54,
+      "text": "Meu primeiro peixe de caiaque."
+    },
+    {
+      "start": 379.82,
+      "end": 380.64,
+      "text": "Como que eu vou tirar ele?"
+    },
+    {
+      "start": 380.9,
+      "end": 388.73,
+      "text": "Ah, que peixão."
+    },
+    {
+      "start": 388.73,
+      "end": 390.69,
+      "text": "Ai, meu Deus."
+    },
+    {
+      "start": 390.89,
+      "end": 391.89,
+      "text": "Eu tô sem bogar."
+    },
+    {
+      "start": 392.15,
+      "end": 394.13,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 394.9,
+      "end": 395.9,
+      "text": "Ai, meu Deus."
+    },
+    {
+      "start": 396.94,
+      "end": 397.34,
+      "text": "Peixe."
+    },
+    {
+      "start": 398.34,
+      "end": 398.86,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 399.02,
+      "end": 399.58,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 399.84,
+      "end": 400.66,
+      "text": "Que a mamãe já pesca."
+    },
+    {
+      "start": 400.72,
+      "end": 401.58,
+      "text": "Eu tenho 10 anos."
+    },
+    {
+      "start": 401.92,
+      "end": 402.84,
+      "text": "O filho não dá conta."
+    },
+    {
+      "start": 402.94,
+      "end": 403.84,
+      "text": "Eu tô com o narizinho."
+    },
+    {
+      "start": 406.97,
+      "end": 407.41,
+      "text": "Lasqueira."
+    },
+    {
+      "start": 408.09,
+      "end": 408.99,
+      "text": "Bom demais."
+    },
+    {
+      "start": 410.66,
+      "end": 411.6,
+      "text": "Vou jogar mais lá."
+    },
+    {
+      "start": 411.94,
+      "end": 415.85,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 416.19,
+      "end": 425.67,
+      "text": "Não pode."
+    },
+    {
+      "start": 426.39,
+      "end": 427.09,
+      "text": "Ai, tô pro pau."
+    },
+    {
+      "start": 436.02,
+      "end": 437.28,
+      "text": "Volta, peixe."
+    },
+    {
+      "start": 439.64,
+      "end": 440.9,
+      "text": "Varinha de 14 libras."
+    },
+    {
+      "start": 441.32,
+      "end": 442.08,
+      "text": "Volta aqui."
+    },
+    {
+      "start": 442.36,
+      "end": 443.26,
+      "text": "O peixe dai."
+    },
+    {
+      "start": 443.26,
+      "end": 449.18,
+      "text": "Ô, o caiaque lontras veio me dando sorte demais."
+    },
+    {
+      "start": 449.28,
+      "end": 450.62,
+      "text": "O primeiro pescaria com ele."
+    },
+    {
+      "start": 450.94,
+      "end": 451.3,
+      "text": "Ai, senhor."
+    },
+    {
+      "start": 451.34,
+      "end": 452.4,
+      "text": "Olha o lambuço que ele fez aqui."
+    },
+    {
+      "start": 452.96,
+      "end": 453.26,
+      "text": "Ai, gente."
+    },
+    {
+      "start": 453.3,
+      "end": 453.92,
+      "text": "Me dá um desconto."
+    },
+    {
+      "start": 453.98,
+      "end": 454.66,
+      "text": "Dá um desconto."
+    },
+    {
+      "start": 454.76,
+      "end": 455.88,
+      "text": "Ui, o que eu vou arrumar com esse peixe?"
+    },
+    {
+      "start": 457.14,
+      "end": 457.5,
+      "text": "Fudeu."
+    },
+    {
+      "start": 458.84,
+      "end": 459.16,
+      "text": "Nu."
+    },
+    {
+      "start": 459.44,
+      "end": 460.6,
+      "text": "O que eu vou arrumar com esse peixe?"
+    },
+    {
+      "start": 461.43,
+      "end": 462.73,
+      "text": "Vou ter que ir ali em casa."
+    },
+    {
+      "start": 464.24,
+      "end": 464.6,
+      "text": "Não."
+    },
+    {
+      "start": 468.52,
+      "end": 469.88,
+      "text": "Vou ter que ir remando com ele?"
+    },
+    {
+      "start": 469.96,
+      "end": 470.66,
+      "text": "O que eu faço?"
+    },
+    {
+      "start": 471.73,
+      "end": 472.81,
+      "text": "Meu Deus do céu."
+    },
+    {
+      "start": 476.22,
+      "end": 476.82,
+      "text": "Volta aqui."
+    },
+    {
+      "start": 476.94,
+      "end": 477.32,
+      "text": "Deixa eu ver."
+    },
+    {
+      "start": 478.24,
+      "end": 479.32,
+      "text": "Ele charutou, mano."
+    },
+    {
+      "start": 479.32,
+      "end": 482.0,
+      "text": "Aê, ajuda nós."
+    },
+    {
+      "start": 482.44,
+      "end": 484.36,
+      "text": "Peraí."
+    },
+    {
+      "start": 484.74,
+      "end": 487.01,
+      "text": "Peraí, peixe."
+    },
+    {
+      "start": 487.43,
+      "end": 500.16,
+      "text": "Muito bom."
+    },
+    {
+      "start": 500.24,
+      "end": 500.76,
+      "text": "Muito bom."
+    },
+    {
+      "start": 500.86,
+      "end": 502.18,
+      "text": "Não tinha limpar a câmera aqui."
+    },
+    {
+      "start": 502.76,
+      "end": 503.6,
+      "text": "Olha só como que eu fiquei."
+    },
+    {
+      "start": 505.2,
+      "end": 506.26,
+      "text": "Nossa senhora."
+    },
+    {
+      "start": 513.94,
+      "end": 515.52,
+      "text": "Peguei dois peixes."
+    },
+    {
+      "start": 516.44,
+      "end": 517.36,
+      "text": "Nem acredito."
+    },
+    {
+      "start": 517.94,
+      "end": 519.34,
+      "text": "Pesquei só aqui, gente."
+    },
+    {
+      "start": 519.83,
+      "end": 520.21,
+      "text": "Só aqui."
+    },
+    {
+      "start": 520.29,
+      "end": 520.85,
+      "text": "Nem sei daqui."
+    },
+    {
+      "start": 521.41,
+      "end": 523.84,
+      "text": "Peguei dois peixões."
+    },
+    {
+      "start": 526.15,
+      "end": 529.79,
+      "text": "Tive sorte demais com o meu novo caiaquinho."
+    },
+    {
+      "start": 531.53,
+      "end": 532.49,
+      "text": "Estreiei ele."
+    },
+    {
+      "start": 532.49,
+      "end": 533.27,
+      "text": "Estreiei ele."
+    },
+    {
+      "start": 535.33,
+      "end": 535.87,
+      "text": "Isso."
+    }
+  ],
+  "duracao_seg": 537.45,
+  "idioma_detectado": "pt"
+}

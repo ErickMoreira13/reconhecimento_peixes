@@ -1,0 +1,47 @@
+{
+  "texto": "Guardando as recordações das terras onde passei Andando pelos sertões e dos amigos que lá deixei Uva, sol, poeira e carvão Longe de casa sigo o roteiro, mas uma estação Cria no coração De andar pra ver se um dia descanso feliz Guardando as recordações das terras onde passei Andando pelos sertões e dos amigos que lá deixei",
+  "segmentos": [
+    {
+      "start": 1.17,
+      "end": 6.31,
+      "text": "Guardando as recordações das terras onde passei"
+    },
+    {
+      "start": 6.31,
+      "end": 11.9,
+      "text": "Andando pelos sertões e dos amigos que lá deixei"
+    },
+    {
+      "start": 11.9,
+      "end": 17.71,
+      "text": "Uva, sol, poeira e carvão"
+    },
+    {
+      "start": 17.71,
+      "end": 23.09,
+      "text": "Longe de casa sigo o roteiro, mas uma estação"
+    },
+    {
+      "start": 23.09,
+      "end": 29.32,
+      "text": "Cria no coração"
+    },
+    {
+      "start": 29.32,
+      "end": 46.27,
+      "text": "De andar pra ver se um dia descanso feliz"
+    },
+    {
+      "start": 46.27,
+      "end": 52.08,
+      "text": "Guardando as recordações das terras onde passei"
+    },
+    {
+      "start": 52.08,
+      "end": 57.7,
+      "text": "Andando pelos sertões e dos amigos que lá deixei"
+    }
+  ],
+  "duracao_seg": 59.65,
+  "idioma_detectado": "pt"
+}

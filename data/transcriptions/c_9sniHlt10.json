@@ -1,0 +1,57 @@
+{
+  "texto": "O geletico! Que te amei, cara! imtiilante. Amãe queima, cara! E veja, a ver se eu posso trocar, cara! Eu não sei de respeitar aqui! Adeus, Fernando! Palazzo de outilho, palazzo de outilho! Oh! Mira, cuba ela!",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 2.04,
+      "text": "O geletico!"
+    },
+    {
+      "start": 2.04,
+      "end": 3.98,
+      "text": "Que te amei, cara!"
+    },
+    {
+      "start": 3.98,
+      "end": 4.8,
+      "text": "imtiilante."
+    },
+    {
+      "start": 4.8,
+      "end": 7.8,
+      "text": "Amãe queima, cara!"
+    },
+    {
+      "start": 12.6,
+      "end": 14.32,
+      "text": "E veja, a ver se eu posso trocar, cara!"
+    },
+    {
+      "start": 17.45,
+      "end": 20.3,
+      "text": "Eu não sei de respeitar aqui!"
+    },
+    {
+      "start": 20.3,
+      "end": 22.46,
+      "text": "Adeus, Fernando!"
+    },
+    {
+      "start": 22.46,
+      "end": 24.58,
+      "text": "Palazzo de outilho, palazzo de outilho!"
+    },
+    {
+      "start": 24.58,
+      "end": 25.84,
+      "text": "Oh!"
+    },
+    {
+      "start": 26.5,
+      "end": 27.8,
+      "text": "Mira, cuba ela!"
+    }
+  ],
+  "duracao_seg": 28.77,
+  "idioma_detectado": "pt"
+}

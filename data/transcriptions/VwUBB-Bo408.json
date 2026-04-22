@@ -1,0 +1,72 @@
+{
+  "texto": "Aí, aí, Marçal Meu amigo japonês ali de Santander Olha o tamanho dessa tilapa, Marçal Olha o tamanho dessa boca aqui Mano, tem mais de 2kg, Marçal Olha o tamanho disso aqui, cara Não dá conta não, Marçal Olha aí, gigante, galera Gigante aqui na represa Cê tá doido Será que nós é ruim? Aí nós pega e tá aí, ó Vem, marcha",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 2.38,
+      "text": "Aí, aí, Marçal"
+    },
+    {
+      "start": 2.38,
+      "end": 4.4,
+      "text": "Meu amigo japonês ali de Santander"
+    },
+    {
+      "start": 4.4,
+      "end": 5.98,
+      "text": "Olha o tamanho dessa tilapa, Marçal"
+    },
+    {
+      "start": 5.98,
+      "end": 8.0,
+      "text": "Olha o tamanho dessa boca aqui"
+    },
+    {
+      "start": 8.0,
+      "end": 9.5,
+      "text": "Mano, tem mais de 2kg, Marçal"
+    },
+    {
+      "start": 9.5,
+      "end": 11.28,
+      "text": "Olha o tamanho disso aqui, cara"
+    },
+    {
+      "start": 11.28,
+      "end": 13.76,
+      "text": "Não dá conta não, Marçal"
+    },
+    {
+      "start": 13.76,
+      "end": 16.14,
+      "text": "Olha aí, gigante, galera"
+    },
+    {
+      "start": 16.14,
+      "end": 18.18,
+      "text": "Gigante aqui na represa"
+    },
+    {
+      "start": 18.18,
+      "end": 19.54,
+      "text": "Cê tá doido"
+    },
+    {
+      "start": 19.54,
+      "end": 20.44,
+      "text": "Será que nós é ruim?"
+    },
+    {
+      "start": 20.84,
+      "end": 22.16,
+      "text": "Aí nós pega e tá aí, ó"
+    },
+    {
+      "start": 22.16,
+      "end": 23.14,
+      "text": "Vem, marcha"
+    }
+  ],
+  "duracao_seg": 23.81,
+  "idioma_detectado": "pt"
+}

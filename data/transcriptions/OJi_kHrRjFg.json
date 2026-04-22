@@ -1,0 +1,17 @@
+{
+  "texto": "Começou, Zé. Começou o round. Olha, olha o guia.",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 2.93,
+      "text": "Começou, Zé. Começou o round."
+    },
+    {
+      "start": 4.4,
+      "end": 6.5,
+      "text": "Olha, olha o guia."
+    }
+  ],
+  "duracao_seg": 7.55,
+  "idioma_detectado": "pt"
+}

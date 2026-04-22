@@ -1,0 +1,22 @@
+{
+  "texto": "Olha aí galera, que lindo o tanguio, olha o tamanho disso, olha que show de bola. Esse aqui é o tanguio pessoal, olha lá, totalmente diferente aí da saicanga e do lambai. Se todos fossem assim, desse tamanho né gente, mas tá aí, vamos se divertindo.",
+  "segmentos": [
+    {
+      "start": 6.16,
+      "end": 11.65,
+      "text": "Olha aí galera, que lindo o tanguio, olha o tamanho disso, olha que show de bola."
+    },
+    {
+      "start": 11.95,
+      "end": 17.41,
+      "text": "Esse aqui é o tanguio pessoal, olha lá, totalmente diferente aí da saicanga e do lambai."
+    },
+    {
+      "start": 17.83,
+      "end": 26.96,
+      "text": "Se todos fossem assim, desse tamanho né gente, mas tá aí, vamos se divertindo."
+    }
+  ],
+  "duracao_seg": 28.87,
+  "idioma_detectado": "pt"
+}

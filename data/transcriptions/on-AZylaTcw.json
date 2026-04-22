@@ -1,0 +1,62 @@
+{
+  "texto": "Sai, sai, sai, sai Mas que maravilha No GT de Barra Bonita saiu um peixe desse Nós estamos filmando aqui Que peixe que é esse moço? Você está de parabéns Parabéns mesmo, que bicho lindo É aquela balança, aquela tachinha assim Lá na guerra dele, 10 quilos Mais aí Mais 10 quilos",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 12.2,
+      "text": "Sai, sai, sai, sai"
+    },
+    {
+      "start": 12.2,
+      "end": 26.9,
+      "text": "Mas que maravilha"
+    },
+    {
+      "start": 26.9,
+      "end": 33.92,
+      "text": "No GT de Barra Bonita saiu um peixe desse"
+    },
+    {
+      "start": 33.92,
+      "end": 36.74,
+      "text": "Nós estamos filmando aqui"
+    },
+    {
+      "start": 36.74,
+      "end": 39.38,
+      "text": "Que peixe que é esse moço?"
+    },
+    {
+      "start": 39.8,
+      "end": 42.14,
+      "text": "Você está de parabéns"
+    },
+    {
+      "start": 42.14,
+      "end": 44.14,
+      "text": "Parabéns mesmo, que bicho lindo"
+    },
+    {
+      "start": 44.14,
+      "end": 46.76,
+      "text": "É aquela balança, aquela tachinha assim"
+    },
+    {
+      "start": 46.76,
+      "end": 51.18,
+      "text": "Lá na guerra dele, 10 quilos"
+    },
+    {
+      "start": 51.18,
+      "end": 52.84,
+      "text": "Mais aí"
+    },
+    {
+      "start": 52.84,
+      "end": 54.02,
+      "text": "Mais 10 quilos"
+    }
+  ],
+  "duracao_seg": 57.75,
+  "idioma_detectado": "pt"
+}

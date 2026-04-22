@@ -1,0 +1,42 @@
+{
+  "texto": "Boca fechada, rabo espalmado, sessenta. Sessenta. Equipe Dois Irmãos dando mais um treino. Equipe Dois Irmãos dando um treino aí. Peixe desse tem que ir para a vida, gente. Não pode matar, não. Vai para a vida, bicho louco!",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 4.05,
+      "text": "Boca fechada, rabo espalmado, sessenta."
+    },
+    {
+      "start": 4.05,
+      "end": 5.05,
+      "text": "Sessenta."
+    },
+    {
+      "start": 5.05,
+      "end": 7.05,
+      "text": "Equipe Dois Irmãos dando mais um treino."
+    },
+    {
+      "start": 7.05,
+      "end": 10.05,
+      "text": "Equipe Dois Irmãos dando um treino aí."
+    },
+    {
+      "start": 10.05,
+      "end": 12.05,
+      "text": "Peixe desse tem que ir para a vida, gente."
+    },
+    {
+      "start": 12.05,
+      "end": 13.05,
+      "text": "Não pode matar, não."
+    },
+    {
+      "start": 13.05,
+      "end": 15.05,
+      "text": "Vai para a vida, bicho louco!"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

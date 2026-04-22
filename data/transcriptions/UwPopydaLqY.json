@@ -1,0 +1,82 @@
+{
+  "texto": "O mendigo agarra um pescoço e o fraco se o quitou. Cállense, mendigos. Não veem que estou a ponto de agarrar um pescoço e vocês estão com a bulla. Fraco, eu não estou fazendo bulla. Só estou silvando para atrair os peces. Sim, fraco. Você não sabia que se silvamos enquanto estamos pescando. Isso dá muito boa sorte. De onde sacaram vocês que silvar dá boa sorte? Joli, Joli, temos boa sorte. Agarramos o primeiro peco. Espacito, está por acá este pescado, mendigo. Que agora mesmo me lo vou comer fritico. E vocês vão passar muita hambre. Eu fiz o correto.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "O mendigo agarra um pescoço e o fraco se o quitou."
+    },
+    {
+      "start": 11.35,
+      "end": 12.31,
+      "text": "Cállense, mendigos."
+    },
+    {
+      "start": 12.51,
+      "end": 15.03,
+      "text": "Não veem que estou a ponto de agarrar um pescoço e vocês estão com a bulla."
+    },
+    {
+      "start": 15.55,
+      "end": 17.55,
+      "text": "Fraco, eu não estou fazendo bulla."
+    },
+    {
+      "start": 17.67,
+      "end": 20.09,
+      "text": "Só estou silvando para atrair os peces."
+    },
+    {
+      "start": 20.69,
+      "end": 21.37,
+      "text": "Sim, fraco."
+    },
+    {
+      "start": 21.69,
+      "end": 24.59,
+      "text": "Você não sabia que se silvamos enquanto estamos pescando."
+    },
+    {
+      "start": 24.91,
+      "end": 26.67,
+      "text": "Isso dá muito boa sorte."
+    },
+    {
+      "start": 27.19,
+      "end": 29.67,
+      "text": "De onde sacaram vocês que silvar dá boa sorte?"
+    },
+    {
+      "start": 30.99,
+      "end": 33.11,
+      "text": "Joli, Joli, temos boa sorte."
+    },
+    {
+      "start": 33.25,
+      "end": 34.35,
+      "text": "Agarramos o primeiro peco."
+    },
+    {
+      "start": 34.35,
+      "end": 41.5,
+      "text": "Espacito, está por acá este pescado, mendigo."
+    },
+    {
+      "start": 41.88,
+      "end": 44.02,
+      "text": "Que agora mesmo me lo vou comer fritico."
+    },
+    {
+      "start": 44.36,
+      "end": 46.14,
+      "text": "E vocês vão passar muita hambre."
+    },
+    {
+      "start": 47.1,
+      "end": 52.27,
+      "text": "Eu fiz o correto."
+    }
+  ],
+  "duracao_seg": 52.39,
+  "idioma_detectado": "pt"
+}

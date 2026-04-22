@@ -1,0 +1,652 @@
+{
+  "texto": "Ah, deve ter roubado a minha isca. Passo pelo outro lado do motor? Passo pelo outro lado. Entra de baixo. Peraí, deixa eu só desembolar aqui. Dá mais de 3kg que vai lendo, não? Não. Eu já ia esse aqui. Deixa eu desembolar aqui com o bicho. Cara, isca. Peraí, já ia usando essa minha aqui. Até que eu desembola essa tua. Oh, peguei a corbina. Pegou de arrasto. Daí que eu já isca. Daí eu já largo isso aqui. Até que eu vou desembolando essa tua ali. Que embolou. Embolou ali? Aham. A hora que ela deu aquela pulada ali. Então, ó. Eu vou desembolando ela. Pegu de uma hora agora, Jackson. Pritinho com a cervejinha. Pega, hein. Põe a minha batendo. Não tem como ser ruim. Ó, piscar de guia nos bicho, mano. Vai no dublê, então. Vai no dublêzinho. A minha é menor. É muito querido, mano. Tô um bichinho nervoso. Uhul. Uhul. Uhul. Uhul, sério. Olha a bichinha a boca. Calma, Tiagrinha. Calma, polaca, velho. Tô grande. Tô bonitinha. Tá bonita, velho. Tá roncando. Dá mais a toalinha aqui. Acho que é mais fácil aí. Não, ela sai. Aí, co. Bonita. Tá com a minha mão. Mas tá muito fácil. Calma. Uhul. Fisgado, bicho. Foi bom, hein. É que essa é grande. As curvinas é bonita, hein. Bonita, hein. Olha lá onde que mordeiro. Vamos pegar o dublê, então. Tu pega aí que eu pego uma aqui. Mas eu pego uma. Aí, ó. Pegou também? Aham. Aí, ó. Aí, ó. Ó, os campeões pescadores. Ah, mas tem que filmar nós, então. E ô, o campeão esteve, ó. Aí, ó. Três, pá. Pegaram. Bastante. Aqui, ó. Esse é o nosso líder. Dá um oi pro Becker aí, ó. Ô, Becker. O Becker, como é que você tá, tá bom? Ele é do PCC. Isso aí. Opa. Ah, tá na corvinha, um peixe bonitinho. Aham. Aí, Dudu. Ó, e os homens. Triplê. Triplê. Cê tá doido. Quero ver na hora de limpar tudo. Eita. Coisa bem boa, né? Faz. Tá bom demais. Foi na corvina? Sim. Saiu bem, cara. Saiu bem ainda. É? Não é só ali no... Ali na... Na tua fazenda? Hum. Ali deu bem. Cai, ó. É. Que coisa vai aí. Faz a faca pôr? Pas na... Um. Um. Não há. Não há. Não há. Vamos. Pode. Vamos. Vamos. Vamos. Vamos. Vamos. Vamos. Vamos. Vamos. Vamos. Vamos. Vamos. Vamos.",
+  "segmentos": [
+    {
+      "start": 23.5,
+      "end": 24.86,
+      "text": "Ah, deve ter roubado a minha isca."
+    },
+    {
+      "start": 25.4,
+      "end": 39.95,
+      "text": "Passo pelo outro lado do motor?"
+    },
+    {
+      "start": 40.19,
+      "end": 41.01,
+      "text": "Passo pelo outro lado."
+    },
+    {
+      "start": 41.21,
+      "end": 42.03,
+      "text": "Entra de baixo."
+    },
+    {
+      "start": 53.7,
+      "end": 55.06,
+      "text": "Peraí, deixa eu só desembolar aqui."
+    },
+    {
+      "start": 56.24,
+      "end": 57.56,
+      "text": "Dá mais de 3kg que vai lendo, não?"
+    },
+    {
+      "start": 58.04,
+      "end": 58.36,
+      "text": "Não."
+    },
+    {
+      "start": 63.91,
+      "end": 70.36,
+      "text": "Eu já ia esse aqui."
+    },
+    {
+      "start": 71.68,
+      "end": 73.54,
+      "text": "Deixa eu desembolar aqui com o bicho."
+    },
+    {
+      "start": 74.59,
+      "end": 76.44,
+      "text": "Cara, isca."
+    },
+    {
+      "start": 82.1,
+      "end": 83.98,
+      "text": "Peraí, já ia usando essa minha aqui."
+    },
+    {
+      "start": 84.62,
+      "end": 85.78,
+      "text": "Até que eu desembola essa tua."
+    },
+    {
+      "start": 86.08,
+      "end": 87.5,
+      "text": "Oh, peguei a corbina."
+    },
+    {
+      "start": 87.5,
+      "end": 88.72,
+      "text": "Pegou de arrasto."
+    },
+    {
+      "start": 88.72,
+      "end": 92.16,
+      "text": "Daí que eu já isca."
+    },
+    {
+      "start": 92.16,
+      "end": 92.86,
+      "text": "Daí eu já largo isso aqui."
+    },
+    {
+      "start": 93.08,
+      "end": 94.24,
+      "text": "Até que eu vou desembolando essa tua ali."
+    },
+    {
+      "start": 94.34,
+      "end": 94.82,
+      "text": "Que embolou."
+    },
+    {
+      "start": 95.04,
+      "end": 95.56,
+      "text": "Embolou ali?"
+    },
+    {
+      "start": 95.62,
+      "end": 96.0,
+      "text": "Aham."
+    },
+    {
+      "start": 96.34,
+      "end": 97.78,
+      "text": "A hora que ela deu aquela pulada ali."
+    },
+    {
+      "start": 98.42,
+      "end": 98.64,
+      "text": "Então, ó."
+    },
+    {
+      "start": 99.1,
+      "end": 102.28,
+      "text": "Eu vou desembolando ela."
+    },
+    {
+      "start": 102.38,
+      "end": 120.1,
+      "text": "Pegu de uma hora agora, Jackson."
+    },
+    {
+      "start": 120.92,
+      "end": 122.14,
+      "text": "Pritinho com a cervejinha."
+    },
+    {
+      "start": 122.14,
+      "end": 122.6,
+      "text": "Pega, hein."
+    },
+    {
+      "start": 122.6,
+      "end": 123.36,
+      "text": "Põe a minha batendo."
+    },
+    {
+      "start": 123.36,
+      "end": 124.84,
+      "text": "Não tem como ser ruim."
+    },
+    {
+      "start": 124.98,
+      "end": 135.38,
+      "text": "Ó, piscar de guia nos bicho, mano."
+    },
+    {
+      "start": 153.85,
+      "end": 155.07,
+      "text": "Vai no dublê, então."
+    },
+    {
+      "start": 158.09,
+      "end": 159.05,
+      "text": "Vai no dublêzinho."
+    },
+    {
+      "start": 164.26,
+      "end": 165.22,
+      "text": "A minha é menor."
+    },
+    {
+      "start": 166.12,
+      "end": 167.08,
+      "text": "É muito querido, mano."
+    },
+    {
+      "start": 167.52,
+      "end": 176.86,
+      "text": "Tô um bichinho nervoso."
+    },
+    {
+      "start": 178.34,
+      "end": 178.86,
+      "text": "Uhul."
+    },
+    {
+      "start": 181.79,
+      "end": 182.29,
+      "text": "Uhul."
+    },
+    {
+      "start": 187.64,
+      "end": 188.08,
+      "text": "Uhul."
+    },
+    {
+      "start": 188.08,
+      "end": 188.96,
+      "text": "Uhul, sério."
+    },
+    {
+      "start": 189.62,
+      "end": 190.8,
+      "text": "Olha a bichinha a boca."
+    },
+    {
+      "start": 190.98,
+      "end": 191.94,
+      "text": "Calma, Tiagrinha."
+    },
+    {
+      "start": 192.3,
+      "end": 193.34,
+      "text": "Calma, polaca, velho."
+    },
+    {
+      "start": 195.52,
+      "end": 196.04,
+      "text": "Tô grande."
+    },
+    {
+      "start": 196.58,
+      "end": 197.38,
+      "text": "Tô bonitinha."
+    },
+    {
+      "start": 200.98,
+      "end": 202.04,
+      "text": "Tá bonita, velho."
+    },
+    {
+      "start": 215.88,
+      "end": 217.02,
+      "text": "Tá roncando."
+    },
+    {
+      "start": 217.4,
+      "end": 224.32,
+      "text": "Dá mais a toalinha aqui."
+    },
+    {
+      "start": 224.58,
+      "end": 225.6,
+      "text": "Acho que é mais fácil aí."
+    },
+    {
+      "start": 225.6,
+      "end": 228.04,
+      "text": "Não, ela sai."
+    },
+    {
+      "start": 228.99,
+      "end": 229.55,
+      "text": "Aí, co."
+    },
+    {
+      "start": 230.96,
+      "end": 231.4,
+      "text": "Bonita."
+    },
+    {
+      "start": 231.4,
+      "end": 232.36,
+      "text": "Tá com a minha mão."
+    },
+    {
+      "start": 232.36,
+      "end": 240.4,
+      "text": "Mas tá muito fácil."
+    },
+    {
+      "start": 240.4,
+      "end": 240.8,
+      "text": "Calma."
+    },
+    {
+      "start": 240.9,
+      "end": 241.4,
+      "text": "Uhul."
+    },
+    {
+      "start": 242.18,
+      "end": 242.9,
+      "text": "Fisgado, bicho."
+    },
+    {
+      "start": 242.98,
+      "end": 243.66,
+      "text": "Foi bom, hein."
+    },
+    {
+      "start": 244.12,
+      "end": 245.39,
+      "text": "É que essa é grande."
+    },
+    {
+      "start": 247.78,
+      "end": 249.02,
+      "text": "As curvinas é bonita, hein."
+    },
+    {
+      "start": 249.46,
+      "end": 262.11,
+      "text": "Bonita, hein."
+    },
+    {
+      "start": 262.23,
+      "end": 263.31,
+      "text": "Olha lá onde que mordeiro."
+    },
+    {
+      "start": 264.35,
+      "end": 265.75,
+      "text": "Vamos pegar o dublê, então."
+    },
+    {
+      "start": 265.87,
+      "end": 267.01,
+      "text": "Tu pega aí que eu pego uma aqui."
+    },
+    {
+      "start": 269.77,
+      "end": 271.01,
+      "text": "Mas eu pego uma."
+    },
+    {
+      "start": 271.19,
+      "end": 274.5,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 274.56,
+      "end": 275.02,
+      "text": "Pegou também?"
+    },
+    {
+      "start": 275.22,
+      "end": 275.5,
+      "text": "Aham."
+    },
+    {
+      "start": 276.65,
+      "end": 277.23,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 279.28,
+      "end": 279.98,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 279.98,
+      "end": 292.24,
+      "text": "Ó, os campeões pescadores."
+    },
+    {
+      "start": 293.0,
+      "end": 294.06,
+      "text": "Ah, mas tem que filmar nós, então."
+    },
+    {
+      "start": 297.9,
+      "end": 299.36,
+      "text": "E ô, o campeão esteve, ó."
+    },
+    {
+      "start": 301.47,
+      "end": 301.97,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 302.82,
+      "end": 303.68,
+      "text": "Três, pá."
+    },
+    {
+      "start": 304.14,
+      "end": 306.41,
+      "text": "Pegaram."
+    },
+    {
+      "start": 306.75,
+      "end": 307.27,
+      "text": "Bastante."
+    },
+    {
+      "start": 307.27,
+      "end": 307.67,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 307.67,
+      "end": 308.63,
+      "text": "Esse é o nosso líder."
+    },
+    {
+      "start": 308.77,
+      "end": 310.09,
+      "text": "Dá um oi pro Becker aí, ó."
+    },
+    {
+      "start": 310.39,
+      "end": 311.01,
+      "text": "Ô, Becker."
+    },
+    {
+      "start": 311.09,
+      "end": 312.15,
+      "text": "O Becker, como é que você tá, tá bom?"
+    },
+    {
+      "start": 312.25,
+      "end": 313.25,
+      "text": "Ele é do PCC."
+    },
+    {
+      "start": 313.43,
+      "end": 313.89,
+      "text": "Isso aí."
+    },
+    {
+      "start": 314.25,
+      "end": 314.65,
+      "text": "Opa."
+    },
+    {
+      "start": 314.65,
+      "end": 318.62,
+      "text": "Ah, tá na corvinha, um peixe bonitinho."
+    },
+    {
+      "start": 318.84,
+      "end": 319.32,
+      "text": "Aham."
+    },
+    {
+      "start": 322.3,
+      "end": 324.14,
+      "text": "Aí, Dudu."
+    },
+    {
+      "start": 324.38,
+      "end": 325.3,
+      "text": "Ó, e os homens."
+    },
+    {
+      "start": 325.62,
+      "end": 326.18,
+      "text": "Triplê."
+    },
+    {
+      "start": 326.34,
+      "end": 326.86,
+      "text": "Triplê."
+    },
+    {
+      "start": 326.96,
+      "end": 328.66,
+      "text": "Cê tá doido."
+    },
+    {
+      "start": 332.53,
+      "end": 334.03,
+      "text": "Quero ver na hora de limpar tudo."
+    },
+    {
+      "start": 335.85,
+      "end": 336.31,
+      "text": "Eita."
+    },
+    {
+      "start": 340.35,
+      "end": 341.83,
+      "text": "Coisa bem boa, né?"
+    },
+    {
+      "start": 342.31,
+      "end": 342.63,
+      "text": "Faz."
+    },
+    {
+      "start": 343.05,
+      "end": 344.74,
+      "text": "Tá bom demais."
+    },
+    {
+      "start": 348.76,
+      "end": 349.36,
+      "text": "Foi na corvina?"
+    },
+    {
+      "start": 349.7,
+      "end": 349.96,
+      "text": "Sim."
+    },
+    {
+      "start": 351.41,
+      "end": 352.23,
+      "text": "Saiu bem, cara."
+    },
+    {
+      "start": 352.61,
+      "end": 353.79,
+      "text": "Saiu bem ainda."
+    },
+    {
+      "start": 354.07,
+      "end": 354.21,
+      "text": "É?"
+    },
+    {
+      "start": 354.89,
+      "end": 356.49,
+      "text": "Não é só ali no..."
+    },
+    {
+      "start": 356.49,
+      "end": 358.81,
+      "text": "Ali na..."
+    },
+    {
+      "start": 358.81,
+      "end": 359.79,
+      "text": "Na tua fazenda?"
+    },
+    {
+      "start": 360.13,
+      "end": 360.43,
+      "text": "Hum."
+    },
+    {
+      "start": 361.86,
+      "end": 362.6,
+      "text": "Ali deu bem."
+    },
+    {
+      "start": 365.76,
+      "end": 366.5,
+      "text": "Cai, ó."
+    },
+    {
+      "start": 366.5,
+      "end": 367.0,
+      "text": "É."
+    },
+    {
+      "start": 367.4,
+      "end": 369.4,
+      "text": "Que coisa vai aí."
+    },
+    {
+      "start": 369.48,
+      "end": 369.84,
+      "text": "Faz a faca pôr?"
+    },
+    {
+      "start": 370.04,
+      "end": 370.46,
+      "text": "Pas na..."
+    },
+    {
+      "start": 370.46,
+      "end": 370.7,
+      "text": "Um."
+    },
+    {
+      "start": 370.7,
+      "end": 371.08,
+      "text": "Um."
+    },
+    {
+      "start": 375.09,
+      "end": 375.23,
+      "text": "Não há."
+    },
+    {
+      "start": 375.23,
+      "end": 375.57,
+      "text": "Não há."
+    },
+    {
+      "start": 375.57,
+      "end": 375.65,
+      "text": "Não há."
+    },
+    {
+      "start": 375.77,
+      "end": 375.79,
+      "text": "Vamos."
+    },
+    {
+      "start": 376.03,
+      "end": 376.73,
+      "text": "Pode."
+    },
+    {
+      "start": 376.81,
+      "end": 377.21,
+      "text": "Vamos."
+    },
+    {
+      "start": 377.21,
+      "end": 377.83,
+      "text": "Vamos."
+    },
+    {
+      "start": 377.97,
+      "end": 378.39,
+      "text": "Vamos."
+    },
+    {
+      "start": 378.39,
+      "end": 378.41,
+      "text": "Vamos."
+    },
+    {
+      "start": 378.51,
+      "end": 379.09,
+      "text": "Vamos."
+    },
+    {
+      "start": 379.09,
+      "end": 379.19,
+      "text": "Vamos."
+    },
+    {
+      "start": 379.19,
+      "end": 379.37,
+      "text": "Vamos."
+    },
+    {
+      "start": 379.45,
+      "end": 379.55,
+      "text": "Vamos."
+    },
+    {
+      "start": 379.55,
+      "end": 379.59,
+      "text": "Vamos."
+    },
+    {
+      "start": 379.69,
+      "end": 380.07,
+      "text": "Vamos."
+    },
+    {
+      "start": 380.19,
+      "end": 380.71,
+      "text": "Vamos."
+    },
+    {
+      "start": 380.79,
+      "end": 381.05,
+      "text": "Vamos."
+    }
+  ],
+  "duracao_seg": 375.71,
+  "idioma_detectado": "pt"
+}

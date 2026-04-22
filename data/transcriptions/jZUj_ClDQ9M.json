@@ -1,0 +1,77 @@
+{
+  "texto": "O sujeito é demais... E aí, não adianta! Valeu bem, eu queria ver... Nossa, é baú! Não é de foguízo não! É! Piauçu! Não tá pai! Tem nené! Dá dor morre no coração! Isso aqui é? É, mas é baú! Mais uma! Mais uma, por favor!",
+  "segmentos": [
+    {
+      "start": 1.78,
+      "end": 8.1,
+      "text": "O sujeito é demais..."
+    },
+    {
+      "start": 13.93,
+      "end": 80.22,
+      "text": "E aí, não adianta!"
+    },
+    {
+      "start": 80.22,
+      "end": 81.22,
+      "text": "Valeu bem, eu queria ver..."
+    },
+    {
+      "start": 81.22,
+      "end": 82.22,
+      "text": "Nossa, é baú!"
+    },
+    {
+      "start": 82.22,
+      "end": 84.34,
+      "text": "Não é de foguízo não!"
+    },
+    {
+      "start": 84.34,
+      "end": 85.38,
+      "text": "É!"
+    },
+    {
+      "start": 85.38,
+      "end": 86.38,
+      "text": "Piauçu!"
+    },
+    {
+      "start": 86.38,
+      "end": 95.09,
+      "text": "Não tá pai!"
+    },
+    {
+      "start": 95.09,
+      "end": 102.49,
+      "text": "Tem nené!"
+    },
+    {
+      "start": 102.49,
+      "end": 105.19,
+      "text": "Dá dor morre no coração!"
+    },
+    {
+      "start": 105.19,
+      "end": 133.62,
+      "text": "Isso aqui é?"
+    },
+    {
+      "start": 133.62,
+      "end": 137.06,
+      "text": "É, mas é baú!"
+    },
+    {
+      "start": 183.99,
+      "end": 184.99,
+      "text": "Mais uma!"
+    },
+    {
+      "start": 184.99,
+      "end": 188.08,
+      "text": "Mais uma, por favor!"
+    }
+  ],
+  "duracao_seg": 202.57,
+  "idioma_detectado": "pt"
+}

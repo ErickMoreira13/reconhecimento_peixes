@@ -1,0 +1,42 @@
+{
+  "texto": "Aí os meninos! Tô todo me tremendo, rapaziada! Ó, represa bilis! Represa bilis! E ó quem apareceu! Olha que coisa linda, rapaziada! Que coisa linda! E esse aqui, família, ó, vai pra vida! Vai pra vida! Porque quem pegar um peixe desse, família, tem que soltar! Não tem condições de prender um peixe desse e matar ele, não! Vou liberar, família! Vai pra vida!",
+  "segmentos": [
+    {
+      "start": 0.04,
+      "end": 3.26,
+      "text": "Aí os meninos! Tô todo me tremendo, rapaziada!"
+    },
+    {
+      "start": 3.78,
+      "end": 7.78,
+      "text": "Ó, represa bilis! Represa bilis! E ó quem apareceu!"
+    },
+    {
+      "start": 8.28,
+      "end": 11.8,
+      "text": "Olha que coisa linda, rapaziada! Que coisa linda!"
+    },
+    {
+      "start": 11.88,
+      "end": 15.1,
+      "text": "E esse aqui, família, ó, vai pra vida! Vai pra vida!"
+    },
+    {
+      "start": 15.16,
+      "end": 17.06,
+      "text": "Porque quem pegar um peixe desse, família, tem que soltar!"
+    },
+    {
+      "start": 17.95,
+      "end": 19.89,
+      "text": "Não tem condições de prender um peixe desse e matar ele, não!"
+    },
+    {
+      "start": 20.59,
+      "end": 21.77,
+      "text": "Vou liberar, família! Vai pra vida!"
+    }
+  ],
+  "duracao_seg": 22.19,
+  "idioma_detectado": "pt"
+}

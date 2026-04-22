@@ -1,0 +1,62 @@
+{
+  "texto": "Aí galera, segura aqui, por favor. Saiu mais uma, galera. Saiu mais uma brutinha, bravo, hein? Soltou agora. Tá sozinho? Aí galera, o que que ela fez com o meu sapinho? É? Bora ver se tem mais. Falei que era um traíro, você não tava acreditando? Achei eu não joguei não, é? Falei pra ele, cara. Falou. Me assustou bom e me assustei. Tá afundando a terra. Mano, esse pneu é novo. Ó, esse pneu não tem pneu aí, ó. Você viu a explosão dela, bau?",
+  "segmentos": [
+    {
+      "start": 9.68,
+      "end": 43.22,
+      "text": "Aí galera, segura aqui, por favor. Saiu mais uma, galera. Saiu mais uma brutinha, bravo, hein?"
+    },
+    {
+      "start": 44.69,
+      "end": 66.06,
+      "text": "Soltou agora. Tá sozinho? Aí galera, o que que ela fez com o meu sapinho?"
+    },
+    {
+      "start": 66.06,
+      "end": 87.78,
+      "text": "É? Bora ver se tem mais."
+    },
+    {
+      "start": 87.78,
+      "end": 99.04,
+      "text": "Falei que era um traíro, você não tava acreditando?"
+    },
+    {
+      "start": 99.04,
+      "end": 104.5,
+      "text": "Achei eu não joguei não, é? Falei pra ele, cara."
+    },
+    {
+      "start": 104.5,
+      "end": 110.34,
+      "text": "Falou."
+    },
+    {
+      "start": 110.34,
+      "end": 118.82,
+      "text": "Me assustou bom e me assustei."
+    },
+    {
+      "start": 118.82,
+      "end": 123.49,
+      "text": "Tá afundando a terra."
+    },
+    {
+      "start": 123.49,
+      "end": 125.55,
+      "text": "Mano, esse pneu é novo."
+    },
+    {
+      "start": 125.55,
+      "end": 127.55,
+      "text": "Ó, esse pneu não tem pneu aí, ó."
+    },
+    {
+      "start": 127.55,
+      "end": 133.52,
+      "text": "Você viu a explosão dela, bau?"
+    }
+  ],
+  "duracao_seg": 137.71,
+  "idioma_detectado": "pt"
+}

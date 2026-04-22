@@ -1,0 +1,17 @@
+{
+  "texto": "Pessoal, oi Gui, oi Gui, oi Gui, oi, é de penca, é de penca, então, borboleta, ah, escapou, Paquinha, pela força, é por isso que ele correu,",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 28.5,
+      "text": "Pessoal, oi Gui, oi Gui, oi Gui, oi, é de penca, é de penca, então, borboleta, ah, escapou,"
+    },
+    {
+      "start": 42.58,
+      "end": 49.2,
+      "text": "Paquinha, pela força, é por isso que ele correu,"
+    }
+  ],
+  "duracao_seg": 56.99,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,142 @@
+{
+  "texto": "E aí, Geleia, como é que tá o dia hoje? Rapaz, é um arremesso e um peixe, um arremesso e um peixe Só que esse tá pequenininho, tá vendo? Mas vai crescer, né? Não deu um quilo e meio? Deu nada Rapaz, os caras teve coragem de vir aqui e falar que não pegou nada Tá vendo, ó, um palmo Quase dois palmos Rapaz, os caras veem que não pegou nada Ah, os caras é muito bom Vamos sortar na natureza aqui, ó Vamos ver Olha lá, ó E aí, vai pra vida Põe embora E aí, Iago, se ele é fraco, hein, Iago Pelo amor de Deus, hein Esse é fraco, hein Esse é fraco, hein O Geleia tá bufando Ei, meu Deus Tô com medo, mas tem que ir embora cedo Se esse é fraco, hein, vira nada A cota vai estourar Jonas, tá pescando só o lugar que vocês falaram Passou ontem, velho",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 2.34,
+      "text": "E aí, Geleia, como é que tá o dia hoje?"
+    },
+    {
+      "start": 2.58,
+      "end": 4.92,
+      "text": "Rapaz, é um arremesso e um peixe, um arremesso e um peixe"
+    },
+    {
+      "start": 4.92,
+      "end": 6.12,
+      "text": "Só que esse tá pequenininho, tá vendo?"
+    },
+    {
+      "start": 6.82,
+      "end": 7.7,
+      "text": "Mas vai crescer, né?"
+    },
+    {
+      "start": 7.72,
+      "end": 8.36,
+      "text": "Não deu um quilo e meio?"
+    },
+    {
+      "start": 8.54,
+      "end": 9.08,
+      "text": "Deu nada"
+    },
+    {
+      "start": 9.08,
+      "end": 13.72,
+      "text": "Rapaz, os caras teve coragem de vir aqui e falar que não pegou nada"
+    },
+    {
+      "start": 13.72,
+      "end": 14.92,
+      "text": "Tá vendo, ó, um palmo"
+    },
+    {
+      "start": 14.92,
+      "end": 17.5,
+      "text": "Quase dois palmos"
+    },
+    {
+      "start": 17.5,
+      "end": 19.3,
+      "text": "Rapaz, os caras veem que não pegou nada"
+    },
+    {
+      "start": 19.3,
+      "end": 20.18,
+      "text": "Ah, os caras é muito bom"
+    },
+    {
+      "start": 20.18,
+      "end": 22.12,
+      "text": "Vamos sortar na natureza aqui, ó"
+    },
+    {
+      "start": 22.12,
+      "end": 22.7,
+      "text": "Vamos ver"
+    },
+    {
+      "start": 22.7,
+      "end": 23.76,
+      "text": "Olha lá, ó"
+    },
+    {
+      "start": 23.76,
+      "end": 25.04,
+      "text": "E aí, vai pra vida"
+    },
+    {
+      "start": 25.04,
+      "end": 25.6,
+      "text": "Põe embora"
+    },
+    {
+      "start": 25.6,
+      "end": 30.24,
+      "text": "E aí, Iago, se ele é fraco, hein, Iago"
+    },
+    {
+      "start": 30.24,
+      "end": 31.96,
+      "text": "Pelo amor de Deus, hein"
+    },
+    {
+      "start": 31.96,
+      "end": 33.36,
+      "text": "Esse é fraco, hein"
+    },
+    {
+      "start": 33.36,
+      "end": 36.37,
+      "text": "Esse é fraco, hein"
+    },
+    {
+      "start": 36.37,
+      "end": 37.81,
+      "text": "O Geleia tá bufando"
+    },
+    {
+      "start": 37.81,
+      "end": 40.74,
+      "text": "Ei, meu Deus"
+    },
+    {
+      "start": 40.74,
+      "end": 42.04,
+      "text": "Tô com medo, mas tem que ir embora cedo"
+    },
+    {
+      "start": 42.04,
+      "end": 48.4,
+      "text": "Se esse é fraco, hein, vira nada"
+    },
+    {
+      "start": 48.4,
+      "end": 50.68,
+      "text": "A cota vai estourar"
+    },
+    {
+      "start": 50.68,
+      "end": 52.94,
+      "text": "Jonas, tá pescando só o lugar que vocês falaram"
+    },
+    {
+      "start": 52.94,
+      "end": 54.04,
+      "text": "Passou ontem, velho"
+    }
+  ],
+  "duracao_seg": 56.09,
+  "idioma_detectado": "pt"
+}

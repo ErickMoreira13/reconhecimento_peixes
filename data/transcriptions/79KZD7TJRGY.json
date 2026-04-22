@@ -1,0 +1,52 @@
+{
+  "texto": "Deixa eu me apresentar, que eu acabei de chegar Depois que me escutar, você vai lembrar meu nome É que eu sou de um lugar, onde o céu molha o chão Céu e chão grudando o pé, amarelo, azul e branco Deixa eu me apresentar, que eu acabei de chegar Depois que me escutar, você vai lembrar meu nome É que eu sou de um lugar, onde o céu molha o chão Céu e chão grudando o pé, amarelo, azul e branco Eu não sei diferenciar",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 4.43,
+      "text": "Deixa eu me apresentar, que eu acabei de chegar"
+    },
+    {
+      "start": 4.43,
+      "end": 9.63,
+      "text": "Depois que me escutar, você vai lembrar meu nome"
+    },
+    {
+      "start": 9.63,
+      "end": 14.57,
+      "text": "É que eu sou de um lugar, onde o céu molha o chão"
+    },
+    {
+      "start": 14.57,
+      "end": 19.79,
+      "text": "Céu e chão grudando o pé, amarelo, azul e branco"
+    },
+    {
+      "start": 19.79,
+      "end": 31.45,
+      "text": "Deixa eu me apresentar, que eu acabei de chegar"
+    },
+    {
+      "start": 31.45,
+      "end": 36.51,
+      "text": "Depois que me escutar, você vai lembrar meu nome"
+    },
+    {
+      "start": 36.51,
+      "end": 41.27,
+      "text": "É que eu sou de um lugar, onde o céu molha o chão"
+    },
+    {
+      "start": 41.27,
+      "end": 46.31,
+      "text": "Céu e chão grudando o pé, amarelo, azul e branco"
+    },
+    {
+      "start": 46.31,
+      "end": 54.18,
+      "text": "Eu não sei diferenciar"
+    }
+  ],
+  "duracao_seg": 55.17,
+  "idioma_detectado": "pt"
+}

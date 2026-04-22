@@ -1,0 +1,17 @@
+{
+  "texto": "Ah! Ah!",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 4.63,
+      "text": "Ah!"
+    },
+    {
+      "start": 4.63,
+      "end": 5.63,
+      "text": "Ah!"
+    }
+  ],
+  "duracao_seg": 16.35,
+  "idioma_detectado": "pt"
+}

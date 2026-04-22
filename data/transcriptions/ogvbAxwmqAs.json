@@ -1,0 +1,42 @@
+{
+  "texto": "aí pessoal, estamos pescando aqui em cima aqui no braço do Tietê aqui, olha aí agora quem pegou ficou o companheiro, foi eu não, estou só segurando um peixe para ele agora aqui mas ele que pegou aí, o Reginaldo, olha o tamanho aí, vai pesar ele para vir conseguir o meu deu dois quilos, o senhor acho que vai dar uns três quilos, Reginaldo eu acho que vai mesmo, porque é um bicho, é um dois quilos, uma lapa, uma chapa de pé ao sul bonito mesmo viu, qualidade, olha que coisa linda, quer sortar? beleza? beleza galera, falou pessoal, tchau tchau",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.22,
+      "text": "aí pessoal, estamos pescando aqui em cima aqui no braço do Tietê aqui, olha aí"
+    },
+    {
+      "start": 6.22,
+      "end": 10.22,
+      "text": "agora quem pegou ficou o companheiro, foi eu não, estou só segurando um peixe para ele agora aqui"
+    },
+    {
+      "start": 10.22,
+      "end": 15.22,
+      "text": "mas ele que pegou aí, o Reginaldo, olha o tamanho aí, vai pesar ele para vir conseguir"
+    },
+    {
+      "start": 15.22,
+      "end": 19.22,
+      "text": "o meu deu dois quilos, o senhor acho que vai dar uns três quilos, Reginaldo"
+    },
+    {
+      "start": 19.22,
+      "end": 23.22,
+      "text": "eu acho que vai mesmo, porque é um bicho, é um dois quilos, uma lapa, uma chapa de pé ao sul"
+    },
+    {
+      "start": 23.22,
+      "end": 29.22,
+      "text": "bonito mesmo viu, qualidade, olha que coisa linda, quer sortar?"
+    },
+    {
+      "start": 29.22,
+      "end": 34.15,
+      "text": "beleza? beleza galera, falou pessoal, tchau tchau"
+    }
+  ],
+  "duracao_seg": 34.99,
+  "idioma_detectado": "pt"
+}

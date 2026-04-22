@@ -1,0 +1,17 @@
+{
+  "texto": "Pari, pari, fica na ponta do pé Engata na macha",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "Pari, pari, fica na ponta do pé"
+    },
+    {
+      "start": 2.4,
+      "end": 4.02,
+      "text": "Engata na macha"
+    }
+  ],
+  "duracao_seg": 7.89,
+  "idioma_detectado": "pt"
+}

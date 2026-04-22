@@ -1,0 +1,17 @@
+{
+  "texto": "Chego. Olha o tamanho do peixe. É o atador.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 2.7,
+      "text": "Chego. Olha o tamanho do peixe."
+    },
+    {
+      "start": 6.83,
+      "end": 7.31,
+      "text": "É o atador."
+    }
+  ],
+  "duracao_seg": 14.69,
+  "idioma_detectado": "pt"
+}

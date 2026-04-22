@@ -1,0 +1,27 @@
+{
+  "texto": "o cagando o cagão pegando pegando a fome outra coisa feia mas é isso aí vai pegar os peixes que agora agora não achou o foco agora não achou o foco aqui vamos pegar um assilado por causa que ele vem cagando e achou os peixes olha como vocês virem os peixes de hoje a pesca foi mais ou menos mais ou menos aquela coisa",
+  "segmentos": [
+    {
+      "start": 125.01,
+      "end": 150.22,
+      "text": "o cagando o cagão pegando pegando a fome outra coisa feia mas é isso aí vai pegar os peixes que"
+    },
+    {
+      "start": 150.22,
+      "end": 161.7,
+      "text": "agora agora não achou o foco agora não achou o foco aqui vamos pegar um assilado por causa"
+    },
+    {
+      "start": 161.7,
+      "end": 310.74,
+      "text": "que ele vem cagando e achou os peixes olha como vocês virem os peixes de hoje a pesca foi mais ou menos"
+    },
+    {
+      "start": 310.74,
+      "end": 313.86,
+      "text": "mais ou menos aquela coisa"
+    }
+  ],
+  "duracao_seg": 363.65,
+  "idioma_detectado": "pt"
+}

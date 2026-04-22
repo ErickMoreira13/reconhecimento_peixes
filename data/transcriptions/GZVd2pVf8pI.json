@@ -1,0 +1,17 @@
+{
+  "texto": "E o ganhador da loteria achando que tem sorte Sou todo sorriso",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 3.93,
+      "text": "E o ganhador da loteria achando que tem sorte"
+    },
+    {
+      "start": 3.93,
+      "end": 5.47,
+      "text": "Sou todo sorriso"
+    }
+  ],
+  "duracao_seg": 5.51,
+  "idioma_detectado": "pt"
+}

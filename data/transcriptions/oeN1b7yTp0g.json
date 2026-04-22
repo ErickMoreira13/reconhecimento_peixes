@@ -1,0 +1,52 @@
+{
+  "texto": "Aí rapaziada Chama piranha Chama Aí ó Chama que essa aí é pro Lúcio Essa aí é a maior de todos moleque Chama rapaz Cadê o pegador de piranha o Django Pega aí Django",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 4.03,
+      "text": "Aí rapaziada"
+    },
+    {
+      "start": 4.03,
+      "end": 6.03,
+      "text": "Chama piranha"
+    },
+    {
+      "start": 6.03,
+      "end": 9.41,
+      "text": "Chama"
+    },
+    {
+      "start": 9.41,
+      "end": 11.41,
+      "text": "Aí ó"
+    },
+    {
+      "start": 11.41,
+      "end": 13.41,
+      "text": "Chama que essa aí é pro Lúcio"
+    },
+    {
+      "start": 13.41,
+      "end": 15.41,
+      "text": "Essa aí é a maior de todos moleque"
+    },
+    {
+      "start": 15.41,
+      "end": 17.41,
+      "text": "Chama rapaz"
+    },
+    {
+      "start": 22.13,
+      "end": 24.16,
+      "text": "Cadê o pegador de piranha o Django"
+    },
+    {
+      "start": 24.16,
+      "end": 26.16,
+      "text": "Pega aí Django"
+    }
+  ],
+  "duracao_seg": 25.09,
+  "idioma_detectado": "pt"
+}

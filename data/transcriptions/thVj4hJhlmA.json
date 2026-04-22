@@ -1,0 +1,27 @@
+{
+  "texto": "Boa batida aqui, ó Vou pôr um peixinho bom Paldinha, meu balo Oie",
+  "segmentos": [
+    {
+      "start": 4.5,
+      "end": 6.5,
+      "text": "Boa batida aqui, ó"
+    },
+    {
+      "start": 6.5,
+      "end": 13.52,
+      "text": "Vou pôr um peixinho bom"
+    },
+    {
+      "start": 13.52,
+      "end": 20.19,
+      "text": "Paldinha, meu balo"
+    },
+    {
+      "start": 20.19,
+      "end": 22.19,
+      "text": "Oie"
+    }
+  ],
+  "duracao_seg": 22.75,
+  "idioma_detectado": "pt"
+}

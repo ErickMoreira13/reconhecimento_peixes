@@ -1,0 +1,22 @@
+{
+  "texto": "É, eu sei papo a terra. A emoção tá lá, mas o banco tá encostando. Dá pra vida.",
+  "segmentos": [
+    {
+      "start": 1.26,
+      "end": 3.1,
+      "text": "É, eu sei papo a terra."
+    },
+    {
+      "start": 5.42,
+      "end": 7.44,
+      "text": "A emoção tá lá, mas o banco tá encostando."
+    },
+    {
+      "start": 10.6,
+      "end": 11.14,
+      "text": "Dá pra vida."
+    }
+  ],
+  "duracao_seg": 11.53,
+  "idioma_detectado": "pt"
+}

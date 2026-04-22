@@ -1,0 +1,117 @@
+{
+  "texto": "Cachorra bonita menina Eita, Paulo Eee moleque Cachorra A cachorra bonita aí, ó Eee, tira aí, Paulo Com calma, senão Com calma Sem pressa, sem pressa Que a cachorra Agora é Aê, cachorrona Que grande, ó Bonita Opa Não, mas agora vai Da próxima vez Ajuda aí, moço Aê Primeiro do dia Vou fazer uma foto aqui Você vai ver que fica filé",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 1.79,
+      "text": "Cachorra bonita menina"
+    },
+    {
+      "start": 1.79,
+      "end": 5.5,
+      "text": "Eita, Paulo"
+    },
+    {
+      "start": 5.5,
+      "end": 6.64,
+      "text": "Eee moleque"
+    },
+    {
+      "start": 6.64,
+      "end": 7.94,
+      "text": "Cachorra"
+    },
+    {
+      "start": 7.94,
+      "end": 11.06,
+      "text": "A cachorra bonita aí, ó"
+    },
+    {
+      "start": 11.06,
+      "end": 12.8,
+      "text": "Eee, tira aí, Paulo"
+    },
+    {
+      "start": 12.8,
+      "end": 15.62,
+      "text": "Com calma, senão"
+    },
+    {
+      "start": 15.62,
+      "end": 16.4,
+      "text": "Com calma"
+    },
+    {
+      "start": 16.4,
+      "end": 19.4,
+      "text": "Sem pressa, sem pressa"
+    },
+    {
+      "start": 19.4,
+      "end": 23.82,
+      "text": "Que a cachorra"
+    },
+    {
+      "start": 23.82,
+      "end": 31.75,
+      "text": "Agora é"
+    },
+    {
+      "start": 31.75,
+      "end": 34.93,
+      "text": "Aê, cachorrona"
+    },
+    {
+      "start": 34.93,
+      "end": 36.61,
+      "text": "Que grande, ó"
+    },
+    {
+      "start": 36.61,
+      "end": 37.61,
+      "text": "Bonita"
+    },
+    {
+      "start": 37.61,
+      "end": 40.4,
+      "text": "Opa"
+    },
+    {
+      "start": 40.4,
+      "end": 42.62,
+      "text": "Não, mas agora vai"
+    },
+    {
+      "start": 42.62,
+      "end": 43.42,
+      "text": "Da próxima vez"
+    },
+    {
+      "start": 43.42,
+      "end": 46.19,
+      "text": "Ajuda aí, moço"
+    },
+    {
+      "start": 46.19,
+      "end": 52.2,
+      "text": "Aê"
+    },
+    {
+      "start": 52.2,
+      "end": 55.2,
+      "text": "Primeiro do dia"
+    },
+    {
+      "start": 55.2,
+      "end": 63.21,
+      "text": "Vou fazer uma foto aqui"
+    },
+    {
+      "start": 63.21,
+      "end": 64.83,
+      "text": "Você vai ver que fica filé"
+    }
+  ],
+  "duracao_seg": 296.01,
+  "idioma_detectado": "pt"
+}

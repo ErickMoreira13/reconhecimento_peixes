@@ -1,0 +1,22 @@
+{
+  "texto": "Parou de chover no sertão, céus, problemas acabaram. Olha onde esse cara pesca, na lama. E pega aí tipo uma enguia, na verdade.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "Parou de chover no sertão, céus, problemas acabaram."
+    },
+    {
+      "start": 4.0,
+      "end": 6.64,
+      "text": "Olha onde esse cara pesca, na lama."
+    },
+    {
+      "start": 7.46,
+      "end": 10.9,
+      "text": "E pega aí tipo uma enguia, na verdade."
+    }
+  ],
+  "duracao_seg": 11.13,
+  "idioma_detectado": "pt"
+}

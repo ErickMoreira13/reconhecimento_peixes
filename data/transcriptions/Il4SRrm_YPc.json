@@ -1,0 +1,17 @@
+{
+  "texto": "Quando a lua é nova, os peixes grandes gostam de se alimentar perto da superfície. É a melhor hora.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.22,
+      "text": "Quando a lua é nova, os peixes grandes gostam de se alimentar perto da superfície."
+    },
+    {
+      "start": 6.62,
+      "end": 7.44,
+      "text": "É a melhor hora."
+    }
+  ],
+  "duracao_seg": 8.71,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Olha aí pai, aqui tá bom. Foi os dois irmãos que pegaram aí e aqui foi eu.",
+  "segmentos": [
+    {
+      "start": 1.23,
+      "end": 4.82,
+      "text": "Olha aí pai, aqui tá bom."
+    },
+    {
+      "start": 8.01,
+      "end": 12.15,
+      "text": "Foi os dois irmãos que pegaram aí e aqui foi eu."
+    }
+  ],
+  "duracao_seg": 14.83,
+  "idioma_detectado": "pt"
+}

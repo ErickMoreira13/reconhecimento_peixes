@@ -1,0 +1,17 @@
+{
+  "texto": "Se não tem gente vai ter que comer uma coisa, tá bom? Ah, bunda!",
+  "segmentos": [
+    {
+      "start": 6.74,
+      "end": 8.74,
+      "text": "Se não tem gente vai ter que comer uma coisa, tá bom?"
+    },
+    {
+      "start": 8.74,
+      "end": 28.66,
+      "text": "Ah, bunda!"
+    }
+  ],
+  "duracao_seg": 97.93,
+  "idioma_detectado": "pt"
+}

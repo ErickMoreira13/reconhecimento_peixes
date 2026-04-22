@@ -1,0 +1,27 @@
+{
+  "texto": "Rio Tietê, em Sabino, São Paulo. Ele vem da capital, depois de ter se juntado com o Rio Piracicaba e um conjunto de outros rios, chega aqui em Sabino, onde está represado pela hidrelétrica de promissão. E ele segue em direção ao Rio Paraná, para o oeste, lá no horizonte.",
+  "segmentos": [
+    {
+      "start": 4.34,
+      "end": 8.38,
+      "text": "Rio Tietê, em Sabino, São Paulo."
+    },
+    {
+      "start": 9.32,
+      "end": 17.64,
+      "text": "Ele vem da capital, depois de ter se juntado com o Rio Piracicaba e um conjunto de outros rios,"
+    },
+    {
+      "start": 18.43,
+      "end": 26.19,
+      "text": "chega aqui em Sabino, onde está represado pela hidrelétrica de promissão."
+    },
+    {
+      "start": 30.4,
+      "end": 36.27,
+      "text": "E ele segue em direção ao Rio Paraná, para o oeste, lá no horizonte."
+    }
+  ],
+  "duracao_seg": 37.11,
+  "idioma_detectado": "pt"
+}

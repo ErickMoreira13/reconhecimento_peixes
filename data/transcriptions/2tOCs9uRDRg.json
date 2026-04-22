@@ -1,0 +1,132 @@
+{
+  "texto": "Primeiro, ó primeiro. Esse aqui vai pro frito, hein? Ó, suzão, ó. Rapaziada, aqui só tem piau, viu? Tamanho esse aqui. Pra vida. Outro piau, pessoal, ó. Soltar, só quero tucunaré pra levar pra casa. Olha, pessoal, tucunarézinho bonito, ó. Filhotinho tucunaré azul. Vai crescer, rapaz, vai. Isso é muito pequeno, ó. Vai mandar pra vida também. Muito pequeno. Outro piauzão, ó o tamanho. Tamanho do bruto. Rapaziada, ó. Manda esse aqui pra vida também. Pra vida. E, pessoal, o tamanho desse aqui, ó. A câmera tinha parado de gravar. Nem peguei. Afisgado. Isso é bonzão, viu? Amarelão bonito.",
+  "segmentos": [
+    {
+      "start": 63.18,
+      "end": 64.18,
+      "text": "Primeiro, ó primeiro."
+    },
+    {
+      "start": 68.33,
+      "end": 69.31,
+      "text": "Esse aqui vai pro frito, hein?"
+    },
+    {
+      "start": 204.24,
+      "end": 205.06,
+      "text": "Ó, suzão, ó."
+    },
+    {
+      "start": 323.06,
+      "end": 324.28,
+      "text": "Rapaziada, aqui só tem piau, viu?"
+    },
+    {
+      "start": 326.17,
+      "end": 326.89,
+      "text": "Tamanho esse aqui."
+    },
+    {
+      "start": 416.88,
+      "end": 417.28,
+      "text": "Pra vida."
+    },
+    {
+      "start": 518.1,
+      "end": 519.18,
+      "text": "Outro piau, pessoal, ó."
+    },
+    {
+      "start": 526.35,
+      "end": 528.31,
+      "text": "Soltar, só quero tucunaré pra levar pra casa."
+    },
+    {
+      "start": 895.66,
+      "end": 897.04,
+      "text": "Olha, pessoal, tucunarézinho bonito, ó."
+    },
+    {
+      "start": 903.12,
+      "end": 904.28,
+      "text": "Filhotinho tucunaré azul."
+    },
+    {
+      "start": 918.3,
+      "end": 919.22,
+      "text": "Vai crescer, rapaz, vai."
+    },
+    {
+      "start": 919.66,
+      "end": 953.87,
+      "text": "Isso é muito pequeno, ó."
+    },
+    {
+      "start": 953.87,
+      "end": 954.73,
+      "text": "Vai mandar pra vida também."
+    },
+    {
+      "start": 954.99,
+      "end": 955.55,
+      "text": "Muito pequeno."
+    },
+    {
+      "start": 965.53,
+      "end": 966.81,
+      "text": "Outro piauzão, ó o tamanho."
+    },
+    {
+      "start": 969.58,
+      "end": 970.42,
+      "text": "Tamanho do bruto."
+    },
+    {
+      "start": 995.93,
+      "end": 996.49,
+      "text": "Rapaziada, ó."
+    },
+    {
+      "start": 999.84,
+      "end": 1001.04,
+      "text": "Manda esse aqui pra vida também."
+    },
+    {
+      "start": 1002.51,
+      "end": 1002.89,
+      "text": "Pra vida."
+    },
+    {
+      "start": 1002.89,
+      "end": 1242.9,
+      "text": "E, pessoal, o tamanho desse aqui, ó."
+    },
+    {
+      "start": 1243.38,
+      "end": 1244.62,
+      "text": "A câmera tinha parado de gravar."
+    },
+    {
+      "start": 1244.84,
+      "end": 1245.4,
+      "text": "Nem peguei."
+    },
+    {
+      "start": 1246.36,
+      "end": 1246.84,
+      "text": "Afisgado."
+    },
+    {
+      "start": 1248.5,
+      "end": 1249.3,
+      "text": "Isso é bonzão, viu?"
+    },
+    {
+      "start": 1250.28,
+      "end": 1251.08,
+      "text": "Amarelão bonito."
+    }
+  ],
+  "duracao_seg": 1255.13,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Olha onde estamos! Gente, embarcamos em um cruzeiro no interior de São Paulo, pelo Rio Tietê, a bordo do navio Homero, um navio super moderno. Nós vamos mostrar toda essa experiência para vocês com direito à gastronomia, música boa e muita diversão.",
+  "segmentos": [
+    {
+      "start": 0.62,
+      "end": 2.74,
+      "text": "Olha onde estamos!"
+    },
+    {
+      "start": 4.49,
+      "end": 13.01,
+      "text": "Gente, embarcamos em um cruzeiro no interior de São Paulo, pelo Rio Tietê, a bordo do navio Homero, um navio super moderno."
+    },
+    {
+      "start": 13.01,
+      "end": 20.17,
+      "text": "Nós vamos mostrar toda essa experiência para vocês com direito à gastronomia, música boa e muita diversão."
+    }
+  ],
+  "duracao_seg": 26.41,
+  "idioma_detectado": "pt"
+}

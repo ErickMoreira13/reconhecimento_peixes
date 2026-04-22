@@ -1,0 +1,22 @@
+{
+  "texto": "Vocês que moram embaixo, fica ligeiro, tu tá entendendo não. Cês já viram? Aê, tá na boca da roça quem mora na Miracelva.",
+  "segmentos": [
+    {
+      "start": 8.91,
+      "end": 12.73,
+      "text": "Vocês que moram embaixo, fica ligeiro, tu tá entendendo não."
+    },
+    {
+      "start": 16.73,
+      "end": 17.51,
+      "text": "Cês já viram?"
+    },
+    {
+      "start": 18.8,
+      "end": 21.36,
+      "text": "Aê, tá na boca da roça quem mora na Miracelva."
+    }
+  ],
+  "duracao_seg": 30.05,
+  "idioma_detectado": "pt"
+}

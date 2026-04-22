@@ -1,0 +1,27 @@
+{
+  "texto": "Agora, 08,080. 08,080. Agora, 08,080. Agora, 08,080.",
+  "segmentos": [
+    {
+      "start": 0.78,
+      "end": 2.36,
+      "text": "Agora, 08,080."
+    },
+    {
+      "start": 2.36,
+      "end": 3.36,
+      "text": "08,080."
+    },
+    {
+      "start": 3.36,
+      "end": 3.7,
+      "text": "Agora, 08,080."
+    },
+    {
+      "start": 5.04,
+      "end": 6.1,
+      "text": "Agora, 08,080."
+    }
+  ],
+  "duracao_seg": 12.67,
+  "idioma_detectado": "pt"
+}

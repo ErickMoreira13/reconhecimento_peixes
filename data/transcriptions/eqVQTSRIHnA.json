@@ -1,0 +1,17 @@
+{
+  "texto": "Não, não, não, não, é pacu É pacu, é pacu",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 3.12,
+      "text": "Não, não, não, não, é pacu"
+    },
+    {
+      "start": 3.12,
+      "end": 5.5,
+      "text": "É pacu, é pacu"
+    }
+  ],
+  "duracao_seg": 5.89,
+  "idioma_detectado": "pt"
+}

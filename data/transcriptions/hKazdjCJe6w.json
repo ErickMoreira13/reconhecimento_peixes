@@ -1,0 +1,52 @@
+{
+  "texto": "Não falei pra vocês sobre a maré, mas nós estamos aí numa maré de quarto crescente. Hoje a maré começou aí com, acho que um 0,7, 0,6, 0,7, reponto de final de vazante, e vai até 1,4, próximo ao meio-dia. Então ela tem uma enchentinha boa, ela ainda não tá numa altura bem legal aí pro plugue. Ela tem que tá um pouco mais cheia, mais na calha do mangue, a gente chama ali, que é quando ela tá bem na linha, querendo invadir o mangue. Ali é o momento pra gente fazer essa pescaria. E 1,4 aqui nesse rio, ela vai invadir o mangue bem pouquinha coisa. Aqui 1,3 seria uma maré ideal, 1,2.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.42,
+      "text": "Não falei pra vocês sobre a maré, mas nós estamos aí numa maré de quarto crescente."
+    },
+    {
+      "start": 4.62,
+      "end": 9.96,
+      "text": "Hoje a maré começou aí com, acho que um 0,7, 0,6, 0,7, reponto de final de vazante,"
+    },
+    {
+      "start": 10.1,
+      "end": 12.68,
+      "text": "e vai até 1,4, próximo ao meio-dia."
+    },
+    {
+      "start": 12.9,
+      "end": 17.86,
+      "text": "Então ela tem uma enchentinha boa, ela ainda não tá numa altura bem legal aí pro plugue."
+    },
+    {
+      "start": 18.0,
+      "end": 20.9,
+      "text": "Ela tem que tá um pouco mais cheia, mais na calha do mangue, a gente chama ali,"
+    },
+    {
+      "start": 20.96,
+      "end": 23.7,
+      "text": "que é quando ela tá bem na linha, querendo invadir o mangue."
+    },
+    {
+      "start": 23.92,
+      "end": 27.26,
+      "text": "Ali é o momento pra gente fazer essa pescaria."
+    },
+    {
+      "start": 27.26,
+      "end": 32.28,
+      "text": "E 1,4 aqui nesse rio, ela vai invadir o mangue bem pouquinha coisa."
+    },
+    {
+      "start": 32.48,
+      "end": 34.96,
+      "text": "Aqui 1,3 seria uma maré ideal, 1,2."
+    }
+  ],
+  "duracao_seg": 35.19,
+  "idioma_detectado": "pt"
+}

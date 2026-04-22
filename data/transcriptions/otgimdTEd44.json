@@ -1,0 +1,282 @@
+{
+  "texto": "Soltou a linha aqui, vou dar uma olhada, estou chegando na pescaria hoje com uma maré bem baixa Lá vai subir só que não tem onda, o marzinho está morto, nos últimos dias do jeito que está e é complicado Não pega nada, nada, nada, nada, mas o doente por pescaria está aí, para roubar isso que está roubando Uma hora eu engato alguma coisa grande, daí já vale a pescaria, não precisa ser 10 peixes, um peixe bom, já vale a minha labuta Vamos buscar de bota, bora pescar A pescaria não vai durar muito tempo não, tomara que não venha toda aquela chuva Olha lá, está chovendo, para cá também Aqui tem peixe, correu bastante, vamos ver o que vem aqui Vem no cerco de isca, essa daqui está com minhoquinha Betara, não briga, brigou agora É, dona Betara, que bonita Essa não vai para isca não, essa vai para o frito E vai me dar trabalho também para tirar o anzol, ainda bem que eu tenho saca anzol Ó, bonita Betara Bora pescar Vamos lá, deu uma animada para pegar a Betara, estou jogando longe essa daqui Vamos ver se eu vou pegar outro Onde tem Betara tem roubá-lo Bora pescar pessoal, vamos ver aí se eu estou com camarão na outra, esse daqui é com minhoquinha Então, vamos ver a outra Aqui está com sardinha, não sei se não vou fazer um filé de Betara para colocar Tem peixe também Muito inseto essa hora, borrachudinho, meu deus Nossa, que manhã linda Não ficou não Mas limpou o anzol Vamos recolher para ver como está essa isca Sardinha é complicado Ela dissolve Deve estar sem isca Vou fazer o filé de Betara Olha, vai limpar o anzol já Vamos fazer isso Deixe fresquinho Limpou o anzol Se você não quer encrenca, não coloque isso Não faça isso, tá? Não faça esse tipo de isca Porque quando você pega, é que você pega peixe grande Um dia que está tão difícil, você faz isso Nossa, bater um peixe bom aqui bem na beirinha Joguei bem pertinho Vamos aproveitar a onda Olha, um pampão Olha que pampo bonito Faz tempo que eu não pego um pampo desse tamanho Olha, que belo pampo Bem na beirinha Na espuminha ali Bora pescar Quase o final da pescaria Esperar para ver se pega alguma coisa grande O pessoal está chegando lá atrás Eu sou obrigado a sair Mesmo no lagamã",
+  "segmentos": [
+    {
+      "start": 34.16,
+      "end": 50.84,
+      "text": "Soltou a linha aqui, vou dar uma olhada, estou chegando na pescaria hoje com uma maré bem baixa"
+    },
+    {
+      "start": 50.84,
+      "end": 67.62,
+      "text": "Lá vai subir só que não tem onda, o marzinho está morto, nos últimos dias do jeito que está e é complicado"
+    },
+    {
+      "start": 67.62,
+      "end": 78.9,
+      "text": "Não pega nada, nada, nada, nada, mas o doente por pescaria está aí, para roubar isso que está roubando"
+    },
+    {
+      "start": 78.9,
+      "end": 96.98,
+      "text": "Uma hora eu engato alguma coisa grande, daí já vale a pescaria, não precisa ser 10 peixes, um peixe bom, já vale a minha labuta"
+    },
+    {
+      "start": 96.98,
+      "end": 105.56,
+      "text": "Vamos buscar de bota, bora pescar"
+    },
+    {
+      "start": 105.56,
+      "end": 202.43,
+      "text": "A pescaria não vai durar muito tempo não, tomara que não venha toda aquela chuva"
+    },
+    {
+      "start": 202.43,
+      "end": 211.68,
+      "text": "Olha lá, está chovendo, para cá também"
+    },
+    {
+      "start": 211.68,
+      "end": 242.41,
+      "text": "Aqui tem peixe, correu bastante, vamos ver o que vem aqui"
+    },
+    {
+      "start": 242.41,
+      "end": 276.78,
+      "text": "Vem no cerco de isca, essa daqui está com minhoquinha"
+    },
+    {
+      "start": 276.78,
+      "end": 296.6,
+      "text": "Betara, não briga, brigou agora"
+    },
+    {
+      "start": 296.6,
+      "end": 308.02,
+      "text": "É, dona Betara, que bonita"
+    },
+    {
+      "start": 308.02,
+      "end": 311.96,
+      "text": "Essa não vai para isca não, essa vai para o frito"
+    },
+    {
+      "start": 311.96,
+      "end": 326.97,
+      "text": "E vai me dar trabalho também para tirar o anzol, ainda bem que eu tenho saca anzol"
+    },
+    {
+      "start": 326.97,
+      "end": 332.47,
+      "text": "Ó, bonita Betara"
+    },
+    {
+      "start": 332.47,
+      "end": 336.31,
+      "text": "Bora pescar"
+    },
+    {
+      "start": 336.31,
+      "end": 343.05,
+      "text": "Vamos lá, deu uma animada para pegar a Betara, estou jogando longe essa daqui"
+    },
+    {
+      "start": 343.05,
+      "end": 345.93,
+      "text": "Vamos ver se eu vou pegar outro"
+    },
+    {
+      "start": 345.93,
+      "end": 349.27,
+      "text": "Onde tem Betara tem roubá-lo"
+    },
+    {
+      "start": 349.27,
+      "end": 390.87,
+      "text": "Bora pescar pessoal, vamos ver aí se eu estou com camarão na outra, esse daqui é com minhoquinha"
+    },
+    {
+      "start": 390.87,
+      "end": 400.82,
+      "text": "Então, vamos ver a outra"
+    },
+    {
+      "start": 400.82,
+      "end": 408.41,
+      "text": "Aqui está com sardinha, não sei se não vou fazer um filé de Betara para colocar"
+    },
+    {
+      "start": 408.41,
+      "end": 413.58,
+      "text": "Tem peixe também"
+    },
+    {
+      "start": 413.58,
+      "end": 472.89,
+      "text": "Muito inseto essa hora, borrachudinho, meu deus"
+    },
+    {
+      "start": 472.89,
+      "end": 483.05,
+      "text": "Nossa, que manhã linda"
+    },
+    {
+      "start": 483.05,
+      "end": 498.66,
+      "text": "Não ficou não"
+    },
+    {
+      "start": 498.66,
+      "end": 512.88,
+      "text": "Mas limpou o anzol"
+    },
+    {
+      "start": 512.88,
+      "end": 517.17,
+      "text": "Vamos recolher para ver como está essa isca"
+    },
+    {
+      "start": 517.17,
+      "end": 522.18,
+      "text": "Sardinha é complicado"
+    },
+    {
+      "start": 522.18,
+      "end": 527.64,
+      "text": "Ela dissolve"
+    },
+    {
+      "start": 527.64,
+      "end": 530.23,
+      "text": "Deve estar sem isca"
+    },
+    {
+      "start": 530.23,
+      "end": 535.59,
+      "text": "Vou fazer o filé de Betara"
+    },
+    {
+      "start": 535.59,
+      "end": 539.6,
+      "text": "Olha, vai limpar o anzol já"
+    },
+    {
+      "start": 539.6,
+      "end": 540.46,
+      "text": "Vamos fazer isso"
+    },
+    {
+      "start": 540.46,
+      "end": 544.84,
+      "text": "Deixe fresquinho"
+    },
+    {
+      "start": 544.84,
+      "end": 554.84,
+      "text": "Limpou o anzol"
+    },
+    {
+      "start": 554.84,
+      "end": 571.48,
+      "text": "Se você não quer encrenca, não coloque isso"
+    },
+    {
+      "start": 571.48,
+      "end": 572.64,
+      "text": "Não faça isso, tá?"
+    },
+    {
+      "start": 574.08,
+      "end": 576.64,
+      "text": "Não faça esse tipo de isca"
+    },
+    {
+      "start": 576.64,
+      "end": 580.26,
+      "text": "Porque quando você pega, é que você pega peixe grande"
+    },
+    {
+      "start": 580.26,
+      "end": 585.9,
+      "text": "Um dia que está tão difícil, você faz isso"
+    },
+    {
+      "start": 585.9,
+      "end": 607.36,
+      "text": "Nossa, bater um peixe bom aqui bem na beirinha"
+    },
+    {
+      "start": 607.36,
+      "end": 614.38,
+      "text": "Joguei bem pertinho"
+    },
+    {
+      "start": 614.38,
+      "end": 615.5,
+      "text": "Vamos aproveitar a onda"
+    },
+    {
+      "start": 615.5,
+      "end": 621.63,
+      "text": "Olha, um pampão"
+    },
+    {
+      "start": 621.63,
+      "end": 624.1,
+      "text": "Olha que pampo bonito"
+    },
+    {
+      "start": 624.1,
+      "end": 630.03,
+      "text": "Faz tempo que eu não pego um pampo desse tamanho"
+    },
+    {
+      "start": 630.03,
+      "end": 654.61,
+      "text": "Olha, que belo pampo"
+    },
+    {
+      "start": 654.61,
+      "end": 656.61,
+      "text": "Bem na beirinha"
+    },
+    {
+      "start": 656.61,
+      "end": 657.59,
+      "text": "Na espuminha ali"
+    },
+    {
+      "start": 657.59,
+      "end": 661.94,
+      "text": "Bora pescar"
+    },
+    {
+      "start": 661.94,
+      "end": 665.54,
+      "text": "Quase o final da pescaria"
+    },
+    {
+      "start": 665.54,
+      "end": 670.38,
+      "text": "Esperar para ver se pega alguma coisa grande"
+    },
+    {
+      "start": 670.38,
+      "end": 678.04,
+      "text": "O pessoal está chegando lá atrás"
+    },
+    {
+      "start": 678.04,
+      "end": 680.61,
+      "text": "Eu sou obrigado a sair"
+    },
+    {
+      "start": 680.61,
+      "end": 684.04,
+      "text": "Mesmo no lagamã"
+    }
+  ],
+  "duracao_seg": 714.59,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Como que tá o nome? O Junior, o Junior pegou alguma coisa aqui, eu tô tirando corrupto É a Betara, né? É a Betara, traz ela, traz ela Esse é a Betarão, de respeito Então vai pro canal",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 6.28,
+      "text": "Como que tá o nome? O Junior, o Junior pegou alguma coisa aqui, eu tô tirando corrupto"
+    },
+    {
+      "start": 6.28,
+      "end": 24.23,
+      "text": "É a Betara, né? É a Betara, traz ela, traz ela"
+    },
+    {
+      "start": 24.23,
+      "end": 28.27,
+      "text": "Esse é a Betarão, de respeito"
+    },
+    {
+      "start": 28.27,
+      "end": 33.57,
+      "text": "Então vai pro canal"
+    }
+  ],
+  "duracao_seg": 34.99,
+  "idioma_detectado": "pt"
+}

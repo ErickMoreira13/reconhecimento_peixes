@@ -1,0 +1,117 @@
+{
+  "texto": "Mais uma vez, hein? Hoje é dia 23 de junho. Emborcação, hein, Fabrício? Dia 23, galera. Tamo aí. Piau grande demais. Olha lá. 23 de 2025, galera. Olha o tamanho do piau. Fabrício, pesca e campo em borcação. Tamo aí. Massinha, pai e filho. Isso aí, galera. Muito peixe, muito peixe. Bruto, bruto. Olha lá pra você ver. Claudão não lenca não, hein, Claudão? Piau gigante. O Claudão tá sendo o rei hoje. Olha, deixa eu ver, gente. Que tá aqui, ó. Massinha, pai e filho, rebentando. Não adianta, não. A massinha rebenta mesmo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "Mais uma vez, hein?"
+    },
+    {
+      "start": 1.62,
+      "end": 3.5,
+      "text": "Hoje é dia 23 de junho."
+    },
+    {
+      "start": 4.38,
+      "end": 5.66,
+      "text": "Emborcação, hein, Fabrício?"
+    },
+    {
+      "start": 6.9,
+      "end": 8.0,
+      "text": "Dia 23, galera."
+    },
+    {
+      "start": 8.9,
+      "end": 10.86,
+      "text": "Tamo aí. Piau grande demais."
+    },
+    {
+      "start": 10.98,
+      "end": 11.32,
+      "text": "Olha lá."
+    },
+    {
+      "start": 14.28,
+      "end": 15.88,
+      "text": "23 de 2025, galera."
+    },
+    {
+      "start": 16.02,
+      "end": 16.78,
+      "text": "Olha o tamanho do piau."
+    },
+    {
+      "start": 20.44,
+      "end": 22.94,
+      "text": "Fabrício, pesca e campo em borcação."
+    },
+    {
+      "start": 23.02,
+      "end": 25.18,
+      "text": "Tamo aí. Massinha, pai e filho."
+    },
+    {
+      "start": 27.83,
+      "end": 28.51,
+      "text": "Isso aí, galera."
+    },
+    {
+      "start": 29.63,
+      "end": 30.97,
+      "text": "Muito peixe, muito peixe."
+    },
+    {
+      "start": 31.09,
+      "end": 31.85,
+      "text": "Bruto, bruto."
+    },
+    {
+      "start": 32.76,
+      "end": 33.48,
+      "text": "Olha lá pra você ver."
+    },
+    {
+      "start": 34.2,
+      "end": 35.62,
+      "text": "Claudão não lenca não, hein, Claudão?"
+    },
+    {
+      "start": 36.18,
+      "end": 36.84,
+      "text": "Piau gigante."
+    },
+    {
+      "start": 37.62,
+      "end": 39.14,
+      "text": "O Claudão tá sendo o rei hoje."
+    },
+    {
+      "start": 39.16,
+      "end": 39.98,
+      "text": "Olha, deixa eu ver, gente."
+    },
+    {
+      "start": 40.2,
+      "end": 40.86,
+      "text": "Que tá aqui, ó."
+    },
+    {
+      "start": 41.44,
+      "end": 42.68,
+      "text": "Massinha, pai e filho, rebentando."
+    },
+    {
+      "start": 42.76,
+      "end": 43.3,
+      "text": "Não adianta, não."
+    },
+    {
+      "start": 43.34,
+      "end": 44.42,
+      "text": "A massinha rebenta mesmo."
+    }
+  ],
+  "duracao_seg": 46.57,
+  "idioma_detectado": "pt"
+}

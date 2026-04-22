@@ -1,0 +1,72 @@
+{
+  "texto": "Galera, como é que vocês estão? Tamo aqui, final de tarde Vamos pescar no Lagunerops Aí ó, marézinho pra vocês Chama Tá tentando, ó, tá puxando pro lado azulzinho já Tá querendo, querendo formar já Aí ó, vou assoltar Isso aí Vou assoltar ele Oh, vai pra casa Chama Show, show, show, bora",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 1.37,
+      "text": "Galera, como é que vocês estão?"
+    },
+    {
+      "start": 2.54,
+      "end": 3.86,
+      "text": "Tamo aqui, final de tarde"
+    },
+    {
+      "start": 3.86,
+      "end": 6.22,
+      "text": "Vamos pescar no Lagunerops"
+    },
+    {
+      "start": 6.22,
+      "end": 12.94,
+      "text": "Aí ó, marézinho pra vocês"
+    },
+    {
+      "start": 12.94,
+      "end": 14.97,
+      "text": "Chama"
+    },
+    {
+      "start": 14.97,
+      "end": 18.96,
+      "text": "Tá tentando, ó, tá puxando pro lado azulzinho já"
+    },
+    {
+      "start": 18.96,
+      "end": 21.5,
+      "text": "Tá querendo, querendo formar já"
+    },
+    {
+      "start": 21.5,
+      "end": 24.34,
+      "text": "Aí ó, vou assoltar"
+    },
+    {
+      "start": 24.34,
+      "end": 31.54,
+      "text": "Isso aí"
+    },
+    {
+      "start": 31.54,
+      "end": 34.72,
+      "text": "Vou assoltar ele"
+    },
+    {
+      "start": 34.72,
+      "end": 40.19,
+      "text": "Oh, vai pra casa"
+    },
+    {
+      "start": 40.19,
+      "end": 42.94,
+      "text": "Chama"
+    },
+    {
+      "start": 42.94,
+      "end": 45.3,
+      "text": "Show, show, show, bora"
+    }
+  ],
+  "duracao_seg": 46.93,
+  "idioma_detectado": "pt"
+}

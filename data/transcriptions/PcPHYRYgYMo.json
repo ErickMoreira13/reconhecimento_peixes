@@ -1,0 +1,137 @@
+{
+  "texto": "Bom dia, olha nós aqui outra vez, aqui foi onde a carpa escapou a última, vou ver se eu pego a loja de novo, vim aqui no mesmo lugar, e hoje tem novidade, vai ter duas câmeras em duas posições diferentes, tá bom? Vou montar as coisas aqui, já já, nós volta, valeu? Puxa, é o meu, puxa, é o meu! Já com da Uchi, bem-vinda aí. A Bahia tá cheia? Já, já tem que ter um sininho. Filapinha. Vocês vão levar as pequenininhas? Hã? Vocês vão levar as pequenininhas? Dá uma fritadinha, né? Tirar a barrigada e toma. Não tira a barrigada nada. Tira a barrigadinha? O cara tá bêbado, toma até pedra. Não, cara, eu não bebo não, obrigado. Vai, não? Tem que tomar um cafézinho? Tem que tomar um café, depois eu vou tomar sim. Beleza, pode ir ali. Pequenininha que eu for pegando, eu vou dando para vocês. Beleza. Eles lambaram. Pela cadeira aqui. Não, mais dois. Fica viajando. É praia lá.",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 29.26,
+      "text": "Bom dia, olha nós aqui outra vez, aqui foi onde a carpa escapou a última, vou ver se eu pego a loja de novo, vim aqui no mesmo lugar, e hoje tem novidade, vai ter duas câmeras em duas posições diferentes, tá bom? Vou montar as coisas aqui, já já, nós volta, valeu?"
+    },
+    {
+      "start": 29.26,
+      "end": 92.42,
+      "text": "Puxa, é o meu, puxa, é o meu!"
+    },
+    {
+      "start": 92.42,
+      "end": 103.0,
+      "text": "Já com da Uchi, bem-vinda aí."
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "text": "A Bahia tá cheia?"
+    },
+    {
+      "start": 104.0,
+      "end": 115.76,
+      "text": "Já, já tem que ter um sininho."
+    },
+    {
+      "start": 115.76,
+      "end": 151.32,
+      "text": "Filapinha."
+    },
+    {
+      "start": 151.32,
+      "end": 155.31,
+      "text": "Vocês vão levar as pequenininhas?"
+    },
+    {
+      "start": 155.31,
+      "end": 156.34,
+      "text": "Hã?"
+    },
+    {
+      "start": 156.34,
+      "end": 157.34,
+      "text": "Vocês vão levar as pequenininhas?"
+    },
+    {
+      "start": 157.34,
+      "end": 168.81,
+      "text": "Dá uma fritadinha, né?"
+    },
+    {
+      "start": 168.81,
+      "end": 171.2,
+      "text": "Tirar a barrigada e toma."
+    },
+    {
+      "start": 171.2,
+      "end": 172.42,
+      "text": "Não tira a barrigada nada."
+    },
+    {
+      "start": 172.42,
+      "end": 173.42,
+      "text": "Tira a barrigadinha?"
+    },
+    {
+      "start": 173.42,
+      "end": 178.5,
+      "text": "O cara tá bêbado, toma até pedra."
+    },
+    {
+      "start": 178.5,
+      "end": 179.5,
+      "text": "Não, cara, eu não bebo não, obrigado."
+    },
+    {
+      "start": 179.5,
+      "end": 180.6,
+      "text": "Vai, não?"
+    },
+    {
+      "start": 180.6,
+      "end": 181.6,
+      "text": "Tem que tomar um cafézinho?"
+    },
+    {
+      "start": 181.6,
+      "end": 183.6,
+      "text": "Tem que tomar um café, depois eu vou tomar sim."
+    },
+    {
+      "start": 183.6,
+      "end": 184.6,
+      "text": "Beleza, pode ir ali."
+    },
+    {
+      "start": 184.6,
+      "end": 187.79,
+      "text": "Pequenininha que eu for pegando, eu vou dando para vocês."
+    },
+    {
+      "start": 187.79,
+      "end": 188.79,
+      "text": "Beleza."
+    },
+    {
+      "start": 188.79,
+      "end": 204.41,
+      "text": "Eles lambaram."
+    },
+    {
+      "start": 204.41,
+      "end": 207.27,
+      "text": "Pela cadeira aqui."
+    },
+    {
+      "start": 207.27,
+      "end": 269.36,
+      "text": "Não, mais dois."
+    },
+    {
+      "start": 269.36,
+      "end": 279.51,
+      "text": "Fica viajando."
+    },
+    {
+      "start": 279.51,
+      "end": 309.67,
+      "text": "É praia lá."
+    }
+  ],
+  "duracao_seg": 430.45,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,72 @@
+{
+  "texto": "pessoal, olha só que interessante a bacia do rio Paraná, vamos fazer uma pescaria aqui de um peixe chamado palometa é tipo um lambarizão, só que em formato de pacu, um zolzinho pequenininho aqui geralmente dá boa pescando com minhoca eles, vamos ver como é que está a puxada hoje, olha lá, já puxou pegou olha, que briga, hein briga, olha o tamanho da bicha olha aí, parece um pacu CD você está doido, top demais",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 1.69,
+      "text": "pessoal, olha só que interessante"
+    },
+    {
+      "start": 1.69,
+      "end": 3.87,
+      "text": "a bacia do rio Paraná, vamos fazer uma pescaria"
+    },
+    {
+      "start": 3.87,
+      "end": 5.35,
+      "text": "aqui de um peixe chamado palometa"
+    },
+    {
+      "start": 5.35,
+      "end": 7.91,
+      "text": "é tipo um lambarizão, só que em formato"
+    },
+    {
+      "start": 7.91,
+      "end": 9.41,
+      "text": "de pacu, um zolzinho pequenininho"
+    },
+    {
+      "start": 9.41,
+      "end": 11.55,
+      "text": "aqui geralmente dá boa"
+    },
+    {
+      "start": 11.55,
+      "end": 13.81,
+      "text": "pescando com minhoca eles, vamos ver como é que está a puxada"
+    },
+    {
+      "start": 13.81,
+      "end": 16.91,
+      "text": "hoje, olha lá, já puxou"
+    },
+    {
+      "start": 16.91,
+      "end": 18.48,
+      "text": "pegou"
+    },
+    {
+      "start": 18.48,
+      "end": 20.66,
+      "text": "olha, que briga, hein"
+    },
+    {
+      "start": 20.66,
+      "end": 22.88,
+      "text": "briga, olha o tamanho da bicha"
+    },
+    {
+      "start": 22.88,
+      "end": 25.93,
+      "text": "olha aí, parece um pacu CD"
+    },
+    {
+      "start": 25.93,
+      "end": 28.58,
+      "text": "você está doido, top demais"
+    }
+  ],
+  "duracao_seg": 28.91,
+  "idioma_detectado": "pt"
+}

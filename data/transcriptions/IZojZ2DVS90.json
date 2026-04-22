@@ -1,0 +1,27 @@
+{
+  "texto": "Vamos aí galera, colocar um sapinho preto aqui, vamos ver se isso é alguma coisa, hein? Casinho, que essa daí corta! Falei pra você que era pequena, é pequena! Falei que ia pegar essa safada!",
+  "segmentos": [
+    {
+      "start": 2.45,
+      "end": 20.81,
+      "text": "Vamos aí galera, colocar um sapinho preto aqui, vamos ver se isso é alguma coisa, hein?"
+    },
+    {
+      "start": 20.81,
+      "end": 45.21,
+      "text": "Casinho, que essa daí corta!"
+    },
+    {
+      "start": 60.64,
+      "end": 62.64,
+      "text": "Falei pra você que era pequena, é pequena!"
+    },
+    {
+      "start": 62.64,
+      "end": 70.74,
+      "text": "Falei que ia pegar essa safada!"
+    }
+  ],
+  "duracao_seg": 70.85,
+  "idioma_detectado": "pt"
+}

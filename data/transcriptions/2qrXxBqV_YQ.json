@@ -1,0 +1,22 @@
+{
+  "texto": "aqui já é dentro do horóis tá desse jeito dentro do horóis",
+  "segmentos": [
+    {
+      "start": 9.78,
+      "end": 11.5,
+      "text": "aqui já é dentro do horóis"
+    },
+    {
+      "start": 11.5,
+      "end": 13.44,
+      "text": "tá desse jeito"
+    },
+    {
+      "start": 13.44,
+      "end": 15.97,
+      "text": "dentro do horóis"
+    }
+  ],
+  "duracao_seg": 50.37,
+  "idioma_detectado": "pt"
+}

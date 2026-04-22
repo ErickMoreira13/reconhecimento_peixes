@@ -1,0 +1,112 @@
+{
+  "texto": "O peixinho aí Guilherme, como é que tá aí? Uai, é aqui comendo um piauzinho, né? Esperando o piauzinho sair aqui pra nós comer um peixinho. Caraca, velho, o peixinho que nós pegamos aí agora, aí ó. Você viu o piauzinho aí, de boa, ó. Frito na hora aí, galera. Virar o piauzinho aqui, ó. Olha o tanto que é bom, ó. Olha o fogão, olha o fogão. Olha o fogãozinho aí, ó. É, hein? Mostra a paisagem aí, Guilherme. Mostra a paisagem aí, galera. Tá uma vida difícil. Tá complicado, viu? Nós quer ir embora, mas não tem jeito não, viu? Tem um piauzinho aqui hoje, mais tarde um arrozzinho com o pintadozinho que nós vamos pegar na noite aí, ó. Tudo na linha. Valeu, galera. É só matar o peixe mesmo aí, hein? Valeu.",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 2.38,
+      "text": "O peixinho aí Guilherme, como é que tá aí?"
+    },
+    {
+      "start": 2.64,
+      "end": 4.4,
+      "text": "Uai, é aqui comendo um piauzinho, né?"
+    },
+    {
+      "start": 4.52,
+      "end": 6.8,
+      "text": "Esperando o piauzinho sair aqui pra nós comer um peixinho."
+    },
+    {
+      "start": 6.94,
+      "end": 9.12,
+      "text": "Caraca, velho, o peixinho que nós pegamos aí agora, aí ó."
+    },
+    {
+      "start": 9.68,
+      "end": 11.58,
+      "text": "Você viu o piauzinho aí, de boa, ó."
+    },
+    {
+      "start": 12.1,
+      "end": 13.4,
+      "text": "Frito na hora aí, galera."
+    },
+    {
+      "start": 13.5,
+      "end": 14.86,
+      "text": "Virar o piauzinho aqui, ó."
+    },
+    {
+      "start": 15.14,
+      "end": 17.3,
+      "text": "Olha o tanto que é bom, ó."
+    },
+    {
+      "start": 17.68,
+      "end": 18.74,
+      "text": "Olha o fogão, olha o fogão."
+    },
+    {
+      "start": 19.14,
+      "end": 20.8,
+      "text": "Olha o fogãozinho aí, ó."
+    },
+    {
+      "start": 21.69,
+      "end": 22.11,
+      "text": "É, hein?"
+    },
+    {
+      "start": 22.87,
+      "end": 24.29,
+      "text": "Mostra a paisagem aí, Guilherme."
+    },
+    {
+      "start": 24.35,
+      "end": 25.43,
+      "text": "Mostra a paisagem aí, galera."
+    },
+    {
+      "start": 26.28,
+      "end": 27.46,
+      "text": "Tá uma vida difícil."
+    },
+    {
+      "start": 28.5,
+      "end": 29.48,
+      "text": "Tá complicado, viu?"
+    },
+    {
+      "start": 29.48,
+      "end": 32.3,
+      "text": "Nós quer ir embora, mas não tem jeito não, viu?"
+    },
+    {
+      "start": 32.3,
+      "end": 37.84,
+      "text": "Tem um piauzinho aqui hoje, mais tarde um arrozzinho com o pintadozinho que nós vamos pegar na noite aí, ó."
+    },
+    {
+      "start": 37.94,
+      "end": 38.78,
+      "text": "Tudo na linha."
+    },
+    {
+      "start": 39.26,
+      "end": 39.78,
+      "text": "Valeu, galera."
+    },
+    {
+      "start": 39.88,
+      "end": 41.4,
+      "text": "É só matar o peixe mesmo aí, hein?"
+    },
+    {
+      "start": 42.4,
+      "end": 42.8,
+      "text": "Valeu."
+    }
+  ],
+  "duracao_seg": 44.99,
+  "idioma_detectado": "pt"
+}

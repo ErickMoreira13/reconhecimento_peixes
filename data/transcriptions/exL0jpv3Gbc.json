@@ -1,0 +1,37 @@
+{
+  "texto": "Olha o tamanho do bichinho. Hoje estou com o Fábio pescando aqui nas pedras para brincar. Tem muita gente na praia. Olha lá. Então a gente veio aqui nas pedras para brincar um pouco. Vamos soltar lá.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 2.21,
+      "text": "Olha o tamanho do bichinho."
+    },
+    {
+      "start": 3.47,
+      "end": 6.91,
+      "text": "Hoje estou com o Fábio pescando aqui nas pedras para brincar."
+    },
+    {
+      "start": 8.08,
+      "end": 9.16,
+      "text": "Tem muita gente na praia."
+    },
+    {
+      "start": 9.9,
+      "end": 10.16,
+      "text": "Olha lá."
+    },
+    {
+      "start": 11.98,
+      "end": 14.0,
+      "text": "Então a gente veio aqui nas pedras para brincar um pouco."
+    },
+    {
+      "start": 16.7,
+      "end": 17.38,
+      "text": "Vamos soltar lá."
+    }
+  ],
+  "duracao_seg": 20.47,
+  "idioma_detectado": "pt"
+}

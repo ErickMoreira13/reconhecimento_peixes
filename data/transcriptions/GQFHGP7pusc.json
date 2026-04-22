@@ -1,0 +1,17 @@
+{
+  "texto": "Vou caminhar por uma estrada que eu ainda desvendar e conhecer você Eu pago qualquer preço, eu já andei por tantos becos",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 11.78,
+      "text": "Vou caminhar por uma estrada que eu ainda desvendar e conhecer você"
+    },
+    {
+      "start": 11.78,
+      "end": 20.32,
+      "text": "Eu pago qualquer preço, eu já andei por tantos becos"
+    }
+  ],
+  "duracao_seg": 21.43,
+  "idioma_detectado": "pt"
+}

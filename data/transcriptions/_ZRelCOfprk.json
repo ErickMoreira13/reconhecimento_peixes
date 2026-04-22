@@ -1,0 +1,27 @@
+{
+  "texto": "Nossa senhora galera, batida bonita, nossa senhora, o bicho tá brabo galera, o bicho tá brabo, olha lá pra vocês verem, nossa senhora, fazer a soltura do bichão aqui ó, nossa senhora galera, que isso, meu deus, nossa, que ataque bonito, meu deus, nossa senhora galera, tá pego, pegou galera, ô trem bonito, nossa senhora, olha galera, nossa senhora, nossa, olha que coisa bonita galera, ela aí ó, foi embora galera, se não consegue capturar, vou por aqui, olha galera, olha, olha galera, peguei, tapeia galera, nossa senhora, olha galera, tá puxando, isso é bonito, é bonito galera, olha, olha galera, nossa senhora galera, olha galera, nossa, escapuliu, Tchau, tchau.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 97.85,
+      "text": "Nossa senhora galera, batida bonita, nossa senhora, o bicho tá brabo galera, o bicho tá brabo, olha lá pra vocês verem, nossa senhora, fazer a soltura do bichão aqui ó, nossa senhora galera, que isso, meu deus, nossa, que ataque bonito, meu deus,"
+    },
+    {
+      "start": 97.85,
+      "end": 124.11,
+      "text": "nossa senhora galera, tá pego, pegou galera, ô trem bonito, nossa senhora, olha galera, nossa senhora, nossa, olha que coisa bonita galera,"
+    },
+    {
+      "start": 124.11,
+      "end": 196.7,
+      "text": "ela aí ó, foi embora galera, se não consegue capturar, vou por aqui, olha galera, olha, olha galera, peguei, tapeia galera, nossa senhora, olha galera, tá puxando, isso é bonito, é bonito galera, olha, olha galera, nossa senhora galera, olha galera, nossa, escapuliu,"
+    },
+    {
+      "start": 196.7,
+      "end": 226.68,
+      "text": "Tchau, tchau."
+    }
+  ],
+  "duracao_seg": 286.21,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,672 @@
+{
+  "texto": "o peixe seus cabocos, quase uma com a barriga cheia, eu comi um trem o menino, um peixinho desse assado é bom demais aqui sim é um rango Fala seus cabocos, como é que vocês estão rapaz, bom? é só dar início aqui de mais uma aventura, passei uns dias aí parado mas eu sei que vocês não querem desculpas, vocês querem solução né, claro já estou aqui no rio, já estou com o astralho aqui no barco macaco, peraí aqui seus cabocos você está vendo que estava comendo uns caros de buri tirando olha aí, de Nagorinha olha a buri tirando todinha estão bem vincular que é mata, está longe a buri tirando é que é dali, aqui se comam e é isso aí seus cabocos o rio não baixou nada, só aumentando, cada vez mais aumentando mas é assim mesmo, vamos lá peixe seus cabocos pescador de macaco olha o peixe seus cabocos humedeirazinha de isca olha aí, dá um fritozinho olha seus cabocos é seus cabocos, o cacarene é suvante e eu não tenho meu barraco ainda olha aqui uma leinha a chuva nevei, só ver cortou o pão macular eu vou cuidar do meu barraco porque já está vindo 5 horas da tarde vamos ver o que vai sair na pescaria por enquanto só essa piranha ali ó pequena peixe seus cabocos faz uma piranha seus cabocos não tem jeito não, acabei de chegar aqui acabei de ligar o motor e mesmo assim quando está bom de peixe não tem essa de barulho não pode ser qualquer tipo de barulho olha aí seus cabocos essa daqui é maior do que aquela lá e a bicha está com a barriga cheia eu comei um trem é quase 6 horas já saiu mais essa rapaz, contemplar isso aqui é bom demais o sol já acabou de entrar lá está entrando já que natureza perfeita é o Rio Preto lindo, lindo, lindo demais trata essas bichas não são pequenininha não dá até um frito aventura passada a tábua começou a queimar botei para enxugar o arroz começou a queimar a minha cozinha aqui que hoje não teve geral como eu falei não deu para fazer não fazer um vinagrete completar um peixinho desse assado demais aí olha o arroz agora esse cabocó quer ver que o arroz saia assim um pouco diferente gostoso é fazer isso aqui ó no alho e na cebola depois que que você refogar a cebola e o alho você bota ele e passa direto aqui ó aí ele fica gostoso porque ele pega no caroço do arroz o gosto da cebola e do alho aqui só hoje foi quente um vinagretezinho completar o negócio aqui sim é um rango rapaz hoje eu não almocei uma pegada terrível hoje aquela história pescador pesca mais e come menos e hoje foi meu caso vamos deixar o anzol aqui armado cebola até agora nada só deu só uma puxadinha mas de conferir a isso que eu vou deixar ele aí para ver o que que dá esse cebola deitado aqui agora graças a deus hoje foi puxado meu amigo estava com fome não tinha almoçado hoje graças a deus hoje saiu um peixinho aí não está fácil com essa cheia do rio estava lembrando aqui naquela hora que eu cheguei se aquele peixe que deu aquela puxada se tivesse pegado se tivesse ferrado era um peixe grande porque era pesado mas é assim mesmo saiu esses peixinhos pequenos é o que importa que saiu o peixe e amanhã até mais boa noite seus caboclo bom dia bom dia seus caboclo o dia já está amanhecendo estendei esse fogo seus caboclo estendei fazer um cafezinho passar esse arroz aqui na cebola é seus caboclo chegando o final aqui de mais uma aventura graças a deus se você gostou deixa o joinha que é de graça para fortalecer o canal quero agradecer a cada um de vocês que assistiram até aqui sobre a pescaria está começando a melhorar por aqui não choveu mais a gente já está em clima de verão mas é só isso mesmo seus caboclo vou arrumar minha estralha para não pegar descendo até mais seus caboclo até a próxima",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.51,
+      "text": "o peixe seus cabocos, quase uma com a barriga cheia, eu comi um trem"
+    },
+    {
+      "start": 10.51,
+      "end": 16.86,
+      "text": "o menino, um peixinho desse assado é bom demais"
+    },
+    {
+      "start": 16.86,
+      "end": 20.46,
+      "text": "aqui sim é um rango"
+    },
+    {
+      "start": 20.46,
+      "end": 37.02,
+      "text": "Fala seus cabocos, como é que vocês estão rapaz, bom?"
+    },
+    {
+      "start": 37.02,
+      "end": 40.4,
+      "text": "é só dar início aqui de mais uma aventura, passei uns dias aí parado"
+    },
+    {
+      "start": 40.4,
+      "end": 43.52,
+      "text": "mas eu sei que vocês não querem desculpas, vocês querem solução né, claro"
+    },
+    {
+      "start": 43.52,
+      "end": 46.02,
+      "text": "já estou aqui no rio, já estou com o astralho aqui no barco"
+    },
+    {
+      "start": 46.02,
+      "end": 49.97,
+      "text": "macaco, peraí aqui seus cabocos"
+    },
+    {
+      "start": 49.97,
+      "end": 54.34,
+      "text": "você está vendo que estava comendo uns caros de buri tirando"
+    },
+    {
+      "start": 54.34,
+      "end": 58.23,
+      "text": "olha aí, de Nagorinha"
+    },
+    {
+      "start": 58.23,
+      "end": 61.13,
+      "text": "olha a buri tirando todinha"
+    },
+    {
+      "start": 61.13,
+      "end": 63.86,
+      "text": "estão bem vincular"
+    },
+    {
+      "start": 63.86,
+      "end": 65.86,
+      "text": "que é mata, está longe"
+    },
+    {
+      "start": 65.86,
+      "end": 67.86,
+      "text": "a buri tirando é que é dali, aqui se comam"
+    },
+    {
+      "start": 67.86,
+      "end": 72.2,
+      "text": "e é isso aí seus cabocos"
+    },
+    {
+      "start": 72.2,
+      "end": 75.2,
+      "text": "o rio não baixou nada, só aumentando, cada vez mais aumentando"
+    },
+    {
+      "start": 75.2,
+      "end": 77.49,
+      "text": "mas é assim mesmo, vamos lá"
+    },
+    {
+      "start": 77.49,
+      "end": 264.42,
+      "text": "peixe seus cabocos"
+    },
+    {
+      "start": 264.42,
+      "end": 314.81,
+      "text": "pescador de macaco"
+    },
+    {
+      "start": 314.81,
+      "end": 372.21,
+      "text": "olha o peixe seus cabocos"
+    },
+    {
+      "start": 372.21,
+      "end": 375.71,
+      "text": "humedeirazinha de isca"
+    },
+    {
+      "start": 375.71,
+      "end": 382.1,
+      "text": "olha aí, dá um fritozinho"
+    },
+    {
+      "start": 382.1,
+      "end": 411.94,
+      "text": "olha seus cabocos"
+    },
+    {
+      "start": 411.94,
+      "end": 414.93,
+      "text": "é seus cabocos, o cacarene é suvante"
+    },
+    {
+      "start": 414.93,
+      "end": 420.51,
+      "text": "e eu não tenho meu barraco ainda"
+    },
+    {
+      "start": 420.51,
+      "end": 466.99,
+      "text": "olha aqui uma leinha"
+    },
+    {
+      "start": 466.99,
+      "end": 469.79,
+      "text": "a chuva nevei, só ver"
+    },
+    {
+      "start": 469.79,
+      "end": 472.14,
+      "text": "cortou o pão macular"
+    },
+    {
+      "start": 472.14,
+      "end": 474.14,
+      "text": "eu vou cuidar do meu barraco"
+    },
+    {
+      "start": 474.14,
+      "end": 614.93,
+      "text": "porque já está vindo 5 horas da tarde"
+    },
+    {
+      "start": 614.93,
+      "end": 616.93,
+      "text": "vamos ver o que vai sair na pescaria"
+    },
+    {
+      "start": 616.93,
+      "end": 618.93,
+      "text": "por enquanto só essa piranha ali ó"
+    },
+    {
+      "start": 618.93,
+      "end": 662.08,
+      "text": "pequena"
+    },
+    {
+      "start": 662.08,
+      "end": 668.91,
+      "text": "peixe seus cabocos"
+    },
+    {
+      "start": 668.91,
+      "end": 676.86,
+      "text": "faz uma piranha seus cabocos"
+    },
+    {
+      "start": 676.86,
+      "end": 678.86,
+      "text": "não tem jeito não, acabei de chegar aqui"
+    },
+    {
+      "start": 678.86,
+      "end": 679.86,
+      "text": "acabei de ligar o motor"
+    },
+    {
+      "start": 679.86,
+      "end": 681.41,
+      "text": "e mesmo assim"
+    },
+    {
+      "start": 681.41,
+      "end": 684.98,
+      "text": "quando está bom de peixe"
+    },
+    {
+      "start": 684.98,
+      "end": 687.74,
+      "text": "não tem essa de barulho não"
+    },
+    {
+      "start": 687.74,
+      "end": 689.74,
+      "text": "pode ser qualquer tipo de barulho"
+    },
+    {
+      "start": 689.74,
+      "end": 696.64,
+      "text": "olha aí seus cabocos"
+    },
+    {
+      "start": 696.64,
+      "end": 698.64,
+      "text": "essa daqui é maior do que aquela lá"
+    },
+    {
+      "start": 698.64,
+      "end": 701.34,
+      "text": "e a bicha está com a barriga cheia"
+    },
+    {
+      "start": 701.34,
+      "end": 703.34,
+      "text": "eu comei um trem"
+    },
+    {
+      "start": 703.34,
+      "end": 704.5,
+      "text": "é quase 6 horas já"
+    },
+    {
+      "start": 704.5,
+      "end": 746.43,
+      "text": "saiu mais essa"
+    },
+    {
+      "start": 746.43,
+      "end": 748.43,
+      "text": "rapaz, contemplar isso aqui é bom demais"
+    },
+    {
+      "start": 748.43,
+      "end": 750.43,
+      "text": "o sol já acabou de entrar lá"
+    },
+    {
+      "start": 750.43,
+      "end": 753.68,
+      "text": "está entrando já"
+    },
+    {
+      "start": 753.68,
+      "end": 755.68,
+      "text": "que natureza perfeita"
+    },
+    {
+      "start": 755.68,
+      "end": 758.7,
+      "text": "é o Rio Preto"
+    },
+    {
+      "start": 758.7,
+      "end": 767.36,
+      "text": "lindo, lindo, lindo demais"
+    },
+    {
+      "start": 767.36,
+      "end": 865.58,
+      "text": "trata essas bichas"
+    },
+    {
+      "start": 865.58,
+      "end": 867.58,
+      "text": "não são pequenininha não"
+    },
+    {
+      "start": 867.58,
+      "end": 870.19,
+      "text": "dá até um frito"
+    },
+    {
+      "start": 870.19,
+      "end": 872.19,
+      "text": "aventura passada"
+    },
+    {
+      "start": 872.19,
+      "end": 874.19,
+      "text": "a tábua começou a queimar"
+    },
+    {
+      "start": 874.19,
+      "end": 934.53,
+      "text": "botei para enxugar o arroz"
+    },
+    {
+      "start": 934.53,
+      "end": 936.53,
+      "text": "começou a queimar"
+    },
+    {
+      "start": 936.53,
+      "end": 938.88,
+      "text": "a minha cozinha aqui que hoje"
+    },
+    {
+      "start": 938.88,
+      "end": 941.33,
+      "text": "não teve geral"
+    },
+    {
+      "start": 941.33,
+      "end": 949.5,
+      "text": "como eu falei"
+    },
+    {
+      "start": 949.5,
+      "end": 954.54,
+      "text": "não deu para fazer não"
+    },
+    {
+      "start": 954.54,
+      "end": 1007.07,
+      "text": "fazer um vinagrete"
+    },
+    {
+      "start": 1007.07,
+      "end": 1037.1,
+      "text": "completar"
+    },
+    {
+      "start": 1037.1,
+      "end": 1040.1,
+      "text": "um peixinho desse assado"
+    },
+    {
+      "start": 1040.1,
+      "end": 1055.06,
+      "text": "demais"
+    },
+    {
+      "start": 1055.06,
+      "end": 1064.42,
+      "text": "aí"
+    },
+    {
+      "start": 1064.42,
+      "end": 1095.47,
+      "text": "olha o arroz agora"
+    },
+    {
+      "start": 1095.47,
+      "end": 1097.47,
+      "text": "esse cabocó"
+    },
+    {
+      "start": 1097.47,
+      "end": 1099.47,
+      "text": "quer ver que o arroz saia assim um pouco diferente"
+    },
+    {
+      "start": 1099.47,
+      "end": 1101.73,
+      "text": "gostoso"
+    },
+    {
+      "start": 1101.73,
+      "end": 1102.73,
+      "text": "é fazer isso aqui ó"
+    },
+    {
+      "start": 1102.73,
+      "end": 1103.73,
+      "text": "no alho e na cebola"
+    },
+    {
+      "start": 1103.73,
+      "end": 1106.53,
+      "text": "depois que"
+    },
+    {
+      "start": 1106.53,
+      "end": 1108.53,
+      "text": "que você refogar"
+    },
+    {
+      "start": 1108.53,
+      "end": 1110.53,
+      "text": "a cebola e o alho"
+    },
+    {
+      "start": 1110.53,
+      "end": 1112.94,
+      "text": "você bota ele e passa direto aqui ó"
+    },
+    {
+      "start": 1112.94,
+      "end": 1114.94,
+      "text": "aí ele fica gostoso"
+    },
+    {
+      "start": 1114.94,
+      "end": 1117.62,
+      "text": "porque ele pega no caroço do arroz"
+    },
+    {
+      "start": 1117.62,
+      "end": 1139.87,
+      "text": "o gosto da cebola e do alho"
+    },
+    {
+      "start": 1139.87,
+      "end": 1141.87,
+      "text": "aqui"
+    },
+    {
+      "start": 1141.87,
+      "end": 1159.17,
+      "text": "só hoje foi quente"
+    },
+    {
+      "start": 1159.17,
+      "end": 1163.28,
+      "text": "um vinagretezinho"
+    },
+    {
+      "start": 1163.28,
+      "end": 1227.55,
+      "text": "completar o negócio"
+    },
+    {
+      "start": 1227.55,
+      "end": 1234.99,
+      "text": "aqui sim é um rango"
+    },
+    {
+      "start": 1234.99,
+      "end": 1236.99,
+      "text": "rapaz hoje eu não almocei"
+    },
+    {
+      "start": 1236.99,
+      "end": 1242.74,
+      "text": "uma pegada terrível hoje"
+    },
+    {
+      "start": 1242.74,
+      "end": 1244.74,
+      "text": "aquela história pescador"
+    },
+    {
+      "start": 1244.74,
+      "end": 1246.74,
+      "text": "pesca mais e come menos"
+    },
+    {
+      "start": 1246.74,
+      "end": 1284.96,
+      "text": "e hoje foi meu caso"
+    },
+    {
+      "start": 1284.96,
+      "end": 1333.23,
+      "text": "vamos deixar o anzol aqui"
+    },
+    {
+      "start": 1333.23,
+      "end": 1335.23,
+      "text": "armado cebola"
+    },
+    {
+      "start": 1335.23,
+      "end": 1338.29,
+      "text": "até agora nada"
+    },
+    {
+      "start": 1338.29,
+      "end": 1340.29,
+      "text": "só deu só uma puxadinha mas"
+    },
+    {
+      "start": 1340.29,
+      "end": 1343.38,
+      "text": "de conferir a isso que eu vou deixar ele aí"
+    },
+    {
+      "start": 1343.38,
+      "end": 1355.23,
+      "text": "para ver o que que dá"
+    },
+    {
+      "start": 1355.23,
+      "end": 1356.23,
+      "text": "esse cebola"
+    },
+    {
+      "start": 1356.23,
+      "end": 1357.23,
+      "text": "deitado aqui agora"
+    },
+    {
+      "start": 1357.23,
+      "end": 1359.26,
+      "text": "graças a deus"
+    },
+    {
+      "start": 1359.26,
+      "end": 1361.26,
+      "text": "hoje foi puxado meu amigo"
+    },
+    {
+      "start": 1361.26,
+      "end": 1362.26,
+      "text": "estava com fome"
+    },
+    {
+      "start": 1362.26,
+      "end": 1363.26,
+      "text": "não tinha almoçado hoje"
+    },
+    {
+      "start": 1363.26,
+      "end": 1365.26,
+      "text": "graças a deus hoje saiu um peixinho aí"
+    },
+    {
+      "start": 1365.26,
+      "end": 1367.26,
+      "text": "não está fácil com essa cheia do rio"
+    },
+    {
+      "start": 1367.26,
+      "end": 1369.26,
+      "text": "estava lembrando aqui naquela hora que eu cheguei"
+    },
+    {
+      "start": 1369.26,
+      "end": 1371.26,
+      "text": "se aquele peixe"
+    },
+    {
+      "start": 1371.26,
+      "end": 1373.46,
+      "text": "que deu aquela puxada"
+    },
+    {
+      "start": 1373.46,
+      "end": 1375.46,
+      "text": "se tivesse pegado"
+    },
+    {
+      "start": 1375.46,
+      "end": 1378.26,
+      "text": "se tivesse ferrado"
+    },
+    {
+      "start": 1378.26,
+      "end": 1380.26,
+      "text": "era um peixe grande porque era pesado"
+    },
+    {
+      "start": 1380.26,
+      "end": 1382.26,
+      "text": "mas é assim mesmo saiu esses peixinhos pequenos"
+    },
+    {
+      "start": 1382.26,
+      "end": 1384.54,
+      "text": "é o que importa"
+    },
+    {
+      "start": 1384.54,
+      "end": 1386.54,
+      "text": "que saiu o peixe"
+    },
+    {
+      "start": 1386.54,
+      "end": 1388.54,
+      "text": "e amanhã até mais"
+    },
+    {
+      "start": 1388.54,
+      "end": 1394.93,
+      "text": "boa noite seus caboclo"
+    },
+    {
+      "start": 1394.93,
+      "end": 1398.24,
+      "text": "bom dia bom dia seus caboclo"
+    },
+    {
+      "start": 1398.24,
+      "end": 1467.92,
+      "text": "o dia já está amanhecendo"
+    },
+    {
+      "start": 1467.92,
+      "end": 1470.78,
+      "text": "estendei esse fogo seus caboclo"
+    },
+    {
+      "start": 1470.78,
+      "end": 1472.78,
+      "text": "estendei fazer um cafezinho"
+    },
+    {
+      "start": 1472.78,
+      "end": 1608.82,
+      "text": "passar esse arroz aqui na cebola"
+    },
+    {
+      "start": 1608.82,
+      "end": 1610.82,
+      "text": "é seus caboclo chegando o final aqui de mais uma aventura"
+    },
+    {
+      "start": 1610.82,
+      "end": 1612.82,
+      "text": "graças a deus se você gostou deixa o joinha"
+    },
+    {
+      "start": 1612.82,
+      "end": 1614.82,
+      "text": "que é de graça para fortalecer o canal"
+    },
+    {
+      "start": 1614.82,
+      "end": 1616.82,
+      "text": "quero agradecer a cada um de vocês que assistiram até aqui"
+    },
+    {
+      "start": 1616.82,
+      "end": 1618.82,
+      "text": "sobre a pescaria"
+    },
+    {
+      "start": 1618.82,
+      "end": 1620.82,
+      "text": "está começando a melhorar"
+    },
+    {
+      "start": 1620.82,
+      "end": 1622.82,
+      "text": "por aqui não choveu mais"
+    },
+    {
+      "start": 1622.82,
+      "end": 1624.82,
+      "text": "a gente já está em clima de verão"
+    },
+    {
+      "start": 1624.82,
+      "end": 1626.82,
+      "text": "mas é só isso mesmo seus caboclo"
+    },
+    {
+      "start": 1626.82,
+      "end": 1628.82,
+      "text": "vou arrumar minha estralha para não pegar descendo"
+    },
+    {
+      "start": 1628.82,
+      "end": 1630.82,
+      "text": "até mais seus caboclo até a próxima"
+    }
+  ],
+  "duracao_seg": 1658.75,
+  "idioma_detectado": "pt"
+}

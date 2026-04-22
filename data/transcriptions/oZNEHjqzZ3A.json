@@ -1,0 +1,27 @@
+{
+  "texto": "Olha aí, a barra de Martim. A barra de Martim foi embora. A parte de terra foi embora. Ficou só perto de cal.",
+  "segmentos": [
+    {
+      "start": 0.94,
+      "end": 2.42,
+      "text": "Olha aí, a barra de Martim."
+    },
+    {
+      "start": 3.21,
+      "end": 4.53,
+      "text": "A barra de Martim foi embora."
+    },
+    {
+      "start": 5.98,
+      "end": 9.79,
+      "text": "A parte de terra foi embora."
+    },
+    {
+      "start": 10.94,
+      "end": 11.7,
+      "text": "Ficou só perto de cal."
+    }
+  ],
+  "duracao_seg": 13.13,
+  "idioma_detectado": "pt"
+}

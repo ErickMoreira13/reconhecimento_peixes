@@ -1,0 +1,47 @@
+{
+  "texto": "Você sabia que aqui em Lajeado, Tocantins, nós temos vários pontos turísticos? Aqui é o Balneário Ilha Verde. Sou o professor Carlos Ribeiro. Para você ter informações sobre o nosso Tocantins, canal Estudantes Ação, clique na nossa aula campo Turistando em Lajeado, bloco Ilha Verde. Os nossos estudantes têm essas informações e outras importantes para vocês. Beleza? Grande abraço. Tamo junto e vamos para cima.",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 6.42,
+      "text": "Você sabia que aqui em Lajeado, Tocantins, nós temos vários pontos turísticos?"
+    },
+    {
+      "start": 7.38,
+      "end": 9.12,
+      "text": "Aqui é o Balneário Ilha Verde."
+    },
+    {
+      "start": 9.95,
+      "end": 11.51,
+      "text": "Sou o professor Carlos Ribeiro."
+    },
+    {
+      "start": 12.23,
+      "end": 16.71,
+      "text": "Para você ter informações sobre o nosso Tocantins, canal Estudantes Ação,"
+    },
+    {
+      "start": 17.53,
+      "end": 22.71,
+      "text": "clique na nossa aula campo Turistando em Lajeado, bloco Ilha Verde."
+    },
+    {
+      "start": 23.21,
+      "end": 27.67,
+      "text": "Os nossos estudantes têm essas informações e outras importantes para vocês."
+    },
+    {
+      "start": 28.17,
+      "end": 30.13,
+      "text": "Beleza? Grande abraço."
+    },
+    {
+      "start": 30.13,
+      "end": 32.31,
+      "text": "Tamo junto e vamos para cima."
+    }
+  ],
+  "duracao_seg": 37.57,
+  "idioma_detectado": "pt"
+}

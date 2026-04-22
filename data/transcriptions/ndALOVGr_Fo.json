@@ -1,0 +1,62 @@
+{
+  "texto": "Mas, apesar disso, ela não perde sua importância. A cidade de Oroz aqui, ela é muito conhecida com questão de peixe, né? De pesca, ó. Tem até gente indo ali pescar, mostrar pra vocês. Galera, pesca aqui mesmo. Entra no barco aí. Lá se vai um... Pegando uma... Olha aí, coisa linda, cara. Essas águas aqui, são as águas do rio Jaguaribe. Foram represadas, né? E construiu aqui o açude do Oroz.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "Mas, apesar disso, ela não perde sua importância."
+    },
+    {
+      "start": 3.44,
+      "end": 6.7,
+      "text": "A cidade de Oroz aqui, ela é muito conhecida com questão de peixe, né?"
+    },
+    {
+      "start": 6.7,
+      "end": 7.32,
+      "text": "De pesca, ó."
+    },
+    {
+      "start": 7.32,
+      "end": 9.26,
+      "text": "Tem até gente indo ali pescar, mostrar pra vocês."
+    },
+    {
+      "start": 9.46,
+      "end": 10.54,
+      "text": "Galera, pesca aqui mesmo."
+    },
+    {
+      "start": 11.44,
+      "end": 12.48,
+      "text": "Entra no barco aí."
+    },
+    {
+      "start": 13.93,
+      "end": 16.05,
+      "text": "Lá se vai um..."
+    },
+    {
+      "start": 16.05,
+      "end": 18.27,
+      "text": "Pegando uma... Olha aí, coisa linda, cara."
+    },
+    {
+      "start": 19.79,
+      "end": 24.11,
+      "text": "Essas águas aqui, são as águas do rio Jaguaribe."
+    },
+    {
+      "start": 26.13,
+      "end": 27.61,
+      "text": "Foram represadas, né?"
+    },
+    {
+      "start": 28.5,
+      "end": 30.66,
+      "text": "E construiu aqui o açude do Oroz."
+    }
+  ],
+  "duracao_seg": 31.15,
+  "idioma_detectado": "pt"
+}

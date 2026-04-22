@@ -1,0 +1,522 @@
+{
+  "texto": "Aqui é o seguinte ó, o meu começou a encher, tem que subir, e o meu começa a encher de uma vez. Com piloto aqui, eeeh Paulo, oh Paulo, eeeh Miran, aee, oh cachorra, cachorra boba, é aquela que estava batendo lá, oh. Estou preparando aqui. Puta que pariu, rapaz. Puta que pariu. Arrachamento pesado é foda. Tá vindo Paulo? Tá. Pequeninha, tá bom. Ah não, vai nada né. Foi? Vamos tirar ela, depois né, solta. Vamos lá. Ah, mas. Já vai para os pequenos, ela está ferrada. Pequena porra nenhuma, boa, tamanho do que ela. Boa, tá jogou. Boa. Tá boa. Essa está bem ferrada. Ah, eu quero soltar aqui. Eeeh, oh. Eeeh Paulo. Eeeh, não tirei a foto. Segura aí. Segura aí. Tirar a foto? Tirar a foto aqui. Carregou aí? Pega aí, segura. Segura o peixe Paulo. Tá frouxa a fricção, tá frouxa? Ah tá, tá boa, tá boa. Essa é grande. Oh, cachorro aqui briga mesmo. Vou colher, vou colher. Peixe bom Paulo? É, é bom. É cachorro sim, pô. É. É. Oh, a linhazinha. Vara chega em borca, hein. Não tem pressa para tirar não Paulo. Olha, Ricardo. Por que eu estou com pressa? Não tem pressa. Isso, deixa. Não é pego do meio. Pode ser um jaú, viu bicho. Caranho. Pô, briga boa, hein. Rapaz, é uma cachorra. É uma cachorra grande. É uma cachorra grande. É uma cachorra boa. Pegou de lado, por isso que ela está pedrada. Ah, tá. Certo. Opa. Caralho. Ih, não vai arrancar trabalho, né? Aê. Oh, lá, pô. Essa é boa. Pegou de lado, ó. Ué, onde é que pegou, bicho? Caramba. E agora eu vou tirar uma foto, ó. Oh, bichinha, boa. Dourada, filho. Você vai te lá, quer ver? Dourada, ó. Oh, boa. Olha lá, ó. Mais grande, pô. Boa. Boa. Boa. Essa é boa. Oh, cachorrinha briga, viu? Olha a cachorra aí, bonita aí, ó. Aê, garotinha. Eu posso passar agora aí para mais, hein? Vamos. Aê. Ha, ha, ha. Tem uma para embarcar aqui. Pera aí, pô. Vai cansando essa aí. Cansa essa aí. Olha a outra aí, ó. Pensa, pega essa aí com alicate. Faz aqui, pô. Esse alicate aqui não é bom, né? Oh, caralho. Pera aí, vai atrás dela aqui que eu tiro. Calma, pô. Tem que levantar e subir o barco aí. Eu vou enfiar, eu vou pegar ela para alicate. Pô, mas o Passaguai já tinha pego se tivesse liberado o Passaguai. Com os dois? Ué, mas como é que eu libero? Eu vou pegar o Passaguai. Ah, tá. Pega uns dois, hein? Ah, não, não dá não. Não dá não, pô. Vai escapulir, ó. Está bem sabendo. Vai não, pô. Calma aí. É, puta. Segura aí, Paulo. Eu vou tirar foto. Ô, bicha bonita. Essa aqui merece a foto. Essa é bonita. Ó. Bonita, menina. Eita, Paulo. Olha aí, moleque. Cachorra. A cachorra bonita aí, ó. Tira aí, Paulo. Com calma, assim, não. Com calma. Sem pressa. Sem pressa. Sem pressa. Que ela estava vindo. Que a cachorra, menina. Não. Agora eu estou tranquilo. Agora é que a dieta estava entusiasmada demais. Agora é. Agora eu posso até sair, mas arrebentar. Aí, a cachorrona. Grande, ó. Bonita. Opa. Não. Mas agora vai. Da próxima vez. Ajuda aí, mo. Calma. Uma. Uma. Aê. Primeiro do dia. Primeiro do dia.",
+  "segmentos": [
+    {
+      "start": 6.1,
+      "end": 28.12,
+      "text": "Aqui é o seguinte ó, o meu começou a encher, tem que subir, e o meu começa a encher de uma vez."
+    },
+    {
+      "start": 28.12,
+      "end": 70.49,
+      "text": "Com piloto aqui, eeeh Paulo, oh Paulo, eeeh Miran, aee, oh cachorra, cachorra boba, é aquela que estava batendo lá, oh."
+    },
+    {
+      "start": 70.49,
+      "end": 77.74,
+      "text": "Estou preparando aqui. Puta que pariu, rapaz. Puta que pariu."
+    },
+    {
+      "start": 77.74,
+      "end": 95.7,
+      "text": "Arrachamento pesado é foda. Tá vindo Paulo? Tá. Pequeninha, tá bom. Ah não, vai nada né. Foi? Vamos tirar ela, depois né, solta."
+    },
+    {
+      "start": 95.7,
+      "end": 114.31,
+      "text": "Vamos lá. Ah, mas. Já vai para os pequenos, ela está ferrada. Pequena porra nenhuma, boa, tamanho do que ela."
+    },
+    {
+      "start": 114.31,
+      "end": 138.22,
+      "text": "Boa, tá jogou. Boa. Tá boa. Essa está bem ferrada. Ah, eu quero soltar aqui. Eeeh, oh. Eeeh Paulo."
+    },
+    {
+      "start": 138.22,
+      "end": 145.04,
+      "text": "Eeeh, não tirei a foto. Segura aí. Segura aí. Tirar a foto? Tirar a foto aqui."
+    },
+    {
+      "start": 145.04,
+      "end": 171.66,
+      "text": "Carregou aí? Pega aí, segura. Segura o peixe Paulo. Tá frouxa a fricção, tá frouxa? Ah tá, tá boa, tá boa."
+    },
+    {
+      "start": 171.66,
+      "end": 187.61,
+      "text": "Essa é grande. Oh, cachorro aqui briga mesmo. Vou colher, vou colher. Peixe bom Paulo? É, é bom."
+    },
+    {
+      "start": 187.61,
+      "end": 199.82,
+      "text": "É cachorro sim, pô. É. É. Oh, a linhazinha. Vara chega em borca, hein."
+    },
+    {
+      "start": 199.82,
+      "end": 202.89,
+      "text": "Não tem pressa para tirar não Paulo. Olha, Ricardo."
+    },
+    {
+      "start": 202.89,
+      "end": 209.58,
+      "text": "Por que eu estou com pressa? Não tem pressa. Isso, deixa."
+    },
+    {
+      "start": 209.58,
+      "end": 218.07,
+      "text": "Não é pego do meio. Pode ser um jaú, viu bicho. Caranho."
+    },
+    {
+      "start": 218.07,
+      "end": 230.55,
+      "text": "Pô, briga boa, hein. Rapaz, é uma cachorra. É uma cachorra grande."
+    },
+    {
+      "start": 230.55,
+      "end": 233.67,
+      "text": "É uma cachorra grande."
+    },
+    {
+      "start": 233.67,
+      "end": 244.76,
+      "text": "É uma cachorra boa. Pegou de lado, por isso que ela está pedrada."
+    },
+    {
+      "start": 244.76,
+      "end": 248.0,
+      "text": "Ah, tá. Certo."
+    },
+    {
+      "start": 248.0,
+      "end": 252.02,
+      "text": "Opa. Caralho."
+    },
+    {
+      "start": 252.02,
+      "end": 254.02,
+      "text": "Ih, não vai arrancar trabalho, né?"
+    },
+    {
+      "start": 254.02,
+      "end": 257.02,
+      "text": "Aê. Oh, lá, pô. Essa é boa."
+    },
+    {
+      "start": 257.02,
+      "end": 259.7,
+      "text": "Pegou de lado, ó."
+    },
+    {
+      "start": 259.7,
+      "end": 298.61,
+      "text": "Ué, onde é que pegou, bicho? Caramba."
+    },
+    {
+      "start": 298.61,
+      "end": 300.61,
+      "text": "E agora eu vou tirar uma foto, ó."
+    },
+    {
+      "start": 300.61,
+      "end": 325.48,
+      "text": "Oh, bichinha, boa."
+    },
+    {
+      "start": 325.48,
+      "end": 328.48,
+      "text": "Dourada, filho. Você vai te lá, quer ver? Dourada, ó."
+    },
+    {
+      "start": 328.48,
+      "end": 329.48,
+      "text": "Oh, boa."
+    },
+    {
+      "start": 329.48,
+      "end": 331.01,
+      "text": "Olha lá, ó."
+    },
+    {
+      "start": 331.01,
+      "end": 332.01,
+      "text": "Mais grande, pô."
+    },
+    {
+      "start": 332.01,
+      "end": 333.74,
+      "text": "Boa."
+    },
+    {
+      "start": 333.74,
+      "end": 334.74,
+      "text": "Boa."
+    },
+    {
+      "start": 334.74,
+      "end": 339.3,
+      "text": "Boa."
+    },
+    {
+      "start": 339.3,
+      "end": 340.3,
+      "text": "Essa é boa."
+    },
+    {
+      "start": 340.3,
+      "end": 344.26,
+      "text": "Oh, cachorrinha briga, viu?"
+    },
+    {
+      "start": 344.26,
+      "end": 347.83,
+      "text": "Olha a cachorra aí, bonita aí, ó."
+    },
+    {
+      "start": 347.83,
+      "end": 348.83,
+      "text": "Aê, garotinha."
+    },
+    {
+      "start": 348.83,
+      "end": 350.83,
+      "text": "Eu posso passar agora aí para mais, hein?"
+    },
+    {
+      "start": 350.83,
+      "end": 353.75,
+      "text": "Vamos."
+    },
+    {
+      "start": 353.75,
+      "end": 358.79,
+      "text": "Aê."
+    },
+    {
+      "start": 358.79,
+      "end": 359.79,
+      "text": "Ha, ha, ha."
+    },
+    {
+      "start": 359.79,
+      "end": 362.94,
+      "text": "Tem uma para embarcar aqui."
+    },
+    {
+      "start": 362.94,
+      "end": 365.74,
+      "text": "Pera aí, pô."
+    },
+    {
+      "start": 365.74,
+      "end": 370.34,
+      "text": "Vai cansando essa aí."
+    },
+    {
+      "start": 370.34,
+      "end": 371.34,
+      "text": "Cansa essa aí."
+    },
+    {
+      "start": 371.34,
+      "end": 373.72,
+      "text": "Olha a outra aí, ó."
+    },
+    {
+      "start": 373.72,
+      "end": 375.72,
+      "text": "Pensa, pega essa aí com alicate."
+    },
+    {
+      "start": 375.72,
+      "end": 378.42,
+      "text": "Faz aqui, pô."
+    },
+    {
+      "start": 378.42,
+      "end": 382.69,
+      "text": "Esse alicate aqui não é bom, né?"
+    },
+    {
+      "start": 382.69,
+      "end": 385.26,
+      "text": "Oh, caralho."
+    },
+    {
+      "start": 385.26,
+      "end": 387.26,
+      "text": "Pera aí, vai atrás dela aqui que eu tiro."
+    },
+    {
+      "start": 387.26,
+      "end": 389.64,
+      "text": "Calma, pô."
+    },
+    {
+      "start": 389.64,
+      "end": 393.37,
+      "text": "Tem que levantar e subir o barco aí."
+    },
+    {
+      "start": 393.37,
+      "end": 395.37,
+      "text": "Eu vou enfiar, eu vou pegar ela para alicate."
+    },
+    {
+      "start": 395.37,
+      "end": 397.37,
+      "text": "Pô, mas o Passaguai já tinha pego se tivesse liberado o Passaguai."
+    },
+    {
+      "start": 397.37,
+      "end": 398.37,
+      "text": "Com os dois?"
+    },
+    {
+      "start": 398.37,
+      "end": 399.37,
+      "text": "Ué, mas como é que eu libero?"
+    },
+    {
+      "start": 399.37,
+      "end": 400.37,
+      "text": "Eu vou pegar o Passaguai."
+    },
+    {
+      "start": 400.37,
+      "end": 401.37,
+      "text": "Ah, tá."
+    },
+    {
+      "start": 401.37,
+      "end": 402.37,
+      "text": "Pega uns dois, hein?"
+    },
+    {
+      "start": 402.37,
+      "end": 403.66,
+      "text": "Ah, não, não dá não."
+    },
+    {
+      "start": 403.66,
+      "end": 404.66,
+      "text": "Não dá não, pô."
+    },
+    {
+      "start": 404.66,
+      "end": 405.66,
+      "text": "Vai escapulir, ó."
+    },
+    {
+      "start": 405.66,
+      "end": 406.66,
+      "text": "Está bem sabendo."
+    },
+    {
+      "start": 406.66,
+      "end": 412.81,
+      "text": "Vai não, pô."
+    },
+    {
+      "start": 412.81,
+      "end": 413.81,
+      "text": "Calma aí."
+    },
+    {
+      "start": 413.81,
+      "end": 414.81,
+      "text": "É, puta."
+    },
+    {
+      "start": 414.81,
+      "end": 415.81,
+      "text": "Segura aí, Paulo."
+    },
+    {
+      "start": 415.81,
+      "end": 418.63,
+      "text": "Eu vou tirar foto."
+    },
+    {
+      "start": 418.63,
+      "end": 420.63,
+      "text": "Ô, bicha bonita."
+    },
+    {
+      "start": 420.63,
+      "end": 421.63,
+      "text": "Essa aqui merece a foto."
+    },
+    {
+      "start": 421.63,
+      "end": 422.63,
+      "text": "Essa é bonita."
+    },
+    {
+      "start": 422.63,
+      "end": 423.82,
+      "text": "Ó."
+    },
+    {
+      "start": 423.82,
+      "end": 440.79,
+      "text": "Bonita, menina."
+    },
+    {
+      "start": 440.79,
+      "end": 444.2,
+      "text": "Eita, Paulo."
+    },
+    {
+      "start": 444.2,
+      "end": 445.2,
+      "text": "Olha aí, moleque."
+    },
+    {
+      "start": 445.2,
+      "end": 447.2,
+      "text": "Cachorra."
+    },
+    {
+      "start": 447.2,
+      "end": 450.13,
+      "text": "A cachorra bonita aí, ó."
+    },
+    {
+      "start": 450.13,
+      "end": 452.13,
+      "text": "Tira aí, Paulo."
+    },
+    {
+      "start": 452.13,
+      "end": 454.13,
+      "text": "Com calma, assim, não."
+    },
+    {
+      "start": 454.13,
+      "end": 455.13,
+      "text": "Com calma."
+    },
+    {
+      "start": 455.13,
+      "end": 456.13,
+      "text": "Sem pressa."
+    },
+    {
+      "start": 456.13,
+      "end": 457.13,
+      "text": "Sem pressa."
+    },
+    {
+      "start": 457.13,
+      "end": 458.13,
+      "text": "Sem pressa."
+    },
+    {
+      "start": 458.13,
+      "end": 461.14,
+      "text": "Que ela estava vindo."
+    },
+    {
+      "start": 461.14,
+      "end": 463.14,
+      "text": "Que a cachorra, menina."
+    },
+    {
+      "start": 463.14,
+      "end": 466.54,
+      "text": "Não."
+    },
+    {
+      "start": 466.54,
+      "end": 467.54,
+      "text": "Agora eu estou tranquilo."
+    },
+    {
+      "start": 467.54,
+      "end": 469.54,
+      "text": "Agora é que a dieta estava entusiasmada demais."
+    },
+    {
+      "start": 469.54,
+      "end": 470.54,
+      "text": "Agora é."
+    },
+    {
+      "start": 470.54,
+      "end": 472.54,
+      "text": "Agora eu posso até sair, mas arrebentar."
+    },
+    {
+      "start": 472.54,
+      "end": 474.54,
+      "text": "Aí, a cachorrona."
+    },
+    {
+      "start": 474.54,
+      "end": 475.54,
+      "text": "Grande, ó."
+    },
+    {
+      "start": 475.54,
+      "end": 476.54,
+      "text": "Bonita."
+    },
+    {
+      "start": 476.54,
+      "end": 478.98,
+      "text": "Opa."
+    },
+    {
+      "start": 478.98,
+      "end": 479.98,
+      "text": "Não."
+    },
+    {
+      "start": 479.98,
+      "end": 480.98,
+      "text": "Mas agora vai."
+    },
+    {
+      "start": 480.98,
+      "end": 481.98,
+      "text": "Da próxima vez."
+    },
+    {
+      "start": 481.98,
+      "end": 482.98,
+      "text": "Ajuda aí, mo."
+    },
+    {
+      "start": 482.98,
+      "end": 486.07,
+      "text": "Calma."
+    },
+    {
+      "start": 486.07,
+      "end": 487.07,
+      "text": "Uma."
+    },
+    {
+      "start": 487.07,
+      "end": 488.07,
+      "text": "Uma."
+    },
+    {
+      "start": 488.07,
+      "end": 489.07,
+      "text": "Aê."
+    },
+    {
+      "start": 489.07,
+      "end": 493.18,
+      "text": "Primeiro do dia."
+    },
+    {
+      "start": 493.18,
+      "end": 494.18,
+      "text": "Primeiro do dia."
+    }
+  ],
+  "duracao_seg": 513.31,
+  "idioma_detectado": "pt"
+}

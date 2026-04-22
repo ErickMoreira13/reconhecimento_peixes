@@ -1,0 +1,17 @@
+{
+  "texto": "Não, não, não, no store, store Mama put my gun",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 11.08,
+      "text": "Não, não, não, no store, store"
+    },
+    {
+      "start": 11.08,
+      "end": 29.98,
+      "text": "Mama put my gun"
+    }
+  ],
+  "duracao_seg": 30.73,
+  "idioma_detectado": "pt"
+}

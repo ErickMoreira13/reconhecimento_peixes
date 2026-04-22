@@ -1,0 +1,327 @@
+{
+  "texto": "Eu faço aí Galera, muita gente já conhece já esse sisteminha Coloca a massinha no chumbo E no anzol coloca o fígado de boi Azedo Beleza? Muita gente usa fígado de porco também Massinha branca Funciona, rapaziada, funciona Beleza? Agora é só jogar na água E esperar as beiçudas O sol está bem de frente Deve ter que pegar no canivete, né? É Para não ter cortado Mas ontem pulou uns grandes Que está aqui, viu? Estava pulando uns dourados grandes É, vem de boa Eu acho que pegar um bom nesse aí Aí galera Douradinho Douradinho que entrou aqui Pensei que era uma piapara Até mandou douradinho Ué, rapaziada Douradinho Vai para a vida Vou embora Mais um douradinho E hoje está Vamos ver se vai sair Aqui já Nem brigou, meu Nem brigou muito Pega a minha barra Pegou lá Vem quieto Pegou lá Vem quieto Pega o pernão Pega o pernão É, está enroscado ali Vim ali Falei, não, é lá embaixo Douradinho de novo Douradinho de novo Douradinho de novo Douradinho de novo Pegou, pegou por baixo do queixo Para dar uma medida Douradinho Nem brigou muito Vai embora Vai Vou embora E douradinho Dos dourados Cinquenta centímetros Vai, vai, vai, vai, vai Tchau, tchau Tchau Tchau",
+  "segmentos": [
+    {
+      "start": 43.44,
+      "end": 44.02,
+      "text": "Eu faço aí"
+    },
+    {
+      "start": 44.02,
+      "end": 46.9,
+      "text": "Galera, muita gente já conhece já esse sisteminha"
+    },
+    {
+      "start": 46.9,
+      "end": 49.34,
+      "text": "Coloca a massinha no chumbo"
+    },
+    {
+      "start": 49.34,
+      "end": 52.98,
+      "text": "E no anzol coloca o fígado de boi"
+    },
+    {
+      "start": 52.98,
+      "end": 54.02,
+      "text": "Azedo"
+    },
+    {
+      "start": 54.02,
+      "end": 54.8,
+      "text": "Beleza?"
+    },
+    {
+      "start": 55.58,
+      "end": 57.72,
+      "text": "Muita gente usa fígado de porco também"
+    },
+    {
+      "start": 57.72,
+      "end": 59.12,
+      "text": "Massinha branca"
+    },
+    {
+      "start": 59.12,
+      "end": 61.1,
+      "text": "Funciona, rapaziada, funciona"
+    },
+    {
+      "start": 61.1,
+      "end": 61.9,
+      "text": "Beleza?"
+    },
+    {
+      "start": 63.42,
+      "end": 64.52,
+      "text": "Agora é só jogar na água"
+    },
+    {
+      "start": 64.52,
+      "end": 69.62,
+      "text": "E esperar as beiçudas"
+    },
+    {
+      "start": 69.62,
+      "end": 79.54,
+      "text": "O sol está bem de frente"
+    },
+    {
+      "start": 79.54,
+      "end": 118.74,
+      "text": "Deve ter que pegar no canivete, né?"
+    },
+    {
+      "start": 118.74,
+      "end": 119.3,
+      "text": "É"
+    },
+    {
+      "start": 119.3,
+      "end": 120.98,
+      "text": "Para não ter cortado"
+    },
+    {
+      "start": 120.98,
+      "end": 127.56,
+      "text": "Mas ontem pulou uns grandes"
+    },
+    {
+      "start": 127.56,
+      "end": 128.26,
+      "text": "Que está aqui, viu?"
+    },
+    {
+      "start": 129.22,
+      "end": 130.56,
+      "text": "Estava pulando uns dourados grandes"
+    },
+    {
+      "start": 130.56,
+      "end": 174.72,
+      "text": "É, vem de boa"
+    },
+    {
+      "start": 174.72,
+      "end": 189.79,
+      "text": "Eu acho que pegar um bom nesse aí"
+    },
+    {
+      "start": 189.79,
+      "end": 201.61,
+      "text": "Aí galera"
+    },
+    {
+      "start": 201.61,
+      "end": 202.53,
+      "text": "Douradinho"
+    },
+    {
+      "start": 202.53,
+      "end": 204.56,
+      "text": "Douradinho que entrou aqui"
+    },
+    {
+      "start": 204.56,
+      "end": 206.76,
+      "text": "Pensei que era uma piapara"
+    },
+    {
+      "start": 206.76,
+      "end": 209.7,
+      "text": "Até mandou douradinho"
+    },
+    {
+      "start": 209.7,
+      "end": 216.9,
+      "text": "Ué, rapaziada"
+    },
+    {
+      "start": 216.9,
+      "end": 217.94,
+      "text": "Douradinho"
+    },
+    {
+      "start": 217.94,
+      "end": 219.66,
+      "text": "Vai para a vida"
+    },
+    {
+      "start": 219.66,
+      "end": 224.8,
+      "text": "Vou embora"
+    },
+    {
+      "start": 224.8,
+      "end": 229.19,
+      "text": "Mais um douradinho"
+    },
+    {
+      "start": 229.19,
+      "end": 244.52,
+      "text": "E hoje está"
+    },
+    {
+      "start": 244.52,
+      "end": 251.95,
+      "text": "Vamos ver se vai sair"
+    },
+    {
+      "start": 251.95,
+      "end": 269.38,
+      "text": "Aqui já"
+    },
+    {
+      "start": 269.38,
+      "end": 270.89,
+      "text": "Nem brigou, meu"
+    },
+    {
+      "start": 270.89,
+      "end": 274.02,
+      "text": "Nem brigou muito"
+    },
+    {
+      "start": 274.02,
+      "end": 302.09,
+      "text": "Pega a minha barra"
+    },
+    {
+      "start": 302.09,
+      "end": 302.53,
+      "text": "Pegou lá"
+    },
+    {
+      "start": 302.53,
+      "end": 303.72,
+      "text": "Vem quieto"
+    },
+    {
+      "start": 303.72,
+      "end": 304.26,
+      "text": "Pegou lá"
+    },
+    {
+      "start": 304.26,
+      "end": 307.62,
+      "text": "Vem quieto"
+    },
+    {
+      "start": 307.62,
+      "end": 308.02,
+      "text": "Pega o pernão"
+    },
+    {
+      "start": 308.02,
+      "end": 308.52,
+      "text": "Pega o pernão"
+    },
+    {
+      "start": 308.52,
+      "end": 311.26,
+      "text": "É, está enroscado ali"
+    },
+    {
+      "start": 311.26,
+      "end": 312.1,
+      "text": "Vim ali"
+    },
+    {
+      "start": 312.1,
+      "end": 313.14,
+      "text": "Falei, não, é lá embaixo"
+    },
+    {
+      "start": 313.14,
+      "end": 315.16,
+      "text": "Douradinho de novo"
+    },
+    {
+      "start": 315.16,
+      "end": 315.78,
+      "text": "Douradinho de novo"
+    },
+    {
+      "start": 315.78,
+      "end": 316.28,
+      "text": "Douradinho de novo"
+    },
+    {
+      "start": 316.28,
+      "end": 318.76,
+      "text": "Douradinho de novo"
+    },
+    {
+      "start": 318.76,
+      "end": 327.26,
+      "text": "Pegou, pegou por baixo do queixo"
+    },
+    {
+      "start": 327.26,
+      "end": 369.24,
+      "text": "Para dar uma medida"
+    },
+    {
+      "start": 369.24,
+      "end": 376.2,
+      "text": "Douradinho"
+    },
+    {
+      "start": 376.2,
+      "end": 377.34,
+      "text": "Nem brigou muito"
+    },
+    {
+      "start": 377.34,
+      "end": 378.94,
+      "text": "Vai embora"
+    },
+    {
+      "start": 378.94,
+      "end": 380.4,
+      "text": "Vai"
+    },
+    {
+      "start": 380.4,
+      "end": 383.65,
+      "text": "Vou embora"
+    },
+    {
+      "start": 383.65,
+      "end": 387.44,
+      "text": "E douradinho"
+    },
+    {
+      "start": 387.44,
+      "end": 390.22,
+      "text": "Dos dourados"
+    },
+    {
+      "start": 390.22,
+      "end": 481.76,
+      "text": "Cinquenta centímetros"
+    },
+    {
+      "start": 481.76,
+      "end": 502.13,
+      "text": "Vai, vai, vai, vai, vai"
+    },
+    {
+      "start": 502.13,
+      "end": 504.03,
+      "text": "Tchau, tchau"
+    },
+    {
+      "start": 504.03,
+      "end": 504.59,
+      "text": "Tchau"
+    },
+    {
+      "start": 504.59,
+      "end": 505.03,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 505.09,
+  "idioma_detectado": "pt"
+}

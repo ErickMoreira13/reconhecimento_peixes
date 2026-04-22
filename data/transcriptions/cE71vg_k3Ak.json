@@ -1,0 +1,42 @@
+{
+  "texto": "Foro pagar pensão, arrumar dinheiro pra separação Moleque chorando, rolando no chão Dá sua casa pro Ricardão Não, não, não pensa não Não, não, não pensa não Se você ficar nervoso aumenta a confusão Se você ficar nervoso aumenta",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "Foro pagar pensão, arrumar dinheiro pra separação"
+    },
+    {
+      "start": 2.94,
+      "end": 4.76,
+      "text": "Moleque chorando, rolando no chão"
+    },
+    {
+      "start": 4.76,
+      "end": 6.64,
+      "text": "Dá sua casa pro Ricardão"
+    },
+    {
+      "start": 6.64,
+      "end": 8.34,
+      "text": "Não, não, não pensa não"
+    },
+    {
+      "start": 8.34,
+      "end": 10.14,
+      "text": "Não, não, não pensa não"
+    },
+    {
+      "start": 10.14,
+      "end": 13.74,
+      "text": "Se você ficar nervoso aumenta a confusão"
+    },
+    {
+      "start": 13.74,
+      "end": 16.46,
+      "text": "Se você ficar nervoso aumenta"
+    }
+  ],
+  "duracao_seg": 17.61,
+  "idioma_detectado": "pt"
+}

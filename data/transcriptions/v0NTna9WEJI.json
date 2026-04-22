@@ -1,0 +1,72 @@
+{
+  "texto": "O que é isso aí? O que é isso aí, Plínio? O que é isso aí, moço? O que é isso, cara? Nossa, tem uns peixes aqui dentro, cara. Olha aí. O que é isso, velho? Tem uma cercadinha aqui, rapaz. O que é isso, cara? Olha, os peixes ficam presos aqui, Plínio. O que é isso? Olha que não se encontrou? Olha aí, rapaz. Olha ali, olha aqui, uma lagadinha aqui, rapaz. No meio do... Olha ali.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "O que é isso aí? O que é isso aí, Plínio?"
+    },
+    {
+      "start": 1.84,
+      "end": 3.08,
+      "text": "O que é isso aí, moço?"
+    },
+    {
+      "start": 3.28,
+      "end": 4.68,
+      "text": "O que é isso, cara?"
+    },
+    {
+      "start": 7.05,
+      "end": 8.81,
+      "text": "Nossa, tem uns peixes aqui dentro, cara."
+    },
+    {
+      "start": 8.81,
+      "end": 10.45,
+      "text": "Olha aí. O que é isso, velho?"
+    },
+    {
+      "start": 10.85,
+      "end": 12.69,
+      "text": "Tem uma cercadinha aqui, rapaz."
+    },
+    {
+      "start": 13.31,
+      "end": 14.65,
+      "text": "O que é isso, cara?"
+    },
+    {
+      "start": 15.93,
+      "end": 17.59,
+      "text": "Olha, os peixes ficam presos aqui, Plínio."
+    },
+    {
+      "start": 18.43,
+      "end": 19.43,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 19.43,
+      "end": 20.97,
+      "text": "Olha que não se encontrou? Olha aí, rapaz."
+    },
+    {
+      "start": 21.07,
+      "end": 23.85,
+      "text": "Olha ali, olha aqui, uma lagadinha aqui, rapaz."
+    },
+    {
+      "start": 23.85,
+      "end": 24.55,
+      "text": "No meio do..."
+    },
+    {
+      "start": 24.55,
+      "end": 25.61,
+      "text": "Olha ali."
+    }
+  ],
+  "duracao_seg": 25.67,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "2 de novembro, finaz, pescaria aqui na Serra da Mesa Morro Redondo Saiu um tamba aqui no Morro Redondo 15 quilos Fácil",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "2 de novembro, finaz, pescaria aqui na Serra da Mesa"
+    },
+    {
+      "start": 2.64,
+      "end": 3.68,
+      "text": "Morro Redondo"
+    },
+    {
+      "start": 3.68,
+      "end": 5.96,
+      "text": "Saiu um tamba aqui no Morro Redondo"
+    },
+    {
+      "start": 5.96,
+      "end": 7.4,
+      "text": "15 quilos"
+    },
+    {
+      "start": 7.4,
+      "end": 8.76,
+      "text": "Fácil"
+    }
+  ],
+  "duracao_seg": 9.01,
+  "idioma_detectado": "pt"
+}

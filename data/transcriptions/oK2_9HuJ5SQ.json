@@ -1,0 +1,22 @@
+{
+  "texto": "A vida é breve perto da infinidade do universo. Mas isso não torna a nossa existência menos valiosa. Afinal, mesmo que a nossa existência seja breve, podemos deixar um legado duradouro.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "A vida é breve perto da infinidade do universo."
+    },
+    {
+      "start": 3.46,
+      "end": 5.9,
+      "text": "Mas isso não torna a nossa existência menos valiosa."
+    },
+    {
+      "start": 6.93,
+      "end": 11.29,
+      "text": "Afinal, mesmo que a nossa existência seja breve, podemos deixar um legado duradouro."
+    }
+  ],
+  "duracao_seg": 13.29,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,57 @@
+{
+  "texto": "Olha aí, mano, quando o acidente se rola, olha aí, ó. Tem que ser macho pra tirar. Tem que ser macho, e o Marcelão parece que é, ó. Acho que com vontade, pô, do outro lado, que ele sai. Ai, ai, ai. Caramba, moleque doido. Ai, Marcelão. É lá doido mesmo. Olha pra cá, Marcelo, rapidinho. Não faz careta, não.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "Olha aí, mano, quando o acidente se rola, olha aí, ó."
+    },
+    {
+      "start": 4.29,
+      "end": 5.57,
+      "text": "Tem que ser macho pra tirar."
+    },
+    {
+      "start": 5.65,
+      "end": 8.17,
+      "text": "Tem que ser macho, e o Marcelão parece que é, ó."
+    },
+    {
+      "start": 8.75,
+      "end": 10.73,
+      "text": "Acho que com vontade, pô, do outro lado, que ele sai."
+    },
+    {
+      "start": 11.41,
+      "end": 12.25,
+      "text": "Ai, ai, ai."
+    },
+    {
+      "start": 12.71,
+      "end": 13.91,
+      "text": "Caramba, moleque doido."
+    },
+    {
+      "start": 14.25,
+      "end": 14.85,
+      "text": "Ai, Marcelão."
+    },
+    {
+      "start": 14.85,
+      "end": 15.63,
+      "text": "É lá doido mesmo."
+    },
+    {
+      "start": 24.4,
+      "end": 26.16,
+      "text": "Olha pra cá, Marcelo, rapidinho."
+    },
+    {
+      "start": 26.76,
+      "end": 27.5,
+      "text": "Não faz careta, não."
+    }
+  ],
+  "duracao_seg": 28.73,
+  "idioma_detectado": "pt"
+}

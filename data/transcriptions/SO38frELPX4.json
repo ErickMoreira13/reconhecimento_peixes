@@ -1,0 +1,42 @@
+{
+  "texto": "Tá vendo? É lindo! É lindo! Não, não é? Não, não é? Não, não é? É lindo!",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 2.34,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 2.34,
+      "end": 4.37,
+      "text": "É lindo!"
+    },
+    {
+      "start": 4.37,
+      "end": 6.88,
+      "text": "É lindo!"
+    },
+    {
+      "start": 6.88,
+      "end": 8.88,
+      "text": "Não, não é?"
+    },
+    {
+      "start": 8.88,
+      "end": 10.88,
+      "text": "Não, não é?"
+    },
+    {
+      "start": 10.88,
+      "end": 16.66,
+      "text": "Não, não é?"
+    },
+    {
+      "start": 16.66,
+      "end": 18.66,
+      "text": "É lindo!"
+    }
+  ],
+  "duracao_seg": 17.29,
+  "idioma_detectado": "pt"
+}

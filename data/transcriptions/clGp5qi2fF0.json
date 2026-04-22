@@ -1,0 +1,37 @@
+{
+  "texto": "Vai, vai, volta Quando a gente vem aqui A gente vem por aqui Vai, vai, vai, vem, vem, vem, vem Azulzão, azulzão Bichão",
+  "segmentos": [
+    {
+      "start": 19.44,
+      "end": 20.44,
+      "text": "Vai, vai, volta"
+    },
+    {
+      "start": 20.44,
+      "end": 22.06,
+      "text": "Quando a gente vem aqui"
+    },
+    {
+      "start": 22.06,
+      "end": 23.1,
+      "text": "A gente vem por aqui"
+    },
+    {
+      "start": 23.1,
+      "end": 25.06,
+      "text": "Vai, vai, vai, vem, vem, vem, vem"
+    },
+    {
+      "start": 25.06,
+      "end": 107.18,
+      "text": "Azulzão, azulzão"
+    },
+    {
+      "start": 107.18,
+      "end": 669.44,
+      "text": "Bichão"
+    }
+  ],
+  "duracao_seg": 670.64,
+  "idioma_detectado": "pt"
+}

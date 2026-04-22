@@ -1,0 +1,17 @@
+{
+  "texto": "Então, ó, tamanho bichão, bitela, hein? Esse é monstro, pesado, acabou, mano, cê é louco, na linha 020, cê tô louco, gostoso demais, mano.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.23,
+      "text": "Então, ó, tamanho bichão, bitela, hein?"
+    },
+    {
+      "start": 5.95,
+      "end": 10.71,
+      "text": "Esse é monstro, pesado, acabou, mano, cê é louco, na linha 020, cê tô louco, gostoso demais, mano."
+    }
+  ],
+  "duracao_seg": 11.03,
+  "idioma_detectado": "pt"
+}

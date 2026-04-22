@@ -1,0 +1,637 @@
+{
+  "texto": "Pessoal, olha o tamanho do tucunaré azul aqui, galera. Senhor da partinha. Pessoal, tem um casal do tucunaré azul grande aqui, viu? Um casal do tucunaré bem grande aqui. Vamos ver se a gente consegue pegar isso e mostrar para vocês. Rapaz, meu Deus do céu. Não faço não. Ah, naniquinho. Peixito. Tucuninha. Primeiro do dia. Primeiro embarcado. Calma, garoto. Calma, calma, calma. Calma, rapaz. Esses tucunaré pequenos, os mais perigosos. Olha lá, está vendo? Deixa eu tentar livrar aqui primeiro. Aí, ó. Agora. Calma, rapaz. Calma. Olha, que isso? Agora sim. Pode liberar o bicho. Está aí, pessoal. Primeiro peixinho do dia. Naniquinho. Tamanho da isca. Vai para a vida. Vai, amarelão. Peixe, galera. Olha o peixe. Tucuninha. Foi só botar a isca. Rei do rio. Esse aqui salva mesmo. Rei do rio pega mesmo. Não adianta. Calma. Está aí. Mais um amarelinho. Represa e embarcação. Vai para a vida. Opa, garoto. Calma. Você quer ir para o frito? Não, você está muito pequeno para ir para o frito. Está muito naniquinho. Vai lá, vai. Vai, vai, vai. Vai para a vida. Quis nem aparecer na foto. O que é isso? Calma, garoto. É, pessoal. Hoje é só trick. Os grandão tatu veiaco. Espera aí, rapaz. Aí, foi para a vida. Já vazou. Esquinha fatal. 65. Da Loro X. Está meio velha, mas está pegando peixe. Olha. Oh, porcaria. Mas está pego. Está pego. E você? Bonito, rapaz. Oh, vai para o frito, hein? Esse aqui está no tamanho bom. Um chicletinho faio, não. Pessoal, esse aqui veio para o frito. A gente está acampado hoje. Vamos pôr ele na caixa aqui. Tentar pegar mais. Um garoto. Ah, fiotinho. Sem vergonha. Oh, escapou. Perdi um aqui agora na soft. Perdi um aqui agora na borrachinha. É, médio. Ele me tocou, ninhinha. Ah, escapou, rapaz. Que droga. Deu uma pancada na isca, cara. Deu um ataque. Escapando demais, ô. Creda aí. Uh. Que tamanho não. Nossa, velho. Que tamanho de peixe, cara. Nossa, tamanho de peixe, cara. Nu. Grande. Creda, hein. Na porta, hein. Uh, garota. Uh, butreca. Você está doido. Nu. Que tamanho de traíra, moço. Olha o quanto de peixe, pessoal. Vamos ver se não é pego mais hoje, hein. Ih, a maioria foi meu pai. O bicho é largo no pescário aí, viu. Você está doido, velho. Tem que andar só na cola dele. Olha aí. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau. Tchau, tchau.",
+  "segmentos": [
+    {
+      "start": 12.21,
+      "end": 14.99,
+      "text": "Pessoal, olha o tamanho do tucunaré azul aqui, galera."
+    },
+    {
+      "start": 16.32,
+      "end": 17.28,
+      "text": "Senhor da partinha."
+    },
+    {
+      "start": 25.9,
+      "end": 28.32,
+      "text": "Pessoal, tem um casal do tucunaré azul grande aqui, viu?"
+    },
+    {
+      "start": 28.99,
+      "end": 30.61,
+      "text": "Um casal do tucunaré bem grande aqui."
+    },
+    {
+      "start": 33.12,
+      "end": 34.64,
+      "text": "Vamos ver se a gente consegue pegar isso e mostrar para vocês."
+    },
+    {
+      "start": 52.04,
+      "end": 52.78,
+      "text": "Rapaz, meu Deus do céu."
+    },
+    {
+      "start": 54.78,
+      "end": 55.34,
+      "text": "Não faço não."
+    },
+    {
+      "start": 59.21,
+      "end": 60.43,
+      "text": "Ah, naniquinho."
+    },
+    {
+      "start": 62.43,
+      "end": 62.87,
+      "text": "Peixito."
+    },
+    {
+      "start": 67.38,
+      "end": 67.86,
+      "text": "Tucuninha."
+    },
+    {
+      "start": 69.04,
+      "end": 69.68,
+      "text": "Primeiro do dia."
+    },
+    {
+      "start": 69.96,
+      "end": 70.68,
+      "text": "Primeiro embarcado."
+    },
+    {
+      "start": 71.56,
+      "end": 72.18,
+      "text": "Calma, garoto."
+    },
+    {
+      "start": 72.3,
+      "end": 73.1,
+      "text": "Calma, calma, calma."
+    },
+    {
+      "start": 74.33,
+      "end": 75.11,
+      "text": "Calma, rapaz."
+    },
+    {
+      "start": 77.45,
+      "end": 79.37,
+      "text": "Esses tucunaré pequenos, os mais perigosos."
+    },
+    {
+      "start": 82.34,
+      "end": 82.8,
+      "text": "Olha lá, está vendo?"
+    },
+    {
+      "start": 83.87,
+      "end": 85.07,
+      "text": "Deixa eu tentar livrar aqui primeiro."
+    },
+    {
+      "start": 92.96,
+      "end": 93.46,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 93.95,
+      "end": 94.39,
+      "text": "Agora."
+    },
+    {
+      "start": 96.0,
+      "end": 96.66,
+      "text": "Calma, rapaz."
+    },
+    {
+      "start": 96.88,
+      "end": 97.32,
+      "text": "Calma."
+    },
+    {
+      "start": 97.46,
+      "end": 98.7,
+      "text": "Olha, que isso?"
+    },
+    {
+      "start": 102.52,
+      "end": 103.14,
+      "text": "Agora sim."
+    },
+    {
+      "start": 103.54,
+      "end": 104.52,
+      "text": "Pode liberar o bicho."
+    },
+    {
+      "start": 112.84,
+      "end": 113.36,
+      "text": "Está aí, pessoal."
+    },
+    {
+      "start": 113.88,
+      "end": 114.76,
+      "text": "Primeiro peixinho do dia."
+    },
+    {
+      "start": 116.14,
+      "end": 116.54,
+      "text": "Naniquinho."
+    },
+    {
+      "start": 118.38,
+      "end": 118.94,
+      "text": "Tamanho da isca."
+    },
+    {
+      "start": 122.41,
+      "end": 122.85,
+      "text": "Vai para a vida."
+    },
+    {
+      "start": 125.18,
+      "end": 126.02,
+      "text": "Vai, amarelão."
+    },
+    {
+      "start": 126.68,
+      "end": 127.22,
+      "text": "Peixe, galera."
+    },
+    {
+      "start": 127.28,
+      "end": 127.82,
+      "text": "Olha o peixe."
+    },
+    {
+      "start": 132.74,
+      "end": 133.18,
+      "text": "Tucuninha."
+    },
+    {
+      "start": 134.79,
+      "end": 135.73,
+      "text": "Foi só botar a isca."
+    },
+    {
+      "start": 135.97,
+      "end": 136.41,
+      "text": "Rei do rio."
+    },
+    {
+      "start": 137.48,
+      "end": 138.3,
+      "text": "Esse aqui salva mesmo."
+    },
+    {
+      "start": 139.37,
+      "end": 140.61,
+      "text": "Rei do rio pega mesmo."
+    },
+    {
+      "start": 140.67,
+      "end": 141.03,
+      "text": "Não adianta."
+    },
+    {
+      "start": 142.76,
+      "end": 143.12,
+      "text": "Calma."
+    },
+    {
+      "start": 146.51,
+      "end": 146.83,
+      "text": "Está aí."
+    },
+    {
+      "start": 146.83,
+      "end": 148.86,
+      "text": "Mais um amarelinho."
+    },
+    {
+      "start": 149.44,
+      "end": 150.24,
+      "text": "Represa e embarcação."
+    },
+    {
+      "start": 152.4,
+      "end": 153.08,
+      "text": "Vai para a vida."
+    },
+    {
+      "start": 153.22,
+      "end": 153.88,
+      "text": "Opa, garoto."
+    },
+    {
+      "start": 154.1,
+      "end": 154.5,
+      "text": "Calma."
+    },
+    {
+      "start": 154.68,
+      "end": 155.38,
+      "text": "Você quer ir para o frito?"
+    },
+    {
+      "start": 156.53,
+      "end": 158.05,
+      "text": "Não, você está muito pequeno para ir para o frito."
+    },
+    {
+      "start": 159.75,
+      "end": 160.73,
+      "text": "Está muito naniquinho."
+    },
+    {
+      "start": 161.75,
+      "end": 162.15,
+      "text": "Vai lá, vai."
+    },
+    {
+      "start": 162.37,
+      "end": 162.71,
+      "text": "Vai, vai, vai."
+    },
+    {
+      "start": 163.4,
+      "end": 164.22,
+      "text": "Vai para a vida."
+    },
+    {
+      "start": 165.99,
+      "end": 166.97,
+      "text": "Quis nem aparecer na foto."
+    },
+    {
+      "start": 167.07,
+      "end": 167.53,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 185.94,
+      "end": 187.02,
+      "text": "Calma, garoto."
+    },
+    {
+      "start": 189.36,
+      "end": 189.78,
+      "text": "É, pessoal."
+    },
+    {
+      "start": 189.84,
+      "end": 190.56,
+      "text": "Hoje é só trick."
+    },
+    {
+      "start": 191.84,
+      "end": 193.08,
+      "text": "Os grandão tatu veiaco."
+    },
+    {
+      "start": 195.68,
+      "end": 196.34,
+      "text": "Espera aí, rapaz."
+    },
+    {
+      "start": 196.34,
+      "end": 199.72,
+      "text": "Aí, foi para a vida."
+    },
+    {
+      "start": 200.04,
+      "end": 200.52,
+      "text": "Já vazou."
+    },
+    {
+      "start": 202.0,
+      "end": 202.84,
+      "text": "Esquinha fatal."
+    },
+    {
+      "start": 203.84,
+      "end": 204.24,
+      "text": "65."
+    },
+    {
+      "start": 205.47,
+      "end": 206.17,
+      "text": "Da Loro X."
+    },
+    {
+      "start": 207.01,
+      "end": 208.37,
+      "text": "Está meio velha, mas está pegando peixe."
+    },
+    {
+      "start": 220.86,
+      "end": 221.06,
+      "text": "Olha."
+    },
+    {
+      "start": 221.74,
+      "end": 222.58,
+      "text": "Oh, porcaria."
+    },
+    {
+      "start": 226.14,
+      "end": 226.72,
+      "text": "Mas está pego."
+    },
+    {
+      "start": 226.98,
+      "end": 227.54,
+      "text": "Está pego."
+    },
+    {
+      "start": 227.62,
+      "end": 227.82,
+      "text": "E você?"
+    },
+    {
+      "start": 232.38,
+      "end": 233.06,
+      "text": "Bonito, rapaz."
+    },
+    {
+      "start": 237.62,
+      "end": 238.62,
+      "text": "Oh, vai para o frito, hein?"
+    },
+    {
+      "start": 238.72,
+      "end": 239.5,
+      "text": "Esse aqui está no tamanho bom."
+    },
+    {
+      "start": 243.01,
+      "end": 243.99,
+      "text": "Um chicletinho faio, não."
+    },
+    {
+      "start": 244.51,
+      "end": 253.63,
+      "text": "Pessoal, esse aqui veio para o frito."
+    },
+    {
+      "start": 253.77,
+      "end": 254.71,
+      "text": "A gente está acampado hoje."
+    },
+    {
+      "start": 256.28,
+      "end": 257.24,
+      "text": "Vamos pôr ele na caixa aqui."
+    },
+    {
+      "start": 257.8,
+      "end": 258.5,
+      "text": "Tentar pegar mais."
+    },
+    {
+      "start": 258.5,
+      "end": 266.54,
+      "text": "Um garoto."
+    },
+    {
+      "start": 268.99,
+      "end": 269.85,
+      "text": "Ah, fiotinho."
+    },
+    {
+      "start": 270.88,
+      "end": 271.84,
+      "text": "Sem vergonha."
+    },
+    {
+      "start": 272.26,
+      "end": 272.98,
+      "text": "Oh, escapou."
+    },
+    {
+      "start": 279.33,
+      "end": 280.65,
+      "text": "Perdi um aqui agora na soft."
+    },
+    {
+      "start": 282.78,
+      "end": 284.24,
+      "text": "Perdi um aqui agora na borrachinha."
+    },
+    {
+      "start": 289.82,
+      "end": 290.48,
+      "text": "É, médio."
+    },
+    {
+      "start": 310.5,
+      "end": 311.8,
+      "text": "Ele me tocou, ninhinha."
+    },
+    {
+      "start": 313.04,
+      "end": 314.42,
+      "text": "Ah, escapou, rapaz."
+    },
+    {
+      "start": 315.54,
+      "end": 316.28,
+      "text": "Que droga."
+    },
+    {
+      "start": 316.58,
+      "end": 317.96,
+      "text": "Deu uma pancada na isca, cara."
+    },
+    {
+      "start": 319.7,
+      "end": 320.4,
+      "text": "Deu um ataque."
+    },
+    {
+      "start": 321.8,
+      "end": 322.74,
+      "text": "Escapando demais, ô."
+    },
+    {
+      "start": 323.72,
+      "end": 324.26,
+      "text": "Creda aí."
+    },
+    {
+      "start": 325.77,
+      "end": 325.93,
+      "text": "Uh."
+    },
+    {
+      "start": 326.33,
+      "end": 327.55,
+      "text": "Que tamanho não."
+    },
+    {
+      "start": 328.67,
+      "end": 329.27,
+      "text": "Nossa, velho."
+    },
+    {
+      "start": 329.31,
+      "end": 330.33,
+      "text": "Que tamanho de peixe, cara."
+    },
+    {
+      "start": 331.62,
+      "end": 333.02,
+      "text": "Nossa, tamanho de peixe, cara."
+    },
+    {
+      "start": 335.17,
+      "end": 335.35,
+      "text": "Nu."
+    },
+    {
+      "start": 337.2,
+      "end": 337.6,
+      "text": "Grande."
+    },
+    {
+      "start": 340.15,
+      "end": 340.61,
+      "text": "Creda, hein."
+    },
+    {
+      "start": 342.95,
+      "end": 343.77,
+      "text": "Na porta, hein."
+    },
+    {
+      "start": 344.17,
+      "end": 364.86,
+      "text": "Uh, garota."
+    },
+    {
+      "start": 365.42,
+      "end": 366.92,
+      "text": "Uh, butreca."
+    },
+    {
+      "start": 369.77,
+      "end": 370.91,
+      "text": "Você está doido."
+    },
+    {
+      "start": 371.69,
+      "end": 371.87,
+      "text": "Nu."
+    },
+    {
+      "start": 372.41,
+      "end": 373.75,
+      "text": "Que tamanho de traíra, moço."
+    },
+    {
+      "start": 374.9,
+      "end": 375.98,
+      "text": "Olha o quanto de peixe, pessoal."
+    },
+    {
+      "start": 377.03,
+      "end": 378.09,
+      "text": "Vamos ver se não é pego mais hoje, hein."
+    },
+    {
+      "start": 379.59,
+      "end": 380.61,
+      "text": "Ih, a maioria foi meu pai."
+    },
+    {
+      "start": 380.77,
+      "end": 381.83,
+      "text": "O bicho é largo no pescário aí, viu."
+    },
+    {
+      "start": 381.91,
+      "end": 382.73,
+      "text": "Você está doido, velho."
+    },
+    {
+      "start": 383.86,
+      "end": 385.02,
+      "text": "Tem que andar só na cola dele."
+    },
+    {
+      "start": 385.02,
+      "end": 385.7,
+      "text": "Olha aí."
+    },
+    {
+      "start": 385.7,
+      "end": 386.73,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 386.73,
+      "end": 387.07,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 387.07,
+      "end": 387.09,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 387.09,
+      "end": 387.21,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 387.21,
+      "end": 387.33,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 387.33,
+      "end": 387.61,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 387.61,
+      "end": 387.63,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 387.63,
+      "end": 387.69,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 387.69,
+      "end": 388.19,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 388.19,
+      "end": 388.69,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 388.69,
+      "end": 388.75,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 388.75,
+      "end": 389.25,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 389.25,
+      "end": 389.75,
+      "text": "Tchau, tchau."
+    }
+  ],
+  "duracao_seg": 392.93,
+  "idioma_detectado": "pt"
+}

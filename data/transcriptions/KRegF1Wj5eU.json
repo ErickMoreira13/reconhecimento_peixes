@@ -1,0 +1,12 @@
+{
+  "texto": "uma coisinha bonitinha",
+  "segmentos": [
+    {
+      "start": 1.2,
+      "end": 3.2,
+      "text": "uma coisinha bonitinha"
+    }
+  ],
+  "duracao_seg": 5.61,
+  "idioma_detectado": "pt"
+}

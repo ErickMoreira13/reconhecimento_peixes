@@ -1,0 +1,32 @@
+{
+  "texto": "Olha, olha, olha, olha, olha Quem é tu, quem é tu meu filho Salto bonito Tá bonito hein? Trinchão bonita, bonita, bonita",
+  "segmentos": [
+    {
+      "start": 15.41,
+      "end": 18.41,
+      "text": "Olha, olha, olha, olha, olha"
+    },
+    {
+      "start": 23.45,
+      "end": 25.45,
+      "text": "Quem é tu, quem é tu meu filho"
+    },
+    {
+      "start": 25.45,
+      "end": 32.28,
+      "text": "Salto bonito"
+    },
+    {
+      "start": 33.28,
+      "end": 53.71,
+      "text": "Tá bonito hein?"
+    },
+    {
+      "start": 53.71,
+      "end": 56.71,
+      "text": "Trinchão bonita, bonita, bonita"
+    }
+  ],
+  "duracao_seg": 56.91,
+  "idioma_detectado": "pt"
+}

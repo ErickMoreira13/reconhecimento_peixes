@@ -1,0 +1,42 @@
+{
+  "texto": "A vida é uma lição e um dia a gente cresce, conhece nossa essência e ganha experiência E aprende o que é raiz, então cria consciência Tem gente que reclama da vida, o tempo todo mais além da vida É quem dita o fim do jogo, eu vi de perto que neguinho é capaz pro dinheiro Eu conheci o próprio lobo na pele de um cordeiro Infelizmente a gente tem que tá ligado o tempo inteiro Ligado nos pilantra e também nos balanço",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "A vida é uma lição e um dia a gente cresce, conhece nossa essência e ganha experiência"
+    },
+    {
+      "start": 5.28,
+      "end": 7.96,
+      "text": "E aprende o que é raiz, então cria consciência"
+    },
+    {
+      "start": 7.96,
+      "end": 12.96,
+      "text": "Tem gente que reclama da vida, o tempo todo mais além da vida"
+    },
+    {
+      "start": 12.96,
+      "end": 16.92,
+      "text": "É quem dita o fim do jogo, eu vi de perto que neguinho é capaz pro dinheiro"
+    },
+    {
+      "start": 16.92,
+      "end": 19.4,
+      "text": "Eu conheci o próprio lobo na pele de um cordeiro"
+    },
+    {
+      "start": 19.4,
+      "end": 21.98,
+      "text": "Infelizmente a gente tem que tá ligado o tempo inteiro"
+    },
+    {
+      "start": 21.98,
+      "end": 23.86,
+      "text": "Ligado nos pilantra e também nos balanço"
+    }
+  ],
+  "duracao_seg": 23.99,
+  "idioma_detectado": "pt"
+}

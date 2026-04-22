@@ -1,0 +1,37 @@
+{
+  "texto": "E aí, ó, ó, dá uma olhada no saldo. O bagulho é grande, caralho, é grande! Meu irmão, é grande aqui, meu amor, ó. Esse é o saldo. Olha, tá, tá, tá, tá, tá, tá. Tome demais.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 3.1,
+      "text": "E aí, ó, ó, dá uma olhada no saldo."
+    },
+    {
+      "start": 3.12,
+      "end": 6.52,
+      "text": "O bagulho é grande, caralho, é grande!"
+    },
+    {
+      "start": 7.22,
+      "end": 9.78,
+      "text": "Meu irmão, é grande aqui, meu amor, ó."
+    },
+    {
+      "start": 9.8,
+      "end": 10.86,
+      "text": "Esse é o saldo."
+    },
+    {
+      "start": 11.02,
+      "end": 14.04,
+      "text": "Olha, tá, tá, tá, tá, tá, tá."
+    },
+    {
+      "start": 14.04,
+      "end": 15.26,
+      "text": "Tome demais."
+    }
+  ],
+  "duracao_seg": 15.33,
+  "idioma_detectado": "pt"
+}

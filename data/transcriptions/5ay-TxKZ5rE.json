@@ -1,0 +1,17 @@
+{
+  "texto": "Aqui, eu já peguei peixe grande aqui com o Valdo, já peguei peixe grande aqui com o Edilson. Levantem, vou bater a foto. Eu vou ralar o dedo, mas eu vou bater a foto com ele assim, porque pra mim é uma prática assim.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.92,
+      "text": "Aqui, eu já peguei peixe grande aqui com o Valdo, já peguei peixe grande aqui com o Edilson."
+    },
+    {
+      "start": 7.56,
+      "end": 13.3,
+      "text": "Levantem, vou bater a foto. Eu vou ralar o dedo, mas eu vou bater a foto com ele assim, porque pra mim é uma prática assim."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

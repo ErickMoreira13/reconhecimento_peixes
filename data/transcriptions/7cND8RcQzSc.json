@@ -1,0 +1,22 @@
+{
+  "texto": "Pera, pera, não precisa embarcar não, deixa de brincar, pode deixar, se perder, tem que perder Dedo grande, hein? Nossa, com o cavalo, velho",
+  "segmentos": [
+    {
+      "start": 52.02,
+      "end": 55.33,
+      "text": "Pera, pera, não precisa embarcar não, deixa de brincar, pode deixar, se perder, tem que perder"
+    },
+    {
+      "start": 55.33,
+      "end": 61.27,
+      "text": "Dedo grande, hein?"
+    },
+    {
+      "start": 71.42,
+      "end": 72.96,
+      "text": "Nossa, com o cavalo, velho"
+    }
+  ],
+  "duracao_seg": 312.53,
+  "idioma_detectado": "pt"
+}

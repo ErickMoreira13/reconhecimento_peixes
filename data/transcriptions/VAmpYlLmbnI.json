@@ -1,0 +1,37 @@
+{
+  "texto": "Isso aqui? Isso aqui, Bruno? Caralho é grande Calma, calma, relaxa Solta! Caralho é do tuado Gente do céu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Isso aqui? Isso aqui, Bruno?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Caralho é grande"
+    },
+    {
+      "start": 4.0,
+      "end": 7.15,
+      "text": "Calma, calma, relaxa"
+    },
+    {
+      "start": 7.15,
+      "end": 9.15,
+      "text": "Solta!"
+    },
+    {
+      "start": 9.15,
+      "end": 11.15,
+      "text": "Caralho é do tuado"
+    },
+    {
+      "start": 11.15,
+      "end": 13.15,
+      "text": "Gente do céu"
+    }
+  ],
+  "duracao_seg": 13.29,
+  "idioma_detectado": "pt"
+}

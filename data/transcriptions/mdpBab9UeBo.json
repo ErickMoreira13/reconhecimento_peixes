@@ -1,0 +1,402 @@
+{
+  "texto": "mais uma aí, olha que beleza vai chama hoje está bom demais, primeira do ano top, top bora para cima bora para esse capitão passar eu esqueci as minhocas que era para pegar os caras hoje sorte que eu tinha um pote de bichinho velho dentro da bolsa e me salvou de pegar os lambari e pegar as meninas, porque se não vou sair nem vim, acabei vindo, mas Deus abençoou tá joia? um abraço para a galera aí, no Youtube do Santo André Traísa Guarapiranga, o grupo do Juninho aqui do outro lado da represa e todo mundo que assiste, beleza? feliz ano novo, feliz ano novo chama na calanga aí rapaziada mais uma, passa na tela aí chama que chama bora aí olha que beleza mais uma, passeia na tela essa pequenininha, bonita segura aqui na ratinho pescaria, bora que bora chama na calanga aqui ó ó top hein bonita vamos que vamos aí galera, chama vamos que o negócio está bom hein aí ó mais uma aqui é a Guarapiranga isso aqui, muito redeiro acaba com a represa bora que bora galerinha tamo aí água batendo tá bom água batendo mas tamo aí tá no peixinho graças a Deus bora que bora pegando a puxada primeira do ano já teve resultado hein bora que bora hein tamo aqui ó na parte do areão e tá o bicho hein tá o canal hoje foi só sucesso solzão tá trincando galerinha trincando hein bora que bora vamos esperar as bruta aí aí galera chama vamos que o negócio está bom hein aí ó mais uma fiz um rancho no espraiado na beira da lagoa derrubei um pé de cedre construí minha canoa pra fazer a pescaria a matula vai na proa tem um cachorro maiá rada rada rada",
+  "segmentos": [
+    {
+      "start": 4.62,
+      "end": 6.12,
+      "text": "mais uma aí, olha que beleza"
+    },
+    {
+      "start": 6.12,
+      "end": 8.06,
+      "text": "vai chama"
+    },
+    {
+      "start": 8.06,
+      "end": 10.6,
+      "text": "hoje está bom demais, primeira do ano"
+    },
+    {
+      "start": 10.6,
+      "end": 11.78,
+      "text": "top, top"
+    },
+    {
+      "start": 11.78,
+      "end": 13.92,
+      "text": "bora para cima"
+    },
+    {
+      "start": 13.92,
+      "end": 15.3,
+      "text": "bora para esse capitão passar"
+    },
+    {
+      "start": 15.3,
+      "end": 18.76,
+      "text": "eu esqueci as minhocas"
+    },
+    {
+      "start": 18.76,
+      "end": 19.98,
+      "text": "que era para pegar os caras hoje"
+    },
+    {
+      "start": 19.98,
+      "end": 23.59,
+      "text": "sorte que eu tinha um pote de bichinho velho dentro da bolsa"
+    },
+    {
+      "start": 23.59,
+      "end": 25.61,
+      "text": "e me salvou de pegar os lambari"
+    },
+    {
+      "start": 25.61,
+      "end": 26.77,
+      "text": "e pegar as meninas, porque se não"
+    },
+    {
+      "start": 26.77,
+      "end": 28.37,
+      "text": "vou sair"
+    },
+    {
+      "start": 28.37,
+      "end": 32.43,
+      "text": "nem vim, acabei vindo, mas Deus abençoou"
+    },
+    {
+      "start": 32.43,
+      "end": 33.29,
+      "text": "tá joia?"
+    },
+    {
+      "start": 34.13,
+      "end": 36.05,
+      "text": "um abraço para a galera aí, no Youtube do Santo André"
+    },
+    {
+      "start": 36.05,
+      "end": 38.73,
+      "text": "Traísa Guarapiranga, o grupo do Juninho aqui do outro lado da represa"
+    },
+    {
+      "start": 38.73,
+      "end": 40.17,
+      "text": "e todo mundo que assiste, beleza?"
+    },
+    {
+      "start": 40.85,
+      "end": 42.89,
+      "text": "feliz ano novo, feliz ano novo"
+    },
+    {
+      "start": 42.89,
+      "end": 45.28,
+      "text": "chama na calanga"
+    },
+    {
+      "start": 45.28,
+      "end": 50.87,
+      "text": "aí rapaziada"
+    },
+    {
+      "start": 50.87,
+      "end": 55.08,
+      "text": "mais uma, passa na tela aí"
+    },
+    {
+      "start": 55.08,
+      "end": 57.34,
+      "text": "chama que chama"
+    },
+    {
+      "start": 57.34,
+      "end": 59.14,
+      "text": "bora"
+    },
+    {
+      "start": 59.14,
+      "end": 64.5,
+      "text": "aí"
+    },
+    {
+      "start": 64.5,
+      "end": 66.54,
+      "text": "olha que beleza"
+    },
+    {
+      "start": 66.54,
+      "end": 68.94,
+      "text": "mais uma, passeia na tela"
+    },
+    {
+      "start": 68.94,
+      "end": 70.9,
+      "text": "essa pequenininha, bonita"
+    },
+    {
+      "start": 70.9,
+      "end": 73.02,
+      "text": "segura"
+    },
+    {
+      "start": 73.02,
+      "end": 75.06,
+      "text": "aqui na ratinho pescaria, bora que bora"
+    },
+    {
+      "start": 75.06,
+      "end": 76.18,
+      "text": "chama na calanga"
+    },
+    {
+      "start": 76.18,
+      "end": 76.68,
+      "text": "aqui ó"
+    },
+    {
+      "start": 76.68,
+      "end": 77.18,
+      "text": "ó"
+    },
+    {
+      "start": 77.18,
+      "end": 78.18,
+      "text": "top hein"
+    },
+    {
+      "start": 78.18,
+      "end": 79.21,
+      "text": "bonita"
+    },
+    {
+      "start": 79.21,
+      "end": 85.26,
+      "text": "vamos que vamos"
+    },
+    {
+      "start": 85.26,
+      "end": 106.81,
+      "text": "aí galera, chama"
+    },
+    {
+      "start": 106.81,
+      "end": 109.22,
+      "text": "vamos que o negócio está bom hein"
+    },
+    {
+      "start": 109.22,
+      "end": 110.7,
+      "text": "aí ó"
+    },
+    {
+      "start": 110.7,
+      "end": 112.58,
+      "text": "mais uma"
+    },
+    {
+      "start": 112.58,
+      "end": 133.92,
+      "text": "aqui é a Guarapiranga"
+    },
+    {
+      "start": 133.92,
+      "end": 136.98,
+      "text": "isso aqui, muito redeiro"
+    },
+    {
+      "start": 136.98,
+      "end": 137.84,
+      "text": "acaba com a represa"
+    },
+    {
+      "start": 137.84,
+      "end": 168.48,
+      "text": "bora que bora galerinha"
+    },
+    {
+      "start": 168.48,
+      "end": 169.16,
+      "text": "tamo aí"
+    },
+    {
+      "start": 169.16,
+      "end": 170.79,
+      "text": "água batendo"
+    },
+    {
+      "start": 170.79,
+      "end": 173.63,
+      "text": "tá bom"
+    },
+    {
+      "start": 173.63,
+      "end": 182.79,
+      "text": "água batendo"
+    },
+    {
+      "start": 182.79,
+      "end": 184.27,
+      "text": "mas tamo aí"
+    },
+    {
+      "start": 184.27,
+      "end": 186.48,
+      "text": "tá no peixinho graças a Deus"
+    },
+    {
+      "start": 186.48,
+      "end": 188.65,
+      "text": "bora que bora"
+    },
+    {
+      "start": 188.65,
+      "end": 203.4,
+      "text": "pegando a puxada"
+    },
+    {
+      "start": 203.4,
+      "end": 205.76,
+      "text": "primeira do ano"
+    },
+    {
+      "start": 205.76,
+      "end": 206.9,
+      "text": "já teve resultado hein"
+    },
+    {
+      "start": 206.9,
+      "end": 209.26,
+      "text": "bora que bora hein"
+    },
+    {
+      "start": 209.26,
+      "end": 209.96,
+      "text": "tamo aqui ó"
+    },
+    {
+      "start": 209.96,
+      "end": 211.34,
+      "text": "na parte do areão"
+    },
+    {
+      "start": 211.34,
+      "end": 213.62,
+      "text": "e tá o bicho hein"
+    },
+    {
+      "start": 213.62,
+      "end": 214.12,
+      "text": "tá o canal"
+    },
+    {
+      "start": 214.12,
+      "end": 215.3,
+      "text": "hoje foi só sucesso"
+    },
+    {
+      "start": 215.3,
+      "end": 216.38,
+      "text": "solzão tá"
+    },
+    {
+      "start": 216.38,
+      "end": 218.06,
+      "text": "trincando galerinha"
+    },
+    {
+      "start": 218.06,
+      "end": 218.78,
+      "text": "trincando hein"
+    },
+    {
+      "start": 218.78,
+      "end": 220.42,
+      "text": "bora que bora"
+    },
+    {
+      "start": 220.42,
+      "end": 221.54,
+      "text": "vamos esperar as bruta aí"
+    },
+    {
+      "start": 221.54,
+      "end": 510.91,
+      "text": "aí galera"
+    },
+    {
+      "start": 510.91,
+      "end": 511.81,
+      "text": "chama"
+    },
+    {
+      "start": 511.81,
+      "end": 514.26,
+      "text": "vamos que o negócio está bom hein"
+    },
+    {
+      "start": 514.26,
+      "end": 515.67,
+      "text": "aí ó"
+    },
+    {
+      "start": 515.67,
+      "end": 517.6,
+      "text": "mais uma"
+    },
+    {
+      "start": 517.6,
+      "end": 526.94,
+      "text": "fiz um rancho no espraiado"
+    },
+    {
+      "start": 526.94,
+      "end": 529.94,
+      "text": "na beira da lagoa"
+    },
+    {
+      "start": 529.94,
+      "end": 533.94,
+      "text": "derrubei um pé de cedre"
+    },
+    {
+      "start": 533.94,
+      "end": 536.24,
+      "text": "construí minha canoa"
+    },
+    {
+      "start": 536.24,
+      "end": 539.74,
+      "text": "pra fazer a pescaria"
+    },
+    {
+      "start": 539.74,
+      "end": 543.63,
+      "text": "a matula vai na proa"
+    },
+    {
+      "start": 543.63,
+      "end": 546.21,
+      "text": "tem um cachorro maiá"
+    },
+    {
+      "start": 546.21,
+      "end": 546.71,
+      "text": "rada"
+    },
+    {
+      "start": 546.71,
+      "end": 546.81,
+      "text": "rada"
+    },
+    {
+      "start": 546.81,
+      "end": 547.87,
+      "text": "rada"
+    }
+  ],
+  "duracao_seg": 551.87,
+  "idioma_detectado": "pt"
+}

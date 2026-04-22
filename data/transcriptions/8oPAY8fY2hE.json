@@ -1,0 +1,22 @@
+{
+  "texto": "vai na manha vai na manha tem um vídeo bom para te vender aqui vai né tá cansando deixa ele dentro da água que ela tá assustando com ele quebrou o trem vinhentos não, não?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 25.82,
+      "text": "vai na manha vai na manha tem um vídeo bom para te vender aqui"
+    },
+    {
+      "start": 25.82,
+      "end": 54.94,
+      "text": "vai né tá cansando deixa ele dentro da água que ela tá assustando com ele quebrou o trem"
+    },
+    {
+      "start": 54.94,
+      "end": 55.66,
+      "text": "vinhentos não, não?"
+    }
+  ],
+  "duracao_seg": 57.01,
+  "idioma_detectado": "pt"
+}

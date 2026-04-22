@@ -1,0 +1,37 @@
+{
+  "texto": "O que eu não posso é ficar Esperando por você Sem saber se vai voltar Ou vai me esquecer Você tem que resolver Se me quer ou vai abrir A indecisão me mata Você tem que decidir Se teu amor acabou Mas não me deixe assim Sei que vou passar ou sofrer Mas com o terra te enlouquecer",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 6.69,
+      "text": "O que eu não posso é ficar Esperando por você"
+    },
+    {
+      "start": 6.69,
+      "end": 12.57,
+      "text": "Sem saber se vai voltar Ou vai me esquecer"
+    },
+    {
+      "start": 12.57,
+      "end": 19.42,
+      "text": "Você tem que resolver Se me quer ou vai abrir"
+    },
+    {
+      "start": 19.42,
+      "end": 25.62,
+      "text": "A indecisão me mata Você tem que decidir"
+    },
+    {
+      "start": 25.62,
+      "end": 38.92,
+      "text": "Se teu amor acabou Mas não me deixe assim"
+    },
+    {
+      "start": 38.92,
+      "end": 53.44,
+      "text": "Sei que vou passar ou sofrer Mas com o terra te enlouquecer"
+    }
+  ],
+  "duracao_seg": 54.17,
+  "idioma_detectado": "pt"
+}

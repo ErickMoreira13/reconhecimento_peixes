@@ -1,0 +1,22 @@
+{
+  "texto": "olha ela, estou sem alicate, sem nada como é que eu vou jogá-la para a água? não",
+  "segmentos": [
+    {
+      "start": 6.77,
+      "end": 39.04,
+      "text": "olha ela, estou sem alicate, sem nada"
+    },
+    {
+      "start": 39.04,
+      "end": 52.68,
+      "text": "como é que eu vou jogá-la para a água?"
+    },
+    {
+      "start": 55.46,
+      "end": 55.74,
+      "text": "não"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

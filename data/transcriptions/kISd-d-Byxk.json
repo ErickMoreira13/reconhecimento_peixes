@@ -1,0 +1,17 @@
+{
+  "texto": "O robalo? Belo do robalo! Esse sim vale a pena!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.98,
+      "text": "O robalo? Belo do robalo!"
+    },
+    {
+      "start": 9.98,
+      "end": 14.29,
+      "text": "Esse sim vale a pena!"
+    }
+  ],
+  "duracao_seg": 15.19,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,367 @@
+{
+  "texto": "Opa, começa a filmar. Eita, primeira bruta aqui no caiaque. Aí, pessoal. Bruta essa, hein, ó. Dois palmos. Belezinha? Daqui a pouco eu vou soltar ela aqui, ó. Vai pra vida. Ah, bruta. Aí sim, hein. Aí sim, hein. Vim aqui pra pegar elas. Danada, eu vou soltar agora. Aí, pessoal. Negócio seguinte, ó. Peguei ela. Vamos fazer a soltura dela aqui agora, belezinha? Não sei se vão dar pra vocês verem aí, ó. Vai pra vida. Primeira do dia, hein, caiaque. Mais uma, galera. Aí sim. Aí, galera. Mais uma, hein. Ó. Um. Quase dois palmos aí, ó. Belezinha? Essa também vai pra vida, hein. Mais uma. Vou tirar só uma fotinha aqui. Mais uma que vai pra vida. Vamos lá. Vou fazer a soltura de mais uma. Pega aí. Antes, arrancar essa sanguessura que tá aqui nela, aqui, ó. Tá cheio de sanguessura na traíra. Comendo as proteínas da traíra aí, ó. Vem pra ela. Mais alguma? Não. Vamos lá. Mais uma que vai pra vida. Pera, calma. Vambora. Foi pra vida. Vamos pra próxima. Budog. Rapaz. Essa tá difícil, hein. Ô, Budog. Essa aqui eu acho que vai ter que ir pro alho, mano. Machucou, velho. E é pequenininha. Ô, não tô nem conseguindo soltar ela. Não, não tô conseguindo tirar a mozol. Não tô conseguindo tirar a mozol, pô. Essa fisgou na vontade. Vai querer levar? Essa aqui machucou mesmo. Pequenininha, mano. Mano, eu vou soltar. Quem sabe ela vive. Quem sabe ela vive. Machucou a guelha. Bom, vamos lá. De qualquer jeito, eu vou soltar ela. Vamos ver aqui, ó. Se ela vai sobreviver, ó. Vai pra vida, vai. Já soltei, já. Mais uma.",
+  "segmentos": [
+    {
+      "start": 35.98,
+      "end": 37.16,
+      "text": "Opa, começa a filmar."
+    },
+    {
+      "start": 47.05,
+      "end": 50.5,
+      "text": "Eita, primeira bruta aqui no caiaque."
+    },
+    {
+      "start": 104.62,
+      "end": 105.22,
+      "text": "Aí, pessoal."
+    },
+    {
+      "start": 106.84,
+      "end": 108.0,
+      "text": "Bruta essa, hein, ó."
+    },
+    {
+      "start": 108.64,
+      "end": 109.42,
+      "text": "Dois palmos."
+    },
+    {
+      "start": 110.85,
+      "end": 111.27,
+      "text": "Belezinha?"
+    },
+    {
+      "start": 113.43,
+      "end": 114.77,
+      "text": "Daqui a pouco eu vou soltar ela aqui, ó."
+    },
+    {
+      "start": 114.85,
+      "end": 115.49,
+      "text": "Vai pra vida."
+    },
+    {
+      "start": 117.05,
+      "end": 118.37,
+      "text": "Ah, bruta."
+    },
+    {
+      "start": 119.25,
+      "end": 120.27,
+      "text": "Aí sim, hein."
+    },
+    {
+      "start": 121.71,
+      "end": 122.73,
+      "text": "Aí sim, hein."
+    },
+    {
+      "start": 124.36,
+      "end": 125.72,
+      "text": "Vim aqui pra pegar elas."
+    },
+    {
+      "start": 167.24,
+      "end": 168.98,
+      "text": "Danada, eu vou soltar agora."
+    },
+    {
+      "start": 174.76,
+      "end": 175.44,
+      "text": "Aí, pessoal."
+    },
+    {
+      "start": 176.28,
+      "end": 177.44,
+      "text": "Negócio seguinte, ó."
+    },
+    {
+      "start": 177.7,
+      "end": 178.6,
+      "text": "Peguei ela."
+    },
+    {
+      "start": 179.26,
+      "end": 181.42,
+      "text": "Vamos fazer a soltura dela aqui agora, belezinha?"
+    },
+    {
+      "start": 182.14,
+      "end": 183.62,
+      "text": "Não sei se vão dar pra vocês verem aí, ó."
+    },
+    {
+      "start": 184.71,
+      "end": 185.67,
+      "text": "Vai pra vida."
+    },
+    {
+      "start": 187.35,
+      "end": 189.05,
+      "text": "Primeira do dia, hein, caiaque."
+    },
+    {
+      "start": 207.58,
+      "end": 208.78,
+      "text": "Mais uma, galera."
+    },
+    {
+      "start": 209.0,
+      "end": 210.98,
+      "text": "Aí sim."
+    },
+    {
+      "start": 245.67,
+      "end": 246.25,
+      "text": "Aí, galera."
+    },
+    {
+      "start": 246.33,
+      "end": 246.95,
+      "text": "Mais uma, hein."
+    },
+    {
+      "start": 247.75,
+      "end": 247.97,
+      "text": "Ó."
+    },
+    {
+      "start": 248.35,
+      "end": 248.63,
+      "text": "Um."
+    },
+    {
+      "start": 250.38,
+      "end": 251.54,
+      "text": "Quase dois palmos aí, ó."
+    },
+    {
+      "start": 252.51,
+      "end": 252.99,
+      "text": "Belezinha?"
+    },
+    {
+      "start": 254.33,
+      "end": 255.73,
+      "text": "Essa também vai pra vida, hein."
+    },
+    {
+      "start": 259.0,
+      "end": 259.38,
+      "text": "Mais uma."
+    },
+    {
+      "start": 259.42,
+      "end": 260.74,
+      "text": "Vou tirar só uma fotinha aqui."
+    },
+    {
+      "start": 261.36,
+      "end": 284.9,
+      "text": "Mais uma que vai pra vida."
+    },
+    {
+      "start": 291.83,
+      "end": 292.29,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 292.29,
+      "end": 295.11,
+      "text": "Vou fazer a soltura de mais uma."
+    },
+    {
+      "start": 295.29,
+      "end": 295.63,
+      "text": "Pega aí."
+    },
+    {
+      "start": 295.63,
+      "end": 300.72,
+      "text": "Antes, arrancar essa sanguessura que tá aqui nela, aqui, ó."
+    },
+    {
+      "start": 301.04,
+      "end": 303.91,
+      "text": "Tá cheio de sanguessura na traíra."
+    },
+    {
+      "start": 304.35,
+      "end": 307.76,
+      "text": "Comendo as proteínas da traíra aí, ó."
+    },
+    {
+      "start": 308.16,
+      "end": 312.8,
+      "text": "Vem pra ela."
+    },
+    {
+      "start": 315.63,
+      "end": 316.25,
+      "text": "Mais alguma?"
+    },
+    {
+      "start": 316.71,
+      "end": 316.83,
+      "text": "Não."
+    },
+    {
+      "start": 318.36,
+      "end": 318.72,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 320.28,
+      "end": 321.38,
+      "text": "Mais uma que vai pra vida."
+    },
+    {
+      "start": 324.74,
+      "end": 325.7,
+      "text": "Pera, calma."
+    },
+    {
+      "start": 326.82,
+      "end": 327.3,
+      "text": "Vambora."
+    },
+    {
+      "start": 328.6,
+      "end": 329.18,
+      "text": "Foi pra vida."
+    },
+    {
+      "start": 329.84,
+      "end": 330.56,
+      "text": "Vamos pra próxima."
+    },
+    {
+      "start": 330.56,
+      "end": 340.58,
+      "text": "Budog."
+    },
+    {
+      "start": 401.86,
+      "end": 402.26,
+      "text": "Rapaz."
+    },
+    {
+      "start": 407.12,
+      "end": 408.72,
+      "text": "Essa tá difícil, hein."
+    },
+    {
+      "start": 419.03,
+      "end": 419.79,
+      "text": "Ô, Budog."
+    },
+    {
+      "start": 421.8,
+      "end": 423.78,
+      "text": "Essa aqui eu acho que vai ter que ir pro alho, mano."
+    },
+    {
+      "start": 424.08,
+      "end": 424.68,
+      "text": "Machucou, velho."
+    },
+    {
+      "start": 424.84,
+      "end": 425.72,
+      "text": "E é pequenininha."
+    },
+    {
+      "start": 434.54,
+      "end": 436.2,
+      "text": "Ô, não tô nem conseguindo soltar ela."
+    },
+    {
+      "start": 438.83,
+      "end": 440.37,
+      "text": "Não, não tô conseguindo tirar a mozol."
+    },
+    {
+      "start": 442.4,
+      "end": 443.86,
+      "text": "Não tô conseguindo tirar a mozol, pô."
+    },
+    {
+      "start": 447.13,
+      "end": 448.69,
+      "text": "Essa fisgou na vontade."
+    },
+    {
+      "start": 467.97,
+      "end": 468.61,
+      "text": "Vai querer levar?"
+    },
+    {
+      "start": 468.73,
+      "end": 469.69,
+      "text": "Essa aqui machucou mesmo."
+    },
+    {
+      "start": 472.76,
+      "end": 473.34,
+      "text": "Pequenininha, mano."
+    },
+    {
+      "start": 473.34,
+      "end": 476.4,
+      "text": "Mano, eu vou soltar."
+    },
+    {
+      "start": 476.52,
+      "end": 477.36,
+      "text": "Quem sabe ela vive."
+    },
+    {
+      "start": 479.45,
+      "end": 480.55,
+      "text": "Quem sabe ela vive."
+    },
+    {
+      "start": 482.77,
+      "end": 483.59,
+      "text": "Machucou a guelha."
+    },
+    {
+      "start": 489.98,
+      "end": 490.86,
+      "text": "Bom, vamos lá."
+    },
+    {
+      "start": 492.28,
+      "end": 493.98,
+      "text": "De qualquer jeito, eu vou soltar ela."
+    },
+    {
+      "start": 494.48,
+      "end": 495.22,
+      "text": "Vamos ver aqui, ó."
+    },
+    {
+      "start": 495.5,
+      "end": 496.58,
+      "text": "Se ela vai sobreviver, ó."
+    },
+    {
+      "start": 496.98,
+      "end": 497.7,
+      "text": "Vai pra vida, vai."
+    },
+    {
+      "start": 501.48,
+      "end": 502.36,
+      "text": "Já soltei, já."
+    },
+    {
+      "start": 505.3,
+      "end": 505.82,
+      "text": "Mais uma."
+    }
+  ],
+  "duracao_seg": 506.45,
+  "idioma_detectado": "pt"
+}

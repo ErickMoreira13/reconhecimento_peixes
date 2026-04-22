@@ -1,0 +1,32 @@
+{
+  "texto": "Olá pessoal, boa tarde para todos, para a chuva. Estou aqui no Rio Cariúi, dia 11 de abril de 2025, exatamente aproximadamente 4 horas da tarde. A barragem já se encontra com bastante água, está aumentando. Acredito que as águas de Parias Brito ainda não chegaram, essas são as águas mais de perto. Tem tudo para subir a nós realmente sembrar nesse ano.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Olá pessoal, boa tarde para todos, para a chuva."
+    },
+    {
+      "start": 4.26,
+      "end": 13.82,
+      "text": "Estou aqui no Rio Cariúi, dia 11 de abril de 2025, exatamente aproximadamente 4 horas da tarde."
+    },
+    {
+      "start": 14.22,
+      "end": 18.0,
+      "text": "A barragem já se encontra com bastante água, está aumentando."
+    },
+    {
+      "start": 22.16,
+      "end": 26.06,
+      "text": "Acredito que as águas de Parias Brito ainda não chegaram, essas são as águas mais de perto."
+    },
+    {
+      "start": 27.71,
+      "end": 30.47,
+      "text": "Tem tudo para subir a nós realmente sembrar nesse ano."
+    }
+  ],
+  "duracao_seg": 41.09,
+  "idioma_detectado": "pt"
+}

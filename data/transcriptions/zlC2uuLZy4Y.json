@@ -1,0 +1,67 @@
+{
+  "texto": "Tá cheio o rio ainda, viu, gente? A barranca nossa aí vai mais pra dentro ali, ó. Naquela marca do pau ali, ó. Tem um pau atravessando de fora a fora aqui. O riozão tá cheio ainda, ó. Tá vindo até aqui no pé ainda. Mas mais uma semana sem chuva aí já tá no ponto. Se vamos aqui hoje. Dia 1º de março. Tá aí o meu companheiro Theo aqui, ó. Pegando as corimbas. Aí sim.",
+  "segmentos": [
+    {
+      "start": 0.82,
+      "end": 3.02,
+      "text": "Tá cheio o rio ainda, viu, gente?"
+    },
+    {
+      "start": 4.19,
+      "end": 6.45,
+      "text": "A barranca nossa aí vai mais pra dentro ali, ó."
+    },
+    {
+      "start": 6.67,
+      "end": 8.37,
+      "text": "Naquela marca do pau ali, ó."
+    },
+    {
+      "start": 8.85,
+      "end": 11.01,
+      "text": "Tem um pau atravessando de fora a fora aqui."
+    },
+    {
+      "start": 12.6,
+      "end": 14.0,
+      "text": "O riozão tá cheio ainda, ó."
+    },
+    {
+      "start": 14.0,
+      "end": 15.5,
+      "text": "Tá vindo até aqui no pé ainda."
+    },
+    {
+      "start": 16.94,
+      "end": 19.76,
+      "text": "Mas mais uma semana sem chuva aí já tá no ponto."
+    },
+    {
+      "start": 20.9,
+      "end": 21.9,
+      "text": "Se vamos aqui hoje."
+    },
+    {
+      "start": 23.06,
+      "end": 24.3,
+      "text": "Dia 1º de março."
+    },
+    {
+      "start": 25.04,
+      "end": 26.8,
+      "text": "Tá aí o meu companheiro Theo aqui, ó."
+    },
+    {
+      "start": 27.32,
+      "end": 28.58,
+      "text": "Pegando as corimbas."
+    },
+    {
+      "start": 29.96,
+      "end": 30.84,
+      "text": "Aí sim."
+    }
+  ],
+  "duracao_seg": 31.41,
+  "idioma_detectado": "pt"
+}

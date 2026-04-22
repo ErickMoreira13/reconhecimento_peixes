@@ -1,0 +1,117 @@
+{
+  "texto": "Tudo casa, casa crânia, tudo vendado, ó Nossa daqui, ó Olha que doideira Vai ter uma parabólica ali, ó Olha que coisa doida Doideira casa, né Diz que vai encher ainda mais, ó Olha isso aqui, ó Deve ter tudo na areia aqui embaixo, hein Certeza Aqui, fazer um skip aqui embaixo, ó Olha que top Olha isso, ó Sargento e companhia Olha lá, tem até uma geladeira boiando lá, ó Olha que doideira Prejuízo e tanto, né Você tá doido Olha lá, moçada, ó E é bonito Não é pouca casa, não É muita casa que ficou alagada",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "Tudo casa, casa crânia, tudo vendado, ó"
+    },
+    {
+      "start": 2.74,
+      "end": 4.74,
+      "text": "Nossa daqui, ó"
+    },
+    {
+      "start": 4.74,
+      "end": 7.51,
+      "text": "Olha que doideira"
+    },
+    {
+      "start": 7.51,
+      "end": 9.63,
+      "text": "Vai ter uma parabólica ali, ó"
+    },
+    {
+      "start": 9.63,
+      "end": 12.31,
+      "text": "Olha que coisa doida"
+    },
+    {
+      "start": 12.31,
+      "end": 16.76,
+      "text": "Doideira casa, né"
+    },
+    {
+      "start": 16.76,
+      "end": 19.64,
+      "text": "Diz que vai encher ainda mais, ó"
+    },
+    {
+      "start": 19.64,
+      "end": 21.4,
+      "text": "Olha isso aqui, ó"
+    },
+    {
+      "start": 21.4,
+      "end": 23.82,
+      "text": "Deve ter tudo na areia aqui embaixo, hein"
+    },
+    {
+      "start": 23.82,
+      "end": 26.24,
+      "text": "Certeza"
+    },
+    {
+      "start": 26.24,
+      "end": 29.02,
+      "text": "Aqui, fazer um skip aqui embaixo, ó"
+    },
+    {
+      "start": 29.02,
+      "end": 29.8,
+      "text": "Olha que top"
+    },
+    {
+      "start": 29.8,
+      "end": 34.73,
+      "text": "Olha isso, ó"
+    },
+    {
+      "start": 34.73,
+      "end": 37.69,
+      "text": "Sargento e companhia"
+    },
+    {
+      "start": 37.69,
+      "end": 43.38,
+      "text": "Olha lá, tem até uma geladeira boiando lá, ó"
+    },
+    {
+      "start": 43.38,
+      "end": 44.28,
+      "text": "Olha que doideira"
+    },
+    {
+      "start": 44.28,
+      "end": 49.5,
+      "text": "Prejuízo e tanto, né"
+    },
+    {
+      "start": 49.5,
+      "end": 50.48,
+      "text": "Você tá doido"
+    },
+    {
+      "start": 50.48,
+      "end": 54.42,
+      "text": "Olha lá, moçada, ó"
+    },
+    {
+      "start": 54.42,
+      "end": 56.07,
+      "text": "E é bonito"
+    },
+    {
+      "start": 56.07,
+      "end": 57.29,
+      "text": "Não é pouca casa, não"
+    },
+    {
+      "start": 57.29,
+      "end": 59.37,
+      "text": "É muita casa que ficou alagada"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

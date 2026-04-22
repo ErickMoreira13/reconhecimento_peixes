@@ -1,0 +1,32 @@
+{
+  "texto": "Levanta cedo e fala puta que eu tô pronto Meu Deus que tá no céu Eu tenho assim pra correr Humildade é disciplina, dois sermão que mãe me deu Eu tenho assim",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 3.98,
+      "text": "Levanta cedo e fala puta que eu tô pronto"
+    },
+    {
+      "start": 3.98,
+      "end": 7.36,
+      "text": "Meu Deus que tá no céu"
+    },
+    {
+      "start": 7.36,
+      "end": 9.24,
+      "text": "Eu tenho assim pra correr"
+    },
+    {
+      "start": 9.24,
+      "end": 13.61,
+      "text": "Humildade é disciplina, dois sermão que mãe me deu"
+    },
+    {
+      "start": 13.61,
+      "end": 14.94,
+      "text": "Eu tenho assim"
+    }
+  ],
+  "duracao_seg": 20.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Fala galera, lua cheia hoje, pescaria de traíra, muita gente não acredita, mas se liga nisso aqui, olha que sensacional, olha o tamanho dessas brutas aqui, mais de quilo cada um, olha só, gigante bicho, acredita irmão, a lua cheia é sensacional irmão, pode pescar só, peguei essas duas, uma pequena e escapou uma média bicho, olha que doideira engoliu, engoliu o sapinho inteiro, vou meter a mão na boca dela, a sombrinha do sapinho pretinho ali dentro da boca dela, que doideira, aprendi da pesca, só alegria",
+  "segmentos": [
+    {
+      "start": 1.52,
+      "end": 33.73,
+      "text": "Fala galera, lua cheia hoje, pescaria de traíra, muita gente não acredita, mas se liga nisso aqui, olha que sensacional, olha o tamanho dessas brutas aqui, mais de quilo cada um, olha só, gigante bicho, acredita irmão, a lua cheia é sensacional irmão, pode pescar só, peguei essas duas, uma pequena e escapou uma média bicho, olha que doideira"
+    },
+    {
+      "start": 34.27,
+      "end": 51.43,
+      "text": "engoliu, engoliu o sapinho inteiro, vou meter a mão na boca dela, a sombrinha do sapinho pretinho ali dentro da boca dela, que doideira, aprendi da pesca, só alegria"
+    }
+  ],
+  "duracao_seg": 53.87,
+  "idioma_detectado": "pt"
+}

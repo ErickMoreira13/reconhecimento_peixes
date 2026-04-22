@@ -1,0 +1,47 @@
+{
+  "texto": "O homem mais rico de Orois É ele E olha o que ele vende, ó gente Ó, peixe Peixe fresquinho aqui, ó De frente ao mercado, olha aí É só guardando dinheiro Aqui, ó, em Orois",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "O homem mais rico de Orois"
+    },
+    {
+      "start": 2.04,
+      "end": 3.72,
+      "text": "É ele"
+    },
+    {
+      "start": 3.72,
+      "end": 5.84,
+      "text": "E olha o que ele vende, ó gente"
+    },
+    {
+      "start": 5.84,
+      "end": 7.76,
+      "text": "Ó, peixe"
+    },
+    {
+      "start": 7.76,
+      "end": 9.36,
+      "text": "Peixe fresquinho aqui, ó"
+    },
+    {
+      "start": 9.36,
+      "end": 11.14,
+      "text": "De frente ao mercado, olha aí"
+    },
+    {
+      "start": 11.14,
+      "end": 12.44,
+      "text": "É só guardando dinheiro"
+    },
+    {
+      "start": 12.44,
+      "end": 15.48,
+      "text": "Aqui, ó, em Orois"
+    }
+  ],
+  "duracao_seg": 15.59,
+  "idioma_detectado": "pt"
+}

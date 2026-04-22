@@ -1,0 +1,477 @@
+{
+  "texto": "Vai pra cima, vai pra cima, vai pra cima, vai pra cima, peixão. Tá aí o peixe, tá aí o peixe. Com o naré, né? O naré foi pro meio do pau, olha o que aconteceu com a garaté aí, ó. Abriu toda, peixe de uns 10 quilos com certeza, enorme. Aí não tem o que fazer, vai pro meio do pau aí, acontece assim mesmo, pescar na Amazônia é assim. Aqui, Rio Juma, lugar de peixe grande. É isso aí, tirar a isca aqui da boca dele. Mostrar pro amigo aí de casa qual foi a isquinha danada. Olha lá qual foi a danada, olha qual foi a danada. É, meu amigo, essa aqui levanta peixe. Bonito o ataque branco, bonito, né? É o tucunaré, meu amigo, é o tucunaré. Aqui por baixo de você, é o açu do Rio Juma. É o troféu. Lindo peixe. Lindo, lindo, lindo, lindo, lindo. Ó o bocônio danado, aí ó o bocônio danado. Esse é brabo. Brabo, brabo, brabo. Mostrar aqui o troféu. A suzão aqui do Juma. Lindo peixe. Lindo o tucunaré. Tacando a isca de hélice. O tucunaré na isca de superfície é gostoso. Na hélice é melhor ainda. Vamos explorando aqui um meio aqui, que forma uma praia aqui, quando o verão está bem forte. É um lugar que o branco conhece aqui de encontrar peixe grande. Peixe bom. Peixão. Sai do fundo. Peixão. Grande. Segura o barco aí, branco. Rapaz, sai daí. Aí. É brabo, meu amigo. Está aqui, está aqui. Está aqui para limpar o roxo. Vai. Está aqui. Sai daí. Vai para o fundo, vai para o fundo. Sai. Cadê o alicate? Eu cansei, meu amigo. Peixão. Peixão. No gig. Esse peixe cansou, meu amigo. Peixe no gig. Tirar aqui. Olha a isca aí, ó. Gig de pena, meu amigo. Olha lá o troféu. Troféu. Eeeh, peixão. Olha lá o troféu. Repia aí, peixe. Repia, rapaz. Lindo. Açu. Aqui do rio Juma. Olha só que peixe bonito. Mostra a cara dele aí. Ele enroscou no pau. Salvei ele lá do fundo. É um gigante. Peixace, peixace. Ai, cansado aqui. Esse cavalo. Nove quilos de tucunaré. Aqui do rio Juma. Quem disse que no Juma não tem peixe grande, meu amigo? Olha a cara dele aí. A cara do animal. Animal do rio Juma. Nove quilos de tucunaré. Obrigado, peixe, pela sua participação. Beijo do papai. Na hora de dar vida pra ele. Esse peixe você não pode matar, não. Deixa ele recuperar legal aqui. Recuperar legal. A gente solta ele. Quando você quiser ir, cara. Isso, vai embora, vá. Pra casa, vá. Pra casa, vá. Vá pra casa, peixão. Foi embora lá pro fundo. Esse cara brigou, meu amigo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 30.25,
+      "text": "Vai pra cima, vai pra cima, vai pra cima, vai pra cima, peixão."
+    },
+    {
+      "start": 75.48,
+      "end": 76.48,
+      "text": "Tá aí o peixe, tá aí o peixe."
+    },
+    {
+      "start": 95.09,
+      "end": 100.16,
+      "text": "Com o naré, né? O naré foi pro meio do pau,"
+    },
+    {
+      "start": 101.64,
+      "end": 103.24,
+      "text": "olha o que aconteceu com a garaté aí, ó."
+    },
+    {
+      "start": 103.62,
+      "end": 113.54,
+      "text": "Abriu toda, peixe de uns 10 quilos com certeza, enorme."
+    },
+    {
+      "start": 114.54,
+      "end": 116.74,
+      "text": "Aí não tem o que fazer, vai pro meio do pau aí,"
+    },
+    {
+      "start": 119.22,
+      "end": 123.04,
+      "text": "acontece assim mesmo, pescar na Amazônia é assim."
+    },
+    {
+      "start": 123.04,
+      "end": 261.2,
+      "text": "Aqui, Rio Juma, lugar de peixe grande."
+    },
+    {
+      "start": 262.54,
+      "end": 268.26,
+      "text": "É isso aí, tirar a isca aqui da boca dele."
+    },
+    {
+      "start": 270.11,
+      "end": 273.73,
+      "text": "Mostrar pro amigo aí de casa qual foi a isquinha danada."
+    },
+    {
+      "start": 278.98,
+      "end": 282.4,
+      "text": "Olha lá qual foi a danada, olha qual foi a danada."
+    },
+    {
+      "start": 283.34,
+      "end": 286.16,
+      "text": "É, meu amigo, essa aqui levanta peixe."
+    },
+    {
+      "start": 287.87,
+      "end": 290.8,
+      "text": "Bonito o ataque branco, bonito, né?"
+    },
+    {
+      "start": 290.8,
+      "end": 296.8,
+      "text": "É o tucunaré, meu amigo, é o tucunaré."
+    },
+    {
+      "start": 296.8,
+      "end": 302.9,
+      "text": "Aqui por baixo de você, é o açu do Rio Juma."
+    },
+    {
+      "start": 303.7,
+      "end": 306.31,
+      "text": "É o troféu."
+    },
+    {
+      "start": 307.7,
+      "end": 309.14,
+      "text": "Lindo peixe."
+    },
+    {
+      "start": 310.59,
+      "end": 312.31,
+      "text": "Lindo, lindo, lindo, lindo, lindo."
+    },
+    {
+      "start": 313.36,
+      "end": 316.48,
+      "text": "Ó o bocônio danado, aí ó o bocônio danado."
+    },
+    {
+      "start": 317.48,
+      "end": 318.64,
+      "text": "Esse é brabo."
+    },
+    {
+      "start": 320.07,
+      "end": 321.63,
+      "text": "Brabo, brabo, brabo."
+    },
+    {
+      "start": 321.63,
+      "end": 324.37,
+      "text": "Mostrar aqui o troféu."
+    },
+    {
+      "start": 325.31,
+      "end": 328.45,
+      "text": "A suzão aqui do Juma."
+    },
+    {
+      "start": 329.79,
+      "end": 331.31,
+      "text": "Lindo peixe."
+    },
+    {
+      "start": 332.32,
+      "end": 333.22,
+      "text": "Lindo o tucunaré."
+    },
+    {
+      "start": 333.88,
+      "end": 336.4,
+      "text": "Tacando a isca de hélice."
+    },
+    {
+      "start": 337.46,
+      "end": 340.42,
+      "text": "O tucunaré na isca de superfície é gostoso."
+    },
+    {
+      "start": 341.08,
+      "end": 343.48,
+      "text": "Na hélice é melhor ainda."
+    },
+    {
+      "start": 343.48,
+      "end": 377.73,
+      "text": "Vamos explorando aqui um meio aqui, que forma uma praia aqui, quando o verão está bem forte."
+    },
+    {
+      "start": 378.76,
+      "end": 383.42,
+      "text": "É um lugar que o branco conhece aqui de encontrar peixe grande."
+    },
+    {
+      "start": 388.02,
+      "end": 388.42,
+      "text": "Peixe bom."
+    },
+    {
+      "start": 395.96,
+      "end": 396.36,
+      "text": "Peixão."
+    },
+    {
+      "start": 398.86,
+      "end": 399.42,
+      "text": "Sai do fundo."
+    },
+    {
+      "start": 402.31,
+      "end": 402.83,
+      "text": "Peixão."
+    },
+    {
+      "start": 406.38,
+      "end": 406.9,
+      "text": "Grande."
+    },
+    {
+      "start": 412.62,
+      "end": 413.52,
+      "text": "Segura o barco aí, branco."
+    },
+    {
+      "start": 414.4,
+      "end": 421.18,
+      "text": "Rapaz, sai daí."
+    },
+    {
+      "start": 426.7,
+      "end": 426.92,
+      "text": "Aí."
+    },
+    {
+      "start": 431.63,
+      "end": 433.15,
+      "text": "É brabo, meu amigo."
+    },
+    {
+      "start": 435.96,
+      "end": 436.54,
+      "text": "Está aqui, está aqui."
+    },
+    {
+      "start": 437.32,
+      "end": 438.26,
+      "text": "Está aqui para limpar o roxo."
+    },
+    {
+      "start": 438.26,
+      "end": 438.68,
+      "text": "Vai."
+    },
+    {
+      "start": 439.69,
+      "end": 440.07,
+      "text": "Está aqui."
+    },
+    {
+      "start": 441.08,
+      "end": 441.4,
+      "text": "Sai daí."
+    },
+    {
+      "start": 442.68,
+      "end": 443.66,
+      "text": "Vai para o fundo, vai para o fundo."
+    },
+    {
+      "start": 448.24,
+      "end": 448.62,
+      "text": "Sai."
+    },
+    {
+      "start": 449.54,
+      "end": 450.22,
+      "text": "Cadê o alicate?"
+    },
+    {
+      "start": 452.5,
+      "end": 453.72,
+      "text": "Eu cansei, meu amigo."
+    },
+    {
+      "start": 454.98,
+      "end": 455.54,
+      "text": "Peixão."
+    },
+    {
+      "start": 459.41,
+      "end": 459.97,
+      "text": "Peixão."
+    },
+    {
+      "start": 462.32,
+      "end": 463.08,
+      "text": "No gig."
+    },
+    {
+      "start": 466.85,
+      "end": 468.57,
+      "text": "Esse peixe cansou, meu amigo."
+    },
+    {
+      "start": 471.06,
+      "end": 473.0,
+      "text": "Peixe no gig."
+    },
+    {
+      "start": 474.0,
+      "end": 474.74,
+      "text": "Tirar aqui."
+    },
+    {
+      "start": 476.62,
+      "end": 477.52,
+      "text": "Olha a isca aí, ó."
+    },
+    {
+      "start": 478.36,
+      "end": 480.56,
+      "text": "Gig de pena, meu amigo."
+    },
+    {
+      "start": 481.12,
+      "end": 484.7,
+      "text": "Olha lá o troféu."
+    },
+    {
+      "start": 484.7,
+      "end": 485.3,
+      "text": "Troféu."
+    },
+    {
+      "start": 486.4,
+      "end": 488.38,
+      "text": "Eeeh, peixão."
+    },
+    {
+      "start": 490.15,
+      "end": 492.15,
+      "text": "Olha lá o troféu."
+    },
+    {
+      "start": 493.19,
+      "end": 494.37,
+      "text": "Repia aí, peixe."
+    },
+    {
+      "start": 495.64,
+      "end": 496.94,
+      "text": "Repia, rapaz."
+    },
+    {
+      "start": 498.1,
+      "end": 498.58,
+      "text": "Lindo."
+    },
+    {
+      "start": 498.7,
+      "end": 499.22,
+      "text": "Açu."
+    },
+    {
+      "start": 500.07,
+      "end": 501.59,
+      "text": "Aqui do rio Juma."
+    },
+    {
+      "start": 501.59,
+      "end": 504.49,
+      "text": "Olha só que peixe bonito."
+    },
+    {
+      "start": 505.78,
+      "end": 507.32,
+      "text": "Mostra a cara dele aí."
+    },
+    {
+      "start": 508.64,
+      "end": 509.92,
+      "text": "Ele enroscou no pau."
+    },
+    {
+      "start": 510.22,
+      "end": 511.62,
+      "text": "Salvei ele lá do fundo."
+    },
+    {
+      "start": 512.64,
+      "end": 514.18,
+      "text": "É um gigante."
+    },
+    {
+      "start": 516.33,
+      "end": 517.71,
+      "text": "Peixace, peixace."
+    },
+    {
+      "start": 519.8,
+      "end": 521.06,
+      "text": "Ai, cansado aqui."
+    },
+    {
+      "start": 521.98,
+      "end": 523.16,
+      "text": "Esse cavalo."
+    },
+    {
+      "start": 523.16,
+      "end": 528.59,
+      "text": "Nove quilos de tucunaré."
+    },
+    {
+      "start": 529.98,
+      "end": 532.02,
+      "text": "Aqui do rio Juma."
+    },
+    {
+      "start": 533.14,
+      "end": 535.68,
+      "text": "Quem disse que no Juma não tem peixe grande, meu amigo?"
+    },
+    {
+      "start": 536.42,
+      "end": 537.58,
+      "text": "Olha a cara dele aí."
+    },
+    {
+      "start": 537.82,
+      "end": 538.66,
+      "text": "A cara do animal."
+    },
+    {
+      "start": 540.42,
+      "end": 542.04,
+      "text": "Animal do rio Juma."
+    },
+    {
+      "start": 542.4,
+      "end": 543.88,
+      "text": "Nove quilos de tucunaré."
+    },
+    {
+      "start": 544.66,
+      "end": 546.62,
+      "text": "Obrigado, peixe, pela sua participação."
+    },
+    {
+      "start": 547.7,
+      "end": 549.08,
+      "text": "Beijo do papai."
+    },
+    {
+      "start": 549.08,
+      "end": 551.92,
+      "text": "Na hora de dar vida pra ele."
+    },
+    {
+      "start": 553.81,
+      "end": 555.15,
+      "text": "Esse peixe você não pode matar, não."
+    },
+    {
+      "start": 555.81,
+      "end": 557.31,
+      "text": "Deixa ele recuperar legal aqui."
+    },
+    {
+      "start": 558.6,
+      "end": 559.8,
+      "text": "Recuperar legal."
+    },
+    {
+      "start": 560.58,
+      "end": 561.64,
+      "text": "A gente solta ele."
+    },
+    {
+      "start": 562.6,
+      "end": 563.98,
+      "text": "Quando você quiser ir, cara."
+    },
+    {
+      "start": 566.34,
+      "end": 567.5,
+      "text": "Isso, vai embora, vá."
+    },
+    {
+      "start": 567.86,
+      "end": 569.12,
+      "text": "Pra casa, vá."
+    },
+    {
+      "start": 569.58,
+      "end": 572.2,
+      "text": "Pra casa, vá."
+    },
+    {
+      "start": 574.12,
+      "end": 576.52,
+      "text": "Vá pra casa, peixão."
+    },
+    {
+      "start": 577.56,
+      "end": 579.26,
+      "text": "Foi embora lá pro fundo."
+    },
+    {
+      "start": 580.56,
+      "end": 582.04,
+      "text": "Esse cara brigou, meu amigo."
+    }
+  ],
+  "duracao_seg": 583.25,
+  "idioma_detectado": "pt"
+}

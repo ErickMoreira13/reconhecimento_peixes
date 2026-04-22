@@ -1,0 +1,27 @@
+{
+  "texto": "E uma amada virgem do Coronel Bento Lira Fiz um rancho de barrote, amarrei com cipó gambinha Fiz na beira da lagoa, só para pescar traíra Me incomodo, química e pi",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.13,
+      "text": "E uma amada virgem do Coronel Bento Lira"
+    },
+    {
+      "start": 7.13,
+      "end": 12.39,
+      "text": "Fiz um rancho de barrote, amarrei com cipó gambinha"
+    },
+    {
+      "start": 12.39,
+      "end": 18.88,
+      "text": "Fiz na beira da lagoa, só para pescar traíra"
+    },
+    {
+      "start": 18.88,
+      "end": 28.06,
+      "text": "Me incomodo, química e pi"
+    }
+  ],
+  "duracao_seg": 32.03,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,47 @@
+{
+  "texto": "Bom, agora eu vou sair daqui de Barra Bonita, né, já terminei aqui o que eu tinha que fazer, que era pegar uma declaração, né, também tirar uma DAP, agora daqui eu vou para Itaju, né, lá no meu rancho, aí eu vou pescar, né, eu vou ficar a semana inteira lá. Então, de Barra Bonita para Itaju, vou filmando aqui, tá? Aqui nós estamos passando pelo Ibitinga, é Bariri, aqui é Bariri, cidade de Bariri, vamos passar pelo balão aqui do trem, no sentido da Ibitinga, estamos chegando, é a entrada do rancho aqui, é, cheguei, graças a Deus cheguei. Pois é, chegamos, bom, acabei de chegar no rancho aqui, fiz um roteiro aqui, saí de Araquara, fui para Barra Bonita, e Barra Bonita vim aqui para Itaju, aqui no rancho. Mas cheguei bem, graças a Deus, e agora essa semana que eu pescar, né, tenho que trabalhar um pouco.",
+  "segmentos": [
+    {
+      "start": 16.14,
+      "end": 22.6,
+      "text": "Bom, agora eu vou sair daqui de Barra Bonita, né, já terminei aqui o que eu tinha que fazer,"
+    },
+    {
+      "start": 22.6,
+      "end": 36.61,
+      "text": "que era pegar uma declaração, né, também tirar uma DAP, agora daqui eu vou para Itaju, né, lá no meu rancho,"
+    },
+    {
+      "start": 36.61,
+      "end": 44.02,
+      "text": "aí eu vou pescar, né, eu vou ficar a semana inteira lá. Então, de Barra Bonita para Itaju,"
+    },
+    {
+      "start": 44.02,
+      "end": 304.52,
+      "text": "vou filmando aqui, tá? Aqui nós estamos passando pelo Ibitinga, é Bariri, aqui é Bariri, cidade de Bariri,"
+    },
+    {
+      "start": 304.52,
+      "end": 428.38,
+      "text": "vamos passar pelo balão aqui do trem, no sentido da Ibitinga, estamos chegando, é a entrada do rancho aqui,"
+    },
+    {
+      "start": 428.38,
+      "end": 558.38,
+      "text": "é, cheguei, graças a Deus cheguei. Pois é, chegamos, bom, acabei de chegar no rancho aqui, fiz um roteiro"
+    },
+    {
+      "start": 558.38,
+      "end": 566.22,
+      "text": "aqui, saí de Araquara, fui para Barra Bonita, e Barra Bonita vim aqui para Itaju, aqui no rancho."
+    },
+    {
+      "start": 566.22,
+      "end": 576.25,
+      "text": "Mas cheguei bem, graças a Deus, e agora essa semana que eu pescar, né, tenho que trabalhar um pouco."
+    }
+  ],
+  "duracao_seg": 599.35,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,57 @@
+{
+  "texto": "Pegou! Pegou! Tem que trabalhar Vai ter que trabalhar a linha Ah, pegou! Meu Deus do céu Pegou aqui também Outro dublê Daniel Meu Deus Está na mão!",
+  "segmentos": [
+    {
+      "start": 2.45,
+      "end": 4.93,
+      "text": "Pegou!"
+    },
+    {
+      "start": 4.93,
+      "end": 6.93,
+      "text": "Pegou!"
+    },
+    {
+      "start": 6.93,
+      "end": 11.55,
+      "text": "Tem que trabalhar"
+    },
+    {
+      "start": 11.55,
+      "end": 13.55,
+      "text": "Vai ter que trabalhar a linha"
+    },
+    {
+      "start": 13.55,
+      "end": 17.95,
+      "text": "Ah, pegou!"
+    },
+    {
+      "start": 17.95,
+      "end": 19.95,
+      "text": "Meu Deus do céu"
+    },
+    {
+      "start": 19.95,
+      "end": 21.95,
+      "text": "Pegou aqui também"
+    },
+    {
+      "start": 21.95,
+      "end": 24.14,
+      "text": "Outro dublê Daniel"
+    },
+    {
+      "start": 24.14,
+      "end": 26.14,
+      "text": "Meu Deus"
+    },
+    {
+      "start": 26.14,
+      "end": 28.14,
+      "text": "Está na mão!"
+    }
+  ],
+  "duracao_seg": 29.11,
+  "idioma_detectado": "pt"
+}

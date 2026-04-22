@@ -1,0 +1,17 @@
+{
+  "texto": "Aí, acabou o que já saiu, hein? Hã?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.89,
+      "text": "Aí, acabou o que já saiu, hein?"
+    },
+    {
+      "start": 5.19,
+      "end": 5.45,
+      "text": "Hã?"
+    }
+  ],
+  "duracao_seg": 7.49,
+  "idioma_detectado": "pt"
+}

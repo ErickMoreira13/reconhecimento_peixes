@@ -1,0 +1,27 @@
+{
+  "texto": "Sou lá do sertão, Cariri Sou lá do sertão de Oroz De lá e daqui Todo canto e lugar eu solto a voz Sou lá do sertão, Cariri Sou lá do sertão de Oroz De lá e daqui Todo canto e lugar eu solto a voz",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 4.29,
+      "text": "Sou lá do sertão, Cariri Sou lá do sertão de Oroz"
+    },
+    {
+      "start": 4.29,
+      "end": 8.03,
+      "text": "De lá e daqui Todo canto e lugar eu solto a voz"
+    },
+    {
+      "start": 8.03,
+      "end": 12.49,
+      "text": "Sou lá do sertão, Cariri Sou lá do sertão de Oroz"
+    },
+    {
+      "start": 12.49,
+      "end": 16.09,
+      "text": "De lá e daqui Todo canto e lugar eu solto a voz"
+    }
+  ],
+  "duracao_seg": 16.51,
+  "idioma_detectado": "pt"
+}

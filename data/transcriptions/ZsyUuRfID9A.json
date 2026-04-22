@@ -1,0 +1,22 @@
+{
+  "texto": "E água suja é lugar de peixe juntar Um anzol de galha pra pegar uma rua Meu rancho fica na beira de cá esforço",
+  "segmentos": [
+    {
+      "start": 10.06,
+      "end": 13.9,
+      "text": "E água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 13.9,
+      "end": 18.73,
+      "text": "Um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 18.73,
+      "end": 23.17,
+      "text": "Meu rancho fica na beira de cá esforço"
+    }
+  ],
+  "duracao_seg": 23.23,
+  "idioma_detectado": "pt"
+}

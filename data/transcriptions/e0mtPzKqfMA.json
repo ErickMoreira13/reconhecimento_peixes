@@ -1,0 +1,32 @@
+{
+  "texto": "E aí galera, praia de Itaipu saindo da água agora caixinha cheia de peruai desse porco com o mar aí",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 2.04,
+      "text": "E aí galera, praia de Itaipu"
+    },
+    {
+      "start": 2.04,
+      "end": 3.96,
+      "text": "saindo da água agora"
+    },
+    {
+      "start": 3.96,
+      "end": 6.64,
+      "text": "caixinha cheia de peruai"
+    },
+    {
+      "start": 6.64,
+      "end": 7.74,
+      "text": "desse porco"
+    },
+    {
+      "start": 7.74,
+      "end": 10.62,
+      "text": "com o mar aí"
+    }
+  ],
+  "duracao_seg": 15.55,
+  "idioma_detectado": "pt"
+}

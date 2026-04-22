@@ -1,0 +1,47 @@
+{
+  "texto": "7 horas, você vai, eu vou a 6, não vou a volta aqui. A gente saiu hoje, que hora que foi? Foi o horário bom. O Flávio comprou, mas saiu 6 mil, eu acho. Não, é só... E aí, pessoal, tem coisa melhor na vida? Se tiver, não deixar pra mim não, hein? Se tiver coisa melhor na vida. E gravação, ó.",
+  "segmentos": [
+    {
+      "start": 5.87,
+      "end": 274.07,
+      "text": "7 horas, você vai, eu vou a 6, não vou a volta aqui."
+    },
+    {
+      "start": 274.31,
+      "end": 285.61,
+      "text": "A gente saiu hoje, que hora que foi? Foi o horário bom."
+    },
+    {
+      "start": 285.75,
+      "end": 288.73,
+      "text": "O Flávio comprou, mas saiu 6 mil, eu acho."
+    },
+    {
+      "start": 289.81,
+      "end": 290.77,
+      "text": "Não, é só..."
+    },
+    {
+      "start": 290.77,
+      "end": 304.0,
+      "text": "E aí, pessoal, tem coisa melhor na vida?"
+    },
+    {
+      "start": 305.32,
+      "end": 308.16,
+      "text": "Se tiver, não deixar pra mim não, hein?"
+    },
+    {
+      "start": 308.24,
+      "end": 309.42,
+      "text": "Se tiver coisa melhor na vida."
+    },
+    {
+      "start": 309.94,
+      "end": 320.18,
+      "text": "E gravação, ó."
+    }
+  ],
+  "duracao_seg": 753.79,
+  "idioma_detectado": "pt"
+}

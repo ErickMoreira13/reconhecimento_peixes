@@ -1,0 +1,27 @@
+{
+  "texto": "Disseram pra você que tudo acabou Que a prova te venceu e Deus te abandonou Promessa não tem prazo de validade Mensagem negativa não vem do Senhor Não aceite sua derrota, não se desespere Espera no Senhor, não largue sua cruz A última palavra ela não vem do médico Nem do advogado, ela vem de Jesus",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 6.91,
+      "text": "Disseram pra você que tudo acabou Que a prova te venceu e Deus te abandonou"
+    },
+    {
+      "start": 6.91,
+      "end": 12.93,
+      "text": "Promessa não tem prazo de validade Mensagem negativa não vem do Senhor"
+    },
+    {
+      "start": 12.93,
+      "end": 19.57,
+      "text": "Não aceite sua derrota, não se desespere Espera no Senhor, não largue sua cruz"
+    },
+    {
+      "start": 19.57,
+      "end": 25.78,
+      "text": "A última palavra ela não vem do médico Nem do advogado, ela vem de Jesus"
+    }
+  ],
+  "duracao_seg": 25.83,
+  "idioma_detectado": "pt"
+}

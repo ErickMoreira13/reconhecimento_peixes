@@ -1,0 +1,27 @@
+{
+  "texto": "Eu nasci pobre, mas não nasci otário Eu é que não caio no conto do tempo Tenho fé em Deus pra resolver qualquer parada Chega com respeito na minha quebrada Vim pra me explicar, vim pra me explicar Vem cá seu cú de burro, eu vou te dar um escular A virtude é de playboy porque sua vida é muito fácil Vencer na vida",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.91,
+      "text": "Eu nasci pobre, mas não nasci otário Eu é que não caio no conto do tempo"
+    },
+    {
+      "start": 5.91,
+      "end": 10.93,
+      "text": "Tenho fé em Deus pra resolver qualquer parada Chega com respeito na minha quebrada"
+    },
+    {
+      "start": 11.51,
+      "end": 25.69,
+      "text": "Vim pra me explicar, vim pra me explicar Vem cá seu cú de burro, eu vou te dar um escular"
+    },
+    {
+      "start": 25.69,
+      "end": 29.57,
+      "text": "A virtude é de playboy porque sua vida é muito fácil Vencer na vida"
+    }
+  ],
+  "duracao_seg": 29.57,
+  "idioma_detectado": "pt"
+}

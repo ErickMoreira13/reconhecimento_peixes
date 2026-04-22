@@ -1,0 +1,77 @@
+{
+  "texto": "o monton matou um piauzinho o criado olha o moleque o moleque o Antônio Claudino olha quanto bicho ai irmão Antônio o homem o Antônio Claudino e o Tocantins esse aqui esse aqui esse aqui e esse aqui ta pescando com fumo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "o monton matou um piauzinho"
+    },
+    {
+      "start": 7.0,
+      "end": 21.06,
+      "text": "o criado olha"
+    },
+    {
+      "start": 21.06,
+      "end": 25.06,
+      "text": "o moleque"
+    },
+    {
+      "start": 25.06,
+      "end": 27.06,
+      "text": "o moleque"
+    },
+    {
+      "start": 27.06,
+      "end": 29.06,
+      "text": "o Antônio Claudino"
+    },
+    {
+      "start": 29.06,
+      "end": 31.06,
+      "text": "olha"
+    },
+    {
+      "start": 31.06,
+      "end": 33.09,
+      "text": "quanto bicho ai irmão Antônio"
+    },
+    {
+      "start": 33.09,
+      "end": 37.09,
+      "text": "o homem"
+    },
+    {
+      "start": 37.09,
+      "end": 39.09,
+      "text": "o Antônio Claudino"
+    },
+    {
+      "start": 39.09,
+      "end": 41.09,
+      "text": "e o Tocantins"
+    },
+    {
+      "start": 41.09,
+      "end": 43.09,
+      "text": "esse aqui"
+    },
+    {
+      "start": 43.09,
+      "end": 45.09,
+      "text": "esse aqui"
+    },
+    {
+      "start": 45.09,
+      "end": 47.09,
+      "text": "esse aqui"
+    },
+    {
+      "start": 47.09,
+      "end": 49.09,
+      "text": "e esse aqui ta pescando com fumo"
+    }
+  ],
+  "duracao_seg": 50.31,
+  "idioma_detectado": "pt"
+}

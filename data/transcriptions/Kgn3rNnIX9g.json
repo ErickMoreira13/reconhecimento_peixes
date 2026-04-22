@@ -1,0 +1,142 @@
+{
+  "texto": "Estamos aqui exatamente mais uma vez com o Júnior, o pescador, indo para Lajeiras. E agora foi. Nossa, conhece? Eu jurei que era um pirarucu, velho. Quero tirar um de 50 pra falar assim, eu já peguei um peixe de 50 de saber medido. Nossa, nave, tá? Mano, eu preciso tirar o dedo do tobo. Mano, e se eu fizer um dublê aqui agora, velho? Nossa! Tem que pegar seus equipamentos, pô. Acho que o meu equipamento tá batizado. Pode falar de um lugar de um barulho que ele volta pra fora. Se passa, enquentou, hein? Peraí. Não precisa passar, não. Eu acho que ele tá... Confio em você, meu pinte! Porra! Aí, bicho, é. Tá gravando? Tá demais! Pega aí, filho. Pega, naveira! Nossa, agora eu vou ter que tirar uma foto, né? Tchau! Tchau! Tchau!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "Estamos aqui exatamente mais uma vez com o Júnior, o pescador, indo para Lajeiras."
+    },
+    {
+      "start": 13.76,
+      "end": 15.28,
+      "text": "E agora foi."
+    },
+    {
+      "start": 19.64,
+      "end": 20.64,
+      "text": "Nossa, conhece?"
+    },
+    {
+      "start": 22.42,
+      "end": 24.26,
+      "text": "Eu jurei que era um pirarucu, velho."
+    },
+    {
+      "start": 24.54,
+      "end": 28.9,
+      "text": "Quero tirar um de 50 pra falar assim, eu já peguei um peixe de 50 de saber medido."
+    },
+    {
+      "start": 31.78,
+      "end": 33.14,
+      "text": "Nossa, nave, tá?"
+    },
+    {
+      "start": 33.66,
+      "end": 35.6,
+      "text": "Mano, eu preciso tirar o dedo do tobo."
+    },
+    {
+      "start": 35.68,
+      "end": 37.28,
+      "text": "Mano, e se eu fizer um dublê aqui agora, velho?"
+    },
+    {
+      "start": 45.18,
+      "end": 45.58,
+      "text": "Nossa!"
+    },
+    {
+      "start": 46.23,
+      "end": 47.69,
+      "text": "Tem que pegar seus equipamentos, pô."
+    },
+    {
+      "start": 47.69,
+      "end": 48.89,
+      "text": "Acho que o meu equipamento tá batizado."
+    },
+    {
+      "start": 50.83,
+      "end": 52.51,
+      "text": "Pode falar de um lugar de um barulho que ele volta pra fora."
+    },
+    {
+      "start": 55.55,
+      "end": 57.05,
+      "text": "Se passa, enquentou, hein?"
+    },
+    {
+      "start": 60.27,
+      "end": 60.59,
+      "text": "Peraí."
+    },
+    {
+      "start": 60.69,
+      "end": 61.27,
+      "text": "Não precisa passar, não."
+    },
+    {
+      "start": 61.53,
+      "end": 63.7,
+      "text": "Eu acho que ele tá..."
+    },
+    {
+      "start": 63.7,
+      "end": 69.91,
+      "text": "Confio em você, meu pinte!"
+    },
+    {
+      "start": 71.01,
+      "end": 71.29,
+      "text": "Porra!"
+    },
+    {
+      "start": 71.99,
+      "end": 72.75,
+      "text": "Aí, bicho, é."
+    },
+    {
+      "start": 73.29,
+      "end": 73.85,
+      "text": "Tá gravando?"
+    },
+    {
+      "start": 74.11,
+      "end": 74.93,
+      "text": "Tá demais!"
+    },
+    {
+      "start": 75.63,
+      "end": 76.27,
+      "text": "Pega aí, filho."
+    },
+    {
+      "start": 76.63,
+      "end": 77.59,
+      "text": "Pega, naveira!"
+    },
+    {
+      "start": 78.25,
+      "end": 79.37,
+      "text": "Nossa, agora eu vou ter que tirar uma foto, né?"
+    },
+    {
+      "start": 79.37,
+      "end": 80.27,
+      "text": "Tchau!"
+    },
+    {
+      "start": 80.27,
+      "end": 80.57,
+      "text": "Tchau!"
+    },
+    {
+      "start": 80.57,
+      "end": 80.63,
+      "text": "Tchau!"
+    }
+  ],
+  "duracao_seg": 79.69,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,122 @@
+{
+  "texto": "Cuiu, cuiu, piranha, outro cuiu, cuiu ali, minha irmã pegando peixe com a mão Isso aqui não é cuiu não, Júli Qual é, mãe? É um peixe diferente quando você correr, mas é igual cuiu, mãe É com a mão, tá bom? Qual é esses peixes aqui, mãe? Peixe de cada um aqui Isso é mussu Mussum Mussum Ah, mussu Só aqui, mãe, que é com sorte Só com viola dessas tamais Qual é o nome desse daqui, mãe? Mãe? Qual é o nome daquele que o senhor pegou? A Pararia, ó Da friagem aqui Da friagem, eles dizem que o fundo da água fica sem oxigênio na área morta Fica subindo pra tentar respirar Lá do bote Passou de peixe Vou jogar um pra ali",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 10.92,
+      "text": "Cuiu, cuiu, piranha, outro cuiu, cuiu ali, minha irmã pegando peixe com a mão"
+    },
+    {
+      "start": 10.92,
+      "end": 12.78,
+      "text": "Isso aqui não é cuiu não, Júli"
+    },
+    {
+      "start": 12.78,
+      "end": 13.46,
+      "text": "Qual é, mãe?"
+    },
+    {
+      "start": 13.48,
+      "end": 16.6,
+      "text": "É um peixe diferente quando você correr, mas é igual cuiu, mãe"
+    },
+    {
+      "start": 16.6,
+      "end": 17.62,
+      "text": "É com a mão, tá bom?"
+    },
+    {
+      "start": 20.12,
+      "end": 21.38,
+      "text": "Qual é esses peixes aqui, mãe?"
+    },
+    {
+      "start": 21.9,
+      "end": 22.68,
+      "text": "Peixe de cada um aqui"
+    },
+    {
+      "start": 22.68,
+      "end": 23.02,
+      "text": "Isso é mussu"
+    },
+    {
+      "start": 23.02,
+      "end": 24.78,
+      "text": "Mussum"
+    },
+    {
+      "start": 24.78,
+      "end": 25.64,
+      "text": "Mussum"
+    },
+    {
+      "start": 25.64,
+      "end": 26.74,
+      "text": "Ah, mussu"
+    },
+    {
+      "start": 26.74,
+      "end": 27.98,
+      "text": "Só aqui, mãe, que é com sorte"
+    },
+    {
+      "start": 27.98,
+      "end": 30.68,
+      "text": "Só com viola dessas tamais"
+    },
+    {
+      "start": 30.68,
+      "end": 61.56,
+      "text": "Qual é o nome desse daqui, mãe?"
+    },
+    {
+      "start": 64.54,
+      "end": 64.88,
+      "text": "Mãe?"
+    },
+    {
+      "start": 65.12,
+      "end": 66.58,
+      "text": "Qual é o nome daquele que o senhor pegou?"
+    },
+    {
+      "start": 69.88,
+      "end": 70.78,
+      "text": "A Pararia, ó"
+    },
+    {
+      "start": 70.78,
+      "end": 96.18,
+      "text": "Da friagem aqui"
+    },
+    {
+      "start": 96.18,
+      "end": 102.47,
+      "text": "Da friagem, eles dizem que o fundo da água fica sem oxigênio na área morta"
+    },
+    {
+      "start": 102.47,
+      "end": 106.41,
+      "text": "Fica subindo pra tentar respirar"
+    },
+    {
+      "start": 106.41,
+      "end": 113.89,
+      "text": "Lá do bote"
+    },
+    {
+      "start": 113.89,
+      "end": 125.16,
+      "text": "Passou de peixe"
+    },
+    {
+      "start": 125.16,
+      "end": 126.87,
+      "text": "Vou jogar um pra ali"
+    }
+  ],
+  "duracao_seg": 133.85,
+  "idioma_detectado": "pt"
+}

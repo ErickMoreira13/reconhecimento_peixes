@@ -1,0 +1,402 @@
+{
+  "texto": "Olha o tamanho disso, vê mais disso. Olha que bonito. Dá pra tirar as casas, mas ele conhece tudo. Irmão, serve 8, oito e pouco. 6, 8. É, vai pra cima. Vai de 6. Tem. Ele encharutou a isca. Vai de 6. Vai de 7. Então, aí. A gente vai lá. A gente vai lá. A gente vai lá. A gente vai lá. A gente vai lá. A gente vai lá. Você tem que abraçar ele. Você desce lá e abraça ele. Você desce lá e abraça ele. Olha que lindo. Olha que bonito, cara. Vou filmar ele até. É que eu tô de roupa. Se eu não tô de roupa aqui pra trabalhar, eu não pego ele pra você, mas. De roupa não dá. Marlin. Segura aqui pra mim. Pode entregar. Aí já fechou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. Estou. aqui é pra essa mulher tem que chegar de casquinha, não tem, não, ele está lido? não, ele está de bico, dá, está aí, ó aí está filmando vou soltar ele, oito quilos bonito, dourado bonito bonito, lindo peixe oi, oi, oi, oi, oi",
+  "segmentos": [
+    {
+      "start": 4.3,
+      "end": 11.3,
+      "text": "Olha o tamanho disso, vê mais disso."
+    },
+    {
+      "start": 11.3,
+      "end": 14.3,
+      "text": "Olha que bonito."
+    },
+    {
+      "start": 14.3,
+      "end": 17.5,
+      "text": "Dá pra tirar as casas, mas ele conhece tudo."
+    },
+    {
+      "start": 17.5,
+      "end": 21.5,
+      "text": "Irmão, serve 8, oito e pouco."
+    },
+    {
+      "start": 21.5,
+      "end": 23.5,
+      "text": "6, 8."
+    },
+    {
+      "start": 23.5,
+      "end": 26.52,
+      "text": "É, vai pra cima."
+    },
+    {
+      "start": 26.52,
+      "end": 28.52,
+      "text": "Vai de 6."
+    },
+    {
+      "start": 28.52,
+      "end": 30.52,
+      "text": "Tem."
+    },
+    {
+      "start": 30.52,
+      "end": 34.52,
+      "text": "Ele encharutou a isca."
+    },
+    {
+      "start": 34.52,
+      "end": 38.18,
+      "text": "Vai de 6."
+    },
+    {
+      "start": 38.18,
+      "end": 40.18,
+      "text": "Vai de 7."
+    },
+    {
+      "start": 40.18,
+      "end": 43.3,
+      "text": "Então, aí."
+    },
+    {
+      "start": 43.3,
+      "end": 46.3,
+      "text": "A gente vai lá."
+    },
+    {
+      "start": 46.3,
+      "end": 48.3,
+      "text": "A gente vai lá."
+    },
+    {
+      "start": 48.3,
+      "end": 50.3,
+      "text": "A gente vai lá."
+    },
+    {
+      "start": 50.3,
+      "end": 52.3,
+      "text": "A gente vai lá."
+    },
+    {
+      "start": 52.3,
+      "end": 54.3,
+      "text": "A gente vai lá."
+    },
+    {
+      "start": 54.3,
+      "end": 56.3,
+      "text": "A gente vai lá."
+    },
+    {
+      "start": 56.3,
+      "end": 58.3,
+      "text": "Você tem que abraçar ele."
+    },
+    {
+      "start": 58.3,
+      "end": 60.3,
+      "text": "Você desce lá e abraça ele."
+    },
+    {
+      "start": 60.3,
+      "end": 64.3,
+      "text": "Você desce lá e abraça ele."
+    },
+    {
+      "start": 64.3,
+      "end": 66.07,
+      "text": "Olha que lindo."
+    },
+    {
+      "start": 66.07,
+      "end": 70.15,
+      "text": "Olha que bonito, cara."
+    },
+    {
+      "start": 70.15,
+      "end": 71.15,
+      "text": "Vou filmar ele até."
+    },
+    {
+      "start": 71.15,
+      "end": 76.86,
+      "text": "É que eu tô de roupa."
+    },
+    {
+      "start": 76.86,
+      "end": 80.82,
+      "text": "Se eu não tô de roupa aqui pra trabalhar, eu não pego ele pra você, mas."
+    },
+    {
+      "start": 80.82,
+      "end": 81.82,
+      "text": "De roupa não dá."
+    },
+    {
+      "start": 81.82,
+      "end": 82.82,
+      "text": "Marlin."
+    },
+    {
+      "start": 82.82,
+      "end": 83.82,
+      "text": "Segura aqui pra mim."
+    },
+    {
+      "start": 83.82,
+      "end": 86.84,
+      "text": "Pode entregar."
+    },
+    {
+      "start": 86.84,
+      "end": 87.84,
+      "text": "Aí já fechou."
+    },
+    {
+      "start": 87.84,
+      "end": 88.84,
+      "text": "Estou."
+    },
+    {
+      "start": 88.84,
+      "end": 89.84,
+      "text": "Estou."
+    },
+    {
+      "start": 89.84,
+      "end": 91.96,
+      "text": "Estou."
+    },
+    {
+      "start": 91.96,
+      "end": 95.26,
+      "text": "Estou."
+    },
+    {
+      "start": 95.26,
+      "end": 96.26,
+      "text": "Estou."
+    },
+    {
+      "start": 96.26,
+      "end": 97.26,
+      "text": "Estou."
+    },
+    {
+      "start": 97.26,
+      "end": 98.74,
+      "text": "Estou."
+    },
+    {
+      "start": 98.74,
+      "end": 99.74,
+      "text": "Estou."
+    },
+    {
+      "start": 99.74,
+      "end": 100.74,
+      "text": "Estou."
+    },
+    {
+      "start": 100.74,
+      "end": 101.74,
+      "text": "Estou."
+    },
+    {
+      "start": 101.74,
+      "end": 105.46,
+      "text": "Estou."
+    },
+    {
+      "start": 105.46,
+      "end": 111.42,
+      "text": "Estou."
+    },
+    {
+      "start": 111.42,
+      "end": 112.42,
+      "text": "Estou."
+    },
+    {
+      "start": 112.42,
+      "end": 116.43,
+      "text": "Estou."
+    },
+    {
+      "start": 116.43,
+      "end": 117.43,
+      "text": "Estou."
+    },
+    {
+      "start": 117.43,
+      "end": 122.14,
+      "text": "Estou."
+    },
+    {
+      "start": 122.14,
+      "end": 123.14,
+      "text": "Estou."
+    },
+    {
+      "start": 123.14,
+      "end": 124.14,
+      "text": "Estou."
+    },
+    {
+      "start": 124.14,
+      "end": 125.14,
+      "text": "Estou."
+    },
+    {
+      "start": 125.14,
+      "end": 126.14,
+      "text": "Estou."
+    },
+    {
+      "start": 126.14,
+      "end": 127.14,
+      "text": "Estou."
+    },
+    {
+      "start": 127.14,
+      "end": 128.14,
+      "text": "Estou."
+    },
+    {
+      "start": 128.14,
+      "end": 129.14,
+      "text": "Estou."
+    },
+    {
+      "start": 129.14,
+      "end": 130.14,
+      "text": "Estou."
+    },
+    {
+      "start": 130.14,
+      "end": 131.3,
+      "text": "Estou."
+    },
+    {
+      "start": 131.3,
+      "end": 132.3,
+      "text": "Estou."
+    },
+    {
+      "start": 132.3,
+      "end": 134.65,
+      "text": "Estou."
+    },
+    {
+      "start": 134.65,
+      "end": 135.65,
+      "text": "Estou."
+    },
+    {
+      "start": 135.65,
+      "end": 136.65,
+      "text": "Estou."
+    },
+    {
+      "start": 136.65,
+      "end": 139.76,
+      "text": "Estou."
+    },
+    {
+      "start": 139.76,
+      "end": 142.52,
+      "text": "Estou."
+    },
+    {
+      "start": 142.52,
+      "end": 143.52,
+      "text": "Estou."
+    },
+    {
+      "start": 143.52,
+      "end": 148.94,
+      "text": "Estou."
+    },
+    {
+      "start": 148.94,
+      "end": 149.94,
+      "text": "Estou."
+    },
+    {
+      "start": 149.94,
+      "end": 151.35,
+      "text": "Estou."
+    },
+    {
+      "start": 151.35,
+      "end": 152.35,
+      "text": "Estou."
+    },
+    {
+      "start": 152.35,
+      "end": 153.58,
+      "text": "Estou."
+    },
+    {
+      "start": 153.58,
+      "end": 155.89,
+      "text": "Estou."
+    },
+    {
+      "start": 155.89,
+      "end": 156.89,
+      "text": "Estou."
+    },
+    {
+      "start": 156.89,
+      "end": 158.18,
+      "text": "Estou."
+    },
+    {
+      "start": 158.18,
+      "end": 161.27,
+      "text": "aqui é pra essa mulher"
+    },
+    {
+      "start": 162.31,
+      "end": 166.31,
+      "text": "tem que chegar de casquinha, não tem, não, ele está lido?"
+    },
+    {
+      "start": 166.31,
+      "end": 171.23,
+      "text": "não, ele está de bico, dá, está aí, ó"
+    },
+    {
+      "start": 171.23,
+      "end": 173.23,
+      "text": "aí está filmando"
+    },
+    {
+      "start": 173.23,
+      "end": 176.33,
+      "text": "vou soltar ele, oito quilos"
+    },
+    {
+      "start": 176.33,
+      "end": 180.78,
+      "text": "bonito, dourado bonito"
+    },
+    {
+      "start": 180.78,
+      "end": 195.65,
+      "text": "bonito, lindo peixe"
+    },
+    {
+      "start": 195.65,
+      "end": 197.81,
+      "text": "oi, oi, oi, oi, oi"
+    }
+  ],
+  "duracao_seg": 197.47,
+  "idioma_detectado": "pt"
+}

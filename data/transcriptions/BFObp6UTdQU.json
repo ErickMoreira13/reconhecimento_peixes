@@ -1,0 +1,32 @@
+{
+  "texto": "Aí galera, vou filmar agora o Jopal, dando uma atarrapada aí, ó, ó, lançou a tarraca, ó, ó, lançou a tarraca, faz pra um pouco. Tô filmando, hein? Chegou. Mostra aqui, ó, mostra aqui, ó, ó, mostra aqui, moceguinho, olha só, mostra aqui, cara, olha, mostra aqui, mostra aí, moceguinho, olha aí, moceguinho, mostra aí, mostra aí, mostra. Oi, двиг, двиг, двиг.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 16.32,
+      "text": "Aí galera, vou filmar agora o Jopal, dando uma atarrapada aí, ó, ó, lançou a tarraca, ó, ó, lançou a tarraca, faz pra um pouco."
+    },
+    {
+      "start": 22.46,
+      "end": 23.28,
+      "text": "Tô filmando, hein?"
+    },
+    {
+      "start": 23.6,
+      "end": 24.04,
+      "text": "Chegou."
+    },
+    {
+      "start": 30.2,
+      "end": 45.91,
+      "text": "Mostra aqui, ó, mostra aqui, ó, ó, mostra aqui, moceguinho, olha só, mostra aqui, cara, olha, mostra aqui, mostra aí, moceguinho, olha aí, moceguinho, mostra aí, mostra aí, mostra."
+    },
+    {
+      "start": 46.11,
+      "end": 49.12,
+      "text": "Oi, двиг, двиг, двиг."
+    }
+  ],
+  "duracao_seg": 49.65,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Você já viu um pescador que não erra uma flechada na Amazônia? Corre ver o novo vídeo no canal!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Você já viu um pescador que não erra uma flechada na Amazônia?"
+    },
+    {
+      "start": 4.11,
+      "end": 5.63,
+      "text": "Corre ver o novo vídeo no canal!"
+    }
+  ],
+  "duracao_seg": 10.87,
+  "idioma_detectado": "pt"
+}

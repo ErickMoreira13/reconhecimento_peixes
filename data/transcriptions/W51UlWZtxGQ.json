@@ -1,0 +1,42 @@
+{
+  "texto": "que está escado com um filé de peixe que eu errei na filetagem para comer mas envergou a vara agora vem um pequenininho aqui e é um bagrinho tá valendo olha o tamanho do anzol bagrinho pequenininho",
+  "segmentos": [
+    {
+      "start": 33.17,
+      "end": 40.48,
+      "text": "que está escado com um filé de peixe que eu errei na filetagem para comer"
+    },
+    {
+      "start": 40.48,
+      "end": 44.0,
+      "text": "mas envergou a vara"
+    },
+    {
+      "start": 44.0,
+      "end": 45.68,
+      "text": "agora vem um pequenininho aqui"
+    },
+    {
+      "start": 45.68,
+      "end": 48.77,
+      "text": "e é um bagrinho"
+    },
+    {
+      "start": 48.77,
+      "end": 50.82,
+      "text": "tá valendo"
+    },
+    {
+      "start": 50.82,
+      "end": 58.44,
+      "text": "olha o tamanho do anzol"
+    },
+    {
+      "start": 58.44,
+      "end": 64.9,
+      "text": "bagrinho pequenininho"
+    }
+  ],
+  "duracao_seg": 65.91,
+  "idioma_detectado": "pt"
+}
