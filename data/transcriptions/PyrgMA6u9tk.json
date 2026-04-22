@@ -1,0 +1,37 @@
+{
+  "texto": "E aí, Cris? Mostra aí como é que pesca a traíra. Ó, olha lá a técnica, ó. Ó. Tem que trazer a traíra, ó. Tem que deixar ela sair da toca, tirar ela da toca. Tá vendo, ó?",
+  "segmentos": [
+    {
+      "start": 6.06,
+      "end": 8.4,
+      "text": "E aí, Cris? Mostra aí como é que pesca a traíra."
+    },
+    {
+      "start": 11.48,
+      "end": 12.92,
+      "text": "Ó, olha lá a técnica, ó."
+    },
+    {
+      "start": 14.19,
+      "end": 14.41,
+      "text": "Ó."
+    },
+    {
+      "start": 16.23,
+      "end": 17.49,
+      "text": "Tem que trazer a traíra, ó."
+    },
+    {
+      "start": 17.83,
+      "end": 20.99,
+      "text": "Tem que deixar ela sair da toca, tirar ela da toca."
+    },
+    {
+      "start": 22.88,
+      "end": 23.36,
+      "text": "Tá vendo, ó?"
+    }
+  ],
+  "duracao_seg": 26.53,
+  "idioma_detectado": "pt"
+}

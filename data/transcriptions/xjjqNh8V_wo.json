@@ -1,0 +1,142 @@
+{
+  "texto": "A serva de paca, aqui para nós aqui, eu sempre boto, eu boto todo tipo de alimento. Agora a gente vai pela época. O coco babassu é muito bom, o coco. A gente bota a fruta, mas o coco é muito bom. O tucum é bom para ela. A fruta em si é em primeiro lugar, principalmente o milho. Na época do milho verde, pronto. Na época do milho verde, a gente bota o milho verde na serva para a paca. Você pode botar mesmo a espiga inteira, até na palha, não tem nadinha. Para nós aqui sempre o melhor é o milho. Você pode botar todo tipo de comida. Agora o milho, esse não pode faltar, que seja das melhores comidas que ela acha. O milho, a paca, aqui para nós. Mas sobre fruta, nós bota qualquer tipo de fruta. Ela come, é uma maravilha. Principalmente a manga. A manga é em primeiro lugar. Mas aqui sempre nós faz mais, não é com a manga em si, com a fruta. A gente faz só com o caroço. Só o caroço da manga. Dá a boa do mesmo jeitinho, como se fosse botar a manga completa. A gente faz só com o caroço. E dá bom. Melhor que fique com a manga mesmo. Melhor. Melhor. O caroço é bom demais. O caroço é bom. Aonde você, se você achar a manga, você pode pegar a manga e pode colocar ela para lá. E deixar ela se acabar para ali, a polpa dela. E você pode botar só o caroço. Não tem nadinha. Melhor ainda. Ainda é melhor. Inclusive é bom até de você carregar, porque é maneiro o volume. E você leva mais. A caroceira da manga é das melhores comidas que tem para a paca.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.9,
+      "text": "A serva de paca, aqui para nós aqui, eu sempre boto, eu boto todo tipo de alimento."
+    },
+    {
+      "start": 6.2,
+      "end": 10.34,
+      "text": "Agora a gente vai pela época. O coco babassu é muito bom, o coco."
+    },
+    {
+      "start": 10.68,
+      "end": 16.02,
+      "text": "A gente bota a fruta, mas o coco é muito bom. O tucum é bom para ela."
+    },
+    {
+      "start": 16.42,
+      "end": 21.8,
+      "text": "A fruta em si é em primeiro lugar, principalmente o milho."
+    },
+    {
+      "start": 21.96,
+      "end": 23.84,
+      "text": "Na época do milho verde, pronto."
+    },
+    {
+      "start": 24.28,
+      "end": 28.12,
+      "text": "Na época do milho verde, a gente bota o milho verde na serva para a paca."
+    },
+    {
+      "start": 28.12,
+      "end": 31.52,
+      "text": "Você pode botar mesmo a espiga inteira, até na palha, não tem nadinha."
+    },
+    {
+      "start": 31.74,
+      "end": 34.76,
+      "text": "Para nós aqui sempre o melhor é o milho. Você pode botar todo tipo de comida."
+    },
+    {
+      "start": 35.2,
+      "end": 39.34,
+      "text": "Agora o milho, esse não pode faltar, que seja das melhores comidas que ela acha."
+    },
+    {
+      "start": 39.56,
+      "end": 41.18,
+      "text": "O milho, a paca, aqui para nós."
+    },
+    {
+      "start": 41.52,
+      "end": 44.22,
+      "text": "Mas sobre fruta, nós bota qualquer tipo de fruta."
+    },
+    {
+      "start": 44.96,
+      "end": 47.12,
+      "text": "Ela come, é uma maravilha."
+    },
+    {
+      "start": 47.52,
+      "end": 49.62,
+      "text": "Principalmente a manga. A manga é em primeiro lugar."
+    },
+    {
+      "start": 50.28,
+      "end": 54.48,
+      "text": "Mas aqui sempre nós faz mais, não é com a manga em si, com a fruta."
+    },
+    {
+      "start": 54.48,
+      "end": 57.34,
+      "text": "A gente faz só com o caroço. Só o caroço da manga."
+    },
+    {
+      "start": 57.34,
+      "end": 61.1,
+      "text": "Dá a boa do mesmo jeitinho, como se fosse botar a manga completa."
+    },
+    {
+      "start": 61.62,
+      "end": 63.12,
+      "text": "A gente faz só com o caroço. E dá bom."
+    },
+    {
+      "start": 63.7,
+      "end": 64.92,
+      "text": "Melhor que fique com a manga mesmo."
+    },
+    {
+      "start": 65.1,
+      "end": 67.6,
+      "text": "Melhor. Melhor. O caroço é bom demais. O caroço é bom."
+    },
+    {
+      "start": 68.22,
+      "end": 72.38,
+      "text": "Aonde você, se você achar a manga, você pode pegar a manga e pode colocar ela para lá."
+    },
+    {
+      "start": 72.8,
+      "end": 77.48,
+      "text": "E deixar ela se acabar para ali, a polpa dela."
+    },
+    {
+      "start": 78.02,
+      "end": 79.26,
+      "text": "E você pode botar só o caroço."
+    },
+    {
+      "start": 79.6,
+      "end": 81.28,
+      "text": "Não tem nadinha. Melhor ainda."
+    },
+    {
+      "start": 81.28,
+      "end": 82.18,
+      "text": "Ainda é melhor."
+    },
+    {
+      "start": 82.18,
+      "end": 85.92,
+      "text": "Inclusive é bom até de você carregar, porque é maneiro o volume."
+    },
+    {
+      "start": 86.5,
+      "end": 87.36,
+      "text": "E você leva mais."
+    },
+    {
+      "start": 87.96,
+      "end": 90.9,
+      "text": "A caroceira da manga é das melhores comidas que tem para a paca."
+    }
+  ],
+  "duracao_seg": 91.17,
+  "idioma_detectado": "pt"
+}

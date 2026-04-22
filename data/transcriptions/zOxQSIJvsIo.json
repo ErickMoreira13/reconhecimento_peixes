@@ -1,0 +1,42 @@
+{
+  "texto": "Receita de beijinho turbinado. 400 gramas de leite em pó. 100 gramas de leite condensado. 1 suco em pó de maracujá. 50 gramas de coco ralado. 100 mililitros de leite de coco. Mistura os pós. Leite em pó. Suco de maracujá. Coco ralado. Mistura seca. Leite condensado. Leite em coco deixa o beijinho macio. Mão na massa. Mistura. Mistura. Mistura. Mistura até chegar no ponto. Faça as bolinhas e chama no bitteron.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.17,
+      "text": "Receita de beijinho turbinado. 400 gramas de leite em pó. 100 gramas de leite condensado."
+    },
+    {
+      "start": 8.43,
+      "end": 14.37,
+      "text": "1 suco em pó de maracujá. 50 gramas de coco ralado. 100 mililitros de leite de coco."
+    },
+    {
+      "start": 16.21,
+      "end": 22.17,
+      "text": "Mistura os pós. Leite em pó. Suco de maracujá."
+    },
+    {
+      "start": 25.06,
+      "end": 31.0,
+      "text": "Coco ralado. Mistura seca. Leite condensado."
+    },
+    {
+      "start": 32.93,
+      "end": 37.43,
+      "text": "Leite em coco deixa o beijinho macio. Mão na massa."
+    },
+    {
+      "start": 37.43,
+      "end": 49.62,
+      "text": "Mistura. Mistura. Mistura. Mistura até chegar no ponto."
+    },
+    {
+      "start": 54.3,
+      "end": 56.56,
+      "text": "Faça as bolinhas e chama no bitteron."
+    }
+  ],
+  "duracao_seg": 58.79,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "O que está fazendo aí, meu irmão? Bom dia, pessoal. Estamos aqui no evento do terceiro piquete de Cozinha do Léo, fazendo linguiçinha. A gente está com três linguiçinhas aqui. Jacaré, pato e cordeiro. Aí, saindo arrozinho de charga aqui depois.",
+  "segmentos": [
+    {
+      "start": 3.02,
+      "end": 4.66,
+      "text": "O que está fazendo aí, meu irmão?"
+    },
+    {
+      "start": 4.72,
+      "end": 9.0,
+      "text": "Bom dia, pessoal. Estamos aqui no evento do terceiro piquete de Cozinha do Léo, fazendo linguiçinha."
+    },
+    {
+      "start": 9.12,
+      "end": 13.26,
+      "text": "A gente está com três linguiçinhas aqui. Jacaré, pato e cordeiro."
+    },
+    {
+      "start": 36.34,
+      "end": 38.9,
+      "text": "Aí, saindo arrozinho de charga aqui depois."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

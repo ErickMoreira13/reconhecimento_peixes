@@ -1,0 +1,37 @@
+{
+  "texto": "O que é o mais forte afumador? Um botão, um cazão 4 scaunos, 2 scaunos Priciore, tubo Galeata Vê-te? Am colocado. Gata.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "O que é o mais forte afumador?"
+    },
+    {
+      "start": 2.32,
+      "end": 4.32,
+      "text": "Um botão, um cazão"
+    },
+    {
+      "start": 4.32,
+      "end": 8.34,
+      "text": "4 scaunos, 2 scaunos"
+    },
+    {
+      "start": 8.34,
+      "end": 12.0,
+      "text": "Priciore, tubo"
+    },
+    {
+      "start": 12.0,
+      "end": 23.98,
+      "text": "Galeata"
+    },
+    {
+      "start": 23.98,
+      "end": 26.66,
+      "text": "Vê-te? Am colocado. Gata."
+    }
+  ],
+  "duracao_seg": 41.59,
+  "idioma_detectado": "pt"
+}

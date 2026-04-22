@@ -1,0 +1,137 @@
+{
+  "texto": "Ó, vocês querem ver? Dois peixes ferrados, ó. Dois peixes ferrados. Olha aí pra vocês verem. Será que tem? Um no miçangue e um no milho, ó. Basta. É dia de peixe. Olha aí. Ah, que maravilha, hein? Olha aí, gente. Vou ligar no meio aqui. Aí. É de penca. Aí. Que maravilha. Encerramos, agora encerramos. Maravilha, hein? Valeu, galera. Vamos soltar. Caria. Sensacional. Ó. Vamos lá. Que peixe bom é na água. Olha lá. Vai lá, seus dois. Aí.",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 2.0,
+      "text": "Ó, vocês querem ver?"
+    },
+    {
+      "start": 2.64,
+      "end": 4.18,
+      "text": "Dois peixes ferrados, ó."
+    },
+    {
+      "start": 5.15,
+      "end": 6.25,
+      "text": "Dois peixes ferrados."
+    },
+    {
+      "start": 7.39,
+      "end": 8.85,
+      "text": "Olha aí pra vocês verem. Será que tem?"
+    },
+    {
+      "start": 9.39,
+      "end": 10.89,
+      "text": "Um no miçangue e um no milho, ó."
+    },
+    {
+      "start": 13.87,
+      "end": 14.35,
+      "text": "Basta."
+    },
+    {
+      "start": 14.87,
+      "end": 16.09,
+      "text": "É dia de peixe."
+    },
+    {
+      "start": 16.92,
+      "end": 17.24,
+      "text": "Olha aí."
+    },
+    {
+      "start": 20.84,
+      "end": 22.32,
+      "text": "Ah, que maravilha, hein?"
+    },
+    {
+      "start": 27.54,
+      "end": 28.08,
+      "text": "Olha aí, gente."
+    },
+    {
+      "start": 28.08,
+      "end": 31.24,
+      "text": "Vou ligar no meio aqui."
+    },
+    {
+      "start": 31.66,
+      "end": 32.18,
+      "text": "Aí."
+    },
+    {
+      "start": 33.86,
+      "end": 35.52,
+      "text": "É de penca."
+    },
+    {
+      "start": 36.14,
+      "end": 36.46,
+      "text": "Aí."
+    },
+    {
+      "start": 37.14,
+      "end": 37.9,
+      "text": "Que maravilha."
+    },
+    {
+      "start": 38.14,
+      "end": 39.32,
+      "text": "Encerramos, agora encerramos."
+    },
+    {
+      "start": 40.02,
+      "end": 40.88,
+      "text": "Maravilha, hein?"
+    },
+    {
+      "start": 42.08,
+      "end": 43.64,
+      "text": "Valeu, galera. Vamos soltar."
+    },
+    {
+      "start": 43.7,
+      "end": 44.2,
+      "text": "Caria."
+    },
+    {
+      "start": 46.85,
+      "end": 47.21,
+      "text": "Sensacional."
+    },
+    {
+      "start": 47.65,
+      "end": 47.77,
+      "text": "Ó."
+    },
+    {
+      "start": 48.66,
+      "end": 49.1,
+      "text": "Vamos lá."
+    },
+    {
+      "start": 52.11,
+      "end": 54.61,
+      "text": "Que peixe bom é na água."
+    },
+    {
+      "start": 55.13,
+      "end": 55.43,
+      "text": "Olha lá."
+    },
+    {
+      "start": 55.83,
+      "end": 57.2,
+      "text": "Vai lá, seus dois."
+    },
+    {
+      "start": 58.52,
+      "end": 58.92,
+      "text": "Aí."
+    }
+  ],
+  "duracao_seg": 59.07,
+  "idioma_detectado": "pt"
+}

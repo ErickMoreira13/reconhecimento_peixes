@@ -1,0 +1,17 @@
+{
+  "texto": "Eu como astronauta visitei planetas, transpus os limites do céu multicor Viajei a bordo dos meus pensamentos, fiz do coração um disco voador",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.32,
+      "text": "Eu como astronauta visitei planetas, transpus os limites do céu multicor"
+    },
+    {
+      "start": 7.32,
+      "end": 14.22,
+      "text": "Viajei a bordo dos meus pensamentos, fiz do coração um disco voador"
+    }
+  ],
+  "duracao_seg": 32.47,
+  "idioma_detectado": "pt"
+}

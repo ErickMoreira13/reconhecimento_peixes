@@ -1,0 +1,27 @@
+{
+  "texto": "Essa é a famosa cebola de churrascaria, uma das minhas receitas mais vistas aqui na internet. Patio a cebola bem fininha e em uma tigela eu escaldo com água quente. Escorre, entra com os temperos e deixa na geladeira para comer só no dia seguinte. Eu te garanto que vai ser sucesso no seu churrasco!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "Essa é a famosa cebola de churrascaria, uma das minhas receitas mais vistas aqui na internet."
+    },
+    {
+      "start": 5.48,
+      "end": 9.26,
+      "text": "Patio a cebola bem fininha e em uma tigela eu escaldo com água quente."
+    },
+    {
+      "start": 9.42,
+      "end": 13.7,
+      "text": "Escorre, entra com os temperos e deixa na geladeira para comer só no dia seguinte."
+    },
+    {
+      "start": 13.88,
+      "end": 17.08,
+      "text": "Eu te garanto que vai ser sucesso no seu churrasco!"
+    }
+  ],
+  "duracao_seg": 17.37,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Meu pai agora foi lá para a correnteza, onde ele acabou de pegar esse mandinho amarela-luia. Tem uma correnteza boa ali, só que costuma garranchar, né? Mas é um risco. E eu estou nesse poço aqui, água parada, zero garrancho, também zero peixe.",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 5.75,
+      "text": "Meu pai agora foi lá para a correnteza, onde ele acabou de pegar esse mandinho amarela-luia."
+    },
+    {
+      "start": 7.7,
+      "end": 10.68,
+      "text": "Tem uma correnteza boa ali, só que costuma garranchar, né?"
+    },
+    {
+      "start": 11.46,
+      "end": 12.36,
+      "text": "Mas é um risco."
+    },
+    {
+      "start": 13.54,
+      "end": 18.28,
+      "text": "E eu estou nesse poço aqui, água parada, zero garrancho, também zero peixe."
+    }
+  ],
+  "duracao_seg": 19.61,
+  "idioma_detectado": "pt"
+}

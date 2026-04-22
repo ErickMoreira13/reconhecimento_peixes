@@ -1,0 +1,47 @@
+{
+  "texto": "Calma Bela, calma Bela, calma Bela Eita Belinha Pegou uma Brutal Valeu O que você está achando? Que nós estamos empatados né Dois a dois",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Calma Bela, calma Bela, calma Bela"
+    },
+    {
+      "start": 2.0,
+      "end": 4.78,
+      "text": "Eita Belinha"
+    },
+    {
+      "start": 4.78,
+      "end": 6.58,
+      "text": "Pegou uma"
+    },
+    {
+      "start": 6.58,
+      "end": 8.08,
+      "text": "Brutal"
+    },
+    {
+      "start": 8.08,
+      "end": 9.92,
+      "text": "Valeu"
+    },
+    {
+      "start": 9.92,
+      "end": 10.92,
+      "text": "O que você está achando?"
+    },
+    {
+      "start": 11.58,
+      "end": 13.26,
+      "text": "Que nós estamos empatados né"
+    },
+    {
+      "start": 13.26,
+      "end": 14.98,
+      "text": "Dois a dois"
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}
