@@ -1,0 +1,22 @@
+{
+  "texto": "A gente vai colocar o cabelo aqui, né? Estou aqui, né? Estou aqui, né?",
+  "segmentos": [
+    {
+      "start": 11.73,
+      "end": 13.73,
+      "text": "A gente vai colocar o cabelo aqui, né?"
+    },
+    {
+      "start": 13.73,
+      "end": 15.11,
+      "text": "Estou aqui, né?"
+    },
+    {
+      "start": 15.11,
+      "end": 16.43,
+      "text": "Estou aqui, né?"
+    }
+  ],
+  "duracao_seg": 23.35,
+  "idioma_detectado": "pt"
+}

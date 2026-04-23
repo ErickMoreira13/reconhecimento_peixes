@@ -1,0 +1,217 @@
+{
+  "texto": "Olá amigos da TV Brasil Esperança, vamos conhecer hoje mais um cantinho maravilhoso aqui da cidade de Araquari, no norte do estado de Santa Catarina. Estou aqui na região da Barra do Rio Itapocu, aliás, o Rio Itapocu é esse aqui, local muito procurado por pescadores e que vem recebendo uma estrutura muito bacana e por parte da Prefeitura de Araquari. Por exemplo, tivemos a repavimentação da Estrada Geral do Itapocu, que já é um grande avanço, faz a ligação da BR-101 com o Balneário Barra do Sul e agora a implantação também da iluminação, para o pessoal vir passear, caminhar, enfim, pescar. Falando em pescaria, olha o pessoal ali, fisgou, ali fisgou, o pessoal está pescando por aqui. Vamos dar uma perguntadinha aqui. Bom dia rapaziada, vocês são de onde? Joinville, Joinville. São de Joinville, frequentam muito aqui? De vez em quando, geralmente no final de semana. Dá uns peixinhos por aqui ou não? Dá, sempre dá, né? Que tipo de peixe daí? Ah, geralmente dá uns bagrinhos. Quantos quilos hoje? Não, vamos pular essa parte, né? Hoje foi 100 quilos, acho, só hoje. Sem nenhum quilo. É. Aê, pescaria rendendo, pescaria rendendo. Roupalinho? Cantor. Cantor? Peixe cantor. Tá certo. Valeu. Tá certo rapaziada, como é que é o nome dos meninos lá? Aqui lá é o Harden, aqui lá é o Rafael. E tem um dormindo lá, Madeu. E o senhor? Eu sou o Wilkson. Lá cansou de esperar o peixe chegar. Aqui lá é ruim, né? Vai ser o cozinheiro da rodada. Tá certo rapaziada, bom trabalho, boa pescaria para vocês. Aí então, mais um local bacana aqui na cidade de Araquari. Então, peixinhos que dá por aqui. Bagre, robalo, de vez em quando entra uma tanhota conforme a época. Mas o que vale é isso aqui? O entretenimento, o lazer da família joinvilense, araquariense, barra sulense, enfim. Todo mundo frequenta este pequeno encanto conhecido como Barra do Rio Itapocu. Eu volto ao estúdio da Brasil Esperança é com vocês.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.6,
+      "text": "Olá amigos da TV Brasil Esperança, vamos conhecer hoje mais um cantinho maravilhoso aqui da cidade de Araquari, no norte do estado de Santa Catarina."
+    },
+    {
+      "start": 9.0,
+      "end": 16.04,
+      "text": "Estou aqui na região da Barra do Rio Itapocu, aliás, o Rio Itapocu é esse aqui, local muito procurado por pescadores"
+    },
+    {
+      "start": 16.04,
+      "end": 21.28,
+      "text": "e que vem recebendo uma estrutura muito bacana e por parte da Prefeitura de Araquari."
+    },
+    {
+      "start": 21.4,
+      "end": 28.82,
+      "text": "Por exemplo, tivemos a repavimentação da Estrada Geral do Itapocu, que já é um grande avanço, faz a ligação da BR-101 com o Balneário Barra do Sul"
+    },
+    {
+      "start": 28.82,
+      "end": 35.5,
+      "text": "e agora a implantação também da iluminação, para o pessoal vir passear, caminhar, enfim, pescar."
+    },
+    {
+      "start": 35.68,
+      "end": 40.72,
+      "text": "Falando em pescaria, olha o pessoal ali, fisgou, ali fisgou, o pessoal está pescando por aqui."
+    },
+    {
+      "start": 41.34,
+      "end": 42.68,
+      "text": "Vamos dar uma perguntadinha aqui."
+    },
+    {
+      "start": 43.6,
+      "end": 45.04,
+      "text": "Bom dia rapaziada, vocês são de onde?"
+    },
+    {
+      "start": 45.7,
+      "end": 46.54,
+      "text": "Joinville, Joinville."
+    },
+    {
+      "start": 46.62,
+      "end": 48.34,
+      "text": "São de Joinville, frequentam muito aqui?"
+    },
+    {
+      "start": 48.78,
+      "end": 50.0,
+      "text": "De vez em quando, geralmente no final de semana."
+    },
+    {
+      "start": 50.34,
+      "end": 51.36,
+      "text": "Dá uns peixinhos por aqui ou não?"
+    },
+    {
+      "start": 51.4,
+      "end": 52.34,
+      "text": "Dá, sempre dá, né?"
+    },
+    {
+      "start": 52.58,
+      "end": 53.52,
+      "text": "Que tipo de peixe daí?"
+    },
+    {
+      "start": 53.72,
+      "end": 54.7,
+      "text": "Ah, geralmente dá uns bagrinhos."
+    },
+    {
+      "start": 55.38,
+      "end": 57.38,
+      "text": "Quantos quilos hoje? Não, vamos pular essa parte, né?"
+    },
+    {
+      "start": 57.38,
+      "end": 59.06,
+      "text": "Hoje foi 100 quilos, acho, só hoje."
+    },
+    {
+      "start": 59.2,
+      "end": 59.82,
+      "text": "Sem nenhum quilo."
+    },
+    {
+      "start": 60.16,
+      "end": 60.4,
+      "text": "É."
+    },
+    {
+      "start": 62.01,
+      "end": 64.97,
+      "text": "Aê, pescaria rendendo, pescaria rendendo."
+    },
+    {
+      "start": 65.05,
+      "end": 65.53,
+      "text": "Roupalinho?"
+    },
+    {
+      "start": 67.44,
+      "end": 67.84,
+      "text": "Cantor."
+    },
+    {
+      "start": 68.14,
+      "end": 68.56,
+      "text": "Cantor?"
+    },
+    {
+      "start": 68.7,
+      "end": 69.28,
+      "text": "Peixe cantor."
+    },
+    {
+      "start": 70.3,
+      "end": 70.88,
+      "text": "Tá certo."
+    },
+    {
+      "start": 71.86,
+      "end": 72.22,
+      "text": "Valeu."
+    },
+    {
+      "start": 73.54,
+      "end": 76.0,
+      "text": "Tá certo rapaziada, como é que é o nome dos meninos lá?"
+    },
+    {
+      "start": 76.24,
+      "end": 77.84,
+      "text": "Aqui lá é o Harden, aqui lá é o Rafael."
+    },
+    {
+      "start": 78.1,
+      "end": 79.22,
+      "text": "E tem um dormindo lá, Madeu."
+    },
+    {
+      "start": 79.44,
+      "end": 79.92,
+      "text": "E o senhor?"
+    },
+    {
+      "start": 80.26,
+      "end": 81.0,
+      "text": "Eu sou o Wilkson."
+    },
+    {
+      "start": 81.32,
+      "end": 83.28,
+      "text": "Lá cansou de esperar o peixe chegar."
+    },
+    {
+      "start": 83.38,
+      "end": 84.12,
+      "text": "Aqui lá é ruim, né?"
+    },
+    {
+      "start": 84.12,
+      "end": 85.82,
+      "text": "Vai ser o cozinheiro da rodada."
+    },
+    {
+      "start": 86.46,
+      "end": 89.48,
+      "text": "Tá certo rapaziada, bom trabalho, boa pescaria para vocês."
+    },
+    {
+      "start": 89.74,
+      "end": 93.44,
+      "text": "Aí então, mais um local bacana aqui na cidade de Araquari."
+    },
+    {
+      "start": 93.58,
+      "end": 95.32,
+      "text": "Então, peixinhos que dá por aqui."
+    },
+    {
+      "start": 95.68,
+      "end": 99.82,
+      "text": "Bagre, robalo, de vez em quando entra uma tanhota conforme a época."
+    },
+    {
+      "start": 100.2,
+      "end": 101.16,
+      "text": "Mas o que vale é isso aqui?"
+    },
+    {
+      "start": 101.24,
+      "end": 106.26,
+      "text": "O entretenimento, o lazer da família joinvilense, araquariense, barra sulense, enfim."
+    },
+    {
+      "start": 106.62,
+      "end": 112.82,
+      "text": "Todo mundo frequenta este pequeno encanto conhecido como Barra do Rio Itapocu."
+    },
+    {
+      "start": 112.82,
+      "end": 115.88,
+      "text": "Eu volto ao estúdio da Brasil Esperança é com vocês."
+    }
+  ],
+  "duracao_seg": 117.69,
+  "idioma_detectado": "pt"
+}

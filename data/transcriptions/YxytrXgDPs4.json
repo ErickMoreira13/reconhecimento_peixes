@@ -1,0 +1,22 @@
+{
+  "texto": "Mais um, rapaziadinha. Shadezinho branco. De prime.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Mais um, rapaziadinha."
+    },
+    {
+      "start": 2.1,
+      "end": 3.3,
+      "text": "Shadezinho branco."
+    },
+    {
+      "start": 3.62,
+      "end": 5.36,
+      "text": "De prime."
+    }
+  ],
+  "duracao_seg": 9.83,
+  "idioma_detectado": "pt"
+}

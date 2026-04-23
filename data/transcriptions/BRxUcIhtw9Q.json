@@ -1,0 +1,17 @@
+{
+  "texto": "arremessozinho, skin artificial, varinha cara, black, 20 libras, molineta LP1000 ó, vamos ver né, que paisagem linda, que paisagem linda, pai, sem cabelinha, tamo junto",
+  "segmentos": [
+    {
+      "start": 1.33,
+      "end": 6.79,
+      "text": "arremessozinho, skin artificial, varinha cara, black, 20 libras, molineta LP1000"
+    },
+    {
+      "start": 6.79,
+      "end": 21.54,
+      "text": "ó, vamos ver né, que paisagem linda, que paisagem linda, pai, sem cabelinha, tamo junto"
+    }
+  ],
+  "duracao_seg": 22.07,
+  "idioma_detectado": "pt"
+}

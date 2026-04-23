@@ -1,0 +1,22 @@
+{
+  "texto": "aqui assim, depois vou tentar pegar umas traíras com a filha de jundia. Eu vou ancorar aqui galera, entendeu? Eu fico bem certinho, é o que eu quero. Eu fico mais pra cá. Temos sair daqui da corredeira, pra ser um bom arrumeço.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 15.42,
+      "text": "aqui assim, depois vou tentar pegar umas traíras com a filha de jundia. Eu vou ancorar aqui galera,"
+    },
+    {
+      "start": 15.42,
+      "end": 27.71,
+      "text": "entendeu? Eu fico bem certinho, é o que eu quero. Eu fico mais pra cá. Temos sair daqui da corredeira,"
+    },
+    {
+      "start": 27.71,
+      "end": 35.37,
+      "text": "pra ser um bom arrumeço."
+    }
+  ],
+  "duracao_seg": 44.49,
+  "idioma_detectado": "pt"
+}

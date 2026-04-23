@@ -1,0 +1,52 @@
+{
+  "texto": "Tem um pregador mirim estourado na internet Que fala umas palavras Off the king, the power, the best Tá cobrando 10 mil conto pra nas igrejas pregar Os irmão tudo pagando pra ouvir ele falar Off the king, the power, the best The king, the king, the power, the smart Off the king, the power, the best The king, the king, the power, the smart",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 4.05,
+      "text": "Tem um pregador mirim estourado na internet"
+    },
+    {
+      "start": 4.05,
+      "end": 5.95,
+      "text": "Que fala umas palavras"
+    },
+    {
+      "start": 5.95,
+      "end": 7.75,
+      "text": "Off the king, the power, the best"
+    },
+    {
+      "start": 7.75,
+      "end": 11.39,
+      "text": "Tá cobrando 10 mil conto pra nas igrejas pregar"
+    },
+    {
+      "start": 11.39,
+      "end": 15.09,
+      "text": "Os irmão tudo pagando pra ouvir ele falar"
+    },
+    {
+      "start": 15.09,
+      "end": 17.01,
+      "text": "Off the king, the power, the best"
+    },
+    {
+      "start": 17.01,
+      "end": 18.81,
+      "text": "The king, the king, the power, the smart"
+    },
+    {
+      "start": 18.81,
+      "end": 20.69,
+      "text": "Off the king, the power, the best"
+    },
+    {
+      "start": 20.69,
+      "end": 22.53,
+      "text": "The king, the king, the power, the smart"
+    }
+  ],
+  "duracao_seg": 22.75,
+  "idioma_detectado": "pt"
+}

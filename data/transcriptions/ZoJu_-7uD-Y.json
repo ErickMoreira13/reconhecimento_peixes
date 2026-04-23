@@ -1,0 +1,17 @@
+{
+  "texto": "Why the hell you want? Don't turn.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "Why the hell you want?"
+    },
+    {
+      "start": 7.38,
+      "end": 8.0,
+      "text": "Don't turn."
+    }
+  ],
+  "duracao_seg": 8.05,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "a cobra te assustei que susto achei que era uma cobra de verdade aonde não tem jacaré aqui é muito fácil assustar garoto tem são dois bobos eu acho melhor você sair tem um negócio e nome atrás de você eu acho que o jacaré vai embora logo eu tô bem assustado mesmo foi embora vamos acreditar em vocês galera você acha que deve acreditar neles comenta aí",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 10.78,
+      "text": "a cobra te assustei que susto achei que era uma cobra de verdade aonde não tem jacaré aqui é muito"
+    },
+    {
+      "start": 10.78,
+      "end": 16.42,
+      "text": "fácil assustar garoto tem são dois bobos eu acho melhor você sair tem um negócio e nome atrás de"
+    },
+    {
+      "start": 16.42,
+      "end": 22.66,
+      "text": "você eu acho que o jacaré vai embora logo eu tô bem assustado mesmo foi embora vamos acreditar em"
+    },
+    {
+      "start": 22.66,
+      "end": 25.18,
+      "text": "vocês galera você acha que deve acreditar neles comenta aí"
+    }
+  ],
+  "duracao_seg": 25.65,
+  "idioma_detectado": "pt"
+}

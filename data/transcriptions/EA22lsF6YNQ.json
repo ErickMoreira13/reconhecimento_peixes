@@ -1,0 +1,32 @@
+{
+  "texto": "Mamãe, olha minha filha A cuca tá dizendo que vai me pegar Por quê? É sua cuca Tenha",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 3.08,
+      "text": "Mamãe, olha minha filha"
+    },
+    {
+      "start": 3.08,
+      "end": 4.82,
+      "text": "A cuca tá dizendo que vai me pegar"
+    },
+    {
+      "start": 4.82,
+      "end": 10.08,
+      "text": "Por quê?"
+    },
+    {
+      "start": 10.42,
+      "end": 11.45,
+      "text": "É sua cuca"
+    },
+    {
+      "start": 11.45,
+      "end": 15.93,
+      "text": "Tenha"
+    }
+  ],
+  "duracao_seg": 18.51,
+  "idioma_detectado": "pt"
+}

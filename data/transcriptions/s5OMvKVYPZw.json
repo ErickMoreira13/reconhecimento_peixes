@@ -1,0 +1,27 @@
+{
+  "texto": "Mas, rapaziada, eu vou dar um arremessinho com a retira, curadinho, Shimano MGL 150. Olha esse arremesso, de cada 10, 10 metros, ela muda de cor na linha. Olha, cabeleira, zero. Olha lá que foi o arremesso.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.92,
+      "text": "Mas, rapaziada, eu vou dar um arremessinho com a retira, curadinho, Shimano MGL 150."
+    },
+    {
+      "start": 5.5,
+      "end": 9.84,
+      "text": "Olha esse arremesso, de cada 10, 10 metros, ela muda de cor na linha."
+    },
+    {
+      "start": 10.18,
+      "end": 17.36,
+      "text": "Olha, cabeleira, zero."
+    },
+    {
+      "start": 17.74,
+      "end": 18.48,
+      "text": "Olha lá que foi o arremesso."
+    }
+  ],
+  "duracao_seg": 21.91,
+  "idioma_detectado": "pt"
+}

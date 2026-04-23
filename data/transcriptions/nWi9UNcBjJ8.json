@@ -1,0 +1,22 @@
+{
+  "texto": "Quando alguém perguntava o sonho dela Ela respondia Ela respondia",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 4.15,
+      "text": "Quando alguém perguntava o sonho dela"
+    },
+    {
+      "start": 4.15,
+      "end": 5.83,
+      "text": "Ela respondia"
+    },
+    {
+      "start": 5.83,
+      "end": 10.21,
+      "text": "Ela respondia"
+    }
+  ],
+  "duracao_seg": 14.85,
+  "idioma_detectado": "pt"
+}

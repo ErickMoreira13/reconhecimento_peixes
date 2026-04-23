@@ -1,0 +1,22 @@
+{
+  "texto": "um dia um pouco de água Manny, show me o que você tem",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 2.18,
+      "text": "um dia"
+    },
+    {
+      "start": 2.18,
+      "end": 4.18,
+      "text": "um pouco de água"
+    },
+    {
+      "start": 4.18,
+      "end": 7.23,
+      "text": "Manny, show me o que você tem"
+    }
+  ],
+  "duracao_seg": 7.75,
+  "idioma_detectado": "pt"
+}

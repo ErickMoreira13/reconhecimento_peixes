@@ -1,0 +1,32 @@
+{
+  "texto": "Tá lá, ó, seu filho crente. Você não falou que seu filho era crente, evangélico? Ó o que ele tá fazendo, mãe! Mãe! Meu Deus do céu.",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 1.82,
+      "text": "Tá lá, ó, seu filho crente."
+    },
+    {
+      "start": 1.9,
+      "end": 3.86,
+      "text": "Você não falou que seu filho era crente, evangélico?"
+    },
+    {
+      "start": 4.52,
+      "end": 6.14,
+      "text": "Ó o que ele tá fazendo, mãe!"
+    },
+    {
+      "start": 7.28,
+      "end": 7.64,
+      "text": "Mãe!"
+    },
+    {
+      "start": 8.74,
+      "end": 9.9,
+      "text": "Meu Deus do céu."
+    }
+  ],
+  "duracao_seg": 11.75,
+  "idioma_detectado": "pt"
+}

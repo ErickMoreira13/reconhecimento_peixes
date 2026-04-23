@@ -1,0 +1,27 @@
+{
+  "texto": "Deem uma olhada na nossa ceva de pomba asa branca. Aqui é onde elas irão pousar. Essa manhã já tenho meu frito garantido. Já vão se preparando porque logo tem vídeo no canal.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Deem uma olhada na nossa ceva de pomba asa branca."
+    },
+    {
+      "start": 3.56,
+      "end": 5.48,
+      "text": "Aqui é onde elas irão pousar."
+    },
+    {
+      "start": 6.69,
+      "end": 9.07,
+      "text": "Essa manhã já tenho meu frito garantido."
+    },
+    {
+      "start": 13.75,
+      "end": 16.75,
+      "text": "Já vão se preparando porque logo tem vídeo no canal."
+    }
+  ],
+  "duracao_seg": 17.67,
+  "idioma_detectado": "pt"
+}

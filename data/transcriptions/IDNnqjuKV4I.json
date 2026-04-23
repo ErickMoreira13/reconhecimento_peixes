@@ -1,0 +1,32 @@
+{
+  "texto": "Mentira, mentira Então Quebra um poes doido de massa, é doido Tem, tem Mentira",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 2.14,
+      "text": "Mentira, mentira"
+    },
+    {
+      "start": 2.14,
+      "end": 2.46,
+      "text": "Então"
+    },
+    {
+      "start": 2.46,
+      "end": 4.98,
+      "text": "Quebra um poes doido de massa, é doido"
+    },
+    {
+      "start": 4.98,
+      "end": 6.36,
+      "text": "Tem, tem"
+    },
+    {
+      "start": 6.36,
+      "end": 8.48,
+      "text": "Mentira"
+    }
+  ],
+  "duracao_seg": 15.15,
+  "idioma_detectado": "pt"
+}

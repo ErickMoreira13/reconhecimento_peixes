@@ -1,0 +1,22 @@
+{
+  "texto": "Falou que ia me mostrar que na roça aprendeu a montar Oi galopeira, não para de cavalgar Galopeira",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 3.9,
+      "text": "Falou que ia me mostrar que na roça aprendeu a montar"
+    },
+    {
+      "start": 3.9,
+      "end": 7.62,
+      "text": "Oi galopeira, não para de cavalgar"
+    },
+    {
+      "start": 7.62,
+      "end": 8.9,
+      "text": "Galopeira"
+    }
+  ],
+  "duracao_seg": 14.45,
+  "idioma_detectado": "pt"
+}

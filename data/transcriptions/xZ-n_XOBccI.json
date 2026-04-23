@@ -1,0 +1,47 @@
+{
+  "texto": "vocês como eu gosto de arremessar, tá vendo, olha lá em cima, deixa o molinete na posição pra jogar, focha aqui em cima o carretel, tá vendo, já tá na posição lá, pra jogar, tá vendo, eu começo a girar aqui, por o molinete subir, tá vendo, ó, subiu, já está no alto, tá vendo, vou aqui, prendo a linha aqui na minha mão, perto do molinete, eu vou estar jogando em direção a areia, tá, em direção pra lá, olha lá, não vou jogar pro mar, pra ver onde é que vai, tá bom, vou tocar a chumbara pra ver quanto eu joguei, quanto arrabaço eu joguei, fiquei em direção a praia, deu 187 passos, assim, ó, valeu, 187, então arremesso tá bom, arremesso tá bem longe, valeu, não sei quantos metros dá, não sei se dá 180 metros, 150 metros de linha, só sei que vai bem longe, valeu?",
+  "segmentos": [
+    {
+      "start": 6.86,
+      "end": 21.0,
+      "text": "vocês como eu gosto de arremessar, tá vendo, olha lá em cima, deixa o molinete na posição"
+    },
+    {
+      "start": 21.0,
+      "end": 27.86,
+      "text": "pra jogar, focha aqui em cima o carretel, tá vendo, já tá na posição lá, pra jogar,"
+    },
+    {
+      "start": 27.96,
+      "end": 37.51,
+      "text": "tá vendo, eu começo a girar aqui, por o molinete subir, tá vendo, ó, subiu, já está no alto,"
+    },
+    {
+      "start": 37.51,
+      "end": 50.1,
+      "text": "tá vendo, vou aqui, prendo a linha aqui na minha mão, perto do molinete, eu vou estar jogando em direção"
+    },
+    {
+      "start": 50.1,
+      "end": 57.06,
+      "text": "a areia, tá, em direção pra lá, olha lá, não vou jogar pro mar, pra ver onde é que vai, tá bom,"
+    },
+    {
+      "start": 59.47,
+      "end": 117.93,
+      "text": "vou tocar a chumbara pra ver quanto eu joguei, quanto arrabaço eu joguei, fiquei em direção"
+    },
+    {
+      "start": 117.93,
+      "end": 132.21,
+      "text": "a praia, deu 187 passos, assim, ó, valeu, 187, então arremesso tá bom, arremesso tá bem longe, valeu,"
+    },
+    {
+      "start": 132.21,
+      "end": 139.81,
+      "text": "não sei quantos metros dá, não sei se dá 180 metros, 150 metros de linha, só sei que vai bem longe, valeu?"
+    }
+  ],
+  "duracao_seg": 151.63,
+  "idioma_detectado": "pt"
+}

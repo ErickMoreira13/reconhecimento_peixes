@@ -1,0 +1,927 @@
+{
+  "texto": "E aí pessoal, tudo bem? Vamos começar uma pescaria, vamos fazer uma brincadeira com o Saicangas aqui. É um lugar que eu sempre vinha, mas o leito do rio mudou muito. O pessoal da prefeitura aqui está abrindo uma via nova aqui na cidade. E mudou muito, muito, muito o leito do rio. Eu vou tentar pescar ali no lugar onde eu sempre pescava, que é mais naqueles bambus ali. Mas eu vou tentar também explorar esses lados de cá, vamos ver o que acontece aí. Tendo peixe a gente mostra aí para vocês. Ah, rapaz, que ação, hein? Vamos indicando a Saicangas, a Saicangas está brava. Vamos na superfície. Rapaz, que susto! Vocês viram isso? Ah, vou lá buscar ela. Ela está brava, ela está brava. Ela vai voltar, vai voltar. Que susto, rapaz, que eu tomei. Como é que pode ser tão brabo esse bichinho? Olha isso! Pulou atrás. Ih, não é Saicangas pequenas, só errou o bote. Sei lá. Rapaz, só isso já valeu a pescaria. Só isso já valeu a pescaria. E aí? E aí ficou? Rapaz, que bicha braba! Que bicha braba! Olha aí, ó! Ih, é pequena, não é grande, não! Que bicha braba! Olha aí, ó! Não é uma Saicangas grande. Mas braba, braba! Volta para a água, querida, volta para a água. Já foi embora! Beleza, vamos continuar essa brincadeira aqui. Olha só! Olha! Olha aqui, ó! Ah, soltou! Ah, que pena! Estava com o freio muito solto. Ficou? Ficou? Ficou, rapaz! Ficou! Vem cá! É maiorzinha! Olha o tamanho dessa Saicangas! Olha que lefa de Saicangas! Vamos tirar aqui. Olha a lefa da Saicangas! Rapaz, eu vou medir essa bicha aqui, viu? Vou medir essa bicha aqui. Olha o tamanho dessa Saicangas! Olha o tamanho dessa Saicangas! Que beleza! Vamos medir ela? Medindo aí. Saicangas boca ali. Com 20... 25 centímetros na bifurcação. e mais de 27 até o final do rabo. Que beleza de Saicangas! Vamos soltar a bichinha? Vamos soltar ela. Que beleza! Fé com Deus! Foi embora! Foi embora! Obrigado! Me deu alegria! Vamos continuar pescando aí. Ficou! Que beleza! Que beleza de ataque! Que beleza de ataque! Aqui ainda? Olha! Parece ser um pouquinho menor do que a outra, mas... Que beleza, hein? Vamos soltar então essa bicha linda aqui. Vamos lá! Vamos lá, Bravesa! Foi embora! Acabou a pescaria! Está excelente a pescaria! Estou divertindo muito aí! Vamos mais! Vamos brincar mais um pouquinho! E aí? Ficou? Ah! Essa ela não vai perder, né? Não vai perder! Olha! Rapaz! O tamanho dessa saicanga! Olha o tamanho da saicanga! Olha o tamanho dessa saicanga! Vamos medir ela aqui! Não! Cara! Eu vou medir essa saicanga aqui! Vamos medir essa saicanga! Então... Rapaz! Olha aqui! Rapaz! 30 centímetros dessa saicanga! 30 centímetros! É uma lefa! Vamos botar ela para água de novo! E aí? Vou mostrar para o menino aqui! Põe a mãozinha nele aqui! Coloca a mão nele! Só não na boca! Que ele tem de dente! Lisinho, né? Viu? Olha só! Que bonito, né? Que bonito! Vamos soltar ele? Solte lá! Olha lá! Vem cá! Ele vai voltar! Olha aqui! Olha lá! Está vendo ele? Foi embora! Olha lá! O tio soltou! Olha! Que legal! Boa pescaria! Boa brincadeira para vocês aí! Valeu! Obrigado! Para nós! Para nós! Que beleza! Parece a menorzinha, mas... Vamos voltar a ter ação no final do dia! Só no beicinho! Olha só! Mais uma saicanguinha! Vamos liberá-la já! Vamos liberá-la já! Está aqui! Mais uma saicanguinha! Vamos para água! Ficou! Olha o tamanho desse peixinho! É uma piaba! Olha isso aqui! Olha isso aqui! Olha isso aqui! Uma piavinha! É um lambarizinho, né? Cara! Que coisa! Que coisa! Volta para a água, meu filho! Ver se se cria aí! Vai embora! E aí, pessoal! A gente está chegando então no final de mais uma pescaria! Muitas saicangas! Foi uma pescaria bem divertida! Teve um momento ali que não teve muita atividade! Mas agora no final ainda saiu uma saicanga grande aí de 30 centímetros! Se vocês puderam acompanhar! Valeu moçada! Abraço! Vamos lá! Tchau! Tchau! Tchau! Tchau!",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 2.15,
+      "text": "E aí pessoal, tudo bem?"
+    },
+    {
+      "start": 2.83,
+      "end": 6.03,
+      "text": "Vamos começar uma pescaria, vamos fazer uma brincadeira com o Saicangas aqui."
+    },
+    {
+      "start": 6.75,
+      "end": 10.03,
+      "text": "É um lugar que eu sempre vinha, mas o leito do rio mudou muito."
+    },
+    {
+      "start": 10.37,
+      "end": 14.23,
+      "text": "O pessoal da prefeitura aqui está abrindo uma via nova aqui na cidade."
+    },
+    {
+      "start": 14.95,
+      "end": 17.21,
+      "text": "E mudou muito, muito, muito o leito do rio."
+    },
+    {
+      "start": 17.93,
+      "end": 22.61,
+      "text": "Eu vou tentar pescar ali no lugar onde eu sempre pescava, que é mais naqueles bambus ali."
+    },
+    {
+      "start": 23.17,
+      "end": 26.57,
+      "text": "Mas eu vou tentar também explorar esses lados de cá, vamos ver o que acontece aí."
+    },
+    {
+      "start": 27.39,
+      "end": 28.71,
+      "text": "Tendo peixe a gente mostra aí para vocês."
+    },
+    {
+      "start": 28.71,
+      "end": 57.26,
+      "text": "Ah, rapaz, que ação, hein?"
+    },
+    {
+      "start": 59.16,
+      "end": 61.26,
+      "text": "Vamos indicando a Saicangas, a Saicangas está brava."
+    },
+    {
+      "start": 61.64,
+      "end": 62.62,
+      "text": "Vamos na superfície."
+    },
+    {
+      "start": 64.45,
+      "end": 66.11,
+      "text": "Rapaz, que susto!"
+    },
+    {
+      "start": 67.5,
+      "end": 68.34,
+      "text": "Vocês viram isso?"
+    },
+    {
+      "start": 69.93,
+      "end": 71.39,
+      "text": "Ah, vou lá buscar ela."
+    },
+    {
+      "start": 71.73,
+      "end": 73.25,
+      "text": "Ela está brava, ela está brava."
+    },
+    {
+      "start": 74.8,
+      "end": 79.56,
+      "text": "Ela vai voltar, vai voltar."
+    },
+    {
+      "start": 83.37,
+      "end": 85.29,
+      "text": "Que susto, rapaz, que eu tomei."
+    },
+    {
+      "start": 85.77,
+      "end": 87.43,
+      "text": "Como é que pode ser tão brabo esse bichinho?"
+    },
+    {
+      "start": 87.91,
+      "end": 108.91,
+      "text": "Olha isso!"
+    },
+    {
+      "start": 110.06,
+      "end": 111.0,
+      "text": "Pulou atrás."
+    },
+    {
+      "start": 114.88,
+      "end": 117.4,
+      "text": "Ih, não é Saicangas pequenas, só errou o bote."
+    },
+    {
+      "start": 117.46,
+      "end": 117.92,
+      "text": "Sei lá."
+    },
+    {
+      "start": 121.23,
+      "end": 123.33,
+      "text": "Rapaz, só isso já valeu a pescaria."
+    },
+    {
+      "start": 123.93,
+      "end": 125.53,
+      "text": "Só isso já valeu a pescaria."
+    },
+    {
+      "start": 136.19,
+      "end": 136.45,
+      "text": "E aí?"
+    },
+    {
+      "start": 137.39,
+      "end": 138.17,
+      "text": "E aí ficou?"
+    },
+    {
+      "start": 138.69,
+      "end": 142.82,
+      "text": "Rapaz, que bicha braba!"
+    },
+    {
+      "start": 143.56,
+      "end": 146.0,
+      "text": "Que bicha braba!"
+    },
+    {
+      "start": 146.12,
+      "end": 147.08,
+      "text": "Olha aí, ó!"
+    },
+    {
+      "start": 148.7,
+      "end": 150.86,
+      "text": "Ih, é pequena, não é grande, não!"
+    },
+    {
+      "start": 152.37,
+      "end": 153.55,
+      "text": "Que bicha braba!"
+    },
+    {
+      "start": 155.37,
+      "end": 155.91,
+      "text": "Olha aí, ó!"
+    },
+    {
+      "start": 155.91,
+      "end": 159.46,
+      "text": "Não é uma Saicangas grande."
+    },
+    {
+      "start": 160.82,
+      "end": 161.98,
+      "text": "Mas braba, braba!"
+    },
+    {
+      "start": 162.56,
+      "end": 164.36,
+      "text": "Volta para a água, querida, volta para a água."
+    },
+    {
+      "start": 167.38,
+      "end": 168.54,
+      "text": "Já foi embora!"
+    },
+    {
+      "start": 169.7,
+      "end": 171.42,
+      "text": "Beleza, vamos continuar essa brincadeira aqui."
+    },
+    {
+      "start": 193.67,
+      "end": 194.23,
+      "text": "Olha só!"
+    },
+    {
+      "start": 196.01,
+      "end": 196.35,
+      "text": "Olha!"
+    },
+    {
+      "start": 196.35,
+      "end": 196.59,
+      "text": "Olha aqui, ó!"
+    },
+    {
+      "start": 197.56,
+      "end": 198.32,
+      "text": "Ah, soltou!"
+    },
+    {
+      "start": 198.82,
+      "end": 199.78,
+      "text": "Ah, que pena!"
+    },
+    {
+      "start": 200.36,
+      "end": 201.7,
+      "text": "Estava com o freio muito solto."
+    },
+    {
+      "start": 208.34,
+      "end": 208.66,
+      "text": "Ficou?"
+    },
+    {
+      "start": 209.26,
+      "end": 209.66,
+      "text": "Ficou?"
+    },
+    {
+      "start": 212.14,
+      "end": 213.6,
+      "text": "Ficou, rapaz!"
+    },
+    {
+      "start": 218.37,
+      "end": 218.97,
+      "text": "Ficou!"
+    },
+    {
+      "start": 221.04,
+      "end": 221.94,
+      "text": "Vem cá!"
+    },
+    {
+      "start": 224.64,
+      "end": 225.56,
+      "text": "É maiorzinha!"
+    },
+    {
+      "start": 225.56,
+      "end": 232.22,
+      "text": "Olha o tamanho dessa Saicangas!"
+    },
+    {
+      "start": 233.74,
+      "end": 238.16,
+      "text": "Olha que lefa de Saicangas!"
+    },
+    {
+      "start": 240.3,
+      "end": 241.06,
+      "text": "Vamos tirar aqui."
+    },
+    {
+      "start": 244.16,
+      "end": 245.82,
+      "text": "Olha a lefa da Saicangas!"
+    },
+    {
+      "start": 247.29,
+      "end": 249.27,
+      "text": "Rapaz, eu vou medir essa bicha aqui, viu?"
+    },
+    {
+      "start": 250.2,
+      "end": 251.16,
+      "text": "Vou medir essa bicha aqui."
+    },
+    {
+      "start": 251.38,
+      "end": 252.62,
+      "text": "Olha o tamanho dessa Saicangas!"
+    },
+    {
+      "start": 259.29,
+      "end": 260.93,
+      "text": "Olha o tamanho dessa Saicangas!"
+    },
+    {
+      "start": 261.21,
+      "end": 261.71,
+      "text": "Que beleza!"
+    },
+    {
+      "start": 262.6,
+      "end": 263.08,
+      "text": "Vamos medir ela?"
+    },
+    {
+      "start": 273.47,
+      "end": 274.27,
+      "text": "Medindo aí."
+    },
+    {
+      "start": 275.01,
+      "end": 276.15,
+      "text": "Saicangas boca ali."
+    },
+    {
+      "start": 276.15,
+      "end": 278.66,
+      "text": "Com 20..."
+    },
+    {
+      "start": 278.66,
+      "end": 283.87,
+      "text": "25 centímetros na bifurcação."
+    },
+    {
+      "start": 283.87,
+      "end": 286.5,
+      "text": "e mais de 27"
+    },
+    {
+      "start": 286.5,
+      "end": 289.04,
+      "text": "até o final do rabo."
+    },
+    {
+      "start": 290.05,
+      "end": 291.25,
+      "text": "Que beleza de Saicangas!"
+    },
+    {
+      "start": 294.0,
+      "end": 294.86,
+      "text": "Vamos soltar a bichinha?"
+    },
+    {
+      "start": 296.14,
+      "end": 296.76,
+      "text": "Vamos soltar ela."
+    },
+    {
+      "start": 297.84,
+      "end": 298.36,
+      "text": "Que beleza!"
+    },
+    {
+      "start": 298.76,
+      "end": 299.42,
+      "text": "Fé com Deus!"
+    },
+    {
+      "start": 302.37,
+      "end": 303.23,
+      "text": "Foi embora!"
+    },
+    {
+      "start": 304.33,
+      "end": 304.91,
+      "text": "Foi embora!"
+    },
+    {
+      "start": 305.03,
+      "end": 305.43,
+      "text": "Obrigado!"
+    },
+    {
+      "start": 305.47,
+      "end": 306.07,
+      "text": "Me deu alegria!"
+    },
+    {
+      "start": 307.76,
+      "end": 308.8,
+      "text": "Vamos continuar pescando aí."
+    },
+    {
+      "start": 316.2,
+      "end": 316.56,
+      "text": "Ficou!"
+    },
+    {
+      "start": 317.02,
+      "end": 317.58,
+      "text": "Que beleza!"
+    },
+    {
+      "start": 317.74,
+      "end": 318.72,
+      "text": "Que beleza de ataque!"
+    },
+    {
+      "start": 321.15,
+      "end": 322.05,
+      "text": "Que beleza de ataque!"
+    },
+    {
+      "start": 324.03,
+      "end": 324.49,
+      "text": "Aqui ainda?"
+    },
+    {
+      "start": 324.49,
+      "end": 324.69,
+      "text": "Olha!"
+    },
+    {
+      "start": 327.11,
+      "end": 335.4,
+      "text": "Parece ser um pouquinho menor do que a outra, mas..."
+    },
+    {
+      "start": 338.59,
+      "end": 339.35,
+      "text": "Que beleza, hein?"
+    },
+    {
+      "start": 339.35,
+      "end": 343.55,
+      "text": "Vamos soltar então essa bicha linda aqui."
+    },
+    {
+      "start": 344.53,
+      "end": 344.85,
+      "text": "Vamos lá!"
+    },
+    {
+      "start": 345.13,
+      "end": 345.87,
+      "text": "Vamos lá, Bravesa!"
+    },
+    {
+      "start": 348.58,
+      "end": 349.18,
+      "text": "Foi embora!"
+    },
+    {
+      "start": 350.42,
+      "end": 351.32,
+      "text": "Acabou a pescaria!"
+    },
+    {
+      "start": 352.12,
+      "end": 353.56,
+      "text": "Está excelente a pescaria!"
+    },
+    {
+      "start": 355.35,
+      "end": 356.29,
+      "text": "Estou divertindo muito aí!"
+    },
+    {
+      "start": 356.99,
+      "end": 357.45,
+      "text": "Vamos mais!"
+    },
+    {
+      "start": 357.59,
+      "end": 358.33,
+      "text": "Vamos brincar mais um pouquinho!"
+    },
+    {
+      "start": 367.78,
+      "end": 368.0,
+      "text": "E aí?"
+    },
+    {
+      "start": 368.1,
+      "end": 368.34,
+      "text": "Ficou?"
+    },
+    {
+      "start": 369.42,
+      "end": 369.72,
+      "text": "Ah!"
+    },
+    {
+      "start": 369.72,
+      "end": 370.5,
+      "text": "Essa ela não vai perder, né?"
+    },
+    {
+      "start": 370.94,
+      "end": 376.84,
+      "text": "Não vai perder!"
+    },
+    {
+      "start": 376.84,
+      "end": 380.72,
+      "text": "Olha!"
+    },
+    {
+      "start": 396.57,
+      "end": 396.97,
+      "text": "Rapaz!"
+    },
+    {
+      "start": 397.01,
+      "end": 398.79,
+      "text": "O tamanho dessa saicanga!"
+    },
+    {
+      "start": 399.92,
+      "end": 402.1,
+      "text": "Olha o tamanho da saicanga!"
+    },
+    {
+      "start": 404.17,
+      "end": 405.49,
+      "text": "Olha o tamanho dessa saicanga!"
+    },
+    {
+      "start": 406.66,
+      "end": 407.38,
+      "text": "Vamos medir ela aqui!"
+    },
+    {
+      "start": 407.82,
+      "end": 407.96,
+      "text": "Não!"
+    },
+    {
+      "start": 411.33,
+      "end": 411.57,
+      "text": "Cara!"
+    },
+    {
+      "start": 411.67,
+      "end": 412.83,
+      "text": "Eu vou medir essa saicanga aqui!"
+    },
+    {
+      "start": 418.45,
+      "end": 419.45,
+      "text": "Vamos medir essa saicanga!"
+    },
+    {
+      "start": 419.57,
+      "end": 420.51,
+      "text": "Então..."
+    },
+    {
+      "start": 420.51,
+      "end": 420.99,
+      "text": "Rapaz!"
+    },
+    {
+      "start": 421.01,
+      "end": 421.33,
+      "text": "Olha aqui!"
+    },
+    {
+      "start": 423.8,
+      "end": 424.24,
+      "text": "Rapaz!"
+    },
+    {
+      "start": 424.44,
+      "end": 426.0,
+      "text": "30 centímetros dessa saicanga!"
+    },
+    {
+      "start": 426.91,
+      "end": 427.71,
+      "text": "30 centímetros!"
+    },
+    {
+      "start": 427.79,
+      "end": 428.75,
+      "text": "É uma lefa!"
+    },
+    {
+      "start": 429.83,
+      "end": 430.87,
+      "text": "Vamos botar ela para água de novo!"
+    },
+    {
+      "start": 430.87,
+      "end": 432.65,
+      "text": "E aí?"
+    },
+    {
+      "start": 433.19,
+      "end": 442.46,
+      "text": "Vou mostrar para o menino aqui!"
+    },
+    {
+      "start": 450.05,
+      "end": 451.25,
+      "text": "Põe a mãozinha nele aqui!"
+    },
+    {
+      "start": 451.37,
+      "end": 451.87,
+      "text": "Coloca a mão nele!"
+    },
+    {
+      "start": 451.93,
+      "end": 452.55,
+      "text": "Só não na boca!"
+    },
+    {
+      "start": 452.65,
+      "end": 453.25,
+      "text": "Que ele tem de dente!"
+    },
+    {
+      "start": 454.26,
+      "end": 454.86,
+      "text": "Lisinho, né?"
+    },
+    {
+      "start": 455.2,
+      "end": 455.5,
+      "text": "Viu?"
+    },
+    {
+      "start": 455.76,
+      "end": 457.46,
+      "text": "Olha só!"
+    },
+    {
+      "start": 457.8,
+      "end": 458.46,
+      "text": "Que bonito, né?"
+    },
+    {
+      "start": 458.56,
+      "end": 459.38,
+      "text": "Que bonito!"
+    },
+    {
+      "start": 459.86,
+      "end": 460.46,
+      "text": "Vamos soltar ele?"
+    },
+    {
+      "start": 460.94,
+      "end": 461.44,
+      "text": "Solte lá!"
+    },
+    {
+      "start": 461.62,
+      "end": 461.96,
+      "text": "Olha lá!"
+    },
+    {
+      "start": 462.56,
+      "end": 463.16,
+      "text": "Vem cá!"
+    },
+    {
+      "start": 463.22,
+      "end": 463.74,
+      "text": "Ele vai voltar!"
+    },
+    {
+      "start": 465.21,
+      "end": 465.59,
+      "text": "Olha aqui!"
+    },
+    {
+      "start": 466.7,
+      "end": 467.04,
+      "text": "Olha lá!"
+    },
+    {
+      "start": 467.85,
+      "end": 468.55,
+      "text": "Está vendo ele?"
+    },
+    {
+      "start": 468.97,
+      "end": 469.55,
+      "text": "Foi embora!"
+    },
+    {
+      "start": 469.55,
+      "end": 469.73,
+      "text": "Olha lá!"
+    },
+    {
+      "start": 469.79,
+      "end": 470.31,
+      "text": "O tio soltou!"
+    },
+    {
+      "start": 470.31,
+      "end": 470.69,
+      "text": "Olha!"
+    },
+    {
+      "start": 473.17,
+      "end": 473.99,
+      "text": "Que legal!"
+    },
+    {
+      "start": 474.77,
+      "end": 475.43,
+      "text": "Boa pescaria!"
+    },
+    {
+      "start": 475.51,
+      "end": 476.79,
+      "text": "Boa brincadeira para vocês aí!"
+    },
+    {
+      "start": 477.01,
+      "end": 477.41,
+      "text": "Valeu!"
+    },
+    {
+      "start": 477.49,
+      "end": 477.85,
+      "text": "Obrigado!"
+    },
+    {
+      "start": 477.93,
+      "end": 478.35,
+      "text": "Para nós!"
+    },
+    {
+      "start": 478.53,
+      "end": 479.03,
+      "text": "Para nós!"
+    },
+    {
+      "start": 498.24,
+      "end": 498.9,
+      "text": "Que beleza!"
+    },
+    {
+      "start": 502.08,
+      "end": 504.43,
+      "text": "Parece a menorzinha, mas..."
+    },
+    {
+      "start": 504.43,
+      "end": 505.87,
+      "text": "Vamos voltar a ter ação no final do dia!"
+    },
+    {
+      "start": 507.11,
+      "end": 508.25,
+      "text": "Só no beicinho!"
+    },
+    {
+      "start": 508.31,
+      "end": 508.59,
+      "text": "Olha só!"
+    },
+    {
+      "start": 510.42,
+      "end": 511.68,
+      "text": "Mais uma saicanguinha!"
+    },
+    {
+      "start": 512.2,
+      "end": 514.17,
+      "text": "Vamos liberá-la já!"
+    },
+    {
+      "start": 514.73,
+      "end": 517.96,
+      "text": "Vamos liberá-la já!"
+    },
+    {
+      "start": 520.89,
+      "end": 521.27,
+      "text": "Está aqui!"
+    },
+    {
+      "start": 521.43,
+      "end": 522.35,
+      "text": "Mais uma saicanguinha!"
+    },
+    {
+      "start": 523.1,
+      "end": 523.6,
+      "text": "Vamos para água!"
+    },
+    {
+      "start": 542.63,
+      "end": 543.11,
+      "text": "Ficou!"
+    },
+    {
+      "start": 543.98,
+      "end": 546.54,
+      "text": "Olha o tamanho desse peixinho!"
+    },
+    {
+      "start": 547.73,
+      "end": 548.43,
+      "text": "É uma piaba!"
+    },
+    {
+      "start": 550.05,
+      "end": 550.86,
+      "text": "Olha isso aqui!"
+    },
+    {
+      "start": 551.28,
+      "end": 551.76,
+      "text": "Olha isso aqui!"
+    },
+    {
+      "start": 552.45,
+      "end": 553.25,
+      "text": "Olha isso aqui!"
+    },
+    {
+      "start": 554.18,
+      "end": 554.88,
+      "text": "Uma piavinha!"
+    },
+    {
+      "start": 554.88,
+      "end": 556.78,
+      "text": "É um lambarizinho, né?"
+    },
+    {
+      "start": 558.06,
+      "end": 558.42,
+      "text": "Cara!"
+    },
+    {
+      "start": 559.18,
+      "end": 560.22,
+      "text": "Que coisa!"
+    },
+    {
+      "start": 560.34,
+      "end": 560.82,
+      "text": "Que coisa!"
+    },
+    {
+      "start": 560.92,
+      "end": 561.88,
+      "text": "Volta para a água, meu filho!"
+    },
+    {
+      "start": 561.94,
+      "end": 562.76,
+      "text": "Ver se se cria aí!"
+    },
+    {
+      "start": 565.95,
+      "end": 566.29,
+      "text": "Vai embora!"
+    },
+    {
+      "start": 568.81,
+      "end": 569.33,
+      "text": "E aí, pessoal!"
+    },
+    {
+      "start": 569.41,
+      "end": 571.33,
+      "text": "A gente está chegando então no final de mais uma pescaria!"
+    },
+    {
+      "start": 571.97,
+      "end": 573.09,
+      "text": "Muitas saicangas!"
+    },
+    {
+      "start": 573.27,
+      "end": 574.41,
+      "text": "Foi uma pescaria bem divertida!"
+    },
+    {
+      "start": 574.49,
+      "end": 576.83,
+      "text": "Teve um momento ali que não teve muita atividade!"
+    },
+    {
+      "start": 576.83,
+      "end": 581.57,
+      "text": "Mas agora no final ainda saiu uma saicanga grande aí de 30 centímetros!"
+    },
+    {
+      "start": 581.65,
+      "end": 582.45,
+      "text": "Se vocês puderam acompanhar!"
+    },
+    {
+      "start": 583.4,
+      "end": 583.96,
+      "text": "Valeu moçada!"
+    },
+    {
+      "start": 584.16,
+      "end": 584.5,
+      "text": "Abraço!"
+    },
+    {
+      "start": 584.5,
+      "end": 585.0,
+      "text": "Vamos lá!"
+    },
+    {
+      "start": 585.0,
+      "end": 585.28,
+      "text": "Tchau!"
+    },
+    {
+      "start": 585.28,
+      "end": 585.6,
+      "text": "Tchau!"
+    },
+    {
+      "start": 585.6,
+      "end": 586.06,
+      "text": "Tchau!"
+    },
+    {
+      "start": 586.06,
+      "end": 587.04,
+      "text": "Tchau!"
+    }
+  ],
+  "duracao_seg": 586.39,
+  "idioma_detectado": "pt"
+}

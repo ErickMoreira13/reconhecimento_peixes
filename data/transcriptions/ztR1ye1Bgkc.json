@@ -1,0 +1,22 @@
+{
+  "texto": "Vai escapar pra pedra, eu acho. É flecha, é flecha. Sai pra dentro do rio. Tá indo, tá indo, tá indo pra dentro do rio. Aê, tá indo pra dentro do rio, cara. Vai escapar, pegou no lado, cara. Segura aqui, Ederson. Pegou por baixo, cara. Vamos subir lá. Aí, rapaziada, vamos soltar o bichão.",
+  "segmentos": [
+    {
+      "start": 88.14,
+      "end": 116.28,
+      "text": "Vai escapar pra pedra, eu acho. É flecha, é flecha. Sai pra dentro do rio. Tá indo, tá indo, tá indo pra dentro do rio."
+    },
+    {
+      "start": 116.28,
+      "end": 188.44,
+      "text": "Aê, tá indo pra dentro do rio, cara. Vai escapar, pegou no lado, cara. Segura aqui, Ederson."
+    },
+    {
+      "start": 188.44,
+      "end": 268.25,
+      "text": "Pegou por baixo, cara. Vamos subir lá. Aí, rapaziada, vamos soltar o bichão."
+    }
+  ],
+  "duracao_seg": 294.99,
+  "idioma_detectado": "pt"
+}

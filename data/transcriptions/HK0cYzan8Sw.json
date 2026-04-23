@@ -1,0 +1,32 @@
+{
+  "texto": "Encosta na parede Puxa o seu ca... Encaixe perfeito Vai sentar pra maloqueiro Tá na parede",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 2.22,
+      "text": "Encosta na parede"
+    },
+    {
+      "start": 2.22,
+      "end": 4.69,
+      "text": "Puxa o seu ca..."
+    },
+    {
+      "start": 4.69,
+      "end": 5.91,
+      "text": "Encaixe perfeito"
+    },
+    {
+      "start": 5.91,
+      "end": 7.71,
+      "text": "Vai sentar pra maloqueiro"
+    },
+    {
+      "start": 7.71,
+      "end": 9.63,
+      "text": "Tá na parede"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

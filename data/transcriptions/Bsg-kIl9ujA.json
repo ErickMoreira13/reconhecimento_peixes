@@ -1,0 +1,102 @@
+{
+  "texto": "Aqui? É, quer ver outro macete? Abaixa pra você ver. Ali você vai ter que jogar a isca lá embaixo. Ah, sim. A isca voou muito em cima, tá? Deixa eu te mostrar aqui, ó. Eu não vou jogar lá porque eu quero que você jogue lá, tá? Certo. Você é abaixado aqui, ó. Tá vendo? Sim. Mesmo com o arbusto, você consegue jogar lá de baixo. Sem receio, sem enroscar, a gente vai lá e desenrosca. Não se preocupe, tá bom? Faz enquanto que você está sozinho. Tá. Voou muito alto. Não esquenta não, não esquenta não. Tenta fazer a isca voar mais baixo. Se você tirar o dedo muito cedo, aqui em cima. Aí, boa. Aí, ó. Tá vendo? É só demorar um pouquinho só pra tirar o dedo do carretel. Aí. Entra de novo lá embaixo. Boa. Tá vendo? Você vê? Você de pé e agachado, a diferença que dá, Paulo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Aqui? É, quer ver outro macete? Abaixa pra você ver."
+    },
+    {
+      "start": 3.1,
+      "end": 4.54,
+      "text": "Ali você vai ter que jogar a isca lá embaixo."
+    },
+    {
+      "start": 6.43,
+      "end": 8.25,
+      "text": "Ah, sim. A isca voou muito em cima, tá?"
+    },
+    {
+      "start": 9.02,
+      "end": 12.0,
+      "text": "Deixa eu te mostrar aqui, ó. Eu não vou jogar lá porque eu quero que você jogue lá, tá?"
+    },
+    {
+      "start": 12.0,
+      "end": 13.98,
+      "text": "Certo. Você é abaixado aqui, ó."
+    },
+    {
+      "start": 16.38,
+      "end": 17.16,
+      "text": "Tá vendo? Sim."
+    },
+    {
+      "start": 17.28,
+      "end": 19.4,
+      "text": "Mesmo com o arbusto, você consegue jogar lá de baixo."
+    },
+    {
+      "start": 20.14,
+      "end": 22.76,
+      "text": "Sem receio, sem enroscar, a gente vai lá e desenrosca."
+    },
+    {
+      "start": 23.14,
+      "end": 24.3,
+      "text": "Não se preocupe, tá bom?"
+    },
+    {
+      "start": 24.92,
+      "end": 26.16,
+      "text": "Faz enquanto que você está sozinho."
+    },
+    {
+      "start": 27.5,
+      "end": 29.32,
+      "text": "Tá. Voou muito alto. Não esquenta não, não esquenta não."
+    },
+    {
+      "start": 29.64,
+      "end": 30.96,
+      "text": "Tenta fazer a isca voar mais baixo."
+    },
+    {
+      "start": 30.96,
+      "end": 34.04,
+      "text": "Se você tirar o dedo muito cedo, aqui em cima."
+    },
+    {
+      "start": 34.54,
+      "end": 35.88,
+      "text": "Aí, boa. Aí, ó. Tá vendo?"
+    },
+    {
+      "start": 37.18,
+      "end": 40.14,
+      "text": "É só demorar um pouquinho só pra tirar o dedo do carretel."
+    },
+    {
+      "start": 44.86,
+      "end": 45.14,
+      "text": "Aí."
+    },
+    {
+      "start": 49.75,
+      "end": 50.93,
+      "text": "Entra de novo lá embaixo."
+    },
+    {
+      "start": 53.02,
+      "end": 53.64,
+      "text": "Boa. Tá vendo?"
+    },
+    {
+      "start": 55.52,
+      "end": 59.5,
+      "text": "Você vê? Você de pé e agachado, a diferença que dá, Paulo."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

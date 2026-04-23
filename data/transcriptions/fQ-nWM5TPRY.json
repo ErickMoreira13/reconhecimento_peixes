@@ -1,0 +1,42 @@
+{
+  "texto": "Vamo, amor. Vamo, meu avô também. Minha amiga vai também, tá? Vamo, amor. Espera, amor. Vai também, bora, bora. Amor, comprou um presente pra você. Comprou só pra ela? Foi o meu, cadê? Cadê o presente dela, amor? Também tem que dar pra ela.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 4.05,
+      "text": "Vamo, amor. Vamo, meu avô também."
+    },
+    {
+      "start": 4.05,
+      "end": 7.07,
+      "text": "Minha amiga vai também, tá?"
+    },
+    {
+      "start": 7.07,
+      "end": 11.41,
+      "text": "Vamo, amor. Espera, amor."
+    },
+    {
+      "start": 11.41,
+      "end": 14.5,
+      "text": "Vai também, bora, bora."
+    },
+    {
+      "start": 14.5,
+      "end": 16.5,
+      "text": "Amor, comprou um presente pra você."
+    },
+    {
+      "start": 16.5,
+      "end": 20.56,
+      "text": "Comprou só pra ela? Foi o meu, cadê?"
+    },
+    {
+      "start": 20.56,
+      "end": 22.56,
+      "text": "Cadê o presente dela, amor? Também tem que dar pra ela."
+    }
+  ],
+  "duracao_seg": 22.91,
+  "idioma_detectado": "pt"
+}

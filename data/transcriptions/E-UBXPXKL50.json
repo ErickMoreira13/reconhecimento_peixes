@@ -1,0 +1,27 @@
+{
+  "texto": "Olha o pescador Hernandes aí, ó. É, Samuel, olha o tamanho da lagoa, Samuel. É, Samuel, olha o tamanho do cunaré, Samuel. Eu cheguei com água.",
+  "segmentos": [
+    {
+      "start": 7.25,
+      "end": 9.09,
+      "text": "Olha o pescador Hernandes aí, ó."
+    },
+    {
+      "start": 11.98,
+      "end": 14.58,
+      "text": "É, Samuel, olha o tamanho da lagoa, Samuel."
+    },
+    {
+      "start": 15.08,
+      "end": 23.98,
+      "text": "É, Samuel, olha o tamanho do cunaré, Samuel."
+    },
+    {
+      "start": 26.45,
+      "end": 27.31,
+      "text": "Eu cheguei com água."
+    }
+  ],
+  "duracao_seg": 27.89,
+  "idioma_detectado": "pt"
+}

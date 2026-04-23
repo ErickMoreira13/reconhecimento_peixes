@@ -1,0 +1,37 @@
+{
+  "texto": "Aí galera, ó, como eu prometi do vídeo da regulagem, ó O ajuste de freio eu deixo na metade Como vocês podem ver, ó, a isca tá caindo normal Eu tô sozinho aqui, galera, aí fica meio complicado pra tá fazendo Como vocês virem, o ajuste de fim tá caindo normal E eu vou fazer o arremesso aqui agora pra vocês verem como não dá cabeleira",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "Aí galera, ó, como eu prometi do vídeo da regulagem, ó"
+    },
+    {
+      "start": 3.78,
+      "end": 7.42,
+      "text": "O ajuste de freio eu deixo na metade"
+    },
+    {
+      "start": 7.42,
+      "end": 10.58,
+      "text": "Como vocês podem ver, ó, a isca tá caindo normal"
+    },
+    {
+      "start": 10.58,
+      "end": 15.4,
+      "text": "Eu tô sozinho aqui, galera, aí fica meio complicado pra tá fazendo"
+    },
+    {
+      "start": 15.4,
+      "end": 17.56,
+      "text": "Como vocês virem, o ajuste de fim tá caindo normal"
+    },
+    {
+      "start": 17.56,
+      "end": 23.95,
+      "text": "E eu vou fazer o arremesso aqui agora pra vocês verem como não dá cabeleira"
+    }
+  ],
+  "duracao_seg": 26.75,
+  "idioma_detectado": "pt"
+}

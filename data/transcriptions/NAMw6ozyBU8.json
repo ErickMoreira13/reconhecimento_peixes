@@ -1,0 +1,32 @@
+{
+  "texto": "Não, desfaça, desfaça, velho. Não, tô suave, não tô suave. Adeus. Achei que eu ia morrer. Eu raguei.",
+  "segmentos": [
+    {
+      "start": 3.44,
+      "end": 4.74,
+      "text": "Não, desfaça, desfaça, velho."
+    },
+    {
+      "start": 4.88,
+      "end": 5.8,
+      "text": "Não, tô suave, não tô suave."
+    },
+    {
+      "start": 25.26,
+      "end": 25.7,
+      "text": "Adeus."
+    },
+    {
+      "start": 26.32,
+      "end": 27.18,
+      "text": "Achei que eu ia morrer."
+    },
+    {
+      "start": 27.26,
+      "end": 27.84,
+      "text": "Eu raguei."
+    }
+  ],
+  "duracao_seg": 27.97,
+  "idioma_detectado": "pt"
+}

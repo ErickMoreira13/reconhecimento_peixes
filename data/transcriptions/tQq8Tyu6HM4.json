@@ -1,0 +1,57 @@
+{
+  "texto": "Houve um headcast com molinete. A vantagem do molinete perante a carretilha é que solta linha muito fácil devido ao carretel mais largo. Alguns molinetes, o carretel até cônico, mas isso daí é para pescaria de praia, pescaria para arremessar isso que é mais de 100 metros, não é o caso da isca artificial. Mas é o seguinte, segurou aqui, eu vou trazer para cima aqui, olha, arremessei, opa, então vou arremessar aqui, trago aqui para frente, lanço e breco aqui, tá ok? Então esse é o overhead cast, mas eu quero fazer o overhead cast com o molinete de lado. Olha aqui, virei de lado, tá ok? Movimento aqui e faço o lançamento, sempre segurando com o dedo médio o carretel, a saída da linha. Então vocês viram aí, dois arremessos bem legais aí com overhead cast.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.25,
+      "text": "Houve um headcast com molinete."
+    },
+    {
+      "start": 3.41,
+      "end": 9.93,
+      "text": "A vantagem do molinete perante a carretilha é que solta linha muito fácil devido ao carretel mais largo."
+    },
+    {
+      "start": 10.11,
+      "end": 14.47,
+      "text": "Alguns molinetes, o carretel até cônico, mas isso daí é para pescaria de praia,"
+    },
+    {
+      "start": 14.89,
+      "end": 19.01,
+      "text": "pescaria para arremessar isso que é mais de 100 metros, não é o caso da isca artificial."
+    },
+    {
+      "start": 19.69,
+      "end": 27.58,
+      "text": "Mas é o seguinte, segurou aqui, eu vou trazer para cima aqui, olha, arremessei, opa,"
+    },
+    {
+      "start": 27.58,
+      "end": 32.68,
+      "text": "então vou arremessar aqui, trago aqui para frente, lanço e breco aqui, tá ok?"
+    },
+    {
+      "start": 33.1,
+      "end": 43.04,
+      "text": "Então esse é o overhead cast, mas eu quero fazer o overhead cast com o molinete de lado."
+    },
+    {
+      "start": 44.92,
+      "end": 46.72,
+      "text": "Olha aqui, virei de lado, tá ok?"
+    },
+    {
+      "start": 47.32,
+      "end": 54.0,
+      "text": "Movimento aqui e faço o lançamento, sempre segurando com o dedo médio o carretel, a saída da linha."
+    },
+    {
+      "start": 54.72,
+      "end": 59.58,
+      "text": "Então vocês viram aí, dois arremessos bem legais aí com overhead cast."
+    }
+  ],
+  "duracao_seg": 59.63,
+  "idioma_detectado": "pt"
+}

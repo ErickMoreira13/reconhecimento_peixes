@@ -1,0 +1,62 @@
+{
+  "texto": "Por que que tá chorando? Eu vou jogar! Mas por que que tá chorando? Porque eu quero ir lá e pôr! Esse é pequenininho, filho! Mas não é, não! Nós vamos pegar mais, tá bom? Então solta lá do jeito que você sabe soltar Igual o pescador Igual o pescador, vai! Como é que solta igual o pescador?",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 1.39,
+      "text": "Por que que tá chorando?"
+    },
+    {
+      "start": 1.69,
+      "end": 2.49,
+      "text": "Eu vou jogar!"
+    },
+    {
+      "start": 2.83,
+      "end": 3.79,
+      "text": "Mas por que que tá chorando?"
+    },
+    {
+      "start": 4.27,
+      "end": 5.85,
+      "text": "Porque eu quero ir lá e pôr!"
+    },
+    {
+      "start": 5.87,
+      "end": 9.82,
+      "text": "Esse é pequenininho, filho!"
+    },
+    {
+      "start": 9.96,
+      "end": 11.3,
+      "text": "Mas não é, não!"
+    },
+    {
+      "start": 11.84,
+      "end": 13.04,
+      "text": "Nós vamos pegar mais, tá bom?"
+    },
+    {
+      "start": 13.12,
+      "end": 15.08,
+      "text": "Então solta lá do jeito que você sabe soltar"
+    },
+    {
+      "start": 15.08,
+      "end": 16.68,
+      "text": "Igual o pescador"
+    },
+    {
+      "start": 16.68,
+      "end": 19.32,
+      "text": "Igual o pescador, vai!"
+    },
+    {
+      "start": 19.46,
+      "end": 20.64,
+      "text": "Como é que solta igual o pescador?"
+    }
+  ],
+  "duracao_seg": 21.45,
+  "idioma_detectado": "pt"
+}

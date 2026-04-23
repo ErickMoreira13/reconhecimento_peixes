@@ -1,0 +1,67 @@
+{
+  "texto": "Você está ali na perícia médica e o perito faz aquela pergunta que pode decidir o seu benefício. Me diz aí, o que você tem e por que você está aqui? É nesse momento que muitas pessoas erram e aumentam a chance de ter o seu benefício negado. Você não vai perder tempo e ficar explicando os detalhes da doença. Isso a sua documentação já mostra e o perito, sendo médico, já deve saber. Você vai responder o seguinte. O senhor pode ver na documentação, eu tenho um grave problema de coluna e a minha função é de auxiliar de limpeza. Eu não consigo ficar muito tempo em pé e muito menos passar esse tempo fazendo algum esforço físico. É impossível exercer minha função. Eu preciso de repouso e continuar no tratamento. A mensagem aqui é a seguinte. Você deve sempre tentar mostrar que a doença impede que você exerça a sua atividade.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Você está ali na perícia médica e o perito faz aquela pergunta que pode decidir o seu benefício."
+    },
+    {
+      "start": 5.62,
+      "end": 7.84,
+      "text": "Me diz aí, o que você tem e por que você está aqui?"
+    },
+    {
+      "start": 7.88,
+      "end": 12.3,
+      "text": "É nesse momento que muitas pessoas erram e aumentam a chance de ter o seu benefício negado."
+    },
+    {
+      "start": 12.34,
+      "end": 15.3,
+      "text": "Você não vai perder tempo e ficar explicando os detalhes da doença."
+    },
+    {
+      "start": 15.42,
+      "end": 19.52,
+      "text": "Isso a sua documentação já mostra e o perito, sendo médico, já deve saber."
+    },
+    {
+      "start": 19.7,
+      "end": 20.88,
+      "text": "Você vai responder o seguinte."
+    },
+    {
+      "start": 21.12,
+      "end": 26.42,
+      "text": "O senhor pode ver na documentação, eu tenho um grave problema de coluna e a minha função é de auxiliar de limpeza."
+    },
+    {
+      "start": 26.42,
+      "end": 32.6,
+      "text": "Eu não consigo ficar muito tempo em pé e muito menos passar esse tempo fazendo algum esforço físico."
+    },
+    {
+      "start": 33.1,
+      "end": 34.76,
+      "text": "É impossível exercer minha função."
+    },
+    {
+      "start": 35.36,
+      "end": 38.22,
+      "text": "Eu preciso de repouso e continuar no tratamento."
+    },
+    {
+      "start": 38.42,
+      "end": 39.86,
+      "text": "A mensagem aqui é a seguinte."
+    },
+    {
+      "start": 40.08,
+      "end": 45.6,
+      "text": "Você deve sempre tentar mostrar que a doença impede que você exerça a sua atividade."
+    }
+  ],
+  "duracao_seg": 45.77,
+  "idioma_detectado": "pt"
+}
