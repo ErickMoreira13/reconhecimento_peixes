@@ -1,0 +1,17 @@
+{
+  "texto": "aí galera olha só isso aí que guerra boca olha aí você se tem do zói cara também vale a pena aí é bom",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 16.09,
+      "text": "aí galera olha só isso aí que guerra boca olha aí você se tem do zói cara também"
+    },
+    {
+      "start": 16.09,
+      "end": 31.16,
+      "text": "vale a pena aí é bom"
+    }
+  ],
+  "duracao_seg": 38.79,
+  "idioma_detectado": "pt"
+}

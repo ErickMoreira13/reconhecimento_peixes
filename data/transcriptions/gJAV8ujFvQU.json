@@ -1,0 +1,42 @@
+{
+  "texto": "Mais de 8kg 7,5kg 7,5kg Quase 9kg 7,5kg 8,2kg Agora olha o tamanho do peixe",
+  "segmentos": [
+    {
+      "start": 13.39,
+      "end": 26.91,
+      "text": "Mais de 8kg"
+    },
+    {
+      "start": 26.91,
+      "end": 28.91,
+      "text": "7,5kg"
+    },
+    {
+      "start": 28.91,
+      "end": 30.91,
+      "text": "7,5kg"
+    },
+    {
+      "start": 30.91,
+      "end": 32.91,
+      "text": "Quase 9kg"
+    },
+    {
+      "start": 32.91,
+      "end": 37.25,
+      "text": "7,5kg"
+    },
+    {
+      "start": 37.25,
+      "end": 43.89,
+      "text": "8,2kg"
+    },
+    {
+      "start": 43.89,
+      "end": 55.04,
+      "text": "Agora olha o tamanho do peixe"
+    }
+  ],
+  "duracao_seg": 71.25,
+  "idioma_detectado": "pt"
+}

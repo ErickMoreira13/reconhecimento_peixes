@@ -1,0 +1,307 @@
+{
+  "texto": "Chegamos aqui em Porto Velho amanhã E amanhã pegar o avião e vamos para a pousada Pegar peixe e gole Bom dia! É pra você não me achar Olha, eu vou virar a câmera e filmar o Mir mijando Olha o bichão, olha o Vitelo Você fala cantadinho, vai, vai, vai, vai Aí tu chega e ela tem um ponto de combustível Agora sim, agora vai sair a Dietacur Como é que está aí, companheiro? Tá bom, tá bom Não é que nem a tua, mas é parecido Ah, você não é fraco Parece que pegou a isca da minha Olha, olha que bonita, cara Azapia, velho Você não é fraco Eu não, mas você é magia Você não deixou nem o bichinho brigar Tá bufando Dá um sorrisinho aqui, pô Significa frista Ah, olha que fica frista Ah, olha Ô, louco meu Tá bom demais da cor Ô, trem custoso E aí pro papai! Papai, olha isso! E a onça lá em cima. E o bando de porco? Só no olho. Comeu com a teta, né? Era porco ali embaixo, né? É? Vai cair daí, Mirko. Fechou, hein? Matividade. Foi tudo de novo. Cuba com o peixe, velho. Preocupado, negócio. Presta atenção. Golpe dela! Humberto levantando o tamba aqui. Vai aparecer, vai aparecer. Esse bicho é valente de moeda, né? Olha ele aí, ó. Vai! Porro, porro. Falou com uma coqueta, né? Olha o bicho aí brabo aí, ó. Olha aí, boiando, boiando, boiando, boiando. Vem pra cá, vem pra cá. Vai virando a bala pra cá. Vai virando a bala pra cá. Ui! Olha o monstro! Aê! Ainda não! Vamos chegar!",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 7.37,
+      "text": "Chegamos aqui em Porto Velho amanhã"
+    },
+    {
+      "start": 7.37,
+      "end": 16.07,
+      "text": "E amanhã pegar o avião e vamos para a pousada"
+    },
+    {
+      "start": 16.07,
+      "end": 20.46,
+      "text": "Pegar peixe e gole"
+    },
+    {
+      "start": 20.46,
+      "end": 41.79,
+      "text": "Bom dia!"
+    },
+    {
+      "start": 41.79,
+      "end": 360.94,
+      "text": "É pra você não me achar"
+    },
+    {
+      "start": 360.94,
+      "end": 388.5,
+      "text": "Olha, eu vou virar a câmera e filmar o Mir mijando"
+    },
+    {
+      "start": 388.5,
+      "end": 455.86,
+      "text": "Olha o bichão, olha o Vitelo"
+    },
+    {
+      "start": 455.86,
+      "end": 477.22,
+      "text": "Você fala cantadinho, vai, vai, vai, vai"
+    },
+    {
+      "start": 477.22,
+      "end": 483.22,
+      "text": "Aí tu chega e ela tem um ponto de combustível"
+    },
+    {
+      "start": 483.22,
+      "end": 495.19,
+      "text": "Agora sim, agora vai sair a Dietacur"
+    },
+    {
+      "start": 495.19,
+      "end": 501.03,
+      "text": "Como é que está aí, companheiro?"
+    },
+    {
+      "start": 501.03,
+      "end": 503.38,
+      "text": "Tá bom, tá bom"
+    },
+    {
+      "start": 503.38,
+      "end": 506.45,
+      "text": "Não é que nem a tua, mas é parecido"
+    },
+    {
+      "start": 506.45,
+      "end": 510.45,
+      "text": "Ah, você não é fraco"
+    },
+    {
+      "start": 510.45,
+      "end": 515.08,
+      "text": "Parece que pegou a isca da minha"
+    },
+    {
+      "start": 515.08,
+      "end": 518.08,
+      "text": "Olha, olha que bonita, cara"
+    },
+    {
+      "start": 518.08,
+      "end": 521.08,
+      "text": "Azapia, velho"
+    },
+    {
+      "start": 521.08,
+      "end": 523.37,
+      "text": "Você não é fraco"
+    },
+    {
+      "start": 523.37,
+      "end": 525.37,
+      "text": "Eu não, mas você é magia"
+    },
+    {
+      "start": 525.37,
+      "end": 532.21,
+      "text": "Você não deixou nem o bichinho brigar"
+    },
+    {
+      "start": 532.21,
+      "end": 536.13,
+      "text": "Tá bufando"
+    },
+    {
+      "start": 536.13,
+      "end": 541.81,
+      "text": "Dá um sorrisinho aqui, pô"
+    },
+    {
+      "start": 541.81,
+      "end": 543.81,
+      "text": "Significa frista"
+    },
+    {
+      "start": 543.81,
+      "end": 548.99,
+      "text": "Ah, olha que fica frista"
+    },
+    {
+      "start": 548.99,
+      "end": 552.24,
+      "text": "Ah, olha"
+    },
+    {
+      "start": 552.24,
+      "end": 555.88,
+      "text": "Ô, louco meu"
+    },
+    {
+      "start": 555.88,
+      "end": 557.88,
+      "text": "Tá bom demais da cor"
+    },
+    {
+      "start": 557.88,
+      "end": 573.3,
+      "text": "Ô, trem custoso"
+    },
+    {
+      "start": 573.3,
+      "end": 855.74,
+      "text": "E aí pro papai!"
+    },
+    {
+      "start": 855.74,
+      "end": 857.74,
+      "text": "Papai, olha isso!"
+    },
+    {
+      "start": 857.74,
+      "end": 892.06,
+      "text": "E a onça lá em cima."
+    },
+    {
+      "start": 892.06,
+      "end": 906.64,
+      "text": "E o bando de porco?"
+    },
+    {
+      "start": 906.64,
+      "end": 913.57,
+      "text": "Só no olho."
+    },
+    {
+      "start": 913.57,
+      "end": 916.08,
+      "text": "Comeu com a teta, né?"
+    },
+    {
+      "start": 916.08,
+      "end": 920.35,
+      "text": "Era porco ali embaixo, né?"
+    },
+    {
+      "start": 920.35,
+      "end": 932.05,
+      "text": "É?"
+    },
+    {
+      "start": 932.05,
+      "end": 1053.6,
+      "text": "Vai cair daí, Mirko. Fechou, hein?"
+    },
+    {
+      "start": 1053.6,
+      "end": 1087.66,
+      "text": "Matividade."
+    },
+    {
+      "start": 1087.66,
+      "end": 1106.3,
+      "text": "Foi tudo de novo."
+    },
+    {
+      "start": 1106.3,
+      "end": 1109.52,
+      "text": "Cuba com o peixe, velho."
+    },
+    {
+      "start": 1109.52,
+      "end": 1111.52,
+      "text": "Preocupado, negócio."
+    },
+    {
+      "start": 1111.52,
+      "end": 1115.82,
+      "text": "Presta atenção."
+    },
+    {
+      "start": 1115.82,
+      "end": 1117.95,
+      "text": "Golpe dela!"
+    },
+    {
+      "start": 1128.61,
+      "end": 1162.86,
+      "text": "Humberto levantando o tamba aqui."
+    },
+    {
+      "start": 1162.86,
+      "end": 1190.75,
+      "text": "Vai aparecer, vai aparecer."
+    },
+    {
+      "start": 1190.75,
+      "end": 1192.75,
+      "text": "Esse bicho é valente de moeda, né?"
+    },
+    {
+      "start": 1192.75,
+      "end": 1202.27,
+      "text": "Olha ele aí, ó."
+    },
+    {
+      "start": 1202.27,
+      "end": 1212.91,
+      "text": "Vai!"
+    },
+    {
+      "start": 1212.91,
+      "end": 1216.03,
+      "text": "Porro, porro."
+    },
+    {
+      "start": 1216.03,
+      "end": 1218.03,
+      "text": "Falou com uma coqueta, né?"
+    },
+    {
+      "start": 1220.48,
+      "end": 1222.48,
+      "text": "Olha o bicho aí brabo aí, ó."
+    },
+    {
+      "start": 1222.48,
+      "end": 1225.7,
+      "text": "Olha aí, boiando, boiando, boiando, boiando."
+    },
+    {
+      "start": 1225.7,
+      "end": 1227.7,
+      "text": "Vem pra cá, vem pra cá."
+    },
+    {
+      "start": 1227.7,
+      "end": 1229.7,
+      "text": "Vai virando a bala pra cá."
+    },
+    {
+      "start": 1229.7,
+      "end": 1231.7,
+      "text": "Vai virando a bala pra cá."
+    },
+    {
+      "start": 1231.7,
+      "end": 1233.86,
+      "text": "Ui!"
+    },
+    {
+      "start": 1233.86,
+      "end": 1236.5,
+      "text": "Olha o monstro!"
+    },
+    {
+      "start": 1236.5,
+      "end": 1240.1,
+      "text": "Aê!"
+    },
+    {
+      "start": 1240.1,
+      "end": 1242.1,
+      "text": "Ainda não!"
+    },
+    {
+      "start": 1242.1,
+      "end": 1244.1,
+      "text": "Vamos chegar!"
+    }
+  ],
+  "duracao_seg": 1380.29,
+  "idioma_detectado": "pt"
+}

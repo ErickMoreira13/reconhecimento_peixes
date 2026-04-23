@@ -1,0 +1,22 @@
+{
+  "texto": "Que peixe top, cara, que peixe top, top, top Vou medir mais ou menos o meu braço aqui, ó Chegando de longe não, mas ó, espalmado",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "Que peixe top, cara, que peixe top, top, top"
+    },
+    {
+      "start": 3.7,
+      "end": 7.13,
+      "text": "Vou medir mais ou menos o meu braço aqui, ó"
+    },
+    {
+      "start": 7.13,
+      "end": 11.95,
+      "text": "Chegando de longe não, mas ó, espalmado"
+    }
+  ],
+  "duracao_seg": 12.77,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Mostra aí Marcelo, a piranha é zona, que foi pega aí Olha aí, o piloto, nosso guia aqui Ganhando 30x por dia Piririzão aqui, ó Isso que é zona aí de piranha, pra pegar a caúca",
+  "segmentos": [
+    {
+      "start": 4.5,
+      "end": 6.74,
+      "text": "Mostra aí Marcelo, a piranha é zona, que foi pega aí"
+    },
+    {
+      "start": 6.74,
+      "end": 22.72,
+      "text": "Olha aí, o piloto, nosso guia aqui"
+    },
+    {
+      "start": 22.72,
+      "end": 24.58,
+      "text": "Ganhando 30x por dia"
+    },
+    {
+      "start": 24.58,
+      "end": 27.28,
+      "text": "Piririzão aqui, ó"
+    },
+    {
+      "start": 27.28,
+      "end": 31.98,
+      "text": "Isso que é zona aí de piranha, pra pegar a caúca"
+    }
+  ],
+  "duracao_seg": 63.25,
+  "idioma_detectado": "pt"
+}

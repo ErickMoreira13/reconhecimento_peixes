@@ -1,0 +1,52 @@
+{
+  "texto": "Fala galera, vamos nós aí, mais um dia, eu e o Sten, olha lá, aquele ali é matador viu gente, vamos lá, está trovejando, relampiando, está chovendo até agora, vamos ver se a gente pega alguns tucunarezes aí, dá para fazer um vídeo legal aí, vamos lá, linha na água. Ae, até que enfim entram um, primeiro do dia, ae Marco, gigante, estou quase para pegar a régua, estou tentado, ae, primeiro do dia, vamos que vamos, vai para a vida menino. Cara, ontem teve tanto peixe, hoje, eu acho que é porque o pé frio não tinha vindo ontem, pezão de óleo aí, olha, que inveja, cara de meia, olha aqui tudo inchado, espicado, olha aqui a meia aqui no meu bolso, você acredita? Então, quando eu venho sem o seu, eu pego, olha, eu peguei, está vendo? Você que é o pé de óleo, ae menino, bonitinho, só na pontinha, ae, bonitinho, para a vida, ae, o pé de óleo, vamos para o próximo galera, vamos lá, linha na água, hoje está difícil. Mais um pequenininho, olha só, mais um pequenininho, para a vida, não sei, vamos para o próximo, linha na água, meu Deus não entrou. Mano, parece que eu estou com o motor, quando eu beira do barco, cara, até assustei, tamanhozinho do bichinho, rapaz, na beirinha do barco, calma, calma, calma, você já vai ser solto, calma, calminha, aqui, ae, menininho pequenininho, para a vida, me deu um susto, você já olhou para trás? Olha o tempo, galera, está difícil, olha, vento, muito, muito, muito vento, gente, está ventando demais, vou tentar dar uma pescada aqui, mas provavelmente vamos ter que sair, está ficando perigoso já, por causa das varas de carbono, beleza galera? Por enquanto, estamos juntos, já já eu volto. Tchau, tchau.",
+  "segmentos": [
+    {
+      "start": 1.3,
+      "end": 25.58,
+      "text": "Fala galera, vamos nós aí, mais um dia, eu e o Sten, olha lá, aquele ali é matador viu gente, vamos lá, está trovejando, relampiando, está chovendo até agora, vamos ver se a gente pega alguns tucunarezes aí, dá para fazer um vídeo legal aí, vamos lá, linha na água."
+    },
+    {
+      "start": 25.58,
+      "end": 100.49,
+      "text": "Ae, até que enfim entram um, primeiro do dia, ae Marco, gigante, estou quase para pegar a régua, estou tentado, ae, primeiro do dia, vamos que vamos, vai para a vida menino."
+    },
+    {
+      "start": 100.49,
+      "end": 169.28,
+      "text": "Cara, ontem teve tanto peixe, hoje, eu acho que é porque o pé frio não tinha vindo ontem, pezão de óleo aí, olha, que inveja, cara de meia, olha aqui tudo inchado, espicado, olha aqui a meia aqui no meu bolso, você acredita?"
+    },
+    {
+      "start": 169.28,
+      "end": 241.25,
+      "text": "Então, quando eu venho sem o seu, eu pego, olha, eu peguei, está vendo? Você que é o pé de óleo, ae menino, bonitinho, só na pontinha, ae, bonitinho, para a vida, ae, o pé de óleo, vamos para o próximo galera, vamos lá, linha na água, hoje está difícil."
+    },
+    {
+      "start": 241.25,
+      "end": 337.09,
+      "text": "Mais um pequenininho, olha só, mais um pequenininho, para a vida, não sei, vamos para o próximo, linha na água, meu Deus não entrou."
+    },
+    {
+      "start": 359.24,
+      "end": 436.31,
+      "text": "Mano, parece que eu estou com o motor, quando eu beira do barco, cara, até assustei, tamanhozinho do bichinho, rapaz, na beirinha do barco, calma, calma, calma, você já vai ser solto, calma, calminha, aqui, ae, menininho pequenininho, para a vida,"
+    },
+    {
+      "start": 436.63,
+      "end": 465.86,
+      "text": "me deu um susto, você já olhou para trás? Olha o tempo, galera, está difícil, olha, vento, muito, muito, muito vento, gente, está ventando demais, vou tentar dar uma pescada aqui, mas provavelmente vamos ter que sair, está ficando perigoso já, por causa das varas de carbono, beleza galera?"
+    },
+    {
+      "start": 466.52,
+      "end": 469.1,
+      "text": "Por enquanto, estamos juntos, já já eu volto."
+    },
+    {
+      "start": 469.1,
+      "end": 470.1,
+      "text": "Tchau, tchau."
+    }
+  ],
+  "duracao_seg": 471.25,
+  "idioma_detectado": "pt"
+}

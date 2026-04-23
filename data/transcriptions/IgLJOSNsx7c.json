@@ -1,0 +1,47 @@
+{
+  "texto": "É quantas com essa? 6, né? Ó a bichona bonita Eita Que grande, ó bicho Aí Tu não sabe pescar Aí fica atrapalhando o cara",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 27.14,
+      "text": "É quantas com essa?"
+    },
+    {
+      "start": 28.25,
+      "end": 28.77,
+      "text": "6, né?"
+    },
+    {
+      "start": 32.26,
+      "end": 33.44,
+      "text": "Ó a bichona bonita"
+    },
+    {
+      "start": 33.44,
+      "end": 46.91,
+      "text": "Eita"
+    },
+    {
+      "start": 46.91,
+      "end": 57.89,
+      "text": "Que grande, ó bicho"
+    },
+    {
+      "start": 57.89,
+      "end": 72.1,
+      "text": "Aí"
+    },
+    {
+      "start": 72.1,
+      "end": 80.26,
+      "text": "Tu não sabe pescar"
+    },
+    {
+      "start": 80.26,
+      "end": 83.9,
+      "text": "Aí fica atrapalhando o cara"
+    }
+  ],
+  "duracao_seg": 90.69,
+  "idioma_detectado": "pt"
+}

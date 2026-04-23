@@ -1,0 +1,392 @@
+{
+  "texto": "Pegou galera, pegou Bruto pessoal, bruto Olha aí pessoal, olha aí Bruto Tira devagarzinho que a boleta é fraquinha Bruto Olha aí, ó Vou pegar ele aqui Olha aí pessoal O cunarézinho pequeno Olha aí, esse aqui não vai soltar ele Tá muito pequenininho Tá fora da medida Olha aí, foi embora Pegou galera Pegou galera, olha aí Olha aí o tamanho da Joana pessoal, olha Bruta Bruta Joana Pegou galera, pegou galera, pegou galera Olha aí, olha aí pessoal Olha aí, ó Cunarézinho um pouquinho maior Abicuda Falei pro senhor que aí tinha A minha linha embolou tudo aqui, ó Galera, o peixe, galera, ó Duas vezes na isca não pegou Duas vezes Vamos ver Olha aí, ó Fescando com a tovira Piranha já arrancou a ponta do rabo Na tovira Pegou galera, ó Pegou Pequenininha Tá puro ela aqui, ó Ah moleque, hein, ó Bruto isso aqui, ó Fala pra você que eu peguei Rapaz bruto, hein É na tovira Olha aí Tá pegando Vai querer Olha aí Olha, tira ela Olha aí pessoal Vai, deixa ela brigar, ó Vai, senão ela vai escapar Daqui a pouco você perde ela aí, ó É que atirar aqui ela vai se bater, Marcelo Se não cansar ela Bruta Chega mais perto aqui Olha aí, ó Bruta Vai escapar, hein Olha aí Gente, ela rasgou a minha camisa, gente É, eu ia ter que espetar Esse tentão dela aí Não pode brincar, não Deve escapar, mas eu também Deixa eu ir Não, vou pegar o dente dela Pra vocês baixarem Baixarem ou pular de pontinha Nessas pedras E eu Lá vai vir pra trás Nós tudo Aí, ó Marcelo Um pega e outro mostra o peixe Nós assim",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 2.1,
+      "text": "Pegou galera, pegou"
+    },
+    {
+      "start": 2.1,
+      "end": 6.05,
+      "text": "Bruto pessoal, bruto"
+    },
+    {
+      "start": 6.05,
+      "end": 7.98,
+      "text": "Olha aí pessoal, olha aí"
+    },
+    {
+      "start": 7.98,
+      "end": 10.16,
+      "text": "Bruto"
+    },
+    {
+      "start": 10.16,
+      "end": 12.18,
+      "text": "Tira devagarzinho que a boleta é fraquinha"
+    },
+    {
+      "start": 12.18,
+      "end": 13.16,
+      "text": "Bruto"
+    },
+    {
+      "start": 13.16,
+      "end": 19.03,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 19.03,
+      "end": 25.04,
+      "text": "Vou pegar ele aqui"
+    },
+    {
+      "start": 25.04,
+      "end": 30.61,
+      "text": "Olha aí pessoal"
+    },
+    {
+      "start": 30.61,
+      "end": 35.53,
+      "text": "O cunarézinho pequeno"
+    },
+    {
+      "start": 35.53,
+      "end": 40.03,
+      "text": "Olha aí, esse aqui não vai soltar ele"
+    },
+    {
+      "start": 40.03,
+      "end": 42.25,
+      "text": "Tá muito pequenininho"
+    },
+    {
+      "start": 42.25,
+      "end": 48.0,
+      "text": "Tá fora da medida"
+    },
+    {
+      "start": 48.0,
+      "end": 54.71,
+      "text": "Olha aí, foi embora"
+    },
+    {
+      "start": 54.71,
+      "end": 56.6,
+      "text": "Pegou galera"
+    },
+    {
+      "start": 56.6,
+      "end": 67.43,
+      "text": "Pegou galera, olha aí"
+    },
+    {
+      "start": 67.43,
+      "end": 81.4,
+      "text": "Olha aí o tamanho da Joana pessoal, olha"
+    },
+    {
+      "start": 81.4,
+      "end": 82.48,
+      "text": "Bruta"
+    },
+    {
+      "start": 82.48,
+      "end": 84.38,
+      "text": "Bruta Joana"
+    },
+    {
+      "start": 84.38,
+      "end": 100.69,
+      "text": "Pegou galera, pegou galera, pegou galera"
+    },
+    {
+      "start": 100.69,
+      "end": 108.22,
+      "text": "Olha aí, olha aí pessoal"
+    },
+    {
+      "start": 108.22,
+      "end": 116.64,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 116.64,
+      "end": 119.84,
+      "text": "Cunarézinho um pouquinho maior"
+    },
+    {
+      "start": 119.84,
+      "end": 129.26,
+      "text": "Abicuda"
+    },
+    {
+      "start": 129.26,
+      "end": 136.03,
+      "text": "Falei pro senhor que aí tinha"
+    },
+    {
+      "start": 136.03,
+      "end": 147.53,
+      "text": "A minha linha embolou tudo aqui, ó"
+    },
+    {
+      "start": 147.53,
+      "end": 165.91,
+      "text": "Galera, o peixe, galera, ó"
+    },
+    {
+      "start": 165.91,
+      "end": 167.57,
+      "text": "Duas vezes na isca não pegou"
+    },
+    {
+      "start": 167.57,
+      "end": 169.85,
+      "text": "Duas vezes"
+    },
+    {
+      "start": 169.85,
+      "end": 179.55,
+      "text": "Vamos ver"
+    },
+    {
+      "start": 179.55,
+      "end": 195.43,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 195.43,
+      "end": 196.89,
+      "text": "Fescando com a tovira"
+    },
+    {
+      "start": 196.89,
+      "end": 200.21,
+      "text": "Piranha já arrancou a ponta do rabo"
+    },
+    {
+      "start": 200.21,
+      "end": 200.89,
+      "text": "Na tovira"
+    },
+    {
+      "start": 200.89,
+      "end": 236.5,
+      "text": "Pegou galera, ó"
+    },
+    {
+      "start": 236.5,
+      "end": 239.22,
+      "text": "Pegou"
+    },
+    {
+      "start": 239.22,
+      "end": 246.24,
+      "text": "Pequenininha"
+    },
+    {
+      "start": 246.24,
+      "end": 249.88,
+      "text": "Tá puro ela aqui, ó"
+    },
+    {
+      "start": 249.88,
+      "end": 254.86,
+      "text": "Ah moleque, hein, ó"
+    },
+    {
+      "start": 254.86,
+      "end": 261.54,
+      "text": "Bruto isso aqui, ó"
+    },
+    {
+      "start": 261.54,
+      "end": 265.82,
+      "text": "Fala pra você que eu peguei"
+    },
+    {
+      "start": 265.82,
+      "end": 273.57,
+      "text": "Rapaz bruto, hein"
+    },
+    {
+      "start": 273.57,
+      "end": 275.87,
+      "text": "É na tovira"
+    },
+    {
+      "start": 275.87,
+      "end": 278.2,
+      "text": "Olha aí"
+    },
+    {
+      "start": 278.2,
+      "end": 280.08,
+      "text": "Tá pegando"
+    },
+    {
+      "start": 280.08,
+      "end": 300.54,
+      "text": "Vai querer"
+    },
+    {
+      "start": 300.54,
+      "end": 304.17,
+      "text": "Olha aí"
+    },
+    {
+      "start": 304.17,
+      "end": 315.55,
+      "text": "Olha, tira ela"
+    },
+    {
+      "start": 315.55,
+      "end": 319.52,
+      "text": "Olha aí pessoal"
+    },
+    {
+      "start": 319.52,
+      "end": 332.15,
+      "text": "Vai, deixa ela brigar, ó"
+    },
+    {
+      "start": 332.15,
+      "end": 334.01,
+      "text": "Vai, senão ela vai escapar"
+    },
+    {
+      "start": 334.01,
+      "end": 345.12,
+      "text": "Daqui a pouco você perde ela aí, ó"
+    },
+    {
+      "start": 345.12,
+      "end": 352.15,
+      "text": "É que atirar aqui ela vai se bater, Marcelo"
+    },
+    {
+      "start": 352.15,
+      "end": 352.99,
+      "text": "Se não cansar ela"
+    },
+    {
+      "start": 352.99,
+      "end": 359.51,
+      "text": "Bruta"
+    },
+    {
+      "start": 359.51,
+      "end": 362.8,
+      "text": "Chega mais perto aqui"
+    },
+    {
+      "start": 362.8,
+      "end": 374.79,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 374.79,
+      "end": 375.19,
+      "text": "Bruta"
+    },
+    {
+      "start": 375.19,
+      "end": 381.43,
+      "text": "Vai escapar, hein"
+    },
+    {
+      "start": 381.43,
+      "end": 393.48,
+      "text": "Olha aí"
+    },
+    {
+      "start": 393.48,
+      "end": 399.2,
+      "text": "Gente, ela rasgou a minha camisa, gente"
+    },
+    {
+      "start": 399.2,
+      "end": 401.34,
+      "text": "É, eu ia ter que espetar"
+    },
+    {
+      "start": 401.34,
+      "end": 403.34,
+      "text": "Esse tentão dela aí"
+    },
+    {
+      "start": 403.34,
+      "end": 404.22,
+      "text": "Não pode brincar, não"
+    },
+    {
+      "start": 404.22,
+      "end": 405.34,
+      "text": "Deve escapar, mas eu também"
+    },
+    {
+      "start": 405.34,
+      "end": 407.3,
+      "text": "Deixa eu ir"
+    },
+    {
+      "start": 407.3,
+      "end": 410.16,
+      "text": "Não, vou pegar o dente dela"
+    },
+    {
+      "start": 410.16,
+      "end": 411.08,
+      "text": "Pra vocês baixarem"
+    },
+    {
+      "start": 411.08,
+      "end": 412.84,
+      "text": "Baixarem ou pular de pontinha"
+    },
+    {
+      "start": 412.84,
+      "end": 413.34,
+      "text": "Nessas pedras"
+    },
+    {
+      "start": 413.34,
+      "end": 414.08,
+      "text": "E eu"
+    },
+    {
+      "start": 414.08,
+      "end": 415.48,
+      "text": "Lá vai vir pra trás"
+    },
+    {
+      "start": 415.48,
+      "end": 416.0,
+      "text": "Nós tudo"
+    },
+    {
+      "start": 416.0,
+      "end": 416.84,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 416.84,
+      "end": 417.5,
+      "text": "Marcelo"
+    },
+    {
+      "start": 417.5,
+      "end": 419.88,
+      "text": "Um pega e outro mostra o peixe"
+    },
+    {
+      "start": 419.88,
+      "end": 422.17,
+      "text": "Nós assim"
+    }
+  ],
+  "duracao_seg": 423.39,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,507 @@
+{
+  "texto": "galera do céu, me enrolei cheio de maribunda ali rapaz do céu sempre eu chego com cautela olha lá ainda bem que ele não veio em cima de mim senão o gaieteiro tinha que pular dentro da água misericórdia rapaz do céu será que tem guacho? aí tem ele, tá? guacho que não acaba mais é galera nossa rodada até agora só aqueles botos, mas os botos tá pra lá e a maré não jogou aqui graças a Deus ó galera, essa terra aqui é do meu vizinho minha chacrinha tá lá na frente porque as terras aqui galera foi cortada pelo rio a frente pro rio e a fundiária é a estrada lá porque, claro, o rio o pessoal usava o rio pra vir nas terras antigamente não tinha estrada o que eu acho agora é a zarara agora é a zarara vai com Deus o peixe, o peixe, o peixe vai, vai, vai solta não soltou? soltou ou tá vindo pra cá? tá vindo pra cá galera vai bichona, vai vai perdi a fisgada galera peixe pequeno galera nem passei um tambaqui foi bichão foi bichão foi garota aaaah a galera descer rodando lá de cima até aqui pra pegar um bisteço ai não ai não gaiteira ai não ai não ai ai ai achei que era pelo menos um peixinho bom pra comer um frito outro outro outro candiru galera ai não aguenta não candiru não candiru não chega de tanto candiru o peixe tá ai galera olha o peixe galera olha o peixe olha o peixe candiru não pelo amor de Deus aaaah aaaah meu Deus do céu só candiru ai eu não aguento não desse jeito o gaiteiro não aguenta não só candiru desse jeito o gaiteiro não aguenta deixa eu pegar o alicate aqui desse jeito o gaiteiro não aguenta pera ai pera ai que eu vou te soltar ai galera vai embora vai embora vai embora vamos ver se dá pra aproveitar a isca graças a Deus a isca ainda dá pra aproveitar mas chega de tanto chega de tanto esse peixe pera o peixe o peixe ooppa ooppa ooppa ooppa",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 2.34,
+      "text": "galera do céu, me enrolei"
+    },
+    {
+      "start": 2.34,
+      "end": 4.76,
+      "text": "cheio de maribunda ali"
+    },
+    {
+      "start": 4.76,
+      "end": 8.22,
+      "text": "rapaz do céu"
+    },
+    {
+      "start": 8.22,
+      "end": 11.7,
+      "text": "sempre eu chego com cautela"
+    },
+    {
+      "start": 11.7,
+      "end": 12.12,
+      "text": "olha lá"
+    },
+    {
+      "start": 12.12,
+      "end": 17.4,
+      "text": "ainda bem que ele não veio em cima de mim"
+    },
+    {
+      "start": 17.4,
+      "end": 19.4,
+      "text": "senão o gaieteiro tinha que pular dentro da água"
+    },
+    {
+      "start": 19.4,
+      "end": 22.63,
+      "text": "misericórdia"
+    },
+    {
+      "start": 22.63,
+      "end": 24.9,
+      "text": "rapaz do céu"
+    },
+    {
+      "start": 24.9,
+      "end": 32.43,
+      "text": "será que tem guacho?"
+    },
+    {
+      "start": 39.68,
+      "end": 41.12,
+      "text": "aí tem ele, tá?"
+    },
+    {
+      "start": 45.64,
+      "end": 47.7,
+      "text": "guacho que não acaba mais"
+    },
+    {
+      "start": 47.7,
+      "end": 50.72,
+      "text": "é galera"
+    },
+    {
+      "start": 50.72,
+      "end": 52.3,
+      "text": "nossa rodada até agora"
+    },
+    {
+      "start": 52.3,
+      "end": 55.14,
+      "text": "só aqueles botos, mas os botos"
+    },
+    {
+      "start": 55.14,
+      "end": 56.52,
+      "text": "tá pra lá"
+    },
+    {
+      "start": 56.52,
+      "end": 58.77,
+      "text": "e a maré não jogou aqui"
+    },
+    {
+      "start": 58.77,
+      "end": 61.12,
+      "text": "graças a Deus"
+    },
+    {
+      "start": 61.12,
+      "end": 64.74,
+      "text": "ó galera, essa terra aqui"
+    },
+    {
+      "start": 64.74,
+      "end": 66.16,
+      "text": "é do meu vizinho"
+    },
+    {
+      "start": 66.16,
+      "end": 68.2,
+      "text": "minha chacrinha tá lá na frente"
+    },
+    {
+      "start": 68.2,
+      "end": 70.92,
+      "text": "porque as terras aqui galera"
+    },
+    {
+      "start": 70.92,
+      "end": 73.28,
+      "text": "foi cortada pelo rio"
+    },
+    {
+      "start": 73.28,
+      "end": 74.66,
+      "text": "a frente pro rio"
+    },
+    {
+      "start": 74.66,
+      "end": 77.31,
+      "text": "e a fundiária é a estrada lá"
+    },
+    {
+      "start": 77.31,
+      "end": 79.54,
+      "text": "porque, claro, o rio"
+    },
+    {
+      "start": 79.54,
+      "end": 82.08,
+      "text": "o pessoal usava o rio"
+    },
+    {
+      "start": 82.08,
+      "end": 82.64,
+      "text": "pra vir"
+    },
+    {
+      "start": 82.64,
+      "end": 85.2,
+      "text": "nas terras antigamente"
+    },
+    {
+      "start": 85.2,
+      "end": 85.98,
+      "text": "não tinha estrada"
+    },
+    {
+      "start": 85.98,
+      "end": 88.29,
+      "text": "o que eu acho agora é a zarara"
+    },
+    {
+      "start": 88.29,
+      "end": 96.44,
+      "text": "agora é a zarara"
+    },
+    {
+      "start": 96.44,
+      "end": 105.05,
+      "text": "vai com Deus"
+    },
+    {
+      "start": 105.05,
+      "end": 109.21,
+      "text": "o peixe, o peixe, o peixe"
+    },
+    {
+      "start": 109.21,
+      "end": 111.67,
+      "text": "vai, vai, vai"
+    },
+    {
+      "start": 111.67,
+      "end": 115.45,
+      "text": "solta não"
+    },
+    {
+      "start": 115.45,
+      "end": 119.2,
+      "text": "soltou?"
+    },
+    {
+      "start": 120.92,
+      "end": 122.32,
+      "text": "soltou ou tá vindo pra cá?"
+    },
+    {
+      "start": 124.76,
+      "end": 125.98,
+      "text": "tá vindo pra cá galera"
+    },
+    {
+      "start": 125.98,
+      "end": 132.25,
+      "text": "vai bichona, vai"
+    },
+    {
+      "start": 132.25,
+      "end": 133.99,
+      "text": "vai"
+    },
+    {
+      "start": 133.99,
+      "end": 152.65,
+      "text": "perdi a fisgada galera"
+    },
+    {
+      "start": 152.65,
+      "end": 172.61,
+      "text": "peixe pequeno galera"
+    },
+    {
+      "start": 172.61,
+      "end": 177.49,
+      "text": "nem passei um tambaqui"
+    },
+    {
+      "start": 177.49,
+      "end": 199.34,
+      "text": "foi bichão"
+    },
+    {
+      "start": 199.34,
+      "end": 201.24,
+      "text": "foi bichão"
+    },
+    {
+      "start": 201.24,
+      "end": 203.92,
+      "text": "foi garota"
+    },
+    {
+      "start": 203.92,
+      "end": 207.61,
+      "text": "aaaah"
+    },
+    {
+      "start": 207.61,
+      "end": 208.81,
+      "text": "a galera"
+    },
+    {
+      "start": 208.81,
+      "end": 212.71,
+      "text": "descer rodando lá de cima"
+    },
+    {
+      "start": 212.71,
+      "end": 214.83,
+      "text": "até aqui pra pegar um bisteço"
+    },
+    {
+      "start": 214.83,
+      "end": 216.6,
+      "text": "ai não"
+    },
+    {
+      "start": 216.6,
+      "end": 219.45,
+      "text": "ai não gaiteira"
+    },
+    {
+      "start": 219.45,
+      "end": 224.7,
+      "text": "ai não"
+    },
+    {
+      "start": 224.7,
+      "end": 229.56,
+      "text": "ai não"
+    },
+    {
+      "start": 229.56,
+      "end": 235.11,
+      "text": "ai ai ai"
+    },
+    {
+      "start": 235.11,
+      "end": 236.79,
+      "text": "achei que era pelo menos um peixinho bom"
+    },
+    {
+      "start": 236.79,
+      "end": 237.75,
+      "text": "pra comer um frito"
+    },
+    {
+      "start": 237.75,
+      "end": 241.14,
+      "text": "outro"
+    },
+    {
+      "start": 241.14,
+      "end": 243.28,
+      "text": "outro"
+    },
+    {
+      "start": 243.28,
+      "end": 244.1,
+      "text": "outro candiru galera"
+    },
+    {
+      "start": 244.1,
+      "end": 245.42,
+      "text": "ai não aguenta não"
+    },
+    {
+      "start": 245.42,
+      "end": 255.0,
+      "text": "candiru não"
+    },
+    {
+      "start": 255.0,
+      "end": 256.12,
+      "text": "candiru não"
+    },
+    {
+      "start": 256.12,
+      "end": 261.37,
+      "text": "chega de tanto candiru"
+    },
+    {
+      "start": 261.37,
+      "end": 276.03,
+      "text": "o peixe tá ai galera"
+    },
+    {
+      "start": 276.03,
+      "end": 280.88,
+      "text": "olha o peixe galera"
+    },
+    {
+      "start": 280.88,
+      "end": 281.44,
+      "text": "olha o peixe"
+    },
+    {
+      "start": 281.44,
+      "end": 282.97,
+      "text": "olha o peixe"
+    },
+    {
+      "start": 282.97,
+      "end": 284.03,
+      "text": "candiru não"
+    },
+    {
+      "start": 284.03,
+      "end": 285.01,
+      "text": "pelo amor de Deus"
+    },
+    {
+      "start": 285.01,
+      "end": 286.51,
+      "text": "aaaah"
+    },
+    {
+      "start": 286.51,
+      "end": 288.35,
+      "text": "aaaah"
+    },
+    {
+      "start": 288.35,
+      "end": 290.47,
+      "text": "meu Deus do céu"
+    },
+    {
+      "start": 290.47,
+      "end": 293.6,
+      "text": "só candiru"
+    },
+    {
+      "start": 293.6,
+      "end": 296.4,
+      "text": "ai eu não aguento não"
+    },
+    {
+      "start": 296.4,
+      "end": 298.48,
+      "text": "desse jeito o gaiteiro"
+    },
+    {
+      "start": 298.48,
+      "end": 299.34,
+      "text": "não aguenta não"
+    },
+    {
+      "start": 299.34,
+      "end": 304.94,
+      "text": "só candiru"
+    },
+    {
+      "start": 304.94,
+      "end": 313.84,
+      "text": "desse jeito o gaiteiro"
+    },
+    {
+      "start": 313.84,
+      "end": 314.4,
+      "text": "não aguenta"
+    },
+    {
+      "start": 314.4,
+      "end": 319.68,
+      "text": "deixa eu pegar o alicate aqui"
+    },
+    {
+      "start": 319.68,
+      "end": 322.18,
+      "text": "desse jeito o gaiteiro"
+    },
+    {
+      "start": 322.18,
+      "end": 322.9,
+      "text": "não aguenta"
+    },
+    {
+      "start": 322.9,
+      "end": 333.94,
+      "text": "pera ai"
+    },
+    {
+      "start": 333.94,
+      "end": 336.72,
+      "text": "pera ai que eu vou te soltar"
+    },
+    {
+      "start": 336.72,
+      "end": 342.29,
+      "text": "ai galera"
+    },
+    {
+      "start": 342.29,
+      "end": 343.83,
+      "text": "vai embora"
+    },
+    {
+      "start": 343.83,
+      "end": 345.97,
+      "text": "vai embora"
+    },
+    {
+      "start": 345.97,
+      "end": 346.57,
+      "text": "vai embora"
+    },
+    {
+      "start": 346.57,
+      "end": 348.41,
+      "text": "vamos ver se dá pra aproveitar a isca"
+    },
+    {
+      "start": 348.41,
+      "end": 351.76,
+      "text": "graças a Deus a isca ainda dá pra aproveitar"
+    },
+    {
+      "start": 351.76,
+      "end": 354.0,
+      "text": "mas chega de tanto"
+    },
+    {
+      "start": 354.0,
+      "end": 357.28,
+      "text": "chega de tanto esse peixe"
+    },
+    {
+      "start": 357.28,
+      "end": 361.95,
+      "text": "pera o peixe"
+    },
+    {
+      "start": 361.95,
+      "end": 362.27,
+      "text": "o peixe"
+    },
+    {
+      "start": 362.27,
+      "end": 367.37,
+      "text": "ooppa"
+    },
+    {
+      "start": 367.37,
+      "end": 367.43,
+      "text": "ooppa"
+    },
+    {
+      "start": 367.43,
+      "end": 367.55,
+      "text": "ooppa"
+    },
+    {
+      "start": 367.55,
+      "end": 367.83,
+      "text": "ooppa"
+    }
+  ],
+  "duracao_seg": 426.35,
+  "idioma_detectado": "pt"
+}

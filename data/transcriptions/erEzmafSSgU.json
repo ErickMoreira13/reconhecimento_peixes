@@ -1,0 +1,17 @@
+{
+  "texto": "E segunda-feira... Manda-se!",
+  "segmentos": [
+    {
+      "start": 404.98,
+      "end": 406.72,
+      "text": "E segunda-feira..."
+    },
+    {
+      "start": 406.72,
+      "end": 407.9,
+      "text": "Manda-se!"
+    }
+  ],
+  "duracao_seg": 608.43,
+  "idioma_detectado": "pt"
+}

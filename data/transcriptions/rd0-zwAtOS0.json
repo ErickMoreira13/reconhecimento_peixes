@@ -1,0 +1,167 @@
+{
+  "texto": "E aí, gata? E aí, estamos aqui na pega de novo, ó Amanhecendo o dia no riozão, hein? Amanhecendo o dia, bom dia, galera Bora, bora, bora, bora, galera Bora tirar esse peixe Cadê ele? Será que é grande a bicha ou é pequena? Parece que não é muito grande não, hein? Rapaz, eu estou achando que ela é grande Está vindo aqui, hein? Está me dando dor de cabeça aqui, ó Dor de cabeça? Está me dando dor de cabeça, galera Leva para aquele lugar mais raso lá, que fica mais fácil para retrabalhar o trem, hein? Olha lá, ó Olha o pescador na zona velha de rocha, menina Estou ficando profissa, galera, já, ó Cuidado com essa linha Traga para cá, traga para cá Para quem começou sem saber jogar nem a linha, está aí, ó Moço, mas essa é uma tilangra zona, hein? Essa é linda, maravilhosa E vai para onde? Frigideira, gato Frigideira? Isso, nós vamos para casa hoje Aí ela vai, ó Frigideira Frigideira Só o luxo Só o luxo, só o luxo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "E aí, gata?"
+    },
+    {
+      "start": 1.0,
+      "end": 4.0,
+      "text": "E aí, estamos aqui na pega de novo, ó"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Amanhecendo o dia no riozão, hein?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Amanhecendo o dia, bom dia, galera"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Bora, bora, bora, bora, galera"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Bora tirar esse peixe"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Cadê ele?"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Será que é grande a bicha ou é pequena?"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Parece que não é muito grande não, hein?"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Rapaz, eu estou achando que ela é grande"
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "Está vindo aqui, hein?"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Está me dando dor de cabeça aqui, ó"
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "Dor de cabeça?"
+    },
+    {
+      "start": 22.16,
+      "end": 24.16,
+      "text": "Está me dando dor de cabeça, galera"
+    },
+    {
+      "start": 24.16,
+      "end": 27.16,
+      "text": "Leva para aquele lugar mais raso lá, que fica mais fácil para retrabalhar o trem, hein?"
+    },
+    {
+      "start": 27.16,
+      "end": 28.16,
+      "text": "Olha lá, ó"
+    },
+    {
+      "start": 28.16,
+      "end": 31.16,
+      "text": "Olha o pescador na zona velha de rocha, menina"
+    },
+    {
+      "start": 31.16,
+      "end": 34.16,
+      "text": "Estou ficando profissa, galera, já, ó"
+    },
+    {
+      "start": 34.16,
+      "end": 36.16,
+      "text": "Cuidado com essa linha"
+    },
+    {
+      "start": 36.16,
+      "end": 38.16,
+      "text": "Traga para cá, traga para cá"
+    },
+    {
+      "start": 38.16,
+      "end": 42.16,
+      "text": "Para quem começou sem saber jogar nem a linha, está aí, ó"
+    },
+    {
+      "start": 42.16,
+      "end": 45.16,
+      "text": "Moço, mas essa é uma tilangra zona, hein?"
+    },
+    {
+      "start": 45.16,
+      "end": 48.16,
+      "text": "Essa é linda, maravilhosa"
+    },
+    {
+      "start": 48.16,
+      "end": 49.16,
+      "text": "E vai para onde?"
+    },
+    {
+      "start": 49.16,
+      "end": 51.16,
+      "text": "Frigideira, gato"
+    },
+    {
+      "start": 51.16,
+      "end": 52.16,
+      "text": "Frigideira?"
+    },
+    {
+      "start": 52.16,
+      "end": 54.16,
+      "text": "Isso, nós vamos para casa hoje"
+    },
+    {
+      "start": 54.16,
+      "end": 56.16,
+      "text": "Aí ela vai, ó"
+    },
+    {
+      "start": 56.16,
+      "end": 57.16,
+      "text": "Frigideira"
+    },
+    {
+      "start": 57.16,
+      "end": 58.16,
+      "text": "Frigideira"
+    },
+    {
+      "start": 58.16,
+      "end": 59.16,
+      "text": "Só o luxo"
+    },
+    {
+      "start": 59.16,
+      "end": 60.16,
+      "text": "Só o luxo, só o luxo"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

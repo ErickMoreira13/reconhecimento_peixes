@@ -1,0 +1,17 @@
+{
+  "texto": "Eu não tenho mais um pouco de água, mas eu não tenho mais nada, mas eu não tenho mais nada. Eu não tenho mais nada, mas eu não tenho mais nada.",
+  "segmentos": [
+    {
+      "start": 5.36,
+      "end": 15.65,
+      "text": "Eu não tenho mais um pouco de água, mas eu não tenho mais nada, mas eu não tenho mais nada."
+    },
+    {
+      "start": 15.65,
+      "end": 17.65,
+      "text": "Eu não tenho mais nada, mas eu não tenho mais nada."
+    }
+  ],
+  "duracao_seg": 19.99,
+  "idioma_detectado": "pt"
+}

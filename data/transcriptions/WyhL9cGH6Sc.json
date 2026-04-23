@@ -1,0 +1,167 @@
+{
+  "texto": "Pegou lá. O fruto da gota sorana, olha aqui, ó. Aqui é nós, a rioriponão. Eita, trem doido. Dois já, hein, Rola? Dois, e eu? O peixe não entra no ozol, mas pega ele dentro da água. Dentro da água. Mergulha o bicho. É, Fernando, você pegou maior do que o meu. Eu tenho uma sacola e olha o tamanho desse. Cortou meu dedo tudo agora. Tá vendo? Cortou meu dedo tudo. É isso aí. Plena quarta-feira. Quem disse que nós tá na pior? Nós aí, ó. Quarta-feira. Deus é muito bom. Rapaz, Deus é bom, hein? Pega na mão, Silvana. Mete a mão dentro da boca dele. Tem pena, não. Nossa, esse é um erro, hein, Fernando? Vira, Silvana, erga aí. Erga aí, Silvana. Nossa, olha lá o outro. Achei já não vai embora mais, não. Ué, que é nóis. Olha lá o outro, por lá. Olha o outro.",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 1.24,
+      "text": "Pegou lá."
+    },
+    {
+      "start": 1.3,
+      "end": 3.0,
+      "text": "O fruto da gota sorana, olha aqui, ó."
+    },
+    {
+      "start": 3.62,
+      "end": 5.54,
+      "text": "Aqui é nós, a rioriponão."
+    },
+    {
+      "start": 6.12,
+      "end": 7.74,
+      "text": "Eita, trem doido."
+    },
+    {
+      "start": 7.86,
+      "end": 8.6,
+      "text": "Dois já, hein, Rola?"
+    },
+    {
+      "start": 8.88,
+      "end": 9.76,
+      "text": "Dois, e eu?"
+    },
+    {
+      "start": 9.82,
+      "end": 12.12,
+      "text": "O peixe não entra no ozol, mas pega ele dentro da água."
+    },
+    {
+      "start": 12.12,
+      "end": 12.84,
+      "text": "Dentro da água."
+    },
+    {
+      "start": 13.22,
+      "end": 14.14,
+      "text": "Mergulha o bicho."
+    },
+    {
+      "start": 15.04,
+      "end": 17.36,
+      "text": "É, Fernando, você pegou maior do que o meu."
+    },
+    {
+      "start": 17.4,
+      "end": 19.26,
+      "text": "Eu tenho uma sacola e olha o tamanho desse."
+    },
+    {
+      "start": 22.01,
+      "end": 23.21,
+      "text": "Cortou meu dedo tudo agora."
+    },
+    {
+      "start": 23.77,
+      "end": 24.13,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 24.75,
+      "end": 25.59,
+      "text": "Cortou meu dedo tudo."
+    },
+    {
+      "start": 25.61,
+      "end": 26.47,
+      "text": "É isso aí."
+    },
+    {
+      "start": 27.53,
+      "end": 28.57,
+      "text": "Plena quarta-feira."
+    },
+    {
+      "start": 28.57,
+      "end": 30.13,
+      "text": "Quem disse que nós tá na pior?"
+    },
+    {
+      "start": 30.69,
+      "end": 31.41,
+      "text": "Nós aí, ó."
+    },
+    {
+      "start": 31.71,
+      "end": 32.79,
+      "text": "Quarta-feira."
+    },
+    {
+      "start": 33.56,
+      "end": 34.44,
+      "text": "Deus é muito bom."
+    },
+    {
+      "start": 38.13,
+      "end": 39.89,
+      "text": "Rapaz, Deus é bom, hein?"
+    },
+    {
+      "start": 40.89,
+      "end": 41.83,
+      "text": "Pega na mão, Silvana."
+    },
+    {
+      "start": 41.97,
+      "end": 43.17,
+      "text": "Mete a mão dentro da boca dele."
+    },
+    {
+      "start": 43.94,
+      "end": 44.8,
+      "text": "Tem pena, não."
+    },
+    {
+      "start": 46.35,
+      "end": 47.55,
+      "text": "Nossa, esse é um erro, hein, Fernando?"
+    },
+    {
+      "start": 49.29,
+      "end": 50.27,
+      "text": "Vira, Silvana, erga aí."
+    },
+    {
+      "start": 53.64,
+      "end": 54.4,
+      "text": "Erga aí, Silvana."
+    },
+    {
+      "start": 55.26,
+      "end": 56.34,
+      "text": "Nossa, olha lá o outro."
+    },
+    {
+      "start": 57.25,
+      "end": 58.57,
+      "text": "Achei já não vai embora mais, não."
+    },
+    {
+      "start": 58.89,
+      "end": 60.13,
+      "text": "Ué, que é nóis."
+    },
+    {
+      "start": 60.55,
+      "end": 61.35,
+      "text": "Olha lá o outro, por lá."
+    },
+    {
+      "start": 61.41,
+      "end": 61.73,
+      "text": "Olha o outro."
+    }
+  ],
+  "duracao_seg": 62.57,
+  "idioma_detectado": "pt"
+}

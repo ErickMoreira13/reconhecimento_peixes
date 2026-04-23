@@ -1,0 +1,42 @@
+{
+  "texto": "Olha aí, isso aqui tem pacô aí. Dá uma olhada, ó. Peguei colheradinho de arroz, olha aí. Olha aí. Eu não vim preto de pacô, ó. Dá uma olhada aí. Oi.",
+  "segmentos": [
+    {
+      "start": 47.31,
+      "end": 48.71,
+      "text": "Olha aí, isso aqui tem pacô aí."
+    },
+    {
+      "start": 49.01,
+      "end": 49.65,
+      "text": "Dá uma olhada, ó."
+    },
+    {
+      "start": 50.98,
+      "end": 52.5,
+      "text": "Peguei colheradinho de arroz, olha aí."
+    },
+    {
+      "start": 65.01,
+      "end": 65.35,
+      "text": "Olha aí."
+    },
+    {
+      "start": 74.62,
+      "end": 75.9,
+      "text": "Eu não vim preto de pacô, ó."
+    },
+    {
+      "start": 76.52,
+      "end": 77.18,
+      "text": "Dá uma olhada aí."
+    },
+    {
+      "start": 98.06,
+      "end": 98.28,
+      "text": "Oi."
+    }
+  ],
+  "duracao_seg": 98.37,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "4 dias de mata, tamo aí ó, nesse campamento aqui, coisa querida hein, as barracas, ó a gurizada ó, só alegria, coisa boa hein Acredite quem quiser, na TNT, dois tucunará de uma vez, tá aqui o Fernando, de prova, e o Marcos ali Expresses",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 222.41,
+      "text": "4 dias de mata, tamo aí ó, nesse campamento aqui, coisa querida hein, as barracas, ó a gurizada ó, só alegria, coisa boa hein"
+    },
+    {
+      "start": 222.41,
+      "end": 251.46,
+      "text": "Acredite quem quiser, na TNT, dois tucunará de uma vez, tá aqui o Fernando, de prova, e o Marcos ali"
+    },
+    {
+      "start": 251.46,
+      "end": 288.24,
+      "text": "Expresses"
+    }
+  ],
+  "duracao_seg": 325.49,
+  "idioma_detectado": "pt"
+}

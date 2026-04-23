@@ -1,0 +1,312 @@
+{
+  "texto": "Bom dia pessoal, estou aqui em Giparaná, mais o meu primo Jorge, olha ele aqui, estamos indo pescar no rio Machado, pegar uns piauzinhos lá, vamos ver se a gente consegue, o semáforo aqui é meio complicado, é quatro vezes né, quatro tempos, olha rapaz, é quatro tempos o semáforo aqui, olha a moto, a veia era sua, eu falei a moto, mas a veia era sua, é porque eu me esqueci disso, já é a beirada do rio, o rio, nós vamos seguir a beira do rio, até chegar no ponto que a gente vai pescar, esse é o rio Machado, tem gente pescando, olha a moto aí parada, é né, desse homem aí, está catando manga, os pés de manga é o que vai afundar o teto do carro, está do lado da igreja né, você tem uma naqueação daqui? Aham São? É O pastor me autorizou O pastor me autorizou Por que? Se pés de manga pode, pode cair um almoço Afunda Afunda o teto Olha o lugar de banho É, vou deixar aqui mesmo no bambu É Mas aqui qualquer coisa, onde desce, pescando abaixo É Pega o carro e desce, vai baixar Olha o rio, a ponte lá, olha, ali é a BR-364 Pronto, chegamos no lugar da pescaria E pessoal, vou botar essa mortandelazinha aqui, olha Essa mortandelazinha, para ver se a piranha pega, se ela não comer meu anzol, eu vou arriscar Patria, saem duas A boca dela é grande, velho É grande, não goleci do nada Vamos ver se ela Faleceu, a coxinha é muito mole Ah não, vou botar pequenininha para ver se ela vai Fale pequenininha, se tiver da fé, quem da fé dá pequenininha Porque ela é muito grande ou não? É Bom dia Bom dia Você vê um peixinho? É, eu estou brincando aqui, né Não tem isso que é apropriado, estou jogando um pedaço forte na dela aqui, deixa se a piranha pega Ah, pega Tem alguma corrida ali, tá aí Tá ruim, né Tá ruim, né Tá bom, peixinho Aham Tem rio nesse pingue-pongue, ele sobe, desce, bate e não roda nada Aham Tem duas canonas boas para vender de filhos, viu É, né É Você está jogando longe assim, porque a linha é fininha, viu É Se nós tiver Tchau Tchau Tchau Tchau Tchau",
+  "segmentos": [
+    {
+      "start": 13.49,
+      "end": 25.68,
+      "text": "Bom dia pessoal, estou aqui em Giparaná, mais o meu primo Jorge, olha ele aqui, estamos"
+    },
+    {
+      "start": 25.68,
+      "end": 41.96,
+      "text": "indo pescar no rio Machado, pegar uns piauzinhos lá, vamos ver se a gente consegue, o semáforo"
+    },
+    {
+      "start": 41.96,
+      "end": 48.84,
+      "text": "aqui é meio complicado, é quatro vezes né, quatro tempos, olha rapaz, é quatro tempos"
+    },
+    {
+      "start": 48.84,
+      "end": 178.7,
+      "text": "o semáforo aqui, olha a moto, a veia era sua, eu falei a moto, mas a veia era sua, é"
+    },
+    {
+      "start": 178.7,
+      "end": 199.87,
+      "text": "porque eu me esqueci disso, já é a beirada do rio, o rio, nós vamos seguir a beira do"
+    },
+    {
+      "start": 199.87,
+      "end": 227.22,
+      "text": "rio, até chegar no ponto que a gente vai pescar, esse é o rio Machado, tem gente pescando, olha"
+    },
+    {
+      "start": 227.22,
+      "end": 241.72,
+      "text": "a moto aí parada, é né, desse homem aí, está catando manga, os pés de manga é o que"
+    },
+    {
+      "start": 241.72,
+      "end": 249.52,
+      "text": "vai afundar o teto do carro, está do lado da igreja né, você tem uma naqueação"
+    },
+    {
+      "start": 249.52,
+      "end": 250.52,
+      "text": "daqui?"
+    },
+    {
+      "start": 250.52,
+      "end": 252.54,
+      "text": "Aham"
+    },
+    {
+      "start": 252.54,
+      "end": 253.54,
+      "text": "São?"
+    },
+    {
+      "start": 253.54,
+      "end": 254.54,
+      "text": "É"
+    },
+    {
+      "start": 254.54,
+      "end": 255.54,
+      "text": "O pastor me autorizou"
+    },
+    {
+      "start": 255.54,
+      "end": 256.54,
+      "text": "O pastor me autorizou"
+    },
+    {
+      "start": 256.54,
+      "end": 260.65,
+      "text": "Por que?"
+    },
+    {
+      "start": 260.65,
+      "end": 262.65,
+      "text": "Se pés de manga pode, pode cair um almoço"
+    },
+    {
+      "start": 262.65,
+      "end": 263.65,
+      "text": "Afunda"
+    },
+    {
+      "start": 263.65,
+      "end": 264.65,
+      "text": "Afunda o teto"
+    },
+    {
+      "start": 264.65,
+      "end": 265.65,
+      "text": "Olha o lugar de banho"
+    },
+    {
+      "start": 265.65,
+      "end": 266.65,
+      "text": "É, vou deixar aqui mesmo no bambu"
+    },
+    {
+      "start": 266.65,
+      "end": 267.65,
+      "text": "É"
+    },
+    {
+      "start": 267.65,
+      "end": 269.65,
+      "text": "Mas aqui qualquer coisa, onde desce, pescando abaixo"
+    },
+    {
+      "start": 269.65,
+      "end": 270.65,
+      "text": "É"
+    },
+    {
+      "start": 270.65,
+      "end": 272.65,
+      "text": "Pega o carro e desce, vai baixar"
+    },
+    {
+      "start": 272.65,
+      "end": 289.49,
+      "text": "Olha o rio, a ponte lá, olha, ali é a BR-364"
+    },
+    {
+      "start": 289.49,
+      "end": 292.19,
+      "text": "Pronto, chegamos no lugar da pescaria"
+    },
+    {
+      "start": 292.19,
+      "end": 306.9,
+      "text": "E pessoal, vou botar essa mortandelazinha aqui, olha"
+    },
+    {
+      "start": 306.9,
+      "end": 318.28,
+      "text": "Essa mortandelazinha, para ver se a piranha pega, se ela não comer meu anzol, eu vou arriscar"
+    },
+    {
+      "start": 318.28,
+      "end": 331.23,
+      "text": "Patria, saem duas"
+    },
+    {
+      "start": 331.23,
+      "end": 338.76,
+      "text": "A boca dela é grande, velho"
+    },
+    {
+      "start": 338.76,
+      "end": 343.25,
+      "text": "É grande, não goleci do nada"
+    },
+    {
+      "start": 343.25,
+      "end": 354.84,
+      "text": "Vamos ver se ela"
+    },
+    {
+      "start": 354.84,
+      "end": 394.64,
+      "text": "Faleceu, a coxinha é muito mole"
+    },
+    {
+      "start": 394.64,
+      "end": 397.64,
+      "text": "Ah não, vou botar pequenininha para ver se ela vai"
+    },
+    {
+      "start": 397.64,
+      "end": 400.76,
+      "text": "Fale pequenininha, se tiver da fé, quem da fé dá pequenininha"
+    },
+    {
+      "start": 400.76,
+      "end": 404.36,
+      "text": "Porque ela é muito grande ou não?"
+    },
+    {
+      "start": 404.36,
+      "end": 440.75,
+      "text": "É"
+    },
+    {
+      "start": 440.75,
+      "end": 441.85,
+      "text": "Bom dia"
+    },
+    {
+      "start": 441.85,
+      "end": 442.85,
+      "text": "Bom dia"
+    },
+    {
+      "start": 442.85,
+      "end": 443.85,
+      "text": "Você vê um peixinho?"
+    },
+    {
+      "start": 443.85,
+      "end": 445.85,
+      "text": "É, eu estou brincando aqui, né"
+    },
+    {
+      "start": 445.85,
+      "end": 450.85,
+      "text": "Não tem isso que é apropriado, estou jogando um pedaço forte na dela aqui, deixa se a piranha pega"
+    },
+    {
+      "start": 450.85,
+      "end": 451.85,
+      "text": "Ah, pega"
+    },
+    {
+      "start": 451.85,
+      "end": 453.52,
+      "text": "Tem alguma corrida ali, tá aí"
+    },
+    {
+      "start": 453.52,
+      "end": 461.13,
+      "text": "Tá ruim, né"
+    },
+    {
+      "start": 461.13,
+      "end": 462.13,
+      "text": "Tá ruim, né"
+    },
+    {
+      "start": 462.13,
+      "end": 464.13,
+      "text": "Tá bom, peixinho"
+    },
+    {
+      "start": 464.13,
+      "end": 465.13,
+      "text": "Aham"
+    },
+    {
+      "start": 465.13,
+      "end": 467.83,
+      "text": "Tem rio nesse pingue-pongue, ele sobe, desce, bate e não roda nada"
+    },
+    {
+      "start": 467.83,
+      "end": 468.83,
+      "text": "Aham"
+    },
+    {
+      "start": 468.83,
+      "end": 471.83,
+      "text": "Tem duas canonas boas para vender de filhos, viu"
+    },
+    {
+      "start": 471.83,
+      "end": 472.83,
+      "text": "É, né"
+    },
+    {
+      "start": 472.83,
+      "end": 858.79,
+      "text": "É"
+    },
+    {
+      "start": 858.79,
+      "end": 861.79,
+      "text": "Você está jogando longe assim, porque a linha é fininha, viu"
+    },
+    {
+      "start": 861.79,
+      "end": 862.29,
+      "text": "É"
+    },
+    {
+      "start": 862.29,
+      "end": 941.75,
+      "text": "Se nós tiver"
+    },
+    {
+      "start": 941.75,
+      "end": 943.45,
+      "text": "Tchau"
+    },
+    {
+      "start": 943.45,
+      "end": 944.45,
+      "text": "Tchau"
+    },
+    {
+      "start": 944.45,
+      "end": 945.45,
+      "text": "Tchau"
+    },
+    {
+      "start": 945.45,
+      "end": 946.45,
+      "text": "Tchau"
+    },
+    {
+      "start": 946.45,
+      "end": 947.45,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 1046.21,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,47 @@
+{
+  "texto": "oi oi oi oi oi oi oi oi oi oi oi oi oi tá grande é um terço de ferro ainda engoleu ainda É grande, amém A hora que chegar aqui vai brigar A hora que chegar aqui Caber de terra Aqui é o que eu não vi O cara que eu joguei certinho Os rapazes nem afundaram e já pegou",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 42.95,
+      "text": "oi oi oi oi oi oi oi oi oi oi oi oi oi tá grande é um terço de ferro ainda engoleu ainda"
+    },
+    {
+      "start": 42.95,
+      "end": 55.74,
+      "text": "É grande, amém"
+    },
+    {
+      "start": 55.74,
+      "end": 75.91,
+      "text": "A hora que chegar aqui vai brigar"
+    },
+    {
+      "start": 75.91,
+      "end": 76.69,
+      "text": "A hora que chegar aqui"
+    },
+    {
+      "start": 76.69,
+      "end": 81.49,
+      "text": "Caber de terra"
+    },
+    {
+      "start": 81.49,
+      "end": 102.06,
+      "text": "Aqui é o que eu não vi"
+    },
+    {
+      "start": 102.06,
+      "end": 103.52,
+      "text": "O cara que eu joguei certinho"
+    },
+    {
+      "start": 103.52,
+      "end": 105.04,
+      "text": "Os rapazes nem afundaram e já pegou"
+    }
+  ],
+  "duracao_seg": 106.77,
+  "idioma_detectado": "pt"
+}

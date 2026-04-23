@@ -1,0 +1,207 @@
+{
+  "texto": "Pegar um peixinho? Soja no azol, ó. Iririzão. Vamos tentar pegar aqui um peixe. Para mostrar aqui para vocês, ó. Vamos lá, menino. Pegar um peixe. E mostrar para a galera aqui que nós fazemos é pegar. Pegou um trem aí? Peguei. Vamos ver o que é, né? A vara está embodocada, hein? O peixe aqui está brigando. O peixe aqui está brigando. Devagar, porque senão o peixe escapa a nossa merenda. Será que é uma traíra? Será? Trairão? Trairão não, trairão não. Cuidado. Bora devagar, bora devagar. Olha a bicha aí, ó. Joga isso para dentro do rio. Agora vai quebrar, hein? Pega não. Bora ver se nós vamos conseguir pegar ela. Peguei. Moço. Vamos mostrar aí, né, para o povo. Uma escassez dessa de peixe. Peixinho desse aqui, é lindo demais. Olha o frito garantido aí, ó. Ai, menino. Essa vai lá para a panela, hein? Não vai nada, hein? Aí para o soja. Vamos tirar ela aqui e guardar, né? Tchau, tchau. Tchau, tchau. Tchau, tchau.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Pegar um peixinho?"
+    },
+    {
+      "start": 1.28,
+      "end": 4.24,
+      "text": "Soja no azol, ó."
+    },
+    {
+      "start": 5.24,
+      "end": 5.72,
+      "text": "Iririzão."
+    },
+    {
+      "start": 6.48,
+      "end": 8.64,
+      "text": "Vamos tentar pegar aqui um peixe."
+    },
+    {
+      "start": 8.78,
+      "end": 10.32,
+      "text": "Para mostrar aqui para vocês, ó."
+    },
+    {
+      "start": 10.92,
+      "end": 12.48,
+      "text": "Vamos lá, menino."
+    },
+    {
+      "start": 12.58,
+      "end": 13.42,
+      "text": "Pegar um peixe."
+    },
+    {
+      "start": 13.66,
+      "end": 16.36,
+      "text": "E mostrar para a galera aqui que nós fazemos é pegar."
+    },
+    {
+      "start": 16.56,
+      "end": 17.14,
+      "text": "Pegou um trem aí?"
+    },
+    {
+      "start": 17.82,
+      "end": 18.26,
+      "text": "Peguei."
+    },
+    {
+      "start": 18.78,
+      "end": 19.92,
+      "text": "Vamos ver o que é, né?"
+    },
+    {
+      "start": 20.1,
+      "end": 21.3,
+      "text": "A vara está embodocada, hein?"
+    },
+    {
+      "start": 23.29,
+      "end": 25.01,
+      "text": "O peixe aqui está brigando."
+    },
+    {
+      "start": 25.01,
+      "end": 25.47,
+      "text": "O peixe aqui está brigando."
+    },
+    {
+      "start": 25.47,
+      "end": 28.09,
+      "text": "Devagar, porque senão o peixe escapa a nossa merenda."
+    },
+    {
+      "start": 28.09,
+      "end": 30.67,
+      "text": "Será que é uma traíra?"
+    },
+    {
+      "start": 31.21,
+      "end": 31.57,
+      "text": "Será?"
+    },
+    {
+      "start": 32.09,
+      "end": 32.57,
+      "text": "Trairão?"
+    },
+    {
+      "start": 32.67,
+      "end": 33.69,
+      "text": "Trairão não, trairão não."
+    },
+    {
+      "start": 33.69,
+      "end": 34.41,
+      "text": "Cuidado."
+    },
+    {
+      "start": 34.51,
+      "end": 35.87,
+      "text": "Bora devagar, bora devagar."
+    },
+    {
+      "start": 36.07,
+      "end": 37.43,
+      "text": "Olha a bicha aí, ó."
+    },
+    {
+      "start": 37.69,
+      "end": 38.97,
+      "text": "Joga isso para dentro do rio."
+    },
+    {
+      "start": 40.42,
+      "end": 41.34,
+      "text": "Agora vai quebrar, hein?"
+    },
+    {
+      "start": 41.34,
+      "end": 41.92,
+      "text": "Pega não."
+    },
+    {
+      "start": 43.36,
+      "end": 44.96,
+      "text": "Bora ver se nós vamos conseguir pegar ela."
+    },
+    {
+      "start": 45.22,
+      "end": 45.58,
+      "text": "Peguei."
+    },
+    {
+      "start": 45.94,
+      "end": 46.42,
+      "text": "Moço."
+    },
+    {
+      "start": 46.8,
+      "end": 48.52,
+      "text": "Vamos mostrar aí, né, para o povo."
+    },
+    {
+      "start": 49.22,
+      "end": 50.6,
+      "text": "Uma escassez dessa de peixe."
+    },
+    {
+      "start": 50.62,
+      "end": 54.01,
+      "text": "Peixinho desse aqui, é lindo demais."
+    },
+    {
+      "start": 54.01,
+      "end": 56.39,
+      "text": "Olha o frito garantido aí, ó."
+    },
+    {
+      "start": 56.39,
+      "end": 58.29,
+      "text": "Ai, menino."
+    },
+    {
+      "start": 58.29,
+      "end": 59.39,
+      "text": "Essa vai lá para a panela, hein?"
+    },
+    {
+      "start": 59.41,
+      "end": 60.43,
+      "text": "Não vai nada, hein?"
+    },
+    {
+      "start": 61.29,
+      "end": 62.31,
+      "text": "Aí para o soja."
+    },
+    {
+      "start": 62.83,
+      "end": 65.61,
+      "text": "Vamos tirar ela aqui e guardar, né?"
+    },
+    {
+      "start": 65.61,
+      "end": 66.61,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 66.61,
+      "end": 67.61,
+      "text": "Tchau, tchau."
+    },
+    {
+      "start": 67.61,
+      "end": 68.61,
+      "text": "Tchau, tchau."
+    }
+  ],
+  "duracao_seg": 66.07,
+  "idioma_detectado": "pt"
+}

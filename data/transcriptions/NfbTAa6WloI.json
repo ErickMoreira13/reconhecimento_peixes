@@ -1,0 +1,52 @@
+{
+  "texto": "Puxa, puxa, cadê a isca? Ô garoto, hein? Olha o piau aí. Sei que salve se vai querer pescar de isca aí. Aqui ou lá na lagoa, não sei. Eu vou ficar só na área do céu, né? Aham, solta aí. A isquinha é pesada, pô. É um chumbo.",
+  "segmentos": [
+    {
+      "start": 76.82,
+      "end": 78.82,
+      "text": "Puxa, puxa, cadê a isca?"
+    },
+    {
+      "start": 79.24,
+      "end": 261.97,
+      "text": "Ô garoto, hein?"
+    },
+    {
+      "start": 262.07,
+      "end": 262.91,
+      "text": "Olha o piau aí."
+    },
+    {
+      "start": 292.83,
+      "end": 295.19,
+      "text": "Sei que salve se vai querer pescar de isca aí."
+    },
+    {
+      "start": 296.32,
+      "end": 297.72,
+      "text": "Aqui ou lá na lagoa, não sei."
+    },
+    {
+      "start": 298.24,
+      "end": 303.96,
+      "text": "Eu vou ficar só na área do céu, né?"
+    },
+    {
+      "start": 305.25,
+      "end": 306.23,
+      "text": "Aham, solta aí."
+    },
+    {
+      "start": 306.67,
+      "end": 543.74,
+      "text": "A isquinha é pesada, pô."
+    },
+    {
+      "start": 545.18,
+      "end": 545.88,
+      "text": "É um chumbo."
+    }
+  ],
+  "duracao_seg": 600.01,
+  "idioma_detectado": "pt"
+}

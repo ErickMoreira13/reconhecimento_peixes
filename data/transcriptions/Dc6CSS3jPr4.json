@@ -1,0 +1,47 @@
+{
+  "texto": "Olha, gente, eu tô muito emocionada com essa piranha, ó. Sonho realizado aqui, ó. No iririzão aqui. Vim dois dias pescando, não tinha pegado nada. E acabei de pegar, não deu tempo de eu filmar aqui pra vocês pegando ela, que a emoção foi grande. Mas eu falei, vou amostrar ela. E aí, ó, só o luxo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Olha, gente, eu tô muito emocionada com essa piranha, ó."
+    },
+    {
+      "start": 4.36,
+      "end": 5.82,
+      "text": "Sonho realizado aqui, ó."
+    },
+    {
+      "start": 6.18,
+      "end": 7.28,
+      "text": "No iririzão aqui."
+    },
+    {
+      "start": 7.82,
+      "end": 10.74,
+      "text": "Vim dois dias pescando, não tinha pegado nada."
+    },
+    {
+      "start": 11.54,
+      "end": 16.0,
+      "text": "E acabei de pegar, não deu tempo de eu filmar aqui pra vocês pegando ela,"
+    },
+    {
+      "start": 16.06,
+      "end": 17.16,
+      "text": "que a emoção foi grande."
+    },
+    {
+      "start": 17.74,
+      "end": 19.62,
+      "text": "Mas eu falei, vou amostrar ela."
+    },
+    {
+      "start": 19.82,
+      "end": 21.32,
+      "text": "E aí, ó, só o luxo."
+    }
+  ],
+  "duracao_seg": 21.99,
+  "idioma_detectado": "pt"
+}

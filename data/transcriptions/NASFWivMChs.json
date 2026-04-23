@@ -1,0 +1,22 @@
+{
+  "texto": "Galera, aqui no rio Aripuanã, Manaus, Amazonas, aqui na pousada Roosevelt, Amazon Roosevelt, pescaria sem isca, dá para ver bem o anzol aí ou não? Olha lá, o nosso guia vai mostrar como é que faz aí, vamos lá, sem isca, olha lá, uma só minha gigada, duas, pescaria de corvina, sem isca, Amazon Roosevelt, no rio Aripuanã, no meio da floresta amazônica aqui.",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 14.8,
+      "text": "Galera, aqui no rio Aripuanã, Manaus, Amazonas, aqui na pousada Roosevelt, Amazon Roosevelt, pescaria sem isca, dá para ver bem o anzol aí ou não?"
+    },
+    {
+      "start": 15.16,
+      "end": 50.76,
+      "text": "Olha lá, o nosso guia vai mostrar como é que faz aí, vamos lá, sem isca, olha lá, uma só minha gigada, duas, pescaria de corvina, sem isca, Amazon Roosevelt,"
+    },
+    {
+      "start": 50.76,
+      "end": 56.77,
+      "text": "no rio Aripuanã, no meio da floresta amazônica aqui."
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

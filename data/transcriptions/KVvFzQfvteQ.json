@@ -1,0 +1,22 @@
+{
+  "texto": "Então persiste, a mente é fértil, pra sonhar não tem limite E quem diria, nós tá feras naquele pique E de primeira vista, uns falam que não existe",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.52,
+      "text": "Então persiste, a mente é fértil, pra sonhar não tem limite"
+    },
+    {
+      "start": 5.52,
+      "end": 9.5,
+      "text": "E quem diria, nós tá feras naquele pique"
+    },
+    {
+      "start": 9.5,
+      "end": 12.92,
+      "text": "E de primeira vista, uns falam que não existe"
+    }
+  ],
+  "duracao_seg": 12.89,
+  "idioma_detectado": "pt"
+}

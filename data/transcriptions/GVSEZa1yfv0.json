@@ -1,0 +1,37 @@
+{
+  "texto": "Estamos de pescar aqui com a nossa traia, que não pode faltar a churrasqueira, uma cervejinha, a carne, né, Leandro, Ziza aí, ó. Olha aí, ô Fubocão. Aqui, ó, pescaria no alagado. Pescaria no alagado aqui, ó. Estamos de boa, daqui a pouco vamos falar o vídeo assando a carne. Por enquanto a churrasqueira e o carvão aí pra vocês verem, ó.",
+  "segmentos": [
+    {
+      "start": 3.12,
+      "end": 12.46,
+      "text": "Estamos de pescar aqui com a nossa traia, que não pode faltar a churrasqueira, uma cervejinha, a carne, né, Leandro, Ziza aí, ó."
+    },
+    {
+      "start": 13.78,
+      "end": 14.78,
+      "text": "Olha aí, ô Fubocão."
+    },
+    {
+      "start": 15.2,
+      "end": 16.86,
+      "text": "Aqui, ó, pescaria no alagado."
+    },
+    {
+      "start": 17.14,
+      "end": 18.82,
+      "text": "Pescaria no alagado aqui, ó."
+    },
+    {
+      "start": 19.94,
+      "end": 22.42,
+      "text": "Estamos de boa, daqui a pouco vamos falar o vídeo assando a carne."
+    },
+    {
+      "start": 22.54,
+      "end": 24.92,
+      "text": "Por enquanto a churrasqueira e o carvão aí pra vocês verem, ó."
+    }
+  ],
+  "duracao_seg": 26.05,
+  "idioma_detectado": "pt"
+}

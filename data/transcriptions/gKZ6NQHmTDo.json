@@ -1,0 +1,827 @@
+{
+  "texto": "Galera, olha aí, galera, olha aí, galera Galera Não filmei a fisgada, pessoal Fui só jogada em água Na corredeira Olha aí, pessoal, essa é bruto Peguei um piau bonito aqui, ó Mas o meu tá enroscado aqui Comeu a Carne da cabeça, ele ficou só um assim Olha aí, pessoal Olha o que o peixe fez aqui, pessoal Aí a mulher já pegou um peixe aí, ó Soltou Galera, não tinha nem começado ainda a pescaria Tô ajeitando os trens aqui, ó Pescar com uma varinha de bambu E a mulher tá com molinete aí Eu trouxe molinete também, mas Vamos ver o que vai sair aí Pescando aqui no rio Iriponã No meio das pedras, corredeira Um lugar bom de peixe aqui Mas vamos ver se vai sair uns peixinhos bons aqui, ó Galera, tem uns peixe grande aqui, ó Será que eu puxei o anzol pra rir Mas veio na flor da água pra pegar Ó Ó, galera, ó Peguei um piauzinho Piauzinho pequeno Olha aí, ó Olha, galera, peguei um grande Ah, um bagre Bagre preto Rapaz, aí Só não voando essas pedras aqui, ó Olha aí, ó Galera, pegou, ó Piauzinho pequeno Troquei de vara Porque aquela onda tava muito grande E aqui é muito sujo Olha aí, ó Pequeno Piau desse tamanho aqui tem um monte Você joga um anzol dentro da água Chega briga Pra pegar na isca Ó, galera, ó Olha aí Mais um piauzinho Saindo só as pequenas aqui, ó Não voando essas pedras Pegou? Vagar, filho Você arrebenta a linha A linha é fina Pega na pedra Escapou? Aí, pessoal Escapou Ó, galera, ó Galera, grande, galera Grande Grande, galera Olha aí, pessoal Que piau bonito Olha aí, ó Virar pra cá que é melhor Que piau lindo, pessoal Galera, ó No pocinho aqui, ó Aqui pra cá, assim, tá O lugar mais largo do rio Aliponã Tá indo essas corredeirinhas Assim, nessas Águinha parada, assim, ó Vão de pedra Cheio de piau Vamos ver se pega outro Ou era só aquele um mesmo Ó, galera, ó Galera, enroscou O problema é Pescar aqui no vão dessas pedras É o enrosco Foi Peguei um piau bonito aqui, ó Mas o meu tá enroscado aqui Comeu a Comeu a Carne da cabeça Ele ficou só o ossinho Olha aí, pessoal Olha aí, o que o peixe fez aqui, pessoal Dobrou pra dentro o anzol É doido Já que é grande, hein Vagar A pressão tá frouxa Deixa frouxa Se o peixe puxar Se não é pé com uns piaus ali Vagar, filho Tá aqui, debaixo Pega devagar Com a linha fina Escapa, não A piranha Galera, que poço aqui, ó Poço não, né Na corredeirinha Mas top Top no mundo aqui, ó Bora ver se tem peixe Tá embolando a ponta por causa da corredeira Bora ver Ventinho da chuva Tá formado o tempo A chuvenha Vai estragar nessa pescaria Mulher pegou um piauzinho lá Tá aí na linha, assim, ó Galera, choveu Choveu bastante mesmo A pessoa pega um pacu nessa corredeirinha aqui Sempre tem bastante Só que eles são veaco Se não for uma linha bem fininha, não pega eles, não Ele não tá com a linha muito fina Galera, olha aí, galera Olha aí, galera Galera Galera Não filmei a fisgada, pessoal Foi só jogada em água Na corredeira Olha aí, pessoal Essa é bruto Olha aí É... Matrinchã Olha aí, pessoal Na corredeirinha ali, ó Não filmei a fisgada Só foi usar o bateraino lá Agora ela pegou Não deu tempo Olha aí, ó Olha aí Quase escurecendo Saiu um piauzinho pequeno, ó Saindo um peixe lá, ó Bora ver o que que é Mas tá meio longe Já tá quase escurecendo aqui, ó Não vai dar pra ver, não, ó Uma mini piranha Peixe de couro Diz ela que achou que era peixe de couro Acho que eu quero um mandê Mas é uma piranha",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 2.18,
+      "text": "Galera, olha aí, galera, olha aí, galera"
+    },
+    {
+      "start": 2.18,
+      "end": 4.42,
+      "text": "Galera"
+    },
+    {
+      "start": 4.42,
+      "end": 7.76,
+      "text": "Não filmei a fisgada, pessoal"
+    },
+    {
+      "start": 7.76,
+      "end": 8.78,
+      "text": "Fui só jogada em água"
+    },
+    {
+      "start": 8.78,
+      "end": 11.23,
+      "text": "Na corredeira"
+    },
+    {
+      "start": 11.23,
+      "end": 18.98,
+      "text": "Olha aí, pessoal, essa é bruto"
+    },
+    {
+      "start": 18.98,
+      "end": 21.3,
+      "text": "Peguei um piau bonito aqui, ó"
+    },
+    {
+      "start": 21.3,
+      "end": 23.96,
+      "text": "Mas o meu tá enroscado aqui"
+    },
+    {
+      "start": 23.96,
+      "end": 28.62,
+      "text": "Comeu a"
+    },
+    {
+      "start": 28.62,
+      "end": 32.54,
+      "text": "Carne da cabeça, ele ficou só um assim"
+    },
+    {
+      "start": 32.54,
+      "end": 33.46,
+      "text": "Olha aí, pessoal"
+    },
+    {
+      "start": 33.46,
+      "end": 36.2,
+      "text": "Olha o que o peixe fez aqui, pessoal"
+    },
+    {
+      "start": 36.2,
+      "end": 44.9,
+      "text": "Aí a mulher já pegou um peixe aí, ó"
+    },
+    {
+      "start": 44.9,
+      "end": 46.62,
+      "text": "Soltou"
+    },
+    {
+      "start": 46.62,
+      "end": 50.44,
+      "text": "Galera, não tinha nem começado ainda a pescaria"
+    },
+    {
+      "start": 50.44,
+      "end": 52.04,
+      "text": "Tô ajeitando os trens aqui, ó"
+    },
+    {
+      "start": 52.04,
+      "end": 57.02,
+      "text": "Pescar com uma varinha de bambu"
+    },
+    {
+      "start": 57.02,
+      "end": 58.98,
+      "text": "E a mulher tá com molinete aí"
+    },
+    {
+      "start": 58.98,
+      "end": 60.94,
+      "text": "Eu trouxe molinete também, mas"
+    },
+    {
+      "start": 60.94,
+      "end": 63.92,
+      "text": "Vamos ver o que vai sair aí"
+    },
+    {
+      "start": 63.92,
+      "end": 66.55,
+      "text": "Pescando aqui no rio Iriponã"
+    },
+    {
+      "start": 66.55,
+      "end": 68.21,
+      "text": "No meio das pedras, corredeira"
+    },
+    {
+      "start": 68.21,
+      "end": 70.38,
+      "text": "Um lugar bom de peixe aqui"
+    },
+    {
+      "start": 70.38,
+      "end": 72.56,
+      "text": "Mas vamos ver se vai sair uns peixinhos bons aqui, ó"
+    },
+    {
+      "start": 72.56,
+      "end": 74.92,
+      "text": "Galera, tem uns peixe grande aqui, ó"
+    },
+    {
+      "start": 74.92,
+      "end": 82.98,
+      "text": "Será que eu puxei o anzol pra rir"
+    },
+    {
+      "start": 82.98,
+      "end": 84.6,
+      "text": "Mas veio na flor da água pra pegar"
+    },
+    {
+      "start": 84.6,
+      "end": 88.28,
+      "text": "Ó"
+    },
+    {
+      "start": 88.28,
+      "end": 91.22,
+      "text": "Ó, galera, ó"
+    },
+    {
+      "start": 91.22,
+      "end": 96.46,
+      "text": "Peguei um piauzinho"
+    },
+    {
+      "start": 96.46,
+      "end": 98.77,
+      "text": "Piauzinho pequeno"
+    },
+    {
+      "start": 98.77,
+      "end": 104.06,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 104.06,
+      "end": 108.8,
+      "text": "Olha, galera, peguei um grande"
+    },
+    {
+      "start": 108.8,
+      "end": 111.48,
+      "text": "Ah, um bagre"
+    },
+    {
+      "start": 111.48,
+      "end": 113.6,
+      "text": "Bagre preto"
+    },
+    {
+      "start": 113.6,
+      "end": 117.31,
+      "text": "Rapaz, aí"
+    },
+    {
+      "start": 117.31,
+      "end": 121.6,
+      "text": "Só não voando essas pedras aqui, ó"
+    },
+    {
+      "start": 121.6,
+      "end": 126.31,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 126.31,
+      "end": 132.8,
+      "text": "Galera, pegou, ó"
+    },
+    {
+      "start": 132.8,
+      "end": 135.14,
+      "text": "Piauzinho pequeno"
+    },
+    {
+      "start": 135.14,
+      "end": 136.6,
+      "text": "Troquei de vara"
+    },
+    {
+      "start": 136.6,
+      "end": 137.86,
+      "text": "Porque aquela onda tava muito grande"
+    },
+    {
+      "start": 137.86,
+      "end": 140.3,
+      "text": "E aqui é muito sujo"
+    },
+    {
+      "start": 140.3,
+      "end": 144.17,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 144.17,
+      "end": 144.71,
+      "text": "Pequeno"
+    },
+    {
+      "start": 144.71,
+      "end": 146.9,
+      "text": "Piau desse tamanho aqui tem um monte"
+    },
+    {
+      "start": 146.9,
+      "end": 150.06,
+      "text": "Você joga um anzol dentro da água"
+    },
+    {
+      "start": 150.06,
+      "end": 150.7,
+      "text": "Chega briga"
+    },
+    {
+      "start": 150.7,
+      "end": 154.34,
+      "text": "Pra pegar na isca"
+    },
+    {
+      "start": 154.34,
+      "end": 158.49,
+      "text": "Ó, galera, ó"
+    },
+    {
+      "start": 158.49,
+      "end": 159.75,
+      "text": "Olha aí"
+    },
+    {
+      "start": 159.75,
+      "end": 161.97,
+      "text": "Mais um piauzinho"
+    },
+    {
+      "start": 161.97,
+      "end": 163.69,
+      "text": "Saindo só as pequenas aqui, ó"
+    },
+    {
+      "start": 163.69,
+      "end": 164.47,
+      "text": "Não voando essas pedras"
+    },
+    {
+      "start": 164.47,
+      "end": 173.03,
+      "text": "Pegou?"
+    },
+    {
+      "start": 177.44,
+      "end": 178.04,
+      "text": "Vagar, filho"
+    },
+    {
+      "start": 178.04,
+      "end": 179.84,
+      "text": "Você arrebenta a linha"
+    },
+    {
+      "start": 179.84,
+      "end": 181.68,
+      "text": "A linha é fina"
+    },
+    {
+      "start": 181.68,
+      "end": 182.68,
+      "text": "Pega na pedra"
+    },
+    {
+      "start": 182.68,
+      "end": 187.74,
+      "text": "Escapou?"
+    },
+    {
+      "start": 188.22,
+      "end": 188.6,
+      "text": "Aí, pessoal"
+    },
+    {
+      "start": 188.6,
+      "end": 189.96,
+      "text": "Escapou"
+    },
+    {
+      "start": 189.96,
+      "end": 194.02,
+      "text": "Ó, galera, ó"
+    },
+    {
+      "start": 194.02,
+      "end": 196.06,
+      "text": "Galera, grande, galera"
+    },
+    {
+      "start": 196.06,
+      "end": 196.42,
+      "text": "Grande"
+    },
+    {
+      "start": 196.42,
+      "end": 197.7,
+      "text": "Grande, galera"
+    },
+    {
+      "start": 197.7,
+      "end": 203.68,
+      "text": "Olha aí, pessoal"
+    },
+    {
+      "start": 203.68,
+      "end": 206.56,
+      "text": "Que piau bonito"
+    },
+    {
+      "start": 206.56,
+      "end": 216.17,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 216.17,
+      "end": 218.67,
+      "text": "Virar pra cá que é melhor"
+    },
+    {
+      "start": 218.67,
+      "end": 220.99,
+      "text": "Que piau lindo, pessoal"
+    },
+    {
+      "start": 220.99,
+      "end": 226.88,
+      "text": "Galera, ó"
+    },
+    {
+      "start": 226.88,
+      "end": 228.81,
+      "text": "No pocinho aqui, ó"
+    },
+    {
+      "start": 228.81,
+      "end": 230.84,
+      "text": "Aqui pra cá, assim, tá"
+    },
+    {
+      "start": 230.84,
+      "end": 232.16,
+      "text": "O lugar mais largo do rio"
+    },
+    {
+      "start": 232.16,
+      "end": 232.64,
+      "text": "Aliponã"
+    },
+    {
+      "start": 232.64,
+      "end": 235.08,
+      "text": "Tá indo essas corredeirinhas"
+    },
+    {
+      "start": 235.08,
+      "end": 236.02,
+      "text": "Assim, nessas"
+    },
+    {
+      "start": 236.02,
+      "end": 238.56,
+      "text": "Águinha parada, assim, ó"
+    },
+    {
+      "start": 238.56,
+      "end": 240.65,
+      "text": "Vão de pedra"
+    },
+    {
+      "start": 240.65,
+      "end": 241.39,
+      "text": "Cheio de piau"
+    },
+    {
+      "start": 241.39,
+      "end": 243.19,
+      "text": "Vamos ver se pega outro"
+    },
+    {
+      "start": 243.19,
+      "end": 254.76,
+      "text": "Ou era só aquele um mesmo"
+    },
+    {
+      "start": 254.76,
+      "end": 264.71,
+      "text": "Ó, galera, ó"
+    },
+    {
+      "start": 264.71,
+      "end": 267.71,
+      "text": "Galera, enroscou"
+    },
+    {
+      "start": 267.71,
+      "end": 271.51,
+      "text": "O problema é"
+    },
+    {
+      "start": 271.51,
+      "end": 273.37,
+      "text": "Pescar aqui no vão dessas pedras"
+    },
+    {
+      "start": 273.37,
+      "end": 275.33,
+      "text": "É o enrosco"
+    },
+    {
+      "start": 275.33,
+      "end": 277.2,
+      "text": "Foi"
+    },
+    {
+      "start": 277.2,
+      "end": 285.2,
+      "text": "Peguei um piau bonito aqui, ó"
+    },
+    {
+      "start": 285.2,
+      "end": 287.88,
+      "text": "Mas o meu tá enroscado aqui"
+    },
+    {
+      "start": 287.88,
+      "end": 292.72,
+      "text": "Comeu a"
+    },
+    {
+      "start": 292.72,
+      "end": 294.45,
+      "text": "Comeu a"
+    },
+    {
+      "start": 294.45,
+      "end": 295.43,
+      "text": "Carne da cabeça"
+    },
+    {
+      "start": 295.43,
+      "end": 296.71,
+      "text": "Ele ficou só o ossinho"
+    },
+    {
+      "start": 296.71,
+      "end": 297.57,
+      "text": "Olha aí, pessoal"
+    },
+    {
+      "start": 297.57,
+      "end": 300.29,
+      "text": "Olha aí, o que o peixe fez aqui, pessoal"
+    },
+    {
+      "start": 300.29,
+      "end": 305.43,
+      "text": "Dobrou pra dentro o anzol"
+    },
+    {
+      "start": 305.43,
+      "end": 309.66,
+      "text": "É doido"
+    },
+    {
+      "start": 309.66,
+      "end": 310.54,
+      "text": "Já que é grande, hein"
+    },
+    {
+      "start": 310.54,
+      "end": 318.16,
+      "text": "Vagar"
+    },
+    {
+      "start": 318.16,
+      "end": 319.28,
+      "text": "A pressão tá frouxa"
+    },
+    {
+      "start": 319.28,
+      "end": 321.87,
+      "text": "Deixa frouxa"
+    },
+    {
+      "start": 321.87,
+      "end": 322.65,
+      "text": "Se o peixe puxar"
+    },
+    {
+      "start": 322.65,
+      "end": 328.68,
+      "text": "Se não é pé com uns piaus ali"
+    },
+    {
+      "start": 328.68,
+      "end": 339.63,
+      "text": "Vagar, filho"
+    },
+    {
+      "start": 339.63,
+      "end": 346.31,
+      "text": "Tá aqui, debaixo"
+    },
+    {
+      "start": 346.31,
+      "end": 354.28,
+      "text": "Pega devagar"
+    },
+    {
+      "start": 354.28,
+      "end": 355.22,
+      "text": "Com a linha fina"
+    },
+    {
+      "start": 355.22,
+      "end": 362.86,
+      "text": "Escapa, não"
+    },
+    {
+      "start": 362.86,
+      "end": 368.33,
+      "text": "A piranha"
+    },
+    {
+      "start": 368.33,
+      "end": 383.18,
+      "text": "Galera, que poço aqui, ó"
+    },
+    {
+      "start": 383.18,
+      "end": 383.64,
+      "text": "Poço não, né"
+    },
+    {
+      "start": 383.64,
+      "end": 384.3,
+      "text": "Na corredeirinha"
+    },
+    {
+      "start": 384.3,
+      "end": 386.18,
+      "text": "Mas top"
+    },
+    {
+      "start": 386.18,
+      "end": 388.8,
+      "text": "Top no mundo aqui, ó"
+    },
+    {
+      "start": 388.8,
+      "end": 393.15,
+      "text": "Bora ver se tem peixe"
+    },
+    {
+      "start": 393.15,
+      "end": 412.2,
+      "text": "Tá embolando a ponta por causa da corredeira"
+    },
+    {
+      "start": 412.2,
+      "end": 416.29,
+      "text": "Bora ver"
+    },
+    {
+      "start": 416.29,
+      "end": 425.1,
+      "text": "Ventinho da chuva"
+    },
+    {
+      "start": 425.1,
+      "end": 427.17,
+      "text": "Tá formado o tempo"
+    },
+    {
+      "start": 427.17,
+      "end": 427.75,
+      "text": "A chuvenha"
+    },
+    {
+      "start": 427.75,
+      "end": 429.86,
+      "text": "Vai estragar nessa pescaria"
+    },
+    {
+      "start": 429.86,
+      "end": 438.5,
+      "text": "Mulher pegou um piauzinho lá"
+    },
+    {
+      "start": 438.5,
+      "end": 444.75,
+      "text": "Tá aí na linha, assim, ó"
+    },
+    {
+      "start": 444.75,
+      "end": 451.37,
+      "text": "Galera, choveu"
+    },
+    {
+      "start": 451.37,
+      "end": 453.91,
+      "text": "Choveu bastante mesmo"
+    },
+    {
+      "start": 453.91,
+      "end": 462.94,
+      "text": "A pessoa pega um pacu nessa corredeirinha aqui"
+    },
+    {
+      "start": 462.94,
+      "end": 466.68,
+      "text": "Sempre tem bastante"
+    },
+    {
+      "start": 466.68,
+      "end": 467.86,
+      "text": "Só que eles são veaco"
+    },
+    {
+      "start": 467.86,
+      "end": 471.14,
+      "text": "Se não for uma linha bem fininha, não pega eles, não"
+    },
+    {
+      "start": 471.14,
+      "end": 476.48,
+      "text": "Ele não tá com a linha muito fina"
+    },
+    {
+      "start": 476.48,
+      "end": 495.66,
+      "text": "Galera, olha aí, galera"
+    },
+    {
+      "start": 495.66,
+      "end": 496.38,
+      "text": "Olha aí, galera"
+    },
+    {
+      "start": 496.38,
+      "end": 496.88,
+      "text": "Galera"
+    },
+    {
+      "start": 496.88,
+      "end": 498.89,
+      "text": "Galera"
+    },
+    {
+      "start": 498.89,
+      "end": 502.24,
+      "text": "Não filmei a fisgada, pessoal"
+    },
+    {
+      "start": 502.24,
+      "end": 503.22,
+      "text": "Foi só jogada em água"
+    },
+    {
+      "start": 503.22,
+      "end": 505.67,
+      "text": "Na corredeira"
+    },
+    {
+      "start": 505.67,
+      "end": 512.76,
+      "text": "Olha aí, pessoal"
+    },
+    {
+      "start": 512.76,
+      "end": 513.44,
+      "text": "Essa é bruto"
+    },
+    {
+      "start": 513.44,
+      "end": 527.37,
+      "text": "Olha aí"
+    },
+    {
+      "start": 527.37,
+      "end": 529.81,
+      "text": "É..."
+    },
+    {
+      "start": 529.81,
+      "end": 531.36,
+      "text": "Matrinchã"
+    },
+    {
+      "start": 531.36,
+      "end": 533.6,
+      "text": "Olha aí, pessoal"
+    },
+    {
+      "start": 533.6,
+      "end": 535.46,
+      "text": "Na corredeirinha ali, ó"
+    },
+    {
+      "start": 535.46,
+      "end": 539.47,
+      "text": "Não filmei a fisgada"
+    },
+    {
+      "start": 539.47,
+      "end": 541.29,
+      "text": "Só foi usar o bateraino lá"
+    },
+    {
+      "start": 541.29,
+      "end": 541.81,
+      "text": "Agora ela pegou"
+    },
+    {
+      "start": 541.81,
+      "end": 542.55,
+      "text": "Não deu tempo"
+    },
+    {
+      "start": 542.55,
+      "end": 548.08,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 548.08,
+      "end": 548.54,
+      "text": "Olha aí"
+    },
+    {
+      "start": 548.54,
+      "end": 550.08,
+      "text": "Quase escurecendo"
+    },
+    {
+      "start": 550.08,
+      "end": 552.92,
+      "text": "Saiu um piauzinho pequeno, ó"
+    },
+    {
+      "start": 552.92,
+      "end": 565.24,
+      "text": "Saindo um peixe lá, ó"
+    },
+    {
+      "start": 565.24,
+      "end": 566.1,
+      "text": "Bora ver o que que é"
+    },
+    {
+      "start": 566.1,
+      "end": 567.94,
+      "text": "Mas tá meio longe"
+    },
+    {
+      "start": 567.94,
+      "end": 571.67,
+      "text": "Já tá quase escurecendo aqui, ó"
+    },
+    {
+      "start": 571.67,
+      "end": 579.35,
+      "text": "Não vai dar pra ver, não, ó"
+    },
+    {
+      "start": 579.35,
+      "end": 581.68,
+      "text": "Uma mini piranha"
+    },
+    {
+      "start": 581.68,
+      "end": 596.48,
+      "text": "Peixe de couro"
+    },
+    {
+      "start": 596.48,
+      "end": 599.18,
+      "text": "Diz ela que achou que era peixe de couro"
+    },
+    {
+      "start": 599.18,
+      "end": 602.01,
+      "text": "Acho que eu quero um mandê"
+    },
+    {
+      "start": 602.01,
+      "end": 604.0,
+      "text": "Mas é uma piranha"
+    }
+  ],
+  "duracao_seg": 605.45,
+  "idioma_detectado": "pt"
+}

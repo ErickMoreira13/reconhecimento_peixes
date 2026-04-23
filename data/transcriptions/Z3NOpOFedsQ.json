@@ -1,0 +1,252 @@
+{
+  "texto": "olha, olha olha como é que está o sistema ele está indo lima lá para baixo é grande vamos tirar esse peixe para fora agora bora é corredeiro, um peixe pequeno, mas tem força estou achando que não é muito pequeno não olha para que serve a barriga nessa hora a bicha ajuda para segurar o pé na vara aqui rapaz top de linha bora isso é bom demais tira esse peixe esse é topzera demais está vindo está vindo é das grandes e a bicha está brigando essa é grande está chegando a bicha agora deu umas muricidas é a barriga que continua trabalhando rapaz bora mas está difícil vai ver olha aí começou a aparecer apareceu o ouro menino essa era rapaz por isso que foi esse trabalho todo deixa eu mostrar para vocês olha que maravilha de peixe não, essa daí é top de linha essa vai para a frigideira também vai caber só ela na frigideira linda, linda maravilhosa não agora o que é que vai ser antes que não ela foi o ouro ela é que vai ser",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 1.74,
+      "text": "olha, olha"
+    },
+    {
+      "start": 1.74,
+      "end": 4.86,
+      "text": "olha como é que está o sistema"
+    },
+    {
+      "start": 4.86,
+      "end": 6.46,
+      "text": "ele está indo lima lá para baixo"
+    },
+    {
+      "start": 6.46,
+      "end": 8.14,
+      "text": "é grande"
+    },
+    {
+      "start": 8.14,
+      "end": 10.56,
+      "text": "vamos tirar esse peixe para fora agora"
+    },
+    {
+      "start": 10.56,
+      "end": 11.38,
+      "text": "bora"
+    },
+    {
+      "start": 11.38,
+      "end": 13.76,
+      "text": "é corredeiro, um peixe pequeno, mas tem força"
+    },
+    {
+      "start": 13.76,
+      "end": 17.48,
+      "text": "estou achando que não é muito pequeno não"
+    },
+    {
+      "start": 17.48,
+      "end": 19.02,
+      "text": "olha para que serve a barriga"
+    },
+    {
+      "start": 19.02,
+      "end": 23.68,
+      "text": "nessa hora a bicha ajuda para segurar o pé na vara aqui"
+    },
+    {
+      "start": 23.68,
+      "end": 28.06,
+      "text": "rapaz"
+    },
+    {
+      "start": 28.06,
+      "end": 28.94,
+      "text": "top de linha"
+    },
+    {
+      "start": 28.94,
+      "end": 30.44,
+      "text": "bora"
+    },
+    {
+      "start": 30.44,
+      "end": 31.72,
+      "text": "isso é bom demais"
+    },
+    {
+      "start": 31.72,
+      "end": 33.02,
+      "text": "tira esse peixe"
+    },
+    {
+      "start": 33.02,
+      "end": 34.62,
+      "text": "esse é topzera demais"
+    },
+    {
+      "start": 34.62,
+      "end": 37.94,
+      "text": "está vindo"
+    },
+    {
+      "start": 37.94,
+      "end": 40.11,
+      "text": "está vindo"
+    },
+    {
+      "start": 40.11,
+      "end": 42.02,
+      "text": "é das grandes"
+    },
+    {
+      "start": 42.02,
+      "end": 46.2,
+      "text": "e a bicha está brigando"
+    },
+    {
+      "start": 46.2,
+      "end": 48.54,
+      "text": "essa é grande"
+    },
+    {
+      "start": 48.54,
+      "end": 50.24,
+      "text": "está chegando"
+    },
+    {
+      "start": 50.24,
+      "end": 52.78,
+      "text": "a bicha agora deu umas muricidas"
+    },
+    {
+      "start": 52.78,
+      "end": 55.46,
+      "text": "é a barriga que continua trabalhando"
+    },
+    {
+      "start": 55.46,
+      "end": 58.14,
+      "text": "rapaz"
+    },
+    {
+      "start": 58.14,
+      "end": 60.0,
+      "text": "bora"
+    },
+    {
+      "start": 60.0,
+      "end": 62.08,
+      "text": "mas está difícil"
+    },
+    {
+      "start": 62.08,
+      "end": 62.78,
+      "text": "vai ver"
+    },
+    {
+      "start": 62.78,
+      "end": 64.56,
+      "text": "olha aí"
+    },
+    {
+      "start": 64.56,
+      "end": 66.96,
+      "text": "começou a aparecer"
+    },
+    {
+      "start": 66.96,
+      "end": 68.68,
+      "text": "apareceu o ouro"
+    },
+    {
+      "start": 68.68,
+      "end": 71.26,
+      "text": "menino"
+    },
+    {
+      "start": 71.26,
+      "end": 72.02,
+      "text": "essa era"
+    },
+    {
+      "start": 72.02,
+      "end": 72.4,
+      "text": "rapaz"
+    },
+    {
+      "start": 72.4,
+      "end": 75.88,
+      "text": "por isso que foi esse trabalho todo"
+    },
+    {
+      "start": 75.88,
+      "end": 77.18,
+      "text": "deixa eu mostrar para vocês"
+    },
+    {
+      "start": 77.18,
+      "end": 79.86,
+      "text": "olha que maravilha de peixe"
+    },
+    {
+      "start": 79.86,
+      "end": 81.56,
+      "text": "não, essa daí é top"
+    },
+    {
+      "start": 81.56,
+      "end": 82.8,
+      "text": "de linha"
+    },
+    {
+      "start": 82.8,
+      "end": 86.88,
+      "text": "essa vai para a frigideira também"
+    },
+    {
+      "start": 86.88,
+      "end": 90.06,
+      "text": "vai caber só ela na frigideira"
+    },
+    {
+      "start": 90.06,
+      "end": 91.08,
+      "text": "linda, linda"
+    },
+    {
+      "start": 91.08,
+      "end": 92.18,
+      "text": "maravilhosa"
+    },
+    {
+      "start": 92.18,
+      "end": 94.08,
+      "text": "não agora o que é que vai ser"
+    },
+    {
+      "start": 94.08,
+      "end": 94.24,
+      "text": "antes que não"
+    },
+    {
+      "start": 94.24,
+      "end": 96.68,
+      "text": "ela foi"
+    },
+    {
+      "start": 96.68,
+      "end": 97.88,
+      "text": "o ouro"
+    },
+    {
+      "start": 97.88,
+      "end": 100.64,
+      "text": "ela é"
+    },
+    {
+      "start": 100.64,
+      "end": 105.38,
+      "text": "que vai ser"
+    }
+  ],
+  "duracao_seg": 93.65,
+  "idioma_detectado": "pt"
+}

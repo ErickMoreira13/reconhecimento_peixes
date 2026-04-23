@@ -1,0 +1,17 @@
+{
+  "texto": "E aí galera, um bocózinho de linha de tambaqui e no espinhel. Morreu um pouco aqui, mas tudo bem, bocó.",
+  "segmentos": [
+    {
+      "start": 32.85,
+      "end": 49.3,
+      "text": "E aí galera, um bocózinho de linha de tambaqui e no espinhel."
+    },
+    {
+      "start": 51.8,
+      "end": 57.26,
+      "text": "Morreu um pouco aqui, mas tudo bem, bocó."
+    }
+  ],
+  "duracao_seg": 59.83,
+  "idioma_detectado": "pt"
+}

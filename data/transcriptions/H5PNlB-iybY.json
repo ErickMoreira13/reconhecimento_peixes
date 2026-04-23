@@ -1,0 +1,17 @@
+{
+  "texto": "Olha aí, para quem pergunta, para que vir para a Amazônia? Está aqui a resposta, demorou dois dias para pegar ela, mas está aqui, eu vim para cá para isso, monstro.",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 9.97,
+      "text": "Olha aí, para quem pergunta, para que vir para a Amazônia?"
+    },
+    {
+      "start": 10.91,
+      "end": 24.64,
+      "text": "Está aqui a resposta, demorou dois dias para pegar ela, mas está aqui, eu vim para cá para isso, monstro."
+    }
+  ],
+  "duracao_seg": 25.75,
+  "idioma_detectado": "pt"
+}

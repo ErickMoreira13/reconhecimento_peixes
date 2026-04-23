@@ -1,0 +1,17 @@
+{
+  "texto": "Pastor, olha o tamanho desses peixes, nós vem pra cá cedo, estamos pescando, dia que vocês irem, aí tá tudo congeladinho, só pra nós fritar e comer, tá? Olha aí, que maravilha de piau, de matrichão, de lambari, peixe palmito, tudo.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 11.9,
+      "text": "Pastor, olha o tamanho desses peixes, nós vem pra cá cedo, estamos pescando, dia que vocês irem, aí tá tudo congeladinho, só pra nós fritar e comer, tá?"
+    },
+    {
+      "start": 12.46,
+      "end": 20.69,
+      "text": "Olha aí, que maravilha de piau, de matrichão, de lambari, peixe palmito, tudo."
+    }
+  ],
+  "duracao_seg": 21.47,
+  "idioma_detectado": "pt"
+}

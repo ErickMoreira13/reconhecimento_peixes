@@ -1,0 +1,37 @@
+{
+  "texto": "O faca! Fasta-te, não vai sair na fronte! Fasta-te, não vai sair na fronte! Vai! Cuidado, eu te ia na fronte! Vamos ao grupo aí!",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 1.27,
+      "text": "O faca!"
+    },
+    {
+      "start": 1.27,
+      "end": 3.27,
+      "text": "Fasta-te, não vai sair na fronte!"
+    },
+    {
+      "start": 3.27,
+      "end": 5.69,
+      "text": "Fasta-te, não vai sair na fronte!"
+    },
+    {
+      "start": 5.69,
+      "end": 7.14,
+      "text": "Vai!"
+    },
+    {
+      "start": 7.14,
+      "end": 9.14,
+      "text": "Cuidado, eu te ia na fronte!"
+    },
+    {
+      "start": 9.14,
+      "end": 10.14,
+      "text": "Vamos ao grupo aí!"
+    }
+  ],
+  "duracao_seg": 9.95,
+  "idioma_detectado": "pt"
+}

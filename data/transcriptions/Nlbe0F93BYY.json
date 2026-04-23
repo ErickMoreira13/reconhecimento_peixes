@@ -1,0 +1,52 @@
+{
+  "texto": "Mano, de novo, Estela, Matheus, Luísa, Bernardo, olha que beleza! Esse aqui é pra vocês, ó. Jalzão do Rio Pirassu. Aripuanã. Aripuanã, Rio Aripuanã, já tô até confundindo os rios. Eu tô morto de cansado, mas valeu a pena. Que peixe lindo. Galera da diretoria, tá aí, ó. Até a próxima, vamos ver se pega mais um.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.9,
+      "text": "Mano, de novo, Estela, Matheus, Luísa, Bernardo, olha que beleza!"
+    },
+    {
+      "start": 8.64,
+      "end": 10.06,
+      "text": "Esse aqui é pra vocês, ó."
+    },
+    {
+      "start": 10.99,
+      "end": 12.91,
+      "text": "Jalzão do Rio Pirassu."
+    },
+    {
+      "start": 15.11,
+      "end": 15.83,
+      "text": "Aripuanã."
+    },
+    {
+      "start": 16.83,
+      "end": 20.43,
+      "text": "Aripuanã, Rio Aripuanã, já tô até confundindo os rios."
+    },
+    {
+      "start": 22.21,
+      "end": 25.74,
+      "text": "Eu tô morto de cansado, mas valeu a pena."
+    },
+    {
+      "start": 27.11,
+      "end": 28.09,
+      "text": "Que peixe lindo."
+    },
+    {
+      "start": 30.08,
+      "end": 31.94,
+      "text": "Galera da diretoria, tá aí, ó."
+    },
+    {
+      "start": 31.94,
+      "end": 36.69,
+      "text": "Até a próxima, vamos ver se pega mais um."
+    }
+  ],
+  "duracao_seg": 38.33,
+  "idioma_detectado": "pt"
+}
