@@ -1,0 +1,22 @@
+{
+  "texto": "Olha lá, boyaco, olha Uuuh, meu Deus, que cachama tão grande, amigos, que nos acaba de caer Deus, meu Deus",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Olha lá, boyaco, olha"
+    },
+    {
+      "start": 1.14,
+      "end": 6.62,
+      "text": "Uuuh, meu Deus, que cachama tão grande, amigos, que nos acaba de caer"
+    },
+    {
+      "start": 6.62,
+      "end": 8.06,
+      "text": "Deus, meu Deus"
+    }
+  ],
+  "duracao_seg": 10.07,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Frase de um pescador Se você estiver acampado na beira do rio e pegou só pacu CD, volte para casa ou morra engasgado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "Frase de um pescador"
+    },
+    {
+      "start": 1.68,
+      "end": 10.0,
+      "text": "Se você estiver acampado na beira do rio e pegou só pacu CD, volte para casa ou morra engasgado."
+    }
+  ],
+  "duracao_seg": 14.77,
+  "idioma_detectado": "pt"
+}

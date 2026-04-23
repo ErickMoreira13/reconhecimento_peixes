@@ -1,0 +1,17 @@
+{
+  "texto": "e aí você tem que pagar bem que eu subia você quer subir por onde eu vou subir por aqui eu vou subir por aqui",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 29.9,
+      "text": "e aí você tem que pagar bem que eu subia você quer subir por onde eu vou subir por aqui"
+    },
+    {
+      "start": 29.9,
+      "end": 31.96,
+      "text": "eu vou subir por aqui"
+    }
+  ],
+  "duracao_seg": 38.77,
+  "idioma_detectado": "pt"
+}

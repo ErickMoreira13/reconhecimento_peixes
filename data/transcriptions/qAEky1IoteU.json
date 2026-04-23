@@ -1,0 +1,42 @@
+{
+  "texto": "Isso ninguém te conta, para chegar nas lagoas dos Lençóis Maranhense é uma aventura e tanto. Tem uma balsa sobre o rio Preguiça que é bem tranquila, mas o percurso de jardineira pode demorar horas e balança bastante. Sobre as dunas é uma aventura. Alguns passeios tem trilhas, sempre com guias, pois há uma facilidade muito grande de se perder. E na hora de subir os paredões de areia, confesso que não é fácil, tem que ter pré para o físico, mas a gente se diverte bastante e a gente vai deixando pegadas na areia e se divertindo. Mas na vida também é assim, para alcançar lugares lindos exige esforço, então curte o caminho, porque vale a pena. Os Lençóis Maranhense nos encantou, um lugar único e incrível. Compartilha com quem vai nessa aventura com você.",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 5.42,
+      "text": "Isso ninguém te conta, para chegar nas lagoas dos Lençóis Maranhense é uma aventura e tanto."
+    },
+    {
+      "start": 5.7,
+      "end": 12.74,
+      "text": "Tem uma balsa sobre o rio Preguiça que é bem tranquila, mas o percurso de jardineira pode demorar horas e balança bastante."
+    },
+    {
+      "start": 13.3,
+      "end": 22.9,
+      "text": "Sobre as dunas é uma aventura. Alguns passeios tem trilhas, sempre com guias, pois há uma facilidade muito grande de se perder."
+    },
+    {
+      "start": 22.9,
+      "end": 35.08,
+      "text": "E na hora de subir os paredões de areia, confesso que não é fácil, tem que ter pré para o físico, mas a gente se diverte bastante e a gente vai deixando pegadas na areia e se divertindo."
+    },
+    {
+      "start": 35.64,
+      "end": 45.12,
+      "text": "Mas na vida também é assim, para alcançar lugares lindos exige esforço, então curte o caminho, porque vale a pena."
+    },
+    {
+      "start": 45.36,
+      "end": 51.04,
+      "text": "Os Lençóis Maranhense nos encantou, um lugar único e incrível."
+    },
+    {
+      "start": 51.04,
+      "end": 55.0,
+      "text": "Compartilha com quem vai nessa aventura com você."
+    }
+  ],
+  "duracao_seg": 56.91,
+  "idioma_detectado": "pt"
+}

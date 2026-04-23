@@ -1,0 +1,62 @@
+{
+  "texto": "5 coisas que você precisa saber sobre os lençóis maranhenses. Primeiro, a melhor época para visitar o parque é entre julho e setembro, quando as lagoas estão mais cheias e chove menos. Dá para ir em outra época também, mas você corre o risco de pegar a maioria das lagoas mais famosas vazias. Dois, o parque tem mais de 36 mil lagoas e você pode acessar por 3 cidades, Santo Amaro, Barreirinhas e Etins. Três, a areia das dunas não é quente, dá para andar descalço tranquilamente porque venta muito. Quatro, não é permitido carro que não é credenciado dentro do parque, então você precisa contratar uma agência para fazer os passeios. Eu fiz os meus passeios com arco-íris turismo e indico demais. Cinco, a água das lagoas é doce, é água da chuva e tem até peixinhos.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 3.2,
+      "text": "5 coisas que você precisa saber sobre os lençóis maranhenses."
+    },
+    {
+      "start": 3.4,
+      "end": 6.96,
+      "text": "Primeiro, a melhor época para visitar o parque é entre julho e setembro,"
+    },
+    {
+      "start": 7.24,
+      "end": 9.32,
+      "text": "quando as lagoas estão mais cheias e chove menos."
+    },
+    {
+      "start": 9.72,
+      "end": 15.24,
+      "text": "Dá para ir em outra época também, mas você corre o risco de pegar a maioria das lagoas mais famosas vazias."
+    },
+    {
+      "start": 15.86,
+      "end": 20.32,
+      "text": "Dois, o parque tem mais de 36 mil lagoas e você pode acessar por 3 cidades,"
+    },
+    {
+      "start": 20.72,
+      "end": 22.64,
+      "text": "Santo Amaro, Barreirinhas e Etins."
+    },
+    {
+      "start": 23.2,
+      "end": 28.24,
+      "text": "Três, a areia das dunas não é quente, dá para andar descalço tranquilamente porque venta muito."
+    },
+    {
+      "start": 28.24,
+      "end": 32.48,
+      "text": "Quatro, não é permitido carro que não é credenciado dentro do parque,"
+    },
+    {
+      "start": 32.82,
+      "end": 36.02,
+      "text": "então você precisa contratar uma agência para fazer os passeios."
+    },
+    {
+      "start": 36.42,
+      "end": 39.82,
+      "text": "Eu fiz os meus passeios com arco-íris turismo e indico demais."
+    },
+    {
+      "start": 40.34,
+      "end": 44.48,
+      "text": "Cinco, a água das lagoas é doce, é água da chuva e tem até peixinhos."
+    }
+  ],
+  "duracao_seg": 44.81,
+  "idioma_detectado": "pt"
+}

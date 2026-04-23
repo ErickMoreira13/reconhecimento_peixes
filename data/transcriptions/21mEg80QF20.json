@@ -1,0 +1,22 @@
+{
+  "texto": "Rapaziada do Fly, hoje estou fazendo uma pescaria de tirar o fôlego do vadeio de 28 quilômetros em busca da Piracutinga do Sul, um peixe que vai desafiar qualquer mosqueiro brasileiro.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": "Rapaziada do Fly, hoje estou fazendo uma pescaria de tirar o fôlego do vadeio de 28"
+    },
+    {
+      "start": 6.6,
+      "end": 13.38,
+      "text": "quilômetros em busca da Piracutinga do Sul, um peixe que vai desafiar qualquer"
+    },
+    {
+      "start": 13.38,
+      "end": 14.46,
+      "text": "mosqueiro brasileiro."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

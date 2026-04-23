@@ -1,0 +1,32 @@
+{
+  "texto": "rapaz, que parada é essa, que show da xuxa é esse, olha o tamanho do gato, rapaz, acarando companheira, olha aí, é, confesso que se fosse eu que estivesse aí com essa cara de macho, rapaz, mijava nas caixas, dentro de casa, olha aí, essa aí é a famosa onça pintada, moçada, é, de vez em quando eu ando de bicicleta por aí, eu fico pensando, se eu ver uma onça no caminho, eu vou correr dela, ou vou, uau, uau, o que que é, hein, deixa aí na descrição, cara, eu vou dizer uma coisa pra vocês, eu já dormi muito em rede, já vi um colega meu dormindo em cama, em rede, na beira do rio, mas, um dia é o dia da caça, outro dia é o dia do caçador, mas eu sempre digo, a onça vem a gente, a gente não vê ela, a gente passa a perna cobra, a cobra não sai correndo atrás da gente, só se for ameaçada, olha o tamanho do gato, uau, ai, ai, ai, se fosse eu ia beijar nas calças aí agora, ai, ai, ai, se fosse eu ia beijar nas calças aí agora,",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 29.23,
+      "text": "rapaz, que parada é essa, que show da xuxa é esse, olha o tamanho do gato, rapaz, acarando companheira, olha aí, é, confesso que se fosse eu que estivesse aí com essa cara de macho, rapaz, mijava nas caixas, dentro de casa,"
+    },
+    {
+      "start": 29.23,
+      "end": 55.41,
+      "text": "olha aí, essa aí é a famosa onça pintada, moçada, é, de vez em quando eu ando de bicicleta por aí, eu fico pensando, se eu ver uma onça no caminho, eu vou correr dela, ou vou, uau, uau, o que que é, hein, deixa aí na descrição, cara, eu vou dizer uma coisa pra vocês,"
+    },
+    {
+      "start": 55.41,
+      "end": 76.41,
+      "text": "eu já dormi muito em rede, já vi um colega meu dormindo em cama, em rede, na beira do rio, mas, um dia é o dia da caça, outro dia é o dia do caçador, mas eu sempre digo, a onça vem a gente, a gente não vê ela, a gente passa a perna cobra, a cobra não sai correndo atrás da gente, só se for ameaçada, olha o tamanho do gato, uau,"
+    },
+    {
+      "start": 76.41,
+      "end": 87.03,
+      "text": "ai, ai, ai, se fosse eu ia beijar nas calças aí agora,"
+    },
+    {
+      "start": 87.03,
+      "end": 87.05,
+      "text": "ai, ai, ai, se fosse eu ia beijar nas calças aí agora,"
+    }
+  ],
+  "duracao_seg": 90.55,
+  "idioma_detectado": "pt"
+}

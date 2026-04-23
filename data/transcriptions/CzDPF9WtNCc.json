@@ -1,0 +1,32 @@
+{
+  "texto": "Tá ficando bem ruim, Lugu. Ô, Lugu, papel apoiado é ruim. Tá bem ruim. Hum, tronco. Hum!",
+  "segmentos": [
+    {
+      "start": 5.74,
+      "end": 7.04,
+      "text": "Tá ficando bem ruim, Lugu."
+    },
+    {
+      "start": 7.28,
+      "end": 8.86,
+      "text": "Ô, Lugu, papel apoiado é ruim."
+    },
+    {
+      "start": 9.3,
+      "end": 10.12,
+      "text": "Tá bem ruim."
+    },
+    {
+      "start": 11.28,
+      "end": 12.04,
+      "text": "Hum, tronco."
+    },
+    {
+      "start": 17.12,
+      "end": 17.44,
+      "text": "Hum!"
+    }
+  ],
+  "duracao_seg": 17.97,
+  "idioma_detectado": "pt"
+}

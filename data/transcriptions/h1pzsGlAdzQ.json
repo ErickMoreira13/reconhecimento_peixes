@@ -1,0 +1,27 @@
+{
+  "texto": "Para, amor. Carro? Fecha o vídeo. Olha isso, velho. Caramba.",
+  "segmentos": [
+    {
+      "start": 0.82,
+      "end": 2.26,
+      "text": "Para, amor. Carro?"
+    },
+    {
+      "start": 3.08,
+      "end": 3.8,
+      "text": "Fecha o vídeo."
+    },
+    {
+      "start": 6.87,
+      "end": 8.83,
+      "text": "Olha isso, velho."
+    },
+    {
+      "start": 10.78,
+      "end": 11.46,
+      "text": "Caramba."
+    }
+  ],
+  "duracao_seg": 12.63,
+  "idioma_detectado": "pt"
+}

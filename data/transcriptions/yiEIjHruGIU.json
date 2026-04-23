@@ -1,0 +1,22 @@
+{
+  "texto": "Esse cara estava fazendo um vlog quando um filhote de lontra veio para dar um oi. As lontras estão em extinção, então é proibido tocar em um filhote. No começo ele conseguiu segurar a vontade, mas é impossível resistir a essa fofura.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Esse cara estava fazendo um vlog quando um filhote de lontra veio para dar um oi."
+    },
+    {
+      "start": 5.08,
+      "end": 9.48,
+      "text": "As lontras estão em extinção, então é proibido tocar em um filhote."
+    },
+    {
+      "start": 9.66,
+      "end": 15.04,
+      "text": "No começo ele conseguiu segurar a vontade, mas é impossível resistir a essa fofura."
+    }
+  ],
+  "duracao_seg": 15.21,
+  "idioma_detectado": "pt"
+}

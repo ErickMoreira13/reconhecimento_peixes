@@ -1,0 +1,32 @@
+{
+  "texto": "E água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua Meu rancho fica na beira de cá escuto bater Daqui da porta do rancho eu vejo a galha tremer Pescador que está mansinho já na selva pra esperar",
+  "segmentos": [
+    {
+      "start": 10.06,
+      "end": 13.84,
+      "text": "E água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 13.84,
+      "end": 18.62,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 18.62,
+      "end": 24.08,
+      "text": "Meu rancho fica na beira de cá escuto bater"
+    },
+    {
+      "start": 24.08,
+      "end": 29.6,
+      "text": "Daqui da porta do rancho eu vejo a galha tremer"
+    },
+    {
+      "start": 29.6,
+      "end": 49.72,
+      "text": "Pescador que está mansinho já na selva pra esperar"
+    }
+  ],
+  "duracao_seg": 49.95,
+  "idioma_detectado": "pt"
+}

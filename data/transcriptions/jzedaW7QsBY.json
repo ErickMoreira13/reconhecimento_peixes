@@ -1,0 +1,22 @@
+{
+  "texto": "Por essa ninguém esperava, imagina você está caminhando e do nada você escuta um som, olha para o lado e se depara nada mais, nada menos com uma onça parda. Cara, e agora? Se correr o bicho pega, se ficar o bicho come. É como dizem, se você viu a onça é porque ela já te viu há muito tempo.",
+  "segmentos": [
+    {
+      "start": 0.37,
+      "end": 15.75,
+      "text": "Por essa ninguém esperava, imagina você está caminhando e do nada você escuta um som, olha para o lado e se depara nada mais, nada menos com uma onça parda."
+    },
+    {
+      "start": 16.75,
+      "end": 24.65,
+      "text": "Cara, e agora? Se correr o bicho pega, se ficar o bicho come."
+    },
+    {
+      "start": 25.82,
+      "end": 29.78,
+      "text": "É como dizem, se você viu a onça é porque ela já te viu há muito tempo."
+    }
+  ],
+  "duracao_seg": 31.23,
+  "idioma_detectado": "pt"
+}

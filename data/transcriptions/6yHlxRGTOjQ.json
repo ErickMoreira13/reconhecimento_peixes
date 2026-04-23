@@ -1,0 +1,42 @@
+{
+  "texto": "que gracinha deixa eu ver, deixa eu ver deixa eu mostrar aqui que belezinha é bravo ai bichinho nossa é novinho",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "que gracinha"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "deixa eu ver, deixa eu ver"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "deixa eu mostrar aqui"
+    },
+    {
+      "start": 6.0,
+      "end": 10.11,
+      "text": "que belezinha"
+    },
+    {
+      "start": 10.11,
+      "end": 12.11,
+      "text": "é bravo"
+    },
+    {
+      "start": 12.11,
+      "end": 14.11,
+      "text": "ai bichinho"
+    },
+    {
+      "start": 14.11,
+      "end": 16.11,
+      "text": "nossa é novinho"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

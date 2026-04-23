@@ -1,0 +1,32 @@
+{
+  "texto": "Eu sei que pode parecer loucura Até me ver assim na aventura E te falar da fumo que teu sorriso traz E que medo em ouvir tua voz Eu penso em nós",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 3.08,
+      "text": "Eu sei que pode parecer loucura"
+    },
+    {
+      "start": 3.08,
+      "end": 6.01,
+      "text": "Até me ver assim na aventura"
+    },
+    {
+      "start": 6.01,
+      "end": 9.68,
+      "text": "E te falar da fumo que teu sorriso traz"
+    },
+    {
+      "start": 9.68,
+      "end": 11.9,
+      "text": "E que medo em ouvir tua voz"
+    },
+    {
+      "start": 11.9,
+      "end": 13.02,
+      "text": "Eu penso em nós"
+    }
+  ],
+  "duracao_seg": 30.81,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Fiz um rancho de barrote, amarrei com cipó e gambinha Fiz na beira da lagoa, só para pescar",
+  "segmentos": [
+    {
+      "start": 17.14,
+      "end": 25.9,
+      "text": "Fiz um rancho de barrote, amarrei com cipó e gambinha"
+    },
+    {
+      "start": 25.9,
+      "end": 30.09,
+      "text": "Fiz na beira da lagoa, só para pescar"
+    }
+  ],
+  "duracao_seg": 59.99,
+  "idioma_detectado": "pt"
+}

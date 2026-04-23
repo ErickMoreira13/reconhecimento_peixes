@@ -1,0 +1,62 @@
+{
+  "texto": "Dá pra acreditar nisso aqui? Na época das cheias, os lençóis ficam com 36 mil lagoas. Durante a travessia, a gente pega vários tipos de areia, inclusive essa aqui que parece movediça. A gente afunda a perna e é difícil de sair. A área dos lençóis maranhenses é de 1.550 quilômetros quadrados. Isso equivale simplesmente à área de São Paulo, capital. Existem vários cemitérios de árvores que são formados pela areia que avança 6 metros todos os anos. As ruas são móveis por conta do vento, então seus formatos e tamanhos mudam o tempo todo. O lençol freático daqui é enorme, mas extremamente superficial. Se a gente cavar de 3 a 4 metros, a gente já encontra água potável. Incrível demais, né?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "Dá pra acreditar nisso aqui?"
+    },
+    {
+      "start": 1.68,
+      "end": 5.68,
+      "text": "Na época das cheias, os lençóis ficam com 36 mil lagoas."
+    },
+    {
+      "start": 6.46,
+      "end": 10.14,
+      "text": "Durante a travessia, a gente pega vários tipos de areia, inclusive essa aqui que parece movediça."
+    },
+    {
+      "start": 10.22,
+      "end": 11.98,
+      "text": "A gente afunda a perna e é difícil de sair."
+    },
+    {
+      "start": 12.78,
+      "end": 16.56,
+      "text": "A área dos lençóis maranhenses é de 1.550 quilômetros quadrados."
+    },
+    {
+      "start": 17.06,
+      "end": 20.0,
+      "text": "Isso equivale simplesmente à área de São Paulo, capital."
+    },
+    {
+      "start": 20.98,
+      "end": 26.08,
+      "text": "Existem vários cemitérios de árvores que são formados pela areia que avança 6 metros todos os anos."
+    },
+    {
+      "start": 26.08,
+      "end": 31.12,
+      "text": "As ruas são móveis por conta do vento, então seus formatos e tamanhos mudam o tempo todo."
+    },
+    {
+      "start": 31.74,
+      "end": 35.56,
+      "text": "O lençol freático daqui é enorme, mas extremamente superficial."
+    },
+    {
+      "start": 36.18,
+      "end": 39.08,
+      "text": "Se a gente cavar de 3 a 4 metros, a gente já encontra água potável."
+    },
+    {
+      "start": 39.9,
+      "end": 40.94,
+      "text": "Incrível demais, né?"
+    }
+  ],
+  "duracao_seg": 43.73,
+  "idioma_detectado": "pt"
+}

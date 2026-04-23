@@ -1,0 +1,17 @@
+{
+  "texto": "Vem que a gente tá ligado A rocha",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "Vem que a gente tá ligado"
+    },
+    {
+      "start": 0.96,
+      "end": 2.77,
+      "text": "A rocha"
+    }
+  ],
+  "duracao_seg": 17.17,
+  "idioma_detectado": "pt"
+}

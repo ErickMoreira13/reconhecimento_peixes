@@ -1,0 +1,17 @@
+{
+  "texto": "Me perguntaram, responde com alegria Das coisas que eu mais gosto",
+  "segmentos": [
+    {
+      "start": 16.98,
+      "end": 21.22,
+      "text": "Me perguntaram, responde com alegria"
+    },
+    {
+      "start": 21.22,
+      "end": 23.68,
+      "text": "Das coisas que eu mais gosto"
+    }
+  ],
+  "duracao_seg": 23.69,
+  "idioma_detectado": "pt"
+}
