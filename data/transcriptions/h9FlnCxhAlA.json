@@ -1,0 +1,22 @@
+{
+  "texto": "meu Deus, foi isso aqui, isso aqui são carabicudos né Cidigoso, carabicudos são três carabicudos agora o compadidia vai dar uma consertadadinha para não raçar já já, não compadidia, olha lá, é coragem, não cachorro, corajoso é isso aí",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 87.42,
+      "text": "meu Deus, foi isso aqui, isso aqui são carabicudos né Cidigoso, carabicudos são três carabicudos"
+    },
+    {
+      "start": 87.42,
+      "end": 103.69,
+      "text": "agora o compadidia vai dar uma consertadadinha para não raçar já já, não compadidia, olha lá, é coragem, não cachorro, corajoso"
+    },
+    {
+      "start": 105.7,
+      "end": 106.94,
+      "text": "é isso aí"
+    }
+  ],
+  "duracao_seg": 127.87,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Eeeh, só o início viu? Ó, aqui ó, maravilha, isso é só o início.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Eeeh, só o início viu?"
+    },
+    {
+      "start": 4.62,
+      "end": 14.47,
+      "text": "Ó, aqui ó, maravilha, isso é só o início."
+    }
+  ],
+  "duracao_seg": 22.57,
+  "idioma_detectado": "pt"
+}

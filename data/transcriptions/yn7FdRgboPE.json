@@ -1,0 +1,37 @@
+{
+  "texto": "Coisa mais linda aí, o rio, o rio Paraguaçu. Glória a Deus. Tudo que Deus faz é lindo. Toda a natureza, toda a criação do Senhor. Rio Paraguaçu. Coisa mais linda. Glória a Jesus.",
+  "segmentos": [
+    {
+      "start": 1.1,
+      "end": 4.48,
+      "text": "Coisa mais linda aí, o rio, o rio Paraguaçu."
+    },
+    {
+      "start": 5.9,
+      "end": 6.98,
+      "text": "Glória a Deus."
+    },
+    {
+      "start": 7.48,
+      "end": 9.04,
+      "text": "Tudo que Deus faz é lindo."
+    },
+    {
+      "start": 9.68,
+      "end": 11.9,
+      "text": "Toda a natureza, toda a criação do Senhor."
+    },
+    {
+      "start": 14.12,
+      "end": 15.52,
+      "text": "Rio Paraguaçu."
+    },
+    {
+      "start": 17.2,
+      "end": 19.3,
+      "text": "Coisa mais linda. Glória a Jesus."
+    }
+  ],
+  "duracao_seg": 23.97,
+  "idioma_detectado": "pt"
+}

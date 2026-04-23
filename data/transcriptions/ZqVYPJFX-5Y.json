@@ -1,0 +1,747 @@
+{
+  "texto": "Isso aqui não funciona, isso aqui não funciona, você tem que chegar, limpar aquela canoa, arrumar tudo certinho, botar tudo que vai levar, a frigideira, o óleozinho, a linguiça, entendeu? Pegar o pão, arrumar direitinho, agora vocês querem tudo na bagunça. E aí nós vamos sair em que horas? Depois que a gente... A hora que a gente acordar, até a gente... E mantinha e de saída. Ah, 10 horas... É, 10 horas tá bom, 10 horas tá bom. Às 8 horas todo mundo acorda, pô. Você? Que isso, não acorda não. É não? Não, não. Tudo bem tirado, pô. Tá bizarro. Olha o Abaix aqui. Iluminando o acampamento. Olha lá. Olha o nego lá. Olha o nego lá. Aí eu tô aqui, ó. Minhas varas aqui. Minhas traias aqui, ó. Isca. Caralho aqui, ó. Pássaro, beijosa. O radinho ali. Agora ele saiu fora da... Mostra as luzes. Fora da sintonia meu presidente. As luzes que a gente montou lá. É, as lâmpadas aqui, ó. Olha aí, ó. Estamos aqui embaixo, na beira do rio, ó. Ó. Ai, botamos... Iluminamos aí, ó. Tudo, ó. Olha lá. Ah. Estamos aqui, ó. Na casa da Zilete. No Rio Preto. O Dedé já pegou cem? Pegou cem. Cem dedada no toba dele que ele pegou. Cem dedada no toba que ele pegou. Alô, Cabral. Chega amanhã aí, Cabral. Vem pra cá. Alô, mano. Bundão. Vem cá, velho. Bundudo. Olha a moça do Cabral, ué. Olha a moça do Cabral, ué. Cabral e o Renato. Vimos na casa do Renato. Olha aí. Olha aí, olha aí, olha aí. Olha aí, bebete. Olha aqui pra mim, meu amor. Olha aí, olha aí. Olha o rio lá. Olha o Maurício aí. Só de corulha. Olha o que que ele tá agarrado. Que hora que é agora? Seis horas da manhã. Seis horas da manhã. Cinco e quinze. Cinco e quinze. Cinco e quinze. Aí nós estamos aqui. Nesse local ao qual vocês não estão e nós estamos. Um abraço pra vocês. Um beijo. Manda um abraço, nego. Tchau. Chama todo mundo pra vir pra cá. Não. Você não é cor de vagabundo, não. Olha o Herbert, querendo pegar um peixe aqui. E o... E o... E o... E o nego. Cadê o peixe? Vem aqui, ó. Se botar a lanterna. Rapaz, o tamanhozão. Rapaz, é um... Que peixe é esse? É o Jaú. É o Jaú. É o Paraquês. É o peixe elétrico. Sai da canoa. Ele vai te dar um choque. Ele vai pegar na canoa e vai te dar um choque, rapaz. Puxa pra cá, moço. Ai, ele não vai dar choque. Eu só conheci por foto, por vídeo. Dá para aqui. Ixi, piada que não dá pra meu vídeo. É o Paraquê, rapaz. Aí, soltou, soltou. Beleza. Olha, velho. Meu bicho. Ele é mogo. Ele é mogo. Ele é mogo. Ei, André. Ei, nego. Ele é o que, nego? Mongo. Ele vai pegar o paraquês e dar um choque, o nego, velho. Olha aqui, ó. Quem não tem 120 N1, hoje está tendo, ó. Lavando as coisas, ó. Ó. Amaury. O rio lá, ó. Lindo. Aqui nós estamos fazendo nosso bifinho. Arrozinho, beleza. Acebolado. Acebolado. E vocês, bandiotários. Olha lá o rio, ó. Vamos para lá agora. Mostrar o carro aqui para vocês, como é que chegou bem pra caralho. Olha aqui, ó. O garotão da pescareia. O cara. Lá, 4x4. Quase não chega. Olha os passarinhos lá, ó. O bêbado aqui. Aí, ó. Tá vendo? Tá vendo? Tá vendo? Tá vendo? Tá vendo?",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 11.9,
+      "text": "Isso aqui não funciona, isso aqui não funciona, você tem que chegar, limpar aquela canoa,"
+    },
+    {
+      "start": 11.9,
+      "end": 19.85,
+      "text": "arrumar tudo certinho, botar tudo que vai levar, a frigideira, o óleozinho, a linguiça,"
+    },
+    {
+      "start": 19.85,
+      "end": 20.85,
+      "text": "entendeu?"
+    },
+    {
+      "start": 20.85,
+      "end": 24.85,
+      "text": "Pegar o pão, arrumar direitinho, agora vocês querem tudo na bagunça."
+    },
+    {
+      "start": 24.85,
+      "end": 27.85,
+      "text": "E aí nós vamos sair em que horas?"
+    },
+    {
+      "start": 27.85,
+      "end": 29.85,
+      "text": "Depois que a gente..."
+    },
+    {
+      "start": 29.85,
+      "end": 32.85,
+      "text": "A hora que a gente acordar, até a gente..."
+    },
+    {
+      "start": 32.85,
+      "end": 33.85,
+      "text": "E mantinha e de saída."
+    },
+    {
+      "start": 33.85,
+      "end": 36.36,
+      "text": "Ah, 10 horas..."
+    },
+    {
+      "start": 36.36,
+      "end": 39.36,
+      "text": "É, 10 horas tá bom, 10 horas tá bom."
+    },
+    {
+      "start": 39.36,
+      "end": 41.36,
+      "text": "Às 8 horas todo mundo acorda, pô."
+    },
+    {
+      "start": 41.36,
+      "end": 42.36,
+      "text": "Você?"
+    },
+    {
+      "start": 42.36,
+      "end": 45.62,
+      "text": "Que isso, não acorda não."
+    },
+    {
+      "start": 45.62,
+      "end": 46.62,
+      "text": "É não?"
+    },
+    {
+      "start": 46.62,
+      "end": 48.74,
+      "text": "Não, não."
+    },
+    {
+      "start": 48.74,
+      "end": 50.74,
+      "text": "Tudo bem tirado, pô."
+    },
+    {
+      "start": 50.74,
+      "end": 52.74,
+      "text": "Tá bizarro."
+    },
+    {
+      "start": 52.74,
+      "end": 55.78,
+      "text": "Olha o Abaix aqui."
+    },
+    {
+      "start": 55.78,
+      "end": 57.78,
+      "text": "Iluminando o acampamento."
+    },
+    {
+      "start": 57.78,
+      "end": 58.78,
+      "text": "Olha lá."
+    },
+    {
+      "start": 58.78,
+      "end": 61.06,
+      "text": "Olha o nego lá."
+    },
+    {
+      "start": 61.06,
+      "end": 62.06,
+      "text": "Olha o nego lá."
+    },
+    {
+      "start": 62.06,
+      "end": 63.06,
+      "text": "Aí eu tô aqui, ó."
+    },
+    {
+      "start": 63.06,
+      "end": 64.06,
+      "text": "Minhas varas aqui."
+    },
+    {
+      "start": 64.06,
+      "end": 66.06,
+      "text": "Minhas traias aqui, ó."
+    },
+    {
+      "start": 66.06,
+      "end": 67.06,
+      "text": "Isca."
+    },
+    {
+      "start": 67.06,
+      "end": 69.06,
+      "text": "Caralho aqui, ó."
+    },
+    {
+      "start": 69.06,
+      "end": 71.06,
+      "text": "Pássaro, beijosa."
+    },
+    {
+      "start": 71.06,
+      "end": 72.06,
+      "text": "O radinho ali."
+    },
+    {
+      "start": 72.06,
+      "end": 74.06,
+      "text": "Agora ele saiu fora da..."
+    },
+    {
+      "start": 74.06,
+      "end": 75.06,
+      "text": "Mostra as luzes."
+    },
+    {
+      "start": 75.06,
+      "end": 77.06,
+      "text": "Fora da sintonia meu presidente."
+    },
+    {
+      "start": 77.06,
+      "end": 78.06,
+      "text": "As luzes que a gente montou lá."
+    },
+    {
+      "start": 78.06,
+      "end": 80.06,
+      "text": "É, as lâmpadas aqui, ó."
+    },
+    {
+      "start": 80.06,
+      "end": 81.06,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 81.06,
+      "end": 82.06,
+      "text": "Estamos aqui embaixo, na beira do rio, ó."
+    },
+    {
+      "start": 82.06,
+      "end": 83.06,
+      "text": "Ó."
+    },
+    {
+      "start": 83.06,
+      "end": 84.06,
+      "text": "Ai, botamos..."
+    },
+    {
+      "start": 84.06,
+      "end": 85.06,
+      "text": "Iluminamos aí, ó."
+    },
+    {
+      "start": 85.06,
+      "end": 86.06,
+      "text": "Tudo, ó."
+    },
+    {
+      "start": 86.06,
+      "end": 87.06,
+      "text": "Olha lá."
+    },
+    {
+      "start": 87.06,
+      "end": 88.06,
+      "text": "Ah."
+    },
+    {
+      "start": 88.06,
+      "end": 89.06,
+      "text": "Estamos aqui, ó."
+    },
+    {
+      "start": 89.06,
+      "end": 91.06,
+      "text": "Na casa da Zilete."
+    },
+    {
+      "start": 91.06,
+      "end": 92.06,
+      "text": "No Rio Preto."
+    },
+    {
+      "start": 92.06,
+      "end": 94.06,
+      "text": "O Dedé já pegou cem?"
+    },
+    {
+      "start": 94.06,
+      "end": 95.06,
+      "text": "Pegou cem."
+    },
+    {
+      "start": 95.06,
+      "end": 98.06,
+      "text": "Cem dedada no toba dele que ele pegou."
+    },
+    {
+      "start": 99.06,
+      "end": 102.06,
+      "text": "Cem dedada no toba que ele pegou."
+    },
+    {
+      "start": 102.06,
+      "end": 103.06,
+      "text": "Alô, Cabral."
+    },
+    {
+      "start": 103.06,
+      "end": 104.06,
+      "text": "Chega amanhã aí, Cabral."
+    },
+    {
+      "start": 104.06,
+      "end": 105.06,
+      "text": "Vem pra cá."
+    },
+    {
+      "start": 105.06,
+      "end": 106.06,
+      "text": "Alô, mano."
+    },
+    {
+      "start": 106.06,
+      "end": 107.06,
+      "text": "Bundão."
+    },
+    {
+      "start": 107.06,
+      "end": 110.06,
+      "text": "Vem cá, velho."
+    },
+    {
+      "start": 110.06,
+      "end": 111.06,
+      "text": "Bundudo."
+    },
+    {
+      "start": 113.06,
+      "end": 114.06,
+      "text": "Olha a moça do Cabral, ué."
+    },
+    {
+      "start": 114.06,
+      "end": 115.06,
+      "text": "Olha a moça do Cabral, ué."
+    },
+    {
+      "start": 115.06,
+      "end": 117.06,
+      "text": "Cabral e o Renato."
+    },
+    {
+      "start": 117.06,
+      "end": 119.06,
+      "text": "Vimos na casa do Renato."
+    },
+    {
+      "start": 127.3,
+      "end": 128.3,
+      "text": "Olha aí."
+    },
+    {
+      "start": 128.3,
+      "end": 129.3,
+      "text": "Olha aí, olha aí, olha aí."
+    },
+    {
+      "start": 129.3,
+      "end": 130.3,
+      "text": "Olha aí, bebete."
+    },
+    {
+      "start": 130.3,
+      "end": 133.34,
+      "text": "Olha aqui pra mim, meu amor."
+    },
+    {
+      "start": 133.34,
+      "end": 135.39,
+      "text": "Olha aí, olha aí."
+    },
+    {
+      "start": 135.39,
+      "end": 136.39,
+      "text": "Olha o rio lá."
+    },
+    {
+      "start": 136.39,
+      "end": 137.39,
+      "text": "Olha o Maurício aí."
+    },
+    {
+      "start": 137.39,
+      "end": 139.39,
+      "text": "Só de corulha."
+    },
+    {
+      "start": 139.39,
+      "end": 140.39,
+      "text": "Olha o que que ele tá agarrado."
+    },
+    {
+      "start": 140.39,
+      "end": 141.39,
+      "text": "Que hora que é agora?"
+    },
+    {
+      "start": 141.39,
+      "end": 142.39,
+      "text": "Seis horas da manhã."
+    },
+    {
+      "start": 142.39,
+      "end": 144.45,
+      "text": "Seis horas da manhã."
+    },
+    {
+      "start": 144.45,
+      "end": 145.45,
+      "text": "Cinco e quinze."
+    },
+    {
+      "start": 145.45,
+      "end": 146.45,
+      "text": "Cinco e quinze."
+    },
+    {
+      "start": 146.45,
+      "end": 147.45,
+      "text": "Cinco e quinze."
+    },
+    {
+      "start": 147.45,
+      "end": 151.47,
+      "text": "Aí nós estamos aqui."
+    },
+    {
+      "start": 151.47,
+      "end": 155.47,
+      "text": "Nesse local ao qual vocês não estão e nós estamos."
+    },
+    {
+      "start": 155.47,
+      "end": 156.47,
+      "text": "Um abraço pra vocês."
+    },
+    {
+      "start": 156.47,
+      "end": 157.47,
+      "text": "Um beijo."
+    },
+    {
+      "start": 157.47,
+      "end": 158.47,
+      "text": "Manda um abraço, nego."
+    },
+    {
+      "start": 158.47,
+      "end": 159.47,
+      "text": "Tchau."
+    },
+    {
+      "start": 159.47,
+      "end": 162.7,
+      "text": "Chama todo mundo pra vir pra cá."
+    },
+    {
+      "start": 162.7,
+      "end": 163.7,
+      "text": "Não."
+    },
+    {
+      "start": 163.7,
+      "end": 165.7,
+      "text": "Você não é cor de vagabundo, não."
+    },
+    {
+      "start": 165.7,
+      "end": 169.66,
+      "text": "Olha o Herbert, querendo pegar um peixe aqui."
+    },
+    {
+      "start": 169.66,
+      "end": 170.66,
+      "text": "E o..."
+    },
+    {
+      "start": 170.66,
+      "end": 171.66,
+      "text": "E o..."
+    },
+    {
+      "start": 171.66,
+      "end": 172.82,
+      "text": "E o..."
+    },
+    {
+      "start": 172.82,
+      "end": 173.82,
+      "text": "E o nego."
+    },
+    {
+      "start": 173.82,
+      "end": 175.01,
+      "text": "Cadê o peixe?"
+    },
+    {
+      "start": 175.01,
+      "end": 177.1,
+      "text": "Vem aqui, ó."
+    },
+    {
+      "start": 177.1,
+      "end": 178.1,
+      "text": "Se botar a lanterna."
+    },
+    {
+      "start": 178.1,
+      "end": 179.1,
+      "text": "Rapaz, o tamanhozão."
+    },
+    {
+      "start": 179.1,
+      "end": 180.1,
+      "text": "Rapaz, é um..."
+    },
+    {
+      "start": 180.1,
+      "end": 181.1,
+      "text": "Que peixe é esse?"
+    },
+    {
+      "start": 181.1,
+      "end": 182.1,
+      "text": "É o Jaú."
+    },
+    {
+      "start": 182.1,
+      "end": 183.1,
+      "text": "É o Jaú."
+    },
+    {
+      "start": 183.1,
+      "end": 184.1,
+      "text": "É o Paraquês."
+    },
+    {
+      "start": 184.1,
+      "end": 186.1,
+      "text": "É o peixe elétrico."
+    },
+    {
+      "start": 186.1,
+      "end": 187.1,
+      "text": "Sai da canoa."
+    },
+    {
+      "start": 187.1,
+      "end": 188.1,
+      "text": "Ele vai te dar um choque."
+    },
+    {
+      "start": 188.1,
+      "end": 191.1,
+      "text": "Ele vai pegar na canoa e vai te dar um choque, rapaz."
+    },
+    {
+      "start": 191.1,
+      "end": 193.1,
+      "text": "Puxa pra cá, moço."
+    },
+    {
+      "start": 193.1,
+      "end": 196.1,
+      "text": "Ai, ele não vai dar choque."
+    },
+    {
+      "start": 196.1,
+      "end": 199.1,
+      "text": "Eu só conheci por foto, por vídeo."
+    },
+    {
+      "start": 199.1,
+      "end": 200.1,
+      "text": "Dá para aqui."
+    },
+    {
+      "start": 200.1,
+      "end": 203.09,
+      "text": "Ixi, piada que não dá pra meu vídeo."
+    },
+    {
+      "start": 203.09,
+      "end": 207.09,
+      "text": "É o Paraquê, rapaz."
+    },
+    {
+      "start": 207.09,
+      "end": 209.09,
+      "text": "Aí, soltou, soltou."
+    },
+    {
+      "start": 209.09,
+      "end": 210.09,
+      "text": "Beleza."
+    },
+    {
+      "start": 210.09,
+      "end": 211.09,
+      "text": "Olha, velho."
+    },
+    {
+      "start": 211.09,
+      "end": 213.09,
+      "text": "Meu bicho."
+    },
+    {
+      "start": 213.09,
+      "end": 219.09,
+      "text": "Ele é mogo."
+    },
+    {
+      "start": 219.09,
+      "end": 220.09,
+      "text": "Ele é mogo."
+    },
+    {
+      "start": 220.09,
+      "end": 222.09,
+      "text": "Ele é mogo."
+    },
+    {
+      "start": 222.09,
+      "end": 225.15,
+      "text": "Ei, André."
+    },
+    {
+      "start": 225.15,
+      "end": 226.15,
+      "text": "Ei, nego."
+    },
+    {
+      "start": 226.15,
+      "end": 227.15,
+      "text": "Ele é o que, nego?"
+    },
+    {
+      "start": 227.15,
+      "end": 228.15,
+      "text": "Mongo."
+    },
+    {
+      "start": 232.44,
+      "end": 237.44,
+      "text": "Ele vai pegar o paraquês e dar um choque, o nego, velho."
+    },
+    {
+      "start": 237.44,
+      "end": 239.44,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 239.44,
+      "end": 242.44,
+      "text": "Quem não tem 120 N1, hoje está tendo, ó."
+    },
+    {
+      "start": 242.44,
+      "end": 244.44,
+      "text": "Lavando as coisas, ó."
+    },
+    {
+      "start": 244.44,
+      "end": 245.44,
+      "text": "Ó."
+    },
+    {
+      "start": 245.44,
+      "end": 248.69,
+      "text": "Amaury."
+    },
+    {
+      "start": 248.69,
+      "end": 251.07,
+      "text": "O rio lá, ó."
+    },
+    {
+      "start": 251.07,
+      "end": 252.84,
+      "text": "Lindo."
+    },
+    {
+      "start": 252.84,
+      "end": 255.84,
+      "text": "Aqui nós estamos fazendo nosso bifinho."
+    },
+    {
+      "start": 255.84,
+      "end": 256.84,
+      "text": "Arrozinho, beleza."
+    },
+    {
+      "start": 256.84,
+      "end": 257.84,
+      "text": "Acebolado."
+    },
+    {
+      "start": 257.84,
+      "end": 258.84,
+      "text": "Acebolado."
+    },
+    {
+      "start": 258.84,
+      "end": 261.84,
+      "text": "E vocês, bandiotários."
+    },
+    {
+      "start": 261.84,
+      "end": 266.52,
+      "text": "Olha lá o rio, ó."
+    },
+    {
+      "start": 266.52,
+      "end": 271.27,
+      "text": "Vamos para lá agora."
+    },
+    {
+      "start": 271.27,
+      "end": 281.48,
+      "text": "Mostrar o carro aqui para vocês, como é que chegou bem pra caralho."
+    },
+    {
+      "start": 281.48,
+      "end": 283.66,
+      "text": "Olha aqui, ó."
+    },
+    {
+      "start": 283.66,
+      "end": 287.4,
+      "text": "O garotão da pescareia."
+    },
+    {
+      "start": 287.4,
+      "end": 288.4,
+      "text": "O cara."
+    },
+    {
+      "start": 288.4,
+      "end": 291.65,
+      "text": "Lá, 4x4."
+    },
+    {
+      "start": 291.65,
+      "end": 293.65,
+      "text": "Quase não chega."
+    },
+    {
+      "start": 293.65,
+      "end": 299.78,
+      "text": "Olha os passarinhos lá, ó."
+    },
+    {
+      "start": 299.78,
+      "end": 300.78,
+      "text": "O bêbado aqui."
+    },
+    {
+      "start": 300.78,
+      "end": 302.51,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 302.51,
+      "end": 303.51,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 303.51,
+      "end": 304.51,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 304.51,
+      "end": 305.51,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 305.51,
+      "end": 306.51,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 306.51,
+      "end": 308.51,
+      "text": "Tá vendo?"
+    }
+  ],
+  "duracao_seg": 310.41,
+  "idioma_detectado": "pt"
+}

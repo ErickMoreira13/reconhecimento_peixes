@@ -1,0 +1,37 @@
+{
+  "texto": "É muito gratificante, com isso aqui galera, olha só Tem que tomar cuidado porque é tudo com uma piscina um pouco mais alta E pra mostrar as coisas do hoje a gente tem que ir Mas esse aí está um pouquinho né Olha só Vou pegar o papel, vai",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 7.34,
+      "text": "É muito gratificante, com isso aqui galera, olha só"
+    },
+    {
+      "start": 7.34,
+      "end": 20.77,
+      "text": "Tem que tomar cuidado porque é tudo com uma piscina um pouco mais alta"
+    },
+    {
+      "start": 20.77,
+      "end": 25.21,
+      "text": "E pra mostrar as coisas do hoje a gente tem que ir"
+    },
+    {
+      "start": 25.21,
+      "end": 27.21,
+      "text": "Mas esse aí está um pouquinho né"
+    },
+    {
+      "start": 27.21,
+      "end": 71.42,
+      "text": "Olha só"
+    },
+    {
+      "start": 71.42,
+      "end": 79.72,
+      "text": "Vou pegar o papel, vai"
+    }
+  ],
+  "duracao_seg": 79.95,
+  "idioma_detectado": "pt"
+}

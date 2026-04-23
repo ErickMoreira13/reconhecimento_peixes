@@ -1,0 +1,17 @@
+{
+  "texto": "Aqui é no Improviso, o acampamento do Céterno, o rio está lindo, isso aqui é de monte, o rio aqui é bonito, arruma lá, me conta lá que eu vou comer, eu não aguento assim.",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 28.54,
+      "text": "Aqui é no Improviso, o acampamento do Céterno, o rio está lindo, isso aqui é de monte,"
+    },
+    {
+      "start": 28.54,
+      "end": 45.79,
+      "text": "o rio aqui é bonito, arruma lá, me conta lá que eu vou comer, eu não aguento assim."
+    }
+  ],
+  "duracao_seg": 49.63,
+  "idioma_detectado": "pt"
+}

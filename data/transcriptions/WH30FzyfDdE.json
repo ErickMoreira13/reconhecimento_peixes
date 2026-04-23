@@ -1,0 +1,37 @@
+{
+  "texto": "Bom dia, galerinha do Grupo Traíras. É genuíno pescador diretamente da Chapada Diamantina. Hoje, quarta-feira, é acho que umas nove horas da manhã. Já tem umas dez tilápias aqui dentro do saco aqui, mas são menores. Então, gravei essa aqui para mandar para vocês. Fui!",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 4.07,
+      "text": "Bom dia, galerinha do Grupo Traíras."
+    },
+    {
+      "start": 4.67,
+      "end": 9.93,
+      "text": "É genuíno pescador diretamente da Chapada Diamantina."
+    },
+    {
+      "start": 10.8,
+      "end": 17.58,
+      "text": "Hoje, quarta-feira, é acho que umas nove horas da manhã."
+    },
+    {
+      "start": 18.38,
+      "end": 23.12,
+      "text": "Já tem umas dez tilápias aqui dentro do saco aqui, mas são menores."
+    },
+    {
+      "start": 23.38,
+      "end": 26.0,
+      "text": "Então, gravei essa aqui para mandar para vocês."
+    },
+    {
+      "start": 26.92,
+      "end": 27.16,
+      "text": "Fui!"
+    }
+  ],
+  "duracao_seg": 35.75,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Esse que é o tipo de coisa que não te conto sobre os lençóis maranhenses. Olha só, a areia começa a ceder nas bordas e pode ser perigoso para crianças e animais.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 3.35,
+      "text": "Esse que é o tipo de coisa que não te conto sobre os lençóis maranhenses."
+    },
+    {
+      "start": 3.75,
+      "end": 10.45,
+      "text": "Olha só, a areia começa a ceder nas bordas e pode ser perigoso para crianças e animais."
+    }
+  ],
+  "duracao_seg": 10.79,
+  "idioma_detectado": "pt"
+}

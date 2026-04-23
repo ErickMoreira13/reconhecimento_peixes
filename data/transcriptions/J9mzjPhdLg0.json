@@ -1,0 +1,37 @@
+{
+  "texto": "E aí, Guilherme! Guilherme Teixeira, Santana Mello, papai! Já foi! Vamos nós dois, papai! Vem aqui pra você ir comigo, meu pai! Já! E aí, Guilherme!",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 4.4,
+      "text": "E aí, Guilherme! Guilherme Teixeira, Santana Mello, papai!"
+    },
+    {
+      "start": 4.56,
+      "end": 5.08,
+      "text": "Já foi!"
+    },
+    {
+      "start": 5.1,
+      "end": 6.1,
+      "text": "Vamos nós dois, papai!"
+    },
+    {
+      "start": 6.58,
+      "end": 9.1,
+      "text": "Vem aqui pra você ir comigo, meu pai!"
+    },
+    {
+      "start": 9.22,
+      "end": 9.42,
+      "text": "Já!"
+    },
+    {
+      "start": 10.73,
+      "end": 11.45,
+      "text": "E aí, Guilherme!"
+    }
+  ],
+  "duracao_seg": 20.17,
+  "idioma_detectado": "pt"
+}

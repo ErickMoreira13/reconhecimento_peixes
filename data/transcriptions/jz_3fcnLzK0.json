@@ -1,0 +1,17 @@
+{
+  "texto": "Eu queria ser para cima. É só passar.",
+  "segmentos": [
+    {
+      "start": 1.71,
+      "end": 3.71,
+      "text": "Eu queria ser para cima."
+    },
+    {
+      "start": 6.71,
+      "end": 8.71,
+      "text": "É só passar."
+    }
+  ],
+  "duracao_seg": 11.95,
+  "idioma_detectado": "pt"
+}

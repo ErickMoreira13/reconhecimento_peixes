@@ -1,0 +1,52 @@
+{
+  "texto": "Chapéu na cabeça, coração preparado Amizade é estrada e a gente vai cruzar Sete quedas nos chamam e ninguém vai ficar pra trás O chapada leva a gente devagar Deixa o tempo passar Hoje eu vou gritar pedras e rios Vamos juntos, tem silêncio que te ficar Cerrado falar, um calando, um espiando E a fogueira está lá",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 24.34,
+      "text": "Chapéu na cabeça, coração preparado"
+    },
+    {
+      "start": 24.34,
+      "end": 27.86,
+      "text": "Amizade é estrada e a gente vai cruzar"
+    },
+    {
+      "start": 27.86,
+      "end": 32.78,
+      "text": "Sete quedas nos chamam e ninguém vai ficar pra trás"
+    },
+    {
+      "start": 32.78,
+      "end": 40.04,
+      "text": "O chapada leva a gente devagar"
+    },
+    {
+      "start": 40.04,
+      "end": 47.54,
+      "text": "Deixa o tempo passar"
+    },
+    {
+      "start": 47.54,
+      "end": 60.21,
+      "text": "Hoje eu vou gritar pedras e rios"
+    },
+    {
+      "start": 60.21,
+      "end": 78.51,
+      "text": "Vamos juntos, tem silêncio que te ficar"
+    },
+    {
+      "start": 78.51,
+      "end": 84.38,
+      "text": "Cerrado falar, um calando, um espiando"
+    },
+    {
+      "start": 84.38,
+      "end": 86.18,
+      "text": "E a fogueira está lá"
+    }
+  ],
+  "duracao_seg": 91.23,
+  "idioma_detectado": "pt"
+}

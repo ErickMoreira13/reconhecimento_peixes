@@ -1,0 +1,17 @@
+{
+  "texto": "É assim que faz. Gente, nós saímos nas carreiras.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 1.64,
+      "text": "É assim que faz."
+    },
+    {
+      "start": 2.26,
+      "end": 3.68,
+      "text": "Gente, nós saímos nas carreiras."
+    }
+  ],
+  "duracao_seg": 3.79,
+  "idioma_detectado": "pt"
+}

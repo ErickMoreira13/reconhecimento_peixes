@@ -1,0 +1,172 @@
+{
+  "texto": "Hoje de manhã aqui, ó, a gente já está dando uma olhadinha. Oi? Eita gordura. Tá. Aonde é isso aqui, Totó? Barreirinhas. Tem barreirinhas, diz que não tem peixe, né? Vamos ver. Olha o tamanho, bicho. Olha aí no porto ali, ó. Viu? Ai, Maurício, agora a boia está pronta. Olha aí. Calma aí, galera. Olha aqui em barreirinhas. Barreirinhas. Com licença, viu, pessoal? Totó. Chico, dá para a gente ficar pegando a boia aqui devagarinho. Totó, e aí, Totó? Que bonitinho. Falaram que não tinha peixe, né, Doutor? Rapaz, é. Eu ouvi dizer que barreirinhas não tinha peixe. Eu digo, rapaz, eu vou botar um espinhel aqui e eu quero saber se tem ou não tem. E eu acho que tem, porque o jantar hoje nós já estamos com diversos bag, né? Está vendo? Esse aqui eu não vou soltar. Agora, Tia Graça fazendo peixe, papai. Eu cuidei, né, Tia Graça? Fazendo e bichando, olha aí. E até bem. Até bem.",
+  "segmentos": [
+    {
+      "start": 2.8,
+      "end": 5.84,
+      "text": "Hoje de manhã aqui, ó, a gente já está dando uma olhadinha."
+    },
+    {
+      "start": 9.79,
+      "end": 10.03,
+      "text": "Oi?"
+    },
+    {
+      "start": 11.02,
+      "end": 12.06,
+      "text": "Eita gordura."
+    },
+    {
+      "start": 13.26,
+      "end": 13.66,
+      "text": "Tá."
+    },
+    {
+      "start": 14.8,
+      "end": 15.8,
+      "text": "Aonde é isso aqui, Totó?"
+    },
+    {
+      "start": 16.6,
+      "end": 17.04,
+      "text": "Barreirinhas."
+    },
+    {
+      "start": 17.04,
+      "end": 19.02,
+      "text": "Tem barreirinhas, diz que não tem peixe, né? Vamos ver."
+    },
+    {
+      "start": 19.91,
+      "end": 21.87,
+      "text": "Olha o tamanho, bicho."
+    },
+    {
+      "start": 22.33,
+      "end": 23.71,
+      "text": "Olha aí no porto ali, ó."
+    },
+    {
+      "start": 24.39,
+      "end": 24.59,
+      "text": "Viu?"
+    },
+    {
+      "start": 25.37,
+      "end": 27.15,
+      "text": "Ai, Maurício, agora a boia está pronta."
+    },
+    {
+      "start": 27.21,
+      "end": 28.57,
+      "text": "Olha aí. Calma aí, galera."
+    },
+    {
+      "start": 28.81,
+      "end": 29.75,
+      "text": "Olha aqui em barreirinhas."
+    },
+    {
+      "start": 30.77,
+      "end": 31.17,
+      "text": "Barreirinhas."
+    },
+    {
+      "start": 31.55,
+      "end": 32.75,
+      "text": "Com licença, viu, pessoal?"
+    },
+    {
+      "start": 32.75,
+      "end": 33.11,
+      "text": "Totó."
+    },
+    {
+      "start": 33.55,
+      "end": 35.83,
+      "text": "Chico, dá para a gente ficar pegando a boia aqui devagarinho."
+    },
+    {
+      "start": 36.13,
+      "end": 37.47,
+      "text": "Totó, e aí, Totó?"
+    },
+    {
+      "start": 37.89,
+      "end": 38.71,
+      "text": "Que bonitinho."
+    },
+    {
+      "start": 39.85,
+      "end": 41.13,
+      "text": "Falaram que não tinha peixe, né, Doutor?"
+    },
+    {
+      "start": 41.15,
+      "end": 42.69,
+      "text": "Rapaz, é. Eu ouvi dizer"
+    },
+    {
+      "start": 42.69,
+      "end": 45.16,
+      "text": "que barreirinhas não tinha peixe."
+    },
+    {
+      "start": 45.24,
+      "end": 47.06,
+      "text": "Eu digo, rapaz, eu vou botar um espinhel aqui"
+    },
+    {
+      "start": 47.06,
+      "end": 50.64,
+      "text": "e eu quero saber se tem ou não tem."
+    },
+    {
+      "start": 50.94,
+      "end": 53.02,
+      "text": "E eu acho que tem, porque o jantar hoje"
+    },
+    {
+      "start": 53.02,
+      "end": 54.7,
+      "text": "nós já estamos com diversos bag, né?"
+    },
+    {
+      "start": 55.36,
+      "end": 55.7,
+      "text": "Está vendo?"
+    },
+    {
+      "start": 55.9,
+      "end": 57.0,
+      "text": "Esse aqui eu não vou soltar."
+    },
+    {
+      "start": 58.52,
+      "end": 61.9,
+      "text": "Agora, Tia Graça fazendo peixe, papai."
+    },
+    {
+      "start": 61.9,
+      "end": 63.3,
+      "text": "Eu cuidei, né, Tia Graça?"
+    },
+    {
+      "start": 64.88,
+      "end": 66.0,
+      "text": "Fazendo e bichando, olha aí."
+    },
+    {
+      "start": 66.12,
+      "end": 66.92,
+      "text": "E até bem."
+    },
+    {
+      "start": 67.28,
+      "end": 67.74,
+      "text": "Até bem."
+    }
+  ],
+  "duracao_seg": 68.11,
+  "idioma_detectado": "pt"
+}

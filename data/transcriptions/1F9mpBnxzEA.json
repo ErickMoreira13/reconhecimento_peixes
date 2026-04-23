@@ -1,0 +1,57 @@
+{
+  "texto": "Olha esse lugar, tá tudo tranquilo O vento passa leve, é tudo simples assim Nada aqui é errado, é bom de ficar Dá vontade de sorrir e nunca mais sair Sente a paz desse lugar De entender que tudo é tão tranquilo Só deixar acontecer Não precisa de mais nada, é só ficar Sente a paz desse lugar Sente a paz desse lugar",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Olha esse lugar, tá tudo tranquilo"
+    },
+    {
+      "start": 4.96,
+      "end": 10.1,
+      "text": "O vento passa leve, é tudo simples assim"
+    },
+    {
+      "start": 10.1,
+      "end": 14.98,
+      "text": "Nada aqui é errado, é bom de ficar"
+    },
+    {
+      "start": 14.98,
+      "end": 19.22,
+      "text": "Dá vontade de sorrir e nunca mais sair"
+    },
+    {
+      "start": 19.22,
+      "end": 22.31,
+      "text": "Sente a paz desse lugar"
+    },
+    {
+      "start": 22.31,
+      "end": 26.7,
+      "text": "De entender que tudo é tão tranquilo"
+    },
+    {
+      "start": 27.26,
+      "end": 29.36,
+      "text": "Só deixar acontecer"
+    },
+    {
+      "start": 29.36,
+      "end": 34.08,
+      "text": "Não precisa de mais nada, é só ficar"
+    },
+    {
+      "start": 34.08,
+      "end": 36.44,
+      "text": "Sente a paz desse lugar"
+    },
+    {
+      "start": 36.44,
+      "end": 38.04,
+      "text": "Sente a paz desse lugar"
+    }
+  ],
+  "duracao_seg": 38.03,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,82 @@
+{
+  "texto": "Agora é piau. Olha, olha lá. Agora é piau. Olha pra você ver que ele tá brigando. Tá brigando, velho. Vai, filma. Tô filmando. Olha o tamanzão. Ali, ó. Já pegou. É o pacu. Aê, meu pai pegou um pé. Esse aqui tá grande. É grande, cara. Vamos lá.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "Agora é piau."
+    },
+    {
+      "start": 1.38,
+      "end": 2.42,
+      "text": "Olha, olha lá."
+    },
+    {
+      "start": 2.52,
+      "end": 3.24,
+      "text": "Agora é piau."
+    },
+    {
+      "start": 3.32,
+      "end": 4.46,
+      "text": "Olha pra você ver que ele tá brigando."
+    },
+    {
+      "start": 5.04,
+      "end": 6.44,
+      "text": "Tá brigando, velho."
+    },
+    {
+      "start": 6.74,
+      "end": 7.58,
+      "text": "Vai, filma."
+    },
+    {
+      "start": 7.64,
+      "end": 8.36,
+      "text": "Tô filmando."
+    },
+    {
+      "start": 8.82,
+      "end": 9.54,
+      "text": "Olha o tamanzão."
+    },
+    {
+      "start": 9.8,
+      "end": 10.34,
+      "text": "Ali, ó."
+    },
+    {
+      "start": 10.36,
+      "end": 10.98,
+      "text": "Já pegou."
+    },
+    {
+      "start": 11.86,
+      "end": 12.78,
+      "text": "É o pacu."
+    },
+    {
+      "start": 13.04,
+      "end": 14.86,
+      "text": "Aê, meu pai pegou um pé."
+    },
+    {
+      "start": 15.28,
+      "end": 16.62,
+      "text": "Esse aqui tá grande."
+    },
+    {
+      "start": 16.98,
+      "end": 18.62,
+      "text": "É grande, cara."
+    },
+    {
+      "start": 18.72,
+      "end": 18.98,
+      "text": "Vamos lá."
+    }
+  ],
+  "duracao_seg": 19.85,
+  "idioma_detectado": "pt"
+}

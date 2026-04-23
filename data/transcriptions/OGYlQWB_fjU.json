@@ -1,0 +1,107 @@
+{
+  "texto": "Espera, meu amor. Vamos passar pra lá. Tá ligado? Aqui é a lama, cara? Aqui é a lama? Dá um oi, Isaac. Oi. Falou, Lulu. Agora nós vamos pro Poço dos Piau. Aqui é bonito mesmo. Aqui não é brincadeira, não. O negócio aqui é bonito. O que é aquilo ali olhando pra gente? Bonito. Olha essa pedra aqui. Vai botar o bico do barco. Aqui, viagem? Calma, tem uma pedra aqui. Tá bom, desculpa. Ali, pra lá.",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 2.53,
+      "text": "Espera, meu amor."
+    },
+    {
+      "start": 2.53,
+      "end": 7.89,
+      "text": "Vamos passar pra lá."
+    },
+    {
+      "start": 7.89,
+      "end": 12.1,
+      "text": "Tá ligado?"
+    },
+    {
+      "start": 12.1,
+      "end": 14.67,
+      "text": "Aqui é a lama, cara?"
+    },
+    {
+      "start": 14.67,
+      "end": 16.67,
+      "text": "Aqui é a lama?"
+    },
+    {
+      "start": 16.67,
+      "end": 18.67,
+      "text": "Dá um oi, Isaac."
+    },
+    {
+      "start": 18.67,
+      "end": 21.76,
+      "text": "Oi."
+    },
+    {
+      "start": 21.76,
+      "end": 24.85,
+      "text": "Falou, Lulu."
+    },
+    {
+      "start": 24.85,
+      "end": 26.85,
+      "text": "Agora nós vamos pro Poço dos Piau."
+    },
+    {
+      "start": 26.85,
+      "end": 28.85,
+      "text": "Aqui é bonito mesmo."
+    },
+    {
+      "start": 28.85,
+      "end": 31.49,
+      "text": "Aqui não é brincadeira, não."
+    },
+    {
+      "start": 31.49,
+      "end": 33.49,
+      "text": "O negócio aqui é bonito."
+    },
+    {
+      "start": 33.49,
+      "end": 35.49,
+      "text": "O que é aquilo ali olhando pra gente?"
+    },
+    {
+      "start": 35.49,
+      "end": 38.38,
+      "text": "Bonito."
+    },
+    {
+      "start": 38.38,
+      "end": 40.38,
+      "text": "Olha essa pedra aqui."
+    },
+    {
+      "start": 40.38,
+      "end": 42.38,
+      "text": "Vai botar o bico do barco."
+    },
+    {
+      "start": 42.38,
+      "end": 44.38,
+      "text": "Aqui, viagem?"
+    },
+    {
+      "start": 44.38,
+      "end": 46.38,
+      "text": "Calma, tem uma pedra aqui."
+    },
+    {
+      "start": 46.38,
+      "end": 48.38,
+      "text": "Tá bom, desculpa."
+    },
+    {
+      "start": 48.38,
+      "end": 50.38,
+      "text": "Ali, pra lá."
+    }
+  ],
+  "duracao_seg": 58.15,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,77 @@
+{
+  "texto": "Fala, começa. Olha, pessoal. Por isso que tem que tomar cuidado agora. Calma, cara. Você cai. Não chegou no fundo, ó. Ó. Tá vendo? É muito bom, mas isso é bom saber nadar. Olha só. E olha, não tá no fundo. Olha, ó. Não tá no fundo. É muito bonito, mas tem que tomar cuidado. Falou? Valeu!",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 1.4,
+      "text": "Fala, começa."
+    },
+    {
+      "start": 2.32,
+      "end": 2.88,
+      "text": "Olha, pessoal."
+    },
+    {
+      "start": 3.24,
+      "end": 4.5,
+      "text": "Por isso que tem que tomar cuidado agora."
+    },
+    {
+      "start": 5.38,
+      "end": 6.74,
+      "text": "Calma, cara. Você cai."
+    },
+    {
+      "start": 7.48,
+      "end": 8.8,
+      "text": "Não chegou no fundo, ó."
+    },
+    {
+      "start": 9.6,
+      "end": 9.84,
+      "text": "Ó."
+    },
+    {
+      "start": 11.54,
+      "end": 11.98,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 12.98,
+      "end": 14.7,
+      "text": "É muito bom, mas"
+    },
+    {
+      "start": 14.7,
+      "end": 16.58,
+      "text": "isso é bom saber nadar."
+    },
+    {
+      "start": 17.1,
+      "end": 19.16,
+      "text": "Olha só. E olha, não tá no fundo."
+    },
+    {
+      "start": 19.16,
+      "end": 19.82,
+      "text": "Olha, ó."
+    },
+    {
+      "start": 20.58,
+      "end": 22.18,
+      "text": "Não tá no fundo."
+    },
+    {
+      "start": 23.23,
+      "end": 24.93,
+      "text": "É muito bonito, mas tem que tomar cuidado."
+    },
+    {
+      "start": 25.05,
+      "end": 25.93,
+      "text": "Falou? Valeu!"
+    }
+  ],
+  "duracao_seg": 29.35,
+  "idioma_detectado": "pt"
+}

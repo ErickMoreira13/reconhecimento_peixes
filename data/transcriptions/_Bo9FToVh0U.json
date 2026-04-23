@@ -1,0 +1,17 @@
+{
+  "texto": "Dispedição Chapada Diamantina Chapada, não sei perguntar",
+  "segmentos": [
+    {
+      "start": 5.55,
+      "end": 8.55,
+      "text": "Dispedição Chapada Diamantina"
+    },
+    {
+      "start": 8.55,
+      "end": 13.08,
+      "text": "Chapada, não sei perguntar"
+    }
+  ],
+  "duracao_seg": 25.31,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,47 @@
+{
+  "texto": "Gabriel, agora você erra, pegava. Ele erreu? Agora você caberou, não. É ruim, não. Ele não vai me lular, só. Vou lá, cê vai. Tem que lular ou vai dar um? Tem que lutar de pé?",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 2.62,
+      "text": "Gabriel, agora você erra, pegava."
+    },
+    {
+      "start": 2.62,
+      "end": 5.29,
+      "text": "Ele erreu?"
+    },
+    {
+      "start": 5.29,
+      "end": 8.31,
+      "text": "Agora você caberou, não."
+    },
+    {
+      "start": 8.31,
+      "end": 10.31,
+      "text": "É ruim, não."
+    },
+    {
+      "start": 10.31,
+      "end": 12.38,
+      "text": "Ele não vai me lular, só."
+    },
+    {
+      "start": 12.38,
+      "end": 15.14,
+      "text": "Vou lá, cê vai."
+    },
+    {
+      "start": 15.14,
+      "end": 21.43,
+      "text": "Tem que lular ou vai dar um?"
+    },
+    {
+      "start": 21.43,
+      "end": 23.43,
+      "text": "Tem que lutar de pé?"
+    }
+  ],
+  "duracao_seg": 23.19,
+  "idioma_detectado": "pt"
+}

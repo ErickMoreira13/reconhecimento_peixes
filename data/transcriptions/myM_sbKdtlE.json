@@ -1,0 +1,22 @@
+{
+  "texto": "Acho que esse aqui deve pesar uns 5 quilos, é muito pesado Menos, menos Olha aí, olha, ele é maior que a minha pão",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "Acho que esse aqui deve pesar uns 5 quilos, é muito pesado"
+    },
+    {
+      "start": 2.98,
+      "end": 3.9,
+      "text": "Menos, menos"
+    },
+    {
+      "start": 3.9,
+      "end": 5.78,
+      "text": "Olha aí, olha, ele é maior que a minha pão"
+    }
+  ],
+  "duracao_seg": 5.85,
+  "idioma_detectado": "pt"
+}

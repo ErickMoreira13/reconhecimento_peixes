@@ -1,0 +1,67 @@
+{
+  "texto": "É uma coisa legal. Não é mais de água. É de ter água. Tem um vidro. Uma carne. O que é isso? O pai é um caralho. O que é isso? Tem um problema. Eu tô todo surreto. Tem um problema. Acabou o fim da casa.",
+  "segmentos": [
+    {
+      "start": 4.02,
+      "end": 4.82,
+      "text": "É uma coisa legal."
+    },
+    {
+      "start": 6.44,
+      "end": 7.98,
+      "text": "Não é mais de água."
+    },
+    {
+      "start": 8.98,
+      "end": 10.36,
+      "text": "É de ter água."
+    },
+    {
+      "start": 20.83,
+      "end": 22.03,
+      "text": "Tem um vidro."
+    },
+    {
+      "start": 22.25,
+      "end": 22.63,
+      "text": "Uma carne."
+    },
+    {
+      "start": 24.09,
+      "end": 29.86,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 30.8,
+      "end": 32.94,
+      "text": "O pai é um caralho."
+    },
+    {
+      "start": 34.09,
+      "end": 34.69,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 79.82,
+      "end": 81.06,
+      "text": "Tem um problema."
+    },
+    {
+      "start": 82.64,
+      "end": 84.5,
+      "text": "Eu tô todo surreto."
+    },
+    {
+      "start": 85.36,
+      "end": 86.47,
+      "text": "Tem um problema."
+    },
+    {
+      "start": 87.31,
+      "end": 89.5,
+      "text": "Acabou o fim da casa."
+    }
+  ],
+  "duracao_seg": 89.65,
+  "idioma_detectado": "pt"
+}

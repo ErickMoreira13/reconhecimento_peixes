@@ -1,0 +1,67 @@
+{
+  "texto": "Estamos aqui na Chapada dos Veadeiros, Recanto dos Buritis, venha realizar sua pesca. Aqui é assim, jogou a linha, ó, para mexer, é peixe na linha. Para mexer, é peixe na linha, hein? Não precisa ter pressa, quem está com o zão na boca é o peixe. É só curtir. Recanto dos Buritis, Chapada dos Veadeiros, venha realizar sua pescaria, seu pesque-salte. Vamos ver o que tem aqui para a gente. Olha que lindo. Olha que magnífico, é belo. Aqui a gente faz assim, ó, pegou o peixe, anzol sem farpa, para tirar fácil. Se quiser tirar uma foto, depois, ó, o peixe fraco. Valeu!",
+  "segmentos": [
+    {
+      "start": 0.66,
+      "end": 5.34,
+      "text": "Estamos aqui na Chapada dos Veadeiros, Recanto dos Buritis, venha realizar sua pesca."
+    },
+    {
+      "start": 5.84,
+      "end": 12.0,
+      "text": "Aqui é assim, jogou a linha, ó, para mexer, é peixe na linha."
+    },
+    {
+      "start": 12.9,
+      "end": 14.3,
+      "text": "Para mexer, é peixe na linha, hein?"
+    },
+    {
+      "start": 16.68,
+      "end": 19.22,
+      "text": "Não precisa ter pressa, quem está com o zão na boca é o peixe."
+    },
+    {
+      "start": 20.21,
+      "end": 21.03,
+      "text": "É só curtir."
+    },
+    {
+      "start": 22.09,
+      "end": 27.41,
+      "text": "Recanto dos Buritis, Chapada dos Veadeiros, venha realizar sua pescaria, seu pesque-salte."
+    },
+    {
+      "start": 29.02,
+      "end": 30.38,
+      "text": "Vamos ver o que tem aqui para a gente."
+    },
+    {
+      "start": 31.2,
+      "end": 32.18,
+      "text": "Olha que lindo."
+    },
+    {
+      "start": 32.18,
+      "end": 37.53,
+      "text": "Olha que magnífico, é belo."
+    },
+    {
+      "start": 38.53,
+      "end": 50.48,
+      "text": "Aqui a gente faz assim, ó, pegou o peixe, anzol sem farpa, para tirar fácil."
+    },
+    {
+      "start": 54.96,
+      "end": 59.87,
+      "text": "Se quiser tirar uma foto, depois, ó, o peixe fraco."
+    },
+    {
+      "start": 61.5,
+      "end": 62.02,
+      "text": "Valeu!"
+    }
+  ],
+  "duracao_seg": 62.75,
+  "idioma_detectado": "pt"
+}
