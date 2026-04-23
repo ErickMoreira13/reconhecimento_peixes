@@ -1,0 +1,97 @@
+{
+  "texto": "Tá doido, bode? Que que é isso, camarada? É meu sonho, bode. Olha isso aí. Tá de brincadeira, velho. E agora? Não trouxe pra saguar. Brincadeira. Aí? É o senhor Josuel. Um mega trairão aqui no curuá. Aí ele, ó. Tá doido, bode. Meteu a boca na... na sarassaraba. Camarada! Olha o tamanho da criança. Foi pra vida, vamos tirar uma foto aqui e já já nós vamos devolver.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Tá doido, bode?"
+    },
+    {
+      "start": 2.74,
+      "end": 4.2,
+      "text": "Que que é isso, camarada?"
+    },
+    {
+      "start": 4.42,
+      "end": 6.81,
+      "text": "É meu sonho, bode."
+    },
+    {
+      "start": 7.87,
+      "end": 8.37,
+      "text": "Olha isso aí."
+    },
+    {
+      "start": 12.2,
+      "end": 13.34,
+      "text": "Tá de brincadeira, velho."
+    },
+    {
+      "start": 16.9,
+      "end": 18.42,
+      "text": "E agora? Não trouxe pra saguar."
+    },
+    {
+      "start": 23.49,
+      "end": 24.05,
+      "text": "Brincadeira."
+    },
+    {
+      "start": 25.34,
+      "end": 25.82,
+      "text": "Aí?"
+    },
+    {
+      "start": 27.79,
+      "end": 28.93,
+      "text": "É o senhor Josuel."
+    },
+    {
+      "start": 32.99,
+      "end": 34.81,
+      "text": "Um mega trairão aqui no curuá."
+    },
+    {
+      "start": 36.49,
+      "end": 37.11,
+      "text": "Aí ele, ó."
+    },
+    {
+      "start": 39.14,
+      "end": 40.84,
+      "text": "Tá doido, bode."
+    },
+    {
+      "start": 42.21,
+      "end": 44.26,
+      "text": "Meteu a boca na..."
+    },
+    {
+      "start": 44.26,
+      "end": 45.3,
+      "text": "na sarassaraba."
+    },
+    {
+      "start": 46.26,
+      "end": 46.78,
+      "text": "Camarada!"
+    },
+    {
+      "start": 47.18,
+      "end": 48.26,
+      "text": "Olha o tamanho da criança."
+    },
+    {
+      "start": 48.26,
+      "end": 50.34,
+      "text": "Foi pra vida, vamos tirar uma foto aqui"
+    },
+    {
+      "start": 50.34,
+      "end": 51.32,
+      "text": "e já já nós vamos devolver."
+    }
+  ],
+  "duracao_seg": 51.71,
+  "idioma_detectado": "pt"
+}

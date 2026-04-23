@@ -1,0 +1,27 @@
+{
+  "texto": "Se la pasan dias, sinto que soy mala Porque no me aguanto a drama de nada Igual si vienes a mi cama A mi cama",
+  "segmentos": [
+    {
+      "start": 1.33,
+      "end": 3.33,
+      "text": "Se la pasan dias, sinto que soy mala"
+    },
+    {
+      "start": 3.33,
+      "end": 5.33,
+      "text": "Porque no me aguanto a drama de nada"
+    },
+    {
+      "start": 5.33,
+      "end": 7.33,
+      "text": "Igual si vienes a mi cama"
+    },
+    {
+      "start": 7.33,
+      "end": 9.31,
+      "text": "A mi cama"
+    }
+  ],
+  "duracao_seg": 14.61,
+  "idioma_detectado": "pt"
+}

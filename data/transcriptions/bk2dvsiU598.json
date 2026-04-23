@@ -1,0 +1,22 @@
+{
+  "texto": "De peixe juntado ao de galha pra pegar uma rua Meu rancho fica na veia, de cá escuto bater Na gris da porta do rancho eu vejo a galha tremer",
+  "segmentos": [
+    {
+      "start": 12.21,
+      "end": 18.64,
+      "text": "De peixe juntado ao de galha pra pegar uma rua"
+    },
+    {
+      "start": 18.64,
+      "end": 24.08,
+      "text": "Meu rancho fica na veia, de cá escuto bater"
+    },
+    {
+      "start": 24.08,
+      "end": 29.66,
+      "text": "Na gris da porta do rancho eu vejo a galha tremer"
+    }
+  ],
+  "duracao_seg": 31.03,
+  "idioma_detectado": "pt"
+}

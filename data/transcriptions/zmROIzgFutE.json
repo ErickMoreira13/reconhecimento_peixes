@@ -1,0 +1,197 @@
+{
+  "texto": "Puxar pra cá, pra lá. Pode puxar essa ali. Esse gato tá aqui, homem. Já tem essa aí? Já tem, homem? Dá uma jogada no YouTube. Acompanhando o seu pacu. Acompanhando o seu pacu. O pacu, ele é liberado. Eu curo o pacu. Ele é reconhecido. Fantástico. Esse gil aqui é onde nós vamos pegar, ó. Os pintados. Os pacu. Das matranchã. Flávia bonita. Amanhecendo os dias. Fazenda do pacu. Fazenda do pacu, ó. Fazenda do pacu, ó. Fazenda do pacu, ó. Tudo aí, ó. Tudo nas cordas. Aqui, ó. Ciroca. Mas eu não sabia que tinha gente morando aqui atrás. Ele chegou, ele tinha 20 anos quando chegou. Molequinho. É. Não, sei lá. Lá em cima. Vou botar lá pra cá. Vou puxar ali a catraca. É. Já foiégido. Passar ali a catraca. Só é, não é too.",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 2.98,
+      "text": "Puxar pra cá, pra lá."
+    },
+    {
+      "start": 2.98,
+      "end": 8.18,
+      "text": "Pode puxar essa ali."
+    },
+    {
+      "start": 8.18,
+      "end": 11.68,
+      "text": "Esse gato tá aqui, homem."
+    },
+    {
+      "start": 11.68,
+      "end": 14.1,
+      "text": "Já tem essa aí?"
+    },
+    {
+      "start": 14.1,
+      "end": 16.83,
+      "text": "Já tem, homem?"
+    },
+    {
+      "start": 18.96,
+      "end": 20.96,
+      "text": "Dá uma jogada no YouTube."
+    },
+    {
+      "start": 20.96,
+      "end": 23.66,
+      "text": "Acompanhando o seu pacu."
+    },
+    {
+      "start": 23.66,
+      "end": 25.66,
+      "text": "Acompanhando o seu pacu."
+    },
+    {
+      "start": 25.66,
+      "end": 27.66,
+      "text": "O pacu, ele é liberado."
+    },
+    {
+      "start": 27.66,
+      "end": 29.66,
+      "text": "Eu curo o pacu."
+    },
+    {
+      "start": 29.66,
+      "end": 31.66,
+      "text": "Ele é reconhecido."
+    },
+    {
+      "start": 31.66,
+      "end": 33.66,
+      "text": "Fantástico."
+    },
+    {
+      "start": 33.66,
+      "end": 39.66,
+      "text": "Esse gil aqui é onde nós vamos pegar, ó."
+    },
+    {
+      "start": 39.66,
+      "end": 41.66,
+      "text": "Os pintados."
+    },
+    {
+      "start": 41.66,
+      "end": 43.7,
+      "text": "Os pacu."
+    },
+    {
+      "start": 43.7,
+      "end": 45.86,
+      "text": "Das matranchã."
+    },
+    {
+      "start": 50.24,
+      "end": 52.24,
+      "text": "Flávia bonita."
+    },
+    {
+      "start": 52.24,
+      "end": 54.24,
+      "text": "Amanhecendo os dias."
+    },
+    {
+      "start": 54.24,
+      "end": 56.24,
+      "text": "Fazenda do pacu."
+    },
+    {
+      "start": 56.24,
+      "end": 58.24,
+      "text": "Fazenda do pacu, ó."
+    },
+    {
+      "start": 58.24,
+      "end": 60.24,
+      "text": "Fazenda do pacu, ó."
+    },
+    {
+      "start": 60.24,
+      "end": 63.94,
+      "text": "Fazenda do pacu, ó."
+    },
+    {
+      "start": 63.94,
+      "end": 65.94,
+      "text": "Tudo aí, ó."
+    },
+    {
+      "start": 65.94,
+      "end": 67.94,
+      "text": "Tudo nas cordas."
+    },
+    {
+      "start": 67.94,
+      "end": 70.29,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 70.29,
+      "end": 73.47,
+      "text": "Ciroca."
+    },
+    {
+      "start": 73.47,
+      "end": 77.47,
+      "text": "Mas eu não sabia que tinha gente morando aqui atrás."
+    },
+    {
+      "start": 77.47,
+      "end": 79.47,
+      "text": "Ele chegou, ele tinha 20 anos quando chegou."
+    },
+    {
+      "start": 79.47,
+      "end": 81.47,
+      "text": "Molequinho."
+    },
+    {
+      "start": 81.47,
+      "end": 83.47,
+      "text": "É."
+    },
+    {
+      "start": 83.47,
+      "end": 85.47,
+      "text": "Não, sei lá."
+    },
+    {
+      "start": 85.47,
+      "end": 87.47,
+      "text": "Lá em cima."
+    },
+    {
+      "start": 87.47,
+      "end": 89.47,
+      "text": "Vou botar lá pra cá."
+    },
+    {
+      "start": 89.47,
+      "end": 91.47,
+      "text": "Vou puxar ali a catraca."
+    },
+    {
+      "start": 91.47,
+      "end": 95.68,
+      "text": "É."
+    },
+    {
+      "start": 95.68,
+      "end": 99.79,
+      "text": "Já foiégido."
+    },
+    {
+      "start": 99.79,
+      "end": 101.79,
+      "text": "Passar ali a catraca."
+    },
+    {
+      "start": 101.79,
+      "end": 103.79,
+      "text": "Só é, não é too."
+    }
+  ],
+  "duracao_seg": 100.65,
+  "idioma_detectado": "pt"
+}

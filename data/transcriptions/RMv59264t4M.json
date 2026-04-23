@@ -1,0 +1,47 @@
+{
+  "texto": "Vamos lá dentro da canoa. Rapaz, vocês não encostam nessa porra. Esse bichinha não encosta não, macho. Não encosta nessa porra, rapaz. Eu acho que o jacaré é bonito, macho. Caraca, olha o tamanho do monstro aí, ó. Olha o palaquedo aí, ó. Ele é diferente, macho.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.59,
+      "text": "Vamos lá dentro da canoa."
+    },
+    {
+      "start": 4.59,
+      "end": 6.59,
+      "text": "Rapaz, vocês não encostam nessa porra."
+    },
+    {
+      "start": 6.59,
+      "end": 8.59,
+      "text": "Esse bichinha não encosta não, macho."
+    },
+    {
+      "start": 8.59,
+      "end": 10.59,
+      "text": "Não encosta nessa porra, rapaz."
+    },
+    {
+      "start": 10.59,
+      "end": 14.99,
+      "text": "Eu acho que o jacaré é bonito, macho."
+    },
+    {
+      "start": 14.99,
+      "end": 16.99,
+      "text": "Caraca, olha o tamanho do monstro aí, ó."
+    },
+    {
+      "start": 16.99,
+      "end": 23.44,
+      "text": "Olha o palaquedo aí, ó."
+    },
+    {
+      "start": 23.44,
+      "end": 25.44,
+      "text": "Ele é diferente, macho."
+    }
+  ],
+  "duracao_seg": 24.37,
+  "idioma_detectado": "pt"
+}

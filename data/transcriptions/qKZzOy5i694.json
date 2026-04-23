@@ -1,0 +1,37 @@
+{
+  "texto": "Domingo de tardezinha, eu estava mesmo à toa, convidei meu companheiro pra ir pescar na lagoa, levei uma rede de lã, vou pescar de canoa. Eu já preparo pra dar uma pescada boa, eu saí logo sereno, remando minha canoa, cada remada que dá. Quando o rio abaixo, remando minha canoa, a canoa foi rodando, foi deitando a taboa, a garça vestei de louco. Chega perto ela, o rio tava enchendo muito, foi encostando a canoa, eu entrei no avazente, fui sair noutra lagoa, foi mexendo aquele louco, pra pegar peixe, dá trabalho a gente soa, eu jogo timbo na água e a peixaria tornou a arma rede do umbreu.",
+  "segmentos": [
+    {
+      "start": 13.49,
+      "end": 24.11,
+      "text": "Domingo de tardezinha, eu estava mesmo à toa, convidei meu companheiro pra ir pescar na lagoa,"
+    },
+    {
+      "start": 24.77,
+      "end": 35.45,
+      "text": "levei uma rede de lã, vou pescar de canoa."
+    },
+    {
+      "start": 35.45,
+      "end": 61.69,
+      "text": "Eu já preparo pra dar uma pescada boa, eu saí logo sereno, remando minha canoa, cada remada que dá."
+    },
+    {
+      "start": 61.95,
+      "end": 96.76,
+      "text": "Quando o rio abaixo, remando minha canoa, a canoa foi rodando, foi deitando a taboa, a garça vestei de louco."
+    },
+    {
+      "start": 96.76,
+      "end": 128.3,
+      "text": "Chega perto ela, o rio tava enchendo muito, foi encostando a canoa, eu entrei no avazente, fui sair noutra lagoa,"
+    },
+    {
+      "start": 128.3,
+      "end": 166.18,
+      "text": "foi mexendo aquele louco, pra pegar peixe, dá trabalho a gente soa, eu jogo timbo na água e a peixaria tornou a arma rede do umbreu."
+    }
+  ],
+  "duracao_seg": 196.45,
+  "idioma_detectado": "pt"
+}

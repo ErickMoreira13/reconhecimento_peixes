@@ -1,0 +1,142 @@
+{
+  "texto": "Marcel, eu vou ensinar você como é que pesca, tá? Quem pega de dois peixes na isca sou eu, Marcel. Ah, Zé Buceta, virou falso agora só porque eu tô filmando, né? Ei, caralho. Volta aqui, viado. Pra o pessoal te conhecer, porra. Mano beijinho. Olha lá, pá. Esse peixe daqui é bonito demais. Os peixes daqui são bonitos demais. Coloração. Escapa é, porra. Coloração viva. Aqui, Zé Buceta. Ei. Respeita a equipe dos caiaques. Teu cu, viado. Tchau, obrigado. Demais, menino. Tucunaré. Foi. Paz, quando eu falo, vocês têm que escrever, moço. Quem conhece aqui sou eu. Tô mesmo. Descansando a mão. Oi? Descansando um pouco a mão.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 2.9,
+      "text": "Marcel, eu vou ensinar você como é que pesca, tá?"
+    },
+    {
+      "start": 4.11,
+      "end": 6.63,
+      "text": "Quem pega de dois peixes na isca sou eu, Marcel."
+    },
+    {
+      "start": 9.64,
+      "end": 12.6,
+      "text": "Ah, Zé Buceta, virou falso agora só porque eu tô filmando, né?"
+    },
+    {
+      "start": 13.0,
+      "end": 54.12,
+      "text": "Ei, caralho."
+    },
+    {
+      "start": 72.12,
+      "end": 73.18,
+      "text": "Volta aqui, viado."
+    },
+    {
+      "start": 73.64,
+      "end": 91.96,
+      "text": "Pra o pessoal te conhecer, porra."
+    },
+    {
+      "start": 92.36,
+      "end": 110.92,
+      "text": "Mano beijinho."
+    },
+    {
+      "start": 131.96,
+      "end": 132.54,
+      "text": "Olha lá, pá."
+    },
+    {
+      "start": 132.78,
+      "end": 169.12,
+      "text": "Esse peixe daqui é bonito demais."
+    },
+    {
+      "start": 169.42,
+      "end": 171.59,
+      "text": "Os peixes daqui são bonitos demais."
+    },
+    {
+      "start": 172.78,
+      "end": 173.3,
+      "text": "Coloração."
+    },
+    {
+      "start": 173.64,
+      "end": 174.86,
+      "text": "Escapa é, porra."
+    },
+    {
+      "start": 175.63,
+      "end": 176.49,
+      "text": "Coloração viva."
+    },
+    {
+      "start": 197.49,
+      "end": 199.15,
+      "text": "Aqui, Zé Buceta."
+    },
+    {
+      "start": 201.94,
+      "end": 202.36,
+      "text": "Ei."
+    },
+    {
+      "start": 202.36,
+      "end": 204.94,
+      "text": "Respeita a equipe dos caiaques."
+    },
+    {
+      "start": 208.89,
+      "end": 209.93,
+      "text": "Teu cu, viado."
+    },
+    {
+      "start": 285.46,
+      "end": 286.2,
+      "text": "Tchau, obrigado."
+    },
+    {
+      "start": 350.64,
+      "end": 351.54,
+      "text": "Demais, menino."
+    },
+    {
+      "start": 376.48,
+      "end": 376.92,
+      "text": "Tucunaré."
+    },
+    {
+      "start": 378.22,
+      "end": 378.44,
+      "text": "Foi."
+    },
+    {
+      "start": 383.29,
+      "end": 385.89,
+      "text": "Paz, quando eu falo, vocês têm que escrever, moço."
+    },
+    {
+      "start": 385.99,
+      "end": 387.17,
+      "text": "Quem conhece aqui sou eu."
+    },
+    {
+      "start": 391.84,
+      "end": 392.5,
+      "text": "Tô mesmo."
+    },
+    {
+      "start": 393.45,
+      "end": 394.29,
+      "text": "Descansando a mão."
+    },
+    {
+      "start": 395.22,
+      "end": 395.46,
+      "text": "Oi?"
+    },
+    {
+      "start": 396.94,
+      "end": 397.98,
+      "text": "Descansando um pouco a mão."
+    }
+  ],
+  "duracao_seg": 444.45,
+  "idioma_detectado": "pt"
+}

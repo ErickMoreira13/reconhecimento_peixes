@@ -1,0 +1,22 @@
+{
+  "texto": "Ô meus amigos de Foz do Iguaçu, Paraná e região aqui ó, oferecimento pra vocês aqui ó, do Cunaré Açu, aqui da Amazônia pra vocês, eu vou soltar ele, eu vou dar vida pra ele, é o rio Jatapu, eu tô pescando muito feliz aqui com o meu amigo Hélio e com o melhor guia da Amazônia, o Jacó, hein? Aí valeu, vamos dar vida pra esse peixe, que esse peixe aqui, eu já vou embora pessoal, já não tem mais pescaria pra mim, não resiste mais pegar outro peixe desse, não pega mais, não pega mais, deixa eu soltar aqui, aqui o Boga Gripe, já tá com vida, vamos lá, última olhadinha, vamos lá, a hora que você quiser ir, você já tá livre de volta! É, é, é, muito obrigado meu Deus!",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 25.31,
+      "text": "Ô meus amigos de Foz do Iguaçu, Paraná e região aqui ó, oferecimento pra vocês aqui ó, do Cunaré Açu, aqui da Amazônia pra vocês, eu vou soltar ele, eu vou dar vida pra ele, é o rio Jatapu, eu tô pescando muito feliz aqui com o meu amigo Hélio e com o melhor guia da Amazônia, o Jacó, hein?"
+    },
+    {
+      "start": 25.31,
+      "end": 55.22,
+      "text": "Aí valeu, vamos dar vida pra esse peixe, que esse peixe aqui, eu já vou embora pessoal, já não tem mais pescaria pra mim, não resiste mais pegar outro peixe desse, não pega mais, não pega mais, deixa eu soltar aqui, aqui o Boga Gripe, já tá com vida, vamos lá, última olhadinha, vamos lá, a hora que você quiser ir, você já tá livre de volta!"
+    },
+    {
+      "start": 55.22,
+      "end": 57.7,
+      "text": "É, é, é, muito obrigado meu Deus!"
+    }
+  ],
+  "duracao_seg": 58.25,
+  "idioma_detectado": "pt"
+}

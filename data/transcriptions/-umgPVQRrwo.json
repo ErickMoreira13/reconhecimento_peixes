@@ -1,0 +1,22 @@
+{
+  "texto": "Solturinha aqui, o Guia já correu com o Roginho 65 foi Valeu, tchou tchou tchou",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Solturinha aqui, o Guia já correu com o Roginho"
+    },
+    {
+      "start": 2.56,
+      "end": 3.88,
+      "text": "65 foi"
+    },
+    {
+      "start": 3.88,
+      "end": 6.04,
+      "text": "Valeu, tchou tchou tchou"
+    }
+  ],
+  "duracao_seg": 7.15,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Não é uma beleza, hein? Oh! Oh! Oh! Oh! Oh! Oh!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Não é uma beleza, hein?"
+    },
+    {
+      "start": 2.0,
+      "end": 5.15,
+      "text": "Oh! Oh!"
+    },
+    {
+      "start": 5.15,
+      "end": 7.15,
+      "text": "Oh! Oh! Oh! Oh!"
+    }
+  ],
+  "duracao_seg": 7.49,
+  "idioma_detectado": "pt"
+}

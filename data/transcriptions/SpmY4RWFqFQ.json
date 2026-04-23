@@ -1,0 +1,52 @@
+{
+  "texto": "Caralho, meu Deus do céu! Olha isso! Olha isso! Soro, aparece aqui, vem aqui perto. Bota pra trás, Soro. Bota pra trás. Soro, fica aqui. Segura aqui. Caraca, meu Deus do céu.",
+  "segmentos": [
+    {
+      "start": 4.11,
+      "end": 9.35,
+      "text": "Caralho, meu Deus do céu!"
+    },
+    {
+      "start": 9.61,
+      "end": 10.23,
+      "text": "Olha isso!"
+    },
+    {
+      "start": 12.17,
+      "end": 13.21,
+      "text": "Olha isso!"
+    },
+    {
+      "start": 13.93,
+      "end": 15.29,
+      "text": "Soro, aparece aqui, vem aqui perto."
+    },
+    {
+      "start": 16.19,
+      "end": 17.31,
+      "text": "Bota pra trás, Soro."
+    },
+    {
+      "start": 17.91,
+      "end": 18.59,
+      "text": "Bota pra trás."
+    },
+    {
+      "start": 20.74,
+      "end": 21.5,
+      "text": "Soro, fica aqui."
+    },
+    {
+      "start": 21.98,
+      "end": 22.8,
+      "text": "Segura aqui."
+    },
+    {
+      "start": 23.14,
+      "end": 23.96,
+      "text": "Caraca, meu Deus do céu."
+    }
+  ],
+  "duracao_seg": 26.69,
+  "idioma_detectado": "pt"
+}

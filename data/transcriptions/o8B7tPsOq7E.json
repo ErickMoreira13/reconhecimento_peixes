@@ -1,0 +1,207 @@
+{
+  "texto": "Logo cedinho, às 8 horas a gente sai do hotel O micro-ônimo já esperando a gente Todo mundo com cara de feliz aí Porque realmente a gente fica, né? Partiu a pescaria, é só alegria, é só comemorar Na cidade de Rio Preto da Eva Tem esse balneário que é um paraíso Final de semana o pessoal se reúne, curte, é muito bom Na sequência a fome já vai apertando, né? Hora do almoço, o Romulo já está aí, ó Mandando aquele pratão E é lógico também que ele não ia ficar para trás, né? Já preparando o meu aqui para reforçar o estômago Afinal de contas, são 4 horas de estrada, né? Até chegar aqui no ramal Onde a gente pega a embarcação para depois subir o rio Mais uma hora e meia até chegar no lugar E é lógico que a gente parou Estava acontecendo um churrasquinho A gente já vai logo chegando Fazendo amizade com todo mundo Eu já estou íntimo já do proprietário aqui do flutuante Summer Ih, maravilha, hein? Aquele abacaxi frito na hora junto com a carne Estava top, olha só A carne não estava pronta, ele já foi adiantando o abacaxi Na sequência, já voltamos para a embarcação E aí sim Uma hora e meia, mas o motor de 250 rende, né? Rapidinho a gente chegou na pousada O pessoal já estava nos aguardando lá E foi maravilhoso, gente Pousada gigante da Amazônia Pela operação MG Pesca Que traz você para pescar com segurança Rio Jatapu Um rio que é a primeira vez que eu venho E tenho certeza que vai ser uma semana muito iluminada Muito abençoada",
+  "segmentos": [
+    {
+      "start": 0.53,
+      "end": 3.35,
+      "text": "Logo cedinho, às 8 horas a gente sai do hotel"
+    },
+    {
+      "start": 3.35,
+      "end": 5.13,
+      "text": "O micro-ônimo já esperando a gente"
+    },
+    {
+      "start": 5.13,
+      "end": 6.89,
+      "text": "Todo mundo com cara de feliz aí"
+    },
+    {
+      "start": 6.89,
+      "end": 8.17,
+      "text": "Porque realmente a gente fica, né?"
+    },
+    {
+      "start": 8.77,
+      "end": 11.67,
+      "text": "Partiu a pescaria, é só alegria, é só comemorar"
+    },
+    {
+      "start": 11.67,
+      "end": 14.22,
+      "text": "Na cidade de Rio Preto da Eva"
+    },
+    {
+      "start": 14.22,
+      "end": 16.56,
+      "text": "Tem esse balneário que é um paraíso"
+    },
+    {
+      "start": 16.56,
+      "end": 19.38,
+      "text": "Final de semana o pessoal se reúne, curte, é muito bom"
+    },
+    {
+      "start": 19.38,
+      "end": 22.2,
+      "text": "Na sequência a fome já vai apertando, né?"
+    },
+    {
+      "start": 22.2,
+      "end": 24.1,
+      "text": "Hora do almoço, o Romulo já está aí, ó"
+    },
+    {
+      "start": 24.1,
+      "end": 25.66,
+      "text": "Mandando aquele pratão"
+    },
+    {
+      "start": 25.66,
+      "end": 27.96,
+      "text": "E é lógico também que ele não ia ficar para trás, né?"
+    },
+    {
+      "start": 28.02,
+      "end": 30.0,
+      "text": "Já preparando o meu aqui para reforçar o estômago"
+    },
+    {
+      "start": 30.0,
+      "end": 33.14,
+      "text": "Afinal de contas, são 4 horas de estrada, né?"
+    },
+    {
+      "start": 33.24,
+      "end": 34.42,
+      "text": "Até chegar aqui no ramal"
+    },
+    {
+      "start": 34.42,
+      "end": 37.28,
+      "text": "Onde a gente pega a embarcação para depois subir o rio"
+    },
+    {
+      "start": 37.28,
+      "end": 40.32,
+      "text": "Mais uma hora e meia até chegar no lugar"
+    },
+    {
+      "start": 40.32,
+      "end": 42.56,
+      "text": "E é lógico que a gente parou"
+    },
+    {
+      "start": 42.56,
+      "end": 45.16,
+      "text": "Estava acontecendo um churrasquinho"
+    },
+    {
+      "start": 45.16,
+      "end": 46.9,
+      "text": "A gente já vai logo chegando"
+    },
+    {
+      "start": 46.9,
+      "end": 48.22,
+      "text": "Fazendo amizade com todo mundo"
+    },
+    {
+      "start": 48.22,
+      "end": 51.58,
+      "text": "Eu já estou íntimo já do proprietário aqui do flutuante"
+    },
+    {
+      "start": 51.58,
+      "end": 52.06,
+      "text": "Summer"
+    },
+    {
+      "start": 52.06,
+      "end": 53.64,
+      "text": "Ih, maravilha, hein?"
+    },
+    {
+      "start": 53.66,
+      "end": 56.4,
+      "text": "Aquele abacaxi frito na hora junto com a carne"
+    },
+    {
+      "start": 56.4,
+      "end": 57.76,
+      "text": "Estava top, olha só"
+    },
+    {
+      "start": 57.76,
+      "end": 60.02,
+      "text": "A carne não estava pronta, ele já foi adiantando o abacaxi"
+    },
+    {
+      "start": 60.02,
+      "end": 62.76,
+      "text": "Na sequência, já voltamos para a embarcação"
+    },
+    {
+      "start": 62.76,
+      "end": 64.04,
+      "text": "E aí sim"
+    },
+    {
+      "start": 64.04,
+      "end": 67.6,
+      "text": "Uma hora e meia, mas o motor de 250 rende, né?"
+    },
+    {
+      "start": 68.0,
+      "end": 69.6,
+      "text": "Rapidinho a gente chegou na pousada"
+    },
+    {
+      "start": 69.6,
+      "end": 72.08,
+      "text": "O pessoal já estava nos aguardando lá"
+    },
+    {
+      "start": 72.08,
+      "end": 74.48,
+      "text": "E foi maravilhoso, gente"
+    },
+    {
+      "start": 74.48,
+      "end": 77.52,
+      "text": "Pousada gigante da Amazônia"
+    },
+    {
+      "start": 77.52,
+      "end": 79.94,
+      "text": "Pela operação MG Pesca"
+    },
+    {
+      "start": 79.94,
+      "end": 82.42,
+      "text": "Que traz você para pescar com segurança"
+    },
+    {
+      "start": 82.42,
+      "end": 84.6,
+      "text": "Rio Jatapu"
+    },
+    {
+      "start": 84.6,
+      "end": 86.8,
+      "text": "Um rio que é a primeira vez que eu venho"
+    },
+    {
+      "start": 86.8,
+      "end": 90.4,
+      "text": "E tenho certeza que vai ser uma semana muito iluminada"
+    },
+    {
+      "start": 90.4,
+      "end": 91.4,
+      "text": "Muito abençoada"
+    }
+  ],
+  "duracao_seg": 91.63,
+  "idioma_detectado": "pt"
+}

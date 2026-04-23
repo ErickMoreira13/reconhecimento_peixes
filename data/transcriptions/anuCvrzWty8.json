@@ -1,0 +1,32 @@
+{
+  "texto": "Pegou. Enchei mais pra ficar bom, né? Piranha. Puxou, né? Minha mãe só tá errando ali, ó. Ó aí. Puxa. Essa é a água, que máquina. Puxa um aí.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 174.56,
+      "text": "Pegou. Enchei mais pra ficar bom, né?"
+    },
+    {
+      "start": 243.91,
+      "end": 255.03,
+      "text": "Piranha. Puxou, né?"
+    },
+    {
+      "start": 279.2,
+      "end": 280.68,
+      "text": "Minha mãe só tá errando ali, ó."
+    },
+    {
+      "start": 291.66,
+      "end": 298.1,
+      "text": "Ó aí. Puxa."
+    },
+    {
+      "start": 298.6,
+      "end": 343.87,
+      "text": "Essa é a água, que máquina. Puxa um aí."
+    }
+  ],
+  "duracao_seg": 495.57,
+  "idioma_detectado": "pt"
+}

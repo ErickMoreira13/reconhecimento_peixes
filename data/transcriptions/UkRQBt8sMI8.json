@@ -1,0 +1,62 @@
+{
+  "texto": "Aqui na Amazonas é assim Aqui deu Aí os 4 quilos 5 quilos e 500 E 800 Aqui na Amazonas o sistema é bruto Açu Esse aqui é o Paca Gigantes da Amazonas Qual o tamanho deles? Tá bom",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "Aqui na Amazonas é assim"
+    },
+    {
+      "start": 2.52,
+      "end": 4.1,
+      "text": "Aqui deu"
+    },
+    {
+      "start": 4.1,
+      "end": 5.96,
+      "text": "Aí os 4 quilos"
+    },
+    {
+      "start": 5.96,
+      "end": 8.06,
+      "text": "5 quilos e 500"
+    },
+    {
+      "start": 8.06,
+      "end": 9.16,
+      "text": "E 800"
+    },
+    {
+      "start": 9.16,
+      "end": 12.4,
+      "text": "Aqui na Amazonas o sistema é bruto"
+    },
+    {
+      "start": 12.4,
+      "end": 13.46,
+      "text": "Açu"
+    },
+    {
+      "start": 13.46,
+      "end": 14.88,
+      "text": "Esse aqui é o Paca"
+    },
+    {
+      "start": 14.88,
+      "end": 17.87,
+      "text": "Gigantes da Amazonas"
+    },
+    {
+      "start": 17.87,
+      "end": 18.95,
+      "text": "Qual o tamanho deles?"
+    },
+    {
+      "start": 19.86,
+      "end": 20.24,
+      "text": "Tá bom"
+    }
+  ],
+  "duracao_seg": 21.41,
+  "idioma_detectado": "pt"
+}

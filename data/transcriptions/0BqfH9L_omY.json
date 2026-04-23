@@ -1,0 +1,22 @@
+{
+  "texto": "Rapaz, o seu Raimundo conseguiu espetar dois caras de uma flechada. Vamos esperar aí. E aí, pessoal?",
+  "segmentos": [
+    {
+      "start": 1.52,
+      "end": 14.1,
+      "text": "Rapaz, o seu Raimundo conseguiu espetar dois caras de uma flechada."
+    },
+    {
+      "start": 18.78,
+      "end": 19.52,
+      "text": "Vamos esperar aí."
+    },
+    {
+      "start": 38.05,
+      "end": 38.73,
+      "text": "E aí, pessoal?"
+    }
+  ],
+  "duracao_seg": 42.29,
+  "idioma_detectado": "pt"
+}

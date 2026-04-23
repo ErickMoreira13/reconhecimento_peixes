@@ -1,0 +1,22 @@
+{
+  "texto": "This is my kingdom come You feel my heat It's where my",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "This is my kingdom come"
+    },
+    {
+      "start": 2.68,
+      "end": 8.09,
+      "text": "You feel my heat"
+    },
+    {
+      "start": 8.09,
+      "end": 11.86,
+      "text": "It's where my"
+    }
+  ],
+  "duracao_seg": 16.57,
+  "idioma_detectado": "pt"
+}

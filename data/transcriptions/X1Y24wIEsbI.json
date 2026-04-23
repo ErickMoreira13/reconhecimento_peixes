@@ -1,0 +1,17 @@
+{
+  "texto": "Coisa no meu olho, vou botar aqui, calma aí Mano, muita força",
+  "segmentos": [
+    {
+      "start": 20.14,
+      "end": 71.0,
+      "text": "Coisa no meu olho, vou botar aqui, calma aí"
+    },
+    {
+      "start": 71.0,
+      "end": 72.93,
+      "text": "Mano, muita força"
+    }
+  ],
+  "duracao_seg": 89.01,
+  "idioma_detectado": "pt"
+}

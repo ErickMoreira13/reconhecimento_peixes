@@ -1,0 +1,452 @@
+{
+  "texto": "Oito horas Posso começar a levantar peixe? Foda! Ae! Você está com a estrela lá já menina Já? Agora a foto se rodou Não, eu quero sim, mas não agora Deixa eu pegar um primeiro carinho Que depois que eu cansar eu não quero mais ele Tem um jogo lá que é um cardume de peixe Viu agora o que eu falei? Igual esse lugar aqui não vai existir Ele estava reservando para os caras que chegaram agora Ele estava né? Só que eu vou falar se fosse o que eu falo Bateu de novo hein? Caralho mano, você reservar o melhor lugar para jogar? Eu que sou repórter Fala bacana, você não vai acreditar? Eu nunca entrei nesse lugar Dublezinho Vai, faz um triple aí vai Vamos lá Magnão, se consagra agora hein Aí que eu vou pegar um monstro Deixa eu ligar a roupão Se consagra Ah não, a opaca também né Ele parece meio azulado né, na frente Meio na frente né Ou na barbatana né Da hora Pode tirar aí já Pode? Pode? Ele mostra os dois ali na água Levanta um pouquinho Ae rapaziada Aí ó, dublezinho Parceiro aqui é de mar Pesca muito aqui ó Só nas borá ó Dupla de borá Boa Isso aqui é o paraíso hein Bora Ah, vou tirar com os dois aí Ah, só tá Vou tirar Fica desprezando os peixes não Só porque é pequeno Você joga bem aí seu Naquela Você consegue? Tem que ir bem mais para trás Se não, não dá distância Se eu ver aí Vamos sortar aqui vai Põe um bico mais Eu não vou negar Que ainda te amo Aí Essa é daquela barata Esse daí? Que merda hein Isso daí que a gente topa com o meré morto Que ela mata Puta, sério? Ih, bateu aqui mano Bateu aqui Bateu aqui parado quase Carinha aí que quer pegar um gigante Eita Ué Puta merda Isso daí é carrapato de peixe Lá no sítio também diverso onde tem carrapato Só que aí é carrapatinho pequeno Eles vão comendo peixe inteiro Furando o peixe Não é não? Foda hein Ele acaba com o peixe Tudo já é parecido Ele pega com o peixe Tem um monte é? Hã? Tinha um monte Olha a mãozana aqui ó Olha a mãozana aqui ó",
+  "segmentos": [
+    {
+      "start": 6.93,
+      "end": 8.93,
+      "text": "Oito horas"
+    },
+    {
+      "start": 16.04,
+      "end": 18.04,
+      "text": "Posso começar a levantar peixe?"
+    },
+    {
+      "start": 18.04,
+      "end": 19.26,
+      "text": "Foda!"
+    },
+    {
+      "start": 19.26,
+      "end": 20.26,
+      "text": "Ae!"
+    },
+    {
+      "start": 20.26,
+      "end": 22.65,
+      "text": "Você está com a estrela lá já menina"
+    },
+    {
+      "start": 22.65,
+      "end": 24.65,
+      "text": "Já? Agora a foto se rodou"
+    },
+    {
+      "start": 24.65,
+      "end": 27.65,
+      "text": "Não, eu quero sim, mas não agora"
+    },
+    {
+      "start": 27.65,
+      "end": 29.65,
+      "text": "Deixa eu pegar um primeiro carinho"
+    },
+    {
+      "start": 29.65,
+      "end": 31.65,
+      "text": "Que depois que eu cansar eu não quero mais ele"
+    },
+    {
+      "start": 31.65,
+      "end": 33.65,
+      "text": "Tem um jogo lá que é um cardume de peixe"
+    },
+    {
+      "start": 33.65,
+      "end": 38.08,
+      "text": "Viu agora o que eu falei?"
+    },
+    {
+      "start": 38.08,
+      "end": 40.08,
+      "text": "Igual esse lugar aqui não vai existir"
+    },
+    {
+      "start": 40.34,
+      "end": 42.34,
+      "text": "Ele estava reservando para os caras que chegaram agora"
+    },
+    {
+      "start": 42.34,
+      "end": 45.33,
+      "text": "Ele estava né?"
+    },
+    {
+      "start": 45.33,
+      "end": 47.33,
+      "text": "Só que eu vou falar se fosse o que eu falo"
+    },
+    {
+      "start": 47.33,
+      "end": 49.33,
+      "text": "Bateu de novo hein?"
+    },
+    {
+      "start": 49.33,
+      "end": 51.62,
+      "text": "Caralho mano, você reservar o melhor lugar para jogar?"
+    },
+    {
+      "start": 51.62,
+      "end": 54.93,
+      "text": "Eu que sou repórter"
+    },
+    {
+      "start": 54.93,
+      "end": 56.93,
+      "text": "Fala bacana, você não vai acreditar?"
+    },
+    {
+      "start": 56.93,
+      "end": 58.93,
+      "text": "Eu nunca entrei nesse lugar"
+    },
+    {
+      "start": 58.93,
+      "end": 60.93,
+      "text": "Dublezinho"
+    },
+    {
+      "start": 60.93,
+      "end": 63.73,
+      "text": "Vai, faz um triple aí vai"
+    },
+    {
+      "start": 63.73,
+      "end": 69.98,
+      "text": "Vamos lá Magnão, se consagra agora hein"
+    },
+    {
+      "start": 69.98,
+      "end": 72.08,
+      "text": "Aí que eu vou pegar um monstro"
+    },
+    {
+      "start": 72.08,
+      "end": 74.14,
+      "text": "Deixa eu ligar a roupão"
+    },
+    {
+      "start": 74.14,
+      "end": 76.34,
+      "text": "Se consagra"
+    },
+    {
+      "start": 76.34,
+      "end": 78.72,
+      "text": "Ah não, a opaca também né"
+    },
+    {
+      "start": 78.72,
+      "end": 82.0,
+      "text": "Ele parece meio azulado né, na frente"
+    },
+    {
+      "start": 82.0,
+      "end": 84.35,
+      "text": "Meio na frente né"
+    },
+    {
+      "start": 84.35,
+      "end": 92.62,
+      "text": "Ou na barbatana né"
+    },
+    {
+      "start": 92.62,
+      "end": 97.95,
+      "text": "Da hora"
+    },
+    {
+      "start": 97.95,
+      "end": 118.67,
+      "text": "Pode tirar aí já"
+    },
+    {
+      "start": 118.67,
+      "end": 123.68,
+      "text": "Pode?"
+    },
+    {
+      "start": 123.68,
+      "end": 127.86,
+      "text": "Pode?"
+    },
+    {
+      "start": 127.86,
+      "end": 131.23,
+      "text": "Ele mostra os dois ali na água"
+    },
+    {
+      "start": 131.23,
+      "end": 133.23,
+      "text": "Levanta um pouquinho"
+    },
+    {
+      "start": 133.23,
+      "end": 137.38,
+      "text": "Ae rapaziada"
+    },
+    {
+      "start": 137.38,
+      "end": 139.38,
+      "text": "Aí ó, dublezinho"
+    },
+    {
+      "start": 139.38,
+      "end": 141.79,
+      "text": "Parceiro aqui é de mar"
+    },
+    {
+      "start": 141.79,
+      "end": 142.79,
+      "text": "Pesca muito aqui ó"
+    },
+    {
+      "start": 142.79,
+      "end": 143.79,
+      "text": "Só nas borá ó"
+    },
+    {
+      "start": 143.79,
+      "end": 146.82,
+      "text": "Dupla de borá"
+    },
+    {
+      "start": 146.82,
+      "end": 147.98,
+      "text": "Boa"
+    },
+    {
+      "start": 147.98,
+      "end": 148.98,
+      "text": "Isso aqui é o paraíso hein"
+    },
+    {
+      "start": 148.98,
+      "end": 170.05,
+      "text": "Bora"
+    },
+    {
+      "start": 170.05,
+      "end": 172.43,
+      "text": "Ah, vou tirar com os dois aí"
+    },
+    {
+      "start": 172.43,
+      "end": 173.43,
+      "text": "Ah, só tá"
+    },
+    {
+      "start": 173.43,
+      "end": 174.66,
+      "text": "Vou tirar"
+    },
+    {
+      "start": 174.66,
+      "end": 177.36,
+      "text": "Fica desprezando os peixes não"
+    },
+    {
+      "start": 177.36,
+      "end": 178.36,
+      "text": "Só porque é pequeno"
+    },
+    {
+      "start": 178.36,
+      "end": 196.45,
+      "text": "Você joga bem aí seu"
+    },
+    {
+      "start": 196.45,
+      "end": 199.31,
+      "text": "Naquela"
+    },
+    {
+      "start": 199.31,
+      "end": 200.31,
+      "text": "Você consegue?"
+    },
+    {
+      "start": 200.31,
+      "end": 201.31,
+      "text": "Tem que ir bem mais para trás"
+    },
+    {
+      "start": 201.31,
+      "end": 203.66,
+      "text": "Se não, não dá distância"
+    },
+    {
+      "start": 203.66,
+      "end": 204.66,
+      "text": "Se eu ver aí"
+    },
+    {
+      "start": 204.66,
+      "end": 205.66,
+      "text": "Vamos sortar aqui vai"
+    },
+    {
+      "start": 205.66,
+      "end": 206.66,
+      "text": "Põe um bico mais"
+    },
+    {
+      "start": 206.66,
+      "end": 209.62,
+      "text": "Eu não vou negar"
+    },
+    {
+      "start": 209.62,
+      "end": 211.62,
+      "text": "Que ainda te amo"
+    },
+    {
+      "start": 211.62,
+      "end": 223.34,
+      "text": "Aí"
+    },
+    {
+      "start": 223.34,
+      "end": 224.38,
+      "text": "Essa é daquela barata"
+    },
+    {
+      "start": 224.38,
+      "end": 225.38,
+      "text": "Esse daí?"
+    },
+    {
+      "start": 225.38,
+      "end": 226.38,
+      "text": "Que merda hein"
+    },
+    {
+      "start": 226.38,
+      "end": 235.93,
+      "text": "Isso daí que a gente topa com o meré morto"
+    },
+    {
+      "start": 235.93,
+      "end": 238.06,
+      "text": "Que ela mata"
+    },
+    {
+      "start": 238.06,
+      "end": 239.06,
+      "text": "Puta, sério?"
+    },
+    {
+      "start": 239.06,
+      "end": 240.06,
+      "text": "Ih, bateu aqui mano"
+    },
+    {
+      "start": 240.06,
+      "end": 242.18,
+      "text": "Bateu aqui"
+    },
+    {
+      "start": 242.18,
+      "end": 244.4,
+      "text": "Bateu aqui parado quase"
+    },
+    {
+      "start": 244.4,
+      "end": 249.64,
+      "text": "Carinha aí que quer pegar um gigante"
+    },
+    {
+      "start": 249.64,
+      "end": 260.43,
+      "text": "Eita"
+    },
+    {
+      "start": 260.43,
+      "end": 261.43,
+      "text": "Ué"
+    },
+    {
+      "start": 261.43,
+      "end": 265.48,
+      "text": "Puta merda"
+    },
+    {
+      "start": 265.48,
+      "end": 267.48,
+      "text": "Isso daí é carrapato de peixe"
+    },
+    {
+      "start": 267.48,
+      "end": 270.25,
+      "text": "Lá no sítio também diverso onde tem carrapato"
+    },
+    {
+      "start": 270.25,
+      "end": 272.25,
+      "text": "Só que aí é carrapatinho pequeno"
+    },
+    {
+      "start": 272.25,
+      "end": 274.25,
+      "text": "Eles vão comendo peixe inteiro"
+    },
+    {
+      "start": 274.25,
+      "end": 275.25,
+      "text": "Furando o peixe"
+    },
+    {
+      "start": 275.25,
+      "end": 276.28,
+      "text": "Não é não?"
+    },
+    {
+      "start": 276.28,
+      "end": 277.28,
+      "text": "Foda hein"
+    },
+    {
+      "start": 277.28,
+      "end": 279.28,
+      "text": "Ele acaba com o peixe"
+    },
+    {
+      "start": 285.76,
+      "end": 286.76,
+      "text": "Tudo já é parecido"
+    },
+    {
+      "start": 286.76,
+      "end": 287.76,
+      "text": "Ele pega com o peixe"
+    },
+    {
+      "start": 287.76,
+      "end": 288.76,
+      "text": "Tem um monte é?"
+    },
+    {
+      "start": 288.76,
+      "end": 289.76,
+      "text": "Hã?"
+    },
+    {
+      "start": 289.76,
+      "end": 290.76,
+      "text": "Tinha um monte"
+    },
+    {
+      "start": 290.76,
+      "end": 291.76,
+      "text": "Olha a mãozana aqui ó"
+    },
+    {
+      "start": 291.76,
+      "end": 292.76,
+      "text": "Olha a mãozana aqui ó"
+    }
+  ],
+  "duracao_seg": 300.01,
+  "idioma_detectado": "pt"
+}

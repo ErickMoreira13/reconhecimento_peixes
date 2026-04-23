@@ -1,0 +1,147 @@
+{
+  "texto": "Cá, nós viemos sem dar uma garrafa, vamos voltar agora. Tamo aqui no Rio Kuroá. Oita. Não, mas isso aqui é da... Da Draga. Da Draga. É que eu tiro o ouro. É. Tirar a areia. Aí separa, depois separa o ouro da... Sério? Você viu, ó. Ela vai arrapando assim, ó. Entendi. Olha que da hora aqui, véi. E aí, já? Muito bom, hein? Lugar aqui. Vamos subir. Tem um lugar aqui. No meio. O Rio vai estar mais alto que isso, né? Óbvio. Aqui. Riozão. Aqui o descampado. Vai estar no meio da floresta. Show de bola.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Cá, nós viemos sem dar uma garrafa, vamos voltar agora."
+    },
+    {
+      "start": 4.64,
+      "end": 6.68,
+      "text": "Tamo aqui no Rio Kuroá."
+    },
+    {
+      "start": 10.23,
+      "end": 10.59,
+      "text": "Oita."
+    },
+    {
+      "start": 11.46,
+      "end": 13.1,
+      "text": "Não, mas isso aqui é da..."
+    },
+    {
+      "start": 13.1,
+      "end": 13.62,
+      "text": "Da Draga."
+    },
+    {
+      "start": 13.74,
+      "end": 14.34,
+      "text": "Da Draga."
+    },
+    {
+      "start": 15.0,
+      "end": 15.94,
+      "text": "É que eu tiro o ouro."
+    },
+    {
+      "start": 16.18,
+      "end": 16.44,
+      "text": "É."
+    },
+    {
+      "start": 16.66,
+      "end": 17.22,
+      "text": "Tirar a areia."
+    },
+    {
+      "start": 17.76,
+      "end": 19.84,
+      "text": "Aí separa, depois separa o ouro da..."
+    },
+    {
+      "start": 19.84,
+      "end": 20.24,
+      "text": "Sério?"
+    },
+    {
+      "start": 21.32,
+      "end": 22.0,
+      "text": "Você viu, ó."
+    },
+    {
+      "start": 22.4,
+      "end": 23.74,
+      "text": "Ela vai arrapando assim, ó."
+    },
+    {
+      "start": 23.76,
+      "end": 24.16,
+      "text": "Entendi."
+    },
+    {
+      "start": 25.53,
+      "end": 26.87,
+      "text": "Olha que da hora aqui, véi."
+    },
+    {
+      "start": 28.37,
+      "end": 28.91,
+      "text": "E aí, já?"
+    },
+    {
+      "start": 30.1,
+      "end": 30.96,
+      "text": "Muito bom, hein?"
+    },
+    {
+      "start": 32.96,
+      "end": 33.84,
+      "text": "Lugar aqui."
+    },
+    {
+      "start": 34.91,
+      "end": 35.67,
+      "text": "Vamos subir."
+    },
+    {
+      "start": 35.67,
+      "end": 44.19,
+      "text": "Tem um lugar aqui."
+    },
+    {
+      "start": 44.37,
+      "end": 46.14,
+      "text": "No meio."
+    },
+    {
+      "start": 48.65,
+      "end": 50.61,
+      "text": "O Rio vai estar mais alto que isso, né?"
+    },
+    {
+      "start": 51.56,
+      "end": 52.12,
+      "text": "Óbvio."
+    },
+    {
+      "start": 59.54,
+      "end": 59.98,
+      "text": "Aqui."
+    },
+    {
+      "start": 64.09,
+      "end": 64.69,
+      "text": "Riozão."
+    },
+    {
+      "start": 66.22,
+      "end": 67.58,
+      "text": "Aqui o descampado."
+    },
+    {
+      "start": 68.71,
+      "end": 70.17,
+      "text": "Vai estar no meio da floresta."
+    },
+    {
+      "start": 71.5,
+      "end": 72.4,
+      "text": "Show de bola."
+    }
+  ],
+  "duracao_seg": 73.89,
+  "idioma_detectado": "pt"
+}

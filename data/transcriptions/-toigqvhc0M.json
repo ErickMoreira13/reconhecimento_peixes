@@ -1,0 +1,207 @@
+{
+  "texto": "ó aí ó ó aí ó ó ó aí ó ó ó aí ó ó ó ó é maior do que o bocozinho velho vai mostrar as peixes lá ali me levantei que pegam um aí bedboy vai filmar Pacu, aracu, sardinha 10 reais o quilo Olha o do beijo Olha aqui Olha aí Puxou um Lá vem peixe Não vai soltar Agora tem que vir Aracu Bora ver que peixe é Matupiri já Olha o pacuzinho ali Olha aí Frito Olha a cozida Olha lá mostrar os peixes aqui da minha mãe Minha mãe não, eu que peguei Olha os meus peixes aqui Quem pegou mais peixe aqui foi eu Pacu, sarguinho, tabaqui Depois ele come peixe Pega um aí Puxou outro lá Aí ó, toma Errou Errou também Toma Acabai meu braço esse jeito Tá pegando aí embaixo, hein Vai ali, vai ali Vai Puxou um peixe aí Toda solta aqui, ó Não tem peixe Não tem peixe aí Não tem peixe aí Não tem peixe aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 13.38,
+      "text": "ó aí ó ó aí ó ó ó aí ó ó ó aí ó ó ó ó é maior do que o bocozinho velho"
+    },
+    {
+      "start": 13.38,
+      "end": 33.3,
+      "text": "vai mostrar as peixes lá ali me levantei que pegam um aí bedboy vai filmar"
+    },
+    {
+      "start": 33.3,
+      "end": 39.89,
+      "text": "Pacu, aracu, sardinha"
+    },
+    {
+      "start": 39.89,
+      "end": 42.92,
+      "text": "10 reais o quilo"
+    },
+    {
+      "start": 42.92,
+      "end": 45.54,
+      "text": "Olha o do beijo"
+    },
+    {
+      "start": 45.54,
+      "end": 45.92,
+      "text": "Olha aqui"
+    },
+    {
+      "start": 45.92,
+      "end": 52.7,
+      "text": "Olha aí"
+    },
+    {
+      "start": 52.7,
+      "end": 53.7,
+      "text": "Puxou um"
+    },
+    {
+      "start": 53.7,
+      "end": 55.83,
+      "text": "Lá vem peixe"
+    },
+    {
+      "start": 55.83,
+      "end": 58.38,
+      "text": "Não vai soltar"
+    },
+    {
+      "start": 58.38,
+      "end": 60.0,
+      "text": "Agora tem que vir"
+    },
+    {
+      "start": 60.0,
+      "end": 62.69,
+      "text": "Aracu"
+    },
+    {
+      "start": 62.69,
+      "end": 66.82,
+      "text": "Bora ver que peixe é"
+    },
+    {
+      "start": 66.82,
+      "end": 70.55,
+      "text": "Matupiri já"
+    },
+    {
+      "start": 70.55,
+      "end": 73.54,
+      "text": "Olha o pacuzinho ali"
+    },
+    {
+      "start": 73.54,
+      "end": 75.6,
+      "text": "Olha aí"
+    },
+    {
+      "start": 75.6,
+      "end": 77.42,
+      "text": "Frito"
+    },
+    {
+      "start": 77.42,
+      "end": 79.0,
+      "text": "Olha a cozida"
+    },
+    {
+      "start": 79.0,
+      "end": 82.07,
+      "text": "Olha lá mostrar os peixes aqui da minha mãe"
+    },
+    {
+      "start": 82.07,
+      "end": 84.69,
+      "text": "Minha mãe não, eu que peguei"
+    },
+    {
+      "start": 84.69,
+      "end": 87.34,
+      "text": "Olha os meus peixes aqui"
+    },
+    {
+      "start": 87.34,
+      "end": 91.13,
+      "text": "Quem pegou mais peixe aqui foi eu"
+    },
+    {
+      "start": 91.13,
+      "end": 96.82,
+      "text": "Pacu, sarguinho, tabaqui"
+    },
+    {
+      "start": 96.82,
+      "end": 103.06,
+      "text": "Depois ele come peixe"
+    },
+    {
+      "start": 103.06,
+      "end": 107.32,
+      "text": "Pega um aí"
+    },
+    {
+      "start": 107.32,
+      "end": 119.04,
+      "text": "Puxou outro lá"
+    },
+    {
+      "start": 119.04,
+      "end": 135.64,
+      "text": "Aí ó, toma"
+    },
+    {
+      "start": 135.64,
+      "end": 136.88,
+      "text": "Errou"
+    },
+    {
+      "start": 136.88,
+      "end": 142.26,
+      "text": "Errou também"
+    },
+    {
+      "start": 142.26,
+      "end": 148.51,
+      "text": "Toma"
+    },
+    {
+      "start": 148.51,
+      "end": 151.99,
+      "text": "Acabai meu braço esse jeito"
+    },
+    {
+      "start": 151.99,
+      "end": 157.51,
+      "text": "Tá pegando aí embaixo, hein"
+    },
+    {
+      "start": 157.51,
+      "end": 166.77,
+      "text": "Vai ali, vai ali"
+    },
+    {
+      "start": 166.77,
+      "end": 166.99,
+      "text": "Vai"
+    },
+    {
+      "start": 166.99,
+      "end": 167.99,
+      "text": "Puxou um peixe aí"
+    },
+    {
+      "start": 167.99,
+      "end": 173.91,
+      "text": "Toda solta aqui, ó"
+    },
+    {
+      "start": 173.91,
+      "end": 185.18,
+      "text": "Não tem peixe"
+    },
+    {
+      "start": 185.18,
+      "end": 186.76,
+      "text": "Não tem peixe aí"
+    },
+    {
+      "start": 186.76,
+      "end": 187.7,
+      "text": "Não tem peixe aí"
+    },
+    {
+      "start": 187.7,
+      "end": 188.82,
+      "text": "Não tem peixe aí"
+    }
+  ],
+  "duracao_seg": 200.59,
+  "idioma_detectado": "pt"
+}

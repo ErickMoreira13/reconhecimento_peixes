@@ -1,0 +1,17 @@
+{
+  "texto": "Tem uns dois ou três peixes aí, né? Olha aí, minha irmã, você vinha aqui para Santarém, para Coval.",
+  "segmentos": [
+    {
+      "start": 4.78,
+      "end": 10.73,
+      "text": "Tem uns dois ou três peixes aí, né?"
+    },
+    {
+      "start": 13.54,
+      "end": 17.28,
+      "text": "Olha aí, minha irmã, você vinha aqui para Santarém, para Coval."
+    }
+  ],
+  "duracao_seg": 18.01,
+  "idioma_detectado": "pt"
+}

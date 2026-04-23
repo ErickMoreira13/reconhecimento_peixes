@@ -1,0 +1,27 @@
+{
+  "texto": "E aí, Wilson, hein? Pegaram um pintadão desse com material de pegar piau, ó. Dá uma mão na um dobro. Aê! Valeu, Wilson! Olha o pintado!",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 4.35,
+      "text": "E aí, Wilson, hein? Pegaram um pintadão desse com material de pegar piau, ó."
+    },
+    {
+      "start": 12.88,
+      "end": 14.02,
+      "text": "Dá uma mão na um dobro."
+    },
+    {
+      "start": 25.83,
+      "end": 29.78,
+      "text": "Aê! Valeu, Wilson!"
+    },
+    {
+      "start": 29.78,
+      "end": 31.32,
+      "text": "Olha o pintado!"
+    }
+  ],
+  "duracao_seg": 33.75,
+  "idioma_detectado": "pt"
+}
