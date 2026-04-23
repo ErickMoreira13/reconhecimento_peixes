@@ -1,0 +1,57 @@
+{
+  "texto": "Me fala aqui, e sobre o caboclo d'água, o senhor sabe, conhece caboclo d'água? Conheço demais, é meu amigo número um, é meu amigo número um, inclusive, eu falo a oração dele e eu converso muito com ele, como é que eu converso com ele? Eu chamo ele, o meu compadrinho aqui, eu tô precisando de um peixe, de um surubim, de longe eu vejo ele, ele não fala, mas tudo que eu falo com ele, eu digo, aí o compadrinho tá bom, ele faz bem assim, ó, digo o compadrinho que eu tô querendo um peixe, tem gente que se eu me arrumar um peixe amanhã, ele ó, continua assim, aí eu pego, arrumo as horas, só que eu tento levar pra ele a pinga e o fumo, sabe? Aí eu levo a pinga e o fumo e põe no seco, porque o compadrinho não fumo, ele não fuma, ele masca, agora a pinga ele bebe, o compadrinho com uma comadre, ele bebe a pinga, fica alegre, aí ele dá o peixe pra gente dobrado, só que é o seguinte, tem que falar e cumprir, porque se a pessoa falar que vai dar a pinga, ele dá o peixe, se a pessoa não dá a pinga e não fumo, quando é de noite ele vira o barco da pessoa, e aconteceu com muito pescador que fez isso, aí ele, é coisa séria, eu me concentro e falo minhas orações, minhas orações começam assim, ó, eu tô na embola, na carretia, mulher preguiçosa, não costa nem filha, se deito de noite, levanta meio-dia, com dor de cabeça, com maleconia, capéia na mão, abulcão na família, três sul, três norte, três baía, três sertão, três gaola, três sofês, três pegas, três gavião, sei que aí não vou morar até na senhora, valendo a senhora vim, valendo a senhora vá, com arruda, pó do pião, dendê, cerra do cachimbo, dandá, se eu for contar o que eu sei, você e o dia pra mim é pouco e a noite também não dá, muito pra contar, imagina, eu conto sem imaginar, sou poeta e canto bem, tenho força na garganta, quem nasceu na minha teta, trabalha como canta, e quem mora na beira do São Francisco, tanto conta caso, como pesca, e aqui sou um grande profissional. E mentira não funciona? Não, mentira não é comigo não, você falou de mentira, eu tô fora, eu detesto mentira, um dia eu tava aqui, chegou um cara mentindo aqui, ele falou, meu amigo, você casca fora, aqui não cabe dois não, só cabe ele, aí ele cascou fora, vai embora.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 21.49,
+      "text": "Me fala aqui, e sobre o caboclo d'água, o senhor sabe, conhece caboclo d'água?"
+    },
+    {
+      "start": 21.49,
+      "end": 29.71,
+      "text": "Conheço demais, é meu amigo número um, é meu amigo número um, inclusive, eu falo a oração dele e eu converso muito com ele, como é que eu converso com ele?"
+    },
+    {
+      "start": 29.71,
+      "end": 37.71,
+      "text": "Eu chamo ele, o meu compadrinho aqui, eu tô precisando de um peixe, de um surubim, de longe eu vejo ele, ele não fala, mas tudo que eu falo com ele, eu digo,"
+    },
+    {
+      "start": 37.71,
+      "end": 48.71,
+      "text": "aí o compadrinho tá bom, ele faz bem assim, ó, digo o compadrinho que eu tô querendo um peixe, tem gente que se eu me arrumar um peixe amanhã, ele ó, continua assim, aí eu pego, arrumo as horas, só que eu tento levar pra ele a pinga e o fumo, sabe?"
+    },
+    {
+      "start": 48.71,
+      "end": 63.71,
+      "text": "Aí eu levo a pinga e o fumo e põe no seco, porque o compadrinho não fumo, ele não fuma, ele masca, agora a pinga ele bebe, o compadrinho com uma comadre, ele bebe a pinga, fica alegre, aí ele dá o peixe pra gente dobrado, só que é o seguinte, tem que falar e cumprir,"
+    },
+    {
+      "start": 63.71,
+      "end": 76.71,
+      "text": "porque se a pessoa falar que vai dar a pinga, ele dá o peixe, se a pessoa não dá a pinga e não fumo, quando é de noite ele vira o barco da pessoa, e aconteceu com muito pescador que fez isso, aí ele, é coisa séria, eu me concentro e falo minhas orações, minhas orações começam assim, ó,"
+    },
+    {
+      "start": 76.71,
+      "end": 85.71,
+      "text": "eu tô na embola, na carretia, mulher preguiçosa, não costa nem filha, se deito de noite, levanta meio-dia, com dor de cabeça, com maleconia, capéia na mão, abulcão na família,"
+    },
+    {
+      "start": 85.71,
+      "end": 98.71,
+      "text": "três sul, três norte, três baía, três sertão, três gaola, três sofês, três pegas, três gavião, sei que aí não vou morar até na senhora, valendo a senhora vim, valendo a senhora vá, com arruda, pó do pião, dendê, cerra do cachimbo, dandá, se eu for contar o que eu sei,"
+    },
+    {
+      "start": 98.71,
+      "end": 114.77,
+      "text": "você e o dia pra mim é pouco e a noite também não dá, muito pra contar, imagina, eu conto sem imaginar, sou poeta e canto bem, tenho força na garganta, quem nasceu na minha teta, trabalha como canta, e quem mora na beira do São Francisco, tanto conta caso, como pesca, e aqui sou um grande profissional."
+    },
+    {
+      "start": 114.77,
+      "end": 126.77,
+      "text": "E mentira não funciona? Não, mentira não é comigo não, você falou de mentira, eu tô fora, eu detesto mentira, um dia eu tava aqui, chegou um cara mentindo aqui, ele falou, meu amigo, você casca fora, aqui não cabe dois não, só cabe ele, aí ele cascou fora, vai embora."
+    }
+  ],
+  "duracao_seg": 145.07,
+  "idioma_detectado": "pt"
+}

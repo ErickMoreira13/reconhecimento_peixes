@@ -1,0 +1,82 @@
+{
+  "texto": "Tem mais! Tem mais não, né? Aí, ó, aí, ó! Olha aí! Uhul, tá linda! Ah! Ah! Fique bravo, né? 35? É! Ficou bastante, rapaz! Ficou bastante, mas tá bom! Ah, imagina! Entendeu? Ah, é! Ah, é!",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.66,
+      "text": "Tem mais!"
+    },
+    {
+      "start": 2.66,
+      "end": 4.66,
+      "text": "Tem mais não, né?"
+    },
+    {
+      "start": 4.66,
+      "end": 9.44,
+      "text": "Aí, ó, aí, ó!"
+    },
+    {
+      "start": 9.44,
+      "end": 18.48,
+      "text": "Olha aí!"
+    },
+    {
+      "start": 20.48,
+      "end": 31.09,
+      "text": "Uhul, tá linda!"
+    },
+    {
+      "start": 31.09,
+      "end": 33.09,
+      "text": "Ah!"
+    },
+    {
+      "start": 33.09,
+      "end": 35.18,
+      "text": "Ah!"
+    },
+    {
+      "start": 35.18,
+      "end": 37.18,
+      "text": "Fique bravo, né?"
+    },
+    {
+      "start": 37.18,
+      "end": 39.18,
+      "text": "35? É!"
+    },
+    {
+      "start": 39.18,
+      "end": 41.18,
+      "text": "Ficou bastante, rapaz!"
+    },
+    {
+      "start": 41.18,
+      "end": 43.18,
+      "text": "Ficou bastante, mas tá bom!"
+    },
+    {
+      "start": 43.18,
+      "end": 45.18,
+      "text": "Ah, imagina!"
+    },
+    {
+      "start": 45.18,
+      "end": 47.18,
+      "text": "Entendeu?"
+    },
+    {
+      "start": 47.18,
+      "end": 49.18,
+      "text": "Ah, é!"
+    },
+    {
+      "start": 49.18,
+      "end": 51.18,
+      "text": "Ah, é!"
+    }
+  ],
+  "duracao_seg": 50.37,
+  "idioma_detectado": "pt"
+}

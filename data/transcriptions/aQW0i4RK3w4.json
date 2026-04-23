@@ -1,0 +1,42 @@
+{
+  "texto": "Deus, eu tenho tantas bênçãos Minha vida enxerga Mas vejo as suas bondas contra Da que sede Suas bênçãos eu ir contar Fazer Por isso eu não vou",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Deus, eu tenho tantas bênçãos"
+    },
+    {
+      "start": 3.44,
+      "end": 7.08,
+      "text": "Minha vida enxerga"
+    },
+    {
+      "start": 7.08,
+      "end": 15.35,
+      "text": "Mas vejo as suas bondas contra"
+    },
+    {
+      "start": 15.35,
+      "end": 27.68,
+      "text": "Da que sede"
+    },
+    {
+      "start": 27.68,
+      "end": 32.88,
+      "text": "Suas bênçãos eu ir contar"
+    },
+    {
+      "start": 32.88,
+      "end": 38.99,
+      "text": "Fazer"
+    },
+    {
+      "start": 38.99,
+      "end": 44.6,
+      "text": "Por isso eu não vou"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

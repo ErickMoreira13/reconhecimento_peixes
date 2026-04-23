@@ -1,0 +1,27 @@
+{
+  "texto": "Baixo o chapéu e pego o isqueiro, taca fogo no paieiro Amanhã eu não trabalho, que meu pai é fazendeiro No piseiro, no rodeiro, bem que hoje eu tô sem freio As novinhas tão querendo a pegada do boiadeiro",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 3.52,
+      "text": "Baixo o chapéu e pego o isqueiro, taca fogo no paieiro"
+    },
+    {
+      "start": 3.52,
+      "end": 6.36,
+      "text": "Amanhã eu não trabalho, que meu pai é fazendeiro"
+    },
+    {
+      "start": 6.36,
+      "end": 9.24,
+      "text": "No piseiro, no rodeiro, bem que hoje eu tô sem freio"
+    },
+    {
+      "start": 9.24,
+      "end": 12.4,
+      "text": "As novinhas tão querendo a pegada do boiadeiro"
+    }
+  ],
+  "duracao_seg": 12.97,
+  "idioma_detectado": "pt"
+}

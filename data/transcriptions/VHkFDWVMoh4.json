@@ -1,0 +1,17 @@
+{
+  "texto": "Deitado numa rede pra ver esse descanso Uma pinga de engenho a hora que...",
+  "segmentos": [
+    {
+      "start": 1.81,
+      "end": 4.55,
+      "text": "Deitado numa rede pra ver esse descanso"
+    },
+    {
+      "start": 4.55,
+      "end": 6.72,
+      "text": "Uma pinga de engenho a hora que..."
+    }
+  ],
+  "duracao_seg": 12.55,
+  "idioma_detectado": "pt"
+}

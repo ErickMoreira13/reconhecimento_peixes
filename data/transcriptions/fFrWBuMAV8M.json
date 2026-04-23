@@ -1,0 +1,37 @@
+{
+  "texto": "Sou caboclo, sou pacato Sou caipira, sou do mato Sou feliz e como sou Ao meu sertão eu sou grato Desta terra eu sou nato Vivo bem aqui estou Por aqui não tem assalto Quando o calor está alto Não precisa cão que alerta Pensar no medo com a porta aberta Sem pés querer o esporte Pra viola a passar a esporte",
+  "segmentos": [
+    {
+      "start": 25.71,
+      "end": 30.51,
+      "text": "Sou caboclo, sou pacato Sou caipira, sou do mato"
+    },
+    {
+      "start": 30.51,
+      "end": 39.02,
+      "text": "Sou feliz e como sou Ao meu sertão eu sou grato"
+    },
+    {
+      "start": 39.02,
+      "end": 44.93,
+      "text": "Desta terra eu sou nato Vivo bem aqui estou"
+    },
+    {
+      "start": 44.93,
+      "end": 53.38,
+      "text": "Por aqui não tem assalto Quando o calor está alto"
+    },
+    {
+      "start": 53.38,
+      "end": 67.74,
+      "text": "Não precisa cão que alerta Pensar no medo com a porta aberta"
+    },
+    {
+      "start": 67.74,
+      "end": 199.11,
+      "text": "Sem pés querer o esporte Pra viola a passar a esporte"
+    }
+  ],
+  "duracao_seg": 231.19,
+  "idioma_detectado": "pt"
+}

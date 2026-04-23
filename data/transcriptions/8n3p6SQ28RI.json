@@ -1,0 +1,17 @@
+{
+  "texto": "Pega devagar na ceba pra evitar o espanto Tira a branca da capanga",
+  "segmentos": [
+    {
+      "start": 0.88,
+      "end": 11.06,
+      "text": "Pega devagar na ceba pra evitar o espanto"
+    },
+    {
+      "start": 11.06,
+      "end": 13.66,
+      "text": "Tira a branca da capanga"
+    }
+  ],
+  "duracao_seg": 14.77,
+  "idioma_detectado": "pt"
+}

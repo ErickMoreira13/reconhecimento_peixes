@@ -1,0 +1,102 @@
+{
+  "texto": "A gente atraiu o peixe para cá, para um canto com ração, gente. Para a gente pegar só 40 quilos de peixe. E a gente passou a rede aqui só em um canto. Atraímos eles para cá. Minha esposa jogou um pouco de ração aqui em um canto. Para ver se a gente consegue pegar esses 40 quilos de peixe sem mexer no tanque inteiro. Pois esse tanque aqui tem para mais de mil peixes. E não ia compensar a gente jogar a rede. Passar a rede no tanque inteiro para pegar só esses 40 quilos. Será que vai dar certo, gente? Vamos ver, né? Bora, gente, conferir para ver se vem peixe. Olha só, será que tem peixe aqui dentro dessa rede, gente? Olha só, foi só eu mais a minha esposa que passamos aqui em um canto, né? Vamos ver, né? Riba aí, mozinho. Riba aí para ver se tem peixe aqui dentro. Olha aí, gente. Deu foi certo, gente. Com certeza que dá os 40 quilos de peixe que a gente está precisando para a gente fazer a feira. E valeu!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "A gente atraiu o peixe para cá, para um canto com ração, gente."
+    },
+    {
+      "start": 3.78,
+      "end": 6.86,
+      "text": "Para a gente pegar só 40 quilos de peixe."
+    },
+    {
+      "start": 7.34,
+      "end": 9.92,
+      "text": "E a gente passou a rede aqui só em um canto."
+    },
+    {
+      "start": 10.16,
+      "end": 11.22,
+      "text": "Atraímos eles para cá."
+    },
+    {
+      "start": 11.32,
+      "end": 13.44,
+      "text": "Minha esposa jogou um pouco de ração aqui em um canto."
+    },
+    {
+      "start": 13.92,
+      "end": 18.18,
+      "text": "Para ver se a gente consegue pegar esses 40 quilos de peixe sem mexer no tanque inteiro."
+    },
+    {
+      "start": 18.28,
+      "end": 20.98,
+      "text": "Pois esse tanque aqui tem para mais de mil peixes."
+    },
+    {
+      "start": 21.68,
+      "end": 24.6,
+      "text": "E não ia compensar a gente jogar a rede."
+    },
+    {
+      "start": 25.38,
+      "end": 29.36,
+      "text": "Passar a rede no tanque inteiro para pegar só esses 40 quilos."
+    },
+    {
+      "start": 29.36,
+      "end": 31.18,
+      "text": "Será que vai dar certo, gente? Vamos ver, né?"
+    },
+    {
+      "start": 31.52,
+      "end": 33.34,
+      "text": "Bora, gente, conferir para ver se vem peixe."
+    },
+    {
+      "start": 33.4,
+      "end": 35.6,
+      "text": "Olha só, será que tem peixe aqui dentro dessa rede, gente?"
+    },
+    {
+      "start": 35.64,
+      "end": 38.8,
+      "text": "Olha só, foi só eu mais a minha esposa que passamos aqui em um canto, né?"
+    },
+    {
+      "start": 39.18,
+      "end": 39.82,
+      "text": "Vamos ver, né?"
+    },
+    {
+      "start": 40.36,
+      "end": 42.52,
+      "text": "Riba aí, mozinho. Riba aí para ver se tem peixe aqui dentro."
+    },
+    {
+      "start": 43.14,
+      "end": 43.78,
+      "text": "Olha aí, gente."
+    },
+    {
+      "start": 44.48,
+      "end": 45.58,
+      "text": "Deu foi certo, gente."
+    },
+    {
+      "start": 45.96,
+      "end": 51.42,
+      "text": "Com certeza que dá os 40 quilos de peixe que a gente está precisando para a gente fazer a feira."
+    },
+    {
+      "start": 51.64,
+      "end": 52.12,
+      "text": "E valeu!"
+    }
+  ],
+  "duracao_seg": 52.15,
+  "idioma_detectado": "pt"
+}

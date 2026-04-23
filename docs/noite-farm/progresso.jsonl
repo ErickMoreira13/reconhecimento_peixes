@@ -187,3 +187,5 @@
 {"ts":"2026-04-23T00:06:51-04:00","ciclo":2,"contagem":{"baixado": 34, "extraido": 6, "falhou": 985, "pendente": 2697, "transcrito": 6236, "verificado": 46}}
 {"ts":"2026-04-23T00:39:08-04:00","ciclo":3,"contagem":{"baixado": 33, "extraido": 6, "falhou": 985, "pendente": 2648, "transcrito": 6286, "verificado": 46}}
 {"ts":"2026-04-23T01:33:17-04:00","ciclo":4,"contagem":{"baixado": 32, "extraido": 6, "falhou": 985, "pendente": 2599, "transcrito": 6336, "verificado": 46}}
+{"ts":"2026-04-23T02:24:25-04:00","ciclo":5,"contagem":{"baixado": 31, "extraido": 6, "falhou": 985, "pendente": 2550, "transcrito": 6386, "verificado": 46}}
+{"ts":"2026-04-23T03:08:41-04:00","ciclo":6,"contagem":{"baixado": 30, "extraido": 6, "falhou": 985, "pendente": 2501, "transcrito": 6436, "verificado": 46}}

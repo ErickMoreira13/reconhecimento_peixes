@@ -1,0 +1,37 @@
+{
+  "texto": "Essa onça pintada entrou num rancho de pescaria que segundo informações fica no Paraguai. O caseiro estava deitado na rede e percebeu a aproximação da onça e resolveu subir num lugar alto e começou a gravar. A onça chegou e ficou tranquila e curiosa olhando o lugar, provavelmente não estava à procura de comida pois aparentemente ela está de barriga cheia, e pensa no medo que esse caseiro ficou ao ver a onça tão perto.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.98,
+      "text": "Essa onça pintada entrou num rancho de pescaria que segundo informações fica no Paraguai."
+    },
+    {
+      "start": 5.62,
+      "end": 10.34,
+      "text": "O caseiro estava deitado na rede e percebeu a aproximação da onça e resolveu subir num"
+    },
+    {
+      "start": 10.34,
+      "end": 12.12,
+      "text": "lugar alto e começou a gravar."
+    },
+    {
+      "start": 12.76,
+      "end": 17.38,
+      "text": "A onça chegou e ficou tranquila e curiosa olhando o lugar, provavelmente não estava"
+    },
+    {
+      "start": 17.38,
+      "end": 21.9,
+      "text": "à procura de comida pois aparentemente ela está de barriga cheia, e pensa no medo que"
+    },
+    {
+      "start": 21.9,
+      "end": 24.28,
+      "text": "esse caseiro ficou ao ver a onça tão perto."
+    }
+  ],
+  "duracao_seg": 24.75,
+  "idioma_detectado": "pt"
+}

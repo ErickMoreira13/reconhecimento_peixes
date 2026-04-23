@@ -1,0 +1,17 @@
+{
+  "texto": "Do you believe it like I'm feeling something inside you say I really don't think it's strong enough now",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 10.98,
+      "text": "Do you believe it like I'm feeling something inside you say"
+    },
+    {
+      "start": 10.98,
+      "end": 15.24,
+      "text": "I really don't think it's strong enough now"
+    }
+  ],
+  "duracao_seg": 16.77,
+  "idioma_detectado": "pt"
+}

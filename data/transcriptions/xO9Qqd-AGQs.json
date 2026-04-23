@@ -1,0 +1,47 @@
+{
+  "texto": "This is going to be the craziest microfishing challenge Letting it drop Oh my gosh I can't wait to hook that in real Oh! Oh! Oh! I got him! I got him! I got him! I got him! I can't believe it! The world's smallest here on in real got him",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "This is going to be the craziest microfishing challenge"
+    },
+    {
+      "start": 2.88,
+      "end": 3.66,
+      "text": "Letting it drop"
+    },
+    {
+      "start": 3.66,
+      "end": 4.28,
+      "text": "Oh my gosh"
+    },
+    {
+      "start": 4.28,
+      "end": 6.08,
+      "text": "I can't wait to hook that in real"
+    },
+    {
+      "start": 6.08,
+      "end": 7.76,
+      "text": "Oh! Oh! Oh!"
+    },
+    {
+      "start": 7.76,
+      "end": 9.68,
+      "text": "I got him! I got him! I got him!"
+    },
+    {
+      "start": 9.82,
+      "end": 11.66,
+      "text": "I got him! I can't believe it!"
+    },
+    {
+      "start": 11.86,
+      "end": 13.98,
+      "text": "The world's smallest here on in real got him"
+    }
+  ],
+  "duracao_seg": 14.49,
+  "idioma_detectado": "pt"
+}

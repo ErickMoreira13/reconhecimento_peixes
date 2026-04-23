@@ -1,0 +1,42 @@
+{
+  "texto": "Claudinho vai fazer o pesca e sorte Vai Fim, vai Dois Viver, isso ai não é o que a gente ver Claudinho ta trabalhando na Fischer TV agora Pesca os peixinhos e sorte Os peixes crescer, né Adriel?",
+  "segmentos": [
+    {
+      "start": 5.2,
+      "end": 7.2,
+      "text": "Claudinho vai fazer o pesca e sorte"
+    },
+    {
+      "start": 7.2,
+      "end": 9.23,
+      "text": "Vai Fim, vai"
+    },
+    {
+      "start": 9.23,
+      "end": 12.32,
+      "text": "Dois"
+    },
+    {
+      "start": 12.32,
+      "end": 24.46,
+      "text": "Viver, isso ai não é o que a gente ver"
+    },
+    {
+      "start": 24.46,
+      "end": 28.2,
+      "text": "Claudinho ta trabalhando na Fischer TV agora"
+    },
+    {
+      "start": 28.2,
+      "end": 31.35,
+      "text": "Pesca os peixinhos e sorte"
+    },
+    {
+      "start": 31.35,
+      "end": 49.0,
+      "text": "Os peixes crescer, né Adriel?"
+    }
+  ],
+  "duracao_seg": 57.63,
+  "idioma_detectado": "pt"
+}

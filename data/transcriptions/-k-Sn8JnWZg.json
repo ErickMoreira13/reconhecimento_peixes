@@ -1,0 +1,22 @@
+{
+  "texto": "que eu fiz aqui ó, na embarcação, o rapaz veio aqui ontem, instalou ela aqui ó, essa escada aí, que a nossa dificuldade era subir lá pela frente antes, tá ligado? E aí, vou mostrar pra vocês aqui agora a facilidade de subir aqui ó, tá vendo? Pô, aqui tem um pegadorzinho.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "que eu fiz aqui ó, na embarcação, o rapaz veio aqui ontem, instalou ela aqui ó, essa escada aí,"
+    },
+    {
+      "start": 5.2,
+      "end": 10.68,
+      "text": "que a nossa dificuldade era subir lá pela frente antes, tá ligado? E aí, vou mostrar pra vocês"
+    },
+    {
+      "start": 10.68,
+      "end": 14.94,
+      "text": "aqui agora a facilidade de subir aqui ó, tá vendo? Pô, aqui tem um pegadorzinho."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

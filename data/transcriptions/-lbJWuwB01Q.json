@@ -1,0 +1,17 @@
+{
+  "texto": "E aí pessoal será que dá um frito pegar um bastante campineiro aqui na empresa de furnos todos também mas tão grandes",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 7.27,
+      "text": "E aí pessoal será que dá um frito pegar um bastante campineiro aqui na empresa de"
+    },
+    {
+      "start": 7.27,
+      "end": 9.67,
+      "text": "furnos todos também mas tão grandes"
+    }
+  ],
+  "duracao_seg": 11.15,
+  "idioma_detectado": "pt"
+}

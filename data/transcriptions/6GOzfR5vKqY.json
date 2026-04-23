@@ -1,0 +1,42 @@
+{
+  "texto": "Sábado complicado, hein, Creu? E aí? Onde a gente tá aqui hoje, ó? Vida difícil nossa, né, Creu? Difícil, hein? Nós estudamos, fizemos faculdade e estamos aqui, ó. Vida dura!",
+  "segmentos": [
+    {
+      "start": 0.92,
+      "end": 2.52,
+      "text": "Sábado complicado, hein, Creu?"
+    },
+    {
+      "start": 3.56,
+      "end": 3.94,
+      "text": "E aí?"
+    },
+    {
+      "start": 5.24,
+      "end": 6.82,
+      "text": "Onde a gente tá aqui hoje, ó?"
+    },
+    {
+      "start": 8.05,
+      "end": 9.75,
+      "text": "Vida difícil nossa, né, Creu?"
+    },
+    {
+      "start": 10.09,
+      "end": 10.79,
+      "text": "Difícil, hein?"
+    },
+    {
+      "start": 12.79,
+      "end": 15.69,
+      "text": "Nós estudamos, fizemos faculdade e estamos aqui, ó."
+    },
+    {
+      "start": 15.83,
+      "end": 17.23,
+      "text": "Vida dura!"
+    }
+  ],
+  "duracao_seg": 19.85,
+  "idioma_detectado": "pt"
+}

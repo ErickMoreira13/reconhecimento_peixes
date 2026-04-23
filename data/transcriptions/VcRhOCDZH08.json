@@ -1,0 +1,17 @@
+{
+  "texto": "Aí, ó. Quer vir pescar, ó. Ah, não aguenta, fi. Vai, vomita, vomita. Vomita vai pra lá, pô. Vai voar noz aqui, cara. Ah, não quer vir pescar? Aí, ó.",
+  "segmentos": [
+    {
+      "start": 0.78,
+      "end": 9.1,
+      "text": "Aí, ó. Quer vir pescar, ó. Ah, não aguenta, fi. Vai, vomita, vomita."
+    },
+    {
+      "start": 9.6,
+      "end": 16.63,
+      "text": "Vomita vai pra lá, pô. Vai voar noz aqui, cara. Ah, não quer vir pescar? Aí, ó."
+    }
+  ],
+  "duracao_seg": 16.65,
+  "idioma_detectado": "pt"
+}

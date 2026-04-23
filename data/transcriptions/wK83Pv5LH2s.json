@@ -1,0 +1,222 @@
+{
+  "texto": "sensação boa gente, é essa aqui ó de pescar ó, vou mostrar pra vocês aqui como aqui nesse assunto tá pegando peixe é ligeiro gente ó, agora resta saber se vai vir grande, porque no ozão não tem como escolher né gente, se vai vir pequeno ou se vai vir grande, eu tô aqui pescando a mãe também tá lá pescando, nós já pegamos esses peixes aqui gente, ó, tem quantos peixes é mesmo que vem? Cinco, cinco peixes e aí nós ainda vamos pegar mais, você pegou três, sua mãe pegou dois, tem uma coisa que a gente tem que ter gente, quando tá pescando é paciência olha só isso aí é bonito hein mãe, só a puxada que ele tá fazendo aí ó, e a emoção aí gente, é bom demais eu falei, o pai disse assim, mãe me dê agora a vara pra me pescar aí eu não, eu vou continuar pescando e aí gente, ele não ele não quer vir né mãe se ele deixar muita coxada, ele corre isso de quebrar por isso que tem que deixar com essa folga né mãe na vara, no molinete dependendo do peixe, na mesma hora tem bonzol mas só que eu acolhei mais um pouquinho porque tava muito fodão olha, eu tô suando tô com calor agora acho que vamos banhar nesse aqui de lá e ele nem é tão grande mas a força olha gente, o peixe é pequeno, mas a força que esses peixes tem, ó tambaquinho, tem essa força imagina aí gente, os outros peixes deve ser bom demais pegar um peixe maiorzão do que esse aqui, hein gente e aí e aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.02,
+      "text": "sensação boa gente, é essa aqui ó"
+    },
+    {
+      "start": 2.02,
+      "end": 4.1,
+      "text": "de pescar ó, vou mostrar pra vocês aqui"
+    },
+    {
+      "start": 4.1,
+      "end": 5.8,
+      "text": "como aqui nesse assunto tá pegando peixe"
+    },
+    {
+      "start": 5.8,
+      "end": 7.98,
+      "text": "é ligeiro gente ó, agora resta saber"
+    },
+    {
+      "start": 7.98,
+      "end": 10.06,
+      "text": "se vai vir grande, porque no ozão não tem como escolher"
+    },
+    {
+      "start": 10.06,
+      "end": 12.12,
+      "text": "né gente, se vai vir pequeno ou se vai"
+    },
+    {
+      "start": 12.12,
+      "end": 13.84,
+      "text": "vir grande, eu tô aqui pescando"
+    },
+    {
+      "start": 13.84,
+      "end": 15.94,
+      "text": "a mãe também tá lá pescando, nós já pegamos esses"
+    },
+    {
+      "start": 15.94,
+      "end": 18.04,
+      "text": "peixes aqui gente, ó, tem quantos peixes"
+    },
+    {
+      "start": 18.04,
+      "end": 20.08,
+      "text": "é mesmo que vem? Cinco, cinco peixes"
+    },
+    {
+      "start": 20.08,
+      "end": 21.92,
+      "text": "e aí nós ainda vamos pegar mais, você pegou"
+    },
+    {
+      "start": 21.92,
+      "end": 24.02,
+      "text": "três, sua mãe pegou dois, tem uma coisa que a gente"
+    },
+    {
+      "start": 24.02,
+      "end": 25.9,
+      "text": "tem que ter gente, quando tá pescando é paciência"
+    },
+    {
+      "start": 25.9,
+      "end": 26.9,
+      "text": "olha só"
+    },
+    {
+      "start": 26.9,
+      "end": 32.98,
+      "text": "isso aí é bonito"
+    },
+    {
+      "start": 32.98,
+      "end": 34.84,
+      "text": "hein mãe, só a puxada que ele tá fazendo"
+    },
+    {
+      "start": 34.84,
+      "end": 38.66,
+      "text": "aí ó, e a emoção aí"
+    },
+    {
+      "start": 38.66,
+      "end": 40.36,
+      "text": "gente, é bom demais"
+    },
+    {
+      "start": 40.36,
+      "end": 42.36,
+      "text": "eu falei, o pai disse assim, mãe"
+    },
+    {
+      "start": 42.36,
+      "end": 44.44,
+      "text": "me dê agora a vara pra me pescar"
+    },
+    {
+      "start": 44.44,
+      "end": 46.5,
+      "text": "aí eu não, eu vou continuar pescando"
+    },
+    {
+      "start": 46.5,
+      "end": 47.76,
+      "text": "e aí gente, ele não"
+    },
+    {
+      "start": 47.76,
+      "end": 49.44,
+      "text": "ele não quer vir né mãe"
+    },
+    {
+      "start": 49.44,
+      "end": 52.46,
+      "text": "se ele deixar muita"
+    },
+    {
+      "start": 52.46,
+      "end": 53.88,
+      "text": "coxada, ele corre isso de quebrar"
+    },
+    {
+      "start": 53.88,
+      "end": 56.4,
+      "text": "por isso que tem que deixar com essa folga né mãe"
+    },
+    {
+      "start": 56.4,
+      "end": 58.36,
+      "text": "na vara, no molinete"
+    },
+    {
+      "start": 58.36,
+      "end": 60.36,
+      "text": "dependendo do peixe, na mesma hora tem bonzol"
+    },
+    {
+      "start": 60.36,
+      "end": 63.03,
+      "text": "mas só que eu acolhei mais um pouquinho"
+    },
+    {
+      "start": 63.03,
+      "end": 64.23,
+      "text": "porque tava muito"
+    },
+    {
+      "start": 64.23,
+      "end": 65.23,
+      "text": "fodão"
+    },
+    {
+      "start": 65.23,
+      "end": 67.08,
+      "text": "olha, eu tô suando"
+    },
+    {
+      "start": 67.08,
+      "end": 68.2,
+      "text": "tô com calor agora"
+    },
+    {
+      "start": 68.2,
+      "end": 69.92,
+      "text": "acho que vamos banhar nesse aqui de lá"
+    },
+    {
+      "start": 69.92,
+      "end": 71.98,
+      "text": "e ele nem é tão grande"
+    },
+    {
+      "start": 71.98,
+      "end": 72.98,
+      "text": "mas a força"
+    },
+    {
+      "start": 72.98,
+      "end": 74.98,
+      "text": "olha gente, o peixe é pequeno, mas a força que esses peixes tem, ó"
+    },
+    {
+      "start": 74.98,
+      "end": 76.98,
+      "text": "tambaquinho, tem essa força"
+    },
+    {
+      "start": 76.98,
+      "end": 78.98,
+      "text": "imagina aí gente, os outros peixes"
+    },
+    {
+      "start": 78.98,
+      "end": 80.78,
+      "text": "deve ser bom demais"
+    },
+    {
+      "start": 80.78,
+      "end": 83.28,
+      "text": "pegar um peixe maiorzão do que esse aqui, hein gente"
+    },
+    {
+      "start": 83.28,
+      "end": 86.7,
+      "text": "e aí"
+    },
+    {
+      "start": 86.7,
+      "end": 88.7,
+      "text": "e aí"
+    }
+  ],
+  "duracao_seg": 83.41,
+  "idioma_detectado": "pt"
+}

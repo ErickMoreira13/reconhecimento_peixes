@@ -1,0 +1,27 @@
+{
+  "texto": "Esta letra é recordando uma pescaria que eu fiz E ao mesmo tempo homenageio meus companheiros de pesca Irafiscando jundiaba e liscando a piava Pulando atrás do...",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 3.78,
+      "text": "Esta letra é recordando uma pescaria que eu fiz"
+    },
+    {
+      "start": 3.78,
+      "end": 6.74,
+      "text": "E ao mesmo tempo homenageio meus companheiros de pesca"
+    },
+    {
+      "start": 6.74,
+      "end": 13.96,
+      "text": "Irafiscando jundiaba e liscando a piava"
+    },
+    {
+      "start": 13.96,
+      "end": 15.06,
+      "text": "Pulando atrás do..."
+    }
+  ],
+  "duracao_seg": 15.09,
+  "idioma_detectado": "pt"
+}

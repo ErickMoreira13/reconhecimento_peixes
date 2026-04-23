@@ -1,0 +1,22 @@
+{
+  "texto": "Deus está te ensinando a ser forte Nem tudo aquilo que é mal vem pra morte É pra você crescer",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Deus está te ensinando a ser forte"
+    },
+    {
+      "start": 3.3,
+      "end": 7.02,
+      "text": "Nem tudo aquilo que é mal vem pra morte"
+    },
+    {
+      "start": 7.02,
+      "end": 10.24,
+      "text": "É pra você crescer"
+    }
+  ],
+  "duracao_seg": 12.97,
+  "idioma_detectado": "pt"
+}

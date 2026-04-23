@@ -1,0 +1,37 @@
+{
+  "texto": "Os bagres do madeira, nadam sem cessar No canto da canoa, histórias pra contar Pescador insiste, sonho não se esqueça Tchanzol na mão, dá na cabeça Canal de pescaria, onde o tempo escuta Os risos misturados com o som",
+  "segmentos": [
+    {
+      "start": 0.85,
+      "end": 5.61,
+      "text": "Os bagres do madeira, nadam sem cessar"
+    },
+    {
+      "start": 5.61,
+      "end": 10.44,
+      "text": "No canto da canoa, histórias pra contar"
+    },
+    {
+      "start": 10.44,
+      "end": 16.52,
+      "text": "Pescador insiste, sonho não se esqueça"
+    },
+    {
+      "start": 16.52,
+      "end": 21.41,
+      "text": "Tchanzol na mão, dá na cabeça"
+    },
+    {
+      "start": 21.41,
+      "end": 48.2,
+      "text": "Canal de pescaria, onde o tempo escuta"
+    },
+    {
+      "start": 48.2,
+      "end": 52.21,
+      "text": "Os risos misturados com o som"
+    }
+  ],
+  "duracao_seg": 52.79,
+  "idioma_detectado": "pt"
+}

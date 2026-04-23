@@ -1,0 +1,17 @@
+{
+  "texto": "e aí ó dia 11 de junho forte aí ó tá vendo aí ó só coisa linda cara fica em casa aí para matar o que quando é para matar o peixe é peixe para 5 mil no nosso lance",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 12.4,
+      "text": "e aí ó dia 11 de junho forte aí ó tá vendo aí ó só coisa linda cara fica em"
+    },
+    {
+      "start": 12.4,
+      "end": 16.18,
+      "text": "casa aí para matar o que quando é para matar o peixe é peixe para 5 mil no nosso lance"
+    }
+  ],
+  "duracao_seg": 16.29,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Um filhote, um filhote atrás. Olha só, Adriano. Olha lá, já apareceu. Tem dois filhotes. Dá uma armadinha. Tá com dor de barriga, tá comendo um pouquinho.",
+  "segmentos": [
+    {
+      "start": 7.28,
+      "end": 37.22,
+      "text": "Um filhote, um filhote atrás."
+    },
+    {
+      "start": 47.58,
+      "end": 48.96,
+      "text": "Olha só, Adriano."
+    },
+    {
+      "start": 49.5,
+      "end": 52.21,
+      "text": "Olha lá, já apareceu."
+    },
+    {
+      "start": 60.46,
+      "end": 61.32,
+      "text": "Tem dois filhotes."
+    },
+    {
+      "start": 61.32,
+      "end": 70.26,
+      "text": "Dá uma armadinha."
+    },
+    {
+      "start": 70.92,
+      "end": 73.1,
+      "text": "Tá com dor de barriga, tá comendo um pouquinho."
+    }
+  ],
+  "duracao_seg": 81.81,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "E aí galera, vamos comer um peixinho aí, um peixinho frito? Põe um limãozinho aí pra tirar a reima aí, mas não é imitando o galego lá não, viu? Um limãozinho pra tirar a reima aí, ó, um peixinho aí, um piau.",
+  "segmentos": [
+    {
+      "start": 2.96,
+      "end": 5.64,
+      "text": "E aí galera, vamos comer um peixinho aí, um peixinho frito?"
+    },
+    {
+      "start": 6.24,
+      "end": 9.54,
+      "text": "Põe um limãozinho aí pra tirar a reima aí, mas não é imitando o galego lá não, viu?"
+    },
+    {
+      "start": 10.3,
+      "end": 13.18,
+      "text": "Um limãozinho pra tirar a reima aí, ó, um peixinho aí, um piau."
+    }
+  ],
+  "duracao_seg": 15.07,
+  "idioma_detectado": "pt"
+}

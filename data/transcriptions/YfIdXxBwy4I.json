@@ -1,0 +1,47 @@
+{
+  "texto": "Iria rever o sol com seus raios fluorescentes Escondendo atrás da serra, roubando o dia da gente O pé de dama da noite, junto ao mastro de São João Que até hoje perfuma a minha imaginação O caso é que eu não posso fazer o tempo voltar Cão sem chumaço, que já não pode cantar Ou vivendo na cidade, perdendo as forças aos poucos Mas não consigo perder o meu jeitão de caboclo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.12,
+      "text": "Iria rever o sol com seus raios fluorescentes"
+    },
+    {
+      "start": 6.12,
+      "end": 12.32,
+      "text": "Escondendo atrás da serra, roubando o dia da gente"
+    },
+    {
+      "start": 12.32,
+      "end": 18.49,
+      "text": "O pé de dama da noite, junto ao mastro de São João"
+    },
+    {
+      "start": 18.49,
+      "end": 24.95,
+      "text": "Que até hoje perfuma a minha imaginação"
+    },
+    {
+      "start": 24.95,
+      "end": 31.17,
+      "text": "O caso é que eu não posso fazer o tempo voltar"
+    },
+    {
+      "start": 31.17,
+      "end": 38.24,
+      "text": "Cão sem chumaço, que já não pode cantar"
+    },
+    {
+      "start": 38.24,
+      "end": 44.99,
+      "text": "Ou vivendo na cidade, perdendo as forças aos poucos"
+    },
+    {
+      "start": 44.99,
+      "end": 51.12,
+      "text": "Mas não consigo perder o meu jeitão de caboclo"
+    }
+  ],
+  "duracao_seg": 55.47,
+  "idioma_detectado": "pt"
+}

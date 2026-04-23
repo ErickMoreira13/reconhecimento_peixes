@@ -1,0 +1,27 @@
+{
+  "texto": "Galera, se liga só na quantidade de pirarucu que tem aqui dentro desse lago. Olha isso. O cara só jogou a isca e ele arrancou na hora. Esse peixe é monstruoso demais.",
+  "segmentos": [
+    {
+      "start": 0.22,
+      "end": 4.86,
+      "text": "Galera, se liga só na quantidade de pirarucu que tem aqui dentro desse lago."
+    },
+    {
+      "start": 5.06,
+      "end": 5.6,
+      "text": "Olha isso."
+    },
+    {
+      "start": 6.02,
+      "end": 8.44,
+      "text": "O cara só jogou a isca e ele arrancou na hora."
+    },
+    {
+      "start": 8.94,
+      "end": 11.02,
+      "text": "Esse peixe é monstruoso demais."
+    }
+  ],
+  "duracao_seg": 11.07,
+  "idioma_detectado": "pt"
+}

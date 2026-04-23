@@ -1,0 +1,27 @@
+{
+  "texto": "o pessoal estou aqui na comedora de pedra e nós estamos arrumando para ir acampar vai ser a primeira pescada dela comenta aqui se vocês querem ver tudo arrumando mala arrumando tralha é montando a barraca mãe oi gente o filho a filhinha dela tá tão ruim ela quer mostrar para você tá ao contrário a câmera meu amor ao contrário a câmera mas é aqui ó mostra só não posso mostrar bem pessoal",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 13.34,
+      "text": "o pessoal estou aqui na comedora de pedra e nós estamos arrumando para ir acampar vai ser a"
+    },
+    {
+      "start": 13.34,
+      "end": 19.48,
+      "text": "primeira pescada dela comenta aqui se vocês querem ver tudo arrumando mala arrumando tralha"
+    },
+    {
+      "start": 19.48,
+      "end": 28.96,
+      "text": "é montando a barraca mãe oi gente o filho a filhinha dela tá tão ruim ela quer mostrar para você tá ao"
+    },
+    {
+      "start": 28.96,
+      "end": 44.61,
+      "text": "contrário a câmera meu amor ao contrário a câmera mas é aqui ó mostra só não posso mostrar bem pessoal"
+    }
+  ],
+  "duracao_seg": 44.89,
+  "idioma_detectado": "pt"
+}

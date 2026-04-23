@@ -1,0 +1,42 @@
+{
+  "texto": "o meu ranchinho na beira do rio só pra me pescar, pra fugir do barulhão da cidade grande pra não estressar, lá eu fico amoitado, jogo um farelinho pra cebar o poço, até esqueço que no banco eu tô atolado até o pescoço, ai como é difícil a vida do pescador, de noite ele rosca o anzor, na gaiada da taboca, de dia ele queima no sor, dando banho na minhoca, levanto de madrugada, pego a minha enxada e começo a cavar, mas é pra arrancar minhoca, pra fisgar uns bagra e pra nós almoçar, depois arranco umas bandioca e jogo na água pra elas estragar.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.93,
+      "text": "o meu ranchinho na beira do rio só pra me pescar, pra fugir do barulhão da cidade grande"
+    },
+    {
+      "start": 7.93,
+      "end": 16.81,
+      "text": "pra não estressar, lá eu fico amoitado, jogo um farelinho pra cebar o poço, até esqueço"
+    },
+    {
+      "start": 16.81,
+      "end": 26.99,
+      "text": "que no banco eu tô atolado até o pescoço, ai como é difícil a vida do pescador, de"
+    },
+    {
+      "start": 26.99,
+      "end": 36.49,
+      "text": "noite ele rosca o anzor, na gaiada da taboca, de dia ele queima no sor, dando banho na"
+    },
+    {
+      "start": 36.49,
+      "end": 50.22,
+      "text": "minhoca, levanto de madrugada, pego a minha enxada e começo a cavar, mas é pra arrancar"
+    },
+    {
+      "start": 50.22,
+      "end": 57.84,
+      "text": "minhoca, pra fisgar uns bagra e pra nós almoçar, depois arranco umas bandioca e jogo na água"
+    },
+    {
+      "start": 57.84,
+      "end": 59.2,
+      "text": "pra elas estragar."
+    }
+  ],
+  "duracao_seg": 59.97,
+  "idioma_detectado": "pt"
+}
