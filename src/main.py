@@ -105,11 +105,11 @@ def cmd_transcrever(args):
                 prog.advance(task)
                 continue
 
-            # audio gigante (10h+) trava o batch no whisper e estoura timeout
-            # perdendo os outros 49 do ciclo. melhor pular. 150MB em opus 128k
-            # eh ~2.5h de audio, ja e muito pra um video de pescaria normal
+            # audio gigante trava o batch no whisper e estoura timeout perdendo
+            # os outros do ciclo. cap em 1.5GB -- audio e descartado apos
+            # transcrever mesmo, entao nao eh sobre disco, eh sobre tempo
             tam_mb = aud.stat().st_size / 1024 / 1024
-            if tam_mb > 150:
+            if tam_mb > 1500:
                 prog.console.log(f"[yellow]pulando {v['video_id']}: audio muito grande ({tam_mb:.0f}MB)")
                 yt.marca_falhou(v["video_id"], DB_PATH)
                 try:

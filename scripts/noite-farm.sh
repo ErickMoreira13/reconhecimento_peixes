@@ -82,11 +82,11 @@ ciclo() {
     timeout 120 $PY -m src.harvester.loop --max-iter 5 --pausa 3 >>"$LOG" 2>&1 || log "  harvester timeout/falha (segue)"
 
     # 2) baixa
-    # timeout 30min: com yt-dlp rate limitando apos muito uso, 10min nao basta
-    # pra baixar 50 videos. se matar no meio, os audios ja baixados nao entram
-    # no db (orfaos) e sao deletados no proximo ciclo -- desperdicio total
+    # timeout 1h: com yt-dlp rate limitando e audios podendo ser grandes
+    # (ate 1.5GB agora), 30min era apertado. marca inline garante que o que
+    # baixou nao vira orfao se bater timeout
     log "baixar: limit 50 workers 8"
-    timeout 1800 $PY -m src.main baixar --limit 50 --workers 8 >>"$LOG" 2>&1 || log "  baixar falhou"
+    timeout 3600 $PY -m src.main baixar --limit 50 --workers 8 >>"$LOG" 2>&1 || log "  baixar falhou"
 
     # 3) transcreve (delete audio apos)
     # timeout 1h: 50 audios com videos longos (algum de 1h40 no batch) nao cabe
