@@ -1,0 +1,47 @@
+{
+  "texto": "Saludos, jovens. Estamos indo para a pesca com a bendição de Deus. Vamos para a pesca, vento macho. Bom dia. Vamos. A tripulação ao mando de Teco. Está passando um pequeno bote, muito cheio. Por aí o pudemos hundir. Então, temos baixado a velocidade.",
+  "segmentos": [
+    {
+      "start": 1.65,
+      "end": 4.95,
+      "text": "Saludos, jovens. Estamos indo para a pesca com a bendição de Deus."
+    },
+    {
+      "start": 4.95,
+      "end": 6.95,
+      "text": "Vamos para a pesca, vento macho."
+    },
+    {
+      "start": 6.95,
+      "end": 7.95,
+      "text": "Bom dia."
+    },
+    {
+      "start": 24.73,
+      "end": 26.98,
+      "text": "Vamos."
+    },
+    {
+      "start": 26.98,
+      "end": 30.14,
+      "text": "A tripulação ao mando de Teco."
+    },
+    {
+      "start": 30.14,
+      "end": 34.14,
+      "text": "Está passando um pequeno bote, muito cheio."
+    },
+    {
+      "start": 34.14,
+      "end": 36.14,
+      "text": "Por aí o pudemos hundir."
+    },
+    {
+      "start": 36.14,
+      "end": 39.14,
+      "text": "Então, temos baixado a velocidade."
+    }
+  ],
+  "duracao_seg": 59.33,
+  "idioma_detectado": "pt"
+}

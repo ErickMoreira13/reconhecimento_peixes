@@ -1,0 +1,702 @@
+{
+  "texto": "É, meus amigos, hoje a nossa pescaria vai ser nesse local aqui, ó. Aí a gente vai saber se nós vamos pegar alguma coisa agora. Só que, ó, está há muito tempo sem vir gente aqui, hein. Já vi dois jacarés gigantes, eu estou sozinho hoje. Não trouxe um facão, mas vou me arriscar a pescar assim mesmo. A gente está sozinho. Tinha que descer aqui, o problema é essa matagal aí que eu estou com medo. Eu vim até de sandália, que aqui geralmente passa muita gente. O caminho é limpo, né. Hoje está assim ainda, se não me engano, está dentro d'água ali. Se estiver dentro d'água, a gente não vai pescar aqui hoje não. Bora tentar vir aqui. Ó, conseguimos chegar aqui na praia. A estrada é lá. Fizemos a volta e conseguimos chegar aqui na praia. Acho que a gente vai fazer um teste aqui nessa praiazinha. E bora ver se sai alguma coisa. Deixa eu ver se eu consigo mostrar uma coisa para vocês que tem aqui nesse cantinho aqui. Olha o tanto de biguá aí, ó. Está cheio de biguá. Deixa eu ver se eu consigo filmar ele de pertinho aqui, hein. O que está esperando aí? Está aqui. Ali já tem um. Vou me abaixar. Vou chegar quietinho para vocês verem. Aqui, ó. Ali já tem um. Afundou. Afundou isso aqui. Acho que tem outro, hein. Tem outro. Só não sei onde ele está. Está no meio dessas galhadas aqui, ó. O que está aqui afundou. São dois, hein. São dois. O outro está ali por dentro, ó. Ele aparece ainda. Ele aparece. Ele se entocou. A gente vai tentar pegar um peixe de couro. Com o nosso carretilho aqui. Uma isca de sardinha. Certo? É o que o peixe está comendo hoje. Está tendo muita sardinha no rio. A gente vai estar fazendo o primeiro arremesso. Aqui já. Bora fazer o arremesso. Estou aqui, rapaz. Não sei se é grande. Grande, hein. É grande. É grande, é grande. Não brigou ainda. Vai brigando. Olha. Segura. Grandinho, hein. Olha aí, ó. Ele nem cosca aqui na carretilha. E vai para o caldo. Aqui se pôr o cu e coisa dele. Olha aí. Vai para o caldo. Eu vi um peixe gigantinho. Não é esse aqui que está pegando. Ele está aqui dentro. Eu vou arremessar. Eu tinha arremessado a cabeça ali. Para o barba chaco. E agora eu vou tirar. Vou botar a sardinha. Vamos arremessar aqui. É um peixe grande. Bem que não sei se é um pirado de couro. Ou se é um outro peixe de couro. Eu vou estar sabendo agora. Eu vou arremessar aqui para ver se nós dá sorte de bater. Outra isca. Isca vai ter, hein. Isca vai ter. Impossível de pegar um peixe grande. Olha isso. Joguei o peixe inteiro. Olha como é que volta. Impossível. Não tem como pegar peixe grande aqui de jeito nenhum. De tanto peixe miúdo. Olha só. Eu estou só a espinha o peixe. Impossível. Tem um pirado de couro grande aqui dentro. Mas você joga em menos de segundo. A isca vira isso aqui. Então é complicado, né. E a vida não está fácil. Duas varas de molho aí para peixe grande. Eu vi o peixe grande. Eu vi o pirarucu aqui dentro. Grande o pirarucu, hein. Felizmente a gente nunca consegue filmar quando ele aparece. Ele só aparece quando ele quer. Sério. Duas grandes. Para você não dizer que eu estou mentindo. Aquela ali é uma isca para o pirarucu. Está vendo ali o litro? Aquela ali é uma isca. Lá dentro daquela galhada tem outra. E lá no meio tem outra. Lá daquele lado tem outra. E bem ali assim naquele cantinho ali. Estava pulando muito peixe ali. Eu estou desconfiando que os filhotes de pirarucu estão ali. E aqui a gente está sozinho aqui nessa praiazinha. Na esperança, né. De bater alguma coisa. Mas felizmente. Estava meio friozinho mais cedo. E eu achei que não ia dar sede. E aí foi o meu erro, hein. Estou com muita sede. Não trouxe água. E aí a gente vai ter que estar indo embora já. Vou só ver se eu filmo aqui um jacaré que tem aqui. Ver se ele está por aqui ainda, né. Mas ele não está aqui mais não. Ele está ali para dentro daquelas galhadas. Depois que eu apareci. Ele afundou e não boiou mais. Mas tem dois jacarés grandes aqui dentro, hein. E também tem um pirarucu aqui dentro. Está boiando aí. Talvez de noite aí eu volto. Mas por enquanto vamos embora. Não aguento mais não. Olha o lugarzinho top aí.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "É, meus amigos, hoje a nossa pescaria vai ser nesse local aqui, ó."
+    },
+    {
+      "start": 4.46,
+      "end": 7.88,
+      "text": "Aí a gente vai saber se nós vamos pegar alguma coisa agora."
+    },
+    {
+      "start": 8.75,
+      "end": 11.77,
+      "text": "Só que, ó, está há muito tempo sem vir gente aqui, hein."
+    },
+    {
+      "start": 12.54,
+      "end": 15.3,
+      "text": "Já vi dois jacarés gigantes, eu estou sozinho hoje."
+    },
+    {
+      "start": 15.86,
+      "end": 20.8,
+      "text": "Não trouxe um facão, mas vou me arriscar a pescar assim mesmo."
+    },
+    {
+      "start": 21.66,
+      "end": 22.54,
+      "text": "A gente está sozinho."
+    },
+    {
+      "start": 23.12,
+      "end": 26.54,
+      "text": "Tinha que descer aqui, o problema é essa matagal aí que eu estou com medo."
+    },
+    {
+      "start": 26.54,
+      "end": 29.78,
+      "text": "Eu vim até de sandália, que aqui geralmente passa muita gente."
+    },
+    {
+      "start": 30.06,
+      "end": 31.12,
+      "text": "O caminho é limpo, né."
+    },
+    {
+      "start": 31.62,
+      "end": 33.82,
+      "text": "Hoje está assim ainda, se não me engano, está dentro d'água ali."
+    },
+    {
+      "start": 34.38,
+      "end": 37.5,
+      "text": "Se estiver dentro d'água, a gente não vai pescar aqui hoje não."
+    },
+    {
+      "start": 38.3,
+      "end": 39.8,
+      "text": "Bora tentar vir aqui."
+    },
+    {
+      "start": 41.08,
+      "end": 42.82,
+      "text": "Ó, conseguimos chegar aqui na praia."
+    },
+    {
+      "start": 44.0,
+      "end": 44.98,
+      "text": "A estrada é lá."
+    },
+    {
+      "start": 45.94,
+      "end": 48.06,
+      "text": "Fizemos a volta e conseguimos chegar aqui na praia."
+    },
+    {
+      "start": 49.0,
+      "end": 50.94,
+      "text": "Acho que a gente vai fazer um teste aqui nessa praiazinha."
+    },
+    {
+      "start": 51.93,
+      "end": 54.98,
+      "text": "E bora ver se sai alguma coisa."
+    },
+    {
+      "start": 55.4,
+      "end": 58.84,
+      "text": "Deixa eu ver se eu consigo mostrar uma coisa para vocês que tem aqui nesse cantinho aqui."
+    },
+    {
+      "start": 59.4,
+      "end": 60.68,
+      "text": "Olha o tanto de biguá aí, ó."
+    },
+    {
+      "start": 62.96,
+      "end": 63.86,
+      "text": "Está cheio de biguá."
+    },
+    {
+      "start": 64.22,
+      "end": 67.07,
+      "text": "Deixa eu ver se eu consigo filmar ele de pertinho aqui, hein."
+    },
+    {
+      "start": 68.74,
+      "end": 69.68,
+      "text": "O que está esperando aí?"
+    },
+    {
+      "start": 71.7,
+      "end": 72.46,
+      "text": "Está aqui."
+    },
+    {
+      "start": 75.05,
+      "end": 75.89,
+      "text": "Ali já tem um."
+    },
+    {
+      "start": 76.01,
+      "end": 76.85,
+      "text": "Vou me abaixar."
+    },
+    {
+      "start": 77.55,
+      "end": 79.01,
+      "text": "Vou chegar quietinho para vocês verem."
+    },
+    {
+      "start": 80.85,
+      "end": 81.35,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 81.63,
+      "end": 83.28,
+      "text": "Ali já tem um."
+    },
+    {
+      "start": 83.6,
+      "end": 84.08,
+      "text": "Afundou."
+    },
+    {
+      "start": 85.14,
+      "end": 85.94,
+      "text": "Afundou isso aqui."
+    },
+    {
+      "start": 87.16,
+      "end": 88.08,
+      "text": "Acho que tem outro, hein."
+    },
+    {
+      "start": 88.52,
+      "end": 89.76,
+      "text": "Tem outro."
+    },
+    {
+      "start": 90.91,
+      "end": 91.73,
+      "text": "Só não sei onde ele está."
+    },
+    {
+      "start": 91.81,
+      "end": 93.19,
+      "text": "Está no meio dessas galhadas aqui, ó."
+    },
+    {
+      "start": 95.63,
+      "end": 96.85,
+      "text": "O que está aqui afundou."
+    },
+    {
+      "start": 98.22,
+      "end": 99.1,
+      "text": "São dois, hein."
+    },
+    {
+      "start": 99.24,
+      "end": 99.84,
+      "text": "São dois."
+    },
+    {
+      "start": 99.84,
+      "end": 102.1,
+      "text": "O outro está ali por dentro, ó."
+    },
+    {
+      "start": 103.78,
+      "end": 104.82,
+      "text": "Ele aparece ainda."
+    },
+    {
+      "start": 104.88,
+      "end": 105.34,
+      "text": "Ele aparece."
+    },
+    {
+      "start": 105.46,
+      "end": 106.26,
+      "text": "Ele se entocou."
+    },
+    {
+      "start": 106.72,
+      "end": 109.85,
+      "text": "A gente vai tentar pegar um peixe de couro."
+    },
+    {
+      "start": 110.32,
+      "end": 112.54,
+      "text": "Com o nosso carretilho aqui."
+    },
+    {
+      "start": 113.42,
+      "end": 115.44,
+      "text": "Uma isca de sardinha."
+    },
+    {
+      "start": 115.78,
+      "end": 116.08,
+      "text": "Certo?"
+    },
+    {
+      "start": 116.2,
+      "end": 117.56,
+      "text": "É o que o peixe está comendo hoje."
+    },
+    {
+      "start": 117.82,
+      "end": 119.0,
+      "text": "Está tendo muita sardinha no rio."
+    },
+    {
+      "start": 119.0,
+      "end": 121.02,
+      "text": "A gente vai estar fazendo o primeiro arremesso."
+    },
+    {
+      "start": 121.22,
+      "end": 126.48,
+      "text": "Aqui já."
+    },
+    {
+      "start": 127.0,
+      "end": 128.09,
+      "text": "Bora fazer o arremesso."
+    },
+    {
+      "start": 161.47,
+      "end": 162.31,
+      "text": "Estou aqui, rapaz."
+    },
+    {
+      "start": 166.3,
+      "end": 167.32,
+      "text": "Não sei se é grande."
+    },
+    {
+      "start": 186.43,
+      "end": 187.07,
+      "text": "Grande, hein."
+    },
+    {
+      "start": 187.21,
+      "end": 187.71,
+      "text": "É grande."
+    },
+    {
+      "start": 190.33,
+      "end": 191.25,
+      "text": "É grande, é grande."
+    },
+    {
+      "start": 195.03,
+      "end": 195.83,
+      "text": "Não brigou ainda."
+    },
+    {
+      "start": 195.91,
+      "end": 196.45,
+      "text": "Vai brigando."
+    },
+    {
+      "start": 197.54,
+      "end": 197.82,
+      "text": "Olha."
+    },
+    {
+      "start": 201.26,
+      "end": 201.74,
+      "text": "Segura."
+    },
+    {
+      "start": 205.25,
+      "end": 205.93,
+      "text": "Grandinho, hein."
+    },
+    {
+      "start": 216.15,
+      "end": 216.67,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 218.65,
+      "end": 221.29,
+      "text": "Ele nem cosca aqui na carretilha."
+    },
+    {
+      "start": 223.75,
+      "end": 224.73,
+      "text": "E vai para o caldo."
+    },
+    {
+      "start": 240.0,
+      "end": 241.38,
+      "text": "Aqui se pôr o cu e coisa dele."
+    },
+    {
+      "start": 241.44,
+      "end": 241.66,
+      "text": "Olha aí."
+    },
+    {
+      "start": 242.3,
+      "end": 243.04,
+      "text": "Vai para o caldo."
+    },
+    {
+      "start": 243.04,
+      "end": 249.41,
+      "text": "Eu vi um peixe gigantinho."
+    },
+    {
+      "start": 249.59,
+      "end": 252.3,
+      "text": "Não é esse aqui que está pegando."
+    },
+    {
+      "start": 252.42,
+      "end": 253.04,
+      "text": "Ele está aqui dentro."
+    },
+    {
+      "start": 253.16,
+      "end": 254.38,
+      "text": "Eu vou arremessar."
+    },
+    {
+      "start": 254.44,
+      "end": 255.82,
+      "text": "Eu tinha arremessado a cabeça ali."
+    },
+    {
+      "start": 256.32,
+      "end": 259.22,
+      "text": "Para o barba chaco."
+    },
+    {
+      "start": 259.72,
+      "end": 260.44,
+      "text": "E agora eu vou tirar."
+    },
+    {
+      "start": 260.56,
+      "end": 261.18,
+      "text": "Vou botar a sardinha."
+    },
+    {
+      "start": 261.26,
+      "end": 261.82,
+      "text": "Vamos arremessar aqui."
+    },
+    {
+      "start": 262.1,
+      "end": 263.02,
+      "text": "É um peixe grande."
+    },
+    {
+      "start": 263.16,
+      "end": 265.62,
+      "text": "Bem que não sei se é um pirado de couro."
+    },
+    {
+      "start": 265.86,
+      "end": 268.22,
+      "text": "Ou se é um outro peixe de couro."
+    },
+    {
+      "start": 268.48,
+      "end": 269.32,
+      "text": "Eu vou estar sabendo agora."
+    },
+    {
+      "start": 269.36,
+      "end": 271.02,
+      "text": "Eu vou arremessar aqui para ver se nós dá sorte de bater."
+    },
+    {
+      "start": 271.62,
+      "end": 286.13,
+      "text": "Outra isca."
+    },
+    {
+      "start": 287.12,
+      "end": 288.18,
+      "text": "Isca vai ter, hein."
+    },
+    {
+      "start": 289.02,
+      "end": 289.92,
+      "text": "Isca vai ter."
+    },
+    {
+      "start": 289.92,
+      "end": 301.05,
+      "text": "Impossível de pegar um peixe grande."
+    },
+    {
+      "start": 301.19,
+      "end": 301.65,
+      "text": "Olha isso."
+    },
+    {
+      "start": 302.69,
+      "end": 303.65,
+      "text": "Joguei o peixe inteiro."
+    },
+    {
+      "start": 303.93,
+      "end": 304.69,
+      "text": "Olha como é que volta."
+    },
+    {
+      "start": 305.74,
+      "end": 306.14,
+      "text": "Impossível."
+    },
+    {
+      "start": 306.92,
+      "end": 309.42,
+      "text": "Não tem como pegar peixe grande aqui de jeito nenhum."
+    },
+    {
+      "start": 309.5,
+      "end": 310.52,
+      "text": "De tanto peixe miúdo."
+    },
+    {
+      "start": 310.56,
+      "end": 310.98,
+      "text": "Olha só."
+    },
+    {
+      "start": 311.64,
+      "end": 313.76,
+      "text": "Eu estou só a espinha o peixe."
+    },
+    {
+      "start": 314.84,
+      "end": 315.28,
+      "text": "Impossível."
+    },
+    {
+      "start": 315.34,
+      "end": 316.8,
+      "text": "Tem um pirado de couro grande aqui dentro."
+    },
+    {
+      "start": 317.84,
+      "end": 319.48,
+      "text": "Mas você joga em menos de segundo."
+    },
+    {
+      "start": 319.6,
+      "end": 320.46,
+      "text": "A isca vira isso aqui."
+    },
+    {
+      "start": 321.24,
+      "end": 322.6,
+      "text": "Então é complicado, né."
+    },
+    {
+      "start": 322.74,
+      "end": 323.8,
+      "text": "E a vida não está fácil."
+    },
+    {
+      "start": 323.8,
+      "end": 329.07,
+      "text": "Duas varas de molho aí para peixe grande."
+    },
+    {
+      "start": 329.82,
+      "end": 331.44,
+      "text": "Eu vi o peixe grande."
+    },
+    {
+      "start": 331.68,
+      "end": 333.08,
+      "text": "Eu vi o pirarucu aqui dentro."
+    },
+    {
+      "start": 334.41,
+      "end": 335.47,
+      "text": "Grande o pirarucu, hein."
+    },
+    {
+      "start": 335.67,
+      "end": 338.83,
+      "text": "Felizmente a gente nunca consegue filmar quando ele aparece."
+    },
+    {
+      "start": 339.57,
+      "end": 340.87,
+      "text": "Ele só aparece quando ele quer."
+    },
+    {
+      "start": 341.7,
+      "end": 342.02,
+      "text": "Sério."
+    },
+    {
+      "start": 342.14,
+      "end": 342.62,
+      "text": "Duas grandes."
+    },
+    {
+      "start": 342.76,
+      "end": 344.04,
+      "text": "Para você não dizer que eu estou mentindo."
+    },
+    {
+      "start": 344.42,
+      "end": 346.54,
+      "text": "Aquela ali é uma isca para o pirarucu."
+    },
+    {
+      "start": 346.54,
+      "end": 348.39,
+      "text": "Está vendo ali o litro?"
+    },
+    {
+      "start": 348.97,
+      "end": 349.87,
+      "text": "Aquela ali é uma isca."
+    },
+    {
+      "start": 350.51,
+      "end": 352.19,
+      "text": "Lá dentro daquela galhada tem outra."
+    },
+    {
+      "start": 353.01,
+      "end": 355.13,
+      "text": "E lá no meio tem outra."
+    },
+    {
+      "start": 355.83,
+      "end": 357.41,
+      "text": "Lá daquele lado tem outra."
+    },
+    {
+      "start": 358.25,
+      "end": 359.93,
+      "text": "E bem ali assim naquele cantinho ali."
+    },
+    {
+      "start": 359.99,
+      "end": 361.27,
+      "text": "Estava pulando muito peixe ali."
+    },
+    {
+      "start": 361.37,
+      "end": 363.35,
+      "text": "Eu estou desconfiando que os filhotes de pirarucu estão ali."
+    },
+    {
+      "start": 364.05,
+      "end": 366.09,
+      "text": "E aqui a gente está sozinho aqui nessa praiazinha."
+    },
+    {
+      "start": 366.33,
+      "end": 367.29,
+      "text": "Na esperança, né."
+    },
+    {
+      "start": 367.75,
+      "end": 368.61,
+      "text": "De bater alguma coisa."
+    },
+    {
+      "start": 368.71,
+      "end": 369.77,
+      "text": "Mas felizmente."
+    },
+    {
+      "start": 370.49,
+      "end": 372.63,
+      "text": "Estava meio friozinho mais cedo."
+    },
+    {
+      "start": 372.63,
+      "end": 376.07,
+      "text": "E eu achei que não ia dar sede."
+    },
+    {
+      "start": 377.17,
+      "end": 378.73,
+      "text": "E aí foi o meu erro, hein."
+    },
+    {
+      "start": 379.11,
+      "end": 380.07,
+      "text": "Estou com muita sede."
+    },
+    {
+      "start": 380.19,
+      "end": 380.91,
+      "text": "Não trouxe água."
+    },
+    {
+      "start": 381.57,
+      "end": 383.11,
+      "text": "E aí a gente vai ter que estar indo embora já."
+    },
+    {
+      "start": 384.27,
+      "end": 386.21,
+      "text": "Vou só ver se eu filmo aqui um jacaré que tem aqui."
+    },
+    {
+      "start": 386.93,
+      "end": 388.29,
+      "text": "Ver se ele está por aqui ainda, né."
+    },
+    {
+      "start": 388.91,
+      "end": 390.09,
+      "text": "Mas ele não está aqui mais não."
+    },
+    {
+      "start": 390.11,
+      "end": 391.33,
+      "text": "Ele está ali para dentro daquelas galhadas."
+    },
+    {
+      "start": 391.87,
+      "end": 392.99,
+      "text": "Depois que eu apareci."
+    },
+    {
+      "start": 393.83,
+      "end": 395.33,
+      "text": "Ele afundou e não boiou mais."
+    },
+    {
+      "start": 395.75,
+      "end": 398.03,
+      "text": "Mas tem dois jacarés grandes aqui dentro, hein."
+    },
+    {
+      "start": 398.35,
+      "end": 399.77,
+      "text": "E também tem um pirarucu aqui dentro."
+    },
+    {
+      "start": 399.99,
+      "end": 400.69,
+      "text": "Está boiando aí."
+    },
+    {
+      "start": 401.65,
+      "end": 402.97,
+      "text": "Talvez de noite aí eu volto."
+    },
+    {
+      "start": 403.88,
+      "end": 406.3,
+      "text": "Mas por enquanto vamos embora."
+    },
+    {
+      "start": 406.76,
+      "end": 407.46,
+      "text": "Não aguento mais não."
+    },
+    {
+      "start": 407.66,
+      "end": 408.78,
+      "text": "Olha o lugarzinho top aí."
+    }
+  ],
+  "duracao_seg": 409.59,
+  "idioma_detectado": "pt"
+}

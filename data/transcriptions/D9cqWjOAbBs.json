@@ -1,0 +1,72 @@
+{
+  "texto": "Estão filmando? Estão filmando? Bem, Fredy! Primeiro... Primeiro general Vamos! Que o mostre e deixe... Bem, bem! O que está? Mostre-lo! Mostre-lo! Mostre-lo! Bem! Bem, bem, bem!",
+  "segmentos": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "Estão filmando?"
+    },
+    {
+      "start": 3.1,
+      "end": 5.1,
+      "text": "Estão filmando?"
+    },
+    {
+      "start": 35.63,
+      "end": 37.63,
+      "text": "Bem, Fredy! Primeiro..."
+    },
+    {
+      "start": 37.63,
+      "end": 39.63,
+      "text": "Primeiro general"
+    },
+    {
+      "start": 39.63,
+      "end": 41.86,
+      "text": "Vamos!"
+    },
+    {
+      "start": 69.87,
+      "end": 71.87,
+      "text": "Que o mostre e deixe..."
+    },
+    {
+      "start": 71.87,
+      "end": 73.87,
+      "text": "Bem, bem!"
+    },
+    {
+      "start": 73.87,
+      "end": 76.06,
+      "text": "O que está?"
+    },
+    {
+      "start": 76.06,
+      "end": 78.06,
+      "text": "Mostre-lo!"
+    },
+    {
+      "start": 78.06,
+      "end": 80.86,
+      "text": "Mostre-lo!"
+    },
+    {
+      "start": 80.86,
+      "end": 82.86,
+      "text": "Mostre-lo!"
+    },
+    {
+      "start": 82.86,
+      "end": 84.86,
+      "text": "Bem!"
+    },
+    {
+      "start": 84.86,
+      "end": 86.86,
+      "text": "Bem, bem, bem!"
+    }
+  ],
+  "duracao_seg": 87.23,
+  "idioma_detectado": "pt"
+}

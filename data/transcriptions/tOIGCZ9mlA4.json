@@ -1,0 +1,22 @@
+{
+  "texto": "E aí Marcão, deu uns peixinhos bons, não deu? Eu não vou tirar a rede agora não, falei pro... Nosso amigo Farolete, sangue bom aí ó, groteiro",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "E aí Marcão, deu uns peixinhos bons, não deu?"
+    },
+    {
+      "start": 4.08,
+      "end": 6.0,
+      "text": "Eu não vou tirar a rede agora não, falei pro..."
+    },
+    {
+      "start": 6.9,
+      "end": 13.23,
+      "text": "Nosso amigo Farolete, sangue bom aí ó, groteiro"
+    }
+  ],
+  "duracao_seg": 14.33,
+  "idioma_detectado": "pt"
+}

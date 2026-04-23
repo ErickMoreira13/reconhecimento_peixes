@@ -1,0 +1,92 @@
+{
+  "texto": "O senhor tem que descer, desça, não, o senhor puxou pra cima, puxa pra cima, puxa. Você pega sozinho? Ele tava pego, eu falei, você que tava... Tava pego, né? Tava subindo, puxando o bairro. Aí levanta e desce, chegou indo. Aí o senhor trabalha melhor agora. Não é tu que tá aqui, né? Vai, doutor, eu quero tirar uma foto do meu colo, assim, né? Tinha um pesado. O que você dá? Sentado ali, vai pegar o chá. É, seu filmei. É, seu filmei, tu se encolhendo. Tira uma vez, cara. Passou um pouquinho assim? É, senhor. Bom dia, meu.",
+  "segmentos": [
+    {
+      "start": 314.83,
+      "end": 322.37,
+      "text": "O senhor tem que descer, desça, não, o senhor puxou pra cima, puxa pra cima, puxa."
+    },
+    {
+      "start": 326.19,
+      "end": 355.81,
+      "text": "Você pega sozinho?"
+    },
+    {
+      "start": 356.81,
+      "end": 358.81,
+      "text": "Ele tava pego, eu falei, você que tava..."
+    },
+    {
+      "start": 358.81,
+      "end": 371.22,
+      "text": "Tava pego, né? Tava subindo, puxando o bairro."
+    },
+    {
+      "start": 371.22,
+      "end": 373.22,
+      "text": "Aí levanta e desce, chegou indo."
+    },
+    {
+      "start": 374.22,
+      "end": 377.91,
+      "text": "Aí o senhor trabalha melhor agora."
+    },
+    {
+      "start": 531.13,
+      "end": 533.13,
+      "text": "Não é tu que tá aqui, né?"
+    },
+    {
+      "start": 533.13,
+      "end": 542.08,
+      "text": "Vai, doutor, eu quero tirar uma foto do meu colo, assim, né?"
+    },
+    {
+      "start": 542.08,
+      "end": 543.21,
+      "text": "Tinha um pesado."
+    },
+    {
+      "start": 543.21,
+      "end": 545.62,
+      "text": "O que você dá?"
+    },
+    {
+      "start": 545.62,
+      "end": 546.62,
+      "text": "Sentado ali, vai pegar o chá."
+    },
+    {
+      "start": 563.2,
+      "end": 564.2,
+      "text": "É, seu filmei."
+    },
+    {
+      "start": 564.2,
+      "end": 566.94,
+      "text": "É, seu filmei, tu se encolhendo."
+    },
+    {
+      "start": 566.94,
+      "end": 569.86,
+      "text": "Tira uma vez, cara."
+    },
+    {
+      "start": 570.86,
+      "end": 578.8,
+      "text": "Passou um pouquinho assim?"
+    },
+    {
+      "start": 609.69,
+      "end": 610.69,
+      "text": "É, senhor."
+    },
+    {
+      "start": 610.69,
+      "end": 617.64,
+      "text": "Bom dia, meu."
+    }
+  ],
+  "duracao_seg": 801.93,
+  "idioma_detectado": "pt"
+}

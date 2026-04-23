@@ -1,0 +1,37 @@
+{
+  "texto": "Tô levando a vida desse jeito, mais espírito, mais aguento, vivo nos caminhos estreitos Desde que nasci pros coxinha que eu sou suspeito E que se foda, bota aqui, bota a cara aqui Vocês não aguentam tudo que eu vivi, imagino que eu vi Não é só ver tipo de coisa que só sabe que é daqui Pá, o menor cresce rio",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "Tô levando a vida desse jeito, mais espírito, mais aguento, vivo nos caminhos estreitos"
+    },
+    {
+      "start": 5.36,
+      "end": 8.18,
+      "text": "Desde que nasci pros coxinha que eu sou suspeito"
+    },
+    {
+      "start": 8.18,
+      "end": 11.38,
+      "text": "E que se foda, bota aqui, bota a cara aqui"
+    },
+    {
+      "start": 11.38,
+      "end": 15.14,
+      "text": "Vocês não aguentam tudo que eu vivi, imagino que eu vi"
+    },
+    {
+      "start": 15.14,
+      "end": 18.12,
+      "text": "Não é só ver tipo de coisa que só sabe que é daqui"
+    },
+    {
+      "start": 18.12,
+      "end": 20.83,
+      "text": "Pá, o menor cresce rio"
+    }
+  ],
+  "duracao_seg": 21.09,
+  "idioma_detectado": "pt"
+}

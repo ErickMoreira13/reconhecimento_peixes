@@ -1,0 +1,22 @@
+{
+  "texto": "Um jargo aqui gente, um jargo aqui, um zolão, não vi a caixa dele não, mas eu tô com medo da linha fina, mas tem mais um jargo aí, esse é grande, nossa senhora, olha o peitão aí, olha o jargo aí, esse um zolão tá feio, um jargo aí na corredeira, mas temos um roxinho, eu deixei ali, olha o cara, olha o propaganda, olha o Nickelodeonelux, graças a Deus amém, zolou o Muta!",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 49.02,
+      "text": "Um jargo aqui gente, um jargo aqui, um zolão, não vi a caixa dele não, mas eu tô com medo da linha fina, mas tem mais um jargo aí, esse é grande, nossa senhora, olha o peitão aí, olha o jargo aí, esse um zolão tá feio, um jargo aí na corredeira,"
+    },
+    {
+      "start": 49.02,
+      "end": 65.05,
+      "text": "mas temos um roxinho, eu deixei ali, olha o cara, olha o propaganda, olha o Nickelodeonelux,"
+    },
+    {
+      "start": 65.05,
+      "end": 67.15,
+      "text": "graças a Deus amém, zolou o Muta!"
+    }
+  ],
+  "duracao_seg": 63.83,
+  "idioma_detectado": "pt"
+}

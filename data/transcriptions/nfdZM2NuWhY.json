@@ -1,0 +1,107 @@
+{
+  "texto": "Olha o pescador aí, olha a cara do pescador. Pirarara na draga, no machado aí. Quem não acredita vai ver agora. Está chegando, está chegando. Pirarara. Quantos quilos lá dá? Uns 5, 6 quilos. Não quer subir não. Não se afoba não, deixa. Olha o monstro. 8 quilos. Soltou a bolha? Soltou. É, rapaz. Vai subir, vai subir no... Quer ver o amarelão? Uma monstra. Vou cortar aqui, vou pausar o vídeo para me ajudar a você tirar ela. Não. Aí, quem não acredita, tirar a arara do machado aí.",
+  "segmentos": [
+    {
+      "start": 3.09,
+      "end": 7.93,
+      "text": "Olha o pescador aí, olha a cara do pescador."
+    },
+    {
+      "start": 8.01,
+      "end": 10.73,
+      "text": "Pirarara na draga, no machado aí."
+    },
+    {
+      "start": 10.87,
+      "end": 12.35,
+      "text": "Quem não acredita vai ver agora."
+    },
+    {
+      "start": 13.92,
+      "end": 15.4,
+      "text": "Está chegando, está chegando."
+    },
+    {
+      "start": 16.42,
+      "end": 16.98,
+      "text": "Pirarara."
+    },
+    {
+      "start": 28.39,
+      "end": 29.25,
+      "text": "Quantos quilos lá dá?"
+    },
+    {
+      "start": 29.77,
+      "end": 31.69,
+      "text": "Uns 5, 6 quilos."
+    },
+    {
+      "start": 42.19,
+      "end": 43.25,
+      "text": "Não quer subir não."
+    },
+    {
+      "start": 46.27,
+      "end": 47.57,
+      "text": "Não se afoba não, deixa."
+    },
+    {
+      "start": 48.19,
+      "end": 59.16,
+      "text": "Olha o monstro."
+    },
+    {
+      "start": 61.1,
+      "end": 62.02,
+      "text": "8 quilos."
+    },
+    {
+      "start": 65.77,
+      "end": 66.61,
+      "text": "Soltou a bolha?"
+    },
+    {
+      "start": 67.01,
+      "end": 67.41,
+      "text": "Soltou."
+    },
+    {
+      "start": 67.41,
+      "end": 85.57,
+      "text": "É, rapaz."
+    },
+    {
+      "start": 90.18,
+      "end": 104.99,
+      "text": "Vai subir, vai subir no..."
+    },
+    {
+      "start": 104.99,
+      "end": 105.93,
+      "text": "Quer ver o amarelão?"
+    },
+    {
+      "start": 120.65,
+      "end": 121.49,
+      "text": "Uma monstra."
+    },
+    {
+      "start": 126.82,
+      "end": 130.3,
+      "text": "Vou cortar aqui, vou pausar o vídeo para me ajudar a você tirar ela."
+    },
+    {
+      "start": 134.93,
+      "end": 135.09,
+      "text": "Não."
+    },
+    {
+      "start": 142.84,
+      "end": 145.94,
+      "text": "Aí, quem não acredita, tirar a arara do machado aí."
+    }
+  ],
+  "duracao_seg": 150.05,
+  "idioma_detectado": "pt"
+}

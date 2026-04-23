@@ -1,0 +1,542 @@
+{
+  "texto": "É isso aí rapaziada, chegamos já no lugar da pescaria aqui, para ir na top aí, na entrada de uma baía aqui, uma baía zona aí, agora vamos atrás dos grandes né, só dos bitelão, olha aí galera, o perigo do rio Gopareia, olha o tamanho da bitela, ai, que é o perigo, deixando lá, nós estamos acarressando o barco, deixa ela quietinha lá que nós bota a passar, caraca, um raso aqui, você viu mano, nem a minha eles querem, já eles vendem, aqui não galera, bateu ficou aqui, aqui não, bateu ficou, caceta, aqui não rapaziada, bateu ficou, não tem conversa, enroscou, enroscou, mas ele vem, vem, vem, vem bicho, tudo bem, que não, que bicho vem, olha galera, enrolou e foi tudo aqui, mas veio bichão, tem que sair, tem que levar para o seco, olha o bitelão rapaziada, esse é grande ó, você tá doida, esse é monstro, tem que levar para lá, enrolou e foi tudo aqui agora, olha galera, enrolou e foi tudo aqui, olha galera, enrolou e foi tudo aqui, é galera, foi luta mas consegui o banho, olha o grandão, é louco hein, esse é bitela, ó, que é igual a poré, bora para mais, aqui não galera, bateu ficou aqui, olha o bichão, bonito hein velho, não é muito grande não, mas já tá, já dá, vou tirar o danzol aqui agora, só ia ter danzol já, certo por aqui mesmo, esse pó aqui, tem fede aqui no chão, fica aí bichão, envelhei, não galera, bateu ficou ali, vamos ver o que é, pirarara, é para ser pirarara, caraca, que cunaré, pô velho, caraca, parecia pirarara velho, você viu bruto velho, tava achando para baixo velho, caraca, que monstro velho, que monstro velho, piranhox, piranhox, hã? Tucuna, pela barriga, bonita dele, bitela de Tucuna rapaziada, olha o grandão aí rapaziada, amarelão, bora, tá demais, caraca, tô cansado aqui ó, que tá doida, ó, cê tá doida, mais de pó rapaziada, esse é grandão, quase uns 60cm ou mais, bonito hein, no meio das pirandas, bichão arrastou já era, tá velho, papo vermelho, subiu papo vermelho, ele não tá agarrado com o grande ali ó, ele que é monstro, vou conferir né, um quilo e pouco, um quilo e setecentos e noventa, esse é o pai, esse é o pai, conferir os pisos dos bichos um quilo e pouco um quilo e setecentos e noventa esse é o pai esse é o pai agora para esse cacharão aí esse cacharão aí dá dois quilos dá mais quase por causa da cabeça nada, é mesmo mesmo quilo, será? não, está errado essa balança aí, não está não? é porque tem que zerar ela perda aqui a gente liga volta aqui tem que ganhar menos dois quilos passados e porra, cadê o mesmo 6,620 esse é eu olha os buitelão aí galera agora nós vamos dar uma limpada aqui e vamos fazer um frito agora esse aqui ele dá pequenininho ele dá olha aí 800 240 deu bom não deu nem aquilo mas o que ele perdeu foi bonito bora só o peixe só alguns também só alguns dois pôr na reta para levar como todinho só de boa depois jogando com uma musiquinha aí põe a porra ali agora chegando agora chegando bonito aqui vou pegar esse cara não vai passar para mim a vida e aí galera, tudo no jeito aqui já salgadinho passo uma farinha de rosto põe na banha ó torradinha tomando aquela coca gelada bom que bom é galerinha a partir da tarde aí ó olha a bitela monstro galerinha tá meio escuro por conta do reflexo do rio mas olha a bitela peguei agora então mais ainda é isso que eu peguei bicho engoliu meu engoliu a gente tá se batendo aqui parceiro meu o Júnior tá vindo ele buscar tá na canoa no bote tentar pegar mais rapaziada eu acho que a pesca de hoje vai vai ficando por aqui eu acho são 4 horas da tarde a gente tá bem longe da cidade vamos descer né vamos que vamos acompanha aí",
+  "segmentos": [
+    {
+      "start": 8.4,
+      "end": 79.22,
+      "text": "É isso aí rapaziada, chegamos já no lugar da pescaria aqui, para ir na top aí, na entrada"
+    },
+    {
+      "start": 79.22,
+      "end": 90.75,
+      "text": "de uma baía aqui, uma baía zona aí, agora vamos atrás dos grandes né, só dos bitelão,"
+    },
+    {
+      "start": 90.75,
+      "end": 104.22,
+      "text": "olha aí galera, o perigo do rio Gopareia, olha o tamanho da bitela, ai, que é o perigo,"
+    },
+    {
+      "start": 104.22,
+      "end": 126.01,
+      "text": "deixando lá, nós estamos acarressando o barco, deixa ela quietinha lá que nós bota a passar,"
+    },
+    {
+      "start": 126.01,
+      "end": 161.05,
+      "text": "caraca, um raso aqui, você viu mano, nem a minha eles querem, já eles vendem, aqui não galera,"
+    },
+    {
+      "start": 161.05,
+      "end": 175.71,
+      "text": "bateu ficou aqui, aqui não, bateu ficou, caceta, aqui não rapaziada, bateu ficou, não tem conversa,"
+    },
+    {
+      "start": 175.71,
+      "end": 198.48,
+      "text": "enroscou, enroscou, mas ele vem, vem, vem, vem bicho, tudo bem, que não, que bicho vem,"
+    },
+    {
+      "start": 198.48,
+      "end": 215.7,
+      "text": "olha galera, enrolou e foi tudo aqui, mas veio bichão, tem que sair, tem que levar para o seco,"
+    },
+    {
+      "start": 215.7,
+      "end": 230.22,
+      "text": "olha o bitelão rapaziada, esse é grande ó, você tá doida, esse é monstro, tem que levar para lá,"
+    },
+    {
+      "start": 230.22,
+      "end": 242.05,
+      "text": "enrolou e foi tudo aqui agora, olha galera, enrolou e foi tudo aqui, olha galera, enrolou e foi tudo aqui,"
+    },
+    {
+      "start": 242.05,
+      "end": 255.02,
+      "text": "é galera, foi luta mas consegui o banho, olha o grandão, é louco hein, esse é bitela, ó, que é igual a poré,"
+    },
+    {
+      "start": 255.02,
+      "end": 268.4,
+      "text": "bora para mais, aqui não galera, bateu ficou aqui, olha o bichão, bonito hein velho, não é muito grande não,"
+    },
+    {
+      "start": 268.4,
+      "end": 283.86,
+      "text": "mas já tá, já dá, vou tirar o danzol aqui agora, só ia ter danzol já, certo por aqui mesmo, esse pó aqui,"
+    },
+    {
+      "start": 283.86,
+      "end": 300.74,
+      "text": "tem fede aqui no chão, fica aí bichão, envelhei, não galera, bateu ficou ali, vamos ver o que é, pirarara,"
+    },
+    {
+      "start": 300.74,
+      "end": 313.1,
+      "text": "é para ser pirarara, caraca, que cunaré, pô velho, caraca, parecia pirarara velho,"
+    },
+    {
+      "start": 313.1,
+      "end": 320.68,
+      "text": "você viu bruto velho, tava achando para baixo velho, caraca, que monstro velho, que monstro velho,"
+    },
+    {
+      "start": 320.68,
+      "end": 361.54,
+      "text": "piranhox, piranhox, hã?"
+    },
+    {
+      "start": 390.6,
+      "end": 423.04,
+      "text": "Tucuna, pela barriga, bonita dele, bitela de Tucuna rapaziada,"
+    },
+    {
+      "start": 423.04,
+      "end": 456.96,
+      "text": "olha o grandão aí rapaziada, amarelão, bora, tá demais, caraca, tô cansado aqui ó,"
+    },
+    {
+      "start": 456.96,
+      "end": 476.77,
+      "text": "que tá doida, ó, cê tá doida, mais de pó rapaziada, esse é grandão, quase uns 60cm ou mais, bonito hein,"
+    },
+    {
+      "start": 476.77,
+      "end": 504.7,
+      "text": "no meio das pirandas, bichão arrastou já era, tá velho, papo vermelho, subiu papo vermelho,"
+    },
+    {
+      "start": 504.7,
+      "end": 511.41,
+      "text": "ele não tá agarrado com o grande ali ó, ele que é monstro, vou conferir né,"
+    },
+    {
+      "start": 511.41,
+      "end": 539.6,
+      "text": "um quilo e pouco, um quilo e setecentos e noventa, esse é o pai, esse é o pai,"
+    },
+    {
+      "start": 539.6,
+      "end": 542.91,
+      "text": "conferir os pisos dos bichos"
+    },
+    {
+      "start": 542.91,
+      "end": 544.91,
+      "text": "um quilo e pouco"
+    },
+    {
+      "start": 544.91,
+      "end": 546.91,
+      "text": "um quilo e setecentos e noventa"
+    },
+    {
+      "start": 546.91,
+      "end": 549.14,
+      "text": "esse é o pai"
+    },
+    {
+      "start": 549.14,
+      "end": 551.14,
+      "text": "esse é o pai"
+    },
+    {
+      "start": 551.14,
+      "end": 553.14,
+      "text": "agora para esse"
+    },
+    {
+      "start": 553.14,
+      "end": 555.14,
+      "text": "cacharão aí"
+    },
+    {
+      "start": 555.14,
+      "end": 557.17,
+      "text": "esse cacharão aí dá dois quilos"
+    },
+    {
+      "start": 557.17,
+      "end": 559.17,
+      "text": "dá mais"
+    },
+    {
+      "start": 559.17,
+      "end": 561.65,
+      "text": "quase por causa da cabeça"
+    },
+    {
+      "start": 561.65,
+      "end": 564.74,
+      "text": "nada, é mesmo"
+    },
+    {
+      "start": 564.74,
+      "end": 567.98,
+      "text": "mesmo quilo, será?"
+    },
+    {
+      "start": 567.98,
+      "end": 569.98,
+      "text": "não, está errado essa balança aí, não está não?"
+    },
+    {
+      "start": 569.98,
+      "end": 571.98,
+      "text": "é porque tem que zerar ela"
+    },
+    {
+      "start": 571.98,
+      "end": 573.98,
+      "text": "perda aqui"
+    },
+    {
+      "start": 573.98,
+      "end": 576.34,
+      "text": "a gente liga"
+    },
+    {
+      "start": 576.34,
+      "end": 578.5,
+      "text": "volta aqui"
+    },
+    {
+      "start": 578.5,
+      "end": 580.56,
+      "text": "tem que ganhar menos dois quilos"
+    },
+    {
+      "start": 580.56,
+      "end": 582.56,
+      "text": "passados"
+    },
+    {
+      "start": 582.56,
+      "end": 586.9,
+      "text": "e porra, cadê o mesmo"
+    },
+    {
+      "start": 586.9,
+      "end": 593.79,
+      "text": "6,620"
+    },
+    {
+      "start": 593.79,
+      "end": 595.79,
+      "text": "esse é eu"
+    },
+    {
+      "start": 595.79,
+      "end": 599.04,
+      "text": "olha os"
+    },
+    {
+      "start": 599.04,
+      "end": 601.07,
+      "text": "buitelão aí galera"
+    },
+    {
+      "start": 601.07,
+      "end": 603.55,
+      "text": "agora nós vamos dar uma limpada aqui"
+    },
+    {
+      "start": 603.55,
+      "end": 606.48,
+      "text": "e vamos fazer um frito agora"
+    },
+    {
+      "start": 606.48,
+      "end": 608.7,
+      "text": "esse aqui ele dá pequenininho"
+    },
+    {
+      "start": 608.7,
+      "end": 611.18,
+      "text": "ele dá"
+    },
+    {
+      "start": 611.18,
+      "end": 614.37,
+      "text": "olha aí"
+    },
+    {
+      "start": 614.37,
+      "end": 616.37,
+      "text": "800"
+    },
+    {
+      "start": 616.37,
+      "end": 618.37,
+      "text": "240"
+    },
+    {
+      "start": 618.37,
+      "end": 620.66,
+      "text": "deu bom"
+    },
+    {
+      "start": 620.66,
+      "end": 622.66,
+      "text": "não deu nem aquilo"
+    },
+    {
+      "start": 622.66,
+      "end": 624.66,
+      "text": "mas o que ele perdeu"
+    },
+    {
+      "start": 624.66,
+      "end": 626.66,
+      "text": "foi bonito"
+    },
+    {
+      "start": 626.66,
+      "end": 629.42,
+      "text": "bora"
+    },
+    {
+      "start": 629.42,
+      "end": 644.19,
+      "text": "só o peixe"
+    },
+    {
+      "start": 644.19,
+      "end": 646.67,
+      "text": "só alguns também"
+    },
+    {
+      "start": 646.67,
+      "end": 650.46,
+      "text": "só alguns"
+    },
+    {
+      "start": 650.46,
+      "end": 655.22,
+      "text": "dois"
+    },
+    {
+      "start": 655.22,
+      "end": 657.22,
+      "text": "pôr na reta"
+    },
+    {
+      "start": 657.22,
+      "end": 659.22,
+      "text": "para levar"
+    },
+    {
+      "start": 659.22,
+      "end": 661.22,
+      "text": "como todinho"
+    },
+    {
+      "start": 661.22,
+      "end": 664.91,
+      "text": "só de boa"
+    },
+    {
+      "start": 664.91,
+      "end": 666.91,
+      "text": "depois jogando"
+    },
+    {
+      "start": 666.91,
+      "end": 669.52,
+      "text": "com uma musiquinha aí"
+    },
+    {
+      "start": 669.52,
+      "end": 671.81,
+      "text": "põe a porra ali"
+    },
+    {
+      "start": 671.81,
+      "end": 673.81,
+      "text": "agora chegando"
+    },
+    {
+      "start": 673.81,
+      "end": 675.81,
+      "text": "agora chegando bonito aqui"
+    },
+    {
+      "start": 675.81,
+      "end": 680.69,
+      "text": "vou pegar esse cara"
+    },
+    {
+      "start": 680.69,
+      "end": 685.92,
+      "text": "não vai passar para mim"
+    },
+    {
+      "start": 685.92,
+      "end": 688.53,
+      "text": "a vida"
+    },
+    {
+      "start": 688.53,
+      "end": 691.33,
+      "text": "e aí galera, tudo no jeito aqui já"
+    },
+    {
+      "start": 691.33,
+      "end": 694.38,
+      "text": "salgadinho"
+    },
+    {
+      "start": 694.38,
+      "end": 697.6,
+      "text": "passo uma farinha de rosto"
+    },
+    {
+      "start": 697.6,
+      "end": 715.34,
+      "text": "põe na banha"
+    },
+    {
+      "start": 715.34,
+      "end": 718.24,
+      "text": "ó"
+    },
+    {
+      "start": 718.24,
+      "end": 726.96,
+      "text": "torradinha"
+    },
+    {
+      "start": 726.96,
+      "end": 728.99,
+      "text": "tomando aquela coca gelada"
+    },
+    {
+      "start": 728.99,
+      "end": 732.37,
+      "text": "bom que bom"
+    },
+    {
+      "start": 732.37,
+      "end": 734.37,
+      "text": "é galerinha"
+    },
+    {
+      "start": 734.37,
+      "end": 735.37,
+      "text": "a partir da tarde aí ó"
+    },
+    {
+      "start": 735.37,
+      "end": 736.82,
+      "text": "olha a bitela"
+    },
+    {
+      "start": 736.82,
+      "end": 738.88,
+      "text": "monstro galerinha"
+    },
+    {
+      "start": 738.88,
+      "end": 740.88,
+      "text": "tá meio escuro por conta do reflexo do rio"
+    },
+    {
+      "start": 740.88,
+      "end": 743.26,
+      "text": "mas olha a bitela"
+    },
+    {
+      "start": 743.26,
+      "end": 745.78,
+      "text": "peguei agora"
+    },
+    {
+      "start": 745.78,
+      "end": 749.92,
+      "text": "então mais ainda é isso que eu peguei"
+    },
+    {
+      "start": 749.92,
+      "end": 751.92,
+      "text": "bicho engoliu meu"
+    },
+    {
+      "start": 751.92,
+      "end": 754.52,
+      "text": "engoliu"
+    },
+    {
+      "start": 754.52,
+      "end": 755.52,
+      "text": "a gente tá se batendo aqui"
+    },
+    {
+      "start": 755.52,
+      "end": 758.89,
+      "text": "parceiro meu"
+    },
+    {
+      "start": 758.89,
+      "end": 759.89,
+      "text": "o Júnior tá vindo ele buscar"
+    },
+    {
+      "start": 759.89,
+      "end": 762.46,
+      "text": "tá na canoa"
+    },
+    {
+      "start": 762.46,
+      "end": 763.46,
+      "text": "no bote"
+    },
+    {
+      "start": 763.46,
+      "end": 764.53,
+      "text": "tentar pegar mais"
+    },
+    {
+      "start": 764.53,
+      "end": 766.53,
+      "text": "rapaziada"
+    },
+    {
+      "start": 766.53,
+      "end": 768.53,
+      "text": "eu acho que a pesca de hoje vai"
+    },
+    {
+      "start": 768.53,
+      "end": 770.53,
+      "text": "vai ficando por aqui eu acho"
+    },
+    {
+      "start": 770.53,
+      "end": 773.2,
+      "text": "são 4 horas da tarde"
+    },
+    {
+      "start": 773.2,
+      "end": 775.39,
+      "text": "a gente tá bem longe da cidade"
+    },
+    {
+      "start": 775.39,
+      "end": 777.58,
+      "text": "vamos descer né"
+    },
+    {
+      "start": 777.58,
+      "end": 778.58,
+      "text": "vamos que vamos"
+    },
+    {
+      "start": 778.58,
+      "end": 779.58,
+      "text": "acompanha aí"
+    }
+  ],
+  "duracao_seg": 795.39,
+  "idioma_detectado": "pt"
+}

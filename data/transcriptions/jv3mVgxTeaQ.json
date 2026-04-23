@@ -1,0 +1,102 @@
+{
+  "texto": "Estou filmando Está a manila de... M**** Bichango M**** Estou filmando M**** Isso é um monstro Nós precisamos da manada Subimos Muita coisa Bem Mostralo, mostralo, mostralo Mostralo, mostralo, levantalo Mostralo Cuidado É muito amigo, 200 Cuidado Bem pai",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 2.59,
+      "text": "Estou filmando"
+    },
+    {
+      "start": 2.59,
+      "end": 4.59,
+      "text": "Está a manila de..."
+    },
+    {
+      "start": 4.59,
+      "end": 9.98,
+      "text": "M****"
+    },
+    {
+      "start": 9.98,
+      "end": 18.42,
+      "text": "Bichango"
+    },
+    {
+      "start": 18.42,
+      "end": 20.42,
+      "text": "M****"
+    },
+    {
+      "start": 20.42,
+      "end": 25.14,
+      "text": "Estou filmando"
+    },
+    {
+      "start": 25.14,
+      "end": 27.14,
+      "text": "M****"
+    },
+    {
+      "start": 27.14,
+      "end": 30.22,
+      "text": "Isso é um monstro"
+    },
+    {
+      "start": 30.22,
+      "end": 33.09,
+      "text": "Nós precisamos da manada"
+    },
+    {
+      "start": 33.09,
+      "end": 35.09,
+      "text": "Subimos"
+    },
+    {
+      "start": 42.66,
+      "end": 44.69,
+      "text": "Muita coisa"
+    },
+    {
+      "start": 44.69,
+      "end": 46.69,
+      "text": "Bem"
+    },
+    {
+      "start": 46.69,
+      "end": 48.69,
+      "text": "Mostralo, mostralo, mostralo"
+    },
+    {
+      "start": 48.69,
+      "end": 54.62,
+      "text": "Mostralo, mostralo, levantalo"
+    },
+    {
+      "start": 54.62,
+      "end": 56.62,
+      "text": "Mostralo"
+    },
+    {
+      "start": 56.62,
+      "end": 58.62,
+      "text": "Cuidado"
+    },
+    {
+      "start": 58.62,
+      "end": 63.25,
+      "text": "É muito amigo, 200"
+    },
+    {
+      "start": 63.25,
+      "end": 65.25,
+      "text": "Cuidado"
+    },
+    {
+      "start": 65.25,
+      "end": 67.25,
+      "text": "Bem pai"
+    }
+  ],
+  "duracao_seg": 67.59,
+  "idioma_detectado": "pt"
+}

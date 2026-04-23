@@ -1,0 +1,27 @@
+{
+  "texto": "Isso aqui é o Guaporê, velho falado, ó. A cara dela. Mais duas lá, ó. Três mais lindas do mundo.",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 4.58,
+      "text": "Isso aqui é o Guaporê, velho falado, ó."
+    },
+    {
+      "start": 5.54,
+      "end": 7.16,
+      "text": "A cara dela."
+    },
+    {
+      "start": 8.76,
+      "end": 9.92,
+      "text": "Mais duas lá, ó."
+    },
+    {
+      "start": 12.11,
+      "end": 13.19,
+      "text": "Três mais lindas do mundo."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

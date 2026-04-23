@@ -1,0 +1,302 @@
+{
+  "texto": "Fala aí, meu amigo japonês, que que tá acontecendo? Rapaz, o bichinho entrou aqui na linha do transão, moço. Ele tá afungando, eu acho que ele tá cansado de trazer peixe. E é igual o peixe, deve dar uma 100 gramas. 100 gramas de peixe. É um jalzinho também. É um jalzinho mesmo? Não acredito. Não acredito que o... É um jalzinho mesmo, rapaz, eu tava com... Fira aí, moço, não vê que já o não, velho. Muito bem, meu amigo! Ixi! Negócio comigo é piraíba! É um jalzinho pela andada. Tem jalzinho sem vergonha esse que não fez força nenhuma. É um jalzinho mesmo, rapaz. É? É bom. É bom. Aê, japonêszão! É um jalzinho! É uma piraíba, eu não mergo com o Jaú. Muito bem! É uma piraíba, rapaz. Agora o Jaú não é comigo, não, você. Só pro Silvão. Hoje é que dia? Hoje é 21, né? É, hoje é 21 de... 21 de março! 21 de março! Tô aqui com o meu amigo japonês. Trouxe ele aqui pra pegar um Jaú comigo, mas ele é ignorante demais. Ele quer tirar o peixe... Vem pra cá, peixe! Ele quer tirar na ignorância, gente! Vem pra cá, peixe! Calma, menino! Calma, papai! Cancei! Cansou? Peixinho desse tamanho aí, cansei! Vai pra lá, que eu pego ele aqui pra você. Vai no bico do bote. Quero tio, peraí! Deixa eu ver, fala alguma coisa aí. Moçada, acho que é... Esse dia é muito logo, né? Muito logo! É doida, pô. Peixinho desse tamanho aqui tá me cansando, você não tá entendendo. Ó o Silvão, o Silvão tá achando que é minhoca aqui perto da peste. Ei! Ô, Dona Zé, mas parece que ele perdeu uma pisadinha também, não foi? É, ele falou que não era, que era peixinho, que não sei o que. Aí tá, agora é babá! Vamos lá, quero mostrar o peixe aqui pra galera, pra nós tirar aí da... Provar aí que é um Jaú, peraí! Hã? Aí! Aí! É um Jaú! Ô, valeu, galera! Até mais! Até mais! Tchau!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Fala aí, meu amigo japonês, que que tá acontecendo?"
+    },
+    {
+      "start": 2.54,
+      "end": 6.2,
+      "text": "Rapaz, o bichinho entrou aqui na linha do transão, moço."
+    },
+    {
+      "start": 6.2,
+      "end": 11.54,
+      "text": "Ele tá afungando, eu acho que ele tá cansado de trazer peixe."
+    },
+    {
+      "start": 11.54,
+      "end": 15.44,
+      "text": "E é igual o peixe, deve dar uma 100 gramas."
+    },
+    {
+      "start": 15.44,
+      "end": 17.44,
+      "text": "100 gramas de peixe. É um jalzinho também."
+    },
+    {
+      "start": 17.44,
+      "end": 20.56,
+      "text": "É um jalzinho mesmo? Não acredito."
+    },
+    {
+      "start": 20.56,
+      "end": 25.56,
+      "text": "Não acredito que o... É um jalzinho mesmo, rapaz, eu tava com..."
+    },
+    {
+      "start": 25.56,
+      "end": 27.56,
+      "text": "Fira aí, moço, não vê que já o não, velho."
+    },
+    {
+      "start": 27.56,
+      "end": 31.48,
+      "text": "Muito bem, meu amigo! Ixi!"
+    },
+    {
+      "start": 31.48,
+      "end": 33.28,
+      "text": "Negócio comigo é piraíba!"
+    },
+    {
+      "start": 33.28,
+      "end": 36.16,
+      "text": "É um jalzinho pela andada."
+    },
+    {
+      "start": 36.16,
+      "end": 39.84,
+      "text": "Tem jalzinho sem vergonha esse que não fez força nenhuma."
+    },
+    {
+      "start": 39.84,
+      "end": 43.23,
+      "text": "É um jalzinho mesmo, rapaz."
+    },
+    {
+      "start": 43.23,
+      "end": 44.23,
+      "text": "É? É bom."
+    },
+    {
+      "start": 44.23,
+      "end": 45.23,
+      "text": "É bom."
+    },
+    {
+      "start": 45.23,
+      "end": 47.73,
+      "text": "Aê, japonêszão!"
+    },
+    {
+      "start": 47.73,
+      "end": 49.73,
+      "text": "É um jalzinho!"
+    },
+    {
+      "start": 49.73,
+      "end": 51.73,
+      "text": "É uma piraíba, eu não mergo com o Jaú."
+    },
+    {
+      "start": 51.73,
+      "end": 53.23,
+      "text": "Muito bem!"
+    },
+    {
+      "start": 53.23,
+      "end": 54.43,
+      "text": "É uma piraíba, rapaz."
+    },
+    {
+      "start": 54.43,
+      "end": 56.73,
+      "text": "Agora o Jaú não é comigo, não, você. Só pro Silvão."
+    },
+    {
+      "start": 56.73,
+      "end": 58.63,
+      "text": "Hoje é que dia? Hoje é 21, né?"
+    },
+    {
+      "start": 58.63,
+      "end": 61.63,
+      "text": "É, hoje é 21 de..."
+    },
+    {
+      "start": 61.63,
+      "end": 63.13,
+      "text": "21 de março!"
+    },
+    {
+      "start": 63.13,
+      "end": 64.63,
+      "text": "21 de março!"
+    },
+    {
+      "start": 64.63,
+      "end": 68.29,
+      "text": "Tô aqui com o meu amigo japonês."
+    },
+    {
+      "start": 68.29,
+      "end": 72.79,
+      "text": "Trouxe ele aqui pra pegar um Jaú comigo, mas ele é ignorante demais."
+    },
+    {
+      "start": 72.79,
+      "end": 74.29,
+      "text": "Ele quer tirar o peixe..."
+    },
+    {
+      "start": 74.29,
+      "end": 75.79,
+      "text": "Vem pra cá, peixe!"
+    },
+    {
+      "start": 75.79,
+      "end": 77.79,
+      "text": "Ele quer tirar na ignorância, gente!"
+    },
+    {
+      "start": 77.79,
+      "end": 79.29,
+      "text": "Vem pra cá, peixe!"
+    },
+    {
+      "start": 79.29,
+      "end": 80.79,
+      "text": "Calma, menino!"
+    },
+    {
+      "start": 80.79,
+      "end": 82.79,
+      "text": "Calma, papai!"
+    },
+    {
+      "start": 82.79,
+      "end": 84.29,
+      "text": "Cancei!"
+    },
+    {
+      "start": 84.29,
+      "end": 84.79,
+      "text": "Cansou?"
+    },
+    {
+      "start": 84.79,
+      "end": 86.29,
+      "text": "Peixinho desse tamanho aí, cansei!"
+    },
+    {
+      "start": 88.29,
+      "end": 90.29,
+      "text": "Vai pra lá, que eu pego ele aqui pra você."
+    },
+    {
+      "start": 90.29,
+      "end": 91.29,
+      "text": "Vai no bico do bote."
+    },
+    {
+      "start": 91.29,
+      "end": 92.29,
+      "text": "Quero tio, peraí!"
+    },
+    {
+      "start": 92.29,
+      "end": 99.82,
+      "text": "Deixa eu ver, fala alguma coisa aí."
+    },
+    {
+      "start": 99.82,
+      "end": 101.82,
+      "text": "Moçada, acho que é..."
+    },
+    {
+      "start": 101.82,
+      "end": 104.3,
+      "text": "Esse dia é muito logo, né?"
+    },
+    {
+      "start": 104.3,
+      "end": 105.3,
+      "text": "Muito logo!"
+    },
+    {
+      "start": 105.3,
+      "end": 108.3,
+      "text": "É doida, pô. Peixinho desse tamanho aqui tá me cansando, você não tá entendendo."
+    },
+    {
+      "start": 108.3,
+      "end": 112.99,
+      "text": "Ó o Silvão, o Silvão tá achando que é minhoca aqui perto da peste."
+    },
+    {
+      "start": 112.99,
+      "end": 113.99,
+      "text": "Ei!"
+    },
+    {
+      "start": 113.99,
+      "end": 116.49,
+      "text": "Ô, Dona Zé, mas parece que ele perdeu uma pisadinha também, não foi?"
+    },
+    {
+      "start": 116.49,
+      "end": 118.99,
+      "text": "É, ele falou que não era, que era peixinho, que não sei o que."
+    },
+    {
+      "start": 118.99,
+      "end": 119.99,
+      "text": "Aí tá, agora é babá!"
+    },
+    {
+      "start": 119.99,
+      "end": 123.99,
+      "text": "Vamos lá, quero mostrar o peixe aqui pra galera, pra nós tirar aí da..."
+    },
+    {
+      "start": 123.99,
+      "end": 126.99,
+      "text": "Provar aí que é um Jaú, peraí!"
+    },
+    {
+      "start": 126.99,
+      "end": 127.99,
+      "text": "Hã?"
+    },
+    {
+      "start": 127.99,
+      "end": 128.99,
+      "text": "Aí!"
+    },
+    {
+      "start": 128.99,
+      "end": 129.99,
+      "text": "Aí!"
+    },
+    {
+      "start": 129.99,
+      "end": 130.99,
+      "text": "É um Jaú!"
+    },
+    {
+      "start": 130.99,
+      "end": 131.99,
+      "text": "Ô, valeu, galera!"
+    },
+    {
+      "start": 131.99,
+      "end": 132.99,
+      "text": "Até mais!"
+    },
+    {
+      "start": 132.99,
+      "end": 133.99,
+      "text": "Até mais!"
+    },
+    {
+      "start": 133.99,
+      "end": 134.49,
+      "text": "Tchau!"
+    }
+  ],
+  "duracao_seg": 134.41,
+  "idioma_detectado": "pt"
+}

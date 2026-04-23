@@ -1,0 +1,52 @@
+{
+  "texto": "Quase todo pescador tem sempre a mesma mania Irá, seja noite, seja dia E todo pescador tem sempre a mesma mania Final da história é um alcançador Irá, seja noite, seja dia Só a pescador, os amigos, sempre a peço e o convidado Mas no final tá assim, óbvio, 15 caixaceiros Pra pescador, os amigos, sempre a peço e o convidado Pra caixaceiros",
+  "segmentos": [
+    {
+      "start": 18.99,
+      "end": 23.21,
+      "text": "Quase todo pescador tem sempre a mesma mania"
+    },
+    {
+      "start": 23.21,
+      "end": 30.0,
+      "text": "Irá, seja noite, seja dia"
+    },
+    {
+      "start": 30.0,
+      "end": 39.02,
+      "text": "E todo pescador tem sempre a mesma mania"
+    },
+    {
+      "start": 39.02,
+      "end": 42.68,
+      "text": "Final da história é um alcançador"
+    },
+    {
+      "start": 42.68,
+      "end": 45.92,
+      "text": "Irá, seja noite, seja dia"
+    },
+    {
+      "start": 45.92,
+      "end": 52.8,
+      "text": "Só a pescador, os amigos, sempre a peço e o convidado"
+    },
+    {
+      "start": 52.8,
+      "end": 64.08,
+      "text": "Mas no final tá assim, óbvio, 15 caixaceiros"
+    },
+    {
+      "start": 64.08,
+      "end": 68.46,
+      "text": "Pra pescador, os amigos, sempre a peço e o convidado"
+    },
+    {
+      "start": 68.46,
+      "end": 69.78,
+      "text": "Pra caixaceiros"
+    }
+  ],
+  "duracao_seg": 69.79,
+  "idioma_detectado": "pt"
+}

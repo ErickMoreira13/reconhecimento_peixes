@@ -1,0 +1,377 @@
+{
+  "texto": "Não, não, aí não mais, aí não mais Não, vou encalhar aqui Já, Dr? Já? Por que ele saiu e vi a colar, parecia ser uma pirativa Não era treu, está por aí cerca Aí está Aí parece, não? Sim, já saiu Se está... Puxamela, compadre, se está onde, para ver se... Como se esteja maldito? Não, não, não Não, não Se perde a caixa Já está cerca, suave Já peleou muito Já peleou muito, já está aqui, Dr? Aqui vamos, aqui está Está cerca Por que? Está todo frenado Está rio Está todo frenado de rio Aqui vamos ver se pode sair Está aí, está aí Não, não, não, não, não Não, não, não, não Não, não, não, não Tem que agarrar Tem que agarrar, tem que agarrar Tem que agarrar Com qualquer Cuidado, cuidado, cuidado Aqui, aqui é onde pelea mais Com cuidado É uma pirativa É uma pirativa Está a aleta Espera, espera, espera Acá se vai meter debaixo do bote Não, não, não Não, não, não Tem que agarrar a corrente Com den Ojo Compara Já, já, já Não, não, não Não, não, não Ak lighthouse Não一樣 Não, não, não Não solte-se! Ai, tráque-se! Vamos! Vamos! Vamos! Dr. Lene, para você também. Olha essa beleza! Olha o sonho de todos os pescadores! Olha o que acabamos de sacar! Minha licença também! Que beleza! Obrigado! Obrigado! Obrigado, papai! Olha o que acabamos de sacar! Olha o que acabamos de sacar! Olha o que acabamos de sacar! Obrigado! Obrigado a todos! Obrigado, mamita linda! Obrigado, Dr. Lene! Olha o que acabamos de sacar! Vamos!",
+  "segmentos": [
+    {
+      "start": 18.51,
+      "end": 40.35,
+      "text": "Não, não, aí não mais, aí não mais"
+    },
+    {
+      "start": 40.35,
+      "end": 84.59,
+      "text": "Não, vou encalhar aqui"
+    },
+    {
+      "start": 84.59,
+      "end": 89.6,
+      "text": "Já, Dr? Já?"
+    },
+    {
+      "start": 89.6,
+      "end": 91.6,
+      "text": "Por que ele saiu e vi a colar, parecia ser uma pirativa"
+    },
+    {
+      "start": 91.6,
+      "end": 98.4,
+      "text": "Não era treu, está por aí cerca"
+    },
+    {
+      "start": 98.4,
+      "end": 100.4,
+      "text": "Aí está"
+    },
+    {
+      "start": 100.4,
+      "end": 102.4,
+      "text": "Aí parece, não?"
+    },
+    {
+      "start": 102.4,
+      "end": 104.94,
+      "text": "Sim, já saiu"
+    },
+    {
+      "start": 104.94,
+      "end": 118.24,
+      "text": "Se está..."
+    },
+    {
+      "start": 118.24,
+      "end": 123.06,
+      "text": "Puxamela, compadre, se está onde, para ver se..."
+    },
+    {
+      "start": 123.06,
+      "end": 125.06,
+      "text": "Como se esteja maldito?"
+    },
+    {
+      "start": 125.06,
+      "end": 127.28,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 127.28,
+      "end": 137.38,
+      "text": "Não, não"
+    },
+    {
+      "start": 137.38,
+      "end": 142.83,
+      "text": "Se perde a caixa"
+    },
+    {
+      "start": 142.83,
+      "end": 144.86,
+      "text": "Já está cerca, suave"
+    },
+    {
+      "start": 144.86,
+      "end": 147.47,
+      "text": "Já peleou muito"
+    },
+    {
+      "start": 147.47,
+      "end": 174.91,
+      "text": "Já peleou muito, já está aqui, Dr?"
+    },
+    {
+      "start": 174.91,
+      "end": 176.91,
+      "text": "Aqui vamos, aqui está"
+    },
+    {
+      "start": 176.91,
+      "end": 181.06,
+      "text": "Está cerca"
+    },
+    {
+      "start": 181.06,
+      "end": 183.06,
+      "text": "Por que? Está todo frenado"
+    },
+    {
+      "start": 183.06,
+      "end": 185.34,
+      "text": "Está rio"
+    },
+    {
+      "start": 185.34,
+      "end": 187.34,
+      "text": "Está todo frenado de rio"
+    },
+    {
+      "start": 187.34,
+      "end": 189.54,
+      "text": "Aqui vamos ver se pode sair"
+    },
+    {
+      "start": 189.54,
+      "end": 206.86,
+      "text": "Está aí, está aí"
+    },
+    {
+      "start": 206.86,
+      "end": 212.35,
+      "text": "Não, não, não, não, não"
+    },
+    {
+      "start": 212.35,
+      "end": 214.35,
+      "text": "Não, não, não, não"
+    },
+    {
+      "start": 214.35,
+      "end": 217.31,
+      "text": "Não, não, não, não"
+    },
+    {
+      "start": 217.31,
+      "end": 219.31,
+      "text": "Tem que agarrar"
+    },
+    {
+      "start": 219.31,
+      "end": 221.5,
+      "text": "Tem que agarrar, tem que agarrar"
+    },
+    {
+      "start": 221.5,
+      "end": 223.73,
+      "text": "Tem que agarrar"
+    },
+    {
+      "start": 223.73,
+      "end": 225.76,
+      "text": "Com qualquer"
+    },
+    {
+      "start": 225.76,
+      "end": 228.21,
+      "text": "Cuidado, cuidado, cuidado"
+    },
+    {
+      "start": 228.21,
+      "end": 230.27,
+      "text": "Aqui, aqui é onde pelea mais"
+    },
+    {
+      "start": 230.27,
+      "end": 238.64,
+      "text": "Com cuidado"
+    },
+    {
+      "start": 238.64,
+      "end": 240.64,
+      "text": "É uma pirativa"
+    },
+    {
+      "start": 240.64,
+      "end": 244.91,
+      "text": "É uma pirativa"
+    },
+    {
+      "start": 244.91,
+      "end": 290.18,
+      "text": "Está a aleta"
+    },
+    {
+      "start": 290.18,
+      "end": 295.98,
+      "text": "Espera, espera, espera"
+    },
+    {
+      "start": 295.98,
+      "end": 302.66,
+      "text": "Acá se vai meter debaixo do bote"
+    },
+    {
+      "start": 302.66,
+      "end": 309.58,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 309.58,
+      "end": 311.58,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 311.58,
+      "end": 315.31,
+      "text": "Tem que agarrar a corrente"
+    },
+    {
+      "start": 315.31,
+      "end": 326.37,
+      "text": "Com den"
+    },
+    {
+      "start": 326.37,
+      "end": 328.37,
+      "text": "Ojo"
+    },
+    {
+      "start": 328.37,
+      "end": 330.37,
+      "text": "Compara"
+    },
+    {
+      "start": 330.37,
+      "end": 332.37,
+      "text": "Já, já, já"
+    },
+    {
+      "start": 332.37,
+      "end": 336.61,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 336.61,
+      "end": 338.61,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 348.48,
+      "end": 349.48,
+      "text": "Ak lighthouse"
+    },
+    {
+      "start": 350.48,
+      "end": 354.3,
+      "text": "Não一樣"
+    },
+    {
+      "start": 354.3,
+      "end": 361.04,
+      "text": "Não, não, não"
+    },
+    {
+      "start": 361.04,
+      "end": 363.04,
+      "text": "Não solte-se!"
+    },
+    {
+      "start": 363.04,
+      "end": 365.04,
+      "text": "Ai, tráque-se!"
+    },
+    {
+      "start": 365.04,
+      "end": 372.1,
+      "text": "Vamos!"
+    },
+    {
+      "start": 372.1,
+      "end": 387.89,
+      "text": "Vamos!"
+    },
+    {
+      "start": 387.89,
+      "end": 391.68,
+      "text": "Vamos!"
+    },
+    {
+      "start": 391.68,
+      "end": 395.79,
+      "text": "Dr. Lene, para você também."
+    },
+    {
+      "start": 395.79,
+      "end": 397.79,
+      "text": "Olha essa beleza!"
+    },
+    {
+      "start": 397.79,
+      "end": 399.92,
+      "text": "Olha o sonho de todos os pescadores!"
+    },
+    {
+      "start": 399.92,
+      "end": 401.95,
+      "text": "Olha o que acabamos de sacar!"
+    },
+    {
+      "start": 401.95,
+      "end": 403.95,
+      "text": "Minha licença também!"
+    },
+    {
+      "start": 403.95,
+      "end": 406.08,
+      "text": "Que beleza!"
+    },
+    {
+      "start": 406.08,
+      "end": 408.27,
+      "text": "Obrigado!"
+    },
+    {
+      "start": 408.27,
+      "end": 410.3,
+      "text": "Obrigado!"
+    },
+    {
+      "start": 410.3,
+      "end": 412.37,
+      "text": "Obrigado, papai!"
+    },
+    {
+      "start": 412.37,
+      "end": 414.37,
+      "text": "Olha o que acabamos de sacar!"
+    },
+    {
+      "start": 414.37,
+      "end": 422.1,
+      "text": "Olha o que acabamos de sacar!"
+    },
+    {
+      "start": 422.1,
+      "end": 424.67,
+      "text": "Olha o que acabamos de sacar!"
+    },
+    {
+      "start": 424.67,
+      "end": 426.67,
+      "text": "Obrigado!"
+    },
+    {
+      "start": 426.67,
+      "end": 428.67,
+      "text": "Obrigado a todos!"
+    },
+    {
+      "start": 428.67,
+      "end": 431.31,
+      "text": "Obrigado, mamita linda!"
+    },
+    {
+      "start": 431.31,
+      "end": 438.75,
+      "text": "Obrigado, Dr. Lene!"
+    },
+    {
+      "start": 438.75,
+      "end": 449.65,
+      "text": "Olha o que acabamos de sacar!"
+    },
+    {
+      "start": 449.65,
+      "end": 451.65,
+      "text": "Vamos!"
+    }
+  ],
+  "duracao_seg": 451.61,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,87 @@
+{
+  "texto": "Está o chino falando com a jeta, para escutar, com a jeta, mira. Viste, Marcelo, como que era a jeta, essa? Caralho! Coi, cola roja! É chino. Traí-lo, traí-lo, chino. É chino. Caralho, está bonito. Que mierda! É chino, caralho. E, gancho, agarrá-lo aí uma vez e subí-lo. Del plomo agarrá-lo. Aprende a ser, hombre. Essa mierda! Mira, Marcelo, aí está a jeta. Segue falando.",
+  "segmentos": [
+    {
+      "start": 2.38,
+      "end": 6.76,
+      "text": "Está o chino falando com a jeta, para escutar, com a jeta, mira."
+    },
+    {
+      "start": 12.05,
+      "end": 14.15,
+      "text": "Viste, Marcelo, como que era a jeta, essa?"
+    },
+    {
+      "start": 23.92,
+      "end": 24.6,
+      "text": "Caralho!"
+    },
+    {
+      "start": 26.38,
+      "end": 28.1,
+      "text": "Coi, cola roja!"
+    },
+    {
+      "start": 33.78,
+      "end": 34.22,
+      "text": "É chino."
+    },
+    {
+      "start": 34.82,
+      "end": 39.0,
+      "text": "Traí-lo, traí-lo, chino."
+    },
+    {
+      "start": 39.72,
+      "end": 42.01,
+      "text": "É chino."
+    },
+    {
+      "start": 42.83,
+      "end": 44.07,
+      "text": "Caralho, está bonito."
+    },
+    {
+      "start": 46.86,
+      "end": 48.0,
+      "text": "Que mierda!"
+    },
+    {
+      "start": 48.76,
+      "end": 49.86,
+      "text": "É chino, caralho."
+    },
+    {
+      "start": 55.08,
+      "end": 56.82,
+      "text": "E, gancho, agarrá-lo aí uma vez e subí-lo."
+    },
+    {
+      "start": 57.76,
+      "end": 58.8,
+      "text": "Del plomo agarrá-lo."
+    },
+    {
+      "start": 59.42,
+      "end": 65.21,
+      "text": "Aprende a ser, hombre."
+    },
+    {
+      "start": 66.9,
+      "end": 68.24,
+      "text": "Essa mierda!"
+    },
+    {
+      "start": 70.68,
+      "end": 72.38,
+      "text": "Mira, Marcelo, aí está a jeta."
+    },
+    {
+      "start": 72.86,
+      "end": 73.42,
+      "text": "Segue falando."
+    }
+  ],
+  "duracao_seg": 74.59,
+  "idioma_detectado": "pt"
+}

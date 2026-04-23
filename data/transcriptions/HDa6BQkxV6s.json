@@ -1,0 +1,22 @@
+{
+  "texto": "O que é isso? Que bicho é esse? É que é o seu jalo, meu amor!",
+  "segmentos": [
+    {
+      "start": 1.81,
+      "end": 10.78,
+      "text": "O que é isso?"
+    },
+    {
+      "start": 10.78,
+      "end": 12.78,
+      "text": "Que bicho é esse?"
+    },
+    {
+      "start": 12.78,
+      "end": 14.82,
+      "text": "É que é o seu jalo, meu amor!"
+    }
+  ],
+  "duracao_seg": 14.85,
+  "idioma_detectado": "pt"
+}

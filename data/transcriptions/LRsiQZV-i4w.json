@@ -1,0 +1,187 @@
+{
+  "texto": "O que é que é? É uma bestia! É uma bestia! Espírito, irmão! Espírito! Espírito que saia! Vai tirar, vai parar! Não sirve o gancho! Não sirve o gancho! É com a mão, Cardona! Não vai subir o fracho, nem cagando! É uma bestia! Se vai soltar! Não! Cardona! A mi caso! M***! Se vai soltar aqui em sua boquita! Tranquilo! A cola, a cola! Não vai quebrar o anzuelo, cuidado! A cola! Não suelta! Não suelta! Não suelta! Cuidado! Cuidado na vara! 1, 2, 3! Vamos! Que pescado de m***! Me cago! Que m***! Mira esa m***! Mira ese anzuelo! Mira ese anzuelo! El anzuelo no era bueno! Mira ese anzuelo! Oye!",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 2.14,
+      "text": "O que é que é?"
+    },
+    {
+      "start": 2.14,
+      "end": 7.62,
+      "text": "É uma bestia!"
+    },
+    {
+      "start": 7.62,
+      "end": 10.29,
+      "text": "É uma bestia!"
+    },
+    {
+      "start": 10.29,
+      "end": 12.29,
+      "text": "Espírito, irmão! Espírito!"
+    },
+    {
+      "start": 12.29,
+      "end": 14.29,
+      "text": "Espírito que saia!"
+    },
+    {
+      "start": 14.29,
+      "end": 17.31,
+      "text": "Vai tirar, vai parar!"
+    },
+    {
+      "start": 17.31,
+      "end": 28.53,
+      "text": "Não sirve o gancho!"
+    },
+    {
+      "start": 28.53,
+      "end": 30.75,
+      "text": "Não sirve o gancho!"
+    },
+    {
+      "start": 30.75,
+      "end": 32.75,
+      "text": "É com a mão, Cardona!"
+    },
+    {
+      "start": 32.75,
+      "end": 34.75,
+      "text": "Não vai subir o fracho, nem cagando!"
+    },
+    {
+      "start": 34.75,
+      "end": 37.07,
+      "text": "É uma bestia!"
+    },
+    {
+      "start": 37.07,
+      "end": 39.07,
+      "text": "Se vai soltar!"
+    },
+    {
+      "start": 39.07,
+      "end": 41.07,
+      "text": "Não!"
+    },
+    {
+      "start": 41.07,
+      "end": 45.92,
+      "text": "Cardona!"
+    },
+    {
+      "start": 45.92,
+      "end": 48.34,
+      "text": "A mi caso!"
+    },
+    {
+      "start": 48.34,
+      "end": 50.46,
+      "text": "M***!"
+    },
+    {
+      "start": 50.46,
+      "end": 53.97,
+      "text": "Se vai soltar aqui em sua boquita!"
+    },
+    {
+      "start": 53.97,
+      "end": 55.97,
+      "text": "Tranquilo!"
+    },
+    {
+      "start": 55.97,
+      "end": 60.53,
+      "text": "A cola, a cola!"
+    },
+    {
+      "start": 60.53,
+      "end": 63.17,
+      "text": "Não vai quebrar o anzuelo, cuidado!"
+    },
+    {
+      "start": 63.17,
+      "end": 67.89,
+      "text": "A cola!"
+    },
+    {
+      "start": 67.89,
+      "end": 69.89,
+      "text": "Não suelta!"
+    },
+    {
+      "start": 69.89,
+      "end": 71.89,
+      "text": "Não suelta!"
+    },
+    {
+      "start": 71.89,
+      "end": 73.89,
+      "text": "Não suelta!"
+    },
+    {
+      "start": 73.89,
+      "end": 75.89,
+      "text": "Cuidado! Cuidado na vara!"
+    },
+    {
+      "start": 75.89,
+      "end": 77.89,
+      "text": "1, 2, 3!"
+    },
+    {
+      "start": 77.89,
+      "end": 81.33,
+      "text": "Vamos!"
+    },
+    {
+      "start": 81.33,
+      "end": 94.08,
+      "text": "Que pescado de m***!"
+    },
+    {
+      "start": 94.08,
+      "end": 96.14,
+      "text": "Me cago!"
+    },
+    {
+      "start": 96.14,
+      "end": 99.14,
+      "text": "Que m***!"
+    },
+    {
+      "start": 99.14,
+      "end": 101.74,
+      "text": "Mira esa m***!"
+    },
+    {
+      "start": 101.74,
+      "end": 104.06,
+      "text": "Mira ese anzuelo!"
+    },
+    {
+      "start": 104.06,
+      "end": 106.06,
+      "text": "Mira ese anzuelo!"
+    },
+    {
+      "start": 106.06,
+      "end": 108.06,
+      "text": "El anzuelo no era bueno!"
+    },
+    {
+      "start": 108.06,
+      "end": 110.06,
+      "text": "Mira ese anzuelo!"
+    },
+    {
+      "start": 110.06,
+      "end": 112.1,
+      "text": "Oye!"
+    }
+  ],
+  "duracao_seg": 111.35,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,92 @@
+{
+  "texto": "Estamos descendo o rio Laje, eu, o Emerson, vamos apostar em pegar a jatoarana, lá no rio pegar uns monstros, né? Estamos aqui também, o Sandmilson, dá uma olhada, o Sandmilson. É, aquele lá é a isca. Esse é a nossa isca. Se eu tivesse boa, eu mandei não, lá na boca. Ah, é, é. Se tivesse boa, lá na boca é jatoarana. Vamos pegar, vamos pegar. Ó, ouviu aí, né? Nosso guia, Sandmilson. Tá bom. Vai da mata, tá falando lá. Esse é o dono do rio. Rio Laje, hein? De a pouco, foto e vídeo dos monstros aí, não é, Emerson? Com certeza. Beleza.",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 11.28,
+      "text": "Estamos descendo o rio Laje, eu, o Emerson, vamos apostar em pegar a jatoarana, lá no rio pegar uns monstros, né?"
+    },
+    {
+      "start": 12.4,
+      "end": 15.78,
+      "text": "Estamos aqui também, o Sandmilson, dá uma olhada, o Sandmilson."
+    },
+    {
+      "start": 15.78,
+      "end": 16.82,
+      "text": "É, aquele lá é a isca."
+    },
+    {
+      "start": 17.5,
+      "end": 18.72,
+      "text": "Esse é a nossa isca."
+    },
+    {
+      "start": 18.74,
+      "end": 22.98,
+      "text": "Se eu tivesse boa, eu mandei não, lá na boca."
+    },
+    {
+      "start": 24.42,
+      "end": 26.83,
+      "text": "Ah, é, é."
+    },
+    {
+      "start": 27.03,
+      "end": 30.74,
+      "text": "Se tivesse boa, lá na boca é jatoarana."
+    },
+    {
+      "start": 31.7,
+      "end": 32.92,
+      "text": "Vamos pegar, vamos pegar."
+    },
+    {
+      "start": 32.92,
+      "end": 34.99,
+      "text": "Ó, ouviu aí, né?"
+    },
+    {
+      "start": 35.43,
+      "end": 37.63,
+      "text": "Nosso guia, Sandmilson."
+    },
+    {
+      "start": 37.97,
+      "end": 40.25,
+      "text": "Tá bom."
+    },
+    {
+      "start": 41.96,
+      "end": 43.58,
+      "text": "Vai da mata, tá falando lá."
+    },
+    {
+      "start": 44.32,
+      "end": 46.0,
+      "text": "Esse é o dono do rio."
+    },
+    {
+      "start": 48.5,
+      "end": 49.32,
+      "text": "Rio Laje, hein?"
+    },
+    {
+      "start": 49.32,
+      "end": 52.99,
+      "text": "De a pouco, foto e vídeo dos monstros aí, não é, Emerson?"
+    },
+    {
+      "start": 53.35,
+      "end": 53.81,
+      "text": "Com certeza."
+    },
+    {
+      "start": 54.13,
+      "end": 54.53,
+      "text": "Beleza."
+    }
+  ],
+  "duracao_seg": 56.59,
+  "idioma_detectado": "pt"
+}

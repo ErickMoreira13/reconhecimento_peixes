@@ -1,0 +1,357 @@
+{
+  "texto": "Boa! É grande esse cara É grande esse cara Somos os campeões Dale todos Por que não vai dar a minha carretera Eu quero botar o cachalho Arriba Ela saiu a minha carretera Ela estava fora Aí se escapou? Está prendida Está prendida Não está alivianinho É que ela avança para cá Eu não vejo tão bom A sua carretera Está caído Está caído Que se vai vir de que? Dejele, enfrentele Não vai descapaz Não vai tão grande Eu digo que é uns 12kg Me la jogo Eu digo que pesa uns 12kg Que seja o que seja Não vai descapaz Não vai descapaz Não vai descapaz O que está leu? Não vai descapaz Aqui tem que descapaz Está leu? Está hondo Não vai descapaz Não vai descapaz Você é o primeiro? Tem que ajudar Eu estou filmando Quem vem e o agarra? Vem a filmar e o agarra Não vai descapaz Não vai descapaz Tem que descapaz Tem que descapaz Já Já Eza Espere Ti foi pelo O que você vai descapaz Não vai descapaz Não vai descapaz Não vai descapaz Após usciso Ela está subida A ver É aqui A ver Vai descapaz Es para tudo P . . . Sim É um grande, um grande, tão pequeno. Aí está! Listo? Dá-lhe pausa, irmão. Como que não? Como que não esperamos, irmão Morel?",
+  "segmentos": [
+    {
+      "start": 0.08,
+      "end": 2.08,
+      "text": "Boa!"
+    },
+    {
+      "start": 2.08,
+      "end": 4.08,
+      "text": "É grande esse cara"
+    },
+    {
+      "start": 4.08,
+      "end": 6.08,
+      "text": "É grande esse cara"
+    },
+    {
+      "start": 6.08,
+      "end": 8.59,
+      "text": "Somos os campeões"
+    },
+    {
+      "start": 8.59,
+      "end": 12.32,
+      "text": "Dale todos"
+    },
+    {
+      "start": 12.32,
+      "end": 16.3,
+      "text": "Por que não vai dar a minha carretera"
+    },
+    {
+      "start": 16.3,
+      "end": 18.3,
+      "text": "Eu quero botar o cachalho"
+    },
+    {
+      "start": 18.3,
+      "end": 20.34,
+      "text": "Arriba"
+    },
+    {
+      "start": 20.34,
+      "end": 22.72,
+      "text": "Ela saiu a minha carretera"
+    },
+    {
+      "start": 22.72,
+      "end": 24.72,
+      "text": "Ela estava fora"
+    },
+    {
+      "start": 24.72,
+      "end": 26.72,
+      "text": "Aí se escapou?"
+    },
+    {
+      "start": 26.72,
+      "end": 29.74,
+      "text": "Está prendida"
+    },
+    {
+      "start": 29.74,
+      "end": 31.74,
+      "text": "Está prendida"
+    },
+    {
+      "start": 31.74,
+      "end": 33.74,
+      "text": "Não está alivianinho"
+    },
+    {
+      "start": 33.74,
+      "end": 36.38,
+      "text": "É que ela avança para cá"
+    },
+    {
+      "start": 36.38,
+      "end": 38.38,
+      "text": "Eu não vejo tão bom"
+    },
+    {
+      "start": 38.38,
+      "end": 40.38,
+      "text": "A sua carretera"
+    },
+    {
+      "start": 40.38,
+      "end": 42.38,
+      "text": "Está caído"
+    },
+    {
+      "start": 42.38,
+      "end": 44.38,
+      "text": "Está caído"
+    },
+    {
+      "start": 44.38,
+      "end": 46.99,
+      "text": "Que se vai vir de que?"
+    },
+    {
+      "start": 46.99,
+      "end": 48.99,
+      "text": "Dejele, enfrentele"
+    },
+    {
+      "start": 48.99,
+      "end": 50.99,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 50.99,
+      "end": 59.58,
+      "text": "Não vai tão grande"
+    },
+    {
+      "start": 59.58,
+      "end": 61.81,
+      "text": "Eu digo que é uns 12kg"
+    },
+    {
+      "start": 61.81,
+      "end": 63.81,
+      "text": "Me la jogo"
+    },
+    {
+      "start": 63.81,
+      "end": 68.64,
+      "text": "Eu digo que pesa uns 12kg"
+    },
+    {
+      "start": 68.64,
+      "end": 70.64,
+      "text": "Que seja o que seja"
+    },
+    {
+      "start": 70.64,
+      "end": 72.64,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 72.64,
+      "end": 75.44,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 75.44,
+      "end": 77.73,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 77.73,
+      "end": 81.01,
+      "text": "O que está leu?"
+    },
+    {
+      "start": 81.01,
+      "end": 83.01,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 83.01,
+      "end": 87.01,
+      "text": "Aqui tem que descapaz"
+    },
+    {
+      "start": 87.01,
+      "end": 89.2,
+      "text": "Está leu?"
+    },
+    {
+      "start": 89.2,
+      "end": 91.2,
+      "text": "Está hondo"
+    },
+    {
+      "start": 91.2,
+      "end": 93.58,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 93.58,
+      "end": 96.32,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 96.32,
+      "end": 98.32,
+      "text": "Você é o primeiro?"
+    },
+    {
+      "start": 98.32,
+      "end": 103.97,
+      "text": "Tem que ajudar"
+    },
+    {
+      "start": 103.97,
+      "end": 105.97,
+      "text": "Eu estou filmando"
+    },
+    {
+      "start": 105.97,
+      "end": 108.19,
+      "text": "Quem vem e o agarra?"
+    },
+    {
+      "start": 108.19,
+      "end": 112.34,
+      "text": "Vem a filmar e o agarra"
+    },
+    {
+      "start": 112.34,
+      "end": 114.62,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 114.62,
+      "end": 117.52,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 117.52,
+      "end": 119.52,
+      "text": "Tem que descapaz"
+    },
+    {
+      "start": 119.52,
+      "end": 121.52,
+      "text": "Tem que descapaz"
+    },
+    {
+      "start": 121.52,
+      "end": 123.71,
+      "text": "Já"
+    },
+    {
+      "start": 123.71,
+      "end": 126.0,
+      "text": "Já"
+    },
+    {
+      "start": 126.0,
+      "end": 128.38,
+      "text": "Eza"
+    },
+    {
+      "start": 128.38,
+      "end": 129.38,
+      "text": "Espere"
+    },
+    {
+      "start": 129.38,
+      "end": 132.78,
+      "text": "Ti foi pelo"
+    },
+    {
+      "start": 133.02,
+      "end": 133.66,
+      "text": "O que você vai descapaz"
+    },
+    {
+      "start": 133.66,
+      "end": 134.56,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 134.56,
+      "end": 135.56,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 135.56,
+      "end": 138.39,
+      "text": "Não vai descapaz"
+    },
+    {
+      "start": 138.39,
+      "end": 139.39,
+      "text": "Após usciso"
+    },
+    {
+      "start": 139.39,
+      "end": 140.39,
+      "text": "Ela está subida"
+    },
+    {
+      "start": 140.39,
+      "end": 141.89,
+      "text": "A ver"
+    },
+    {
+      "start": 141.89,
+      "end": 143.39,
+      "text": "É aqui"
+    },
+    {
+      "start": 143.39,
+      "end": 144.39,
+      "text": "A ver"
+    },
+    {
+      "start": 144.39,
+      "end": 145.39,
+      "text": "Vai descapaz"
+    },
+    {
+      "start": 145.39,
+      "end": 146.39,
+      "text": "Es para tudo"
+    },
+    {
+      "start": 146.39,
+      "end": 149.25,
+      "text": "P . . ."
+    },
+    {
+      "start": 149.25,
+      "end": 155.16,
+      "text": "Sim"
+    },
+    {
+      "start": 155.16,
+      "end": 157.16,
+      "text": "É um grande, um grande, tão pequeno."
+    },
+    {
+      "start": 157.16,
+      "end": 160.34,
+      "text": "Aí está!"
+    },
+    {
+      "start": 160.34,
+      "end": 163.14,
+      "text": "Listo?"
+    },
+    {
+      "start": 163.14,
+      "end": 165.14,
+      "text": "Dá-lhe pausa, irmão."
+    },
+    {
+      "start": 165.14,
+      "end": 167.14,
+      "text": "Como que não?"
+    },
+    {
+      "start": 167.14,
+      "end": 169.14,
+      "text": "Como que não esperamos, irmão Morel?"
+    }
+  ],
+  "duracao_seg": 169.59,
+  "idioma_detectado": "pt"
+}

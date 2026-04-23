@@ -1,0 +1,92 @@
+{
+  "texto": "Vou botar umas coisas aqui. Não peguei nada para sair pequeno. Chufei, né? Agora. Já sacou. Bota aqui, bota o meu peixão. Deu bote de novo, amor. Deu uma troxadinha, saca. Peixão feio aqui, ó. Pegou? Um babãozinho. Devagarzinho, devagarzinho. Puxa devagar, ele saca. Estou. Devagar, devagar. Devagar. Olha, já saiu. Dentro da canoa.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "Vou botar umas coisas aqui."
+    },
+    {
+      "start": 4.88,
+      "end": 15.71,
+      "text": "Não peguei nada para sair pequeno."
+    },
+    {
+      "start": 15.71,
+      "end": 17.71,
+      "text": "Chufei, né?"
+    },
+    {
+      "start": 17.71,
+      "end": 20.26,
+      "text": "Agora. Já sacou."
+    },
+    {
+      "start": 20.26,
+      "end": 22.26,
+      "text": "Bota aqui, bota o meu peixão."
+    },
+    {
+      "start": 22.26,
+      "end": 24.26,
+      "text": "Deu bote de novo, amor."
+    },
+    {
+      "start": 24.26,
+      "end": 26.26,
+      "text": "Deu uma troxadinha, saca."
+    },
+    {
+      "start": 26.26,
+      "end": 28.8,
+      "text": "Peixão feio aqui, ó."
+    },
+    {
+      "start": 28.8,
+      "end": 30.8,
+      "text": "Pegou?"
+    },
+    {
+      "start": 30.8,
+      "end": 37.54,
+      "text": "Um babãozinho."
+    },
+    {
+      "start": 37.54,
+      "end": 39.54,
+      "text": "Devagarzinho, devagarzinho."
+    },
+    {
+      "start": 39.54,
+      "end": 41.54,
+      "text": "Puxa devagar, ele saca."
+    },
+    {
+      "start": 41.54,
+      "end": 44.82,
+      "text": "Estou."
+    },
+    {
+      "start": 44.82,
+      "end": 47.04,
+      "text": "Devagar, devagar."
+    },
+    {
+      "start": 47.04,
+      "end": 49.04,
+      "text": "Devagar."
+    },
+    {
+      "start": 49.04,
+      "end": 54.0,
+      "text": "Olha, já saiu."
+    },
+    {
+      "start": 54.0,
+      "end": 56.0,
+      "text": "Dentro da canoa."
+    }
+  ],
+  "duracao_seg": 57.77,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Pega de verdade, meu primo aí ó, ensinando a pescar aqui em Rondônia aí ó Cê tá doida aí minha filha pegando aí Erga o bicho aí, sorte ele Sorte ele que não vai pegar o mais grandão Ah moleque doido",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.58,
+      "text": "Pega de verdade, meu primo aí ó, ensinando a pescar aqui em Rondônia aí ó"
+    },
+    {
+      "start": 4.58,
+      "end": 7.38,
+      "text": "Cê tá doida aí minha filha pegando aí"
+    },
+    {
+      "start": 7.38,
+      "end": 9.18,
+      "text": "Erga o bicho aí, sorte ele"
+    },
+    {
+      "start": 9.18,
+      "end": 11.9,
+      "text": "Sorte ele que não vai pegar o mais grandão"
+    },
+    {
+      "start": 11.9,
+      "end": 14.9,
+      "text": "Ah moleque doido"
+    }
+  ],
+  "duracao_seg": 15.99,
+  "idioma_detectado": "pt"
+}

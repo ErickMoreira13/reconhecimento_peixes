@@ -1,0 +1,17 @@
+{
+  "texto": "Muitos pescadores Muitos pescadores",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 71.55,
+      "text": "Muitos pescadores"
+    },
+    {
+      "start": 71.55,
+      "end": 104.34,
+      "text": "Muitos pescadores"
+    }
+  ],
+  "duracao_seg": 104.01,
+  "idioma_detectado": "pt"
+}

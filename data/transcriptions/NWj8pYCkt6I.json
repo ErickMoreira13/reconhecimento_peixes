@@ -1,0 +1,547 @@
+{
+  "texto": "Programa Rancho do Pescador Olá, pra você que está nos assistindo, hoje eu estou no estado de Rondônia e eu vim aqui no mais novo parceiro do Rancho do Pescador Viagens Porto Rolim Pesca Hotel, uma estrutura que você precisa conhecer traz sua família, traz seus amigos, eles tem um atendimento aqui impecável e a gente vai fazer uma pescaria no Rio Guaporé vou mostrar um pouquinho do que esse rio tem para oferecer para você quando você vier pescar aqui no Porto Rolim Pesca Hotel eu sou o Kiyoshi e está começando o seu programa Rancho do Pescador Nossa, nossa, que isso? O peixe louco é esse? Achei até que era piranha Ixi, ó, essa aqui é a primeira que eu pego aqui Olha o tamanho da curvina, gente Olha que curvinão bonito Por isso que você estava pulando assim, né? Vem de cá Mais um peixe do Guaporé, olha que curvinão Deixa eu te trazer aqui em cima, pê Já está roncando já Pronto E o anzol pegou bem no cantinho, ó Já saiu Oh, curvinão bonito Olha aí Com dente afiado essa aqui, tá? Ai, bora que esse aqui morre rapidinho Não pode ficar muito fora da água Nossa senhora Só porque eu falei Olha, arremessa bem na beiradinha ali Quase na areia Quase na areia Nossa, gente Acho que eu caí em cima de um cardume de curvina agora Que beleza que é isso Vem subindo, vem subindo Vem subindo, vem subindo Vem brigar aqui em cima Mostra a cara aí Oh, olha lá Olha lá Que espetáculo, gente Que espetáculo Vou pular mais ou chega? Chega Mais um Vem que eu vou te mostrar aqui em cima Olha aí, olha aí, olha aí Que beleza, gente Que beleza Beleza, né? Vamos embora Vamos embora Quer pescar assim? Duas iscas na água Dois peixes em seguida O lugar realmente é fantástico Gente, ó Vocês viram aí Jogamos duas iscas na água Pegamos duas curvinas Joguei mais três, quatro iscas Não pegou mais nada Nosso guia doca Levantou a poita Deixou o barco descer Acho que uns 30 metros Estamos exatamente em cima De onde a gente estava pescando curvinas Vamos jogar um pouquinho para frente agora Ixi A isca nem bateu na água Está bravo Cacharinha Mas acho que pegou a isca no ar Foi jogar e bater Olha que belezinha Olha que belezinha Esse bagunça aí Faz bagunça aí Sobe, sobe, sobe, sobe Ô peixe nervoso Ai, vem aqui em cima Chimbolou tudo o anzol na linha Que bagunça que você fez aqui Aí, aí Pode roncar Que belezinha, gente Pegamos duas curvinas Parou de comer O guia doca soltou Puxou a poita Desceu 30 metros Foi jogar a isca na água Aí, cacharinha Legal, né? Esse é o Rio Guaporé Porto Rolim Pesco Hotel Vem conhecer essa estrutura O lugar realmente é muito legal Fica sentadinho aí Eu vou sair para o intervalo Mas é rapidinho Daqui um pouquinho Eu estou de volta Eu vou sair para o intervalo",
+  "segmentos": [
+    {
+      "start": 0.48,
+      "end": 2.64,
+      "text": "Programa Rancho do Pescador"
+    },
+    {
+      "start": 2.64,
+      "end": 7.84,
+      "text": "Olá, pra você que está nos assistindo, hoje eu estou no estado de Rondônia"
+    },
+    {
+      "start": 7.84,
+      "end": 12.24,
+      "text": "e eu vim aqui no mais novo parceiro do Rancho do Pescador Viagens"
+    },
+    {
+      "start": 12.24,
+      "end": 17.62,
+      "text": "Porto Rolim Pesca Hotel, uma estrutura que você precisa conhecer"
+    },
+    {
+      "start": 17.62,
+      "end": 22.88,
+      "text": "traz sua família, traz seus amigos, eles tem um atendimento aqui impecável"
+    },
+    {
+      "start": 22.88,
+      "end": 25.9,
+      "text": "e a gente vai fazer uma pescaria no Rio Guaporé"
+    },
+    {
+      "start": 25.9,
+      "end": 30.82,
+      "text": "vou mostrar um pouquinho do que esse rio tem para oferecer para você"
+    },
+    {
+      "start": 30.82,
+      "end": 35.06,
+      "text": "quando você vier pescar aqui no Porto Rolim Pesca Hotel"
+    },
+    {
+      "start": 35.06,
+      "end": 40.36,
+      "text": "eu sou o Kiyoshi e está começando o seu programa Rancho do Pescador"
+    },
+    {
+      "start": 40.36,
+      "end": 93.2,
+      "text": "Nossa, nossa, que isso?"
+    },
+    {
+      "start": 95.08,
+      "end": 96.52,
+      "text": "O peixe louco é esse?"
+    },
+    {
+      "start": 98.6,
+      "end": 100.12,
+      "text": "Achei até que era piranha"
+    },
+    {
+      "start": 100.12,
+      "end": 112.88,
+      "text": "Ixi, ó, essa aqui é a primeira que eu pego aqui"
+    },
+    {
+      "start": 112.88,
+      "end": 115.54,
+      "text": "Olha o tamanho da curvina, gente"
+    },
+    {
+      "start": 115.54,
+      "end": 123.07,
+      "text": "Olha que curvinão bonito"
+    },
+    {
+      "start": 123.07,
+      "end": 129.84,
+      "text": "Por isso que você estava pulando assim, né?"
+    },
+    {
+      "start": 130.52,
+      "end": 131.24,
+      "text": "Vem de cá"
+    },
+    {
+      "start": 131.24,
+      "end": 141.59,
+      "text": "Mais um peixe do Guaporé, olha que curvinão"
+    },
+    {
+      "start": 141.59,
+      "end": 150.02,
+      "text": "Deixa eu te trazer aqui em cima, pê"
+    },
+    {
+      "start": 150.02,
+      "end": 160.75,
+      "text": "Já está roncando já"
+    },
+    {
+      "start": 160.75,
+      "end": 170.22,
+      "text": "Pronto"
+    },
+    {
+      "start": 170.22,
+      "end": 175.48,
+      "text": "E o anzol pegou bem no cantinho, ó"
+    },
+    {
+      "start": 175.48,
+      "end": 176.78,
+      "text": "Já saiu"
+    },
+    {
+      "start": 176.78,
+      "end": 182.08,
+      "text": "Oh, curvinão bonito"
+    },
+    {
+      "start": 182.08,
+      "end": 184.09,
+      "text": "Olha aí"
+    },
+    {
+      "start": 184.09,
+      "end": 191.92,
+      "text": "Com dente afiado essa aqui, tá?"
+    },
+    {
+      "start": 193.57,
+      "end": 199.75,
+      "text": "Ai, bora que esse aqui morre rapidinho"
+    },
+    {
+      "start": 199.75,
+      "end": 202.59,
+      "text": "Não pode ficar muito fora da água"
+    },
+    {
+      "start": 205.4,
+      "end": 207.0,
+      "text": "Nossa senhora"
+    },
+    {
+      "start": 207.0,
+      "end": 209.05,
+      "text": "Só porque eu falei"
+    },
+    {
+      "start": 209.05,
+      "end": 217.88,
+      "text": "Olha, arremessa bem na beiradinha ali"
+    },
+    {
+      "start": 217.88,
+      "end": 219.76,
+      "text": "Quase na areia"
+    },
+    {
+      "start": 219.76,
+      "end": 220.0,
+      "text": "Quase na areia"
+    },
+    {
+      "start": 220.0,
+      "end": 233.25,
+      "text": "Nossa, gente"
+    },
+    {
+      "start": 233.25,
+      "end": 240.9,
+      "text": "Acho que eu caí em cima de um cardume de curvina agora"
+    },
+    {
+      "start": 240.9,
+      "end": 248.34,
+      "text": "Que beleza que é isso"
+    },
+    {
+      "start": 248.34,
+      "end": 252.69,
+      "text": "Vem subindo, vem subindo"
+    },
+    {
+      "start": 252.69,
+      "end": 255.09,
+      "text": "Vem subindo, vem subindo"
+    },
+    {
+      "start": 255.09,
+      "end": 256.45,
+      "text": "Vem brigar aqui em cima"
+    },
+    {
+      "start": 256.45,
+      "end": 262.08,
+      "text": "Mostra a cara aí"
+    },
+    {
+      "start": 262.08,
+      "end": 263.4,
+      "text": "Oh, olha lá"
+    },
+    {
+      "start": 263.4,
+      "end": 264.26,
+      "text": "Olha lá"
+    },
+    {
+      "start": 264.26,
+      "end": 268.51,
+      "text": "Que espetáculo, gente"
+    },
+    {
+      "start": 268.51,
+      "end": 269.87,
+      "text": "Que espetáculo"
+    },
+    {
+      "start": 269.87,
+      "end": 276.99,
+      "text": "Vou pular mais ou chega?"
+    },
+    {
+      "start": 278.35,
+      "end": 278.91,
+      "text": "Chega"
+    },
+    {
+      "start": 278.91,
+      "end": 281.32,
+      "text": "Mais um"
+    },
+    {
+      "start": 281.32,
+      "end": 286.07,
+      "text": "Vem que eu vou te mostrar aqui em cima"
+    },
+    {
+      "start": 286.07,
+      "end": 302.35,
+      "text": "Olha aí, olha aí, olha aí"
+    },
+    {
+      "start": 302.35,
+      "end": 313.22,
+      "text": "Que beleza, gente"
+    },
+    {
+      "start": 313.22,
+      "end": 314.16,
+      "text": "Que beleza"
+    },
+    {
+      "start": 314.16,
+      "end": 316.73,
+      "text": "Beleza, né?"
+    },
+    {
+      "start": 317.87,
+      "end": 318.47,
+      "text": "Vamos embora"
+    },
+    {
+      "start": 318.47,
+      "end": 319.96,
+      "text": "Vamos embora"
+    },
+    {
+      "start": 319.96,
+      "end": 334.47,
+      "text": "Quer pescar assim?"
+    },
+    {
+      "start": 335.66,
+      "end": 337.08,
+      "text": "Duas iscas na água"
+    },
+    {
+      "start": 337.08,
+      "end": 339.39,
+      "text": "Dois peixes em seguida"
+    },
+    {
+      "start": 339.39,
+      "end": 341.87,
+      "text": "O lugar realmente é fantástico"
+    },
+    {
+      "start": 341.87,
+      "end": 344.36,
+      "text": "Gente, ó"
+    },
+    {
+      "start": 344.36,
+      "end": 346.07,
+      "text": "Vocês viram aí"
+    },
+    {
+      "start": 346.07,
+      "end": 347.93,
+      "text": "Jogamos duas iscas na água"
+    },
+    {
+      "start": 347.93,
+      "end": 349.71,
+      "text": "Pegamos duas curvinas"
+    },
+    {
+      "start": 349.71,
+      "end": 352.73,
+      "text": "Joguei mais três, quatro iscas"
+    },
+    {
+      "start": 352.73,
+      "end": 353.77,
+      "text": "Não pegou mais nada"
+    },
+    {
+      "start": 353.77,
+      "end": 355.63,
+      "text": "Nosso guia doca"
+    },
+    {
+      "start": 355.63,
+      "end": 357.31,
+      "text": "Levantou a poita"
+    },
+    {
+      "start": 357.31,
+      "end": 359.13,
+      "text": "Deixou o barco descer"
+    },
+    {
+      "start": 359.13,
+      "end": 360.57,
+      "text": "Acho que uns 30 metros"
+    },
+    {
+      "start": 360.57,
+      "end": 363.63,
+      "text": "Estamos exatamente em cima"
+    },
+    {
+      "start": 363.63,
+      "end": 365.43,
+      "text": "De onde a gente estava pescando curvinas"
+    },
+    {
+      "start": 365.43,
+      "end": 368.61,
+      "text": "Vamos jogar um pouquinho para frente agora"
+    },
+    {
+      "start": 368.61,
+      "end": 374.68,
+      "text": "Ixi"
+    },
+    {
+      "start": 374.68,
+      "end": 380.04,
+      "text": "A isca nem bateu na água"
+    },
+    {
+      "start": 380.04,
+      "end": 394.37,
+      "text": "Está bravo"
+    },
+    {
+      "start": 394.37,
+      "end": 403.17,
+      "text": "Cacharinha"
+    },
+    {
+      "start": 403.17,
+      "end": 405.91,
+      "text": "Mas acho que pegou a isca no ar"
+    },
+    {
+      "start": 405.91,
+      "end": 409.27,
+      "text": "Foi jogar e bater"
+    },
+    {
+      "start": 409.27,
+      "end": 410.41,
+      "text": "Olha que belezinha"
+    },
+    {
+      "start": 410.41,
+      "end": 412.58,
+      "text": "Olha que belezinha"
+    },
+    {
+      "start": 412.58,
+      "end": 421.08,
+      "text": "Esse bagunça aí"
+    },
+    {
+      "start": 421.08,
+      "end": 422.84,
+      "text": "Faz bagunça aí"
+    },
+    {
+      "start": 422.84,
+      "end": 426.24,
+      "text": "Sobe, sobe, sobe, sobe"
+    },
+    {
+      "start": 426.24,
+      "end": 432.84,
+      "text": "Ô peixe nervoso"
+    },
+    {
+      "start": 432.84,
+      "end": 442.01,
+      "text": "Ai, vem aqui em cima"
+    },
+    {
+      "start": 442.01,
+      "end": 447.21,
+      "text": "Chimbolou tudo o anzol na linha"
+    },
+    {
+      "start": 447.21,
+      "end": 458.18,
+      "text": "Que bagunça que você fez aqui"
+    },
+    {
+      "start": 458.18,
+      "end": 461.29,
+      "text": "Aí, aí"
+    },
+    {
+      "start": 461.29,
+      "end": 469.92,
+      "text": "Pode roncar"
+    },
+    {
+      "start": 469.92,
+      "end": 476.09,
+      "text": "Que belezinha, gente"
+    },
+    {
+      "start": 476.09,
+      "end": 479.88,
+      "text": "Pegamos duas curvinas"
+    },
+    {
+      "start": 479.88,
+      "end": 482.42,
+      "text": "Parou de comer"
+    },
+    {
+      "start": 482.42,
+      "end": 485.0,
+      "text": "O guia doca soltou"
+    },
+    {
+      "start": 485.0,
+      "end": 486.12,
+      "text": "Puxou a poita"
+    },
+    {
+      "start": 486.12,
+      "end": 489.19,
+      "text": "Desceu 30 metros"
+    },
+    {
+      "start": 489.19,
+      "end": 490.83,
+      "text": "Foi jogar a isca na água"
+    },
+    {
+      "start": 490.83,
+      "end": 494.01,
+      "text": "Aí, cacharinha"
+    },
+    {
+      "start": 494.01,
+      "end": 505.93,
+      "text": "Legal, né?"
+    },
+    {
+      "start": 506.7,
+      "end": 507.84,
+      "text": "Esse é o Rio Guaporé"
+    },
+    {
+      "start": 507.84,
+      "end": 509.4,
+      "text": "Porto Rolim"
+    },
+    {
+      "start": 509.4,
+      "end": 510.2,
+      "text": "Pesco Hotel"
+    },
+    {
+      "start": 510.2,
+      "end": 512.24,
+      "text": "Vem conhecer essa estrutura"
+    },
+    {
+      "start": 512.24,
+      "end": 514.56,
+      "text": "O lugar realmente é muito legal"
+    },
+    {
+      "start": 514.56,
+      "end": 516.86,
+      "text": "Fica sentadinho aí"
+    },
+    {
+      "start": 516.86,
+      "end": 518.42,
+      "text": "Eu vou sair para o intervalo"
+    },
+    {
+      "start": 518.42,
+      "end": 519.64,
+      "text": "Mas é rapidinho"
+    },
+    {
+      "start": 519.64,
+      "end": 520.38,
+      "text": "Daqui um pouquinho"
+    },
+    {
+      "start": 520.38,
+      "end": 521.14,
+      "text": "Eu estou de volta"
+    },
+    {
+      "start": 521.14,
+      "end": 551.12,
+      "text": "Eu vou sair para o intervalo"
+    }
+  ],
+  "duracao_seg": 528.81,
+  "idioma_detectado": "pt"
+}

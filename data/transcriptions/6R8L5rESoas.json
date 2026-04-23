@@ -1,0 +1,27 @@
+{
+  "texto": "Filmar no meio da... depois já fisgou, hein? Piranha, meu filho! Piranha! Pega a piranha, pô! Filhotinho de piranha aí, ó!",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 7.62,
+      "text": "Filmar no meio da... depois já fisgou, hein?"
+    },
+    {
+      "start": 7.62,
+      "end": 15.14,
+      "text": "Piranha, meu filho! Piranha!"
+    },
+    {
+      "start": 15.14,
+      "end": 23.45,
+      "text": "Pega a piranha, pô!"
+    },
+    {
+      "start": 23.45,
+      "end": 27.34,
+      "text": "Filhotinho de piranha aí, ó!"
+    }
+  ],
+  "duracao_seg": 28.25,
+  "idioma_detectado": "pt"
+}

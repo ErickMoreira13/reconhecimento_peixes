@@ -1,0 +1,62 @@
+{
+  "texto": "Saímos de Jaru, eram umas 11 horas por aí, chegamos de Paraná agora, 21h30, vamos parar para almoçar nessa luzinha, e de lá a gente vai para o rio. Gostar bem o ponto do Caramujo, vamos lá. Quinta Maria, quilômetro abaixo de Paraná. Nossa gente, tira esse trem aí rapaz. Oi, ó, 10kg certinho, na traíra, ó, na traíra. Ó, estamos aqui no Caramujo, uma prazerosa companhia do grande líder aqui, Chicão, o homem que há 40 anos começou a navegar nas águas aqui do rio Machado. É isso, Chicão, não é isso? É, 55 anos. 55 anos navegando aqui nas águas do rio Machado, fez 6 viagens para Manaus, daqui de Jiparná até Manaus. O outro velho perdi as contas. É o cara, é o cara, esse é o cara.",
+  "segmentos": [
+    {
+      "start": 81.39,
+      "end": 92.04,
+      "text": "Saímos de Jaru, eram umas 11 horas por aí, chegamos de Paraná agora, 21h30, vamos parar para almoçar nessa luzinha, e de lá a gente vai para o rio."
+    },
+    {
+      "start": 225.01,
+      "end": 226.99,
+      "text": "Gostar bem o ponto do Caramujo, vamos lá."
+    },
+    {
+      "start": 227.41,
+      "end": 306.93,
+      "text": "Quinta Maria, quilômetro abaixo de Paraná."
+    },
+    {
+      "start": 365.35,
+      "end": 366.79,
+      "text": "Nossa gente, tira esse trem aí rapaz."
+    },
+    {
+      "start": 368.96,
+      "end": 409.04,
+      "text": "Oi, ó, 10kg certinho, na traíra, ó, na traíra."
+    },
+    {
+      "start": 409.04,
+      "end": 434.27,
+      "text": "Ó, estamos aqui no Caramujo, uma prazerosa companhia do grande líder aqui, Chicão, o homem que há 40 anos começou a navegar nas águas aqui do rio Machado."
+    },
+    {
+      "start": 434.35,
+      "end": 435.35,
+      "text": "É isso, Chicão, não é isso?"
+    },
+    {
+      "start": 435.55,
+      "end": 437.27,
+      "text": "É, 55 anos."
+    },
+    {
+      "start": 437.59,
+      "end": 444.31,
+      "text": "55 anos navegando aqui nas águas do rio Machado, fez 6 viagens para Manaus, daqui de Jiparná até Manaus."
+    },
+    {
+      "start": 444.33,
+      "end": 445.67,
+      "text": "O outro velho perdi as contas."
+    },
+    {
+      "start": 445.73,
+      "end": 447.57,
+      "text": "É o cara, é o cara, esse é o cara."
+    }
+  ],
+  "duracao_seg": 525.21,
+  "idioma_detectado": "pt"
+}

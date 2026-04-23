@@ -1,0 +1,37 @@
+{
+  "texto": "Olha o Tivão pegando pintado, olha o pintado, olha o pintado, olha o pintado, olha o vitelo, pulou, moleque doido, tá doido, olha o cachorro aqui já pescado, e o pintado, olha a pescada, não dá uma na cabeça dele, não dá uma na cabeça dele, não dá uma na cabeça dele, pera aí, Mata ele, tira o ram, pô, dá uma doida mano, o vinho já era, olha o macete, tem mais um pra coleção, Tá violando ainda, olha o bicho que tem ela, só dois bichos de aéreo, daqui a pouco ele tá pulando, sai demais, esse dá 7kg, ai moleque doido, Tá lá dentro do pote, onde para? Tchau, tchau Tchau",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 52.13,
+      "text": "Olha o Tivão pegando pintado, olha o pintado, olha o pintado, olha o pintado, olha o vitelo, pulou, moleque doido, tá doido, olha o cachorro aqui já pescado, e o pintado, olha a pescada, não dá uma na cabeça dele, não dá uma na cabeça dele, não dá uma na cabeça dele, pera aí,"
+    },
+    {
+      "start": 52.13,
+      "end": 105.56,
+      "text": "Mata ele, tira o ram, pô, dá uma doida mano, o vinho já era, olha o macete, tem mais um pra coleção,"
+    },
+    {
+      "start": 105.56,
+      "end": 141.08,
+      "text": "Tá violando ainda, olha o bicho que tem ela, só dois bichos de aéreo, daqui a pouco ele tá pulando, sai demais, esse dá 7kg, ai moleque doido,"
+    },
+    {
+      "start": 141.08,
+      "end": 153.6,
+      "text": "Tá lá dentro do pote, onde para?"
+    },
+    {
+      "start": 153.6,
+      "end": 155.11,
+      "text": "Tchau, tchau"
+    },
+    {
+      "start": 155.11,
+      "end": 156.11,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 156.33,
+  "idioma_detectado": "pt"
+}

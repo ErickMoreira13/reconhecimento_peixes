@@ -1,0 +1,447 @@
+{
+  "texto": "Bem-vindo a Cabixinha! Aí galera, olha só! Cabixizão, os caiacão em cima. Olha aí galera, chegamos aqui em Vila Neide, só alegria. Vamos lá no rio para mostrar para vocês a prainha. Você está doido! Deus me abençoar que vai ter peixe demais nessa pescaria. Você está doido! Eita! Os dois barracudas aqui, tem o barcão do vizinho ali. Olha lá, rapaz, é bonito demais, é água demais. Olha aí, rapaz. Aê, finalmente! E aí galera, peixinho bonitinho? É, pegamos o primeiro peixinho e foi um peixinho diferente, que eu não conheço. Não vai para o pau não, não sei o que é não, mas é mais bravo. Vamos sair aqui da linha. Piau, piau, piauzinho, piauzinho do Guaporé. E aí, delícia, brigador, brigador no mundo. Não quer sair da água não. É rapaz, eu vou ter que tirar você aí na marra. Galera, um piauzinho. Eita, que delícia. Ai, que delícia. Ih, olha. É outra daquela. Oh, menino bruto. Eu estou guardando. Tudo que eu peguei até agora eu guardei. Oh, estava tudo dentro do caiaque. Minhas coisas. Nossa, sorte que não caiu, hein. Oi? Não, estava dentro da bacia lá do... Que peixinho é esse aqui? Deixa eu ver. Isso aí é uma cachorra, rapaz. Não é não, velho. É cachorra, só que ela é pequena. Deixa eu só ver a frente dela aí. Não é não. É cachorra, é que ela está sem dente. É cachorra lá, olha os dentinhos dela, está vendo? Eu vi os dentes, mano. É cachorra mesmo. Olha, olha. Oi, esse é pior. Vai ser bom para pintar. Está um lado, para o lado. É grande? Isso que ele é inteiro, tá? Não é grande? Você vai ver o carro aqui. Roubou. Também você vai ter conteúdo até não querer mais agora, hein. Será, Deus? Oi? Acho que você tinha pegado. Está pesado, está mais pesado que... Nossa, olha o que o Pio Al fez, velho. Pegar, soca isso. Ó, peguei. Aí, o... Mandi? Não, não é Mandi, não. Esse aí é o... Esse aí é o... É o Mandizinho, o Chorãozinho, não é? É outro, o Jundiá. Ele é a família do Chorão, mas ele é junto... Eu acho que é junto de aça. Quando cortou, estava cheio de pet. Ai, cada um desenfinharam esses pet aí. Irro. Deu um saco de lixo no grande. Eita! Nossa, era o peixe que tinha, hein. Arrebentou. Cortou? Arrebentou. Eita, que agressão. Aqui, galera. Três filhotinhos dos passarinhos aqui. Será que estão vivos ou estão mortos? Estão fingindo de mortos, cara. Que barato. Que barato. Que barato.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "Bem-vindo a Cabixinha!"
+    },
+    {
+      "start": 3.5,
+      "end": 5.36,
+      "text": "Aí galera, olha só!"
+    },
+    {
+      "start": 7.96,
+      "end": 10.72,
+      "text": "Cabixizão, os caiacão em cima."
+    },
+    {
+      "start": 12.32,
+      "end": 21.4,
+      "text": "Olha aí galera, chegamos aqui em Vila Neide, só alegria."
+    },
+    {
+      "start": 24.58,
+      "end": 31.24,
+      "text": "Vamos lá no rio para mostrar para vocês a prainha."
+    },
+    {
+      "start": 33.75,
+      "end": 34.89,
+      "text": "Você está doido!"
+    },
+    {
+      "start": 36.52,
+      "end": 39.86,
+      "text": "Deus me abençoar que vai ter peixe demais nessa pescaria."
+    },
+    {
+      "start": 41.4,
+      "end": 42.92,
+      "text": "Você está doido!"
+    },
+    {
+      "start": 42.92,
+      "end": 44.12,
+      "text": "Eita!"
+    },
+    {
+      "start": 44.12,
+      "end": 53.33,
+      "text": "Os dois barracudas aqui, tem o barcão do vizinho ali."
+    },
+    {
+      "start": 54.36,
+      "end": 64.45,
+      "text": "Olha lá, rapaz, é bonito demais, é água demais."
+    },
+    {
+      "start": 67.95,
+      "end": 72.02,
+      "text": "Olha aí, rapaz."
+    },
+    {
+      "start": 77.15,
+      "end": 80.53,
+      "text": "Aê, finalmente!"
+    },
+    {
+      "start": 83.7,
+      "end": 89.59,
+      "text": "E aí galera, peixinho bonitinho?"
+    },
+    {
+      "start": 90.96,
+      "end": 96.87,
+      "text": "É, pegamos o primeiro peixinho e foi um peixinho diferente, que eu não conheço."
+    },
+    {
+      "start": 96.87,
+      "end": 106.5,
+      "text": "Não vai para o pau não, não sei o que é não, mas é mais bravo."
+    },
+    {
+      "start": 109.86,
+      "end": 110.68,
+      "text": "Vamos sair aqui da linha."
+    },
+    {
+      "start": 111.7,
+      "end": 118.04,
+      "text": "Piau, piau, piauzinho, piauzinho do Guaporé."
+    },
+    {
+      "start": 118.04,
+      "end": 128.62,
+      "text": "E aí, delícia, brigador, brigador no mundo."
+    },
+    {
+      "start": 128.62,
+      "end": 133.16,
+      "text": "Não quer sair da água não."
+    },
+    {
+      "start": 134.47,
+      "end": 136.57,
+      "text": "É rapaz, eu vou ter que tirar você aí na marra."
+    },
+    {
+      "start": 145.22,
+      "end": 147.06,
+      "text": "Galera, um piauzinho."
+    },
+    {
+      "start": 148.71,
+      "end": 150.25,
+      "text": "Eita, que delícia."
+    },
+    {
+      "start": 150.25,
+      "end": 153.31,
+      "text": "Ai, que delícia."
+    },
+    {
+      "start": 165.0,
+      "end": 168.5,
+      "text": "Ih, olha."
+    },
+    {
+      "start": 172.83,
+      "end": 173.81,
+      "text": "É outra daquela."
+    },
+    {
+      "start": 175.8,
+      "end": 177.46,
+      "text": "Oh, menino bruto."
+    },
+    {
+      "start": 179.26,
+      "end": 179.9,
+      "text": "Eu estou guardando."
+    },
+    {
+      "start": 180.87,
+      "end": 182.33,
+      "text": "Tudo que eu peguei até agora eu guardei."
+    },
+    {
+      "start": 183.74,
+      "end": 185.38,
+      "text": "Oh, estava tudo dentro do caiaque."
+    },
+    {
+      "start": 186.52,
+      "end": 187.04,
+      "text": "Minhas coisas."
+    },
+    {
+      "start": 188.06,
+      "end": 189.54,
+      "text": "Nossa, sorte que não caiu, hein."
+    },
+    {
+      "start": 190.22,
+      "end": 190.42,
+      "text": "Oi?"
+    },
+    {
+      "start": 190.42,
+      "end": 194.47,
+      "text": "Não, estava dentro da bacia lá do..."
+    },
+    {
+      "start": 194.47,
+      "end": 195.25,
+      "text": "Que peixinho é esse aqui?"
+    },
+    {
+      "start": 197.13,
+      "end": 197.51,
+      "text": "Deixa eu ver."
+    },
+    {
+      "start": 198.58,
+      "end": 200.18,
+      "text": "Isso aí é uma cachorra, rapaz."
+    },
+    {
+      "start": 200.54,
+      "end": 201.18,
+      "text": "Não é não, velho."
+    },
+    {
+      "start": 201.22,
+      "end": 202.44,
+      "text": "É cachorra, só que ela é pequena."
+    },
+    {
+      "start": 203.36,
+      "end": 204.76,
+      "text": "Deixa eu só ver a frente dela aí."
+    },
+    {
+      "start": 205.72,
+      "end": 206.1,
+      "text": "Não é não."
+    },
+    {
+      "start": 206.44,
+      "end": 208.04,
+      "text": "É cachorra, é que ela está sem dente."
+    },
+    {
+      "start": 208.18,
+      "end": 209.98,
+      "text": "É cachorra lá, olha os dentinhos dela, está vendo?"
+    },
+    {
+      "start": 210.14,
+      "end": 211.14,
+      "text": "Eu vi os dentes, mano."
+    },
+    {
+      "start": 211.22,
+      "end": 211.98,
+      "text": "É cachorra mesmo."
+    },
+    {
+      "start": 216.76,
+      "end": 217.14,
+      "text": "Olha, olha."
+    },
+    {
+      "start": 225.16,
+      "end": 225.74,
+      "text": "Oi, esse é pior."
+    },
+    {
+      "start": 225.84,
+      "end": 226.62,
+      "text": "Vai ser bom para pintar."
+    },
+    {
+      "start": 226.76,
+      "end": 227.5,
+      "text": "Está um lado, para o lado."
+    },
+    {
+      "start": 228.7,
+      "end": 229.5,
+      "text": "É grande?"
+    },
+    {
+      "start": 230.12,
+      "end": 231.29,
+      "text": "Isso que ele é inteiro, tá?"
+    },
+    {
+      "start": 231.53,
+      "end": 232.27,
+      "text": "Não é grande?"
+    },
+    {
+      "start": 232.27,
+      "end": 233.25,
+      "text": "Você vai ver o carro aqui."
+    },
+    {
+      "start": 234.15,
+      "end": 238.94,
+      "text": "Roubou."
+    },
+    {
+      "start": 241.83,
+      "end": 244.05,
+      "text": "Também você vai ter conteúdo até não querer mais agora, hein."
+    },
+    {
+      "start": 244.25,
+      "end": 245.03,
+      "text": "Será, Deus?"
+    },
+    {
+      "start": 245.25,
+      "end": 245.41,
+      "text": "Oi?"
+    },
+    {
+      "start": 245.83,
+      "end": 246.83,
+      "text": "Acho que você tinha pegado."
+    },
+    {
+      "start": 248.07,
+      "end": 249.83,
+      "text": "Está pesado, está mais pesado que..."
+    },
+    {
+      "start": 249.83,
+      "end": 251.15,
+      "text": "Nossa, olha o que o Pio Al fez, velho."
+    },
+    {
+      "start": 252.7,
+      "end": 253.86,
+      "text": "Pegar, soca isso."
+    },
+    {
+      "start": 254.36,
+      "end": 257.19,
+      "text": "Ó, peguei."
+    },
+    {
+      "start": 258.66,
+      "end": 260.14,
+      "text": "Aí, o..."
+    },
+    {
+      "start": 260.14,
+      "end": 260.52,
+      "text": "Mandi?"
+    },
+    {
+      "start": 260.92,
+      "end": 261.78,
+      "text": "Não, não é Mandi, não."
+    },
+    {
+      "start": 261.88,
+      "end": 262.86,
+      "text": "Esse aí é o..."
+    },
+    {
+      "start": 262.86,
+      "end": 264.28,
+      "text": "Esse aí é o..."
+    },
+    {
+      "start": 264.28,
+      "end": 266.56,
+      "text": "É o Mandizinho, o Chorãozinho, não é?"
+    },
+    {
+      "start": 266.92,
+      "end": 269.22,
+      "text": "É outro, o Jundiá."
+    },
+    {
+      "start": 269.22,
+      "end": 272.67,
+      "text": "Ele é a família do Chorão, mas ele é junto..."
+    },
+    {
+      "start": 272.67,
+      "end": 273.61,
+      "text": "Eu acho que é junto de aça."
+    },
+    {
+      "start": 273.69,
+      "end": 276.01,
+      "text": "Quando cortou, estava cheio de pet."
+    },
+    {
+      "start": 276.59,
+      "end": 278.77,
+      "text": "Ai, cada um desenfinharam esses pet aí."
+    },
+    {
+      "start": 279.49,
+      "end": 279.83,
+      "text": "Irro."
+    },
+    {
+      "start": 279.85,
+      "end": 281.47,
+      "text": "Deu um saco de lixo no grande."
+    },
+    {
+      "start": 282.47,
+      "end": 282.87,
+      "text": "Eita!"
+    },
+    {
+      "start": 283.41,
+      "end": 285.01,
+      "text": "Nossa, era o peixe que tinha, hein."
+    },
+    {
+      "start": 285.59,
+      "end": 285.95,
+      "text": "Arrebentou."
+    },
+    {
+      "start": 286.61,
+      "end": 287.01,
+      "text": "Cortou?"
+    },
+    {
+      "start": 287.27,
+      "end": 288.27,
+      "text": "Arrebentou."
+    },
+    {
+      "start": 288.56,
+      "end": 289.76,
+      "text": "Eita, que agressão."
+    },
+    {
+      "start": 293.22,
+      "end": 294.0,
+      "text": "Aqui, galera."
+    },
+    {
+      "start": 295.8,
+      "end": 298.18,
+      "text": "Três filhotinhos dos passarinhos aqui."
+    },
+    {
+      "start": 299.58,
+      "end": 300.96,
+      "text": "Será que estão vivos ou estão mortos?"
+    },
+    {
+      "start": 311.16,
+      "end": 313.26,
+      "text": "Estão fingindo de mortos, cara."
+    },
+    {
+      "start": 313.34,
+      "end": 314.26,
+      "text": "Que barato."
+    },
+    {
+      "start": 316.12,
+      "end": 317.4,
+      "text": "Que barato."
+    },
+    {
+      "start": 317.4,
+      "end": 317.42,
+      "text": "Que barato."
+    }
+  ],
+  "duracao_seg": 387.53,
+  "idioma_detectado": "pt"
+}

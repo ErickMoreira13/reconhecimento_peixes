@@ -1,0 +1,17 @@
+{
+  "texto": "está josé en acción tire vamos tu liña cuidado esa general general tacha bien bien bien bien saludos",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.5,
+      "text": "está josé en acción tire vamos tu liña cuidado esa general general tacha bien bien bien bien"
+    },
+    {
+      "start": 9.5,
+      "end": 10.92,
+      "text": "saludos"
+    }
+  ],
+  "duracao_seg": 15.91,
+  "idioma_detectado": "pt"
+}

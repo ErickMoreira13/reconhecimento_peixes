@@ -1,0 +1,82 @@
+{
+  "texto": "Que carajo Saque essa merda Vamos carajo Rapuja carajo Pra merda Pega carajo Meralote Carajo Cancho cancho Essa merda carajo Essa é carajo Ahorita colocamos dois anzuelos Bem metidos carajo Ahorita Ahorita",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Que carajo"
+    },
+    {
+      "start": 2.0,
+      "end": 12.19,
+      "text": "Saque essa merda"
+    },
+    {
+      "start": 12.19,
+      "end": 14.51,
+      "text": "Vamos carajo"
+    },
+    {
+      "start": 14.51,
+      "end": 28.58,
+      "text": "Rapuja carajo"
+    },
+    {
+      "start": 28.58,
+      "end": 30.58,
+      "text": "Pra merda"
+    },
+    {
+      "start": 30.58,
+      "end": 33.47,
+      "text": "Pega carajo"
+    },
+    {
+      "start": 33.47,
+      "end": 35.57,
+      "text": "Meralote"
+    },
+    {
+      "start": 35.57,
+      "end": 39.14,
+      "text": "Carajo"
+    },
+    {
+      "start": 39.14,
+      "end": 60.72,
+      "text": "Cancho cancho"
+    },
+    {
+      "start": 60.72,
+      "end": 75.23,
+      "text": "Essa merda carajo"
+    },
+    {
+      "start": 75.23,
+      "end": 85.33,
+      "text": "Essa é carajo"
+    },
+    {
+      "start": 88.48,
+      "end": 90.48,
+      "text": "Ahorita colocamos dois anzuelos"
+    },
+    {
+      "start": 90.48,
+      "end": 92.48,
+      "text": "Bem metidos carajo"
+    },
+    {
+      "start": 92.48,
+      "end": 94.48,
+      "text": "Ahorita"
+    },
+    {
+      "start": 94.48,
+      "end": 96.48,
+      "text": "Ahorita"
+    }
+  ],
+  "duracao_seg": 95.39,
+  "idioma_detectado": "pt"
+}

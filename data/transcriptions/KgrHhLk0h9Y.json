@@ -1,0 +1,37 @@
+{
+  "texto": "Estamos aqui no Guaporé pescando uns tucanarézinhos aqui, nessa Bahia com as iscas Roja, iscas artesanais Roja A qual? RC isca artesanais Número de telefone? 9205-5255 Se vocês quiserem as iscas que realmente pega, são essas, tá? Vamos para a soltura do bicho agora",
+  "segmentos": [
+    {
+      "start": 1.39,
+      "end": 6.39,
+      "text": "Estamos aqui no Guaporé pescando uns tucanarézinhos aqui, nessa Bahia"
+    },
+    {
+      "start": 6.39,
+      "end": 10.39,
+      "text": "com as iscas Roja, iscas artesanais Roja"
+    },
+    {
+      "start": 10.39,
+      "end": 13.39,
+      "text": "A qual? RC isca artesanais"
+    },
+    {
+      "start": 13.39,
+      "end": 16.39,
+      "text": "Número de telefone? 9205-5255"
+    },
+    {
+      "start": 16.39,
+      "end": 20.39,
+      "text": "Se vocês quiserem as iscas que realmente pega, são essas, tá?"
+    },
+    {
+      "start": 20.39,
+      "end": 22.39,
+      "text": "Vamos para a soltura do bicho agora"
+    }
+  ],
+  "duracao_seg": 26.45,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Eu tenho dependência disso aqui, ó. Se eu passar um dia longe disso, é a mesma coisa de ter passado uma eternidade. E não tem quem me faça largar esse vício. Aqui é onde eu me sinto bem, aqui é onde eu sou feliz. E aqui é onde eu me sinto bem, aqui é onde eu sou feliz.",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 6.49,
+      "text": "Eu tenho dependência disso aqui, ó. Se eu passar um dia longe disso, é a mesma coisa de ter passado uma eternidade."
+    },
+    {
+      "start": 7.13,
+      "end": 12.23,
+      "text": "E não tem quem me faça largar esse vício. Aqui é onde eu me sinto bem, aqui é onde eu sou feliz."
+    },
+    {
+      "start": 13.01,
+      "end": 14.07,
+      "text": "E aqui é onde eu me sinto bem, aqui é onde eu sou feliz."
+    }
+  ],
+  "duracao_seg": 14.01,
+  "idioma_detectado": "pt"
+}

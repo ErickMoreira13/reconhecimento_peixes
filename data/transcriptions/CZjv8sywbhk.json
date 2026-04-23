@@ -1,0 +1,47 @@
+{
+  "texto": "vai lá Tiago, vai lá eita trevo ali toma é, bicha bonita essa é grande, essa é boa olha esse Ospanema tudo isso dá pesco",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "vai lá Tiago, vai lá"
+    },
+    {
+      "start": 1.68,
+      "end": 4.1,
+      "text": "eita"
+    },
+    {
+      "start": 4.1,
+      "end": 5.1,
+      "text": "trevo ali"
+    },
+    {
+      "start": 5.1,
+      "end": 7.36,
+      "text": "toma"
+    },
+    {
+      "start": 7.36,
+      "end": 9.16,
+      "text": "é, bicha bonita"
+    },
+    {
+      "start": 9.16,
+      "end": 11.8,
+      "text": "essa é grande, essa é boa"
+    },
+    {
+      "start": 11.8,
+      "end": 13.66,
+      "text": "olha esse Ospanema"
+    },
+    {
+      "start": 13.66,
+      "end": 14.6,
+      "text": "tudo isso dá pesco"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

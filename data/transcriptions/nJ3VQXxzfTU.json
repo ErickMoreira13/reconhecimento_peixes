@@ -1,0 +1,77 @@
+{
+  "texto": "Acabamos de chegar no rio Madeira Aqui já é o rio Madeira Pelo rio Laje O senhor Edmilson vai Dar uma tarrafiada Está meio sujo aqui já Não tem nem pedra de fora Está bonito Vamos tentar pegar uns peixes aqui Nesse riozão Olha aí Lugazão bonito Vamos ver aí que eu jogo Melhor ir ali naquela pereza",
+  "segmentos": [
+    {
+      "start": 1.68,
+      "end": 3.94,
+      "text": "Acabamos de chegar no rio Madeira"
+    },
+    {
+      "start": 3.94,
+      "end": 5.43,
+      "text": "Aqui já é o rio Madeira"
+    },
+    {
+      "start": 5.43,
+      "end": 6.79,
+      "text": "Pelo rio Laje"
+    },
+    {
+      "start": 6.79,
+      "end": 10.26,
+      "text": "O senhor Edmilson vai"
+    },
+    {
+      "start": 10.26,
+      "end": 13.31,
+      "text": "Dar uma tarrafiada"
+    },
+    {
+      "start": 13.31,
+      "end": 15.25,
+      "text": "Está meio sujo aqui já"
+    },
+    {
+      "start": 15.25,
+      "end": 17.59,
+      "text": "Não tem nem pedra de fora"
+    },
+    {
+      "start": 17.59,
+      "end": 19.11,
+      "text": "Está bonito"
+    },
+    {
+      "start": 19.11,
+      "end": 25.94,
+      "text": "Vamos tentar pegar uns peixes aqui"
+    },
+    {
+      "start": 25.94,
+      "end": 26.48,
+      "text": "Nesse riozão"
+    },
+    {
+      "start": 26.48,
+      "end": 27.68,
+      "text": "Olha aí"
+    },
+    {
+      "start": 27.68,
+      "end": 31.3,
+      "text": "Lugazão bonito"
+    },
+    {
+      "start": 31.3,
+      "end": 40.9,
+      "text": "Vamos ver aí que eu jogo"
+    },
+    {
+      "start": 40.9,
+      "end": 45.66,
+      "text": "Melhor ir ali naquela pereza"
+    }
+  ],
+  "duracao_seg": 45.93,
+  "idioma_detectado": "pt"
+}
