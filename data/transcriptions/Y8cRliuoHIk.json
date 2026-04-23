@@ -1,0 +1,97 @@
+{
+  "texto": "A pregereba é um peixe forte, estranho e inteligente, um troféu raro para quem encontra. O formato dela é único, corpo alto, arredondado e nadadeiras grandes. Mas o mais curioso é o comportamento. Quando jovem, ela imita uma folha boiando. Fica de lado, balançando na água, como se fosse apenas um pedaço de mato. É a camuflagem perfeita. Os adultos chegam a um metro e mais de 20 quilos. E onde ela fica? Sempre perto de boias, estruturas, plataformas e sombras. Se tiver algo parado no mar, olha embaixo. A pregereba pode estar lá. Na pesca, ela é bruta. Ataca camarão vivo, sardinha, peixinho e até isca artificial. E depois que pega, se prepara, porque a briga é pesada. E pra comer? É excelente. A pregereba tem carne branca, firme e muito saborosa. Considerada uma das melhores entre os peixes costeiros.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.36,
+      "text": "A pregereba é um peixe forte, estranho e inteligente, um troféu raro para quem encontra."
+    },
+    {
+      "start": 6.8,
+      "end": 12.0,
+      "text": "O formato dela é único, corpo alto, arredondado e nadadeiras grandes."
+    },
+    {
+      "start": 12.68,
+      "end": 15.06,
+      "text": "Mas o mais curioso é o comportamento."
+    },
+    {
+      "start": 15.76,
+      "end": 18.4,
+      "text": "Quando jovem, ela imita uma folha boiando."
+    },
+    {
+      "start": 19.06,
+      "end": 23.3,
+      "text": "Fica de lado, balançando na água, como se fosse apenas um pedaço de mato."
+    },
+    {
+      "start": 23.86,
+      "end": 25.34,
+      "text": "É a camuflagem perfeita."
+    },
+    {
+      "start": 25.34,
+      "end": 28.88,
+      "text": "Os adultos chegam a um metro e mais de 20 quilos."
+    },
+    {
+      "start": 28.88,
+      "end": 30.38,
+      "text": "E onde ela fica?"
+    },
+    {
+      "start": 30.8,
+      "end": 34.42,
+      "text": "Sempre perto de boias, estruturas, plataformas e sombras."
+    },
+    {
+      "start": 35.08,
+      "end": 37.56,
+      "text": "Se tiver algo parado no mar, olha embaixo."
+    },
+    {
+      "start": 37.98,
+      "end": 39.4,
+      "text": "A pregereba pode estar lá."
+    },
+    {
+      "start": 39.9,
+      "end": 41.1,
+      "text": "Na pesca, ela é bruta."
+    },
+    {
+      "start": 41.66,
+      "end": 45.7,
+      "text": "Ataca camarão vivo, sardinha, peixinho e até isca artificial."
+    },
+    {
+      "start": 46.32,
+      "end": 49.34,
+      "text": "E depois que pega, se prepara, porque a briga é pesada."
+    },
+    {
+      "start": 49.7,
+      "end": 50.3,
+      "text": "E pra comer?"
+    },
+    {
+      "start": 50.9,
+      "end": 51.66,
+      "text": "É excelente."
+    },
+    {
+      "start": 51.66,
+      "end": 55.26,
+      "text": "A pregereba tem carne branca, firme e muito saborosa."
+    },
+    {
+      "start": 55.52,
+      "end": 58.5,
+      "text": "Considerada uma das melhores entre os peixes costeiros."
+    }
+  ],
+  "duracao_seg": 58.63,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "Este chico vem aqui todos os dias exatamente às 12h do meio dia com sua rede porque descobre que, para escapar do sol, os peixes normalmente se esconden em este poço, mas olvida que também há serpientes e cangrejos em ele. A primeira vez que saca a rede, só há peixes. Isso lhe faz querer mais, assim que volta a tirar a rede, pensando que atrapará todos os peixes. Mas depois de esperar um bom tempo e voltar a sacá-la, só consiga uns poucos peixes.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.8,
+      "text": "Este chico vem aqui todos os dias exatamente às 12h do meio dia com sua rede porque descobre que, para escapar do sol, os peixes normalmente se esconden em este poço,"
+    },
+    {
+      "start": 7.88,
+      "end": 10.02,
+      "text": "mas olvida que também há serpientes e cangrejos em ele."
+    },
+    {
+      "start": 10.1,
+      "end": 11.94,
+      "text": "A primeira vez que saca a rede, só há peixes."
+    },
+    {
+      "start": 12.06,
+      "end": 15.98,
+      "text": "Isso lhe faz querer mais, assim que volta a tirar a rede, pensando que atrapará todos os peixes."
+    },
+    {
+      "start": 16.06,
+      "end": 19.44,
+      "text": "Mas depois de esperar um bom tempo e voltar a sacá-la, só consiga uns poucos peixes."
+    }
+  ],
+  "duracao_seg": 19.55,
+  "idioma_detectado": "pt"
+}

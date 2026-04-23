@@ -1,0 +1,42 @@
+{
+  "texto": "Aí, brabo! Aí, brabo! Cadê você, pô? Tá eu, o Vascaíno, tá um amigo aqui, ó, Adriano. Aí já puxando. Tá assim, ó! Aí, a peca! Ó a peca!",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 3.37,
+      "text": "Aí, brabo! Aí, brabo! Cadê você, pô?"
+    },
+    {
+      "start": 3.37,
+      "end": 5.37,
+      "text": "Tá eu, o Vascaíno,"
+    },
+    {
+      "start": 5.37,
+      "end": 8.23,
+      "text": "tá um amigo aqui, ó, Adriano."
+    },
+    {
+      "start": 8.23,
+      "end": 9.53,
+      "text": "Aí já puxando."
+    },
+    {
+      "start": 9.53,
+      "end": 10.83,
+      "text": "Tá assim, ó!"
+    },
+    {
+      "start": 10.83,
+      "end": 12.33,
+      "text": "Aí, a peca!"
+    },
+    {
+      "start": 12.33,
+      "end": 13.83,
+      "text": "Ó a peca!"
+    }
+  ],
+  "duracao_seg": 13.57,
+  "idioma_detectado": "pt"
+}

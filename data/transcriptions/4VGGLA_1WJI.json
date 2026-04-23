@@ -1,0 +1,67 @@
+{
+  "texto": "Eles proibiram um peixe que poderia acabar com a fome no mundo. E não, isso não é teoria. Esse peixe é a tilápia. Ela cresce rápido, come praticamente qualquer coisa e produz mais proteína por área do que muitos animais. A tilápia come algas, plantas e matéria orgânica. Ou seja, custo quase zero. Ela já alimenta pessoas há mais de 4 mil anos, em vários países. Mas em muitos lugares, produzir tilápia não é simples. Burocracia, restrições, dificuldade para quem quer começar pequeno. Enquanto isso, o consumo só aumenta. Então fica a pergunta, o problema é o peixe ou o sistema?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Eles proibiram um peixe que poderia acabar com a fome no mundo."
+    },
+    {
+      "start": 3.34,
+      "end": 4.7,
+      "text": "E não, isso não é teoria."
+    },
+    {
+      "start": 4.94,
+      "end": 6.32,
+      "text": "Esse peixe é a tilápia."
+    },
+    {
+      "start": 6.5,
+      "end": 9.08,
+      "text": "Ela cresce rápido, come praticamente qualquer coisa"
+    },
+    {
+      "start": 9.08,
+      "end": 11.9,
+      "text": "e produz mais proteína por área do que muitos animais."
+    },
+    {
+      "start": 12.12,
+      "end": 15.12,
+      "text": "A tilápia come algas, plantas e matéria orgânica."
+    },
+    {
+      "start": 15.28,
+      "end": 16.78,
+      "text": "Ou seja, custo quase zero."
+    },
+    {
+      "start": 16.96,
+      "end": 20.6,
+      "text": "Ela já alimenta pessoas há mais de 4 mil anos, em vários países."
+    },
+    {
+      "start": 20.82,
+      "end": 23.64,
+      "text": "Mas em muitos lugares, produzir tilápia não é simples."
+    },
+    {
+      "start": 24.0,
+      "end": 27.48,
+      "text": "Burocracia, restrições, dificuldade para quem quer começar pequeno."
+    },
+    {
+      "start": 27.48,
+      "end": 29.68,
+      "text": "Enquanto isso, o consumo só aumenta."
+    },
+    {
+      "start": 29.68,
+      "end": 33.06,
+      "text": "Então fica a pergunta, o problema é o peixe ou o sistema?"
+    }
+  ],
+  "duracao_seg": 33.23,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Aí ó, pra jogar isso eu vou tirar só de noite. Gente, esse bicho não entra assim. Vou tirar só de noite, tô deixando aqui, alguma coisa. Aí ó, agora de noite nós tira aí, nós vamos mostrar aqui o que nós vamos pegar aí, beleza?",
+  "segmentos": [
+    {
+      "start": 0.82,
+      "end": 6.78,
+      "text": "Aí ó, pra jogar isso eu vou tirar só de noite."
+    },
+    {
+      "start": 8.1,
+      "end": 9.54,
+      "text": "Gente, esse bicho não entra assim."
+    },
+    {
+      "start": 9.84,
+      "end": 26.04,
+      "text": "Vou tirar só de noite, tô deixando aqui, alguma coisa."
+    },
+    {
+      "start": 32.8,
+      "end": 36.34,
+      "text": "Aí ó, agora de noite nós tira aí, nós vamos mostrar aqui o que nós vamos pegar aí, beleza?"
+    }
+  ],
+  "duracao_seg": 37.71,
+  "idioma_detectado": "pt"
+}

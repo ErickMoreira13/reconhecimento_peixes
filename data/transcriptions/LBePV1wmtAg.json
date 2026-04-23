@@ -1,0 +1,17 @@
+{
+  "texto": "um pescado não consegui",
+  "segmentos": [
+    {
+      "start": 3.31,
+      "end": 12.67,
+      "text": "um pescado"
+    },
+    {
+      "start": 12.67,
+      "end": 15.07,
+      "text": "não consegui"
+    }
+  ],
+  "duracao_seg": 17.11,
+  "idioma_detectado": "pt"
+}

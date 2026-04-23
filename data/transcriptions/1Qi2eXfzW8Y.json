@@ -1,0 +1,27 @@
+{
+  "texto": "Aí, gente, olha o tamanho da tubira. Essa veio de ti ainda, no camarão. Essa tá bruta, ó. Grande.",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 2.58,
+      "text": "Aí, gente, olha o tamanho da tubira."
+    },
+    {
+      "start": 3.32,
+      "end": 5.54,
+      "text": "Essa veio de ti ainda, no camarão."
+    },
+    {
+      "start": 5.64,
+      "end": 6.58,
+      "text": "Essa tá bruta, ó."
+    },
+    {
+      "start": 10.1,
+      "end": 10.5,
+      "text": "Grande."
+    }
+  ],
+  "duracao_seg": 12.47,
+  "idioma_detectado": "pt"
+}

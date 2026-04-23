@@ -1,0 +1,122 @@
+{
+  "texto": "Você não resolvia... Fala, André! Nossa amiga André é de Sete Lagoas. Perguntou como é que a gente tem usado o castuador aqui pra pegar caranha. André, o negócio é o seguinte. A gente usa pra caranha e pro Piau Sul o mesmo tipo de castuador e de anzol. Porque a gente pesca muito com milho, às vezes com bolinho. Mas aqui, ó. Nós usamos um anzolzinho chinu, número 8. Um castuador mais fino que você conseguir, rígido. E curtinho o castuador, tá vendo? Aí nós usamos um líder de uma linha 0,50. Ó, um líder bem grande. Cerca de 1,20m. Com um distorcedor. E um... Uma rosquinha aqui pra você enroscar a chumbada. Conforme o lugar que você estiver pescando. Entendeu? É isso aí. Ó. Tá vendo? Nós usamos aqui é desse jeito. Falou, meu amigo. Obrigado por estar aí.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Você não resolvia..."
+    },
+    {
+      "start": 1.44,
+      "end": 2.32,
+      "text": "Fala, André!"
+    },
+    {
+      "start": 2.74,
+      "end": 4.48,
+      "text": "Nossa amiga André é de Sete Lagoas."
+    },
+    {
+      "start": 4.56,
+      "end": 8.56,
+      "text": "Perguntou como é que a gente tem usado o castuador aqui pra pegar caranha."
+    },
+    {
+      "start": 9.0,
+      "end": 10.48,
+      "text": "André, o negócio é o seguinte."
+    },
+    {
+      "start": 10.6,
+      "end": 15.38,
+      "text": "A gente usa pra caranha e pro Piau Sul o mesmo tipo de castuador e de anzol."
+    },
+    {
+      "start": 15.38,
+      "end": 18.84,
+      "text": "Porque a gente pesca muito com milho, às vezes com bolinho."
+    },
+    {
+      "start": 19.38,
+      "end": 20.1,
+      "text": "Mas aqui, ó."
+    },
+    {
+      "start": 20.24,
+      "end": 24.81,
+      "text": "Nós usamos um anzolzinho chinu, número 8."
+    },
+    {
+      "start": 25.57,
+      "end": 28.73,
+      "text": "Um castuador mais fino que você conseguir, rígido."
+    },
+    {
+      "start": 28.73,
+      "end": 31.92,
+      "text": "E curtinho o castuador, tá vendo?"
+    },
+    {
+      "start": 32.92,
+      "end": 36.56,
+      "text": "Aí nós usamos um líder de uma linha 0,50."
+    },
+    {
+      "start": 37.47,
+      "end": 39.83,
+      "text": "Ó, um líder bem grande."
+    },
+    {
+      "start": 40.35,
+      "end": 41.57,
+      "text": "Cerca de 1,20m."
+    },
+    {
+      "start": 43.31,
+      "end": 44.55,
+      "text": "Com um distorcedor."
+    },
+    {
+      "start": 44.55,
+      "end": 46.15,
+      "text": "E um..."
+    },
+    {
+      "start": 46.15,
+      "end": 48.59,
+      "text": "Uma rosquinha aqui pra você enroscar a chumbada."
+    },
+    {
+      "start": 49.07,
+      "end": 51.05,
+      "text": "Conforme o lugar que você estiver pescando."
+    },
+    {
+      "start": 51.71,
+      "end": 52.73,
+      "text": "Entendeu? É isso aí."
+    },
+    {
+      "start": 53.49,
+      "end": 53.71,
+      "text": "Ó."
+    },
+    {
+      "start": 55.48,
+      "end": 55.84,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 56.02,
+      "end": 57.44,
+      "text": "Nós usamos aqui é desse jeito."
+    },
+    {
+      "start": 57.88,
+      "end": 59.76,
+      "text": "Falou, meu amigo. Obrigado por estar aí."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

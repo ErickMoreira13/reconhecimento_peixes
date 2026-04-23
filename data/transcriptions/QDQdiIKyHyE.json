@@ -1,0 +1,22 @@
+{
+  "texto": "O aparato tá pronto, o arco tá pronto, esse aqui é o arco, a função dele é separar a linha grossa da linha fina, é assim que fica quando você põe um pluma, aqui tem um pluma de 400 gramas, e aqui ó, o alicate dá a volta, certo? Deu uma volta, por quê? Se essa linha estourar, ou se escapar do alicate, não vai vir em você, o anzol não vai te machucar, entendeu? Então por isso essa volta aqui é interessante, é pra evitar um acidente, evitar que esse anzol saia voando aqui doido e trava em você, ó, arrochou aqui, ó.",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 24.8,
+      "text": "O aparato tá pronto, o arco tá pronto, esse aqui é o arco, a função dele é separar a linha grossa da linha fina, é assim que fica quando você põe um pluma, aqui tem um pluma de 400 gramas, e aqui ó, o alicate dá a volta, certo?"
+    },
+    {
+      "start": 24.8,
+      "end": 35.4,
+      "text": "Deu uma volta, por quê? Se essa linha estourar, ou se escapar do alicate, não vai vir em você, o anzol não vai te machucar, entendeu?"
+    },
+    {
+      "start": 36.0,
+      "end": 45.46,
+      "text": "Então por isso essa volta aqui é interessante, é pra evitar um acidente, evitar que esse anzol saia voando aqui doido e trava em você, ó, arrochou aqui, ó."
+    }
+  ],
+  "duracao_seg": 46.53,
+  "idioma_detectado": "pt"
+}

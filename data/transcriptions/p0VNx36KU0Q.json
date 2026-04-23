@@ -1,0 +1,27 @@
+{
+  "texto": "Não, o cara ligou lá na rádio e falou pra mim assim Ô Dário Neto, que é aquela bruta do Chitãozinho Chororó Eu falei, qual? Ele falou, aquela Tchut, tchut, tchut, tchut, tchut",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Não, o cara ligou lá na rádio e falou pra mim assim"
+    },
+    {
+      "start": 2.12,
+      "end": 4.74,
+      "text": "Ô Dário Neto, que é aquela bruta do Chitãozinho Chororó"
+    },
+    {
+      "start": 4.74,
+      "end": 6.18,
+      "text": "Eu falei, qual? Ele falou, aquela"
+    },
+    {
+      "start": 6.18,
+      "end": 8.61,
+      "text": "Tchut, tchut, tchut, tchut, tchut"
+    }
+  ],
+  "duracao_seg": 11.83,
+  "idioma_detectado": "pt"
+}

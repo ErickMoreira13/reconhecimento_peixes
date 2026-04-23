@@ -1,0 +1,747 @@
+{
+  "texto": "Eu vou filmar, hein, caramba. Não, moça, fica tranquilo. Nós vamos pegar isso. Não, mas... Tijilson, nós pegamos um peixe, Tijilson. Ih! Olha o tamanho da caranha, velho! Meu Deus do céu! Jesus! Não tem que puxar, né? Pera aí, Carlos, cuidado. Ah? Vê se está bem fisgado. Está nada. Hã? Está nada. Está não? Não, tira aí, tira a foto aí. Tira a foto aí. Pera aí, Tijilson. Nossa senhora! Meu Deus do céu! Meu Deus do céu! Meu Deus, o que é isso? Olha aqui, cara! Olha o tamanho de estranho! Pera aí, caramba. Deixa eu dar uma afastadinha aqui. Meu Deus do céu! Não está bem no negócio, Neto? Não está fácil de sentar, não. Foi com isca de peixe? Hã? Não, Carlos. Tira agora, não. Tira agora, não. Meu Deus do céu! Ei, caramba! Olha isso, cara! Olha o tamanho, velho! Olha isso, velho! Eu quero tirar isso também. Olha isso! Pera aí, Tijilson. Olha o tamanho da canoa aqui, caramba! Olha! Uh! Mutreca, menino! Nossa senhora! Nunca tinha visto um peixe desse tamanho aqui, não! É no Corumbá, pessoal! Olha aqui! Aqui não, parceirinho! Nossa senhora! E olha aí, Tijilson. Tem peixe no lago ou não tem? Tem! Hã? Tem grande! Ave Maria! Quantos quilos, Carlos, essa caranha dá? Ah, não sei não, bicho! Nossa senhora! Puta merda! Nossa! Não tô pra levantar ela não, hein? Caraca, velho! Meu Deus do céu! Vamos! Olha o tamanho desse mandir! Na primeira jogada que eu joguei e vi esse danado. Olha o tamanho disso! Caraca, velho! Esse é bitelo, viu? Olha! Monstro! Mandir pintado! Ó! Tá bravo ainda! Acabei de chegar aqui na ceba! Primeira jogada já! Veio um treco desse aqui! Olha o tamanho dele! Mãe de criado! Rapaz! Você tá doido? Aí! Olha o lá! Olha só! Esse aqui! Tirar o chapéu! Olha só! Olha aí! Olha isso! Olha o tamanho! Caraca, velho! Ele tava com fome! Ele tava com fome! Foi na primeira jogada! E ele pegou! Ó! Vou colocar do joelho pra baixo, ó! Aí é bitelo, hein? Ele também engoliu tudo, ó! Engoliu tudo lá! Olha! Mandir pintado! Fica quieto, moço! Dá uma ferroada não! Que dói! Isso dói! Isso dói! Vamos pôr no viveiro ali! Pegar alicate pra tirar ele! O meu treco! Aí eu tava pegando lambaria aqui! Vê que veio na minhoquinha! Tucunaré é o tamanho! Pouco maior do que os lambari! Ó! Vê aí! O tamanho da boca dele, hein? Tá louco! Tão de lambari que tem aí! Vou soltar ele! Aí! Bonitinho, né? Tá doido! Eu de pequeno já é danado! Quando tirar a mão! Olha o anzolinho aqui! Aí saiu! Olha o outro lá embaixo maior! Nossa! Tem muito ali embaixo! Vai bicho! Que bonitinho! Olha lá! Outros lá embaixo! Não sei se dá pra ver! Ó! Um, dois, três! Tem uns maiorzinhos ali! Tchau! Tchau! Tchau! Tchau! Tchau!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Eu vou filmar, hein, caramba."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Não, moça, fica tranquilo."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Nós vamos pegar isso."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Não, mas..."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Tijilson, nós pegamos um peixe, Tijilson."
+    },
+    {
+      "start": 6.0,
+      "end": 7.1,
+      "text": "Ih!"
+    },
+    {
+      "start": 7.1,
+      "end": 9.1,
+      "text": "Olha o tamanho da caranha, velho!"
+    },
+    {
+      "start": 9.1,
+      "end": 11.1,
+      "text": "Meu Deus do céu!"
+    },
+    {
+      "start": 11.1,
+      "end": 13.51,
+      "text": "Jesus!"
+    },
+    {
+      "start": 13.51,
+      "end": 14.51,
+      "text": "Não tem que puxar, né?"
+    },
+    {
+      "start": 14.51,
+      "end": 17.51,
+      "text": "Pera aí, Carlos, cuidado."
+    },
+    {
+      "start": 19.51,
+      "end": 20.51,
+      "text": "Ah?"
+    },
+    {
+      "start": 20.51,
+      "end": 21.51,
+      "text": "Vê se está bem fisgado."
+    },
+    {
+      "start": 21.51,
+      "end": 22.51,
+      "text": "Está nada."
+    },
+    {
+      "start": 22.51,
+      "end": 23.51,
+      "text": "Hã?"
+    },
+    {
+      "start": 23.51,
+      "end": 24.51,
+      "text": "Está nada."
+    },
+    {
+      "start": 24.51,
+      "end": 26.54,
+      "text": "Está não?"
+    },
+    {
+      "start": 26.54,
+      "end": 27.54,
+      "text": "Não, tira aí, tira a foto aí."
+    },
+    {
+      "start": 27.54,
+      "end": 28.54,
+      "text": "Tira a foto aí."
+    },
+    {
+      "start": 28.54,
+      "end": 30.66,
+      "text": "Pera aí, Tijilson."
+    },
+    {
+      "start": 30.66,
+      "end": 31.66,
+      "text": "Nossa senhora!"
+    },
+    {
+      "start": 31.66,
+      "end": 32.66,
+      "text": "Meu Deus do céu!"
+    },
+    {
+      "start": 32.66,
+      "end": 34.33,
+      "text": "Meu Deus do céu!"
+    },
+    {
+      "start": 34.33,
+      "end": 35.33,
+      "text": "Meu Deus, o que é isso?"
+    },
+    {
+      "start": 35.33,
+      "end": 36.58,
+      "text": "Olha aqui, cara!"
+    },
+    {
+      "start": 36.58,
+      "end": 38.58,
+      "text": "Olha o tamanho de estranho!"
+    },
+    {
+      "start": 38.58,
+      "end": 39.58,
+      "text": "Pera aí, caramba."
+    },
+    {
+      "start": 39.58,
+      "end": 41.58,
+      "text": "Deixa eu dar uma afastadinha aqui."
+    },
+    {
+      "start": 41.58,
+      "end": 44.22,
+      "text": "Meu Deus do céu!"
+    },
+    {
+      "start": 44.22,
+      "end": 46.22,
+      "text": "Não está bem no negócio, Neto?"
+    },
+    {
+      "start": 46.22,
+      "end": 47.38,
+      "text": "Não está fácil de sentar, não."
+    },
+    {
+      "start": 47.38,
+      "end": 48.38,
+      "text": "Foi com isca de peixe?"
+    },
+    {
+      "start": 48.38,
+      "end": 49.38,
+      "text": "Hã?"
+    },
+    {
+      "start": 49.38,
+      "end": 50.38,
+      "text": "Não, Carlos."
+    },
+    {
+      "start": 50.38,
+      "end": 51.38,
+      "text": "Tira agora, não."
+    },
+    {
+      "start": 51.38,
+      "end": 52.38,
+      "text": "Tira agora, não."
+    },
+    {
+      "start": 52.38,
+      "end": 53.38,
+      "text": "Meu Deus do céu!"
+    },
+    {
+      "start": 53.38,
+      "end": 54.38,
+      "text": "Ei, caramba!"
+    },
+    {
+      "start": 54.38,
+      "end": 55.38,
+      "text": "Olha isso, cara!"
+    },
+    {
+      "start": 55.38,
+      "end": 56.38,
+      "text": "Olha o tamanho, velho!"
+    },
+    {
+      "start": 56.38,
+      "end": 57.38,
+      "text": "Olha isso, velho!"
+    },
+    {
+      "start": 57.38,
+      "end": 58.38,
+      "text": "Eu quero tirar isso também."
+    },
+    {
+      "start": 58.38,
+      "end": 59.38,
+      "text": "Olha isso!"
+    },
+    {
+      "start": 59.38,
+      "end": 60.38,
+      "text": "Pera aí, Tijilson."
+    },
+    {
+      "start": 60.38,
+      "end": 62.38,
+      "text": "Olha o tamanho da canoa aqui, caramba!"
+    },
+    {
+      "start": 62.38,
+      "end": 63.7,
+      "text": "Olha!"
+    },
+    {
+      "start": 63.7,
+      "end": 64.7,
+      "text": "Uh!"
+    },
+    {
+      "start": 64.7,
+      "end": 65.7,
+      "text": "Mutreca, menino!"
+    },
+    {
+      "start": 65.7,
+      "end": 66.7,
+      "text": "Nossa senhora!"
+    },
+    {
+      "start": 66.7,
+      "end": 69.7,
+      "text": "Nunca tinha visto um peixe desse tamanho aqui, não!"
+    },
+    {
+      "start": 69.7,
+      "end": 70.7,
+      "text": "É no Corumbá, pessoal!"
+    },
+    {
+      "start": 70.7,
+      "end": 71.7,
+      "text": "Olha aqui!"
+    },
+    {
+      "start": 71.7,
+      "end": 72.7,
+      "text": "Aqui não, parceirinho!"
+    },
+    {
+      "start": 72.7,
+      "end": 73.7,
+      "text": "Nossa senhora!"
+    },
+    {
+      "start": 73.7,
+      "end": 74.7,
+      "text": "E olha aí, Tijilson."
+    },
+    {
+      "start": 74.7,
+      "end": 75.7,
+      "text": "Tem peixe no lago ou não tem?"
+    },
+    {
+      "start": 75.7,
+      "end": 76.7,
+      "text": "Tem!"
+    },
+    {
+      "start": 76.7,
+      "end": 77.7,
+      "text": "Hã?"
+    },
+    {
+      "start": 77.7,
+      "end": 78.7,
+      "text": "Tem grande!"
+    },
+    {
+      "start": 78.7,
+      "end": 79.7,
+      "text": "Ave Maria!"
+    },
+    {
+      "start": 79.7,
+      "end": 80.7,
+      "text": "Quantos quilos, Carlos, essa caranha dá?"
+    },
+    {
+      "start": 80.7,
+      "end": 81.7,
+      "text": "Ah, não sei não, bicho!"
+    },
+    {
+      "start": 81.7,
+      "end": 82.7,
+      "text": "Nossa senhora!"
+    },
+    {
+      "start": 82.7,
+      "end": 83.7,
+      "text": "Puta merda!"
+    },
+    {
+      "start": 83.7,
+      "end": 84.7,
+      "text": "Nossa!"
+    },
+    {
+      "start": 84.7,
+      "end": 86.7,
+      "text": "Não tô pra levantar ela não, hein?"
+    },
+    {
+      "start": 86.7,
+      "end": 87.7,
+      "text": "Caraca, velho!"
+    },
+    {
+      "start": 87.7,
+      "end": 90.11,
+      "text": "Meu Deus do céu!"
+    },
+    {
+      "start": 90.11,
+      "end": 91.11,
+      "text": "Vamos!"
+    },
+    {
+      "start": 91.11,
+      "end": 105.56,
+      "text": "Olha o tamanho desse mandir!"
+    },
+    {
+      "start": 105.56,
+      "end": 111.62,
+      "text": "Na primeira jogada que eu joguei e vi esse danado."
+    },
+    {
+      "start": 111.62,
+      "end": 112.62,
+      "text": "Olha o tamanho disso!"
+    },
+    {
+      "start": 112.62,
+      "end": 117.21,
+      "text": "Caraca, velho!"
+    },
+    {
+      "start": 117.21,
+      "end": 124.72,
+      "text": "Esse é bitelo, viu?"
+    },
+    {
+      "start": 124.72,
+      "end": 129.37,
+      "text": "Olha!"
+    },
+    {
+      "start": 129.37,
+      "end": 130.37,
+      "text": "Monstro!"
+    },
+    {
+      "start": 130.37,
+      "end": 133.16,
+      "text": "Mandir pintado!"
+    },
+    {
+      "start": 133.16,
+      "end": 134.16,
+      "text": "Ó!"
+    },
+    {
+      "start": 134.16,
+      "end": 137.46,
+      "text": "Tá bravo ainda!"
+    },
+    {
+      "start": 137.46,
+      "end": 141.49,
+      "text": "Acabei de chegar aqui na ceba!"
+    },
+    {
+      "start": 141.49,
+      "end": 144.22,
+      "text": "Primeira jogada já!"
+    },
+    {
+      "start": 144.22,
+      "end": 145.22,
+      "text": "Veio um treco desse aqui!"
+    },
+    {
+      "start": 145.22,
+      "end": 146.22,
+      "text": "Olha o tamanho dele!"
+    },
+    {
+      "start": 146.22,
+      "end": 148.99,
+      "text": "Mãe de criado!"
+    },
+    {
+      "start": 148.99,
+      "end": 152.04,
+      "text": "Rapaz!"
+    },
+    {
+      "start": 152.04,
+      "end": 155.06,
+      "text": "Você tá doido?"
+    },
+    {
+      "start": 155.06,
+      "end": 156.99,
+      "text": "Aí!"
+    },
+    {
+      "start": 156.99,
+      "end": 159.76,
+      "text": "Olha o lá!"
+    },
+    {
+      "start": 159.76,
+      "end": 163.42,
+      "text": "Olha só!"
+    },
+    {
+      "start": 163.42,
+      "end": 166.8,
+      "text": "Esse aqui!"
+    },
+    {
+      "start": 166.8,
+      "end": 169.31,
+      "text": "Tirar o chapéu!"
+    },
+    {
+      "start": 169.31,
+      "end": 171.75,
+      "text": "Olha só!"
+    },
+    {
+      "start": 171.75,
+      "end": 175.47,
+      "text": "Olha aí!"
+    },
+    {
+      "start": 175.47,
+      "end": 176.79,
+      "text": "Olha isso!"
+    },
+    {
+      "start": 176.79,
+      "end": 179.4,
+      "text": "Olha o tamanho!"
+    },
+    {
+      "start": 179.4,
+      "end": 182.83,
+      "text": "Caraca, velho!"
+    },
+    {
+      "start": 182.83,
+      "end": 184.57,
+      "text": "Ele tava com fome!"
+    },
+    {
+      "start": 184.57,
+      "end": 185.57,
+      "text": "Ele tava com fome!"
+    },
+    {
+      "start": 185.57,
+      "end": 189.01,
+      "text": "Foi na primeira jogada!"
+    },
+    {
+      "start": 189.01,
+      "end": 190.01,
+      "text": "E ele pegou!"
+    },
+    {
+      "start": 190.01,
+      "end": 192.16,
+      "text": "Ó!"
+    },
+    {
+      "start": 192.16,
+      "end": 194.35,
+      "text": "Vou colocar do joelho pra baixo, ó!"
+    },
+    {
+      "start": 194.35,
+      "end": 201.98,
+      "text": "Aí é bitelo, hein?"
+    },
+    {
+      "start": 201.98,
+      "end": 205.07,
+      "text": "Ele também engoliu tudo, ó!"
+    },
+    {
+      "start": 205.07,
+      "end": 208.38,
+      "text": "Engoliu tudo lá!"
+    },
+    {
+      "start": 208.38,
+      "end": 209.38,
+      "text": "Olha!"
+    },
+    {
+      "start": 209.38,
+      "end": 213.24,
+      "text": "Mandir pintado!"
+    },
+    {
+      "start": 213.24,
+      "end": 214.34,
+      "text": "Fica quieto, moço!"
+    },
+    {
+      "start": 214.34,
+      "end": 216.56,
+      "text": "Dá uma ferroada não!"
+    },
+    {
+      "start": 216.56,
+      "end": 217.56,
+      "text": "Que dói!"
+    },
+    {
+      "start": 217.56,
+      "end": 219.62,
+      "text": "Isso dói!"
+    },
+    {
+      "start": 219.62,
+      "end": 220.62,
+      "text": "Isso dói!"
+    },
+    {
+      "start": 220.62,
+      "end": 225.85,
+      "text": "Vamos pôr no viveiro ali!"
+    },
+    {
+      "start": 225.85,
+      "end": 227.85,
+      "text": "Pegar alicate pra tirar ele!"
+    },
+    {
+      "start": 227.85,
+      "end": 232.4,
+      "text": "O meu treco!"
+    },
+    {
+      "start": 232.4,
+      "end": 238.69,
+      "text": "Aí eu tava pegando lambaria aqui!"
+    },
+    {
+      "start": 238.69,
+      "end": 242.42,
+      "text": "Vê que veio na minhoquinha!"
+    },
+    {
+      "start": 242.42,
+      "end": 243.42,
+      "text": "Tucunaré é o tamanho!"
+    },
+    {
+      "start": 243.42,
+      "end": 246.76,
+      "text": "Pouco maior do que os lambari!"
+    },
+    {
+      "start": 246.76,
+      "end": 249.07,
+      "text": "Ó!"
+    },
+    {
+      "start": 249.07,
+      "end": 254.33,
+      "text": "Vê aí!"
+    },
+    {
+      "start": 254.33,
+      "end": 258.14,
+      "text": "O tamanho da boca dele, hein?"
+    },
+    {
+      "start": 258.14,
+      "end": 259.14,
+      "text": "Tá louco!"
+    },
+    {
+      "start": 259.14,
+      "end": 266.74,
+      "text": "Tão de lambari que tem aí!"
+    },
+    {
+      "start": 266.74,
+      "end": 280.7,
+      "text": "Vou soltar ele!"
+    },
+    {
+      "start": 280.7,
+      "end": 286.76,
+      "text": "Aí!"
+    },
+    {
+      "start": 286.76,
+      "end": 289.01,
+      "text": "Bonitinho, né?"
+    },
+    {
+      "start": 289.01,
+      "end": 290.01,
+      "text": "Tá doido!"
+    },
+    {
+      "start": 290.01,
+      "end": 294.48,
+      "text": "Eu de pequeno já é danado!"
+    },
+    {
+      "start": 294.48,
+      "end": 295.48,
+      "text": "Quando tirar a mão!"
+    },
+    {
+      "start": 295.48,
+      "end": 299.5,
+      "text": "Olha o anzolinho aqui!"
+    },
+    {
+      "start": 299.5,
+      "end": 307.5,
+      "text": "Aí saiu!"
+    },
+    {
+      "start": 307.5,
+      "end": 311.62,
+      "text": "Olha o outro lá embaixo maior!"
+    },
+    {
+      "start": 311.62,
+      "end": 313.0,
+      "text": "Nossa!"
+    },
+    {
+      "start": 313.0,
+      "end": 314.0,
+      "text": "Tem muito ali embaixo!"
+    },
+    {
+      "start": 314.0,
+      "end": 315.0,
+      "text": "Vai bicho!"
+    },
+    {
+      "start": 315.0,
+      "end": 316.0,
+      "text": "Que bonitinho!"
+    },
+    {
+      "start": 316.0,
+      "end": 319.5,
+      "text": "Olha lá!"
+    },
+    {
+      "start": 319.5,
+      "end": 320.5,
+      "text": "Outros lá embaixo!"
+    },
+    {
+      "start": 320.5,
+      "end": 322.14,
+      "text": "Não sei se dá pra ver!"
+    },
+    {
+      "start": 322.14,
+      "end": 323.14,
+      "text": "Ó!"
+    },
+    {
+      "start": 323.14,
+      "end": 324.97,
+      "text": "Um, dois, três!"
+    },
+    {
+      "start": 324.97,
+      "end": 325.97,
+      "text": "Tem uns maiorzinhos ali!"
+    },
+    {
+      "start": 325.97,
+      "end": 326.97,
+      "text": "Tchau!"
+    },
+    {
+      "start": 326.97,
+      "end": 327.97,
+      "text": "Tchau!"
+    },
+    {
+      "start": 327.97,
+      "end": 328.97,
+      "text": "Tchau!"
+    },
+    {
+      "start": 328.97,
+      "end": 329.97,
+      "text": "Tchau!"
+    },
+    {
+      "start": 329.97,
+      "end": 330.97,
+      "text": "Tchau!"
+    }
+  ],
+  "duracao_seg": 341.55,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "E aí, ó, é só pintelo! Se pegar a garupa, ele vai sair pra ir pra pedra.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.18,
+      "text": "E aí, ó, é só pintelo!"
+    },
+    {
+      "start": 6.6,
+      "end": 8.36,
+      "text": "Se pegar a garupa, ele vai sair pra ir pra pedra."
+    }
+  ],
+  "duracao_seg": 8.59,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,62 @@
+{
+  "texto": "Tubarão maldito, deixa esse peixe agora no chão Solta ele Vem aqui Credo, mas que nojo, por que você está tão grudento? Olha só, toda essa gosma que tenho na minha mão Ela é toda sua Você quer que eu coloque toda essa gosma na sua boca? Não, por favor Então solte o peixe Ah não, você tirou a bola de gosma da minha mão Deixa um like ou será mordido pelo tubarão",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Tubarão maldito, deixa esse peixe agora no chão"
+    },
+    {
+      "start": 2.32,
+      "end": 3.02,
+      "text": "Solta ele"
+    },
+    {
+      "start": 3.02,
+      "end": 3.62,
+      "text": "Vem aqui"
+    },
+    {
+      "start": 3.62,
+      "end": 5.82,
+      "text": "Credo, mas que nojo, por que você está tão grudento?"
+    },
+    {
+      "start": 5.96,
+      "end": 7.74,
+      "text": "Olha só, toda essa gosma que tenho na minha mão"
+    },
+    {
+      "start": 7.74,
+      "end": 8.62,
+      "text": "Ela é toda sua"
+    },
+    {
+      "start": 8.62,
+      "end": 10.56,
+      "text": "Você quer que eu coloque toda essa gosma na sua boca?"
+    },
+    {
+      "start": 10.76,
+      "end": 11.6,
+      "text": "Não, por favor"
+    },
+    {
+      "start": 11.6,
+      "end": 12.68,
+      "text": "Então solte o peixe"
+    },
+    {
+      "start": 12.68,
+      "end": 14.72,
+      "text": "Ah não, você tirou a bola de gosma da minha mão"
+    },
+    {
+      "start": 14.72,
+      "end": 16.68,
+      "text": "Deixa um like ou será mordido pelo tubarão"
+    }
+  ],
+  "duracao_seg": 16.89,
+  "idioma_detectado": "pt"
+}

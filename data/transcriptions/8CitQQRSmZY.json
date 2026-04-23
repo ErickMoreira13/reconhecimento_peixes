@@ -1,0 +1,22 @@
+{
+  "texto": "Eu vou aproveitar a correnteza, vou arremessar próximo às estruturas e deixar a isca indo rodando. A miguel já deu até um toque falando para dar uns pequenos toques de ponta para, conforme for descendo a isca, a tuvira ir se mexendo também. Arremesso no ponto, rodando eu vou só.",
+  "segmentos": [
+    {
+      "start": 0.75,
+      "end": 8.64,
+      "text": "Eu vou aproveitar a correnteza, vou arremessar próximo às estruturas e deixar a isca indo rodando."
+    },
+    {
+      "start": 9.5,
+      "end": 19.38,
+      "text": "A miguel já deu até um toque falando para dar uns pequenos toques de ponta para, conforme for descendo a isca, a tuvira ir se mexendo também."
+    },
+    {
+      "start": 20.14,
+      "end": 22.94,
+      "text": "Arremesso no ponto, rodando eu vou só."
+    }
+  ],
+  "duracao_seg": 25.25,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,12 @@
+{
+  "texto": "Minha mãe tá me procurando, perguntou onde cê tá?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.25,
+      "text": "Minha mãe tá me procurando, perguntou onde cê tá?"
+    }
+  ],
+  "duracao_seg": 5.81,
+  "idioma_detectado": "pt"
+}

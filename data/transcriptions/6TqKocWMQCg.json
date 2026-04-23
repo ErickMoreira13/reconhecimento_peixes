@@ -1,0 +1,122 @@
+{
+  "texto": "Parou? Pegou? Sim. É dourado? Esse aí vai dourado nessa barana. Calma. Calma nessa hora. Que porra é essa? Nossa, amor, parece lambari. Com rabo vermelho. Olha o tamanho. A barana é parente do dourado? É. Ou é dourado? É um dourado prateado. Esse é o tabarano, porque não tem as pintinhas. Tá suspeito. Olha o tamanho. Ae, bichão. Tem dente isso aí, não tem? Nossa, oi. Grande, hein? Eita, barana.",
+  "segmentos": [
+    {
+      "start": 9.87,
+      "end": 10.87,
+      "text": "Parou?"
+    },
+    {
+      "start": 10.87,
+      "end": 24.77,
+      "text": "Pegou?"
+    },
+    {
+      "start": 24.77,
+      "end": 29.13,
+      "text": "Sim."
+    },
+    {
+      "start": 29.13,
+      "end": 30.13,
+      "text": "É dourado?"
+    },
+    {
+      "start": 30.13,
+      "end": 31.13,
+      "text": "Esse aí vai dourado nessa barana."
+    },
+    {
+      "start": 31.13,
+      "end": 34.66,
+      "text": "Calma."
+    },
+    {
+      "start": 34.66,
+      "end": 36.66,
+      "text": "Calma nessa hora."
+    },
+    {
+      "start": 36.66,
+      "end": 39.53,
+      "text": "Que porra é essa?"
+    },
+    {
+      "start": 39.53,
+      "end": 42.84,
+      "text": "Nossa, amor, parece lambari."
+    },
+    {
+      "start": 42.84,
+      "end": 45.42,
+      "text": "Com rabo vermelho."
+    },
+    {
+      "start": 45.42,
+      "end": 50.46,
+      "text": "Olha o tamanho."
+    },
+    {
+      "start": 50.46,
+      "end": 55.88,
+      "text": "A barana é parente do dourado?"
+    },
+    {
+      "start": 55.88,
+      "end": 56.88,
+      "text": "É."
+    },
+    {
+      "start": 56.88,
+      "end": 58.14,
+      "text": "Ou é dourado?"
+    },
+    {
+      "start": 58.14,
+      "end": 60.68,
+      "text": "É um dourado prateado."
+    },
+    {
+      "start": 60.68,
+      "end": 62.68,
+      "text": "Esse é o tabarano, porque não tem as pintinhas."
+    },
+    {
+      "start": 62.68,
+      "end": 63.68,
+      "text": "Tá suspeito."
+    },
+    {
+      "start": 63.68,
+      "end": 67.25,
+      "text": "Olha o tamanho."
+    },
+    {
+      "start": 67.25,
+      "end": 69.25,
+      "text": "Ae, bichão."
+    },
+    {
+      "start": 69.25,
+      "end": 73.68,
+      "text": "Tem dente isso aí, não tem?"
+    },
+    {
+      "start": 73.68,
+      "end": 81.82,
+      "text": "Nossa, oi."
+    },
+    {
+      "start": 81.82,
+      "end": 83.34,
+      "text": "Grande, hein?"
+    },
+    {
+      "start": 83.34,
+      "end": 85.34,
+      "text": "Eita, barana."
+    }
+  ],
+  "duracao_seg": 98.77,
+  "idioma_detectado": "pt"
+}

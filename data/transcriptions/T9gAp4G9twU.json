@@ -1,0 +1,82 @@
+{
+  "texto": "Esse peixe parece um erro da natureza, metade tubarão, metade arraia, e você já pode ter comido ele sem saber. Esse é o Cação Viola, um dos peixes mais estranhos do oceano. Na frente ele é achatado igual uma arraia, mas atrás tem corpo e cauda de tubarão. Ele vive colado no fundo do mar, totalmente camuflado, esperando a presa passar pra sugar direto da areia. E tem mais. Os filhotes já nascem prontos, nadando. Nada de ovo por aí, só que tem um problema. Ele tá sumindo por causa da pesca. E muita gente nem sabe disso, porque ele é vendido como cação no mercado. E o mais louco, ele não faz mal nenhum pro ser humano. É só mais uma vítima do nosso consumo. Agora me diz, você já comeu isso sem saber? Comenta aí e manda pra alguém que vive comprando cação.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "Esse peixe parece um erro da natureza, metade tubarão, metade arraia, e você já pode"
+    },
+    {
+      "start": 4.9,
+      "end": 6.4,
+      "text": "ter comido ele sem saber."
+    },
+    {
+      "start": 6.62,
+      "end": 9.96,
+      "text": "Esse é o Cação Viola, um dos peixes mais estranhos do oceano."
+    },
+    {
+      "start": 10.16,
+      "end": 15.36,
+      "text": "Na frente ele é achatado igual uma arraia, mas atrás tem corpo e cauda de tubarão."
+    },
+    {
+      "start": 15.54,
+      "end": 20.52,
+      "text": "Ele vive colado no fundo do mar, totalmente camuflado, esperando a presa passar pra sugar"
+    },
+    {
+      "start": 20.52,
+      "end": 21.6,
+      "text": "direto da areia."
+    },
+    {
+      "start": 21.74,
+      "end": 22.4,
+      "text": "E tem mais."
+    },
+    {
+      "start": 22.4,
+      "end": 24.86,
+      "text": "Os filhotes já nascem prontos, nadando."
+    },
+    {
+      "start": 25.06,
+      "end": 27.24,
+      "text": "Nada de ovo por aí, só que tem um problema."
+    },
+    {
+      "start": 27.44,
+      "end": 29.36,
+      "text": "Ele tá sumindo por causa da pesca."
+    },
+    {
+      "start": 29.36,
+      "end": 33.78,
+      "text": "E muita gente nem sabe disso, porque ele é vendido como cação no mercado."
+    },
+    {
+      "start": 33.94,
+      "end": 36.52,
+      "text": "E o mais louco, ele não faz mal nenhum pro ser humano."
+    },
+    {
+      "start": 36.68,
+      "end": 38.64,
+      "text": "É só mais uma vítima do nosso consumo."
+    },
+    {
+      "start": 38.84,
+      "end": 41.12,
+      "text": "Agora me diz, você já comeu isso sem saber?"
+    },
+    {
+      "start": 41.34,
+      "end": 44.36,
+      "text": "Comenta aí e manda pra alguém que vive comprando cação."
+    }
+  ],
+  "duracao_seg": 44.53,
+  "idioma_detectado": "pt"
+}

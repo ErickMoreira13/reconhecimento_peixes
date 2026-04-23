@@ -1,0 +1,47 @@
+{
+  "texto": "Aí, pessoal, não dá para filmar tudo. Olha o tamanho da bruta aí, ó. Olha o meu pé aqui embaixo, que diferença. Eita! Chacoalha, bichona, lindona. Pesada, hein? Pesada, hein? Bonita.",
+  "segmentos": [
+    {
+      "start": 0.98,
+      "end": 4.18,
+      "text": "Aí, pessoal, não dá para filmar tudo."
+    },
+    {
+      "start": 5.15,
+      "end": 6.69,
+      "text": "Olha o tamanho da bruta aí, ó."
+    },
+    {
+      "start": 7.76,
+      "end": 9.44,
+      "text": "Olha o meu pé aqui embaixo, que diferença."
+    },
+    {
+      "start": 9.86,
+      "end": 10.38,
+      "text": "Eita!"
+    },
+    {
+      "start": 11.9,
+      "end": 14.52,
+      "text": "Chacoalha, bichona, lindona."
+    },
+    {
+      "start": 15.26,
+      "end": 15.94,
+      "text": "Pesada, hein?"
+    },
+    {
+      "start": 16.84,
+      "end": 17.5,
+      "text": "Pesada, hein?"
+    },
+    {
+      "start": 17.6,
+      "end": 18.08,
+      "text": "Bonita."
+    }
+  ],
+  "duracao_seg": 19.99,
+  "idioma_detectado": "pt"
+}

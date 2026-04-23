@@ -1,0 +1,77 @@
+{
+  "texto": "A gente viu a cara do peixe? Aí o homem socou na boca de um aqui. Olha lá o piauzinho. Brinca, curidão. Isso aí, guerreira. Tá achando que é pequenininho? Toma. Tomou. Vou trazer aqui, ó. Aqui, ó. Prefiro trabalhar. Prefiro pescar, não tem pouco peixe. Do que trabalhar, não tem muito trabalho. Tomou.",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 1.58,
+      "text": "A gente viu a cara do peixe?"
+    },
+    {
+      "start": 3.12,
+      "end": 5.38,
+      "text": "Aí o homem socou na boca de um aqui."
+    },
+    {
+      "start": 8.44,
+      "end": 9.34,
+      "text": "Olha lá o piauzinho."
+    },
+    {
+      "start": 12.28,
+      "end": 13.4,
+      "text": "Brinca, curidão."
+    },
+    {
+      "start": 13.44,
+      "end": 14.52,
+      "text": "Isso aí, guerreira."
+    },
+    {
+      "start": 16.68,
+      "end": 17.98,
+      "text": "Tá achando que é pequenininho?"
+    },
+    {
+      "start": 18.64,
+      "end": 19.12,
+      "text": "Toma."
+    },
+    {
+      "start": 20.6,
+      "end": 21.08,
+      "text": "Tomou."
+    },
+    {
+      "start": 22.29,
+      "end": 23.29,
+      "text": "Vou trazer aqui, ó."
+    },
+    {
+      "start": 24.5,
+      "end": 24.98,
+      "text": "Aqui, ó."
+    },
+    {
+      "start": 26.3,
+      "end": 27.28,
+      "text": "Prefiro trabalhar."
+    },
+    {
+      "start": 29.71,
+      "end": 31.91,
+      "text": "Prefiro pescar, não tem pouco peixe."
+    },
+    {
+      "start": 33.82,
+      "end": 35.4,
+      "text": "Do que trabalhar, não tem muito trabalho."
+    },
+    {
+      "start": 39.27,
+      "end": 39.75,
+      "text": "Tomou."
+    }
+  ],
+  "duracao_seg": 40.13,
+  "idioma_detectado": "pt"
+}

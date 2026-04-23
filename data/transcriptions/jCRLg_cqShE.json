@@ -1,0 +1,17 @@
+{
+  "texto": "Essa isca pessoal é muito boa, esse peixinho aqui, ele chama tuvira, aqui na região a gente conhece como tuvira, em outros lugares ele tem o nome também de sarapó, aí ó, é uma ótima isca viva, viu gente? E para pegar peixe grande, peixe de couro, peixe maior, usa-se muito a tuvira, vamos ver se a gente consegue pegar um peixe grande com essa super isca que nós encontramos aqui, vasculhando esse mato, elas ficam na vegetação, para encontrar elas passa a pineira no mato e facinha a gente pega tuvira!",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 17.84,
+      "text": "Essa isca pessoal é muito boa, esse peixinho aqui, ele chama tuvira, aqui na região a gente conhece como tuvira, em outros lugares ele tem o nome também de sarapó, aí ó, é uma ótima isca viva, viu gente?"
+    },
+    {
+      "start": 17.84,
+      "end": 40.46,
+      "text": "E para pegar peixe grande, peixe de couro, peixe maior, usa-se muito a tuvira, vamos ver se a gente consegue pegar um peixe grande com essa super isca que nós encontramos aqui, vasculhando esse mato, elas ficam na vegetação, para encontrar elas passa a pineira no mato e facinha a gente pega tuvira!"
+    }
+  ],
+  "duracao_seg": 42.23,
+  "idioma_detectado": "pt"
+}

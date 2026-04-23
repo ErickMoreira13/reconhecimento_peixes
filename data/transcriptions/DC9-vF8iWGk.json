@@ -1,0 +1,37 @@
+{
+  "texto": "Aí, pessoal, pescaria de currículo Com Hermes Do Pesca e Prosa Do Tayuri O resultado tá aí, ó Maré demais aqui, viu?",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 3.07,
+      "text": "Aí, pessoal, pescaria de currículo"
+    },
+    {
+      "start": 3.07,
+      "end": 4.31,
+      "text": "Com Hermes"
+    },
+    {
+      "start": 4.31,
+      "end": 5.69,
+      "text": "Do Pesca e Prosa"
+    },
+    {
+      "start": 5.69,
+      "end": 7.5,
+      "text": "Do Tayuri"
+    },
+    {
+      "start": 7.5,
+      "end": 10.27,
+      "text": "O resultado tá aí, ó"
+    },
+    {
+      "start": 10.27,
+      "end": 16.76,
+      "text": "Maré demais aqui, viu?"
+    }
+  ],
+  "duracao_seg": 18.67,
+  "idioma_detectado": "pt"
+}

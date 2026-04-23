@@ -1,0 +1,42 @@
+{
+  "texto": "Camarão. Lixo ou luxo? O camarão já foi considerado comida desprezada, desvalorizada. Sim, hoje é caro, sofisticado, mas nem sempre foi assim. No passado, ele era abundante demais, tão fácil de pegar, que era usado como alimento barato. Em alguns lugares, chegava a ser dado para escravos ou usado até como adubo, mas tudo começou a mudar, com a valorização da gastronomia e o aumento da demanda. A pesca diminuiu, o acesso ficou mais difícil e o preço começou a subir. Restaurantes começaram a tratar o camarão como prato nobre, molhos refinados, preparos sofisticados e pronto. O que era comum virou luxo. Hoje, ele está nos pratos mais caros do mundo, mas a origem é simples, muito simples. Você pagaria caro sabendo disso?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 9.42,
+      "text": "Camarão. Lixo ou luxo? O camarão já foi considerado comida desprezada, desvalorizada. Sim, hoje é caro, sofisticado, mas nem sempre foi assim."
+    },
+    {
+      "start": 9.64,
+      "end": 15.22,
+      "text": "No passado, ele era abundante demais, tão fácil de pegar, que era usado como alimento barato."
+    },
+    {
+      "start": 15.22,
+      "end": 26.0,
+      "text": "Em alguns lugares, chegava a ser dado para escravos ou usado até como adubo, mas tudo começou a mudar, com a valorização da gastronomia e o aumento da demanda."
+    },
+    {
+      "start": 26.0,
+      "end": 30.88,
+      "text": "A pesca diminuiu, o acesso ficou mais difícil e o preço começou a subir."
+    },
+    {
+      "start": 31.18,
+      "end": 38.3,
+      "text": "Restaurantes começaram a tratar o camarão como prato nobre, molhos refinados, preparos sofisticados e pronto."
+    },
+    {
+      "start": 38.46,
+      "end": 45.5,
+      "text": "O que era comum virou luxo. Hoje, ele está nos pratos mais caros do mundo, mas a origem é simples, muito simples."
+    },
+    {
+      "start": 45.82,
+      "end": 47.44,
+      "text": "Você pagaria caro sabendo disso?"
+    }
+  ],
+  "duracao_seg": 47.67,
+  "idioma_detectado": "pt"
+}

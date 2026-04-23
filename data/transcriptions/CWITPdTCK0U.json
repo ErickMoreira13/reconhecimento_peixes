@@ -1,0 +1,97 @@
+{
+  "texto": "Qual é o melhor peixe para fritar aqui na beira do rio? Essa lista vai dar fome. Para começar, o lambari. Pequenininho, mas quando frita fica crocante igual chips. Clássico de boteco e roda de pescador. Em seguida vem o pial. Carne leve, sabor marcante, muito tradicional no interior. Quando entra na frigideira, não sobra nem espinha na mesa. Depois o pacu. As costelinhas fritas são tradição no Pantanal. Quem já provou sabe que é viciante. Subindo a lista, a traíra. Crocante por fora, carne branca e saborosa por dentro. Tem até versão famosa da traíra sem espinha que é puro sucesso. E no topo, a campeã, tilápia. Carne macia, fácil de preparar, pega tempero como ninguém e agrada até quem não é muito fã de peixe. É simplesmente imbatível. Agora quero saber, qual peixe você fritaria hoje?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Qual é o melhor peixe para fritar aqui na beira do rio?"
+    },
+    {
+      "start": 2.78,
+      "end": 4.02,
+      "text": "Essa lista vai dar fome."
+    },
+    {
+      "start": 4.3,
+      "end": 6.0,
+      "text": "Para começar, o lambari."
+    },
+    {
+      "start": 6.44,
+      "end": 9.58,
+      "text": "Pequenininho, mas quando frita fica crocante igual chips."
+    },
+    {
+      "start": 9.94,
+      "end": 12.44,
+      "text": "Clássico de boteco e roda de pescador."
+    },
+    {
+      "start": 12.86,
+      "end": 14.16,
+      "text": "Em seguida vem o pial."
+    },
+    {
+      "start": 14.46,
+      "end": 18.66,
+      "text": "Carne leve, sabor marcante, muito tradicional no interior."
+    },
+    {
+      "start": 18.66,
+      "end": 22.54,
+      "text": "Quando entra na frigideira, não sobra nem espinha na mesa."
+    },
+    {
+      "start": 22.88,
+      "end": 23.72,
+      "text": "Depois o pacu."
+    },
+    {
+      "start": 24.0,
+      "end": 26.94,
+      "text": "As costelinhas fritas são tradição no Pantanal."
+    },
+    {
+      "start": 27.32,
+      "end": 29.42,
+      "text": "Quem já provou sabe que é viciante."
+    },
+    {
+      "start": 29.92,
+      "end": 31.9,
+      "text": "Subindo a lista, a traíra."
+    },
+    {
+      "start": 32.3,
+      "end": 35.92,
+      "text": "Crocante por fora, carne branca e saborosa por dentro."
+    },
+    {
+      "start": 36.2,
+      "end": 40.18,
+      "text": "Tem até versão famosa da traíra sem espinha que é puro sucesso."
+    },
+    {
+      "start": 40.46,
+      "end": 43.24,
+      "text": "E no topo, a campeã, tilápia."
+    },
+    {
+      "start": 43.36,
+      "end": 50.36,
+      "text": "Carne macia, fácil de preparar, pega tempero como ninguém e agrada até quem não é muito fã de peixe."
+    },
+    {
+      "start": 50.64,
+      "end": 52.04,
+      "text": "É simplesmente imbatível."
+    },
+    {
+      "start": 52.3,
+      "end": 55.0,
+      "text": "Agora quero saber, qual peixe você fritaria hoje?"
+    }
+  ],
+  "duracao_seg": 55.17,
+  "idioma_detectado": "pt"
+}

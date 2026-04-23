@@ -1,0 +1,47 @@
+{
+  "texto": "Aí galera, esse vídeo aqui mostra a velocidade do barco no momento que bate a sarda. Se você navegar devagar, a isca, ela navega devagar também e só chama a atenção do peixe, o peixe não entra na isca. A sarda nesse dia aí só estava batendo com o barco muito acelerado, entendeu? Então às vezes você vai pescar, você vê outro barco toda hora pegando e você não pega. São simples detalhes que dão o resultado final na pescaria. Nesse caso aí era a velocidade do barco. Outros barcos do lado com iscas diferentes e velocidade muito abaixo do normal. Aí a sarda não bate. Valeu galera, um abraço.",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 9.02,
+      "text": "Aí galera, esse vídeo aqui mostra a velocidade do barco no momento que bate a sarda."
+    },
+    {
+      "start": 9.64,
+      "end": 17.6,
+      "text": "Se você navegar devagar, a isca, ela navega devagar também e só chama a atenção do peixe, o peixe não entra na isca."
+    },
+    {
+      "start": 18.53,
+      "end": 24.84,
+      "text": "A sarda nesse dia aí só estava batendo com o barco muito acelerado, entendeu?"
+    },
+    {
+      "start": 24.84,
+      "end": 30.82,
+      "text": "Então às vezes você vai pescar, você vê outro barco toda hora pegando e você não pega."
+    },
+    {
+      "start": 30.82,
+      "end": 35.42,
+      "text": "São simples detalhes que dão o resultado final na pescaria."
+    },
+    {
+      "start": 36.02,
+      "end": 38.64,
+      "text": "Nesse caso aí era a velocidade do barco."
+    },
+    {
+      "start": 39.4,
+      "end": 45.31,
+      "text": "Outros barcos do lado com iscas diferentes e velocidade muito abaixo do normal."
+    },
+    {
+      "start": 45.65,
+      "end": 48.19,
+      "text": "Aí a sarda não bate. Valeu galera, um abraço."
+    }
+  ],
+  "duracao_seg": 48.19,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,152 @@
+{
+  "texto": "Aqui tá levando tudo aqui galera Tá levando aqui, pega aí Tá acabando a linha, tá acabando a linha Segure, segure Deixa em bom Oi? Deixa em bom galera Coisei ligeiro aqui Cuidado a pedra Cuidado, cuidado Pé em Deus vai sair Se Deus quiser vai sair Bovina gigante, é caranha É caranha, é caranha Caranha, é caranha Caranha top viu Caranha top Caranha top Desceu pra pedra, desceu Caranha top Calma, ela vem Calma vem a bichinha Passaguá pequeno Eita Olha lá pontinha Eita Jesus Tá no Passaguá e tá quebrado Tá vizinho ainda Deu trabalho Deu trabalho",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Aqui tá levando tudo aqui galera"
+    },
+    {
+      "start": 1.8,
+      "end": 3.74,
+      "text": "Tá levando aqui, pega aí"
+    },
+    {
+      "start": 3.74,
+      "end": 6.32,
+      "text": "Tá acabando a linha, tá acabando a linha"
+    },
+    {
+      "start": 6.32,
+      "end": 8.0,
+      "text": "Segure, segure"
+    },
+    {
+      "start": 8.0,
+      "end": 10.3,
+      "text": "Deixa em bom"
+    },
+    {
+      "start": 10.3,
+      "end": 13.7,
+      "text": "Oi? Deixa em bom galera"
+    },
+    {
+      "start": 13.7,
+      "end": 18.46,
+      "text": "Coisei ligeiro aqui"
+    },
+    {
+      "start": 18.46,
+      "end": 20.75,
+      "text": "Cuidado a pedra"
+    },
+    {
+      "start": 20.75,
+      "end": 22.89,
+      "text": "Cuidado, cuidado"
+    },
+    {
+      "start": 22.89,
+      "end": 23.95,
+      "text": "Pé em Deus vai sair"
+    },
+    {
+      "start": 23.95,
+      "end": 28.7,
+      "text": "Se Deus quiser vai sair"
+    },
+    {
+      "start": 28.7,
+      "end": 33.45,
+      "text": "Bovina gigante, é caranha"
+    },
+    {
+      "start": 33.45,
+      "end": 34.41,
+      "text": "É caranha, é caranha"
+    },
+    {
+      "start": 34.41,
+      "end": 36.05,
+      "text": "Caranha, é caranha"
+    },
+    {
+      "start": 36.05,
+      "end": 37.85,
+      "text": "Caranha top viu"
+    },
+    {
+      "start": 37.85,
+      "end": 39.69,
+      "text": "Caranha top"
+    },
+    {
+      "start": 39.69,
+      "end": 41.31,
+      "text": "Caranha top"
+    },
+    {
+      "start": 41.31,
+      "end": 44.49,
+      "text": "Desceu pra pedra, desceu"
+    },
+    {
+      "start": 44.49,
+      "end": 46.75,
+      "text": "Caranha top"
+    },
+    {
+      "start": 46.75,
+      "end": 52.8,
+      "text": "Calma, ela vem"
+    },
+    {
+      "start": 52.8,
+      "end": 57.58,
+      "text": "Calma vem a bichinha"
+    },
+    {
+      "start": 57.58,
+      "end": 63.62,
+      "text": "Passaguá pequeno"
+    },
+    {
+      "start": 63.62,
+      "end": 65.78,
+      "text": "Eita"
+    },
+    {
+      "start": 65.78,
+      "end": 68.1,
+      "text": "Olha lá pontinha"
+    },
+    {
+      "start": 68.1,
+      "end": 72.82,
+      "text": "Eita Jesus"
+    },
+    {
+      "start": 72.82,
+      "end": 74.99,
+      "text": "Tá no Passaguá e tá quebrado"
+    },
+    {
+      "start": 74.99,
+      "end": 78.65,
+      "text": "Tá vizinho ainda"
+    },
+    {
+      "start": 78.65,
+      "end": 80.31,
+      "text": "Deu trabalho"
+    },
+    {
+      "start": 80.31,
+      "end": 80.91,
+      "text": "Deu trabalho"
+    }
+  ],
+  "duracao_seg": 81.25,
+  "idioma_detectado": "pt"
+}

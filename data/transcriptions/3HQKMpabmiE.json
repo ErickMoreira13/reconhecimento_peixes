@@ -1,0 +1,42 @@
+{
+  "texto": "Arma Comanche da Cresce Aí Eduardo, esse aqui é o protótipo Totalmente aprovado Arma show mesmo, vamos ver o resultado Do uso dessa arma Olha o que saiu aqui Show",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 3.66,
+      "text": "Arma Comanche da Cresce"
+    },
+    {
+      "start": 3.66,
+      "end": 5.72,
+      "text": "Aí Eduardo, esse aqui é o protótipo"
+    },
+    {
+      "start": 5.72,
+      "end": 7.6,
+      "text": "Totalmente aprovado"
+    },
+    {
+      "start": 7.6,
+      "end": 9.76,
+      "text": "Arma show mesmo, vamos ver o resultado"
+    },
+    {
+      "start": 9.76,
+      "end": 11.56,
+      "text": "Do uso dessa arma"
+    },
+    {
+      "start": 11.56,
+      "end": 13.72,
+      "text": "Olha o que saiu aqui"
+    },
+    {
+      "start": 13.72,
+      "end": 14.84,
+      "text": "Show"
+    }
+  ],
+  "duracao_seg": 18.03,
+  "idioma_detectado": "pt"
+}

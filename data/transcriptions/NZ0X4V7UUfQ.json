@@ -1,0 +1,82 @@
+{
+  "texto": "aí rapaziada, poço de soropoa olha aí Mateus e Zil aí no poço de soropoa, olha só pra você ver o poção aí, ó quer vir pegar soropoa, só vir aqui tá vendo? aí, ó já vir pegar um soropoazinho, um cambute só vir aqui nessa buraca aí, ó esse poço de soropoa só nós que sabemos onde é, né Zil? cadê o rio? cadê o rio? só nós sabemos onde é esse poço aqui",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 4.3,
+      "text": "aí rapaziada, poço de soropoa"
+    },
+    {
+      "start": 4.3,
+      "end": 6.36,
+      "text": "olha aí"
+    },
+    {
+      "start": 6.36,
+      "end": 7.9,
+      "text": "Mateus e Zil"
+    },
+    {
+      "start": 7.9,
+      "end": 11.51,
+      "text": "aí no poço de soropoa, olha só pra você ver"
+    },
+    {
+      "start": 11.51,
+      "end": 12.45,
+      "text": "o poção aí, ó"
+    },
+    {
+      "start": 12.45,
+      "end": 15.01,
+      "text": "quer vir pegar soropoa, só vir aqui"
+    },
+    {
+      "start": 15.01,
+      "end": 21.43,
+      "text": "tá vendo?"
+    },
+    {
+      "start": 22.81,
+      "end": 24.03,
+      "text": "aí, ó"
+    },
+    {
+      "start": 24.03,
+      "end": 26.25,
+      "text": "já vir pegar um soropoazinho, um cambute"
+    },
+    {
+      "start": 26.25,
+      "end": 28.53,
+      "text": "só vir aqui nessa buraca"
+    },
+    {
+      "start": 28.53,
+      "end": 29.21,
+      "text": "aí, ó"
+    },
+    {
+      "start": 29.21,
+      "end": 32.74,
+      "text": "esse poço de soropoa"
+    },
+    {
+      "start": 32.74,
+      "end": 34.28,
+      "text": "só nós que sabemos onde é, né Zil?"
+    },
+    {
+      "start": 35.02,
+      "end": 36.22,
+      "text": "cadê o rio? cadê o rio?"
+    },
+    {
+      "start": 36.22,
+      "end": 37.9,
+      "text": "só nós sabemos onde é esse poço aqui"
+    }
+  ],
+  "duracao_seg": 38.23,
+  "idioma_detectado": "pt"
+}
