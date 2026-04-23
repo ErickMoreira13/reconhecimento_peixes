@@ -1,0 +1,22 @@
+{
+  "texto": "Segue aqui pelo Facebook, hoje foi dia de dar um abraço na caixa d'água da velha Remanso. Isso aí não fica aí parado, venha curtir um pouquinho a natureza, caminhar e correr junto comigo. Isso aí, um grande abraço para vocês e até a próxima.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.41,
+      "text": "Segue aqui pelo Facebook, hoje foi dia de dar um abraço na caixa d'água da velha Remanso."
+    },
+    {
+      "start": 6.77,
+      "end": 12.65,
+      "text": "Isso aí não fica aí parado, venha curtir um pouquinho a natureza, caminhar e correr junto comigo."
+    },
+    {
+      "start": 12.83,
+      "end": 14.81,
+      "text": "Isso aí, um grande abraço para vocês e até a próxima."
+    }
+  ],
+  "duracao_seg": 16.09,
+  "idioma_detectado": "pt"
+}

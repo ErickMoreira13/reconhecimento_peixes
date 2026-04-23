@@ -1,0 +1,27 @@
+{
+  "texto": "There's a place I go to When no one knows me It's not lonely It's a necessary thing",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 1.99,
+      "text": "There's a place I go to"
+    },
+    {
+      "start": 1.99,
+      "end": 4.23,
+      "text": "When no one knows me"
+    },
+    {
+      "start": 4.23,
+      "end": 6.39,
+      "text": "It's not lonely"
+    },
+    {
+      "start": 6.39,
+      "end": 9.12,
+      "text": "It's a necessary thing"
+    }
+  ],
+  "duracao_seg": 9.41,
+  "idioma_detectado": "pt"
+}

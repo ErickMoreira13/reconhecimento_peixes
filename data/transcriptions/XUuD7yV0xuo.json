@@ -1,0 +1,237 @@
+{
+  "texto": "Vou pegar um pra ver. Parece mini bagre. Ó. Olha a carreira que tem. Uhum. Esse é bruto. É, só que eu vi a brutalidade do que ele chegou. Bruto, no sentido dele, foi rápido. De peixe em mão. É assim. Não esqueça. Outro peixe. Ele pegou outro. Ó, outro peixe. Valeu. Papirinha. Muito bem. Obrigado, filhota. Aqui nós vamos só pegando peixe e fazendo bornar. É dois. São três agora. Um da mamãe, um do papai, um da titícia. Hum, tem que pegar peixe. Olha. Tá com frio, amor. Hum, tá com frio. Segura, Lelê. É dois. Segura. Não perfeito. Segura em cima. Segura, Lelê. É assim? É, segura forte. Segura. Segura forte. Baixa, segura. Eu segura. Segura? Sim. Tá bom. Eu não sei. Olha, Lelê, Tícia, vamos lá. Vamos pegar o outro.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Vou pegar um pra ver."
+    },
+    {
+      "start": 2.42,
+      "end": 3.62,
+      "text": "Parece mini bagre."
+    },
+    {
+      "start": 4.55,
+      "end": 4.69,
+      "text": "Ó."
+    },
+    {
+      "start": 8.83,
+      "end": 9.95,
+      "text": "Olha a carreira que tem."
+    },
+    {
+      "start": 10.19,
+      "end": 10.55,
+      "text": "Uhum."
+    },
+    {
+      "start": 12.21,
+      "end": 13.17,
+      "text": "Esse é bruto."
+    },
+    {
+      "start": 14.67,
+      "end": 16.73,
+      "text": "É, só que eu vi a brutalidade"
+    },
+    {
+      "start": 16.73,
+      "end": 17.45,
+      "text": "do que ele chegou."
+    },
+    {
+      "start": 18.45,
+      "end": 20.27,
+      "text": "Bruto, no sentido dele, foi rápido."
+    },
+    {
+      "start": 20.59,
+      "end": 21.87,
+      "text": "De peixe em mão."
+    },
+    {
+      "start": 23.09,
+      "end": 23.49,
+      "text": "É assim."
+    },
+    {
+      "start": 24.19,
+      "end": 24.73,
+      "text": "Não esqueça."
+    },
+    {
+      "start": 24.83,
+      "end": 25.77,
+      "text": "Outro peixe."
+    },
+    {
+      "start": 26.07,
+      "end": 26.79,
+      "text": "Ele pegou outro."
+    },
+    {
+      "start": 26.87,
+      "end": 27.85,
+      "text": "Ó, outro peixe."
+    },
+    {
+      "start": 28.51,
+      "end": 29.03,
+      "text": "Valeu."
+    },
+    {
+      "start": 30.17,
+      "end": 30.69,
+      "text": "Papirinha."
+    },
+    {
+      "start": 31.17,
+      "end": 31.85,
+      "text": "Muito bem."
+    },
+    {
+      "start": 32.69,
+      "end": 33.71,
+      "text": "Obrigado, filhota."
+    },
+    {
+      "start": 33.71,
+      "end": 37.08,
+      "text": "Aqui nós vamos só pegando peixe"
+    },
+    {
+      "start": 37.08,
+      "end": 38.18,
+      "text": "e fazendo bornar."
+    },
+    {
+      "start": 39.98,
+      "end": 40.62,
+      "text": "É dois."
+    },
+    {
+      "start": 41.12,
+      "end": 42.06,
+      "text": "São três agora."
+    },
+    {
+      "start": 43.28,
+      "end": 45.06,
+      "text": "Um da mamãe, um do papai, um da titícia."
+    },
+    {
+      "start": 45.54,
+      "end": 49.78,
+      "text": "Hum, tem que pegar peixe."
+    },
+    {
+      "start": 50.46,
+      "end": 50.78,
+      "text": "Olha."
+    },
+    {
+      "start": 51.04,
+      "end": 52.08,
+      "text": "Tá com frio, amor."
+    },
+    {
+      "start": 52.54,
+      "end": 53.48,
+      "text": "Hum, tá com frio."
+    },
+    {
+      "start": 54.37,
+      "end": 55.05,
+      "text": "Segura, Lelê."
+    },
+    {
+      "start": 56.18,
+      "end": 56.8,
+      "text": "É dois."
+    },
+    {
+      "start": 56.96,
+      "end": 57.4,
+      "text": "Segura."
+    },
+    {
+      "start": 57.48,
+      "end": 58.32,
+      "text": "Não perfeito."
+    },
+    {
+      "start": 58.52,
+      "end": 59.16,
+      "text": "Segura em cima."
+    },
+    {
+      "start": 60.0,
+      "end": 60.8,
+      "text": "Segura, Lelê."
+    },
+    {
+      "start": 62.74,
+      "end": 63.28,
+      "text": "É assim?"
+    },
+    {
+      "start": 63.5,
+      "end": 64.34,
+      "text": "É, segura forte."
+    },
+    {
+      "start": 64.36,
+      "end": 64.74,
+      "text": "Segura."
+    },
+    {
+      "start": 64.74,
+      "end": 65.24,
+      "text": "Segura forte."
+    },
+    {
+      "start": 65.42,
+      "end": 66.18,
+      "text": "Baixa, segura."
+    },
+    {
+      "start": 68.26,
+      "end": 69.14,
+      "text": "Eu segura."
+    },
+    {
+      "start": 69.7,
+      "end": 70.26,
+      "text": "Segura?"
+    },
+    {
+      "start": 70.52,
+      "end": 70.78,
+      "text": "Sim."
+    },
+    {
+      "start": 71.06,
+      "end": 71.44,
+      "text": "Tá bom."
+    },
+    {
+      "start": 71.78,
+      "end": 72.58,
+      "text": "Eu não sei."
+    },
+    {
+      "start": 98.04,
+      "end": 99.5,
+      "text": "Olha, Lelê, Tícia, vamos lá."
+    },
+    {
+      "start": 99.56,
+      "end": 100.04,
+      "text": "Vamos pegar o outro."
+    }
+  ],
+  "duracao_seg": 100.05,
+  "idioma_detectado": "pt"
+}

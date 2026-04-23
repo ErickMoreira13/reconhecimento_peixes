@@ -1,0 +1,22 @@
+{
+  "texto": "E vou por essa vida de pescador Vou fazer o meu lanchinho na beira do rio só pra mim pescar Pra fugir do barulhão da cidade grande pra não estressar",
+  "segmentos": [
+    {
+      "start": 5.54,
+      "end": 8.66,
+      "text": "E vou por essa vida de pescador"
+    },
+    {
+      "start": 8.66,
+      "end": 15.19,
+      "text": "Vou fazer o meu lanchinho na beira do rio só pra mim pescar"
+    },
+    {
+      "start": 15.19,
+      "end": 20.54,
+      "text": "Pra fugir do barulhão da cidade grande pra não estressar"
+    }
+  ],
+  "duracao_seg": 20.55,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Aqui é a Piafara do Rio Claro Record mundial Como diz Johnny Hoffman Essa é do boné virado Como eu não uso boné, eu uso chapéu Então essa é do chapéu virado",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.05,
+      "text": "Aqui é a Piafara do Rio Claro"
+    },
+    {
+      "start": 4.05,
+      "end": 5.63,
+      "text": "Record mundial"
+    },
+    {
+      "start": 5.63,
+      "end": 9.1,
+      "text": "Como diz Johnny Hoffman"
+    },
+    {
+      "start": 9.1,
+      "end": 10.54,
+      "text": "Essa é do boné virado"
+    },
+    {
+      "start": 10.54,
+      "end": 13.04,
+      "text": "Como eu não uso boné, eu uso chapéu"
+    },
+    {
+      "start": 13.04,
+      "end": 15.58,
+      "text": "Então essa é do chapéu virado"
+    }
+  ],
+  "duracao_seg": 16.25,
+  "idioma_detectado": "pt"
+}

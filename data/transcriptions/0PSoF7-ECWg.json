@@ -1,0 +1,42 @@
+{
+  "texto": "Nossa, largou lá no barranco. Não, vai vendo aí, negada. Por cima. A gaia. Ó, segura, papai. Segura. Vai por cima.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 2.05,
+      "text": "Nossa, largou lá no barranco."
+    },
+    {
+      "start": 2.93,
+      "end": 5.79,
+      "text": "Não, vai vendo aí, negada."
+    },
+    {
+      "start": 9.84,
+      "end": 10.32,
+      "text": "Por cima."
+    },
+    {
+      "start": 10.6,
+      "end": 11.44,
+      "text": "A gaia."
+    },
+    {
+      "start": 29.97,
+      "end": 31.97,
+      "text": "Ó, segura, papai."
+    },
+    {
+      "start": 32.7,
+      "end": 33.5,
+      "text": "Segura."
+    },
+    {
+      "start": 35.31,
+      "end": 36.05,
+      "text": "Vai por cima."
+    }
+  ],
+  "duracao_seg": 37.47,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,67 @@
+{
+  "texto": "Olha essa piranha aí. Fala aí. Aê galera. Hoje, terça-feira. A data? 14. 14. Olha aí, é uma piranha do dia de hoje. Isso aí, olha o tamanho da vitela. Grandona. Tem um Piau Framengo bem na canulinha, ó. Nós pegamos também. Estamos por aqui, galera.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 3.15,
+      "text": "Olha essa piranha aí. Fala aí."
+    },
+    {
+      "start": 3.71,
+      "end": 4.55,
+      "text": "Aê galera."
+    },
+    {
+      "start": 5.53,
+      "end": 6.97,
+      "text": "Hoje, terça-feira."
+    },
+    {
+      "start": 8.8,
+      "end": 9.14,
+      "text": "A data?"
+    },
+    {
+      "start": 10.9,
+      "end": 11.42,
+      "text": "14."
+    },
+    {
+      "start": 12.36,
+      "end": 12.84,
+      "text": "14."
+    },
+    {
+      "start": 15.23,
+      "end": 17.07,
+      "text": "Olha aí, é uma piranha do dia de hoje."
+    },
+    {
+      "start": 17.15,
+      "end": 19.11,
+      "text": "Isso aí, olha o tamanho da vitela."
+    },
+    {
+      "start": 21.93,
+      "end": 22.45,
+      "text": "Grandona."
+    },
+    {
+      "start": 23.92,
+      "end": 25.44,
+      "text": "Tem um Piau Framengo bem na canulinha, ó."
+    },
+    {
+      "start": 25.62,
+      "end": 26.44,
+      "text": "Nós pegamos também."
+    },
+    {
+      "start": 26.82,
+      "end": 27.7,
+      "text": "Estamos por aqui, galera."
+    }
+  ],
+  "duracao_seg": 29.69,
+  "idioma_detectado": "pt"
+}

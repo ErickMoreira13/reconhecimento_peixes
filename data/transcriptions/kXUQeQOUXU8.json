@@ -1,0 +1,47 @@
+{
+  "texto": "Pega, pega. Aqui, Tia Franca. Não, é assim não, Tia, cuidado. Ô, mulher do pintado. Agora eu não quero o mar não. Fui e deixei ela, fiquei com nó. Aí. Olha o peixinho que a Tia pegou.",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 1.43,
+      "text": "Pega, pega."
+    },
+    {
+      "start": 1.43,
+      "end": 2.43,
+      "text": "Aqui, Tia Franca."
+    },
+    {
+      "start": 2.43,
+      "end": 6.43,
+      "text": "Não, é assim não, Tia, cuidado."
+    },
+    {
+      "start": 6.43,
+      "end": 9.1,
+      "text": "Ô, mulher do pintado."
+    },
+    {
+      "start": 9.1,
+      "end": 14.65,
+      "text": "Agora eu não quero o mar não."
+    },
+    {
+      "start": 14.65,
+      "end": 16.65,
+      "text": "Fui e deixei ela, fiquei com nó."
+    },
+    {
+      "start": 16.65,
+      "end": 17.65,
+      "text": "Aí."
+    },
+    {
+      "start": 17.65,
+      "end": 20.68,
+      "text": "Olha o peixinho que a Tia pegou."
+    }
+  ],
+  "duracao_seg": 22.81,
+  "idioma_detectado": "pt"
+}

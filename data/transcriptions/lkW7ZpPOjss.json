@@ -1,0 +1,27 @@
+{
+  "texto": "Seu amigo está aí de suelto e se ela peca a peca e eu ando a jurei e eu inde... Algunas, uma noite, um dia, me ando e costumava... 10 minutos, vamos em agua e costumava de 14,5 kg. Peraí-se, eu tenho seis meses para não ir para morrer.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Seu amigo está aí de suelto e se ela peca a peca e eu ando a jurei e eu inde..."
+    },
+    {
+      "start": 3.5,
+      "end": 6.5,
+      "text": "Algunas, uma noite, um dia, me ando e costumava..."
+    },
+    {
+      "start": 6.5,
+      "end": 11.88,
+      "text": "10 minutos, vamos em agua e costumava de 14,5 kg."
+    },
+    {
+      "start": 11.88,
+      "end": 14.88,
+      "text": "Peraí-se, eu tenho seis meses para não ir para morrer."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

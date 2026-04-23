@@ -1,0 +1,92 @@
+{
+  "texto": "Olha o Dãozão aí, rapaz, pescando Filmando o rio Está aqui dando a pescadinha no rio claro Tomando a geladinha Está aqui Olha aí, vocês veem o rio aí O motorista nosso aí Soja Quer ficar aqui, Dão? Ou lá? Lê, lê, lá É Ali? Só não é pica lá, depois nós vamos rodeando aí Todo mundo lá Aqui também é pra onde Roda, os caras não querem",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 4.93,
+      "text": "Olha o Dãozão aí, rapaz, pescando"
+    },
+    {
+      "start": 4.93,
+      "end": 13.84,
+      "text": "Filmando o rio"
+    },
+    {
+      "start": 13.84,
+      "end": 23.45,
+      "text": "Está aqui dando a pescadinha no rio claro"
+    },
+    {
+      "start": 23.45,
+      "end": 27.5,
+      "text": "Tomando a geladinha"
+    },
+    {
+      "start": 27.5,
+      "end": 62.61,
+      "text": "Está aqui"
+    },
+    {
+      "start": 62.61,
+      "end": 65.22,
+      "text": "Olha aí, vocês veem o rio aí"
+    },
+    {
+      "start": 65.22,
+      "end": 66.74,
+      "text": "O motorista nosso aí"
+    },
+    {
+      "start": 66.74,
+      "end": 92.89,
+      "text": "Soja"
+    },
+    {
+      "start": 92.89,
+      "end": 101.15,
+      "text": "Quer ficar aqui, Dão?"
+    },
+    {
+      "start": 101.31,
+      "end": 101.75,
+      "text": "Ou lá?"
+    },
+    {
+      "start": 102.82,
+      "end": 103.9,
+      "text": "Lê, lê, lá"
+    },
+    {
+      "start": 103.9,
+      "end": 105.44,
+      "text": "É"
+    },
+    {
+      "start": 105.44,
+      "end": 108.93,
+      "text": "Ali?"
+    },
+    {
+      "start": 108.93,
+      "end": 111.47,
+      "text": "Só não é pica lá, depois nós vamos rodeando aí"
+    },
+    {
+      "start": 111.47,
+      "end": 112.41,
+      "text": "Todo mundo lá"
+    },
+    {
+      "start": 112.41,
+      "end": 113.29,
+      "text": "Aqui também é pra onde"
+    },
+    {
+      "start": 113.29,
+      "end": 118.86,
+      "text": "Roda, os caras não querem"
+    }
+  ],
+  "duracao_seg": 124.35,
+  "idioma_detectado": "pt"
+}

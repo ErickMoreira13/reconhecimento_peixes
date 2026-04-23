@@ -1,0 +1,37 @@
+{
+  "texto": "Aí, Felipe! Tu não quis vir, Felipe? Olha o tamanho da criança! Aqui, olha o tamanho do meu pé! Olha o tamanho da criança! Felipe, aí! Aí, Bilhão! Olha lá, Bilhão! Olha aí, Bilhão! Ó, vai pra lá! Aí, Felipe! Olha lá, ó, ó! Caralho! Não quis vir, mané! Tá vendo aí, ó! E tá aqui, pai!",
+  "segmentos": [
+    {
+      "start": 3.66,
+      "end": 10.89,
+      "text": "Aí, Felipe! Tu não quis vir, Felipe? Olha o tamanho da criança! Aqui, olha o tamanho do meu pé! Olha o tamanho da criança!"
+    },
+    {
+      "start": 10.89,
+      "end": 18.55,
+      "text": "Felipe, aí! Aí, Bilhão! Olha lá, Bilhão! Olha aí, Bilhão!"
+    },
+    {
+      "start": 18.55,
+      "end": 21.55,
+      "text": "Ó, vai pra lá!"
+    },
+    {
+      "start": 21.55,
+      "end": 27.0,
+      "text": "Aí, Felipe! Olha lá, ó, ó! Caralho!"
+    },
+    {
+      "start": 27.0,
+      "end": 30.77,
+      "text": "Não quis vir, mané! Tá vendo aí, ó!"
+    },
+    {
+      "start": 30.77,
+      "end": 34.91,
+      "text": "E tá aqui, pai!"
+    }
+  ],
+  "duracao_seg": 34.03,
+  "idioma_detectado": "pt"
+}

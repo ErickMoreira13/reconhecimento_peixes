@@ -1,0 +1,97 @@
+{
+  "texto": "Rinaldo, Rinaldozinho, pessoal do grupo de pesca aí, ó Olha o tamanho do boneco, ó Segura aí você que tem que segurar ele Não, pô, o que faz não tem esse negócio não, rapaz Olha o tamanho da criança aí, ó Pode dizer que a gente comprou, comprando a peixaria Não tem nem como falar, o bicho vivo pulando, ó Fala comigo, Vaguinho Show do milhão É, mas velho Valeu, galera Ó, vou mostrar a caixa de isopor como é que tá ficando, ó Ó, olha lá, ó Aí, ó, só pra hoje, ó Olha Molecona bonita Olha Valeu, galera, tamo junto",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.26,
+      "text": "Rinaldo, Rinaldozinho, pessoal do grupo de pesca aí, ó"
+    },
+    {
+      "start": 4.26,
+      "end": 6.81,
+      "text": "Olha o tamanho do boneco, ó"
+    },
+    {
+      "start": 6.81,
+      "end": 8.77,
+      "text": "Segura aí você que tem que segurar ele"
+    },
+    {
+      "start": 8.77,
+      "end": 10.79,
+      "text": "Não, pô, o que faz não tem esse negócio não, rapaz"
+    },
+    {
+      "start": 10.79,
+      "end": 13.39,
+      "text": "Olha o tamanho da criança aí, ó"
+    },
+    {
+      "start": 13.39,
+      "end": 16.01,
+      "text": "Pode dizer que a gente comprou, comprando a peixaria"
+    },
+    {
+      "start": 16.01,
+      "end": 17.75,
+      "text": "Não tem nem como falar, o bicho vivo pulando, ó"
+    },
+    {
+      "start": 17.75,
+      "end": 21.01,
+      "text": "Fala comigo, Vaguinho"
+    },
+    {
+      "start": 21.01,
+      "end": 22.01,
+      "text": "Show do milhão"
+    },
+    {
+      "start": 22.01,
+      "end": 23.83,
+      "text": "É, mas velho"
+    },
+    {
+      "start": 23.83,
+      "end": 26.15,
+      "text": "Valeu, galera"
+    },
+    {
+      "start": 26.15,
+      "end": 28.99,
+      "text": "Ó, vou mostrar a caixa de isopor como é que tá ficando, ó"
+    },
+    {
+      "start": 28.99,
+      "end": 31.46,
+      "text": "Ó, olha lá, ó"
+    },
+    {
+      "start": 31.46,
+      "end": 33.08,
+      "text": "Aí, ó, só pra hoje, ó"
+    },
+    {
+      "start": 33.08,
+      "end": 34.44,
+      "text": "Olha"
+    },
+    {
+      "start": 34.44,
+      "end": 35.96,
+      "text": "Molecona bonita"
+    },
+    {
+      "start": 35.96,
+      "end": 36.46,
+      "text": "Olha"
+    },
+    {
+      "start": 36.46,
+      "end": 39.41,
+      "text": "Valeu, galera, tamo junto"
+    }
+  ],
+  "duracao_seg": 42.13,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "E aí, essa daí escapava? Essa aí é o que? Tô filmando, mostra a bicha aí pra cá. Aí.",
+  "segmentos": [
+    {
+      "start": 2.26,
+      "end": 20.89,
+      "text": "E aí, essa daí escapava?"
+    },
+    {
+      "start": 23.22,
+      "end": 34.33,
+      "text": "Essa aí é o que?"
+    },
+    {
+      "start": 35.85,
+      "end": 39.4,
+      "text": "Tô filmando, mostra a bicha aí pra cá."
+    },
+    {
+      "start": 43.64,
+      "end": 44.02,
+      "text": "Aí."
+    }
+  ],
+  "duracao_seg": 44.65,
+  "idioma_detectado": "pt"
+}

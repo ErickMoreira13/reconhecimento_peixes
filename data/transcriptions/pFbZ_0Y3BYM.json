@@ -1,0 +1,17 @@
+{
+  "texto": "Eu vou tomar banho até aqui, viu? Eu sei que aqui dá pra carrafura.",
+  "segmentos": [
+    {
+      "start": 8.21,
+      "end": 11.21,
+      "text": "Eu vou tomar banho até aqui, viu?"
+    },
+    {
+      "start": 11.21,
+      "end": 13.21,
+      "text": "Eu sei que aqui dá pra carrafura."
+    }
+  ],
+  "duracao_seg": 14.95,
+  "idioma_detectado": "pt"
+}

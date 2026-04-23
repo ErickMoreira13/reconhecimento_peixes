@@ -1,0 +1,52 @@
+{
+  "texto": "Passar por baixo dela Olha como é que tá isso, cara Destruído Um dia a casa cai Por baixo da ponte Olha a situação disso É, rapaz Fiquei até com medo de pegar a ponte agora Rapaz, tá feio mesmo",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.38,
+      "text": "Passar por baixo dela"
+    },
+    {
+      "start": 1.38,
+      "end": 10.6,
+      "text": "Olha como é que tá isso, cara"
+    },
+    {
+      "start": 10.6,
+      "end": 15.11,
+      "text": "Destruído"
+    },
+    {
+      "start": 15.11,
+      "end": 18.32,
+      "text": "Um dia a casa cai"
+    },
+    {
+      "start": 18.32,
+      "end": 22.29,
+      "text": "Por baixo da ponte"
+    },
+    {
+      "start": 22.29,
+      "end": 27.69,
+      "text": "Olha a situação disso"
+    },
+    {
+      "start": 27.69,
+      "end": 33.14,
+      "text": "É, rapaz"
+    },
+    {
+      "start": 33.14,
+      "end": 37.0,
+      "text": "Fiquei até com medo de pegar a ponte agora"
+    },
+    {
+      "start": 37.0,
+      "end": 41.0,
+      "text": "Rapaz, tá feio mesmo"
+    }
+  ],
+  "duracao_seg": 47.11,
+  "idioma_detectado": "pt"
+}

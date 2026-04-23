@@ -1,0 +1,27 @@
+{
+  "texto": "E aí pessoal, bom dia! Mais uma vez aqui para mostrar esses gigantes. Veja isso pessoal, o quanto é impressionante isso aqui. E agora chegou a hora de tirar o barco.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "E aí pessoal, bom dia!"
+    },
+    {
+      "start": 2.02,
+      "end": 4.48,
+      "text": "Mais uma vez aqui para mostrar esses gigantes."
+    },
+    {
+      "start": 7.83,
+      "end": 10.65,
+      "text": "Veja isso pessoal, o quanto é impressionante isso aqui."
+    },
+    {
+      "start": 11.31,
+      "end": 14.54,
+      "text": "E agora chegou a hora de tirar o barco."
+    }
+  ],
+  "duracao_seg": 16.29,
+  "idioma_detectado": "pt"
+}

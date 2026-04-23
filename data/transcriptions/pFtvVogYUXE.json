@@ -1,0 +1,17 @@
+{
+  "texto": "Se liga só no que esse cara vai fazer, ele acende uma bomba, joga dentro do lago e explode essa bomba. Infelizmente acabou acabando com a vida de muitos peixes gente, olha só que judiação, o que vocês acham desse tipo de pescaria?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.9,
+      "text": "Se liga só no que esse cara vai fazer, ele acende uma bomba, joga dentro do lago e explode essa bomba."
+    },
+    {
+      "start": 6.36,
+      "end": 12.66,
+      "text": "Infelizmente acabou acabando com a vida de muitos peixes gente, olha só que judiação, o que vocês acham desse tipo de pescaria?"
+    }
+  ],
+  "duracao_seg": 12.95,
+  "idioma_detectado": "pt"
+}

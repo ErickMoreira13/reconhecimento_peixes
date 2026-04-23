@@ -1,0 +1,32 @@
+{
+  "texto": "Salve, salve galera de Shilling Domingão, primeira do dia Certinho, olha como é que pegou bonito Não sei nem como escapar Bora pescar galera",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 1.91,
+      "text": "Salve, salve galera de Shilling"
+    },
+    {
+      "start": 1.91,
+      "end": 4.29,
+      "text": "Domingão, primeira do dia"
+    },
+    {
+      "start": 4.29,
+      "end": 6.29,
+      "text": "Certinho, olha como é que pegou bonito"
+    },
+    {
+      "start": 6.29,
+      "end": 8.98,
+      "text": "Não sei nem como escapar"
+    },
+    {
+      "start": 8.98,
+      "end": 10.73,
+      "text": "Bora pescar galera"
+    }
+  ],
+  "duracao_seg": 11.45,
+  "idioma_detectado": "pt"
+}

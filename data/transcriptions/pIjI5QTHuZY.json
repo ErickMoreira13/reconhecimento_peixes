@@ -1,0 +1,27 @@
+{
+  "texto": "O sonho desse garotinho era fazer pesca magnética. Logo ele descobriu pra que esse negócio era bom de pegar. O que que tu achou aí? Essa hora ele já estava meio irritado.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "O sonho desse garotinho era fazer pesca magnética."
+    },
+    {
+      "start": 8.09,
+      "end": 11.07,
+      "text": "Logo ele descobriu pra que esse negócio era bom de pegar."
+    },
+    {
+      "start": 11.21,
+      "end": 11.97,
+      "text": "O que que tu achou aí?"
+    },
+    {
+      "start": 26.82,
+      "end": 29.24,
+      "text": "Essa hora ele já estava meio irritado."
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

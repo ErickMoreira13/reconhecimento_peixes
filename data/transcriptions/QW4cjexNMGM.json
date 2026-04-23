@@ -1,0 +1,182 @@
+{
+  "texto": "Vamos nós, né, pra mais uma pescaria. Olha aí que lugar bonito. As traias tá tudo armado aqui, mas até agora nada. Aí aqui fica bem no meio de uma ilhazinha. Passa água de lá, aqui assim, ó. Aí eu passei ali, ó. Passei ali, passei ali e vim por aqui, ó. A barraca já tá armada já aqui, ó. Mais tarde é só um escama de peixe aí. E aí que os caras pegaram. Mês passado eu peguei três matrinchãs. Peguei duas naquele canto ali e outra aqui, só que... Passei em... Passei em... Tá beliscando. Passei ali, passei ali e vim por aqui, ó. A barraca já tá armada já aqui, ó. Mais tarde é só dormir um escama de peixe aí. E aí que os caras pegaram. Mês passado eu peguei... Peguei três matrinchãs. Peguei duas naquele canto ali e outra aqui, só que a daqui escapou. Uma de lá deu três quilos e meia, a outra dava mais ou menos a mesma coisa. Só que eu não pesei. Assim... Tá beliscando. Olha aí, meu amigo, Moica. Saiu outra bitela. Rapaz, esse trem briga, rapaz do céu. Até pra pegar o trem é meio complicado aí. Grande, rapaz. Rapaz, esse trem brigou com força, rapaz. Tá beliscando. Tchau. Tchau.",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 4.11,
+      "text": "Vamos nós, né, pra mais uma pescaria."
+    },
+    {
+      "start": 6.6,
+      "end": 7.64,
+      "text": "Olha aí que lugar bonito."
+    },
+    {
+      "start": 34.0,
+      "end": 36.92,
+      "text": "As traias tá tudo armado aqui, mas até agora nada."
+    },
+    {
+      "start": 61.96,
+      "end": 64.7,
+      "text": "Aí aqui fica bem no meio de uma ilhazinha."
+    },
+    {
+      "start": 66.0,
+      "end": 69.54,
+      "text": "Passa água de lá, aqui assim, ó."
+    },
+    {
+      "start": 73.58,
+      "end": 75.34,
+      "text": "Aí eu passei ali, ó."
+    },
+    {
+      "start": 79.05,
+      "end": 85.28,
+      "text": "Passei ali, passei ali e vim por aqui, ó."
+    },
+    {
+      "start": 85.62,
+      "end": 93.89,
+      "text": "A barraca já tá armada já aqui, ó."
+    },
+    {
+      "start": 95.68,
+      "end": 103.23,
+      "text": "Mais tarde é só um escama de peixe aí."
+    },
+    {
+      "start": 103.23,
+      "end": 105.07,
+      "text": "E aí que os caras pegaram."
+    },
+    {
+      "start": 115.14,
+      "end": 118.22,
+      "text": "Mês passado eu peguei três matrinchãs."
+    },
+    {
+      "start": 119.49,
+      "end": 122.51,
+      "text": "Peguei duas naquele canto ali e outra aqui, só que..."
+    },
+    {
+      "start": 146.58,
+      "end": 147.3,
+      "text": "Passei em..."
+    },
+    {
+      "start": 147.3,
+      "end": 174.1,
+      "text": "Passei em..."
+    },
+    {
+      "start": 174.1,
+      "end": 175.02,
+      "text": "Tá beliscando."
+    },
+    {
+      "start": 187.71,
+      "end": 193.91,
+      "text": "Passei ali, passei ali e vim por aqui, ó."
+    },
+    {
+      "start": 200.11,
+      "end": 202.53,
+      "text": "A barraca já tá armada já aqui, ó."
+    },
+    {
+      "start": 204.33,
+      "end": 211.88,
+      "text": "Mais tarde é só dormir um escama de peixe aí."
+    },
+    {
+      "start": 211.88,
+      "end": 213.76,
+      "text": "E aí que os caras pegaram."
+    },
+    {
+      "start": 223.86,
+      "end": 225.68,
+      "text": "Mês passado eu peguei..."
+    },
+    {
+      "start": 225.68,
+      "end": 226.96,
+      "text": "Peguei três matrinchãs."
+    },
+    {
+      "start": 228.09,
+      "end": 232.93,
+      "text": "Peguei duas naquele canto ali e outra aqui, só que a daqui escapou."
+    },
+    {
+      "start": 234.3,
+      "end": 238.7,
+      "text": "Uma de lá deu três quilos e meia, a outra dava mais ou menos a mesma coisa."
+    },
+    {
+      "start": 240.04,
+      "end": 241.24,
+      "text": "Só que eu não pesei."
+    },
+    {
+      "start": 288.97,
+      "end": 289.97,
+      "text": "Assim..."
+    },
+    {
+      "start": 289.97,
+      "end": 303.01,
+      "text": "Tá beliscando."
+    },
+    {
+      "start": 303.01,
+      "end": 316.82,
+      "text": "Olha aí, meu amigo, Moica."
+    },
+    {
+      "start": 317.86,
+      "end": 319.0,
+      "text": "Saiu outra bitela."
+    },
+    {
+      "start": 320.99,
+      "end": 323.15,
+      "text": "Rapaz, esse trem briga, rapaz do céu."
+    },
+    {
+      "start": 325.45,
+      "end": 328.01,
+      "text": "Até pra pegar o trem é meio complicado aí."
+    },
+    {
+      "start": 334.64,
+      "end": 335.68,
+      "text": "Grande, rapaz."
+    },
+    {
+      "start": 335.68,
+      "end": 347.81,
+      "text": "Rapaz, esse trem brigou com força, rapaz."
+    },
+    {
+      "start": 347.81,
+      "end": 348.81,
+      "text": "Tá beliscando."
+    },
+    {
+      "start": 348.81,
+      "end": 349.81,
+      "text": "Tchau."
+    },
+    {
+      "start": 349.81,
+      "end": 350.49,
+      "text": "Tchau."
+    }
+  ],
+  "duracao_seg": 355.67,
+  "idioma_detectado": "pt"
+}

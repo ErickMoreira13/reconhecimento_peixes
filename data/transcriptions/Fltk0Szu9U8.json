@@ -1,0 +1,22 @@
+{
+  "texto": "Aí pessoal, a isca que nós usamos aí para pegar rubá-lo. Chega, brilha. Olha o local.",
+  "segmentos": [
+    {
+      "start": 0.72,
+      "end": 3.54,
+      "text": "Aí pessoal, a isca que nós usamos aí para pegar rubá-lo."
+    },
+    {
+      "start": 8.96,
+      "end": 9.82,
+      "text": "Chega, brilha."
+    },
+    {
+      "start": 11.26,
+      "end": 11.74,
+      "text": "Olha o local."
+    }
+  ],
+  "duracao_seg": 14.73,
+  "idioma_detectado": "pt"
+}

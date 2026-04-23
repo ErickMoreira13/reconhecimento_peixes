@@ -1,0 +1,32 @@
+{
+  "texto": "Então viagem de avião, uma princesa com a pressão Salva por vato do malvadão Ela joga beijo, faz cato, que tesão Calma meu coração Mano, viajando tempo com o cão",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Então viagem de avião, uma princesa com a pressão"
+    },
+    {
+      "start": 3.32,
+      "end": 5.3,
+      "text": "Salva por vato do malvadão"
+    },
+    {
+      "start": 5.3,
+      "end": 10.55,
+      "text": "Ela joga beijo, faz cato, que tesão"
+    },
+    {
+      "start": 10.55,
+      "end": 12.43,
+      "text": "Calma meu coração"
+    },
+    {
+      "start": 12.43,
+      "end": 15.14,
+      "text": "Mano, viajando tempo com o cão"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

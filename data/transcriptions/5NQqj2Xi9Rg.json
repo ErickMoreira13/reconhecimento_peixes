@@ -1,0 +1,37 @@
+{
+  "texto": "Estamos aqui no Rio Claro, em Caçu, Goiás, mais uma vez, na nossa pescaria de lambari. Esse é o famoso lambari do rabo vermelho. Olha o tamanho dele, olha o quanto é bonito o rabinho dele, tanto que ele é bonito também. Esse é o nosso Rio Claro, aqui em Caçu. Temporada de chuva, estamos na Piracema, então a gente vem bem menos para a pescaria. Muito obrigada, até mais!",
+  "segmentos": [
+    {
+      "start": 2.29,
+      "end": 8.57,
+      "text": "Estamos aqui no Rio Claro, em Caçu, Goiás, mais uma vez, na nossa pescaria de lambari."
+    },
+    {
+      "start": 9.37,
+      "end": 12.11,
+      "text": "Esse é o famoso lambari do rabo vermelho."
+    },
+    {
+      "start": 13.64,
+      "end": 19.6,
+      "text": "Olha o tamanho dele, olha o quanto é bonito o rabinho dele, tanto que ele é bonito também."
+    },
+    {
+      "start": 20.36,
+      "end": 23.2,
+      "text": "Esse é o nosso Rio Claro, aqui em Caçu."
+    },
+    {
+      "start": 25.9,
+      "end": 31.68,
+      "text": "Temporada de chuva, estamos na Piracema, então a gente vem bem menos para a pescaria."
+    },
+    {
+      "start": 31.68,
+      "end": 34.12,
+      "text": "Muito obrigada, até mais!"
+    }
+  ],
+  "duracao_seg": 35.01,
+  "idioma_detectado": "pt"
+}

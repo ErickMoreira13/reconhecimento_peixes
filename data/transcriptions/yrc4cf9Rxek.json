@@ -1,0 +1,22 @@
+{
+  "texto": "Pegou? Pegou? Pegou!",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 0.92,
+      "text": "Pegou?"
+    },
+    {
+      "start": 13.13,
+      "end": 13.67,
+      "text": "Pegou?"
+    },
+    {
+      "start": 13.67,
+      "end": 14.11,
+      "text": "Pegou!"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

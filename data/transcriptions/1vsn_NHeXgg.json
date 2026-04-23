@@ -1,0 +1,77 @@
+{
+  "texto": "Hoje vai chegar, hoje vai chegar Ô Olha aí Olha aí, Mauro, vai É ali, desbravadoras Segura aí, segura aí Segura aí Meu pai do céu Meu pai do céu É o meu pai Vem, Mauro Vai passar por Varda Ponte Vai passar por Varda Ponte lá Vem, Mauro",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hoje vai chegar, hoje vai chegar"
+    },
+    {
+      "start": 2.0,
+      "end": 4.83,
+      "text": "Ô"
+    },
+    {
+      "start": 4.83,
+      "end": 6.83,
+      "text": "Olha aí"
+    },
+    {
+      "start": 6.83,
+      "end": 8.86,
+      "text": "Olha aí, Mauro, vai"
+    },
+    {
+      "start": 8.86,
+      "end": 10.86,
+      "text": "É ali, desbravadoras"
+    },
+    {
+      "start": 10.86,
+      "end": 13.44,
+      "text": "Segura aí, segura aí"
+    },
+    {
+      "start": 13.44,
+      "end": 15.44,
+      "text": "Segura aí"
+    },
+    {
+      "start": 15.44,
+      "end": 18.5,
+      "text": "Meu pai do céu"
+    },
+    {
+      "start": 18.5,
+      "end": 20.5,
+      "text": "Meu pai do céu"
+    },
+    {
+      "start": 20.5,
+      "end": 23.55,
+      "text": "É o meu pai"
+    },
+    {
+      "start": 23.55,
+      "end": 27.22,
+      "text": "Vem, Mauro"
+    },
+    {
+      "start": 27.22,
+      "end": 29.54,
+      "text": "Vai passar por Varda Ponte"
+    },
+    {
+      "start": 29.54,
+      "end": 31.54,
+      "text": "Vai passar por Varda Ponte lá"
+    },
+    {
+      "start": 31.54,
+      "end": 33.54,
+      "text": "Vem, Mauro"
+    }
+  ],
+  "duracao_seg": 33.43,
+  "idioma_detectado": "pt"
+}
