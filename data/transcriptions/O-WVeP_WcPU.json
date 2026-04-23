@@ -1,0 +1,62 @@
+{
+  "texto": "Ó quem tá pescando no Rio Preto aqui, ó. Vem, Gabriel. Quem tá pescando no Rio Preto? Você? Será que você pensa que pescar em Rio é igual a pescar em pesca e paga? Pesca e paga ele pega um monte. Ele pega 100 reais de peso, 140, 150 mil reais toda vez. Agora aqui não é fácil não, papai. Aqui é mais difícil. Aqui o tio falou que só pega mais à noite. De dia difícil.",
+  "segmentos": [
+    {
+      "start": 0.82,
+      "end": 2.8,
+      "text": "Ó quem tá pescando no Rio Preto aqui, ó."
+    },
+    {
+      "start": 3.52,
+      "end": 3.92,
+      "text": "Vem, Gabriel."
+    },
+    {
+      "start": 5.2,
+      "end": 6.22,
+      "text": "Quem tá pescando no Rio Preto?"
+    },
+    {
+      "start": 7.11,
+      "end": 7.43,
+      "text": "Você?"
+    },
+    {
+      "start": 8.74,
+      "end": 11.22,
+      "text": "Será que você pensa que pescar em Rio é igual a pescar em pesca e paga?"
+    },
+    {
+      "start": 11.28,
+      "end": 12.2,
+      "text": "Pesca e paga ele pega um monte."
+    },
+    {
+      "start": 13.2,
+      "end": 16.18,
+      "text": "Ele pega 100 reais de peso, 140, 150 mil reais toda vez."
+    },
+    {
+      "start": 16.98,
+      "end": 18.12,
+      "text": "Agora aqui não é fácil não, papai."
+    },
+    {
+      "start": 18.68,
+      "end": 19.4,
+      "text": "Aqui é mais difícil."
+    },
+    {
+      "start": 20.08,
+      "end": 21.66,
+      "text": "Aqui o tio falou que só pega mais à noite."
+    },
+    {
+      "start": 22.18,
+      "end": 22.84,
+      "text": "De dia difícil."
+    }
+  ],
+  "duracao_seg": 26.33,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Segunda-feira, 1º de agosto Tá aí o Lucão no rio Arinos Tentando tirar a cachorra Com seu Toninho aí, o Alcides O brigueiro tá grande aí, Lucas Rapaz, isso que é segunda-feira Mas se fosse um sábado",
+  "segmentos": [
+    {
+      "start": 5.1,
+      "end": 7.26,
+      "text": "Segunda-feira, 1º de agosto"
+    },
+    {
+      "start": 7.26,
+      "end": 10.19,
+      "text": "Tá aí o Lucão no rio Arinos"
+    },
+    {
+      "start": 10.19,
+      "end": 11.59,
+      "text": "Tentando tirar a cachorra"
+    },
+    {
+      "start": 11.59,
+      "end": 14.97,
+      "text": "Com seu Toninho aí, o Alcides"
+    },
+    {
+      "start": 14.97,
+      "end": 18.16,
+      "text": "O brigueiro tá grande aí, Lucas"
+    },
+    {
+      "start": 18.16,
+      "end": 36.93,
+      "text": "Rapaz, isso que é segunda-feira"
+    },
+    {
+      "start": 36.93,
+      "end": 38.11,
+      "text": "Mas se fosse um sábado"
+    }
+  ],
+  "duracao_seg": 144.21,
+  "idioma_detectado": "pt"
+}

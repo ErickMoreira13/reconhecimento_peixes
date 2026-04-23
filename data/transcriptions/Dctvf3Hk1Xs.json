@@ -1,0 +1,17 @@
+{
+  "texto": "alexa qual é o saldo da minha conta 0 centavo em contrato olhe de novo você não tem saldo faz dois meses",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 12.43,
+      "text": "alexa qual é o saldo da minha conta 0 centavo em contrato olhe de novo você"
+    },
+    {
+      "start": 12.43,
+      "end": 16.87,
+      "text": "não tem saldo faz dois meses"
+    }
+  ],
+  "duracao_seg": 18.01,
+  "idioma_detectado": "pt"
+}

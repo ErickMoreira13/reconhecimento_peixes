@@ -1,0 +1,97 @@
+{
+  "texto": "Mais uma. Pegou, Luan. Tá bom, Luan. Ô, garota, essa é a cachorro que a gente tá procurando, Luan. Não acredito que ela entrou. A gente percebeu que ela tá realmente presa num gol, se ela não tá segurando. Tá. Eu acho que o anzal prendeu. Nossa, eu tô passando até mal. Não, não. Ela soltou? Soltou. Aí, Luan. Só deixa ela levar. Deixa ela levar. Aí, Luan. Tá levando. Vai, dá uma fisgarinha aqui, Luan.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 2.02,
+      "text": "Mais uma."
+    },
+    {
+      "start": 2.02,
+      "end": 4.27,
+      "text": "Pegou, Luan."
+    },
+    {
+      "start": 4.27,
+      "end": 7.14,
+      "text": "Tá bom, Luan."
+    },
+    {
+      "start": 7.14,
+      "end": 10.14,
+      "text": "Ô, garota, essa é a cachorro que a gente tá procurando, Luan."
+    },
+    {
+      "start": 10.14,
+      "end": 17.0,
+      "text": "Não acredito que ela entrou."
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "A gente percebeu que ela tá realmente presa num gol, se ela não tá segurando."
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "text": "Tá."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Eu acho que o anzal prendeu."
+    },
+    {
+      "start": 24.0,
+      "end": 26.83,
+      "text": "Nossa, eu tô passando até mal."
+    },
+    {
+      "start": 26.83,
+      "end": 29.34,
+      "text": "Não, não."
+    },
+    {
+      "start": 29.34,
+      "end": 30.34,
+      "text": "Ela soltou?"
+    },
+    {
+      "start": 30.34,
+      "end": 31.34,
+      "text": "Soltou."
+    },
+    {
+      "start": 31.34,
+      "end": 33.34,
+      "text": "Aí, Luan."
+    },
+    {
+      "start": 33.34,
+      "end": 35.34,
+      "text": "Só deixa ela levar."
+    },
+    {
+      "start": 35.34,
+      "end": 36.34,
+      "text": "Deixa ela levar."
+    },
+    {
+      "start": 36.34,
+      "end": 38.34,
+      "text": "Aí, Luan."
+    },
+    {
+      "start": 38.34,
+      "end": 39.34,
+      "text": "Tá levando."
+    },
+    {
+      "start": 39.34,
+      "end": 41.6,
+      "text": "Vai, dá uma fisgarinha aqui, Luan."
+    }
+  ],
+  "duracao_seg": 48.23,
+  "idioma_detectado": "pt"
+}

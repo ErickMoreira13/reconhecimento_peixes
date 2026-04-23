@@ -1,0 +1,42 @@
+{
+  "texto": "Recém pego na beira do rio, um pacuzinho, aí ó, vou acamar um pouquinho pra fritar. Olha o pacu aí, ó. Valeu, depoimento aí, boca de pelo. Esse aí eu peguei, 4 kg limpo. Só de escama. Só de escama. Aí ó, rio Arinos, Nova Mutum.",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 6.02,
+      "text": "Recém pego na beira do rio, um pacuzinho, aí ó, vou acamar um pouquinho pra fritar."
+    },
+    {
+      "start": 6.02,
+      "end": 9.75,
+      "text": "Olha o pacu aí, ó."
+    },
+    {
+      "start": 9.75,
+      "end": 13.36,
+      "text": "Valeu, depoimento aí, boca de pelo."
+    },
+    {
+      "start": 13.36,
+      "end": 15.36,
+      "text": "Esse aí eu peguei, 4 kg limpo."
+    },
+    {
+      "start": 15.36,
+      "end": 17.36,
+      "text": "Só de escama."
+    },
+    {
+      "start": 17.36,
+      "end": 20.06,
+      "text": "Só de escama."
+    },
+    {
+      "start": 20.06,
+      "end": 22.06,
+      "text": "Aí ó, rio Arinos, Nova Mutum."
+    }
+  ],
+  "duracao_seg": 25.83,
+  "idioma_detectado": "pt"
+}

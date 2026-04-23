@@ -1,0 +1,37 @@
+{
+  "texto": "Ô Dilon, aqui o riozão, ó, mas só belisca, eu sou ruim pra jogar monilete, já joguei vinha na árvore, e ó o riozinho, ó, que eu falei pra você, aí Dirce, ó o riozinho Dirce, mas eu sou ruim pra pescar, só a bichinha, o bonito é quando ele tá aqui rio, ele vem até aqui na beirada, esse pratinho lá perto daquela caixa d'água, ó, tô filmando o senhor não, aqui é o berço de Deus, mas o pescador é ruim pra pegar, senhora Ó, tamanho da criança, só o começo, um abraço pessoal, agora a menina vai comer ela frita",
+  "segmentos": [
+    {
+      "start": 1.87,
+      "end": 9.03,
+      "text": "Ô Dilon, aqui o riozão, ó, mas só belisca, eu sou ruim pra jogar monilete, já joguei"
+    },
+    {
+      "start": 9.03,
+      "end": 18.23,
+      "text": "vinha na árvore, e ó o riozinho, ó, que eu falei pra você, aí Dirce, ó o riozinho"
+    },
+    {
+      "start": 18.23,
+      "end": 24.28,
+      "text": "Dirce, mas eu sou ruim pra pescar, só a bichinha, o bonito é quando ele tá aqui"
+    },
+    {
+      "start": 24.28,
+      "end": 30.84,
+      "text": "rio, ele vem até aqui na beirada, esse pratinho lá perto daquela caixa d'água, ó, tô filmando"
+    },
+    {
+      "start": 30.84,
+      "end": 56.51,
+      "text": "o senhor não, aqui é o berço de Deus, mas o pescador é ruim pra pegar, senhora"
+    },
+    {
+      "start": 56.51,
+      "end": 69.03,
+      "text": "Ó, tamanho da criança, só o começo, um abraço pessoal, agora a menina vai comer ela frita"
+    }
+  ],
+  "duracao_seg": 69.61,
+  "idioma_detectado": "pt"
+}

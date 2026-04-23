@@ -1,0 +1,17 @@
+{
+  "texto": "Ó, pirangueiro e churrasqueiro, ó, uma olhada aí, será que essa pisteca vai tá boa, hein? Ó, ó o que encontramos aqui também, escola.",
+  "segmentos": [
+    {
+      "start": 8.14,
+      "end": 17.77,
+      "text": "Ó, pirangueiro e churrasqueiro, ó, uma olhada aí, será que essa pisteca vai tá boa, hein?"
+    },
+    {
+      "start": 20.81,
+      "end": 26.0,
+      "text": "Ó, ó o que encontramos aqui também, escola."
+    }
+  ],
+  "duracao_seg": 27.95,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,57 @@
+{
+  "texto": "favorizado, dá só uma olhada aqui é o telespíris será que é difícil de pegar o peixe? colocar o peixe na água e vamos chamar vem, vem aqui é treinado, é só você chamar vem, vem aqui é o telespíris eita não",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "favorizado, dá só uma olhada"
+    },
+    {
+      "start": 2.0,
+      "end": 4.16,
+      "text": "aqui é o telespíris"
+    },
+    {
+      "start": 4.16,
+      "end": 6.16,
+      "text": "será que é difícil de pegar o peixe?"
+    },
+    {
+      "start": 6.16,
+      "end": 9.6,
+      "text": "colocar o peixe na água"
+    },
+    {
+      "start": 9.6,
+      "end": 12.05,
+      "text": "e vamos chamar"
+    },
+    {
+      "start": 12.05,
+      "end": 19.3,
+      "text": "vem, vem"
+    },
+    {
+      "start": 19.3,
+      "end": 21.3,
+      "text": "aqui é treinado, é só você chamar"
+    },
+    {
+      "start": 21.3,
+      "end": 23.94,
+      "text": "vem, vem"
+    },
+    {
+      "start": 30.05,
+      "end": 32.05,
+      "text": "aqui é o telespíris"
+    },
+    {
+      "start": 32.05,
+      "end": 34.53,
+      "text": "eita não"
+    }
+  ],
+  "duracao_seg": 35.35,
+  "idioma_detectado": "pt"
+}

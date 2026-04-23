@@ -1,0 +1,47 @@
+{
+  "texto": "Eu dou motivo pra me chamar de caipira Mas continuo lhe tratando de senhor Eu não me zango, pois não disse uma mentira Pelo contrário, isso até me dá valor Sua infância foi lições de faculdade Na realidade hoje é grande doutor Não tive estudos, minha escola foi trabalho Desbravando meu sertão interior",
+  "segmentos": [
+    {
+      "start": 12.46,
+      "end": 16.78,
+      "text": "Eu dou motivo pra me chamar de caipira"
+    },
+    {
+      "start": 16.78,
+      "end": 21.56,
+      "text": "Mas continuo lhe tratando de senhor"
+    },
+    {
+      "start": 21.56,
+      "end": 27.04,
+      "text": "Eu não me zango, pois não disse uma mentira"
+    },
+    {
+      "start": 27.04,
+      "end": 32.02,
+      "text": "Pelo contrário, isso até me dá valor"
+    },
+    {
+      "start": 32.02,
+      "end": 37.12,
+      "text": "Sua infância foi lições de faculdade"
+    },
+    {
+      "start": 37.12,
+      "end": 42.34,
+      "text": "Na realidade hoje é grande doutor"
+    },
+    {
+      "start": 42.34,
+      "end": 47.72,
+      "text": "Não tive estudos, minha escola foi trabalho"
+    },
+    {
+      "start": 47.72,
+      "end": 52.14,
+      "text": "Desbravando meu sertão interior"
+    }
+  ],
+  "duracao_seg": 58.49,
+  "idioma_detectado": "pt"
+}

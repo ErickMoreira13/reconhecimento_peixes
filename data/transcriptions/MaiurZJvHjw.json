@@ -1,0 +1,22 @@
+{
+  "texto": "Ê Júnior, os cabafobos que tem mestrado, doutorado, tem isso, tem aquilo, nós temos o que meu filho? Nós temos suas mães. Nós temos as mães.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.86,
+      "text": "Ê Júnior, os cabafobos que tem mestrado, doutorado, tem isso, tem aquilo, nós temos o que meu filho?"
+    },
+    {
+      "start": 5.04,
+      "end": 6.12,
+      "text": "Nós temos suas mães."
+    },
+    {
+      "start": 6.16,
+      "end": 7.52,
+      "text": "Nós temos as mães."
+    }
+  ],
+  "duracao_seg": 7.71,
+  "idioma_detectado": "pt"
+}

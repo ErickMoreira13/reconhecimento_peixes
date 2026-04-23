@@ -1,0 +1,17 @@
+{
+  "texto": "Esse aqui é um trairão, pescado no rio Arinos, já estávamos indo embora, o pai fisgou, não conseguiu tirar e eu peguei as minhas rédeas para tirar o bicho. Pela minha experiência.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.58,
+      "text": "Esse aqui é um trairão, pescado no rio Arinos, já estávamos indo embora, o pai fisgou, não conseguiu tirar e eu peguei as minhas rédeas para tirar o bicho."
+    },
+    {
+      "start": 9.42,
+      "end": 10.1,
+      "text": "Pela minha experiência."
+    }
+  ],
+  "duracao_seg": 10.83,
+  "idioma_detectado": "pt"
+}

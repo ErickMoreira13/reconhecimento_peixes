@@ -1,0 +1,27 @@
+{
+  "texto": "Eu não sei vocês, mas minha vida é essa aqui, ó. Ah, Matriz Sanzon, né? Sama, Sama, Sama. Parceirão Flávio, parceirão Ivo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "Eu não sei vocês, mas minha vida é essa aqui, ó."
+    },
+    {
+      "start": 4.53,
+      "end": 6.79,
+      "text": "Ah, Matriz Sanzon, né?"
+    },
+    {
+      "start": 8.04,
+      "end": 10.24,
+      "text": "Sama, Sama, Sama."
+    },
+    {
+      "start": 10.82,
+      "end": 13.22,
+      "text": "Parceirão Flávio, parceirão Ivo."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

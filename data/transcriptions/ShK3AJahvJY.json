@@ -1,0 +1,22 @@
+{
+  "texto": "Olha aí, Robson. Conhece esse rapaz aqui, ó? Ó. Pimentinha. Olha aí, ó.",
+  "segmentos": [
+    {
+      "start": 14.74,
+      "end": 17.28,
+      "text": "Olha aí, Robson. Conhece esse rapaz aqui, ó?"
+    },
+    {
+      "start": 18.4,
+      "end": 21.15,
+      "text": "Ó. Pimentinha."
+    },
+    {
+      "start": 24.17,
+      "end": 24.81,
+      "text": "Olha aí, ó."
+    }
+  ],
+  "duracao_seg": 39.43,
+  "idioma_detectado": "pt"
+}

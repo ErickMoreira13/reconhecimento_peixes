@@ -1,0 +1,902 @@
+{
+  "texto": "Bora, bora, descida hoje aqui em São José do Rio Claro Descer dia 16 quilômetros, a gente vai descer da ponte Até o encontro do Arinos Pista linda, coisa mais linda Pegando peixe a gente mostra, tchau, obrigado Começar com a lagartinha branca Deixar uma, espichar essa linha Isso aqui é a araçatubinha, ela vem sob superfície Vai mais pro meio, vai mais rápido É caidinha Ó a matrinchãzinha, ó a filhotinha Ô, fioteira Pera lá, pera lá Tá parecendo uma sardinha Mas é a filhotinha de matrinchão, hein E gelada que você tá, hein, fi Pra vida, vai Tchau, obrigado Olha que lugar lindo Lá dentro Lá dentro Lá dentro onde ela fica Bicuda, fi Bicudinha, bicudinha Vai, fi Calma lá Não tem onde você pegou Calma, só sai machucar Calma, só sai machucar Pegou por baixo aqui, ó Aí, fi Vai pra vida Uma bala Cadê a isca? É nóis, pô É isso, cara? Que isso que foi? Lagartinha Lagartinha Lagartinha branca Pega demais Que lugar lindo Rio claro Olha que lugar lindo, véi Vantagens de ver Só de olhar Vamos arremessar e ficar olhando o fundo do rio, ó Olha É lindo de nós, tá louco? Ah, mas não pegou peixe E daí? E daí? Vem? Fogo me abre Meu Deus do céu Ai Ai Fih Agora até agredou no banco O que? Tô um, a minha tá agredou no elástico Tava filmando, fi É tucuna Olha que lindão Ah, pia marinha, fi Top demais, fi Olha que tucuna linda Cara, que tucuna linda, fi No meio de vegetação aqui, fi Tá? Parece que tinha dois Milenae Milenae Aô Milenae Ançou, né, lindão? Eu tenho uma boca na zara Olha Que água limpa que você mora, hein, cara Que linda sua casa Não desistiu, não, cê viu? Fih, não tem um, não tem um Vem cá, lindão Liga a câmera Isso aí não sai não, né? Vem ver isso aqui, fi, ó Um tronco dentro d'água Hã? Olha o cenário Ó Sai do riozinho Meu sonho é crescer e não ser igual seja, seu Olha, olha Olha, olha Olha o cardume ali, fi Que top Tudo pequenininha Mas pequenininha, pequenininha mesmo, fi Se falaram pra mim que é aquele lambarizão lá Que nós pescamos, eu acredito Ali, fi, ó Ilha É a da volta Viu, claro Mas de boa, fi Diferença do Shark, né? Cuidado, fi, cuidado Aí, ficou, ficou, ficou Diferença do Shark, né, fi O Barracudinha também desce ali, fi Só que Você desce mais Mais que medo É, mas veaco, né Não tão confiante O quê? É a ilha, né? Fih, mas veio a caiauzão lá em trás, hein Dessa isca barbeluda aqui, ó É muito fundo, muito raso, fi É o lugar dela, hein Você é macaco, fi? Macaco? Ué Vem tomar uma golinha aqui, vem Passa o preto Vem aqui tomar uma golinha O quê? Hum, tá quentinho, ó Vou soprar Vou soprar, ó Fih, já tentou deixar a isquinha afundar? O quê? É, você vem Totop Totop Totop Chamando o cachorrinho Totop Olha lá, ó Joga lá, ó Recorde um pouquinho Pois é, não tá querendo, não Ela fala Se ele quiser que ele faz totó na isca Essa mesmo que eu peguei Grudou no meio Eu tava fazendo totó A linha só espichou, fi Frouxei assim, fi Isso é rápido demais, né Tá louco Que lugar lindo Oi Que lugar mais lindo, velho Vai Transparente Mistura de areia com vegetação Vem lá, né, fi Vem lá Vem lá Gelada Não, é bonita, fi Deixa lá embaixo, fi Deixa lá embaixo Claro Chegando no Rio Arinos Encontro do Rio Claro com o Rio Arinos O famoso festival Pra bater uma bicuda aqui Chegamos duas horas da tarde Sambilá 8 Já se rápido Já se rápido, se arinho Se, Rio Claro Outro Outro Outro Outro",
+  "segmentos": [
+    {
+      "start": 4.56,
+      "end": 7.9,
+      "text": "Bora, bora, descida hoje aqui em São José do Rio Claro"
+    },
+    {
+      "start": 7.9,
+      "end": 11.74,
+      "text": "Descer dia 16 quilômetros, a gente vai descer da ponte"
+    },
+    {
+      "start": 11.74,
+      "end": 14.22,
+      "text": "Até o encontro do Arinos"
+    },
+    {
+      "start": 14.22,
+      "end": 17.82,
+      "text": "Pista linda, coisa mais linda"
+    },
+    {
+      "start": 17.82,
+      "end": 26.47,
+      "text": "Pegando peixe a gente mostra, tchau, obrigado"
+    },
+    {
+      "start": 26.47,
+      "end": 32.87,
+      "text": "Começar com a lagartinha branca"
+    },
+    {
+      "start": 32.87,
+      "end": 46.22,
+      "text": "Deixar uma, espichar essa linha"
+    },
+    {
+      "start": 46.22,
+      "end": 51.62,
+      "text": "Isso aqui é a araçatubinha, ela vem sob superfície"
+    },
+    {
+      "start": 51.62,
+      "end": 95.4,
+      "text": "Vai mais pro meio, vai mais rápido"
+    },
+    {
+      "start": 95.4,
+      "end": 115.58,
+      "text": "É caidinha"
+    },
+    {
+      "start": 115.58,
+      "end": 119.74,
+      "text": "Ó a matrinchãzinha, ó a filhotinha"
+    },
+    {
+      "start": 119.74,
+      "end": 123.0,
+      "text": "Ô, fioteira"
+    },
+    {
+      "start": 123.0,
+      "end": 126.22,
+      "text": "Pera lá, pera lá"
+    },
+    {
+      "start": 126.22,
+      "end": 127.4,
+      "text": "Tá parecendo uma sardinha"
+    },
+    {
+      "start": 127.4,
+      "end": 130.94,
+      "text": "Mas é a filhotinha de matrinchão, hein"
+    },
+    {
+      "start": 130.94,
+      "end": 132.32,
+      "text": "E gelada que você tá, hein, fi"
+    },
+    {
+      "start": 132.32,
+      "end": 133.85,
+      "text": "Pra vida, vai"
+    },
+    {
+      "start": 133.85,
+      "end": 135.61,
+      "text": "Tchau, obrigado"
+    },
+    {
+      "start": 135.61,
+      "end": 175.52,
+      "text": "Olha que lugar lindo"
+    },
+    {
+      "start": 175.52,
+      "end": 208.61,
+      "text": "Lá dentro"
+    },
+    {
+      "start": 208.61,
+      "end": 218.12,
+      "text": "Lá dentro"
+    },
+    {
+      "start": 218.12,
+      "end": 220.06,
+      "text": "Lá dentro onde ela fica"
+    },
+    {
+      "start": 220.06,
+      "end": 244.64,
+      "text": "Bicuda, fi"
+    },
+    {
+      "start": 244.64,
+      "end": 253.39,
+      "text": "Bicudinha, bicudinha"
+    },
+    {
+      "start": 253.39,
+      "end": 262.13,
+      "text": "Vai, fi"
+    },
+    {
+      "start": 262.13,
+      "end": 267.79,
+      "text": "Calma lá"
+    },
+    {
+      "start": 267.79,
+      "end": 268.79,
+      "text": "Não tem onde você pegou"
+    },
+    {
+      "start": 268.79,
+      "end": 273.84,
+      "text": "Calma, só sai machucar"
+    },
+    {
+      "start": 273.84,
+      "end": 275.94,
+      "text": "Calma, só sai machucar"
+    },
+    {
+      "start": 275.94,
+      "end": 279.89,
+      "text": "Pegou por baixo aqui, ó"
+    },
+    {
+      "start": 279.89,
+      "end": 284.24,
+      "text": "Aí, fi"
+    },
+    {
+      "start": 284.24,
+      "end": 287.14,
+      "text": "Vai pra vida"
+    },
+    {
+      "start": 287.14,
+      "end": 290.77,
+      "text": "Uma bala"
+    },
+    {
+      "start": 290.77,
+      "end": 362.64,
+      "text": "Cadê a isca?"
+    },
+    {
+      "start": 362.64,
+      "end": 363.44,
+      "text": "É nóis, pô"
+    },
+    {
+      "start": 363.44,
+      "end": 364.14,
+      "text": "É isso, cara?"
+    },
+    {
+      "start": 364.14,
+      "end": 365.52,
+      "text": "Que isso que foi?"
+    },
+    {
+      "start": 365.52,
+      "end": 366.64,
+      "text": "Lagartinha"
+    },
+    {
+      "start": 366.64,
+      "end": 368.06,
+      "text": "Lagartinha"
+    },
+    {
+      "start": 368.06,
+      "end": 370.4,
+      "text": "Lagartinha branca"
+    },
+    {
+      "start": 370.4,
+      "end": 371.32,
+      "text": "Pega demais"
+    },
+    {
+      "start": 371.32,
+      "end": 407.27,
+      "text": "Que lugar lindo"
+    },
+    {
+      "start": 407.27,
+      "end": 411.43,
+      "text": "Rio claro"
+    },
+    {
+      "start": 411.43,
+      "end": 449.2,
+      "text": "Olha que lugar lindo, véi"
+    },
+    {
+      "start": 449.2,
+      "end": 451.57,
+      "text": "Vantagens de ver"
+    },
+    {
+      "start": 451.57,
+      "end": 453.03,
+      "text": "Só de olhar"
+    },
+    {
+      "start": 453.03,
+      "end": 456.6,
+      "text": "Vamos arremessar e ficar olhando o fundo do rio, ó"
+    },
+    {
+      "start": 456.6,
+      "end": 458.35,
+      "text": "Olha"
+    },
+    {
+      "start": 458.35,
+      "end": 471.58,
+      "text": "É lindo de nós, tá louco?"
+    },
+    {
+      "start": 471.62,
+      "end": 472.46,
+      "text": "Ah, mas não pegou peixe"
+    },
+    {
+      "start": 472.46,
+      "end": 473.48,
+      "text": "E daí?"
+    },
+    {
+      "start": 474.67,
+      "end": 475.05,
+      "text": "E daí?"
+    },
+    {
+      "start": 479.49,
+      "end": 479.71,
+      "text": "Vem?"
+    },
+    {
+      "start": 488.76,
+      "end": 489.26,
+      "text": "Fogo me abre"
+    },
+    {
+      "start": 489.26,
+      "end": 491.45,
+      "text": "Meu Deus do céu"
+    },
+    {
+      "start": 491.45,
+      "end": 491.75,
+      "text": "Ai"
+    },
+    {
+      "start": 491.75,
+      "end": 492.81,
+      "text": "Ai"
+    },
+    {
+      "start": 492.81,
+      "end": 505.02,
+      "text": "Fih"
+    },
+    {
+      "start": 505.02,
+      "end": 507.23,
+      "text": "Agora até agredou no banco"
+    },
+    {
+      "start": 507.23,
+      "end": 515.15,
+      "text": "O que?"
+    },
+    {
+      "start": 515.95,
+      "end": 517.33,
+      "text": "Tô um, a minha tá agredou no elástico"
+    },
+    {
+      "start": 517.33,
+      "end": 526.71,
+      "text": "Tava filmando, fi"
+    },
+    {
+      "start": 526.71,
+      "end": 527.29,
+      "text": "É tucuna"
+    },
+    {
+      "start": 527.29,
+      "end": 529.16,
+      "text": "Olha que lindão"
+    },
+    {
+      "start": 529.16,
+      "end": 532.88,
+      "text": "Ah, pia marinha, fi"
+    },
+    {
+      "start": 532.88,
+      "end": 534.68,
+      "text": "Top demais, fi"
+    },
+    {
+      "start": 534.68,
+      "end": 535.5,
+      "text": "Olha que tucuna linda"
+    },
+    {
+      "start": 535.5,
+      "end": 544.12,
+      "text": "Cara, que tucuna linda, fi"
+    },
+    {
+      "start": 544.12,
+      "end": 546.53,
+      "text": "No meio de vegetação aqui, fi"
+    },
+    {
+      "start": 546.53,
+      "end": 547.62,
+      "text": "Tá?"
+    },
+    {
+      "start": 547.72,
+      "end": 549.34,
+      "text": "Parece que tinha dois"
+    },
+    {
+      "start": 549.34,
+      "end": 568.87,
+      "text": "Milenae"
+    },
+    {
+      "start": 568.87,
+      "end": 571.05,
+      "text": "Milenae"
+    },
+    {
+      "start": 571.05,
+      "end": 574.2,
+      "text": "Aô"
+    },
+    {
+      "start": 574.2,
+      "end": 576.65,
+      "text": "Milenae"
+    },
+    {
+      "start": 576.65,
+      "end": 578.23,
+      "text": "Ançou, né, lindão?"
+    },
+    {
+      "start": 579.23,
+      "end": 580.37,
+      "text": "Eu tenho uma boca na zara"
+    },
+    {
+      "start": 580.37,
+      "end": 581.76,
+      "text": "Olha"
+    },
+    {
+      "start": 581.76,
+      "end": 583.7,
+      "text": "Que água limpa que você mora, hein, cara"
+    },
+    {
+      "start": 583.7,
+      "end": 586.11,
+      "text": "Que linda sua casa"
+    },
+    {
+      "start": 586.11,
+      "end": 596.06,
+      "text": "Não desistiu, não, cê viu?"
+    },
+    {
+      "start": 596.54,
+      "end": 597.78,
+      "text": "Fih, não tem um, não tem um"
+    },
+    {
+      "start": 597.78,
+      "end": 608.9,
+      "text": "Vem cá, lindão"
+    },
+    {
+      "start": 608.9,
+      "end": 617.29,
+      "text": "Liga a câmera"
+    },
+    {
+      "start": 617.29,
+      "end": 623.14,
+      "text": "Isso aí não sai não, né?"
+    },
+    {
+      "start": 625.93,
+      "end": 626.93,
+      "text": "Vem ver isso aqui, fi, ó"
+    },
+    {
+      "start": 626.93,
+      "end": 628.69,
+      "text": "Um tronco dentro d'água"
+    },
+    {
+      "start": 628.69,
+      "end": 631.28,
+      "text": "Hã?"
+    },
+    {
+      "start": 639.58,
+      "end": 640.32,
+      "text": "Olha o cenário"
+    },
+    {
+      "start": 640.32,
+      "end": 641.89,
+      "text": "Ó"
+    },
+    {
+      "start": 641.89,
+      "end": 715.2,
+      "text": "Sai do riozinho"
+    },
+    {
+      "start": 715.2,
+      "end": 723.0,
+      "text": "Meu sonho é crescer e não ser igual seja, seu"
+    },
+    {
+      "start": 723.0,
+      "end": 723.32,
+      "text": "Olha, olha"
+    },
+    {
+      "start": 723.32,
+      "end": 723.52,
+      "text": "Olha, olha"
+    },
+    {
+      "start": 723.52,
+      "end": 727.18,
+      "text": "Olha o cardume ali, fi"
+    },
+    {
+      "start": 727.18,
+      "end": 728.1,
+      "text": "Que top"
+    },
+    {
+      "start": 728.1,
+      "end": 729.89,
+      "text": "Tudo pequenininha"
+    },
+    {
+      "start": 729.89,
+      "end": 737.46,
+      "text": "Mas pequenininha, pequenininha mesmo, fi"
+    },
+    {
+      "start": 737.46,
+      "end": 741.37,
+      "text": "Se falaram pra mim que é aquele lambarizão lá"
+    },
+    {
+      "start": 741.37,
+      "end": 742.57,
+      "text": "Que nós pescamos, eu acredito"
+    },
+    {
+      "start": 742.57,
+      "end": 753.78,
+      "text": "Ali, fi, ó"
+    },
+    {
+      "start": 753.78,
+      "end": 755.7,
+      "text": "Ilha"
+    },
+    {
+      "start": 755.7,
+      "end": 759.7,
+      "text": "É a da volta"
+    },
+    {
+      "start": 759.7,
+      "end": 767.92,
+      "text": "Viu, claro"
+    },
+    {
+      "start": 767.92,
+      "end": 781.75,
+      "text": "Mas de boa, fi"
+    },
+    {
+      "start": 781.75,
+      "end": 786.32,
+      "text": "Diferença do Shark, né?"
+    },
+    {
+      "start": 794.48,
+      "end": 795.36,
+      "text": "Cuidado, fi, cuidado"
+    },
+    {
+      "start": 795.36,
+      "end": 797.28,
+      "text": "Aí, ficou, ficou, ficou"
+    },
+    {
+      "start": 797.28,
+      "end": 799.42,
+      "text": "Diferença do Shark, né, fi"
+    },
+    {
+      "start": 799.42,
+      "end": 801.99,
+      "text": "O Barracudinha também desce ali, fi"
+    },
+    {
+      "start": 801.99,
+      "end": 802.39,
+      "text": "Só que"
+    },
+    {
+      "start": 802.39,
+      "end": 804.21,
+      "text": "Você desce mais"
+    },
+    {
+      "start": 804.21,
+      "end": 805.89,
+      "text": "Mais que medo"
+    },
+    {
+      "start": 805.89,
+      "end": 806.83,
+      "text": "É, mas veaco, né"
+    },
+    {
+      "start": 806.83,
+      "end": 808.39,
+      "text": "Não tão confiante"
+    },
+    {
+      "start": 808.39,
+      "end": 856.28,
+      "text": "O quê?"
+    },
+    {
+      "start": 858.1,
+      "end": 858.74,
+      "text": "É a ilha, né?"
+    },
+    {
+      "start": 864.2,
+      "end": 865.7,
+      "text": "Fih, mas veio a caiauzão lá em trás, hein"
+    },
+    {
+      "start": 865.7,
+      "end": 867.38,
+      "text": "Dessa isca barbeluda aqui, ó"
+    },
+    {
+      "start": 867.38,
+      "end": 869.12,
+      "text": "É muito fundo, muito raso, fi"
+    },
+    {
+      "start": 869.12,
+      "end": 873.36,
+      "text": "É o lugar dela, hein"
+    },
+    {
+      "start": 873.36,
+      "end": 917.87,
+      "text": "Você é macaco, fi?"
+    },
+    {
+      "start": 918.93,
+      "end": 919.29,
+      "text": "Macaco?"
+    },
+    {
+      "start": 920.7,
+      "end": 920.98,
+      "text": "Ué"
+    },
+    {
+      "start": 920.98,
+      "end": 923.58,
+      "text": "Vem tomar uma golinha aqui, vem"
+    },
+    {
+      "start": 923.58,
+      "end": 924.56,
+      "text": "Passa o preto"
+    },
+    {
+      "start": 924.56,
+      "end": 925.92,
+      "text": "Vem aqui tomar uma golinha"
+    },
+    {
+      "start": 925.92,
+      "end": 928.13,
+      "text": "O quê?"
+    },
+    {
+      "start": 931.27,
+      "end": 932.21,
+      "text": "Hum, tá quentinho, ó"
+    },
+    {
+      "start": 932.21,
+      "end": 933.13,
+      "text": "Vou soprar"
+    },
+    {
+      "start": 933.13,
+      "end": 935.58,
+      "text": "Vou soprar, ó"
+    },
+    {
+      "start": 935.58,
+      "end": 959.66,
+      "text": "Fih, já tentou deixar a isquinha afundar?"
+    },
+    {
+      "start": 963.57,
+      "end": 963.75,
+      "text": "O quê?"
+    },
+    {
+      "start": 963.75,
+      "end": 967.04,
+      "text": "É, você vem"
+    },
+    {
+      "start": 967.04,
+      "end": 967.42,
+      "text": "Totop"
+    },
+    {
+      "start": 967.42,
+      "end": 968.42,
+      "text": "Totop"
+    },
+    {
+      "start": 968.42,
+      "end": 970.06,
+      "text": "Totop"
+    },
+    {
+      "start": 970.06,
+      "end": 971.44,
+      "text": "Chamando o cachorrinho"
+    },
+    {
+      "start": 971.44,
+      "end": 971.92,
+      "text": "Totop"
+    },
+    {
+      "start": 971.92,
+      "end": 972.36,
+      "text": "Olha lá, ó"
+    },
+    {
+      "start": 972.36,
+      "end": 974.0,
+      "text": "Joga lá, ó"
+    },
+    {
+      "start": 974.0,
+      "end": 974.96,
+      "text": "Recorde um pouquinho"
+    },
+    {
+      "start": 974.96,
+      "end": 983.29,
+      "text": "Pois é, não tá querendo, não"
+    },
+    {
+      "start": 983.29,
+      "end": 986.32,
+      "text": "Ela fala"
+    },
+    {
+      "start": 986.32,
+      "end": 988.16,
+      "text": "Se ele quiser que ele faz totó na isca"
+    },
+    {
+      "start": 988.16,
+      "end": 999.2,
+      "text": "Essa mesmo que eu peguei"
+    },
+    {
+      "start": 999.2,
+      "end": 1000.12,
+      "text": "Grudou no meio"
+    },
+    {
+      "start": 1000.12,
+      "end": 1000.9,
+      "text": "Eu tava fazendo totó"
+    },
+    {
+      "start": 1000.9,
+      "end": 1004.39,
+      "text": "A linha só espichou, fi"
+    },
+    {
+      "start": 1004.39,
+      "end": 1005.37,
+      "text": "Frouxei assim, fi"
+    },
+    {
+      "start": 1005.37,
+      "end": 1008.2,
+      "text": "Isso é rápido demais, né"
+    },
+    {
+      "start": 1008.2,
+      "end": 1008.72,
+      "text": "Tá louco"
+    },
+    {
+      "start": 1008.72,
+      "end": 1010.19,
+      "text": "Que lugar lindo"
+    },
+    {
+      "start": 1010.19,
+      "end": 1014.7,
+      "text": "Oi"
+    },
+    {
+      "start": 1014.7,
+      "end": 1033.74,
+      "text": "Que lugar mais lindo, velho"
+    },
+    {
+      "start": 1033.74,
+      "end": 1034.93,
+      "text": "Vai"
+    },
+    {
+      "start": 1034.93,
+      "end": 1050.1,
+      "text": "Transparente"
+    },
+    {
+      "start": 1050.1,
+      "end": 1053.81,
+      "text": "Mistura de areia com vegetação"
+    },
+    {
+      "start": 1053.81,
+      "end": 1085.23,
+      "text": "Vem lá, né, fi"
+    },
+    {
+      "start": 1085.23,
+      "end": 1087.76,
+      "text": "Vem lá"
+    },
+    {
+      "start": 1087.76,
+      "end": 1088.0,
+      "text": "Vem lá"
+    },
+    {
+      "start": 1088.0,
+      "end": 1091.8,
+      "text": "Gelada"
+    },
+    {
+      "start": 1091.8,
+      "end": 1100.69,
+      "text": "Não, é bonita, fi"
+    },
+    {
+      "start": 1100.69,
+      "end": 1103.4,
+      "text": "Deixa lá embaixo, fi"
+    },
+    {
+      "start": 1103.4,
+      "end": 1104.08,
+      "text": "Deixa lá embaixo"
+    },
+    {
+      "start": 1104.08,
+      "end": 1118.49,
+      "text": "Claro"
+    },
+    {
+      "start": 1118.49,
+      "end": 1121.8,
+      "text": "Chegando no Rio Arinos"
+    },
+    {
+      "start": 1121.8,
+      "end": 1146.91,
+      "text": "Encontro do Rio Claro com o Rio Arinos"
+    },
+    {
+      "start": 1146.91,
+      "end": 1158.88,
+      "text": "O famoso festival"
+    },
+    {
+      "start": 1158.88,
+      "end": 1215.04,
+      "text": "Pra bater uma bicuda aqui"
+    },
+    {
+      "start": 1215.04,
+      "end": 1217.18,
+      "text": "Chegamos duas horas da tarde"
+    },
+    {
+      "start": 1217.18,
+      "end": 1217.94,
+      "text": "Sambilá 8"
+    },
+    {
+      "start": 1217.94,
+      "end": 1220.13,
+      "text": "Já se rápido"
+    },
+    {
+      "start": 1220.13,
+      "end": 1221.29,
+      "text": "Já se rápido, se arinho"
+    },
+    {
+      "start": 1221.29,
+      "end": 1222.39,
+      "text": "Se, Rio Claro"
+    },
+    {
+      "start": 1222.39,
+      "end": 1222.93,
+      "text": "Outro"
+    },
+    {
+      "start": 1230.19,
+      "end": 1230.53,
+      "text": "Outro"
+    },
+    {
+      "start": 1230.53,
+      "end": 1231.13,
+      "text": "Outro"
+    },
+    {
+      "start": 1231.13,
+      "end": 1232.41,
+      "text": "Outro"
+    }
+  ],
+  "duracao_seg": 1295.85,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "Pescador que é pescador, pisa mansinho no barranco Chega devagar na selva pra evitar o espanto Tira a branca da capanga, toma um gole pra esperar Linha balançou, não mexe, deixa o bicho mamar",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 5.23,
+      "text": "Pescador que é pescador, pisa mansinho no barranco"
+    },
+    {
+      "start": 5.23,
+      "end": 10.31,
+      "text": "Chega devagar na selva pra evitar o espanto"
+    },
+    {
+      "start": 10.31,
+      "end": 15.23,
+      "text": "Tira a branca da capanga, toma um gole pra esperar"
+    },
+    {
+      "start": 15.23,
+      "end": 20.83,
+      "text": "Linha balançou, não mexe, deixa o bicho mamar"
+    }
+  ],
+  "duracao_seg": 21.75,
+  "idioma_detectado": "pt"
+}

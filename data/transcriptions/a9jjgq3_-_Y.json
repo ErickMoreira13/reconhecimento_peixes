@@ -1,0 +1,22 @@
+{
+  "texto": "Pessoal, vamos fazer uma brincadeirinha aqui? Se esse vídeo estiver passando na sua telinha, não precisa nem curtir não, tu só comenta o teu estado. É pra mim ter mais ou menos noção até onde tá aí nos vídeos.",
+  "segmentos": [
+    {
+      "start": 0.28,
+      "end": 1.76,
+      "text": "Pessoal, vamos fazer uma brincadeirinha aqui?"
+    },
+    {
+      "start": 1.94,
+      "end": 6.86,
+      "text": "Se esse vídeo estiver passando na sua telinha, não precisa nem curtir não, tu só comenta o teu estado."
+    },
+    {
+      "start": 7.08,
+      "end": 9.02,
+      "text": "É pra mim ter mais ou menos noção até onde tá aí nos vídeos."
+    }
+  ],
+  "duracao_seg": 9.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Quase todo pescador tem sempre a mesma mania E vi contando mentiras, seja noite ou seja dia",
+  "segmentos": [
+    {
+      "start": 0.26,
+      "end": 6.58,
+      "text": "Quase todo pescador tem sempre a mesma mania"
+    },
+    {
+      "start": 6.58,
+      "end": 13.4,
+      "text": "E vi contando mentiras, seja noite ou seja dia"
+    }
+  ],
+  "duracao_seg": 15.65,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,122 @@
+{
+  "texto": "Tá aí, a aventura vai começar Você tá doido? Vamos lá, carinho O que é isso, motorista? O problema é ali, ali e lá Já vai dar É pendida pra lá essa ponte, né? Você tá doido? Eita porra, está estralando tudo Tinha aquelas tábuas todas Eu tô só com 40 mil quilos, né? Não tá tão pesado, né? Levantou a prancha Meu amigo Olha, estralo O que é foda? O cara entra com pânico aí, hein? Vai dar, vai dar Meu Deus Eita aí, estralando tudo Isso vai aparecer no vídeo, mas é bicho feio Meu amigo Isso vai aparecer no vídeo",
+  "segmentos": [
+    {
+      "start": 0.66,
+      "end": 4.56,
+      "text": "Tá aí, a aventura vai começar"
+    },
+    {
+      "start": 4.56,
+      "end": 7.2,
+      "text": "Você tá doido?"
+    },
+    {
+      "start": 13.29,
+      "end": 14.85,
+      "text": "Vamos lá, carinho"
+    },
+    {
+      "start": 14.85,
+      "end": 24.16,
+      "text": "O que é isso, motorista?"
+    },
+    {
+      "start": 26.21,
+      "end": 28.95,
+      "text": "O problema é ali, ali e lá"
+    },
+    {
+      "start": 28.95,
+      "end": 31.51,
+      "text": "Já vai dar"
+    },
+    {
+      "start": 31.51,
+      "end": 35.73,
+      "text": "É pendida pra lá essa ponte, né?"
+    },
+    {
+      "start": 37.78,
+      "end": 38.66,
+      "text": "Você tá doido?"
+    },
+    {
+      "start": 40.49,
+      "end": 42.29,
+      "text": "Eita porra, está estralando tudo"
+    },
+    {
+      "start": 42.29,
+      "end": 45.3,
+      "text": "Tinha aquelas tábuas todas"
+    },
+    {
+      "start": 45.3,
+      "end": 49.47,
+      "text": "Eu tô só com 40 mil quilos, né?"
+    },
+    {
+      "start": 49.47,
+      "end": 50.67,
+      "text": "Não tá tão pesado, né?"
+    },
+    {
+      "start": 51.96,
+      "end": 53.4,
+      "text": "Levantou a prancha"
+    },
+    {
+      "start": 53.4,
+      "end": 56.53,
+      "text": "Meu amigo"
+    },
+    {
+      "start": 56.53,
+      "end": 59.66,
+      "text": "Olha, estralo"
+    },
+    {
+      "start": 59.66,
+      "end": 63.68,
+      "text": "O que é foda?"
+    },
+    {
+      "start": 66.15,
+      "end": 67.73,
+      "text": "O cara entra com pânico aí, hein?"
+    },
+    {
+      "start": 68.59,
+      "end": 69.77,
+      "text": "Vai dar, vai dar"
+    },
+    {
+      "start": 69.77,
+      "end": 71.44,
+      "text": "Meu Deus"
+    },
+    {
+      "start": 71.44,
+      "end": 75.44,
+      "text": "Eita aí, estralando tudo"
+    },
+    {
+      "start": 75.44,
+      "end": 79.05,
+      "text": "Isso vai aparecer no vídeo, mas é bicho feio"
+    },
+    {
+      "start": 79.05,
+      "end": 84.58,
+      "text": "Meu amigo"
+    },
+    {
+      "start": 84.58,
+      "end": 90.11,
+      "text": "Isso vai aparecer no vídeo"
+    }
+  ],
+  "duracao_seg": 90.15,
+  "idioma_detectado": "pt"
+}

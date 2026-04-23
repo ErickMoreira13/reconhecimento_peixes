@@ -1,0 +1,37 @@
+{
+  "texto": "Se ele levar, se soltar a linha e levar, é o peixe, não é rosco, não. Será que é piau? Vem indo para cá, para o lado do pai. Piau? Rapaz, segura ela antes que ele escapa. Mas está bem fechado.",
+  "segmentos": [
+    {
+      "start": 0.27,
+      "end": 5.15,
+      "text": "Se ele levar, se soltar a linha e levar, é o peixe, não é rosco, não."
+    },
+    {
+      "start": 18.63,
+      "end": 20.43,
+      "text": "Será que é piau?"
+    },
+    {
+      "start": 27.69,
+      "end": 29.05,
+      "text": "Vem indo para cá, para o lado do pai."
+    },
+    {
+      "start": 31.12,
+      "end": 31.52,
+      "text": "Piau?"
+    },
+    {
+      "start": 34.06,
+      "end": 36.63,
+      "text": "Rapaz, segura ela antes que ele escapa."
+    },
+    {
+      "start": 37.55,
+      "end": 38.45,
+      "text": "Mas está bem fechado."
+    }
+  ],
+  "duracao_seg": 47.29,
+  "idioma_detectado": "pt"
+}

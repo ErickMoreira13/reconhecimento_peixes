@@ -1,0 +1,22 @@
+{
+  "texto": "Vai dançar esse trem direito aí, porque eles vão vir loucamente aí. Então agora foi Pedro. Agora entrou Pedro. Não frouxa não, filho. Frouxa não.",
+  "segmentos": [
+    {
+      "start": 1.52,
+      "end": 8.47,
+      "text": "Vai dançar esse trem direito aí, porque eles vão vir loucamente aí."
+    },
+    {
+      "start": 8.47,
+      "end": 16.06,
+      "text": "Então agora foi Pedro. Agora entrou Pedro."
+    },
+    {
+      "start": 16.06,
+      "end": 18.31,
+      "text": "Não frouxa não, filho. Frouxa não."
+    }
+  ],
+  "duracao_seg": 22.77,
+  "idioma_detectado": "pt"
+}

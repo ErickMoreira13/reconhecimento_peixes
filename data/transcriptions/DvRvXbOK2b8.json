@@ -1,0 +1,22 @@
+{
+  "texto": "É, moçada, esse bicho aí atentou de nós demais, ó. O bicho pega e quebrou o nosso molinete. Aí, ó.",
+  "segmentos": [
+    {
+      "start": 2.48,
+      "end": 5.94,
+      "text": "É, moçada, esse bicho aí atentou de nós demais, ó."
+    },
+    {
+      "start": 7.72,
+      "end": 11.92,
+      "text": "O bicho pega e quebrou o nosso molinete."
+    },
+    {
+      "start": 13.53,
+      "end": 13.99,
+      "text": "Aí, ó."
+    }
+  ],
+  "duracao_seg": 20.75,
+  "idioma_detectado": "pt"
+}

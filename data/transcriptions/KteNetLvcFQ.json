@@ -1,0 +1,22 @@
+{
+  "texto": "Bichão, bichão! Calma! Bitela, bitela!",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 2.24,
+      "text": "Bichão, bichão!"
+    },
+    {
+      "start": 2.24,
+      "end": 12.88,
+      "text": "Calma!"
+    },
+    {
+      "start": 12.88,
+      "end": 14.88,
+      "text": "Bitela, bitela!"
+    }
+  ],
+  "duracao_seg": 14.43,
+  "idioma_detectado": "pt"
+}

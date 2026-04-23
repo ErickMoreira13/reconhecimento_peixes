@@ -1,0 +1,207 @@
+{
+  "texto": "Que aconteceu, que eu fisguei um pintado, era bem maior que eu Hoje eu quero fisgar um pintado surubim Pra pescar tem que ter manha, mora no rio Paraná Rapaz, o homem é bom mesmo, hein? O homem é bom mesmo, hein? Meu Deus do céu! Tá bom? Vamos esperar o grandão entrar e falar Vamos lá, vamos lá Olha aí Olha o bicho preto aí, gente Olha o bicho preto aí Esse é o cara, esse é o cara Olha só, que lindo, cara Hoje nem dormi direito, o pescador já está de pé Yes, senhor Aí, moçada, olha Eu vou dar um close isso aí, peraí Não correu, que lindo, cara Olha a cara da Luciana Isso aí, moçada, mais um exemplar aqui A soltura, Luciana? Vamos pra soltura? Não deu Não deixou Parabéns, Luciana A última soltura legal Mas valeu, gente Valeu Vamos pro próximo Eu sou um homem matuto Minha vida é pescar Desde muito menininho Encontrei o meu lugar Sou filho de pescador Eu amo a vida que levo Minha netinha Felicia Nasceu, tô feliz, contente Na barranco de canoa Cristocinha é vida boa Ela também vai pescar com a gente Minha vida boa Nossa",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.88,
+      "text": "Que aconteceu, que eu fisguei um pintado, era bem maior que eu"
+    },
+    {
+      "start": 6.88,
+      "end": 13.03,
+      "text": "Hoje eu quero fisgar um pintado surubim"
+    },
+    {
+      "start": 13.03,
+      "end": 17.39,
+      "text": "Pra pescar tem que ter manha, mora no rio Paraná"
+    },
+    {
+      "start": 17.39,
+      "end": 20.69,
+      "text": "Rapaz, o homem é bom mesmo, hein? O homem é bom mesmo, hein?"
+    },
+    {
+      "start": 22.0,
+      "end": 23.2,
+      "text": "Meu Deus do céu!"
+    },
+    {
+      "start": 24.44,
+      "end": 26.92,
+      "text": "Tá bom? Vamos esperar o grandão entrar e falar"
+    },
+    {
+      "start": 26.92,
+      "end": 27.76,
+      "text": "Vamos lá, vamos lá"
+    },
+    {
+      "start": 27.76,
+      "end": 30.61,
+      "text": "Olha aí"
+    },
+    {
+      "start": 30.61,
+      "end": 31.99,
+      "text": "Olha o bicho preto aí, gente"
+    },
+    {
+      "start": 31.99,
+      "end": 33.91,
+      "text": "Olha o bicho preto aí"
+    },
+    {
+      "start": 33.91,
+      "end": 38.48,
+      "text": "Esse é o cara, esse é o cara"
+    },
+    {
+      "start": 38.48,
+      "end": 41.94,
+      "text": "Olha só, que lindo, cara"
+    },
+    {
+      "start": 41.94,
+      "end": 47.2,
+      "text": "Hoje nem dormi direito, o pescador já está de pé"
+    },
+    {
+      "start": 47.2,
+      "end": 49.8,
+      "text": "Yes, senhor"
+    },
+    {
+      "start": 49.8,
+      "end": 53.48,
+      "text": "Aí, moçada, olha"
+    },
+    {
+      "start": 53.48,
+      "end": 60.3,
+      "text": "Eu vou dar um close isso aí, peraí"
+    },
+    {
+      "start": 60.3,
+      "end": 64.1,
+      "text": "Não correu, que lindo, cara"
+    },
+    {
+      "start": 64.1,
+      "end": 67.4,
+      "text": "Olha a cara da Luciana"
+    },
+    {
+      "start": 67.4,
+      "end": 71.26,
+      "text": "Isso aí, moçada, mais um exemplar aqui"
+    },
+    {
+      "start": 71.26,
+      "end": 73.34,
+      "text": "A soltura, Luciana? Vamos pra soltura?"
+    },
+    {
+      "start": 73.34,
+      "end": 81.88,
+      "text": "Não deu"
+    },
+    {
+      "start": 81.88,
+      "end": 85.04,
+      "text": "Não deixou"
+    },
+    {
+      "start": 85.04,
+      "end": 86.18,
+      "text": "Parabéns, Luciana"
+    },
+    {
+      "start": 86.18,
+      "end": 88.72,
+      "text": "A última soltura legal"
+    },
+    {
+      "start": 88.72,
+      "end": 90.04,
+      "text": "Mas valeu, gente"
+    },
+    {
+      "start": 90.04,
+      "end": 90.6,
+      "text": "Valeu"
+    },
+    {
+      "start": 90.6,
+      "end": 91.5,
+      "text": "Vamos pro próximo"
+    },
+    {
+      "start": 91.5,
+      "end": 93.0,
+      "text": "Eu sou um homem matuto"
+    },
+    {
+      "start": 93.0,
+      "end": 95.08,
+      "text": "Minha vida é pescar"
+    },
+    {
+      "start": 95.08,
+      "end": 97.48,
+      "text": "Desde muito menininho"
+    },
+    {
+      "start": 97.48,
+      "end": 99.88,
+      "text": "Encontrei o meu lugar"
+    },
+    {
+      "start": 99.88,
+      "end": 104.25,
+      "text": "Sou filho de pescador"
+    },
+    {
+      "start": 104.25,
+      "end": 106.69,
+      "text": "Eu amo a vida que levo"
+    },
+    {
+      "start": 106.69,
+      "end": 109.03,
+      "text": "Minha netinha Felicia"
+    },
+    {
+      "start": 109.03,
+      "end": 111.25,
+      "text": "Nasceu, tô feliz, contente"
+    },
+    {
+      "start": 111.25,
+      "end": 113.53,
+      "text": "Na barranco de canoa"
+    },
+    {
+      "start": 113.53,
+      "end": 115.63,
+      "text": "Cristocinha é vida boa"
+    },
+    {
+      "start": 115.63,
+      "end": 118.39,
+      "text": "Ela também vai pescar com a gente"
+    },
+    {
+      "start": 118.39,
+      "end": 123.15,
+      "text": "Minha vida boa"
+    },
+    {
+      "start": 123.15,
+      "end": 124.51,
+      "text": "Nossa"
+    }
+  ],
+  "duracao_seg": 126.57,
+  "idioma_detectado": "pt"
+}

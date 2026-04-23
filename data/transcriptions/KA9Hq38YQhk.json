@@ -1,0 +1,67 @@
+{
+  "texto": "Fala aí, meus amigos pescadores e pescadoras, estamos aí, ó, adentro do Mato Grosso, pra uma grande pescaria lá no Rio Arinos, isso aí, estamos aqui com o nosso amigo Toninho, o Meluguilo, o Thiago, fiquem ligados aí nessa aventura nossa aí. Aí, ó, piazado, vocês acham que é só vir pro Mato Grosso e pegar peixe? Não é, o Cito? É. Primeiro tem que fazer uma horta aqui, ó, fazer uma horta, plantar umas verduras. É, calma aí, ó, tirando isca pra pegar isca, pra pegar peixe. Pegando a corredeira, segura aí, rapazado, segura, segura. Pichou, velho. Ei, Lucão. Eu vou.",
+  "segmentos": [
+    {
+      "start": 5.36,
+      "end": 12.56,
+      "text": "Fala aí, meus amigos pescadores e pescadoras, estamos aí, ó, adentro do Mato Grosso,"
+    },
+    {
+      "start": 13.74,
+      "end": 25.84,
+      "text": "pra uma grande pescaria lá no Rio Arinos, isso aí, estamos aqui com o nosso amigo Toninho,"
+    },
+    {
+      "start": 26.26,
+      "end": 33.15,
+      "text": "o Meluguilo, o Thiago, fiquem ligados aí nessa aventura nossa aí."
+    },
+    {
+      "start": 133.28,
+      "end": 138.98,
+      "text": "Aí, ó, piazado, vocês acham que é só vir pro Mato Grosso e pegar peixe?"
+    },
+    {
+      "start": 140.42,
+      "end": 142.94,
+      "text": "Não é, o Cito?"
+    },
+    {
+      "start": 143.16,
+      "end": 143.4,
+      "text": "É."
+    },
+    {
+      "start": 144.03,
+      "end": 148.11,
+      "text": "Primeiro tem que fazer uma horta aqui, ó, fazer uma horta, plantar umas verduras."
+    },
+    {
+      "start": 148.11,
+      "end": 159.8,
+      "text": "É, calma aí, ó, tirando isca pra pegar isca, pra pegar peixe."
+    },
+    {
+      "start": 160.2,
+      "end": 235.37,
+      "text": "Pegando a corredeira, segura aí, rapazado, segura, segura."
+    },
+    {
+      "start": 279.69,
+      "end": 280.93,
+      "text": "Pichou, velho."
+    },
+    {
+      "start": 285.51,
+      "end": 286.35,
+      "text": "Ei, Lucão."
+    },
+    {
+      "start": 286.41,
+      "end": 286.71,
+      "text": "Eu vou."
+    }
+  ],
+  "duracao_seg": 467.15,
+  "idioma_detectado": "pt"
+}

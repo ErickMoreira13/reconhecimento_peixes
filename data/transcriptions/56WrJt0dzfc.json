@@ -1,0 +1,27 @@
+{
+  "texto": "Pobre é um sujeito que mora numa cabana na beira do rio e vai pescar. E rico é o cara que luta a vida toda, passa por cima de gente, dos escrúpulos, não dorme, toma remédios, viaja, se estressa. Pra um dia ter uma cabana na beira do rio e vai pescar.",
+  "segmentos": [
+    {
+      "start": 0.2,
+      "end": 4.24,
+      "text": "Pobre é um sujeito que mora numa cabana na beira do rio e vai pescar."
+    },
+    {
+      "start": 5.13,
+      "end": 9.13,
+      "text": "E rico é o cara que luta a vida toda, passa por cima de gente, dos escrúpulos,"
+    },
+    {
+      "start": 9.81,
+      "end": 12.39,
+      "text": "não dorme, toma remédios, viaja, se estressa."
+    },
+    {
+      "start": 12.45,
+      "end": 14.67,
+      "text": "Pra um dia ter uma cabana na beira do rio e vai pescar."
+    }
+  ],
+  "duracao_seg": 16.01,
+  "idioma_detectado": "pt"
+}

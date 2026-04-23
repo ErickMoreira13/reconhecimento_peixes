@@ -1,0 +1,17 @@
+{
+  "texto": "e a briga tá solto é doido e doido não sei o tamanho da corvina o tamanho da corvina o 4 kg o assado o assado o passagor o picô vira para cá a cabeça tá lá no passo agora",
+  "segmentos": [
+    {
+      "start": 2.32,
+      "end": 36.66,
+      "text": "e a briga tá solto é doido e doido não sei o tamanho da corvina o tamanho da corvina"
+    },
+    {
+      "start": 36.66,
+      "end": 57.76,
+      "text": "o 4 kg o assado o assado o passagor o picô vira para cá a cabeça tá lá no passo agora"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

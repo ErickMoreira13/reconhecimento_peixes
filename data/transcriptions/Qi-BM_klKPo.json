@@ -1,0 +1,27 @@
+{
+  "texto": "completar meu prazer eu gosto de pescaria aqui no rio arinos eu e o roberto rivelino e vem vindo alguma coisa ali vamos ver do que se trata ali puxando duro vamos ver vamos ver vem vem vem puxando cacharinha baitela cadê o trem de pegar ele baitela cadê o trem de pegar ele aí tá aí ó a criança fica no último é só botar o revólver na boca dele ali e tirar pra fora",
+  "segmentos": [
+    {
+      "start": 6.35,
+      "end": 27.99,
+      "text": "completar meu prazer eu gosto de pescaria aqui no rio arinos eu e o roberto rivelino"
+    },
+    {
+      "start": 27.99,
+      "end": 38.07,
+      "text": "e vem vindo alguma coisa ali vamos ver do que se trata ali puxando duro vamos ver"
+    },
+    {
+      "start": 38.07,
+      "end": 75.37,
+      "text": "vamos ver vem vem vem puxando cacharinha baitela cadê o trem de pegar ele baitela cadê o trem de pegar ele"
+    },
+    {
+      "start": 75.37,
+      "end": 105.01,
+      "text": "aí tá aí ó a criança fica no último é só botar o revólver na boca dele ali e tirar pra fora"
+    }
+  ],
+  "duracao_seg": 124.83,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Mãe, eu tento fazer tudo por você Você me disse, me disse, eu fiz errado e eu sabia Mãe, eu tento fazer tudo por você Agora eu estou a diga a gravação Foi tudo que eu consegui fazer tudo de volta Fazer tudo de novo Eu gostaria de ser verdade",
+  "segmentos": [
+    {
+      "start": 9.3,
+      "end": 15.7,
+      "text": "Mãe, eu tento fazer tudo por você"
+    },
+    {
+      "start": 15.7,
+      "end": 23.48,
+      "text": "Você me disse, me disse, eu fiz errado e eu sabia"
+    },
+    {
+      "start": 23.48,
+      "end": 33.37,
+      "text": "Mãe, eu tento fazer tudo por você"
+    },
+    {
+      "start": 33.37,
+      "end": 39.15,
+      "text": "Agora eu estou a diga a gravação"
+    },
+    {
+      "start": 39.15,
+      "end": 48.57,
+      "text": "Foi tudo que eu consegui fazer tudo de volta"
+    },
+    {
+      "start": 48.57,
+      "end": 51.31,
+      "text": "Fazer tudo de novo"
+    },
+    {
+      "start": 51.31,
+      "end": 56.28,
+      "text": "Eu gostaria de ser verdade"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}
