@@ -1,0 +1,27 @@
+{
+  "texto": "olha que coisa linda toveirinha que eu peguei soltando o balde com a alegria",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 2.91,
+      "text": "olha que coisa linda"
+    },
+    {
+      "start": 2.91,
+      "end": 4.92,
+      "text": "toveirinha que eu peguei"
+    },
+    {
+      "start": 4.92,
+      "end": 8.31,
+      "text": "soltando o balde"
+    },
+    {
+      "start": 8.31,
+      "end": 10.43,
+      "text": "com a alegria"
+    }
+  ],
+  "duracao_seg": 10.75,
+  "idioma_detectado": "pt"
+}

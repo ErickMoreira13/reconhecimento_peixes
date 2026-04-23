@@ -1,0 +1,17 @@
+{
+  "texto": "I'm from outer space, I got Milky Way for blood, evolution in my veins I've been far away, I'm aluminum, I've been moving startle waves, I've been dreaming",
+  "segmentos": [
+    {
+      "start": 1.46,
+      "end": 6.1,
+      "text": "I'm from outer space, I got Milky Way for blood, evolution in my veins"
+    },
+    {
+      "start": 6.1,
+      "end": 12.94,
+      "text": "I've been far away, I'm aluminum, I've been moving startle waves, I've been dreaming"
+    }
+  ],
+  "duracao_seg": 28.01,
+  "idioma_detectado": "pt"
+}

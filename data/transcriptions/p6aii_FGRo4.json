@@ -1,0 +1,692 @@
+{
+  "texto": "E aí que lugar top galera ó vamos ver se a gente acha uns peixes aqui ó um córrego aqui vamos ver não vou armar para atrair aqui uma batalha já tá com isco já pegou ele aqui tio aí ó dá uma isca aí ó aqui não tem quase aqui rapaz não é raso não aqui hein olha o tanto de piaba lá olha o piaba Gil joga lá ó bateu e afundou na piaba ali ó o boy mexendo é que é piranha tem não tem alguma coisa com ela aí esse cavalo oi a trairinha então aqui ó um que vamos pescar vou ver se tem mais trair aqui vamos ver se eu pego as piaba aqui também pega uma piaba aqui e aí ó dá uma isquinha que é bem ó os girinho ó ó ó será que é traíra? deixa eu sair ela tem uma piaba bem pequena aqui ó ela te deu um baile tio vou pegar mais uma traíra aqui vem falei traíra não piaba ó a mãe quase que eu arrancou a cabeça dela também hein ela tava só observando a piaba peguei a piaba pequenininha vou botar ela na ponta do anzol olha aqui Gil tamanho da piaba é aqui é um girinho será que pega com o girinho? difícil não né preto demais não vai lá dele não ó o rapaz o jundiá tio olha que tempo que a gente não vê um jundiá hein aí galera jundiá bonito hein isso aqui é gostoso hein é antes do é que não tinha muito aí no rio né tio rapaz rapaz um dia bonito rapaz é mas ele fica vivo não morra fácil não tem a traíra aí você viu tá aí ó ó ó ó ó a traíra Gil puxa Gil nossa senhora então rapaz era pra você jogar ela pra fora na boia rapaz ela agarrou na boia e ficou correndo na boia rapaz nunca vi isso não pegar na boia você viu rapaz se você desse arrancão ela você jogava ela pra fora é igual uma traída pela boia hein você vê será que eu tava com fome rapaz rapaz essa aí agora nossa senhora não se você tivesse dado um salavão que você jogava já é claro é aí tio uma vou deixar arrastar agora, vai, carrega vou puxar não afunda minha filha afunda afundou, vai, leva leva embora bonitona rapaz aí galera tamanho da bitela aqui ó, 5 doses ó, ó lá deixei carregar agora essa fieira essa é pra passar dentro da água, não pode? aí caraca Gil, uma caralho uma piaba é aí, isso que é boa é caralho, a ferreira tá aqui na sacola agora eu pego uma traíra aqui ela tá pegando, tá correndo pra debaixo do mato e não tá ficando aqui no meio dessa marcega aqui ó vambora, vamo lá pra cima é vamo lá tem um valinho aqui, mas tá rasa deixa que limpar aqui, tio ó, aqui é um poço, hein ó Gil aí, tio vem cá, Gil vem cá, vem cá joga o sabe o que aqui, ó aqui, joga o sabe o que aqui, ó ô, porra, não é minha orelha não aí, ó, joga aí, joga aí não, não, vai muito perto não, fica daí mesmo aí tem um monte de piaba aí tem um bonito agora ô, caralho vai, vai, vai é a morada dele lá, ó ó lá, tô falando, ó ó lá, afundou de novo a boia lá deixa eu levar, tio uuuh, rapaz a traíra aí, ó vamo caçar outro poço agora, hein rapaz outro poço bom, hein poção bonita, hein é uma pedra, acho ferrou, agarrou tá, tá, tá, agarrado aí, ó aê, garoto mais um frito, hein essa eu nem pra filmar fiz gala, mas aí foi eu lavei quente aqui ah, minha piabinha onde ficou é vou dar aqui no pé aqui, ó vou pegar uma aqui onde eu tava vou pegar outra aqui agora não vai se a gente achar mais um poço aí e a fieira tá engordando, hein tio hoje é explorando lugar novo ô, pô tô esquecendo pega minha mochila aí, Gil esqueceu minha mochila, rapaz aqui, tio tem uns poços aqui, você viu pra cá ó o carro aí ali tem outro poço vamo ver se é fundo andamos pra caramba ô, porra desgraça, gente e aí, Gil essa vai pra vir de cacetada, hein o Gil capotou eu filmei filmei cara que eu filmei cara que vai pro vídeo",
+  "segmentos": [
+    {
+      "start": 1.2,
+      "end": 10.42,
+      "text": "E aí que lugar top galera ó vamos ver se a gente acha uns peixes aqui ó um córrego aqui vamos ver"
+    },
+    {
+      "start": 10.42,
+      "end": 39.69,
+      "text": "não vou armar para atrair aqui uma batalha já tá com isco já pegou ele aqui tio aí ó dá uma isca"
+    },
+    {
+      "start": 39.69,
+      "end": 65.94,
+      "text": "aí ó aqui não tem quase aqui rapaz não é raso não aqui hein olha o tanto de piaba lá olha o"
+    },
+    {
+      "start": 65.94,
+      "end": 83.05,
+      "text": "piaba Gil joga lá ó bateu e afundou na piaba ali ó o boy mexendo é que é piranha tem não tem alguma"
+    },
+    {
+      "start": 83.05,
+      "end": 123.02,
+      "text": "coisa com ela aí esse cavalo oi a trairinha então aqui ó um que vamos pescar vou ver se tem mais"
+    },
+    {
+      "start": 123.02,
+      "end": 182.4,
+      "text": "trair aqui vamos ver se eu pego as piaba aqui também pega uma piaba aqui e aí ó dá uma isquinha que é bem"
+    },
+    {
+      "start": 182.4,
+      "end": 227.62,
+      "text": "ó os girinho ó ó ó será que é traíra? deixa eu sair ela tem uma piaba bem pequena aqui ó ela te deu um"
+    },
+    {
+      "start": 227.62,
+      "end": 238.91,
+      "text": "baile tio vou pegar mais uma traíra aqui vem falei traíra não piaba ó a mãe quase que eu arrancou a cabeça"
+    },
+    {
+      "start": 238.91,
+      "end": 252.22,
+      "text": "dela também hein ela tava só observando a piaba peguei a piaba pequenininha vou botar ela na ponta do anzol"
+    },
+    {
+      "start": 252.22,
+      "end": 262.77,
+      "text": "olha aqui Gil tamanho da piaba é aqui é um girinho"
+    },
+    {
+      "start": 262.77,
+      "end": 281.83,
+      "text": "será que pega com o girinho? difícil não né preto demais não vai lá dele não ó o rapaz o"
+    },
+    {
+      "start": 281.83,
+      "end": 291.75,
+      "text": "jundiá tio olha que tempo que a gente não vê um jundiá hein aí galera jundiá bonito hein isso aqui é gostoso hein é antes do"
+    },
+    {
+      "start": 291.75,
+      "end": 295.58,
+      "text": "é que não tinha muito aí no rio né tio rapaz"
+    },
+    {
+      "start": 295.58,
+      "end": 297.58,
+      "text": "rapaz um dia bonito rapaz"
+    },
+    {
+      "start": 297.58,
+      "end": 301.27,
+      "text": "é"
+    },
+    {
+      "start": 301.27,
+      "end": 371.98,
+      "text": "mas ele fica vivo não morra fácil não tem a traíra aí você viu tá aí ó ó ó ó ó a traíra Gil puxa Gil"
+    },
+    {
+      "start": 371.98,
+      "end": 373.98,
+      "text": "nossa senhora"
+    },
+    {
+      "start": 373.98,
+      "end": 375.98,
+      "text": "então rapaz era pra você jogar ela pra fora"
+    },
+    {
+      "start": 375.98,
+      "end": 377.98,
+      "text": "na boia rapaz"
+    },
+    {
+      "start": 377.98,
+      "end": 379.98,
+      "text": "ela agarrou na boia e ficou correndo"
+    },
+    {
+      "start": 379.98,
+      "end": 381.98,
+      "text": "na boia rapaz"
+    },
+    {
+      "start": 381.98,
+      "end": 384.3,
+      "text": "nunca vi isso não pegar na boia"
+    },
+    {
+      "start": 384.3,
+      "end": 386.3,
+      "text": "você viu"
+    },
+    {
+      "start": 386.3,
+      "end": 390.58,
+      "text": "rapaz se você desse arrancão ela você jogava ela pra fora"
+    },
+    {
+      "start": 390.58,
+      "end": 392.62,
+      "text": "é igual uma traída pela boia hein"
+    },
+    {
+      "start": 392.62,
+      "end": 394.81,
+      "text": "você vê"
+    },
+    {
+      "start": 394.81,
+      "end": 406.66,
+      "text": "será que eu tava com fome"
+    },
+    {
+      "start": 406.66,
+      "end": 410.33,
+      "text": "rapaz"
+    },
+    {
+      "start": 410.33,
+      "end": 412.33,
+      "text": "rapaz essa aí agora"
+    },
+    {
+      "start": 412.33,
+      "end": 414.33,
+      "text": "nossa senhora"
+    },
+    {
+      "start": 414.33,
+      "end": 422.94,
+      "text": "não se você tivesse dado um salavão que você jogava já é claro"
+    },
+    {
+      "start": 422.94,
+      "end": 426.22,
+      "text": "é"
+    },
+    {
+      "start": 426.22,
+      "end": 427.22,
+      "text": "aí tio uma"
+    },
+    {
+      "start": 427.22,
+      "end": 431.84,
+      "text": "vou deixar arrastar agora, vai, carrega"
+    },
+    {
+      "start": 431.84,
+      "end": 433.96,
+      "text": "vou puxar não"
+    },
+    {
+      "start": 433.96,
+      "end": 440.24,
+      "text": "afunda minha filha"
+    },
+    {
+      "start": 440.24,
+      "end": 441.04,
+      "text": "afunda"
+    },
+    {
+      "start": 441.04,
+      "end": 445.32,
+      "text": "afundou, vai, leva"
+    },
+    {
+      "start": 445.32,
+      "end": 446.9,
+      "text": "leva embora"
+    },
+    {
+      "start": 446.9,
+      "end": 450.46,
+      "text": "bonitona"
+    },
+    {
+      "start": 450.46,
+      "end": 456.86,
+      "text": "rapaz"
+    },
+    {
+      "start": 456.86,
+      "end": 460.86,
+      "text": "aí galera"
+    },
+    {
+      "start": 460.86,
+      "end": 462.93,
+      "text": "tamanho da bitela"
+    },
+    {
+      "start": 462.93,
+      "end": 465.19,
+      "text": "aqui ó, 5 doses"
+    },
+    {
+      "start": 465.19,
+      "end": 536.02,
+      "text": "ó, ó lá"
+    },
+    {
+      "start": 536.02,
+      "end": 540.29,
+      "text": "deixei carregar agora"
+    },
+    {
+      "start": 540.29,
+      "end": 546.88,
+      "text": "essa fieira"
+    },
+    {
+      "start": 546.88,
+      "end": 550.04,
+      "text": "essa é pra passar dentro da água, não pode?"
+    },
+    {
+      "start": 551.79,
+      "end": 552.05,
+      "text": "aí"
+    },
+    {
+      "start": 552.05,
+      "end": 555.33,
+      "text": "caraca Gil, uma caralho"
+    },
+    {
+      "start": 555.33,
+      "end": 555.93,
+      "text": "uma piaba"
+    },
+    {
+      "start": 555.93,
+      "end": 557.49,
+      "text": "é"
+    },
+    {
+      "start": 557.49,
+      "end": 563.0,
+      "text": "aí, isso que é boa"
+    },
+    {
+      "start": 563.0,
+      "end": 565.18,
+      "text": "é"
+    },
+    {
+      "start": 565.18,
+      "end": 568.4,
+      "text": "caralho, a ferreira"
+    },
+    {
+      "start": 568.4,
+      "end": 570.09,
+      "text": "tá aqui na sacola"
+    },
+    {
+      "start": 570.09,
+      "end": 571.85,
+      "text": "agora eu pego uma traíra aqui"
+    },
+    {
+      "start": 571.85,
+      "end": 578.53,
+      "text": "ela tá pegando, tá correndo pra debaixo do mato e não tá ficando"
+    },
+    {
+      "start": 578.53,
+      "end": 580.23,
+      "text": "aqui no meio dessa marcega"
+    },
+    {
+      "start": 580.23,
+      "end": 580.93,
+      "text": "aqui ó"
+    },
+    {
+      "start": 580.93,
+      "end": 605.32,
+      "text": "vambora, vamo lá pra cima"
+    },
+    {
+      "start": 605.32,
+      "end": 605.9,
+      "text": "é"
+    },
+    {
+      "start": 605.9,
+      "end": 606.64,
+      "text": "vamo lá"
+    },
+    {
+      "start": 606.64,
+      "end": 611.0,
+      "text": "tem um valinho aqui, mas tá rasa"
+    },
+    {
+      "start": 611.0,
+      "end": 616.62,
+      "text": "deixa que limpar aqui, tio"
+    },
+    {
+      "start": 616.62,
+      "end": 631.02,
+      "text": "ó, aqui é um poço, hein"
+    },
+    {
+      "start": 631.02,
+      "end": 648.76,
+      "text": "ó"
+    },
+    {
+      "start": 648.76,
+      "end": 652.59,
+      "text": "Gil"
+    },
+    {
+      "start": 652.59,
+      "end": 663.91,
+      "text": "aí, tio"
+    },
+    {
+      "start": 663.91,
+      "end": 666.54,
+      "text": "vem cá, Gil"
+    },
+    {
+      "start": 666.54,
+      "end": 667.5,
+      "text": "vem cá, vem cá"
+    },
+    {
+      "start": 667.5,
+      "end": 670.64,
+      "text": "joga o sabe o que aqui, ó"
+    },
+    {
+      "start": 670.64,
+      "end": 676.44,
+      "text": "aqui, joga o sabe o que aqui, ó"
+    },
+    {
+      "start": 676.44,
+      "end": 678.2,
+      "text": "ô, porra, não é minha orelha não"
+    },
+    {
+      "start": 678.2,
+      "end": 680.38,
+      "text": "aí, ó, joga aí, joga aí"
+    },
+    {
+      "start": 680.38,
+      "end": 681.14,
+      "text": "não, não, vai muito perto"
+    },
+    {
+      "start": 681.14,
+      "end": 681.86,
+      "text": "não, fica daí mesmo"
+    },
+    {
+      "start": 681.86,
+      "end": 683.43,
+      "text": "aí"
+    },
+    {
+      "start": 683.43,
+      "end": 685.07,
+      "text": "tem um monte de piaba aí"
+    },
+    {
+      "start": 685.07,
+      "end": 692.24,
+      "text": "tem um bonito agora"
+    },
+    {
+      "start": 692.24,
+      "end": 698.21,
+      "text": "ô, caralho"
+    },
+    {
+      "start": 698.21,
+      "end": 700.41,
+      "text": "vai, vai, vai"
+    },
+    {
+      "start": 700.41,
+      "end": 705.25,
+      "text": "é a morada dele lá, ó"
+    },
+    {
+      "start": 705.25,
+      "end": 706.41,
+      "text": "ó lá, tô falando, ó"
+    },
+    {
+      "start": 706.41,
+      "end": 709.66,
+      "text": "ó lá, afundou de novo a boia lá"
+    },
+    {
+      "start": 709.66,
+      "end": 711.22,
+      "text": "deixa eu levar, tio"
+    },
+    {
+      "start": 711.22,
+      "end": 715.99,
+      "text": "uuuh, rapaz"
+    },
+    {
+      "start": 715.99,
+      "end": 716.93,
+      "text": "a traíra aí, ó"
+    },
+    {
+      "start": 716.93,
+      "end": 720.19,
+      "text": "vamo caçar outro poço agora, hein"
+    },
+    {
+      "start": 720.19,
+      "end": 728.41,
+      "text": "rapaz"
+    },
+    {
+      "start": 728.41,
+      "end": 731.62,
+      "text": "outro poço bom, hein"
+    },
+    {
+      "start": 731.62,
+      "end": 736.83,
+      "text": "poção bonita, hein"
+    },
+    {
+      "start": 736.83,
+      "end": 757.24,
+      "text": "é uma pedra, acho"
+    },
+    {
+      "start": 757.24,
+      "end": 778.3,
+      "text": "ferrou, agarrou"
+    },
+    {
+      "start": 778.3,
+      "end": 781.17,
+      "text": "tá, tá, tá, agarrado"
+    },
+    {
+      "start": 781.17,
+      "end": 783.16,
+      "text": "aí, ó"
+    },
+    {
+      "start": 783.16,
+      "end": 786.81,
+      "text": "aê, garoto"
+    },
+    {
+      "start": 786.81,
+      "end": 789.07,
+      "text": "mais um frito, hein"
+    },
+    {
+      "start": 789.07,
+      "end": 790.61,
+      "text": "essa eu nem pra filmar"
+    },
+    {
+      "start": 790.61,
+      "end": 791.35,
+      "text": "fiz gala, mas"
+    },
+    {
+      "start": 791.35,
+      "end": 792.47,
+      "text": "aí"
+    },
+    {
+      "start": 792.47,
+      "end": 794.53,
+      "text": "foi eu"
+    },
+    {
+      "start": 794.53,
+      "end": 812.96,
+      "text": "lavei quente aqui"
+    },
+    {
+      "start": 812.96,
+      "end": 826.88,
+      "text": "ah, minha piabinha"
+    },
+    {
+      "start": 826.88,
+      "end": 827.44,
+      "text": "onde ficou"
+    },
+    {
+      "start": 827.44,
+      "end": 835.33,
+      "text": "é"
+    },
+    {
+      "start": 835.33,
+      "end": 841.78,
+      "text": "vou dar aqui no pé"
+    },
+    {
+      "start": 841.78,
+      "end": 842.16,
+      "text": "aqui, ó"
+    },
+    {
+      "start": 842.16,
+      "end": 855.69,
+      "text": "vou pegar uma aqui"
+    },
+    {
+      "start": 855.69,
+      "end": 856.41,
+      "text": "onde eu tava"
+    },
+    {
+      "start": 856.41,
+      "end": 866.22,
+      "text": "vou pegar outra aqui agora"
+    },
+    {
+      "start": 866.22,
+      "end": 879.2,
+      "text": "não vai se a gente"
+    },
+    {
+      "start": 879.2,
+      "end": 880.7,
+      "text": "achar mais um poço aí"
+    },
+    {
+      "start": 880.7,
+      "end": 883.12,
+      "text": "e a fieira tá engordando, hein"
+    },
+    {
+      "start": 883.12,
+      "end": 883.24,
+      "text": "tio"
+    },
+    {
+      "start": 883.24,
+      "end": 894.64,
+      "text": "hoje é"
+    },
+    {
+      "start": 894.64,
+      "end": 896.54,
+      "text": "explorando lugar novo"
+    },
+    {
+      "start": 896.54,
+      "end": 903.05,
+      "text": "ô, pô"
+    },
+    {
+      "start": 903.05,
+      "end": 903.51,
+      "text": "tô esquecendo"
+    },
+    {
+      "start": 903.51,
+      "end": 904.51,
+      "text": "pega minha mochila aí, Gil"
+    },
+    {
+      "start": 904.51,
+      "end": 906.73,
+      "text": "esqueceu minha mochila, rapaz"
+    },
+    {
+      "start": 906.73,
+      "end": 908.24,
+      "text": "aqui, tio"
+    },
+    {
+      "start": 908.24,
+      "end": 909.4,
+      "text": "tem uns poços aqui, você viu"
+    },
+    {
+      "start": 909.4,
+      "end": 911.79,
+      "text": "pra cá"
+    },
+    {
+      "start": 911.79,
+      "end": 921.18,
+      "text": "ó o carro aí"
+    },
+    {
+      "start": 921.18,
+      "end": 922.6,
+      "text": "ali tem outro poço"
+    },
+    {
+      "start": 922.6,
+      "end": 923.4,
+      "text": "vamo ver se é fundo"
+    },
+    {
+      "start": 923.4,
+      "end": 925.99,
+      "text": "andamos pra caramba"
+    },
+    {
+      "start": 925.99,
+      "end": 936.15,
+      "text": "ô, porra"
+    },
+    {
+      "start": 936.15,
+      "end": 937.8,
+      "text": "desgraça, gente"
+    },
+    {
+      "start": 937.8,
+      "end": 940.68,
+      "text": "e aí, Gil"
+    },
+    {
+      "start": 940.68,
+      "end": 942.84,
+      "text": "essa vai pra vir de cacetada, hein"
+    },
+    {
+      "start": 942.84,
+      "end": 946.46,
+      "text": "o Gil capotou"
+    },
+    {
+      "start": 946.46,
+      "end": 951.16,
+      "text": "eu filmei"
+    },
+    {
+      "start": 951.16,
+      "end": 952.2,
+      "text": "filmei"
+    },
+    {
+      "start": 952.2,
+      "end": 954.66,
+      "text": "cara que eu filmei"
+    },
+    {
+      "start": 954.66,
+      "end": 955.52,
+      "text": "cara que vai pro vídeo"
+    }
+  ],
+  "duracao_seg": 968.25,
+  "idioma_detectado": "pt"
+}

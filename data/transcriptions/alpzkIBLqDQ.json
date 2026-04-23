@@ -1,0 +1,22 @@
+{
+  "texto": "Então, tá na espera aqui, né, meu? Tá na espera aqui. Qualquer peixe subir, um jaúm pintadinho, uma caixara, um jurupecenho, uma jurupoca, qualquer coisa que bater.",
+  "segmentos": [
+    {
+      "start": 3.22,
+      "end": 5.16,
+      "text": "Então, tá na espera aqui, né, meu?"
+    },
+    {
+      "start": 5.74,
+      "end": 6.66,
+      "text": "Tá na espera aqui."
+    },
+    {
+      "start": 7.14,
+      "end": 14.9,
+      "text": "Qualquer peixe subir, um jaúm pintadinho, uma caixara, um jurupecenho, uma jurupoca, qualquer coisa que bater."
+    }
+  ],
+  "duracao_seg": 15.03,
+  "idioma_detectado": "pt"
+}

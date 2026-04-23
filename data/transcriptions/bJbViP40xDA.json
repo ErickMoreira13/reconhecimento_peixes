@@ -1,0 +1,17 @@
+{
+  "texto": "Vai Andrei! Tô indo... pescar!",
+  "segmentos": [
+    {
+      "start": 30.45,
+      "end": 31.45,
+      "text": "Vai Andrei!"
+    },
+    {
+      "start": 31.45,
+      "end": 33.61,
+      "text": "Tô indo... pescar!"
+    }
+  ],
+  "duracao_seg": 39.25,
+  "idioma_detectado": "pt"
+}

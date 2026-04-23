@@ -1,0 +1,42 @@
+{
+  "texto": "Aqui em casa é assim, deu vontade de comer um torresmo, já vai cortando, põe um pouquinho de sal, abanha para esquentar Joga ali dentro e deixa mais que acontecer, um torresmo puro, orgânico, sem glúten É isso aí, com aquela crocança, agora é só colocar no pratinho, vocês já escutam o barulhinho Eita, esse é o torresmo aqui do Leandro Moraes Agora é só cortar um limãozinho, jogar em cima, sentir aquela crocança Vê se dá para você ouvir aí, mais umzinho para você sentir pelo barulho, sabor que está isso aí Eita, é nóis",
+  "segmentos": [
+    {
+      "start": 0.02,
+      "end": 6.28,
+      "text": "Aqui em casa é assim, deu vontade de comer um torresmo, já vai cortando, põe um pouquinho de sal, abanha para esquentar"
+    },
+    {
+      "start": 6.28,
+      "end": 15.77,
+      "text": "Joga ali dentro e deixa mais que acontecer, um torresmo puro, orgânico, sem glúten"
+    },
+    {
+      "start": 15.77,
+      "end": 22.85,
+      "text": "É isso aí, com aquela crocança, agora é só colocar no pratinho, vocês já escutam o barulhinho"
+    },
+    {
+      "start": 22.85,
+      "end": 28.51,
+      "text": "Eita, esse é o torresmo aqui do Leandro Moraes"
+    },
+    {
+      "start": 28.51,
+      "end": 43.68,
+      "text": "Agora é só cortar um limãozinho, jogar em cima, sentir aquela crocança"
+    },
+    {
+      "start": 43.68,
+      "end": 53.8,
+      "text": "Vê se dá para você ouvir aí, mais umzinho para você sentir pelo barulho, sabor que está isso aí"
+    },
+    {
+      "start": 53.8,
+      "end": 59.84,
+      "text": "Eita, é nóis"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

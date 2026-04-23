@@ -1,0 +1,747 @@
+{
+  "texto": "Não, pra pescar aí, pô. Vai, eu vou tentar fazer uma remissão lá primeiro. Eita! Peguei um bruto aqui. Rapaz, peguei um bruto aqui, hein? Pela força, oi? Que bitela? Pensei que era do tutunaré, mas não é tucunaré, não, pessoal. Tem uma coisa, hein? Tá na pelinha. Deixa eu botar aqui, pô. Olha aí. É, para aí que eu não esperava você aqui agora, né? Tô ajeitando o murinete aqui, pessoal. Pra tentar pegar um tucunaré bruto. Olha aí. E aí foi essa bitela aqui, ó. É. Bem, a gente não fica sem almoço hoje, né? Hoje não trouxemos nada, ó. Hoje nós vamos preparar tudo aqui, ó. Na beira, ó. Dessa, aí. Abre o canto, por favor, hein? Tá levando, levou. Outra bruta. Outra bruta. Outra bitela. Outra bitela. Outra bitela, hein, gente? Outra bitela, hein, gente? Outra para o almoço. Almoço. Não, o almoço é pronto. Hã? Bom. O almoço vai sair. Já garantiu o almoço, ó. É. Já. Acho que chegou uma aqui agora. Acho que chegou. Hã? Acho que chegou. Ó o foguete. Acho que chegou, hein? Ih, rapaz. Essa daqui é da carne nobre, ó. Ah, verdade. Ah. Carne nobre, pessoal. Carne nobre. Aqui não masca, não. Ah, e essa outra pessoa, não? Hã? Não dá pra ser, não? É. Costuma meio que tá sendo um... É, né? De bom que não tem CD. Se eu não pegar caralho aqui, velho. Olha, minha boi foi embora, Dwayne. Minha boi foi embora, pessoal. Ui, que isso é que eu... Isso não é. Ui, é? Será? É. Rapaz, eu vou ajeitar o coisa aqui, pessoal. Olha lá. Ui, que cepa. Deixa eu botar aqui. Deixa eu botar aqui pra não molhar, ó. Rapaz, eu vou ajeitar aqui, pessoal. É muito brota. Ah, não, não. Foge não, rapaz. Vou arrancar aqui. É muito junto aqui, pessoal. Olha aqui. Olha aqui. Olha que bonita. Linda, né? Linda, linda. E aqui não tem CD, não. Entendeu o saco? E aqui não tem CD, não, rapaz. Não, linda. Oiê. Ah. É quem? É quem? Oiê. É, tô roubando, ó. É, Renato? É, rouba. Não era aquele padrão, mas é. É as roubas. Então, toquezinho da arrastada. Toque arrastada. Ó, deixa levar mais. Ó. Ó, viu? Eu já sei que é ela. Eu já sei que é ela. Eu já sei que é ela. Ó. Oiê. Oiê. A força dessa... Tá bem? Acho que foi a maior. Oiê aqui. É uma força de uma caralho, rapaz. Olha o tamanho. Olha aqui. Hã? Tá um morrão. Tá um morrão. Essa aqui é a chatella, hein? Opa, opa, opa, opa, opa. Opa, opa, opa. Opa. Ah, não vai pro garrador, não. Não vai pro garrador, não, bichona. Olha como é que ela vai pro tronco, rapaz. Tá vendo? Ó. Oiê aqui. Essa aqui ficou bem fisgada, pô. Oiê aqui. Essa aqui bem fisgada, ó. Olha que bruta. Viu como é que ela leva pro garrador? Ela só leva pro tronco pra dar a volta. Danada. Danada ela. E assim, com esse cozido, vou finalizando a pescaria de hoje. Vocês devem estar se perguntando, cadê o parceiro índio que começou pescando com você? É, o parceiro índio é empregado, ele precisou ir bem mais cedo do que o combinado e acabei tendo que fazer o cozido sozinha mesmo, porque a ideia era fazer o cozido a gente. Beleza? Espero que tenham gostado da pescaria de hoje e o vento hoje, ó. Tá, tá demais, tá demais, ó. Continuem todos com Deus. Até a próxima pescaria. Matuto do Brejo. Fui.",
+  "segmentos": [
+    {
+      "start": 5.1,
+      "end": 99.76,
+      "text": "Não, pra pescar aí, pô."
+    },
+    {
+      "start": 100.04,
+      "end": 101.9,
+      "text": "Vai, eu vou tentar fazer uma remissão lá primeiro."
+    },
+    {
+      "start": 137.58,
+      "end": 137.94,
+      "text": "Eita!"
+    },
+    {
+      "start": 139.09,
+      "end": 139.99,
+      "text": "Peguei um bruto aqui."
+    },
+    {
+      "start": 141.36,
+      "end": 144.35,
+      "text": "Rapaz, peguei um bruto aqui, hein?"
+    },
+    {
+      "start": 144.81,
+      "end": 145.85,
+      "text": "Pela força, oi?"
+    },
+    {
+      "start": 146.27,
+      "end": 148.06,
+      "text": "Que bitela?"
+    },
+    {
+      "start": 149.95,
+      "end": 152.97,
+      "text": "Pensei que era do tutunaré, mas não é tucunaré, não, pessoal."
+    },
+    {
+      "start": 154.95,
+      "end": 155.77,
+      "text": "Tem uma coisa, hein?"
+    },
+    {
+      "start": 156.09,
+      "end": 157.27,
+      "text": "Tá na pelinha."
+    },
+    {
+      "start": 157.41,
+      "end": 158.51,
+      "text": "Deixa eu botar aqui, pô."
+    },
+    {
+      "start": 158.63,
+      "end": 158.99,
+      "text": "Olha aí."
+    },
+    {
+      "start": 161.63,
+      "end": 166.58,
+      "text": "É, para aí que eu não esperava você aqui agora, né?"
+    },
+    {
+      "start": 167.22,
+      "end": 168.8,
+      "text": "Tô ajeitando o murinete aqui, pessoal."
+    },
+    {
+      "start": 169.56,
+      "end": 173.72,
+      "text": "Pra tentar pegar um tucunaré bruto."
+    },
+    {
+      "start": 175.41,
+      "end": 175.77,
+      "text": "Olha aí."
+    },
+    {
+      "start": 176.43,
+      "end": 178.25,
+      "text": "E aí foi essa bitela aqui, ó."
+    },
+    {
+      "start": 178.63,
+      "end": 181.28,
+      "text": "É."
+    },
+    {
+      "start": 182.36,
+      "end": 185.37,
+      "text": "Bem, a gente não fica sem almoço hoje, né?"
+    },
+    {
+      "start": 185.37,
+      "end": 189.22,
+      "text": "Hoje não trouxemos nada, ó."
+    },
+    {
+      "start": 189.89,
+      "end": 192.01,
+      "text": "Hoje nós vamos preparar tudo aqui, ó."
+    },
+    {
+      "start": 192.59,
+      "end": 193.27,
+      "text": "Na beira, ó."
+    },
+    {
+      "start": 194.78,
+      "end": 195.36,
+      "text": "Dessa, aí."
+    },
+    {
+      "start": 195.56,
+      "end": 196.28,
+      "text": "Abre o canto, por favor, hein?"
+    },
+    {
+      "start": 196.68,
+      "end": 251.86,
+      "text": "Tá levando, levou."
+    },
+    {
+      "start": 253.49,
+      "end": 254.03,
+      "text": "Outra bruta."
+    },
+    {
+      "start": 254.8,
+      "end": 255.46,
+      "text": "Outra bruta."
+    },
+    {
+      "start": 256.3,
+      "end": 257.14,
+      "text": "Outra bitela."
+    },
+    {
+      "start": 258.4,
+      "end": 259.36,
+      "text": "Outra bitela."
+    },
+    {
+      "start": 260.74,
+      "end": 262.0,
+      "text": "Outra bitela, hein, gente?"
+    },
+    {
+      "start": 262.04,
+      "end": 263.14,
+      "text": "Outra bitela, hein, gente?"
+    },
+    {
+      "start": 264.52,
+      "end": 265.52,
+      "text": "Outra para o almoço."
+    },
+    {
+      "start": 265.52,
+      "end": 266.08,
+      "text": "Almoço."
+    },
+    {
+      "start": 266.32,
+      "end": 267.76,
+      "text": "Não, o almoço é pronto."
+    },
+    {
+      "start": 267.76,
+      "end": 267.98,
+      "text": "Hã?"
+    },
+    {
+      "start": 268.66,
+      "end": 268.98,
+      "text": "Bom."
+    },
+    {
+      "start": 270.4,
+      "end": 271.44,
+      "text": "O almoço vai sair."
+    },
+    {
+      "start": 271.54,
+      "end": 272.94,
+      "text": "Já garantiu o almoço, ó."
+    },
+    {
+      "start": 272.96,
+      "end": 273.08,
+      "text": "É."
+    },
+    {
+      "start": 273.32,
+      "end": 273.46,
+      "text": "Já."
+    },
+    {
+      "start": 276.53,
+      "end": 277.69,
+      "text": "Acho que chegou uma aqui agora."
+    },
+    {
+      "start": 280.05,
+      "end": 280.59,
+      "text": "Acho que chegou."
+    },
+    {
+      "start": 281.43,
+      "end": 281.67,
+      "text": "Hã?"
+    },
+    {
+      "start": 282.15,
+      "end": 283.37,
+      "text": "Acho que chegou."
+    },
+    {
+      "start": 284.25,
+      "end": 285.03,
+      "text": "Ó o foguete."
+    },
+    {
+      "start": 286.24,
+      "end": 287.22,
+      "text": "Acho que chegou, hein?"
+    },
+    {
+      "start": 288.12,
+      "end": 288.64,
+      "text": "Ih, rapaz."
+    },
+    {
+      "start": 289.02,
+      "end": 291.18,
+      "text": "Essa daqui é da carne nobre, ó."
+    },
+    {
+      "start": 291.4,
+      "end": 292.58,
+      "text": "Ah, verdade."
+    },
+    {
+      "start": 293.04,
+      "end": 293.66,
+      "text": "Ah."
+    },
+    {
+      "start": 295.66,
+      "end": 296.68,
+      "text": "Carne nobre, pessoal."
+    },
+    {
+      "start": 296.82,
+      "end": 297.52,
+      "text": "Carne nobre."
+    },
+    {
+      "start": 297.92,
+      "end": 299.82,
+      "text": "Aqui não masca, não."
+    },
+    {
+      "start": 299.82,
+      "end": 301.5,
+      "text": "Ah, e essa outra pessoa, não?"
+    },
+    {
+      "start": 301.92,
+      "end": 302.18,
+      "text": "Hã?"
+    },
+    {
+      "start": 302.74,
+      "end": 303.67,
+      "text": "Não dá pra ser, não?"
+    },
+    {
+      "start": 304.79,
+      "end": 304.99,
+      "text": "É."
+    },
+    {
+      "start": 306.38,
+      "end": 308.64,
+      "text": "Costuma meio que tá sendo um..."
+    },
+    {
+      "start": 308.64,
+      "end": 401.94,
+      "text": "É, né?"
+    },
+    {
+      "start": 402.32,
+      "end": 407.88,
+      "text": "De bom que não tem CD."
+    },
+    {
+      "start": 412.15,
+      "end": 413.87,
+      "text": "Se eu não pegar caralho aqui, velho."
+    },
+    {
+      "start": 423.88,
+      "end": 424.98,
+      "text": "Olha, minha boi foi embora, Dwayne."
+    },
+    {
+      "start": 427.06,
+      "end": 428.2,
+      "text": "Minha boi foi embora, pessoal."
+    },
+    {
+      "start": 428.42,
+      "end": 429.7,
+      "text": "Ui, que isso é que eu..."
+    },
+    {
+      "start": 429.7,
+      "end": 430.68,
+      "text": "Isso não é."
+    },
+    {
+      "start": 430.84,
+      "end": 431.58,
+      "text": "Ui, é?"
+    },
+    {
+      "start": 431.8,
+      "end": 432.2,
+      "text": "Será?"
+    },
+    {
+      "start": 432.68,
+      "end": 432.9,
+      "text": "É."
+    },
+    {
+      "start": 433.4,
+      "end": 435.7,
+      "text": "Rapaz, eu vou ajeitar o coisa aqui, pessoal."
+    },
+    {
+      "start": 435.84,
+      "end": 436.08,
+      "text": "Olha lá."
+    },
+    {
+      "start": 437.06,
+      "end": 438.66,
+      "text": "Ui, que cepa."
+    },
+    {
+      "start": 439.18,
+      "end": 439.88,
+      "text": "Deixa eu botar aqui."
+    },
+    {
+      "start": 440.86,
+      "end": 442.22,
+      "text": "Deixa eu botar aqui pra não molhar, ó."
+    },
+    {
+      "start": 442.46,
+      "end": 446.1,
+      "text": "Rapaz, eu vou ajeitar aqui, pessoal."
+    },
+    {
+      "start": 446.28,
+      "end": 447.04,
+      "text": "É muito brota."
+    },
+    {
+      "start": 447.56,
+      "end": 450.74,
+      "text": "Ah, não, não."
+    },
+    {
+      "start": 450.9,
+      "end": 451.96,
+      "text": "Foge não, rapaz."
+    },
+    {
+      "start": 453.88,
+      "end": 454.58,
+      "text": "Vou arrancar aqui."
+    },
+    {
+      "start": 454.72,
+      "end": 456.02,
+      "text": "É muito junto aqui, pessoal."
+    },
+    {
+      "start": 456.14,
+      "end": 456.48,
+      "text": "Olha aqui."
+    },
+    {
+      "start": 457.49,
+      "end": 458.15,
+      "text": "Olha aqui."
+    },
+    {
+      "start": 460.89,
+      "end": 461.59,
+      "text": "Olha que bonita."
+    },
+    {
+      "start": 462.9,
+      "end": 463.34,
+      "text": "Linda, né?"
+    },
+    {
+      "start": 464.34,
+      "end": 464.94,
+      "text": "Linda, linda."
+    },
+    {
+      "start": 465.35,
+      "end": 466.95,
+      "text": "E aqui não tem CD, não."
+    },
+    {
+      "start": 467.31,
+      "end": 467.89,
+      "text": "Entendeu o saco?"
+    },
+    {
+      "start": 470.14,
+      "end": 472.12,
+      "text": "E aqui não tem CD, não, rapaz."
+    },
+    {
+      "start": 472.5,
+      "end": 474.21,
+      "text": "Não, linda."
+    },
+    {
+      "start": 475.96,
+      "end": 476.52,
+      "text": "Oiê."
+    },
+    {
+      "start": 477.2,
+      "end": 477.64,
+      "text": "Ah."
+    },
+    {
+      "start": 478.0,
+      "end": 478.42,
+      "text": "É quem?"
+    },
+    {
+      "start": 478.42,
+      "end": 479.67,
+      "text": "É quem?"
+    },
+    {
+      "start": 481.59,
+      "end": 482.17,
+      "text": "Oiê."
+    },
+    {
+      "start": 482.49,
+      "end": 485.5,
+      "text": "É, tô roubando, ó."
+    },
+    {
+      "start": 485.5,
+      "end": 486.52,
+      "text": "É, Renato?"
+    },
+    {
+      "start": 486.68,
+      "end": 487.84,
+      "text": "É, rouba."
+    },
+    {
+      "start": 487.96,
+      "end": 493.43,
+      "text": "Não era aquele padrão, mas é."
+    },
+    {
+      "start": 497.94,
+      "end": 498.6,
+      "text": "É as roubas."
+    },
+    {
+      "start": 531.38,
+      "end": 532.88,
+      "text": "Então, toquezinho da arrastada."
+    },
+    {
+      "start": 533.0,
+      "end": 533.84,
+      "text": "Toque arrastada."
+    },
+    {
+      "start": 535.62,
+      "end": 536.76,
+      "text": "Ó, deixa levar mais."
+    },
+    {
+      "start": 537.56,
+      "end": 537.72,
+      "text": "Ó."
+    },
+    {
+      "start": 538.2,
+      "end": 538.78,
+      "text": "Ó, viu?"
+    },
+    {
+      "start": 539.16,
+      "end": 539.9,
+      "text": "Eu já sei que é ela."
+    },
+    {
+      "start": 540.06,
+      "end": 540.94,
+      "text": "Eu já sei que é ela."
+    },
+    {
+      "start": 541.62,
+      "end": 542.66,
+      "text": "Eu já sei que é ela."
+    },
+    {
+      "start": 542.66,
+      "end": 543.69,
+      "text": "Ó."
+    },
+    {
+      "start": 543.69,
+      "end": 543.83,
+      "text": "Oiê."
+    },
+    {
+      "start": 544.31,
+      "end": 544.59,
+      "text": "Oiê."
+    },
+    {
+      "start": 544.69,
+      "end": 545.95,
+      "text": "A força dessa..."
+    },
+    {
+      "start": 545.95,
+      "end": 546.53,
+      "text": "Tá bem?"
+    },
+    {
+      "start": 547.21,
+      "end": 547.99,
+      "text": "Acho que foi a maior."
+    },
+    {
+      "start": 549.61,
+      "end": 550.01,
+      "text": "Oiê aqui."
+    },
+    {
+      "start": 551.27,
+      "end": 552.69,
+      "text": "É uma força de uma caralho, rapaz."
+    },
+    {
+      "start": 553.72,
+      "end": 554.62,
+      "text": "Olha o tamanho."
+    },
+    {
+      "start": 555.98,
+      "end": 556.48,
+      "text": "Olha aqui."
+    },
+    {
+      "start": 557.04,
+      "end": 557.24,
+      "text": "Hã?"
+    },
+    {
+      "start": 557.7,
+      "end": 560.8,
+      "text": "Tá um morrão."
+    },
+    {
+      "start": 560.8,
+      "end": 560.9,
+      "text": "Tá um morrão."
+    },
+    {
+      "start": 563.99,
+      "end": 565.21,
+      "text": "Essa aqui é a chatella, hein?"
+    },
+    {
+      "start": 567.1,
+      "end": 568.56,
+      "text": "Opa, opa, opa, opa, opa."
+    },
+    {
+      "start": 568.82,
+      "end": 570.32,
+      "text": "Opa, opa, opa."
+    },
+    {
+      "start": 571.32,
+      "end": 571.6,
+      "text": "Opa."
+    },
+    {
+      "start": 571.6,
+      "end": 573.2,
+      "text": "Ah, não vai pro garrador, não."
+    },
+    {
+      "start": 573.28,
+      "end": 574.88,
+      "text": "Não vai pro garrador, não, bichona."
+    },
+    {
+      "start": 576.06,
+      "end": 577.46,
+      "text": "Olha como é que ela vai pro tronco, rapaz."
+    },
+    {
+      "start": 578.16,
+      "end": 578.46,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 578.78,
+      "end": 578.94,
+      "text": "Ó."
+    },
+    {
+      "start": 579.83,
+      "end": 580.19,
+      "text": "Oiê aqui."
+    },
+    {
+      "start": 582.43,
+      "end": 584.65,
+      "text": "Essa aqui ficou bem fisgada, pô."
+    },
+    {
+      "start": 584.71,
+      "end": 585.11,
+      "text": "Oiê aqui."
+    },
+    {
+      "start": 586.52,
+      "end": 587.82,
+      "text": "Essa aqui bem fisgada, ó."
+    },
+    {
+      "start": 588.7,
+      "end": 589.34,
+      "text": "Olha que bruta."
+    },
+    {
+      "start": 589.52,
+      "end": 590.72,
+      "text": "Viu como é que ela leva pro garrador?"
+    },
+    {
+      "start": 590.72,
+      "end": 593.52,
+      "text": "Ela só leva pro tronco pra dar a volta."
+    },
+    {
+      "start": 594.43,
+      "end": 594.97,
+      "text": "Danada."
+    },
+    {
+      "start": 595.09,
+      "end": 595.81,
+      "text": "Danada ela."
+    },
+    {
+      "start": 841.01,
+      "end": 844.99,
+      "text": "E assim, com esse cozido, vou finalizando a pescaria de hoje."
+    },
+    {
+      "start": 845.33,
+      "end": 848.89,
+      "text": "Vocês devem estar se perguntando, cadê o parceiro índio que começou pescando com você?"
+    },
+    {
+      "start": 849.35,
+      "end": 854.65,
+      "text": "É, o parceiro índio é empregado, ele precisou ir bem mais cedo do que o combinado"
+    },
+    {
+      "start": 854.65,
+      "end": 861.23,
+      "text": "e acabei tendo que fazer o cozido sozinha mesmo, porque a ideia era fazer o cozido a gente."
+    },
+    {
+      "start": 861.61,
+      "end": 862.07,
+      "text": "Beleza?"
+    },
+    {
+      "start": 862.07,
+      "end": 865.47,
+      "text": "Espero que tenham gostado da pescaria de hoje e o vento hoje, ó."
+    },
+    {
+      "start": 866.33,
+      "end": 867.97,
+      "text": "Tá, tá demais, tá demais, ó."
+    },
+    {
+      "start": 868.49,
+      "end": 869.81,
+      "text": "Continuem todos com Deus."
+    },
+    {
+      "start": 870.07,
+      "end": 871.53,
+      "text": "Até a próxima pescaria."
+    },
+    {
+      "start": 871.97,
+      "end": 873.03,
+      "text": "Matuto do Brejo."
+    },
+    {
+      "start": 873.55,
+      "end": 873.83,
+      "text": "Fui."
+    }
+  ],
+  "duracao_seg": 874.89,
+  "idioma_detectado": "pt"
+}

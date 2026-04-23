@@ -1,0 +1,37 @@
+{
+  "texto": "Este pescador criou uma incrível caça para pescar no mar de noite e até põe uma luz ao anzuelo. O hilo é tão largo que tarda um minuto em desplegar-se por completo, mas o verdadeiro problema vem quando atrapa um pez pequeno, porque esta corda tão larga se lança para capturar pezes grandes. Aún assim, se vê obrigado a sacar o pez para voltar a lançar a corda, o que requere muito esforço.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.02,
+      "text": "Este pescador criou uma incrível caça para pescar no mar de noite e até põe uma luz ao anzuelo."
+    },
+    {
+      "start": 5.14,
+      "end": 7.92,
+      "text": "O hilo é tão largo que tarda um minuto em desplegar-se por completo,"
+    },
+    {
+      "start": 8.12,
+      "end": 10.76,
+      "text": "mas o verdadeiro problema vem quando atrapa um pez pequeno,"
+    },
+    {
+      "start": 10.88,
+      "end": 13.8,
+      "text": "porque esta corda tão larga se lança para capturar pezes grandes."
+    },
+    {
+      "start": 13.96,
+      "end": 16.8,
+      "text": "Aún assim, se vê obrigado a sacar o pez para voltar a lançar a corda,"
+    },
+    {
+      "start": 16.9,
+      "end": 18.52,
+      "text": "o que requere muito esforço."
+    }
+  ],
+  "duracao_seg": 18.67,
+  "idioma_detectado": "pt"
+}

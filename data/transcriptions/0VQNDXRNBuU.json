@@ -1,0 +1,47 @@
+{
+  "texto": "Tem vida melhor, mas não quero mais nada não Trabalhar, Matheus, tá dando hora já Tá de férias? Tá de férias de novo? Tá de férias Ô, louco, hein, Matheus Tem vida melhor que isso aqui, mas não quero mais nada não É essa",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 2.54,
+      "text": "Tem vida melhor, mas não quero mais nada não"
+    },
+    {
+      "start": 2.54,
+      "end": 4.42,
+      "text": "Trabalhar, Matheus, tá dando hora já"
+    },
+    {
+      "start": 4.42,
+      "end": 6.1,
+      "text": "Tá de férias?"
+    },
+    {
+      "start": 6.3,
+      "end": 7.32,
+      "text": "Tá de férias de novo?"
+    },
+    {
+      "start": 8.76,
+      "end": 9.56,
+      "text": "Tá de férias"
+    },
+    {
+      "start": 9.56,
+      "end": 10.98,
+      "text": "Ô, louco, hein, Matheus"
+    },
+    {
+      "start": 10.98,
+      "end": 13.8,
+      "text": "Tem vida melhor que isso aqui, mas não quero mais nada não"
+    },
+    {
+      "start": 13.8,
+      "end": 14.7,
+      "text": "É essa"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

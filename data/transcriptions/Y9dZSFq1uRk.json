@@ -1,0 +1,82 @@
+{
+  "texto": "A gente navegou cerca de 40 minutos até o ponto de pesca e a gente vai usar a tuvira como isca. O seu Toninho usa uma boinha para ver mais fácil quando o peixe fisga. E não é que dá certo? Peguei. Oh, beleza! Eita, laqueira! O bala do rio Juquiaia. Nós chamamos aqui estrela do rio Juquiaia. E é uma estrela mesmo, né? É uma estrela. Segura o bicho. Beleza de peixe. Por favor, por favor, sua Helena. Vai lá. Foi cheio de vida, hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.98,
+      "text": "A gente navegou cerca de 40 minutos até o ponto de pesca e a gente vai usar a tuvira como isca."
+    },
+    {
+      "start": 5.16,
+      "end": 9.38,
+      "text": "O seu Toninho usa uma boinha para ver mais fácil quando o peixe fisga."
+    },
+    {
+      "start": 9.68,
+      "end": 10.98,
+      "text": "E não é que dá certo?"
+    },
+    {
+      "start": 11.28,
+      "end": 11.8,
+      "text": "Peguei."
+    },
+    {
+      "start": 12.06,
+      "end": 13.34,
+      "text": "Oh, beleza!"
+    },
+    {
+      "start": 14.56,
+      "end": 16.2,
+      "text": "Eita, laqueira!"
+    },
+    {
+      "start": 16.28,
+      "end": 17.52,
+      "text": "O bala do rio Juquiaia."
+    },
+    {
+      "start": 17.88,
+      "end": 19.98,
+      "text": "Nós chamamos aqui estrela do rio Juquiaia."
+    },
+    {
+      "start": 20.4,
+      "end": 21.44,
+      "text": "E é uma estrela mesmo, né?"
+    },
+    {
+      "start": 21.44,
+      "end": 22.22,
+      "text": "É uma estrela."
+    },
+    {
+      "start": 23.98,
+      "end": 25.1,
+      "text": "Segura o bicho."
+    },
+    {
+      "start": 26.32,
+      "end": 27.56,
+      "text": "Beleza de peixe."
+    },
+    {
+      "start": 30.31,
+      "end": 32.27,
+      "text": "Por favor, por favor, sua Helena."
+    },
+    {
+      "start": 32.43,
+      "end": 35.08,
+      "text": "Vai lá."
+    },
+    {
+      "start": 35.64,
+      "end": 37.14,
+      "text": "Foi cheio de vida, hein?"
+    }
+  ],
+  "duracao_seg": 38.17,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,37 @@
+{
+  "texto": "Esta linda linda ia para pescar pela primeira vez em sua vida, já que hoje era seu cumpelho. Neste dia especial, queria pescar para preparar um banquete para sua família. Lançou sua rede, baixou a profundidade e, depois de um tempo, sentiu um peso. Emocionada, começou a tirar rapidamente da rede e, finalmente, atrapou um peço. Sin embargo, poucas pessoas lhe dieron me gusta a sua video.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Esta linda linda ia para pescar pela primeira vez em sua vida,"
+    },
+    {
+      "start": 3.4,
+      "end": 5.4,
+      "text": "já que hoje era seu cumpelho."
+    },
+    {
+      "start": 5.4,
+      "end": 9.9,
+      "text": "Neste dia especial, queria pescar para preparar um banquete para sua família."
+    },
+    {
+      "start": 9.9,
+      "end": 14.7,
+      "text": "Lançou sua rede, baixou a profundidade e, depois de um tempo, sentiu um peso."
+    },
+    {
+      "start": 14.7,
+      "end": 19.8,
+      "text": "Emocionada, começou a tirar rapidamente da rede e, finalmente, atrapou um peço."
+    },
+    {
+      "start": 19.8,
+      "end": 23.7,
+      "text": "Sin embargo, poucas pessoas lhe dieron me gusta a sua video."
+    }
+  ],
+  "duracao_seg": 23.63,
+  "idioma_detectado": "pt"
+}

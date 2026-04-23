@@ -1,0 +1,22 @@
+{
+  "texto": "Você sabia que o pescador pode receber um salário mínimo por mês durante 4 meses todos os anos? Esse é o benefício chamado de seguro defeso, que é no período da piracema, onde não se pode pescar, o pescador pode ter direito a esse benefício para ajudá-lo durante esse período.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.92,
+      "text": "Você sabia que o pescador pode receber um salário mínimo por mês durante 4 meses todos os anos?"
+    },
+    {
+      "start": 5.16,
+      "end": 11.18,
+      "text": "Esse é o benefício chamado de seguro defeso, que é no período da piracema, onde não se pode pescar,"
+    },
+    {
+      "start": 11.7,
+      "end": 17.08,
+      "text": "o pescador pode ter direito a esse benefício para ajudá-lo durante esse período."
+    }
+  ],
+  "duracao_seg": 19.11,
+  "idioma_detectado": "pt"
+}

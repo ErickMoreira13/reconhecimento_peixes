@@ -1,0 +1,32 @@
+{
+  "texto": "Hoje o de água suja é lugar de peixe juntar Eu armo um anzol de galha pra pegar uma rua Meu rancho fica na beira de cá esfruto bater Daqui da porta do rancho eu vejo a galha tremer Descador pisa mancinha, chega devagar na seca e deixa o bicho mamar",
+  "segmentos": [
+    {
+      "start": 9.62,
+      "end": 13.84,
+      "text": "Hoje o de água suja é lugar de peixe juntar"
+    },
+    {
+      "start": 13.84,
+      "end": 18.62,
+      "text": "Eu armo um anzol de galha pra pegar uma rua"
+    },
+    {
+      "start": 18.62,
+      "end": 24.08,
+      "text": "Meu rancho fica na beira de cá esfruto bater"
+    },
+    {
+      "start": 24.08,
+      "end": 29.62,
+      "text": "Daqui da porta do rancho eu vejo a galha tremer"
+    },
+    {
+      "start": 29.62,
+      "end": 55.75,
+      "text": "Descador pisa mancinha, chega devagar na seca e deixa o bicho mamar"
+    }
+  ],
+  "duracao_seg": 56.89,
+  "idioma_detectado": "pt"
+}

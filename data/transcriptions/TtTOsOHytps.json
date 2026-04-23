@@ -1,0 +1,137 @@
+{
+  "texto": "Bora pegar um peixe pra não fazer almoço? Então vem comigo. Parece que tem uma aqui. Parece que tem uma aqui. Vou puxar aqui, vou puxar aqui, ó. Ó, bicho. Ó, é bicho grande, menina. É hoje que o almoço vai prestar, ó, gente, ó. Cês não sabem pescar, ó. Bora lá fazer o almoço. Pera lá, a gente já começou aí, né, a gente tratar o bicho aí. Como vocês tão vendo, olha o tamanho desse cariço aí. Deu um trabalho pra nós conseguir cortar ele. E minha mãe e minha filha já começaram, né, a ter fazer o tempero aí do cariço. E eu não sei, gente, se é só nós daqui do Maranhão que ama cari. Ou vocês também daí do outro lado do mundo também gostam do cari. Se você também conhece o que é cari, né, porque o bicho é, né, conhecido. Não, ó, nem muita gente que não conhece o que é cari, não. Mas nós maranhenses, todo mundo, todo maranhense conhece, não é possível, né, homem. E aí a gente já foi cortando todos os temperos do cari, né, porque o bicho tem que ficar gostoso com caldo grosso. A gente coloca todo tipo de tempero, cebolinha, tomate, pimentão, cheiro verde, tudo em quando. Minha mãe já foi colocando um colorau aí também pra dar aquela cozinha bem gostosa do cari. A gente já colocou na panela aí, eu vou mostrar pra vocês aqui como ficou o resultado final. Gente, é uma delícia. Você comer ele aqui comigo, olha que caldeirada de cari. Hum, delícia.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Bora pegar um peixe pra não fazer almoço?"
+    },
+    {
+      "start": 1.48,
+      "end": 2.1,
+      "text": "Então vem comigo."
+    },
+    {
+      "start": 5.22,
+      "end": 6.1,
+      "text": "Parece que tem uma aqui."
+    },
+    {
+      "start": 6.22,
+      "end": 6.8,
+      "text": "Parece que tem uma aqui."
+    },
+    {
+      "start": 7.24,
+      "end": 8.58,
+      "text": "Vou puxar aqui, vou puxar aqui, ó."
+    },
+    {
+      "start": 8.58,
+      "end": 11.76,
+      "text": "Ó, bicho."
+    },
+    {
+      "start": 12.22,
+      "end": 16.76,
+      "text": "Ó, é bicho grande, menina."
+    },
+    {
+      "start": 16.84,
+      "end": 19.18,
+      "text": "É hoje que o almoço vai prestar, ó, gente, ó."
+    },
+    {
+      "start": 19.97,
+      "end": 21.35,
+      "text": "Cês não sabem pescar, ó."
+    },
+    {
+      "start": 22.15,
+      "end": 22.71,
+      "text": "Bora lá fazer o almoço."
+    },
+    {
+      "start": 22.71,
+      "end": 25.65,
+      "text": "Pera lá, a gente já começou aí, né, a gente tratar o bicho aí."
+    },
+    {
+      "start": 25.91,
+      "end": 28.09,
+      "text": "Como vocês tão vendo, olha o tamanho desse cariço aí."
+    },
+    {
+      "start": 28.15,
+      "end": 30.11,
+      "text": "Deu um trabalho pra nós conseguir cortar ele."
+    },
+    {
+      "start": 30.37,
+      "end": 33.89,
+      "text": "E minha mãe e minha filha já começaram, né, a ter fazer o tempero aí do cariço."
+    },
+    {
+      "start": 33.89,
+      "end": 36.75,
+      "text": "E eu não sei, gente, se é só nós daqui do Maranhão que ama cari."
+    },
+    {
+      "start": 36.97,
+      "end": 39.69,
+      "text": "Ou vocês também daí do outro lado do mundo também gostam do cari."
+    },
+    {
+      "start": 39.77,
+      "end": 43.41,
+      "text": "Se você também conhece o que é cari, né, porque o bicho é, né, conhecido."
+    },
+    {
+      "start": 43.49,
+      "end": 45.53,
+      "text": "Não, ó, nem muita gente que não conhece o que é cari, não."
+    },
+    {
+      "start": 45.77,
+      "end": 49.11,
+      "text": "Mas nós maranhenses, todo mundo, todo maranhense conhece, não é possível, né, homem."
+    },
+    {
+      "start": 49.47,
+      "end": 54.41,
+      "text": "E aí a gente já foi cortando todos os temperos do cari, né, porque o bicho tem que ficar gostoso com caldo grosso."
+    },
+    {
+      "start": 54.75,
+      "end": 59.55,
+      "text": "A gente coloca todo tipo de tempero, cebolinha, tomate, pimentão, cheiro verde, tudo em quando."
+    },
+    {
+      "start": 59.81,
+      "end": 63.55,
+      "text": "Minha mãe já foi colocando um colorau aí também pra dar aquela cozinha bem gostosa do cari."
+    },
+    {
+      "start": 63.55,
+      "end": 67.75,
+      "text": "A gente já colocou na panela aí, eu vou mostrar pra vocês aqui como ficou o resultado final."
+    },
+    {
+      "start": 68.15,
+      "end": 69.01,
+      "text": "Gente, é uma delícia."
+    },
+    {
+      "start": 69.09,
+      "end": 72.03,
+      "text": "Você comer ele aqui comigo, olha que caldeirada de cari."
+    },
+    {
+      "start": 72.19,
+      "end": 72.99,
+      "text": "Hum, delícia."
+    }
+  ],
+  "duracao_seg": 73.05,
+  "idioma_detectado": "pt"
+}

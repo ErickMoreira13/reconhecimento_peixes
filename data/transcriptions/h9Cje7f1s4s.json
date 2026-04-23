@@ -1,0 +1,17 @@
+{
+  "texto": "Se não tem as manhas, não entra não. Se é a instrução de um profissional.",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 3.49,
+      "text": "Se não tem as manhas, não entra não."
+    },
+    {
+      "start": 3.61,
+      "end": 5.27,
+      "text": "Se é a instrução de um profissional."
+    }
+  ],
+  "duracao_seg": 10.07,
+  "idioma_detectado": "pt"
+}

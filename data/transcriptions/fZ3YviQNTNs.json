@@ -1,0 +1,407 @@
+{
+  "texto": "Vai fugir, não. Tudo de lambari ali, bicho. É muito lambari. Tudo naquela raiz ali, ó. É, garotinho. É muito que tem ali, muito. Próxima vez que eu vim, eu vou preparar uma armadilha de galão. Ó, ó. Limpunzo. Vamos pra lá ver se a gente pega os maiores. Aqui é só as bitelas. Ah, moleca. Ah, soltou. Filha da mãe. Quase que eu perco. Aí, ó. Ah, quase que solta. É, cara. Estava devagar, hã. Aí, bonita. É. Aí, ó. Tá a mãe da moleca. Filha da mãe. Vou meter a mão na guerra dela que ela vai ver. É. Aí, ó. Vou botar nessa sacola aí. Aí, ó. Essa umas 10 assim, né? Uhum. Quem sabe? Elas começam a comer agora, escurecendo. Nossa, sepa, dá uma piaba agora. Eu vou botar ela inteira. Isso é piaba, tio? É piaba? É. Aqui de novo. É, cara. Rapaz. Botei uma sepa na piaba. Joguei agora, ó. É. É. É mesmo. No mesmo lugar, tio. Rapaz. Olha aí. A gente atravessou o olho. Soltava nunca. Mais uma. Para a cachola. Aí, ó. Olha o cheiro aqui. Botar outra piaba. Botar outra piaba grande. Aí, ó. Vou jogar lá de novo. Ah, moleca. Já tá escuro, pessoal. Peguei uma bitela agora, hein? Nem sei se tá dando pra enxergar. Isso, tá bem escuro. Aí, ó. Mais uma pra conta aí, ó. É, meu. Aí, ó. Olha o resultado da trairada aí, ó. Olha os pescadores aí, ó. Meus tios aí, ó. Rapaz, vai dar pra tomar uma, hein, tio? Vai, é, mano. Ó. Ó. Ó. Ó.",
+  "segmentos": [
+    {
+      "start": 321.23,
+      "end": 322.07,
+      "text": "Vai fugir, não."
+    },
+    {
+      "start": 322.53,
+      "end": 360.18,
+      "text": "Tudo de lambari ali, bicho."
+    },
+    {
+      "start": 361.02,
+      "end": 362.26,
+      "text": "É muito lambari."
+    },
+    {
+      "start": 362.78,
+      "end": 370.11,
+      "text": "Tudo naquela raiz ali, ó."
+    },
+    {
+      "start": 370.53,
+      "end": 411.32,
+      "text": "É, garotinho."
+    },
+    {
+      "start": 413.61,
+      "end": 415.33,
+      "text": "É muito que tem ali, muito."
+    },
+    {
+      "start": 421.01,
+      "end": 422.21,
+      "text": "Próxima vez que eu vim,"
+    },
+    {
+      "start": 423.72,
+      "end": 425.18,
+      "text": "eu vou preparar uma armadilha"
+    },
+    {
+      "start": 425.18,
+      "end": 426.42,
+      "text": "de galão."
+    },
+    {
+      "start": 436.69,
+      "end": 437.25,
+      "text": "Ó, ó."
+    },
+    {
+      "start": 446.03,
+      "end": 446.51,
+      "text": "Limpunzo."
+    },
+    {
+      "start": 447.01,
+      "end": 450.93,
+      "text": "Vamos pra lá ver se a gente pega os maiores."
+    },
+    {
+      "start": 516.69,
+      "end": 517.73,
+      "text": "Aqui é só as bitelas."
+    },
+    {
+      "start": 518.23,
+      "end": 740.6,
+      "text": "Ah, moleca."
+    },
+    {
+      "start": 740.88,
+      "end": 741.54,
+      "text": "Ah, soltou."
+    },
+    {
+      "start": 742.39,
+      "end": 743.09,
+      "text": "Filha da mãe."
+    },
+    {
+      "start": 750.8,
+      "end": 751.98,
+      "text": "Quase que eu perco."
+    },
+    {
+      "start": 754.99,
+      "end": 755.49,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 755.49,
+      "end": 763.54,
+      "text": "Ah, quase que solta."
+    },
+    {
+      "start": 886.55,
+      "end": 887.09,
+      "text": "É, cara."
+    },
+    {
+      "start": 891.71,
+      "end": 893.37,
+      "text": "Estava devagar, hã."
+    },
+    {
+      "start": 893.95,
+      "end": 895.65,
+      "text": "Aí, bonita."
+    },
+    {
+      "start": 897.96,
+      "end": 898.26,
+      "text": "É."
+    },
+    {
+      "start": 899.51,
+      "end": 899.93,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 900.17,
+      "end": 902.41,
+      "text": "Tá a mãe da moleca."
+    },
+    {
+      "start": 903.96,
+      "end": 905.06,
+      "text": "Filha da mãe."
+    },
+    {
+      "start": 910.07,
+      "end": 911.31,
+      "text": "Vou meter a mão na guerra dela"
+    },
+    {
+      "start": 911.31,
+      "end": 912.01,
+      "text": "que ela vai ver."
+    },
+    {
+      "start": 914.4,
+      "end": 914.66,
+      "text": "É."
+    },
+    {
+      "start": 915.54,
+      "end": 916.0,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 916.46,
+      "end": 917.42,
+      "text": "Vou botar nessa sacola aí."
+    },
+    {
+      "start": 917.84,
+      "end": 923.86,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 923.86,
+      "end": 924.86,
+      "text": "Essa umas 10 assim, né?"
+    },
+    {
+      "start": 924.92,
+      "end": 925.24,
+      "text": "Uhum."
+    },
+    {
+      "start": 926.14,
+      "end": 926.58,
+      "text": "Quem sabe?"
+    },
+    {
+      "start": 926.64,
+      "end": 928.06,
+      "text": "Elas começam a comer agora, escurecendo."
+    },
+    {
+      "start": 928.52,
+      "end": 931.6,
+      "text": "Nossa, sepa, dá uma piaba agora."
+    },
+    {
+      "start": 931.6,
+      "end": 932.58,
+      "text": "Eu vou botar ela inteira."
+    },
+    {
+      "start": 945.63,
+      "end": 946.37,
+      "text": "Isso é piaba, tio?"
+    },
+    {
+      "start": 946.99,
+      "end": 947.87,
+      "text": "É piaba?"
+    },
+    {
+      "start": 948.11,
+      "end": 948.31,
+      "text": "É."
+    },
+    {
+      "start": 948.31,
+      "end": 957.38,
+      "text": "Aqui de novo."
+    },
+    {
+      "start": 957.78,
+      "end": 1011.7,
+      "text": "É, cara."
+    },
+    {
+      "start": 1014.19,
+      "end": 1014.71,
+      "text": "Rapaz."
+    },
+    {
+      "start": 1017.0,
+      "end": 1018.24,
+      "text": "Botei uma sepa na piaba."
+    },
+    {
+      "start": 1018.32,
+      "end": 1019.06,
+      "text": "Joguei agora, ó."
+    },
+    {
+      "start": 1019.32,
+      "end": 1020.81,
+      "text": "É."
+    },
+    {
+      "start": 1020.81,
+      "end": 1020.93,
+      "text": "É."
+    },
+    {
+      "start": 1020.93,
+      "end": 1025.72,
+      "text": "É mesmo."
+    },
+    {
+      "start": 1026.22,
+      "end": 1027.16,
+      "text": "No mesmo lugar, tio."
+    },
+    {
+      "start": 1028.96,
+      "end": 1029.48,
+      "text": "Rapaz."
+    },
+    {
+      "start": 1031.21,
+      "end": 1031.65,
+      "text": "Olha aí."
+    },
+    {
+      "start": 1033.35,
+      "end": 1034.37,
+      "text": "A gente atravessou o olho."
+    },
+    {
+      "start": 1035.23,
+      "end": 1036.23,
+      "text": "Soltava nunca."
+    },
+    {
+      "start": 1039.32,
+      "end": 1039.82,
+      "text": "Mais uma."
+    },
+    {
+      "start": 1041.04,
+      "end": 1041.9,
+      "text": "Para a cachola."
+    },
+    {
+      "start": 1043.6,
+      "end": 1044.0,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 1044.34,
+      "end": 1045.0,
+      "text": "Olha o cheiro aqui."
+    },
+    {
+      "start": 1047.8,
+      "end": 1049.16,
+      "text": "Botar outra piaba."
+    },
+    {
+      "start": 1050.18,
+      "end": 1051.4,
+      "text": "Botar outra piaba grande."
+    },
+    {
+      "start": 1051.88,
+      "end": 1052.18,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 1052.42,
+      "end": 1093.02,
+      "text": "Vou jogar lá de novo."
+    },
+    {
+      "start": 1113.75,
+      "end": 1115.19,
+      "text": "Ah, moleca."
+    },
+    {
+      "start": 1115.19,
+      "end": 1122.37,
+      "text": "Já tá escuro, pessoal."
+    },
+    {
+      "start": 1122.45,
+      "end": 1123.71,
+      "text": "Peguei uma bitela agora, hein?"
+    },
+    {
+      "start": 1124.31,
+      "end": 1125.71,
+      "text": "Nem sei se tá dando pra enxergar."
+    },
+    {
+      "start": 1127.32,
+      "end": 1128.28,
+      "text": "Isso, tá bem escuro."
+    },
+    {
+      "start": 1130.2,
+      "end": 1130.62,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 1131.16,
+      "end": 1132.68,
+      "text": "Mais uma pra conta aí, ó."
+    },
+    {
+      "start": 1133.4,
+      "end": 1134.14,
+      "text": "É, meu."
+    },
+    {
+      "start": 1134.38,
+      "end": 1134.9,
+      "text": "Aí, ó."
+    },
+    {
+      "start": 1135.22,
+      "end": 1136.98,
+      "text": "Olha o resultado da trairada aí, ó."
+    },
+    {
+      "start": 1137.34,
+      "end": 1138.38,
+      "text": "Olha os pescadores aí, ó."
+    },
+    {
+      "start": 1138.58,
+      "end": 1139.44,
+      "text": "Meus tios aí, ó."
+    },
+    {
+      "start": 1140.74,
+      "end": 1142.3,
+      "text": "Rapaz, vai dar pra tomar uma, hein, tio?"
+    },
+    {
+      "start": 1142.68,
+      "end": 1143.42,
+      "text": "Vai, é, mano."
+    },
+    {
+      "start": 1143.42,
+      "end": 1144.1,
+      "text": "Ó."
+    },
+    {
+      "start": 1144.1,
+      "end": 1144.22,
+      "text": "Ó."
+    },
+    {
+      "start": 1144.22,
+      "end": 1144.42,
+      "text": "Ó."
+    },
+    {
+      "start": 1144.42,
+      "end": 1144.62,
+      "text": "Ó."
+    }
+  ],
+  "duracao_seg": 1147.31,
+  "idioma_detectado": "pt"
+}
