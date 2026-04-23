@@ -1,0 +1,17 @@
+{
+  "texto": "Olha pessoal, saiu mais um jarino aqui, esse aqui eu queria dedicar aos meus amigos e clientes da Canoeiras Para vocês meus amigos, vai para a vida, olha só que bicho bonito, foi, valeu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.82,
+      "text": "Olha pessoal, saiu mais um jarino aqui, esse aqui eu queria dedicar aos meus amigos e clientes da Canoeiras"
+    },
+    {
+      "start": 6.82,
+      "end": 18.92,
+      "text": "Para vocês meus amigos, vai para a vida, olha só que bicho bonito, foi, valeu"
+    }
+  ],
+  "duracao_seg": 41.45,
+  "idioma_detectado": "pt"
+}

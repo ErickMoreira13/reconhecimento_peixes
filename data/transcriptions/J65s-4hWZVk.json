@@ -1,0 +1,52 @@
+{
+  "texto": "Pera aí que ó, ele tá posicionado a bichona aqui. Uma piabinha, velho. Só uma piaba. Uma piabinha. O gado mais saiu. Vai. Ó. Vai ter uma pressão pra ser o rabo dela. Garoto.",
+  "segmentos": [
+    {
+      "start": 6.51,
+      "end": 12.32,
+      "text": "Pera aí que ó, ele tá posicionado a bichona aqui."
+    },
+    {
+      "start": 19.98,
+      "end": 20.96,
+      "text": "Uma piabinha, velho."
+    },
+    {
+      "start": 22.59,
+      "end": 23.51,
+      "text": "Só uma piaba."
+    },
+    {
+      "start": 23.53,
+      "end": 24.27,
+      "text": "Uma piabinha."
+    },
+    {
+      "start": 24.75,
+      "end": 28.22,
+      "text": "O gado mais saiu."
+    },
+    {
+      "start": 28.9,
+      "end": 29.14,
+      "text": "Vai."
+    },
+    {
+      "start": 39.0,
+      "end": 39.28,
+      "text": "Ó."
+    },
+    {
+      "start": 40.96,
+      "end": 42.78,
+      "text": "Vai ter uma pressão pra ser o rabo dela."
+    },
+    {
+      "start": 44.3,
+      "end": 44.78,
+      "text": "Garoto."
+    }
+  ],
+  "duracao_seg": 47.23,
+  "idioma_detectado": "pt"
+}

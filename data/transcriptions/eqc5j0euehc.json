@@ -1,0 +1,67 @@
+{
+  "texto": "Mostro, olha. Bota, bota, bota, bota, bota, bota. Bota, bota, bota, bota. Mostro. Ah, bom. Tá pra captura, né? Pra quem não tá pegando, porque é Sapanema. Peraí que ia falar. Xibata. Olha lá aquela viga ali, olha aquela viga com a minha coisa lá, ó. Cabo de ar, tá vendo? Ô, vai prosseguando.",
+  "segmentos": [
+    {
+      "start": 0.21,
+      "end": 2.21,
+      "text": "Mostro, olha."
+    },
+    {
+      "start": 2.21,
+      "end": 4.21,
+      "text": "Bota, bota, bota, bota, bota, bota."
+    },
+    {
+      "start": 4.21,
+      "end": 6.21,
+      "text": "Bota, bota, bota, bota."
+    },
+    {
+      "start": 6.21,
+      "end": 8.21,
+      "text": "Mostro."
+    },
+    {
+      "start": 8.21,
+      "end": 10.21,
+      "text": "Ah, bom."
+    },
+    {
+      "start": 10.21,
+      "end": 13.17,
+      "text": "Tá pra captura, né?"
+    },
+    {
+      "start": 13.17,
+      "end": 15.17,
+      "text": "Pra quem não tá pegando, porque é Sapanema."
+    },
+    {
+      "start": 15.17,
+      "end": 17.17,
+      "text": "Peraí que ia falar."
+    },
+    {
+      "start": 17.17,
+      "end": 19.17,
+      "text": "Xibata."
+    },
+    {
+      "start": 19.17,
+      "end": 21.17,
+      "text": "Olha lá aquela viga ali, olha aquela viga com a minha coisa lá, ó."
+    },
+    {
+      "start": 21.17,
+      "end": 23.17,
+      "text": "Cabo de ar, tá vendo?"
+    },
+    {
+      "start": 23.17,
+      "end": 25.17,
+      "text": "Ô, vai prosseguando."
+    }
+  ],
+  "duracao_seg": 25.55,
+  "idioma_detectado": "pt"
+}

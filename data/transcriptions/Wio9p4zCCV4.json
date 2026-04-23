@@ -1,0 +1,182 @@
+{
+  "texto": "Olá pessoal, Ayrton Pesca, estamos com destino ao Rio Atumã, agora estou no aeroporto de Brasília, peguei de Curitiba, Curitiba, Brasília, Brasília, Manaus. Pousada El Shadidai, Rio Atumã, Amazonas, Brasil, Rio Atumã. A missão dele, né Chico? Estudou bastante a isca. Mas essa isca, eu vou te contar, viu bicho? Falo numa isca boa. Ele já fisgou uns três já, com essa isca. Solta, pode soltar. Pode soltar? Pode soltar, Elidio. Solta ele aí. Pera aí, você vai soltar? Deixa, solta aqui perto que eu vou filmar esse solteiro, né? Eu fiz a mim molhar, ó. Tá vendo? Não cai logo porque eu estava com o cigarro ali no bolso. Não, é verdade. Não, é raso. Nossa senhora, cara. É que é raso? Nossa, eu achei que era fundo aqui. Olha aí, o Joceni vai soltar o tucunaré. Ó, capricho. Bonitão, bonitão. Tá forte, vigoroso. É isso aí. Vai, Joceni, vai soltar. Opa. É isso. E aí, o Joceni. E aí, o Joceni. É isso aí. E aí, o Joceni. É isso aí? É isso aí?",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 10.3,
+      "text": "Olá pessoal, Ayrton Pesca, estamos com destino ao Rio Atumã, agora estou no aeroporto de Brasília,"
+    },
+    {
+      "start": 11.54,
+      "end": 16.46,
+      "text": "peguei de Curitiba, Curitiba, Brasília, Brasília, Manaus."
+    },
+    {
+      "start": 17.2,
+      "end": 52.77,
+      "text": "Pousada El Shadidai, Rio Atumã, Amazonas, Brasil, Rio Atumã."
+    },
+    {
+      "start": 52.77,
+      "end": 62.98,
+      "text": "A missão dele, né Chico? Estudou bastante a isca."
+    },
+    {
+      "start": 62.98,
+      "end": 65.04,
+      "text": "Mas essa isca, eu vou te contar, viu bicho?"
+    },
+    {
+      "start": 66.94,
+      "end": 69.82,
+      "text": "Falo numa isca boa."
+    },
+    {
+      "start": 71.23,
+      "end": 73.33,
+      "text": "Ele já fisgou uns três já, com essa isca."
+    },
+    {
+      "start": 105.58,
+      "end": 106.24,
+      "text": "Solta, pode soltar."
+    },
+    {
+      "start": 106.34,
+      "end": 106.72,
+      "text": "Pode soltar?"
+    },
+    {
+      "start": 106.8,
+      "end": 107.62,
+      "text": "Pode soltar, Elidio."
+    },
+    {
+      "start": 108.24,
+      "end": 108.78,
+      "text": "Solta ele aí."
+    },
+    {
+      "start": 108.8,
+      "end": 109.84,
+      "text": "Pera aí, você vai soltar?"
+    },
+    {
+      "start": 109.96,
+      "end": 112.62,
+      "text": "Deixa, solta aqui perto que eu vou filmar esse solteiro, né?"
+    },
+    {
+      "start": 112.9,
+      "end": 114.92,
+      "text": "Eu fiz a mim molhar, ó."
+    },
+    {
+      "start": 115.42,
+      "end": 115.88,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 115.9,
+      "end": 117.96,
+      "text": "Não cai logo porque eu estava com o cigarro ali no bolso."
+    },
+    {
+      "start": 118.44,
+      "end": 119.02,
+      "text": "Não, é verdade."
+    },
+    {
+      "start": 119.44,
+      "end": 120.2,
+      "text": "Não, é raso."
+    },
+    {
+      "start": 120.32,
+      "end": 121.12,
+      "text": "Nossa senhora, cara."
+    },
+    {
+      "start": 121.14,
+      "end": 121.64,
+      "text": "É que é raso?"
+    },
+    {
+      "start": 122.18,
+      "end": 123.5,
+      "text": "Nossa, eu achei que era fundo aqui."
+    },
+    {
+      "start": 123.5,
+      "end": 128.18,
+      "text": "Olha aí, o Joceni vai soltar o tucunaré."
+    },
+    {
+      "start": 129.87,
+      "end": 131.49,
+      "text": "Ó, capricho."
+    },
+    {
+      "start": 131.69,
+      "end": 132.69,
+      "text": "Bonitão, bonitão."
+    },
+    {
+      "start": 132.75,
+      "end": 134.11,
+      "text": "Tá forte, vigoroso."
+    },
+    {
+      "start": 135.33,
+      "end": 135.99,
+      "text": "É isso aí."
+    },
+    {
+      "start": 136.49,
+      "end": 137.87,
+      "text": "Vai, Joceni, vai soltar."
+    },
+    {
+      "start": 138.49,
+      "end": 139.07,
+      "text": "Opa."
+    },
+    {
+      "start": 139.11,
+      "end": 140.19,
+      "text": "É isso."
+    },
+    {
+      "start": 140.19,
+      "end": 141.17,
+      "text": "E aí, o Joceni."
+    },
+    {
+      "start": 141.27,
+      "end": 143.31,
+      "text": "E aí, o Joceni."
+    },
+    {
+      "start": 143.31,
+      "end": 143.65,
+      "text": "É isso aí."
+    },
+    {
+      "start": 151.63,
+      "end": 152.27,
+      "text": "E aí, o Joceni."
+    },
+    {
+      "start": 156.27,
+      "end": 156.57,
+      "text": "É isso aí?"
+    },
+    {
+      "start": 156.57,
+      "end": 157.11,
+      "text": "É isso aí?"
+    }
+  ],
+  "duracao_seg": 140.55,
+  "idioma_detectado": "pt"
+}

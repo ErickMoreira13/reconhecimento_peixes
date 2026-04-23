@@ -1,0 +1,222 @@
+{
+  "texto": "O GoPro começa a gravar. Não pare de colher, esquece o GoPro. Cuida que tá no... Vai em cima que tá em cima do coisa, ó. Então, vai em cima. Vai em cima. O GoPro começa a gravar. Ele tá enroscado aqui. Eu acho que ele enrolou. Mas tá enrolado. Não, não, não, não, solta a linha. Foi rápido. Leva pra ponta, leva pra ponta, leva pra ponta. Deixa ele pular. Deixa ele pular. Olha. Acertou setenta. Não, parceria. Não podemos errar agora, né? Nossa, é grande, é grande. Só não se empolga. Só não se empolga. Tá no caivete, não vai perder. Calma, ele vai dar maus. Não vai dar setenta, não. Foi? Não. Não vai escapar. Deixa ele cansado. Vai tomar um bolo aqui, ó. O peixe largo, tá forte. Deixa ele desligar. Ele não vai escapar. É impossível esse peixe escapar. Ainda mais que você tem que esperar sempre assim, ó. Isso, leva a mara pra lá. Deixa ele puxar. Tá na mão! Boa! Setenteiro. Se vira, professor. Olha o tamanho. Olha a largura, cara. Bora mexer com ele. Boa, boa, boa.",
+  "segmentos": [
+    {
+      "start": 14.61,
+      "end": 17.89,
+      "text": "O GoPro começa a gravar."
+    },
+    {
+      "start": 17.89,
+      "end": 19.89,
+      "text": "Não pare de colher, esquece o GoPro."
+    },
+    {
+      "start": 19.89,
+      "end": 21.89,
+      "text": "Cuida que tá no..."
+    },
+    {
+      "start": 21.89,
+      "end": 25.23,
+      "text": "Vai em cima que tá em cima do coisa, ó."
+    },
+    {
+      "start": 25.23,
+      "end": 27.23,
+      "text": "Então, vai em cima."
+    },
+    {
+      "start": 27.23,
+      "end": 30.9,
+      "text": "Vai em cima."
+    },
+    {
+      "start": 30.9,
+      "end": 33.31,
+      "text": "O GoPro começa a gravar."
+    },
+    {
+      "start": 33.31,
+      "end": 37.2,
+      "text": "Ele tá enroscado aqui."
+    },
+    {
+      "start": 37.2,
+      "end": 41.31,
+      "text": "Eu acho que ele enrolou."
+    },
+    {
+      "start": 41.31,
+      "end": 45.87,
+      "text": "Mas tá enrolado."
+    },
+    {
+      "start": 45.87,
+      "end": 47.87,
+      "text": "Não, não, não, não, solta a linha."
+    },
+    {
+      "start": 47.87,
+      "end": 49.87,
+      "text": "Foi rápido."
+    },
+    {
+      "start": 49.87,
+      "end": 54.94,
+      "text": "Leva pra ponta, leva pra ponta, leva pra ponta."
+    },
+    {
+      "start": 54.94,
+      "end": 66.45,
+      "text": "Deixa ele pular."
+    },
+    {
+      "start": 66.45,
+      "end": 73.41,
+      "text": "Deixa ele pular."
+    },
+    {
+      "start": 73.41,
+      "end": 78.8,
+      "text": "Olha."
+    },
+    {
+      "start": 78.8,
+      "end": 88.86,
+      "text": "Acertou setenta."
+    },
+    {
+      "start": 88.86,
+      "end": 91.28,
+      "text": "Não, parceria."
+    },
+    {
+      "start": 91.28,
+      "end": 93.28,
+      "text": "Não podemos errar agora, né?"
+    },
+    {
+      "start": 93.28,
+      "end": 95.28,
+      "text": "Nossa, é grande, é grande."
+    },
+    {
+      "start": 95.28,
+      "end": 98.18,
+      "text": "Só não se empolga."
+    },
+    {
+      "start": 98.18,
+      "end": 101.49,
+      "text": "Só não se empolga."
+    },
+    {
+      "start": 101.49,
+      "end": 103.49,
+      "text": "Tá no caivete, não vai perder."
+    },
+    {
+      "start": 103.49,
+      "end": 105.49,
+      "text": "Calma, ele vai dar maus. Não vai dar setenta, não."
+    },
+    {
+      "start": 105.49,
+      "end": 112.58,
+      "text": "Foi? Não."
+    },
+    {
+      "start": 112.58,
+      "end": 114.64,
+      "text": "Não vai escapar."
+    },
+    {
+      "start": 114.64,
+      "end": 116.8,
+      "text": "Deixa ele cansado."
+    },
+    {
+      "start": 116.8,
+      "end": 120.53,
+      "text": "Vai tomar um bolo aqui, ó."
+    },
+    {
+      "start": 120.53,
+      "end": 123.68,
+      "text": "O peixe largo, tá forte."
+    },
+    {
+      "start": 123.68,
+      "end": 129.49,
+      "text": "Deixa ele desligar."
+    },
+    {
+      "start": 129.49,
+      "end": 131.84,
+      "text": "Ele não vai escapar."
+    },
+    {
+      "start": 131.84,
+      "end": 134.32,
+      "text": "É impossível esse peixe escapar."
+    },
+    {
+      "start": 134.32,
+      "end": 136.67,
+      "text": "Ainda mais que você tem que esperar sempre assim, ó."
+    },
+    {
+      "start": 136.67,
+      "end": 139.15,
+      "text": "Isso, leva a mara pra lá."
+    },
+    {
+      "start": 139.15,
+      "end": 141.41,
+      "text": "Deixa ele puxar."
+    },
+    {
+      "start": 141.41,
+      "end": 146.19,
+      "text": "Tá na mão!"
+    },
+    {
+      "start": 146.19,
+      "end": 148.96,
+      "text": "Boa!"
+    },
+    {
+      "start": 148.96,
+      "end": 151.41,
+      "text": "Setenteiro."
+    },
+    {
+      "start": 151.41,
+      "end": 153.41,
+      "text": "Se vira, professor."
+    },
+    {
+      "start": 153.41,
+      "end": 155.41,
+      "text": "Olha o tamanho."
+    },
+    {
+      "start": 155.41,
+      "end": 157.41,
+      "text": "Olha a largura, cara."
+    },
+    {
+      "start": 157.41,
+      "end": 159.41,
+      "text": "Bora mexer com ele."
+    },
+    {
+      "start": 159.41,
+      "end": 161.41,
+      "text": "Boa, boa, boa."
+    }
+  ],
+  "duracao_seg": 162.71,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,27 @@
+{
+  "texto": "não tem nenhum saiu o vizinho, bota esse rapazinho aqui, vai vai vai coisa mais linda senhor, tem mais outro, tem mais outro por aí, bateu mais alguém, aqui é assim, tem vez que tem dois, tem vez que tem um, tem vez que não tem nenhum, tapé cruzinho, tem mais cem, coisa mais linda isso, a natureza é coisa linda",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 13.8,
+      "text": "não tem nenhum saiu o vizinho, bota esse rapazinho aqui, vai vai vai"
+    },
+    {
+      "start": 13.8,
+      "end": 26.9,
+      "text": "coisa mais linda senhor, tem mais outro, tem mais outro por aí, bateu mais"
+    },
+    {
+      "start": 26.9,
+      "end": 33.44,
+      "text": "alguém, aqui é assim, tem vez que tem dois, tem vez que tem um, tem vez que não tem"
+    },
+    {
+      "start": 33.44,
+      "end": 51.62,
+      "text": "nenhum, tapé cruzinho, tem mais cem, coisa mais linda isso, a natureza é coisa linda"
+    }
+  ],
+  "duracao_seg": 51.87,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,517 @@
+{
+  "texto": "Você viu o que está acontecendo ali? O peixe tem um peixe pegando ela, rapaz Ela está atrás dela Eita porra Esse porra pelo não brinca não, viu Vem mesmo Brabo essa bicuda, que bicuda brabo Subiu Caba comigo, cansado de ser curado Tá, você já vai pra vida O que você fala? O pai está pegando o evento Pegou de gol Soltou? Nossa, que que é isso, cara Porrada Ih, só o tanto aqui, moço Vai tomar um do outro Olha, cara Ô, rapaz, é um pacuço, sabe? Olha, pra você ver que brutalidade desse cara Nossa, só o tanto de peixe passou aqui, gente Puta merda Olha Ah, bicho Segura aí, que o trem aqui está Nossa Cara, olha lá Eu estou aqui ferrado num pacuço Que eu estou dando trabalho pra mim, viu Olha, pra você ver, cara Esse aqui não é o borracha, viu Esse é o pacuço mesmo Ha, ha, ha, ha, moleque Esse aqui é o legiro Olha, cara Que peixe bonito, cara E eles veem tudo Pancada, hein? Pancada Ah, subiu Olha, cara O tamanho desse Olha aí Que placa Alguém tem que pegar a piranha, né? Já vai embora Vai embora, bichão Sem vergonha Ha, ha, ha Olha eles brigando com a piranha, moço Vocês Moço Tá Cacete, cara Eu não vi nem o que que é, cara Não, é um baita de um tucunaré, cara Olha, soltou Nossa, olha que cabelo Puta merda Nossa, acertou a nuvem de peixe aqui, cara Toca uma isca aí, qualquer, Junho Vem Você viu isso aqui, cara? Olha aqui Uuuuh, animal Nossa, eles tão brigando aqui, cara Filma isso aí, Junho Não, tô fervendo aqui Tem outra essa aqui, ué O que aconteceu aqui agora, eu fiquei assombrado Nossa Caraca Tem mais aqui, Junho Puta Opa Pode ver Cara, vai estourar minha linha lá atrás da pedra Filma que eu vou dar lá, Junho Cara Você, ó, trocou pro menor Trocou pro menor Fez a troca Olha aqui, você vê, tá tudo aqui, Junho Ó, cac... Unimal Cacete de pancada, cara Pera aí, tio, pera aí, pera aí Pera aí que eu vou botar ela pra dentro aqui Pera aí, deixa eu botar o peixe Nossa senhora Aí Opa Brabo demais, viu Você conhece um peixe grande Peixe de 60 centímetros Vai embora Fui Moleque doido Já fui E aí Tchau, tchau",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "Você viu o que está acontecendo ali?"
+    },
+    {
+      "start": 2.24,
+      "end": 3.88,
+      "text": "O peixe tem um peixe pegando ela, rapaz"
+    },
+    {
+      "start": 3.88,
+      "end": 4.88,
+      "text": "Ela está atrás dela"
+    },
+    {
+      "start": 4.88,
+      "end": 9.46,
+      "text": "Eita porra"
+    },
+    {
+      "start": 9.46,
+      "end": 14.76,
+      "text": "Esse porra pelo não brinca não, viu"
+    },
+    {
+      "start": 14.76,
+      "end": 17.18,
+      "text": "Vem mesmo"
+    },
+    {
+      "start": 17.18,
+      "end": 19.24,
+      "text": "Brabo essa bicuda, que bicuda brabo"
+    },
+    {
+      "start": 19.24,
+      "end": 20.65,
+      "text": "Subiu"
+    },
+    {
+      "start": 20.65,
+      "end": 29.32,
+      "text": "Caba comigo, cansado de ser curado"
+    },
+    {
+      "start": 29.32,
+      "end": 36.08,
+      "text": "Tá, você já vai pra vida"
+    },
+    {
+      "start": 36.08,
+      "end": 46.92,
+      "text": "O que você fala?"
+    },
+    {
+      "start": 53.17,
+      "end": 54.23,
+      "text": "O pai está pegando o evento"
+    },
+    {
+      "start": 54.23,
+      "end": 55.85,
+      "text": "Pegou de gol"
+    },
+    {
+      "start": 55.85,
+      "end": 61.44,
+      "text": "Soltou?"
+    },
+    {
+      "start": 64.3,
+      "end": 67.01,
+      "text": "Nossa, que que é isso, cara"
+    },
+    {
+      "start": 67.01,
+      "end": 68.84,
+      "text": "Porrada"
+    },
+    {
+      "start": 68.84,
+      "end": 70.04,
+      "text": "Ih, só o tanto aqui, moço"
+    },
+    {
+      "start": 70.04,
+      "end": 71.48,
+      "text": "Vai tomar um do outro"
+    },
+    {
+      "start": 71.48,
+      "end": 76.96,
+      "text": "Olha, cara"
+    },
+    {
+      "start": 76.96,
+      "end": 79.81,
+      "text": "Ô, rapaz, é um pacuço, sabe?"
+    },
+    {
+      "start": 81.63,
+      "end": 84.01,
+      "text": "Olha, pra você ver que brutalidade desse cara"
+    },
+    {
+      "start": 84.01,
+      "end": 85.79,
+      "text": "Nossa, só o tanto de peixe passou aqui, gente"
+    },
+    {
+      "start": 85.79,
+      "end": 87.8,
+      "text": "Puta merda"
+    },
+    {
+      "start": 89.37,
+      "end": 91.0,
+      "text": "Olha"
+    },
+    {
+      "start": 91.0,
+      "end": 93.25,
+      "text": "Ah, bicho"
+    },
+    {
+      "start": 93.25,
+      "end": 97.8,
+      "text": "Segura aí, que o trem aqui está"
+    },
+    {
+      "start": 97.8,
+      "end": 100.36,
+      "text": "Nossa"
+    },
+    {
+      "start": 100.36,
+      "end": 101.94,
+      "text": "Cara, olha lá"
+    },
+    {
+      "start": 101.94,
+      "end": 104.0,
+      "text": "Eu estou aqui ferrado num pacuço"
+    },
+    {
+      "start": 104.0,
+      "end": 105.54,
+      "text": "Que eu estou dando trabalho pra mim, viu"
+    },
+    {
+      "start": 105.54,
+      "end": 113.77,
+      "text": "Olha, pra você ver, cara"
+    },
+    {
+      "start": 113.77,
+      "end": 115.92,
+      "text": "Esse aqui não é o borracha, viu"
+    },
+    {
+      "start": 115.92,
+      "end": 118.45,
+      "text": "Esse é o pacuço mesmo"
+    },
+    {
+      "start": 118.45,
+      "end": 120.29,
+      "text": "Ha, ha, ha, ha, moleque"
+    },
+    {
+      "start": 120.29,
+      "end": 121.72,
+      "text": "Esse aqui é o legiro"
+    },
+    {
+      "start": 121.72,
+      "end": 122.76,
+      "text": "Olha, cara"
+    },
+    {
+      "start": 122.76,
+      "end": 124.32,
+      "text": "Que peixe bonito, cara"
+    },
+    {
+      "start": 124.32,
+      "end": 128.04,
+      "text": "E eles veem tudo"
+    },
+    {
+      "start": 128.04,
+      "end": 131.23,
+      "text": "Pancada, hein?"
+    },
+    {
+      "start": 131.43,
+      "end": 131.91,
+      "text": "Pancada"
+    },
+    {
+      "start": 131.91,
+      "end": 139.68,
+      "text": "Ah, subiu"
+    },
+    {
+      "start": 139.68,
+      "end": 140.9,
+      "text": "Olha, cara"
+    },
+    {
+      "start": 140.9,
+      "end": 141.6,
+      "text": "O tamanho desse"
+    },
+    {
+      "start": 141.6,
+      "end": 142.92,
+      "text": "Olha aí"
+    },
+    {
+      "start": 142.92,
+      "end": 144.2,
+      "text": "Que placa"
+    },
+    {
+      "start": 144.2,
+      "end": 151.81,
+      "text": "Alguém tem que pegar a piranha, né?"
+    },
+    {
+      "start": 153.64,
+      "end": 154.42,
+      "text": "Já vai embora"
+    },
+    {
+      "start": 154.42,
+      "end": 155.56,
+      "text": "Vai embora, bichão"
+    },
+    {
+      "start": 155.56,
+      "end": 156.82,
+      "text": "Sem vergonha"
+    },
+    {
+      "start": 156.82,
+      "end": 157.96,
+      "text": "Ha, ha, ha"
+    },
+    {
+      "start": 157.96,
+      "end": 160.0,
+      "text": "Olha eles brigando com a piranha, moço"
+    },
+    {
+      "start": 160.0,
+      "end": 160.34,
+      "text": "Vocês"
+    },
+    {
+      "start": 160.34,
+      "end": 164.1,
+      "text": "Moço"
+    },
+    {
+      "start": 164.1,
+      "end": 176.28,
+      "text": "Tá"
+    },
+    {
+      "start": 176.28,
+      "end": 182.72,
+      "text": "Cacete, cara"
+    },
+    {
+      "start": 182.72,
+      "end": 184.26,
+      "text": "Eu não vi nem o que que é, cara"
+    },
+    {
+      "start": 184.26,
+      "end": 188.0,
+      "text": "Não, é um baita de um tucunaré, cara"
+    },
+    {
+      "start": 188.0,
+      "end": 189.7,
+      "text": "Olha, soltou"
+    },
+    {
+      "start": 189.7,
+      "end": 190.58,
+      "text": "Nossa, olha que cabelo"
+    },
+    {
+      "start": 190.58,
+      "end": 192.0,
+      "text": "Puta merda"
+    },
+    {
+      "start": 192.0,
+      "end": 194.82,
+      "text": "Nossa, acertou a nuvem de peixe aqui, cara"
+    },
+    {
+      "start": 194.82,
+      "end": 196.88,
+      "text": "Toca uma isca aí, qualquer, Junho"
+    },
+    {
+      "start": 196.88,
+      "end": 201.7,
+      "text": "Vem"
+    },
+    {
+      "start": 201.7,
+      "end": 204.21,
+      "text": "Você viu isso aqui, cara?"
+    },
+    {
+      "start": 204.33,
+      "end": 204.65,
+      "text": "Olha aqui"
+    },
+    {
+      "start": 204.65,
+      "end": 206.47,
+      "text": "Uuuuh, animal"
+    },
+    {
+      "start": 206.47,
+      "end": 208.57,
+      "text": "Nossa, eles tão brigando aqui, cara"
+    },
+    {
+      "start": 208.57,
+      "end": 215.02,
+      "text": "Filma isso aí, Junho"
+    },
+    {
+      "start": 215.02,
+      "end": 224.34,
+      "text": "Não, tô fervendo aqui"
+    },
+    {
+      "start": 224.34,
+      "end": 232.65,
+      "text": "Tem outra essa aqui, ué"
+    },
+    {
+      "start": 232.65,
+      "end": 240.35,
+      "text": "O que aconteceu aqui agora, eu fiquei assombrado"
+    },
+    {
+      "start": 240.35,
+      "end": 256.15,
+      "text": "Nossa"
+    },
+    {
+      "start": 256.15,
+      "end": 258.41,
+      "text": "Caraca"
+    },
+    {
+      "start": 258.41,
+      "end": 260.1,
+      "text": "Tem mais aqui, Junho"
+    },
+    {
+      "start": 260.1,
+      "end": 262.06,
+      "text": "Puta"
+    },
+    {
+      "start": 262.06,
+      "end": 262.9,
+      "text": "Opa"
+    },
+    {
+      "start": 262.9,
+      "end": 266.43,
+      "text": "Pode ver"
+    },
+    {
+      "start": 266.43,
+      "end": 269.73,
+      "text": "Cara, vai estourar minha linha lá atrás da pedra"
+    },
+    {
+      "start": 269.73,
+      "end": 271.39,
+      "text": "Filma que eu vou dar lá, Junho"
+    },
+    {
+      "start": 271.39,
+      "end": 271.79,
+      "text": "Cara"
+    },
+    {
+      "start": 271.79,
+      "end": 275.52,
+      "text": "Você, ó, trocou pro menor"
+    },
+    {
+      "start": 275.52,
+      "end": 277.28,
+      "text": "Trocou pro menor"
+    },
+    {
+      "start": 277.28,
+      "end": 281.02,
+      "text": "Fez a troca"
+    },
+    {
+      "start": 281.02,
+      "end": 282.3,
+      "text": "Olha aqui, você vê, tá tudo aqui, Junho"
+    },
+    {
+      "start": 282.3,
+      "end": 283.95,
+      "text": "Ó, cac..."
+    },
+    {
+      "start": 283.95,
+      "end": 286.48,
+      "text": "Unimal"
+    },
+    {
+      "start": 286.48,
+      "end": 292.2,
+      "text": "Cacete de pancada, cara"
+    },
+    {
+      "start": 292.2,
+      "end": 298.98,
+      "text": "Pera aí, tio, pera aí, pera aí"
+    },
+    {
+      "start": 298.98,
+      "end": 301.52,
+      "text": "Pera aí que eu vou botar ela pra dentro aqui"
+    },
+    {
+      "start": 301.52,
+      "end": 305.26,
+      "text": "Pera aí, deixa eu botar o peixe"
+    },
+    {
+      "start": 305.26,
+      "end": 309.26,
+      "text": "Nossa senhora"
+    },
+    {
+      "start": 309.26,
+      "end": 328.72,
+      "text": "Aí"
+    },
+    {
+      "start": 328.72,
+      "end": 329.3,
+      "text": "Opa"
+    },
+    {
+      "start": 329.3,
+      "end": 331.74,
+      "text": "Brabo demais, viu"
+    },
+    {
+      "start": 331.74,
+      "end": 333.08,
+      "text": "Você conhece um peixe grande"
+    },
+    {
+      "start": 333.08,
+      "end": 334.36,
+      "text": "Peixe de 60 centímetros"
+    },
+    {
+      "start": 334.36,
+      "end": 335.57,
+      "text": "Vai embora"
+    },
+    {
+      "start": 335.57,
+      "end": 343.19,
+      "text": "Fui"
+    },
+    {
+      "start": 343.19,
+      "end": 348.56,
+      "text": "Moleque doido"
+    },
+    {
+      "start": 348.56,
+      "end": 351.22,
+      "text": "Já fui"
+    },
+    {
+      "start": 351.22,
+      "end": 351.84,
+      "text": "E aí"
+    },
+    {
+      "start": 351.84,
+      "end": 353.02,
+      "text": "Tchau, tchau"
+    }
+  ],
+  "duracao_seg": 357.41,
+  "idioma_detectado": "pt"
+}

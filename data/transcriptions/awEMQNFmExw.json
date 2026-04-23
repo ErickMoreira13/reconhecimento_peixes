@@ -1,0 +1,27 @@
+{
+  "texto": "Johnny aí brigando aí com o monstro Amarelão esse aí Mais um aí pra conta Molecão aí",
+  "segmentos": [
+    {
+      "start": 0.78,
+      "end": 2.66,
+      "text": "Johnny aí brigando aí com o monstro"
+    },
+    {
+      "start": 2.66,
+      "end": 13.26,
+      "text": "Amarelão esse aí"
+    },
+    {
+      "start": 13.26,
+      "end": 26.05,
+      "text": "Mais um aí pra conta"
+    },
+    {
+      "start": 26.05,
+      "end": 34.73,
+      "text": "Molecão aí"
+    }
+  ],
+  "duracao_seg": 38.55,
+  "idioma_detectado": "pt"
+}

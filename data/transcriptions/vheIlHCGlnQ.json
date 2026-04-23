@@ -1,0 +1,82 @@
+{
+  "texto": "Essa acho que dá uns 22, 23 quilos Demorou muito na hora que tu jogou pra pegar ela? Essa aqui deu uns 5 minutos Aquela hora que a gente passou aqui Uns 3, 4 minutos Foi muito rápido Mas aquela derruba assim, não? Agora essa aqui deu uns 15, 20 minutos Vamos soltar, vamos soltar Vai embora Foi pra vida Vem aqui a cara do pescador Bora pra mãe Pai de todos aqui Todos",
+  "segmentos": [
+    {
+      "start": 2.38,
+      "end": 4.6,
+      "text": "Essa acho que dá uns 22, 23 quilos"
+    },
+    {
+      "start": 4.6,
+      "end": 16.26,
+      "text": "Demorou muito na hora que tu jogou pra pegar ela?"
+    },
+    {
+      "start": 16.3,
+      "end": 17.34,
+      "text": "Essa aqui deu uns 5 minutos"
+    },
+    {
+      "start": 17.34,
+      "end": 20.15,
+      "text": "Aquela hora que a gente passou aqui"
+    },
+    {
+      "start": 20.15,
+      "end": 23.86,
+      "text": "Uns 3, 4 minutos"
+    },
+    {
+      "start": 23.86,
+      "end": 24.92,
+      "text": "Foi muito rápido"
+    },
+    {
+      "start": 24.92,
+      "end": 26.32,
+      "text": "Mas aquela derruba assim, não?"
+    },
+    {
+      "start": 26.32,
+      "end": 29.26,
+      "text": "Agora essa aqui deu uns 15, 20 minutos"
+    },
+    {
+      "start": 29.26,
+      "end": 33.94,
+      "text": "Vamos soltar, vamos soltar"
+    },
+    {
+      "start": 33.94,
+      "end": 40.95,
+      "text": "Vai embora"
+    },
+    {
+      "start": 40.95,
+      "end": 46.06,
+      "text": "Foi pra vida"
+    },
+    {
+      "start": 46.06,
+      "end": 49.19,
+      "text": "Vem aqui a cara do pescador"
+    },
+    {
+      "start": 49.19,
+      "end": 51.81,
+      "text": "Bora pra mãe"
+    },
+    {
+      "start": 51.81,
+      "end": 54.91,
+      "text": "Pai de todos aqui"
+    },
+    {
+      "start": 54.91,
+      "end": 55.47,
+      "text": "Todos"
+    }
+  ],
+  "duracao_seg": 58.97,
+  "idioma_detectado": "pt"
+}

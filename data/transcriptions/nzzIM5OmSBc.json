@@ -1,0 +1,42 @@
+{
+  "texto": "e atenção galera olha aí ó mineirinho acabou de visgar um tucunaré bonito aqui tá para ver o tamanho é onde você tá indo ali ó o bicho tá no pau ali entendeu puxa logo a sua torta ali antes para ele sair da maneira aqui ele tá só que sabe porque fez um dente toda vara mineiro e o bicho tá no pau aqui ó aí onde você vai dar uma vamos ver o que que nós faz aqui você tá indo lá esse pau continuou para lá então ele tá aí nele não passou por baixo não ele matou",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "e atenção galera olha aí ó mineirinho acabou de visgar um tucunaré bonito aqui tá para ver"
+    },
+    {
+      "start": 7.68,
+      "end": 17.02,
+      "text": "o tamanho é onde você tá indo ali ó o bicho tá no pau ali entendeu puxa logo a sua torta"
+    },
+    {
+      "start": 17.02,
+      "end": 23.02,
+      "text": "ali antes para ele sair da maneira aqui ele tá só que sabe porque fez um dente toda vara mineiro"
+    },
+    {
+      "start": 23.02,
+      "end": 28.31,
+      "text": "e o bicho tá no pau aqui ó aí onde você vai dar uma vamos ver o que que nós faz aqui"
+    },
+    {
+      "start": 28.31,
+      "end": 42.17,
+      "text": "você tá indo lá esse pau continuou para lá então ele tá aí nele"
+    },
+    {
+      "start": 42.17,
+      "end": 49.84,
+      "text": "não passou por baixo não"
+    },
+    {
+      "start": 49.84,
+      "end": 54.84,
+      "text": "ele matou"
+    }
+  ],
+  "duracao_seg": 55.8,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,32 @@
+{
+  "texto": "E aí, Roger? E aí? Vem atrás de quê? Atrás de... Atrás de...",
+  "segmentos": [
+    {
+      "start": 5.04,
+      "end": 6.04,
+      "text": "E aí, Roger?"
+    },
+    {
+      "start": 6.04,
+      "end": 7.04,
+      "text": "E aí?"
+    },
+    {
+      "start": 7.04,
+      "end": 8.04,
+      "text": "Vem atrás de quê?"
+    },
+    {
+      "start": 8.04,
+      "end": 14.22,
+      "text": "Atrás de..."
+    },
+    {
+      "start": 14.22,
+      "end": 15.22,
+      "text": "Atrás de..."
+    }
+  ],
+  "duracao_seg": 502.77,
+  "idioma_detectado": "pt"
+}

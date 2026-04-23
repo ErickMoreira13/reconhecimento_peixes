@@ -1,0 +1,22 @@
+{
+  "texto": "Você sabia que aí pegava? E agora? Vai subir na árvore? Vai quebrar a ponta da vara, hein?",
+  "segmentos": [
+    {
+      "start": 377.68,
+      "end": 379.04,
+      "text": "Você sabia que aí pegava?"
+    },
+    {
+      "start": 390.08,
+      "end": 391.84,
+      "text": "E agora? Vai subir na árvore?"
+    },
+    {
+      "start": 408.49,
+      "end": 409.85,
+      "text": "Vai quebrar a ponta da vara, hein?"
+    }
+  ],
+  "duracao_seg": 431.93,
+  "idioma_detectado": "pt"
+}

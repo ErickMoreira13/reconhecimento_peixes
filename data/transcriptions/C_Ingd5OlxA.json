@@ -1,0 +1,27 @@
+{
+  "texto": "Opa, tá emproado? Aqui era o começo antes Aqui nessa beirada, todinho Só que essa beirada pegou fogo duas vezes",
+  "segmentos": [
+    {
+      "start": 2.32,
+      "end": 19.42,
+      "text": "Opa, tá emproado?"
+    },
+    {
+      "start": 19.7,
+      "end": 59.06,
+      "text": "Aqui era o começo antes"
+    },
+    {
+      "start": 59.06,
+      "end": 60.95,
+      "text": "Aqui nessa beirada, todinho"
+    },
+    {
+      "start": 60.95,
+      "end": 64.47,
+      "text": "Só que essa beirada pegou fogo duas vezes"
+    }
+  ],
+  "duracao_seg": 599.41,
+  "idioma_detectado": "pt"
+}

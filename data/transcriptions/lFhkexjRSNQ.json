@@ -1,0 +1,62 @@
+{
+  "texto": "é que eu peguei 5,5 kg agora a Camila vai soltar ele já bota ele lá fora vai amor, vai amor não solta rapaz solta, solta o Tukunaré vai embora vai embora o Tukunaré vamos pegar o nosso nosso, tá meio difícil deixar a gente soltar o Tukunaré o pessoal tão bravo que eu soltei o Tukunaré o Tukunaré era meu, eu soltei",
+  "segmentos": [
+    {
+      "start": 0.69,
+      "end": 6.76,
+      "text": "é que eu peguei 5,5 kg agora a Camila vai soltar ele"
+    },
+    {
+      "start": 6.76,
+      "end": 10.34,
+      "text": "já bota ele lá fora"
+    },
+    {
+      "start": 10.34,
+      "end": 19.81,
+      "text": "vai amor, vai amor"
+    },
+    {
+      "start": 19.81,
+      "end": 20.93,
+      "text": "não solta rapaz"
+    },
+    {
+      "start": 20.93,
+      "end": 21.93,
+      "text": "solta, solta"
+    },
+    {
+      "start": 21.93,
+      "end": 23.93,
+      "text": "o Tukunaré vai embora"
+    },
+    {
+      "start": 23.93,
+      "end": 25.93,
+      "text": "vai embora o Tukunaré"
+    },
+    {
+      "start": 25.93,
+      "end": 29.09,
+      "text": "vamos pegar o nosso nosso, tá meio difícil deixar a gente soltar"
+    },
+    {
+      "start": 29.09,
+      "end": 30.09,
+      "text": "o Tukunaré"
+    },
+    {
+      "start": 30.09,
+      "end": 33.09,
+      "text": "o pessoal tão bravo que eu soltei o Tukunaré"
+    },
+    {
+      "start": 33.09,
+      "end": 35.09,
+      "text": "o Tukunaré era meu, eu soltei"
+    }
+  ],
+  "duracao_seg": 37.07,
+  "idioma_detectado": "pt"
+}

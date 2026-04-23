@@ -1,0 +1,22 @@
+{
+  "texto": "bom dia galera bom dia bom dia agora são seis horas da manhã galera tá chegando aqui mais de uma corda aqui galera que acontece aí também tá nojado aí galera tá nojado aí ó ó olá o tanto lá tá vendo aí ó nojado aqui umas horas galera tá pintando ele tá nojado aí galera 4",
+  "segmentos": [
+    {
+      "start": 1.49,
+      "end": 9.05,
+      "text": "bom dia galera bom dia bom dia agora são seis horas da manhã galera tá chegando aqui mais"
+    },
+    {
+      "start": 9.05,
+      "end": 29.19,
+      "text": "de uma corda aqui galera que acontece aí também tá nojado aí galera tá nojado aí ó ó olá o tanto"
+    },
+    {
+      "start": 29.19,
+      "end": 43.54,
+      "text": "lá tá vendo aí ó nojado aqui umas horas galera tá pintando ele tá nojado aí galera 4"
+    }
+  ],
+  "duracao_seg": 58.69,
+  "idioma_detectado": "pt"
+}

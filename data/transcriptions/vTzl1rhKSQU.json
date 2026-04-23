@@ -1,0 +1,47 @@
+{
+  "texto": "Pessoal, Porto da Morena 5 horas da tarde Ali o rapaz que vai buscar a gente Barquinho Hotel Já tem uns aqui parados Isso aí é o Rio Atumã Nós vamos passar uma semaninha aí Deus quiser",
+  "segmentos": [
+    {
+      "start": 0.4,
+      "end": 2.2,
+      "text": "Pessoal, Porto da Morena"
+    },
+    {
+      "start": 2.2,
+      "end": 5.17,
+      "text": "5 horas da tarde"
+    },
+    {
+      "start": 5.17,
+      "end": 7.45,
+      "text": "Ali o rapaz que vai buscar a gente"
+    },
+    {
+      "start": 7.45,
+      "end": 9.48,
+      "text": "Barquinho Hotel"
+    },
+    {
+      "start": 9.48,
+      "end": 11.3,
+      "text": "Já tem uns aqui parados"
+    },
+    {
+      "start": 11.3,
+      "end": 14.69,
+      "text": "Isso aí é o Rio Atumã"
+    },
+    {
+      "start": 14.69,
+      "end": 18.82,
+      "text": "Nós vamos passar uma semaninha aí"
+    },
+    {
+      "start": 18.82,
+      "end": 19.92,
+      "text": "Deus quiser"
+    }
+  ],
+  "duracao_seg": 21.41,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,617 @@
+{
+  "texto": "Baciel, nóis! Agora gente ó, importantíssimo, um peixe desse não pode matar não Calma, bruto ó, nossa pra segurar é duro em Lindo, lindo, já pode soltar? Tem boto ai não? Não Vai, vai, vai embora, ae! Show de bola, doce, doce, doce Nossa e como o Mel, mas não entra não, essa é a instrução do profissional aí o Baciel Vamos pegar o tamanho dessa que ta na camisa dele ai Ele é bonito hein ó Monstro do Rio Ta aqui, nós estamos na cozinha, invadimos aqui a cozinha da Dona Rosa, o Ed Ta ali preparando um sashimi, sashimi Verificar por aqui como é que é isso Uma gengibre aqui, acompanhando aqui como é que o Ed Devia ter acompanhado antes a cebola, como é o filme ele cortando a cebola O homem é uma máquina de cortar a cebola Aqui é a Dona Rosa Malagoana, meia baiana e agora manauara Balbinense Quem mora em Balbina, balbiense Hã? Ah, Figueiredense Ah, presidente Figueiredo ai ó, Dona Rosa E o Ed aqui ó, preparando um sashimi delicioso aqui com a nós Hoje nós estamos no primeiro dia ainda Hoje foi só para treinar o braço Amolecer um pouco E esticar as linhas, porque as linhas ta tudo encaracolada Grande Ed O Ed fez aqui ó, uma bebida chamada morrito Refrescante não, imagina Dá uma olhada nessa Eu vou até em, olha só que, olha aqui Olha que copo maravilhoso E outra tem que ser um copo longo para degustar essa bebida Para dar mais, aquela aparência bonita é claro né Valorizar a bebida é claro né Certo? Tá aqui meu amigo Ed preparou aqui um morrito para mim E eu estou degustando esse morrito com muita sede Sede, muito bom Pessoal, segundo dia de pescaria, horário da refeição Ali o France, piloteiro, cavalinho Aqui tem um bando de guerrilheiro, guerrilheiro morto Tem um ali morto Tem um ali que está estribuchando ainda Ele não morreu direito ainda, vai estar estribuchando Olha lá Ele já faz pose ainda para mim Olha lá E aqui tem um Olha lá Essa aqui é a vida de pescador Cara deitado ali né Tirando a soneca Só aguardando a comida, sair lá o peixinho assado Parecendo um terreiro de combate ó Só vê gente morta Caída ao chão Aí o pessoal aqui ó O Sérgio está aí, o Maciel, o Pirateiro Aí eu aqui, bonito, lindo, barbudão ali atrás Uma parte que já vai ser escuro Embaixo está o Norte lá, repousando, descansando Pegou muito peixe de manhã Estava muito cansado, tanto peixe que pegou Olha que lago maravilhoso, lindo ó Olha o passagem aqui Vou dar uma corrida aqui para vocês verem Lindo lago Praia Grande Praia Grande Que bacana Lindo Essa é a Floresta Amazônica Rio Guatuã Estou no lago Chamado Cedrinho aqui Ponto É Cedrinho ou é Cedra? Aí ó Pera aí Aí ó Nosso amigo Francis Trouxe aqui um abacaxizinho aqui Eu vou me servir Pegar aqui duas fatias lá Que eu sou guloso Achei Muito bem Obrigado Francis Valeu Muito bom Francis Obrigadão hein Valeu Aí pessoal Falta de responsabilidade Olha aí ó O princípio de incêndio Nosso piloteiro aqui ó Vai fazer ó Fazer uma boa ação Vai tentar apagar o fogo lá Devagar Cuidado pra não escorregar É Subir aí é complicado É barro né Ele vai tentar pelo menos combater um pouco do fogo Olha já tá na madeira lá ó Pegando fogo na madeira seca Tudo por causa de uma fogueirinha ó Falta de responsabilidade Pura E o vento tá soprando pra lá ainda né Pior ainda Vai entrando mato adentro Triste Tchau Tchau Tchau",
+  "segmentos": [
+    {
+      "start": 2.64,
+      "end": 81.65,
+      "text": "Baciel, nóis!"
+    },
+    {
+      "start": 81.65,
+      "end": 147.13,
+      "text": "Agora gente ó, importantíssimo, um peixe desse não pode matar não"
+    },
+    {
+      "start": 147.13,
+      "end": 152.41,
+      "text": "Calma, bruto ó, nossa pra segurar é duro em"
+    },
+    {
+      "start": 152.41,
+      "end": 155.41,
+      "text": "Lindo, lindo, já pode soltar? Tem boto ai não?"
+    },
+    {
+      "start": 155.41,
+      "end": 157.41,
+      "text": "Não"
+    },
+    {
+      "start": 157.41,
+      "end": 160.41,
+      "text": "Vai, vai, vai embora, ae!"
+    },
+    {
+      "start": 160.41,
+      "end": 165.3,
+      "text": "Show de bola, doce, doce, doce"
+    },
+    {
+      "start": 165.3,
+      "end": 170.3,
+      "text": "Nossa e como o Mel, mas não entra não, essa é a instrução do profissional aí o Baciel"
+    },
+    {
+      "start": 170.3,
+      "end": 173.3,
+      "text": "Vamos pegar o tamanho dessa que ta na camisa dele ai"
+    },
+    {
+      "start": 173.3,
+      "end": 175.3,
+      "text": "Ele é bonito hein ó"
+    },
+    {
+      "start": 175.3,
+      "end": 177.3,
+      "text": "Monstro do Rio"
+    },
+    {
+      "start": 177.3,
+      "end": 182.3,
+      "text": "Ta aqui, nós estamos na cozinha, invadimos aqui a cozinha da Dona Rosa, o Ed"
+    },
+    {
+      "start": 182.3,
+      "end": 188.29,
+      "text": "Ta ali preparando um sashimi, sashimi"
+    },
+    {
+      "start": 188.29,
+      "end": 194.26,
+      "text": "Verificar por aqui como é que é isso"
+    },
+    {
+      "start": 194.26,
+      "end": 198.68,
+      "text": "Uma gengibre aqui, acompanhando aqui como é que o Ed"
+    },
+    {
+      "start": 198.68,
+      "end": 202.68,
+      "text": "Devia ter acompanhado antes a cebola, como é o filme ele cortando a cebola"
+    },
+    {
+      "start": 202.68,
+      "end": 205.81,
+      "text": "O homem é uma máquina de cortar a cebola"
+    },
+    {
+      "start": 205.81,
+      "end": 210.43,
+      "text": "Aqui é a Dona Rosa"
+    },
+    {
+      "start": 210.43,
+      "end": 214.43,
+      "text": "Malagoana, meia baiana e agora manauara"
+    },
+    {
+      "start": 214.43,
+      "end": 218.42,
+      "text": "Balbinense"
+    },
+    {
+      "start": 218.42,
+      "end": 221.58,
+      "text": "Quem mora em Balbina, balbiense"
+    },
+    {
+      "start": 221.58,
+      "end": 223.82,
+      "text": "Hã?"
+    },
+    {
+      "start": 223.82,
+      "end": 228.16,
+      "text": "Ah, Figueiredense"
+    },
+    {
+      "start": 228.16,
+      "end": 232.26,
+      "text": "Ah, presidente Figueiredo ai ó, Dona Rosa"
+    },
+    {
+      "start": 232.26,
+      "end": 236.99,
+      "text": "E o Ed aqui ó, preparando um sashimi delicioso aqui com a nós"
+    },
+    {
+      "start": 236.99,
+      "end": 238.99,
+      "text": "Hoje nós estamos no primeiro dia ainda"
+    },
+    {
+      "start": 238.99,
+      "end": 240.99,
+      "text": "Hoje foi só para treinar o braço"
+    },
+    {
+      "start": 240.99,
+      "end": 243.18,
+      "text": "Amolecer um pouco"
+    },
+    {
+      "start": 243.18,
+      "end": 248.76,
+      "text": "E esticar as linhas, porque as linhas ta tudo encaracolada"
+    },
+    {
+      "start": 248.76,
+      "end": 257.79,
+      "text": "Grande Ed"
+    },
+    {
+      "start": 257.79,
+      "end": 262.79,
+      "text": "O Ed fez aqui ó, uma bebida chamada morrito"
+    },
+    {
+      "start": 262.79,
+      "end": 264.79,
+      "text": "Refrescante não, imagina"
+    },
+    {
+      "start": 264.79,
+      "end": 266.82,
+      "text": "Dá uma olhada nessa"
+    },
+    {
+      "start": 266.82,
+      "end": 270.82,
+      "text": "Eu vou até em, olha só que, olha aqui"
+    },
+    {
+      "start": 270.82,
+      "end": 272.82,
+      "text": "Olha que copo maravilhoso"
+    },
+    {
+      "start": 272.82,
+      "end": 276.82,
+      "text": "E outra tem que ser um copo longo para degustar essa bebida"
+    },
+    {
+      "start": 276.82,
+      "end": 281.27,
+      "text": "Para dar mais, aquela aparência bonita é claro né"
+    },
+    {
+      "start": 281.27,
+      "end": 283.27,
+      "text": "Valorizar a bebida é claro né"
+    },
+    {
+      "start": 283.27,
+      "end": 284.62,
+      "text": "Certo?"
+    },
+    {
+      "start": 284.62,
+      "end": 289.01,
+      "text": "Tá aqui meu amigo Ed preparou aqui um morrito para mim"
+    },
+    {
+      "start": 289.01,
+      "end": 294.62,
+      "text": "E eu estou degustando esse morrito com muita sede"
+    },
+    {
+      "start": 294.62,
+      "end": 318.06,
+      "text": "Sede, muito bom"
+    },
+    {
+      "start": 318.06,
+      "end": 322.93,
+      "text": "Pessoal, segundo dia de pescaria, horário da refeição"
+    },
+    {
+      "start": 322.93,
+      "end": 330.97,
+      "text": "Ali o France, piloteiro, cavalinho"
+    },
+    {
+      "start": 330.97,
+      "end": 336.45,
+      "text": "Aqui tem um bando de guerrilheiro, guerrilheiro morto"
+    },
+    {
+      "start": 336.45,
+      "end": 340.98,
+      "text": "Tem um ali morto"
+    },
+    {
+      "start": 340.98,
+      "end": 343.98,
+      "text": "Tem um ali que está estribuchando ainda"
+    },
+    {
+      "start": 343.98,
+      "end": 347.52,
+      "text": "Ele não morreu direito ainda, vai estar estribuchando"
+    },
+    {
+      "start": 347.52,
+      "end": 348.94,
+      "text": "Olha lá"
+    },
+    {
+      "start": 348.94,
+      "end": 351.29,
+      "text": "Ele já faz pose ainda para mim"
+    },
+    {
+      "start": 351.29,
+      "end": 352.74,
+      "text": "Olha lá"
+    },
+    {
+      "start": 352.74,
+      "end": 353.74,
+      "text": "E aqui tem um"
+    },
+    {
+      "start": 353.74,
+      "end": 354.74,
+      "text": "Olha lá"
+    },
+    {
+      "start": 354.74,
+      "end": 358.92,
+      "text": "Essa aqui é a vida de pescador"
+    },
+    {
+      "start": 358.92,
+      "end": 360.92,
+      "text": "Cara deitado ali né"
+    },
+    {
+      "start": 360.92,
+      "end": 363.75,
+      "text": "Tirando a soneca"
+    },
+    {
+      "start": 363.75,
+      "end": 366.75,
+      "text": "Só aguardando a comida, sair lá o peixinho assado"
+    },
+    {
+      "start": 366.75,
+      "end": 370.75,
+      "text": "Parecendo um terreiro de combate ó"
+    },
+    {
+      "start": 370.75,
+      "end": 372.94,
+      "text": "Só vê gente morta"
+    },
+    {
+      "start": 372.94,
+      "end": 373.94,
+      "text": "Caída ao chão"
+    },
+    {
+      "start": 373.94,
+      "end": 378.54,
+      "text": "Aí o pessoal aqui ó"
+    },
+    {
+      "start": 378.54,
+      "end": 389.66,
+      "text": "O Sérgio está aí, o Maciel, o Pirateiro"
+    },
+    {
+      "start": 389.66,
+      "end": 404.73,
+      "text": "Aí eu aqui, bonito, lindo, barbudão ali atrás"
+    },
+    {
+      "start": 404.73,
+      "end": 405.73,
+      "text": "Uma parte que já vai ser escuro"
+    },
+    {
+      "start": 405.73,
+      "end": 419.42,
+      "text": "Embaixo está o Norte lá, repousando, descansando"
+    },
+    {
+      "start": 419.42,
+      "end": 422.96,
+      "text": "Pegou muito peixe de manhã"
+    },
+    {
+      "start": 426.27,
+      "end": 428.27,
+      "text": "Estava muito cansado, tanto peixe que pegou"
+    },
+    {
+      "start": 428.27,
+      "end": 431.14,
+      "text": "Olha que lago maravilhoso, lindo ó"
+    },
+    {
+      "start": 431.14,
+      "end": 433.14,
+      "text": "Olha o passagem aqui"
+    },
+    {
+      "start": 433.14,
+      "end": 435.14,
+      "text": "Vou dar uma corrida aqui para vocês verem"
+    },
+    {
+      "start": 435.14,
+      "end": 440.18,
+      "text": "Lindo lago"
+    },
+    {
+      "start": 440.18,
+      "end": 441.18,
+      "text": "Praia Grande"
+    },
+    {
+      "start": 441.18,
+      "end": 445.63,
+      "text": "Praia Grande"
+    },
+    {
+      "start": 445.63,
+      "end": 446.63,
+      "text": "Que bacana"
+    },
+    {
+      "start": 446.63,
+      "end": 448.91,
+      "text": "Lindo"
+    },
+    {
+      "start": 448.91,
+      "end": 452.16,
+      "text": "Essa é a Floresta Amazônica"
+    },
+    {
+      "start": 452.16,
+      "end": 456.21,
+      "text": "Rio Guatuã"
+    },
+    {
+      "start": 456.21,
+      "end": 458.66,
+      "text": "Estou no lago"
+    },
+    {
+      "start": 458.66,
+      "end": 462.19,
+      "text": "Chamado Cedrinho aqui"
+    },
+    {
+      "start": 462.19,
+      "end": 464.25,
+      "text": "Ponto"
+    },
+    {
+      "start": 464.25,
+      "end": 466.25,
+      "text": "É Cedrinho ou é Cedra?"
+    },
+    {
+      "start": 466.25,
+      "end": 470.13,
+      "text": "Aí ó"
+    },
+    {
+      "start": 470.13,
+      "end": 471.13,
+      "text": "Pera aí"
+    },
+    {
+      "start": 471.13,
+      "end": 472.32,
+      "text": "Aí ó"
+    },
+    {
+      "start": 472.32,
+      "end": 473.32,
+      "text": "Nosso amigo Francis"
+    },
+    {
+      "start": 473.32,
+      "end": 475.32,
+      "text": "Trouxe aqui um abacaxizinho aqui"
+    },
+    {
+      "start": 475.32,
+      "end": 476.32,
+      "text": "Eu vou me servir"
+    },
+    {
+      "start": 476.32,
+      "end": 478.32,
+      "text": "Pegar aqui duas fatias lá"
+    },
+    {
+      "start": 478.32,
+      "end": 479.32,
+      "text": "Que eu sou guloso"
+    },
+    {
+      "start": 479.32,
+      "end": 481.09,
+      "text": "Achei"
+    },
+    {
+      "start": 481.09,
+      "end": 482.09,
+      "text": "Muito bem"
+    },
+    {
+      "start": 482.09,
+      "end": 483.09,
+      "text": "Obrigado Francis"
+    },
+    {
+      "start": 483.09,
+      "end": 484.18,
+      "text": "Valeu"
+    },
+    {
+      "start": 484.18,
+      "end": 490.12,
+      "text": "Muito bom Francis"
+    },
+    {
+      "start": 490.12,
+      "end": 492.54,
+      "text": "Obrigadão hein"
+    },
+    {
+      "start": 492.54,
+      "end": 493.54,
+      "text": "Valeu"
+    },
+    {
+      "start": 493.54,
+      "end": 495.66,
+      "text": "Aí pessoal"
+    },
+    {
+      "start": 495.66,
+      "end": 497.66,
+      "text": "Falta de responsabilidade"
+    },
+    {
+      "start": 497.66,
+      "end": 499.04,
+      "text": "Olha aí ó"
+    },
+    {
+      "start": 499.04,
+      "end": 503.63,
+      "text": "O princípio de incêndio"
+    },
+    {
+      "start": 503.63,
+      "end": 508.38,
+      "text": "Nosso piloteiro aqui ó"
+    },
+    {
+      "start": 508.38,
+      "end": 509.74,
+      "text": "Vai fazer ó"
+    },
+    {
+      "start": 509.74,
+      "end": 511.34,
+      "text": "Fazer uma boa ação"
+    },
+    {
+      "start": 511.34,
+      "end": 513.34,
+      "text": "Vai tentar apagar o fogo lá"
+    },
+    {
+      "start": 513.34,
+      "end": 517.04,
+      "text": "Devagar"
+    },
+    {
+      "start": 517.04,
+      "end": 519.14,
+      "text": "Cuidado pra não escorregar"
+    },
+    {
+      "start": 519.14,
+      "end": 521.48,
+      "text": "É"
+    },
+    {
+      "start": 521.48,
+      "end": 524.73,
+      "text": "Subir aí é complicado"
+    },
+    {
+      "start": 524.73,
+      "end": 527.01,
+      "text": "É barro né"
+    },
+    {
+      "start": 527.01,
+      "end": 534.77,
+      "text": "Ele vai tentar pelo menos combater um pouco do fogo"
+    },
+    {
+      "start": 534.77,
+      "end": 536.77,
+      "text": "Olha já tá na madeira lá ó"
+    },
+    {
+      "start": 536.77,
+      "end": 538.8,
+      "text": "Pegando fogo na madeira seca"
+    },
+    {
+      "start": 538.8,
+      "end": 541.7,
+      "text": "Tudo por causa de uma fogueirinha ó"
+    },
+    {
+      "start": 541.7,
+      "end": 544.69,
+      "text": "Falta de responsabilidade"
+    },
+    {
+      "start": 544.69,
+      "end": 545.69,
+      "text": "Pura"
+    },
+    {
+      "start": 545.69,
+      "end": 562.41,
+      "text": "E o vento tá soprando pra lá ainda né"
+    },
+    {
+      "start": 562.41,
+      "end": 563.41,
+      "text": "Pior ainda"
+    },
+    {
+      "start": 563.41,
+      "end": 584.42,
+      "text": "Vai entrando mato adentro"
+    },
+    {
+      "start": 584.42,
+      "end": 585.42,
+      "text": "Triste"
+    },
+    {
+      "start": 585.42,
+      "end": 586.42,
+      "text": "Tchau"
+    },
+    {
+      "start": 586.42,
+      "end": 587.42,
+      "text": "Tchau"
+    },
+    {
+      "start": 587.42,
+      "end": 588.42,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 589.01,
+  "idioma_detectado": "pt"
+}

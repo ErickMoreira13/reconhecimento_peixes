@@ -1,0 +1,17 @@
+{
+  "texto": "Agora pessoal, agora que nós vamos subir a cachoeira do Tacará Olha só que nós vamos subir agora aí, nos acompanhe",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.22,
+      "text": "Agora pessoal, agora que nós vamos subir a cachoeira do Tacará"
+    },
+    {
+      "start": 3.22,
+      "end": 6.75,
+      "text": "Olha só que nós vamos subir agora aí, nos acompanhe"
+    }
+  ],
+  "duracao_seg": 169.07,
+  "idioma_detectado": "pt"
+}

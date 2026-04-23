@@ -1,0 +1,37 @@
+{
+  "texto": "Aí o tamanho de moleque, pegado lá no rio, a básica é isso aqui no rio Itapecuru não tem peixe, né gato? Aí ó, acho que ele dá uns quantos quilos, gato? Aí gato, ele dá uns quantos quilos assim a básica? Uns 10 quilos, gato? Dá um boço. Que é grande, o tamanho de moleque, ó.",
+  "segmentos": [
+    {
+      "start": 2.67,
+      "end": 10.41,
+      "text": "Aí o tamanho de moleque, pegado lá no rio, a básica é isso aqui no rio Itapecuru não tem peixe, né gato?"
+    },
+    {
+      "start": 10.41,
+      "end": 16.87,
+      "text": "Aí ó, acho que ele dá uns quantos quilos, gato?"
+    },
+    {
+      "start": 16.87,
+      "end": 19.97,
+      "text": "Aí gato, ele dá uns quantos quilos assim a básica?"
+    },
+    {
+      "start": 19.97,
+      "end": 20.97,
+      "text": "Uns 10 quilos, gato?"
+    },
+    {
+      "start": 20.97,
+      "end": 21.97,
+      "text": "Dá um boço."
+    },
+    {
+      "start": 21.97,
+      "end": 28.15,
+      "text": "Que é grande, o tamanho de moleque, ó."
+    }
+  ],
+  "duracao_seg": 27.95,
+  "idioma_detectado": "pt"
+}

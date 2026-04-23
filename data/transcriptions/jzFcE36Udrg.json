@@ -1,0 +1,37 @@
+{
+  "texto": "aqui ó, aqui ó eita carai eita porra rapaz vai tirar essa foto aí logo taca bicho",
+  "segmentos": [
+    {
+      "start": 7.66,
+      "end": 12.93,
+      "text": "aqui ó, aqui ó"
+    },
+    {
+      "start": 12.93,
+      "end": 15.71,
+      "text": "eita carai"
+    },
+    {
+      "start": 15.71,
+      "end": 23.14,
+      "text": "eita porra"
+    },
+    {
+      "start": 23.14,
+      "end": 25.9,
+      "text": "rapaz"
+    },
+    {
+      "start": 25.9,
+      "end": 29.6,
+      "text": "vai tirar essa foto aí logo"
+    },
+    {
+      "start": 29.6,
+      "end": 36.76,
+      "text": "taca bicho"
+    }
+  ],
+  "duracao_seg": 36.85,
+  "idioma_detectado": "pt"
+}

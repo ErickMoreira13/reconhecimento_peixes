@@ -1,0 +1,17 @@
+{
+  "texto": "Que coisa mais linda! Segura ele bem!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Que coisa mais linda!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Segura ele bem!"
+    }
+  ],
+  "duracao_seg": 5.99,
+  "idioma_detectado": "pt"
+}

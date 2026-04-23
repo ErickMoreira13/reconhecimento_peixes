@@ -1,0 +1,77 @@
+{
+  "texto": "oi Johnny não vou me pescar mais pra casa não eu vou o que aí macho é doido mano, só despesa, gastar dinheiro pra cá pegar ferrada de piú e sol quente tá quente, anda quente não dá bem ainda? o Gabriel não dá bem será? perdeu a isca ai mas isso aqui tem esse bebê aqui do papai filho abre a culpa ai peixe",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.13,
+      "text": "oi Johnny"
+    },
+    {
+      "start": 2.13,
+      "end": 4.13,
+      "text": "não vou me pescar mais pra casa não"
+    },
+    {
+      "start": 4.13,
+      "end": 6.13,
+      "text": "eu vou o que aí macho"
+    },
+    {
+      "start": 6.13,
+      "end": 8.13,
+      "text": "é doido mano, só despesa, gastar dinheiro pra cá"
+    },
+    {
+      "start": 8.13,
+      "end": 10.13,
+      "text": "pegar ferrada de piú e sol quente"
+    },
+    {
+      "start": 10.13,
+      "end": 12.13,
+      "text": "tá quente, anda quente"
+    },
+    {
+      "start": 12.13,
+      "end": 14.13,
+      "text": "não dá bem ainda?"
+    },
+    {
+      "start": 14.13,
+      "end": 16.13,
+      "text": "o Gabriel não dá bem será?"
+    },
+    {
+      "start": 16.13,
+      "end": 18.13,
+      "text": "perdeu a isca ai"
+    },
+    {
+      "start": 18.13,
+      "end": 20.13,
+      "text": "mas isso aqui"
+    },
+    {
+      "start": 20.13,
+      "end": 22.26,
+      "text": "tem esse bebê aqui do papai"
+    },
+    {
+      "start": 22.26,
+      "end": 24.26,
+      "text": "filho"
+    },
+    {
+      "start": 24.26,
+      "end": 27.12,
+      "text": "abre a culpa ai"
+    },
+    {
+      "start": 27.12,
+      "end": 29.12,
+      "text": "peixe"
+    }
+  ],
+  "duracao_seg": 27.45,
+  "idioma_detectado": "pt"
+}

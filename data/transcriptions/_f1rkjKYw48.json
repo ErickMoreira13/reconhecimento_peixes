@@ -1,0 +1,92 @@
+{
+  "texto": "A onça atravessando aqui, a gente no Atumã Comendo, perdão Fazendo o almoço e a bicha anda passando lá Ei, lá Vamos ver ela levantar lá É uma onça mesmo, bonita, ó Paz, é grande, hein Tá vendo o celular aqui, viu? Ela vai levantar aqui, ó Olha aí, rapaz, é grande Olha Caraca, mano Não tem medo Enquanto a onça passa lá Enquanto a onça passa lá Nós comemos nosso bicho morto aqui, né? Ei, Júnior",
+  "segmentos": [
+    {
+      "start": 44.5,
+      "end": 46.5,
+      "text": "A onça atravessando aqui, a gente no Atumã"
+    },
+    {
+      "start": 46.5,
+      "end": 47.8,
+      "text": "Comendo, perdão"
+    },
+    {
+      "start": 47.8,
+      "end": 50.18,
+      "text": "Fazendo o almoço e a bicha anda passando lá"
+    },
+    {
+      "start": 50.18,
+      "end": 52.7,
+      "text": "Ei, lá"
+    },
+    {
+      "start": 52.7,
+      "end": 54.38,
+      "text": "Vamos ver ela levantar lá"
+    },
+    {
+      "start": 54.38,
+      "end": 61.33,
+      "text": "É uma onça mesmo, bonita, ó"
+    },
+    {
+      "start": 61.33,
+      "end": 64.12,
+      "text": "Paz, é grande, hein"
+    },
+    {
+      "start": 64.12,
+      "end": 66.12,
+      "text": "Tá vendo o celular aqui, viu?"
+    },
+    {
+      "start": 67.4,
+      "end": 69.15,
+      "text": "Ela vai levantar aqui, ó"
+    },
+    {
+      "start": 69.15,
+      "end": 76.26,
+      "text": "Olha aí, rapaz, é grande"
+    },
+    {
+      "start": 76.26,
+      "end": 77.94,
+      "text": "Olha"
+    },
+    {
+      "start": 77.94,
+      "end": 80.34,
+      "text": "Caraca, mano"
+    },
+    {
+      "start": 80.34,
+      "end": 87.52,
+      "text": "Não tem medo"
+    },
+    {
+      "start": 87.52,
+      "end": 92.58,
+      "text": "Enquanto a onça passa lá"
+    },
+    {
+      "start": 92.58,
+      "end": 95.02,
+      "text": "Enquanto a onça passa lá"
+    },
+    {
+      "start": 95.02,
+      "end": 96.72,
+      "text": "Nós comemos nosso bicho morto aqui, né?"
+    },
+    {
+      "start": 97.38,
+      "end": 98.1,
+      "text": "Ei, Júnior"
+    }
+  ],
+  "duracao_seg": 138.95,
+  "idioma_detectado": "pt"
+}

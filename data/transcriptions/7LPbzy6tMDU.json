@@ -1,0 +1,47 @@
+{
+  "texto": "aqui no rio Itapecuru, galera, mais uma vez matando pra tirar os anzol aqui pra nós ir lá no rio Imearim e pegar uns peixes amanhã olha aí, pano de corda anzol de todo tamanho, todo jeito olha aí, tamanho desse o Gilzão ali, do canal Gilmar Pescador botando pra gerar",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 3.31,
+      "text": "aqui no rio Itapecuru, galera, mais uma vez"
+    },
+    {
+      "start": 3.31,
+      "end": 6.51,
+      "text": "matando pra tirar os anzol aqui"
+    },
+    {
+      "start": 6.51,
+      "end": 9.27,
+      "text": "pra nós ir lá no rio Imearim e pegar uns peixes amanhã"
+    },
+    {
+      "start": 9.27,
+      "end": 11.87,
+      "text": "olha aí, pano de corda"
+    },
+    {
+      "start": 11.87,
+      "end": 14.89,
+      "text": "anzol de todo tamanho, todo jeito"
+    },
+    {
+      "start": 14.89,
+      "end": 17.62,
+      "text": "olha aí, tamanho desse"
+    },
+    {
+      "start": 17.62,
+      "end": 23.85,
+      "text": "o Gilzão ali, do canal Gilmar Pescador"
+    },
+    {
+      "start": 23.85,
+      "end": 26.77,
+      "text": "botando pra gerar"
+    }
+  ],
+  "duracao_seg": 27.77,
+  "idioma_detectado": "pt"
+}

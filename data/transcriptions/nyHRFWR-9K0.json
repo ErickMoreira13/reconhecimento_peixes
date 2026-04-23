@@ -1,0 +1,57 @@
+{
+  "texto": "Ó, aí, vai pra carinha. Olha aí, ó. Vai pra vida. Você é do seu bisavão. Como é que você vai ver? Vai viva, cara. Vai. Aí, menino. Muito bem. Alô.",
+  "segmentos": [
+    {
+      "start": 1.07,
+      "end": 4.94,
+      "text": "Ó, aí, vai pra carinha."
+    },
+    {
+      "start": 5.97,
+      "end": 6.83,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 7.56,
+      "end": 8.5,
+      "text": "Vai pra vida."
+    },
+    {
+      "start": 9.24,
+      "end": 10.62,
+      "text": "Você é do seu bisavão."
+    },
+    {
+      "start": 11.62,
+      "end": 12.36,
+      "text": "Como é que você vai ver?"
+    },
+    {
+      "start": 13.26,
+      "end": 14.46,
+      "text": "Vai viva, cara."
+    },
+    {
+      "start": 14.7,
+      "end": 14.96,
+      "text": "Vai."
+    },
+    {
+      "start": 16.87,
+      "end": 18.07,
+      "text": "Aí, menino."
+    },
+    {
+      "start": 18.09,
+      "end": 19.05,
+      "text": "Muito bem."
+    },
+    {
+      "start": 19.29,
+      "end": 19.73,
+      "text": "Alô."
+    }
+  ],
+  "duracao_seg": 20.11,
+  "idioma_detectado": "pt"
+}
