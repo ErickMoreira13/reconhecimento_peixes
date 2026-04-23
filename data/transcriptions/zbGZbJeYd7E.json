@@ -1,0 +1,17 @@
+{
+  "texto": "o rio Itapecuru, nego pescador, olha o tamanho dessa pescada aqui velho caraca, olha o surubinho ali, foi uma camisola só de peixe de couro",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 5.45,
+      "text": "o rio Itapecuru, nego pescador, olha o tamanho dessa pescada aqui velho"
+    },
+    {
+      "start": 5.45,
+      "end": 11.31,
+      "text": "caraca, olha o surubinho ali, foi uma camisola só de peixe de couro"
+    }
+  ],
+  "duracao_seg": 10.83,
+  "idioma_detectado": "pt"
+}

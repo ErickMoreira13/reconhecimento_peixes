@@ -1,0 +1,37 @@
+{
+  "texto": "Não natural quanto a luz do dia Mas que preguiça boa, me deixa aqui à toa Hoje ninguém vai estragar meu dia Só vou gastar energia pra beijar sua boca Fica comigo então, não me abandona não Alguém te perguntou como foi seu dia Uma palavra amiga, uma notícia boa Isso faz falta no dia a dia A gente nunca sabe quem são essas pessoas Eu só queria te ler, fazer mais por mim",
+  "segmentos": [
+    {
+      "start": 7.41,
+      "end": 14.97,
+      "text": "Não natural quanto a luz do dia Mas que preguiça boa, me deixa aqui à toa"
+    },
+    {
+      "start": 14.97,
+      "end": 23.4,
+      "text": "Hoje ninguém vai estragar meu dia Só vou gastar energia pra beijar sua boca"
+    },
+    {
+      "start": 23.4,
+      "end": 34.06,
+      "text": "Fica comigo então, não me abandona não Alguém te perguntou como foi seu dia"
+    },
+    {
+      "start": 34.06,
+      "end": 42.08,
+      "text": "Uma palavra amiga, uma notícia boa Isso faz falta no dia a dia"
+    },
+    {
+      "start": 42.08,
+      "end": 46.46,
+      "text": "A gente nunca sabe quem são essas pessoas"
+    },
+    {
+      "start": 46.46,
+      "end": 58.83,
+      "text": "Eu só queria te ler, fazer mais por mim"
+    }
+  ],
+  "duracao_seg": 58.83,
+  "idioma_detectado": "pt"
+}

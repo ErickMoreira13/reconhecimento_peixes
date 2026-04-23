@@ -1,0 +1,17 @@
+{
+  "texto": "Comemoração, que eu tô de volta Ai meu coração, lá na minha bota",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Comemoração, que eu tô de volta"
+    },
+    {
+      "start": 3.4,
+      "end": 6.92,
+      "text": "Ai meu coração, lá na minha bota"
+    }
+  ],
+  "duracao_seg": 7.43,
+  "idioma_detectado": "pt"
+}

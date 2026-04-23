@@ -1,0 +1,17 @@
+{
+  "texto": "E aí, quem pegou? Quem pegou? Quem pegou? Vai, você pode perder. Vai, joga na canoa. Obrigado, senhores!",
+  "segmentos": [
+    {
+      "start": 1.01,
+      "end": 15.74,
+      "text": "E aí, quem pegou? Quem pegou? Quem pegou? Vai, você pode perder. Vai, joga na canoa."
+    },
+    {
+      "start": 15.74,
+      "end": 24.71,
+      "text": "Obrigado, senhores!"
+    }
+  ],
+  "duracao_seg": 27.95,
+  "idioma_detectado": "pt"
+}

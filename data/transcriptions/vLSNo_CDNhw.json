@@ -1,0 +1,22 @@
+{
+  "texto": "Rapaz, se eu tivesse um barquinho no lugar desse, eu ia fazer um estrago, hein? Uma carretilha. Hum!",
+  "segmentos": [
+    {
+      "start": 2.01,
+      "end": 5.13,
+      "text": "Rapaz, se eu tivesse um barquinho no lugar desse, eu ia fazer um estrago, hein?"
+    },
+    {
+      "start": 7.16,
+      "end": 8.02,
+      "text": "Uma carretilha."
+    },
+    {
+      "start": 8.54,
+      "end": 8.84,
+      "text": "Hum!"
+    }
+  ],
+  "duracao_seg": 9.83,
+  "idioma_detectado": "pt"
+}

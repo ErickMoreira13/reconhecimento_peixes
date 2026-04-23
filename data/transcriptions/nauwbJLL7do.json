@@ -1,0 +1,17 @@
+{
+  "texto": "Casal é isso Tem briga sem repente",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 2.43,
+      "text": "Casal é isso"
+    },
+    {
+      "start": 2.43,
+      "end": 7.74,
+      "text": "Tem briga sem repente"
+    }
+  ],
+  "duracao_seg": 13.55,
+  "idioma_detectado": "pt"
+}

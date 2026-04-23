@@ -1,0 +1,32 @@
+{
+  "texto": "vem, vem com o passaguá aqui senão ele vai entrar aqui na é tá achando o que, cambada? sim",
+  "segmentos": [
+    {
+      "start": 4.62,
+      "end": 6.62,
+      "text": "vem, vem com o passaguá aqui"
+    },
+    {
+      "start": 6.62,
+      "end": 15.7,
+      "text": "senão ele vai entrar aqui na"
+    },
+    {
+      "start": 15.7,
+      "end": 25.43,
+      "text": "é"
+    },
+    {
+      "start": 25.43,
+      "end": 27.43,
+      "text": "tá achando o que, cambada?"
+    },
+    {
+      "start": 27.43,
+      "end": 28.78,
+      "text": "sim"
+    }
+  ],
+  "duracao_seg": 28.63,
+  "idioma_detectado": "pt"
+}

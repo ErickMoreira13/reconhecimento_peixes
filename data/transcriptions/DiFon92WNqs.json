@@ -1,0 +1,47 @@
+{
+  "texto": "Eu só descer Ô Malaguti, qual que é o carnavo de hoje? Noite mandubé fresco, filho Aí cadê esse mandubé? Aí esse aí, ó Aí, ó Mandubas Palmitão do Rio",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "Eu só descer"
+    },
+    {
+      "start": 1.7,
+      "end": 4.42,
+      "text": "Ô Malaguti, qual que é o carnavo de hoje?"
+    },
+    {
+      "start": 6.29,
+      "end": 7.65,
+      "text": "Noite mandubé fresco, filho"
+    },
+    {
+      "start": 7.65,
+      "end": 9.05,
+      "text": "Aí cadê esse mandubé?"
+    },
+    {
+      "start": 9.35,
+      "end": 10.19,
+      "text": "Aí esse aí, ó"
+    },
+    {
+      "start": 10.19,
+      "end": 12.47,
+      "text": "Aí, ó"
+    },
+    {
+      "start": 12.47,
+      "end": 15.47,
+      "text": "Mandubas"
+    },
+    {
+      "start": 15.47,
+      "end": 16.89,
+      "text": "Palmitão do Rio"
+    }
+  ],
+  "duracao_seg": 17.23,
+  "idioma_detectado": "pt"
+}

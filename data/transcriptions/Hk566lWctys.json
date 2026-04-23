@@ -1,0 +1,32 @@
+{
+  "texto": "Tá vindo fácil? Tá vindo fácil? Soltou? Parece que quebrou pai Que fisgada que deu hein pai",
+  "segmentos": [
+    {
+      "start": 1.39,
+      "end": 3.39,
+      "text": "Tá vindo fácil?"
+    },
+    {
+      "start": 3.39,
+      "end": 5.39,
+      "text": "Tá vindo fácil?"
+    },
+    {
+      "start": 5.39,
+      "end": 8.0,
+      "text": "Soltou?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.9,
+      "text": "Parece que quebrou pai"
+    },
+    {
+      "start": 10.9,
+      "end": 12.9,
+      "text": "Que fisgada que deu hein pai"
+    }
+  ],
+  "duracao_seg": 16.89,
+  "idioma_detectado": "pt"
+}

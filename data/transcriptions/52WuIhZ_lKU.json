@@ -1,0 +1,92 @@
+{
+  "texto": "Mais um dia de pescaria Olha galera, olha Olha o cabelinho para a galera aí Para o matazinha galera Olha aí galerinha, olha só Vamos matar a pescaria aqui no jiri Olha esse maninho, que sacacazão aí Olha o tamanho dos baita aí Só bala de bandir Só aí, pode gravar aí O tamanho da criança aí Olha aí galera, show demais galera Só peixe lindo, gordo Esse aqui, gordo aí galera, deixa eu mostrar aqui para vocês Olha aí, é só O puro galera É isso aí viu galera, vai acompanhando aqui demais",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Mais um dia de pescaria"
+    },
+    {
+      "start": 1.44,
+      "end": 2.54,
+      "text": "Olha galera, olha"
+    },
+    {
+      "start": 2.54,
+      "end": 5.39,
+      "text": "Olha o cabelinho para a galera aí"
+    },
+    {
+      "start": 5.39,
+      "end": 8.23,
+      "text": "Para o matazinha galera"
+    },
+    {
+      "start": 8.23,
+      "end": 11.6,
+      "text": "Olha aí galerinha, olha só"
+    },
+    {
+      "start": 11.6,
+      "end": 13.8,
+      "text": "Vamos matar a pescaria aqui no jiri"
+    },
+    {
+      "start": 13.8,
+      "end": 22.86,
+      "text": "Olha esse maninho, que sacacazão aí"
+    },
+    {
+      "start": 22.86,
+      "end": 40.61,
+      "text": "Olha o tamanho dos baita aí"
+    },
+    {
+      "start": 40.61,
+      "end": 41.61,
+      "text": "Só bala de bandir"
+    },
+    {
+      "start": 41.61,
+      "end": 43.17,
+      "text": "Só aí, pode gravar aí"
+    },
+    {
+      "start": 43.17,
+      "end": 45.31,
+      "text": "O tamanho da criança aí"
+    },
+    {
+      "start": 45.31,
+      "end": 47.13,
+      "text": "Olha aí galera, show demais galera"
+    },
+    {
+      "start": 47.13,
+      "end": 48.35,
+      "text": "Só peixe lindo, gordo"
+    },
+    {
+      "start": 48.35,
+      "end": 51.17,
+      "text": "Esse aqui, gordo aí galera, deixa eu mostrar aqui para vocês"
+    },
+    {
+      "start": 51.17,
+      "end": 53.33,
+      "text": "Olha aí, é só"
+    },
+    {
+      "start": 53.33,
+      "end": 54.65,
+      "text": "O puro galera"
+    },
+    {
+      "start": 54.65,
+      "end": 57.09,
+      "text": "É isso aí viu galera, vai acompanhando aqui demais"
+    }
+  ],
+  "duracao_seg": 57.25,
+  "idioma_detectado": "pt"
+}

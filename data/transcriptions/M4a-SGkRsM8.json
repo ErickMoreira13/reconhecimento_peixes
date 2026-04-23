@@ -1,0 +1,27 @@
+{
+  "texto": "Bom dia pessoal, eu vim olhar o rio Tapicuru aqui no centro da cidade aqui, na ponte que passa aqui, que vai sobre o... passa para o lado do Senai, do Senai, do parque da cidade, mas o rio aqui não pegou água não, está bem baixo, está alta a água dele só lá no rumo de Codó mesmo, que eu vi falando aí que lá estava enchente muito grande, para cá não, porque está baixo.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.67,
+      "text": "Bom dia pessoal, eu vim olhar o rio Tapicuru aqui no centro da cidade aqui,"
+    },
+    {
+      "start": 7.6,
+      "end": 15.82,
+      "text": "na ponte que passa aqui, que vai sobre o... passa para o lado do Senai, do Senai, do parque da cidade,"
+    },
+    {
+      "start": 16.0,
+      "end": 27.13,
+      "text": "mas o rio aqui não pegou água não, está bem baixo, está alta a água dele só lá no rumo de Codó mesmo,"
+    },
+    {
+      "start": 27.13,
+      "end": 32.17,
+      "text": "que eu vi falando aí que lá estava enchente muito grande, para cá não, porque está baixo."
+    }
+  ],
+  "duracao_seg": 33.75,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "e não mexe não Daniel não mexe não não mexe não fica paradinho ela tá com você não mexe não Daniel não mexe não fica parado eu vou aí com o barco eu meto o barco em cima dele passar você não mexe não parado fica paradinho paradinho",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 6.18,
+      "text": "e não mexe não Daniel não mexe não não mexe não fica paradinho ela tá com você não mexe"
+    },
+    {
+      "start": 6.18,
+      "end": 10.62,
+      "text": "não Daniel não mexe não fica parado eu vou aí com o barco eu meto o barco em cima dele"
+    },
+    {
+      "start": 10.62,
+      "end": 13.74,
+      "text": "passar você não mexe não parado fica paradinho paradinho"
+    }
+  ],
+  "duracao_seg": 17.17,
+  "idioma_detectado": "pt"
+}

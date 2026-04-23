@@ -1,0 +1,17 @@
+{
+  "texto": "Bom dia, abre a janela, deixa o sol entrar Sorria, veste tua alegria que o melhor virá",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.07,
+      "text": "Bom dia, abre a janela, deixa o sol entrar"
+    },
+    {
+      "start": 6.07,
+      "end": 11.95,
+      "text": "Sorria, veste tua alegria que o melhor virá"
+    }
+  ],
+  "duracao_seg": 12.09,
+  "idioma_detectado": "pt"
+}

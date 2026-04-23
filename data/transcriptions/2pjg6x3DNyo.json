@@ -1,0 +1,32 @@
+{
+  "texto": "Bora ver aqui ó, pescariazinha hoje diferente galera ó, piranha aí, linha de mão, linha de mão aqui parece que vai ter uma aqui galera Bora ver aqui, é galera já comeram aí ó, já comeram galera, pescariazinha hoje aí é diferenciada E aqui é o cambozinho de piranha galera, bastante piranhazinha aí já aqui, pegada aqui no nosso Itapecuruza A bicha tá viva ainda ó, pra vacilar aqui ela morre o dedo na hora, show demais galera ó, cambozinho aí, linha de mão, bora lá, vou arremessar aqui de novo aqui Toda escadinha aí ó, agora vamos arremessar lá, vamos para o rio lá, enquanto isso galera ó",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 10.32,
+      "text": "Bora ver aqui ó, pescariazinha hoje diferente galera ó, piranha aí, linha de mão, linha de mão aqui parece que vai ter uma aqui galera"
+    },
+    {
+      "start": 10.32,
+      "end": 23.41,
+      "text": "Bora ver aqui, é galera já comeram aí ó, já comeram galera, pescariazinha hoje aí é diferenciada"
+    },
+    {
+      "start": 23.41,
+      "end": 30.88,
+      "text": "E aqui é o cambozinho de piranha galera, bastante piranhazinha aí já aqui, pegada aqui no nosso Itapecuruza"
+    },
+    {
+      "start": 30.88,
+      "end": 42.06,
+      "text": "A bicha tá viva ainda ó, pra vacilar aqui ela morre o dedo na hora, show demais galera ó, cambozinho aí, linha de mão, bora lá, vou arremessar aqui de novo aqui"
+    },
+    {
+      "start": 42.06,
+      "end": 56.84,
+      "text": "Toda escadinha aí ó, agora vamos arremessar lá, vamos para o rio lá, enquanto isso galera ó"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

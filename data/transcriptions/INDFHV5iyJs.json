@@ -1,0 +1,32 @@
+{
+  "texto": "Casca de bala, eu e casca de bala Nós não perdão a baquejão, perdão a baquejada Casca de bala, derrubaram o gol no chão Final de semana tem, nós vamos faroão Eu e casca de bala, derrubaram o horário amanhã",
+  "segmentos": [
+    {
+      "start": 4.53,
+      "end": 7.15,
+      "text": "Casca de bala, eu e casca de bala"
+    },
+    {
+      "start": 7.15,
+      "end": 15.86,
+      "text": "Nós não perdão a baquejão, perdão a baquejada"
+    },
+    {
+      "start": 15.86,
+      "end": 38.81,
+      "text": "Casca de bala, derrubaram o gol no chão"
+    },
+    {
+      "start": 38.81,
+      "end": 42.39,
+      "text": "Final de semana tem, nós vamos faroão"
+    },
+    {
+      "start": 42.39,
+      "end": 51.14,
+      "text": "Eu e casca de bala, derrubaram o horário amanhã"
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

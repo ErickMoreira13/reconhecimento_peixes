@@ -1,0 +1,47 @@
+{
+  "texto": "Rio Itapecuru, nego pescador Olha o tamanho dessa pescada aqui, velho Caraca, olha o surubinhozinho ali Esse é o campo só de peixe de couro O campo aí tá bonito, né? Tá, só Ah, que espera aí, tá, mano Que não resolveu",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Rio Itapecuru, nego pescador"
+    },
+    {
+      "start": 2.44,
+      "end": 4.9,
+      "text": "Olha o tamanho dessa pescada aqui, velho"
+    },
+    {
+      "start": 4.9,
+      "end": 8.3,
+      "text": "Caraca, olha o surubinhozinho ali"
+    },
+    {
+      "start": 8.3,
+      "end": 10.88,
+      "text": "Esse é o campo só de peixe de couro"
+    },
+    {
+      "start": 10.88,
+      "end": 13.99,
+      "text": "O campo aí tá bonito, né?"
+    },
+    {
+      "start": 14.01,
+      "end": 14.55,
+      "text": "Tá, só"
+    },
+    {
+      "start": 14.55,
+      "end": 16.39,
+      "text": "Ah, que espera aí, tá, mano"
+    },
+    {
+      "start": 16.39,
+      "end": 17.35,
+      "text": "Que não resolveu"
+    }
+  ],
+  "duracao_seg": 17.39,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,42 @@
+{
+  "texto": "Pessoal, aqui, ó Nós pega o Piau Sul Não deu medida Mas nós solta o bichinho, ó Vai crescer para que o ano que vem Ou no outro, pega ele de novo, ó Aí, bichinho, bichão",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 1.42,
+      "text": "Pessoal, aqui, ó"
+    },
+    {
+      "start": 1.42,
+      "end": 3.58,
+      "text": "Nós pega o Piau Sul"
+    },
+    {
+      "start": 3.58,
+      "end": 4.58,
+      "text": "Não deu medida"
+    },
+    {
+      "start": 4.58,
+      "end": 6.58,
+      "text": "Mas nós solta o bichinho, ó"
+    },
+    {
+      "start": 6.58,
+      "end": 9.32,
+      "text": "Vai crescer para que o ano que vem"
+    },
+    {
+      "start": 9.32,
+      "end": 11.22,
+      "text": "Ou no outro, pega ele de novo, ó"
+    },
+    {
+      "start": 11.22,
+      "end": 15.51,
+      "text": "Aí, bichinho, bichão"
+    }
+  ],
+  "duracao_seg": 17.07,
+  "idioma_detectado": "pt"
+}

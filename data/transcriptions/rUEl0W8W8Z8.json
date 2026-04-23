@@ -1,0 +1,22 @@
+{
+  "texto": "Aí pessoal, aqui é o famoso de Itapicuru, da cidade de Caxê, que é sobre a ponte, passa na BR. Mas só que não tá muito cheio não, não tá um pouco de água, mas tá cheio até baixo. Tá cheio, mas não tá assim cheio não.",
+  "segmentos": [
+    {
+      "start": 2.86,
+      "end": 12.84,
+      "text": "Aí pessoal, aqui é o famoso de Itapicuru, da cidade de Caxê, que é sobre a ponte, passa na BR."
+    },
+    {
+      "start": 14.0,
+      "end": 21.52,
+      "text": "Mas só que não tá muito cheio não, não tá um pouco de água, mas tá cheio até baixo."
+    },
+    {
+      "start": 22.02,
+      "end": 30.81,
+      "text": "Tá cheio, mas não tá assim cheio não."
+    }
+  ],
+  "duracao_seg": 34.51,
+  "idioma_detectado": "pt"
+}

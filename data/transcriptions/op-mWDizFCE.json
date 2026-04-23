@@ -1,0 +1,52 @@
+{
+  "texto": "rapaziada saí em busca procurando um lugar para pescar hoje olha onde eu vim parar esse lugar é conhecido como ponte preta no rio vermelho está pescando aqui ó com minhoca nossa escola levou a vara para andar aqui pensando com minhoca nessa vara acabei de puxar com uma fina nessa outra aqui ó pra ver se entra alguma tilápia algum piau olha que lugar top demais muito bonito aqui só que o rio está um pouco cheio está descendo bastante sujeira como vocês podem ver choveu bastante ontem à noite então é a consequência da natureza mas já conseguimos pegar um bagrinho a bichinho vamos ver se a gente tem sorte de pegar umas tilápia aqui e ao olha que bonito",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 5.99,
+      "text": "rapaziada saí em busca procurando um lugar para pescar hoje olha onde eu vim"
+    },
+    {
+      "start": 5.99,
+      "end": 14.93,
+      "text": "parar esse lugar é conhecido como ponte preta no rio vermelho está pescando aqui"
+    },
+    {
+      "start": 14.93,
+      "end": 21.89,
+      "text": "ó com minhoca nossa escola levou a vara para andar aqui pensando com minhoca nessa"
+    },
+    {
+      "start": 21.89,
+      "end": 28.03,
+      "text": "vara acabei de puxar com uma fina nessa outra aqui ó pra ver se entra alguma"
+    },
+    {
+      "start": 28.03,
+      "end": 36.64,
+      "text": "tilápia algum piau olha que lugar top demais muito bonito aqui só que o rio"
+    },
+    {
+      "start": 36.64,
+      "end": 40.72,
+      "text": "está um pouco cheio está descendo bastante sujeira como vocês podem ver choveu"
+    },
+    {
+      "start": 40.72,
+      "end": 46.63,
+      "text": "bastante ontem à noite então é a consequência da natureza mas já"
+    },
+    {
+      "start": 46.63,
+      "end": 53.32,
+      "text": "conseguimos pegar um bagrinho a bichinho vamos ver se a gente tem sorte de pegar"
+    },
+    {
+      "start": 53.32,
+      "end": 59.75,
+      "text": "umas tilápia aqui e ao olha que bonito"
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

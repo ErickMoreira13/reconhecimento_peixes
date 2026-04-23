@@ -1,0 +1,37 @@
+{
+  "texto": "O carro está rugindo, parecendo fera Te azulada de uma primavera A cidade já não cabe no meu coração Eu decolo feito um lar, o paré Está nascendo, está chegando Desse carro pela rodovia",
+  "segmentos": [
+    {
+      "start": 26.03,
+      "end": 29.71,
+      "text": "O carro está rugindo, parecendo fera"
+    },
+    {
+      "start": 29.71,
+      "end": 47.65,
+      "text": "Te azulada de uma primavera"
+    },
+    {
+      "start": 48.43,
+      "end": 53.39,
+      "text": "A cidade já não cabe no meu coração"
+    },
+    {
+      "start": 53.39,
+      "end": 145.61,
+      "text": "Eu decolo feito um lar, o paré"
+    },
+    {
+      "start": 145.61,
+      "end": 152.2,
+      "text": "Está nascendo, está chegando"
+    },
+    {
+      "start": 152.2,
+      "end": 170.57,
+      "text": "Desse carro pela rodovia"
+    }
+  ],
+  "duracao_seg": 235.49,
+  "idioma_detectado": "pt"
+}

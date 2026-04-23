@@ -1,0 +1,22 @@
+{
+  "texto": "Eu aproveito mesmo que a vida não é só trabalhar e pagar conta não. Afinal de contas, só o que vale é o arrumamento. Eu tô endividado, mas também tenho o direito de ser feliz.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Eu aproveito mesmo que a vida não é só trabalhar e pagar conta não."
+    },
+    {
+      "start": 3.62,
+      "end": 5.56,
+      "text": "Afinal de contas, só o que vale é o arrumamento."
+    },
+    {
+      "start": 6.18,
+      "end": 8.02,
+      "text": "Eu tô endividado, mas também tenho o direito de ser feliz."
+    }
+  ],
+  "duracao_seg": 8.55,
+  "idioma_detectado": "pt"
+}

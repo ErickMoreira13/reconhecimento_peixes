@@ -1,0 +1,57 @@
+{
+  "texto": "É isso aí galera, aqui é Ricardo Barreto, voltando da pescaria. Hoje foi um grande dia, tive um grande parceiro chamado Nego, Nego Pitor, Nego Pescador, homem polivalente, que honra tremenda estar aqui com ele hoje fazendo essa pescaria. Pega o peixe boi aí Nego, mostra aí a galera aí, como é que foi o peixe boi, mostra aí. Gordo, cadê o vermelho? Pega o vermelho aí, um só, um só. E é isso aí, a pescaria hoje é sucesso. Balde cheio, hoje nós garantimos o frito, e o importante é esse prazer imenso de estar aqui com a natureza, e ela nos privilegiar com os peixes fantásticos, peixe boi, vários vermelhos, e é isso aí. Galera, estou aqui agora, a linha aí da água, cada um do peixe, forte abraço a todos, e daqui a pouco a gente manda o resultado. Um abraço!",
+  "segmentos": [
+    {
+      "start": 0.28,
+      "end": 4.48,
+      "text": "É isso aí galera, aqui é Ricardo Barreto, voltando da pescaria."
+    },
+    {
+      "start": 5.44,
+      "end": 14.85,
+      "text": "Hoje foi um grande dia, tive um grande parceiro chamado Nego, Nego Pitor, Nego Pescador,"
+    },
+    {
+      "start": 15.29,
+      "end": 21.42,
+      "text": "homem polivalente, que honra tremenda estar aqui com ele hoje fazendo essa pescaria."
+    },
+    {
+      "start": 22.22,
+      "end": 29.28,
+      "text": "Pega o peixe boi aí Nego, mostra aí a galera aí, como é que foi o peixe boi, mostra aí."
+    },
+    {
+      "start": 29.28,
+      "end": 44.06,
+      "text": "Gordo, cadê o vermelho? Pega o vermelho aí, um só, um só."
+    },
+    {
+      "start": 45.1,
+      "end": 47.06,
+      "text": "E é isso aí, a pescaria hoje é sucesso."
+    },
+    {
+      "start": 48.78,
+      "end": 58.78,
+      "text": "Balde cheio, hoje nós garantimos o frito, e o importante é esse prazer imenso de estar aqui com a natureza,"
+    },
+    {
+      "start": 59.74,
+      "end": 73.11,
+      "text": "e ela nos privilegiar com os peixes fantásticos, peixe boi, vários vermelhos, e é isso aí."
+    },
+    {
+      "start": 73.11,
+      "end": 96.72,
+      "text": "Galera, estou aqui agora, a linha aí da água, cada um do peixe, forte abraço a todos,"
+    },
+    {
+      "start": 96.8,
+      "end": 98.8,
+      "text": "e daqui a pouco a gente manda o resultado. Um abraço!"
+    }
+  ],
+  "duracao_seg": 99.03,
+  "idioma_detectado": "pt"
+}
