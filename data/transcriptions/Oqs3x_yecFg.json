@@ -1,0 +1,82 @@
+{
+  "texto": "Que tamanho, gente! Nossa! Essa é grande, tá? Avenaria! Resulta o tamanho estranho! Olha! Quatro quilos de curvura! Levanta ela aí! Levanta ela aí! Aí, Leones! Deixa eu virar ela! Leones, dá uma olhada! Aí, Jairão! Olha os tamanhos! Você tá doido!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Que tamanho, gente!"
+    },
+    {
+      "start": 3.34,
+      "end": 6.98,
+      "text": "Nossa!"
+    },
+    {
+      "start": 6.98,
+      "end": 11.12,
+      "text": "Essa é grande, tá?"
+    },
+    {
+      "start": 11.12,
+      "end": 13.41,
+      "text": "Avenaria!"
+    },
+    {
+      "start": 13.41,
+      "end": 15.41,
+      "text": "Resulta o tamanho estranho!"
+    },
+    {
+      "start": 15.41,
+      "end": 17.98,
+      "text": "Olha!"
+    },
+    {
+      "start": 17.98,
+      "end": 20.27,
+      "text": "Quatro quilos de curvura!"
+    },
+    {
+      "start": 20.27,
+      "end": 22.27,
+      "text": "Levanta ela aí!"
+    },
+    {
+      "start": 22.27,
+      "end": 24.91,
+      "text": "Levanta ela aí!"
+    },
+    {
+      "start": 24.91,
+      "end": 26.91,
+      "text": "Aí, Leones!"
+    },
+    {
+      "start": 26.91,
+      "end": 28.91,
+      "text": "Deixa eu virar ela!"
+    },
+    {
+      "start": 28.91,
+      "end": 31.26,
+      "text": "Leones, dá uma olhada!"
+    },
+    {
+      "start": 31.26,
+      "end": 33.42,
+      "text": "Aí, Jairão!"
+    },
+    {
+      "start": 33.42,
+      "end": 35.42,
+      "text": "Olha os tamanhos!"
+    },
+    {
+      "start": 35.42,
+      "end": 37.42,
+      "text": "Você tá doido!"
+    }
+  ],
+  "duracao_seg": 38.65,
+  "idioma_detectado": "pt"
+}

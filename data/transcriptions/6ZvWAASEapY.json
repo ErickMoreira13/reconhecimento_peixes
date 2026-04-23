@@ -1,0 +1,37 @@
+{
+  "texto": "Aí galera, um cachalhão aqui do Rio Guapoé Com vontade de me dar um tiro Curricando tudo com a lenta Vamos fazer a solta do bicho aí Vamos aí, ó Tchau, bichão",
+  "segmentos": [
+    {
+      "start": 2.0,
+      "end": 4.94,
+      "text": "Aí galera, um cachalhão aqui do Rio Guapoé"
+    },
+    {
+      "start": 4.94,
+      "end": 8.24,
+      "text": "Com vontade de me dar um tiro"
+    },
+    {
+      "start": 8.24,
+      "end": 10.18,
+      "text": "Curricando tudo com a lenta"
+    },
+    {
+      "start": 10.18,
+      "end": 12.0,
+      "text": "Vamos fazer a solta do bicho aí"
+    },
+    {
+      "start": 12.0,
+      "end": 13.47,
+      "text": "Vamos aí, ó"
+    },
+    {
+      "start": 13.47,
+      "end": 17.4,
+      "text": "Tchau, bichão"
+    }
+  ],
+  "duracao_seg": 18.31,
+  "idioma_detectado": "pt"
+}

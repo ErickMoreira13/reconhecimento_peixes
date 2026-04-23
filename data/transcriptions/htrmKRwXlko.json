@@ -1,0 +1,67 @@
+{
+  "texto": "Vai pra lá, Pepe. Você tem que te levar lá onde é que... De jeito, você perde o bicho. Você tá doido, gente. Que isso? Isso é boa. Boa. Aí, Zezinha, assim que é pescaria, seu porra. Que bosta. Deixa ele. Vamos sacar. É bonito. Deixa ele. Aí, Zezinha, isso que é pegar peixe, porra.",
+  "segmentos": [
+    {
+      "start": 59.7,
+      "end": 62.7,
+      "text": "Vai pra lá, Pepe. Você tem que te levar lá onde é que..."
+    },
+    {
+      "start": 62.7,
+      "end": 95.3,
+      "text": "De jeito, você perde o bicho. Você tá doido, gente."
+    },
+    {
+      "start": 95.3,
+      "end": 97.49,
+      "text": "Que isso?"
+    },
+    {
+      "start": 97.49,
+      "end": 98.49,
+      "text": "Isso é boa."
+    },
+    {
+      "start": 98.49,
+      "end": 101.15,
+      "text": "Boa."
+    },
+    {
+      "start": 101.15,
+      "end": 104.15,
+      "text": "Aí, Zezinha, assim que é pescaria, seu porra."
+    },
+    {
+      "start": 104.15,
+      "end": 106.15,
+      "text": "Que bosta."
+    },
+    {
+      "start": 106.15,
+      "end": 138.9,
+      "text": "Deixa ele."
+    },
+    {
+      "start": 138.9,
+      "end": 143.9,
+      "text": "Vamos sacar."
+    },
+    {
+      "start": 143.9,
+      "end": 164.2,
+      "text": "É bonito."
+    },
+    {
+      "start": 164.2,
+      "end": 170.61,
+      "text": "Deixa ele."
+    },
+    {
+      "start": 170.61,
+      "end": 173.61,
+      "text": "Aí, Zezinha, isso que é pegar peixe, porra."
+    }
+  ],
+  "duracao_seg": 175.09,
+  "idioma_detectado": "pt"
+}

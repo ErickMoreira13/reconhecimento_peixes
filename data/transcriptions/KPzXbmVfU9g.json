@@ -1,0 +1,87 @@
+{
+  "texto": "Puxa o peixe, cara. Puxa o peixe, homem. Puxa o peixe, homem. Puxa o peixe, homem. Puxa o peixe, homem. Eita, um baleiro. Aqui eu gosto, é muito. Apreciso com moderação. Aqui é nóis. É, maravilha. Olha o rio aí. Como é que não é o negócio aqui, rapaz. Isso aqui não é brinquedo, não. Aqui é nóis. Aí clica bem no pauzinho. Aqui é nóis.",
+  "segmentos": [
+    {
+      "start": 1.36,
+      "end": 3.36,
+      "text": "Puxa o peixe, cara."
+    },
+    {
+      "start": 3.36,
+      "end": 5.36,
+      "text": "Puxa o peixe, homem."
+    },
+    {
+      "start": 5.36,
+      "end": 7.36,
+      "text": "Puxa o peixe, homem."
+    },
+    {
+      "start": 7.36,
+      "end": 10.19,
+      "text": "Puxa o peixe, homem."
+    },
+    {
+      "start": 10.19,
+      "end": 12.7,
+      "text": "Puxa o peixe, homem."
+    },
+    {
+      "start": 12.7,
+      "end": 15.66,
+      "text": "Eita, um baleiro."
+    },
+    {
+      "start": 15.66,
+      "end": 17.66,
+      "text": "Aqui eu gosto, é muito."
+    },
+    {
+      "start": 17.66,
+      "end": 19.66,
+      "text": "Apreciso com moderação."
+    },
+    {
+      "start": 19.66,
+      "end": 21.66,
+      "text": "Aqui é nóis."
+    },
+    {
+      "start": 21.66,
+      "end": 23.66,
+      "text": "É, maravilha."
+    },
+    {
+      "start": 23.66,
+      "end": 25.66,
+      "text": "Olha o rio aí."
+    },
+    {
+      "start": 25.66,
+      "end": 27.66,
+      "text": "Como é que não é o negócio aqui, rapaz."
+    },
+    {
+      "start": 27.66,
+      "end": 29.66,
+      "text": "Isso aqui não é brinquedo, não."
+    },
+    {
+      "start": 29.66,
+      "end": 32.82,
+      "text": "Aqui é nóis."
+    },
+    {
+      "start": 32.82,
+      "end": 34.82,
+      "text": "Aí clica bem no pauzinho."
+    },
+    {
+      "start": 34.82,
+      "end": 36.85,
+      "text": "Aqui é nóis."
+    }
+  ],
+  "duracao_seg": 35.57,
+  "idioma_detectado": "pt"
+}

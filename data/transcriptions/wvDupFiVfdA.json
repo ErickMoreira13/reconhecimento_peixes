@@ -1,0 +1,17 @@
+{
+  "texto": "Nós falamos, bruto, o que merece os machos que trabalham? Aí sim!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.77,
+      "text": "Nós falamos, bruto, o que merece os machos que trabalham?"
+    },
+    {
+      "start": 7.07,
+      "end": 7.73,
+      "text": "Aí sim!"
+    }
+  ],
+  "duracao_seg": 8.81,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,222 @@
+{
+  "texto": "E aí moçada, nós tá aqui no Tapirapé, certo? Aqui é o seguinte patrão, aqui quem pega peixe é nós Aí ó, olha ó E o careca aqui tá batendo recorde né? Mas aqui é cidadão ali ó Aqui é cidadão ali Aqui é cidadãozinho ali ó Vou mostrar agora pra vocês aí Esse aí ó Se você fosse viver de comer peixe, hoje é morrer de fome Aqui não tem jeito Seu cú Frank, quem pegou os peixes aqui foi tudo Deus Aí ó Aí patrão, nós pegar a canoa Nós Falou pra ele, nós fazemos um propósito pra ele Só pegando os peixes, que não vai pegando Pra jogar na canoa, porque fica longe, entendeu? Pra não pegar o peixe aqui Já pegar o peixe e levar pra canoa Fica meio complicado né? Já que não pega mesmo Aí pra você ver aqui ó lá Troca de isca Troca de isca, troca de vara Pesca com a mão e não vira nada Vou falar pra você aqui que não pegou Ele pegou umas duas piranhas aqui ó Aqui ó Olha ó As piranhas aqui, pegou aí ó Pegou os peixes tudo, não fui eu Aí ele vai outro para lá Certo? Isso aqui ó Nós trouxe eu só pra Pra pegar a cerveja pra nós E ter mais uma E pra colocar os peixes na canoa Só mais nada Tchau Tchau Tchau",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.15,
+      "text": "E aí moçada, nós tá aqui no Tapirapé, certo?"
+    },
+    {
+      "start": 5.72,
+      "end": 8.62,
+      "text": "Aqui é o seguinte patrão, aqui quem pega peixe é nós"
+    },
+    {
+      "start": 8.62,
+      "end": 12.07,
+      "text": "Aí ó, olha ó"
+    },
+    {
+      "start": 12.07,
+      "end": 16.35,
+      "text": "E o careca aqui tá batendo recorde né?"
+    },
+    {
+      "start": 17.05,
+      "end": 18.37,
+      "text": "Mas aqui é cidadão ali ó"
+    },
+    {
+      "start": 18.37,
+      "end": 22.2,
+      "text": "Aqui é cidadão ali"
+    },
+    {
+      "start": 22.2,
+      "end": 25.38,
+      "text": "Aqui é cidadãozinho ali ó"
+    },
+    {
+      "start": 25.38,
+      "end": 27.12,
+      "text": "Vou mostrar agora pra vocês aí"
+    },
+    {
+      "start": 27.12,
+      "end": 28.28,
+      "text": "Esse aí ó"
+    },
+    {
+      "start": 28.28,
+      "end": 35.16,
+      "text": "Se você fosse viver de comer peixe, hoje é morrer de fome"
+    },
+    {
+      "start": 35.16,
+      "end": 36.28,
+      "text": "Aqui não tem jeito"
+    },
+    {
+      "start": 36.28,
+      "end": 39.06,
+      "text": "Seu cú Frank, quem pegou os peixes aqui foi tudo Deus"
+    },
+    {
+      "start": 39.06,
+      "end": 40.18,
+      "text": "Aí ó"
+    },
+    {
+      "start": 40.18,
+      "end": 42.76,
+      "text": "Aí patrão, nós pegar a canoa"
+    },
+    {
+      "start": 42.76,
+      "end": 44.26,
+      "text": "Nós"
+    },
+    {
+      "start": 44.26,
+      "end": 46.46,
+      "text": "Falou pra ele, nós fazemos um propósito pra ele"
+    },
+    {
+      "start": 46.46,
+      "end": 49.06,
+      "text": "Só pegando os peixes, que não vai pegando"
+    },
+    {
+      "start": 49.06,
+      "end": 50.76,
+      "text": "Pra jogar na canoa, porque fica longe, entendeu?"
+    },
+    {
+      "start": 50.84,
+      "end": 51.9,
+      "text": "Pra não pegar o peixe aqui"
+    },
+    {
+      "start": 51.9,
+      "end": 54.52,
+      "text": "Já pegar o peixe e levar pra canoa"
+    },
+    {
+      "start": 54.52,
+      "end": 55.76,
+      "text": "Fica meio complicado né?"
+    },
+    {
+      "start": 56.38,
+      "end": 57.44,
+      "text": "Já que não pega mesmo"
+    },
+    {
+      "start": 57.44,
+      "end": 59.61,
+      "text": "Aí pra você ver aqui ó lá"
+    },
+    {
+      "start": 59.61,
+      "end": 61.09,
+      "text": "Troca de isca"
+    },
+    {
+      "start": 61.09,
+      "end": 64.15,
+      "text": "Troca de isca, troca de vara"
+    },
+    {
+      "start": 64.15,
+      "end": 67.58,
+      "text": "Pesca com a mão e não vira nada"
+    },
+    {
+      "start": 67.58,
+      "end": 69.62,
+      "text": "Vou falar pra você aqui que não pegou"
+    },
+    {
+      "start": 69.62,
+      "end": 71.0,
+      "text": "Ele pegou umas duas piranhas aqui ó"
+    },
+    {
+      "start": 71.0,
+      "end": 71.96,
+      "text": "Aqui ó"
+    },
+    {
+      "start": 71.96,
+      "end": 72.92,
+      "text": "Olha ó"
+    },
+    {
+      "start": 72.92,
+      "end": 74.16,
+      "text": "As piranhas aqui, pegou aí ó"
+    },
+    {
+      "start": 74.16,
+      "end": 75.74,
+      "text": "Pegou os peixes tudo, não fui eu"
+    },
+    {
+      "start": 75.74,
+      "end": 77.39,
+      "text": "Aí ele vai outro para lá"
+    },
+    {
+      "start": 77.39,
+      "end": 77.99,
+      "text": "Certo?"
+    },
+    {
+      "start": 78.31,
+      "end": 78.93,
+      "text": "Isso aqui ó"
+    },
+    {
+      "start": 78.93,
+      "end": 81.37,
+      "text": "Nós trouxe eu só pra"
+    },
+    {
+      "start": 81.37,
+      "end": 83.91,
+      "text": "Pra pegar a cerveja pra nós"
+    },
+    {
+      "start": 83.91,
+      "end": 84.87,
+      "text": "E ter mais uma"
+    },
+    {
+      "start": 84.87,
+      "end": 88.31,
+      "text": "E pra colocar os peixes na canoa"
+    },
+    {
+      "start": 88.31,
+      "end": 89.23,
+      "text": "Só mais nada"
+    },
+    {
+      "start": 89.23,
+      "end": 90.19,
+      "text": "Tchau"
+    },
+    {
+      "start": 90.19,
+      "end": 90.23,
+      "text": "Tchau"
+    },
+    {
+      "start": 90.23,
+      "end": 91.11,
+      "text": "Tchau"
+    }
+  ],
+  "duracao_seg": 90.31,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,147 @@
+{
+  "texto": "Porra, porra, desse aí que eu já peguei uma vez na minha vida. Um piau desse aí. Rapaz. Isso é papaterra, é? É, não. Cuidado, Thiago, senão deixa escapar. É você, carrega o meu bolinete. Que piau é esse aí, Thiago? Hã? É o que o profissional pega. Não? É saber que peixe que é, rapaz. O profissional, menino. Aqui não. Barba aí, Nelson. Que peixe que é? Vem que vai passar muito, vem cá. E aí? Nossa. Eu faço assim, meu irmão. Esse daí, né? Ih, hum, hum. Para aí. Para aí. Você carrega o meu bolinete. O dinheiro, né? Parabéns, hein? Você é bonito.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 12.02,
+      "text": "Porra, porra, desse aí que eu já peguei uma vez na minha vida."
+    },
+    {
+      "start": 12.98,
+      "end": 14.14,
+      "text": "Um piau desse aí."
+    },
+    {
+      "start": 14.66,
+      "end": 15.14,
+      "text": "Rapaz."
+    },
+    {
+      "start": 15.26,
+      "end": 16.26,
+      "text": "Isso é papaterra, é?"
+    },
+    {
+      "start": 16.4,
+      "end": 16.82,
+      "text": "É, não."
+    },
+    {
+      "start": 18.83,
+      "end": 20.45,
+      "text": "Cuidado, Thiago, senão deixa escapar."
+    },
+    {
+      "start": 20.49,
+      "end": 22.23,
+      "text": "É você, carrega o meu bolinete."
+    },
+    {
+      "start": 24.49,
+      "end": 25.65,
+      "text": "Que piau é esse aí, Thiago?"
+    },
+    {
+      "start": 26.91,
+      "end": 27.11,
+      "text": "Hã?"
+    },
+    {
+      "start": 27.71,
+      "end": 28.77,
+      "text": "É o que o profissional pega."
+    },
+    {
+      "start": 29.05,
+      "end": 29.31,
+      "text": "Não?"
+    },
+    {
+      "start": 30.17,
+      "end": 31.81,
+      "text": "É saber que peixe que é, rapaz."
+    },
+    {
+      "start": 32.05,
+      "end": 43.49,
+      "text": "O profissional, menino."
+    },
+    {
+      "start": 44.72,
+      "end": 45.54,
+      "text": "Aqui não."
+    },
+    {
+      "start": 45.84,
+      "end": 46.64,
+      "text": "Barba aí, Nelson."
+    },
+    {
+      "start": 46.94,
+      "end": 47.74,
+      "text": "Que peixe que é?"
+    },
+    {
+      "start": 47.74,
+      "end": 49.38,
+      "text": "Vem que vai passar muito, vem cá."
+    },
+    {
+      "start": 49.38,
+      "end": 50.0,
+      "text": "E aí?"
+    },
+    {
+      "start": 51.5,
+      "end": 51.9,
+      "text": "Nossa."
+    },
+    {
+      "start": 51.9,
+      "end": 52.98,
+      "text": "Eu faço assim, meu irmão."
+    },
+    {
+      "start": 53.28,
+      "end": 54.06,
+      "text": "Esse daí, né?"
+    },
+    {
+      "start": 54.58,
+      "end": 55.26,
+      "text": "Ih, hum, hum."
+    },
+    {
+      "start": 56.0,
+      "end": 56.48,
+      "text": "Para aí."
+    },
+    {
+      "start": 57.82,
+      "end": 58.3,
+      "text": "Para aí."
+    },
+    {
+      "start": 61.53,
+      "end": 62.91,
+      "text": "Você carrega o meu bolinete."
+    },
+    {
+      "start": 64.03,
+      "end": 65.01,
+      "text": "O dinheiro, né?"
+    },
+    {
+      "start": 66.63,
+      "end": 67.51,
+      "text": "Parabéns, hein?"
+    },
+    {
+      "start": 68.73,
+      "end": 69.73,
+      "text": "Você é bonito."
+    }
+  ],
+  "duracao_seg": 72.09,
+  "idioma_detectado": "pt"
+}

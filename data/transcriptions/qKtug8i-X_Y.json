@@ -1,0 +1,22 @@
+{
+  "texto": "A lei está gravando. O barco subiu. Subiu.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.46,
+      "text": "A lei está gravando."
+    },
+    {
+      "start": 7.46,
+      "end": 9.92,
+      "text": "O barco subiu."
+    },
+    {
+      "start": 11.12,
+      "end": 11.88,
+      "text": "Subiu."
+    }
+  ],
+  "duracao_seg": 11.97,
+  "idioma_detectado": "pt"
+}

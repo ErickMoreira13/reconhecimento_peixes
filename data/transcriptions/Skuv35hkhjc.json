@@ -1,0 +1,17 @@
+{
+  "texto": "Cama de peixe Cama de peixe",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Cama de peixe"
+    },
+    {
+      "start": 1.5,
+      "end": 3.94,
+      "text": "Cama de peixe"
+    }
+  ],
+  "duracao_seg": 7.31,
+  "idioma_detectado": "pt"
+}

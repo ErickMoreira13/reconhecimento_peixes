@@ -1,0 +1,17 @@
+{
+  "texto": "hahaha foi aí, ó, colega, foi até filmada",
+  "segmentos": [
+    {
+      "start": 11.86,
+      "end": 12.86,
+      "text": "hahaha"
+    },
+    {
+      "start": 12.86,
+      "end": 16.64,
+      "text": "foi aí, ó, colega, foi até filmada"
+    }
+  ],
+  "duracao_seg": 17.91,
+  "idioma_detectado": "pt"
+}

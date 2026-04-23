@@ -1,0 +1,42 @@
+{
+  "texto": "Grava aí ó, isso aqui é pro meu chegado lá do Germano lá ó, mostrar o que quer pegar peixe. Primeira linhada, tá ó. Pensa, ó. Surubim. Ó, saúdo. É a água do sono aqui, não é do Araguaia não.",
+  "segmentos": [
+    {
+      "start": 0.05,
+      "end": 3.05,
+      "text": "Grava aí ó, isso aqui é pro meu chegado lá do Germano lá ó,"
+    },
+    {
+      "start": 3.05,
+      "end": 5.05,
+      "text": "mostrar o que quer pegar peixe."
+    },
+    {
+      "start": 5.05,
+      "end": 7.5,
+      "text": "Primeira linhada, tá ó."
+    },
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "text": "Pensa, ó."
+    },
+    {
+      "start": 9.5,
+      "end": 10.5,
+      "text": "Surubim."
+    },
+    {
+      "start": 10.5,
+      "end": 11.5,
+      "text": "Ó, saúdo."
+    },
+    {
+      "start": 11.5,
+      "end": 14.62,
+      "text": "É a água do sono aqui, não é do Araguaia não."
+    }
+  ],
+  "duracao_seg": 14.51,
+  "idioma_detectado": "pt"
+}

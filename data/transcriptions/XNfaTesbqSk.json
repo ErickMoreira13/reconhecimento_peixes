@@ -1,0 +1,97 @@
+{
+  "texto": "Você trabalha o peixe aqui ó Ó Ó Deixa ele pular ó Ó Ele tem a frição aqui ó Pra trabalhar o peixe ó Ó Ele deixa trabalhar o peixe ó É a frição que bate o peixe ó Ó Ele tá montinho a descansada Ó Ó Deixa que a ponta aqui da vara Ela resolve É por tua Não firma nunca",
+  "segmentos": [
+    {
+      "start": 0.91,
+      "end": 2.91,
+      "text": "Você trabalha o peixe aqui ó"
+    },
+    {
+      "start": 2.91,
+      "end": 3.91,
+      "text": "Ó"
+    },
+    {
+      "start": 3.91,
+      "end": 4.91,
+      "text": "Ó"
+    },
+    {
+      "start": 4.91,
+      "end": 6.87,
+      "text": "Deixa ele pular ó"
+    },
+    {
+      "start": 6.87,
+      "end": 7.87,
+      "text": "Ó"
+    },
+    {
+      "start": 7.87,
+      "end": 8.87,
+      "text": "Ele tem a frição aqui ó"
+    },
+    {
+      "start": 8.87,
+      "end": 9.87,
+      "text": "Pra trabalhar o peixe ó"
+    },
+    {
+      "start": 9.87,
+      "end": 12.66,
+      "text": "Ó"
+    },
+    {
+      "start": 12.66,
+      "end": 13.66,
+      "text": "Ele deixa trabalhar o peixe ó"
+    },
+    {
+      "start": 13.66,
+      "end": 15.66,
+      "text": "É a frição que bate o peixe ó"
+    },
+    {
+      "start": 15.66,
+      "end": 16.66,
+      "text": "Ó"
+    },
+    {
+      "start": 16.66,
+      "end": 18.89,
+      "text": "Ele tá montinho a descansada"
+    },
+    {
+      "start": 18.89,
+      "end": 21.74,
+      "text": "Ó"
+    },
+    {
+      "start": 21.74,
+      "end": 23.19,
+      "text": "Ó"
+    },
+    {
+      "start": 23.19,
+      "end": 24.19,
+      "text": "Deixa que a ponta aqui da vara"
+    },
+    {
+      "start": 24.19,
+      "end": 26.19,
+      "text": "Ela resolve"
+    },
+    {
+      "start": 26.19,
+      "end": 27.93,
+      "text": "É por tua"
+    },
+    {
+      "start": 27.93,
+      "end": 29.93,
+      "text": "Não firma nunca"
+    }
+  ],
+  "duracao_seg": 29.93,
+  "idioma_detectado": "pt"
+}

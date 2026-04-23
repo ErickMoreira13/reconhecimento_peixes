@@ -1,0 +1,77 @@
+{
+  "texto": "a corrida a corrida não é se separar com não porque essa é grande essa linha é forte mas tá fundo tirou a sandália não é fundo aí não, Chico? cuidado segura direito segura direito segura direito faltou aquele negócio aqui vou estragar ela aí",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 11.07,
+      "text": "a corrida"
+    },
+    {
+      "start": 11.07,
+      "end": 13.77,
+      "text": "a corrida"
+    },
+    {
+      "start": 13.77,
+      "end": 33.65,
+      "text": "não é se separar com não"
+    },
+    {
+      "start": 33.65,
+      "end": 36.58,
+      "text": "porque essa é grande"
+    },
+    {
+      "start": 36.58,
+      "end": 63.96,
+      "text": "essa linha é forte"
+    },
+    {
+      "start": 63.96,
+      "end": 108.85,
+      "text": "mas tá fundo"
+    },
+    {
+      "start": 108.85,
+      "end": 111.55,
+      "text": "tirou a sandália"
+    },
+    {
+      "start": 111.55,
+      "end": 142.42,
+      "text": "não é fundo aí não, Chico?"
+    },
+    {
+      "start": 143.57,
+      "end": 169.49,
+      "text": "cuidado"
+    },
+    {
+      "start": 169.49,
+      "end": 208.91,
+      "text": "segura direito"
+    },
+    {
+      "start": 208.91,
+      "end": 209.93,
+      "text": "segura direito"
+    },
+    {
+      "start": 209.93,
+      "end": 222.26,
+      "text": "segura direito"
+    },
+    {
+      "start": 222.26,
+      "end": 229.8,
+      "text": "faltou aquele negócio aqui"
+    },
+    {
+      "start": 229.8,
+      "end": 230.82,
+      "text": "vou estragar ela aí"
+    }
+  ],
+  "duracao_seg": 234.83,
+  "idioma_detectado": "pt"
+}

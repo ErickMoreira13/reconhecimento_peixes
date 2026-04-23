@@ -1,0 +1,252 @@
+{
+  "texto": "E esse aqui é a menor, tá? Hã? Calma aí. Hã? Não posso fazer nada, velho. Não posso fazer nada, não vai zoom não, viu? Olha, olha! Que que é isso? Vai! Toma! Segura aqui! Segura aqui! Que que é isso? Tá filmando, moço. Nós aqui... É tudo combinado com os peixes. Olha! Colou aqui. Bem boleira, mas não vai dar certo. Pronto. Filma, pastor! Tá filmando, moço. Que que é isso? Rio do som! Olha! Olha! Olha! Esse peixe tá com epilepsia, tá tremendo demais. Vem, vem, vem! Vecinha e matador! Cê tá doido! E essa pressão? Olha! Ah, vai logo, moço! Eu tô querendo limpar os peixes. Tem 17,9 kg de peixe aqui. Olha aí, ó. Olha, moço, encosta pra lá. Encosta pra lá. Hum, o tamanhozinho da jamanta. Saindo só as mães agora. Pronto. Mais uma pra conta. Mais uma pra conta. Mais uma pra conta. Depois cê desembola aí. Olha pra cá agora, pra cá agora. Bonitinho. Hum?",
+  "segmentos": [
+    {
+      "start": 1.26,
+      "end": 6.08,
+      "text": "E esse aqui é a menor, tá?"
+    },
+    {
+      "start": 6.08,
+      "end": 7.08,
+      "text": "Hã?"
+    },
+    {
+      "start": 7.08,
+      "end": 8.08,
+      "text": "Calma aí."
+    },
+    {
+      "start": 8.08,
+      "end": 9.08,
+      "text": "Hã?"
+    },
+    {
+      "start": 9.08,
+      "end": 11.08,
+      "text": "Não posso fazer nada, velho."
+    },
+    {
+      "start": 11.08,
+      "end": 13.34,
+      "text": "Não posso fazer nada, não vai zoom não, viu?"
+    },
+    {
+      "start": 13.34,
+      "end": 14.34,
+      "text": "Olha, olha!"
+    },
+    {
+      "start": 14.34,
+      "end": 15.34,
+      "text": "Que que é isso?"
+    },
+    {
+      "start": 15.34,
+      "end": 16.34,
+      "text": "Vai!"
+    },
+    {
+      "start": 16.34,
+      "end": 17.34,
+      "text": "Toma!"
+    },
+    {
+      "start": 17.34,
+      "end": 18.34,
+      "text": "Segura aqui!"
+    },
+    {
+      "start": 18.34,
+      "end": 19.34,
+      "text": "Segura aqui!"
+    },
+    {
+      "start": 19.34,
+      "end": 20.34,
+      "text": "Que que é isso?"
+    },
+    {
+      "start": 20.34,
+      "end": 21.34,
+      "text": "Tá filmando, moço."
+    },
+    {
+      "start": 21.34,
+      "end": 22.34,
+      "text": "Nós aqui..."
+    },
+    {
+      "start": 22.34,
+      "end": 27.67,
+      "text": "É tudo combinado com os peixes."
+    },
+    {
+      "start": 27.67,
+      "end": 29.25,
+      "text": "Olha!"
+    },
+    {
+      "start": 29.25,
+      "end": 30.92,
+      "text": "Colou aqui."
+    },
+    {
+      "start": 30.92,
+      "end": 33.43,
+      "text": "Bem boleira, mas não vai dar certo."
+    },
+    {
+      "start": 33.43,
+      "end": 34.43,
+      "text": "Pronto."
+    },
+    {
+      "start": 34.43,
+      "end": 35.88,
+      "text": "Filma, pastor!"
+    },
+    {
+      "start": 35.88,
+      "end": 36.88,
+      "text": "Tá filmando, moço."
+    },
+    {
+      "start": 36.88,
+      "end": 37.88,
+      "text": "Que que é isso?"
+    },
+    {
+      "start": 37.88,
+      "end": 38.88,
+      "text": "Rio do som!"
+    },
+    {
+      "start": 38.88,
+      "end": 39.88,
+      "text": "Olha!"
+    },
+    {
+      "start": 39.88,
+      "end": 40.88,
+      "text": "Olha!"
+    },
+    {
+      "start": 40.88,
+      "end": 42.14,
+      "text": "Olha!"
+    },
+    {
+      "start": 42.14,
+      "end": 44.14,
+      "text": "Esse peixe tá com epilepsia, tá tremendo demais."
+    },
+    {
+      "start": 44.14,
+      "end": 48.18,
+      "text": "Vem, vem, vem!"
+    },
+    {
+      "start": 48.18,
+      "end": 50.18,
+      "text": "Vecinha e matador!"
+    },
+    {
+      "start": 50.18,
+      "end": 52.11,
+      "text": "Cê tá doido!"
+    },
+    {
+      "start": 52.11,
+      "end": 53.11,
+      "text": "E essa pressão?"
+    },
+    {
+      "start": 53.11,
+      "end": 54.11,
+      "text": "Olha!"
+    },
+    {
+      "start": 54.11,
+      "end": 55.27,
+      "text": "Ah, vai logo, moço!"
+    },
+    {
+      "start": 55.27,
+      "end": 56.27,
+      "text": "Eu tô querendo limpar os peixes."
+    },
+    {
+      "start": 56.27,
+      "end": 59.27,
+      "text": "Tem 17,9 kg de peixe aqui."
+    },
+    {
+      "start": 59.27,
+      "end": 60.27,
+      "text": "Olha aí, ó."
+    },
+    {
+      "start": 60.27,
+      "end": 68.9,
+      "text": "Olha, moço, encosta pra lá."
+    },
+    {
+      "start": 68.9,
+      "end": 69.93,
+      "text": "Encosta pra lá."
+    },
+    {
+      "start": 69.93,
+      "end": 77.62,
+      "text": "Hum, o tamanhozinho da jamanta."
+    },
+    {
+      "start": 77.62,
+      "end": 95.5,
+      "text": "Saindo só as mães agora."
+    },
+    {
+      "start": 95.5,
+      "end": 98.16,
+      "text": "Pronto."
+    },
+    {
+      "start": 98.16,
+      "end": 99.16,
+      "text": "Mais uma pra conta."
+    },
+    {
+      "start": 99.16,
+      "end": 102.11,
+      "text": "Mais uma pra conta."
+    },
+    {
+      "start": 102.11,
+      "end": 103.11,
+      "text": "Mais uma pra conta."
+    },
+    {
+      "start": 103.11,
+      "end": 104.11,
+      "text": "Depois cê desembola aí."
+    },
+    {
+      "start": 104.11,
+      "end": 106.69,
+      "text": "Olha pra cá agora, pra cá agora."
+    },
+    {
+      "start": 106.69,
+      "end": 107.69,
+      "text": "Bonitinho."
+    },
+    {
+      "start": 107.69,
+      "end": 108.69,
+      "text": "Hum?"
+    }
+  ],
+  "duracao_seg": 109.01,
+  "idioma_detectado": "pt"
+}

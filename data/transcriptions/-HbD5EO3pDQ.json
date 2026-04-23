@@ -1,0 +1,27 @@
+{
+  "texto": "Não pega não. Não é possível. Eu filmei. Estou filmando. Os gatos.",
+  "segmentos": [
+    {
+      "start": 4.78,
+      "end": 8.71,
+      "text": "Não pega não. Não é possível."
+    },
+    {
+      "start": 8.71,
+      "end": 26.3,
+      "text": "Eu filmei."
+    },
+    {
+      "start": 26.3,
+      "end": 27.3,
+      "text": "Estou filmando."
+    },
+    {
+      "start": 27.3,
+      "end": 37.39,
+      "text": "Os gatos."
+    }
+  ],
+  "duracao_seg": 41.23,
+  "idioma_detectado": "pt"
+}

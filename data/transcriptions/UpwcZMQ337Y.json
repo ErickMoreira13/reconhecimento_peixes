@@ -1,0 +1,37 @@
+{
+  "texto": "É lá o pé verde, né? Não, é o fundo, né? O pé da mãe era só. O fundo da casa da mãe. O enquanto família mostra, eles vão no restaurante. É, da família dos meros também.",
+  "segmentos": [
+    {
+      "start": 3.18,
+      "end": 4.88,
+      "text": "É lá o pé verde, né?"
+    },
+    {
+      "start": 5.56,
+      "end": 7.34,
+      "text": "Não, é o fundo, né?"
+    },
+    {
+      "start": 8.3,
+      "end": 9.86,
+      "text": "O pé da mãe era só."
+    },
+    {
+      "start": 11.42,
+      "end": 12.54,
+      "text": "O fundo da casa da mãe."
+    },
+    {
+      "start": 13.14,
+      "end": 15.98,
+      "text": "O enquanto família mostra, eles vão no restaurante."
+    },
+    {
+      "start": 16.76,
+      "end": 18.52,
+      "text": "É, da família dos meros também."
+    }
+  ],
+  "duracao_seg": 21.11,
+  "idioma_detectado": "pt"
+}

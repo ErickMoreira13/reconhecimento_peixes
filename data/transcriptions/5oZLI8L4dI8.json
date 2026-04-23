@@ -1,0 +1,62 @@
+{
+  "texto": "E aí, esse rio escuro aqui, água bem gelada, esse é o rio sono, aí essa água mais clara um pouquinho aqui é o rio formiga, água bem menos gelada, e a diferença com essa aqui, bastante a diferença de um rio para outro. E a gente tá gostando, bom? Tá, muito bom. Muito lindo, viu, o rio aqui, são o encontro dos três rios, né? Dos dois. Dois rios, né? Rio sono e rio formiga. Rio sono e rio formiga. Muito lindo, né? Jalapão, cidade de Tocantins maravilhosa. Muito bonito.",
+  "segmentos": [
+    {
+      "start": 1.62,
+      "end": 17.38,
+      "text": "E aí, esse rio escuro aqui, água bem gelada, esse é o rio sono, aí essa água mais clara um pouquinho aqui é o rio formiga, água bem menos gelada, e a diferença com essa aqui, bastante a diferença de um rio para outro."
+    },
+    {
+      "start": 19.51,
+      "end": 20.37,
+      "text": "E a gente tá gostando, bom?"
+    },
+    {
+      "start": 20.37,
+      "end": 21.59,
+      "text": "Tá, muito bom."
+    },
+    {
+      "start": 23.09,
+      "end": 27.57,
+      "text": "Muito lindo, viu, o rio aqui, são o encontro dos três rios, né?"
+    },
+    {
+      "start": 28.05,
+      "end": 28.55,
+      "text": "Dos dois."
+    },
+    {
+      "start": 28.63,
+      "end": 29.35,
+      "text": "Dois rios, né?"
+    },
+    {
+      "start": 29.41,
+      "end": 30.55,
+      "text": "Rio sono e rio formiga."
+    },
+    {
+      "start": 30.55,
+      "end": 32.79,
+      "text": "Rio sono e rio formiga."
+    },
+    {
+      "start": 32.79,
+      "end": 35.51,
+      "text": "Muito lindo, né?"
+    },
+    {
+      "start": 36.84,
+      "end": 42.27,
+      "text": "Jalapão, cidade de Tocantins maravilhosa."
+    },
+    {
+      "start": 42.61,
+      "end": 43.35,
+      "text": "Muito bonito."
+    }
+  ],
+  "duracao_seg": 50.57,
+  "idioma_detectado": "pt"
+}

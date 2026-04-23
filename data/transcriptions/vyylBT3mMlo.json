@@ -1,0 +1,22 @@
+{
+  "texto": "oi andou treinando viu calma calma rai o carazão branco que passou do seu carro pegou tropinho o carazão branco tropa que peixe é isso aí fial mano fial mano fial mano fial mano fial",
+  "segmentos": [
+    {
+      "start": 1.26,
+      "end": 18.54,
+      "text": "oi andou treinando viu calma calma rai o carazão branco que passou do seu carro"
+    },
+    {
+      "start": 18.54,
+      "end": 40.82,
+      "text": "pegou tropinho o carazão branco tropa que peixe é isso aí"
+    },
+    {
+      "start": 40.82,
+      "end": 44.68,
+      "text": "fial mano fial mano fial mano fial mano fial"
+    }
+  ],
+  "duracao_seg": 44.71,
+  "idioma_detectado": "pt"
+}

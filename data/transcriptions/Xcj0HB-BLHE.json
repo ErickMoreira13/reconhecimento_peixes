@@ -1,0 +1,52 @@
+{
+  "texto": "Domingão, estamos aqui na margem do rio Charvantim, estamos por aqui Aqui lá nós pega um peixinho, nosso viveiro já está ali bem Aqui está minha companheira guerreira, pescadeira, está me dando um show no peixe hoje Isso aí, estamos aí, mostrar para vocês aqui agora O verdadeiro sentido da pescada está aqui Na casca de pau, temperado é na casca de pau, a moda índio Aí, da hora O tamanho desses cabeças gordos aí Agora nós mostra para vocês como vai ficar o resultado disso aqui",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": "Domingão, estamos aqui na margem do rio Charvantim, estamos por aqui"
+    },
+    {
+      "start": 4.36,
+      "end": 9.7,
+      "text": "Aqui lá nós pega um peixinho, nosso viveiro já está ali bem"
+    },
+    {
+      "start": 9.7,
+      "end": 15.96,
+      "text": "Aqui está minha companheira guerreira, pescadeira, está me dando um show no peixe hoje"
+    },
+    {
+      "start": 15.96,
+      "end": 20.29,
+      "text": "Isso aí, estamos aí, mostrar para vocês aqui agora"
+    },
+    {
+      "start": 20.29,
+      "end": 24.04,
+      "text": "O verdadeiro sentido da pescada está aqui"
+    },
+    {
+      "start": 24.04,
+      "end": 31.26,
+      "text": "Na casca de pau, temperado é na casca de pau, a moda índio"
+    },
+    {
+      "start": 31.26,
+      "end": 37.44,
+      "text": "Aí, da hora"
+    },
+    {
+      "start": 37.44,
+      "end": 40.85,
+      "text": "O tamanho desses cabeças gordos aí"
+    },
+    {
+      "start": 40.85,
+      "end": 49.14,
+      "text": "Agora nós mostra para vocês como vai ficar o resultado disso aqui"
+    }
+  ],
+  "duracao_seg": 49.89,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,57 @@
+{
+  "texto": "Quero ver, quero ver, quero ver Quero ver, mostra aí os dois Pescador de Tucunaré Eu tava no barco, tomando água Ô, coisa bonita Não, ô, ô Tira a foto aqui rapidinho, pô Tô fazendo filmagem Peraí, peraí Vai rapidinho, a mesa de tebola vai pegar",
+  "segmentos": [
+    {
+      "start": 7.09,
+      "end": 8.95,
+      "text": "Quero ver, quero ver, quero ver"
+    },
+    {
+      "start": 8.95,
+      "end": 13.34,
+      "text": "Quero ver, mostra aí os dois"
+    },
+    {
+      "start": 13.34,
+      "end": 15.3,
+      "text": "Pescador de Tucunaré"
+    },
+    {
+      "start": 15.3,
+      "end": 17.74,
+      "text": "Eu tava no barco, tomando água"
+    },
+    {
+      "start": 17.74,
+      "end": 20.34,
+      "text": "Ô, coisa bonita"
+    },
+    {
+      "start": 20.34,
+      "end": 22.06,
+      "text": "Não, ô, ô"
+    },
+    {
+      "start": 22.06,
+      "end": 24.31,
+      "text": "Tira a foto aqui rapidinho, pô"
+    },
+    {
+      "start": 24.31,
+      "end": 25.49,
+      "text": "Tô fazendo filmagem"
+    },
+    {
+      "start": 25.49,
+      "end": 29.94,
+      "text": "Peraí, peraí"
+    },
+    {
+      "start": 29.94,
+      "end": 32.06,
+      "text": "Vai rapidinho, a mesa de tebola vai pegar"
+    }
+  ],
+  "duracao_seg": 32.95,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Quase que eu sou humilde, olha aí ó A furadinha saiu do lockdown A furadinha saiu do lockdown",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Quase que eu sou humilde, olha aí ó"
+    },
+    {
+      "start": 1.64,
+      "end": 3.72,
+      "text": "A furadinha saiu do lockdown"
+    },
+    {
+      "start": 3.72,
+      "end": 5.12,
+      "text": "A furadinha saiu do lockdown"
+    }
+  ],
+  "duracao_seg": 5.83,
+  "idioma_detectado": "pt"
+}

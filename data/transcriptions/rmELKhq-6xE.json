@@ -1,0 +1,757 @@
+{
+  "texto": "É Lombar? Vai lá, batera, trabalha o peixe Dourado, hein? Vai batera, ó DJ na contenção aí Brigadinho, DJ Léo aí Aí, ó, trabalha o peixe Olha, rapaz Bruto! Vai o peixe, bá Ei, Nick, Nick, amor, te amo Vai lá, batera Rapaz, fala que eu busco o peixe mesmo Calma, tá difícil, tá com a ferrinha Os maiores são os mais difíceis, batera Glória a Deus, viu? Ó, o povo fala de pescaria, cara Não presta mais de mil reais Mas não tem preço uma história dessa aqui, não tem não Tem DJ? Não, não tem não Batera merece Batera é o cara, velho Tá gravando, tá gravando Vai lá, batera, trabalha o peixe, batera Trabalha, trabalha Trabalha pra casa Já cansou, batera? Já cansou, bata Esse gato é uma aqui aqui Já pôr ela Já pôr você na água Isso Você tá fácil Pôr você na água Ele tá de sua perda aí Vamos correr Vamos pegar na água Foda Pediu ele, não Pediu linha? Pediu linha Será que ele tá indo fazer alguma casa? Caralho Vamos tirar ele, viu DJ? Trabalha, trabalha o peixe, batera Dima, me ajuda, Dima Trabalha, batera Dimas Produções Vai lá, DJ Olha a cor, você viu? DJ? Já vi, já vi Já viu, nega, tá aí, né? É, só boiar É Ele vai cansar, calma Ele tá achando tarde Daqui eu não sei, não Glória a Deus, obrigado, meu Deus Era, Batera Você merece, meu querido Obrigado, cara Porque sabe quando eu tô batendo aqui Eu tô ajudando eu batendo no horário aqui Dê certo, dê certo Glória a Deus Mantenha a calma, DJ Tranquilo Sem pressa DJ, eu dei uma parada Eu vou trazendo agora Você tá vindo aí, viu? Você tá aqui, ó Tá vindo lá, vem ali, ó Olha ele aí, ó Calma, calma Olha aí, viu? Se eu fosse, eu vou colocar Vamos passar na água, já Já coloca Porque ele vai A hora que eu for fantástica, já Marinho, velho Calma aí, Batera Tá entrando lá, Batera E aí, aí, ó Tá aí, filho Não tô vendo, não Tá atrás da sua perna aí Tá aqui, caralho Olha o rabo dele aí Olha o rabo dele aí, caralho Olha o rabo dele aí, caralho Olha o rabo dele aí, tá cansado de água Tá aqui, aqui, aí, aí Tá aqui, ó Tá aqui, ó Tá aqui na frente, ó Tá aqui, ó Tá aí, aí Tá aqui, ó Tá aqui, tá aqui Tá aqui, tá aqui Pegou? Não, passou por trás Por aqui, DJ Por aqui, DJ De frente, de frente Vai entrar dentro do puçal aí Ah, do porra Ah, Batera É nóis, Batera Tome junto, meu querido Só frota, irmão Só frota agora Essa estátua É, Batera Valeu, DJ Valeu, DJ Obrigado, Deus Deixa eu ver, Batera Olha o tamanho dessa criança, menino Obrigado, Rio do Sol Ô, louco, meu Cê tá doido Puta que pariu Aí tem direito de ostentação, caralho Olha Meu Deus do céu Olha o tamanho desse moleque, rapaz Vou fazer as fotos agora Nossa Eu vou pegar essa porra Eu vou pegar essa porra Eu vou pegar essa porra E ele nem sabe Nem sabe o que tá gravando É, Batera, Bicê Corta essa parte, Batera Olha o tamanho desse moleque, rapaz Glória a Deus Ih, alicate, meu quarto Deixa eu pegar lá Nossa Senhora Olha o tamanho desse menino, rapaz Ó Tá mordendo igual Igual uma mulher Cê é louco, mano Tem que ser um alicate",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "É Lombar?"
+    },
+    {
+      "start": 2.2,
+      "end": 4.24,
+      "text": "Vai lá, batera, trabalha o peixe"
+    },
+    {
+      "start": 4.24,
+      "end": 5.16,
+      "text": "Dourado, hein?"
+    },
+    {
+      "start": 5.84,
+      "end": 6.86,
+      "text": "Vai batera, ó"
+    },
+    {
+      "start": 6.86,
+      "end": 10.42,
+      "text": "DJ na contenção aí"
+    },
+    {
+      "start": 10.42,
+      "end": 12.44,
+      "text": "Brigadinho, DJ Léo aí"
+    },
+    {
+      "start": 12.44,
+      "end": 14.76,
+      "text": "Aí, ó, trabalha o peixe"
+    },
+    {
+      "start": 14.76,
+      "end": 16.58,
+      "text": "Olha, rapaz"
+    },
+    {
+      "start": 16.58,
+      "end": 17.81,
+      "text": "Bruto!"
+    },
+    {
+      "start": 18.53,
+      "end": 22.32,
+      "text": "Vai o peixe, bá"
+    },
+    {
+      "start": 22.32,
+      "end": 27.02,
+      "text": "Ei, Nick, Nick, amor, te amo"
+    },
+    {
+      "start": 27.02,
+      "end": 29.48,
+      "text": "Vai lá, batera"
+    },
+    {
+      "start": 29.48,
+      "end": 31.1,
+      "text": "Rapaz, fala que eu busco o peixe mesmo"
+    },
+    {
+      "start": 31.1,
+      "end": 33.92,
+      "text": "Calma, tá difícil, tá com a ferrinha"
+    },
+    {
+      "start": 33.92,
+      "end": 37.26,
+      "text": "Os maiores são os mais difíceis, batera"
+    },
+    {
+      "start": 37.26,
+      "end": 38.14,
+      "text": "Glória a Deus, viu?"
+    },
+    {
+      "start": 39.18,
+      "end": 41.66,
+      "text": "Ó, o povo fala de pescaria, cara"
+    },
+    {
+      "start": 41.66,
+      "end": 43.26,
+      "text": "Não presta mais de mil reais"
+    },
+    {
+      "start": 43.26,
+      "end": 46.32,
+      "text": "Mas não tem preço uma história dessa aqui, não tem não"
+    },
+    {
+      "start": 46.32,
+      "end": 48.02,
+      "text": "Tem DJ? Não, não tem não"
+    },
+    {
+      "start": 48.02,
+      "end": 49.22,
+      "text": "Batera merece"
+    },
+    {
+      "start": 49.22,
+      "end": 51.06,
+      "text": "Batera é o cara, velho"
+    },
+    {
+      "start": 51.06,
+      "end": 55.38,
+      "text": "Tá gravando, tá gravando"
+    },
+    {
+      "start": 55.38,
+      "end": 58.65,
+      "text": "Vai lá, batera, trabalha o peixe, batera"
+    },
+    {
+      "start": 58.65,
+      "end": 79.05,
+      "text": "Trabalha, trabalha"
+    },
+    {
+      "start": 79.05,
+      "end": 81.61,
+      "text": "Trabalha pra casa"
+    },
+    {
+      "start": 81.61,
+      "end": 85.55,
+      "text": "Já cansou, batera?"
+    },
+    {
+      "start": 85.55,
+      "end": 90.96,
+      "text": "Já cansou, bata"
+    },
+    {
+      "start": 90.96,
+      "end": 91.88,
+      "text": "Esse gato é uma aqui aqui"
+    },
+    {
+      "start": 91.88,
+      "end": 93.08,
+      "text": "Já pôr ela"
+    },
+    {
+      "start": 93.08,
+      "end": 95.12,
+      "text": "Já pôr você na água"
+    },
+    {
+      "start": 95.12,
+      "end": 95.6,
+      "text": "Isso"
+    },
+    {
+      "start": 95.6,
+      "end": 98.45,
+      "text": "Você tá fácil"
+    },
+    {
+      "start": 98.45,
+      "end": 100.13,
+      "text": "Pôr você na água"
+    },
+    {
+      "start": 100.13,
+      "end": 101.27,
+      "text": "Ele tá de sua perda aí"
+    },
+    {
+      "start": 101.27,
+      "end": 101.75,
+      "text": "Vamos correr"
+    },
+    {
+      "start": 101.75,
+      "end": 102.67,
+      "text": "Vamos pegar na água"
+    },
+    {
+      "start": 102.67,
+      "end": 103.57,
+      "text": "Foda"
+    },
+    {
+      "start": 103.57,
+      "end": 104.41,
+      "text": "Pediu ele, não"
+    },
+    {
+      "start": 104.41,
+      "end": 106.14,
+      "text": "Pediu linha?"
+    },
+    {
+      "start": 106.24,
+      "end": 106.62,
+      "text": "Pediu linha"
+    },
+    {
+      "start": 106.62,
+      "end": 108.38,
+      "text": "Será que ele tá indo fazer alguma casa?"
+    },
+    {
+      "start": 110.8,
+      "end": 111.2,
+      "text": "Caralho"
+    },
+    {
+      "start": 111.2,
+      "end": 112.26,
+      "text": "Vamos tirar ele, viu DJ?"
+    },
+    {
+      "start": 112.62,
+      "end": 114.28,
+      "text": "Trabalha, trabalha o peixe, batera"
+    },
+    {
+      "start": 114.28,
+      "end": 115.0,
+      "text": "Dima, me ajuda, Dima"
+    },
+    {
+      "start": 115.0,
+      "end": 116.02,
+      "text": "Trabalha, batera"
+    },
+    {
+      "start": 116.02,
+      "end": 118.2,
+      "text": "Dimas Produções"
+    },
+    {
+      "start": 118.2,
+      "end": 120.1,
+      "text": "Vai lá, DJ"
+    },
+    {
+      "start": 120.1,
+      "end": 122.5,
+      "text": "Olha a cor, você viu?"
+    },
+    {
+      "start": 122.72,
+      "end": 122.94,
+      "text": "DJ?"
+    },
+    {
+      "start": 123.3,
+      "end": 124.08,
+      "text": "Já vi, já vi"
+    },
+    {
+      "start": 124.08,
+      "end": 124.92,
+      "text": "Já viu, nega, tá aí, né?"
+    },
+    {
+      "start": 125.18,
+      "end": 125.92,
+      "text": "É, só boiar"
+    },
+    {
+      "start": 125.92,
+      "end": 126.32,
+      "text": "É"
+    },
+    {
+      "start": 126.32,
+      "end": 127.74,
+      "text": "Ele vai cansar, calma"
+    },
+    {
+      "start": 127.74,
+      "end": 128.7,
+      "text": "Ele tá achando tarde"
+    },
+    {
+      "start": 128.7,
+      "end": 130.35,
+      "text": "Daqui eu não sei, não"
+    },
+    {
+      "start": 130.35,
+      "end": 133.57,
+      "text": "Glória a Deus, obrigado, meu Deus"
+    },
+    {
+      "start": 133.57,
+      "end": 134.59,
+      "text": "Era, Batera"
+    },
+    {
+      "start": 134.59,
+      "end": 136.63,
+      "text": "Você merece, meu querido"
+    },
+    {
+      "start": 136.63,
+      "end": 137.01,
+      "text": "Obrigado, cara"
+    },
+    {
+      "start": 137.01,
+      "end": 138.41,
+      "text": "Porque sabe quando eu tô batendo aqui"
+    },
+    {
+      "start": 138.41,
+      "end": 140.27,
+      "text": "Eu tô ajudando eu batendo no horário aqui"
+    },
+    {
+      "start": 140.27,
+      "end": 142.15,
+      "text": "Dê certo, dê certo"
+    },
+    {
+      "start": 142.15,
+      "end": 143.25,
+      "text": "Glória a Deus"
+    },
+    {
+      "start": 143.25,
+      "end": 146.08,
+      "text": "Mantenha a calma, DJ"
+    },
+    {
+      "start": 146.08,
+      "end": 146.56,
+      "text": "Tranquilo"
+    },
+    {
+      "start": 146.56,
+      "end": 148.1,
+      "text": "Sem pressa"
+    },
+    {
+      "start": 148.1,
+      "end": 150.1,
+      "text": "DJ, eu dei uma parada"
+    },
+    {
+      "start": 150.1,
+      "end": 150.88,
+      "text": "Eu vou trazendo agora"
+    },
+    {
+      "start": 150.88,
+      "end": 153.01,
+      "text": "Você tá vindo aí, viu?"
+    },
+    {
+      "start": 155.98,
+      "end": 156.76,
+      "text": "Você tá aqui, ó"
+    },
+    {
+      "start": 156.76,
+      "end": 157.88,
+      "text": "Tá vindo lá, vem ali, ó"
+    },
+    {
+      "start": 157.88,
+      "end": 161.94,
+      "text": "Olha ele aí, ó"
+    },
+    {
+      "start": 161.94,
+      "end": 162.56,
+      "text": "Calma, calma"
+    },
+    {
+      "start": 162.56,
+      "end": 163.12,
+      "text": "Olha aí, viu?"
+    },
+    {
+      "start": 164.37,
+      "end": 165.23,
+      "text": "Se eu fosse, eu vou colocar"
+    },
+    {
+      "start": 165.23,
+      "end": 166.07,
+      "text": "Vamos passar na água, já"
+    },
+    {
+      "start": 166.07,
+      "end": 167.11,
+      "text": "Já coloca"
+    },
+    {
+      "start": 167.11,
+      "end": 168.57,
+      "text": "Porque ele vai"
+    },
+    {
+      "start": 168.57,
+      "end": 169.85,
+      "text": "A hora que eu for fantástica, já"
+    },
+    {
+      "start": 169.85,
+      "end": 173.62,
+      "text": "Marinho, velho"
+    },
+    {
+      "start": 173.62,
+      "end": 175.3,
+      "text": "Calma aí, Batera"
+    },
+    {
+      "start": 175.3,
+      "end": 177.0,
+      "text": "Tá entrando lá, Batera"
+    },
+    {
+      "start": 177.0,
+      "end": 177.72,
+      "text": "E aí, aí, ó"
+    },
+    {
+      "start": 177.72,
+      "end": 179.74,
+      "text": "Tá aí, filho"
+    },
+    {
+      "start": 179.74,
+      "end": 180.76,
+      "text": "Não tô vendo, não"
+    },
+    {
+      "start": 180.76,
+      "end": 181.74,
+      "text": "Tá atrás da sua perna aí"
+    },
+    {
+      "start": 181.74,
+      "end": 184.2,
+      "text": "Tá aqui, caralho"
+    },
+    {
+      "start": 184.2,
+      "end": 191.98,
+      "text": "Olha o rabo dele aí"
+    },
+    {
+      "start": 191.98,
+      "end": 192.84,
+      "text": "Olha o rabo dele aí, caralho"
+    },
+    {
+      "start": 192.84,
+      "end": 193.58,
+      "text": "Olha o rabo dele aí, caralho"
+    },
+    {
+      "start": 193.58,
+      "end": 194.66,
+      "text": "Olha o rabo dele aí, tá cansado de água"
+    },
+    {
+      "start": 194.66,
+      "end": 196.68,
+      "text": "Tá aqui, aqui, aí, aí"
+    },
+    {
+      "start": 196.68,
+      "end": 196.9,
+      "text": "Tá aqui, ó"
+    },
+    {
+      "start": 196.9,
+      "end": 197.2,
+      "text": "Tá aqui, ó"
+    },
+    {
+      "start": 197.2,
+      "end": 197.78,
+      "text": "Tá aqui na frente, ó"
+    },
+    {
+      "start": 197.78,
+      "end": 198.4,
+      "text": "Tá aqui, ó"
+    },
+    {
+      "start": 198.4,
+      "end": 198.96,
+      "text": "Tá aí, aí"
+    },
+    {
+      "start": 198.96,
+      "end": 199.46,
+      "text": "Tá aqui, ó"
+    },
+    {
+      "start": 199.46,
+      "end": 200.64,
+      "text": "Tá aqui, tá aqui"
+    },
+    {
+      "start": 200.64,
+      "end": 202.04,
+      "text": "Tá aqui, tá aqui"
+    },
+    {
+      "start": 202.04,
+      "end": 202.58,
+      "text": "Pegou?"
+    },
+    {
+      "start": 203.0,
+      "end": 204.32,
+      "text": "Não, passou por trás"
+    },
+    {
+      "start": 204.32,
+      "end": 209.24,
+      "text": "Por aqui, DJ"
+    },
+    {
+      "start": 209.24,
+      "end": 210.16,
+      "text": "Por aqui, DJ"
+    },
+    {
+      "start": 210.16,
+      "end": 211.08,
+      "text": "De frente, de frente"
+    },
+    {
+      "start": 211.08,
+      "end": 213.1,
+      "text": "Vai entrar dentro do puçal aí"
+    },
+    {
+      "start": 213.1,
+      "end": 224.39,
+      "text": "Ah, do porra"
+    },
+    {
+      "start": 224.39,
+      "end": 225.35,
+      "text": "Ah, Batera"
+    },
+    {
+      "start": 225.35,
+      "end": 227.73,
+      "text": "É nóis, Batera"
+    },
+    {
+      "start": 227.73,
+      "end": 231.11,
+      "text": "Tome junto, meu querido"
+    },
+    {
+      "start": 231.11,
+      "end": 231.41,
+      "text": "Só frota, irmão"
+    },
+    {
+      "start": 231.41,
+      "end": 232.47,
+      "text": "Só frota agora"
+    },
+    {
+      "start": 232.47,
+      "end": 233.93,
+      "text": "Essa estátua"
+    },
+    {
+      "start": 233.93,
+      "end": 235.73,
+      "text": "É, Batera"
+    },
+    {
+      "start": 235.73,
+      "end": 237.55,
+      "text": "Valeu, DJ"
+    },
+    {
+      "start": 237.55,
+      "end": 238.35,
+      "text": "Valeu, DJ"
+    },
+    {
+      "start": 238.35,
+      "end": 239.99,
+      "text": "Obrigado, Deus"
+    },
+    {
+      "start": 239.99,
+      "end": 240.71,
+      "text": "Deixa eu ver, Batera"
+    },
+    {
+      "start": 240.71,
+      "end": 242.67,
+      "text": "Olha o tamanho dessa criança, menino"
+    },
+    {
+      "start": 242.67,
+      "end": 243.85,
+      "text": "Obrigado, Rio do Sol"
+    },
+    {
+      "start": 243.85,
+      "end": 244.85,
+      "text": "Ô, louco, meu"
+    },
+    {
+      "start": 244.85,
+      "end": 247.11,
+      "text": "Cê tá doido"
+    },
+    {
+      "start": 247.11,
+      "end": 248.59,
+      "text": "Puta que pariu"
+    },
+    {
+      "start": 248.59,
+      "end": 251.21,
+      "text": "Aí tem direito de ostentação, caralho"
+    },
+    {
+      "start": 251.21,
+      "end": 252.37,
+      "text": "Olha"
+    },
+    {
+      "start": 252.37,
+      "end": 255.87,
+      "text": "Meu Deus do céu"
+    },
+    {
+      "start": 255.87,
+      "end": 257.65,
+      "text": "Olha o tamanho desse moleque, rapaz"
+    },
+    {
+      "start": 257.65,
+      "end": 258.63,
+      "text": "Vou fazer as fotos agora"
+    },
+    {
+      "start": 258.63,
+      "end": 259.69,
+      "text": "Nossa"
+    },
+    {
+      "start": 259.69,
+      "end": 261.11,
+      "text": "Eu vou pegar essa porra"
+    },
+    {
+      "start": 261.11,
+      "end": 262.95,
+      "text": "Eu vou pegar essa porra"
+    },
+    {
+      "start": 262.95,
+      "end": 265.73,
+      "text": "Eu vou pegar essa porra"
+    },
+    {
+      "start": 265.73,
+      "end": 266.55,
+      "text": "E ele nem sabe"
+    },
+    {
+      "start": 266.55,
+      "end": 268.33,
+      "text": "Nem sabe o que tá gravando"
+    },
+    {
+      "start": 268.33,
+      "end": 272.92,
+      "text": "É, Batera, Bicê"
+    },
+    {
+      "start": 272.92,
+      "end": 275.28,
+      "text": "Corta essa parte, Batera"
+    },
+    {
+      "start": 275.28,
+      "end": 278.24,
+      "text": "Olha o tamanho desse moleque, rapaz"
+    },
+    {
+      "start": 278.24,
+      "end": 279.36,
+      "text": "Glória a Deus"
+    },
+    {
+      "start": 279.36,
+      "end": 280.98,
+      "text": "Ih, alicate, meu quarto"
+    },
+    {
+      "start": 280.98,
+      "end": 281.38,
+      "text": "Deixa eu pegar lá"
+    },
+    {
+      "start": 281.38,
+      "end": 283.08,
+      "text": "Nossa Senhora"
+    },
+    {
+      "start": 283.08,
+      "end": 284.92,
+      "text": "Olha o tamanho desse menino, rapaz"
+    },
+    {
+      "start": 284.92,
+      "end": 286.62,
+      "text": "Ó"
+    },
+    {
+      "start": 286.62,
+      "end": 288.14,
+      "text": "Tá mordendo igual"
+    },
+    {
+      "start": 288.14,
+      "end": 289.64,
+      "text": "Igual uma mulher"
+    },
+    {
+      "start": 289.64,
+      "end": 292.46,
+      "text": "Cê é louco, mano"
+    },
+    {
+      "start": 292.46,
+      "end": 294.81,
+      "text": "Tem que ser um alicate"
+    }
+  ],
+  "duracao_seg": 295.25,
+  "idioma_detectado": "pt"
+}

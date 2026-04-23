@@ -1,0 +1,17 @@
+{
+  "texto": "se inscreva, ok, isso me ajuda, muito obrigado a todos vocês, a todos os pescadores e meus amigos, são várias as bacias, diferente da bacia de São Francisco, mas o coração de pescador é o mesmo.",
+  "segmentos": [
+    {
+      "start": 148.82,
+      "end": 157.64,
+      "text": "se inscreva, ok, isso me ajuda, muito obrigado a todos vocês, a todos os pescadores e meus amigos,"
+    },
+    {
+      "start": 158.0,
+      "end": 163.72,
+      "text": "são várias as bacias, diferente da bacia de São Francisco, mas o coração de pescador é o mesmo."
+    }
+  ],
+  "duracao_seg": 163.91,
+  "idioma_detectado": "pt"
+}

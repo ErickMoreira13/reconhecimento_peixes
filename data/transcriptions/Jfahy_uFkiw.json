@@ -1,0 +1,297 @@
+{
+  "texto": "Bom dia, meus amigos Estamos já, ó Pronto pra ir embora, dia amanhecendo Nós estamos aqui em cima No acampamento de Juarez Agora vamos descer lá onde é o rio Meu companheiro Luiz tá aí, ó Pescador Bom demais, aí vamos descer Ah, Maria, não fala não, pai, véi Aqui estamos Ó o rio lá embaixo, gente, ó Todo mundo chia nessa subidinha, gente, ó Aqui que é doído Aqui, gente, o Fichora, mas não vê Ó o rio lá embaixo Manda aquele abraço pra aquele gordinho Pescador, ele e o Ney Rio do Sono, famoso Rio do Sono Aqui, sem ir embora Não levar uma carta de peixe, gente, não contenta, não Aqui é ir embora e não levar uma carta de peixe Cheio e topada Mais uma subidinha, doída Quase cai Lá está o rio, gente Rio do Sono Tem um pessoal aqui acampado Um só Com equipe Estamos descendo Vai chegar um Mais uns amigos ali pescando João respondeu, ó Só que não dá para o rio Respondeu agora mais cedo Respondeu 5 e 7 Agora eu não sei se é da manhã Ou se é de... não Mas é da manhã, moço Não, quando é, mas foi de nove Foi domingo, né? Já saiu domingo, né? Aqui estamos, meu amigo Já estamos subindo Só que nas últimas coisas Nosso peixinho pulando ali Céu e rio Mais famosos Amigo comércio nas paredes Rio do Sono Gente, aquele abraço Entendeu? Pescaria foi ótimo, foi boa demais Pegamos bastante Chegou alguém, já está ali já Então vamos subir Quil abraço",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 5.56,
+      "text": "Bom dia, meus amigos"
+    },
+    {
+      "start": 5.56,
+      "end": 7.14,
+      "text": "Estamos já, ó"
+    },
+    {
+      "start": 7.14,
+      "end": 10.46,
+      "text": "Pronto pra ir embora, dia amanhecendo"
+    },
+    {
+      "start": 10.46,
+      "end": 13.69,
+      "text": "Nós estamos aqui em cima"
+    },
+    {
+      "start": 13.69,
+      "end": 14.81,
+      "text": "No acampamento de Juarez"
+    },
+    {
+      "start": 14.81,
+      "end": 17.08,
+      "text": "Agora vamos descer lá onde é o rio"
+    },
+    {
+      "start": 17.08,
+      "end": 19.34,
+      "text": "Meu companheiro Luiz tá aí, ó"
+    },
+    {
+      "start": 19.34,
+      "end": 19.96,
+      "text": "Pescador"
+    },
+    {
+      "start": 19.96,
+      "end": 24.19,
+      "text": "Bom demais, aí vamos descer"
+    },
+    {
+      "start": 24.19,
+      "end": 27.56,
+      "text": "Ah, Maria, não fala não, pai, véi"
+    },
+    {
+      "start": 27.56,
+      "end": 31.54,
+      "text": "Aqui estamos"
+    },
+    {
+      "start": 31.54,
+      "end": 33.52,
+      "text": "Ó o rio lá embaixo, gente, ó"
+    },
+    {
+      "start": 33.52,
+      "end": 36.54,
+      "text": "Todo mundo chia nessa subidinha, gente, ó"
+    },
+    {
+      "start": 36.54,
+      "end": 39.5,
+      "text": "Aqui que é doído"
+    },
+    {
+      "start": 39.5,
+      "end": 42.82,
+      "text": "Aqui, gente, o Fichora, mas não vê"
+    },
+    {
+      "start": 42.82,
+      "end": 50.2,
+      "text": "Ó o rio lá embaixo"
+    },
+    {
+      "start": 50.2,
+      "end": 56.44,
+      "text": "Manda aquele abraço pra aquele gordinho"
+    },
+    {
+      "start": 56.44,
+      "end": 58.22,
+      "text": "Pescador, ele e o Ney"
+    },
+    {
+      "start": 58.22,
+      "end": 76.2,
+      "text": "Rio do Sono, famoso Rio do Sono"
+    },
+    {
+      "start": 76.2,
+      "end": 78.64,
+      "text": "Aqui, sem ir embora"
+    },
+    {
+      "start": 78.64,
+      "end": 80.54,
+      "text": "Não levar uma carta de peixe, gente, não contenta, não"
+    },
+    {
+      "start": 80.54,
+      "end": 82.82,
+      "text": "Aqui é ir embora e não levar uma carta de peixe"
+    },
+    {
+      "start": 82.82,
+      "end": 83.64,
+      "text": "Cheio e topada"
+    },
+    {
+      "start": 83.64,
+      "end": 96.2,
+      "text": "Mais uma subidinha, doída"
+    },
+    {
+      "start": 96.2,
+      "end": 101.39,
+      "text": "Quase cai"
+    },
+    {
+      "start": 101.39,
+      "end": 105.93,
+      "text": "Lá está o rio, gente"
+    },
+    {
+      "start": 105.93,
+      "end": 107.96,
+      "text": "Rio do Sono"
+    },
+    {
+      "start": 107.96,
+      "end": 114.89,
+      "text": "Tem um pessoal aqui acampado"
+    },
+    {
+      "start": 114.89,
+      "end": 115.71,
+      "text": "Um só"
+    },
+    {
+      "start": 115.71,
+      "end": 117.21,
+      "text": "Com equipe"
+    },
+    {
+      "start": 117.21,
+      "end": 120.71,
+      "text": "Estamos descendo"
+    },
+    {
+      "start": 120.71,
+      "end": 121.41,
+      "text": "Vai chegar um"
+    },
+    {
+      "start": 121.41,
+      "end": 140.24,
+      "text": "Mais uns amigos ali pescando"
+    },
+    {
+      "start": 140.24,
+      "end": 152.15,
+      "text": "João respondeu, ó"
+    },
+    {
+      "start": 152.15,
+      "end": 153.15,
+      "text": "Só que não dá para o rio"
+    },
+    {
+      "start": 153.15,
+      "end": 155.11,
+      "text": "Respondeu agora mais cedo"
+    },
+    {
+      "start": 155.11,
+      "end": 158.0,
+      "text": "Respondeu 5 e 7"
+    },
+    {
+      "start": 158.0,
+      "end": 161.58,
+      "text": "Agora eu não sei se é da manhã"
+    },
+    {
+      "start": 161.58,
+      "end": 163.92,
+      "text": "Ou se é de... não"
+    },
+    {
+      "start": 163.92,
+      "end": 164.82,
+      "text": "Mas é da manhã, moço"
+    },
+    {
+      "start": 164.82,
+      "end": 167.24,
+      "text": "Não, quando é, mas foi de nove"
+    },
+    {
+      "start": 167.24,
+      "end": 170.98,
+      "text": "Foi domingo, né?"
+    },
+    {
+      "start": 171.04,
+      "end": 172.18,
+      "text": "Já saiu domingo, né?"
+    },
+    {
+      "start": 172.6,
+      "end": 175.41,
+      "text": "Aqui estamos, meu amigo"
+    },
+    {
+      "start": 175.41,
+      "end": 177.24,
+      "text": "Já estamos subindo"
+    },
+    {
+      "start": 177.24,
+      "end": 179.28,
+      "text": "Só que nas últimas coisas"
+    },
+    {
+      "start": 179.28,
+      "end": 191.14,
+      "text": "Nosso peixinho pulando ali"
+    },
+    {
+      "start": 191.14,
+      "end": 198.32,
+      "text": "Céu e rio"
+    },
+    {
+      "start": 198.32,
+      "end": 200.5,
+      "text": "Mais famosos"
+    },
+    {
+      "start": 200.5,
+      "end": 203.75,
+      "text": "Amigo comércio nas paredes"
+    },
+    {
+      "start": 203.75,
+      "end": 206.5,
+      "text": "Rio do Sono"
+    },
+    {
+      "start": 206.5,
+      "end": 209.45,
+      "text": "Gente, aquele abraço"
+    },
+    {
+      "start": 209.45,
+      "end": 209.81,
+      "text": "Entendeu?"
+    },
+    {
+      "start": 209.95,
+      "end": 211.51,
+      "text": "Pescaria foi ótimo, foi boa demais"
+    },
+    {
+      "start": 211.51,
+      "end": 213.07,
+      "text": "Pegamos bastante"
+    },
+    {
+      "start": 213.07,
+      "end": 215.24,
+      "text": "Chegou alguém, já está ali já"
+    },
+    {
+      "start": 215.24,
+      "end": 218.49,
+      "text": "Então vamos subir"
+    },
+    {
+      "start": 218.49,
+      "end": 219.35,
+      "text": "Quil abraço"
+    }
+  ],
+  "duracao_seg": 220.35,
+  "idioma_detectado": "pt"
+}

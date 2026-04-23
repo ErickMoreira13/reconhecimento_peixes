@@ -1,0 +1,27 @@
+{
+  "texto": "Mostrar aqui uns peixinhos, aí ó, olha os curimbeiros aí ó, aí ó, Betão Dio, Miguel curimbeiro, sou eu Belchior aí que sou, faço parte aí, olha aí ó, essas maravilhas aí ó, aqui é mandinho, as belas curimbas, quatro escadas de peixe ó, isso aqui é um peixe menor, mas um tamanho bom, e chegamos agora meia noite, que a viagem é longa",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 10.97,
+      "text": "Mostrar aqui uns peixinhos, aí ó, olha os curimbeiros aí ó, aí ó, Betão Dio, Miguel"
+    },
+    {
+      "start": 10.97,
+      "end": 21.51,
+      "text": "curimbeiro, sou eu Belchior aí que sou, faço parte aí, olha aí ó, essas maravilhas aí"
+    },
+    {
+      "start": 21.51,
+      "end": 45.73,
+      "text": "ó, aqui é mandinho, as belas curimbas, quatro escadas de peixe ó, isso aqui é um peixe"
+    },
+    {
+      "start": 45.73,
+      "end": 61.63,
+      "text": "menor, mas um tamanho bom, e chegamos agora meia noite, que a viagem é longa"
+    }
+  ],
+  "duracao_seg": 62.99,
+  "idioma_detectado": "pt"
+}

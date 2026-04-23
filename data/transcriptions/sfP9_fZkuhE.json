@@ -1,0 +1,32 @@
+{
+  "texto": "Vamos dar uma pescadinha aí, jique cheio. Vamos ver se vai dar uns peixes hoje. Ah, cheguei meio tarde. Tamo aí. E aí tava... Tô arrumando a rede aqui. Vou largar na beirada aqui, mas tem mais gente pescando. Vou ter que ver melhor aqui pra não enrolar na linha dos caras. Vamos ver aqui se pega alguma coisa.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 12.05,
+      "text": "Vamos dar uma pescadinha aí, jique cheio. Vamos ver se vai dar uns peixes hoje."
+    },
+    {
+      "start": 12.05,
+      "end": 17.07,
+      "text": "Ah, cheguei meio tarde. Tamo aí. E aí tava..."
+    },
+    {
+      "start": 17.07,
+      "end": 34.14,
+      "text": "Tô arrumando a rede aqui. Vou largar na beirada aqui, mas tem mais gente pescando."
+    },
+    {
+      "start": 34.14,
+      "end": 37.14,
+      "text": "Vou ter que ver melhor aqui pra não enrolar na linha dos caras."
+    },
+    {
+      "start": 37.14,
+      "end": 39.14,
+      "text": "Vamos ver aqui se pega alguma coisa."
+    }
+  ],
+  "duracao_seg": 49.95,
+  "idioma_detectado": "pt"
+}

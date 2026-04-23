@@ -1,0 +1,32 @@
+{
+  "texto": "Tá? Tô Aqui é tanto peixe que pega de dois Pega de penca Essa foi boa",
+  "segmentos": [
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Tá?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.54,
+      "text": "Tô"
+    },
+    {
+      "start": 4.54,
+      "end": 7.54,
+      "text": "Aqui é tanto peixe que pega de dois"
+    },
+    {
+      "start": 7.54,
+      "end": 11.98,
+      "text": "Pega de penca"
+    },
+    {
+      "start": 11.98,
+      "end": 12.98,
+      "text": "Essa foi boa"
+    }
+  ],
+  "duracao_seg": 13.21,
+  "idioma_detectado": "pt"
+}

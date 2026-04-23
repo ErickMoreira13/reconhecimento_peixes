@@ -1,0 +1,22 @@
+{
+  "texto": "Ah, trem, dois, bora vai, pensa dois cidadão perdido, pensa dois cidadão perdido, sem saber pra onde vai, ah, vai, vai, vai, vai, não sabe nem pra onde tá indo esses dois, olha nosso campamento, pensa só, coitado vai, tá ferrado, olha só, eita bexiga velho, ainda bem que nós arrumamos aqui uma barraca, onde tem um acampamento já montado, mas tá difícil, não é fácil não, ó o Wagner, eita, pensa num bichinho tonto, coitado, eu tenho dó, sabe, mas fazer o que, né, não dá pra ter muito dó também não. É pra acabar, dois tontos enfiados no mar, só a chuva, que beleza, graças a Deus tinha esse barato, olha isso aí não, como de ver, nós tava ferrado.",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 94.77,
+      "text": "Ah, trem, dois, bora vai, pensa dois cidadão perdido, pensa dois cidadão perdido, sem saber pra onde vai, ah, vai, vai, vai, vai, não sabe nem pra onde tá indo esses dois, olha nosso campamento, pensa só, coitado vai, tá ferrado,"
+    },
+    {
+      "start": 94.77,
+      "end": 126.04,
+      "text": "olha só, eita bexiga velho, ainda bem que nós arrumamos aqui uma barraca, onde tem um acampamento já montado, mas tá difícil, não é fácil não, ó o Wagner, eita, pensa num bichinho tonto, coitado, eu tenho dó, sabe, mas fazer o que, né, não dá pra ter muito dó também não."
+    },
+    {
+      "start": 126.04,
+      "end": 149.69,
+      "text": "É pra acabar, dois tontos enfiados no mar, só a chuva, que beleza, graças a Deus tinha esse barato, olha isso aí não, como de ver, nós tava ferrado."
+    }
+  ],
+  "duracao_seg": 155.81,
+  "idioma_detectado": "pt"
+}

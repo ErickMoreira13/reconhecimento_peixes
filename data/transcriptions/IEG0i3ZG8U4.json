@@ -1,0 +1,22 @@
+{
+  "texto": "Ele pediu para filmar Fui E aí chicos",
+  "segmentos": [
+    {
+      "start": 1.87,
+      "end": 7.98,
+      "text": "Ele pediu para filmar"
+    },
+    {
+      "start": 7.98,
+      "end": 8.14,
+      "text": "Fui"
+    },
+    {
+      "start": 8.14,
+      "end": 55.76,
+      "text": "E aí chicos"
+    }
+  ],
+  "duracao_seg": 66.35,
+  "idioma_detectado": "pt"
+}

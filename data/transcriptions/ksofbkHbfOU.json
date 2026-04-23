@@ -1,0 +1,37 @@
+{
+  "texto": "Oi, Giovana, tem mais esse aqui dos colegas nossos, os ovos fracelos que estão com nós agora, ó. Manja, só pra você ver o tamanho dos pacuzinhos que o sal pegou. Esse aqui foi o sal, você não dava aqui, ó. Eu fiz praxe agora, ó. Tá vendo? Um abração pra você.",
+  "segmentos": [
+    {
+      "start": 0.24,
+      "end": 6.26,
+      "text": "Oi, Giovana, tem mais esse aqui dos colegas nossos, os ovos fracelos que estão com nós agora, ó."
+    },
+    {
+      "start": 6.84,
+      "end": 9.22,
+      "text": "Manja, só pra você ver o tamanho dos pacuzinhos que o sal pegou."
+    },
+    {
+      "start": 10.46,
+      "end": 12.16,
+      "text": "Esse aqui foi o sal, você não dava aqui, ó."
+    },
+    {
+      "start": 12.64,
+      "end": 13.98,
+      "text": "Eu fiz praxe agora, ó."
+    },
+    {
+      "start": 14.82,
+      "end": 15.16,
+      "text": "Tá vendo?"
+    },
+    {
+      "start": 16.36,
+      "end": 17.24,
+      "text": "Um abração pra você."
+    }
+  ],
+  "duracao_seg": 17.95,
+  "idioma_detectado": "pt"
+}

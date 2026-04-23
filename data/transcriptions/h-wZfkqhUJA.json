@@ -1,0 +1,17 @@
+{
+  "texto": "Tanto tá cheio Tem um cara pescando",
+  "segmentos": [
+    {
+      "start": 3.82,
+      "end": 4.96,
+      "text": "Tanto tá cheio"
+    },
+    {
+      "start": 4.96,
+      "end": 14.65,
+      "text": "Tem um cara pescando"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

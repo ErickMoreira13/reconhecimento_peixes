@@ -1,0 +1,27 @@
+{
+  "texto": "Bora, moçada! Turma reunida! Aí, eu falo, tu joga mesmo, hein? Bora!",
+  "segmentos": [
+    {
+      "start": 0.5,
+      "end": 2.92,
+      "text": "Bora, moçada!"
+    },
+    {
+      "start": 4.48,
+      "end": 5.72,
+      "text": "Turma reunida!"
+    },
+    {
+      "start": 8.36,
+      "end": 11.95,
+      "text": "Aí, eu falo, tu joga mesmo, hein?"
+    },
+    {
+      "start": 12.19,
+      "end": 12.91,
+      "text": "Bora!"
+    }
+  ],
+  "duracao_seg": 14.05,
+  "idioma_detectado": "pt"
+}
