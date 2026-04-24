@@ -1,0 +1,82 @@
+{
+  "texto": "Agora eu tenho uma 100% Oregon-Made Fishe Sandwich, você tem o França Old Fashioned White Bread de Portland, você tem o Tartar de Beaverton, Oregon Pepeper Jacks Cheese de Tilamook, e o freshly caught Kelp Greenland de Oregon. Vamos lá. Vamos para o final touches. Oh, yeah. Taste test. Oh, é o que eu sou para o Fishing Oregon. Se inscreva.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Agora eu tenho uma 100%"
+    },
+    {
+      "start": 2.0,
+      "end": 3.46,
+      "text": "Oregon-Made"
+    },
+    {
+      "start": 3.46,
+      "end": 5.78,
+      "text": "Fishe Sandwich, você tem o França"
+    },
+    {
+      "start": 5.78,
+      "end": 7.46,
+      "text": "Old Fashioned White Bread"
+    },
+    {
+      "start": 7.46,
+      "end": 9.74,
+      "text": "de Portland, você tem o Tartar"
+    },
+    {
+      "start": 9.74,
+      "end": 11.24,
+      "text": "de Beaverton, Oregon"
+    },
+    {
+      "start": 11.24,
+      "end": 13.04,
+      "text": "Pepeper Jacks Cheese"
+    },
+    {
+      "start": 13.04,
+      "end": 15.12,
+      "text": "de Tilamook, e o freshly caught"
+    },
+    {
+      "start": 15.12,
+      "end": 16.8,
+      "text": "Kelp Greenland"
+    },
+    {
+      "start": 16.8,
+      "end": 19.2,
+      "text": "de Oregon. Vamos lá."
+    },
+    {
+      "start": 19.2,
+      "end": 21.49,
+      "text": "Vamos para o final touches."
+    },
+    {
+      "start": 21.49,
+      "end": 26.11,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 27.8,
+      "end": 28.58,
+      "text": "Taste test."
+    },
+    {
+      "start": 31.63,
+      "end": 34.66,
+      "text": "Oh, é o que eu sou para o Fishing Oregon."
+    },
+    {
+      "start": 34.66,
+      "end": 35.78,
+      "text": "Se inscreva."
+    }
+  ],
+  "duracao_seg": 36.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,52 @@
+{
+  "texto": "Três nós utilizados para unir cordas, nó número um, claro, nó direito, talvez o mais conhecido pelos desbravadores Direito sobre esquerdo, esquerdo sobre o direito, não tem erro gente, é só você fazer isso e para saber se deu certo é aquele truque do final, essa ajeitadinha aí O segundo nó é o nó escota, utilizado para unir cordas de espessuras diferentes Faz uma argolinha, entra com outro chicote ali por dentro, dá a volta nessa argolinha e você vai entrar por dentro da própria corda Perceba que a outra nem se mexeu, puxou, está feito o nó escota E o terceiro nó é claro, nó pescador, quem nunca né gente? Pega ali ó, chicote verde, dá um nó simples no chicote branco, puxa bem Vai lá do outro lado e faz o contrário, pega o chicote branco e dá um nó no chicote verde ó, puxa bem ali, puxadinho bem firme Agora pega a ponta verde, pega a ponta branca e...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 8.22,
+      "text": "Três nós utilizados para unir cordas, nó número um, claro, nó direito, talvez o mais conhecido pelos desbravadores"
+    },
+    {
+      "start": 8.22,
+      "end": 17.84,
+      "text": "Direito sobre esquerdo, esquerdo sobre o direito, não tem erro gente, é só você fazer isso e para saber se deu certo é aquele truque do final, essa ajeitadinha aí"
+    },
+    {
+      "start": 17.84,
+      "end": 22.16,
+      "text": "O segundo nó é o nó escota, utilizado para unir cordas de espessuras diferentes"
+    },
+    {
+      "start": 22.16,
+      "end": 32.08,
+      "text": "Faz uma argolinha, entra com outro chicote ali por dentro, dá a volta nessa argolinha e você vai entrar por dentro da própria corda"
+    },
+    {
+      "start": 32.08,
+      "end": 36.98,
+      "text": "Perceba que a outra nem se mexeu, puxou, está feito o nó escota"
+    },
+    {
+      "start": 36.98,
+      "end": 41.84,
+      "text": "E o terceiro nó é claro, nó pescador, quem nunca né gente?"
+    },
+    {
+      "start": 42.22,
+      "end": 46.42,
+      "text": "Pega ali ó, chicote verde, dá um nó simples no chicote branco, puxa bem"
+    },
+    {
+      "start": 46.42,
+      "end": 56.04,
+      "text": "Vai lá do outro lado e faz o contrário, pega o chicote branco e dá um nó no chicote verde ó, puxa bem ali, puxadinho bem firme"
+    },
+    {
+      "start": 56.04,
+      "end": 60.0,
+      "text": "Agora pega a ponta verde, pega a ponta branca e..."
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

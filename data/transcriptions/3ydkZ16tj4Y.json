@@ -1,0 +1,37 @@
+{
+  "texto": "This is unreal. This might be like the biggest trout I've ever held or seen in person. This is at least 15 pounds. I gotta go look up the state record when I get home because this legit might be a state record. Dead tiger trout.",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 1.41,
+      "text": "This is unreal."
+    },
+    {
+      "start": 2.19,
+      "end": 6.81,
+      "text": "This might be like the biggest trout I've ever held or seen in person."
+    },
+    {
+      "start": 7.11,
+      "end": 8.57,
+      "text": "This is at least 15 pounds."
+    },
+    {
+      "start": 8.95,
+      "end": 11.09,
+      "text": "I gotta go look up the state record when I get home"
+    },
+    {
+      "start": 11.09,
+      "end": 14.4,
+      "text": "because this legit might be a state record."
+    },
+    {
+      "start": 14.98,
+      "end": 16.06,
+      "text": "Dead tiger trout."
+    }
+  ],
+  "duracao_seg": 19.09,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "We got us a keeper. I was just about to wrap up. He's only got one clob, but he's got some big old junker biceps there. We got one!",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "We got us a keeper. I was just about to wrap up."
+    },
+    {
+      "start": 3.85,
+      "end": 8.37,
+      "text": "He's only got one clob, but he's got some big old junker biceps there."
+    },
+    {
+      "start": 9.79,
+      "end": 10.55,
+      "text": "We got one!"
+    }
+  ],
+  "duracao_seg": 10.95,
+  "idioma_detectado": "pt"
+}

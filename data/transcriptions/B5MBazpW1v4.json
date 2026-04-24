@@ -1,0 +1,62 @@
+{
+  "texto": "Esse não é o que Mr. Gary tinha lá, mas é um fish. Oh, você tem a double? Ok, agora, let a line out. Eu goto. Estamos em um, ou alguma coisa, ele diz. Ok, vamos fazer isso aqui. Oh, não fazer isso aqui. Oh, bom. Então, o que eu era de diferente? Ok. Ok, ok.",
+  "segmentos": [
+    {
+      "start": 1.1,
+      "end": 7.7,
+      "text": "Esse não é o que Mr. Gary tinha lá, mas é um fish."
+    },
+    {
+      "start": 13.5,
+      "end": 14.52,
+      "text": "Oh, você tem a double?"
+    },
+    {
+      "start": 21.32,
+      "end": 23.04,
+      "text": "Ok, agora, let a line out."
+    },
+    {
+      "start": 23.1,
+      "end": 23.6,
+      "text": "Eu goto."
+    },
+    {
+      "start": 34.82,
+      "end": 36.62,
+      "text": "Estamos em um, ou alguma coisa, ele diz."
+    },
+    {
+      "start": 41.09,
+      "end": 42.17,
+      "text": "Ok, vamos fazer isso aqui."
+    },
+    {
+      "start": 46.88,
+      "end": 47.94,
+      "text": "Oh, não fazer isso aqui."
+    },
+    {
+      "start": 50.02,
+      "end": 51.0,
+      "text": "Oh, bom."
+    },
+    {
+      "start": 55.34,
+      "end": 56.8,
+      "text": "Então, o que eu era de diferente?"
+    },
+    {
+      "start": 57.06,
+      "end": 57.22,
+      "text": "Ok."
+    },
+    {
+      "start": 57.82,
+      "end": 59.6,
+      "text": "Ok, ok."
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

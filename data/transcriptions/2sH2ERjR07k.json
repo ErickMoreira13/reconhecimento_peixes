@@ -1,0 +1,27 @@
+{
+  "texto": "Alright, let's watch my bobber go down Fishing, fishing, fishing In Oregon Hmm, there it goes",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 3.54,
+      "text": "Alright, let's watch my bobber go down"
+    },
+    {
+      "start": 3.54,
+      "end": 10.56,
+      "text": "Fishing, fishing, fishing"
+    },
+    {
+      "start": 10.56,
+      "end": 12.33,
+      "text": "In Oregon"
+    },
+    {
+      "start": 12.33,
+      "end": 24.4,
+      "text": "Hmm, there it goes"
+    }
+  ],
+  "duracao_seg": 24.47,
+  "idioma_detectado": "pt"
+}

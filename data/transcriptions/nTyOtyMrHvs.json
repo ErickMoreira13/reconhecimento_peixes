@@ -1,0 +1,22 @@
+{
+  "texto": "Esse é o Deschutes River we were after. Nós estamos tentando encontrar esse cara, esse cara de classe.",
+  "segmentos": [
+    {
+      "start": 14.7,
+      "end": 16.7,
+      "text": "Esse é o Deschutes River we were after."
+    },
+    {
+      "start": 16.7,
+      "end": 18.7,
+      "text": "Nós estamos tentando encontrar esse cara,"
+    },
+    {
+      "start": 18.7,
+      "end": 20.7,
+      "text": "esse cara de classe."
+    }
+  ],
+  "duracao_seg": 20.29,
+  "idioma_detectado": "pt"
+}

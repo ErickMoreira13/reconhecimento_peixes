@@ -1,0 +1,17 @@
+{
+  "texto": "Looked decent for the camera here, bait. Anyway, that thing right there is what I'm going to be using tonight.",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 2.99,
+      "text": "Looked decent for the camera here, bait."
+    },
+    {
+      "start": 4.05,
+      "end": 7.27,
+      "text": "Anyway, that thing right there is what I'm going to be using tonight."
+    }
+  ],
+  "duracao_seg": 7.97,
+  "idioma_detectado": "pt"
+}

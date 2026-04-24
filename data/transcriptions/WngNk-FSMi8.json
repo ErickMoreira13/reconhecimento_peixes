@@ -1,0 +1,27 @@
+{
+  "texto": "Se liga nesse barco, que massa! É tipo um lego! Eles podem transportar ele desmontado em três partes e é super leve, do mesmo material dos caiaques de pesca. Já se inscreve aí no Pesca Flix e esses parafusos tipo borboleta para montagem prática. Compartimento na proa para bagagem. Parece muito um milha boat. Partiu pescaria.",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 4.84,
+      "text": "Se liga nesse barco, que massa! É tipo um lego!"
+    },
+    {
+      "start": 5.56,
+      "end": 12.28,
+      "text": "Eles podem transportar ele desmontado em três partes e é super leve, do mesmo material dos caiaques de pesca."
+    },
+    {
+      "start": 12.54,
+      "end": 18.4,
+      "text": "Já se inscreve aí no Pesca Flix e esses parafusos tipo borboleta para montagem prática."
+    },
+    {
+      "start": 19.16,
+      "end": 24.9,
+      "text": "Compartimento na proa para bagagem. Parece muito um milha boat. Partiu pescaria."
+    }
+  ],
+  "duracao_seg": 29.65,
+  "idioma_detectado": "pt"
+}

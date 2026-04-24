@@ -1,0 +1,32 @@
+{
+  "texto": "Eu só quero que ela deixa eu poder pescar No lago ou na represa que agora eu vou pegar Porque agora eu pego, agora eu pego, agora eu pego Porque agora eu pego, agora eu pego Agora eu pego",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Eu só quero que ela deixa eu poder pescar"
+    },
+    {
+      "start": 2.96,
+      "end": 6.62,
+      "text": "No lago ou na represa que agora eu vou pegar"
+    },
+    {
+      "start": 6.62,
+      "end": 10.16,
+      "text": "Porque agora eu pego, agora eu pego, agora eu pego"
+    },
+    {
+      "start": 10.16,
+      "end": 12.68,
+      "text": "Porque agora eu pego, agora eu pego"
+    },
+    {
+      "start": 12.68,
+      "end": 19.69,
+      "text": "Agora eu pego"
+    }
+  ],
+  "duracao_seg": 23.79,
+  "idioma_detectado": "pt"
+}

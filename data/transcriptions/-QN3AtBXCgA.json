@@ -1,0 +1,37 @@
+{
+  "texto": "Galera, estou subindo aqui em direção ao Monte Rude E estou sentindo que eu esqueci meu material de pesca Olha o riozinho que eu encontrei aqui Nunca queira para pescar uma truta, um salmão Mas está frio pra caramba, gente Olha a lila lá em cima",
+  "segmentos": [
+    {
+      "start": 0.43,
+      "end": 3.87,
+      "text": "Galera, estou subindo aqui em direção ao Monte Rude"
+    },
+    {
+      "start": 3.87,
+      "end": 8.01,
+      "text": "E estou sentindo que eu esqueci meu material de pesca"
+    },
+    {
+      "start": 8.01,
+      "end": 9.67,
+      "text": "Olha o riozinho que eu encontrei aqui"
+    },
+    {
+      "start": 9.67,
+      "end": 14.96,
+      "text": "Nunca queira para pescar uma truta, um salmão"
+    },
+    {
+      "start": 14.96,
+      "end": 20.47,
+      "text": "Mas está frio pra caramba, gente"
+    },
+    {
+      "start": 20.47,
+      "end": 24.9,
+      "text": "Olha a lila lá em cima"
+    }
+  ],
+  "duracao_seg": 27.35,
+  "idioma_detectado": "pt"
+}

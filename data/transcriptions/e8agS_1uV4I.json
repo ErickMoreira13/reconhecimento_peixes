@@ -1,0 +1,72 @@
+{
+  "texto": "Today, while fishing a pond in Oregon, this kid told me to come over that there was some bass in the water. So I decided to take a couple casts off the dock, but I didn't catch anything. So I moved over to a bridge that I seen some salmon creek in. Didn't catch anything. What's interesting about this lake is that there's a life vest. So yeah, if you ever want to hop in this beautiful stream here. Kid had to go, but I still didn't catch any bass. Bye.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Today, while fishing a pond in Oregon,"
+    },
+    {
+      "start": 1.66,
+      "end": 2.78,
+      "text": "this kid told me to come over"
+    },
+    {
+      "start": 2.78,
+      "end": 4.2,
+      "text": "that there was some bass in the water."
+    },
+    {
+      "start": 7.2,
+      "end": 9.14,
+      "text": "So I decided to take a couple casts off the dock,"
+    },
+    {
+      "start": 9.22,
+      "end": 10.14,
+      "text": "but I didn't catch anything."
+    },
+    {
+      "start": 10.52,
+      "end": 12.1,
+      "text": "So I moved over to a bridge"
+    },
+    {
+      "start": 12.1,
+      "end": 13.92,
+      "text": "that I seen some salmon creek in."
+    },
+    {
+      "start": 14.08,
+      "end": 14.78,
+      "text": "Didn't catch anything."
+    },
+    {
+      "start": 15.32,
+      "end": 16.68,
+      "text": "What's interesting about this lake"
+    },
+    {
+      "start": 16.68,
+      "end": 18.2,
+      "text": "is that there's a life vest."
+    },
+    {
+      "start": 18.64,
+      "end": 20.68,
+      "text": "So yeah, if you ever want to hop in this beautiful stream here."
+    },
+    {
+      "start": 21.36,
+      "end": 23.42,
+      "text": "Kid had to go, but I still didn't catch any bass."
+    },
+    {
+      "start": 23.54,
+      "end": 23.68,
+      "text": "Bye."
+    }
+  ],
+  "duracao_seg": 23.71,
+  "idioma_detectado": "pt"
+}

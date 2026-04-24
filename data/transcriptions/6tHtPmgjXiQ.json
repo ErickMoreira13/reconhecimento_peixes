@@ -1,0 +1,22 @@
+{
+  "texto": "Olha como rote. Olha como bonita. Olha como bonita.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Olha como rote."
+    },
+    {
+      "start": 2.0,
+      "end": 4.99,
+      "text": "Olha como bonita."
+    },
+    {
+      "start": 4.99,
+      "end": 7.76,
+      "text": "Olha como bonita."
+    }
+  ],
+  "duracao_seg": 8.61,
+  "idioma_detectado": "pt"
+}

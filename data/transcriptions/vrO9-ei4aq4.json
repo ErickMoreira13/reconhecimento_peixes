@@ -1,0 +1,27 @@
+{
+  "texto": "The chances of you seeing this YouTube short are super rare. There's over a hundred million YouTube channels. I'm not going to ask you to like, comment, or subscribe. But if you do, thank you and have a great...",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "The chances of you seeing this YouTube short are super rare."
+    },
+    {
+      "start": 3.12,
+      "end": 5.24,
+      "text": "There's over a hundred million YouTube channels."
+    },
+    {
+      "start": 5.72,
+      "end": 8.94,
+      "text": "I'm not going to ask you to like, comment, or subscribe."
+    },
+    {
+      "start": 9.26,
+      "end": 12.0,
+      "text": "But if you do, thank you and have a great..."
+    }
+  ],
+  "duracao_seg": 12.01,
+  "idioma_detectado": "pt"
+}

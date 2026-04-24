@@ -1,0 +1,37 @@
+{
+  "texto": "Já vamos para o Df1 DHT Fishing Adventures. Eu tenho um fichão. Oh meu Deus. Flip, Flip, Flip, Flip. Into a boat. Oh my.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Já vamos para o Df1 DHT Fishing Adventures."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Eu tenho um fichão."
+    },
+    {
+      "start": 4.0,
+      "end": 6.74,
+      "text": "Oh meu Deus."
+    },
+    {
+      "start": 6.74,
+      "end": 8.74,
+      "text": "Flip, Flip, Flip, Flip."
+    },
+    {
+      "start": 8.74,
+      "end": 11.63,
+      "text": "Into a boat."
+    },
+    {
+      "start": 11.63,
+      "end": 14.69,
+      "text": "Oh my."
+    }
+  ],
+  "duracao_seg": 13.61,
+  "idioma_detectado": "pt"
+}

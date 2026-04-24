@@ -1,0 +1,22 @@
+{
+  "texto": "Here's a rockfish you've probably never, ever seen before. Introducing the gopher rockfish. Pretty cool, you only see a handful of those a year. But gopher rockfish, pretty rare. And there he goes. Alright, what else can we find?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Here's a rockfish you've probably never, ever seen before. Introducing the gopher rockfish."
+    },
+    {
+      "start": 6.0,
+      "end": 12.26,
+      "text": "Pretty cool, you only see a handful of those a year. But gopher rockfish, pretty rare."
+    },
+    {
+      "start": 12.26,
+      "end": 18.21,
+      "text": "And there he goes. Alright, what else can we find?"
+    }
+  ],
+  "duracao_seg": 18.79,
+  "idioma_detectado": "pt"
+}

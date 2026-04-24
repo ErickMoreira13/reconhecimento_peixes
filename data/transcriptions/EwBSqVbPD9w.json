@@ -1,0 +1,22 @@
+{
+  "texto": "Ai ai ai Oof! There you go!",
+  "segmentos": [
+    {
+      "start": 1.42,
+      "end": 11.04,
+      "text": "Ai ai ai"
+    },
+    {
+      "start": 11.04,
+      "end": 42.1,
+      "text": "Oof!"
+    },
+    {
+      "start": 42.1,
+      "end": 44.1,
+      "text": "There you go!"
+    }
+  ],
+  "duracao_seg": 44.55,
+  "idioma_detectado": "pt"
+}

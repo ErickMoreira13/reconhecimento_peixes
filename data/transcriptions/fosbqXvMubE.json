@@ -1,0 +1,102 @@
+{
+  "texto": "Yeah. Wowza. Keep reeling. Oh, it's a fucking halibut. Escape? Keep reeling towards me. Ready? One, two, three. Alright, guys. Be careful with the camera. Keep holding it behind you. Guys, we just landed a halibut. Oh, it's a big one. I hooked him right in the noggin. Man. Holy moly, guys. Wait till I show you this. What we're gonna do is probably jet...",
+  "segmentos": [
+    {
+      "start": 0.11,
+      "end": 0.83,
+      "text": "Yeah."
+    },
+    {
+      "start": 2.6,
+      "end": 3.12,
+      "text": "Wowza."
+    },
+    {
+      "start": 4.4,
+      "end": 5.32,
+      "text": "Keep reeling."
+    },
+    {
+      "start": 7.38,
+      "end": 9.02,
+      "text": "Oh, it's a fucking halibut."
+    },
+    {
+      "start": 9.32,
+      "end": 9.76,
+      "text": "Escape?"
+    },
+    {
+      "start": 11.52,
+      "end": 12.86,
+      "text": "Keep reeling towards me."
+    },
+    {
+      "start": 14.54,
+      "end": 24.14,
+      "text": "Ready?"
+    },
+    {
+      "start": 24.46,
+      "end": 25.5,
+      "text": "One, two, three."
+    },
+    {
+      "start": 31.61,
+      "end": 32.77,
+      "text": "Alright, guys."
+    },
+    {
+      "start": 32.93,
+      "end": 34.09,
+      "text": "Be careful with the camera."
+    },
+    {
+      "start": 34.27,
+      "end": 35.51,
+      "text": "Keep holding it behind you."
+    },
+    {
+      "start": 36.51,
+      "end": 39.26,
+      "text": "Guys, we just landed"
+    },
+    {
+      "start": 39.26,
+      "end": 39.94,
+      "text": "a halibut."
+    },
+    {
+      "start": 40.64,
+      "end": 42.76,
+      "text": "Oh, it's a"
+    },
+    {
+      "start": 42.76,
+      "end": 44.94,
+      "text": "big one. I hooked him right"
+    },
+    {
+      "start": 44.94,
+      "end": 46.48,
+      "text": "in the noggin. Man."
+    },
+    {
+      "start": 48.15,
+      "end": 49.39,
+      "text": "Holy moly, guys."
+    },
+    {
+      "start": 49.51,
+      "end": 50.75,
+      "text": "Wait till I show you this."
+    },
+    {
+      "start": 51.98,
+      "end": 53.6,
+      "text": "What we're gonna do is probably jet..."
+    }
+  ],
+  "duracao_seg": 57.15,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Ok, she keep going, she keep going Every single night",
+  "segmentos": [
+    {
+      "start": 1.04,
+      "end": 4.4,
+      "text": "Ok, she keep going, she keep going"
+    },
+    {
+      "start": 4.4,
+      "end": 5.28,
+      "text": "Every single night"
+    }
+  ],
+  "duracao_seg": 13.91,
+  "idioma_detectado": "pt"
+}

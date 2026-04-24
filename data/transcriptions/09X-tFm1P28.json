@@ -1,0 +1,17 @@
+{
+  "texto": "Dá-me um grrr Um quê? Um quê? Um quê?",
+  "segmentos": [
+    {
+      "start": 0.18,
+      "end": 1.42,
+      "text": "Dá-me um grrr"
+    },
+    {
+      "start": 1.42,
+      "end": 4.73,
+      "text": "Um quê? Um quê? Um quê?"
+    }
+  ],
+  "duracao_seg": 18.07,
+  "idioma_detectado": "pt"
+}

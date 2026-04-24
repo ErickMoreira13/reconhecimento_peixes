@@ -1,0 +1,47 @@
+{
+  "texto": "Você já viu a bounty da terra? Wow! Oh, esses são muito lindos! Even a blue one! Eu gostei, babe! Eles ambos são lindos! Os grandes lindos! Sim, sim, sim!",
+  "segmentos": [
+    {
+      "start": 0.59,
+      "end": 2.59,
+      "text": "Você já viu a bounty da terra?"
+    },
+    {
+      "start": 4.59,
+      "end": 5.59,
+      "text": "Wow!"
+    },
+    {
+      "start": 5.59,
+      "end": 7.59,
+      "text": "Oh, esses são muito lindos!"
+    },
+    {
+      "start": 7.59,
+      "end": 8.59,
+      "text": "Even a blue one!"
+    },
+    {
+      "start": 8.59,
+      "end": 9.59,
+      "text": "Eu gostei, babe!"
+    },
+    {
+      "start": 9.59,
+      "end": 11.59,
+      "text": "Eles ambos são lindos!"
+    },
+    {
+      "start": 11.59,
+      "end": 12.59,
+      "text": "Os grandes lindos!"
+    },
+    {
+      "start": 12.59,
+      "end": 14.94,
+      "text": "Sim, sim, sim!"
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

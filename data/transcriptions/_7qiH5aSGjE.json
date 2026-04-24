@@ -1,0 +1,67 @@
+{
+  "texto": "Yeah, that's fine. Yeah, ok. Damn, that is a huge fish. Alright, tell them what you're doing, Curtis. Running down the rib line here. Get to that bone and then cut around the top. See where the meat and the bone meet. A little bit of bones at the top you gotta cut around. Straight down the side. Once you get there, you just kind of get to the ribs. Use a little flex of the knife and run down the spine here. And basically just fillet off this whole piece.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "Yeah, that's fine."
+    },
+    {
+      "start": 0.8,
+      "end": 1.08,
+      "text": "Yeah, ok."
+    },
+    {
+      "start": 6.57,
+      "end": 8.99,
+      "text": "Damn, that is a huge fish."
+    },
+    {
+      "start": 14.71,
+      "end": 16.23,
+      "text": "Alright, tell them what you're doing, Curtis."
+    },
+    {
+      "start": 18.22,
+      "end": 21.62,
+      "text": "Running down the rib line here."
+    },
+    {
+      "start": 23.91,
+      "end": 25.91,
+      "text": "Get to that bone and then cut around the top."
+    },
+    {
+      "start": 26.49,
+      "end": 27.95,
+      "text": "See where the meat and the bone meet."
+    },
+    {
+      "start": 30.96,
+      "end": 34.09,
+      "text": "A little bit of bones at the top you gotta cut around."
+    },
+    {
+      "start": 36.04,
+      "end": 37.02,
+      "text": "Straight down the side."
+    },
+    {
+      "start": 37.12,
+      "end": 39.22,
+      "text": "Once you get there, you just kind of get to the ribs."
+    },
+    {
+      "start": 42.83,
+      "end": 46.72,
+      "text": "Use a little flex of the knife and run down the spine here."
+    },
+    {
+      "start": 46.74,
+      "end": 55.28,
+      "text": "And basically just fillet off this whole piece."
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

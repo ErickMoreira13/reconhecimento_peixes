@@ -1,0 +1,147 @@
+{
+  "texto": "Deja de sentar a sua filha. Deja de sentar a sua filha. Deja de sentar a sua filha. Senhoras, o momento que passamos com Carlos. Nada mais a ver que rollo. Ela sabe que está boa. Técalo. Míralo mais. Estão viejitos, mas Carlos enganchou uns. Primeiro, a verlo. A verlo para a foto. Vamos tomarle la foto. A verlo para... A verlo para... Lo dije... Voy a conquistar tu familia. Que no lo dirás. Vas a hacerme a... Me hijo. Este es el proceso del pescado. Como pueden ver, ya está viejo pescadito. Y no te vas a marchar a tu bella. Ya está aca arriba. Arriba. Arriba. Voces para la foto. Nada más. Volteable.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Deja de sentar a sua filha."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Deja de sentar a sua filha."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Deja de sentar a sua filha."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "Senhoras, o momento que passamos com Carlos."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Nada mais a ver que rollo."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Ela sabe que está boa."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Técalo."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Míralo mais."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "Estão viejitos, mas Carlos enganchou uns."
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Primeiro, a verlo."
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "A verlo para a foto."
+    },
+    {
+      "start": 23.0,
+      "end": 25.0,
+      "text": "Vamos tomarle la foto."
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "A verlo para..."
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "A verlo para..."
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "Lo dije..."
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "text": "Voy a conquistar tu familia."
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "text": "Que no lo dirás."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "Vas a hacerme a..."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "Me hijo."
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "Este es el proceso del pescado."
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "text": "Como pueden ver, ya está viejo pescadito."
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "Y no te vas a marchar a tu bella."
+    },
+    {
+      "start": 46.0,
+      "end": 49.67,
+      "text": "Ya está aca arriba."
+    },
+    {
+      "start": 49.67,
+      "end": 50.67,
+      "text": "Arriba."
+    },
+    {
+      "start": 50.67,
+      "end": 52.67,
+      "text": "Arriba."
+    },
+    {
+      "start": 52.67,
+      "end": 54.67,
+      "text": "Voces para la foto."
+    },
+    {
+      "start": 54.67,
+      "end": 56.67,
+      "text": "Nada más."
+    },
+    {
+      "start": 56.67,
+      "end": 58.67,
+      "text": "Volteable."
+    }
+  ],
+  "duracao_seg": 58.67,
+  "idioma_detectado": "pt"
+}

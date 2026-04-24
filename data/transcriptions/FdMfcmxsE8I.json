@@ -1,0 +1,207 @@
+{
+  "texto": "7% Good way to end it Hope we have enough Oh man Oh 6% left Are you going to see what it is? What it is Our P&W calls fishing Not a good fish there How much do you have left now? 7% Oh 7% Oh that's a hole Bang Big ol' wingtot baby Dig Whoa That is the biggest thing That's a medium heavy That is a hog Oh man Hold on to that Dude Son of a bitch Woo Nice Dave Whoa There it is Bigly good Wowee Nice one brother Here you go Dave Check this out Get out Get in there bud Yeah buddy Yeah that'll do Dave Nice one buddy See? Hahaha",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "7%"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Good way to end it"
+    },
+    {
+      "start": 2.0,
+      "end": 7.1,
+      "text": "Hope we have enough"
+    },
+    {
+      "start": 7.1,
+      "end": 8.1,
+      "text": "Oh man"
+    },
+    {
+      "start": 8.1,
+      "end": 10.1,
+      "text": "Oh 6% left"
+    },
+    {
+      "start": 10.1,
+      "end": 11.1,
+      "text": "Are you going to see what it is?"
+    },
+    {
+      "start": 11.1,
+      "end": 16.07,
+      "text": "What it is"
+    },
+    {
+      "start": 18.61,
+      "end": 20.61,
+      "text": "Our P&W calls fishing"
+    },
+    {
+      "start": 21.61,
+      "end": 23.77,
+      "text": "Not a good fish there"
+    },
+    {
+      "start": 23.77,
+      "end": 26.38,
+      "text": "How much do you have left now?"
+    },
+    {
+      "start": 27.66,
+      "end": 28.66,
+      "text": "7%"
+    },
+    {
+      "start": 28.66,
+      "end": 29.66,
+      "text": "Oh 7%"
+    },
+    {
+      "start": 29.66,
+      "end": 30.66,
+      "text": "Oh that's a hole"
+    },
+    {
+      "start": 37.78,
+      "end": 41.69,
+      "text": "Bang"
+    },
+    {
+      "start": 41.69,
+      "end": 43.69,
+      "text": "Big ol' wingtot baby"
+    },
+    {
+      "start": 43.69,
+      "end": 44.69,
+      "text": "Dig"
+    },
+    {
+      "start": 45.85,
+      "end": 46.85,
+      "text": "Whoa"
+    },
+    {
+      "start": 46.85,
+      "end": 48.07,
+      "text": "That is the biggest thing"
+    },
+    {
+      "start": 48.07,
+      "end": 49.07,
+      "text": "That's a medium heavy"
+    },
+    {
+      "start": 49.07,
+      "end": 51.97,
+      "text": "That is a hog"
+    },
+    {
+      "start": 51.97,
+      "end": 52.97,
+      "text": "Oh man"
+    },
+    {
+      "start": 52.97,
+      "end": 53.97,
+      "text": "Hold on to that"
+    },
+    {
+      "start": 57.97,
+      "end": 58.97,
+      "text": "Dude"
+    },
+    {
+      "start": 58.97,
+      "end": 59.97,
+      "text": "Son of a bitch"
+    },
+    {
+      "start": 59.97,
+      "end": 61.97,
+      "text": "Woo"
+    },
+    {
+      "start": 61.97,
+      "end": 63.97,
+      "text": "Nice Dave"
+    },
+    {
+      "start": 63.97,
+      "end": 64.97,
+      "text": "Whoa"
+    },
+    {
+      "start": 64.97,
+      "end": 65.97,
+      "text": "There it is"
+    },
+    {
+      "start": 65.97,
+      "end": 66.97,
+      "text": "Bigly good"
+    },
+    {
+      "start": 66.97,
+      "end": 67.97,
+      "text": "Wowee"
+    },
+    {
+      "start": 71.97,
+      "end": 72.97,
+      "text": "Nice one brother"
+    },
+    {
+      "start": 72.97,
+      "end": 74.97,
+      "text": "Here you go Dave"
+    },
+    {
+      "start": 74.97,
+      "end": 77.1,
+      "text": "Check this out"
+    },
+    {
+      "start": 77.1,
+      "end": 78.1,
+      "text": "Get out"
+    },
+    {
+      "start": 79.25,
+      "end": 80.25,
+      "text": "Get in there bud"
+    },
+    {
+      "start": 81.38,
+      "end": 82.38,
+      "text": "Yeah buddy"
+    },
+    {
+      "start": 86.54,
+      "end": 87.54,
+      "text": "Yeah that'll do Dave"
+    },
+    {
+      "start": 88.54,
+      "end": 89.54,
+      "text": "Nice one buddy"
+    },
+    {
+      "start": 89.54,
+      "end": 90.54,
+      "text": "See?"
+    },
+    {
+      "start": 90.54,
+      "end": 91.54,
+      "text": "Hahaha"
+    }
+  ],
+  "duracao_seg": 90.71,
+  "idioma_detectado": "pt"
+}

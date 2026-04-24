@@ -1,0 +1,22 @@
+{
+  "texto": "Winter time wing. Book a trip. Fishing good. That is a winter time right there.",
+  "segmentos": [
+    {
+      "start": 5.1,
+      "end": 6.86,
+      "text": "Winter time wing. Book a trip."
+    },
+    {
+      "start": 7.28,
+      "end": 7.92,
+      "text": "Fishing good."
+    },
+    {
+      "start": 13.1,
+      "end": 14.98,
+      "text": "That is a winter time right there."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

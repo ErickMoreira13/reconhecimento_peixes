@@ -1,0 +1,47 @@
+{
+  "texto": "Ele vai soltar tudo e vai deixar essa tela aqui sair da sua mão, beleza? Eu não sei não. Sabe sim, prepara. Aí eu vou falar, solta tudo, Davi. Um, dois, três e... Solta tudo, Davi. Ai, sai tudo aqui. Aí, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.63,
+      "text": "Ele vai soltar tudo e vai deixar essa tela aqui sair da sua mão, beleza?"
+    },
+    {
+      "start": 6.01,
+      "end": 6.79,
+      "text": "Eu não sei não."
+    },
+    {
+      "start": 7.01,
+      "end": 8.19,
+      "text": "Sabe sim, prepara."
+    },
+    {
+      "start": 9.09,
+      "end": 10.27,
+      "text": "Aí eu vou falar, solta tudo, Davi."
+    },
+    {
+      "start": 10.55,
+      "end": 13.49,
+      "text": "Um, dois, três e..."
+    },
+    {
+      "start": 13.49,
+      "end": 14.21,
+      "text": "Solta tudo, Davi."
+    },
+    {
+      "start": 19.16,
+      "end": 20.44,
+      "text": "Ai, sai tudo aqui."
+    },
+    {
+      "start": 27.06,
+      "end": 27.72,
+      "text": "Aí, ó."
+    }
+  ],
+  "duracao_seg": 28.43,
+  "idioma_detectado": "pt"
+}

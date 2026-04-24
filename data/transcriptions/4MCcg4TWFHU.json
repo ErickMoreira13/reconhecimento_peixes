@@ -1,0 +1,92 @@
+{
+  "texto": "Ok, aqui ele vem Você sabe o que é? Um skate? Não, não é não É grande, não é não, não é? Ok, agora, só holde ele lá Holde ele lá Vou me pegar esse ledo Eu vou pegar ele Eu vou pegar ele Eu vou pegar ele Aqui, só trazer ele em Just trazer ele em A coisa que é, se esse... Doe, esse é outro um grande fish, cara Oh, meu Deus Give me some dad. Give me some. We did it. Let's go.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 15.56,
+      "text": "Ok, aqui ele vem"
+    },
+    {
+      "start": 15.56,
+      "end": 19.43,
+      "text": "Você sabe o que é?"
+    },
+    {
+      "start": 19.43,
+      "end": 20.43,
+      "text": "Um skate?"
+    },
+    {
+      "start": 20.43,
+      "end": 21.43,
+      "text": "Não, não é não"
+    },
+    {
+      "start": 21.43,
+      "end": 22.81,
+      "text": "É grande, não é não, não é?"
+    },
+    {
+      "start": 22.81,
+      "end": 29.91,
+      "text": "Ok, agora, só holde ele lá"
+    },
+    {
+      "start": 29.91,
+      "end": 31.99,
+      "text": "Holde ele lá"
+    },
+    {
+      "start": 31.99,
+      "end": 34.44,
+      "text": "Vou me pegar esse ledo"
+    },
+    {
+      "start": 34.44,
+      "end": 36.04,
+      "text": "Eu vou pegar ele"
+    },
+    {
+      "start": 36.04,
+      "end": 37.38,
+      "text": "Eu vou pegar ele"
+    },
+    {
+      "start": 37.38,
+      "end": 39.56,
+      "text": "Eu vou pegar ele"
+    },
+    {
+      "start": 39.56,
+      "end": 40.64,
+      "text": "Aqui, só trazer ele em"
+    },
+    {
+      "start": 40.64,
+      "end": 43.09,
+      "text": "Just trazer ele em"
+    },
+    {
+      "start": 43.09,
+      "end": 46.33,
+      "text": "A coisa que é, se esse..."
+    },
+    {
+      "start": 46.33,
+      "end": 50.88,
+      "text": "Doe, esse é outro um grande fish, cara"
+    },
+    {
+      "start": 50.88,
+      "end": 53.45,
+      "text": "Oh, meu Deus"
+    },
+    {
+      "start": 53.45,
+      "end": 59.64,
+      "text": "Give me some dad. Give me some. We did it. Let's go."
+    }
+  ],
+  "duracao_seg": 60.05,
+  "idioma_detectado": "pt"
+}

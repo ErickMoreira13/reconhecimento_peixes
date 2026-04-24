@@ -1,0 +1,47 @@
+{
+  "texto": "é um lindo chino rockfish A fish fact é que esses actually swim all the way across the Pacific from China to the Oregon coast a couple times a month You just ruined that Chad Ok, they're local",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": "é um lindo chino rockfish"
+    },
+    {
+      "start": 2.92,
+      "end": 4.8,
+      "text": "A fish fact é"
+    },
+    {
+      "start": 4.8,
+      "end": 6.66,
+      "text": "que esses actually swim"
+    },
+    {
+      "start": 6.66,
+      "end": 8.32,
+      "text": "all the way across the Pacific"
+    },
+    {
+      "start": 8.32,
+      "end": 10.24,
+      "text": "from China to the Oregon coast"
+    },
+    {
+      "start": 10.24,
+      "end": 12.12,
+      "text": "a couple times a month"
+    },
+    {
+      "start": 12.12,
+      "end": 14.72,
+      "text": "You just ruined that Chad"
+    },
+    {
+      "start": 14.72,
+      "end": 15.96,
+      "text": "Ok, they're local"
+    }
+  ],
+  "duracao_seg": 17.23,
+  "idioma_detectado": "pt"
+}
