@@ -1,0 +1,27 @@
+{
+  "texto": "Olha o que saiu na praia de Piedade. Quem conhece um tuba de perto? Não, tem um medo. E aí, bora soltar?",
+  "segmentos": [
+    {
+      "start": 0.34,
+      "end": 3.4,
+      "text": "Olha o que saiu na praia de Piedade."
+    },
+    {
+      "start": 6.94,
+      "end": 9.62,
+      "text": "Quem conhece um tuba de perto?"
+    },
+    {
+      "start": 13.7,
+      "end": 14.74,
+      "text": "Não, tem um medo."
+    },
+    {
+      "start": 15.44,
+      "end": 16.38,
+      "text": "E aí, bora soltar?"
+    }
+  ],
+  "duracao_seg": 17.43,
+  "idioma_detectado": "pt"
+}

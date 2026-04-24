@@ -1,0 +1,62 @@
+{
+  "texto": "Fodeu, fica! Passou o passaguá aqui, né? O que que veio aí? Uma espadinha! Chegou pelas costas do Piá Cadu um vizinho, peguei Esse espada aí, tira aí, tipo Esse é bem pequenininho, né? Pega no pescocinho dele Pega no pescocinho aí Não tira a espada, cara Pera aí, falou? Tirar a espadinha aí",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Fodeu, fica!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Passou o passaguá aqui, né?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "O que que veio aí?"
+    },
+    {
+      "start": 6.0,
+      "end": 10.59,
+      "text": "Uma espadinha!"
+    },
+    {
+      "start": 10.59,
+      "end": 12.59,
+      "text": "Chegou pelas costas do Piá"
+    },
+    {
+      "start": 12.59,
+      "end": 16.51,
+      "text": "Cadu um vizinho, peguei"
+    },
+    {
+      "start": 16.51,
+      "end": 18.51,
+      "text": "Esse espada aí, tira aí, tipo"
+    },
+    {
+      "start": 18.51,
+      "end": 20.51,
+      "text": "Esse é bem pequenininho, né? Pega no pescocinho dele"
+    },
+    {
+      "start": 20.51,
+      "end": 22.51,
+      "text": "Pega no pescocinho aí"
+    },
+    {
+      "start": 22.51,
+      "end": 24.51,
+      "text": "Não tira a espada, cara"
+    },
+    {
+      "start": 24.51,
+      "end": 26.51,
+      "text": "Pera aí, falou? Tirar a espadinha aí"
+    }
+  ],
+  "duracao_seg": 26.75,
+  "idioma_detectado": "pt"
+}

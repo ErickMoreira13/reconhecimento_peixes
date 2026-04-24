@@ -1,0 +1,17 @@
+{
+  "texto": "Essa aqui eu levo, vivendo no mato, caipira de fato feliz e não nego Tinha simples, que vidinha boa, é só eu e Deus, as nossas crianças e a patroa",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.76,
+      "text": "Essa aqui eu levo, vivendo no mato, caipira de fato feliz e não nego"
+    },
+    {
+      "start": 7.76,
+      "end": 19.2,
+      "text": "Tinha simples, que vidinha boa, é só eu e Deus, as nossas crianças e a patroa"
+    }
+  ],
+  "duracao_seg": 20.03,
+  "idioma_detectado": "pt"
+}

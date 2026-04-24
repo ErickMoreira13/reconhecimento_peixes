@@ -1,0 +1,22 @@
+{
+  "texto": "Aí pessoal, barbadinha na rodada Sozinho aqui, fora da medida Feita aí as vezes",
+  "segmentos": [
+    {
+      "start": 2.13,
+      "end": 5.47,
+      "text": "Aí pessoal, barbadinha na rodada"
+    },
+    {
+      "start": 5.47,
+      "end": 9.12,
+      "text": "Sozinho aqui, fora da medida"
+    },
+    {
+      "start": 9.12,
+      "end": 11.06,
+      "text": "Feita aí as vezes"
+    }
+  ],
+  "duracao_seg": 22.37,
+  "idioma_detectado": "pt"
+}

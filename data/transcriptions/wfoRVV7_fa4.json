@@ -1,0 +1,32 @@
+{
+  "texto": "E aí, meus amigos, aí vocês vão me perguntar, o que você vai fazer na represa hoje à noite, Marcelo? Ó, galão, gente, ó, armar galão, pegar uma distraída. E por que você pintou de vermelho galão, Marcelo? Vou te explicar, por que eu pintei de vermelho? Quando eu tirei dentro de água, e o galão tirou lá no meio, a gente tirei de longe, a gente já viu o galão pintado de vermelho.",
+  "segmentos": [
+    {
+      "start": 0.56,
+      "end": 3.62,
+      "text": "E aí, meus amigos, aí vocês vão me perguntar, o que você vai fazer na represa hoje à noite, Marcelo?"
+    },
+    {
+      "start": 3.72,
+      "end": 6.68,
+      "text": "Ó, galão, gente, ó, armar galão, pegar uma distraída."
+    },
+    {
+      "start": 7.52,
+      "end": 9.1,
+      "text": "E por que você pintou de vermelho galão, Marcelo?"
+    },
+    {
+      "start": 9.12,
+      "end": 10.26,
+      "text": "Vou te explicar, por que eu pintei de vermelho?"
+    },
+    {
+      "start": 11.04,
+      "end": 15.06,
+      "text": "Quando eu tirei dentro de água, e o galão tirou lá no meio, a gente tirei de longe, a gente já viu o galão pintado de vermelho."
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

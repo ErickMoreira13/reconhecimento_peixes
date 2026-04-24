@@ -1,0 +1,62 @@
+{
+  "texto": "Jefinha, eu desafio você a pegar a piaba assim igual a mim, viu? Sem isca, sem nada Ó, vou mostrar pra você que não tem nada aqui dentro, não tá suja de nada Ó, agora eu vou passar a isca aqui, ó Meu cheiro, viu? Presta atenção, como eu atraio o peixe, viu? Mostra aí de perto aí, por favor As piabinhas cheias na garrafa aí, ó Só pra demonstrar, viu? Olha aí, ó Vou soltar as bichinhas de novo",
+  "segmentos": [
+    {
+      "start": 0.22,
+      "end": 4.12,
+      "text": "Jefinha, eu desafio você a pegar a piaba assim igual a mim, viu?"
+    },
+    {
+      "start": 4.36,
+      "end": 5.8,
+      "text": "Sem isca, sem nada"
+    },
+    {
+      "start": 5.8,
+      "end": 9.47,
+      "text": "Ó, vou mostrar pra você que não tem nada aqui dentro, não tá suja de nada"
+    },
+    {
+      "start": 9.47,
+      "end": 23.34,
+      "text": "Ó, agora eu vou passar a isca aqui, ó"
+    },
+    {
+      "start": 23.34,
+      "end": 28.38,
+      "text": "Meu cheiro, viu?"
+    },
+    {
+      "start": 29.02,
+      "end": 31.0,
+      "text": "Presta atenção, como eu atraio o peixe, viu?"
+    },
+    {
+      "start": 37.08,
+      "end": 38.2,
+      "text": "Mostra aí de perto aí, por favor"
+    },
+    {
+      "start": 38.2,
+      "end": 41.8,
+      "text": "As piabinhas cheias na garrafa aí, ó"
+    },
+    {
+      "start": 41.8,
+      "end": 52.14,
+      "text": "Só pra demonstrar, viu?"
+    },
+    {
+      "start": 52.46,
+      "end": 53.04,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 53.04,
+      "end": 55.87,
+      "text": "Vou soltar as bichinhas de novo"
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

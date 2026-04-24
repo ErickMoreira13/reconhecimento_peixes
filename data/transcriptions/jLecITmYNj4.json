@@ -1,0 +1,17 @@
+{
+  "texto": "A natureza é o sertão Esquecer as mágoas e os tizadinhos Que a vida lá fora me proporcionou E a felicidade que parece dizer meu amigo voltou",
+  "segmentos": [
+    {
+      "start": 1.14,
+      "end": 15.76,
+      "text": "A natureza é o sertão Esquecer as mágoas e os tizadinhos"
+    },
+    {
+      "start": 15.76,
+      "end": 34.02,
+      "text": "Que a vida lá fora me proporcionou E a felicidade que parece dizer meu amigo voltou"
+    }
+  ],
+  "duracao_seg": 59.95,
+  "idioma_detectado": "pt"
+}

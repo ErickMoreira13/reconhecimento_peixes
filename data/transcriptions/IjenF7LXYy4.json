@@ -1,0 +1,42 @@
+{
+  "texto": "Olha aí galerinha, o homem viu um vídeo aí no YouTube Ensinando como é que joga tarrafa sem segurar a chumbada na boca Vamos ver se dá certo aí, né? Olha aí, ó Ué, doido! Deu bom, viu? Deu bom!",
+  "segmentos": [
+    {
+      "start": 0.3,
+      "end": 4.04,
+      "text": "Olha aí galerinha, o homem viu um vídeo aí no YouTube"
+    },
+    {
+      "start": 4.04,
+      "end": 8.76,
+      "text": "Ensinando como é que joga tarrafa sem segurar a chumbada na boca"
+    },
+    {
+      "start": 8.76,
+      "end": 11.06,
+      "text": "Vamos ver se dá certo aí, né?"
+    },
+    {
+      "start": 15.51,
+      "end": 16.13,
+      "text": "Olha aí, ó"
+    },
+    {
+      "start": 16.13,
+      "end": 19.28,
+      "text": "Ué, doido!"
+    },
+    {
+      "start": 19.74,
+      "end": 20.38,
+      "text": "Deu bom, viu?"
+    },
+    {
+      "start": 20.94,
+      "end": 21.46,
+      "text": "Deu bom!"
+    }
+  ],
+  "duracao_seg": 21.77,
+  "idioma_detectado": "pt"
+}

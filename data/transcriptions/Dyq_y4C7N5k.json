@@ -1,0 +1,892 @@
+{
+  "texto": "Olá, hoje dia 1º de maio, feriado, estamos aproveitando para dar uma chegadinha aqui em Alvorada do Sul na chácara do Luiz Primavera, onde nós vamos dar uma pescadinha hoje de manhã e já estamos chegando na cidade, saímos 6 horas da manhã e agora já é 7 horas estamos chegando aqui em Alvorada e vamos para a pescaria, o dia está bonito hein, vamos lá chegamos, deixa abrir o portão ali, bom dia Leite, gostei um pãozinho aqui vamos tomar um pãozinho então, como é que você está, beleza? Tranquilo? Tranquilo? Opa, café pronto coisa boa hein, o leite da vaca maiada, leite daquele leite gordo, tem nata, tem nata aí tem nata aí tem um pãozinho requeijão, vamos comer estranho agora, café da, o leite da vaca da vaca, vaca maiada tem que ser da maiada né bom reforço aqui não? Ah, é bom hein, que que é isso? Não é primavera mas paçoca da sua casa até o, a represa é longe hein, Luiz ficou longe, era aqui ó era pertinho as calaburas, como é que formou? hein Luiz, eu não sabia que a água daqui é do rio Paranapanema é do Paranapanema eu pensei que era do Tibagi não, é também mas aqui já está na área do rio Paranapanema é do Tibagi e Paranapanema ele vem de São Paulo é vamos que vamos sem colete mas vamos vixi, agora eu vou ter que pescar hein agora é só bonito tá pescando também hein passa Marcos olha é ela só escolhe o lado bom ah que bonitinha olha lá no baldinho começa a fazer um filé de filé é, tá uma atrás da outra, valeu Manuel é nóis passa a receita aí Manoel é nóis ixi, grandão hein segura ela aqui viu aqui beleza filé filé pelo jeito quem vai limpar o pê sou eu mesmo hein fazer o que? caramba vocês me deram um cantinho que não pega nada aqui hein vocês já pescam há tanto tempo aqui vocês já escolheram os lugares né fala assim, seu Marcos fica nesse lugar aqui tá louco me deram um lugar micado aqui pra mim viu acho que é um buraco negro aqui acho que é um buraco negro aqui todo mundo pesca aqui em volta eu não pesco nada nossa Marcos também não tô pegando não mas você já pescou um monte ah eu só peguei quatro já limpou os peixes que tinha aí o meu nem belisca não já beliscou né levaram a isca olha lá a Vilma pegou a Vilma ai Vilma vira pra cá Vilma ai pegou porque a ponta tá fergada ai que linda ai pisquei mas coitadinha muito pequeno soltar o bichinho vamos ver vamos ver na minha vida olha bonitinho tá boa pra ficar aí eu soltar o bichinho agora sim hein ah sentiu firmeza ó sentiu firmeza ah caramba isso aqui vou fazer até um selfie do lado dela essa aí é relíquia né primeiro peixinho você viu depois desse peixinho como aumentou ó esse peixinho encheu aqui agora criou nossa segura na linha põe pra cá põe pra trás do Manoel põe aqui pra trás do Manoel nossa senhora beleza hein eeeeeee eeeeeee fim de festa deu duas horas duas horas tá bom chegamos às oito é duas horas quatro seis horas seis horas vamos ver o que que pegou aqui ah pegou bastante hein tem mais o outro balde ali né nem ah já deu já deu almoço aqui mas qual é dela mesmo costela de pacu é costela de pacu vamos é um pacuzinho que eu peguei o domingo dois quilos e trezentos lindo bonito né devagar ó o osso dele o cuspinho dele um delito hein de dois quilos e trezentos é bom pra comer frito passou de cinco já não presta de um de gordo de gordo de gordo de um de gordo não de um de gordo ó de um de gordo ó tá bom demais não viva mas que eu peguei tá aqui ó delícia hein bom peguei nossa carne é uma delícia parece uma garrinha esse aqui ó a cor Feita a empaca É o quiabo Eita, Marco Passou vontade do quiabo hoje Vamos comer quiabo assim mesmo, né? Alô e vinhaba O calor não fez o quiabo Brincadeira, hein? Não é doido pra comer o quiabo, hein? Bom, tardezinho Acabou o feriado, né, gente? Agora, vamos voltar pra casa Ok? É isso aí Até uma próxima Tchau, tchau",
+  "segmentos": [
+    {
+      "start": 7.25,
+      "end": 18.09,
+      "text": "Olá, hoje dia 1º de maio, feriado, estamos aproveitando para dar uma chegadinha aqui em Alvorada do Sul"
+    },
+    {
+      "start": 18.09,
+      "end": 24.65,
+      "text": "na chácara do Luiz Primavera, onde nós vamos dar uma pescadinha hoje de manhã"
+    },
+    {
+      "start": 24.65,
+      "end": 33.01,
+      "text": "e já estamos chegando na cidade, saímos 6 horas da manhã e agora já é 7 horas"
+    },
+    {
+      "start": 33.01,
+      "end": 39.14,
+      "text": "estamos chegando aqui em Alvorada e vamos para a pescaria, o dia está bonito hein, vamos lá"
+    },
+    {
+      "start": 39.14,
+      "end": 79.79,
+      "text": "chegamos, deixa abrir o portão ali, bom dia Leite, gostei um pãozinho aqui"
+    },
+    {
+      "start": 79.79,
+      "end": 88.44,
+      "text": "vamos tomar um pãozinho então, como é que você está, beleza? Tranquilo? Tranquilo? Opa, café pronto"
+    },
+    {
+      "start": 88.44,
+      "end": 99.23,
+      "text": "coisa boa hein, o leite da vaca maiada, leite daquele leite gordo, tem nata, tem nata aí"
+    },
+    {
+      "start": 99.23,
+      "end": 105.23,
+      "text": "tem nata aí tem um pãozinho requeijão, vamos comer estranho agora, café da, o leite da vaca"
+    },
+    {
+      "start": 105.23,
+      "end": 110.1,
+      "text": "da vaca, vaca maiada tem que ser da maiada né"
+    },
+    {
+      "start": 110.1,
+      "end": 162.34,
+      "text": "bom reforço aqui não? Ah, é bom hein, que que é isso? Não é primavera mas"
+    },
+    {
+      "start": 162.34,
+      "end": 164.34,
+      "text": "paçoca"
+    },
+    {
+      "start": 164.34,
+      "end": 191.09,
+      "text": "da sua casa até o, a represa é longe hein, Luiz"
+    },
+    {
+      "start": 191.09,
+      "end": 193.09,
+      "text": "ficou longe, era aqui ó"
+    },
+    {
+      "start": 193.09,
+      "end": 197.09,
+      "text": "era pertinho as calaburas, como é que formou?"
+    },
+    {
+      "start": 197.09,
+      "end": 201.66,
+      "text": "hein Luiz, eu não sabia que a água daqui é do rio Paranapanema"
+    },
+    {
+      "start": 201.66,
+      "end": 204.05,
+      "text": "é do Paranapanema"
+    },
+    {
+      "start": 204.05,
+      "end": 206.05,
+      "text": "eu pensei que era do Tibagi"
+    },
+    {
+      "start": 206.05,
+      "end": 208.05,
+      "text": "não, é também"
+    },
+    {
+      "start": 208.05,
+      "end": 210.05,
+      "text": "mas aqui já está na área do rio Paranapanema"
+    },
+    {
+      "start": 210.05,
+      "end": 212.05,
+      "text": "é do Tibagi"
+    },
+    {
+      "start": 212.05,
+      "end": 214.05,
+      "text": "e Paranapanema"
+    },
+    {
+      "start": 214.05,
+      "end": 216.21,
+      "text": "ele vem de São Paulo"
+    },
+    {
+      "start": 216.21,
+      "end": 219.36,
+      "text": "é"
+    },
+    {
+      "start": 219.36,
+      "end": 221.42,
+      "text": "vamos que vamos"
+    },
+    {
+      "start": 221.42,
+      "end": 223.42,
+      "text": "sem colete mas vamos"
+    },
+    {
+      "start": 223.42,
+      "end": 289.42,
+      "text": "vixi, agora eu vou ter que pescar hein"
+    },
+    {
+      "start": 289.42,
+      "end": 291.81,
+      "text": "agora"
+    },
+    {
+      "start": 291.81,
+      "end": 297.65,
+      "text": "é só bonito"
+    },
+    {
+      "start": 297.65,
+      "end": 299.65,
+      "text": "tá pescando também hein"
+    },
+    {
+      "start": 299.65,
+      "end": 301.65,
+      "text": "passa Marcos olha"
+    },
+    {
+      "start": 301.65,
+      "end": 303.65,
+      "text": "é"
+    },
+    {
+      "start": 303.65,
+      "end": 306.22,
+      "text": "ela só escolhe o lado bom"
+    },
+    {
+      "start": 306.22,
+      "end": 308.22,
+      "text": "ah que bonitinha"
+    },
+    {
+      "start": 308.22,
+      "end": 310.67,
+      "text": "olha lá no baldinho"
+    },
+    {
+      "start": 310.67,
+      "end": 312.67,
+      "text": "começa a fazer um filé de filé"
+    },
+    {
+      "start": 312.67,
+      "end": 314.67,
+      "text": "é, tá uma atrás da outra, valeu Manuel"
+    },
+    {
+      "start": 314.67,
+      "end": 316.67,
+      "text": "é nóis"
+    },
+    {
+      "start": 316.67,
+      "end": 318.67,
+      "text": "passa a receita aí Manoel"
+    },
+    {
+      "start": 318.67,
+      "end": 320.67,
+      "text": "é nóis"
+    },
+    {
+      "start": 320.67,
+      "end": 322.67,
+      "text": "ixi, grandão hein"
+    },
+    {
+      "start": 322.67,
+      "end": 324.67,
+      "text": "segura ela aqui viu"
+    },
+    {
+      "start": 324.67,
+      "end": 326.67,
+      "text": "aqui"
+    },
+    {
+      "start": 326.67,
+      "end": 329.82,
+      "text": "beleza"
+    },
+    {
+      "start": 329.82,
+      "end": 331.82,
+      "text": "filé"
+    },
+    {
+      "start": 331.82,
+      "end": 333.82,
+      "text": "filé"
+    },
+    {
+      "start": 333.82,
+      "end": 335.82,
+      "text": "pelo jeito quem vai limpar o pê sou eu mesmo hein"
+    },
+    {
+      "start": 340.56,
+      "end": 342.56,
+      "text": "fazer o que?"
+    },
+    {
+      "start": 342.56,
+      "end": 344.56,
+      "text": "caramba"
+    },
+    {
+      "start": 344.56,
+      "end": 346.56,
+      "text": "vocês me deram um cantinho que não pega nada aqui hein"
+    },
+    {
+      "start": 346.56,
+      "end": 348.56,
+      "text": "vocês já pescam há tanto tempo aqui"
+    },
+    {
+      "start": 348.56,
+      "end": 350.56,
+      "text": "vocês já escolheram os lugares né"
+    },
+    {
+      "start": 350.56,
+      "end": 352.56,
+      "text": "fala assim, seu Marcos fica nesse lugar aqui"
+    },
+    {
+      "start": 352.56,
+      "end": 356.56,
+      "text": "tá louco me deram um lugar micado aqui pra mim viu"
+    },
+    {
+      "start": 356.56,
+      "end": 358.56,
+      "text": "acho que é um buraco negro aqui"
+    },
+    {
+      "start": 358.56,
+      "end": 360.56,
+      "text": "acho que é um buraco negro aqui"
+    },
+    {
+      "start": 362.56,
+      "end": 364.56,
+      "text": "todo mundo pesca aqui em volta"
+    },
+    {
+      "start": 364.56,
+      "end": 366.56,
+      "text": "eu não pesco nada"
+    },
+    {
+      "start": 366.56,
+      "end": 368.56,
+      "text": "nossa Marcos também não tô pegando não"
+    },
+    {
+      "start": 368.56,
+      "end": 370.56,
+      "text": "mas você já pescou um monte"
+    },
+    {
+      "start": 370.56,
+      "end": 372.56,
+      "text": "ah eu só peguei quatro"
+    },
+    {
+      "start": 372.56,
+      "end": 375.07,
+      "text": "já limpou os peixes que tinha aí"
+    },
+    {
+      "start": 377.39,
+      "end": 379.39,
+      "text": "o meu nem belisca não"
+    },
+    {
+      "start": 379.39,
+      "end": 381.39,
+      "text": "já beliscou né levaram a isca"
+    },
+    {
+      "start": 381.39,
+      "end": 383.39,
+      "text": "olha lá"
+    },
+    {
+      "start": 383.39,
+      "end": 385.39,
+      "text": "a Vilma pegou a Vilma"
+    },
+    {
+      "start": 385.39,
+      "end": 387.39,
+      "text": "ai Vilma"
+    },
+    {
+      "start": 387.39,
+      "end": 389.39,
+      "text": "vira pra cá Vilma"
+    },
+    {
+      "start": 389.39,
+      "end": 391.39,
+      "text": "ai"
+    },
+    {
+      "start": 391.39,
+      "end": 393.39,
+      "text": "pegou porque a ponta tá"
+    },
+    {
+      "start": 393.39,
+      "end": 395.39,
+      "text": "fergada"
+    },
+    {
+      "start": 395.39,
+      "end": 397.39,
+      "text": "ai que linda"
+    },
+    {
+      "start": 397.39,
+      "end": 399.39,
+      "text": "ai"
+    },
+    {
+      "start": 399.39,
+      "end": 401.39,
+      "text": "pisquei mas"
+    },
+    {
+      "start": 401.39,
+      "end": 404.67,
+      "text": "coitadinha muito pequeno"
+    },
+    {
+      "start": 404.67,
+      "end": 406.67,
+      "text": "soltar o bichinho"
+    },
+    {
+      "start": 406.67,
+      "end": 407.67,
+      "text": "vamos ver"
+    },
+    {
+      "start": 407.67,
+      "end": 408.67,
+      "text": "vamos ver"
+    },
+    {
+      "start": 408.67,
+      "end": 409.67,
+      "text": "na minha vida"
+    },
+    {
+      "start": 409.67,
+      "end": 412.66,
+      "text": "olha"
+    },
+    {
+      "start": 412.66,
+      "end": 414.46,
+      "text": "bonitinho"
+    },
+    {
+      "start": 414.46,
+      "end": 415.46,
+      "text": "tá boa pra ficar aí"
+    },
+    {
+      "start": 415.46,
+      "end": 416.46,
+      "text": "eu"
+    },
+    {
+      "start": 416.46,
+      "end": 417.46,
+      "text": "soltar o bichinho"
+    },
+    {
+      "start": 417.46,
+      "end": 421.46,
+      "text": "agora sim hein"
+    },
+    {
+      "start": 421.46,
+      "end": 423.46,
+      "text": "ah"
+    },
+    {
+      "start": 423.46,
+      "end": 425.46,
+      "text": "sentiu firmeza"
+    },
+    {
+      "start": 425.46,
+      "end": 427.46,
+      "text": "ó"
+    },
+    {
+      "start": 427.46,
+      "end": 429.46,
+      "text": "sentiu firmeza"
+    },
+    {
+      "start": 429.46,
+      "end": 431.46,
+      "text": "ah"
+    },
+    {
+      "start": 431.46,
+      "end": 433.46,
+      "text": "caramba"
+    },
+    {
+      "start": 433.46,
+      "end": 437.5,
+      "text": "isso aqui"
+    },
+    {
+      "start": 437.5,
+      "end": 439.5,
+      "text": "vou fazer até um selfie do lado dela"
+    },
+    {
+      "start": 439.5,
+      "end": 441.5,
+      "text": "essa aí é relíquia né"
+    },
+    {
+      "start": 441.5,
+      "end": 445.14,
+      "text": "primeiro peixinho"
+    },
+    {
+      "start": 445.14,
+      "end": 454.29,
+      "text": "você viu depois desse peixinho como aumentou"
+    },
+    {
+      "start": 454.29,
+      "end": 456.29,
+      "text": "ó"
+    },
+    {
+      "start": 456.29,
+      "end": 460.48,
+      "text": "esse peixinho encheu aqui agora"
+    },
+    {
+      "start": 460.48,
+      "end": 462.48,
+      "text": "criou"
+    },
+    {
+      "start": 462.48,
+      "end": 464.77,
+      "text": "nossa"
+    },
+    {
+      "start": 464.77,
+      "end": 466.77,
+      "text": "segura na linha"
+    },
+    {
+      "start": 466.77,
+      "end": 467.77,
+      "text": "põe pra cá"
+    },
+    {
+      "start": 467.77,
+      "end": 468.77,
+      "text": "põe pra trás do Manoel"
+    },
+    {
+      "start": 468.77,
+      "end": 470.77,
+      "text": "põe aqui pra trás do Manoel"
+    },
+    {
+      "start": 470.77,
+      "end": 471.77,
+      "text": "nossa senhora"
+    },
+    {
+      "start": 471.77,
+      "end": 472.77,
+      "text": "beleza hein"
+    },
+    {
+      "start": 472.77,
+      "end": 474.8,
+      "text": "eeeeeee"
+    },
+    {
+      "start": 474.8,
+      "end": 480.9,
+      "text": "eeeeeee"
+    },
+    {
+      "start": 484.37,
+      "end": 486.37,
+      "text": "fim de festa"
+    },
+    {
+      "start": 486.37,
+      "end": 488.26,
+      "text": "deu"
+    },
+    {
+      "start": 488.26,
+      "end": 489.26,
+      "text": "duas horas"
+    },
+    {
+      "start": 489.26,
+      "end": 490.26,
+      "text": "duas horas"
+    },
+    {
+      "start": 490.26,
+      "end": 491.26,
+      "text": "tá bom"
+    },
+    {
+      "start": 491.26,
+      "end": 492.26,
+      "text": "chegamos às oito"
+    },
+    {
+      "start": 492.26,
+      "end": 493.26,
+      "text": "é"
+    },
+    {
+      "start": 493.26,
+      "end": 495.26,
+      "text": "duas horas"
+    },
+    {
+      "start": 495.26,
+      "end": 496.26,
+      "text": "quatro"
+    },
+    {
+      "start": 496.26,
+      "end": 497.26,
+      "text": "seis horas"
+    },
+    {
+      "start": 497.26,
+      "end": 499.26,
+      "text": "seis horas"
+    },
+    {
+      "start": 499.26,
+      "end": 500.26,
+      "text": "vamos ver o que que pegou aqui"
+    },
+    {
+      "start": 502.68,
+      "end": 504.42,
+      "text": "ah"
+    },
+    {
+      "start": 504.42,
+      "end": 506.8,
+      "text": "pegou bastante hein"
+    },
+    {
+      "start": 506.8,
+      "end": 508.8,
+      "text": "tem mais o outro balde ali né"
+    },
+    {
+      "start": 508.8,
+      "end": 509.8,
+      "text": "nem"
+    },
+    {
+      "start": 509.8,
+      "end": 511.89,
+      "text": "ah"
+    },
+    {
+      "start": 511.89,
+      "end": 512.89,
+      "text": "já deu"
+    },
+    {
+      "start": 512.89,
+      "end": 513.89,
+      "text": "já deu almoço aqui"
+    },
+    {
+      "start": 513.89,
+      "end": 520.3,
+      "text": "mas qual é dela mesmo"
+    },
+    {
+      "start": 607.82,
+      "end": 608.92,
+      "text": "costela de pacu"
+    },
+    {
+      "start": 608.92,
+      "end": 609.92,
+      "text": "é"
+    },
+    {
+      "start": 609.92,
+      "end": 612.62,
+      "text": "costela de pacu"
+    },
+    {
+      "start": 612.62,
+      "end": 614.62,
+      "text": "vamos"
+    },
+    {
+      "start": 614.62,
+      "end": 616.62,
+      "text": "é um pacuzinho que eu peguei o domingo"
+    },
+    {
+      "start": 616.62,
+      "end": 620.63,
+      "text": "dois quilos e trezentos"
+    },
+    {
+      "start": 620.63,
+      "end": 628.35,
+      "text": "lindo"
+    },
+    {
+      "start": 628.35,
+      "end": 629.35,
+      "text": "bonito né"
+    },
+    {
+      "start": 629.35,
+      "end": 630.35,
+      "text": "devagar"
+    },
+    {
+      "start": 630.35,
+      "end": 635.35,
+      "text": "ó"
+    },
+    {
+      "start": 635.35,
+      "end": 636.35,
+      "text": "o osso dele"
+    },
+    {
+      "start": 636.35,
+      "end": 637.35,
+      "text": "o cuspinho dele"
+    },
+    {
+      "start": 637.35,
+      "end": 639.35,
+      "text": "um delito hein"
+    },
+    {
+      "start": 639.35,
+      "end": 644.56,
+      "text": "de dois quilos e trezentos é bom pra comer frito"
+    },
+    {
+      "start": 644.56,
+      "end": 646.56,
+      "text": "passou de cinco já não presta"
+    },
+    {
+      "start": 646.56,
+      "end": 648.56,
+      "text": "de um de gordo"
+    },
+    {
+      "start": 648.56,
+      "end": 649.56,
+      "text": "de gordo"
+    },
+    {
+      "start": 649.56,
+      "end": 650.56,
+      "text": "de gordo"
+    },
+    {
+      "start": 650.56,
+      "end": 651.56,
+      "text": "de um de gordo"
+    },
+    {
+      "start": 651.56,
+      "end": 652.56,
+      "text": "não"
+    },
+    {
+      "start": 652.56,
+      "end": 653.56,
+      "text": "de um de gordo"
+    },
+    {
+      "start": 653.56,
+      "end": 654.56,
+      "text": "ó"
+    },
+    {
+      "start": 654.56,
+      "end": 655.56,
+      "text": "de um de gordo"
+    },
+    {
+      "start": 655.56,
+      "end": 659.57,
+      "text": "ó"
+    },
+    {
+      "start": 659.57,
+      "end": 660.57,
+      "text": "tá bom demais"
+    },
+    {
+      "start": 660.57,
+      "end": 661.57,
+      "text": "não viva mas que eu peguei"
+    },
+    {
+      "start": 661.57,
+      "end": 662.57,
+      "text": "tá aqui ó"
+    },
+    {
+      "start": 662.57,
+      "end": 663.57,
+      "text": "delícia hein"
+    },
+    {
+      "start": 663.57,
+      "end": 665.57,
+      "text": "bom"
+    },
+    {
+      "start": 665.57,
+      "end": 667.57,
+      "text": "peguei"
+    },
+    {
+      "start": 667.57,
+      "end": 670.57,
+      "text": "nossa carne é uma delícia"
+    },
+    {
+      "start": 670.57,
+      "end": 671.57,
+      "text": "parece uma garrinha"
+    },
+    {
+      "start": 671.57,
+      "end": 672.57,
+      "text": "esse aqui"
+    },
+    {
+      "start": 672.57,
+      "end": 674.57,
+      "text": "ó a cor"
+    },
+    {
+      "start": 674.57,
+      "end": 693.2,
+      "text": "Feita a empaca"
+    },
+    {
+      "start": 693.2,
+      "end": 698.56,
+      "text": "É o quiabo"
+    },
+    {
+      "start": 698.56,
+      "end": 700.12,
+      "text": "Eita, Marco"
+    },
+    {
+      "start": 700.12,
+      "end": 701.4,
+      "text": "Passou vontade do quiabo hoje"
+    },
+    {
+      "start": 701.4,
+      "end": 702.8,
+      "text": "Vamos comer quiabo assim mesmo, né?"
+    },
+    {
+      "start": 702.8,
+      "end": 703.58,
+      "text": "Alô e vinhaba"
+    },
+    {
+      "start": 703.58,
+      "end": 707.1,
+      "text": "O calor não fez o quiabo"
+    },
+    {
+      "start": 707.1,
+      "end": 709.31,
+      "text": "Brincadeira, hein?"
+    },
+    {
+      "start": 709.47,
+      "end": 711.01,
+      "text": "Não é doido pra comer o quiabo, hein?"
+    },
+    {
+      "start": 735.94,
+      "end": 739.39,
+      "text": "Bom, tardezinho"
+    },
+    {
+      "start": 739.39,
+      "end": 742.18,
+      "text": "Acabou o feriado, né, gente?"
+    },
+    {
+      "start": 742.74,
+      "end": 744.95,
+      "text": "Agora, vamos voltar pra casa"
+    },
+    {
+      "start": 744.95,
+      "end": 745.93,
+      "text": "Ok?"
+    },
+    {
+      "start": 746.35,
+      "end": 747.71,
+      "text": "É isso aí"
+    },
+    {
+      "start": 747.71,
+      "end": 749.96,
+      "text": "Até uma próxima"
+    },
+    {
+      "start": 749.96,
+      "end": 751.26,
+      "text": "Tchau, tchau"
+    }
+  ],
+  "duracao_seg": 773.91,
+  "idioma_detectado": "pt"
+}

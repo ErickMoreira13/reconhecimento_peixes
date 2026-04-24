@@ -1,0 +1,37 @@
+{
+  "texto": "mulher que salto que deu ali filma que essa é grande essa vai ser a maior de todas tampa vermelha aqui ó vai dar um pulo que eu vou falar com você como vai lá amor vai lá vai lá chegando devagar tem chegado devagar olha o tamanho da cabeça dela eu já vi daqui você já viu não tá conseguindo ver aqui não daqui eu já vi nossa pai é bonita pai eu tô conseguindo ver não sei se aqui galera aqui galera olha aqui que bonita olha olha tu vou abrir aqui para turma ver ó olha turma aí ó que maravilha mexe com ela irmão tá",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 7.53,
+      "text": "mulher que salto que deu ali filma que essa é grande essa vai ser a maior de todas tampa"
+    },
+    {
+      "start": 7.53,
+      "end": 13.73,
+      "text": "vermelha aqui ó vai dar um pulo que eu vou falar com você como vai lá amor vai lá vai lá chegando"
+    },
+    {
+      "start": 13.73,
+      "end": 19.91,
+      "text": "devagar tem chegado devagar olha o tamanho da cabeça dela eu já vi daqui você já viu não tá"
+    },
+    {
+      "start": 19.91,
+      "end": 26.51,
+      "text": "conseguindo ver aqui não daqui eu já vi nossa pai é bonita pai eu tô conseguindo ver não sei se"
+    },
+    {
+      "start": 26.51,
+      "end": 35.91,
+      "text": "aqui galera aqui galera olha aqui que bonita olha olha tu vou abrir aqui para turma ver ó olha turma"
+    },
+    {
+      "start": 35.91,
+      "end": 43.5,
+      "text": "aí ó que maravilha mexe com ela irmão tá"
+    }
+  ],
+  "duracao_seg": 44.21,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,87 @@
+{
+  "texto": "Tinha aqui, Zuma? Tinha, olha. Tava batendo? Tava, velho. Aqui, não tem nada, não. Tem uma. Ah, tem uma outra daqui, ó. Pera aí. É, parece que tem mesmo. Ó, tá, mãe, tá aí, Zuma? Pegou? Tá, mãe, tá aí, Zuma? Oh, barroca! É aqui? Não é não. Deixando arrumado, hein?",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "Tinha aqui, Zuma?"
+    },
+    {
+      "start": 0.94,
+      "end": 1.52,
+      "text": "Tinha, olha."
+    },
+    {
+      "start": 1.72,
+      "end": 2.46,
+      "text": "Tava batendo?"
+    },
+    {
+      "start": 2.76,
+      "end": 3.22,
+      "text": "Tava, velho."
+    },
+    {
+      "start": 3.7,
+      "end": 4.56,
+      "text": "Aqui, não tem nada, não."
+    },
+    {
+      "start": 4.66,
+      "end": 5.02,
+      "text": "Tem uma."
+    },
+    {
+      "start": 5.86,
+      "end": 7.1,
+      "text": "Ah, tem uma outra daqui, ó."
+    },
+    {
+      "start": 7.18,
+      "end": 7.5,
+      "text": "Pera aí."
+    },
+    {
+      "start": 9.38,
+      "end": 10.34,
+      "text": "É, parece que tem mesmo."
+    },
+    {
+      "start": 10.96,
+      "end": 11.72,
+      "text": "Ó, tá, mãe, tá aí, Zuma?"
+    },
+    {
+      "start": 12.0,
+      "end": 12.28,
+      "text": "Pegou?"
+    },
+    {
+      "start": 12.46,
+      "end": 13.24,
+      "text": "Tá, mãe, tá aí, Zuma?"
+    },
+    {
+      "start": 13.5,
+      "end": 15.46,
+      "text": "Oh, barroca!"
+    },
+    {
+      "start": 15.78,
+      "end": 16.2,
+      "text": "É aqui?"
+    },
+    {
+      "start": 16.46,
+      "end": 17.44,
+      "text": "Não é não."
+    },
+    {
+      "start": 19.48,
+      "end": 20.56,
+      "text": "Deixando arrumado, hein?"
+    }
+  ],
+  "duracao_seg": 20.99,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,87 @@
+{
+  "texto": "Vou ensinar você a fazer tempero para peixe hoje, ó. Qualquer tipo de peixe, tanto peixes escuros como peixes claros. Então, quando você for fazer um peixe, você não pode espremer limão no peixe. Eu já fiz muito isso quando eu estava com a ensinar culinária. Aí o que acontece? Você espreme o limão, o limão, como é o máximo, ele cozinha o peixe. Aí quando você vai grelhar, o peixe está... desmancha. Aí então o que a gente faz? Tomilho, esse tomilho aqui, ele vai substituir o limão, ó. Aio, gengibre. Aí ao invés de você espremer o limão, você pega a cascazinha verde do limão. Joga dentro, salsinha, sal grosso. Vou levar para bater e já trago o resultado para você, viu? Aí, ó, bateu no liquidificador ou triturou no triturador, ó. Ele vai ficar assim, ó. Aqui agora, ó, só temperar seu peixe e levar para grelhar, ó.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "Vou ensinar você a fazer tempero para peixe hoje, ó."
+    },
+    {
+      "start": 4.26,
+      "end": 8.08,
+      "text": "Qualquer tipo de peixe, tanto peixes escuros como peixes claros."
+    },
+    {
+      "start": 8.58,
+      "end": 13.1,
+      "text": "Então, quando você for fazer um peixe, você não pode espremer limão no peixe."
+    },
+    {
+      "start": 13.36,
+      "end": 15.78,
+      "text": "Eu já fiz muito isso quando eu estava com a ensinar culinária."
+    },
+    {
+      "start": 16.18,
+      "end": 16.76,
+      "text": "Aí o que acontece?"
+    },
+    {
+      "start": 17.0,
+      "end": 21.66,
+      "text": "Você espreme o limão, o limão, como é o máximo, ele cozinha o peixe."
+    },
+    {
+      "start": 21.76,
+      "end": 25.52,
+      "text": "Aí quando você vai grelhar, o peixe está... desmancha."
+    },
+    {
+      "start": 25.88,
+      "end": 26.86,
+      "text": "Aí então o que a gente faz?"
+    },
+    {
+      "start": 26.86,
+      "end": 30.28,
+      "text": "Tomilho, esse tomilho aqui, ele vai substituir o limão, ó."
+    },
+    {
+      "start": 31.67,
+      "end": 32.99,
+      "text": "Aio, gengibre."
+    },
+    {
+      "start": 33.47,
+      "end": 35.85,
+      "text": "Aí ao invés de você espremer o limão, você pega a cascazinha verde do limão."
+    },
+    {
+      "start": 36.07,
+      "end": 40.71,
+      "text": "Joga dentro, salsinha, sal grosso."
+    },
+    {
+      "start": 40.81,
+      "end": 42.87,
+      "text": "Vou levar para bater e já trago o resultado para você, viu?"
+    },
+    {
+      "start": 44.24,
+      "end": 48.02,
+      "text": "Aí, ó, bateu no liquidificador ou triturou no triturador, ó."
+    },
+    {
+      "start": 48.54,
+      "end": 50.21,
+      "text": "Ele vai ficar assim, ó."
+    },
+    {
+      "start": 50.21,
+      "end": 58.87,
+      "text": "Aqui agora, ó, só temperar seu peixe e levar para grelhar, ó."
+    }
+  ],
+  "duracao_seg": 60.03,
+  "idioma_detectado": "pt"
+}

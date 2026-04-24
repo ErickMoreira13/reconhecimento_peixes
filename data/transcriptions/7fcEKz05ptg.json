@@ -1,0 +1,22 @@
+{
+  "texto": "Do ba do ba do ba do ba dum da dum dum dum dumiere dum dum dum",
+  "segmentos": [
+    {
+      "start": 2.74,
+      "end": 5.22,
+      "text": "Do ba do ba do ba do ba"
+    },
+    {
+      "start": 5.22,
+      "end": 9.34,
+      "text": "dum da dum dum dum dumiere"
+    },
+    {
+      "start": 9.34,
+      "end": 11.62,
+      "text": "dum dum dum"
+    }
+  ],
+  "duracao_seg": 10.19,
+  "idioma_detectado": "pt"
+}

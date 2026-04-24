@@ -1,0 +1,37 @@
+{
+  "texto": "Oi gente, essa é a Voione, ela está na Praia do Porco em São Félix do Xingu e vai mostrar para vocês como fazer uma pescaria aqui na garrafa. Se você está aí na beira do rio, não tem seu anzol, olha aí a solução que ela vai mostrar para vocês. Ela cortou cinco garrafas, colocou a pedra para dar o pezinho ali no fundo da água, colocou arroz, aqui a gente está pescando papaterra e peixe voador e eles gostam de arroz. Bora ver qual vai ser o primeiro que pegar, tem cinco litros, vamos ver qual é o primeiro. E ela está indo aí olhar os peixinhos dela e ver qual a garrafa que pegou, essas duas não teve, mas a outra, olha só, premiado com dois peixinhos, um papaterra e um peixe voador. E está aí a ótima solução para você que quer pescar e não tem o seu anzol.",
+  "segmentos": [
+    {
+      "start": 0.46,
+      "end": 10.42,
+      "text": "Oi gente, essa é a Voione, ela está na Praia do Porco em São Félix do Xingu e vai mostrar para vocês como fazer uma pescaria aqui na garrafa."
+    },
+    {
+      "start": 10.78,
+      "end": 17.08,
+      "text": "Se você está aí na beira do rio, não tem seu anzol, olha aí a solução que ela vai mostrar para vocês."
+    },
+    {
+      "start": 17.7,
+      "end": 28.22,
+      "text": "Ela cortou cinco garrafas, colocou a pedra para dar o pezinho ali no fundo da água, colocou arroz, aqui a gente está pescando papaterra e peixe voador e eles gostam de arroz."
+    },
+    {
+      "start": 28.22,
+      "end": 35.67,
+      "text": "Bora ver qual vai ser o primeiro que pegar, tem cinco litros, vamos ver qual é o primeiro."
+    },
+    {
+      "start": 37.92,
+      "end": 50.86,
+      "text": "E ela está indo aí olhar os peixinhos dela e ver qual a garrafa que pegou, essas duas não teve, mas a outra, olha só, premiado com dois peixinhos, um papaterra e um peixe voador."
+    },
+    {
+      "start": 51.66,
+      "end": 55.48,
+      "text": "E está aí a ótima solução para você que quer pescar e não tem o seu anzol."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

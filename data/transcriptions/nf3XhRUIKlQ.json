@@ -1,0 +1,42 @@
+{
+  "texto": "A lua branca foi embora Mais uma noite que é finda Vem mais um dia de glória Que vidão que eu levo Meu Deus, mas que vida boa Eu levanto bem cedinho Pra ir pescar de canoa",
+  "segmentos": [
+    {
+      "start": 0.14,
+      "end": 5.74,
+      "text": "A lua branca foi embora"
+    },
+    {
+      "start": 5.74,
+      "end": 8.54,
+      "text": "Mais uma noite que é finda"
+    },
+    {
+      "start": 8.54,
+      "end": 12.34,
+      "text": "Vem mais um dia de glória"
+    },
+    {
+      "start": 12.34,
+      "end": 18.09,
+      "text": "Que vidão que eu levo"
+    },
+    {
+      "start": 18.09,
+      "end": 22.21,
+      "text": "Meu Deus, mas que vida boa"
+    },
+    {
+      "start": 22.21,
+      "end": 24.91,
+      "text": "Eu levanto bem cedinho"
+    },
+    {
+      "start": 24.91,
+      "end": 28.83,
+      "text": "Pra ir pescar de canoa"
+    }
+  ],
+  "duracao_seg": 30.05,
+  "idioma_detectado": "pt"
+}

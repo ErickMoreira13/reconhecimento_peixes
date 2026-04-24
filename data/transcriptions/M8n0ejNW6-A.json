@@ -1,0 +1,22 @@
+{
+  "texto": "O meu chão abençoado, lugar que Deus me deixou Aqui não tenho também muita regalia Mas a minha alegria é muita paz e muito amor",
+  "segmentos": [
+    {
+      "start": 14.38,
+      "end": 19.36,
+      "text": "O meu chão abençoado, lugar que Deus me deixou"
+    },
+    {
+      "start": 19.36,
+      "end": 23.64,
+      "text": "Aqui não tenho também muita regalia"
+    },
+    {
+      "start": 23.64,
+      "end": 28.74,
+      "text": "Mas a minha alegria é muita paz e muito amor"
+    }
+  ],
+  "duracao_seg": 29.11,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,22 @@
+{
+  "texto": "Não é uma beleza, eh? Ah, tu sou... Ho, ho, ho, ho, ho, eh, ho, oh, oh, gevou, no meio da bro Jingição",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Não é uma beleza, eh?"
+    },
+    {
+      "start": 2.2,
+      "end": 3.72,
+      "text": "Ah, tu sou..."
+    },
+    {
+      "start": 3.72,
+      "end": 10.14,
+      "text": "Ho, ho, ho, ho, ho, eh, ho, oh, oh, gevou, no meio da bro Jingição"
+    }
+  ],
+  "duracao_seg": 31.89,
+  "idioma_detectado": "pt"
+}

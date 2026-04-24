@@ -1,0 +1,42 @@
+{
+  "texto": "Tá aí galera, mais um peixe lindo Olha a beleza desse peixe Um peixe espetacular Aruanã É um peixe bem exótico aqui em nosso lago Vamos dar vida pra ele O peixe merece ir pra vida",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Tá aí galera, mais um peixe lindo"
+    },
+    {
+      "start": 2.5,
+      "end": 4.34,
+      "text": "Olha a beleza desse peixe"
+    },
+    {
+      "start": 4.34,
+      "end": 6.2,
+      "text": "Um peixe espetacular"
+    },
+    {
+      "start": 6.2,
+      "end": 7.42,
+      "text": "Aruanã"
+    },
+    {
+      "start": 7.42,
+      "end": 11.48,
+      "text": "É um peixe bem exótico aqui em nosso lago"
+    },
+    {
+      "start": 11.48,
+      "end": 13.38,
+      "text": "Vamos dar vida pra ele"
+    },
+    {
+      "start": 13.38,
+      "end": 14.92,
+      "text": "O peixe merece ir pra vida"
+    }
+  ],
+  "duracao_seg": 15.01,
+  "idioma_detectado": "pt"
+}

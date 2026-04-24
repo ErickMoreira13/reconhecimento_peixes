@@ -1,0 +1,167 @@
+{
+  "texto": "Como que eu vou saber qual peixe que é bom e qual peixe que não é bom? Dá uma olhadinha aqui. Eu estou aqui com alguns peixes para dar um exemplo para vocês. Para vocês saberem o que peixe que é de couro e qual peixe que não é de couro. O peixe que tem um rabinho V assim, eles são peixes remosos. Geralmente peixe remoso. É peixe remoso. E o peixe que tem um rabo assim, ele é peixe que não é remoso. Ou assim, ou o rabinho cortadinho. Exemplo aqui. Curvina. Posso comer curvina? Pode. Olha como o rabo é bonito. Está vendo? Dá uma olhadinha. O peixe é bem fresquinho. E ele não tem o rabo em V. Agora olha o bagre. O bagre além de ser de couro, ele tem um rabinho em V aqui. Está vendo? Então esse rabinho em V dele, já vai denunciar que ele é um peixe remoso. Mesma coisa que o tambaqui. Pessoal, aqui eu vendo como tambaqui facu porque vem. O pessoal fica me explicando o que é roelo, o que é isso, o que é aquilo. Para nós vem como tambaqui, como facu. Tainha. Posso comer tainha? É melhor. É melhor. É melhor. É melhor.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Como que eu vou saber qual peixe que é bom e qual peixe que não é bom?"
+    },
+    {
+      "start": 4.58,
+      "end": 5.48,
+      "text": "Dá uma olhadinha aqui."
+    },
+    {
+      "start": 5.94,
+      "end": 8.34,
+      "text": "Eu estou aqui com alguns peixes para dar um exemplo para vocês."
+    },
+    {
+      "start": 8.52,
+      "end": 10.44,
+      "text": "Para vocês saberem o que peixe que é de couro e qual peixe que não é de couro."
+    },
+    {
+      "start": 10.52,
+      "end": 13.96,
+      "text": "O peixe que tem um rabinho V assim, eles são peixes remosos."
+    },
+    {
+      "start": 14.64,
+      "end": 15.7,
+      "text": "Geralmente peixe remoso."
+    },
+    {
+      "start": 16.36,
+      "end": 16.92,
+      "text": "É peixe remoso."
+    },
+    {
+      "start": 17.3,
+      "end": 20.58,
+      "text": "E o peixe que tem um rabo assim, ele é peixe que não é remoso."
+    },
+    {
+      "start": 20.78,
+      "end": 22.8,
+      "text": "Ou assim, ou o rabinho cortadinho."
+    },
+    {
+      "start": 22.92,
+      "end": 23.54,
+      "text": "Exemplo aqui."
+    },
+    {
+      "start": 23.84,
+      "end": 24.2,
+      "text": "Curvina."
+    },
+    {
+      "start": 24.52,
+      "end": 25.34,
+      "text": "Posso comer curvina?"
+    },
+    {
+      "start": 25.46,
+      "end": 25.66,
+      "text": "Pode."
+    },
+    {
+      "start": 25.74,
+      "end": 27.34,
+      "text": "Olha como o rabo é bonito."
+    },
+    {
+      "start": 27.46,
+      "end": 27.58,
+      "text": "Está vendo?"
+    },
+    {
+      "start": 27.58,
+      "end": 29.16,
+      "text": "Dá uma olhadinha."
+    },
+    {
+      "start": 30.03,
+      "end": 32.47,
+      "text": "O peixe é bem fresquinho."
+    },
+    {
+      "start": 33.07,
+      "end": 35.47,
+      "text": "E ele não tem o rabo em V."
+    },
+    {
+      "start": 35.69,
+      "end": 36.51,
+      "text": "Agora olha o bagre."
+    },
+    {
+      "start": 36.97,
+      "end": 40.49,
+      "text": "O bagre além de ser de couro, ele tem um rabinho em V aqui."
+    },
+    {
+      "start": 40.59,
+      "end": 40.79,
+      "text": "Está vendo?"
+    },
+    {
+      "start": 41.33,
+      "end": 45.19,
+      "text": "Então esse rabinho em V dele, já vai denunciar que ele é um peixe remoso."
+    },
+    {
+      "start": 45.77,
+      "end": 48.01,
+      "text": "Mesma coisa que o tambaqui."
+    },
+    {
+      "start": 49.57,
+      "end": 52.11,
+      "text": "Pessoal, aqui eu vendo como tambaqui facu porque vem."
+    },
+    {
+      "start": 52.27,
+      "end": 54.79,
+      "text": "O pessoal fica me explicando o que é roelo, o que é isso, o que é aquilo."
+    },
+    {
+      "start": 55.31,
+      "end": 57.13,
+      "text": "Para nós vem como tambaqui, como facu."
+    },
+    {
+      "start": 57.97,
+      "end": 58.33,
+      "text": "Tainha."
+    },
+    {
+      "start": 58.41,
+      "end": 59.27,
+      "text": "Posso comer tainha?"
+    },
+    {
+      "start": 59.27,
+      "end": 59.93,
+      "text": "É melhor."
+    },
+    {
+      "start": 59.93,
+      "end": 59.95,
+      "text": "É melhor."
+    },
+    {
+      "start": 59.95,
+      "end": 59.97,
+      "text": "É melhor."
+    },
+    {
+      "start": 59.97,
+      "end": 59.99,
+      "text": "É melhor."
+    }
+  ],
+  "duracao_seg": 60.01,
+  "idioma_detectado": "pt"
+}

@@ -1,0 +1,17 @@
+{
+  "texto": "Fala galera, olha só que peixezinho bacana, olha só, com matã, alguém conhece? Peixe com matã? Vou torrar ele já já.",
+  "segmentos": [
+    {
+      "start": 2.61,
+      "end": 11.4,
+      "text": "Fala galera, olha só que peixezinho bacana, olha só, com matã, alguém conhece?"
+    },
+    {
+      "start": 11.66,
+      "end": 15.0,
+      "text": "Peixe com matã? Vou torrar ele já já."
+    }
+  ],
+  "duracao_seg": 15.05,
+  "idioma_detectado": "pt"
+}

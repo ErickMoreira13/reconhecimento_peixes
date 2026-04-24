@@ -1,0 +1,22 @@
+{
+  "texto": "Achei grande, hein? Ah, mesmo. Soltar ele.",
+  "segmentos": [
+    {
+      "start": 20.75,
+      "end": 22.49,
+      "text": "Achei grande, hein?"
+    },
+    {
+      "start": 22.49,
+      "end": 23.69,
+      "text": "Ah, mesmo."
+    },
+    {
+      "start": 23.69,
+      "end": 78.08,
+      "text": "Soltar ele."
+    }
+  ],
+  "duracao_seg": 79.19,
+  "idioma_detectado": "pt"
+}

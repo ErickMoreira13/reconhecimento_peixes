@@ -1,0 +1,57 @@
+{
+  "texto": "Você tá falando com o professor, só Vê se você consegue, ué Gilberto do céu Gilberto do céu Tá aqui Tá aqui debaixo do caiaque Um cepa de um azul Nossa senhora Agora eu não sei Véi, véi",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "Você tá falando com o professor, só"
+    },
+    {
+      "start": 1.74,
+      "end": 4.8,
+      "text": "Vê se você consegue, ué"
+    },
+    {
+      "start": 4.8,
+      "end": 10.62,
+      "text": "Gilberto do céu"
+    },
+    {
+      "start": 10.62,
+      "end": 15.14,
+      "text": "Gilberto do céu"
+    },
+    {
+      "start": 15.14,
+      "end": 16.93,
+      "text": "Tá aqui"
+    },
+    {
+      "start": 16.93,
+      "end": 19.1,
+      "text": "Tá aqui debaixo do caiaque"
+    },
+    {
+      "start": 19.1,
+      "end": 21.37,
+      "text": "Um cepa de um azul"
+    },
+    {
+      "start": 21.37,
+      "end": 23.84,
+      "text": "Nossa senhora"
+    },
+    {
+      "start": 23.84,
+      "end": 28.27,
+      "text": "Agora eu não sei"
+    },
+    {
+      "start": 28.27,
+      "end": 31.92,
+      "text": "Véi, véi"
+    }
+  ],
+  "duracao_seg": 33.23,
+  "idioma_detectado": "pt"
+}

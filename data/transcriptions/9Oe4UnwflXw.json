@@ -1,0 +1,32 @@
+{
+  "texto": "O peixe de água doce chamado bicuda é conhecido popularmente com o mesmo nome. Bolenjerela maculata. Sua espécie é distribuída nas bacias amazônica e araguaia-tocantins. O bicuda habita tanto águas profundas quanto superfícies, em áreas de correnteza ao longo da beira dos rios, boca de garapés e lagos.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "O peixe de água doce chamado bicuda é conhecido popularmente com o mesmo nome."
+    },
+    {
+      "start": 5.28,
+      "end": 6.58,
+      "text": "Bolenjerela maculata."
+    },
+    {
+      "start": 7.12,
+      "end": 11.08,
+      "text": "Sua espécie é distribuída nas bacias amazônica e araguaia-tocantins."
+    },
+    {
+      "start": 11.56,
+      "end": 14.7,
+      "text": "O bicuda habita tanto águas profundas quanto superfícies,"
+    },
+    {
+      "start": 15.04,
+      "end": 19.48,
+      "text": "em áreas de correnteza ao longo da beira dos rios, boca de garapés e lagos."
+    }
+  ],
+  "duracao_seg": 19.59,
+  "idioma_detectado": "pt"
+}

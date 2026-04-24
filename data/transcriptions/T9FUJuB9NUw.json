@@ -1,0 +1,67 @@
+{
+  "texto": "Para fazer o filé de peixe, o ideal é uma faca de lâmina fina e alongada, com um fio excelente. Sem retirar as escamas, eu posiciono a faca ao lado da nadadeira peitoral e faço um corte até chegar no espinhaço. Aí eu viro a faca e vou cortando toda a lateral do peixe até chegar na cauda. Viro o peixe e faço o mesmo do outro lado. A faca desliza desse modo porque está muito bem afiada e o formato dela ajuda. Feito isso, agora eu seguro a pontinha do couro com a unha e vou deslizando a faca entre o couro e o filé para removê-lo junto com as escamas. Aqui na barrigueira do peixe, tem muitos espinhos que precisam ser removidos. Com a faca, eu vou costeando eles. Muito cuidado porque nessa parte a faca está indo em direção aos seus dedos. Para finalizar, nessa parte do filé, ainda tem pequenos espinhos que eu quebro eles com a faca. Só para quebrar o espinho, então cuidado para não cortar o filé. Por fim, é só lavar e correr para fazer aquela receita.",
+  "segmentos": [
+    {
+      "start": 0.0,
+      "end": 5.92,
+      "text": "Para fazer o filé de peixe, o ideal é uma faca de lâmina fina e alongada, com um fio excelente."
+    },
+    {
+      "start": 6.2,
+      "end": 13.24,
+      "text": "Sem retirar as escamas, eu posiciono a faca ao lado da nadadeira peitoral e faço um corte até chegar no espinhaço."
+    },
+    {
+      "start": 13.84,
+      "end": 18.9,
+      "text": "Aí eu viro a faca e vou cortando toda a lateral do peixe até chegar na cauda."
+    },
+    {
+      "start": 19.08,
+      "end": 21.36,
+      "text": "Viro o peixe e faço o mesmo do outro lado."
+    },
+    {
+      "start": 21.64,
+      "end": 26.76,
+      "text": "A faca desliza desse modo porque está muito bem afiada e o formato dela ajuda."
+    },
+    {
+      "start": 26.76,
+      "end": 35.8,
+      "text": "Feito isso, agora eu seguro a pontinha do couro com a unha e vou deslizando a faca entre o couro e o filé para removê-lo junto com as escamas."
+    },
+    {
+      "start": 36.0,
+      "end": 40.18,
+      "text": "Aqui na barrigueira do peixe, tem muitos espinhos que precisam ser removidos."
+    },
+    {
+      "start": 40.7,
+      "end": 42.58,
+      "text": "Com a faca, eu vou costeando eles."
+    },
+    {
+      "start": 42.98,
+      "end": 46.84,
+      "text": "Muito cuidado porque nessa parte a faca está indo em direção aos seus dedos."
+    },
+    {
+      "start": 47.36,
+      "end": 53.02,
+      "text": "Para finalizar, nessa parte do filé, ainda tem pequenos espinhos que eu quebro eles com a faca."
+    },
+    {
+      "start": 53.02,
+      "end": 56.6,
+      "text": "Só para quebrar o espinho, então cuidado para não cortar o filé."
+    },
+    {
+      "start": 56.76,
+      "end": 59.8,
+      "text": "Por fim, é só lavar e correr para fazer aquela receita."
+    }
+  ],
+  "duracao_seg": 59.93,
+  "idioma_detectado": "pt"
+}
