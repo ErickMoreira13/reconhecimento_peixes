@@ -1,0 +1,86 @@
+{
+  "video_id": "T1xHA1ONgYw",
+  "latencia_s": 36.15,
+  "campos": {
+    "estado": {
+      "valor": "TO",
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33757
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33757
+    },
+    "rio": {
+      "valor": "Rio Sao Francisco",
+      "confianca": 1.0,
+      "evidencia": "velho chico",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 33757
+    },
+    "bacia": {
+      "valor": "Amazonica",
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 33757
+    },
+    "tipo_ceva": {
+      "valor": "ceva_solta_na_agua",
+      "confianca": 1.0,
+      "evidencia": "joguei a vara ó",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33757
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33757
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "piranha",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "mandi",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "piaba",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33757
+    },
+    "observacoes": {
+      "valor": "Pescaria com sucesso, pegamos muitas piranhas e alguns peixes de couro.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 33757
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "SzceiuMllLA",
+  "latencia_s": 28.05,
+  "campos": {
+    "estado": {
+      "valor": "SP",
+      "confianca": 1.0,
+      "evidencia": "São Paulo",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21419
+    },
+    "municipio": {
+      "valor": "Fernandópolis",
+      "confianca": 1.0,
+      "evidencia": "Fernandópolis",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21419
+    },
+    "rio": {
+      "valor": "Rio Grande",
+      "confianca": 1.0,
+      "evidencia": "Rio Grande",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 21419
+    },
+    "bacia": {
+      "valor": "Atlantico Sul",
+      "confianca": 0.8,
+      "evidencia": "Bacia Atlântico Sul",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 21419
+    },
+    "tipo_ceva": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21419
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21419
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "Tucunaré",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Porquinho",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Zoiudo",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "Bicudo",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 21419
+    },
+    "observacoes": {
+      "valor": "Pescaria no Rio Grande, pegou porquinhos e zoiudos.",
+      "confianca": 0.9,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 21419
+    }
+  }
+}

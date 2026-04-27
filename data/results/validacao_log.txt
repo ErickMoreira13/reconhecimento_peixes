@@ -1,0 +1,49 @@
+=== validacao opcao 1: llama-extrator + qwen-verificador ===
+saida: docs/validacao-opcao1-2026-04-18_0333
+
+[1/5] resetando status dos videos no db (marca todos como 'transcrito')
+  52 videos prontos pra reextrair
+
+[2/5] limpando extracoes antigas (mantem os *_extracao_qwen2.5_7b.json etc do benchmark)
+
+[3/5] extraindo com llama 3.1 8b (default agora)...
+  batch = [self.preprocess_example(b["tokenized_text"], b[key], class_to_ids) for b in batch_list]
+texto grande (856 palavras), gliner pode truncar ??????
+[03:47:38] ok ySCG6Kcukc0 (lat med 14309ms)                          main.py:172
+  extraindo ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 52/52 • 0:14:28 • 0:00:00
+extraiu 51, falhou 1
+
+real	14m32,898s
+user	2m36,319s
+sys	0m25,343s
+
+[4/5] verificando com qwen 2.5 7b (default agora)...
+  batch = [self.preprocess_example(b["tokenized_text"], b[key], class_to_ids) for b in batch_list]
+texto grande (856 palavras), gliner pode truncar ??????
+[04:22:53] ok ySCG6Kcukc0                                            main.py:251
+  verificando ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 51/51 • 0:35:11 • 0:00:00
+verificou 51
+
+real	35m15,224s
+user	2m33,651s
+sys	0m22,274s
+
+[5/5] exportando csv e rodando analise...
+────────────────────────────── exportar csv final ──────────────────────────────
+salvo em data/results/planilha_20260418_0822.csv (51 linhas)
+  planilha copiada pra docs/validacao-opcao1-2026-04-18_0333/planilha.csv
+  stats em docs/validacao-opcao1-2026-04-18_0333/stats.json
+  total extraidos: 51
+  total verificados: 51
+  rejeitados por campo: {'observacoes': 12, 'especies': 6, 'bacia': 5, 'grao': 5, 'tipo_ceva': 5, 'municipio': 2, 'rio': 4}
+
+=== validacao terminou ===
+
+arquivos em docs/validacao-opcao1-2026-04-18_0333:
+total 28
+drwxrwxr-x 2 jader jader  4096 abr 18 04:22 .
+drwxrwxr-x 3 jader jader  4096 abr 18 03:45 ..
+-rw-rw-r-- 1 jader jader 13289 abr 18 04:22 planilha.csv
+-rw-rw-r-- 1 jader jader   753 abr 18 04:22 stats.json
+
+compara com o baseline em docs/benchmark-modelos-2026-04-18.csv

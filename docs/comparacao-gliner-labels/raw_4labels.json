@@ -1,0 +1,802 @@
+[
+  {
+    "video_id": "09A8vJQ3UNs",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13292)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=13292)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13292)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13292)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13292)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13292)",
+      "especies": "CampoExtraido(valor=[{'nome': 'bonito', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13292)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13292)"
+    },
+    "latencia_total_ms": 18513,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 18513
+  },
+  {
+    "video_id": "15eANk1f5yI",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "3-_SegGoCDg",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+      "rio": "CampoExtraido(valor='Riozão', confianca=1.0, evidencia='tem peixe para caramba, quem não viu, tem vários vídeos pescando aqui e pegando uma tilápia monstruosa, certo?', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22744)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+      "tipo_ceva": "CampoExtraido(valor='galão', confianca=1.0, evidencia='Vou colocar metade do balde no saco, para ela comer, para mim, porque eu quero ter resultado rápido.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22744)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Eu servo com milho e com mandioca. Vou pescar, uso o grãozinho de milho azedo, o mesmo grão de milho azedo, para pescar.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+      "especies": "CampoExtraido(valor=[{'nome': 'tilápia', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)",
+      "observacoes": "CampoExtraido(valor='Agora são 5 horas da tarde. Até o peixe voltar a encostar, depois dessa capivara está aqui, segunda vez que eu grudo ela, hein? Segunda vez.', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22744)"
+    },
+    "latencia_total_ms": 28915,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 28915
+  },
+  {
+    "video_id": "7KbxXGktXy0",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15639)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15639)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15639)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15639)",
+      "tipo_ceva": "CampoExtraido(valor='garrafa_pet_perfurada', confianca=1.0, evidencia='pega uma garrafa e amarra e joga na água pra sinalizar onde tá a ceva', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15639)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='ração de coelho, milho e quirera', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15639)",
+      "especies": "CampoExtraido(valor=[{'nome': 'peixe grande', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=15639)",
+      "observacoes": "CampoExtraido(valor='Pega muito peixe grande, fácil de fazer.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15639)"
+    },
+    "latencia_total_ms": 20780,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 20780
+  },
+  {
+    "video_id": "7WvurZ6hnuY",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13625)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13625)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13625)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13625)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13625)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13625)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13625)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13625)"
+    },
+    "latencia_total_ms": 19873,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 19873
+  },
+  {
+    "video_id": "8DqoCnT5jCQ",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20755)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20755)",
+      "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='velho chico', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=20755)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20755)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='isca está aqui dentro', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20755)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20755)",
+      "especies": "CampoExtraido(valor=[{'nome': 'Piranha', 'evidencia': 'Piranha caju', 'fora_do_gazetteer': False}, {'nome': 'Tucunaré', 'evidencia': 'Tucunaré é seu', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20755)",
+      "observacoes": "CampoExtraido(valor='Fizemos uma pescaria no Rio Sao Francisco e pegamos muitos peixes. Almoçamos com os peixes frescos.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20755)"
+    },
+    "latencia_total_ms": 26958,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 26958
+  },
+  {
+    "video_id": "8QAuO2lt2ro",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17649)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17649)",
+      "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='Olha o riozão aí, top demais, hein?', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=17649)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17649)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='Fiz uma ceva top com milho azedo curtido, tá?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17649)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Milho azedo, tá?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17649)",
+      "especies": "CampoExtraido(valor=[{'nome': 'tilápia', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17649)",
+      "observacoes": "CampoExtraido(valor='Pescaria foi top hoje. Foi umas quatro, cinco. Uma atrás da outra aí, ó.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17649)"
+    },
+    "latencia_total_ms": 23774,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 23774
+  },
+  {
+    "video_id": "9UikGczqzxU",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17574)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17574)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17574)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17574)",
+      "tipo_ceva": "CampoExtraido(valor='saco_de_ceva', confianca=1.0, evidencia='ceva de milho', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17574)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='milho duro', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17574)",
+      "especies": "CampoExtraido(valor=[{'nome': 'lambarizão', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'tilápia', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=17574)",
+      "observacoes": "CampoExtraido(valor='Foi um teste para ver como estava a ceva depois de três dias. O milho não azedou totalmente ainda, mas já começou a fermentar.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17574)"
+    },
+    "latencia_total_ms": 23845,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 23845
+  },
+  {
+    "video_id": "A-Vvt3krj14",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+      "rio": "CampoExtraido(valor='Lago da Balbina', confianca=1.0, evidencia='Vamos ver agora se aqui no Lago da Balbina tem peixe.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21074)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='A isca que eu estou usando aqui, ó. É um piabão...', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+      "especies": "CampoExtraido(valor=[{'nome': 'piabão', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'piranha preta', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)",
+      "observacoes": "CampoExtraido(valor='A pescaria vai ficar boa agora. Eu vou arriscar tirar com a mão.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21074)"
+    },
+    "latencia_total_ms": 27273,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 27273
+  },
+  {
+    "video_id": "EJasS3HEYsk",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "F6AcoBAAsXI",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15479)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15479)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15479)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15479)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='ceva_solta_na_agua', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15479)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='milho azedo cozido dessa vez', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15479)",
+      "especies": "CampoExtraido(valor=[{'nome': 'tilápia', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15479)",
+      "observacoes": "CampoExtraido(valor='Pescaria tá top, galera. Top demais.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15479)"
+    },
+    "latencia_total_ms": 22023,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 22023
+  },
+  {
+    "video_id": "Fr0IvypLlsU",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14572)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=14572)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14572)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14572)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='cevar muito bem o local', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14572)",
+      "grao": "CampoExtraido(valor='arroz', confianca=1.0, evidencia='farelo de arroz', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14572)",
+      "especies": "CampoExtraido(valor=[{'nome': 'tilápia', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14572)",
+      "observacoes": "CampoExtraido(valor='Importante cevar bem o local e não economizar nas pelotas.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14572)"
+    },
+    "latencia_total_ms": 19677,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 19677
+  },
+  {
+    "video_id": "GI9l523Qt3I",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15925)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15925)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15925)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15925)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='ceva solta na água', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15925)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15925)",
+      "especies": "CampoExtraido(valor=[{'nome': 'escar-viva', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=15925)",
+      "observacoes": "CampoExtraido(valor='Pescaria foi bem-sucedida com captura de escar-viva e cascudinho. O clima estava bom e o resultado foi satisfatório.', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15925)"
+    },
+    "latencia_total_ms": 21980,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 21980
+  },
+  {
+    "video_id": "GV_FY3MM_IA",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=20681)",
+      "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='Normalizar \"velho chico\" -> \"Rio Sao Francisco\"', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=20681)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='Coloquei aqui o barco apoiado aqui nessa ponta Mas o rio pode mudar aí o nível no decorrer da noite E aí eu vou ali procurar um pau pra fincar aqui Pra poder deixar ele bem amarrado e bem garantido', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+      "especies": "CampoExtraido(valor=[{'nome': 'Piau', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)",
+      "observacoes": "CampoExtraido(valor='Vamos aí tentar pegar um peixe de couro Se Deus quiser vai dar certo E curtam o vídeo, já se inscrevam no canal', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20681)"
+    },
+    "latencia_total_ms": 26722,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 26722
+  },
+  {
+    "video_id": "GmLxYVSMnAw",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22508)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22508)",
+      "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='Normalizar \"velho chico\" -> \"Rio Sao Francisco\"', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22508)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22508)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='Isca aqui na região, né?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22508)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22508)",
+      "especies": "CampoExtraido(valor=[{'nome': 'camarão', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'tucunaré', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'porquinho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'curvina', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'tilápia', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'piau', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22508)",
+      "observacoes": "CampoExtraido(valor='Pegar os camarão aqui, ó. Tem bastante camarão. Jogar aqui, ó. Tem um toco.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22508)"
+    },
+    "latencia_total_ms": 28652,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 28652
+  },
+  {
+    "video_id": "KpPYnnbw7-8",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16770)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16770)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16770)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16770)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='isca na boca afundar', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16770)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16770)",
+      "especies": "CampoExtraido(valor=[{'nome': 'traíra', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'bruta', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'lambari', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'calanguinho', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16770)",
+      "observacoes": "CampoExtraido(valor='Pescaria no cantinho, com iscas na boca afundar. Traíras pequenas e brutas.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16770)"
+    },
+    "latencia_total_ms": 22897,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 22897
+  },
+  {
+    "video_id": "L450LUqSYJw",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=29298)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=29298)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=29298)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=29298)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=29298)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=29298)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=29298)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=29298)"
+    },
+    "latencia_total_ms": 36866,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 36866
+  },
+  {
+    "video_id": "L7blIPNXbs0",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=19033)",
+      "municipio": "CampoExtraido(valor='represa do tablado', confianca=1.0, evidencia='estou aqui na represa do tablado', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=19033)",
+      "rio": "CampoExtraido(valor='rio piracema', confianca=1.0, evidencia='fechou a pesca no rio. Piracema chegou', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=19033)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=19033)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='essa ceva aqui', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=19033)",
+      "grao": "CampoExtraido(valor='arroz', confianca=1.0, evidencia='farelo de arroz', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=19033)",
+      "especies": "CampoExtraido(valor=[{'nome': 'tilápia selvagem', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'cará', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=19033)",
+      "observacoes": "CampoExtraido(valor='Pega essa dica aí que funciona muito bem na pescaria de barranco. Tilápia. Cará, traíra. Qualquer peixe encosta na ceva aí.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=19033)"
+    },
+    "latencia_total_ms": 25395,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 25395
+  },
+  {
+    "video_id": "SYYey9_vJr4",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=15327)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='solta no rio', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)",
+      "observacoes": "CampoExtraido(valor='Pra você que é pescador de ceva e acha que quanto mais ceva você solta no rio, mais peixe você vai atrair até o barco, você tá enganado.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=15327)"
+    },
+    "latencia_total_ms": 20288,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 20288
+  },
+  {
+    "video_id": "SaYc56i-OTk",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=42519)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=42519)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=42519)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=42519)",
+      "tipo_ceva": "CampoExtraido(valor='garrafa_pet_perfurada', confianca=1.0, evidencia='óleo pra passar', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=42519)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=42519)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=42519)",
+      "observacoes": "CampoExtraido(valor='Sem observacoes adicionais relevantes.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=42519)"
+    },
+    "latencia_total_ms": 51422,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 51422
+  },
+  {
+    "video_id": "SzceiuMllLA",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+      "municipio": "CampoExtraido(valor='Fernandópolis', confianca=1.0, evidencia='E aí família de pescadores, como é que vocês estão? Espero que vocês estejam bem, sejam bem-vindos a mais um vídeo E hoje eu vou iniciar o vídeo de uma forma diferente Na verdade eu nem estou na minha cidade Eu estou na cidade de Fernandópolis', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+      "rio": "CampoExtraido(valor='Rio Grande', confianca=1.0, evidencia='Pescar no Rio Grande, tá?', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22166)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='Vamos lá pro Rio?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)",
+      "especies": "CampoExtraido(valor=[{'nome': 'Tucunaré', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Porquinho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Zoiudo', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Bicudo', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Jacundá', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=22166)",
+      "observacoes": "CampoExtraido(valor='Pescaria que não tem CD. Pegou ainda por fora ainda do corpo.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=22166)"
+    },
+    "latencia_total_ms": 28273,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 28273
+  },
+  {
+    "video_id": "T1xHA1ONgYw",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=34541)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=34541)",
+      "rio": "CampoExtraido(valor='Rio Araguaia', confianca=1.0, evidencia='\"Rio Araguaia\"', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=34541)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=34541)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='\"ceva solta na água\"', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=34541)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=34541)",
+      "especies": "CampoExtraido(valor=[{'nome': 'piranha', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'mandi', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'mandubé', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=34541)",
+      "observacoes": "CampoExtraido(valor='Pescaria no Rio Araguaia, pegando piranhas e mandis. Fritamos os peixes para almoçar. | Pescaria foi muito boa, pegamos muitos piranhas e alguns peixinhos de couro. O rio estava descendo rápido o que dificultou a pesca.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=34541)"
+    },
+    "latencia_total_ms": 41941,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 41941
+  },
+  {
+    "video_id": "TcxPSdqeP1E",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12833)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=12833)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12833)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12833)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12833)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12833)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12833)",
+      "observacoes": "CampoExtraido(valor='Sem observacoes adicionais relevantes.', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12833)"
+    },
+    "latencia_total_ms": 17866,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 17866
+  },
+  {
+    "video_id": "VZ_n0XWOP54",
+    "campos": {
+      "estado": "CampoExtraido(valor='São Paulo', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=4198829)",
+      "municipio": "CampoExtraido(valor='Bororentir do Sul', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4198829)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4198829)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4198829)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='Com isca de minhoca meus companheiros.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4198829)",
+      "grao": "CampoExtraido(valor='arroz', confianca=1.0, evidencia='Vamos fazer uma galinha com arroz né.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4198829)",
+      "especies": "CampoExtraido(valor=[{'nome': 'cimprão', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'bocuda', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'mandi', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=4198829)",
+      "observacoes": "CampoExtraido(valor='A nossa pescaria aí. Tá bampo demais aí. Amanhã vai sair aquele abafado. Aquele peixe frito né. Vai ser o dia todo.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4198829)"
+    },
+    "latencia_total_ms": 4206692,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 4206692
+  },
+  {
+    "video_id": "VZkXv5_BFKk",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16345)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16345)",
+      "rio": "CampoExtraido(valor='Igapó', confianca=1.0, evidencia='Vou para o Igapó', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16345)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16345)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='botar uns espinhão pelo gapó', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16345)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16345)",
+      "especies": "CampoExtraido(valor=[{'nome': 'peixe bonito', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16345)",
+      "observacoes": "CampoExtraido(valor='Peguei um peixe grande e fiz uma caldeirada deliciosa.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16345)"
+    },
+    "latencia_total_ms": 22279,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 22279
+  },
+  {
+    "video_id": "XVLIgkdvWxA",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+      "rio": "CampoExtraido(valor='Rio Negro', confianca=1.0, evidencia='salve rapaziada, tranquilo? tô passando aqui no final do vídeo pra dar dois recados pra vocês...', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=17894)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='tem que mostrar a régua todinha gente...', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)",
+      "especies": "CampoExtraido(valor=[{'nome': 'paca', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Tupunaré', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=17894)",
+      "observacoes": "CampoExtraido(valor='pegou um paca de 75 e meio, 76, lindo, lindo, lindo, lindo, emocionante viu...', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=17894)"
+    },
+    "latencia_total_ms": 23812,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 23812
+  },
+  {
+    "video_id": "XZI5fBhsrLA",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)",
+      "tipo_ceva": "CampoExtraido(valor='Isquinha Hunter Bait', confianca=1.0, evidencia='Essa é um stick Isquinha transparente E a carretilha Avenado GS', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21596)",
+      "grao": "CampoExtraido(valor='avena', confianca=1.0, evidencia='A varinha, uma trio light 20 libras Vou tentar fazer um vídeo diferente, galera Vocês deixam o comentário desse vídeo aqui se vocês gostaram', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21596)",
+      "especies": "CampoExtraido(valor=[{'nome': 'tucunaré', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Hunter Bait', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'tucuninho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Tocanarezinho', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21596)",
+      "observacoes": "CampoExtraido(valor='Pegar o máximo de tucunaré na superfície Com essa isca aqui, galera Na superfície Fazer um Galera, já peguei isso Calma aí, tucuna Galera, isso aqui é azul, galera Azulzinho Galera, é azulzinho Galera, aí No meio dessa Piga toda Só uma dentuça Olha o tamanho dessa dentuça', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21596)"
+    },
+    "latencia_total_ms": 27598,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 27598
+  },
+  {
+    "video_id": "YcCP4cvTS3I",
+    "campos": {
+      "estado": "CampoExtraido(valor='PA', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=28398)",
+      "rio": "CampoExtraido(valor='Rio Bonito', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=28398)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='Hoje vamos fazer uma pescaria completa na ceva vou mostrar o meu dia inteiro aí na ceva,', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Aí eu vou jogar um pouco dessa água azeda aqui na água para começar o chama dos peixes. Aí vou pegar aqui bastante milho e vou fazer o seguinte aqui é um poço,', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)",
+      "especies": "CampoExtraido(valor=[{'nome': 'piauzinho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'chimboré', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='saindo aqui uns piauzinhos chimboré, que o povo chama chimboré,', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=28398)",
+      "observacoes": "CampoExtraido(valor='Fizemos uma pescaria completa na ceva e pegamos vários peixes, incluindo pacus, piaus e chimborés. Os peixes estavam comendo muito milho e os patos também.', confianca=1.0, evidencia='Bom dia! Sejam todos bem-vindos à minha ceva aqui no meu rancho no estado do Pará diretamente do Rio Bonito.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=28398)"
+    },
+    "latencia_total_ms": 34329,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 34329
+  },
+  {
+    "video_id": "ZMFOZdRijtM",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "_gIUFBsrEL0",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14419)",
+      "municipio": "CampoExtraido(valor='nenhum', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14419)",
+      "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='velho chico', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=14419)",
+      "bacia": "CampoExtraido(valor='nenhum', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=14419)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='isca', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14419)",
+      "grao": "CampoExtraido(valor='nenhum', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=14419)",
+      "especies": "CampoExtraido(valor=[{'nome': 'matrinchã', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'piranha', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14419)",
+      "observacoes": "CampoExtraido(valor='Sem observacoes adicionais relevantes.', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=14419)"
+    },
+    "latencia_total_ms": 20505,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 20505
+  },
+  {
+    "video_id": "axu85n0-34U",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "bdKr7GC3Q_w",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)",
+      "municipio": "CampoExtraido(valor='Entrevazante', confianca=1.0, evidencia='Alô meu povo, um abraço para vocês que estão assistindo mais um vídeo de pesca Temporada 2025, no Rio Escurão, município mineiro Entrevazante', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)",
+      "rio": "CampoExtraido(valor='Rio Escurão', confianca=1.0, evidencia='Alô meu povo, um abraço para vocês que estão assistindo mais um vídeo de pesca Temporada 2025, no Rio Escurão', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=36943)",
+      "bacia": "CampoExtraido(valor='Bacia do São Francisco', confianca=1.0, evidencia='Olha o tamburaco que você já fez aí Meu né Bebeza Ó Não precisa de trator não Você tá igual uma anta parar Dá pra plantar mandioca, cana aí né Não Dá Dá Dá Planta cana aqui se você ver se essa cana não vai embora E você tá descalço né Eu tô descalço Perigo de anzol aí né Anzol e toco no barro né Pode não né Você já é acostumado né É meu costume que leva a vaga pro breve Oi Só alegria né Só alegria Graças a Deus né Jogamos a selva na paz da manhã E Esperança é de um pra cozinha e entrou', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=36943)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='Vamos lá começar a fazer a ceba Pé do formigueiro Vamos colocar aqui Milho moído Vamos colocar também Soja moída, curtida Ração de coelho azeda Também Ração de coelho azeda Mesmo que ainda use para servar Use também para fazer a massa', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)",
+      "grao": "CampoExtraido(valor='soja', confianca=1.0, evidencia='Vamos lá começar a fazer a ceba Pé do formigueiro Vamos colocar aqui Milho moído Vamos colocar também Soja moída, curtida Ração de coelho azeda Também Ração de coelho azeda Mesmo que ainda use para servar Use também para fazer a massa', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)",
+      "especies": "CampoExtraido(valor=[{'nome': 'ceba', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Pacu', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Curimbo', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=36943)",
+      "observacoes": "CampoExtraido(valor='A água está muito churra, né Tony? Não, a água não A água está muito churra? Não, está não Está mais ou menos? A água está mais ou menos, não é acostumado a pegar curimbo desse tipo aí, ó', confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=36943)"
+    },
+    "latencia_total_ms": 42881,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 42881
+  },
+  {
+    "video_id": "c6V4OBiQPAU",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12055)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=12055)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12055)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12055)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12055)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12055)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12055)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=12055)"
+    },
+    "latencia_total_ms": 16970,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 16970
+  },
+  {
+    "video_id": "cJm-UFNpOFw",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18541)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18541)",
+      "rio": "CampoExtraido(valor='Rio Iriri', confianca=1.0, evidencia='esse vai ser o lugar de hoje tá vendo aí lugar bem selvagem selvagem mesmo se eu quiser pescar aqui eu vou ter que fazer uma abertura para pescar', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=18541)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18541)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='se eu quiser pescar aqui eu vou ter que fazer uma abertura para pescar', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18541)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18541)",
+      "especies": "CampoExtraido(valor=[{'nome': 'paca', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=18541)",
+      "observacoes": "CampoExtraido(valor='Pescaria no Rio Iriri. Aproveitamos a oportunidade de pescar e aproveitar a natureza.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18541)"
+    },
+    "latencia_total_ms": 24391,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 24391
+  },
+  {
+    "video_id": "dJt0bE7QLQ0",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+      "municipio": "CampoExtraido(valor='Santarém', confianca=1.0, evidencia='A Kézia e o Deva vieram achando que estavam espreitando Ah, o Pacuzinho também 40 metros mais ou menos de água 40 metros de profundidade, meu amigo Sejam todos bem-vindos a mais um vídeo do canal Pescadora Amazônica Hoje estamos aqui meu esposo e eu, Bira, Kézia e Deva do casal WK Vou levá-los para a gente pescar na frente da cidade de Santarém', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+      "rio": "CampoExtraido(valor='Tapajós', confianca=1.0, evidencia='Vamos fazer uma pescaria de Piau se der tudo certo E vamos também fazer uma pescaria no Amazonas', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+      "tipo_ceva": "CampoExtraido(valor='vara de bambu', confianca=1.0, evidencia='Pegou uma pacuna, acredito Vou voltar na praia e pesquendo Rapaz, a primeira vez que eu vejo alguém vindo pescar de vara de bambu', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=4094766)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Com milho, ó lá, mostra a isca, Dedê Milhozinho Milho verde Os seis dois pegaram É o charuto O charuto O meu é? Não, o meu é o charuto Ó Tu viu que o meu era o charuto?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)",
+      "especies": "CampoExtraido(valor=[{'nome': 'pacuna', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'charuto', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=4094766)",
+      "observacoes": "CampoExtraido(valor='Pegou uma pacuna, acredito Vou voltar na praia e pesquendo Rapaz, a primeira vez que eu vejo alguém vindo pescar de vara de bambu', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=4094766)"
+    },
+    "latencia_total_ms": 4101996,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 4101996
+  },
+  {
+    "video_id": "ek1z0smMBz4",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "esls9bNSaUw",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)",
+      "rio": "CampoExtraido(valor='Rio Turvo', confianca=1.0, evidencia='Estou aqui no Rio Turvo', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16983)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)",
+      "tipo_ceva": "CampoExtraido(valor='varinha telescópica', confianca=1.0, evidencia='Eu estou aqui com a varinha telescópica', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16983)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)",
+      "especies": "CampoExtraido(valor=[{'nome': 'tucunaré', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'lambarizinho', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16983)",
+      "observacoes": "CampoExtraido(valor='Pescaria de tucunaré utilizando varinha telescópica. O pescador acredita que há um cardume de tucunaré na área.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16983)"
+    },
+    "latencia_total_ms": 23078,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 23078
+  },
+  {
+    "video_id": "f-AIQY6Hqok",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)",
+      "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='velho chico', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=45152)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)",
+      "tipo_ceva": "CampoExtraido(valor='cobaia', confianca=1.0, evidencia='ceba', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=45152)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)",
+      "especies": "CampoExtraido(valor=[{'nome': 'Ceba', 'evidencia': 'Ceba sem gancho, né', 'fora_do_gazetteer': False}, {'nome': 'Peixe de sérgio', 'evidencia': 'Peixe de sérgio Só quieta aí, doidão', 'fora_do_gazetteer': False}, {'nome': 'Pacu', 'evidencia': 'Olha o tanto de pacu que a gente já pegou', 'fora_do_gazetteer': False}, {'nome': 'Curupeté', 'evidencia': 'Essa daí eu conheço como Rosada ou ferruz Eu conheço como pacu frita É igual o pacu frita Todas elas pra mim é pacu frita', 'fora_do_gazetteer': False}, {'nome': 'Piau flamengo', 'evidencia': 'Nós chamamos de piau flamengo Mas tem gente que chama ele de piau bananinha Bananinha É Isso é verdade mesmo', 'fora_do_gazetteer': False}, {'nome': 'Jacundá', 'evidencia': 'Joana também Joana também É isso aí Cada um com o seu nome', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=45152)",
+      "observacoes": "CampoExtraido(valor='Pescaria sensacional, hein? Tá doido?', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=45152)"
+    },
+    "latencia_total_ms": 52456,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 52456
+  },
+  {
+    "video_id": "hRVlgQX5ohA",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13600)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=13600)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13600)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13600)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13600)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13600)",
+      "especies": "CampoExtraido(valor=[{'nome': 'camarãozinho', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'tucuna', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=13600)",
+      "observacoes": "CampoExtraido(valor='Pega camarãozinho na bundinha e tucuna com toque.', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13600)"
+    },
+    "latencia_total_ms": 18807,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 18807
+  },
+  {
+    "video_id": "ksyD6vm3gOA",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "mpQyF-xusWw",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13469)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13469)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13469)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13469)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13469)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Milho, né?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13469)",
+      "especies": "CampoExtraido(valor=[{'nome': 'piapara', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.5, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13469)",
+      "observacoes": "CampoExtraido(valor='Para não inchar na barriga do peixe.', confianca=1.0, evidencia='E tem um pouquinho de quirela aí com sangue, hein?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13469)"
+    },
+    "latencia_total_ms": 18282,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 18282
+  },
+  {
+    "video_id": "nr05u17DzBE",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "ou9XkgNpMPA",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21365)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21365)",
+      "rio": "CampoExtraido(valor='Rio Sao Francisco', confianca=1.0, evidencia='um local ainda bem preservado em termos de margem', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21365)",
+      "bacia": "CampoExtraido(valor='Bacia de São Francisco', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21365)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_de_chao', confianca=1.0, evidencia='uma ceva nesse local aqui ontem', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21365)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='um tambores com milho cozido', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21365)",
+      "especies": "CampoExtraido(valor=[{'nome': 'pai tainha', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'piau açu', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'carainha', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=21365)",
+      "observacoes": "CampoExtraido(valor='Pescaria de ceva e um pequeno afluente aqui da bacia de São Francisco. Tempo nublado, mas esperança de sol aparecer.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=21365)"
+    },
+    "latencia_total_ms": 27234,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 27234
+  },
+  {
+    "video_id": "s1hg1HC1UkQ",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "sCQu7FSW3pc",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "especies": "CampoExtraido(valor=[], confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='texto_insuficiente', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=0)"
+    },
+    "latencia_total_ms": 0,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 0
+  },
+  {
+    "video_id": "uEVUMnSMcTI",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+      "tipo_ceva": "CampoExtraido(valor='cano_pvc_perfurado', confianca=1.0, evidencia='Nós temos um balde aqui que está com milho. Esse milho foi preparado de que maneira? Ele foi colocado no milho seco de molho por 24 horas.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Ele foi colocado no milho seco de molho por 24 horas. Depois de 24 horas de molho, ele foi fervido na água por uma hora.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+      "especies": "CampoExtraido(valor=[{'nome': 'piapara', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'pacu', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)",
+      "observacoes": "CampoExtraido(valor='Aula teórica e prática sobre como fazer uma ceba para pescar piaparas e pacus.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=18898)"
+    },
+    "latencia_total_ms": 24877,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 24877
+  },
+  {
+    "video_id": "vhgon9C1-DA",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16811)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=16811)",
+      "rio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16811)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16811)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16811)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16811)",
+      "especies": "CampoExtraido(valor=[{'nome': 'Mandubé', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Sardinhão', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Pescada', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'Piranha', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16811)",
+      "observacoes": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=16811)"
+    },
+    "latencia_total_ms": 22776,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 22776
+  },
+  {
+    "video_id": "wl1X5jtLNbc",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20440)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20440)",
+      "rio": "CampoExtraido(valor='Rio Canoas', confianca=1.0, evidencia='Fala pessoal do canal Serra Ficha, tudo bem com vocês? Eu estou ótimo graças a Deus e venho aqui hoje atender a pedidos de comentários aí do vídeo passado das carpas aí que vocês assistiram aqui no Rio Canoas.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=20440)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20440)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='Então galera vim revelar o segredo para vocês fazendo a ceva ao vivo.', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20440)",
+      "grao": "CampoExtraido(valor='milho', confianca=1.0, evidencia='Eu tenho milho azedo, tá?', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20440)",
+      "especies": "CampoExtraido(valor=[{'nome': 'carpa', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'piava', 'evidencia': '', 'fora_do_gazetteer': False}, {'nome': 'lambari', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20440)",
+      "observacoes": "CampoExtraido(valor='Vamos ver no próximo vídeo, né? No vídeo anterior a gente já capturou grandes carpas. Demorei um pouquinho para descobrir a receita dessa ceva aqui, meus amigos, mas agora tá dando resultado.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=20440)"
+    },
+    "latencia_total_ms": 26333,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 26333
+  },
+  {
+    "video_id": "wqO7XQQR8Pw",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13172)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=13172)",
+      "rio": "CampoExtraido(valor='Piau', confianca=1.0, evidencia='ceva top... Piau Sul...', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=13172)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13172)",
+      "tipo_ceva": "CampoExtraido(valor='ceva_solta_na_agua', confianca=1.0, evidencia='ceva top', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13172)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13172)",
+      "especies": "CampoExtraido(valor=[{'nome': 'Piau', 'evidencia': '', 'fora_do_gazetteer': False}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13172)",
+      "observacoes": "CampoExtraido(valor='Pegar peixe é difícil', confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=13172)"
+    },
+    "latencia_total_ms": 18112,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 18112
+  },
+  {
+    "video_id": "xRURhakx4Mw",
+    "campos": {
+      "estado": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=25605)",
+      "municipio": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=25605)",
+      "rio": "CampoExtraido(valor='Jequitibá', confianca=1.0, evidencia='O rio Jequitibá, ó.', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=25605)",
+      "bacia": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=25605)",
+      "tipo_ceva": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=25605)",
+      "grao": "CampoExtraido(valor=None, confianca=0.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=25605)",
+      "especies": "CampoExtraido(valor=[{'nome': 'onça', 'evidencia': 'Aí já vimos o rasta da onça lá, ó.', 'fora_do_gazetteer': False}, {'nome': 'bagre', 'evidencia': 'O bagre ao molho, sabor bagre ao molho.', 'fora_do_gazetteer': False}, {'nome': 'traíra', 'evidencia': 'Se é traíra, catou até aqui, ó.', 'fora_do_gazetteer': True}], confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=True, latencia_ms=25605)",
+      "observacoes": "CampoExtraido(valor='Pescaria de hoje foi essa. Mostrar para vocês aí um pouco da pescaria raiz. Trazer boas recordações, né? Muita gente fazia esse tipo de pescaria.', confianca=1.0, evidencia='', modelo_usado='llama3.1:8b', fora_do_gazetteer=False, latencia_ms=25605)"
+    },
+    "latencia_total_ms": 31499,
+    "latencia_gliner_ms": 0,
+    "latencia_llm_ms": 31499
+  }
+]

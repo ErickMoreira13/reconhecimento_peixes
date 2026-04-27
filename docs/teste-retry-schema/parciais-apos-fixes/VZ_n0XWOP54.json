@@ -1,0 +1,96 @@
+{
+  "video_id": "VZ_n0XWOP54",
+  "latencia_s": 39.15,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 36493
+    },
+    "municipio": {
+      "valor": "Bororentir do Sul",
+      "confianca": 1.0,
+      "evidencia": "Vai manter o dia todo para a gente bater aí. Nessa barragem para cima e para baixo.",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 36493
+    },
+    "rio": {
+      "valor": "Rio Taquarim",
+      "confianca": 1.0,
+      "evidencia": "Taquarela bastante ação de biguá tem na água aí",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 36493
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 36493
+    },
+    "tipo_ceva": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 36493
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 36493
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "mandi",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "jundiá",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "baita",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "mandir",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        },
+        {
+          "nome": "pintado",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 36493
+    },
+    "observacoes": {
+      "valor": "Pescaria no Rio Taquarim, pegamos alguns mandis e jundiás. | Pescaria com sucesso, pegou muitos peixes.",
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 36493
+    }
+  }
+}

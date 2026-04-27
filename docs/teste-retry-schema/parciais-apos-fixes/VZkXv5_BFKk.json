@@ -1,0 +1,76 @@
+{
+  "video_id": "VZkXv5_BFKk",
+  "latencia_s": 21.5,
+  "campos": {
+    "estado": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20257
+    },
+    "municipio": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20257
+    },
+    "rio": {
+      "valor": "Igapó",
+      "confianca": 1.0,
+      "evidencia": "Agora nesse momento aqui já estou preparado, já são seis e quarenta da manhã, olha como é que está o tempo aqui, aí eu já estou preparado aqui para fazer, hoje é o dia da pescaria né, quinta-feira estou aqui já saindo para fazer uma pescaria, vou para o Igapó",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 20257
+    },
+    "bacia": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20257
+    },
+    "tipo_ceva": {
+      "valor": "espinhel",
+      "confianca": 1.0,
+      "evidencia": "vou botar uns espinhel e ver o que eu pego",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 20257
+    },
+    "grao": {
+      "valor": null,
+      "confianca": 0.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20257
+    },
+    "especies": {
+      "valor": [
+        {
+          "nome": "peixe bonito",
+          "evidencia": "",
+          "fora_do_gazetteer": false
+        }
+      ],
+      "confianca": 1.0,
+      "evidencia": "",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": true,
+      "latencia_ms": 20257
+    },
+    "observacoes": {
+      "valor": "o peixe não quer comer",
+      "confianca": 1.0,
+      "evidencia": "conforme também a vazante",
+      "modelo_usado": "llama3.1:8b",
+      "fora_do_gazetteer": false,
+      "latencia_ms": 20257
+    }
+  }
+}
