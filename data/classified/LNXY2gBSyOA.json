@@ -1,0 +1,26 @@
+{
+  "arquivo": "LNXY2gBSyOA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:24:27.540250",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "bolsa"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

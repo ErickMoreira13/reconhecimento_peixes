@@ -1,0 +1,33 @@
+{
+  "arquivo": "is1ms9pKGJ0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:28:17.705328",
+  "classificacao": {
+    "especies": [
+      "pirarucu",
+      "pacu",
+      "surubim",
+      "barba chata",
+      "raia",
+      "piaba",
+      "matupiri",
+      "jaraki",
+      "branquinha",
+      "caparari",
+      "caixara"
+    ],
+    "equipamentos": [
+      "vara",
+      "molinete",
+      "Hariken X",
+      "Hariken 3000",
+      "linha de 50 libras"
+    ],
+    "iscas": [
+      "isca",
+      "peixinho",
+      "artificial",
+      "sardinha"
+    ]
+  }
+}

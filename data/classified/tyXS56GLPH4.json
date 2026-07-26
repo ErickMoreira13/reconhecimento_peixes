@@ -1,0 +1,23 @@
+{
+  "arquivo": "tyXS56GLPH4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:32:55.253409",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Guga Fish"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

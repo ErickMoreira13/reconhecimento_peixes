@@ -1,0 +1,31 @@
+{
+  "arquivo": "mwq8E-9fk9o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:16:33.817813",
+  "classificacao": {
+    "especies": [
+      "Carainha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Lombrigo de gás",
+      "Sal",
+      "Massa ouro",
+      "Assadinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Parar a gueira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

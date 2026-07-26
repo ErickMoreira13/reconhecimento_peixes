@@ -1,0 +1,42 @@
+{
+  "arquivo": "PjxWyZlVEoo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:09:55.636698",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "vara de pesca dobrável",
+      "mulinete embutido",
+      "gatilho",
+      "carretilha",
+      "linha de pesca"
+    ],
+    "iscas": [
+      "artificial",
+      "salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "lançamento com gatilho",
+      "pesca com isca artificial",
+      "pesca com isca de carne"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca artificial",
+      "pesca com isca de carne"
+    ],
+    "observacoes": [
+      "a vara foi testada em um lago",
+      "a linha foi considerada fraca para peixes maiores",
+      "a vara quebrou ao capturar um tambaqui maior",
+      "a experiência resultou em desaprovação do equipamento"
+    ]
+  }
+}

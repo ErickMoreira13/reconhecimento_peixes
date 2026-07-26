@@ -1,0 +1,30 @@
+{
+  "arquivo": "N6GWOs31_bo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:22:52.493181",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Piaba"
+    ],
+    "rios": [
+      "Rio Tinga"
+    ],
+    "bacias": [
+      "Bacia do Rio Tinga"
+    ],
+    "estado": "Bahia",
+    "municipio": "Utinga",
+    "tipo_pesca": [
+      "Pesca de Piaba"
+    ],
+    "observacoes": []
+  }
+}

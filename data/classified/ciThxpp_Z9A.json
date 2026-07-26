@@ -1,0 +1,30 @@
+{
+  "arquivo": "ciThxpp_Z9A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:39:15.221129",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Carpa Capim",
+      "Carpa Gigante"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha"
+    ],
+    "iscas": [
+      "Bolha de Jamel",
+      "Milho Cozido"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "grãos": [
+      "Milho Cozido"
+    ],
+    "rio": "Rio Canoas",
+    "pesca": "Pescaria de Carpa",
+    "pesca_objetivo": "Carpa de 20 quilos"
+  }
+}

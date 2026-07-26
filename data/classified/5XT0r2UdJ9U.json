@@ -1,0 +1,47 @@
+{
+  "arquivo": "5XT0r2UdJ9U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:35:40.917208",
+  "classificacao": {
+    "species": [
+      "corvina",
+      "lambari",
+      "curvina",
+      "tuvira",
+      "chucu",
+      "barbado"
+    ],
+    "equipment": [
+      "amari",
+      "arco"
+    ],
+    "baits": [
+      "morto",
+      "tabaco morto",
+      "lambari",
+      "camarão"
+    ],
+    "cevas": [
+      "camarão",
+      "morto",
+      "tabaco morto"
+    ],
+    "graos": [],
+    "techniques": [
+      "Técnica de Parada e Lançamento",
+      "Técnica de Lançamento Lateral",
+      "Técnica de Parada no Ponto",
+      "Técnica de Ajuste do Ponto"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "type_of_fishing": "pesca esportiva",
+    "observations": [
+      "acertei o ponto",
+      "peguei uma bonita",
+      "fazia tempo que eu não pegava desse tamanho"
+    ]
+  }
+}

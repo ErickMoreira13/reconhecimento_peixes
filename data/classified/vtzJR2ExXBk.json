@@ -1,0 +1,34 @@
+{
+  "arquivo": "vtzJR2ExXBk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:26:43.353937",
+  "classificacao": {
+    "especies": [
+      "Barracuda",
+      "Octopus",
+      "Caranha"
+    ],
+    "equipamentos": [
+      "Câmera subaquática"
+    ],
+    "iscas": [
+      "Farofa de polvo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Imagem subaquática"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca",
+      "Pesca subaquática"
+    ],
+    "observacoes": [
+      "Água clara e captura bem-sucedida de barracuda e polvos"
+    ]
+  }
+}

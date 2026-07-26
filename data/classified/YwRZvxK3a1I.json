@@ -1,0 +1,25 @@
+{
+  "arquivo": "YwRZvxK3a1I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:32:59.802054",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caronha"
+    ],
+    "iscas": [
+      "pão de doce caseiro"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "isca natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

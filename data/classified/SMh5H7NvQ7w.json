@@ -1,0 +1,36 @@
+{
+  "arquivo": "SMh5H7NvQ7w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:18:02.956575",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Pé de óleo"
+    ],
+    "equipamentos": [
+      "Linha de pesca",
+      "Vara de carbono"
+    ],
+    "iscas": [
+      "Meia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Linha na água"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Condições climáticas adversas (chuva, relâmpagos)",
+      "Dificuldade de captura devido ao vento forte",
+      "Uso de varas de carbono",
+      "Peixes capturados com dificuldade"
+    ]
+  }
+}

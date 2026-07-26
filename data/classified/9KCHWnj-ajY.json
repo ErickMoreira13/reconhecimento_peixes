@@ -1,0 +1,32 @@
+{
+  "arquivo": "9KCHWnj-ajY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:43:00.269633",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Vara Bali",
+      "Nó fisgador"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva com atrativo"
+    ],
+    "varas": [
+      "Vara Bali"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "anzóis": [
+      "Anzol chinuzinho 5"
+    ],
+    "local": "Estrutura com água parada",
+    "horário": "08:00",
+    "selva_nervosa": true
+  }
+}

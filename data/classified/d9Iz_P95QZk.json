@@ -1,0 +1,39 @@
+{
+  "arquivo": "d9Iz_P95QZk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:43:26.479368",
+  "classificacao": {
+    "especies": [
+      "Jundia",
+      "Branquinha"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Vara",
+      "Chumbada",
+      "Anzol"
+    ],
+    "iscas": [
+      "Artificial",
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Simples",
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Deixa o like",
+      "Se inscreve",
+      "Preservar a natureza",
+      "Liberar peixes",
+      "Pescaria com amigos"
+    ]
+  }
+}

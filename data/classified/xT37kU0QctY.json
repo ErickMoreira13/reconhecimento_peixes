@@ -1,0 +1,30 @@
+{
+  "arquivo": "xT37kU0QctY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:23:14.683184",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Pitanga"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Araguaia"
+    ],
+    "bacias": [
+      "Bacia do Rio Araguaia"
+    ],
+    "estado": "Mato Grosso",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "-IfPa1j85fE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:18:27.894495",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara de pescar",
+      "molinete",
+      "carretilha",
+      "cano",
+      "linha",
+      "chicote",
+      "garaté",
+      "elástico"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Barra de Tramandaí",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

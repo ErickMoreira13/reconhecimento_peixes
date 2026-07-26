@@ -1,0 +1,31 @@
+{
+  "arquivo": "5Addl6HUwio",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:10:53.531456",
+  "classificacao": {
+    "species": [
+      "Piau",
+      "Pacu",
+      "Lambari",
+      "Lepinha",
+      "Pial"
+    ],
+    "equipment": [
+      "vara",
+      "anzol",
+      "garateia",
+      "balde",
+      "mochila",
+      "tambor",
+      "pederneira",
+      "isqueiro"
+    ],
+    "baits": [
+      "massa de pão",
+      "caroços de milho",
+      "maracujá"
+    ],
+    "region": "Mato Grosso",
+    "activity": "pescaria"
+  }
+}

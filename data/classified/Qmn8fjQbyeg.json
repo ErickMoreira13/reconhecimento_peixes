@@ -1,0 +1,23 @@
+{
+  "arquivo": "Qmn8fjQbyeg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:52:33.044489",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Ataque de cachorro e sangue descendo do peixe"
+    ]
+  }
+}

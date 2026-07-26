@@ -1,0 +1,27 @@
+{
+  "arquivo": "YRDB7o6fBl8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:25:41.049646",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Anzol pequeno",
+      "Linha 018",
+      "Boia de madeira"
+    ],
+    "iscas": [
+      "Bitu"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

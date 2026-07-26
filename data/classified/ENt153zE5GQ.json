@@ -1,0 +1,25 @@
+{
+  "arquivo": "ENt153zE5GQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:10:14.330944",
+  "classificacao": {
+    "especies": [
+      "Curimã"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "Vitória",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescaria realizada com vento forte (mais de 30 km/h), dificuldade devido às condições adversas",
+      "Captura de aproximadamente 10 curimãs",
+      "Menciona a presença de peixes gordos e de tamanho variado"
+    ]
+  }
+}

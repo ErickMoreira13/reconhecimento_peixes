@@ -1,0 +1,28 @@
+{
+  "arquivo": "RoJ6XBj9ZrY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:24:44.836452",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Pirarucu",
+      "Dourado",
+      "Naré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Douradinho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em Rio"
+    ],
+    "observacoes": []
+  }
+}

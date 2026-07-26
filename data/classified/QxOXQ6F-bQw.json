@@ -1,0 +1,41 @@
+{
+  "arquivo": "QxOXQ6F-bQw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:37:00.833516",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Pacu",
+      "Boto Rosa"
+    ],
+    "equipamentos": [
+      "Passaguai",
+      "Régua",
+      "Câmera"
+    ],
+    "iscas": [
+      "Isca",
+      "Galhada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Amazonas",
+      "Igarapé"
+    ],
+    "bacias": [
+      "Amazonas"
+    ],
+    "estado": "Santa Catarina",
+    "municipio": "Criciúma",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Peixe estragando a isca",
+      "Peixe grande",
+      "Área primitiva"
+    ]
+  }
+}

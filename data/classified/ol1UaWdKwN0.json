@@ -1,0 +1,44 @@
+{
+  "arquivo": "ol1UaWdKwN0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:54:57.910546",
+  "classificacao": {
+    "espécies": [
+      "Piau",
+      "Piauçu",
+      "Piau Piapara",
+      "Piau Sul",
+      "Tilápia",
+      "Pacu",
+      "Caranha",
+      "Paco branco",
+      "Paco prata"
+    ],
+    "equipamentos": [
+      "varas"
+    ],
+    "iscas": [
+      "caranguejo inteiro",
+      "massas amarelas",
+      "minhocas",
+      "massinha de soja"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "caranguejo"
+      ],
+      "Ceva de Partículas": [
+        "massas amarelas",
+        "massinha de soja"
+      ]
+    },
+    "grãos": [
+      "milho",
+      "soja"
+    ],
+    "técnicas": [],
+    "rios": [
+      "Rio Pardo"
+    ]
+  }
+}

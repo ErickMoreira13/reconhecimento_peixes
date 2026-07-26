@@ -1,0 +1,37 @@
+{
+  "arquivo": "nNPBeqnJ1zg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:20:04.416182",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Rabicho Vermelho"
+    ],
+    "equipamentos": [
+      "Fieira",
+      "Vaia",
+      "Subaco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Fieira",
+      "Pesca de Subaco",
+      "Pesca de Penca"
+    ],
+    "rios": [
+      "Rio Muzamba"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca Caipira"
+    ],
+    "observacoes": [
+      "A experiência de pescar na enchente é valorizada pela conexão com a natureza, escutar a cigarra, o passarinho e a cachoeira. A pescaria é vista como descontração e diversão, não apenas como captura de peixes grandes."
+    ]
+  }
+}

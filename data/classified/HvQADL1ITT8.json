@@ -1,0 +1,25 @@
+{
+  "arquivo": "HvQADL1ITT8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:17:08.325675",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Baby Rex 105",
+      "Devassa Slim 140",
+      "CCM Tormentin 80",
+      "Rocket 140",
+      "Baby Rex 80"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "arquivo": "Xng1B0a0al8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:15:50.375516",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Arapaima",
+      "Pacu",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "vara",
+      "massinha",
+      "balde",
+      "cevinha",
+      "ferrão",
+      "fio",
+      "carretilha",
+      "caniço",
+      "cana"
+    ],
+    "iscas": [
+      "massinha",
+      "grão de milho",
+      "massa",
+      "cevinha"
+    ],
+    "cevas": [
+      "cevinha",
+      "massinha",
+      "ferrão"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "pescaria de piau",
+      "brincar com o piau",
+      "fazer um frito",
+      "retalhar",
+      "esticadinha",
+      "ticar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pescaria de piau"
+    ],
+    "observacoes": [
+      "tamanho do armau que Davi pegou",
+      "solta ele esquisito né",
+      "pega ele e solta parece que ele tá com batom na boca",
+      "vamos fazer um frito aqui",
+      "retalhar eles aqui",
+      "dá uma esticadinha",
+      "ticar ele bem fininho",
+      "fazer a mesma coisa",
+      "bem esticadinho",
+      "bem fritinho",
+      "nossa peixinho tá no jeito",
+      "estralando quem vai experimentar",
+      "ficou bom",
+      "vou comer aqui também",
+      "você tá doido"
+    ]
+  }
+}

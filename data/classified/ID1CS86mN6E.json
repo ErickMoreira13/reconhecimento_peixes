@@ -1,0 +1,16 @@
+{
+  "arquivo": "ID1CS86mN6E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:30:02.686105",
+  "classificacao": {
+    "resumo": "O processo para obter a carteirinha de pescador via Gov.br é rápido e não requer impressão do documento provisório. Após submeter a solicitação, é possível verificar o status da aplicação no site do Gov.br, baixar o documento final e imprimir em uma loja local (como a mencionada em Londrina).",
+    "passos_chave": [
+      "Acesse o site do Gov.br e faça login na sua conta.",
+      "Verifique o status da solicitação no menu 'Minhas solicitações' ou 'Meus documentos' (dependendo da interface).",
+      "Baixe o documento final (carteirinha de pescador) em formato PDF.",
+      "Imprima o documento em uma loja de impressão local (exemplo: a mencionada em Londrina).",
+      "Evite imprimir o documento provisório, pois o processo é rápido e o documento final será gerado automaticamente."
+    ],
+    "observações": "O vídeo inclui uma interação informal com uma pessoa chamada Sidão, que menciona uma loja específica em Londrina. O conteúdo principal enfatiza a agilidade do processo e a necessidade de imprimir apenas o documento final."
+  }
+}

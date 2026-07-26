@@ -1,0 +1,29 @@
+{
+  "arquivo": "m-4V9UiiBRg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:25:16.618587",
+  "classificacao": {
+    "espécies": [
+      "Butiá",
+      "Macaco",
+      "Piau",
+      "Barbado",
+      "Arraia"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Alicate de pesca",
+      "Sacola de isca",
+      "Galão perfurado"
+    ],
+    "iscas": [
+      "Branquinha"
+    ],
+    "cevadas": [
+      "Soja"
+    ],
+    "localização": "Mioca Sul",
+    "tipo_de_pesca": "Pesca esportiva",
+    "método_de_pesca": "Voadeira"
+  }
+}

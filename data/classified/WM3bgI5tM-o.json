@@ -1,0 +1,33 @@
+{
+  "arquivo": "WM3bgI5tM-o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:14:32.304740",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Varinha telescópio"
+    ],
+    "iscas": [
+      "Filé de frango"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de isca artificial",
+      "Lança de beirada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescaria com filé de frango",
+      "Pequena traíra capturada",
+      "Influência do tempo na pesca"
+    ]
+  }
+}

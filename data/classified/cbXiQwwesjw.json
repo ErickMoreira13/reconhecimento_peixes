@@ -1,0 +1,36 @@
+{
+  "arquivo": "cbXiQwwesjw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:20:35.919294",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Macaco d'água"
+    ],
+    "equipamentos": [
+      "vara",
+      "barco",
+      "chique noventa",
+      "macho chique noventa",
+      "osso"
+    ],
+    "iscas": [
+      "chique noventa",
+      "macho chique noventa",
+      "osso"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca em margem",
+      "lançamento de iscas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ]
+  }
+}

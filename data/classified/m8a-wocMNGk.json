@@ -1,0 +1,35 @@
+{
+  "arquivo": "m8a-wocMNGk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:50:04.398872",
+  "classificacao": {
+    "especies": [
+      "Paca"
+    ],
+    "equipamentos": [
+      "galão perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Funnel Fishing",
+      "Pescando com ceva de partículas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "O peixe está alimentado e tem um tamanho considerável",
+      "Técnica de pesca usando ceva de partículas",
+      "O peixe foi liberado após a captura"
+    ]
+  }
+}

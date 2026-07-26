@@ -1,0 +1,29 @@
+{
+  "arquivo": "5EjbN7MHqls",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:13:17.767101",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Pacu",
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "água de mina, de poço, água mineral"
+    ]
+  }
+}

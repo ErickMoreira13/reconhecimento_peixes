@@ -1,0 +1,15 @@
+{
+  "arquivo": "JZnU1kG7gdw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:24:40.829599",
+  "classificacao": {
+    "summary": "O texto parece ser uma transcrição informal de uma conversa ou narração, provavelmente de um vídeo ou gravação. Ele menciona atividades como pesca (em rios, com foco em espécies como Pielçu e Pacu), navegação em canoas, desafios com correntes fortes, e referências a pessoas (como Fran, João da Penha, Vanessa, Wilson) e locais (Capivari). Há partes fragmentadas, repetições, risadas e menções a problemas técnicos com um motor de barco. O conteúdo também inclui uma referência a uma sucuri (jiboia) e a menção de que Wilson não compareceu por estar viajando.",
+    "key_points": [
+      "Atividades de pesca e navegação em rios",
+      "Mencões a pessoas e locais (Capivari, Fran, João da Penha, etc.)",
+      "Desafios com correntes e motor de barco",
+      "Presença de elementos informais (risadas, repetições)"
+    ],
+    "request": "Você gostaria de ajuda para organizar esse texto, traduzi-lo, ou extrair informações específicas? Por favor, me informe o que você precisa!"
+  }
+}

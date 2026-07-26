@@ -1,0 +1,34 @@
+{
+  "arquivo": "EWnzZUnVASo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:55:05.535747",
+  "classificacao": {
+    "especies": [
+      "Smallmouth Bass",
+      "Walleye",
+      "Picarelo",
+      "Muskie"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Gancho",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Não foi possível pescar o peixe desejado",
+      "O clima estava afetado por incêndios florestais",
+      "Foi capturado um muskie que será mostrado em um próximo vídeo"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "T4zsZEC2zKE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:44:40.492510",
+  "classificacao": {
+    "resumo": "O texto descreve uma atividade de pesca com um grupo de pessoas, destacando a competição entre os participantes e os tamanhos dos peixes capturados. Destaques incluem: Thiago e Carol, que capturaram peixes de 50 cm e 57 cm, respectivamente; Flávio, que menciona a média de 50 cm; Alexandre, que discute a dificuldade de capturar peixes maiores; e Eliane, que comenta sobre a dificuldade de pescar em certas condições. O clima é animado, com expressões como 'Boa' e 'Vamos', indicando entusiasmo e colaboração entre os participantes. A competição é um tema central, com comparações de tamanhos e a menção de um 'campeão' (Thiago).",
+    "participantes": [
+      "Thiago",
+      "Carol",
+      "Flávio",
+      "Alexandre",
+      "Eliane"
+    ],
+    "tamanhos_de_peixes": [
+      "50 cm",
+      "57 cm",
+      "50 cm (média)"
+    ],
+    "temas_principais": [
+      "competição entre os pescadores",
+      "tamanhos dos peixes capturados",
+      "desafios da pesca",
+      "interação entre os participantes"
+    ],
+    "atmosfera": "animada, colaborativa e competitiva"
+  }
+}

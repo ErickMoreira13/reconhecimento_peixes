@@ -1,0 +1,30 @@
+{
+  "arquivo": "yiALNooHW6E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:14:26.442167",
+  "classificacao": {
+    "especies": [
+      "Curvina"
+    ],
+    "equipamentos": [
+      "Gig de Pena",
+      "Metal Gig"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Vibração",
+      "Quicar",
+      "Cores Chamativas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Artificial"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "As8JcLstxQo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:09:49.128151",
+  "classificacao": {
+    "especies": [
+      "Arapaima"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Acre",
+    "municipio": "Rio Branco",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

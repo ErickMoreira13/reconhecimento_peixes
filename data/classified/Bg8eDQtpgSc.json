@@ -1,0 +1,40 @@
+{
+  "arquivo": "Bg8eDQtpgSc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:03:45.206895",
+  "classificacao": {
+    "especies": [
+      "Atum",
+      "Atum Rabilho"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Equipamento de Pesca Esportiva",
+      "Lancha em Miniatura",
+      "Moto Elétrica"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Consciente"
+    ],
+    "rios": [],
+    "bacias": [
+      "Baía de São Francisco",
+      "Golfo de Nicóia"
+    ],
+    "estado": "Costa Rica",
+    "municipio": "Quepos",
+    "tipo_pesca": [
+      "Pesca Consciente",
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Atividades e Aventuras",
+      "Exploração das Águas do Pacífico com Adrenalina",
+      "Serviço Impecável",
+      "Visibilidade Quase Perfeita"
+    ]
+  }
+}

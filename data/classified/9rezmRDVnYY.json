@@ -1,0 +1,51 @@
+{
+  "arquivo": "9rezmRDVnYY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:48:10.937763",
+  "classificacao": {
+    "especies": [
+      "corocó",
+      "areiá",
+      "arajuba",
+      "chilhas",
+      "pirambó",
+      "guarajuba",
+      "galo testudo",
+      "barracuda",
+      "bagre",
+      "pargo-pena",
+      "ariacó"
+    ],
+    "equipamento": [
+      "arbalete",
+      "sauna",
+      "bicheiro",
+      "linhas",
+      "jangada",
+      "rabetão",
+      "câmera"
+    ],
+    "isca": [
+      "chilhas",
+      "sardinha",
+      "estela",
+      "parão branco"
+    ],
+    "atrativos": [
+      "fitas",
+      "estila"
+    ],
+    "termos_tecnicos": [
+      "meia água",
+      "bicheiro",
+      "rabetão"
+    ],
+    "localizacao": [
+      "jangada"
+    ],
+    "observacoes": [
+      "fitas que ficam na meia água pra atrair a sardinha",
+      "estila usada como isca"
+    ]
+  }
+}

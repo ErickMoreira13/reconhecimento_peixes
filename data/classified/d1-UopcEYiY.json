@@ -1,0 +1,35 @@
+{
+  "arquivo": "d1-UopcEYiY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:39:37.055993",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Careca"
+    ],
+    "equipamentos": [
+      "Linha de pesca",
+      "Vara de pesca"
+    ],
+    "iscas": [
+      "Cabeça de morumbi"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Linhada"
+    ],
+    "rios": [
+      "Rio Carapanã"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com linha de pesca"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "4ltvy4dcpUI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:41:25.714325",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Varinha Crank",
+      "Hélice Tormenta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Bati hélice"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescaria está bem difícil",
+      "Não desistir",
+      "Amazônia é fantástica"
+    ]
+  }
+}

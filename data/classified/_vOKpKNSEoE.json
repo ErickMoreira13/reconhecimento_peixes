@@ -1,0 +1,29 @@
+{
+  "arquivo": "_vOKpKNSEoE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:42:06.221389",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "Vitória",
+    "tipo_pesca": [
+      "Pesca Artesanal",
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O peixe está todo grado",
+      "O sul entrou um sul meio atravessado",
+      "O peixe abandonou e deu uma viraçãozinha de tempo",
+      "A maré lançou a lua",
+      "O peixe deu uma escasseada",
+      "Produzir o conteúdo para os espectadores"
+    ]
+  }
+}

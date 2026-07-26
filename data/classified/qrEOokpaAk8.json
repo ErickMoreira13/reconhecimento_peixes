@@ -1,0 +1,26 @@
+{
+  "arquivo": "qrEOokpaAk8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:00:34.315039",
+  "classificacao": {
+    "resumo": "O vídeo mostra uma experiência de pesca emocionante, com destaque para a captura de jacundar e tilápia. O narrador descreve o processo de pesca, incluindo o uso de equipamentos como boinha, farol e massa, e compartilha a excitação de ver os peixes atacando a isca. Há também uma menção a um pato que não é um mergulhão, adicionando um toque de diversão à narrativa. O vídeo termina com uma música que reforça a atmosfera alegre e envolvente da experiência.",
+    "detalhes": {
+      "peixes_capturados": [
+        "jacundar",
+        "tilápia"
+      ],
+      "equipamentos_usados": [
+        "boinha",
+        "farol",
+        "massa"
+      ],
+      "elementos_narrativa": [
+        "interação com o pato",
+        "descrição técnica da pesca",
+        "emoções de sucesso na captura"
+      ],
+      "música_final": "Cantiga de ninar (ou outro trecho musical mencionado no vídeo)"
+    },
+    "observações": "O conteúdo transmite entusiasmo e detalhes práticos sobre a pesca, combinando elementos técnicos com momentos de diversão. A menção ao pato sugere que o vídeo pode ter momentos de humor ou curiosidade além da pesca em si."
+  }
+}

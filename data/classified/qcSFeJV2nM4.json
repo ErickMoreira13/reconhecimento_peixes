@@ -1,0 +1,29 @@
+{
+  "arquivo": "qcSFeJV2nM4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:09:51.352922",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Isca",
+      "Corda",
+      "Lona",
+      "Faca",
+      "Foguinho"
+    ],
+    "iscas": [
+      "Maracujalinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

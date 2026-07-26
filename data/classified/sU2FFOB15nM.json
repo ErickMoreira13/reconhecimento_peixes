@@ -1,0 +1,34 @@
+{
+  "arquivo": "sU2FFOB15nM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:13:57.797926",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Molhadeira",
+      "Canoa",
+      "Cardinho"
+    ],
+    "iscas": [
+      "Farinha grossa",
+      "Farinha da baguda"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Atuar"
+    ],
+    "rios": [
+      "Rio Madeira",
+      "Rio Xingu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

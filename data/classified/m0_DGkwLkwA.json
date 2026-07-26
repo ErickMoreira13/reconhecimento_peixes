@@ -1,0 +1,37 @@
+{
+  "arquivo": "m0_DGkwLkwA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:35:33.870165",
+  "classificacao": {
+    "especies": [
+      "Sargo de beiço",
+      "Sargo marimbá"
+    ],
+    "equipamentos": [
+      "arpão",
+      "ligas",
+      "corda"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca com arpão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "Guarapari",
+    "tipo_pesca": [
+      "pesca subaquática"
+    ],
+    "observacoes": [
+      "água quente",
+      "alta movimentação de peixes",
+      "alguns tiros falhados",
+      "água sujando durante a pescaria"
+    ]
+  }
+}

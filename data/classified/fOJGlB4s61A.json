@@ -1,0 +1,53 @@
+{
+  "arquivo": "fOJGlB4s61A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:40:17.733019",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Lambari",
+      "Traíra",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Spinner",
+      "Caiaque"
+    ],
+    "iscas": [
+      "Guiara"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Que louca. Que louca de piranha, cara.",
+      "Mano, pegou na boca mesmo.",
+      "De noção que piranha é brava.",
+      "Ó, que cabeçona.",
+      "Saiu. Piranhuda.",
+      "Oh, peguei.",
+      "Deu umas batidinhas secas, mas não juntou.",
+      "Fraquinha.",
+      "O povo viu um lambari pulando ali.",
+      "Olha, falei pra você.",
+      "Lambari.",
+      "Um lambarizão grande.",
+      "Pegou a guiara que está atrás do caiaque.",
+      "He he he.",
+      "Piranha.",
+      "Olha.",
+      "Pegou a paiari.",
+      "Ah, perdeu.",
+      "Que bosta.",
+      "Olha.",
+      "Entrou um paiari.",
+      "Que louca.",
+      "Que louca de piranha, cara."
+    ]
+  }
+}

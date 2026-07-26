@@ -1,0 +1,84 @@
+{
+  "arquivo": "qI-7GaIFn74",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:37:13.296719",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Curimba",
+      "Tilápia",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Chuveirinho",
+      "Anzol"
+    ],
+    "iscas": [
+      "Massa Cevadeira",
+      "Massa de Ceba"
+    ],
+    "tipo de isca": [
+      "Massa"
+    ],
+    "ingredientes": [
+      "Ração de Galinha",
+      "Quirela",
+      "Farinha de Trigo",
+      "Água"
+    ],
+    "metodo de preparo": [
+      "Misturar os ingredientes",
+      "Adicionar água aos poucos",
+      "Formar bolinhas"
+    ],
+    "tecnicas de pesca": [
+      "Uso no chuveirinho",
+      "Troca a cada cinco minutos"
+    ],
+    "local de pesca": [
+      "Rio",
+      "Rancho"
+    ],
+    "tempo de pesca": [
+      "Dia inteiro"
+    ],
+    "tipos de peixe": [
+      "Carpa",
+      "Curimba",
+      "Tilápia",
+      "Pacu"
+    ],
+    "tipos de agua": [
+      "Rio"
+    ],
+    "tipos de equipamento": [
+      "Chuveirinho",
+      "Anzol"
+    ],
+    "tipos de isca": [
+      "Massa"
+    ],
+    "tipos de ingredientes": [
+      "Ração de Galinha",
+      "Quirela",
+      "Farinha de Trigo",
+      "Água"
+    ],
+    "tipos de metodo": [
+      "Misturar os ingredientes",
+      "Adicionar água aos poucos",
+      "Formar bolinhas"
+    ],
+    "tipos de tecnica": [
+      "Uso no chuveirinho",
+      "Troca a cada cinco minutos"
+    ],
+    "tipos de local": [
+      "Rio",
+      "Rancho"
+    ],
+    "tipos de tempo": [
+      "Dia inteiro"
+    ]
+  }
+}

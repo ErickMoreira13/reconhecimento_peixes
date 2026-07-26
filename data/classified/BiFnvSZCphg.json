@@ -1,0 +1,58 @@
+{
+  "arquivo": "BiFnvSZCphg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:15:46.704751",
+  "classificacao": {
+    "equipment": {
+      "reel": "Molinete (spinning reel)",
+      "line_thickness": "0.37mm (monofilament or fluorocarbon line)",
+      "lead_weight": "20g (adjustable based on wind strength)",
+      "swivel": "Used to connect the lead weight to the leader",
+      "leader_length": "50cm (used to prevent the lead from dragging on the bottom)",
+      "hook": "Maruzego size 22 (specific to the target species, barbado)",
+      "additional_notes": "The line and hook are chosen to handle the barbado's strength and the challenges of the environment."
+    },
+    "technique": {
+      "casting": {
+        "method": "Casting with the lead weight and hook, ensuring the leader does not drag on the bottom.",
+        "adjustments": "Adjust the lead weight based on wind strength (e.g., heavier weights for stronger winds)."
+      },
+      "fishing_position": {
+        "location": "Using the wind to move the boat into position, avoiding direct confrontation with the current.",
+        "depth": "Fishing in areas where the barbado is likely to be found (e.g., near structures or in deeper water)."
+      },
+      "casting_technique": {
+        "three_arm_lengths": "At night, the speaker uses a technique of casting three arm lengths (a specific distance) to cover the area effectively."
+      },
+      "rod_handling": {
+        "importance": "Keeping the rod secure and ready to respond to the barbado's violent pull.",
+        "setup": "The rod is kept in a position to absorb the sudden force when the fish strikes."
+      }
+    },
+    "timing": {
+      "best_hours": "Early evening is preferred for fishing, as the barbado is more active during this time.",
+      "night_fishing": "At night, the 'three arm lengths' technique is used to cover the area systematically."
+    },
+    "tips": {
+      "patience": "The speaker emphasizes the need for patience, as the barbado may not strike immediately.",
+      "line_management": "Avoiding line drag by using the leader and adjusting the lead weight.",
+      "hook_security": "Ensuring the hook is securely attached to the leader to prevent loss of the bait or hook.",
+      "wind_utilization": "Using the wind to position the boat and cast effectively, especially in challenging conditions."
+    },
+    "challenges": {
+      "fish_strength": "The barbado's violent pull can cause the line to snap or the hook to break if not properly secured.",
+      "misidentification": "The speaker mentions that sometimes the fish caught is a piaba (another species) instead of the target barbado.",
+      "equipment_failure": "The speaker notes that losing the first barbado and subsequent attempts can lead to frustration, but persistence is key.",
+      "environmental_factors": "Strong winds and currents can make casting and retrieving the line more difficult."
+    },
+    "personal_experiences": {
+      "loss_of_fish": "The speaker lost the first barbado due to the line snapping, highlighting the importance of using strong gear.",
+      "friend_experience": "The friend Nathanael lost reels, emphasizing the need for durable equipment and proper technique.",
+      "success_stories": "The speaker eventually caught the barbado after multiple attempts, underscoring the value of persistence and patience."
+    },
+    "additional_notes": {
+      "location_specifics": "The technique is likely used in a river or lake environment, possibly in a region where barbado is common.",
+      "cultural_context": "The use of terms like 'desembarcador' (a dock or landing area) suggests the activity is part of a local fishing culture."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "XGuDgKdvx34",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:00:12.974753",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Embarcação",
+      "Caixa"
+    ],
+    "iscas": [
+      "Isca",
+      "Chicletinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

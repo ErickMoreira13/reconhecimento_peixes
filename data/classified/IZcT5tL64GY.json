@@ -1,0 +1,38 @@
+{
+  "arquivo": "IZcT5tL64GY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:34:50.644672",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Chicote",
+      "Sistema de ceva congelada"
+    ],
+    "iscas": [
+      "Milho artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca com ceva congelada",
+      "Pesca com iscas artificiais"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com ceva",
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "Inovação com sistema de ceva congelada e iscas artificiais de milho"
+    ]
+  }
+}

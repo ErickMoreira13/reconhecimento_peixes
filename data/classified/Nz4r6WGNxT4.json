@@ -1,0 +1,23 @@
+{
+  "arquivo": "Nz4r6WGNxT4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:39:55.242814",
+  "classificacao": {
+    "resumen": "El video muestra una jornada de pesca en la playa, donde el narrador utiliza diferentes cebo (popper y gomitas de Costa Bay) para capturar peces. Destaca la lucha con un ladyfish (peces de la familia Esox), que se muestra difícil de capturar, y la posterior captura de un snook (pez de la familia Centrarchidae). El narrador menciona que el snook fue capturado con el cebo de gomitas, aunque no se logró capturar tantos como se esperaba. Al final, se planea freír los snooks capturados. El video incluye comentarios sobre la experiencia, el entorno (arena, rocas, conchas) y una invitación a suscribirse para más contenido.",
+    "puntos_clave": {
+      "cebos_usados": [
+        "popper",
+        "gomitas de Costa Bay"
+      ],
+      "especies_capturadas": [
+        "ladyfish",
+        "snook"
+      ],
+      "desafíos": "El ladyfish fue difícil de capturar debido a su resistencia.",
+      "resultado": "Se capturó un snook, aunque no se alcanzó el número esperado.",
+      "contexto": "La pesca se realizó en la playa al mediodía, con un entorno de arena, rocas y conchas. El narrador usa botas para evitar cortes en los pies.",
+      "recomendación": "El narrador sugiere suscribirse al canal para más videos de pesca."
+    },
+    "análisis": "El video combina elementos de entretenimiento y educación sobre técnicas de pesca. Destaca la importancia de adaptar el cebo según la especie objetivo (popper para ladyfish, gomitas para snook) y la paciencia requerida al enfrentar peces resistentes. También muestra la cultura local de preparar los peces capturados (freír el snook). El tono es informal y enérgico, típico de contenido de redes sociales."
+  }
+}

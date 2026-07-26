@@ -1,0 +1,21 @@
+{
+  "arquivo": "T1OrzT1Ft8U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:42:48.208598",
+  "classificacao": {
+    "especies": [
+      "Corimbo"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

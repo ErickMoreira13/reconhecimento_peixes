@@ -1,0 +1,25 @@
+{
+  "arquivo": "3KyTOaIAkpI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:10:27.667422",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Deixar o peixe mamar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com linha"
+    ],
+    "observacoes": []
+  }
+}

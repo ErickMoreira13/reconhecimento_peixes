@@ -1,0 +1,26 @@
+{
+  "arquivo": "7Xu0dnW1bbg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:06:45.523351",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamento": [
+      "Varinha de pesca",
+      "Câmera"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca Esportiva",
+    "observacoes": [
+      "Lugar público com muita tilápia, fácil de pescar"
+    ]
+  }
+}

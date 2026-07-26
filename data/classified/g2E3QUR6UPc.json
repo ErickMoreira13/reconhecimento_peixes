@@ -1,0 +1,30 @@
+{
+  "arquivo": "g2E3QUR6UPc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:14:30.991217",
+  "classificacao": {
+    "especies": [
+      "Cocoroto"
+    ],
+    "equipamentos": [
+      "Carretilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com carretilha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca de subsistência"
+    ],
+    "observacoes": [
+      "Preparação das espécies para fritura"
+    ]
+  }
+}

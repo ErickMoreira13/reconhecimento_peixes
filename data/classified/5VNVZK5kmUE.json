@@ -1,0 +1,36 @@
+{
+  "arquivo": "5VNVZK5kmUE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:34:00.155558",
+  "classificacao": {
+    "especies": [
+      "Tubarão"
+    ],
+    "equipamentos": [
+      "rede",
+      "proeiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca de rede",
+      "pesca de barra de peixe"
+    ],
+    "rios": [
+      "Marapatá"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Moazinho",
+    "tipo_pesca": [
+      "pesca de rede",
+      "pesca de barra de peixe"
+    ],
+    "observacoes": [
+      "menção ao tamanho da bolsada (aproximadamente 80 mil)",
+      "localização no Marapatá",
+      "referência ao proeirozinho"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "m5orR-n16tI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:49:14.406645",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Barbicha",
+      "Bocachico",
+      "Candiru"
+    ],
+    "equipamentos": [
+      "Espinhel",
+      "Garrafa PET com areia",
+      "Anzol"
+    ],
+    "iscas": [
+      "Isca de peixe"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com espinhel",
+      "Pesca de fundo"
+    ],
+    "rios": [
+      "Rio Japiim"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Manso Lima",
+    "tipo_pesca": [
+      "Pesca com espinhel",
+      "Pesca de fundo"
+    ],
+    "observacoes": "Observação: O candiru é um peixe que não é consumido devido a uma lenda associada, embora não haja comprovação científica."
+  }
+}

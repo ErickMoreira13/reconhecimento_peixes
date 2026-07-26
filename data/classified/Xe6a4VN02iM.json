@@ -1,0 +1,28 @@
+{
+  "arquivo": "Xe6a4VN02iM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:48:51.638307",
+  "classificacao": {
+    "species": [
+      "Pintado",
+      "Jundia"
+    ],
+    "equipment": [
+      "cana",
+      "boia",
+      "lona",
+      "guarda-sol"
+    ],
+    "baits": [
+      "minhoca"
+    ],
+    "other_items": [
+      "pão",
+      "café",
+      "garrafa de uísque",
+      "fogo",
+      "carne de boi no pau",
+      "boi ralado"
+    ]
+  }
+}

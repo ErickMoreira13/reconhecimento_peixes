@@ -1,0 +1,21 @@
+{
+  "arquivo": "5WPWpLUVt2k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:34:59.196355",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Bacia do Rio São Francisco"
+    ],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

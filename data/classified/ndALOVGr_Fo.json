@@ -1,0 +1,23 @@
+{
+  "arquivo": "ndALOVGr_Fo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:40:34.558386",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Jaguaribe"
+    ],
+    "bacias": [
+      "Açude de Oroz"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

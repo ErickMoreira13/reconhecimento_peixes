@@ -1,0 +1,42 @@
+{
+  "arquivo": "ZnAR6Z_QpCA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:37:43.125241",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "vara",
+      "linha",
+      "líder"
+    ],
+    "iscas": [
+      "isca de superfície",
+      "isca de meia água",
+      "isca de fundo",
+      "isca hard",
+      "plugue",
+      "isca soft",
+      "cauda",
+      "rabo",
+      "perna"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "trabalho rápido da isca",
+      "trabalho cadenciado e lento da isca",
+      "tempo da fisgada",
+      "manuseio inadequado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de traíra"
+    ],
+    "observacoes": []
+  }
+}

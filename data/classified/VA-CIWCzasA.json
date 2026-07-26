@@ -1,0 +1,29 @@
+{
+  "arquivo": "VA-CIWCzasA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:39:00.860209",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Lagartixa"
+    ],
+    "equipamentos": [
+      "embarcação"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "arroz",
+      "feijão"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Maurício"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

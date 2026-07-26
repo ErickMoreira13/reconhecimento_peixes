@@ -1,0 +1,28 @@
+{
+  "arquivo": "CMJnct4EM4s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:45:07.664693",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Borracha"
+    ],
+    "iscas": [
+      "Isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Ação de coelho",
+      "Pesca piaba"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

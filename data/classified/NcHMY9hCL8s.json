@@ -1,0 +1,51 @@
+{
+  "arquivo": "NcHMY9hCL8s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:29:55.887888",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Pirarara",
+      "Dourado",
+      "Tambaqui Dourado"
+    ],
+    "equipamentos": [
+      "Chicote",
+      "Torpedinho",
+      "Pinho",
+      "Chumbada",
+      "Girador",
+      "Anzol",
+      "Tuveira",
+      "Linha",
+      "Supa",
+      "Costura",
+      "Telefone",
+      "WhatsApp"
+    ],
+    "iscas": [
+      "Tu Vira",
+      "Escada",
+      "Fígado de Porco Desidratado",
+      "Tripa de Frango Desidratada",
+      "Tu Vira Desidratada"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Superfície",
+      "Pescaria de Fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "São Paulo",
+    "tipo_pesca": [
+      "Pescaria de Superfície",
+      "Pescaria de Fundo"
+    ],
+    "observacoes": []
+  }
+}

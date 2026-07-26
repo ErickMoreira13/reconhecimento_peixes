@@ -1,0 +1,32 @@
+{
+  "arquivo": "cClWXAfVgTc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:30:55.117245",
+  "classificacao": {
+    "especies": [
+      "Jaú",
+      "Bagre",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Isca",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Telespires"
+    ],
+    "bacias": [
+      "Rio Tapajós"
+    ],
+    "estado": "Pará",
+    "municipio": "Telespires",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "arquivo": "5K3ZfgXiIZk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:15:55.809124",
+  "classificacao": {
+    "summary": "O texto é uma recomendação de um cliente sobre o produto 'farinhada' da Angercal, um alimento para pássaros com alto teor proteico (28%). O cliente destaca a qualidade do produto, a atuação eficiente da empresa (que enviou um substituto com data de validade mais longa após um problema), e recomenda o produto para moradores de Maceió e Lagoas. Ele também compartilha dicas de uso, como misturar com vegetais e oferecer uma vez por semana, e menciona que os pássaros aceitam bem o alimento. O cliente convida outros a comentar para obter informações de contato e facilitar a distribuição do produto.",
+    "key_points": {
+      "product": "Farinhada Angercal (28% proteína)",
+      "benefits": "Alto teor proteico, aceitação pelos pássaros, qualidade do produto",
+      "customer_service": "Empresa resolveu problema com substituição de lote com data de validade mais longa",
+      "target_audience": "Moradores de Maceió e Lagoas",
+      "usage_tips": "Misturar com vegetais, oferecer uma vez por semana",
+      "call_to_action": "Comentar no vídeo para obter informações de contato e facilitar a distribuição"
+    },
+    "language": "Português",
+    "context": "Promoção de produto para pássaros com foco em experiência do cliente e distribuição regional"
+  }
+}

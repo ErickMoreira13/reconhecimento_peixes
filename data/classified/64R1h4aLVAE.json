@@ -1,0 +1,42 @@
+{
+  "arquivo": "64R1h4aLVAE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:36:44.908104",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Pirarucu",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Canoe",
+      "Machete",
+      "Life Jacket"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Throw and Catch",
+      "Canoe Fishing"
+    ],
+    "rios": [
+      "Tapirapé",
+      "Ri ozão"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "Confresa",
+    "tipo_pescaria": [
+      "Canoe Fishing",
+      "Sport Fishing"
+    ],
+    "observacoes": [
+      "Mention of river pollution",
+      "Interaction with indigenous people",
+      "Discussion about fish size and challenges in fishing",
+      "Reference to environmental concerns",
+      "Use of traditional fishing methods"
+    ]
+  }
+}

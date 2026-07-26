@@ -1,0 +1,34 @@
+{
+  "arquivo": "WNyvLREXZlM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:18:07.943541",
+  "classificacao": {
+    "especies": [
+      "Ratão"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Botezinho",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Esportiva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Guarapiraba",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Peixe capturado com sucesso",
+      "Peixe saudável",
+      "Tamanho aproximado de 35 cm",
+      "Peixe foi levado para um morador local"
+    ]
+  }
+}

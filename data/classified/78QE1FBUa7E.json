@@ -1,0 +1,25 @@
+{
+  "arquivo": "78QE1FBUa7E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:01:21.580836",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "maruzego 20"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

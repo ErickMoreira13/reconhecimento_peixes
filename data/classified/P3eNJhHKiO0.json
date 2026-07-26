@@ -1,0 +1,67 @@
+{
+  "arquivo": "P3eNJhHKiO0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:54:01.940984",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piau",
+      "Tilapia",
+      "Traíra",
+      "Piau Açu",
+      "Piau Açuzão",
+      "Piauzinho",
+      "Pialzinho",
+      "Zé Arriscado",
+      "Canivete",
+      "Timbureta"
+    ],
+    "equipamentos": [
+      "Fazendão",
+      "Ponte do Chico dos Santos",
+      "Rio Machado",
+      "Lagoas",
+      "Lago de Furnos",
+      "Boinha",
+      "Vara",
+      "Anzolzinho",
+      "Cristal",
+      "Linha 023",
+      "Bambu"
+    ],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria",
+      "Estouro da Boiada",
+      "Pescaria em si",
+      "Pescaria no Rio",
+      "Pescaria na Lagoa"
+    ],
+    "rios": [
+      "Rio Machado"
+    ],
+    "bacias": [
+      "Lago de Furnos"
+    ],
+    "estado": "Minas Gerais",
+    "municipio": "Alfenas",
+    "tipos_de_pescaria": [
+      "Pescaria",
+      "Pescaria no Rio",
+      "Pescaria na Lagoa"
+    ],
+    "observacoes": [
+      "Mostrar o rio para os espectadores",
+      "Mencionar a preferência pelo estouro da boiada",
+      "Referência ao nível da água no Lago de Furnos",
+      "Encerrar a pescaria no Rio Machado",
+      "Fechar os peixinhos para o estor da boiada",
+      "Levar apenas lambari para a pescaria",
+      "Realizar batidas em lagoas durante a pescaria"
+    ]
+  }
+}

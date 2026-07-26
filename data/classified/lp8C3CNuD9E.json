@@ -1,0 +1,28 @@
+{
+  "arquivo": "lp8C3CNuD9E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:26:08.086450",
+  "classificacao": {
+    "especies": [
+      "Boto"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guatuã"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Balbina, Presidente Figueiredo",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Menciona um incêndio causado por uma fogueirinha",
+      "Preparação de sashimi com gengibre e abacaxi",
+      "Referência a um lago chamado Cedrinho",
+      "Menciona a presença de um boto (peixe-boi)"
+    ]
+  }
+}

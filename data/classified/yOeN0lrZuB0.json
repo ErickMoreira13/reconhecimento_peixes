@@ -1,0 +1,55 @@
+{
+  "arquivo": "yOeN0lrZuB0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:21:44.840856",
+  "classificacao": {
+    "peces": [
+      "Punaré",
+      "Curvinho",
+      "Pintadinho",
+      "Tucunaré",
+      "Traíra",
+      "Piranha",
+      "Lobó"
+    ],
+    "equipos": [
+      "Barco",
+      "Colchão",
+      "Banheirinho",
+      "Marrenta",
+      "DP10",
+      "Tuvira",
+      "Artificial",
+      "Isca-viva",
+      "Espeto",
+      "Churrasqueira",
+      "Tarvão",
+      "Grelinha",
+      "Arapuquinha",
+      "Pauzinho",
+      "Tela"
+    ],
+    "iscas": [
+      "Isca-viva",
+      "Isquinha artificial",
+      "Artificial",
+      "Tuvira"
+    ],
+    "graos": [],
+    "cevas": [],
+    "tecnicas": [
+      "Pesca con isca artificial",
+      "Pesca con isca viva",
+      "Uso de tuvira",
+      "Uso de DP10",
+      "Uso de arapuquinha"
+    ],
+    "rios": [
+      "Rio Bahia"
+    ],
+    "bacias": [],
+    "localidades": [
+      "Rio Bahia"
+    ]
+  }
+}

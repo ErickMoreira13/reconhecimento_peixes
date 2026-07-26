@@ -1,0 +1,25 @@
+{
+  "arquivo": "-NBLw5ioQp0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:39:22.957242",
+  "classificacao": {
+    "especies": [
+      "Lobina"
+    ],
+    "equipamentos": [
+      "Varinha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Murinete"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

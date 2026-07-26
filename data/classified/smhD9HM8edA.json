@@ -1,0 +1,29 @@
+{
+  "arquivo": "smhD9HM8edA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:18:16.368980",
+  "classificacao": {
+    "especies": [
+      "Serra"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Recuperação linear",
+      "Interromper o nado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com artificiais"
+    ],
+    "observacoes": []
+  }
+}

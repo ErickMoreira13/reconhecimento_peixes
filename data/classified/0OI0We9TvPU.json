@@ -1,0 +1,26 @@
+{
+  "arquivo": "0OI0We9TvPU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:26:56.084022",
+  "classificacao": {
+    "species": [
+      "Pira",
+      "Trama"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Freio",
+      "Molinete",
+      "Vara",
+      "Ferrão",
+      "Servadeira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": ""
+  }
+}

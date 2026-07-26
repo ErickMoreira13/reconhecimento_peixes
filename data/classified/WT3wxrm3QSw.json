@@ -1,0 +1,27 @@
+{
+  "arquivo": "WT3wxrm3QSw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:34:56.756843",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Litro"
+    ],
+    "iscas": [
+      "Farinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

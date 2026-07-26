@@ -1,0 +1,29 @@
+{
+  "arquivo": "nc_O1MFTris",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:29:35.443808",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol de Galha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Espera",
+      "Não mexer"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com anzol"
+    ],
+    "observacoes": [
+      "Ajudar um passarinho que caiu do fio",
+      "Pescador usando rancho na beira da água"
+    ]
+  }
+}

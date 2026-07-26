@@ -1,0 +1,46 @@
+{
+  "arquivo": "m513QU-WHF8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:48:58.770923",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Lambari",
+      "Piava",
+      "Piapara",
+      "Passaguá",
+      "Piada",
+      "Baguá",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Barco de madeira",
+      "Remo",
+      "Molinete",
+      "Cevador"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Linha de mão",
+      "Remo",
+      "Pescada"
+    ],
+    "rios": [
+      "Passaguá",
+      "Pataguá"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Peixe grande",
+      "Dificuldade em capturar",
+      "Uso de linha de mão"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "VMk5CpdeNVU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:11:58.516188",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

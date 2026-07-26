@@ -1,0 +1,37 @@
+{
+  "arquivo": "1L6bp3yxhWs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:35:04.023610",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra",
+      "Tucuna",
+      "Curimbo"
+    ],
+    "equipamentos": [
+      "Varinha"
+    ],
+    "iscas": [
+      "Minhocas"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Água do rio suja",
+      "Mata fechada",
+      "Perigo de cobra e jacaré",
+      "Escureceu",
+      "Chão com minhocas",
+      "Tomar banho de repelente"
+    ]
+  }
+}

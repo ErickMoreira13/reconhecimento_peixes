@@ -1,0 +1,36 @@
+{
+  "arquivo": "BksGjrq6Ft8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:17:43.995171",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara de duas partes",
+      "Carretilha Tamar",
+      "Linha de 0,27 mm",
+      "Equipamento Dyson"
+    ],
+    "iscas": [
+      "Frogs",
+      "Crazy Popper"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Ferrada",
+      "Técnica de sapinho",
+      "Variação de técnica"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais",
+      "Pesca em águas abertas"
+    ],
+    "observacoes": "Condições climáticas adversas, dificuldade em capturar peixes devido à vegetação densa, uso de equipamento Dyson e técnicas de lançamento."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "arquivo": "CvGw_uUhr8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T10:46:10.594528",
+  "classificacao": {
+    "especies": [
+      "Minhoquinha"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Arroz"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

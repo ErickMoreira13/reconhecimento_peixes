@@ -1,0 +1,33 @@
+{
+  "arquivo": "c-M1ylX9mIA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:53:39.448025",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Saco de peixe"
+    ],
+    "iscas": [
+      "Quirera",
+      "Arroz"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Quirera",
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Tapirapé"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Porto Alegre do Norte",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

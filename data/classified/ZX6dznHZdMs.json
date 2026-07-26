@@ -1,0 +1,27 @@
+{
+  "arquivo": "ZX6dznHZdMs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:01:18.993973",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Rede",
+      "Linha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com rede"
+    ],
+    "observacoes": [
+      "Nenhum peixe foi capturado durante a pescaria",
+      "O local foi descrito como bonito, mas sem sucesso na pesca"
+    ]
+  }
+}

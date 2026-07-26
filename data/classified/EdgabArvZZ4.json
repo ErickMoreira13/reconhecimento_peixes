@@ -1,0 +1,31 @@
+{
+  "arquivo": "EdgabArvZZ4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:55:14.046377",
+  "classificacao": {
+    "rivers": [
+      "Rio Arenas",
+      "Rio do Peixe",
+      "Rio Arinos"
+    ],
+    "state": "Mato Grosso",
+    "municipality": "Juara",
+    "species": [
+      "Jaú",
+      "Lobó",
+      "Trairão",
+      "Piau",
+      "Lambari",
+      "Pirarara"
+    ],
+    "equipment": [
+      "barcos"
+    ],
+    "iscas": [
+      "chacadeira",
+      "isca"
+    ],
+    "cevas": [],
+    "grãos": []
+  }
+}

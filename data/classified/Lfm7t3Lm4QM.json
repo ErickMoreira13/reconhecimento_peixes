@@ -1,0 +1,34 @@
+{
+  "arquivo": "Lfm7t3Lm4QM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:06:54.057542",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Cabo de aço",
+      "Anzol",
+      "Linha",
+      "Litro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Boia"
+    ],
+    "observacoes": [
+      "Técnica de amarração de nó para evitar quebra da linha",
+      "Uso de linha 0,80 a 0,100 para resistência contra peixes de arrancada"
+    ]
+  }
+}

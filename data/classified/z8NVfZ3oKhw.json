@@ -1,0 +1,81 @@
+{
+  "arquivo": "z8NVfZ3oKhw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:02:24.316546",
+  "classificacao": {
+    "especies": [
+      "Piava",
+      "Dourado",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Apoito",
+      "Vara",
+      "Linhada",
+      "Cevada",
+      "Isca artificial",
+      "Traias",
+      "Pedras",
+      "Caramujo",
+      "Berço"
+    ],
+    "iscas": [
+      "Isca artificial",
+      "Cevada",
+      "Carninha",
+      "Cebola",
+      "Cebolinha",
+      "Tuvira"
+    ],
+    "cevas": [
+      "Cevada",
+      "Carninha",
+      "Cebola",
+      "Cebolinha",
+      "Tuvira"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial",
+      "Pesca com ceva",
+      "Arremesso de isca",
+      "Uso de apoito",
+      "Pesca em profundidade variada",
+      "Uso de linhada",
+      "Pesca em pedras",
+      "Pesca com traias"
+    ],
+    "rios": [
+      "Rio Uruguai",
+      "Rio Machadinho",
+      "Rio Marcelino Ramos",
+      "Rio do Trem",
+      "Rio Bento Gonçalves",
+      "Rio Boca Iuva"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": [
+      "Marcelino Ramos",
+      "Bento Gonçalves",
+      "Boca Iuva"
+    ],
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca com isca artificial",
+      "Pesca com ceva",
+      "Pesca em profundidade variada",
+      "Pesca com traias"
+    ],
+    "observacoes": [
+      "Fraquíssimo de peixe",
+      "Tentamos tudo que foi isca",
+      "Não saiu nada",
+      "Mencionado Brian de Bento Gonçalves",
+      "Mencionado Cauã de Boca Iuva",
+      "Churrasquinhos",
+      "Pintado capturado por Mauro",
+      "Tentativa de captura de Piava e Dourado"
+    ]
+  }
+}

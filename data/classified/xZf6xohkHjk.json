@@ -1,0 +1,33 @@
+{
+  "arquivo": "xZf6xohkHjk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:40:11.583603",
+  "classificacao": {
+    "especies": [
+      "Baírd",
+      "caranguejo real"
+    ],
+    "equipamentos": [
+      "afieira",
+      "barco",
+      "colete salva-vidas",
+      "guindaste",
+      "balsa",
+      "tanque",
+      "cintas",
+      "amarras",
+      "cocho"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [
+      "lançar covos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_de_pesca": "pesca de caranguejo",
+    "observações": "A pesca de Baírd foi retomada após dois anos de interrupção. Houve desafios com uma tempestade que levou à perda de uma balsa e à necessidade de recuperação de equipamentos. O trabalho foi realizado com cuidado devido aos riscos devido ao clima adverso."
+  }
+}

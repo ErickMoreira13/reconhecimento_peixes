@@ -1,0 +1,38 @@
+{
+  "arquivo": "2crpmqgWZFc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:10:05.289519",
+  "classificacao": {
+    "especies": [
+      "Prateada",
+      "Curvina"
+    ],
+    "equipamentos": [
+      "Chumbada",
+      "Linha",
+      "Escada"
+    ],
+    "iscas": [
+      "Isca grande"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Arrasto lateral"
+    ],
+    "rios": [
+      "Itaipuaçu"
+    ],
+    "bacias": [
+      "Pantanal"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Itaipuaçu",
+    "tipo_pesca": [
+      "Arrasto lateral"
+    ],
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "m2Z3fTdPaNc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:37:59.582735",
+  "classificacao": {
+    "especies": [
+      "Tupunaré",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara de 2,70 metros",
+      "Vara Tupuna Pro",
+      "TS-Milt da Tissuna"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesqueiro",
+      "Rio"
+    ],
+    "observacoes": ""
+  }
+}

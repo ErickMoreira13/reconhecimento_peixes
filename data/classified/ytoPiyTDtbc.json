@@ -1,0 +1,39 @@
+{
+  "arquivo": "ytoPiyTDtbc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:29:01.316565",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boia cevadeira",
+      "Fluorocarbono 040",
+      "Girador com snap",
+      "Chicote",
+      "Miçangas",
+      "Ração na pinga",
+      "Alicatinho",
+      "Caixinha com anzóis",
+      "Giradores",
+      "Anzóis",
+      "Chumbadinha",
+      "Chumbada de espiral"
+    ],
+    "iscas": [
+      "Ração na pinga",
+      "Aquamil"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Sistema direitinho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

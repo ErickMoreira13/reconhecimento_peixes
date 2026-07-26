@@ -1,0 +1,34 @@
+{
+  "arquivo": "fC0rrogKZP0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:07:36.483792",
+  "classificacao": {
+    "especies": [
+      "lagosta",
+      "sargo",
+      "pirambu",
+      "carapeba"
+    ],
+    "equipamentos": [
+      "Faca Arbalete 80",
+      "Nadadeira",
+      "GoPro",
+      "neoprene (3mm)",
+      "3kg weight"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "subzinho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

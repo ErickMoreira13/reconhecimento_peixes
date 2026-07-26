@@ -1,0 +1,27 @@
+{
+  "arquivo": "VlnQxD4nzoI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:11:02.310476",
+  "classificacao": {
+    "especies": [
+      "Onça Pintada"
+    ],
+    "equipamentos": [
+      "Câmera"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A onça pintada ficou tranquila e curiosa ao observar o local",
+      "O caseiro estava com medo ao ver a onça tão próxima",
+      "A onça aparentemente estava de barriga cheia"
+    ]
+  }
+}

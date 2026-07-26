@@ -1,0 +1,26 @@
+{
+  "arquivo": "3--rXNuuByA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:42:16.247587",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "vara",
+      "linha",
+      "anzol",
+      "chumbada"
+    ],
+    "iscas": [
+      "bichinho de laranja",
+      "minhoca",
+      "massinha",
+      "ração"
+    ],
+    "cevas": [
+      "ração de coelho",
+      "quirera"
+    ]
+  }
+}

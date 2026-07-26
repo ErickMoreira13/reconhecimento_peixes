@@ -1,0 +1,33 @@
+{
+  "arquivo": "bi4ADICeNt4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:15:11.440019",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Rancho de barrote",
+      "Cipó cambira",
+      "Paineira",
+      "Varejão de guaio",
+      "Tarrafa",
+      "Flecha",
+      "Remos de sucupira"
+    ],
+    "iscas": [
+      "Pinga com sucupira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Método tradicional de pesca caipira"
+    ]
+  }
+}

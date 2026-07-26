@@ -1,0 +1,22 @@
+{
+  "arquivo": "Zu9HaU3Y_8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:47:40.433334",
+  "classificacao": {
+    "species_caught": [
+      "lagosta vermelha",
+      "baiacu caixão"
+    ],
+    "equipment_used": [
+      "cangaia",
+      "manzuar",
+      "surrão"
+    ],
+    "bait_used": [
+      "toco de porco",
+      "coco",
+      "cabeça de bagre"
+    ],
+    "location": "Ceará, Brazil"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "qZ9gvYHNMIA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:40:52.388136",
+  "classificacao": {
+    "especies": [
+      "Amarelo",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "GoPro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

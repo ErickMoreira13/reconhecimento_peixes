@@ -1,0 +1,24 @@
+{
+  "arquivo": "9Oe4UnwflXw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:46:10.432703",
+  "classificacao": {
+    "especies": [
+      "Bicuda"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Amazônica",
+      "Araguaia-Tocantins"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

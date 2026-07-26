@@ -1,0 +1,32 @@
+{
+  "arquivo": "A61xMusfpr8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:07:34.558475",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara",
+      "molinete",
+      "isca artificial",
+      "kit de pesca"
+    ],
+    "iscas": [
+      "isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso",
+      "arremesso longo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca na praia"
+    ],
+    "observacoes": []
+  }
+}

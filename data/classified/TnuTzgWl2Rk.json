@@ -1,0 +1,21 @@
+{
+  "arquivo": "TnuTzgWl2Rk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:10:16.476509",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Mamoré Guajaramirim"
+    ],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

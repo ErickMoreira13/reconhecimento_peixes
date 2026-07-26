@@ -1,0 +1,27 @@
+{
+  "arquivo": "kFbF3R500VI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:37:45.827955",
+  "classificacao": {
+    "especies": [
+      "Jandia"
+    ],
+    "equipamentos": [
+      "vara",
+      "pegador",
+      "alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tapajós"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "São Luís do Tapajós",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

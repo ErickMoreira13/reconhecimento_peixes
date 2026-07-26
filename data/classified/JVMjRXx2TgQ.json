@@ -1,0 +1,32 @@
+{
+  "arquivo": "JVMjRXx2TgQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:19:34.487160",
+  "classificacao": {
+    "especies": [
+      "Piranduba",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara de Bambu",
+      "Linha 090 Trançada",
+      "Chumbo Solto",
+      "Anzol com Empate de Aço",
+      "Alicate"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Vara de Bambu"
+    ],
+    "observacoes": ""
+  }
+}

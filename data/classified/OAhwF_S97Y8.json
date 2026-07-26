@@ -1,0 +1,44 @@
+{
+  "arquivo": "OAhwF_S97Y8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:24:09.139419",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Frog",
+      "Frogzão",
+      "Isquinha de Fundo",
+      "Pedal"
+    ],
+    "iscas": [
+      "Isquinha de Fundo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Remada",
+      "Corredeira",
+      "Frog",
+      "Isquinha de Fundo",
+      "Soltura do Peixe"
+    ],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Serrano",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Poluição afetando a água e os peixes",
+      "Dificuldade no dia de pesca",
+      "Soltura de peixes capturados"
+    ]
+  }
+}

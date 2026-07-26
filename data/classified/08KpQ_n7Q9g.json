@@ -1,0 +1,40 @@
+{
+  "arquivo": "08KpQ_n7Q9g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:58:35.644565",
+  "classificacao": {
+    "especies": [
+      "Juruá",
+      "Piranha",
+      "Piraíba",
+      "Jaú"
+    ],
+    "equipamentos": [
+      "barco",
+      "vara",
+      "linha",
+      "anzol",
+      "ceva"
+    ],
+    "iscas": [
+      "isca fresca"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [
+      "pesca de espera",
+      "arremesso"
+    ],
+    "rios": [
+      "Teles Pires"
+    ],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de espera"
+    ]
+  }
+}

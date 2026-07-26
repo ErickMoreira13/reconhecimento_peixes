@@ -1,0 +1,54 @@
+{
+  "arquivo": "dzmrWarssYw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:33:48.453292",
+  "classificacao": {
+    "especies": [
+      "Ambari",
+      "Dourado",
+      "Manduca",
+      "Piapara",
+      "Lambari",
+      "Curimbo"
+    ],
+    "equipamentos": [
+      "Escarinha",
+      "Espeto",
+      "Carretilha"
+    ],
+    "iscas": [
+      "Linguiça"
+    ],
+    "cevas": [
+      "Lambareço",
+      "Milho"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Artificial",
+      "Lambari",
+      "Pescaria"
+    ],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [
+      "Bacia do Rio Iguaçu"
+    ],
+    "estado": "Pará",
+    "municipio": "Porto Amazonas",
+    "tipos_de_pesca": [
+      "Artificial",
+      "Pescaria",
+      "Lambari"
+    ],
+    "observacoes": [
+      "Dificuldade em capturar os peixes devido à sua agilidade e resistência.",
+      "Peixes escaparam após serem puxados para a superfície.",
+      "Marcas visíveis no gancho após a captura.",
+      "Excitação ao capturar um piapara de grande porte."
+    ]
+  }
+}

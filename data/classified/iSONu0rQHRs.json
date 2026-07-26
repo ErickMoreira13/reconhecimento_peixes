@@ -1,0 +1,29 @@
+{
+  "arquivo": "iSONu0rQHRs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:29:09.593967",
+  "classificacao": {
+    "especies": [
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Foia",
+      "Tarrafa",
+      "Capimora"
+    ],
+    "iscas": [
+      "Sardinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Pindaré"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

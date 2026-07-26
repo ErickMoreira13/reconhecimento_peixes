@@ -1,0 +1,32 @@
+{
+  "arquivo": "GiVhAODxDbU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:51:22.886574",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Pirapitinga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Pasto Alemão",
+      "Mistício"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Pescaria com captura de 2,195 kg de piranha",
+      "Uso de ceva natural de pasto alemão"
+    ]
+  }
+}

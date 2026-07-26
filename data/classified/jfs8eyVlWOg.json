@@ -1,0 +1,16 @@
+{
+  "arquivo": "jfs8eyVlWOg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:59:25.722844",
+  "classificacao": {
+    "summary": "O texto descreve uma competição de pesca entre equipes, com destaque para as equipes Biguatinga (6 pontos) e Martinho Pescador (8 pontos). O evento menciona a captura de um Pacu Burracha, um peixe amazônico, e a tentativa de quebrar um recorde de peso (12,5 kg), que não foi superado, mas foi muito próximo. O competidor Luciano comenta sobre a dificuldade de capturar o Pacu Burracha, enquanto Nicole e outros participantes discutem estratégias e resultados. A competição é organizada pela BGFA (possivelmente uma federação de pesca), e há referências a outras espécies, como o Tucunaré. O clima é informal, com trocas de piadas e orgulho por desempenho.",
+    "additional_info": {
+      "fish_species": {
+        "Pacu Burracha": "Peixe amazônico, conhecido por sua força e tamanho, comumente encontrado em rios da região. O recorde mencionado (12,5 kg) é um marco para competidores.",
+        "Tucunaré": "Espécie de peixe de água doce, popular em competições de pesca por sua resistência e beleza."
+      },
+      "competition_context": "A competição parece ser um evento local ou regional, com participantes que usam termos como 'BGFA' (possivelmente uma sigla para uma federação de pesca) e foco em espécies amazônicas. A linguagem informal sugere que o evento é mais social do que formal, com ênfase em desempenho individual e equipe."
+    },
+    "translation": "The text describes a fishing competition between teams, with the Biguatinga team scoring 6 points and the Martinho Pescador team scoring 8 points. The event mentions the capture of a Pacu Burracha, an Amazonian fish, and an attempt to break a weight record (12.5 kg), which was not surpassed but came very close. Competitor Luciano comments on the difficulty of catching the Pacu Burracha, while Nicole and others discuss strategies and results. The competition is organized by BGFA (possibly an acronym for a Brazilian fishing federation), and references are made to other species, such as the Tucunaré. The tone is informal, with jokes and pride in performance."
+  }
+}

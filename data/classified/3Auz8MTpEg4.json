@@ -1,0 +1,46 @@
+{
+  "arquivo": "3Auz8MTpEg4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:55:24.001547",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "vara",
+      "alicate",
+      "barco",
+      "barraca",
+      "mesa",
+      "ferramentas",
+      "cabo de aço",
+      "corda",
+      "tubulação"
+    ],
+    "iscas": [
+      "farinha",
+      "farinha de mandioca"
+    ],
+    "cevas": [
+      "galão perfurado",
+      "saco de ráfia",
+      "tubulação",
+      "corda",
+      "cabo de aço"
+    ],
+    "local": "Mato Grosso, Sinop",
+    "tempo": [
+      "19h20",
+      "17h30"
+    ],
+    "pescadores": [
+      "Cristiano",
+      "Glória",
+      "Malemar",
+      "Anice",
+      "Chama",
+      "Sousada",
+      "Cristiana"
+    ]
+  }
+}

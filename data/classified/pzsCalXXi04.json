@@ -1,0 +1,16 @@
+{
+  "arquivo": "pzsCalXXi04",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:28:36.198476",
+  "classificacao": {
+    "summary": "O conteúdo é um vídeo de um criador de conteúdo compartilhando sua experiência de pesca. Ele descreve os desafios enfrentados, como a perda de um caso de vara de pesca devido ao vento, e a preparação de uma fogueira para grelhar os peixes capturados. O vídeo inclui interações com o público, menções a produtos (como o faca de Josué) e referências a redes sociais (Instagram e Facebook). O tom é informal e envolve elementos de entretenimento, ensino prático e promoção de produtos.",
+    "possible_needs": [
+      "Resumo do conteúdo",
+      "Tradução do texto",
+      "Dicas para vídeos de pesca",
+      "Explicação de termos específicos",
+      "Apoio para criar conteúdo semelhante"
+    ],
+    "next_steps": "Se você precisar de ajuda com algum desses pontos, por favor, me avise!"
+  }
+}

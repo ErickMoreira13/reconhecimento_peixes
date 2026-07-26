@@ -1,0 +1,34 @@
+{
+  "arquivo": "GmbefaKrBEY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:58:24.216874",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Urucu"
+    ],
+    "equipamentos": [
+      "massa de pão"
+    ],
+    "iscas": [
+      "angu"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Chamar e Agitar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "A isca é feita com pão e água, amassada até ficar com a consistência de massinha"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "nQx7FrMYec4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:23:48.094233",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A lua nova pode dificultar a pesca devido à baixa atividade alimentar dos peixes"
+    ]
+  }
+}

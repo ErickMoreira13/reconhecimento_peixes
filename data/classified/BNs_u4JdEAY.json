@@ -1,0 +1,30 @@
+{
+  "arquivo": "BNs_u4JdEAY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:29:14.939093",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Chicote",
+      "Elástico"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca com elástico"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

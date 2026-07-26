@@ -1,0 +1,26 @@
+{
+  "arquivo": "98bryaz1dP4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:38:32.932308",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piaba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Tarrafada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Rede"
+    ],
+    "observacoes": "Maior quantidade de lambari capturada, mencionando a preparação para fritura com cerveja e limão."
+  }
+}

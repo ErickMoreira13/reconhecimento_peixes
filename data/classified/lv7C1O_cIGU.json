@@ -1,0 +1,25 @@
+{
+  "arquivo": "lv7C1O_cIGU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:58:25.449781",
+  "classificacao": {
+    "especies": [
+      "Matrinxã"
+    ],
+    "equipamentos": [
+      "Roda de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Bacorota"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "W86abKLVATI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:57:08.349909",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Javaé",
+      "Araguaia"
+    ],
+    "bacias": [
+      "Parque Nacional do Araguaia"
+    ],
+    "estado": "Tocantins",
+    "municipio": "Lagoa da Confusão",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": ""
+  }
+}

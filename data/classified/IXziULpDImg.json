@@ -1,0 +1,22 @@
+{
+  "arquivo": "IXziULpDImg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:33:35.560899",
+  "classificacao": {
+    "summary": "O conteúdo é um transcrição de um vídeo ao vivo ou stream sobre pesca, com linguagem informal e interação direta com o público. O locutor, provavelmente um pescador, compartilha experiências no 'Pesqueiro Santo Agostinho', descreve condições climáticas, equipamentos (como a vara 'Virote'), e promove um sorteio via QR code. Há menções a familiares (filhos) e a um colega (Rafa) testando iscas artificiais. O tom é casual, com repetições e pausas, sugerindo um ambiente de entretenimento ao vivo.",
+    "key_points": [
+      "Localização: Pesqueiro Santo Agostinho",
+      "Equipamento mencionado: vara 'Virote'",
+      "Promoção de sorteio via QR code",
+      "Mencões a familiares e colegas",
+      "Descrição de técnicas de pesca e condições climáticas"
+    ],
+    "possible_needs": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise de técnicas de pesca",
+      "Extração de informações para marketing",
+      "Ajuda com edição de vídeo/stream"
+    ]
+  }
+}

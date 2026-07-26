@@ -1,0 +1,22 @@
+{
+  "arquivo": "eqc5j0euehc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:13:09.415881",
+  "classificacao": {
+    "especies": [
+      "Sapanema",
+      "Xibata"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

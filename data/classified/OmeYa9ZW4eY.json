@@ -1,0 +1,41 @@
+{
+  "arquivo": "OmeYa9ZW4eY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:55:53.096788",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Tambaqui",
+      "Piau",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Bolsinha de plástico"
+    ],
+    "iscas": [
+      "Massa de banana, açúcar, farinha de milho e farinha de trigo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Preparo de massa com banana, açúcar, farinha de milho e farinha de trigo",
+      "Armazenamento em bolsa de plástico na geladeira",
+      "Aproveitamento da massa após amadurecimento e acidificação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em águas doce"
+    ],
+    "observacoes": [
+      "A massa deve ser armazenada em bolsa de plástico na geladeira",
+      "A qualidade da massa melhora com o tempo e a acidificação natural",
+      "A farinha de milho pode servir como isca secundária para tilapias"
+    ]
+  }
+}

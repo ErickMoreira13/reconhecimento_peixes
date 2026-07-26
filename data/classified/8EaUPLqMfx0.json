@@ -1,0 +1,31 @@
+{
+  "arquivo": "8EaUPLqMfx0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:13:31.115860",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Girador",
+      "Split Ring",
+      "Fluorocarbon"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Montagem de popper com nó de sete voltas",
+      "Uso de girador para prolongar vida útil da linha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com popper"
+    ],
+    "observacoes": [
+      "O nó utilizado não escapa e aumenta a resistência da linha",
+      "O uso do girador facilita a troca da isca e protege a linha"
+    ]
+  }
+}

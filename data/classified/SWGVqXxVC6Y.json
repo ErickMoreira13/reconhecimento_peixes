@@ -1,0 +1,19 @@
+{
+  "arquivo": "SWGVqXxVC6Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:17:56.557312",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca em um ambiente marinho, com o narrador compartilhando detalhes sobre a técnica utilizada (tarrafa), o ambiente (sargaço, lajeiros, piscinas naturais), os desafios enfrentados (falta de peixe, tentativas de capturar cardumes), e os momentos de sucesso (captura de barbudos, agulhinhas, lagosta). O narrador também reflete sobre a interação com o público e a importância de preservar o ecossistema marinho.",
+    "key_terms": {
+      "tarrafa": "tipo de vara de pesca ou rede",
+      "cardumes": "grupos de peixes",
+      "barbudos": "peixe com barbela",
+      "agulhinhas": "peixes pequenos",
+      "sargaço": "alga marinha",
+      "lajeiros": "áreas rochosas",
+      "piscinas naturais": "poças de água formadas naturalmente",
+      "lagosta": "crustáceo marinho"
+    },
+    "translation": "The text describes a fishing experience in a marine environment, with the narrator sharing details about the technique used (tarrafa), the environment (seaweed, rocky areas, natural pools), the challenges faced (lack of fish, attempts to catch schools), and the moments of success (capture of barbudos, agulhinhas, lobster). The narrator also reflects on the interaction with the audience and the importance of preserving the marine ecosystem."
+  }
+}

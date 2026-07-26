@@ -1,0 +1,17 @@
+{
+  "arquivo": "87VPHy5zZ5A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:10:13.867141",
+  "classificacao": {
+    "summary": "O texto parece ser um registro de gameplay de um jogo de pesca (possivelmente 'Fishing Planet' ou similar), com elementos narrativos, diálogos e descrições de ações. O jogador descreve a captura de peixes (como 'baiacu'), interações com o ambiente (como um centro comercial), e menciona desafios como 'zerar o jogo'. Há repetições, exclamações e referências a elementos humorísticos ou narrativos, como 'peixe com perna' e 'cada jogo vai ser um vídeo'.",
+    "possible_game": "Fishing Planet",
+    "key_elements": [
+      "Captura de peixes (baiacu, peixe com perna)",
+      "Interações com o ambiente (centro comercial)",
+      "Desafios de completar o jogo",
+      "Diálogos e narração do jogador",
+      "Elementos humorísticos e repetitivos"
+    ],
+    "next_steps": "Se você deseja uma tradução, análise detalhada, ou ajuda com conteúdo criativo (como vídeos), me avise para aprimorar a resposta!"
+  }
+}

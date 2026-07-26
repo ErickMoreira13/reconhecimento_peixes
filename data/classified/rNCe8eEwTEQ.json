@@ -1,0 +1,22 @@
+{
+  "arquivo": "rNCe8eEwTEQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:13:47.124699",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

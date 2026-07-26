@@ -1,0 +1,45 @@
+{
+  "arquivo": "Wslh3WFhEc4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:34:00.762906",
+  "classificacao": {
+    "especies": [
+      "Pescada"
+    ],
+    "equipamentos": [
+      "vara",
+      "caniço",
+      "bolsa"
+    ],
+    "iscas": [
+      "peixinho",
+      "artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca viva",
+      "pesca com isca artificial"
+    ],
+    "rios": [
+      "Rio Tapajós"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "Pará",
+    "municipio": "Pindobal",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca recreativa"
+    ],
+    "observacoes": [
+      "pescaria realizada cedo, com uso de peixinho e iscas artificiais",
+      "não houve captura de grandes peixes",
+      "permanência de 15 dias em uma Kombi",
+      "plano de gravar vídeo em Altar do chão"
+    ]
+  }
+}

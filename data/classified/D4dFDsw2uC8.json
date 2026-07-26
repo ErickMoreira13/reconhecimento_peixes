@@ -1,0 +1,33 @@
+{
+  "arquivo": "D4dFDsw2uC8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:40:44.074538",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Zarrabaletada",
+      "Inox",
+      "Câmera"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Subaquática"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Ponta Grossa",
+    "tipo_pesca": [
+      "Pesca Subaquática"
+    ],
+    "observacoes": [
+      "Chuva",
+      "Equipe"
+    ]
+  }
+}

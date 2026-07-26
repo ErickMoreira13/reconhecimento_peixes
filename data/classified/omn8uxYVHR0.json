@@ -1,0 +1,25 @@
+{
+  "arquivo": "omn8uxYVHR0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:56:26.519284",
+  "classificacao": {
+    "fishes": [
+      {
+        "name": "Mandi",
+        "description": "O mandi é um tipo de peixe da família Pimelodidae, conhecido por sua força e tamanho. É comum em rios da América do Sul, especialmente no Brasil. É frequentemente pescado em ambientes de água doce e é valorizado por pescadores por causa da luta que oferece durante a captura."
+      },
+      {
+        "name": "Tilápia",
+        "description": "A tilápia é um peixe de água doce originário da África, amplamente cultivado em todo o mundo, incluindo o Brasil. É conhecida por seu crescimento rápido e sua capacidade de se adaptar a diferentes ambientes. É comumente encontrada em lagos, reservatórios e rios."
+      },
+      {
+        "name": "Bigodon",
+        "description": "O termo 'bigodon' pode ser uma variação regional ou um nome local para um tipo de peixe. Não é um nome científico amplamente reconhecido, mas pode se referir a uma espécie de peixe de água doce, possivelmente um tipo de catfish ou outro peixe de tamanho médio."
+      },
+      {
+        "name": "Barraço",
+        "description": "O 'barraço' pode ser um nome local ou regional para um tipo de peixe, possivelmente um catfish ou outro peixe de água doce. Em algumas regiões, pode se referir a espécies da família Pimelodidae, semelhantes ao mandi, mas com características distintas."
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "n1UMszSoSrA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:21:14.301738",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

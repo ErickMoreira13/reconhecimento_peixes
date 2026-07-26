@@ -1,0 +1,45 @@
+{
+  "arquivo": "hgP-D6I89pE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:34:43.013530",
+  "classificacao": {
+    "especies": [
+      "Ariranha",
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Bote",
+      "Donzol",
+      "Isqueiro",
+      "Palito"
+    ],
+    "iscas": [
+      "Bagrinhos",
+      "Calabresa",
+      "Isca",
+      "Lambarezinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca com calabresa",
+      "Pesca com palito",
+      "Pesca com vara",
+      "Soltação de peixe",
+      "Uso de donzol"
+    ],
+    "rios": [
+      "Rio Miranda"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Miranda",
+    "tipo_pesca": [
+      "Pesca com isca artificial",
+      "Pesca com vara",
+      "Pesca de superfície"
+    ],
+    "observacoes": "O peixe foi inteligente e não pegou a primeira isca. Usou calabresa como isca e soltou o peixe após capturar."
+  }
+}

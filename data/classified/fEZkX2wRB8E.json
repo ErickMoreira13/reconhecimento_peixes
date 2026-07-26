@@ -1,0 +1,40 @@
+{
+  "arquivo": "fEZkX2wRB8E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:10:53.550685",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Piraíba",
+      "Guatazão",
+      "Bicuda"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Anzol",
+      "Celular"
+    ],
+    "iscas": [
+      "Piraíba"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fisgar e Laçar"
+    ],
+    "rios": [
+      "Rio Ariponã"
+    ],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de piraíba como isca. Presença de aves que se alimentam de peixes. Soltação de peixes capturados."
+    ]
+  }
+}

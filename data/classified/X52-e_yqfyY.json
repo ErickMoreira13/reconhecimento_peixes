@@ -1,0 +1,23 @@
+{
+  "arquivo": "X52-e_yqfyY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:21:03.930665",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Lixadeira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lixar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

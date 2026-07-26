@@ -1,0 +1,36 @@
+{
+  "arquivo": "stPQK7iu7yU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:04:12.724669",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra",
+      "Carazão",
+      "Bigode",
+      "Tora",
+      "Minhoquinha"
+    ],
+    "equipamentos": [
+      "Caniços",
+      "Balde",
+      "Anzol"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca viva",
+      "Pesca de espera"
+    ],
+    "rios": [
+      "Riozão",
+      "Corguinho"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": ""
+  }
+}

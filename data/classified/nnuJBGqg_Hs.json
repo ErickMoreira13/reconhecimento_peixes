@@ -1,0 +1,22 @@
+{
+  "arquivo": "nnuJBGqg_Hs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:20:22.125063",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Massinha com banana",
+      "Feromônio"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

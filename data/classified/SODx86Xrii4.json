@@ -1,0 +1,46 @@
+{
+  "arquivo": "SODx86Xrii4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:30:23.827425",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Bagre",
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Varinha de pesca",
+      "Anzol",
+      "Mochila",
+      "Galão perfurado",
+      "Cocho perfurado"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Pesca com ceva",
+      "Pesca em água doce"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce",
+      "Pesca com ceva"
+    ],
+    "observacoes": "Pescaria rendeu com vários bagres e piabas. Tempo de pesca aproximado: 3 horas. Usou cevas naturais e de partículas."
+  }
+}

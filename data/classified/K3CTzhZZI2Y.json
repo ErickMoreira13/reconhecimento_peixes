@@ -1,0 +1,27 @@
+{
+  "arquivo": "K3CTzhZZI2Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:28:18.091824",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca Artificial"
+    ],
+    "observacoes": [
+      "Piranha grande e mais preta"
+    ]
+  }
+}

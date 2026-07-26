@@ -1,0 +1,39 @@
+{
+  "arquivo": "6y-MsPKA7Es",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:53:56.088730",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Chumbinho",
+      "Chicote",
+      "Anzol",
+      "Cabinho de aço",
+      "Barco"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Chicote",
+      "Chumbado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca barata"
+    ],
+    "observacoes": []
+  }
+}

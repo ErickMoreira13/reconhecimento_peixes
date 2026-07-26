@@ -1,0 +1,22 @@
+{
+  "arquivo": "YCzTdeEwLbA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:08:13.532772",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Retudim Murimba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

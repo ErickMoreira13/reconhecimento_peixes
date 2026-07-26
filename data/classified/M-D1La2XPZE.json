@@ -1,0 +1,33 @@
+{
+  "arquivo": "M-D1La2XPZE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:25:46.082279",
+  "classificacao": {
+    "especies": [
+      "Caçari"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Budinete"
+    ],
+    "iscas": [
+      "Budinete"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescaria difícil devido à época quente",
+      "Captura de um caçari de grande tamanho",
+      "Mencionado o uso de uma vara e budinete da marca King Pesce",
+      "Necessidade de inscrição no canal para apoio"
+    ]
+  }
+}

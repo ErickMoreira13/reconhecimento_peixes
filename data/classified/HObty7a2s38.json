@@ -1,0 +1,21 @@
+{
+  "arquivo": "HObty7a2s38",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:05:31.940545",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "tOmiS6sT0Ek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:10:54.022671",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Carretilha",
+      "Varinha de Bambu"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca com Vara de Bambu",
+      "Lançamento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em Rio"
+    ],
+    "observacoes": []
+  }
+}

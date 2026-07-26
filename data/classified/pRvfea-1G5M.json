@@ -1,0 +1,25 @@
+{
+  "arquivo": "pRvfea-1G5M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:18:55.650949",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Monjolo",
+      "Amoeira"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Aquarim"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

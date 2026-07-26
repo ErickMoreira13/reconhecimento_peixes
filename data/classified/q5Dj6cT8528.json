@@ -1,0 +1,27 @@
+{
+  "arquivo": "q5Dj6cT8528",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:32:50.719095",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "arpão",
+      "borrachas",
+      "seta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arpão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com arpão"
+    ],
+    "observacoes": []
+  }
+}

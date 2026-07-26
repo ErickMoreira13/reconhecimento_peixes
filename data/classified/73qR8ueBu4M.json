@@ -1,0 +1,42 @@
+{
+  "arquivo": "73qR8ueBu4M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:14:42.872181",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Piracanjuba"
+    ],
+    "equipamentos": [
+      "Anzol castroado",
+      "Empate de aço"
+    ],
+    "iscas": [
+      "Milho cozido"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Iscagem correta do milho"
+    ],
+    "rios": [
+      "Paranazão"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Importância de iscar o milho corretamente para evitar sujeira e expor o anzol",
+      "Uso de galão perfurado para ceva de partículas",
+      "Mudanças nas condições do rio afetam a pesca"
+    ]
+  }
+}

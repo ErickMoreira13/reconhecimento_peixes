@@ -1,0 +1,26 @@
+{
+  "arquivo": "XAKQQ-SMc6A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:42:51.227187",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Piau"
+    ],
+    "observacoes": [
+      "Áudio do vídeo desativado devido ao barulho da água",
+      "Menciona a ausência de um item em todos os vídeos, pedindo aos espectadores que identifiquem o que está faltando"
+    ]
+  }
+}

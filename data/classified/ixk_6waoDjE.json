@@ -1,0 +1,37 @@
+{
+  "arquivo": "ixk_6waoDjE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:32:48.733215",
+  "classificacao": {
+    "especies": [
+      "pacu",
+      "piau",
+      "jacaré"
+    ],
+    "equipamentos": [
+      "vara armada",
+      "copinho",
+      "chicote",
+      "chumbada",
+      "agulha",
+      "anzol",
+      "anzol moriguem chinu"
+    ],
+    "iscas": [
+      "caranguejo",
+      "salsicha",
+      "calabresa",
+      "minhoca"
+    ],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva de Proteína"
+    ],
+    "rios": [
+      "Rio Feio"
+    ],
+    "localizações": [
+      "Badagaia"
+    ]
+  }
+}

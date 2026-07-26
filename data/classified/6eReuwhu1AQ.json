@@ -1,0 +1,21 @@
+{
+  "arquivo": "6eReuwhu1AQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T01:00:04.041269",
+  "classificacao": {
+    "summary": "O texto é um monólogo em português, provavelmente de um vídeo de canal de YouTube, onde o narrador compartilha uma experiência pessoal de pesca e culinária. Ele descreve o processo de preparar um caldo com piau (um tipo de peixe), menciona ingredientes como ovos e arroz, e fala sobre a dificuldade de andar com os pés doloridos após a pesca. O narrador também menciona o uso de equipamentos de pesca, o ambiente onde está pescando e pede que o público se inscreva no canal e curta o vídeo. Há elementos de autenticidade, como referências a um vídeo sendo feito e interação direta com o público ('Seus meninos').",
+    "key_points": [
+      "Preparação de um caldo com piau, ovos e arroz.",
+      "Experiência pessoal de pesca, incluindo desafios físicos (pés doloridos).",
+      "Menciona o uso de equipamentos de pesca e o ambiente de pesca.",
+      "Interação com o público e promoção do canal de YouTube.",
+      "Estilo informal e coloquial, com elementos de vlog e tutorial."
+    ],
+    "possible_requests": [
+      "Resumo do conteúdo do vídeo.",
+      "Tradução do texto para outro idioma.",
+      "Análise do estilo de comunicação do narrador.",
+      "Dicas de culinária ou pesca baseadas no conteúdo."
+    ]
+  }
+}

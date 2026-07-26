@@ -1,0 +1,30 @@
+{
+  "arquivo": "ev1UKU4oFUY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:52:50.899890",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara",
+      "anzol",
+      "isca artificial"
+    ],
+    "iscas": [
+      "isca artificial",
+      "peixinho"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [
+      "pesca com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca artificial"
+    ],
+    "observações": "Menciona a utilização de isca artificial e um peixinho como isca, mas não especifica o nome do rio ou bacia hidrográfica. A localização mencionada é 'ponte da cachoeira', que parece ser um ponto de referência próximo à cachoeira, mas não o nome do rio."
+  }
+}

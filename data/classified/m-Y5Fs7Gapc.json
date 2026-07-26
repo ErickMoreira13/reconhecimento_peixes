@@ -1,0 +1,39 @@
+{
+  "arquivo": "m-Y5Fs7Gapc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:38:22.540140",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Piranha",
+      "Ararizinho",
+      "Bicudinho"
+    ],
+    "equipamentos": [
+      "Ponte de vara",
+      "Linha",
+      "Rede",
+      "Maia"
+    ],
+    "isca": [
+      "Popoca"
+    ],
+    "local": [
+      "Rio Jatapu",
+      "Lago"
+    ],
+    "guia": [
+      "Zezinho"
+    ],
+    "peixe": [
+      "Tucunaré",
+      "Piranha",
+      "Ararizinho",
+      "Bicudinho"
+    ],
+    "outros_termos": [
+      "Rede estalhada",
+      "Malhadeira"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "nfdZM2NuWhY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:01:00.901083",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Amarelão"
+    ],
+    "equipamentos": [
+      "Draga",
+      "Machado"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

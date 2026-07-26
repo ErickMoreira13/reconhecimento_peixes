@@ -1,0 +1,35 @@
+{
+  "arquivo": "fqtI8OOppIQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:43:18.355426",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pirapara",
+      "Piassu",
+      "Pacu",
+      "Piracanjuba"
+    ],
+    "equipamentos": [
+      "Vaso"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Esca de Milho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

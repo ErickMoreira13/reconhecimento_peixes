@@ -1,0 +1,22 @@
+{
+  "arquivo": "gntUXrjDfLM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:11:21.838729",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "alicate",
+      "vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

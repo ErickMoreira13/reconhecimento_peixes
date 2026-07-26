@@ -1,0 +1,22 @@
+{
+  "arquivo": "y8Z1dDawQ48",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:55:32.682322",
+  "classificacao": {
+    "summary": "O texto descreve uma sequência de eventos de uma pescaria em Fortin, no Brasil, com o personagem Naldo tentando capturar um grande peixe (carapitanga) em uma praia chamada Praia das Agulhas. A narrativa inclui desafios como a linha presa em rochas, a luta contra o peixe, e a frustração ao ver o animal escapar. Há interações com outros personagens, como Sales, e referências a técnicas de pesca. O vídeo termina com uma saudação de Ano Novo (2026) e agradecimentos ao público. O contexto sugere que o conteúdo é parte de um canal de vídeo, possivelmente de entretenimento ou educação sobre pesca.",
+    "key_points": [
+      "Pescaria de carapitanga em Praia das Agulhas, Fortin",
+      "Conflito entre Naldo e o peixe, com a linha presa em rochas",
+      "Presença de Sales e outros personagens",
+      "Saudação de Ano Novo (2026) no final",
+      "Contexto de um canal de vídeo com interação com o público"
+    ],
+    "possible_requests": [
+      "Resumo detalhado da narrativa",
+      "Tradução de partes específicas do texto",
+      "Análise cultural ou contextual da pescaria",
+      "Explicação de termos técnicos de pesca",
+      "Estrutura do vídeo e seu propósito (entretenimento, educação, etc.)"
+    ]
+  }
+}

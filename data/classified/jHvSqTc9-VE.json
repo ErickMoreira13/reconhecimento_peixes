@@ -1,0 +1,17 @@
+{
+  "arquivo": "jHvSqTc9-VE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:03:16.158669",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca no Rio Doce, com Sérgio, Delano, Raí e outros participantes. Eles usam equipamentos como linha de fluorocarbono, iscas suspensas e técnicas de pesca. Há excitação com a captura de peixes, medidos com uma régua, e interações sociais, como elogios e celebrações. O clima muda com a chuva, mas a equipe continua com a pesca. O conteúdo inclui detalhes sobre equipamentos (ex: linha MX Pesca), técnicas e o ambiente de pesca no rio.",
+    "possible_topics": [
+      "Especies de peixes capturados",
+      "Técnicas de pesca usadas",
+      "Equipamentos mencionados",
+      "Contexto do Rio Doce",
+      "Interações sociais entre os pescadores",
+      "Impacto da chuva na pesca"
+    ],
+    "next_steps": "Se quiser, posso detalhar sobre os tipos de peixes, explicar a técnica de isca suspensa, ou analisar o uso do fluorocarbono. Também posso ajudar a identificar espécies com base nas descrições."
+  }
+}

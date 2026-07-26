@@ -1,0 +1,47 @@
+{
+  "arquivo": "76K0HrgNoN8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:16:10.234028",
+  "classificacao": {
+    "especies": [
+      "Arraia",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Armadilhas",
+      "Cabo 4",
+      "Corda Grossa",
+      "Espinhel",
+      "Madeira",
+      "Anzóis",
+      "Marcação Anzó 14"
+    ],
+    "iscas": [
+      "Grudo",
+      "Isca",
+      "Pernada de Polvo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Apastar",
+      "Pesca de Espinhel"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "Paracuru",
+    "tipo_pesca": [
+      "Pesca de Arraias",
+      "Pesca de Espinhel"
+    ],
+    "observacoes": [
+      "250 reais",
+      "Abraço",
+      "Cozinhar",
+      "Comentário",
+      "Like",
+      "Refrigerante"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "G8ufUb_N-eE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:27:01.670564",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Fisga",
+      "Peixeira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com fisga"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Água suja",
+      "Perda de duas traíras",
+      "Captura de duas traíras"
+    ]
+  }
+}

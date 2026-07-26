@@ -1,0 +1,30 @@
+{
+  "arquivo": "WYO4ltbq7X4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:06:20.352920",
+  "classificacao": {
+    "especies": [
+      "Salsicha"
+    ],
+    "equipamentos": [
+      "Canudinho"
+    ],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A salsicha foi adaptada para flutuar após a aplicação da ceva"
+    ]
+  }
+}

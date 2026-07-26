@@ -1,0 +1,24 @@
+{
+  "arquivo": "hcN0RgV8zSY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:58:26.358225",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caixa",
+      "munição 22"
+    ],
+    "iscas": [
+      "munição 22"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

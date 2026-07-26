@@ -1,0 +1,34 @@
+{
+  "arquivo": "2oAKZ9f42Xg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:35:11.271861",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Garrafa perfurada"
+    ],
+    "iscas": [
+      "Ração de coelho",
+      "Ralão de coco babassu"
+    ],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "JttLBxlA0P4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:17:43.930163",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A tilápia pode ter gosto de terra devido à reutilização da água por criadores, que pode conter microorganismos e bactérias. Na região do narrador, a tilápia geralmente não tem esse gosto, e apenas uma vez em seis anos ele encontrou uma tilápia com gosto de terra."
+    ]
+  }
+}

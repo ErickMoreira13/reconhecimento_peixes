@@ -1,0 +1,39 @@
+{
+  "arquivo": "pzq_ebj7-Hs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:28:25.157138",
+  "classificacao": {
+    "especies": [
+      "Truta Arco-Íris"
+    ],
+    "equipamentos": [
+      "Roupa Impermeável",
+      "Sapato de Feltro",
+      "Termômetro",
+      "Guarda-Chuva"
+    ],
+    "iscas": [
+      "Mosca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Mosca"
+    ],
+    "rios": [
+      "Rio Caveiras"
+    ],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Lages",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Água fria e limpa",
+      "Uso de termômetro para verificar temperatura da água",
+      "Desafio da pesca na chuva",
+      "Experiência de capturar uma truta de tamanho acima da média"
+    ]
+  }
+}

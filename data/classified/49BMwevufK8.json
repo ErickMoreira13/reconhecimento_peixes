@@ -1,0 +1,36 @@
+{
+  "arquivo": "49BMwevufK8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:32:34.386144",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Vara Intergrim Rubi 17 libras",
+      "Carretilha customizada",
+      "Linha multifilamento Intergrim 60 libras",
+      "Chicote de Fluor 080",
+      "Anzol Circo Hook 5 barra 0"
+    ],
+    "iscas": [
+      "Sardinha"
+    ],
+    "cevas": [
+      "Ceva Aromática: Açúcar",
+      "Ceva Natural: Paca"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com isca viva",
+      "Uso de elétrico para distanciar a isca"
+    ],
+    "rios": [
+      "Rio Branco"
+    ],
+    "bacias": [
+      "Lago do Maú"
+    ],
+    "estado": "Roraima"
+  }
+}

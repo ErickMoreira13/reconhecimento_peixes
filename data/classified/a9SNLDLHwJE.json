@@ -1,0 +1,21 @@
+{
+  "arquivo": "a9SNLDLHwJE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:09:42.641435",
+  "classificacao": {
+    "summary": {
+      "content": "The text is a first-person fishing log describing a successful fishing session. The narrator details the use of a fishing rod, the effectiveness of bait (worms and shrimp), and the types of fish caught (paratigato, betara, pampinha). It emphasizes the importance of tide conditions and timing, noting that certain fish are more active during specific periods. The tone is enthusiastic and informative, likely aimed at a YouTube audience. The narrator also encourages viewers to watch other videos for more tips.",
+      "key_points": [
+        "Use of a fishing rod and bait (worms, shrimp) for catching fish.",
+        "Fish species caught: paratigato, betara, pampinha.",
+        "Importance of tide timing and fish activity patterns.",
+        "Call to action for viewers to watch other videos."
+      ]
+    },
+    "analysis": {
+      "target_audience": "Beginners and enthusiasts interested in fishing techniques and species-specific strategies.",
+      "content_purpose": "To share practical fishing tips, highlight successful methods, and engage viewers with a call to action for further content.",
+      "tone": "Informative, enthusiastic, and community-oriented."
+    }
+  }
+}

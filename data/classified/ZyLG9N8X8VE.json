@@ -1,0 +1,26 @@
+{
+  "arquivo": "ZyLG9N8X8VE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:03:19.316405",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Garrafa"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com ceva"
+    ],
+    "observacoes": []
+  }
+}

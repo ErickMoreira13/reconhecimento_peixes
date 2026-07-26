@@ -1,0 +1,31 @@
+{
+  "arquivo": "DDJWBXsslGI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:48:34.997850",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Boia"
+    ],
+    "iscas": [
+      "Açaí"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Marajai"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "navalha nas costas"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "arquivo": "PRWWoc7YVh0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:19:25.635910",
+  "classificacao": {
+    "especies": [
+      "Pescada Amarela",
+      "Roubala",
+      "Passaguá",
+      "Jumenta"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha de Multifilamento",
+      "Balo",
+      "Passaguá"
+    ],
+    "iscas": [
+      "Passaguá"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pescada",
+      "Solta o Peixe",
+      "Puxa a Linha"
+    ],
+    "rios": [
+      "Rio Jaguaribe"
+    ],
+    "bacias": [
+      "Bacia do Jaguaribe"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

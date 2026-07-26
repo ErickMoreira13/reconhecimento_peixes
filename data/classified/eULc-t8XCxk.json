@@ -1,0 +1,37 @@
+{
+  "arquivo": "eULc-t8XCxk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T08:49:12.268450",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Lancha",
+      "GoPro",
+      "Drone"
+    ],
+    "iscas": [
+      "Artificial",
+      "Cachorra"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Correnteza forte",
+      "Uso de GoPro para filmagem",
+      "Terreno escorregadio",
+      "Pescaria em local com queda d'água"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "arquivo": "dIzDF1u17jI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T08:21:18.399345",
+  "classificacao": {
+    "species": [
+      "Dourado",
+      "Pintado",
+      "Piava",
+      "Tuvira",
+      "Sapateia",
+      "Pupai"
+    ],
+    "equipment": [
+      "Canivete",
+      "Alicate",
+      "Anjal",
+      "Chumbo",
+      "Fio",
+      "Barcaça",
+      "Caiaque",
+      "Óculos Polarizado",
+      "Reboque"
+    ],
+    "baits": [
+      "Isca de Milho",
+      "Isca de Soja",
+      "Isca de Trigo",
+      "Isca de Arroz",
+      "Isca de Quirera",
+      "Isca de Canjica"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Milho",
+        "Soja",
+        "Trigo",
+        "Arroz",
+        "Quirera",
+        "Canjica"
+      ],
+      "Ceva Proteica": [
+        "Ração",
+        "Farinha de Peixe",
+        "Farelo de Soja"
+      ],
+      "Ceva Aromática": [
+        "Mel",
+        "Açúcar",
+        "Essências"
+      ],
+      "Ceva de Partículas": [
+        "Galões Perfurados",
+        "Sacos Furados"
+      ]
+    },
+    "grains": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Feijão",
+      "Amendoim",
+      "Girassol",
+      "Alpiste",
+      "Linhaça"
+    ],
+    "techniques": [
+      "Arremesso",
+      "Rebocar",
+      "Soltura",
+      "Filmar",
+      "Pesca com Isca Artificial",
+      "Pesca com Isca Natural",
+      "Pesca com Ceva",
+      "Pesca com Ceva de Partículas",
+      "Pesca com Ceva Proteica",
+      "Pesca com Ceva Aromática"
+    ],
+    "rivers": [
+      "Rio Taquari"
+    ],
+    "basins": [],
+    "state": "Rio Grande do Sul",
+    "municipality": "Taquari",
+    "type_of_fishing": [
+      "Pesca Esportiva",
+      "Pesca com Isca Artificial",
+      "Pesca com Isca Natural",
+      "Pesca com Ceva",
+      "Pesca com Ceva de Partículas",
+      "Pesca com Ceva Proteica",
+      "Pesca com Ceva Aromática"
+    ],
+    "observations": [
+      "Prática de soltura de peixes para preservação do ecossistema.",
+      "Uso de óculos polarizados para melhor visão subaquática.",
+      "Importância da conservação do Rio Taquari e de suas espécies.",
+      "Excitação e desafio do pescador ao capturar espécies como dourado e pintado.",
+      "Uso de técnicas variadas, como arremesso e rebocar, para diferentes condições de pesca."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "6uo4UZelzMg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:42:47.980876",
+  "classificacao": {
+    "especies": [
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Varinha Speedfish",
+      "Mulete Ultralight",
+      "Garateia",
+      "Boinha"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Tainha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

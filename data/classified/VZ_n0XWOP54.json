@@ -1,0 +1,8 @@
+{
+  "arquivo": "VZ_n0XWOP54",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:31:42.879757",
+  "classificacao": {
+    "error": "O usuário forneceu um texto longo em português, mas não especificou uma pergunta ou solicitação clara. Para ajudar de maneira eficaz, preciso saber o que você deseja: resumir o conteúdo, traduzi-lo, obter sugestões para o vídeo, ou algo específico relacionado ao script? Por favor, esclareça sua necessidade."
+  }
+}

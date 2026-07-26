@@ -1,0 +1,30 @@
+{
+  "arquivo": "NKiivKhqx9Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:15:52.872004",
+  "classificacao": {
+    "especies": [
+      "pintado"
+    ],
+    "equipamentos": [
+      "colete",
+      "barco",
+      "ferramenta de trabalho"
+    ],
+    "iscas": [
+      "isca de fundo",
+      "Thunder",
+      "charutada"
+    ],
+    "metodos": [
+      "pescando com isca de fundo"
+    ],
+    "local": "Rio Miranda",
+    "tempo": "segunda",
+    "observacoes": [
+      "pescando um pintado de grande porte",
+      "luta intensa com o barco se movendo",
+      "libertação do peixe após a captura"
+    ]
+  }
+}

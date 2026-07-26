@@ -1,0 +1,66 @@
+{
+  "arquivo": "YRko51sN2-A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:26:58.277864",
+  "classificacao": {
+    "especies": [
+      "bagre",
+      "pescadinha",
+      "ostra",
+      "caranguejo",
+      "peixe",
+      "pema",
+      "navalha"
+    ],
+    "equipamentos": [
+      "barco",
+      "canoide",
+      "caiaco",
+      "vara",
+      "alicate",
+      "câmera",
+      "fogo",
+      "bode da farinha",
+      "saco"
+    ],
+    "iscas": [
+      "zisca viva",
+      "isca",
+      "isca todinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "batendo de fundo",
+      "recolhinho",
+      "esperar a maré baixar",
+      "fazer um sapeca"
+    ],
+    "rios": [
+      "Rio",
+      "Delta do Parnaíba"
+    ],
+    "bacias": [
+      "Delta do Parnaíba"
+    ],
+    "estado": [
+      "Piauí",
+      "Maranhão"
+    ],
+    "municipio": [
+      "Tutóia"
+    ],
+    "experiencias": [
+      "experiênciazinha top"
+    ],
+    "aventuras": [
+      "aventura surreal"
+    ],
+    "prêmios": [
+      "dois caiates a pedal"
+    ],
+    "rifa": [
+      "rifa"
+    ]
+  }
+}

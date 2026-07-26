@@ -1,0 +1,30 @@
+{
+  "arquivo": "6nYPEV5WqiA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:39:01.876151",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Covos",
+      "Barco",
+      "Guindaste",
+      "Potes de isca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo de pesca": "Pesca de caranguejo",
+    "observacoes": [
+      "Aproximação de uma tempestade e um super tufão",
+      "Dificuldades com a equipe devido à tempestade",
+      "Lesão de Kevin (membro da equipe)",
+      "Inserção de um novo membro da equipe",
+      "Condições adversas no barco (ex.: vento forte, mar agitado)"
+    ]
+  }
+}

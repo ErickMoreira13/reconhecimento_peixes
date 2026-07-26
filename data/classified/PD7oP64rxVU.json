@@ -1,0 +1,25 @@
+{
+  "arquivo": "PD7oP64rxVU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:02:19.632090",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Celular"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio São Francisco"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Encontro com o caboclo d'água e gravação com celular"
+    ]
+  }
+}

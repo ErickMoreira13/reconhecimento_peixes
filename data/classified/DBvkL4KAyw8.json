@@ -1,0 +1,26 @@
+{
+  "arquivo": "DBvkL4KAyw8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:46:36.283589",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "cevas": [],
+    "bacias": [
+      "bacia hidrográfica do Rio Uruguai"
+    ],
+    "regras": [
+      "Proibição de pesca durante a piracema (período de reprodução dos peixes)",
+      "Limitação de peso por pescador: 5 kg de peixe por dia",
+      "Proibição de uso de garaté, espiel, rede e tarrafa",
+      "Obrigatório possuir a carteirinha de pescador amador",
+      "Proibição de pesca em áreas protegidas da bacia hidrográfica do Rio Uruguai"
+    ],
+    "carteirinha": [
+      "carteirinha de pescador amador"
+    ],
+    "estados": [
+      "Rio Grande do Sul"
+    ]
+  }
+}

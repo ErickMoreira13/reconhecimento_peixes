@@ -1,0 +1,38 @@
+{
+  "arquivo": "XSiLy5Dy4S0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:22:15.065363",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Chumbada",
+      "Miçanga",
+      "Girador",
+      "Nó de Estrangulamento",
+      "Castor",
+      "Anzol 2 ou 3 Barra 0"
+    ],
+    "iscas": [
+      "Filé de Tilápia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Noturna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Noturna",
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Comente qual o maior peixe noturno que você já conhece."
+    ]
+  }
+}

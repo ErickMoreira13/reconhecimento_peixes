@@ -1,0 +1,32 @@
+{
+  "arquivo": "4FLjrjZRe0Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:36:48.708228",
+  "classificacao": {
+    "especies": [
+      "Mandi"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Esporões"
+    ],
+    "iscas": [
+      "Isca de raia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Gurguéia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em rio"
+    ],
+    "observacoes": [
+      "Tanque burde está cheio de isca de raia"
+    ]
+  }
+}

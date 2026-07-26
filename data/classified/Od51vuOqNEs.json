@@ -1,0 +1,39 @@
+{
+  "arquivo": "Od51vuOqNEs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:27:23.477457",
+  "classificacao": {
+    "especies": [
+      "xarel",
+      "tapon",
+      "camurupim"
+    ],
+    "equipamentos": [
+      "telegrama",
+      "chumbada"
+    ],
+    "iscas": [
+      "assaú",
+      "sardinha",
+      "coró"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca viva",
+      "uso de telegrama"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio Grande do Norte",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca viva"
+    ],
+    "observacoes": [
+      "o telegrama permite lançamentos longos com isca viva",
+      "uso de iscas vivas como assaú, sardinha e coró",
+      "vídeo parte de uma série com testes futuros"
+    ]
+  }
+}

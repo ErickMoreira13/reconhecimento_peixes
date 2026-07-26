@@ -1,0 +1,23 @@
+{
+  "arquivo": "VwUBB-Bo408",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:29:05.017295",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Represa"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Santander",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

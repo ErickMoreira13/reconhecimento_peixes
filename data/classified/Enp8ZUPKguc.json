@@ -1,0 +1,27 @@
+{
+  "arquivo": "Enp8ZUPKguc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:09:51.510264",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Patinga"
+    ],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Bastos",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

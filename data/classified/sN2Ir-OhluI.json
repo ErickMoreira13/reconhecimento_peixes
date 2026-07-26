@@ -1,0 +1,15 @@
+{
+  "arquivo": "sN2Ir-OhluI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:28:14.961477",
+  "classificacao": {
+    "species": "robalo",
+    "equipment": "caiaque",
+    "baits": [
+      "camarão vivo",
+      "camarão artificial"
+    ],
+    "location": "Barra da Lagoa, Florianópolis, Santa Catarina",
+    "state": "Santa Catarina"
+  }
+}

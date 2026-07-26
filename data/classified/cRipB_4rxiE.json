@@ -1,0 +1,25 @@
+{
+  "arquivo": "cRipB_4rxiE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:52:19.017194",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "cuba"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "Porto Velho",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "n8E4G6KdZE8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:24:47.051829",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "ferramenta"
+    ],
+    "iscas": [
+      "minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "técnica de minhoca com vibração de chuva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "testando a técnica de minhoca com toco e encontrando duas minhocas após 15 minutos"
+    ]
+  }
+}

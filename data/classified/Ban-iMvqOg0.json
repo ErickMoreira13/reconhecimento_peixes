@@ -1,0 +1,17 @@
+{
+  "arquivo": "Ban-iMvqOg0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:48:12.884937",
+  "classificacao": {
+    "summary": "El texto describe una experiencia de pesca donde el narrador captura un pez grande usando un anzuelo pequeño, un carrete Sharky 3000, una varita de fibra de vidrio y una lombriz. Menciona un concurso de pesca, un problema con el anzuelo que se rompe, y dificultades al manejar el pez. También hay una referencia a un teléfono que cae al agua y a un bagrecito (pequeño bagre) que se escapa.",
+    "fishing_terms": {
+      "anzuelo": "Herramienta con punta afilada para atrapar peces.",
+      "carrete": "Dispositivo en la varita para enrollar la cuerda.",
+      "varita": "Palanca usada para lanzar y controlar la línea.",
+      "plomito": "Peso que ayuda a hundir el anzuelo.",
+      "lombriz": "Cebo común en pesca.",
+      "bagrecito": "Pequeño bagre, un tipo de pez."
+    },
+    "advice": "Para pescar peces grandes con anzuelos pequeños, asegúrate de usar equipo resistente. Si el anzuelo se rompe, considera usar uno más robusto. En competencias, maneja el pez con cuidado para evitar daños. Si el teléfono cae al agua, actúa rápidamente para recuperarlo y protegerlo del agua."
+  }
+}

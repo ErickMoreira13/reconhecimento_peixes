@@ -1,0 +1,30 @@
+{
+  "arquivo": "k5AvmiutOHQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:40:06.271258",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Isca mágica"
+    ],
+    "iscas": [
+      "Isca mágica"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Açude abandonado",
+      "Dificuldade em capturar traíras",
+      "Necessidade de anzol melhor"
+    ]
+  }
+}

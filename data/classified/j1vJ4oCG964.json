@@ -1,0 +1,25 @@
+{
+  "arquivo": "j1vJ4oCG964",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:37:33.433714",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Frito"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Frito"
+    ],
+    "observacoes": []
+  }
+}

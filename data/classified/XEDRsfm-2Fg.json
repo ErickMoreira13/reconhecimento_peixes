@@ -1,0 +1,40 @@
+{
+  "arquivo": "XEDRsfm-2Fg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:49:20.972097",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "GoPro",
+      "carretilha",
+      "T20",
+      "câmera",
+      "alicate"
+    ],
+    "iscas": [
+      "T20"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "lançamento",
+      "uso de isca artificial"
+    ],
+    "rios": [
+      "Rio Aracá"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "peixe de 14 libras",
+      "tamanho de 66 centímetros",
+      "solto após captura"
+    ]
+  }
+}

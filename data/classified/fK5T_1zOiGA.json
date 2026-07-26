@@ -1,0 +1,38 @@
+{
+  "arquivo": "fK5T_1zOiGA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:26:19.960256",
+  "classificacao": {
+    "summary": "O vídeo apresenta uma receita de camarão envolto em bacon, frito, e um prato de massa feito com o caldo restante do camarão. O anfitrião também envia cumprimentos a várias pessoas no final do vídeo.",
+    "recipe": {
+      "ingredients": [
+        "camarão",
+        "bacon",
+        "cebola",
+        "alho",
+        "azeite",
+        "sal",
+        "pimenta",
+        "massa",
+        "molho de tomate",
+        "manjericão",
+        "queijo parmesão ralado"
+      ],
+      "steps": [
+        "Cortar o bacon em pedaços e fritar até dourar.",
+        "Refogar cebola e alho em azeite.",
+        "Adicionar o camarão e cozinhar até ficar cozido.",
+        "Envolver o camarão com o bacon frito.",
+        "Cozinhar a massa em água com sal.",
+        "Preparar o molho de tomate com manjericão e queijo parmesão.",
+        "Servir o camarão com o molho e a massa."
+      ],
+      "social_media": [
+        "Cumprimentos para a família",
+        "Mensagem para amigos",
+        "Agradecimento aos espectadores"
+      ]
+    },
+    "additional_notes": "O vídeo inclui uma demonstração prática da preparação, com dicas de cozinha e interação com o público."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "HDQCRQuQZX8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:10:06.854949",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Bitelão",
+      "Bague Africana",
+      "Tilapia",
+      "Piabanho",
+      "Morobá",
+      "Brague"
+    ],
+    "equipamentos": [
+      "Labarizinho",
+      "Rompida"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "municipio": "Imbé",
+    "estado": "Rio Grande do Sul",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ]
+  }
+}

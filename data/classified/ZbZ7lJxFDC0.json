@@ -1,0 +1,46 @@
+{
+  "arquivo": "ZbZ7lJxFDC0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:07:01.381073",
+  "classificacao": {
+    "especies": [
+      "São Piauçu",
+      "Curimba",
+      "Curvina",
+      "Piracanjuba",
+      "Piapara",
+      "Mandi",
+      "Dourado",
+      "Piau",
+      "Matrinchã",
+      "Pevarão",
+      "Douradinho",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Chumbada Pesada",
+      "Vara",
+      "Encastou"
+    ],
+    "iscas": [
+      "Miçanga",
+      "Camarão",
+      "Quirela de Arroz",
+      "Quirela de Milho"
+    ],
+    "cevas": [
+      "Milho Seco",
+      "Quirela de Arroz",
+      "Quirela de Milho",
+      "Camarão"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "locais": [
+      "Rio Grande",
+      "Planura",
+      "Rio Grande Abençoado"
+    ]
+  }
+}

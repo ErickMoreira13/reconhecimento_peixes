@@ -1,0 +1,38 @@
+{
+  "arquivo": "L_yWsMxeJEE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:47:55.551131",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Bacia",
+      "Copos de Medida",
+      "Colher",
+      "Mãos"
+    ],
+    "iscas": [
+      "Farinha de Trigo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Preparo de Massinha com Farinha de Trigo e Água",
+      "Ajuste de Consistência com Adição Gradual de Água",
+      "Armazenamento na Geladeira para Aumentar a Firmeza"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

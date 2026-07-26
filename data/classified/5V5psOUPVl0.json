@@ -1,0 +1,28 @@
+{
+  "arquivo": "5V5psOUPVl0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:33:19.718416",
+  "classificacao": {
+    "titulo": "Guia para Pescar no Parque Ecológico Guarapiranga",
+    "descricao": "Descubra como chegar, onde pescar e dicas importantes para aproveitar ao máximo a experiência no Parque Ecológico Guarapiranga, em São Paulo.",
+    "etapas": [
+      {
+        "titulo": "Como Chegar",
+        "conteudo": "1. Siga pela Avenida das Nações até a Marina Guarapiranga. 2. Perto da Marina, há um estacionamento com vagas para carros e motos. 3. A caminhada até o local de pesca leva cerca de 10 minutos, passando por uma trilha com árvores e áreas verdes."
+      },
+      {
+        "titulo": "Onde Pescar",
+        "conteudo": "O local ideal para pesca está ao lado da Marina, em uma área com estrutura para pescadores. Há mesas, bancos e uma vista panorâmica do lago. A pesca é permitida apenas em áreas designadas, evitando perturbar a natureza."
+      },
+      {
+        "titulo": "Dicas Importantes",
+        "conteudo": "• Leve equipamentos adequados: iscas, linha, carretilha e uma cana de pesca. • Use roupas confortáveis e protetor solar. • Respeite o horário de visitação (das 7h às 18h). • Não jogue lixo no local. • Mantenha-se atento a crianças e animais de estimação."
+      },
+      {
+        "titulo": "Aviso de Segurança",
+        "conteudo": "Evite se aproximar da área da Marina quando há atividades de jet ski ou barcos. Mantenha-se longe da água para evitar acidentes. Em caso de emergência, procure ajuda no posto de segurança do parque."
+      }
+    ],
+    "conclusao": "O Parque Ecológico Guarapiranga é um excelente local para pescar, com natureza preservada e estrutura adequada. Lembre-se de respeitar o ambiente e seguir as regras para garantir uma experiência segura e prazerosa!"
+  }
+}

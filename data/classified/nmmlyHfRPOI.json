@@ -1,0 +1,33 @@
+{
+  "arquivo": "nmmlyHfRPOI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:18:32.451130",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Arroz",
+      "Canjica",
+      "Milho",
+      "Quirera",
+      "Soja",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

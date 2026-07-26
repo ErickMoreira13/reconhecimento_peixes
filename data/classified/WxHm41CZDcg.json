@@ -1,0 +1,28 @@
+{
+  "arquivo": "WxHm41CZDcg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:04:25.765755",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "montagem de chat",
+      "downshot",
+      "anti-rosco",
+      "anzol externo",
+      "anzol escondido",
+      "lastro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca em estruturas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

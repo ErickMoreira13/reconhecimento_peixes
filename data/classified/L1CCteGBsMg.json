@@ -1,0 +1,32 @@
+{
+  "arquivo": "L1CCteGBsMg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:42:25.728452",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca Natural",
+      "Isca Artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca Natural",
+      "Pesca com Isca Artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Nazaré",
+    "tipo_pesca": [
+      "Pesca com Isca Natural",
+      "Pesca com Isca Artificial"
+    ],
+    "observacoes": ""
+  }
+}

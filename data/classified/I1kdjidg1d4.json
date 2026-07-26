@@ -1,0 +1,43 @@
+{
+  "arquivo": "I1kdjidg1d4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:21:28.926049",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu",
+      "Tambaqui",
+      "Barbado",
+      "Pintado",
+      "Caixara",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "vara",
+      "carretilha",
+      "monofilamento",
+      "multi",
+      "chumbada",
+      "anzol",
+      "liderzinho de flúor",
+      "girador"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Paraguai"
+    ],
+    "bacias": [
+      "Pantanal"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com carretilha",
+      "pesca com molinete"
+    ],
+    "observacoes": []
+  }
+}

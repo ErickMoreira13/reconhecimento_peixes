@@ -1,0 +1,30 @@
+{
+  "arquivo": "HFn5G3FTtBk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:23:18.481034",
+  "classificacao": {
+    "resumo": {
+      "atividades_principais": [
+        "Montagem de acampamento em um local com desafios de espaço",
+        "Pescaria com sucesso de peixe (presumivelmente tilápia)",
+        "Preparação de uma refeição com ingredientes simples (arroz, feijão, carne, legumes)",
+        "Envio de mensagens pessoais a familiares e amigos (pai, mãe, irmã, tios, amigos)"
+      ],
+      "desafios_mencionados": [
+        "Espaço limitado no acampamento",
+        "Dificuldades com o som durante a filmagem",
+        "Presença de pessoas ao redor durante a gravação"
+      ],
+      "elementos_pessoais": {
+        "gratidão": "Mensagem de agradecimento ao público e aos familiares",
+        "conexão": "Menciona a importância de compartilhar momentos com quem se ama",
+        "expectativas_futuras": "Indica que haverá mais vídeos sobre a experiência"
+      }
+    },
+    "observações": {
+      "tom": "Informal e caloroso, com foco em experiências cotidianas e conexões pessoais",
+      "estrutura": "Narrativa sequencial com interrupções para mensagens pessoais",
+      "detalhes_interessantes": "Menciona o uso de um 'fogão de lata' e a descrição do processo de preparo da refeição"
+    }
+  }
+}

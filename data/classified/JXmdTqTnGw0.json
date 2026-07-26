@@ -1,0 +1,31 @@
+{
+  "arquivo": "JXmdTqTnGw0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:20:54.022081",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Reel",
+      "Kayak",
+      "Engine",
+      "Raidi Engine",
+      "Shark Lontras Kayak"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Serra da Mesa",
+      "Campo Norte, Corco da Mula"
+    ],
+    "bacias": [
+      "Bacia do Rio Tocantins"
+    ],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": "Pesca Esportiva",
+    "observacoes": []
+  }
+}

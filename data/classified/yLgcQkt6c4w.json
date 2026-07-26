@@ -1,0 +1,38 @@
+{
+  "arquivo": "yLgcQkt6c4w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:17:43.319515",
+  "classificacao": {
+    "especies": [
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Litro descartável"
+    ],
+    "iscas": [
+      "Farinha de trigo"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Trigo",
+      "Milho"
+    ],
+    "tecnicas": [
+      "Ceva Proteica"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Ceva Proteica",
+      "Ceva Natural"
+    ],
+    "observacoes": [
+      "Se o trigo não der sertão na sua região, usa fubá, miolo de pão ou até mesmo logro verde."
+    ]
+  }
+}

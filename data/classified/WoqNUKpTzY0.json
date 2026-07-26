@@ -1,0 +1,22 @@
+{
+  "arquivo": "WoqNUKpTzY0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:19:09.883196",
+  "classificacao": {
+    "summary": {
+      "fishing_tips": [
+        "Use a 'cana de pesca' (fishing rod) with a 'carretilha' (reel) and 'mola' (spring) for better control.",
+        "Set up a camp with a 'tenda' (tent) and 'colchão' (mattress) for comfort during long fishing trips.",
+        "Use a 'lure' (artificial bait) like a 'grilo' (crankbait) to attract fish, especially in areas with 'grama' (grass) or 'lagoa' (pond).",
+        "Be patient and observe the water for signs of fish activity, such as 'bolhas' (bubbles) or 'movimento' (movement)."
+      ],
+      "emotional_reflection": "The speaker reflects on a personal loss, mentioning a family member's passing and expressing gratitude for shared memories, which adds emotional depth to the narrative."
+    },
+    "analysis": {
+      "context": "The text blends practical fishing advice with personal storytelling, likely from a first-person perspective.",
+      "tone": "Informal and conversational, with a shift to somber reflection in the latter part.",
+      "purpose": "To share fishing techniques while also conveying a heartfelt farewell to a loved one."
+    },
+    "next_steps": "If you need further clarification, translation, or a structured guide on the fishing techniques mentioned, let me know!"
+  }
+}

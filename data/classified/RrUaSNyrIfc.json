@@ -1,0 +1,22 @@
+{
+  "arquivo": "RrUaSNyrIfc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:28:44.422177",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque",
+      "caiaque samurai"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

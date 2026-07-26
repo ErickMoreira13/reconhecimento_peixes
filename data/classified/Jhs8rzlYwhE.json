@@ -1,0 +1,22 @@
+{
+  "arquivo": "Jhs8rzlYwhE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:03:04.728783",
+  "classificacao": {
+    "translation": "He's very fast, and the Açú hit 3. Let's see if you all will get close to the afternoon part...",
+    "summary": "The text appears to be a live stream or fishing log in Portuguese, mentioning a fisherman's actions, a fish named 'Açú' hitting 3, and a reference to the afternoon. It includes fishing terminology and possibly some slang or regional expressions.",
+    "fishing_terms": [
+      "piava sul",
+      "piauzão",
+      "escama",
+      "vaga da água",
+      "almoçar",
+      "marmita",
+      "pescaria",
+      "barro",
+      "taguarinha",
+      "cascuda"
+    ],
+    "request": "Would you like a full translation, summary, or explanation of the fishing terms in the text?"
+  }
+}

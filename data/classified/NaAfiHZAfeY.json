@@ -1,0 +1,30 @@
+{
+  "arquivo": "NaAfiHZAfeY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:26:46.239819",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Molinete Daiwa 1500",
+      "Vara de 1,52m ação média",
+      "Linha Fluocarbon 60",
+      "Snap Mampituba"
+    ],
+    "iscas": [
+      "Snakehead da Turbo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com iscas artificiais"
+    ],
+    "observacoes": []
+  }
+}

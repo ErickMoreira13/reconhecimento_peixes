@@ -1,0 +1,30 @@
+{
+  "arquivo": "LRfQjXJiUus",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:36:38.658390",
+  "classificacao": {
+    "especies": [
+      "Piau Três Pintas",
+      "Piranha",
+      "Traíra",
+      "Piramboia",
+      "Apirari"
+    ],
+    "equipamentos": [
+      "vara telescópica",
+      "sóia",
+      "linha",
+      "anzol"
+    ],
+    "métodos": [
+      "camarão",
+      "milho",
+      "pairari"
+    ],
+    "local": "mês de agosto",
+    "curiosidades": [
+      "A Traíra pode ter vermes dentro do corpo, o que é uma curiosidade biológica.",
+      "A chuva pode influenciar a atividade dos peixes, afetando a pesca."
+    ]
+  }
+}

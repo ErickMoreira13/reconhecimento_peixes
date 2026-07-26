@@ -1,0 +1,29 @@
+{
+  "arquivo": "9hFZM4aG2-o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:41:36.966622",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Moio"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com moio"
+    ],
+    "rios": [
+      "Tapirapé"
+    ],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "",
+    "tipo_pesca": [
+      "Piranha"
+    ],
+    "observacoes": []
+  }
+}

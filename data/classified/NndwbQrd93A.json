@@ -1,0 +1,36 @@
+{
+  "arquivo": "NndwbQrd93A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:19:34.458499",
+  "classificacao": {
+    "species": [
+      "Dourado",
+      "Tucunaré",
+      "Piau",
+      "Aipial",
+      "Ipiranha"
+    ],
+    "equipamentos": [
+      "vara",
+      "suporte de cabeça",
+      "caiaque",
+      "motos",
+      "escada",
+      "fira"
+    ],
+    "iscas": [
+      "massa",
+      "artificial"
+    ],
+    "cevas": [],
+    "local": "Sobradinho",
+    "clima": "chuva",
+    "hora": "10 e meio",
+    "atividade": "pesca",
+    "comentarios": [
+      "Canal do YouTube com Dulciane e Franciel",
+      "Pescou um Dourado de 3kg e outro de 7kg",
+      "Mencionou que o clima (chuva) afeta a pesca"
+    ]
+  }
+}

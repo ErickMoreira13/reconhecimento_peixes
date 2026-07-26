@@ -1,0 +1,18 @@
+{
+  "arquivo": "kUvV29LxaHQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:13:52.816545",
+  "classificacao": {
+    "entities": [
+      {
+        "name": "chamada de atenção",
+        "type": "concept"
+      },
+      {
+        "name": "chamada de atenção",
+        "type": "concept"
+      }
+    ],
+    "observacoes": []
+  }
+}

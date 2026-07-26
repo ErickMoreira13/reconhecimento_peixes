@@ -1,0 +1,30 @@
+{
+  "arquivo": "zqMgHiqnvTU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:42:15.571486",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Pacu"
+    ],
+    "equipment": [
+      "varinha resistente",
+      "Imortal HXT da Maruri"
+    ],
+    "ingredients": [
+      "sangue de animal",
+      "essência de sorvete",
+      "chocolate branco",
+      "farinha de trigo"
+    ],
+    "locations": [
+      "Itambacu",
+      "represa",
+      "rio"
+    ],
+    "terms": [
+      "pesca esportiva",
+      "massa básica"
+    ]
+  }
+}

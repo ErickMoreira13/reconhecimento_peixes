@@ -1,0 +1,33 @@
+{
+  "arquivo": "qJOdRd3dgYc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:39:28.926792",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Mussarela",
+      "Geleia de mocotó",
+      "Salsicha",
+      "Banana",
+      "Bisnaguinha",
+      "Pão de sal",
+      "Beijinho",
+      "Ração de cachorro"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

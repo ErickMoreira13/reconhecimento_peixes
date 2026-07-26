@@ -1,0 +1,22 @@
+{
+  "arquivo": "i40sFEXxiCc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:22:08.911338",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Paranaíba",
+      "Pé de Manga Riozão"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

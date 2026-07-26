@@ -1,0 +1,31 @@
+{
+  "arquivo": "htRAE23ujgU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:15:07.107070",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "vara"
+    ],
+    "iscas": [
+      "minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca viva"
+    ],
+    "observacoes": []
+  }
+}

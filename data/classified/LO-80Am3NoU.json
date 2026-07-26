@@ -1,0 +1,28 @@
+{
+  "arquivo": "LO-80Am3NoU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:24:38.474888",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Veículo 4x4",
+      "Balsa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Barreirinhas",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Passeio de 4h30 com saída entre 8h30 e 9h da manhã",
+      "Trilha de 45 minutos com 12 km em balsa e areia fofa",
+      "Disponibilidade de banho nas lagoas por 1h a 1h30",
+      "Não há comércio de alimentos e bebidas no local",
+      "Custo aproximado de R$ 80 por pessoa"
+    ]
+  }
+}

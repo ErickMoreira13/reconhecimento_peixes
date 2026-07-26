@@ -1,0 +1,22 @@
+{
+  "arquivo": "ueYDbeZjRWQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:21:59.627905",
+  "classificacao": {
+    "summary": "O texto é um script de vídeo ou transmissão ao vivo de uma viagem de pesca, com o locutor interagindo com o público. Ele descreve o processo de pesca com linhas de mão, menciona pessoas presentes (como Mauro, Maradona e outros), e convida os espectadores a curtir, se inscrever e comentar. O conteúdo aborda desafios da pesca, como a dificuldade de capturar peixes e a necessidade de devolver alguns ao mar. O tom é informal e envolvente, com interações diretas com o público e referências a locais e pessoas específicas.",
+    "key_points": [
+      "Descrição do processo de pesca com linhas de mão.",
+      "Mencões a pessoas presentes (Mauro, Maradona, etc.) e interação com o público.",
+      "Convidos para curtir, se inscrever e comentar.",
+      "Mencões a desafios da pesca e a devolver peixes ao mar.",
+      "Tom informal e conversacional, típico de transmissões ao vivo."
+    ],
+    "possible_requests": [
+      "Resumo do conteúdo para uso em legendas ou descrições de vídeo.",
+      "Tradução do script para outro idioma.",
+      "Análise do engajamento do público e sugestões para melhorar a interação.",
+      "Explicação de termos específicos de pesca (como 'caçoeira' ou 'pescada').",
+      "Estruturação de um script semelhante para futuras transmissões."
+    ]
+  }
+}

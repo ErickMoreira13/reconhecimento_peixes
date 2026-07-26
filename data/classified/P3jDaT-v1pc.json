@@ -1,0 +1,15 @@
+{
+  "arquivo": "P3jDaT-v1pc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:54:17.768829",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de uma conversa durante uma viagem de pesca, com destaque para a prática de soltar os peixes capturados de volta ao rio, mencionando espécies como 'jaú'. O diálogo inclui humor, referências a uma acampamento, preparação de alimentos e interações sociais, destacando aspectos culturais e ambientais, como a conservação de espécies aquáticas. O tom é informal, com uso de expressões regionais e linguagem cotidiana.",
+    "themes": [
+      "Conservação ambiental",
+      "Interações sociais",
+      "Cultura local",
+      "Práticas de pesca sustentável"
+    ],
+    "cultural_notes": "A prática de soltar os peixes reflete valores de preservação e respeito à natureza, comum em comunidades que valorizam a sustentabilidade. O uso de termos como 'jaú' indica uma conexão com a fauna local, enquanto a descrição do acampamento e da culinária sugere uma vivência rústica e comunitária."
+  }
+}

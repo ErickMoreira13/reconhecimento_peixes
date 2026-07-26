@@ -1,0 +1,14 @@
+{
+  "arquivo": "ZF8yYeR2GFc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:10:11.043108",
+  "classificacao": {
+    "species": [
+      "Tilápia"
+    ],
+    "equipment": [
+      "faca"
+    ],
+    "location": "prete"
+  }
+}

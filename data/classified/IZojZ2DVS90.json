@@ -1,0 +1,24 @@
+{
+  "arquivo": "IZojZ2DVS90",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:35:17.307865",
+  "classificacao": {
+    "especies": [
+      "Sapinho preto",
+      "Casinho"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Sapinho preto"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

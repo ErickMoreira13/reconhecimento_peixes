@@ -1,0 +1,34 @@
+{
+  "arquivo": "DEbNlubMpwQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:50:25.320680",
+  "classificacao": {
+    "species": [
+      "Pastor",
+      "Curvinha",
+      "Michole",
+      "Cororoca",
+      "Peixe Voador",
+      "Corvinotinho"
+    ],
+    "equipment": [
+      "Linha",
+      "Galão Perfurado",
+      "Saco de Ráfia",
+      "Saco Furado",
+      "Saco Telado",
+      "Tubo de PVC Perfurado",
+      "Cano de PVC Perfurado",
+      "Balde Perfurado",
+      "Recipiente Perfurado",
+      "Cocho Perfurado"
+    ],
+    "baits": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "techniques": [],
+    "rios": [],
+    "bacias": []
+  }
+}

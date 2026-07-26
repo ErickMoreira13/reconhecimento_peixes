@@ -1,0 +1,30 @@
+{
+  "arquivo": "Sc28Ztg5spo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:55:51.304992",
+  "classificacao": {
+    "especies": [
+      "Bruto",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Varinha",
+      "Boia"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "Gravatá",
+    "tipo_pesca": "",
+    "observacoes": [
+      "O pesquisador liberou alguns peixes após capturá-los.",
+      "Utilizou um anzol grande para isca.",
+      "Mencionou que a água estava quente."
+    ]
+  }
+}

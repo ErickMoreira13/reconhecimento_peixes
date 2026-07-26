@@ -1,0 +1,39 @@
+{
+  "arquivo": "oP33ZJZ6-KE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:59:10.028137",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "garaté"
+    ],
+    "equipamentos": [
+      "Boni 95",
+      "Big Game"
+    ],
+    "iscas": [
+      "isca prateada da Big Game, referência de cor 24"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "pesca de superfície",
+      "pesca de meia água"
+    ],
+    "rios": [],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de superfície",
+      "pesca de meia água"
+    ],
+    "observacoes": ""
+  }
+}

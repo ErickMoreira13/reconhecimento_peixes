@@ -1,0 +1,32 @@
+{
+  "arquivo": "zh_BDzvd5Wo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:21:38.707260",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Arpão",
+      "Lanterna",
+      "Extraeira",
+      "Bateria"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca na lanterna",
+      "Pesca no foco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca na lanterna",
+      "Pesca no foco"
+    ],
+    "observacoes": []
+  }
+}

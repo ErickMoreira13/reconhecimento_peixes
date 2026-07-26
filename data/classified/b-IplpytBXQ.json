@@ -1,0 +1,31 @@
+{
+  "arquivo": "b-IplpytBXQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:22:26.722767",
+  "classificacao": {
+    "especies": [
+      "Xaréu"
+    ],
+    "equipamentos": [
+      "Carretilha"
+    ],
+    "iscas": [
+      "Isca japonesa",
+      "Responsado"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Praia do Forte",
+    "tipo_pesca": [
+      "Pesca de fundo"
+    ],
+    "observacoes": [
+      "Uso de isca japonesa presenteada por Tatsuo",
+      "Menciona grupo do WhatsApp Pescaria na Bahia"
+    ]
+  }
+}

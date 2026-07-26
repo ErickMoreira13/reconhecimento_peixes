@@ -1,0 +1,21 @@
+{
+  "arquivo": "InF0EfTg2EA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:04:03.116526",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Itu",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "arquivo": "BYVfxaFOZao",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:43:00.763271",
+  "classificacao": {
+    "especies": [
+      "Tubarão",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Carretilhas",
+      "Molinetes",
+      "Plugues",
+      "Flogues",
+      "Bolsas",
+      "Estojos",
+      "Roupas para pesca",
+      "Rabetas",
+      "Motores elétricos"
+    ],
+    "iscas": [
+      "Isca da China",
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Tibagi",
+      "Rio Guaraúna"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "água gelada",
+      "tubarana prateada",
+      "douradinho branco",
+      "corredeirinha",
+      "saída do Guaraúna",
+      "muito peixe",
+      "fracão",
+      "remei 45 minutos",
+      "escurecendo",
+      "álcool",
+      "isca da china",
+      "isca desbotando",
+      "pintar",
+      "molhou minha mão",
+      "viciado",
+      "melhores marcas",
+      "desculpa estou esperando vocês aqui",
+      "Oi"
+    ]
+  }
+}

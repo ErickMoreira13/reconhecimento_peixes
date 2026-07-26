@@ -1,0 +1,28 @@
+{
+  "arquivo": "DOKVo7xn6Ms",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:31:21.885605",
+  "classificacao": {
+    "especies": [
+      "Sapito Perecha"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Saco de Ráfia"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Rede"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Rede"
+    ],
+    "observacoes": []
+  }
+}

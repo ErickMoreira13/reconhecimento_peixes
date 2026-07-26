@@ -1,0 +1,39 @@
+{
+  "arquivo": "kvkMv9vexeQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:14:53.464274",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Sebra"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Fermentação",
+      "Preparação de Massa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Isca"
+    ],
+    "observacoes": [
+      "Utilizar água potável",
+      "Deixar a massa fermentar por 2 a 4 dias",
+      "Formar bolas para evitar dispersão na água"
+    ]
+  }
+}

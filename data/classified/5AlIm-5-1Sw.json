@@ -1,0 +1,28 @@
+{
+  "arquivo": "5AlIm-5-1Sw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:11:05.602544",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Chumbo",
+      "Anzol"
+    ],
+    "iscas": [
+      "Massinha",
+      "Fígado de boi azedo",
+      "Fígado de porco"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

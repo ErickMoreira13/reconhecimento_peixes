@@ -1,0 +1,22 @@
+{
+  "arquivo": "lCupqS_ndF0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:03:44.802953",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Capinha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

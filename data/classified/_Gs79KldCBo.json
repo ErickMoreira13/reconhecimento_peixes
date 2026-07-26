@@ -1,0 +1,21 @@
+{
+  "arquivo": "_Gs79KldCBo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:59:26.359874",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo ou transmissão ao vivo de um pescador compartilhando sua experiência de pesca no rio Paraná. O narrador descreve os desafios, a excitação e os detalhes técnicos do processo, mencionando espécies como 'piapara' e 'piauçu', além de referências a elementos locais como 'cupim' (formigas) e expressões regionais. O tom é casual e entusiasmado, com repetições e interações com o público, destacando a importância da sorte e da paciência na pesca.",
+    "key_points": [
+      "Localização: Rio Paraná.",
+      "Espécies de peixe mencionadas: piapara, piauçu.",
+      "Elementos locais: cupim (formigas) no rio.",
+      "Técnica de pesca: uso de iscas e equipamentos específicos.",
+      "Tono do narrador: entusiasmado, com uso de expressões como 'Graças a Deus' e 'É brincadeira, hein?'."
+    ],
+    "possible_tasks": [
+      "Resumo da experiência de pesca.",
+      "Explicação de termos técnicos e locais (ex: 'rebojou no pau', 'gaia').",
+      "Tradução do texto para outro idioma.",
+      "Análise do engajamento do narrador com o público."
+    ]
+  }
+}

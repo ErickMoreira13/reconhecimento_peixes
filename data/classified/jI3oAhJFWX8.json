@@ -1,0 +1,35 @@
+{
+  "arquivo": "jI3oAhJFWX8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:03:35.918474",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Linha de pesca",
+      "Anzol",
+      "Facão"
+    ],
+    "iscas": [
+      "Turu"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de anzol",
+      "Pesca em maré"
+    ],
+    "rios": [
+      "Garapé",
+      "Corrego do garapé"
+    ],
+    "bacias": [
+      "Mangue"
+    ],
+    "alimentos": [],
+    "bebidas": []
+  }
+}

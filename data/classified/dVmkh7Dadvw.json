@@ -1,0 +1,27 @@
+{
+  "arquivo": "dVmkh7Dadvw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:06:56.240114",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Paiari",
+      "Cupona"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Sobradinho"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Petrolina",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": ""
+  }
+}

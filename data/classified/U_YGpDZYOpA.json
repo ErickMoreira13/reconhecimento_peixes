@@ -1,0 +1,26 @@
+{
+  "arquivo": "U_YGpDZYOpA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:52:52.297302",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbada",
+      "Anzol",
+      "Linha",
+      "Faca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Amarração de chumbada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

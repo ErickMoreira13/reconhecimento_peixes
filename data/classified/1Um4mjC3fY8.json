@@ -1,0 +1,42 @@
+{
+  "arquivo": "1Um4mjC3fY8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:51:39.592147",
+  "classificacao": {
+    "especies": [
+      "lambari",
+      "pintado",
+      "branca",
+      "carpa",
+      "tambaqui"
+    ],
+    "equipamentos": [
+      "artificiais",
+      "balde",
+      "farinha"
+    ],
+    "isca": [
+      "minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com iscas artificiais"
+    ],
+    "rios": [
+      "rio de aquari"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipos_de_pesca": [
+      "pesca com iscas artificiais",
+      "pesca com iscas naturais"
+    ],
+    "observacoes": [
+      "dificuldade de pesca",
+      "uso de balde com minhocas",
+      "preparacao de filhote"
+    ]
+  }
+}

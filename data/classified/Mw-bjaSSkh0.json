@@ -1,0 +1,38 @@
+{
+  "arquivo": "Mw-bjaSSkh0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:15:33.660438",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Freio",
+      "Drag",
+      "Anzol",
+      "Cabeça de piranha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Varejão"
+    ],
+    "rios": [
+      "Barará-ti"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O peixe não saiu",
+      "Duas linhas estouradas",
+      "Anzol quase abriu",
+      "Pirarara soltou o anzol"
+    ]
+  }
+}

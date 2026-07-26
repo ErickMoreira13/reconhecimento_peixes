@@ -1,0 +1,30 @@
+{
+  "arquivo": "oqmzNQr5Rdw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:00:30.856943",
+  "classificacao": {
+    "especies": [
+      "Tirapola",
+      "Carijoca",
+      "Tietê",
+      "Promissão"
+    ],
+    "equipamentos": [
+      "Varinha"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Rodar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

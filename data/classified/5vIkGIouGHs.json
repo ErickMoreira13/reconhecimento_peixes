@@ -1,0 +1,34 @@
+{
+  "arquivo": "5vIkGIouGHs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:33:45.895539",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Brisa 2000",
+      "Brisa 3000",
+      "Revrus 4000",
+      "Tunus 4000",
+      "Tunus 6500",
+      "BG8000",
+      "Exceller",
+      "Fuego",
+      "Venator",
+      "Regal S",
+      "L300",
+      "Tiga 300",
+      "Tiga 400",
+      "Joker 800",
+      "Netuno 1000"
+    ],
+    "iscas": [],
+    "grãos": [],
+    "técnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estados": [],
+    "municipios": [],
+    "tipos_de_pesca": [],
+    "observações": []
+  }
+}

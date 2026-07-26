@@ -1,0 +1,31 @@
+{
+  "arquivo": "0RhXAcvxh5A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:30:55.625700",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "barco",
+      "galão",
+      "sacos"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "ceva fixa é proibido",
+      "uso de soja molhada e soja seca"
+    ]
+  }
+}

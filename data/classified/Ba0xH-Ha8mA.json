@@ -1,0 +1,60 @@
+{
+  "arquivo": "Ba0xH-Ha8mA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:48:00.989983",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piapara",
+      "Piau Sul",
+      "Lambari",
+      "Manche"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Boinha",
+      "Chumbadinha",
+      "Linha",
+      "Lanterna"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pisgar",
+      "Deixa Ir Correndo",
+      "Boia Afundar",
+      "Cutucado na Boia",
+      "Sem Pausa",
+      "Sem Corte",
+      "Calcino",
+      "Saideira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Você tá doido",
+      "É um manche disso",
+      "Você tá maluco",
+      "Esse é gigante",
+      "Tamanho disso",
+      "Esse é enorme",
+      "Você pega ele na mão",
+      "É um piau sul",
+      "Vocês não tem noção do tamanho disso",
+      "Vou virar a tela aqui para vocês verem",
+      "Você tá doido galera",
+      "Até a próxima"
+    ]
+  }
+}

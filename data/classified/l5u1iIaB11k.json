@@ -1,0 +1,33 @@
+{
+  "arquivo": "l5u1iIaB11k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:44:23.621192",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Corral",
+      "Canoa",
+      "Máscara de mergulho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com corral",
+      "Pesca com tarrafa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "Lusilândia",
+    "tipo_pesca": [
+      "Pesca com corral",
+      "Pesca com tarrafa"
+    ],
+    "observacoes": [
+      "Abundância de peixe",
+      "Uso de corral para capturar peixe",
+      "Venda de peixe em Santa Quitera, Maranhão"
+    ]
+  }
+}

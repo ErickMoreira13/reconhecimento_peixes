@@ -1,0 +1,31 @@
+{
+  "arquivo": "Ts8JcFF-JOM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:23:57.502247",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca na boca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Manoel"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "não cresce mais não",
+      "calma aí",
+      "papá terrando",
+      "rela ali",
+      "moscando a gente não cresce mais não"
+    ]
+  }
+}

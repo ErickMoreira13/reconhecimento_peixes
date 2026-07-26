@@ -1,0 +1,25 @@
+{
+  "arquivo": "JbVYHYXwnDY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:53:24.531776",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Amazônica",
+      "Araguaia",
+      "Tocantins"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

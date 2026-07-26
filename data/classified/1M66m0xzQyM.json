@@ -1,0 +1,35 @@
+{
+  "arquivo": "1M66m0xzQyM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:45:31.764064",
+  "classificacao": {
+    "especies": [
+      "Corvina"
+    ],
+    "equipamentos": [
+      "chumbada",
+      "girador",
+      "linha 0,50 milímetros",
+      "anzol"
+    ],
+    "iscas": [
+      "camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "uso de chumbada e girador",
+      "uso de linha resistente para evitar desgaste"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "recomendação de uso de linha 0,50 a 0,65 milímetros devido aos dentes da corvina"
+    ]
+  }
+}

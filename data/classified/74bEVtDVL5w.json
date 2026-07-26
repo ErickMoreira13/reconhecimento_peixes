@@ -1,0 +1,25 @@
+{
+  "arquivo": "74bEVtDVL5w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:15:24.875867",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

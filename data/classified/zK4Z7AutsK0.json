@@ -1,0 +1,67 @@
+{
+  "arquivo": "zK4Z7AutsK0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:25:33.291592",
+  "classificacao": {
+    "especie": "Tilápia",
+    "equipamentos": {
+      "cevas": [
+        {
+          "tipo": "Ceva Proteica",
+          "descricao": "Ração de coelho"
+        },
+        {
+          "tipo": "Ceva Proteica",
+          "descricao": "Ração de peixe"
+        }
+      ],
+      "iscas": [
+        {
+          "tipo": "Natural",
+          "descricao": "Minhoca"
+        },
+        {
+          "tipo": "Artificial",
+          "descricao": "Bichinho da laranja"
+        }
+      ],
+      "hastes": [
+        {
+          "tipo": "Haste de pesca",
+          "descricao": "Haste de 3 metros"
+        }
+      ],
+      "carretilhas": [
+        {
+          "tipo": "Carretilha de spinning",
+          "descricao": "Carretilha de 3000"
+        }
+      ],
+      "linhas": [
+        {
+          "tipo": "Linha de nylon",
+          "descricao": "Linha de 0,30 mm"
+        }
+      ],
+      "ferramentas": [
+        {
+          "tipo": "Ferramenta de pesca",
+          "descricao": "Cano de pesca"
+        }
+      ]
+    },
+    "metodos": {
+      "cevada": "Ração de coelho e ração de peixe",
+      "isca": "Minhoca e bichinho da laranja",
+      "cevada_tipo": "Ceva Proteica",
+      "isca_tipo": "Natural e Artificial"
+    },
+    "observacoes": {
+      "dicas": [
+        "Usar ceva proteica para atrair a tilápia",
+        "Usar isca natural como minhoca para melhor eficácia",
+        "Usar linha de nylon de 0,30 mm para maior resistência"
+      ]
+    }
+  }
+}

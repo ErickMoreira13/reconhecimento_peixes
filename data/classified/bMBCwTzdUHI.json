@@ -1,0 +1,28 @@
+{
+  "arquivo": "bMBCwTzdUHI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T10:10:12.923568",
+  "classificacao": {
+    "especies": [
+      "Caranha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa de soja"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

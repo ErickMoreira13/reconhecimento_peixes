@@ -1,0 +1,35 @@
+{
+  "arquivo": "JZa82oOnLNs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:22:48.722072",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Hélice"
+    ],
+    "iscas": [
+      "Garateia",
+      "Hélice"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca de superfície",
+      "Isca de hélice"
+    ],
+    "rios": [
+      "Rio Caureste"
+    ],
+    "bacias": [
+      "Bacia do Amazonas"
+    ],
+    "estado": "Amazonas",
+    "municipio": "Barcelos",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

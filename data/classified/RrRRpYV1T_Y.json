@@ -1,0 +1,21 @@
+{
+  "arquivo": "RrRRpYV1T_Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:28:34.644733",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Riviema"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Bernardo",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

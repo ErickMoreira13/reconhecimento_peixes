@@ -1,0 +1,25 @@
+{
+  "arquivo": "eQ04xkFGnzo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:12:43.071925",
+  "classificacao": {
+    "summary": "O texto é uma narração informal de uma pessoa que compartilha a experiência de uma viagem de pesca, destacando a captura de peixes (como 'mero'), a venda do produto em Cateaua, e interações com pessoas como Cássio e Chá. Há menções a logística (uso de rampas), termos locais (como 'goiá-vira') e uma atmosfera comunitária. O conteúdo parece ser uma transcrição de vídeo, com linguagem coloquial e repetições.",
+    "key_points": [
+      "Captura de peixes ('mero')",
+      "Venda em Cateaua",
+      "Interações com Cássio e Chá",
+      "Termos locais ('goiá-vira')",
+      "Contexto comunitário e logística de transporte"
+    ],
+    "unclear_terms": [
+      "goiá-vira",
+      "Cateaua",
+      "DENIT (possível referência a uma entidade local)"
+    ],
+    "next_steps": [
+      "Solicitar esclarecimento sobre termos locais",
+      "Oferecer tradução para inglês ou outro idioma",
+      "Sugerir resumo formalizado do conteúdo"
+    ]
+  }
+}

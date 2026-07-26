@@ -1,0 +1,37 @@
+{
+  "arquivo": "X72JwmiI4Jg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:21:42.785047",
+  "classificacao": {
+    "especies": [
+      "Tabarana",
+      "Piracanjuba",
+      "Barba Negra"
+    ],
+    "equipamentos": [
+      "Saco de Ráfia",
+      "Galão Perfurado"
+    ],
+    "iscas": [
+      "Isca",
+      "Isquinha"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de tinta na cabeça da piracanjuba",
+      "Captura de peixes grandes",
+      "Experiência com iscas e cevas perfuradas"
+    ]
+  }
+}

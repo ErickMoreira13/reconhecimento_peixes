@@ -1,0 +1,34 @@
+{
+  "arquivo": "KtKyl6gFrsg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:11:39.380927",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Marubá"
+    ],
+    "equipamentos": [
+      "Varona de Bambu",
+      "Boia",
+      "Varejão",
+      "Viveirozinho"
+    ],
+    "iscas": [
+      "Carne"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com varona de bambu",
+      "Pesca com boia e carne"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

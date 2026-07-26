@@ -1,0 +1,33 @@
+{
+  "arquivo": "ZN-MIvKZmkw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:36:59.430722",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Escar",
+      "Vara de pesca"
+    ],
+    "iscas": [
+      "Escar vivo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Riscar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Soltação do peixe para outras pessoas"
+    ]
+  }
+}

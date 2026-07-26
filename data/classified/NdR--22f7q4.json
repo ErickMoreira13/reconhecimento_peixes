@@ -1,0 +1,25 @@
+{
+  "arquivo": "NdR--22f7q4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:41:47.054887",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Rédeas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Arinos"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "mN7YTfBAFg0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:57:03.712627",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Arneiroz 2"
+    ],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "Tauá",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

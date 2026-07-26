@@ -1,0 +1,38 @@
+{
+  "arquivo": "0aIzzvCQ1is",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:00:06.975622",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Boia Cevadeira",
+      "Linha de Chicote",
+      "Anzol",
+      "Anzol Chino 9",
+      "Carretilha"
+    ],
+    "iscas": [
+      "Pãozinho Murcho"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Superfície",
+      "Pescaria com Cevadeira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Cevadeira",
+      "Pesca de Superfície"
+    ],
+    "observacoes": []
+  }
+}

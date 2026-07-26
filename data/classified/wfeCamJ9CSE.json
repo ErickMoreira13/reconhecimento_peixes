@@ -1,0 +1,34 @@
+{
+  "arquivo": "wfeCamJ9CSE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:04:57.097641",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Braude",
+      "Varinha de mão",
+      "Anzolzinho"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca à mão",
+      "Pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca à mão"
+    ],
+    "observacoes": []
+  }
+}

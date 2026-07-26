@@ -1,0 +1,21 @@
+{
+  "arquivo": "AycqKw6WWV8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:21:11.346140",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

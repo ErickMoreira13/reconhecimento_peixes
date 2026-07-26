@@ -1,0 +1,22 @@
+{
+  "arquivo": "8D5s_5P8Mdk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:12:53.304618",
+  "classificacao": {
+    "especies": [
+      "Jurupiranga",
+      "Toba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

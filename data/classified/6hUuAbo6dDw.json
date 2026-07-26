@@ -1,0 +1,25 @@
+{
+  "arquivo": "6hUuAbo6dDw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T01:01:43.413078",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha de pesca",
+      "Anzol sem olho",
+      "Objeto cortante"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nó no anzol"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "6Fi2YDR2-2M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T01:00:37.286671",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Baldeia dos Dourados"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Três Marias",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "3UJqq7rmM74",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:25:22.841531",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Balsa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "Rio de Janeiro",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

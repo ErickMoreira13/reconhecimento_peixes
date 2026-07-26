@@ -1,0 +1,47 @@
+{
+  "arquivo": "U8Tdu2hmwLw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:51:13.010114",
+  "classificacao": {
+    "species": [
+      "baiacu",
+      "pargo",
+      "espargo",
+      "pirarara"
+    ],
+    "equipment": [
+      "algodão",
+      "linhas",
+      "anzol",
+      "garrafa PET",
+      "espargo"
+    ],
+    "baits": [
+      "isca",
+      "cocorroca"
+    ],
+    "cevas": [
+      "galão perfurado",
+      "saco de ráfia",
+      "garrafa PET",
+      "espargo"
+    ],
+    "grains": [],
+    "techniques": [
+      "encostar",
+      "bater",
+      "puxar rápido"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "type_of_fishing": "pesca esportiva",
+    "observations": [
+      "alta atividade de peixes no canal",
+      "perda de anzóis durante a pesca",
+      "captura de diversos tipos de peixes",
+      "uso de cevas e iscas variadas"
+    ]
+  }
+}

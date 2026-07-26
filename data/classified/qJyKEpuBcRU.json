@@ -1,0 +1,39 @@
+{
+  "arquivo": "qJyKEpuBcRU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:40:55.314819",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Linha de pesca",
+      "Anzol"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Aleluia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Não deixar o peixe puxar a corda",
+      "Observar a corda e dar a fisgada no momento certo"
+    ],
+    "rios": [
+      "Curso de água",
+      "Reguinho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de lambari"
+    ],
+    "observacoes": [
+      "A isca aleluia é feita com cupim e conhecida como abelhinhas",
+      "A minhoca pode ser usada com ou sem asas",
+      "A técnica envolve deixar a corda flutuando e reagir ao movimento da linha"
+    ]
+  }
+}

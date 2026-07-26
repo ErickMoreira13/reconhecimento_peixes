@@ -1,0 +1,22 @@
+{
+  "arquivo": "KrPnRbaMUXI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:05:07.396103",
+  "classificacao": {
+    "summary": "O texto é um trecho de um vídeo ou transmissão ao vivo de alguém pescando, repleto de linguagem informal, repetições e interações com espectadores. O narrador descreve a experiência de pesca, mencionando espécies como 'caranha', 'piau' e 'lapa', e usa termos como 'massinhas Marcos Mendes' (um tipo de isca). Ele expressa frustração com a dificuldade de capturar peixes, mas também entusiasmo ao ver resultados. O conteúdo parece ser uma mistura de tutorial de pesca, entretenimento e interação com a audiência, com ênfase em técnicas, equipamentos e a dinâmica de um grupo de pescadores.",
+    "key_points": [
+      "Menciona espécies de peixes (caranha, piau) e outros elementos da pesca (lapa, iscas).",
+      "Destaca a dificuldade de capturar peixes, mas também momentos de sucesso.",
+      "Referência a 'massinhas Marcos Mendes', um produto de isca.",
+      "Tone: Envolvente, com repetições que reforçam a experiência e o clima do momento.",
+      "Contexto: Vídeo ou transmissão ao vivo, provavelmente com interação com espectadores."
+    ],
+    "terms_explained": {
+      "caranha": "Espécie de peixe comum em rios e lagos do Brasil.",
+      "piau": "Peixe de água doce, popular em regiões como o Rio Grande do Sul.",
+      "lapa": "Pode se referir a um tipo de molusco (mussa) ou a um termo regional relacionado à pesca.",
+      "massinhas Marcos Mendes": "Marca de iscas artificiais usadas em pesca esportiva."
+    },
+    "analysis": "O conteúdo parece ser uma combinação de entretenimento e informação, com o narrador compartilhando tanto a frustração quanto a satisfação de capturar peixes. A repetição de frases e a linguagem informal sugerem um estilo de comunicação direto e envolvente, comum em vídeos de redes sociais ou canais de pesca. A menção ao produto 'massinhas Marcos Mendes' indica que o vídeo pode ter um componente comercial ou de divulgação."
+  }
+}

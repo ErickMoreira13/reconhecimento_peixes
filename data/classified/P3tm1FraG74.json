@@ -1,0 +1,36 @@
+{
+  "arquivo": "P3tm1FraG74",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:54:38.552780",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba"
+    ],
+    "equipamentos": [
+      "Linha de pesca",
+      "Tanque de gasolina",
+      "Motor de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Desgressão básica"
+    ],
+    "rios": [
+      "Rio Negro",
+      "Rio Amazonas"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Muita chuva",
+      "Vai soltar o Reco Reco",
+      "Não tava dando desgressão"
+    ]
+  }
+}

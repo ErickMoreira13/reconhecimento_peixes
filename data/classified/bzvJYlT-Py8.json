@@ -1,0 +1,50 @@
+{
+  "arquivo": "bzvJYlT-Py8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:44:09.383004",
+  "classificacao": {
+    "especies": [
+      {
+        "nome_normalizado": "Tucunaré",
+        "nome_original": "Tucunoré"
+      },
+      {
+        "nome_normalizado": "Traíra",
+        "nome_original": "trairão"
+      },
+      {
+        "nome_normalizado": "Traíra",
+        "nome_original": "trairinha"
+      }
+    ],
+    "equipamentos": [
+      "Venator GS",
+      "Venatron GS",
+      "Fiberflex da Sand Plus",
+      "Linha de 40 libras",
+      "Offset 6 barra 0",
+      "Bullet da Big Ones",
+      "Shed",
+      "Big Onish"
+    ],
+    "iscas": [
+      "Charutô"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [
+      "Jogar em cegos",
+      "Devassa diretos",
+      "Soltura",
+      "Usar técnicas diferentes"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca de captura e soltura"
+    ]
+  }
+}

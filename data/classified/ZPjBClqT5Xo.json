@@ -1,0 +1,42 @@
+{
+  "arquivo": "ZPjBClqT5Xo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:40:23.264860",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "motor elétrico",
+      "carretilha",
+      "gancho",
+      "alicate",
+      "aquário",
+      "barco",
+      "guarda"
+    ],
+    "iscas": [
+      "isca",
+      "massas"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [
+      "enganar",
+      "rebojar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "pesca esportiva",
+    "observacoes": [
+      "sujou tudo minha isca",
+      "azar",
+      "pegou bem",
+      "solta",
+      "pegada"
+    ]
+  }
+}

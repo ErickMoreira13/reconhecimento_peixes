@@ -1,0 +1,30 @@
+{
+  "arquivo": "iqyGVZk829w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:26:13.099527",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Mir"
+    ],
+    "equipamentos": [
+      "vara",
+      "barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com mosca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca com mosca"
+    ],
+    "observacoes": []
+  }
+}

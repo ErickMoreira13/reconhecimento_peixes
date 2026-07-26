@@ -1,0 +1,26 @@
+{
+  "arquivo": "749Hdlv_A1A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:15:11.115200",
+  "classificacao": {
+    "especies": [
+      "Peixe",
+      "Tubarão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Cereal"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Não é legal dar cereais para os peixes"
+    ]
+  }
+}

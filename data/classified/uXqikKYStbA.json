@@ -1,0 +1,31 @@
+{
+  "arquivo": "uXqikKYStbA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:13:20.655669",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Tilápia",
+      "Pesca de Piau"
+    ],
+    "observacoes": []
+  }
+}

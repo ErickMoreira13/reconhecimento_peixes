@@ -1,0 +1,34 @@
+{
+  "arquivo": "nSLY7bQreb0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:25:28.315703",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Piapara",
+      "Piracanjuba"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Barco",
+      "Alicate",
+      "Reg",
+      "Fio Barbado"
+    ],
+    "iscas": [
+      "Isca Soft",
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Três Arremessos",
+      "Trabalha em Equipe",
+      "Enrola as Varinhas"
+    ],
+    "localizacao": [
+      "Rio Dourados, Mato Grosso",
+      "Rio dos Gigantes, Dourados, Mato Grosso Sul"
+    ]
+  }
+}

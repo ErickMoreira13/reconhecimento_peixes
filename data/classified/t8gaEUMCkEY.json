@@ -1,0 +1,32 @@
+{
+  "arquivo": "t8gaEUMCkEY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:45:38.016109",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Fogão",
+      "Recipiente"
+    ],
+    "iscas": [
+      "Milho cozido com açúcar"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

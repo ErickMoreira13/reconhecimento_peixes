@@ -1,0 +1,47 @@
+{
+  "arquivo": "CC_n0LSFhzk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:29:54.415937",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "varinha de bambu",
+      "argola",
+      "linha",
+      "cabo de aço",
+      "girador",
+      "snap"
+    ],
+    "iscas": [
+      "ambarizinho",
+      "pele de frango",
+      "fígado",
+      "frango",
+      "peito de frango",
+      "tripa de galinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "empate",
+      "nó de 8 voltas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de vara de bambu",
+      "pesca de traíra"
+    ],
+    "observacoes": [
+      "o empate é muito eficiente na pesca de traíra",
+      "a linha deve ser esticada do tamanho da vara e puxada 50 centímetros para baixo",
+      "custo da varinha de R$25,00"
+    ]
+  }
+}

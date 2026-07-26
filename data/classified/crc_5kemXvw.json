@@ -1,0 +1,34 @@
+{
+  "arquivo": "crc_5kemXvw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:52:02.205441",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Garatea"
+    ],
+    "equipamentos": [
+      "Marrenta",
+      "Jig"
+    ],
+    "isca": [
+      "Jig"
+    ],
+    "local": [
+      "Javaia Camp",
+      "Jeová"
+    ],
+    "observacoes": [
+      "Pescar durante a lua cheia",
+      "Prática de pesque solte"
+    ],
+    "praticas": [
+      "Pesque solte"
+    ],
+    "detalhes": {
+      "tipo_de_pescaria": "Pescaria de superfície",
+      "tempo_de_pescaria": "Lua cheia",
+      "tamanho_do_peixe": "Tucunarézão (grande)"
+    }
+  }
+}

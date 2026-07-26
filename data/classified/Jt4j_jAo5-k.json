@@ -1,0 +1,23 @@
+{
+  "arquivo": "Jt4j_jAo5-k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:15:56.824247",
+  "classificacao": {
+    "especies": [
+      "Ambari"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Canjuba"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

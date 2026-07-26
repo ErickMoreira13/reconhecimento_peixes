@@ -1,0 +1,41 @@
+{
+  "arquivo": "SdAGz1jp868",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:57:18.443731",
+  "classificacao": {
+    "especies": [
+      "Flech",
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Câmera",
+      "Caiaque",
+      "Canoe",
+      "Celular",
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Anzol",
+      "Pesca com Rede"
+    ],
+    "observacoes": [
+      "Liberação do flech após captura",
+      "Conflito com rede de pesca",
+      "Uso de ceva em recipiente perfurado",
+      "Mareada básica realizada",
+      "Uso de isca invertida para capturar camarão"
+    ]
+  }
+}

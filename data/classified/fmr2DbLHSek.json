@@ -1,0 +1,32 @@
+{
+  "arquivo": "fmr2DbLHSek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:29:27.287205",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Dourado",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "vara",
+      "maracutaia",
+      "remo",
+      "chumbada"
+    ],
+    "isca": [],
+    "cevas": [],
+    "graos": [
+      "girassol"
+    ],
+    "tecnicas": [
+      "Remesso",
+      "Fisgamento",
+      "Pesca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Piracanjuba"
+  }
+}

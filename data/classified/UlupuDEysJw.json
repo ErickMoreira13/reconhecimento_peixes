@@ -1,0 +1,43 @@
+{
+  "arquivo": "UlupuDEysJw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:08:10.637682",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Surubim",
+      "Piraputanga",
+      "Aracu"
+    ],
+    "equipamentos": [
+      "vara de 17 libras",
+      "anzolzinho",
+      "tebona",
+      "bota-lanterna"
+    ],
+    "iscas": [
+      "isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca esportiva"
+    ],
+    "rios": [
+      "Rio Laranjal do Jari",
+      "Rio Monte Dourado"
+    ],
+    "bacias": [
+      "Bacia do Rio Amazonas"
+    ],
+    "estado": "Pará",
+    "municipio": "Laranjal do Jari",
+    "tipo_pesca": "Pesca Esportiva",
+    "observacoes": [
+      "Presença de arraias e cobras (jararaca e sucuri) na região.",
+      "Mencionado o uso de 'bota-lanterna' para iluminação durante a pesca.",
+      "Referência à prática de soltar o peixe capturado ('soltei esse aí').",
+      "Menciona o período do dia como 'dia do peixe grande', sugerindo que a pesca é realizada em horários específicos."
+    ]
+  }
+}

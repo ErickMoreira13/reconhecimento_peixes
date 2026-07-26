@@ -1,0 +1,28 @@
+{
+  "arquivo": "RiB6E5vueMw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:09:22.175491",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Chumbada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de uso de chumbada e empate curto no anzol"
+    ],
+    "rios": [
+      "Rio Araguaia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

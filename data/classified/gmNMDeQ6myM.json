@@ -1,0 +1,32 @@
+{
+  "arquivo": "gmNMDeQ6myM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:59:23.539597",
+  "classificacao": {
+    "especies": [
+      "Mandi",
+      "Macará",
+      "Acará",
+      "Carazinha"
+    ],
+    "equipamentos": [
+      "Mulinete",
+      "Anzol"
+    ],
+    "iscas": [
+      "Massa",
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

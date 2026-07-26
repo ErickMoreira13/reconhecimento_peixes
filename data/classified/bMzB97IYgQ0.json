@@ -1,0 +1,31 @@
+{
+  "arquivo": "bMzB97IYgQ0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:28:03.190134",
+  "classificacao": {
+    "species": [
+      "tilapa",
+      "cará"
+    ],
+    "equipment": [
+      "molinete",
+      "varinha de mão",
+      "armação"
+    ],
+    "baits": [
+      "minhocas",
+      "garateia"
+    ],
+    "grains": [
+      "milho"
+    ],
+    "techniques": [
+      "molinete",
+      "varinha de mão"
+    ],
+    "location": "do outro lado do rio",
+    "state": "",
+    "municipality": "",
+    "type_of_fishing": "pescaria caipira"
+  }
+}

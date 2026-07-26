@@ -1,0 +1,23 @@
+{
+  "arquivo": "YVQBP7icO1Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:31:03.760965",
+  "classificacao": {
+    "especies": [
+      "Sol"
+    ],
+    "equipamentos": [
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

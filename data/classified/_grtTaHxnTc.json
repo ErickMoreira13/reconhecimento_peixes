@@ -1,0 +1,25 @@
+{
+  "arquivo": "_grtTaHxnTc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:59:14.140317",
+  "classificacao": {
+    "especies": [
+      "Bica"
+    ],
+    "equipamentos": [
+      "Cana"
+    ],
+    "iscas": [
+      "Bolo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

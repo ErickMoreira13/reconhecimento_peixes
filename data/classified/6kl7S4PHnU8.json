@@ -1,0 +1,27 @@
+{
+  "arquivo": "6kl7S4PHnU8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:35:56.833202",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tucunaré",
+      "Jacaré",
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Curiaé",
+      "Picoçado"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Vinópolis",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

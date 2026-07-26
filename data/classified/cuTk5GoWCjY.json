@@ -1,0 +1,41 @@
+{
+  "arquivo": "cuTk5GoWCjY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:24:26.752206",
+  "classificacao": {
+    "especies": [
+      "Bicuda",
+      "Trinchã"
+    ],
+    "equipamentos": [
+      "jigue",
+      "rede"
+    ],
+    "iscas": [
+      "isca artificial"
+    ],
+    "cevas": [],
+    "graos": [
+      "Castanha do Pará"
+    ],
+    "tecnicas": [
+      "jigue",
+      "superfície"
+    ],
+    "rios": [
+      "Curuá"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "aqui no rio Curuá, no Pará",
+      "ganhei uma trinchã de uns 4, 5 quilos",
+      "perdi uns peixes grandes",
+      "usando isca artificial e mudando de isca"
+    ]
+  }
+}

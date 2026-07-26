@@ -1,0 +1,31 @@
+{
+  "arquivo": "LfelPgiQ8t0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:06:20.939121",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "chumbada",
+      "girador",
+      "chicote",
+      "anzol",
+      "miçanga"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "nó em T",
+      "sistema de chumbada antes do anzol",
+      "sistema de chumbada depois do anzol"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Tamanho da chumbada e miçanga não importa. Usar o que for da preferência. Comprimento do chicote entre 10 e 30 cm."
+    ]
+  }
+}

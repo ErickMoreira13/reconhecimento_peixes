@@ -1,0 +1,22 @@
+{
+  "arquivo": "FRMSrfmYTiI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:52:55.442415",
+  "classificacao": {
+    "species": [
+      "Tainha"
+    ],
+    "equipment": [
+      "Tarrafa",
+      "Malhadeira",
+      "Treque"
+    ],
+    "methods": [
+      "Lanço"
+    ],
+    "locations": [
+      "Punta Grossa",
+      "Caverna de Adulão"
+    ]
+  }
+}

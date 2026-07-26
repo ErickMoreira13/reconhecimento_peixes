@@ -1,0 +1,50 @@
+{
+  "arquivo": "b5th_pzVzgw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T10:00:52.833933",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Boia",
+      "Chumbinho",
+      "Vara de cinco metros",
+      "Varinha telescópica",
+      "Varinha"
+    ],
+    "iscas": [
+      "Calabresa",
+      "Milho",
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Cevando",
+      "Pesca com vara"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Pescaria com varinha telescópica",
+      "Uso de ceva instantânea de milho",
+      "Captura de múltiplos piaus",
+      "Ajuste da vara de cinco metros para quatro metros",
+      "Uso de minhoca e calabresa como iscas alternativas"
+    ]
+  }
+}

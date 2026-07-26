@@ -1,0 +1,23 @@
+{
+  "arquivo": "aUqnGgG77s8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:16:24.837294",
+  "classificacao": {
+    "especies": [
+      "Piraçu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Aripuanã"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

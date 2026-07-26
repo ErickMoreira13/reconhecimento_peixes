@@ -1,0 +1,44 @@
+{
+  "arquivo": "r3z0BUlik84",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:56:18.113772",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Traíra da Amazônia",
+      "Tilápia",
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Salame",
+      "Garrafa"
+    ],
+    "iscas": [
+      "Salame",
+      "Artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial",
+      "Pesca com ceva natural"
+    ],
+    "rios": [
+      "Rio Doce"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Santa Cruz Calvado",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Dourado está extinto na região devido ao minério",
+      "Traíra da Amazônia foi capturada e solta",
+      "Dificuldade em capturar dourado",
+      "Necessidade de conservação para multiplicação do peixe"
+    ]
+  }
+}

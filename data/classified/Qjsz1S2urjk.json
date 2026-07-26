@@ -1,0 +1,33 @@
+{
+  "arquivo": "Qjsz1S2urjk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:40:36.199031",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "nylon",
+      "boia",
+      "chumbada",
+      "linha",
+      "chumbadinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com boia de fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "eficácia da boia",
+      "perda de material em mar agitado",
+      "uso de chumbada de correr de fundo"
+    ]
+  }
+}

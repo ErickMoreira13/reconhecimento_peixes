@@ -1,0 +1,23 @@
+{
+  "arquivo": "VyVZ6w39yCE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:31:15.964798",
+  "classificacao": {
+    "especies": [
+      "Cabra"
+    ],
+    "equipamentos": [
+      "Curvinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "FxbTbNpuGRU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:59:19.038856",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Lapa",
+      "Pevão"
+    ],
+    "equipamentos": [
+      "Shad GT",
+      "Fugareiro"
+    ],
+    "iscas": [
+      "Shad GT"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Baía de Guanabara"
+    ],
+    "estado": "Rio de Janeiro",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de Shad GT como isca",
+      "Liberação de peixes capturados",
+      "Mencionado uso de fugareiro para capturar peixes menores"
+    ]
+  }
+}

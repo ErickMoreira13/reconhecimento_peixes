@@ -1,0 +1,28 @@
+{
+  "arquivo": "s0q_0hADLUw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:42:16.893069",
+  "classificacao": {
+    "especies": [
+      "Tainha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

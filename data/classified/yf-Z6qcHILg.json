@@ -1,0 +1,37 @@
+{
+  "arquivo": "yf-Z6qcHILg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:10:31.534896",
+  "classificacao": {
+    "subject": "Diego",
+    "state": "Ceará",
+    "municipality": "",
+    "species_caught": [
+      "Biquiara",
+      "Mariquita"
+    ],
+    "equipment_used": [
+      "Espatula de madeira",
+      "Escanova",
+      "Anzol",
+      "Linha flucavo"
+    ],
+    "isca_used": [
+      "Minhoca",
+      "Camarão"
+    ],
+    "cevas": [
+      "Minhoca",
+      "Camarão"
+    ],
+    "graos": [],
+    "techniques": [
+      "Pescaria raiz em varia de bambu"
+    ],
+    "rios": [],
+    "bacias": [],
+    "tipo_pesca": [
+      "Pesca de fundo"
+    ]
+  }
+}

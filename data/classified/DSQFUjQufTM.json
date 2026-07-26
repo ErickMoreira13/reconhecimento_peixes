@@ -1,0 +1,33 @@
+{
+  "arquivo": "DSQFUjQufTM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:36:50.577755",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Linha monofilamento"
+    ],
+    "iscas": [
+      "Banana e mel"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chicote"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de carpa",
+      "Pesca de tilápia"
+    ],
+    "observacoes": [
+      "Arremesso perto da vegetação do lago"
+    ]
+  }
+}

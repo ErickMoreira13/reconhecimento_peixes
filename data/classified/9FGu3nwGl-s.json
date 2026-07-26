@@ -1,0 +1,45 @@
+{
+  "arquivo": "9FGu3nwGl-s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:40:14.798608",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Vara",
+      "Linha 012",
+      "Boia",
+      "Anzóis",
+      "Sino de Espera",
+      "Isca Artificial",
+      "Fixador",
+      "Girador"
+    ],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso Básico",
+      "Recuperação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Carretilha"
+    ],
+    "observacoes": [
+      "Teste de desempenho da carretilha Soul Gailang",
+      "Dificuldade inicial no arremesso",
+      "Comparação com molinete",
+      "Uso de isca artificial de 9 cm e 8,5 gramas",
+      "Ajustes no freio e no carretel para evitar cabeleira"
+    ]
+  }
+}

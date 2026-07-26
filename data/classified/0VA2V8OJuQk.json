@@ -1,0 +1,27 @@
+{
+  "arquivo": "0VA2V8OJuQk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:32:56.381755",
+  "classificacao": {
+    "especies": [
+      "Pirarucu",
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Carpeta",
+      "Balde"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em Rio"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "OOv6wEdE9ps",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:58:26.303178",
+  "classificacao": {
+    "especies": [
+      "Caranguejo"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Pimenta"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em buracos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de caranguejo"
+    ],
+    "observacoes": [
+      "Caranguejos grandes capturados com pimenta forte em buracos do mangue"
+    ]
+  }
+}

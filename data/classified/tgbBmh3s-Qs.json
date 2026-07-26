@@ -1,0 +1,40 @@
+{
+  "arquivo": "tgbBmh3s-Qs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:54:56.025906",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Baiacu",
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Cromado",
+      "Tarrafa"
+    ],
+    "iscas": [
+      "Camarão Ovado",
+      "Sardinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Risquinha Artificial",
+      "Tarrafa",
+      "Mudar de Isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Barra do Sul",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Maré cheia, lua cheia, mas não foi capturado nenhum peixe",
+      "Mudança de isca para sardinha na última tentativa",
+      "Muita atividade de pescadores e jet ski na região"
+    ]
+  }
+}

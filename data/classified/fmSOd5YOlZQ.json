@@ -1,0 +1,21 @@
+{
+  "arquivo": "fmSOd5YOlZQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:29:52.497685",
+  "classificacao": {
+    "especies": [
+      "Abaca"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

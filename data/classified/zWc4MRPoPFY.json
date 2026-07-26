@@ -1,0 +1,15 @@
+{
+  "arquivo": "zWc4MRPoPFY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:00:40.356788",
+  "classificacao": {
+    "summary": "El texto describe una emocionante experiencia de pesca en el río Meta, donde un pescador llamado Álvaro captura un gran 'valentón' (un tipo de pez grande). El relato destaca el esfuerzo físico, la colaboración entre el pescador y el narrador, y la importancia cultural de esta práctica de pesca artesanal. Se menciona el uso de múltiples anzuelos, la fuerza del pez (que pesa más de 40 kg, posiblemente 90 kg), y la celebración tras el éxito. El texto transmite entusiasmo y resalta la conexión con la naturaleza y la tradición de la pesca en la región.",
+    "key_points": [
+      "Fishing technique: Use of multiple hooks and teamwork to catch large fish.",
+      "Cultural significance: Artisanal fishing as a subsistence practice in the Meta River region.",
+      "Fish size and strength: The 'valentón' weighs over 40 kg (possibly 90 kg) and requires significant effort to catch.",
+      "Collaboration: Involvement of Álvaro and the narrator in the process.",
+      "Celebration: The excitement and pride after successfully capturing the fish."
+    ]
+  }
+}

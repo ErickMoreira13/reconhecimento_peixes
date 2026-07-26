@@ -1,0 +1,21 @@
+{
+  "arquivo": "GAiRZt0j88U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:28:51.405090",
+  "classificacao": {
+    "especies": [
+      "Enguia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

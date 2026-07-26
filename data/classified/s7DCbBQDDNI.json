@@ -1,0 +1,29 @@
+{
+  "arquivo": "s7DCbBQDDNI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:53:35.611874",
+  "classificacao": {
+    "especies": [
+      "Caixara"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Anzol",
+      "Câmera",
+      "Canoa",
+      "Caixa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "0r5h9gBxI0w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:30:09.017477",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nó"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica de amarração de linha em carretilha"
+    ]
+  }
+}

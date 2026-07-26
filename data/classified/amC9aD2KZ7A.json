@@ -1,0 +1,29 @@
+{
+  "arquivo": "amC9aD2KZ7A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:02:53.057812",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca de silicone"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Tapajós"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Santarém",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

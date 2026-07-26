@@ -1,0 +1,43 @@
+{
+  "arquivo": "co7Go7diw80",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:48:33.339082",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Linha 020",
+      "Chubadinha",
+      "Anzol pequeno",
+      "Castor pequeno",
+      "Molinete 500",
+      "Traia leve"
+    ],
+    "iscas": [
+      "Soja"
+    ],
+    "cevas": [],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pescaria com anzol pequeno",
+      "Uso de linha fina",
+      "Isca com soja"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca natural",
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Dificuldade em capturar Pacu",
+      "Uso de linha multifilamento fina",
+      "Método de isca com soja"
+    ]
+  }
+}

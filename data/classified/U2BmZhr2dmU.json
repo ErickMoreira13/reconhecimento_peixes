@@ -1,0 +1,43 @@
+{
+  "arquivo": "U2BmZhr2dmU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:37:29.508273",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Tucunaré",
+      "Traíra",
+      "Jacundá",
+      "Curvina"
+    ],
+    "equipamentos": [
+      "Vara ultralight",
+      "Vara de bambu",
+      "Mulinetinho ProMaster",
+      "Linha Max 040",
+      "Anzão chinu número 4"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Camarão"
+    ],
+    "cevas": [],
+    "linhas": [
+      "Linha Max 040"
+    ],
+    "anzóis": [
+      "Anzão chinu número 4"
+    ],
+    "varas": [
+      "Vara ultralight",
+      "Vara de bambu"
+    ],
+    "localização": [
+      "Rio Tietê",
+      "Prainha de Mendonça"
+    ],
+    "rio": "Tietê",
+    "região": "São Paulo",
+    "comentários": []
+  }
+}

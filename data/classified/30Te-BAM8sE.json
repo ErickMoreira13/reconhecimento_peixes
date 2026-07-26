@@ -1,0 +1,21 @@
+{
+  "arquivo": "30Te-BAM8sE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:43:03.337870",
+  "classificacao": {
+    "especies": [
+      "Cachara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

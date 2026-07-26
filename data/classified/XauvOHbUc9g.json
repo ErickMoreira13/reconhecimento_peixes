@@ -1,0 +1,37 @@
+{
+  "arquivo": "XauvOHbUc9g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:43:44.790670",
+  "classificacao": {
+    "especies": [
+      "Bicuda",
+      "Traíra",
+      "Bitelo"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Carretilho",
+      "Filhinha X4",
+      "Alicate de contenção",
+      "Shotgun cromada"
+    ],
+    "iscas": [
+      "Shotgun"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Puxar para o meio",
+      "Usar alicate longo",
+      "Deixar folga na linha"
+    ],
+    "rios": [
+      "Piriri"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

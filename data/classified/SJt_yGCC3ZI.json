@@ -1,0 +1,23 @@
+{
+  "arquivo": "SJt_yGCC3ZI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:04:57.446829",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chombada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nó de chombada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

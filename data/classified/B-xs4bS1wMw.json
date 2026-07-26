@@ -1,0 +1,28 @@
+{
+  "arquivo": "B-xs4bS1wMw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:22:53.880282",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Lure",
+      "Fishing Line"
+    ],
+    "iscas": [
+      "Cebo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peça de tamanho aproximado de uma mão, espécie não identificada"
+    ]
+  }
+}

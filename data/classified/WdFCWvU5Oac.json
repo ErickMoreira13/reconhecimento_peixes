@@ -1,0 +1,25 @@
+{
+  "arquivo": "WdFCWvU5Oac",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:03:17.385794",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com rede"
+    ],
+    "observacoes": [
+      "A rede foi puxada com dificuldade, mas não continha peixes. O vídeo não recebeu likes devido ao resultado da pesca."
+    ]
+  }
+}

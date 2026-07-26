@@ -1,0 +1,25 @@
+{
+  "arquivo": "cPYNgayJ6GU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:51:07.977332",
+  "classificacao": {
+    "espécies": [
+      "Pacu",
+      "Piau"
+    ],
+    "equipamento": [
+      "Molinete L300",
+      "Linha de nylon",
+      "Líder de 0,19 mm",
+      "Linha multifilamento Vexer 15 libras",
+      "Alvarinha Evolution 5.10",
+      "Anzol Chinu 3"
+    ],
+    "isca": "Grãos de soja (fermentados e hidratados)",
+    "técnicas": [
+      "Pescaria de barranca"
+    ],
+    "rio": "",
+    "localização": "Rondônia (próximo a Porto Velho)"
+  }
+}

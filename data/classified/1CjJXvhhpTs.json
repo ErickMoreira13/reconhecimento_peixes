@@ -1,0 +1,49 @@
+{
+  "arquivo": "1CjJXvhhpTs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:10:56.170707",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Serra",
+      "Pescada",
+      "Caranguejo"
+    ],
+    "equipamentos": [
+      "Isopor",
+      "Hélice nova",
+      "Gelo",
+      "Varaginha",
+      "Linhas",
+      "Luvas"
+    ],
+    "iscas": [
+      "Papoca",
+      "Tijolo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca piauí",
+      "Briga",
+      "Solta"
+    ],
+    "rios": [
+      "Delta"
+    ],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "Barnaíba",
+    "tipo_pesca": [
+      "Pesca piauí",
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de gelo e isopor",
+      "Luta com o peixe",
+      "Libertação do peixe",
+      "Presença de caranguejo",
+      "Uso de farinhas"
+    ]
+  }
+}

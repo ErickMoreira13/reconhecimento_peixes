@@ -1,0 +1,31 @@
+{
+  "arquivo": "UVIXGTks8xs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:37:38.993719",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu",
+      "Linha"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Curuá"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Cachoeira da Serra",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

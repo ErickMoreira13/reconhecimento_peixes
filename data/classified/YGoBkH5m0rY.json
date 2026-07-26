@@ -1,0 +1,33 @@
+{
+  "arquivo": "YGoBkH5m0rY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:13:02.974474",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Pincel",
+      "Alicate",
+      "Câmera"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Puxada",
+      "Solta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

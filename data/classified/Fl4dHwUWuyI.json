@@ -1,0 +1,62 @@
+{
+  "arquivo": "Fl4dHwUWuyI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:27:11.262447",
+  "classificacao": {
+    "resumo": {
+      "equipamento": {
+        "cana": {
+          "marca": "Shimano",
+          "modelos": [
+            "Trevala",
+            "Teres"
+          ],
+          "caracteristicas": {
+            "resistência": "alta",
+            "construção": "em fibra de carbono",
+            "comprimento": "6,3 a 6,6 metros"
+          },
+          "acessorio": "cu de burro (absorvedor de choque)"
+        },
+        "linha": {
+          "principal": {
+            "tipo": "multifilamento",
+            "espessura": "acima de 0,5mm"
+          },
+          "guia": {
+            "tipo": "nylon",
+            "espessura": "0,9mm",
+            "exemplos": [
+              "Max Force 0,92",
+              "Lory Classic"
+            ]
+          }
+        },
+        "gancho": {
+          "marcas": [
+            "Gamakatsu Big River",
+            "Kral Super Catfish",
+            "Maruri Strong Catfish"
+          ],
+          "tamanho": "12 barra 0"
+        },
+        "acessorios": {
+          "suporte": "VFOX",
+          "cinto": "para transporte de equipamentos"
+        },
+        "peso": {
+          "intervalo": "40 a 80 gramas"
+        },
+        "isca": {
+          "tipo": "natural",
+          "suporte": "ganchos com suporte para iscas"
+        }
+      },
+      "dicas": {
+        "resistência": "cana e linha devem suportar a força dos peixes",
+        "manejo": "uso do cu de burro para evitar quebras",
+        "isca": "escolha de iscas naturais adequadas ao habitat dos peixes"
+      }
+    }
+  }
+}

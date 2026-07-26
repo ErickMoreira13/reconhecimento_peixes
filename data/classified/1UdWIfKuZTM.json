@@ -1,0 +1,27 @@
+{
+  "arquivo": "1UdWIfKuZTM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:51:27.177388",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Massa Caseira"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz",
+      "Polvilho",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

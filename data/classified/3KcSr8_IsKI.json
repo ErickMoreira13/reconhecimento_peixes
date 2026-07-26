@@ -1,0 +1,35 @@
+{
+  "arquivo": "3KcSr8_IsKI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:10:04.876712",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Miçangas",
+      "Piscadinho"
+    ],
+    "iscas": [
+      "Peito de frango"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca",
+      "Pesca com lure"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca",
+      "Pesca com lure"
+    ],
+    "observacoes": [
+      "Uso de miçangas para coloração na água para atrair traíra"
+    ]
+  }
+}

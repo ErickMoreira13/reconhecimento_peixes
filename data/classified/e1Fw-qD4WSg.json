@@ -1,0 +1,19 @@
+{
+  "arquivo": "e1Fw-qD4WSg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:35:11.858505",
+  "classificacao": {
+    "analysis": {
+      "context": "The text is a live commentary or video script from a Brazilian fisherman on the Paraná River, blending practical fishing advice with audience engagement and personal storytelling. The speaker uses colloquial language typical of informal Brazilian Portuguese, reflecting a rural or regional context. Key elements include fishing techniques, audience interaction, and cultural references.",
+      "structure": "The commentary follows a loose structure: introduction, fishing process, audience engagement, technique sharing, and a closing thank you with a call to action. It includes moments of frustration, excitement, and gratitude.",
+      "language": "Informal and enthusiastic, with frequent use of slang like 'top, top' and 'show de bola' (meaning 'great' or 'awesome'). Religious references (e.g., thanking God) and personal nicknames (e.g., 'Galo') add cultural and personal authenticity.",
+      "key_points": {
+        "fishing_techniques": "Mentions of using 'tuvira' (likely a local bait or technique), preparing bait, and targeting specific fish like 'curvinão', 'lambari', and 'corvina'.",
+        "audience_engagement": "Repeated calls for likes, subscriptions, and interaction, typical of content creators.",
+        "cultural_elements": "Religious gratitude, use of regional slang, and references to locations like 'Cardoso', a known fishing spot.",
+        "emotional_highs_and_lows": "Frustration when fish escape, excitement upon catching them, and a sense of connection to the river and its ecosystem."
+      },
+      "additional_notes": "The speaker uses a GoPro for recording, indicating a focus on visual content. The informal tone and personal anecdotes enhance the authenticity of the commentary, making it relatable to viewers interested in fishing or regional culture."
+    }
+  }
+}

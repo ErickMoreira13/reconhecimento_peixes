@@ -1,0 +1,26 @@
+{
+  "arquivo": "sko6CZtJRpE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:06:48.652902",
+  "classificacao": {
+    "especies": [
+      "piapara",
+      "lambari",
+      "curimbatá"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "massa de miso",
+      "caroço"
+    ],
+    "graos": [],
+    "cevas": [],
+    "tecnicas": [],
+    "local": "Rio Atibaia, próximo à rodovia Dão Pedro (referido como 'poça do terremoto' devido às vibrações causadas pelos carros)",
+    "observacoes": [
+      "Menciona a perda de uma piapara durante a pesca.",
+      "Destaca a utilização de 'caroço' (mistura de ingredientes pressionada em bola) como isca.",
+      "Menciona a possibilidade de pesca em outros locais como Araras, Porto Ferreira e Nenê."
+    ]
+  }
+}

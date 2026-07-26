@@ -1,0 +1,17 @@
+{
+  "arquivo": "3LUBEgWhuxw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:11:05.586980",
+  "classificacao": {
+    "summary": "O texto apresenta uma sequência de diálogos e ações entre personagens (Fredão, Miguel, Gauchito, entre outros) em um contexto de pesca e churrasco. Há repetições de frases como 'O Fredão perdeu o anzol', sugerindo uma brincadeira ou referência a um evento específico. O encontro ocorre em uma área próxima ao Rio Miranda, com menções a conservação ambiental ('Patrimônio da humanidade') e interações sociais, como a preparação de um churrasco. O conteúdo mistura elementos de humor, atividades ao ar livre e possíveis referências a uma cultura local ou comunitária.",
+    "translation": "The text presents a sequence of dialogues and actions between characters (Fredão, Miguel, Gauchito, among others) in the context of fishing and barbecue. There are repetitions of phrases like 'Fredão lost the hook,' suggesting a joke or reference to a specific event. The meeting takes place near the Miranda River, with mentions of environmental conservation ('Heritage of humanity') and social interactions, such as preparing a barbecue. The content mixes humor, outdoor activities, and possible references to local or community culture.",
+    "themes": [
+      "Conservação ambiental",
+      "Comunidade",
+      "Humor",
+      "Atividades ao ar livre",
+      "Cultura local"
+    ],
+    "context": "Possivelmente um script de vídeo, diário de bordo ou transcrição de uma interação informal entre amigos durante uma atividade de pesca e socialização."
+  }
+}

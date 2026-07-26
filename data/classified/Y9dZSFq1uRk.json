@@ -1,0 +1,28 @@
+{
+  "arquivo": "Y9dZSFq1uRk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:55:59.059534",
+  "classificacao": {
+    "especies": [
+      "Laqueira",
+      "Bala"
+    ],
+    "equipamentos": [
+      "Boinha"
+    ],
+    "iscas": [
+      "Tuvira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Juquiaia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

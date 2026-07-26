@@ -1,0 +1,24 @@
+{
+  "arquivo": "UfibbQq1_pY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:22:46.169777",
+  "classificacao": {
+    "especies": [
+      "Iguara",
+      "Xaraé"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jaguaribe"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

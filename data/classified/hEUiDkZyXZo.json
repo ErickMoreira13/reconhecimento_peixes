@@ -1,0 +1,31 @@
+{
+  "arquivo": "hEUiDkZyXZo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:21:31.037643",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Varão"
+    ],
+    "iscas": [
+      "Dedo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Itaici"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "A pesca está fraca ultimamente, mas foi possível capturar alguns piaus."
+    ]
+  }
+}

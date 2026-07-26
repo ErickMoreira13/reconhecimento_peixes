@@ -1,0 +1,41 @@
+{
+  "arquivo": "ily0fTtBt_g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:52:05.324479",
+  "classificacao": {
+    "especies": [
+      "Baiacu",
+      "Salema",
+      "Bagre",
+      "Coro",
+      "Roncador"
+    ],
+    "equipamentos": [
+      "Cana",
+      "A80"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Esportiva"
+    ],
+    "rios": [
+      "Rio Grande"
+    ],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "Beberibe",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Pescaria em Praia das Fontes",
+      "Captura de peixes como baiacu, salema e bagre",
+      "Mencionado acidente com bagre",
+      "Realização de churrasco com os peixes capturados"
+    ]
+  }
+}

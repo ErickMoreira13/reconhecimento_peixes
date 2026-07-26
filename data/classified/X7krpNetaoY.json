@@ -1,0 +1,23 @@
+{
+  "arquivo": "X7krpNetaoY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:21:57.654517",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Crawl Tube"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Salto Santiago",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

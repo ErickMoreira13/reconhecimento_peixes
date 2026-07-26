@@ -1,0 +1,36 @@
+{
+  "arquivo": "5oDXUDdBNWI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:19:21.361208",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra",
+      "Tucunaré",
+      "Cará"
+    ],
+    "equipamentos": [
+      "Anzol Mustard número 8"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Enrosso",
+      "Pescaria Variada"
+    ],
+    "rios": [],
+    "bacias": [
+      "Represa do Tablado"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Rural",
+      "Pescaria Variada"
+    ],
+    "observacoes": []
+  }
+}

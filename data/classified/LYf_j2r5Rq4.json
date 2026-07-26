@@ -1,0 +1,24 @@
+{
+  "arquivo": "LYf_j2r5Rq4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:22:29.876617",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol",
+      "Barco",
+      "Linha",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

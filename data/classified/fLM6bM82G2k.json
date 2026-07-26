@@ -1,0 +1,32 @@
+{
+  "arquivo": "fLM6bM82G2k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:27:43.592258",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [
+      "Presunto"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Pesquipaga"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Todo peixe pescado no local deve ser levado, podendo causar prejuízo financeiro ao pescador",
+      "Ocorreu a captura de um peixe raro, cujo nome não foi identificado"
+    ]
+  }
+}

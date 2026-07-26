@@ -1,0 +1,37 @@
+{
+  "arquivo": "a3GdCkzNm2A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:06:17.657119",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Palmito",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Linha",
+      "Equipamento Pesado",
+      "Equipamento Pequeno"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jogar isca longe",
+      "Usar equipamento pesado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Após perder a Piraíba, usaram equipamento mais pesado. O peixe às vezes escapa. A beleza dos peixes capturados foi destacada."
+    ]
+  }
+}

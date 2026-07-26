@@ -1,0 +1,34 @@
+{
+  "arquivo": "kTYcCedu2Cs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:12:12.288602",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Anzal",
+      "Caiaque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Sistema Antirrosco",
+      "Sistema Comum"
+    ],
+    "rios": [
+      "Riozinho"
+    ],
+    "bacias": [
+      "Pauleira"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Usou sistema antirrosco em áreas densas e sistema comum em áreas mais limpas."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "arquivo": "CJ0x_hGWOAU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:39:24.739441",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra",
+      "Jundiá",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Piscina"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Solta de peixes"
+    ],
+    "rios": [
+      "Represa"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de pesqueiro"
+    ],
+    "observacoes": [
+      "Sugestões de espécies para soltar podem ser deixadas nos comentários"
+    ]
+  }
+}

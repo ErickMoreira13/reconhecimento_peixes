@@ -1,0 +1,29 @@
+{
+  "arquivo": "69Z7TxDvLCk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:34:20.214067",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Machado",
+      "Caramujo"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Paraná",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

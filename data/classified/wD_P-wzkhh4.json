@@ -1,0 +1,28 @@
+{
+  "arquivo": "wD_P-wzkhh4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:02:39.088157",
+  "classificacao": {
+    "especies": [
+      "Gavião-caramugeiro",
+      "Frango-d'água"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [
+      "Pantanal da Bahia"
+    ],
+    "estado": "Bahia",
+    "municipio": "Remanso",
+    "tipo_pesca": [],
+    "observacoes": "Passeio de barco pela comunidade quilombola do Remanso, com taxa simbólica de R$ 10,00 por pessoa. Observação de flora como baronesas, vitórias régeas e papiros, e aves como gavião-caramugeiro e frango-d'água. Paradas para banho nas águas e caminhada até a Cachoeira do Roncador. Horário da volta ideal para observação de pássaros. Contato do barqueiro Zelão disponível na legenda."
+  }
+}

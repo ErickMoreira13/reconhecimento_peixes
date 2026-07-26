@@ -1,0 +1,23 @@
+{
+  "arquivo": "xed6dj4Mb_w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:49:07.750320",
+  "classificacao": {
+    "especies": [
+      "Amarelo",
+      "Piranha",
+      "Paiaria"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

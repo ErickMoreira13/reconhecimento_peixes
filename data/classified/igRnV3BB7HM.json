@@ -1,0 +1,26 @@
+{
+  "arquivo": "igRnV3BB7HM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:34:01.904181",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Galão",
+      "Cordinha",
+      "Madeirinha",
+      "Trato"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Método de fixação do trato no galão utilizando cordinha e madeirinha para facilitar o uso"
+    ]
+  }
+}

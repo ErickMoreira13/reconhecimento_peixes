@@ -1,0 +1,32 @@
+{
+  "arquivo": "9lBncGI3JX4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:43:32.139257",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "barco",
+      "carro",
+      "barraquinha",
+      "churrasqueira",
+      "pia"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Machado"
+    ],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "Presidente Médici",
+    "tipo_pesca": [],
+    "observacoes": [
+      "não foi pescado nenhum peixe durante a pescaria",
+      "localização: Chácara Silverado, BR364 entre Presidente Médici e Cacual",
+      "custo baixo para acampamento (10 reais por carro e 20 reais por barraquinha)",
+      "presença de acampamento com infraestrutura básica"
+    ]
+  }
+}

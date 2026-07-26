@@ -1,0 +1,47 @@
+{
+  "arquivo": "vCVaVloZqLs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:43:16.657987",
+  "classificacao": {
+    "especies": [
+      "Cará",
+      "Sardinha",
+      "Cará",
+      "Tambaqui",
+      "Bigodinho",
+      "Tilápia",
+      "Piava"
+    ],
+    "equipamentos": [
+      "Mulinete",
+      "Balde",
+      "Roda",
+      "Anzol"
+    ],
+    "iscas": [
+      "Minhoquinha viva"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural (Milhozinho picado)"
+    ],
+    "tecnica": [
+      "Pescaria com minhoquinha viva",
+      "Beliscar",
+      "Puxada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_de_pesca": "Pesca com minhoquinha viva",
+    "observacoes": [
+      "Pescaria realizada no inverno (junho)",
+      "Liberação de alguns peixes capturados",
+      "Água limpa e fria",
+      "Primeira experiência de pesca no inverno"
+    ]
+  }
+}

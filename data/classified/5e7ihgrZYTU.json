@@ -1,0 +1,26 @@
+{
+  "arquivo": "5e7ihgrZYTU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:13:01.521893",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbada anti-enrosco",
+      "Vergalhão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica anti-enrosco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica de posicionamento da chumbada para evitar enrosco em pedras"
+    ]
+  }
+}

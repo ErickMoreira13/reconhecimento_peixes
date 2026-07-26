@@ -1,0 +1,26 @@
+{
+  "arquivo": "OUcpW79-dls",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:16:12.693980",
+  "classificacao": {
+    "especies": [
+      "dourado",
+      "lambari",
+      "muçum",
+      "curimbinha",
+      "barbado"
+    ],
+    "equipamentos": [
+      "ventilula",
+      "carretilha",
+      "canivete",
+      "alicate",
+      "câmera"
+    ],
+    "iscas": [
+      "pescadinha"
+    ],
+    "cevas": [],
+    "graos": []
+  }
+}

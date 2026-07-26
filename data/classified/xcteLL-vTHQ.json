@@ -1,0 +1,40 @@
+{
+  "arquivo": "xcteLL-vTHQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:46:24.168833",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Vara telescópica",
+      "Antena inteligente",
+      "Boinha",
+      "Girador",
+      "Chinô número 2",
+      "Secretária",
+      "Salva-varas"
+    ],
+    "iscas": [
+      "Massa japonesa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com boia e girador",
+      "Pescaria com vara telescópica"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de boia leve para detectar movimentos sutis do peixe",
+      "Técnica de puxar a vara para cima para cansar o peixe rapidamente",
+      "Emprego de salva-varas para proteger a vara em capturas de peixes maiores"
+    ]
+  }
+}

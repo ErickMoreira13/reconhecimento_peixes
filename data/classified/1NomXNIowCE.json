@@ -1,0 +1,31 @@
+{
+  "arquivo": "1NomXNIowCE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:46:40.874678",
+  "classificacao": {
+    "especies": [
+      "Mata Enxã",
+      "Peixe Risca"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Mata Enxã"
+    ],
+    "rios": [
+      "Garapé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Mata Enxã"
+    ],
+    "observacoes": [
+      "700 gramas de mata enxã capturada",
+      "preparação de almoço com mata enxã assada"
+    ]
+  }
+}

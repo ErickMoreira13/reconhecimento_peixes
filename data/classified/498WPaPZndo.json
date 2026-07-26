@@ -1,0 +1,17 @@
+{
+  "arquivo": "498WPaPZndo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:31:51.049947",
+  "classificacao": {
+    "species": "Tilápia",
+    "equipment": [],
+    "baits": [
+      "Massa de fubá com óleo",
+      "Massa de ração de coelho com trigo",
+      "Massa de farinha de mandioca"
+    ],
+    "techniques": [],
+    "location": [],
+    "river": []
+  }
+}

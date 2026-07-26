@@ -1,0 +1,32 @@
+{
+  "arquivo": "cMmXYJy_nRs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:45:21.680725",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Lago",
+      "Garapé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Traíra"
+    ],
+    "observacoes": [
+      "sonho de consumo do pescador",
+      "quase do tamanho do pescador",
+      "fez bonito"
+    ]
+  }
+}

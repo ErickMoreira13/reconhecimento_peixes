@@ -1,0 +1,45 @@
+{
+  "arquivo": "O-zEQZE2QFc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:51:23.867657",
+  "classificacao": {
+    "especies": [
+      "Curimatã",
+      "Tambaqui",
+      "Tucunaré",
+      "Pacu",
+      "Piau",
+      "Mergulhão",
+      "Pescada",
+      "Maceta",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Flecha",
+      "Arco Flecha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Flecha",
+      "Arco Flecha"
+    ],
+    "rios": [
+      "Matagaba"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Flecha",
+      "Arco Flecha"
+    ],
+    "observacoes": [
+      "Peixes ariscos",
+      "Uso de câmera menor devido à chuva",
+      "Muita piaba, mas poucos peixes grandes",
+      "Peixado mencionado como local de captura"
+    ]
+  }
+}

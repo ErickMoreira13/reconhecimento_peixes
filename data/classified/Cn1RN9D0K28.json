@@ -1,0 +1,50 @@
+{
+  "arquivo": "Cn1RN9D0K28",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:46:38.664504",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Cará",
+      "Piabuna",
+      "Traíra",
+      "Corrobio"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Rede",
+      "Isca",
+      "Conserva de Pimenta"
+    ],
+    "iscas": [
+      "Toicinho",
+      "Conserva de Pimenta",
+      "Pimenta"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca",
+      "Pesca em Águas Paradas"
+    ],
+    "rios": [
+      "Corvo"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca com Isca"
+    ],
+    "observacoes": [
+      "Predominância de piranha e caras na pescaria",
+      "Uso de conserva de pimenta como ceva aromática",
+      "Localização no rio Corvo",
+      "Menciona dificuldade de acesso devido ao mato",
+      "Pescaria realizada em águas paradas"
+    ]
+  }
+}

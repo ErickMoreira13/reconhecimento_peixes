@@ -1,0 +1,24 @@
+{
+  "arquivo": "8RQ8piplr7c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:29:23.051767",
+  "classificacao": {
+    "especies": [
+      "Piabanha",
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Rura"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "5IZtaxcxUU8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:14:58.461871",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O pescador menciona a inevitabilidade da predação natural e a aceitação do ciclo da vida dos peixes."
+    ]
+  }
+}

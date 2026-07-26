@@ -1,0 +1,25 @@
+{
+  "arquivo": "O6-Mu4MjRyc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:12:24.833232",
+  "classificacao": {
+    "especies": [
+      "Curimbatá"
+    ],
+    "equipamentos": [
+      "telescópio"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Londrina",
+    "tipo_pesca": [],
+    "observacoes": [
+      "escabecha"
+    ]
+  }
+}

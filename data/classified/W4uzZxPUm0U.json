@@ -1,0 +1,16 @@
+{
+  "arquivo": "W4uzZxPUm0U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:55:07.676976",
+  "classificacao": {
+    "summary": "O texto é um relato de uma experiência de pesca no rio Jatapu, no estado de Roraima, Brasil, com o guia Gilmar. O narrador descreve a preparação para a pesca, os desafios do ambiente (correnteza forte, necessidade de usar barco em vez de caiaque), e os tipos de peixes capturados, como 'brutão', 'tucuninha', 'garateia' e 'roco'. O conteúdo também menciona a importância da preservação dos ecossistemas locais e a singularidade dos peixes do rio. O texto tem um tom informal, com linguagem casual e detalhes técnicos sobre métodos de pesca.",
+    "possible_needs": [
+      "Tradução do texto para outro idioma",
+      "Explicação sobre os termos técnicos de pesca mencionados",
+      "Informações sobre os peixes citados (brutão, tucuninha, etc.)",
+      "Detalhes sobre o rio Jatapu e a região de Roraima",
+      "Apoio para criar um roteiro de vídeo semelhante"
+    ],
+    "next_steps": "Por favor, informe qual das necessidades acima você deseja que eu atenda ou se há outra demanda específica."
+  }
+}

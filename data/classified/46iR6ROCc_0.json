@@ -1,0 +1,31 @@
+{
+  "arquivo": "46iR6ROCc_0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:31:00.434964",
+  "classificacao": {
+    "especies": [
+      "Cachara",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Vara Evolutium GT2 20, 60 libras",
+      "Molinete",
+      "Aetilha Titã 300"
+    ],
+    "iscas": [
+      "Salsichinha de fundo",
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Brigam"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "arquivo": "BPJ_ek4EHos",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:30:57.187560",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Piau",
+      "Carpa",
+      "Pacu"
+    ],
+    "equipment": [
+      "Garrafinha",
+      "Pote",
+      "Saco",
+      "Tambor"
+    ],
+    "baits": [
+      "Milho azedo",
+      "Ração P40"
+    ],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva Natural"
+    ],
+    "location": "Represa",
+    "duration": "10 dias"
+  }
+}

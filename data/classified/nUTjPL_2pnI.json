@@ -1,0 +1,38 @@
+{
+  "arquivo": "nUTjPL_2pnI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:27:09.431826",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Matrinchão",
+      "Pacu",
+      "Piauzão"
+    ],
+    "equipamentos": [
+      "varinha",
+      "linha",
+      "anzol",
+      "guata",
+      "alicate"
+    ],
+    "iscas": [
+      "soja",
+      "milho",
+      "cebola"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "localização": [
+      "lago",
+      "represa",
+      "rios"
+    ],
+    "observações": [
+      "É importante liberar os peixes capturados para preservar a espécie.",
+      "Fishing em rios pode ter restrições legais, dependendo da região.",
+      "O tamanho dos peixes capturados varia conforme a época do ano."
+    ]
+  }
+}

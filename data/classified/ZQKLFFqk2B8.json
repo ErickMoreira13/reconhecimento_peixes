@@ -1,0 +1,25 @@
+{
+  "arquivo": "ZQKLFFqk2B8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:41:50.107954",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Cabeça de frango"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Espinel"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

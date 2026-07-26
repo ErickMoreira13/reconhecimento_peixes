@@ -1,0 +1,34 @@
+{
+  "arquivo": "ANkixqbvDpA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:04:22.257123",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Jundiá"
+    ],
+    "equipamentos": [
+      "vara pesada"
+    ],
+    "iscas": [
+      "fígado de boi"
+    ],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "peixes soltos para preservacao"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "arquivo": "K2cMXxPKV_0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:27:54.779395",
+  "classificacao": {
+    "especies": [
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Artesanal",
+      "Remo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Laguna",
+    "tipo_pesca": [
+      "Pesca Artesanal"
+    ],
+    "observacoes": []
+  }
+}

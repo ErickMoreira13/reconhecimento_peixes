@@ -1,0 +1,36 @@
+{
+  "arquivo": "9mCj7NHmi2s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:44:25.832865",
+  "classificacao": {
+    "equipamentos": [
+      "Varinha",
+      "Molinete"
+    ],
+    "iscas": [
+      "Massa minhoca",
+      "Tu vira",
+      "Seva",
+      "Pedaço de bagra"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "especies": [
+      "Bagre",
+      "Bicão de pato",
+      "Bagre da barriga chapada"
+    ],
+    "tecnicas": [
+      "Arremesso",
+      "Técnica de arremesso com molinete"
+    ],
+    "rios": [
+      "Riozão",
+      "Riozinho"
+    ]
+  }
+}

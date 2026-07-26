@@ -1,0 +1,31 @@
+{
+  "arquivo": "AlqXSApZ720",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:00:37.827212",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "vara",
+      "carretilha",
+      "fio"
+    ],
+    "iscas": [
+      "funda"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "batida",
+      "provocação",
+      "bater na água",
+      "movimento"
+    ],
+    "observacoes": [
+      "captura de 6 tartarugas",
+      "fritão",
+      "local de difícil acesso"
+    ]
+  }
+}

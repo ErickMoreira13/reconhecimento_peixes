@@ -1,0 +1,36 @@
+{
+  "arquivo": "Ek6F4K9BSWI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:04:04.526919",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Tucunaré",
+      "Maré"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Linha",
+      "Vara"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Ceva de Partículas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Ceva",
+      "Pesca com Isca"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "EfYtQ-8t6pc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:58:05.984747",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba",
+      "Dourado",
+      "Matrinchã",
+      "Tabarana"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Grande"
+    ],
+    "bacias": [
+      "bacia do Rio Grande"
+    ],
+    "estado": "São Paulo",
+    "municipio": "Pauliceia",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

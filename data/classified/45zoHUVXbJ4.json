@@ -1,0 +1,25 @@
+{
+  "arquivo": "45zoHUVXbJ4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:30:22.413186",
+  "classificacao": {
+    "especies": [
+      "Chicharro"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Chicharra"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Usando chicharra como isca devido à falta de carnada."
+    ]
+  }
+}

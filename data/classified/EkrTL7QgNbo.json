@@ -1,0 +1,31 @@
+{
+  "arquivo": "EkrTL7QgNbo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:05:28.017844",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Borá Plus"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Recolhimento Lento",
+      "Recolhimento Rápido",
+      "Trabalho na Meia Água"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Importância de treinar diferentes trabalhos com iscas artificiais",
+      "Adaptação do trabalho da isca conforme o comportamento do peixe",
+      "Uso de iscas artificiais com relevos para criar barulho na água"
+    ]
+  }
+}

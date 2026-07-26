@@ -1,0 +1,33 @@
+{
+  "arquivo": "o6pLbK9WEws",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:13:22.213403",
+  "classificacao": {
+    "especies": [
+      "Piraputanga",
+      "Lambari",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "canoa",
+      "viveiro",
+      "alicate"
+    ],
+    "iscas": [
+      "isca de peixe"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Corumbá"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Corumbá",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "1uZIQ2UIbls",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:51:52.484721",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tubarão"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Bambu",
+      "Maciota",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Escar",
+      "Chacoalhar Bambu",
+      "Chamar Bambuzada",
+      "Firmar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

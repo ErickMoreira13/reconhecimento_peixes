@@ -1,0 +1,23 @@
+{
+  "arquivo": "5U_nyf5fxyI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:32:23.878065",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fechão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

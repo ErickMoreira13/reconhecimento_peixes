@@ -1,0 +1,26 @@
+{
+  "arquivo": "rUWlHrDWJc4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:33:38.100018",
+  "classificacao": {
+    "especies": [
+      "Pintado"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca",
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso a 3-4 metros do barranco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Vale Verde",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

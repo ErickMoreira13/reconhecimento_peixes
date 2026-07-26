@@ -1,0 +1,44 @@
+{
+  "arquivo": "C3Ueld8LguA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:13:53.620645",
+  "classificacao": {
+    "especies": [
+      "Pitanga",
+      "Tucunã",
+      "Dourado",
+      "Taturana"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Fiotinho",
+      "Caiaque",
+      "Canzal"
+    ],
+    "iscas": [
+      "Isca atrativa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial",
+      "Pesca em canal"
+    ],
+    "rios": [
+      "Iquitos"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície",
+      "Pesca com vara"
+    ],
+    "observacoes": [
+      "Presença de espinhos no rio",
+      "Encontro com taturana causando dor intensa",
+      "Peixe capturado em canal",
+      "Uso de isca que atraiu peixes por muito tempo"
+    ]
+  }
+}

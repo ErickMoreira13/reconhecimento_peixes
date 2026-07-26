@@ -1,0 +1,24 @@
+{
+  "arquivo": "JGaDR5eBJ2Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:00:07.971098",
+  "classificacao": {
+    "summary": "O vídeo apresenta uma experiência de pesca em uma fazenda no interior do Brasil, com destaque para a captura de diferentes espécies de peixes, como lambari, tucunaré e tilápia. O narrador discute estratégias de pesca, como o uso de iscas artificiais e naturais (como camarão), e enfatiza a importância de preservar peixes em fase de reprodução, liberando-os após a captura. Há menção a interações com um amigo chamado Ramon, que está filetando os peixes capturados, e a preparação de alguns para fritura. O conteúdo também inclui uma celebração de aniversário para Marielle e uma menção a futuras pescarias, como a busca por um estilapa em Riolândia. O tom é animado e informal, com detalhes sobre a localização (Fazenda Santa Lourdes, Cardoso) e a experiência prática de pesca.",
+    "key_points": [
+      "Uso de iscas artificiais e naturais (como camarão) para atrair diferentes espécies de peixes.",
+      "Prática de conservação: liberação de peixes em fase de reprodução.",
+      "Preparação de peixes capturados para consumo (fritura).",
+      "Interação com Ramon, que está filetando os peixes.",
+      "Menciona a celebração de aniversário de Marielle e planos futuros de pesca em Riolândia.",
+      "Localização da pescaria: Fazenda Santa Lourdes, Cardoso."
+    ],
+    "species_mentioned": [
+      "Lambari",
+      "Tucunaré",
+      "Tilápia",
+      "Estilapa (alvo de futura pescaria)"
+    ],
+    "conservation_notes": "O narrador enfatiza a importância de preservar a reprodução de peixes, liberando alguns após a captura, o que sugere uma abordagem sustentável de pesca.",
+    "future_plans": "Mencionado o plano de capturar um estilapa em Riolândia em uma futura pescaria."
+  }
+}

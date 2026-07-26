@@ -1,0 +1,23 @@
+{
+  "arquivo": "T9FUJuB9NUw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:47:07.804079",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Faca de lâmina fina e alongada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Filietagem"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

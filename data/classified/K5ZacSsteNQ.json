@@ -1,0 +1,40 @@
+{
+  "arquivo": "K5ZacSsteNQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:40:41.220330",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Sisteminha",
+      "Chumbada palito",
+      "Nó tradicional número 6"
+    ],
+    "iscas": [
+      "Fígados desidratados"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Massa de arroz cozido com farinha de trigo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "A massa de arroz cozido com farinha de trigo é resistente e atrai curimbão rapidamente",
+      "Duas capturas consecutivas com a mesma isca e ceva",
+      "A massa permanece intacta por longos períodos na água"
+    ]
+  }
+}

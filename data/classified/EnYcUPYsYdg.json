@@ -1,0 +1,39 @@
+{
+  "arquivo": "EnYcUPYsYdg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:10:34.631379",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Pedrão"
+    ],
+    "equipamentos": [
+      "Carretilho Evox Varadate",
+      "Linha",
+      "Alicate da Obatroche"
+    ],
+    "iscas": [
+      "Isca reforçada",
+      "Isca transparente",
+      "Isca só negro"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca só negro",
+      "Soltação de peixes"
+    ],
+    "rios": [
+      "Rio Azul"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Dia de pesca abençoado",
+      "Área fenomenal",
+      "Show"
+    ]
+  }
+}

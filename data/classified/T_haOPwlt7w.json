@@ -1,0 +1,37 @@
+{
+  "arquivo": "T_haOPwlt7w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:47:29.178421",
+  "classificacao": {
+    "especies": [
+      "robalo",
+      "flecha",
+      "pescada"
+    ],
+    "equipamentos": [
+      "caiaque",
+      "carretilha",
+      "linha",
+      "vara",
+      "carretel",
+      "carretilha sole",
+      "vara dadson"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "descaída"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Cuiarana",
+    "tipo_pesca": [
+      "pesca de caiaque"
+    ],
+    "observacoes": [
+      "Técnica de pesca utilizando a força da maré durante a vazante, com uso de carretilha Evox, linha X4 e vara STP. Espécies capturadas incluem robalo, flecha e pescada."
+    ]
+  }
+}

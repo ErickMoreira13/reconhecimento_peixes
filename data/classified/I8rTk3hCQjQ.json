@@ -1,0 +1,33 @@
+{
+  "arquivo": "I8rTk3hCQjQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:25:31.494625",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Negro"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

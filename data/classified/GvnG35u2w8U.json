@@ -1,0 +1,31 @@
+{
+  "arquivo": "GvnG35u2w8U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:20:58.270135",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Zedal"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Zedal"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

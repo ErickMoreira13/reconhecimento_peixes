@@ -1,0 +1,59 @@
+{
+  "arquivo": "_Fn4cgGsoYY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:58:22.857500",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Pacu",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Saco de ráfia",
+      "Saco furado",
+      "Saco plástico"
+    ],
+    "iscas": [
+      "Farelo de arroz",
+      "Mandioca",
+      "Milho podre",
+      "Ração de cavalo",
+      "Ração de coelho",
+      "Ração de crescimento",
+      "Ração de postura",
+      "Terra de formigueiro"
+    ],
+    "cevas": [
+      "Ceva Aromática",
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Quirera",
+      "Rolão de milho"
+    ],
+    "tecnicas": [
+      "Arremessar",
+      "Fermentar",
+      "Misturar",
+      "Secar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de ceva",
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Evitar ração com ureia",
+      "Fazer buraquinhos no saco plástico",
+      "Misturar proporções variadas",
+      "Proteger a ceva de animais",
+      "Usar saco plástico para evitar contato com a mão"
+    ]
+  }
+}

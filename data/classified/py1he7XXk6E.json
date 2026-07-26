@@ -1,0 +1,28 @@
+{
+  "arquivo": "py1he7XXk6E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:25:10.656414",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boia",
+      "Vara de Praia",
+      "Caiaque"
+    ],
+    "iscas": [
+      "Cebola",
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Takuari"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Santa Bárbara",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

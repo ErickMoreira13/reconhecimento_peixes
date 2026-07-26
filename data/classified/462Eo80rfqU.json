@@ -1,0 +1,41 @@
+{
+  "arquivo": "462Eo80rfqU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:30:38.285961",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piranha",
+      "Tucunaré",
+      "Apaiaria"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Brico"
+    ],
+    "iscas": [
+      "Ceva"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em ceva"
+    ],
+    "observacoes": [
+      "Peixe escapou após ser pescado",
+      "Apaiaria de grande tamanho capturado",
+      "Uso de brico para pescaria"
+    ]
+  }
+}

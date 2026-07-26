@@ -1,0 +1,31 @@
+{
+  "arquivo": "T3LLCFmskMA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:44:06.511788",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Canhão"
+    ],
+    "iscas": [
+      "Farelo",
+      "Terra"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Quirera"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

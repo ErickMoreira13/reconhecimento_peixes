@@ -1,0 +1,26 @@
+{
+  "arquivo": "aLrlVwOJ_y8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:00:59.074531",
+  "classificacao": {
+    "especies": [
+      "Jundiá",
+      "Lambari"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "equipamentos": [
+      "Linhas de pesca",
+      "Barraca de pesca"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "cevas": [],
+    "tecnicas": [
+      "Linha armada",
+      "Isca de pão"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "UkRQBt8sMI8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:06:25.419677",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

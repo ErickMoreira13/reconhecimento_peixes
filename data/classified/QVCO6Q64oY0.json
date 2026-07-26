@@ -1,0 +1,16 @@
+{
+  "arquivo": "QVCO6Q64oY0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:33:00.003371",
+  "classificacao": {
+    "summary": "O texto é um relato informal de uma atividade de pesca, provavelmente de um vídeo de YouTube, onde o narrador descreve a captura de um peixe chamado 'lobó' que engoliu um anzol. O conteúdo é cheio de emoção, repetições e interjeções, com conversas entre participantes sobre a dificuldade de pescar o peixe, a excitação ao vê-lo se soltar e a intenção de preparar o peixe para uma refeição (fazer um frito). O ambiente parece ser uma pescaria em um local chamado 'Córrego Douradilho', com referências a nomes como 'Jumaia' e 'Coyote', possivelmente pessoas envolvidas na atividade. A linguagem é coloquial, com expressões como 'É hora de pegar lobó', 'Vamos levar, né?' e 'Puxa, puxa!', refletindo o entusiasmo e a informalidade do contexto.",
+    "context": "O texto parece ser uma transcrição de um vídeo de pesca, comum em plataformas como YouTube, onde o conteúdo é baseado em experiências pessoais, interações sociais e a preparação de alimentos. A linguagem informal e o uso de expressões repetitivas são típicos de narrativas orais ou de vídeos de entretenimento.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise da linguagem coloquial",
+      "Identificação de termos específicos (ex.: 'lobó', 'Córrego Douradilho')",
+      "Contextualização cultural da atividade de pesca"
+    ]
+  }
+}

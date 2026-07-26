@@ -1,0 +1,22 @@
+{
+  "arquivo": "cZ8hi0W3qWQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:37:20.010387",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

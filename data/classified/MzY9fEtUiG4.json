@@ -1,0 +1,38 @@
+{
+  "arquivo": "MzY9fEtUiG4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:20:06.098294",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Mulinete",
+      "Vara",
+      "Blanque da vara",
+      "Peso de gig"
+    ],
+    "iscas": [
+      "Camarão artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalho do camarão artificial",
+      "Controle da isca",
+      "Toque no fundo",
+      "Uso de peso de gig",
+      "Arremesso com ação da vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Menciona um curso chamado 'O Especialista de Roubalo'"
+    ]
+  }
+}

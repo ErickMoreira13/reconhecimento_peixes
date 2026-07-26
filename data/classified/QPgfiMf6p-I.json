@@ -1,0 +1,32 @@
+{
+  "arquivo": "QPgfiMf6p-I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:57:25.235387",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara",
+      "Molinete",
+      "Linha",
+      "Chicote",
+      "Chubada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Costão",
+      "Pescaria nas Pedras"
+    ],
+    "observacoes": [
+      "Uso de chicote de miçanga para facilitar o giro e evitar enrosco",
+      "Emprego de chubada achatada para facilitar o recolhimento",
+      "Utilização de distorcidorzinho na união do chicote com a linha principal"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "NCVzyLbgyBA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:39:43.582717",
+  "classificacao": {
+    "especies": [
+      "Curimatã",
+      "Piramba",
+      "Pirecas",
+      "Pirebecas",
+      "Piriguete"
+    ],
+    "equipamentos": [
+      "Cadeia de mão",
+      "Galão"
+    ],
+    "iscas": [
+      "Coiô",
+      "Cordão de vela"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de mão",
+      "Pescaria de galão"
+    ],
+    "rios": [
+      "Rio Jaguari",
+      "Rio Jaguariba"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de mão",
+      "Pescaria de galão"
+    ],
+    "observacoes": []
+  }
+}

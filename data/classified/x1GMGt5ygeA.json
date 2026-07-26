@@ -1,0 +1,30 @@
+{
+  "arquivo": "x1GMGt5ygeA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:09:37.808293",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Berézio",
+      "Varinha"
+    ],
+    "iscas": [
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

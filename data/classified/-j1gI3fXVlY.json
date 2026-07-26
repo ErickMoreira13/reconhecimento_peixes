@@ -1,0 +1,19 @@
+{
+  "arquivo": "-j1gI3fXVlY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:18:45.739759",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "arquivo": "1XdYELZ1cjM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T14:29:06.742344",
+  "classificacao": {
+    "species": [
+      "Caraca",
+      "Baranga",
+      "Linguado",
+      "Corvina",
+      "Minivina",
+      "Nutralite",
+      "Badejinho",
+      "Cromadinho",
+      "Curvina",
+      "Cocoroca",
+      "Cocoroquinha",
+      "Linguadar",
+      "Pincete"
+    ],
+    "equipment": [
+      "Vara Lumis Intense",
+      "Max Force 18 libras",
+      "Marino Sport Ventura VT10",
+      "Giga de pindolquinha",
+      "Anzalzinho",
+      "Suporte hook do Nelson",
+      "Carbon X500",
+      "YGK 14 libras",
+      "Paranel Speed Prime",
+      "Fini 030",
+      "Suportezinho do Nelson",
+      "Xinglingzinho",
+      "Suporte Hulk com Atrativo",
+      "Suporte hook"
+    ],
+    "baits": [
+      "Camarãozinho",
+      "Essência de camarão",
+      "Carapicu",
+      "Camarão artificial",
+      "Jiguezinho",
+      "Plug",
+      "Micro jiguezinho",
+      "Suporte Hulk com Atrativo",
+      "Essênciazinha"
+    ],
+    "grains": [],
+    "cevas": [
+      "Ceva Aromática (essência de camarão, essênciazinha)"
+    ],
+    "location": "Rio de Janeiro, Brasil",
+    "techniques": [
+      "Jigue",
+      "Plug",
+      "Camarão artificial",
+      "Micro jigue",
+      "Suporte Hulk com Atrativo",
+      "Xinglingzinho",
+      "Suporte hook",
+      "Suportezinho do Nelson"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "VAuxALn9kdY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:40:13.652469",
+  "classificacao": {
+    "especies": [
+      "Tabarana"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

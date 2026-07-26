@@ -1,0 +1,38 @@
+{
+  "arquivo": "25CUSRBBInM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:07:11.186063",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Shimano",
+      "Cortuvira"
+    ],
+    "iscas": [
+      "Isca Joana"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Turvira"
+    ],
+    "rios": [
+      "Rio Uruguai"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Primeira pescaria do ano no Rio Uruguai",
+      "Uso da camiseta do Pesca das Gurias",
+      "Menciona dificuldade do Rio Uruguai",
+      "Menciona uso de iscas específicas"
+    ]
+  }
+}

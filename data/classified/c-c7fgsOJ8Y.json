@@ -1,0 +1,48 @@
+{
+  "arquivo": "c-c7fgsOJ8Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T10:10:45.912069",
+  "classificacao": {
+    "especies": [
+      "lambari",
+      "curvina",
+      "corvina",
+      "piranha",
+      "pitona",
+      "caricula",
+      "turvinão",
+      "ozolzinho",
+      "lambarinha",
+      "lambari morto",
+      "chaveirinho",
+      "sabiá",
+      "dourado",
+      "trairão",
+      "tambaqui",
+      "pacu",
+      "pirarara",
+      "piau",
+      "tilápia"
+    ],
+    "equipamentos": [
+      "anzol",
+      "linha",
+      "galão perfurado",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "tubo de PVC perfurado",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "recipiente perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [
+      "isca"
+    ],
+    "cevas": [],
+    "localizacao": "",
+    "data": "",
+    "horario": ""
+  }
+}

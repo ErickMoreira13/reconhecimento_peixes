@@ -1,0 +1,33 @@
+{
+  "arquivo": "-T9xvHeCgHE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:51:29.034972",
+  "classificacao": {
+    "especies": [
+      "Cuiu",
+      "Piranha",
+      "Mussurunga",
+      "Pararia"
+    ],
+    "equipamentos": [
+      "Viola",
+      "Tamais"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com a mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com a mão"
+    ],
+    "observacoes": [
+      "Peixes subindo para respirar devido à falta de oxigênio na área morta"
+    ]
+  }
+}

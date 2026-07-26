@@ -1,0 +1,25 @@
+{
+  "arquivo": "9Nx0fffw2Cw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:45:41.677344",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "colocar a Traíra de cabeça para baixo na vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

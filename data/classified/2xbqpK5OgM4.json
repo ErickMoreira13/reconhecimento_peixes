@@ -1,0 +1,28 @@
+{
+  "arquivo": "2xbqpK5OgM4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:41:02.030958",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Molinete",
+      "Vara",
+      "Carbono",
+      "Anzol"
+    ],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Hoje eu pego um daqueles grandes De cinco quilos, viu, pessoal?"
+    ]
+  }
+}

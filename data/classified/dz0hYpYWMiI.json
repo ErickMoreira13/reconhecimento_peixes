@@ -1,0 +1,25 @@
+{
+  "arquivo": "dz0hYpYWMiI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:32:19.694654",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "carulho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Falecer, você está pescando, você solta um, ele vai embora e leva o carulho."
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "arquivo": "yWMIJT-EqDA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:32:32.168585",
+  "classificacao": {
+    "error": "The user provided a text but did not ask a specific question. Please clarify the task or question related to the text."
+  }
+}

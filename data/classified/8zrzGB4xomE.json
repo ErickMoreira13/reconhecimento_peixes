@@ -1,0 +1,29 @@
+{
+  "arquivo": "8zrzGB4xomE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:37:12.973174",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha",
+      "Freio",
+      "Ajuste Fino",
+      "Freio Magnético"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Regulagem da Estrela",
+      "Regulagem do Freio",
+      "Ajuste Fino",
+      "Regulagem do Freio Magnético"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "arquivo": "lSOY4bpfUMk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:47:18.919152",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Recipiente",
+      "Anzol"
+    ],
+    "iscas": [
+      "Massa de ração de peixe",
+      "Massa com farelo de arroz",
+      "Essência de leite condensado"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Soja",
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Preparo de massa para isca",
+      "Uso de atrativos líquidos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Menciona uso de essência de leite condensado da marca Marvy"
+    ]
+  }
+}

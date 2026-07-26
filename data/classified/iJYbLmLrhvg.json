@@ -1,0 +1,27 @@
+{
+  "arquivo": "iJYbLmLrhvg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:38:40.241915",
+  "classificacao": {
+    "especies": [
+      "Pirarucu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O pirarucu é descrito como um grande peixe (bichão), e há menção à dificuldade de capturá-lo devido ao seu tamanho e força (pode puxar o pescador)."
+    ]
+  }
+}

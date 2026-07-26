@@ -1,0 +1,32 @@
+{
+  "arquivo": "yFRWMNGiUqY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:11:38.635368",
+  "classificacao": {
+    "especies": [
+      "Lovina",
+      "Tilapia",
+      "Mojarra",
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Señuelos"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em superficie"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Lovina",
+      "Pesca de Tilapia",
+      "Pesca de Mojarra"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "f_1uMAR_v_8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:03:32.759979",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol de galha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

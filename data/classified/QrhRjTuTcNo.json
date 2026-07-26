@@ -1,0 +1,23 @@
+{
+  "arquivo": "QrhRjTuTcNo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:00:49.259036",
+  "classificacao": {
+    "especies": [
+      "Tambacu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O peixe apresentava fungo e machucados no corpo."
+    ]
+  }
+}

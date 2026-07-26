@@ -1,0 +1,31 @@
+{
+  "arquivo": "ZZ1NByZJrKk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:03:47.198435",
+  "classificacao": {
+    "resumen": "El video muestra una experiencia de pesca en diversos lugares, incluyendo una zona desierta de rocas, una central nuclear (Springfield) y una central térmica. El narrador describe técnicas de pesca, como el uso de cebo y lures, y menciona especies capturadas como palometa, surubí y otros. Destaca la exploración de diferentes puntos de pesca, la interacción con el entorno y la intención de regresar otro día. También incluye referencias culturales, como la mención de Springfield, posiblemente aludiendo a la serie *Los Simpson*.",
+    "puntos_clave": {
+      "ubicaciones": [
+        "zona desierta de rocas",
+        "central nuclear de Springfield",
+        "central térmica"
+      ],
+      "técnicas_de_pesca": [
+        "uso de cebo",
+        "lures",
+        "exploración de puntos de pesca"
+      ],
+      "especies_capturadas": [
+        "palometa",
+        "surubí",
+        "otras especies no especificadas"
+      ],
+      "experiencia": "descripción detallada del proceso de pesca, interacción con el entorno y satisfacción al capturar peces",
+      "referencias_culturales": [
+        "Springfield (posible alusión a *Los Simpson*)",
+        "menciones de personajes o lugares ficticios"
+      ]
+    },
+    "conclusion": "El video combina elementos de entretenimiento, educación sobre pesca y referencias culturales, presentando una experiencia de pesca en entornos variados con un enfoque narrativo informal."
+  }
+}

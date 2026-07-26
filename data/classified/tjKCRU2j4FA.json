@@ -1,0 +1,23 @@
+{
+  "arquivo": "tjKCRU2j4FA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:06:01.251827",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Arinos"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "Itapurá",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

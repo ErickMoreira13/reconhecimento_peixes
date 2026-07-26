@@ -1,0 +1,32 @@
+{
+  "arquivo": "V6IYcc9Psi8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:36:35.540153",
+  "classificacao": {
+    "especies": [
+      "Siri"
+    ],
+    "equipamentos": [
+      "Puçar"
+    ],
+    "iscas": [
+      "Peixe"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Armadilha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com armadilha"
+    ],
+    "observacoes": [
+      "Gaça se aproximou do casco para fazer o lanchinho",
+      "Gaça pegou o peixe oferecido"
+    ]
+  }
+}

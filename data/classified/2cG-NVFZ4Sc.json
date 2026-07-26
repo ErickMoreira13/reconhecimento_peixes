@@ -1,0 +1,30 @@
+{
+  "arquivo": "2cG-NVFZ4Sc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:09:43.077678",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Gaiola"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com rede",
+      "Pesca com gaiola"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com rede",
+      "Pesca com gaiola"
+    ],
+    "observacoes": []
+  }
+}

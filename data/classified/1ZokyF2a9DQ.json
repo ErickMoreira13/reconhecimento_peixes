@@ -1,0 +1,38 @@
+{
+  "arquivo": "1ZokyF2a9DQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:03:19.880954",
+  "classificacao": {
+    "especies": [
+      "Sorubim"
+    ],
+    "equipamentos": [
+      "Corda",
+      "Anzol",
+      "Ferro",
+      "Remalas",
+      "Caçamba",
+      "Pedra",
+      "Escada"
+    ],
+    "iscas": [
+      "Maçã"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Anzol",
+      "Pesca com Isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Canta Índice",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Resultado da pescaria: dois soruvinhos bonitos"
+    ]
+  }
+}

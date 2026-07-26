@@ -1,0 +1,51 @@
+{
+  "arquivo": "uwz7VR_sL7I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T12:26:07.768880",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Piranha-Beba",
+      "Popó"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Vara",
+      "Anzol",
+      "Ceva",
+      "Galão Perfurado",
+      "Saco Furado",
+      "Pasta"
+    ],
+    "iscas": [
+      "Isca Nova",
+      "Piaba Viva",
+      "Piaba",
+      "Piranha-Beba"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Ceva de Partículas",
+      "Uso de Isca Viva",
+      "Mudança de Isca",
+      "Espera do Peixe Enganchar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de isca viva e ceva de partículas",
+      "Mudança de isca durante a pesca",
+      "Luta intensa com a piranha",
+      "Uso de galão perfurado para ceva",
+      "Pescaria com emoção e desafio"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "arquivo": "KpbiKmDsafI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:00:31.159695",
+  "classificacao": {
+    "summary": "O texto é um relato entusiasmado de uma pessoa que está em um local de pesca, descrevendo a montagem de uma estrutura temporária (possivelmente uma barraca ou abrigo), a preparação para a pesca e a captura de tilápias. O narrador usa linguagem coloquial e expressões como 'Caralho' e 'Show' para transmitir emoção e entusiasmo. Ele menciona detalhes sobre o equipamento, o clima, a interação com outras pessoas no local e a satisfação com os resultados da pesca. O tom geral é informal, animado e repleto de descrições sensoriais (como o cheiro da água, o som dos peixes).",
+    "key_points": [
+      "Montagem de abrigo para pesca",
+      "Captura de tilápias",
+      "Uso de linguagem coloquial e expressões regionais",
+      "Descrições detalhadas do ambiente e do processo de pesca",
+      "Interações sociais no local"
+    ],
+    "cultural_notes": "A linguagem usada reflete o português brasileiro, com expressões comuns em contextos informais, como 'Caralho' (exclamação) e 'Show' (apreciação). A referência a tilápias indica uma atividade de pesca em ambientes aquáticos, possivelmente em rios ou lagos."
+  }
+}

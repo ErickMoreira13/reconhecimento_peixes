@@ -1,0 +1,35 @@
+{
+  "arquivo": "xlOjG02bXQc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:05:31.635983",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Magic Stick",
+      "Matrix 90",
+      "Storm",
+      "Sapatilha",
+      "Nautica treca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Esquina de fundo",
+      "Esquina de meia água",
+      "Trabalho contínuo"
+    ],
+    "rios": [
+      "Rio Itapocu"
+    ],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Araquari",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

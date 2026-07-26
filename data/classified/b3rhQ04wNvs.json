@@ -1,0 +1,38 @@
+{
+  "arquivo": "b3rhQ04wNvs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:33:12.053500",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Massa",
+      "Calabresa",
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Dourado"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Água muito gelada",
+      "Pescaria fraca",
+      "Uso de ceva com milho, soja podre, farelo de arroz e trigo"
+    ]
+  }
+}

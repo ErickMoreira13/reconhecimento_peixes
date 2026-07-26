@@ -1,0 +1,44 @@
+{
+  "arquivo": "kK-A0CM77D8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:54:33.400619",
+  "classificacao": {
+    "species": [
+      "pirarara",
+      "Traíra",
+      "surubim",
+      "tambaqui",
+      "piranha",
+      "tucanaré",
+      "jarino",
+      "piranhão"
+    ],
+    "equipment": [
+      "cabeça de trairão",
+      "isca",
+      "anzol",
+      "fio",
+      "distorcedor",
+      "Snap",
+      "usor",
+      "luz",
+      "lâmpada",
+      "barraca",
+      "acampamento"
+    ],
+    "baits": [
+      "isca",
+      "isca pequenininha",
+      "iscaia trairão",
+      "piranha",
+      "peixe"
+    ],
+    "other_terms": [
+      "caldozinho",
+      "janta",
+      "material",
+      "filhote",
+      "escorpião"
+    ]
+  }
+}

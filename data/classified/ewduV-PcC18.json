@@ -1,0 +1,38 @@
+{
+  "arquivo": "ewduV-PcC18",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:54:46.599664",
+  "classificacao": {
+    "especies": [
+      "Charuto",
+      "Peixe Grande"
+    ],
+    "equipamentos": [
+      "Freio",
+      "Anzol",
+      "Vara",
+      "64"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe grande",
+      "Charuto",
+      "Azulão",
+      "Escapou",
+      "Arrancou",
+      "Pulando igual um louco",
+      "Rabos",
+      "Quadrado",
+      "64",
+      "Recuperar"
+    ]
+  }
+}

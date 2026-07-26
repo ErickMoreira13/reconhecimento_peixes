@@ -1,0 +1,26 @@
+{
+  "arquivo": "9JMmjnhngZI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:42:24.661102",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "balde",
+      "pau"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de siri"
+    ],
+    "observacoes": [
+      "Muitos siris capturados usando um balde e um pau"
+    ]
+  }
+}

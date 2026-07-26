@@ -1,0 +1,29 @@
+{
+  "arquivo": "k_F4tOwg0Pg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:43:24.284223",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "mulinete",
+      "vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso com mulinete",
+      "controle da saída de linha",
+      "técnica de segurar a vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "evitar arremessar a vara",
+      "não girar a vara durante o arremesso"
+    ]
+  }
+}

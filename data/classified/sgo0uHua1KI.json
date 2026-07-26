@@ -1,0 +1,28 @@
+{
+  "arquivo": "sgo0uHua1KI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:01:10.556244",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Pirarara",
+      "Peixes de couro"
+    ],
+    "equipamentos": [
+      "Liquidificador",
+      "Unzol"
+    ],
+    "iscas": [
+      "Fígado de frango",
+      "Corote",
+      "Água do lago"
+    ],
+    "graos": [
+      "Farelo P40"
+    ],
+    "ceva": [
+      "Ceva Natural",
+      "Ceva de fígado"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "P4ZKS4se6TM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:55:21.408242",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Preguiças"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Barreirinhas, Santo Amaro, Vila de Atins",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

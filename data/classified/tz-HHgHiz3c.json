@@ -1,0 +1,27 @@
+{
+  "arquivo": "tz-HHgHiz3c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:33:11.265589",
+  "classificacao": {
+    "species": [
+      "Sosmino",
+      "Trinchãzora",
+      "Espatão",
+      "Matrinchãzinha"
+    ],
+    "equipment": [
+      "Lona",
+      "Rede",
+      "Vara de pesca"
+    ],
+    "location": [
+      "Floresta Amazônica",
+      "Região de alagamento"
+    ],
+    "isca": [],
+    "cevas": [],
+    "other": [
+      "Ariranha"
+    ]
+  }
+}

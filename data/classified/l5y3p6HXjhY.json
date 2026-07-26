@@ -1,0 +1,31 @@
+{
+  "arquivo": "l5y3p6HXjhY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:44:34.743121",
+  "classificacao": {
+    "especies": [
+      "Papaterra"
+    ],
+    "equipamentos": [
+      "carretilha brisa GTO",
+      "vara 17 libras",
+      "linha multifilamento",
+      "chumbada modelo moeda",
+      "chicote com anzol",
+      "linha elástica"
+    ],
+    "iscas": [
+      "marisco"
+    ],
+    "graos": [],
+    "cevas": [],
+    "tipo_pesca": "Pesca de praia",
+    "observacoes": [],
+    "localizacao": "",
+    "estado": "",
+    "municipio": "",
+    "tecnica": [
+      "Arremesso em forma de pêndulo"
+    ]
+  }
+}

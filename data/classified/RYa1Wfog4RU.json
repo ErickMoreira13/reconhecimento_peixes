@@ -1,0 +1,25 @@
+{
+  "arquivo": "RYa1Wfog4RU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:38:12.894196",
+  "classificacao": {
+    "espécies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Jique",
+      "Vara Durendal da Pesca Brasil",
+      "Linha Cobra 40 libras"
+    ],
+    "iscas": [
+      "Milho verde",
+      "Sardinha"
+    ],
+    "grãos": [],
+    "condições de pesca": "Nível da água subiu, água turva, descendo espuma",
+    "técnicas": [
+      "Pescaria com jique",
+      "Pindocando"
+    ]
+  }
+}

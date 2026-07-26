@@ -1,0 +1,30 @@
+{
+  "arquivo": "yMBqpDInamY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:19:13.856583",
+  "classificacao": {
+    "especies": [
+      "Arraia",
+      "Caraca Bicho",
+      "Camarão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Olha o tanto de arraia",
+      "Caraca bicho",
+      "Camarão pega de mão",
+      "Olha aqui",
+      "Meu Deus gente, o que está acontecendo com esse rio cara",
+      "Olha o tamanho dessa arraia"
+    ]
+  }
+}

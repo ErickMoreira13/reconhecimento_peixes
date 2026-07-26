@@ -1,0 +1,36 @@
+{
+  "arquivo": "nCymlutsiEc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:39:56.915710",
+  "classificacao": {
+    "resumo": {
+      "localização": "Serra da Mesa (Goias, Brasil)",
+      "especie_de_peixe": "Mariana (possivelmente um tipo de peixe de água doce, como o curimbatá ou o tambaqui)",
+      "equipamento_usado": "Gigas de borrachinha, pedalzinho Power Drive",
+      "desafios": "Vento forte, ondas no lago, dificuldade em localizar peixes em certas áreas",
+      "experiência": {
+        "catches": [
+          {
+            "tamanho": "64 cm",
+            "local": "Colinas do Sul",
+            "data": "Anterior ao relato"
+          },
+          {
+            "tamanho": "60 cm",
+            "local": "Niquelândia",
+            "data": "Relato atual"
+          }
+        ],
+        "comparação": "Áreas como Uruaçu e Niquelândia têm mais peixes, enquanto Colinas do Sul e outras regiões têm menos, mas peixes maiores."
+      },
+      "dicas": {
+        "equipamento": "Usar gigas de borrachinha para melhor eficiência",
+        "estratégia": "Escolher entre capturar muitos peixes pequenos ou focar em poucos maiores, dependendo do local."
+      }
+    },
+    "observações": {
+      "interação_social": "Menciona conversas com outros pescadores, sugerindo que a atividade é comum na região.",
+      "condições_climáticas": "Vento e ondas afetam a experiência, exigindo adaptação na técnica de pesca."
+    }
+  }
+}

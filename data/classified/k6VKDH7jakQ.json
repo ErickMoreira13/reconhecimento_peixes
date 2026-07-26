@@ -1,0 +1,33 @@
+{
+  "arquivo": "k6VKDH7jakQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:41:21.851435",
+  "classificacao": {
+    "especies": [
+      "Barbado"
+    ],
+    "equipamentos": [
+      "Chumbo",
+      "Girador",
+      "Fluocarbon",
+      "Nó tradicional",
+      "Anzol 4/0"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de fundo",
+      "Pescaria apoitado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de fundo",
+      "Pescaria apoitado"
+    ],
+    "observacoes": []
+  }
+}

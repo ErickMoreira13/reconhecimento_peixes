@@ -1,0 +1,30 @@
+{
+  "arquivo": "JTvU-M_JwEs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:17:56.626437",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Filha de Jundia"
+    ],
+    "equipamentos": [
+      "Ancoragem"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arrumeço"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de ancoragem para posicionamento estratégico próximo à corredeira"
+    ]
+  }
+}

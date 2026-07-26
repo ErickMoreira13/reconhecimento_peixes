@@ -1,0 +1,25 @@
+{
+  "arquivo": "sNR7SqMA-Fw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:29:00.292526",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca do Dourado"
+    ],
+    "observacoes": []
+  }
+}

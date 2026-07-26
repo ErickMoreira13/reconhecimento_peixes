@@ -1,0 +1,33 @@
+{
+  "arquivo": "dZ9at59jFL0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:32:50.366052",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha",
+      "Chumbo",
+      "Anzóis",
+      "Girador"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Chicote Duplo para Pescaria de Fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Fundo"
+    ],
+    "observacoes": [
+      "Sistema eficaz no inverno para pesca de praia, pesqueiro e rio"
+    ]
+  }
+}

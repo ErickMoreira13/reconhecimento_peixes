@@ -1,0 +1,26 @@
+{
+  "arquivo": "XtA1gb3EBvg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:23:49.448914",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "carretel",
+      "tambor",
+      "tança"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "técnica de frenagem com o tambor",
+      "técnica de rebolear"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

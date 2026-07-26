@@ -1,0 +1,37 @@
+{
+  "arquivo": "El3GQv5ekAo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:07:16.948417",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Caiaque"
+    ],
+    "iscas": [
+      "Sanguessura"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Soltura de peixes"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Bruta",
+      "Budog",
+      "Dificuldade em soltar a traíra",
+      "Uso de alho como ceva aromática"
+    ]
+  }
+}

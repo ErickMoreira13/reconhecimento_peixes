@@ -1,0 +1,37 @@
+{
+  "arquivo": "4eUDF-TZXcs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:36:14.150559",
+  "classificacao": {
+    "summary": {
+      "location": "Balbina Dam (Amazon region)",
+      "activity": "Fishing for Tucunaré (a type of fish)",
+      "guides": {
+        "name": "Éden",
+        "role": "Experienced fishing guide",
+        "notes": "Shares knowledge about the ecosystem and fishing techniques"
+      },
+      "pilot": {
+        "name": "Oseias",
+        "role": "Assists with transportation and safety during the trip"
+      },
+      "fish_species": {
+        "name": "Tucunaré",
+        "characteristics": "Large, aggressive, and highly sought after by anglers",
+        "conservation": "Released after being caught to protect the population"
+      },
+      "challenges": {
+        "environment": "Dam environment with strong currents and caimans (predators)",
+        "techniques": "Requires patience and specialized equipment"
+      },
+      "experience": {
+        "description": "Combines adventure, ecological awareness, and cultural insights from the guides",
+        "themes": [
+          "Conservation",
+          "Traditional knowledge",
+          "Adventure tourism"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "2jxEMM9x1vQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:23:28.432324",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um live stream sobre pesca no Rio Tapajós, com descrições do ambiente, técnicas de pesca, interações com o público e desafios técnicos durante a transmissão. O conteúdo aborda a captura de espécies como toconaré e tucunaré, descreve o uso de iscas e equipamentos, e menciona a dificuldade de pesca em ambientes naturais. O streamer também interage com o público, respondendo a perguntas e compartilhando experiências.",
+    "translation": "The text is a transcript of a live stream about fishing on the Tapajós River, describing the environment, fishing techniques, interactions with the audience, and technical challenges during the broadcast. It covers the capture of species such as toconaré and tucunaré, describes the use of baits and equipment, and mentions the difficulty of fishing in natural environments. The streamer also interacts with the audience, answering questions and sharing experiences.",
+    "fishing_techniques": [
+      "Uso de iscas artificiais",
+      "Técnicas de pesca em águas profundas",
+      "Manejo de equipamentos em ambientes naturais"
+    ],
+    "species_mentioned": [
+      "Toconaré",
+      "Tucunaré"
+    ],
+    "technical_challenges": [
+      "Problemas com a transmissão ao vivo",
+      "Dificuldades de captura em ambientes com correntes fortes",
+      "Interferência de elementos naturais (como árvores e vegetação)"
+    ]
+  }
+}

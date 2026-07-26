@@ -1,0 +1,31 @@
+{
+  "arquivo": "XiAC8UaolX8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:01:51.821912",
+  "classificacao": {
+    "especies": [
+      "Jundiá"
+    ],
+    "equipamentos": [
+      "Varinha 6 libras",
+      "Molinetinho 800",
+      "Varinha 17 libras",
+      "Molinetinho 1000"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de dia"
+    ],
+    "rios": [
+      "Rio Tributos"
+    ],
+    "municipio": "Correia Pinto",
+    "estado": "Santa Catarina",
+    "bacias": [],
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ]
+  }
+}

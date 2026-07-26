@@ -1,0 +1,93 @@
+{
+  "arquivo": "9ZIAmTChb3s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:51:37.723390",
+  "classificacao": {
+    "species": [
+      {
+        "name": "Tilápia",
+        "normalized_name": "Tilápia"
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Bacinha",
+        "normalized_name": "Bacinha"
+      },
+      {
+        "name": "Baldinho",
+        "normalized_name": "Baldinho"
+      }
+    ],
+    "baits": [
+      {
+        "name": "Ração de coelho",
+        "normalized_name": "Ração de coelho"
+      },
+      {
+        "name": "Farinha de trigo",
+        "normalized_name": "Farinha de trigo"
+      },
+      {
+        "name": "Amido de milho",
+        "normalized_name": "Amido de milho"
+      },
+      {
+        "name": "Açúcar",
+        "normalized_name": "Açúcar"
+      }
+    ],
+    "cevas": [
+      {
+        "name": "Ceva Natural",
+        "normalized_name": "Ceva Natural",
+        "components": [
+          {
+            "name": "Farinha de trigo",
+            "normalized_name": "Farinha de trigo"
+          },
+          {
+            "name": "Amido de milho",
+            "normalized_name": "Amido de milho"
+          }
+        ]
+      },
+      {
+        "name": "Ceva Proteica",
+        "normalized_name": "Ceva Proteica",
+        "components": [
+          {
+            "name": "Ração de coelho",
+            "normalized_name": "Ração de coelho"
+          }
+        ]
+      },
+      {
+        "name": "Ceva Aromática",
+        "normalized_name": "Ceva Aromática",
+        "components": [
+          {
+            "name": "Açúcar",
+            "normalized_name": "Açúcar"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "name": "Massa mole",
+        "normalized_name": "Massa mole"
+      },
+      {
+        "name": "Massa para tilápia",
+        "normalized_name": "Massa para tilápia"
+      }
+    ],
+    "location": [
+      {
+        "name": "Lago de Furna",
+        "normalized_name": "Lago de Furna"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "oUtXD3iIwoI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:40:30.357841",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbada"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de arremesso com chumbada pesada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

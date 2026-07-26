@@ -1,0 +1,21 @@
+{
+  "arquivo": "rdbc3dqKcJw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:04:02.649804",
+  "classificacao": {
+    "especies": [
+      "Panga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

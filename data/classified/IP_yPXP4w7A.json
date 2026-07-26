@@ -1,0 +1,67 @@
+{
+  "arquivo": "IP_yPXP4w7A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:56:54.591095",
+  "classificacao": {
+    "species": [
+      "Tucunaré",
+      "Jacundá",
+      "Traíra",
+      "Lambari",
+      "Tambaqui",
+      "Pacu",
+      "Piau",
+      "Dourado",
+      "Piranha",
+      "Piranha Redonda"
+    ],
+    "equipment": [
+      "Anzol pequeno",
+      "Balão",
+      "Bastão",
+      "Protetor do pescador",
+      "Caiaque",
+      "Canoa",
+      "Hélice",
+      "Gerador",
+      "Luz de gerador",
+      "Lanterninhas de bateria",
+      "Piscos náuticos"
+    ],
+    "baits": [
+      "Milho"
+    ],
+    "lures": [
+      "Artificial"
+    ],
+    "locations": [
+      "Barragem",
+      "Rio"
+    ],
+    "techniques": [
+      "Pescaria"
+    ],
+    "time_of_day": [
+      "Manhã",
+      "Tarde",
+      "Noite"
+    ],
+    "weather": [
+      "Chuva",
+      "Calor"
+    ],
+    "other_details": [
+      "Feijoada",
+      "Arroz",
+      "Carne assada",
+      "Queijo",
+      "Pão",
+      "Mala",
+      "Barraca",
+      "Recarregar",
+      "Almoçando",
+      "Jantando",
+      "Churrasco"
+    ]
+  }
+}

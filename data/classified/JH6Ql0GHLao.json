@@ -1,0 +1,38 @@
+{
+  "arquivo": "JH6Ql0GHLao",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:01:45.730571",
+  "classificacao": {
+    "especies": [
+      "Jaú"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Chumbada",
+      "Anzol",
+      "Microfone"
+    ],
+    "iscas": [
+      "Isca",
+      "Fiozinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Desembarcada",
+      "Operação de Guerra"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Desembarcada"
+    ],
+    "observacoes": [
+      "Água cristalina",
+      "Corredeira",
+      "Dificuldade na pesca desembarcada"
+    ]
+  }
+}

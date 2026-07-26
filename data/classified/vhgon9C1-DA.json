@@ -1,0 +1,25 @@
+{
+  "arquivo": "vhgon9C1-DA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:05:56.482606",
+  "classificacao": {
+    "summary": "O vídeo apresenta uma narrativa informal de uma pessoa compartilhando experiências de vida no campo, incluindo a reforma de uma casa, preparação de uma refeição, exploração da natureza e interação com a fauna local. O conteúdo é estruturado em etapas: 1) **Reforma da casa**: mostra o antes e depois da pintura, destacando o esforço e o resultado. 2) **Cozinha caseira**: preparação de um patê de abacate e outras receitas, com ênfase na simplicidade e no uso de ingredientes locais. 3) **Exploração da floresta**: coleta de ingredientes (como abacate) e encontros com animais (jacaré e cobra), que são descritos de forma lúdica e respeitosa. 4) **Conclusão**: refeição com a família, interação com o público (pedindo curtidas e inscrições) e um encerramento com uma bênção. O tom é descontraído, pessoal e envolvente, com linguagem coloquial e repetições que reforçam a conexão com o espectador.",
+    "key_elements": [
+      "Reforma da casa",
+      "Cozinha caseira",
+      "Exploração da natureza",
+      "Encontros com a fauna",
+      "Interação com o público",
+      "Tono informal e pessoal"
+    ],
+    "cultural_notes": [
+      "Uso de termos como 'Yano' (possivelmente um apelido familiar), 'patê de abacate' (refeição típica de áreas rurais ou de baixa renda no Brasil), e referências à vida no campo, comuns em vlogs brasileiros.",
+      "Menciona animais como jacaré e cobra, elementos frequentes em regiões de floresta amazônica ou similares, destacando a relação do criador com a natureza."
+    ],
+    "suggestions": [
+      "Considerar a inclusão de legendas ou subtítulos para melhorar a compreensão de espectadores não fluentes em português.",
+      "Explorar a narrativa com mais detalhes sobre a reforma da casa para aumentar o engajamento com o público interessado em projetos de decoração.",
+      "Destacar a importância da preservação da natureza durante a exploração da floresta, reforçando uma mensagem ambiental."
+    ]
+  }
+}

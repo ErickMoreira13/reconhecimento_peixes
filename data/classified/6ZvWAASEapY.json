@@ -1,0 +1,28 @@
+{
+  "arquivo": "6ZvWAASEapY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:54:34.911290",
+  "classificacao": {
+    "especies": [
+      "Cachalhão"
+    ],
+    "equipamentos": [
+      "Lenta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Guapoé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "solta do bicho",
+      "bichão"
+    ]
+  }
+}

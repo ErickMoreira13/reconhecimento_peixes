@@ -1,0 +1,28 @@
+{
+  "arquivo": "M0hnFsHcql8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:35:44.695684",
+  "classificacao": {
+    "species": [
+      "Piapara",
+      "Tilápia"
+    ],
+    "equipment": [
+      "varinha",
+      "molinete",
+      "fisguei"
+    ],
+    "baits": [
+      "milho azedo"
+    ],
+    "location": "represa",
+    "techniques": [
+      "lançar",
+      "fisgar",
+      "enrosco"
+    ],
+    "other_details": {
+      "group": "grupo do Pesca e Prosa no Telegram"
+    }
+  }
+}

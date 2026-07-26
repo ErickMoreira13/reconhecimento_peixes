@@ -1,0 +1,34 @@
+{
+  "arquivo": "xJ2dq6eX5pg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:02:55.545799",
+  "classificacao": {
+    "species": [
+      "Traíra",
+      "Paquinha",
+      "Bravo",
+      "Bagre Gigante",
+      "Bagre Africano"
+    ],
+    "equipment": [
+      "Carretilha",
+      "Vara de Bambu",
+      "Boia",
+      "Anzol",
+      "Lambari"
+    ],
+    "iscas": [
+      "Lambari",
+      "Piaba"
+    ],
+    "cevas": {
+      "Ceva de Partículas": [
+        "Galão Perforado"
+      ]
+    },
+    "grains": [],
+    "other": [
+      "Peixe Invasor"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "arquivo": "DRA7dOtar50",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:33:41.799344",
+  "classificacao": {
+    "species": [],
+    "equipment": [],
+    "baits": [],
+    "locations": [],
+    "techniques": [],
+    "seasons": [],
+    "weather_conditions": [],
+    "water_conditions": [],
+    "fisheries": [],
+    "conservation": null
+  }
+}

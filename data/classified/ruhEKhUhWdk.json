@@ -1,0 +1,23 @@
+{
+  "arquivo": "ruhEKhUhWdk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:32:59.724093",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Cebola"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

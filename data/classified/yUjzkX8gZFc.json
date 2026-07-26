@@ -1,0 +1,31 @@
+{
+  "arquivo": "yUjzkX8gZFc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:29:28.677477",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tucunã"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Lirinha",
+      "Reizinha"
+    ],
+    "iscas": [
+      "Isca grande",
+      "Isca maior"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Araguari",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": "Foi um dia difícil devido ao vento, mas foram capturados peixes de tamanho considerável, como Traíra e Tucunã. A pesca ocorreu na represa de Imbocação, localizada em Araguari, Minas Gerais."
+  }
+}

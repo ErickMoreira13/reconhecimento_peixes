@@ -1,0 +1,21 @@
+{
+  "arquivo": "9jgTn2XSxss",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:42:04.966803",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Rio Claro",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "9QogsC-g0KQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:47:30.974041",
+  "classificacao": {
+    "especies": [
+      "Pirambéu"
+    ],
+    "equipamentos": [
+      "Escar artificial"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

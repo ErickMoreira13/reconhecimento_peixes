@@ -1,0 +1,31 @@
+{
+  "arquivo": "2pjg6x3DNyo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:36:12.877955",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Linha de mão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Cambozinho"
+    ],
+    "rios": [
+      "Itapecuruza"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com linha de mão"
+    ],
+    "observacoes": [
+      "Uso de cambozinho e linha de mão para pescar piranha no rio Itapecuruza"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "oICalRpX5Pc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:42:44.265192",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Uruguai"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

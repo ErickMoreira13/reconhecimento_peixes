@@ -1,0 +1,34 @@
+{
+  "arquivo": "T6Kra86dIpQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:45:10.401638",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Surubim",
+      "Piranha",
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Motor",
+      "Redes",
+      "Barraco",
+      "Fogo",
+      "Lenha",
+      "Fogão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jotapu"
+    ],
+    "bacias": [],
+    "estado": "Roraima",
+    "municipio": "Caroebe",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

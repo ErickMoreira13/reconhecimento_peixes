@@ -1,0 +1,22 @@
+{
+  "arquivo": "dY2aTtqpcek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:20:50.679050",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de acampamento em um ambiente natural, com desafios como a chuva e a necessidade de adaptação. O narrador prepara uma refeição, pescando e cozinhandos peixes, e interage com outras pessoas no acampamento. Há menção a problemas ambientais, como a poluição do rio causada por garimpeiros, e uma atitude de conservação ao soltar um peixe de volta à água. O relato termina com a satisfação de ter conseguido pescar, apesar das dificuldades enfrentadas.",
+    "key_points": [
+      "Descrição de um acampamento com desafios climáticos (chuva).",
+      "Preparação de uma refeição com peixe pescado localmente.",
+      "Mencione a poluição do rio por garimpeiros, destacando preocupações ambientais.",
+      "Atitude de conservação ao soltar um peixe após a pesca.",
+      "Conclusão positiva sobre a experiência, apesar das adversidades."
+    ],
+    "cultural_notes": {
+      "terms": {
+        "garimpeiros": "Mineros artesanais que extraem ouro, frequentemente associados a práticas degradação ambiental.",
+        "piau": "Espécie de peixe comum em rios da Amazônia, frequentemente pescado em áreas rurais."
+      },
+      "context": "O texto reflete uma realidade de comunidades que dependem de recursos naturais, mas também alerta sobre os impactos ambientais causados por atividades humanas."
+    }
+  }
+}

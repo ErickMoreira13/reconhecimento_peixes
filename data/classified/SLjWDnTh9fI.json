@@ -1,0 +1,33 @@
+{
+  "arquivo": "SLjWDnTh9fI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:17:35.481510",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Carpinha"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Saco de Cebola"
+    ],
+    "iscas": [
+      "Ração de Coelho",
+      "Ração de Postura"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Ceva de Partículas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

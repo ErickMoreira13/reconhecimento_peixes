@@ -1,0 +1,24 @@
+{
+  "arquivo": "OgbTeZZGfAE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:39:34.584107",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Cano de bomba"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Trabalho de engenharia",
+      "220 metros de fundo"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "SV0GxHk5m-4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:15:48.512146",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Morenita",
+      "Piau",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Vara Marino Sport Evolutio",
+      "Carretilha perfil baixo",
+      "Linha multifilamento",
+      "Giradores",
+      "Chumbada de 15 a 20 gramas",
+      "Linha 0,52 Max Force",
+      "Anzol chinu",
+      "Linha 0,30",
+      "Linha 0,20",
+      "Linha 0,25"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de fundo",
+      "Rodada do barbado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de fundo",
+      "Rodada do barbado"
+    ],
+    "observacoes": []
+  }
+}

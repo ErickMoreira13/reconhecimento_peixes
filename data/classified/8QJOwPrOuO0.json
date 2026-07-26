@@ -1,0 +1,28 @@
+{
+  "arquivo": "8QJOwPrOuO0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:29:01.952071",
+  "classificacao": {
+    "especies": [
+      "Brancona",
+      "Réplonaise"
+    ],
+    "equipamentos": [
+      "Linha bichona",
+      "Filme"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Canta a linha",
+      "Cabelinha"
+    ]
+  }
+}

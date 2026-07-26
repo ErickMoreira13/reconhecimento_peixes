@@ -1,0 +1,23 @@
+{
+  "arquivo": "L7rWaVghmg0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:46:31.680412",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": [
+      "Barreirinhas",
+      "Santo Amaro",
+      "Primeira Cruz"
+    ],
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

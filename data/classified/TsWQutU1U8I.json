@@ -1,0 +1,33 @@
+{
+  "arquivo": "TsWQutU1U8I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:34:20.662282",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapirapé"
+    ],
+    "bacias": [
+      "Baixo Araguaia"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O rio Itapirapé é descrito como lindo e com histórico de sustento para famílias",
+      "Menciona a presença de areia na prainha e a importância da preservação da natureza"
+    ]
+  }
+}

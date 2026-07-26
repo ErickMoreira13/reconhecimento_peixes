@@ -1,0 +1,23 @@
+{
+  "arquivo": "QXyffVUuAs0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:37:50.703056",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "camarão artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "jigs"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

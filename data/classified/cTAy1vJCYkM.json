@@ -1,0 +1,40 @@
+{
+  "arquivo": "cTAy1vJCYkM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:03:46.608811",
+  "classificacao": {
+    "species": [
+      "Dourado",
+      "Tubarão",
+      "Curimbatá",
+      "Mandi",
+      "Dourado Branco",
+      "Salminos e Lari",
+      "Atabarana",
+      "Corimbo"
+    ],
+    "equipment": [
+      "Barco",
+      "Celular",
+      "Linha",
+      "Pescador",
+      "Canivete",
+      "Chinelo",
+      "Piloteiro"
+    ],
+    "baits": [
+      "Massa",
+      "Isca",
+      "Ceva"
+    ],
+    "cevas": [],
+    "grains": [],
+    "locations": [
+      "Lugar típico",
+      "Pedra",
+      "Corredeira",
+      "Remanso",
+      "Canivete da diretoria"
+    ]
+  }
+}

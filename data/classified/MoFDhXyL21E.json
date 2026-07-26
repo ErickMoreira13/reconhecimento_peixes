@@ -1,0 +1,24 @@
+{
+  "arquivo": "MoFDhXyL21E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:59:36.368685",
+  "classificacao": {
+    "especies": [
+      "Apalharizinho",
+      "Amarelinho",
+      "Amarelo",
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

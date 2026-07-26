@@ -1,0 +1,68 @@
+{
+  "arquivo": "4As0UQN5O8Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:33:32.550676",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Piracema",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Alicate",
+      "Drone",
+      "Lancha",
+      "Ferrão",
+      "Boia",
+      "Anzol"
+    ],
+    "iscas": [
+      "Farinha de Calabresa",
+      "Boi Ralado"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Corredeira",
+      "Lance",
+      "Pescaria na Enchente"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Material novo",
+      "Isca nova",
+      "Não falha",
+      "Dá para brincar",
+      "Soltou essa daí",
+      "Vai ter que ir para a vida",
+      "Ferrão",
+      "Mordeu também o ferrão",
+      "Aventurar",
+      "Tentar bater umas linhas",
+      "Pegar um peixe cachorra ou uma sarda",
+      "Ponto ideal é ali na frente",
+      "Usamos bastante quando tá mais tempo",
+      "Como tá cheio é difícil a lancha chegar lá",
+      "Vou para essa pedra",
+      "Jogar em tudo isso aqui",
+      "Hora da boia",
+      "Farinha zona calabresa",
+      "Boi ralado quentinho",
+      "Não trouxemos refrigerante",
+      "Todo mundo de regime",
+      "Tem que ter o fogo passar",
+      "Vai ali por conta atrás dos gigantes tucunaré",
+      "O anzol dele cara é brabo",
+      "Sai o peixão"
+    ]
+  }
+}

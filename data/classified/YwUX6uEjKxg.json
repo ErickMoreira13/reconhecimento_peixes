@@ -1,0 +1,21 @@
+{
+  "arquivo": "YwUX6uEjKxg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:42:08.810434",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo ao vivo de pesca, onde o narrador descreve sua experiência capturando peixes como oriço, sargão de dente e ariocô. Ele menciona técnicas como o uso de jigue e a dificuldade devido ao vento forte. Há interações com um amigo chamado Ailton, e o narrador expressa emoções como frustração ao perder peixes e satisfação ao capturar outros. O conteúdo é informal, repleto de exclamações e termos específicos de pesca.",
+    "key_points": [
+      "Espécies de peixe capturadas: oriço, sargão de dente, ariocô",
+      "Técnicas utilizadas: jigue, uso de iscas",
+      "Desafios: vento forte, perda de peixes",
+      "Interações com Ailton",
+      "Tom emocional: frustração e euforia"
+    ],
+    "possible_needs": [
+      "Resumo do conteúdo",
+      "Explicação de termos de pesca",
+      "Tradução para outro idioma",
+      "Análise de engajamento no vídeo"
+    ]
+  }
+}

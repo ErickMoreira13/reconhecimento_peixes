@@ -1,0 +1,35 @@
+{
+  "arquivo": "tz6RkR3a4aM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:33:32.004210",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Curimba"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa de ração de peixe e farinha de trigo"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Massa de ração e farinha de trigo",
+      "Ceva com ração de coelho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A massa mantém consistência mesmo molhada",
+      "Uso de ração de coelho como ceva para atrair peixes"
+    ]
+  }
+}

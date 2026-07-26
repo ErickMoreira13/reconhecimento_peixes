@@ -1,0 +1,35 @@
+{
+  "arquivo": "XpUCiNtevyU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:17:59.625977",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tucunaré",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Motor elétrico",
+      "Motor de polpa",
+      "Manche"
+    ],
+    "iscas": [
+      "Barizinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de motor elétrico após um período de inatividade",
+      "Presença de piranha de grande porte",
+      "Dificuldade em capturar alguns peixes"
+    ]
+  }
+}

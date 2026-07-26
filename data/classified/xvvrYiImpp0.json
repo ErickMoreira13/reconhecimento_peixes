@@ -1,0 +1,37 @@
+{
+  "arquivo": "xvvrYiImpp0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:25:57.352166",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Ina",
+      "Madin Sport",
+      "CMC Hunter",
+      "Biru",
+      "Bad Junior",
+      "OCL Big Little 80",
+      "Dom KB"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Miranda"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "água suja",
+      "uso de isca grande",
+      "liberação do peixe após captura"
+    ]
+  }
+}

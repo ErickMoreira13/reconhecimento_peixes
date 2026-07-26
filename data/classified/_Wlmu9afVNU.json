@@ -1,0 +1,32 @@
+{
+  "arquivo": "_Wlmu9afVNU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:42:45.078959",
+  "classificacao": {
+    "especies": [
+      "Barbel"
+    ],
+    "equipamentos": [
+      "Varinha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de espera"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca costeira"
+    ],
+    "observacoes": [
+      "Água fria",
+      "Sol forte",
+      "Pescaria iniciada às 8h30",
+      "Uso de varinha de pesca barata (R$ 3,90)"
+    ]
+  }
+}

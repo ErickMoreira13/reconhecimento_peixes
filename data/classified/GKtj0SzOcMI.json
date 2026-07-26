@@ -1,0 +1,23 @@
+{
+  "arquivo": "GKtj0SzOcMI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:55:35.949799",
+  "classificacao": {
+    "especies": [
+      "Azol",
+      "Fiau",
+      "Tambaqui"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

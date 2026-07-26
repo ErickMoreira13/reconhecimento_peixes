@@ -1,0 +1,38 @@
+{
+  "arquivo": "-uO72XpRCv8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:53:40.944100",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Selva"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Quebranzol"
+    ],
+    "bacias": [
+      "Nova Ponte Leite"
+    ],
+    "estado": "Minas Gerais",
+    "municipio": "Patrocínio",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "A ceva funciona bem na região de Nova Ponte Leite do Rio Quebranzol, cidade de Patrocínio, e é considerada uma selva top para pescar curimbas e tilápia."
+    ]
+  }
+}

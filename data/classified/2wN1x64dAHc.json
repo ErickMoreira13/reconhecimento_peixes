@@ -1,0 +1,35 @@
+{
+  "arquivo": "2wN1x64dAHc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:40:31.521575",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Garrafa",
+      "Anzol"
+    ],
+    "iscas": [
+      "Soja emborrachada"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Fermentação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Utilizado para pescar piau e pacu"
+    ]
+  }
+}

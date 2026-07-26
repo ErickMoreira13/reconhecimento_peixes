@@ -1,0 +1,23 @@
+{
+  "arquivo": "wVGjl4Hxr_c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:37:36.346480",
+  "classificacao": {
+    "especies": [
+      "Meia Azedo"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Cevando"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

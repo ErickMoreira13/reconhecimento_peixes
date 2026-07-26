@@ -1,0 +1,33 @@
+{
+  "arquivo": "drYYGu-33NM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:35:35.396739",
+  "classificacao": {
+    "species": [
+      "Tucunaré",
+      "Piranha"
+    ],
+    "equipment": [
+      "Varas 14 e 17 libras",
+      "Linhas multifilamento 30 e 40 libras",
+      "Linhas PE2 e PE2,5",
+      "Líderes Vexter 0,47 e 0,52"
+    ],
+    "lures": [
+      "Jet 90",
+      "Zé Pepino",
+      "João Pepino",
+      "Zig Zara 110",
+      "Sticky Popper",
+      "Brava 90",
+      "Brutal 115",
+      "Bear King"
+    ],
+    "grains": [
+      "Três garateias"
+    ],
+    "location": "Balbina",
+    "month": "Julho",
+    "baits": []
+  }
+}

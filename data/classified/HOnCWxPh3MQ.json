@@ -1,0 +1,28 @@
+{
+  "arquivo": "HOnCWxPh3MQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:06:41.127660",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Bicuda"
+    ],
+    "equipamentos": [
+      "Articulada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe sensível",
+      "Tentativa de captura falha",
+      "Piranha perigosa"
+    ]
+  }
+}

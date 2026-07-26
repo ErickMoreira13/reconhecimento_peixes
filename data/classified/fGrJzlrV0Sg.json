@@ -1,0 +1,23 @@
+{
+  "arquivo": "fGrJzlrV0Sg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:12:19.445826",
+  "classificacao": {
+    "especies": [
+      "Capanga"
+    ],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

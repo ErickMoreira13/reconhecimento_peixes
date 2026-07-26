@@ -1,0 +1,25 @@
+{
+  "arquivo": "i_7bL7jnjOI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:26:29.133281",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Isquinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio de São Francisco"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Pissarrão",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

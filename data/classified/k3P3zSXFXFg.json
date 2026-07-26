@@ -1,0 +1,29 @@
+{
+  "arquivo": "k3P3zSXFXFg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:28:55.323567",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Licate de contenção"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca e solte"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "Morada Nova",
+    "tipo_pesca": [
+      "Pesca e solte"
+    ],
+    "observacoes": [
+      "Demonstração de manuseio correto do peixe durante a pesca e solte, incluindo o uso de licate de contenção e a técnica de segurar o peixe pelo opérculo. Menção a um peixe de aproximadamente 3kg capturado."
+    ]
+  }
+}

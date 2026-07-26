@@ -1,0 +1,23 @@
+{
+  "arquivo": "T1CNwqRunho",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:41:58.074474",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tupunaré"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

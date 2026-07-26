@@ -1,0 +1,34 @@
+{
+  "arquivo": "-xHuh5n2cVw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:54:32.886012",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Carretila",
+      "Caiaque",
+      "Ferramenta"
+    ],
+    "iscas": [
+      "Alface"
+    ],
+    "cevas": [
+      "Popper"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Promissão",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": ""
+  }
+}

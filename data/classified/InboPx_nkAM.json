@@ -1,0 +1,40 @@
+{
+  "arquivo": "InboPx_nkAM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:03:49.067337",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Pescada"
+    ],
+    "equipamentos": [
+      "Anzóis",
+      "Corda",
+      "Espinhel",
+      "Pedras"
+    ],
+    "iscas": [
+      "Camarão podre"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Espinhel"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fundo"
+    ],
+    "observacoes": [
+      "Uso de 30 anzóis",
+      "Fishing on a railway bridge",
+      "Use of rotten shrimp as bait",
+      "Deployment during rising tide"
+    ]
+  }
+}

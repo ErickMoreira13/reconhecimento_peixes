@@ -1,0 +1,31 @@
+{
+  "arquivo": "E3SFOZNk-_8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:36:45.706934",
+  "classificacao": {
+    "especies": [
+      "Matrinchã",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Vara de Bambu",
+      "Varinha de Bambu"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Água fria e dificuldade em capturar piau"
+    ]
+  }
+}

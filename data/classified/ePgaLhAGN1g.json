@@ -1,0 +1,44 @@
+{
+  "arquivo": "ePgaLhAGN1g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:11:48.303946",
+  "classificacao": {
+    "especies": [
+      "Curimbatá",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [
+      "Ração de coelho",
+      "Milho",
+      "Açúcar",
+      "Fubá",
+      "Trigo"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo",
+      "Fubá"
+    ],
+    "tecnicas": [
+      "Cevada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": [
+      "Rio muito cheio",
+      "Dificuldade para pescar devido à correnteza"
+    ]
+  }
+}

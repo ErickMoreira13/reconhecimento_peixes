@@ -1,0 +1,24 @@
+{
+  "arquivo": "53lgANfEj2g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:50:22.784810",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Aracu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Presença de peixes grandes como pacu e aracu"
+    ]
+  }
+}

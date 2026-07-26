@@ -1,0 +1,22 @@
+{
+  "arquivo": "6BQzd-XvovI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:58:00.359745",
+  "classificacao": {
+    "especies": [
+      "Pescada",
+      "Poró"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "arquivo": "DjPNA3GIDZY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:17:42.366802",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Varinha de pesca",
+      "Boinha",
+      "Baldinho"
+    ],
+    "iscas": [
+      "Massinha",
+      "Milho azedo",
+      "Mandioca",
+      "Frango",
+      "Bichinho",
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pescaria com boinha",
+      "Pescaria com massa"
+    ],
+    "rios": [
+      "Lagoa",
+      "Represa"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em lagoa",
+      "Pesca em represa"
+    ],
+    "observacoes": [
+      "Temperatura baixa e vento forte",
+      "Uso de massinha como isca",
+      "Ausência de tilápias grandes no momento"
+    ]
+  }
+}

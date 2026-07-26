@@ -1,0 +1,30 @@
+{
+  "arquivo": "wg-u44iLCso",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:05:22.972523",
+  "classificacao": {
+    "especies": [
+      "Camaron",
+      "Marimbau"
+    ],
+    "equipamentos": [
+      "Blenzão",
+      "Marimbal"
+    ],
+    "iscas": [
+      "Zinho de camarão",
+      "Zinho top"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

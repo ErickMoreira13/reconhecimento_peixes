@@ -1,0 +1,37 @@
+{
+  "arquivo": "JjhEOZWgrwY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:04:56.132572",
+  "classificacao": {
+    "especies": [
+      "tilápia",
+      "lambari"
+    ],
+    "equipamentos": [
+      "varinha",
+      "isca",
+      "Pepinha",
+      "microtap"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pescaria de superfície"
+    ],
+    "rios": [],
+    "municipios": [
+      "Mariporé"
+    ],
+    "estados": [
+      "Mato Grosso do Sul"
+    ],
+    "pais": "Brasil",
+    "observacoes": [
+      "Influência da lua na pesca",
+      "Captura de um lambari grande (liberado para reprodução)",
+      "Uso da isca 'Pepinha' e 'microtap' como equipamentos",
+      "Menciona a captura de um 'morcego' durante a pesca noturna"
+    ]
+  }
+}

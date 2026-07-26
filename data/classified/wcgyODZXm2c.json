@@ -1,0 +1,28 @@
+{
+  "arquivo": "wcgyODZXm2c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:01:29.943445",
+  "classificacao": {
+    "especies": [
+      "Coringa",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Varinhas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Piar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Patroa cuidando das varinhas"
+    ]
+  }
+}

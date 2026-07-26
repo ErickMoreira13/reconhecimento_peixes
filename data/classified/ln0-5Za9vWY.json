@@ -1,0 +1,28 @@
+{
+  "arquivo": "ln0-5Za9vWY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:22:59.857946",
+  "classificacao": {
+    "species": [
+      "Baiacu"
+    ],
+    "rios": [
+      "Delta do Parnaíba"
+    ],
+    "estado": "Piauí",
+    "municipio": "",
+    "equipamentos": [
+      "alicate",
+      "linha",
+      "carretilha"
+    ],
+    "cevas": [
+      "ceva"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "restaurante": "",
+    "pousada": "",
+    "outros": []
+  }
+}

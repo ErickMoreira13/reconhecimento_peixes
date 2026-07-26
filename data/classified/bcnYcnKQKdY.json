@@ -1,0 +1,27 @@
+{
+  "arquivo": "bcnYcnKQKdY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:50:38.592860",
+  "classificacao": {
+    "species": [
+      "Pintado",
+      "Pingaxara",
+      "Cachapira",
+      "Jundia",
+      "Tilápia"
+    ],
+    "equipment": [],
+    "iscas": [
+      "Fígado",
+      "Minhocosu",
+      "Tilapinha viva",
+      "Salsicha",
+      "Guelra de tilápia"
+    ],
+    "other": {
+      "locations": [],
+      "techniques": [],
+      "additional_notes": "The transcript focuses on bait recommendations for specific species in Brazil, with no mention of equipment, locations, or techniques."
+    }
+  }
+}

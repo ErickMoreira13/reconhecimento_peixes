@@ -1,0 +1,23 @@
+{
+  "arquivo": "rztgC6XK8w0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:41:06.015035",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Escassa Salsicha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

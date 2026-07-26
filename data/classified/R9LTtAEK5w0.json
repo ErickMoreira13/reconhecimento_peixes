@@ -1,0 +1,22 @@
+{
+  "arquivo": "R9LTtAEK5w0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:00:27.883200",
+  "classificacao": {
+    "especies": [
+      "Milhão",
+      "Papito"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Sobradinho",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

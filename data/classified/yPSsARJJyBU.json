@@ -1,0 +1,26 @@
+{
+  "arquivo": "yPSsARJJyBU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:23:49.608681",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Aquilera"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica de azedamento do milho e aquilera utilizando água quente, leite e cachaça por dois dias"
+    ]
+  }
+}

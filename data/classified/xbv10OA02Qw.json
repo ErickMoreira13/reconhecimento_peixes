@@ -1,0 +1,33 @@
+{
+  "arquivo": "xbv10OA02Qw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:44:52.624366",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Crankbait"
+    ],
+    "iscas": [
+      "Piranha (pedaço, cabeça, tora)",
+      "Crankbait"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Recolhimento suave"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial",
+      "Pesca com isca natural"
+    ],
+    "observacoes": [
+      "A piranha é atraída por vibrações e sangue na água, sendo um dos primeiros peixes a reagir a esses estímulos."
+    ]
+  }
+}

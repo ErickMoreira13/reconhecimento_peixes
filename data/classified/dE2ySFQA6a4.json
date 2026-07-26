@@ -1,0 +1,55 @@
+{
+  "arquivo": "dE2ySFQA6a4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:49:47.691904",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Açu"
+    ],
+    "equipamentos": [
+      "barco",
+      "spinner"
+    ],
+    "iscas": [
+      "nova devassa",
+      "spinner"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Preto",
+      "Rio Negro"
+    ],
+    "operacao": "Superaçu",
+    "local": "Santo Isabel do Rio Negro",
+    "participantes": [
+      "Walter",
+      "Paulão",
+      "Tiagão",
+      "Marco",
+      "equipe do Pura Pesca",
+      "Marcelo",
+      "Alex",
+      "Geraldo",
+      "pessoal da cozinha",
+      "Chip",
+      "parceiros do Superaçu"
+    ],
+    "programa": "Pura Pesca",
+    "canal": "",
+    "curiosidades": [
+      "87 centímetros de peixe"
+    ],
+    "desafios": [
+      "perseverar na busca por peixes grandes"
+    ],
+    "conquistas": [
+      "captura de tucunarézão",
+      "captura de peixe de 87 centímetros"
+    ],
+    "reconhecimento": "agradecimento aos participantes e à equipe",
+    "conclusao": "convida os espectadores a participar da operação"
+  }
+}

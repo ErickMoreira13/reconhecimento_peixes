@@ -1,0 +1,14 @@
+{
+  "arquivo": "biJnFL1pBTg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:16:13.477702",
+  "classificacao": {
+    "summary": "O texto descreve um vídeo de um pescador compartilhando sua experiência de pesca, detalhando o equipamento usado, o processo de pesca e a preparação do peixe após a captura. O autor também menciona uma campanha de arrecadação para o Hospital do Amor em Barretos, pedindo que o público curta e comente o vídeo para ajudar a divulgar a causa. O conteúdo mistura instruções práticas de pesca com um apelo emocional para apoio a uma instituição de caridade.",
+    "possible_requests": [
+      "Traduzir o conteúdo para outro idioma",
+      "Ajudar a melhorar a estrutura do vídeo",
+      "Sugestões para aumentar o engajamento na campanha de arrecadação",
+      "Revisar o texto para clareza e coerência"
+    ]
+  }
+}

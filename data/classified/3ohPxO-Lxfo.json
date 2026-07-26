@@ -1,0 +1,38 @@
+{
+  "arquivo": "3ohPxO-Lxfo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T15:51:14.886967",
+  "classificacao": {
+    "species": [
+      "lambari",
+      "cará",
+      "tucunaré",
+      "traíra",
+      "mandi",
+      "gabiru",
+      "bitelo"
+    ],
+    "equipment": [
+      "linha fina",
+      "linha 062 Max",
+      "chumbada",
+      "farol de bambu",
+      "barco"
+    ],
+    "baits": [
+      "cará vivo"
+    ],
+    "grains": [],
+    "method": "método tradicional",
+    "location": "ilha",
+    "time_of_day": "tarde",
+    "water_temperature": "20 graus",
+    "number_of_fish_caught": "oito",
+    "species_caught": [
+      "tucunaré",
+      "mandi",
+      "gabiru",
+      "bitelo"
+    ]
+  }
+}

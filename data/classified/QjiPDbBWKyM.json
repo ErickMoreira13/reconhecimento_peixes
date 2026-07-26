@@ -1,0 +1,15 @@
+{
+  "arquivo": "QjiPDbBWKyM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:39:18.881294",
+  "classificacao": {
+    "summary": "O texto parece ser um relato ou roteiro de vídeo sobre uma experiência de pesca em uma localização chamada 'Rancho do Canário', onde o narrador descreve a captura de peixes como tilápia, camarão e outros. O conteúdo inclui repetições de expressões como 'Ó, ó, ó' e 'Vem cá, Linha', sugerindo um estilo informal e envolvente. No final, há uma chamada para ação incentivando o contato para informações sobre pesca no local.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução para o inglês",
+      "Explicação sobre técnicas de pesca mencionadas",
+      "Análise do conteúdo para promoção do local"
+    ],
+    "next_steps": "Por favor, informe o que você gostaria de fazer com esse texto (ex: resumir, traduzir, analisar, etc.) para que eu possa ajudar de maneira mais específica."
+  }
+}

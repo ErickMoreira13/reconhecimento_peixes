@@ -1,0 +1,38 @@
+{
+  "arquivo": "48S-K7nCK5A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:31:38.920683",
+  "classificacao": {
+    "especies": [
+      "Panazão",
+      "Pinima",
+      "Matanzinha",
+      "Oscar",
+      "Zira",
+      "Tiros"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Cenoura",
+      "Tomate",
+      "Cebola",
+      "Alho",
+      "Pimentinha de Cheiro",
+      "Colorau",
+      "Açafrão"
+    ],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Preparo de isca com cenoura, tomate, cebola, alho, pimentinha de cheiro, colorau e açafrão. Inclusão de peixe salgado e temperado. Uso de matanzinha, osca, rababão, cebola e narizão na composição da isca."
+    ]
+  }
+}

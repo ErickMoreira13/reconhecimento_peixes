@@ -1,0 +1,42 @@
+{
+  "arquivo": "Z6zn6bW5M0Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:00:00.304303",
+  "classificacao": {
+    "species": [
+      "dourada",
+      "papá",
+      "papada",
+      "tucuninha"
+    ],
+    "equipment": [
+      "vara",
+      "motor elétrico",
+      "gigui",
+      "flutuantezinho",
+      "GoPro",
+      "jígue",
+      "pop",
+      "barco",
+      "chale",
+      "ilha",
+      "chalé",
+      "cabana",
+      "barquinho",
+      "pontinho",
+      "estruturadinha",
+      "igão"
+    ],
+    "baits": [
+      "isca",
+      "pão",
+      "biscoitinho",
+      "sashimizinha"
+    ],
+    "other_terms": [
+      "anizol",
+      "apapá",
+      "picanha"
+    ]
+  }
+}

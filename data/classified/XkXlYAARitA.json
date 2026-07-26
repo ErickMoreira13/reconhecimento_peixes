@@ -1,0 +1,53 @@
+{
+  "arquivo": "XkXlYAARitA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:05:21.755930",
+  "classificacao": {
+    "especies": [
+      "robalo",
+      "xarel",
+      "roubalo",
+      "tarpon",
+      "carapeba",
+      "bagre",
+      "papaterra",
+      "arraias",
+      "carapicu",
+      "cara pico",
+      "lambari"
+    ],
+    "equipamentos": [
+      "anzol",
+      "boinhas",
+      "presilha",
+      "plástico",
+      "pauzinho",
+      "palito"
+    ],
+    "técnicas": [
+      "ajuste da boinha",
+      "pesca em águas rasas",
+      "evitar bagres",
+      "posicionar a boinha na parte superior da linha"
+    ],
+    "vantagens": [
+      "facilidade de uso",
+      "eficácia em águas rasas",
+      "captura de espécies variadas"
+    ],
+    "desvantagens": [
+      "sensibilidade a correntes",
+      "necessidade de ajustes frequentes"
+    ],
+    "localização": "Rio Grande do Norte, Brasil",
+    "curiosidades": [
+      "influência das correntes na pesca",
+      "canal Bora Pescar com playlists de interesse"
+    ],
+    "dicas": [
+      "posicionar a boinha na parte superior da linha",
+      "usar tamanho adequado de boinha",
+      "evitar áreas com bagres"
+    ]
+  }
+}

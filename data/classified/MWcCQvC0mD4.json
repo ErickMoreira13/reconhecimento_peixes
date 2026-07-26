@@ -1,0 +1,28 @@
+{
+  "arquivo": "MWcCQvC0mD4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:16:04.850314",
+  "classificacao": {
+    "especies": [
+      "Moreia",
+      "Polvo"
+    ],
+    "equipamentos": [
+      "Linha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Resgate de presa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Moreia se enrolou na linha, tentativa de resgate do polvo resultou em corte da linha e perda do onzol"
+    ]
+  }
+}

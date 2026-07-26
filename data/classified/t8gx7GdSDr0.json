@@ -1,0 +1,34 @@
+{
+  "arquivo": "t8gx7GdSDr0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:46:04.146710",
+  "classificacao": {
+    "especies": [
+      "Guapote",
+      "Trucha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "escabeche de jalapeño",
+      "chirito jalapeño"
+    ],
+    "cevas": [
+      "Ceva Aromática (jalapeño)"
+    ],
+    "grupos": [],
+    "localidades": [
+      "río"
+    ],
+    "métodos": [
+      "pesca con cebo"
+    ],
+    "tipos_de_cebos": [
+      "Ceva Aromática (jalapeño)"
+    ],
+    "tipos_de_equipos": [],
+    "tipos_de_iscas": [
+      "escabeche de jalapeño",
+      "chirito jalapeño"
+    ]
+  }
+}

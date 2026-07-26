@@ -1,0 +1,29 @@
+{
+  "arquivo": "n-Z-rTZEoT4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:20:30.106099",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Esquinha"
+    ],
+    "iscas": [
+      "Esquinha Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Esquinha Artificial"
+    ],
+    "rios": [],
+    "bacias": [
+      "Guarapiranga"
+    ],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

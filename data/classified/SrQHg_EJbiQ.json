@@ -1,0 +1,32 @@
+{
+  "arquivo": "SrQHg_EJbiQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:53:00.515620",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Identificação de puxada da tilapia",
+      "Observação da linha e movimentos da tilapia"
+    ],
+    "rios": [],
+    "bacias": [
+      "Represa"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca de Tilápia",
+    "observacoes": "Vídeo tutorial sobre técnicas de pesca de tilapia e preparação de isca com milho. Não há menção a estados ou municípios específicos."
+  }
+}

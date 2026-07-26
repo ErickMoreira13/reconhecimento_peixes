@@ -1,0 +1,44 @@
+{
+  "arquivo": "BWiI_hpt6O8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:39:23.049362",
+  "classificacao": {
+    "especies": [
+      "Iúna",
+      "Traíra",
+      "Corocoro",
+      "Piababa",
+      "Banha"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Linha"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnica": [
+      "Arremesso",
+      "Puxão"
+    ],
+    "rios": [
+      "Corrigüi",
+      "Garapé Branco"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

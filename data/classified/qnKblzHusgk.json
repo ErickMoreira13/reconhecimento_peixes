@@ -1,0 +1,68 @@
+{
+  "arquivo": "qnKblzHusgk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:54:02.452300",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau",
+      "Piracutanga",
+      "Curimba",
+      "Dourado",
+      "Jaú",
+      "Pintado",
+      "Juru poca",
+      "Juru penseio",
+      "Mandi",
+      "Barbados",
+      "Lambare"
+    ],
+    "equipamento": [
+      "Tralha",
+      "Vara",
+      "Chumbada",
+      "Boia",
+      "Anzol",
+      "Massa de soja",
+      "Varinhas",
+      "Fio"
+    ],
+    "isca_e_lures": [
+      "Massa de soja",
+      "Farelo de soja",
+      "Coxinha no anzol"
+    ],
+    "tecnicas": [
+      "Pesca de rodada",
+      "Arremesso",
+      "Seguindo a isca",
+      "Tática diferente",
+      "Pesca mais suave",
+      "Técnicas diferentes"
+    ],
+    "localizacao": [
+      "Rio Miranda",
+      "Pantanal",
+      "Rio Paraná",
+      "Rio Paraguai",
+      "Argentina"
+    ],
+    "outros_termos": [
+      "Corredeira",
+      "Pedra",
+      "Ninho",
+      "Navegação",
+      "Motor",
+      "Árvore",
+      "Boia",
+      "Chumbada",
+      "Vara robusta",
+      "Vara de ação leve",
+      "Fio",
+      "Alicate",
+      "Cuidado",
+      "Escorregar",
+      "Pedras"
+    ]
+  }
+}

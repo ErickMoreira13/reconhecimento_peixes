@@ -1,0 +1,38 @@
+{
+  "arquivo": "0C7iH_U5MOw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:00:46.010117",
+  "classificacao": {
+    "especies": [
+      "Surubim",
+      "Pescada",
+      "Bagre",
+      "Broto"
+    ],
+    "equipamentos": [
+      "Corda",
+      "Pedra",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Corda"
+    ],
+    "rios": [
+      "Rio Viacuri"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Porto de Casa",
+    "tipo_pesca": [
+      "Pesca de Corda"
+    ],
+    "observacoes": [
+      "O rio está barrento",
+      "Poucos peixes capturados",
+      "Peixe grande capturado"
+    ]
+  }
+}

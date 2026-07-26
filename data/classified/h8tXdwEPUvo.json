@@ -1,0 +1,21 @@
+{
+  "arquivo": "h8tXdwEPUvo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:43:46.675294",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Finbaits"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

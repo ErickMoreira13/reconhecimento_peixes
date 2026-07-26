@@ -1,0 +1,28 @@
+{
+  "arquivo": "XCK_IESkwx0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:45:31.359030",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Kurimatai"
+    ],
+    "equipamentos": [
+      "Arco e Flecha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Arco e Flecha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Arco e Flecha"
+    ],
+    "observacoes": []
+  }
+}

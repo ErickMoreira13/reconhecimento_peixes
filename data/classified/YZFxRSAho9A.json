@@ -1,0 +1,40 @@
+{
+  "arquivo": "YZFxRSAho9A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:55:37.032925",
+  "classificacao": {
+    "especies": [
+      "Lore",
+      "Gigante",
+      "Nilo"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "carretilha",
+      "fio de pesca",
+      "isca",
+      "gigão"
+    ],
+    "iscas": [
+      "isca todinha",
+      "superfície",
+      "meiosca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "pescaria de 4 dias",
+      "peixe de 50 cm",
+      "dificuldade em capturar",
+      "captura de 5 peixes"
+    ]
+  }
+}

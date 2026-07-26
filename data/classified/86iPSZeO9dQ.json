@@ -1,0 +1,25 @@
+{
+  "arquivo": "86iPSZeO9dQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:10:03.686038",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Tilápia",
+      "Cará",
+      "Bagre",
+      "Jacundá"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

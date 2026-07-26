@@ -1,0 +1,33 @@
+{
+  "arquivo": "lAIyr7HYiC8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:49:00.520903",
+  "classificacao": {
+    "species": [
+      "Párum",
+      "Tainha",
+      "Carapé",
+      "Vermelha",
+      "Robalo",
+      "Caranha",
+      "Vermelhinha"
+    ],
+    "equipment": [
+      "armas"
+    ],
+    "baits": [],
+    "cevas": [],
+    "grãos": [],
+    "techniques": [
+      "mergulho"
+    ],
+    "rios": [
+      "Jaguaribe"
+    ],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "Viçosa",
+    "tipo_pesca": "",
+    "observacoes": []
+  }
+}

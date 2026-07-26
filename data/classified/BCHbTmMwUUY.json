@@ -1,0 +1,36 @@
+{
+  "arquivo": "BCHbTmMwUUY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:50:10.762194",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Varinha de mão",
+      "Pedra",
+      "Bitela"
+    ],
+    "iscas": [
+      "Cabeça de salmão"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Ceva",
+      "Lançamento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Vai ser de caldo de piranha",
+      "Vamos ver se vai ficar bom"
+    ]
+  }
+}

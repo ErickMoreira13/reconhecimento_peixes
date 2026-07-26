@@ -1,0 +1,37 @@
+{
+  "arquivo": "y9IXY5pCVRo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:56:11.935168",
+  "classificacao": {
+    "especies": [
+      "Antilápia",
+      "Curimatã",
+      "Piá",
+      "Tilápia",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Disco de Arado"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Sub"
+    ],
+    "rios": [],
+    "bacias": [
+      "Bacia do Itacoara"
+    ],
+    "estado": "Ceará",
+    "municipio": "Mucambo,Pacujá",
+    "tipo_pesca": [
+      "Pesca Sub"
+    ],
+    "observacoes": [
+      "Aviso sobre o perigo do capim navalha",
+      "Rede de pesca abandonada",
+      "História da Ponte da Jurema"
+    ]
+  }
+}

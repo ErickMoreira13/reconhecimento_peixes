@@ -1,0 +1,33 @@
+{
+  "arquivo": "kbNFLn_O63s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:59:22.884110",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Cachama"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "grãos": [
+      "Trigo"
+    ],
+    "equipamentos": [
+      "Processador de Alimentos",
+      "Anzuelos de Três Patas",
+      "Massa"
+    ],
+    "tecnicas": [
+      "Maceration",
+      "Mixing"
+    ],
+    "rivers": [],
+    "basins": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_de_pesca": "Pesca Esportiva",
+    "observacoes": []
+  }
+}

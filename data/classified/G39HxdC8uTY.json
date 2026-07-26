@@ -1,0 +1,33 @@
+{
+  "arquivo": "G39HxdC8uTY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:15:05.260137",
+  "classificacao": {
+    "especies": [
+      "Ensau",
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Malha 5",
+      "Malha 4 e meia",
+      "Malha 30",
+      "Tripézinho"
+    ],
+    "iscas": [
+      "Carapé Bazinha",
+      "Nozinho",
+      "Carapicuzinho",
+      "Xarelete"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": "O transcripto menciona a utilização de redes de diferentes tamanhos de malha (5, 4 e meia, 30) e equipamentos como tarrafa e tripézinho, mas não especifica técnicas de pesca, rios, bacias, estado ou município."
+  }
+}

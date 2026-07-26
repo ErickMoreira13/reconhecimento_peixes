@@ -1,0 +1,35 @@
+{
+  "arquivo": "zZ62NWD9mf8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:04:16.852286",
+  "classificacao": {
+    "estado": "Goiás",
+    "municipio": "Alto Horizonte",
+    "rios": [
+      "Rio Formiga"
+    ],
+    "especies": [
+      "Raia",
+      "Piaia",
+      "Gilipoca"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Barranco"
+    ],
+    "bacias": [],
+    "tipo_pesca": [],
+    "observacoes": [
+      "você vê o lugar que pegou",
+      "é bom demais",
+      "vamos experimentar aqui",
+      "espera uma meia hora",
+      "se nós não ver resultado nós vai para lá"
+    ]
+  }
+}

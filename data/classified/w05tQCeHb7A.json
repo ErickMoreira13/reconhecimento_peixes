@@ -1,0 +1,40 @@
+{
+  "arquivo": "w05tQCeHb7A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:42:22.078568",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Pacu",
+      "Tambaqui",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Varinha telescópica",
+      "Amarelinha"
+    ],
+    "iscas": [
+      "Massa giripoca",
+      "Massa patilápia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [
+      "Represa"
+    ],
+    "estado": "São Paulo",
+    "municipio": "Santa Branca",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Massa giripoca é uma isca artificial desenvolvida para pesca em represa",
+      "Uso de varinha telescópica e amarelinha como equipamentos principais"
+    ]
+  }
+}

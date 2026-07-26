@@ -1,0 +1,38 @@
+{
+  "arquivo": "X14IftHIz14",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:09:23.672544",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Traíra",
+      "Joana"
+    ],
+    "equipamentos": [
+      "Lanterna",
+      "Isca Artificial",
+      "Fisga",
+      "Facão"
+    ],
+    "iscas": [
+      "Isca Artificial",
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Bater Isca",
+      "Uso de Lanterna",
+      "Corredeira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pescaria"
+    ],
+    "observacoes": ""
+  }
+}

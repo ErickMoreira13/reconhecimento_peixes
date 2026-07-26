@@ -1,0 +1,56 @@
+{
+  "arquivo": "SKycs4--Sxg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:07:50.297211",
+  "classificacao": {
+    "especies": [
+      "lambari",
+      "atuvira",
+      "curimba",
+      "curimbona",
+      "minhoca",
+      "cabose",
+      "caranguejo",
+      "pacu"
+    ],
+    "equipamentos": [
+      "barco",
+      "vara",
+      "anzol",
+      "isca",
+      "linguiça",
+      "ovo frito",
+      "pãozinho francês",
+      "X-Rigiena",
+      "salsicha"
+    ],
+    "isca": [
+      "linguiça Cuiabana",
+      "ovo frito",
+      "milho",
+      "salsicha",
+      "lambari morto"
+    ],
+    "grãos": [
+      "milho"
+    ],
+    "rios": [
+      "Rio Vieja",
+      "Rio Viemo"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "município": "São Luís",
+    "tipos_de_pesca": [
+      "pesca de lambari",
+      "pesca de pacu",
+      "pesca com isca artificial"
+    ],
+    "observações": [
+      "captura de pacu",
+      "encontro com peixe de couro (possivelmente um tipo de bagre)",
+      "rio muito cheio",
+      "interrompido por trovoadas"
+    ]
+  }
+}

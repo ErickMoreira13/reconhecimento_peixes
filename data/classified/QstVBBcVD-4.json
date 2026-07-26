@@ -1,0 +1,54 @@
+{
+  "arquivo": "QstVBBcVD-4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:35:46.276103",
+  "classificacao": {
+    "especies": [
+      "tucunaré",
+      "barra"
+    ],
+    "equipamentos": [
+      "barco",
+      "revolto",
+      "varinha",
+      "tralha",
+      "popper",
+      "ceva"
+    ],
+    "iscas": [
+      "isca",
+      "popper"
+    ],
+    "cevas": {
+      "ceva aromática": [],
+      "ceva artificial": [
+        "popper"
+      ],
+      "ceva natural": [
+        "isca"
+      ],
+      "ceva de grãos": []
+    },
+    "grãos": [],
+    "técnicas": [
+      "popper",
+      "clareado dia",
+      "regando"
+    ],
+    "rios": [
+      "Balbina"
+    ],
+    "bacias": [
+      "Bacia do Rio Solimões"
+    ],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_de_pesca": "pesca esportiva",
+    "observacoes": [
+      "A pesca foi realizada no rio Balbina, localizado na bacia do Rio Solimões, no estado do Amazonas.",
+      "O uso do popper foi eficaz para atrair o tucunaré.",
+      "A isca natural foi utilizada com sucesso, especialmente durante o clareado dia.",
+      "A técnica de regando foi aplicada para explorar áreas específicas do rio."
+    ]
+  }
+}

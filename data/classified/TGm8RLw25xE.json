@@ -1,0 +1,31 @@
+{
+  "arquivo": "TGm8RLw25xE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:55:31.839579",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Asol duplo"
+    ],
+    "iscas": [
+      "Caranguejo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de espécie"
+    ],
+    "observacoes": [
+      "Técnica utilizada para pescar piauzinhos com caranguejo cortado e preparado em forma de X"
+    ]
+  }
+}

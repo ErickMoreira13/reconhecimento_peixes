@@ -1,0 +1,48 @@
+{
+  "arquivo": "8q8_A2VSEqs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:28:08.998704",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Traíra",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Casta",
+      "Embarcação"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja",
+      "Trigo"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Casta",
+      "Espera",
+      "Pesca de Fundo"
+    ],
+    "rios": [
+      "São Francisco"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Temporada das grandes traironas",
+      "Presença de peixes de grande porte"
+    ]
+  }
+}

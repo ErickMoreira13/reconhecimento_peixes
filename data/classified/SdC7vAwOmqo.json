@@ -1,0 +1,14 @@
+{
+  "arquivo": "SdC7vAwOmqo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:57:36.835776",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca no rio Guaporé, destacando a captura de espécies como Caxara, Caparari e Mandubé. O autor enfatiza a importância da conservação do ecossistema, ressaltando práticas sustentáveis, como a liberação dos peixes após a captura, e a preservação do ambiente natural. A narrativa também transmite uma conexão emocional com a natureza e a responsabilidade de proteger os recursos hídricos e a biodiversidade da região.",
+    "fish_species": {
+      "Caxara": "Espécie de peixe encontrada no rio Guaporé, comumente pescada por amadores.",
+      "Caparari": "Peixe de grande porte, valorizado por pescadores por sua resistência e tamanho.",
+      "Mandubé": "Espécie típica da bacia do rio Amazonas, com importância ecológica e cultural."
+    },
+    "conservation_message": "O texto promove a pesca sustentável, destacando a necessidade de preservar os ecossistemas aquáticos, evitar a sobrepesca e respeitar a vida selvagem. A liberação dos peixes capturados é apresentada como uma prática essencial para manter o equilíbrio ecológico."
+  }
+}

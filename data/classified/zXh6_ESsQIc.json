@@ -1,0 +1,14 @@
+{
+  "arquivo": "zXh6_ESsQIc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:01:34.445574",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca em que o narrador captura um peixe chamado 'pintado' (provavelmente um tipo de peixe, como um bagre), destaca o tamanho do peixe, o processo de libertá-lo (com cuidado para não causar danos), e menciona planos futuros para pesca noturna. O narrador também enfatiza a importância de usar equipamento adequado para preservar o bem-estar do peixe.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Dicas para pesca noturna",
+      "Explicação sobre o 'pintado'",
+      "Recomendações de equipamento para pesca ética"
+    ]
+  }
+}

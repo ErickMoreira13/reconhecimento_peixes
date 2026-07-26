@@ -1,0 +1,33 @@
+{
+  "arquivo": "KqLt8QuQsXY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:03:17.415489",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Mandinho"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Equipamento de pesca",
+      "Churrasqueira",
+      "Geladeira"
+    ],
+    "iscas": [
+      "Peitinho de frango"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Mandinho"
+    ],
+    "observacoes": []
+  }
+}

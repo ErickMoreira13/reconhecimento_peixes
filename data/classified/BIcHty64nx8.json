@@ -1,0 +1,23 @@
+{
+  "arquivo": "BIcHty64nx8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:15:19.598815",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe grande capturado"
+    ]
+  }
+}

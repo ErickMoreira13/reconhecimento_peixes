@@ -1,0 +1,23 @@
+{
+  "arquivo": "rNDYV_lYxa8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:55:10.918444",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Arroz"
+    ],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

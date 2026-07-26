@@ -1,0 +1,38 @@
+{
+  "arquivo": "LVYwPT7peQE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:37:55.371647",
+  "classificacao": {
+    "especies": [
+      "Garateia",
+      "Tucuna",
+      "Encarnado"
+    ],
+    "equipamentos": [
+      "Lure Vision da Mega Bass",
+      "Isca Cinque",
+      "Isca com Barbela",
+      "Isca com Barbela Grande",
+      "Isca Gig",
+      "Fiape"
+    ],
+    "iscas": [
+      "Isca com Barbela",
+      "Isca Cinque",
+      "Isca com Barbela Grande",
+      "Isca Gig",
+      "Lure Vision da Mega Bass",
+      "Junior",
+      "Gigues"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": "Pesca Esportiva",
+    "observacoes": []
+  }
+}

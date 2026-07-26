@@ -1,0 +1,17 @@
+{
+  "arquivo": "em9t0uU9UUE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:08:28.602821",
+  "classificacao": {
+    "summary": "O texto é uma conversa informal entre pescadores que compartilham experiências de pesca. Eles discutem técnicas, como o uso de iscas específicas (como a mesma isca para diferentes espécies), a captura de peixes como corvina, pato e mandi, e a prática de soltar alguns peixes após a captura. Há menções a desafios, como a dificuldade de pescar em certas condições, e a importância de preservar os peixes. O diálogo é casual, com humor e colaboração entre os participantes.",
+    "translation": "The text is an informal conversation between fishermen sharing fishing experiences. They discuss techniques, such as using specific baits (like the same bait for different species), catching fish like corvina, pato, and mandi, and the practice of releasing some fish after capture. There are mentions of challenges, such as the difficulty of fishing under certain conditions, and the importance of preserving the fish. The dialogue is casual, with humor and collaboration among the participants.",
+    "key_terms": {
+      "corvina": "A type of fish (possibly a species of sea bass or similar)",
+      "pato": "A fish species (possibly a type of catfish or similar)",
+      "mandi": "A common freshwater fish in Brazil (like the mandi or pirapitinga)",
+      "gás": "Possibly refers to the swim bladder of a fish or a local term for something else",
+      "naré": "Unclear term; could be a typo or local slang."
+    },
+    "analysis": "The conversation highlights traditional fishing practices, the importance of sustainability (releasing fish), and the social aspect of fishing as a group activity. The informal tone and repetition suggest it's a real-time dialogue, possibly recorded during a fishing trip. The mention of specific fish species and techniques may be region-specific, indicating the context is likely from a coastal or riverine area in Brazil."
+  }
+}

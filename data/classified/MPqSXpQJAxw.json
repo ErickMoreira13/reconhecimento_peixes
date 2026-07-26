@@ -1,0 +1,29 @@
+{
+  "arquivo": "MPqSXpQJAxw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:00:34.888367",
+  "classificacao": {
+    "especies": [
+      "Carapitanga",
+      "Bicuara",
+      "Pirambuzão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Alto Maí"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Ponta Grossa",
+    "tipo_pesca": [
+      "Pesca de Anzol"
+    ],
+    "observacoes": []
+  }
+}

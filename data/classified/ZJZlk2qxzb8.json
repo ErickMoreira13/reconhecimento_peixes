@@ -1,0 +1,33 @@
+{
+  "arquivo": "ZJZlk2qxzb8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:25:18.025274",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Garrafinha",
+      "PET 2 Litros",
+      "Funil"
+    ],
+    "iscas": [
+      "Milho Verde"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Conservação de Milho com Álcool"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Milho preservado por mais de um ano sem perder cor, sabor ou fermentar"
+    ]
+  }
+}

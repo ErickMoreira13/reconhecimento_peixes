@@ -1,0 +1,23 @@
+{
+  "arquivo": "O-WVeP_WcPU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:51:10.650549",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Preto"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Fishing in the Rio Preto is more difficult during the day and better at night."
+    ]
+  }
+}

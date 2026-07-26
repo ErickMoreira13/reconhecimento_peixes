@@ -1,0 +1,22 @@
+{
+  "arquivo": "B_vHvWtSw3Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:47:29.985375",
+  "classificacao": {
+    "species": [],
+    "equipment": [],
+    "baits": [],
+    "cevas": [],
+    "grains": [],
+    "techniques": [],
+    "rivers": [],
+    "basins": [],
+    "state": "Minas Gerais",
+    "municipality": [
+      "Mariana",
+      "Barra Louca"
+    ],
+    "type_of_fishing": [],
+    "observations": []
+  }
+}

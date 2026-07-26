@@ -1,0 +1,34 @@
+{
+  "arquivo": "jg4OObocrnI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:59:55.020418",
+  "classificacao": {
+    "especies": [
+      "Curvina",
+      "Jurupema",
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Passa-taciso"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Spinning",
+      "Passa-taciso"
+    ],
+    "rios": [],
+    "bacias": [
+      "Bacia"
+    ],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "EIaK_WTQLsg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:01:40.334189",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

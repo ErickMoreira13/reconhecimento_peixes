@@ -1,0 +1,39 @@
+{
+  "arquivo": "UMfWz80DK7o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:09:08.616166",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Piranha",
+      "Aracu",
+      "Cará",
+      "Carabaru",
+      "Pacu",
+      "Bodó",
+      "Caral",
+      "Branquinha"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Malhadeira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Malhadeira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Manacapuru",
+    "tipo_pesca": [
+      "Malhadeira"
+    ],
+    "observacoes": [
+      "Uso de gelo para preservar os peixes",
+      "Prática de pesque e solte"
+    ]
+  }
+}

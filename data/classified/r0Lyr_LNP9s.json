@@ -1,0 +1,26 @@
+{
+  "arquivo": "r0Lyr_LNP9s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:52:32.578758",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Galha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guarapiranga"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Guarulhos",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

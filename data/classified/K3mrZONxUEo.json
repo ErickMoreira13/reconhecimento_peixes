@@ -1,0 +1,29 @@
+{
+  "arquivo": "K3mrZONxUEo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:28:41.770190",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara Black",
+      "Go Style",
+      "Carretilha Black Eagle",
+      "Kitzinho"
+    ],
+    "iscas": [
+      "Boiatura"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "oBhX6JziVes",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:24:58.523773",
+  "classificacao": {
+    "especies": [
+      "Cavala"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Malinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Bater o peixe"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

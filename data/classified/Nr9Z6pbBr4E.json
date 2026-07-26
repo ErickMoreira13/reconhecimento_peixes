@@ -1,0 +1,21 @@
+{
+  "arquivo": "Nr9Z6pbBr4E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:23:58.815478",
+  "classificacao": {
+    "species": [
+      "robalo",
+      "saicanga",
+      "canivete",
+      "carpa"
+    ],
+    "equipment": [
+      "LQ4150 (cor B)"
+    ],
+    "techniques": [
+      "lançamento e recuperação de isca"
+    ],
+    "location": "",
+    "time": ""
+  }
+}

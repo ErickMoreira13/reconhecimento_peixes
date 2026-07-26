@@ -1,0 +1,38 @@
+{
+  "arquivo": "D_edX-c8jmM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:43:53.919838",
+  "classificacao": {
+    "subject": "pesca de lula (squid) de caiaque",
+    "equipment": [
+      "vara Speed Prime",
+      "mulinete",
+      "agarejos de peso",
+      "Yamashita",
+      "FJB"
+    ],
+    "species": [
+      "lula"
+    ],
+    "iscas": [],
+    "graos": [],
+    "tecnicas": [
+      "chicote com duas bruxinhas",
+      "nó rapala"
+    ],
+    "localizacao": {
+      "rios": [],
+      "bacias": [],
+      "municipio": "",
+      "estado": "Rio de Janeiro"
+    },
+    "tipo_pesca": [
+      "pesca de lula",
+      "pesca de caiaque"
+    ],
+    "observacoes": [
+      "uso de chicote com duas bruxinhas",
+      "preparação da lula para cozinhar"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "arquivo": "CAmyAQr-K8s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:18:55.842908",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Tutu",
+      "Naré",
+      "Acará Gigante",
+      "Robalinho",
+      "Morocotó",
+      "Lambari",
+      "Zalão"
+    ],
+    "equipment": [
+      "Braude",
+      "Moto"
+    ],
+    "baits": [],
+    "grains": [],
+    "cevas": [],
+    "techniques": [],
+    "locations": [
+      "Rio",
+      "Valão",
+      "Lagoa",
+      "Brejo",
+      "Mata",
+      "Macacuá"
+    ],
+    "detalhes": [
+      "Pesca caipira",
+      "Solta peixes",
+      "Inscrever",
+      "Like",
+      "Moto",
+      "Braude",
+      "Valão",
+      "Lagoa",
+      "Brejo",
+      "Mata",
+      "Macacuá"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "W51UlWZtxGQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:55:15.903376",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Filetagem"
+    ],
+    "iscas": [
+      "Isca de peixe"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Filetagem"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "Anzol pequeno utilizado para pescar bagrinho",
+      "Bagrinho de tamanho pequeno capturado"
+    ]
+  }
+}

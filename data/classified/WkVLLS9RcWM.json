@@ -1,0 +1,21 @@
+{
+  "arquivo": "WkVLLS9RcWM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:11:51.110655",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Taquari"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Estrela",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

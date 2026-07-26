@@ -1,0 +1,21 @@
+{
+  "arquivo": "r3ISEW3iIqY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:55:05.078896",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

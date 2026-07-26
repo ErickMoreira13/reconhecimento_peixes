@@ -1,0 +1,39 @@
+{
+  "arquivo": "Fbxv5o7iGhA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:06:52.190030",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "linha multifilamento",
+      "líder",
+      "boia de arremesso"
+    ],
+    "iscas": [
+      "isca artificial",
+      "spinner"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca artificial",
+      "spinning"
+    ],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [
+      "Represa de Segredos",
+      "Represa de São Santiago"
+    ],
+    "estado": "Paraná",
+    "municipio": "Foz do Jordão",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": ""
+  }
+}

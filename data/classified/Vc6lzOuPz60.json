@@ -1,0 +1,36 @@
+{
+  "arquivo": "Vc6lzOuPz60",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:42:43.287941",
+  "classificacao": {
+    "especies": [
+      "Porco",
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Paraná"
+    ],
+    "estado": "Rio de Janeiro",
+    "municipio": "Niterói",
+    "tipo_pesca": [
+      "Pesca de Caiaque"
+    ],
+    "observacoes": [
+      "Temperatura da água de 16 graus",
+      "Vento forte afetou a maré",
+      "Local com potencial para futuras pescarias"
+    ]
+  }
+}

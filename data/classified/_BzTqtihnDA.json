@@ -1,0 +1,25 @@
+{
+  "arquivo": "_BzTqtihnDA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:56:05.944948",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Furnas"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": ""
+  }
+}

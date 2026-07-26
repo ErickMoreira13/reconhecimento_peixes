@@ -1,0 +1,33 @@
+{
+  "arquivo": "hu07Bk10_xM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:15:40.416177",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Azulão"
+    ],
+    "equipamentos": [
+      "GoPro",
+      "celular",
+      "Jigs Radical Fishing",
+      "Double Hook",
+      "Le Beast",
+      "Piabinho",
+      "Telescópio",
+      "Barrigudinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

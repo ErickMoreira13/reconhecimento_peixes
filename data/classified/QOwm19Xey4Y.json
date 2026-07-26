@@ -1,0 +1,34 @@
+{
+  "arquivo": "QOwm19Xey4Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:55:45.793017",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Zap",
+      "Popper",
+      "Barbelinha"
+    ],
+    "iscas": [
+      "Popper",
+      "Zap"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de zap e popper com barbelinha",
+      "Provocação extrema para atrair peixes"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "A barbelinha evita que a isca capote",
+      "Técnica utilizada para provocar peixes em situações extremas"
+    ]
+  }
+}

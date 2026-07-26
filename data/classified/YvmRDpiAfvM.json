@@ -1,0 +1,38 @@
+{
+  "arquivo": "YvmRDpiAfvM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:30:38.617665",
+  "classificacao": {
+    "Fish Species": [
+      "tilapia (tilata)",
+      "pacu",
+      "carp",
+      "catfish (barro, catfish)",
+      "curimba",
+      "minhoquinha",
+      "bichinho de laranja"
+    ],
+    "Equipment": [
+      "boia invertida (inverted float)",
+      "chumbo de carpa (carp sinker, up to 15 grams)",
+      "chicote de fundo (rig)",
+      "molinete (reel)",
+      "vara (rod)",
+      "nozinho de correr (sliding knot)",
+      "passador (bead) for the sinker"
+    ],
+    "Techniques": [
+      "Inverted float setup (boia invertida)",
+      "Use of a 7-number float (lighter than a torpedo)",
+      "Knot-tying method with multiple turns for the sliding knot",
+      "Fishing during specific times: morning (cold weather, fish rise) and afternoon (hot weather)",
+      "Application for daily fishing and sport fishing",
+      "Targeting fish with the rig (chicote de fundo) and two hooks"
+    ],
+    "Other": [
+      "Mention of subscriber Rogério",
+      "Promotion of the channel (YouTube)",
+      "Effectiveness of the technique for various fish species and fishing scenarios"
+    ]
+  }
+}

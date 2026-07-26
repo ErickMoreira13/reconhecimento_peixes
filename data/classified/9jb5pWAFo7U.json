@@ -1,0 +1,34 @@
+{
+  "arquivo": "9jb5pWAFo7U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:41:51.028362",
+  "classificacao": {
+    "especies": [
+      "Badejo Quadrado",
+      "Serioba"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Vara"
+    ],
+    "iscas": [
+      "Camarão Vivo",
+      "Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Corricar",
+      "Artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca com Camarão Vivo"
+    ],
+    "observacoes": []
+  }
+}

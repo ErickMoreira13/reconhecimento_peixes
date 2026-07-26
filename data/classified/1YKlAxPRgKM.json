@@ -1,0 +1,27 @@
+{
+  "arquivo": "1YKlAxPRgKM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:02:22.713225",
+  "classificacao": {
+    "especies": [
+      "Assor"
+    ],
+    "equipamentos": [
+      "Mosca"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Mosca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

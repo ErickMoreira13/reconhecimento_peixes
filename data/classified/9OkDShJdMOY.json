@@ -1,0 +1,49 @@
+{
+  "arquivo": "9OkDShJdMOY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:46:37.360091",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Monchol",
+      "Tarucha"
+    ],
+    "equipamento": [
+      "caña",
+      "mojarrero",
+      "terro"
+    ],
+    "cevadas": {
+      "ceva_natural": [
+        "lombri",
+        "mojarra",
+        "rana",
+        "bagre"
+      ],
+      "ceva_proteica": [],
+      "ceva_aromatica": [],
+      "ceva_sintetica": []
+    },
+    "isca": [
+      "lombri",
+      "mojarra",
+      "rana",
+      "bagre"
+    ],
+    "graos": [],
+    "tecnica": [
+      "tiro aca",
+      "encarnar"
+    ],
+    "rios": [
+      "Arroyo Sandoval",
+      "puente de Gualeguay"
+    ],
+    "bacias": [],
+    "estado": "Entre Ríos",
+    "municipio": [
+      "Villaclara",
+      "Gualeguay"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "qThhmdUVF6k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:21:41.327180",
+  "classificacao": {
+    "especies": [
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Facão",
+      "Faquinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Taquarim"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Bom Retiro",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Corte no dedo com a faca",
+      "Uso de faca personalizada com cabo de madeira",
+      "Pescaria em local com barragem após enchente",
+      "Preparação de almoço com peixe capturado"
+    ]
+  }
+}

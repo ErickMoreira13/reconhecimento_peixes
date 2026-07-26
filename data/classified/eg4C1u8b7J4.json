@@ -1,0 +1,17 @@
+{
+  "arquivo": "eg4C1u8b7J4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:58:17.838674",
+  "classificacao": {
+    "summary": "O texto é um script de vídeo ou transcrição de live stream sobre pesca, com foco na captura de peixes como Maria da Toca, baraninha, roubalhinho e jaguriçá. O narrador destaca equipamentos usados, como protetor facial com FPS 50, óculos polarizados da marca Express, e isca de camarão com cabeça de jig. Há ênfase em técnicas de pesca, localizações (Itaipu, Niterói, Taipu) e a empolgação de capturar peixes. O conteúdo também menciona a importância de equipamentos específicos, como a linha X-Bridge e a vara de 10 libras, e inclui repetições de frases para engajar o público.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução do texto",
+      "Dicas de equipamentos para pesca",
+      "Informações sobre espécies de peixes mencionadas",
+      "Análise de técnicas de pesca",
+      "Recomendações de locais para pesca",
+      "Explicação sobre marcas de equipamentos (Express, X-Bridge)"
+    ]
+  }
+}

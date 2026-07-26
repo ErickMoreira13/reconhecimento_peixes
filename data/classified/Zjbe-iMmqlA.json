@@ -1,0 +1,23 @@
+{
+  "arquivo": "Zjbe-iMmqlA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:24:10.759728",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca com linguagem coloquial e termos específicos do universo pesqueiro. O narrador relata ações como lançar iscas (\"jiguel\"), usar equipamentos (\"garaterna\", \"polinho\"), e interações com outros pescadores. Termos como \"troféuzinho\" (peixe de valor), \"Barana\" e \"Guaiveira\" (nomes de espécies de peixe) são mencionados, assim como a frustração ao perder um peixe (\"recompensa\"). O relato inclui emoções, técnicas e a dinâmica de um grupo de pescadores.",
+    "key_terms": {
+      "troféuzinho": "Peixe de valor ou destaque em uma pesca.",
+      "Barana": "Espécie de peixe local (possivelmente da região amazônica).",
+      "Guaiveira": "Outra espécie de peixe mencionada no contexto.",
+      "Jiguel": "Técnica ou equipamento de pesca (possivelmente uma isca ou método específico).",
+      "Garaterna": "Equipamento de pesca (possivelmente uma vara ou haste).",
+      "Polinho": "Termo que pode se referir a um tipo de isca ou equipamento.",
+      "Recompensa": "Referência à frustração de perder um peixe após uma luta."
+    },
+    "possible_questions": [
+      "Qual é o significado de 'troféuzinho' no contexto da pesca?",
+      "Como se chama a espécie 'Barana' em português padrão?",
+      "O que significa 'jiguel' no relato?",
+      "Por que o narrador menciona 'recompensa' ao perder um peixe?"
+    ]
+  }
+}

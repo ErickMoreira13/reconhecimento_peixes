@@ -1,0 +1,33 @@
+{
+  "arquivo": "0h_ZMYYia4I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:13:23.060958",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Anzol 6",
+      "Anzol 6 barra 0"
+    ],
+    "iscas": [
+      "Gando"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de pesca pela costas e final do rabo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Benzidinha para atrair peixes"
+    ]
+  }
+}

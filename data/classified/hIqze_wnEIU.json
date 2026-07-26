@@ -1,0 +1,27 @@
+{
+  "arquivo": "hIqze_wnEIU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:46:40.111463",
+  "classificacao": {
+    "especies": [
+      "Anguá"
+    ],
+    "equipamentos": [
+      "Pau pescador",
+      "Ligadinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescador capturando um anguá grande",
+      "Tamanho do bagulho"
+    ]
+  }
+}

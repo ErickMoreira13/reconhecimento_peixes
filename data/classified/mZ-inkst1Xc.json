@@ -1,0 +1,40 @@
+{
+  "arquivo": "mZ-inkst1Xc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:19:43.992651",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Saco",
+      "Peneira",
+      "Plástico",
+      "Varinha",
+      "Cedão"
+    ],
+    "iscas": [
+      "Cupim"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Armadilha",
+      "Pesca com isca natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca natural"
+    ],
+    "observacoes": [
+      "A isca é feita com cupim e colocada em sacos ou baldes",
+      "O dourado é difícil de filmar por ser liso"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "arquivo": "S2n27xdv-p4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:43:09.499673",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Peixe-Cachorro",
+      "Garateia"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Varinha",
+      "Linha de Tucunaré"
+    ],
+    "iscas": [
+      "Isca",
+      "Salada"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Fera",
+      "Pesca com Isca",
+      "Pesca de Freixo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Freixo"
+    ],
+    "observacoes": []
+  }
+}

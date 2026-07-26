@@ -1,0 +1,41 @@
+{
+  "arquivo": "5qOctJc_8sw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:29:53.826711",
+  "classificacao": {
+    "especies": [
+      "Caixara",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Videocâmera",
+      "Vara de pesca",
+      "Carretilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com vara e carretilha"
+    ],
+    "rios": [
+      "Rio Paraguai",
+      "Rio Paraná",
+      "Rio Amazonas"
+    ],
+    "bacias": [
+      "Bacia do Plata",
+      "Bacia Amazônica"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "O caixara é distinto do pintado por ter listras em vez de manchas",
+      "O caixara não cresce tanto quanto o pintado",
+      "O peixe foi capturado em águas de baixa visibilidade"
+    ]
+  }
+}

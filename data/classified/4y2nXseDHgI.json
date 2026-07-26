@@ -1,0 +1,30 @@
+{
+  "arquivo": "4y2nXseDHgI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:48:04.634649",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chicote Longo",
+      "Vara",
+      "Antena Chifrinho",
+      "GoPro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso Reto",
+      "Arremesso Cabeceira",
+      "Maneira Segura de Arremessar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Chicote"
+    ],
+    "observacoes": []
+  }
+}

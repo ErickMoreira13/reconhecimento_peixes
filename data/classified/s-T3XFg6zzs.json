@@ -1,0 +1,40 @@
+{
+  "arquivo": "s-T3XFg6zzs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:42:04.323332",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra",
+      "Piranha",
+      "Jacundá"
+    ],
+    "equipamentos": [
+      "Molinete de fundo"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca de fundo",
+      "Molinete de fundo"
+    ],
+    "rios": [
+      "Guarapiranga"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Santo André",
+    "tipo_pesca": [
+      "Pesca de fundo",
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

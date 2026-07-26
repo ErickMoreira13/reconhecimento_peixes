@@ -1,0 +1,69 @@
+{
+  "arquivo": "tspyu6reLNQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:24:56.612203",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Dourado",
+      "Pirarucu"
+    ],
+    "equipamentos": [
+      "Firestick",
+      "Meiuca",
+      "Faquinha",
+      "Rede",
+      "Linha",
+      "Serra Negra",
+      "Carona",
+      "Palma",
+      "Moitinha"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Feijão",
+      "Amendoim",
+      "Girassol",
+      "Alpiste",
+      "Linhaça"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Feijão",
+      "Amendoim",
+      "Girassol",
+      "Alpiste",
+      "Linhaça"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Serra Negra"
+    ],
+    "bacias": [
+      "Palma",
+      "Moitinha"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

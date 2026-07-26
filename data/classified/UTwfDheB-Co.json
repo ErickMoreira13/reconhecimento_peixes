@@ -1,0 +1,23 @@
+{
+  "arquivo": "UTwfDheB-Co",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:27:31.815526",
+  "classificacao": {
+    "especies": [
+      "Itatai"
+    ],
+    "equipamentos": [
+      "pala"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

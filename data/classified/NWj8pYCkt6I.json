@@ -1,0 +1,32 @@
+{
+  "arquivo": "NWj8pYCkt6I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:37:49.414848",
+  "classificacao": {
+    "especies": [
+      "Curvina"
+    ],
+    "equipamentos": [
+      "Pê",
+      "Carretilha",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento",
+      "Recuperação"
+    ],
+    "rios": [
+      "Rio Guaporé"
+    ],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "Porto Velho",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

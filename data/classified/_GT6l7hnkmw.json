@@ -1,0 +1,23 @@
+{
+  "arquivo": "_GT6l7hnkmw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:59:31.972042",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Curral"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de curral"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

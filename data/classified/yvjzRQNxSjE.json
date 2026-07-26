@@ -1,0 +1,25 @@
+{
+  "arquivo": "yvjzRQNxSjE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:30:14.413539",
+  "classificacao": {
+    "species": [
+      "Dourado"
+    ],
+    "equipment": [
+      "Boga",
+      "Vara",
+      "Linha"
+    ],
+    "iscas": [
+      "Snap"
+    ],
+    "cevas": [],
+    "graos": [],
+    "techniques": [
+      "Arremesso",
+      "Soltura"
+    ],
+    "location": "Rio Uruguai"
+  }
+}

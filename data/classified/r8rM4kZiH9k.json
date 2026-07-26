@@ -1,0 +1,31 @@
+{
+  "arquivo": "r8rM4kZiH9k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:59:50.035413",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piau Vara"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha",
+      "Anzolzinho"
+    ],
+    "iscas": [
+      "Massa",
+      "Minhoquinha",
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Milho Verde"
+    ]
+  }
+}

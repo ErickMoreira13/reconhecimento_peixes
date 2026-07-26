@@ -1,0 +1,27 @@
+{
+  "arquivo": "8bwNRYGlTS4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:12:09.141723",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Lapinha",
+      "Tucunaré",
+      "Jacundá"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial"
+    ],
+    "rios": [
+      "Rio Muzampo",
+      "Rio Grande"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Araguari"
+  }
+}

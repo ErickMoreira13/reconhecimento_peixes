@@ -1,0 +1,31 @@
+{
+  "arquivo": "KE2HBQsrZCg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:35:23.030930",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "garrafa"
+    ],
+    "iscas": [
+      "soja borrachinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "uso de fermento químico (pó royal) para preparar a soja",
+      "necessidade de tampar bem o recipiente para evitar vazamento de ar",
+      "deixar a mistura no sol por uma hora antes de fechar novamente"
+    ]
+  }
+}

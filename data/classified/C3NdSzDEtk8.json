@@ -1,0 +1,36 @@
+{
+  "arquivo": "C3NdSzDEtk8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:13:29.559782",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Gigstick",
+      "Top Gun"
+    ],
+    "iscas": [
+      "Canaré",
+      "Amarelin"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Bar da Pedra"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Miranda",
+    "tipo_pesca": [
+      "Pesca em Rio",
+      "Pesca com Isca Artificial"
+    ],
+    "observacoes": [
+      "Pescador capturou um casal de Traíra",
+      "O peixe deu um banho no pescador"
+    ]
+  }
+}

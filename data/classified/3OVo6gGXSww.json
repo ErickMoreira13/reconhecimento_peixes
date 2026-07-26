@@ -1,0 +1,39 @@
+{
+  "arquivo": "3OVo6gGXSww",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:22:02.514877",
+  "classificacao": {
+    "especies": [
+      "Surubim"
+    ],
+    "equipamentos": [
+      "Corda",
+      "Molinete",
+      "Sombrinho",
+      "Caixa"
+    ],
+    "iscas": [
+      "Isca Parada",
+      "Isca Viva Parada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca na Correnteza",
+      "Pesca na Água Parada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "Caxeira do Urubu",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Surubim"
+    ],
+    "observacoes": [
+      "Perigo devido às espinhas do surubim",
+      "Uso de molinete para pescar em correnteza",
+      "Localização no Piauí"
+    ]
+  }
+}

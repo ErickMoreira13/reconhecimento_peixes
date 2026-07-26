@@ -1,0 +1,25 @@
+{
+  "arquivo": "rPFCceYvlIg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:25:28.827945",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Cachoeira do Sabão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": ""
+  }
+}

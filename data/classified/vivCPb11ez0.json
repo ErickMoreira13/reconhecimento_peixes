@@ -1,0 +1,21 @@
+{
+  "arquivo": "vivCPb11ez0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:07:28.768464",
+  "classificacao": {
+    "summary": "O texto apresenta uma narrativa informal de Rosário, que descreve suas dificuldades ao tentar pescar em um reservatório usando uma tarrafa (rede de pesca) em condições precárias. Ele menciona problemas com a tarrafa, a escassez de peixes devido à sobrepesca, e a dificuldade de sobrevivência na região. Além disso, há referências a problemas de saúde (como diabetes) e interações com outras pessoas, como Tony, que também enfrenta desafios similares. O conteúdo reflete a luta diária por recursos e a degradação ambiental do reservatório, destacando a vulnerabilidade de comunidades dependentes desses ecossistemas.",
+    "key_themes": [
+      "Sobrevivência e luta por recursos",
+      "Degradção ambiental",
+      "Problemas de saúde",
+      "Comunidade e interdependência",
+      "Desafios da pesca artesanal"
+    ],
+    "possible_next_steps": [
+      "Traduzir o texto para outro idioma",
+      "Criar um roteiro mais estruturado com base na narrativa",
+      "Analisar o impacto ambiental do reservatório",
+      "Explorar soluções para melhorar a pesca e a saúde da comunidade"
+    ]
+  }
+}

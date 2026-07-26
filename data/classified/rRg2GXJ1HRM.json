@@ -1,0 +1,23 @@
+{
+  "arquivo": "rRg2GXJ1HRM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:27:47.925820",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "mulinete caseiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "mulinete caseiro com corretivos de colégio e freio"
+    ]
+  }
+}

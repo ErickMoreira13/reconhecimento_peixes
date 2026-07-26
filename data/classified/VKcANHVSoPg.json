@@ -1,0 +1,36 @@
+{
+  "arquivo": "VKcANHVSoPg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:09:17.636657",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "arco",
+      "flechas"
+    ],
+    "iscas": [
+      "insetos"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com arco e flecha"
+    ],
+    "rios": [
+      "Amazonas"
+    ],
+    "bacias": [
+      "bacia do Amazonas"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com arco e flecha"
+    ],
+    "observacoes": [
+      "pescado com arco e flecha em águas rasas"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "otgimdTEd44",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:29:56.389815",
+  "classificacao": {
+    "especies": [
+      "Betara",
+      "Pampão"
+    ],
+    "equipamentos": [
+      "saca anzol"
+    ],
+    "iscas": [
+      "camarão",
+      "sardinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

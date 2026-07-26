@@ -1,0 +1,25 @@
+{
+  "arquivo": "S0vz_Kmftn4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:42:38.074578",
+  "classificacao": {
+    "especies": [
+      "Cindada"
+    ],
+    "equipamentos": [
+      "vara de bambu"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

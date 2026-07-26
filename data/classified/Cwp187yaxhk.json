@@ -1,0 +1,31 @@
+{
+  "arquivo": "Cwp187yaxhk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:35:11.319609",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tubarão"
+    ],
+    "equipamentos": [
+      "Molinete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Vibração"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Muita emoção",
+      "Habilidade orientada"
+    ]
+  }
+}

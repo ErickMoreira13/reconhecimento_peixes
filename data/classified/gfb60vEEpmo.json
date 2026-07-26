@@ -1,0 +1,45 @@
+{
+  "arquivo": "gfb60vEEpmo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:36:54.129097",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Chumbada",
+      "Rodada",
+      "Rodadinha"
+    ],
+    "iscas": [
+      "Milho Cozido",
+      "Soja",
+      "Calabresa"
+    ],
+    "cevas": [
+      "Ceva"
+    ],
+    "localização": [
+      "Rio",
+      "Corredeira"
+    ],
+    "metodo": [
+      "Rodada",
+      "Rodadinha",
+      "Pescar no Fundo"
+    ],
+    "distancia": [
+      "2 Palmos (25 cm)",
+      "1 Palmo (25 cm)"
+    ],
+    "tempo": [
+      "Quando o Rio Tava Cheio",
+      "Rio Baixou Bastante"
+    ],
+    "observação": [
+      "Curimba tá vindo na calabresa",
+      "Piau não tão encostando aí mais não"
+    ]
+  }
+}

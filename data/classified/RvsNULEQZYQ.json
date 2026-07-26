@@ -1,0 +1,38 @@
+{
+  "arquivo": "RvsNULEQZYQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:35:04.736492",
+  "classificacao": {
+    "especies": [
+      "Sabiqui",
+      "Tucunareda"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Pier"
+    ],
+    "iscas": [
+      "Sabiqui"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento de iscas",
+      "Pesca em águas abertas"
+    ],
+    "rios": [
+      "Rio Paranaíba"
+    ],
+    "bacias": [
+      "Bacia do Rio Paranaíba"
+    ],
+    "estado": "Minas Gerais",
+    "municipio": "Formiga",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Pescaria realizada em uma represa, com água transparente. Foi possível capturar alguns peixes, como Sabiqui e Tucunareda. A pescaria durou cerca de duas horas, com uso de iscas e lançamento em águas abertas."
+    ]
+  }
+}

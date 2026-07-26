@@ -1,0 +1,21 @@
+{
+  "arquivo": "rR6I6tJr0y4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:27:24.624867",
+  "classificacao": {
+    "especies": [
+      "Geleia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

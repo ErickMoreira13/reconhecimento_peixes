@@ -1,0 +1,25 @@
+{
+  "arquivo": "8h7ba0PQ7Io",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:15:10.711896",
+  "classificacao": {
+    "especies": [
+      "Bias"
+    ],
+    "equipamentos": [],
+    "tecnicas": [
+      "Jig",
+      "Carolina Rig",
+      "Walk Rig",
+      "Rudder Jig"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": ""
+  }
+}

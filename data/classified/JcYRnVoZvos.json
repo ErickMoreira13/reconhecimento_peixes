@@ -1,0 +1,50 @@
+{
+  "arquivo": "JcYRnVoZvos",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:55:08.924042",
+  "classificacao": {
+    "revised_script": {
+      "introduction": {
+        "title": "Como Preparar e Usar a Massa para Pescar",
+        "content": "Vamos aprender como preparar a massa (isca) de forma adequada e como usá-la com eficiência para pescar. Seguindo os passos abaixo, você garantirá um melhor desempenho da isca e aumentará suas chances de capturar peixes."
+      },
+      "preparing_the_massa": {
+        "title": "Preparação da Massa",
+        "steps": [
+          "1. **Misture bem os ingredientes**: Certifique-se de que a massa está homogênea, sem grumos. Isso garante que ela se desfaça de forma uniforme na água.",
+          "2. **Ajuste a consistência**: Se a massa estiver muito dura, adicione um pouco de água. Se estiver muito mole, misture com mais farinha ou amido para firmar.",
+          "3. **Teste a elasticidade**: Aperte a massa com as mãos. Ela deve ficar firme, mas não quebradiça. Isso é essencial para que ela se mantenha no anzol durante o arremesso."
+        ]
+      },
+      "attaching_to_the_hook": {
+        "title": "Como Colocar a Massa no Anzol",
+        "steps": [
+          "1. **Forme uma bola**: Pegue uma pequena quantidade de massa e faça uma bola com as mãos.",
+          "2. **Enrole no anzol**: Coloque a bola no anzol e enrole-a com cuidado, garantindo que ela cubra a cabeça do anzol e parte do corpo.",
+          "3. **Fixe com um nó**: Use um nó simples (como o nó de clinch) para fixar a massa no anzol. Isso evita que ela se solte durante o arremesso."
+        ]
+      },
+      "casting_technique": {
+        "title": "Técnica de Arremesso",
+        "content": "Ao arremessar, mantenha o braço firme e use o peso da massa para ajudar no lançamento. Evite arremessar muito longe, especialmente em águas com correnteza forte. A massa deve se soltar gradualmente na água, atraindo os peixes."
+      },
+      "additional_tips": {
+        "title": "Dicas Importantes",
+        "points": [
+          "Use linha fluorescente para facilitar a visualização da isca na água.",
+          "Mantenha a massa fresca e não deixe-a secar antes de usar.",
+          "Ao capturar o peixe, remova a massa com cuidado para evitar danos ao anzol."
+        ]
+      },
+      "conclusion": {
+        "title": "Pratique e Aperfeiçoe",
+        "content": "Com prática, você dominará a técnica de usar a massa de forma eficaz. Lembre-se de ajustar a consistência da isca conforme as condições da água e do tipo de peixe que está pesqueando. Boa pesca!"
+      }
+    },
+    "notes": {
+      "language": "Português",
+      "structure": "Organizado em seções com títulos e passos claros para facilitar a compreensão.",
+      "tone": "Formal e instrucional, adequado para um tutorial ou vídeo."
+    }
+  }
+}

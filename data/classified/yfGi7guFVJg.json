@@ -1,0 +1,43 @@
+{
+  "arquivo": "yfGi7guFVJg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:11:15.077134",
+  "classificacao": {
+    "especies": [
+      "Cachorra Larga",
+      "Cachorra Brava",
+      "Peixe Vampiro",
+      "Curimbinha",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Carretilha PEN",
+      "Faton 200",
+      "Vara Intergrim Sailor 17 Libras",
+      "Chumbada",
+      "Anzol Encastuado",
+      "Anzol 5 Barra 0",
+      "Anzolzinho 3 Barra 0"
+    ],
+    "iscas": [
+      "Lambari",
+      "Palmito"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Solta a Linha",
+      "Mexe a Isca",
+      "Descer a Isca",
+      "Movimenta a Isca",
+      "Espera o Peixe Pular"
+    ],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca Esportiva"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "Fltk0Szu9U8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:27:50.328063",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

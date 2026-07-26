@@ -1,0 +1,31 @@
+{
+  "arquivo": "uJqW5tr4qUM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:46:54.826069",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Piau",
+      "Leporinus friedrich",
+      "Tucunaré",
+      "Trameira"
+    ],
+    "equipment": [
+      "Palanque",
+      "Bambu",
+      "Anzol",
+      "Lombolizinho"
+    ],
+    "baits": [
+      "Camarão",
+      "Massa",
+      "Milho Verde"
+    ],
+    "cevadas": [],
+    "local": [
+      "Porto da Balsa",
+      "Pesqueiro do Ayrton",
+      "Palanquinho do Pescador da Gerais"
+    ]
+  }
+}

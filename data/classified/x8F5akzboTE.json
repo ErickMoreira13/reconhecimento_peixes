@@ -1,0 +1,24 @@
+{
+  "arquivo": "x8F5akzboTE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:31:26.316895",
+  "classificacao": {
+    "especies": [
+      "Lacué",
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Iriri"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

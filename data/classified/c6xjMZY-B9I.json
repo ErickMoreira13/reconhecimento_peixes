@@ -1,0 +1,29 @@
+{
+  "arquivo": "c6xjMZY-B9I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:16:14.427793",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com rede"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Campos Gerais",
+    "tipo_pesca": [
+      "Pesca com rede"
+    ],
+    "observacoes": [
+      "A pesca foi realizada durante o período da Piracema, que ocorre de 1º de novembro a 28 de fevereiro. O pescado apreendido foi doado a uma instituição local após a apreensão. O casal foi multado em mais de 16 mil reais e encaminhado à delegacia."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "n6FhjFcsKqk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:22:44.088655",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Javaia"
+    ],
+    "bacias": [
+      "Tocantins"
+    ],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

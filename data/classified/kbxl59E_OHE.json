@@ -1,0 +1,28 @@
+{
+  "arquivo": "kbxl59E_OHE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:05:25.563493",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Luva",
+      "Vara",
+      "Linha Fina",
+      "Multifilamento"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "Petrolina",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "OWXc5TZhtZU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:42:47.300690",
+  "classificacao": {
+    "especies": [
+      "Surubim"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio 7 de Setembro"
+    ],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

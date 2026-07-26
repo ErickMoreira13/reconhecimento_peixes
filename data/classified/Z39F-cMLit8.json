@@ -1,0 +1,30 @@
+{
+  "arquivo": "Z39F-cMLit8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:57:56.928306",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Amarelão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Vertical"
+    ],
+    "rios": [],
+    "bacias": [
+      "Tocantins-Araguaia"
+    ],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [
+      "Campeonato de Pesca"
+    ],
+    "observacoes": [
+      "Compeonato de pesca com iscas idênticas, disputa acirrada, uso de técnica vertical, liberação de peixes capturados, pontuação por dificuldade de captura"
+    ]
+  }
+}

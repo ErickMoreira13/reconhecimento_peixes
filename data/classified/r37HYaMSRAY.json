@@ -1,0 +1,38 @@
+{
+  "arquivo": "r37HYaMSRAY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:54:12.402609",
+  "classificacao": {
+    "especies": [
+      "Tilapia"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Elástico"
+    ],
+    "iscas": [
+      "Ração de coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Isca com ração de coelho em elástico",
+      "Técnica de lançamento com isca solta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Tilapia"
+    ],
+    "observacoes": [
+      "Usar elástico para fixar a ração no anzol",
+      "Lançar a isca solta na água",
+      "A ração se torna mole com o tempo",
+      "Colocar adubos na ponta da vara para atrair peixes"
+    ]
+  }
+}

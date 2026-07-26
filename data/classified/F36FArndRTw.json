@@ -1,0 +1,35 @@
+{
+  "arquivo": "F36FArndRTw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:00:16.126809",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "EVA",
+      "Girador",
+      "Anzol Shino 9",
+      "Palito de dente",
+      "Macarrão",
+      "Canudo de metal",
+      "Salsicha"
+    ],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Sistema Goiano de Pescar na Superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca na Superfície"
+    ],
+    "observacoes": []
+  }
+}

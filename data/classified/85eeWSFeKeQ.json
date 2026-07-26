@@ -1,0 +1,24 @@
+{
+  "arquivo": "85eeWSFeKeQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:09:52.045776",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "vara de espera",
+      "capim"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

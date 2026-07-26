@@ -1,0 +1,30 @@
+{
+  "arquivo": "3IpYi8z8Hjg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:08:58.822936",
+  "classificacao": {
+    "especies": [
+      "Sucuri",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Traias"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Mandar isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em lagoa"
+    ],
+    "observacoes": [
+      "Lenda sobre pescador e sucuri"
+    ]
+  }
+}

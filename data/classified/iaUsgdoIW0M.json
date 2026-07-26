@@ -1,0 +1,26 @@
+{
+  "arquivo": "iaUsgdoIW0M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:28:07.939269",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Varão",
+      "Carretilha",
+      "Linha",
+      "Boia",
+      "Anzol"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Carne vermelha"
+    ],
+    "cevas": [],
+    "tecnica": "Uso de boia e linha curta para evitar emaranhamento em vegetação, com dois anzóis na mesma linha",
+    "localizacao": "Áreas com vegetação densa (não especificada no transcripto)",
+    "tamanho_peixe": "Pequeno a médio (não especificado numericamente)",
+    "observacoes": "Método eficaz para pescar tilápias em ambientes com vegetação"
+  }
+}

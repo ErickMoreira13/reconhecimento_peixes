@@ -1,0 +1,30 @@
+{
+  "arquivo": "XYqceJigaOw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:38:27.120449",
+  "classificacao": {
+    "especies": [
+      "Blackbass"
+    ],
+    "equipamentos": [
+      "Yerbite",
+      "Crank Bites"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "tirãozinho com Yerbite",
+      "pesca na superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca com iscas artificiais"
+    ],
+    "observacoes": []
+  }
+}

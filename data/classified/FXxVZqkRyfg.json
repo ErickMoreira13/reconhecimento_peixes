@@ -1,0 +1,29 @@
+{
+  "arquivo": "FXxVZqkRyfg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:00:08.189531",
+  "classificacao": {
+    "especies": [
+      "Peixe-loro Azul",
+      "Morena",
+      "Molusco"
+    ],
+    "equipamentos": [
+      "Peço"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de Pesca Efetiva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "Encontraram um peixe-loro azul, um molusco colorido e uma morena agressiva. Utilizaram uma técnica efetiva de pesca."
+  }
+}

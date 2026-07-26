@@ -1,0 +1,37 @@
+{
+  "arquivo": "bHgjAZIUvoM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T10:10:03.047118",
+  "classificacao": {
+    "especies": [
+      "Jundiá"
+    ],
+    "equipamentos": [
+      "Tunus 6500",
+      "Lãder de nylon 081",
+      "Multifilamento Vexter",
+      "4 fios de 100 libras",
+      "Vara Tunus"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca viva",
+      "Pesca de fundo"
+    ],
+    "rivers": [
+      "Trombetas"
+    ],
+    "basins": [],
+    "state": "Pará",
+    "municipality": "",
+    "type_of_fishing": [
+      "Pesca com isca viva",
+      "Pesca de fundo"
+    ],
+    "observations": "O peixe perdeu a cor ao ser retirado da água e a recuperou após ser devolvido. O jundiá capturado era de grande porte, superando 10 kg."
+  }
+}

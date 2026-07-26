@@ -1,0 +1,25 @@
+{
+  "arquivo": "jxjMdBGL1GQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:20:34.153398",
+  "classificacao": {
+    "especies": [
+      "Saí"
+    ],
+    "equipamentos": [
+      "Mini crank"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Spinning"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

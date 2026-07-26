@@ -1,0 +1,31 @@
+{
+  "arquivo": "r5Dja31G_R0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:56:27.703228",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque",
+      "vara",
+      "colete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca em caiaque"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca em caiaque"
+    ],
+    "observacoes": [
+      "primeiro peixe de caiaque",
+      "pegou dois peixões",
+      "estreia do caiaquinho"
+    ]
+  }
+}

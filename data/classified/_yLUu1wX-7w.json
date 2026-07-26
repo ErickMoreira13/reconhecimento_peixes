@@ -1,0 +1,35 @@
+{
+  "arquivo": "_yLUu1wX-7w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:44:08.809557",
+  "classificacao": {
+    "especies": [
+      "Cascudo",
+      "Cará",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Bote",
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Tarrafiada"
+    ],
+    "rios": [
+      "Rio Miúdo"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Varinha"
+    ],
+    "observacoes": [
+      "Celular não é à prova d'água",
+      "Tarrafa está ruim"
+    ]
+  }
+}

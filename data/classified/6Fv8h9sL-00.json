@@ -1,0 +1,48 @@
+{
+  "arquivo": "6Fv8h9sL-00",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T01:00:47.595415",
+  "classificacao": {
+    "especies": [
+      "Peixe-espada"
+    ],
+    "equipamentos": [
+      "Varas médias fortes",
+      "Molinete",
+      "Carretilha",
+      "Linhas 3050LB",
+      "Luvas",
+      "Alicates"
+    ],
+    "iscas": [
+      "Tiras de sardinha",
+      "Manjuba inteira",
+      "Manjuba em filé",
+      "Plugues de meia água",
+      "Colheres",
+      "Jigs alongados"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso rápido",
+      "Troca rápida de isca",
+      "Uso de iscas artificiais"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície",
+      "Pesca noturna"
+    ],
+    "observacoes": [
+      "Melhor horário entre 19h e 2h da manhã",
+      "Lua cheia e crescente favorecem a pesca",
+      "Mar calmo e água clara são ideais",
+      "Usar linha de fluorocarbono e cabo de aço",
+      "Atenção com a ponta afiada do peixe"
+    ]
+  }
+}

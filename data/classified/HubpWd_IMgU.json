@@ -1,0 +1,42 @@
+{
+  "arquivo": "HubpWd_IMgU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:15:56.011775",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piapara",
+      "Lambari",
+      "Curimba",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Galão",
+      "Balde",
+      "Pezinho"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Quirela"
+    ],
+    "tecnicas": [
+      "Ceva de Galão"
+    ],
+    "rios": [
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Cevas"
+    ],
+    "observacoes": [
+      "A ceva dura em média três meses e não é levada embora pela correnteza."
+    ]
+  }
+}

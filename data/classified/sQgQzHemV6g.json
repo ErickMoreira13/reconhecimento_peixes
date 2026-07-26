@@ -1,0 +1,25 @@
+{
+  "arquivo": "sQgQzHemV6g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:50:37.162408",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Molinete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de uso do molinete"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Demonstração de uso do molinete"
+    ]
+  }
+}

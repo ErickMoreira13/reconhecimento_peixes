@@ -1,0 +1,32 @@
+{
+  "arquivo": "Lo7cnfrL7EA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:25:10.528392",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "garrafas",
+      "paninho"
+    ],
+    "iscas": [
+      "milho azedo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "azedar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A fermentação do milho em garrafas com paninho para evitar pragas durante 25 dias."
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "arquivo": "3TqDgGTRp0g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:24:26.740717",
+  "classificacao": {
+    "species": [
+      "Traíra",
+      "Pacu",
+      "Dourado",
+      "Tambaqui"
+    ],
+    "equipment": [
+      "Caniceira",
+      "Multifilamento",
+      "Girador",
+      "Cabo de aço",
+      "10 barra zero",
+      "Filipe",
+      "Carniceira"
+    ],
+    "baits": [
+      "Risca",
+      "Aracu"
+    ],
+    "grains": [],
+    "techniques": [
+      "Pescaria de vala telescópica",
+      "Pescaria com carniceira",
+      "Pescaria arcaica"
+    ],
+    "rivers": [
+      "Amazonas"
+    ],
+    "basins": [
+      "Amazônica"
+    ],
+    "state": "",
+    "municipality": "",
+    "types_of_fishing": [
+      "Pesca de vala",
+      "Pesca com carniceira",
+      "Pesca arcaica"
+    ],
+    "observations": [
+      "Localização remota e preservada no coração da Floresta Amazônica",
+      "Presença de predadores como jaguares",
+      "Experiência única de pesca em ambientes naturais e intocados"
+    ]
+  }
+}

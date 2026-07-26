@@ -1,0 +1,18 @@
+{
+  "arquivo": "6tLHigJ5KIA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:42:11.984521",
+  "classificacao": {
+    "summary": "El video muestra una conversación entre pescadores en Mazatlán, México, discutiendo técnicas de pesca, equipos y especies como el 'pargo' y la 'sierra'. Se menciona la tienda 'Pesca Fácil' para comprar equipo, y se promueve el canal de YouTube 'dirrafiche'.",
+    "key_terms": {
+      "roger": "Término coloquial para referirse a un compañero de pesca",
+      "sierra": "Especie de pez",
+      "pargo": "Especie de pez (lenguado)",
+      "castellano": "Técnica de pesca con cebo artificial",
+      "tienda Pesca Fácil": "Lugar para adquirir equipo de pesca"
+    },
+    "location": "Mazatlán, Sinaloa, México",
+    "social_media": "Canal de YouTube: dirrafiche",
+    "additional_info": "El video incluye consejos sobre horarios de pesca y el uso de lures brillantes bajo el sol."
+  }
+}

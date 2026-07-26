@@ -1,0 +1,29 @@
+{
+  "arquivo": "AO2obIBrmxQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:05:11.028870",
+  "classificacao": {
+    "especies": [
+      "Peixe de Couro"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Tucona"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca Viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca Viva"
+    ],
+    "observacoes": [
+      "Teste de eficácia da isca Tucona para capturar Peixe de Couro em uma represa"
+    ]
+  }
+}

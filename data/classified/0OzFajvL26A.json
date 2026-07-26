@@ -1,0 +1,28 @@
+{
+  "arquivo": "0OzFajvL26A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:27:51.284024",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Corvina",
+      "Raia"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Faca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Tocantins"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "X319CeduKWE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:11:08.344829",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Deck",
+      "Fundo",
+      "Pino",
+      "Torpedo"
+    ],
+    "iscas": [
+      "Tuvira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Iscagem de Tuvira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica eficaz para pescar pirarara em vários pesqueiros, usando tuvira grande como isca viva."
+    ]
+  }
+}

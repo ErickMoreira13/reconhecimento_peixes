@@ -1,0 +1,29 @@
+{
+  "arquivo": "BRxUcIhtw9Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:34:47.159619",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Arremessozinho",
+      "Varinha",
+      "Molineta LP1000"
+    ],
+    "iscas": [
+      "Skin Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Paisagem linda",
+      "Sem cabelinha",
+      "Tamo junto"
+    ]
+  }
+}

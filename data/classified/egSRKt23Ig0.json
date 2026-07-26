@@ -1,0 +1,31 @@
+{
+  "arquivo": "egSRKt23Ig0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:59:06.572654",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Squal 250LD",
+      "Vara Evolution Marine Peraíba",
+      "Camus XT 080",
+      "Squal 40LD",
+      "Squal 50LD"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

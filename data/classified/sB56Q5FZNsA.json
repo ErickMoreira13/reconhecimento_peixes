@@ -1,0 +1,44 @@
+{
+  "arquivo": "sB56Q5FZNsA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:59:09.071743",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra",
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Carro",
+      "Caiaque",
+      "Molinete"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Fígado de Galinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca Viva",
+      "Pesca com Ceva"
+    ],
+    "rios": [
+      "Rio Itapocu"
+    ],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Guaramirim",
+    "tipo_pesca": [
+      "Pesca com Isca Viva",
+      "Pesca com Ceva"
+    ],
+    "observacoes": [
+      "Ponto de pesca próximo à estrada",
+      "Presença de balsa que tira areia no rio",
+      "Dificuldade em capturar peixes devido à atividade da balsa",
+      "Uso de iscas vivas e cevas para atrair peixes"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "arquivo": "yD0hMUydvuQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:08:33.525173",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Galha"
+    ],
+    "iscas": [
+      "Isca natural",
+      "Suquinho natural"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Segurar na galha",
+      "Puxar a galha",
+      "Uso de galho fino"
+    ],
+    "rios": [],
+    "bacias": [
+      "Bacia do Pantanal"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Nacatinga",
+    "tipo_pesca": [
+      "Pesca em riacho",
+      "Pesca de fundo"
+    ],
+    "observacoes": [
+      "Rio verde",
+      "Uso de isca natural",
+      "Experiência com piranha",
+      "Blog Nacatinga",
+      "Localização no Pantanal"
+    ]
+  }
+}

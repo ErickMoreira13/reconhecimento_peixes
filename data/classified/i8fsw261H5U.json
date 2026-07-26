@@ -1,0 +1,22 @@
+{
+  "arquivo": "i8fsw261H5U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:25:19.931244",
+  "classificacao": {
+    "especies": [
+      "swordfish",
+      "carequinha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "10wfGS0s6xw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:58:35.246535",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Barbante",
+      "Enforca Gato",
+      "Boia",
+      "Silicone",
+      "Massa",
+      "Linha",
+      "Vara",
+      "Pesqueiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Boinha Palito"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Boinha"
+    ],
+    "observacoes": [
+      "Caso haja dúvidas, é possível consultar no LG ou em outros pesqueiros"
+    ]
+  }
+}

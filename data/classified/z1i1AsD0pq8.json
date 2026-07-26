@@ -1,0 +1,23 @@
+{
+  "arquivo": "z1i1AsD0pq8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:57:20.870051",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu",
+      "Tambaqui"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

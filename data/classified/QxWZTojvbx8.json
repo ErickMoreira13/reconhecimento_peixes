@@ -1,0 +1,66 @@
+{
+  "arquivo": "QxWZTojvbx8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:37:26.559645",
+  "classificacao": {
+    "especies": [
+      "cachara",
+      "caparari",
+      "apapá",
+      "tucunaré",
+      "pirarara",
+      "dublê",
+      "traíra",
+      "pintado"
+    ],
+    "equipamentos": [
+      "isca viva",
+      "isca artificial de superfície",
+      "linha",
+      "barco",
+      "tralha pesada"
+    ],
+    "localização": [
+      "Rio Guaporé",
+      "vila de Porto Rolim",
+      "Rondônia",
+      "Bolívia",
+      "Amazônia",
+      "baía",
+      "duna",
+      "praia"
+    ],
+    "espécies de peixes": [
+      "dourada",
+      "pirarara",
+      "caparari",
+      "tucunaré",
+      "apapá",
+      "cachara",
+      "pintado",
+      "traíra"
+    ],
+    "horário": [
+      "5 horas da tarde",
+      "finalzinho de tarde",
+      "hora da janta da pirarara"
+    ],
+    "comentários": [
+      "fantástico",
+      "lindo",
+      "espetacular",
+      "show de bola",
+      "muito esportivo",
+      "briga",
+      "tensão",
+      "coração do pescador",
+      "valentia",
+      "diversão",
+      "paciência",
+      "insistência",
+      "show",
+      "vida pulsa",
+      "espetáculo"
+    ]
+  }
+}

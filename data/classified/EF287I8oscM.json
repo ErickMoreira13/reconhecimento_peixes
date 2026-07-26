@@ -1,0 +1,34 @@
+{
+  "arquivo": "EF287I8oscM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:57:22.658538",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Piabona",
+      "Patuzinha"
+    ],
+    "equipamentos": [
+      "barco",
+      "linha",
+      "saco"
+    ],
+    "rios": [
+      "rio tapirapé"
+    ],
+    "bacias": [],
+    "iscas": [
+      "carma morto"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "estado": [],
+    "municipio": [],
+    "pais": [],
+    "regiao": [],
+    "tipo de pesca": []
+  }
+}

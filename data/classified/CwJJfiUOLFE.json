@@ -1,0 +1,21 @@
+{
+  "arquivo": "CwJJfiUOLFE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:34:50.963321",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapescão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

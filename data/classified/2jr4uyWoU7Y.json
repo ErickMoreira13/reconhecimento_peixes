@@ -1,0 +1,25 @@
+{
+  "arquivo": "2jr4uyWoU7Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:23:16.361354",
+  "classificacao": {
+    "especies": [
+      "Pirapitinga"
+    ],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pra tirar da rede é a maior complicação"
+    ]
+  }
+}

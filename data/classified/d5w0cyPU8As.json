@@ -1,0 +1,27 @@
+{
+  "arquivo": "d5w0cyPU8As",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:41:28.754498",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "rede",
+      "garrafa",
+      "casco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com rede"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com rede"
+    ],
+    "observacoes": []
+  }
+}

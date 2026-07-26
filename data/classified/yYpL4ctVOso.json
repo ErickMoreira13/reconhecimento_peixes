@@ -1,0 +1,31 @@
+{
+  "arquivo": "yYpL4ctVOso",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:54:31.966885",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Caiaque",
+      "Máquina de lançar",
+      "Lança"
+    ],
+    "iscas": [
+      "Arroz",
+      "Milho"
+    ],
+    "graos": [
+      "Arroz",
+      "Milho"
+    ],
+    "cevas": [],
+    "meios de pesca": [
+      "Meia água"
+    ],
+    "locais de pesca": [
+      "Rios"
+    ],
+    "tipos de pesca": [
+      "Pesca esportiva"
+    ]
+  }
+}

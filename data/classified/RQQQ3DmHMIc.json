@@ -1,0 +1,43 @@
+{
+  "arquivo": "RQQQ3DmHMIc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:26:51.259804",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Lambari",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Boia Torpedo",
+      "Flow Carbon",
+      "Girador",
+      "Linha 040",
+      "Linha 050",
+      "Anzol Snook Rook"
+    ],
+    "iscas": [
+      "Isca Natural",
+      "Lambari Vivo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de Iscação com EVA",
+      "Uso de Pernadinha de Flow Carbon"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Dourado",
+      "Pesca com Isca Viva",
+      "Pesca de Tilápia"
+    ],
+    "observacoes": [
+      "Uso de pedaço de EVA para reforçar a isca",
+      "Técnica de emenda de linha para prolongar o uso do flow carbon"
+    ]
+  }
+}

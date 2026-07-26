@@ -1,0 +1,51 @@
+{
+  "arquivo": "_tshQtwHZ-g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:32:13.649647",
+  "classificacao": {
+    "especies": [
+      "Bruta",
+      "Cambute",
+      "Chapoca",
+      "Libeltina",
+      "Piaba",
+      "Sororoca",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Caniço",
+      "Carretilha",
+      "Cepo",
+      "Fio"
+    ],
+    "iscas": [
+      "Filé de piaba",
+      "Piaba",
+      "Piaba viva"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Isca viva",
+      "Pesca noturna"
+    ],
+    "rios": [
+      "Rio Corvo"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Santo Leopoldino",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca noturna"
+    ],
+    "observacoes": [
+      "Água barrenta",
+      "Uso de isca viva",
+      "Pesca noturna"
+    ]
+  }
+}

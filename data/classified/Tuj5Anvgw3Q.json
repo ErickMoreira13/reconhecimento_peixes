@@ -1,0 +1,32 @@
+{
+  "arquivo": "Tuj5Anvgw3Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:49:40.936497",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Bodol"
+    ],
+    "equipamentos": [
+      "Enganche",
+      "Malhadeira",
+      "Cordas",
+      "Saco",
+      "Garapé",
+      "Fogão",
+      "Liquidificador"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapecuru"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "",
+    "tipo_pesca": "pesca esportiva",
+    "observacoes": []
+  }
+}

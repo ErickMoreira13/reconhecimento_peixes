@@ -1,0 +1,33 @@
+{
+  "arquivo": "wnenpyrnpkk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:16:44.600680",
+  "classificacao": {
+    "iscas": [
+      "Massinha",
+      "Milho"
+    ],
+    "equipamentos": [
+      "Medidor",
+      "Garfo",
+      "Tigela",
+      "Peneira",
+      "Vasilha"
+    ],
+    "rios": [
+      "Rio Paraná"
+    ],
+    "estados": [
+      "Paraná"
+    ],
+    "municipios": [],
+    "graos": [
+      "Trigo",
+      "Milho"
+    ],
+    "piapara": [
+      "Piapara",
+      "Piapara Canjuba"
+    ]
+  }
+}

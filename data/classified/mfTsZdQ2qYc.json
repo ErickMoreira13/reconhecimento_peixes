@@ -1,0 +1,21 @@
+{
+  "arquivo": "mfTsZdQ2qYc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:03:25.285805",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo de pesca, onde participantes discutem técnicas de pesca, tipos de peixes capturados (como piaba e piau) e interações informais. Eles usam minhoca como isca, mencionam a importância de esperar o peixe parar de se mover antes de lançar a linha, e há referências a preparar os peixes capturados para cozinhar. O tom é informal, com linguagem coloquial e trocas de ideias entre os participantes.",
+    "key_points": [
+      "Uso de minhoca como isca",
+      "Discussão sobre técnicas de pesca (ex.: esperar o peixe parar de se mover)",
+      "Mencione de espécies de peixe (piaba, piau)",
+      "Preparação dos peixes capturados para cozinhar",
+      "Camaradagem e interação entre os participantes"
+    ],
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução do texto",
+      "Análise das técnicas de pesca mencionadas",
+      "Explicação de termos coloquiais usados"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "arquivo": "vLSRZ4-pYnc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:11:17.092168",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Pau Junto"
+    ],
+    "iscas": [
+      "Materialzinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Tomando Linha"
+    ],
+    "rios": [
+      "Jari"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Caiaque"
+    ],
+    "observacoes": [
+      "Solta o caiaque",
+      "Pescando no rio Jari"
+    ]
+  }
+}

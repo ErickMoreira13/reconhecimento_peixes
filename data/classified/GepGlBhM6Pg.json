@@ -1,0 +1,33 @@
+{
+  "arquivo": "GepGlBhM6Pg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:35:50.115834",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "barco com motor central e rabetas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "técnica de puxar o barco com cordas e catraca"
+    ],
+    "rios": [
+      "Xingu",
+      "Iriri"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Altamira",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "viagem longa e perigosa por rios com pedras submersas",
+      "uso de catraca para subir o rio",
+      "comunidades ribeirinhas enfrentam dificuldades para acessar suprimentos",
+      "necessidade de desembarcar e carregar o barco para passar por trechos difíceis"
+    ]
+  }
+}

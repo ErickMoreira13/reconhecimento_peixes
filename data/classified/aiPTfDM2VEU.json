@@ -1,0 +1,24 @@
+{
+  "arquivo": "aiPTfDM2VEU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:46:45.189413",
+  "classificacao": {
+    "summary": "O texto é uma narração em primeira pessoa de uma experiência de pesca por tilápias, com detalhes sobre o equipamento utilizado (vara de 1,80m), o processo de pesca, e interações com um amigo chamado Eduardo. O narrador descreve a frustração inicial ao ver o peixe escapar, a excitação ao capturar um grande tilápio, e a dedicação do pescado aos filhos e amigos. O conteúdo inclui linguagem coloquial, exclamações e uma narrativa envolvente que destaca a emoção do momento.",
+    "key_points": [
+      "Uso de uma vara de 1,80m e iscas para pesca de tilápias.",
+      "Interação com Eduardo, que participa da atividade.",
+      "Desafios durante a pesca, como o peixe escapar inicialmente.",
+      "Captura de um tilápio grande, com descrição detalhada do processo.",
+      "Dedicação do pescado aos filhos e amigos, mostrando um aspecto emocional.",
+      "Linguagem informal e envolvente, com uso de exclamações e interjeções."
+    ],
+    "cultural_notes": [
+      "O termo 'Recanto de sossego' pode referir-se a um local específico de pesca, possivelmente com significado regional.",
+      "A dedicação do pescado aos filhos e amigos sugere uma conexão cultural com a valorização de momentos compartilhados e a importância da família."
+    ],
+    "technical_terms": [
+      "Pôr saguar (possivelmente um termo local ou typo, exigindo verificação).",
+      "Recanto de sossego (local de pesca, talvez com significado específico na região)."
+    ]
+  }
+}

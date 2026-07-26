@@ -1,0 +1,42 @@
+{
+  "arquivo": "xAp1Z5OY4D4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:43:31.890258",
+  "classificacao": {
+    "especies": [
+      "Pévinha",
+      "Flecha",
+      "Roubalinho",
+      "Manjuvinha",
+      "Xerilete",
+      "Gaivira"
+    ],
+    "equipamentos": [
+      "Pévinha Magic Stick",
+      "Turmal",
+      "KV",
+      "Réplica da Bomber",
+      "Bomberzinha",
+      "Trickzinho"
+    ],
+    "iscas": [
+      "Isca do Michel",
+      "Chifrinho",
+      "Réplica da Bomber",
+      "Bomberzinha",
+      "Trickzinho",
+      "KV"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapucu"
+    ],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

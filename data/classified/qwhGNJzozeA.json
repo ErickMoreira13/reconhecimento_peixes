@@ -1,0 +1,37 @@
+{
+  "arquivo": "qwhGNJzozeA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:34:25.279684",
+  "classificacao": {
+    "especies": [
+      "Caranha",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Canoa",
+      "Linha"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Santa Cruz do Rio Pardo",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Menciona dificuldade em capturar a caranha",
+      "Uso de isca artificial (piauzinho)",
+      "Localização em Matãos e Santa Cruz do Rio Pardo",
+      "Menciona problema de bateria da câmera"
+    ]
+  }
+}

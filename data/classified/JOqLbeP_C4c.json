@@ -1,0 +1,55 @@
+{
+  "arquivo": "JOqLbeP_C4c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:10:39.943108",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol offset",
+      "T20",
+      "Real Spencer",
+      "Boni 107",
+      "Shugbug",
+      "Rei do Rio",
+      "Shadzinho",
+      "Stick Popper",
+      "Zara",
+      "Spock"
+    ],
+    "iscas": [
+      "Popper",
+      "Stick Popper",
+      "T20",
+      "Real Spencer",
+      "Boni 107",
+      "Shugbug",
+      "Rei do Rio",
+      "Shadzinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de superfície",
+      "Pesca subsuperfície",
+      "Montagem em rosto"
+    ],
+    "rios": [
+      "Balbina"
+    ],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "Amazonas",
+    "municipio": "Balbina",
+    "tipo_pesca": [
+      "Pesca de superfície",
+      "Pesca subsuperfície"
+    ],
+    "observacoes": [
+      "Região com pouca produtividade com iscas de fundo",
+      "Uso predominante de iscas de superfície",
+      "Mencionado uso de Zara e Spock, mas não incluídas na seleção",
+      "Importância de iscas que geram deslocamento na água"
+    ]
+  }
+}

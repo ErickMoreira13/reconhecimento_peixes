@@ -1,0 +1,30 @@
+{
+  "arquivo": "E8AtNc_PxuI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:39:08.006164",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Ratinho artificial"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Represa Bilingues"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Traíras capturadas foram devolvidas para seus lares",
+      "Pescar traíra nessa represa exige muito conhecimento"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "arquivo": "hcC_8QlPKJI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:58:02.875434",
+  "classificacao": {
+    "summary": {
+      "cooking_process": {
+        "ingredients": [
+          "tilapia (fish)",
+          "macaxeira (yam/cassava)",
+          "vinegar",
+          "water",
+          "oil",
+          "salt",
+          "coriander (cilantro)"
+        ],
+        "steps": [
+          "Preparing the fish (tilapia) and macaxeira (yam/cassava) with vinegar, water, oil, and salt.",
+          "Cooking the dish, emphasizing the use of coriander for flavor.",
+          "Serving the meal to family members (father and Maicon)."
+        ]
+      },
+      "social_interactions": {
+        "family": [
+          "Father",
+          "Maicon"
+        ],
+        "viewers": {
+          "closing_message": "Thanks to everyone who watches the video. May God bless your lives. See you in the next video. Hugs to all of you. Goodbye, everyone. Until next time!"
+        }
+      },
+      "video_structure": {
+        "opening": "Cooking demonstration with a focus on the dish's preparation.",
+        "middle": "Highlighting the ingredients and cooking steps, followed by serving the meal to family.",
+        "closing": "Gratitude to viewers, encouragement to like the video, and a farewell."
+      }
+    },
+    "additional_notes": {
+      "language": "Portuguese (Brazilian dialect)",
+      "tone": "Friendly, conversational, and family-oriented.",
+      "target_audience": "Home cooks, food enthusiasts, and viewers interested in Brazilian cuisine."
+    }
+  }
+}

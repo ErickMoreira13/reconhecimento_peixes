@@ -1,0 +1,39 @@
+{
+  "arquivo": "ZHO14DIIHdo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:22:19.962933",
+  "classificacao": {
+    "iscas": [
+      "Flex Minnow da Lizard Fishing",
+      "Arrow Minnow da Lizard Fishing",
+      "KV Espertinha (Tweetbait)",
+      "Guaruzinho BC BC de Barbela Curta (Guaruzinho da KV)",
+      "BL de Barbela Longa",
+      "Lips Tweet Bait da KV",
+      "Lips (meia água)",
+      "Canivetinho (Tweet Bait)"
+    ],
+    "equipamentos": [],
+    "especies": [
+      "robalo"
+    ],
+    "tecnicas": [
+      "chamadinha",
+      "zará",
+      "trabalho complexo de nado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "mangue",
+      "plug",
+      "meia água",
+      "água gelada"
+    ],
+    "observacoes": [],
+    "graos": [],
+    "cevas": []
+  }
+}

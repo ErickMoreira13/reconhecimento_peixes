@@ -1,0 +1,45 @@
+{
+  "arquivo": "uXYskUfDMvo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:13:39.605068",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu",
+      "Tambaqui",
+      "Trinchão"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [
+      "Soja",
+      "Isca Top"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Deixar a linha esticadinha",
+      "Aguardar o momento em que a linha toca o fundo"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [
+      "Represa"
+    ],
+    "estado": "",
+    "municipio": "",
+    "localizacao": "",
+    "observacoes": [
+      "Liberação de peixes após captura",
+      "Melhor época para pescar piau e pacu é durante a estação das águas",
+      "Uso de ceva de partículas (galão perfurado) para atrair peixes"
+    ]
+  }
+}

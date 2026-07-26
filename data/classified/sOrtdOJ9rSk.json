@@ -1,0 +1,28 @@
+{
+  "arquivo": "sOrtdOJ9rSk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T19:26:11.916153",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara Caralhismo GTO",
+      "Carretilha Naja",
+      "Linha BF9 0,35",
+      "Boinha servadeira"
+    ],
+    "iscas": [
+      "Ração de bacon"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

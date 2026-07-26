@@ -1,0 +1,31 @@
+{
+  "arquivo": "uMTpDt0dGjQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:20:12.133179",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Garrafa"
+    ],
+    "iscas": [
+      "Trigo"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Pesca com garrafa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com garrafa"
+    ],
+    "observacoes": []
+  }
+}

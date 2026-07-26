@@ -1,0 +1,39 @@
+{
+  "arquivo": "jeZ01lQAGIg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:58:10.370511",
+  "classificacao": {
+    "especies": [
+      "Pirarucu",
+      "Piau",
+      "Curimatã",
+      "Piranha",
+      "Tracajá",
+      "Jaraqui"
+    ],
+    "equipamentos": [
+      "Arpão",
+      "Lanterna de luz amarela",
+      "Cinta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arpoamento",
+      "Uso de lanterna de luz amarela"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com arpão"
+    ],
+    "observacoes": [
+      "Dificuldade em encontrar peixes em água turva",
+      "Uso de lanterna de luz amarela para melhor visão",
+      "Encontro com piranha durante a pesca"
+    ]
+  }
+}

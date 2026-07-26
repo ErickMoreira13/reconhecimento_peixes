@@ -1,0 +1,35 @@
+{
+  "arquivo": "bwy0jUZzrcg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:40:41.333611",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "martelinho",
+      "cabo de colher"
+    ],
+    "iscas": [
+      "ração 40% de proteína",
+      "trigo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "mistura de ração com água e trigo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de tilápia"
+    ],
+    "observacoes": ""
+  }
+}

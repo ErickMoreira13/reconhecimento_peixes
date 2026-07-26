@@ -1,0 +1,16 @@
+{
+  "arquivo": "zLcQB5SfPYQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:26:17.359575",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca de caranha (provavelmente um tipo de peixe, como piranha) usando uma vara de pesca. O narrador descreve o processo de lançar a isca, a luta com o peixe, a força do peixe, a correnteza da água e a técnica de manuseio da vara e da linha. Há emoção e detalhes sobre a experiência de capturar o peixe, incluindo a descrição do momento em que o peixe é puxado para a margem e a satisfação do sucesso.",
+    "key_points": {
+      "fish": "Caranha (possivelmente piranha)",
+      "equipment": "Vara de pesca, linha, anzol",
+      "technique": "Lançar a isca, luta com o peixe, controle da vara",
+      "emotions": "Excitação, tensão, satisfação",
+      "environment": "Água com correnteza, margem de rio ou lago"
+    },
+    "request": "Se você deseja uma tradução, análise detalhada ou ajuda com algo específico sobre o texto, por favor, me avise!"
+  }
+}

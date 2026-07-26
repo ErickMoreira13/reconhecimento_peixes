@@ -1,0 +1,28 @@
+{
+  "arquivo": "VeyQDliPBpM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T12:44:32.950833",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Boni 95",
+      "Brutal",
+      "Brutinha",
+      "Duo Rear Spence",
+      "Patrícia",
+      "Sará Sará",
+      "Tormentinha",
+      "Voraz Plus"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "gcTX1R_op40",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:33:08.351396",
+  "classificacao": {
+    "peixes": [
+      "Piau",
+      "Piapara",
+      "Paru",
+      "Tilápia"
+    ],
+    "ceva": {
+      "tipo": "Milho cozido",
+      "preparacao": [
+        "Cozinhar o milho em um tambor com água até que estoure (como pipoca)",
+        "Não queimar o milho",
+        "Usar um saco de pôr-peixe para manter o milho na água"
+      ],
+      "detalhes": {
+        "tipo_de_milho": [
+          "Milho cozido",
+          "Milho duro",
+          "Milho de galinha",
+          "Milho inteiro"
+        ],
+        "preservacao": "Manter o milho com a própria gordura para preservação"
+      }
+    },
+    "metodo": [
+      "Cozinhar o milho em um tambor até que estoure",
+      "Usar um saco de pôr-peixe para imergir o milho na água",
+      "Evitar usar o milho imediatamente após a preparação",
+      "Não exagerar no uso do milho para não desencorajar os peixes"
+    ]
+  }
+}

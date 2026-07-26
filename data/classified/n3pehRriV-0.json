@@ -1,0 +1,30 @@
+{
+  "arquivo": "n3pehRriV-0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:22:01.702959",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra",
+      "Manduca",
+      "Churumã"
+    ],
+    "equipamentos": [
+      "Bote",
+      "Parafuso",
+      "Cortador de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guiraí"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

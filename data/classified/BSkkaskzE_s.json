@@ -1,0 +1,28 @@
+{
+  "arquivo": "BSkkaskzE_s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:35:32.755116",
+  "classificacao": {
+    "species": [
+      "pirarara",
+      "tucunaré",
+      "pintado",
+      "pirarucu",
+      "caixara",
+      "curvina"
+    ],
+    "equipment": [
+      "monofilamento 0,70 milímetros",
+      "cinto de apoio"
+    ],
+    "rivers": [
+      "Guaporé"
+    ],
+    "state": "Rondônia",
+    "municipio": "Porto Rolim",
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": []
+  }
+}

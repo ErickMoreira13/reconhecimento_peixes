@@ -1,0 +1,36 @@
+{
+  "arquivo": "UAZl4lg2WYc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:13:14.031678",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Saco",
+      "Pedra"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Mandioca",
+      "Milho"
+    ],
+    "tecnicas": [
+      "Cevar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Cevar"
+    ],
+    "observacoes": [
+      "Uso de saco com mandioca e pedra para ceva fixa no rio"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "Vkc7mu1Ooyw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:09:05.383823",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tilápia",
+      "Cará",
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A área é tranquila, o portão está sempre aberto das 6h às 17h, qualquer carro entra facilmente."
+    ]
+  }
+}

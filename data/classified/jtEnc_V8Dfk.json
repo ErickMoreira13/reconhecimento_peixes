@@ -1,0 +1,41 @@
+{
+  "arquivo": "jtEnc_V8Dfk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:16:34.478262",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Pirapara",
+      "Pacu",
+      "Piauçu"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Copo Americano",
+      "Massinha",
+      "Molina",
+      "Panela"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Massinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A massinha pode ser usada para pescar outros peixes como Piau, Pirapara, Pacu e Piauçu, e a cor pode variar conforme a região."
+    ]
+  }
+}

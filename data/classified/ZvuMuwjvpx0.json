@@ -1,0 +1,39 @@
+{
+  "arquivo": "ZvuMuwjvpx0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:59:44.768873",
+  "classificacao": {
+    "species": [
+      "Manduzal",
+      "Tilápia"
+    ],
+    "equipment": [
+      "Carretilha",
+      "Varinha de pesca",
+      "Fogueira",
+      "Fogareira"
+    ],
+    "baits": [
+      "Minhoca"
+    ],
+    "cooking_ingredients": [
+      "Tomates",
+      "Leite de coco",
+      "Pimentão",
+      "Arroz",
+      "Sal",
+      "Azeite de dendê",
+      "Cebola",
+      "Alho",
+      "Pimenta"
+    ],
+    "location": [
+      "Rio Iguaçu",
+      "Rio Grande da Praia"
+    ],
+    "other_details": {
+      "setup": "Camping setup with fire and stove",
+      "meal_preparation": "Cooking fish (tilápia) with coconut milk, tomatoes, and spices"
+    }
+  }
+}

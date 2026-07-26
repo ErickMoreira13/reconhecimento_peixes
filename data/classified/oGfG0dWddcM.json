@@ -1,0 +1,30 @@
+{
+  "arquivo": "oGfG0dWddcM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:39:54.395594",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Açudo"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Brutão",
+      "Limpar o peixe"
+    ]
+  }
+}

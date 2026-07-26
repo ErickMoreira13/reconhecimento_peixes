@@ -1,0 +1,52 @@
+{
+  "arquivo": "ajHA5Ks6gqg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:49:13.688526",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Jaú",
+      "Jundiá",
+      "Mandi"
+    ],
+    "equipamentos": [
+      "Psyfan Torrent",
+      "Vara Evolution da Marine",
+      "Linha de Fmult 023",
+      "Chumbada",
+      "Stopper",
+      "Giradorzinho"
+    ],
+    "iscas": [
+      "Fígado de Boi",
+      "Farinha",
+      "Milanesa"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Feijão"
+    ],
+    "tecnicas": [
+      "Stopper",
+      "Chumbada",
+      "Giradorzinho"
+    ],
+    "rios": [
+      "Rio de Janeiro"
+    ],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Pintadinho"
+    ],
+    "observacoes": [
+      "Uso de farpa amassada",
+      "Evitar ferrão de pintado",
+      "Pescar e soltar",
+      "Uso de farinha e feijão na isca"
+    ]
+  }
+}

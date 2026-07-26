@@ -1,0 +1,38 @@
+{
+  "arquivo": "PtwGULCRfmE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:21:34.386351",
+  "classificacao": {
+    "especies": [
+      "Aracu",
+      "Porrudo",
+      "Sardinha",
+      "Aruanã",
+      "Zaracu",
+      "Acaracatitu"
+    ],
+    "equipamentos": [
+      "canoa",
+      "malhadeira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "malhadeira",
+      "pesca com malhadeira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com malhadeira"
+    ],
+    "observacoes": [
+      "pescaria para consumo próprio",
+      "localização no rio Amazonas",
+      "preparação do peixe para consumo (assado, frito, cozido)"
+    ]
+  }
+}

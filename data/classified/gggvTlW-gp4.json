@@ -1,0 +1,38 @@
+{
+  "arquivo": "gggvTlW-gp4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:38:29.700749",
+  "classificacao": {
+    "especies": [
+      "Guaricema",
+      "Saroroca",
+      "Rainha do Mar"
+    ],
+    "equipamentos": [
+      "Linha de Mão",
+      "Barco"
+    ],
+    "iscas": [
+      "Camarão",
+      "Isca Natural"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Raiz"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Salvador",
+    "tipo_pesca": [
+      "Pesca Raiz",
+      "Pesca com Isca Natural"
+    ],
+    "observacoes": [
+      "Muita guaricema",
+      "Bonito saroroca",
+      "Rainha do mar"
+    ]
+  }
+}

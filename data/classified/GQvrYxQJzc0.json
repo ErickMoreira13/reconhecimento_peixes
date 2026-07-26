@@ -1,0 +1,27 @@
+{
+  "arquivo": "GQvrYxQJzc0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:13:47.515921",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Câmera",
+      "Canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Peçaria"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Fenômeno natural chamado 'friais' onde o oxigênio da água diminui, fazendo os peixes subirem para respirar",
+      "Atividade de 'peçaria' realizada no local"
+    ]
+  }
+}

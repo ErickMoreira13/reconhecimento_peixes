@@ -1,0 +1,40 @@
+{
+  "arquivo": "bQNQfmapsco",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:33:03.928589",
+  "classificacao": {
+    "species": [
+      "pirapetiga",
+      "piau",
+      "bocarra",
+      "mandinha",
+      "pirapitinho"
+    ],
+    "equipment": [
+      "artes da pescaria",
+      "carrer",
+      "anzol"
+    ],
+    "baits": [
+      "abacate",
+      "manga",
+      "caranguejo"
+    ],
+    "location": [
+      "Rio Preto",
+      "Rio da Paca"
+    ],
+    "time": "tardezinha já Vai beirando as 4 horas da tarde",
+    "people_involved": [
+      "Tim Maurício",
+      "Gustavo",
+      "Gu",
+      "Fernando"
+    ],
+    "number_of_fish_caught": {
+      "bocarra": 2,
+      "pirapitinho": 1,
+      "piau": 1
+    }
+  }
+}

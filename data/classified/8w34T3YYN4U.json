@@ -1,0 +1,36 @@
+{
+  "arquivo": "8w34T3YYN4U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:33:52.974946",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Tubo de 100",
+      "Cabo de vassoura",
+      "Prego",
+      "Anzol",
+      "Chumbada",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Preparação da linha de mão",
+      "Amarrar anzol",
+      "Uso de nó com cinco voltas",
+      "Cortar pernas do nó"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Linha de mão"
+    ],
+    "observacoes": [
+      "Demonstração de como preparar a linha de mão com tubo e anzóis",
+      "Uso de técnicas de amarração específica"
+    ]
+  }
+}

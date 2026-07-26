@@ -1,0 +1,43 @@
+{
+  "arquivo": "aYQCuZ1SRMI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:21:24.647671",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Curimba",
+      "Piau",
+      "Piapara",
+      "Piracanjuba",
+      "Armau"
+    ],
+    "equipamentos": [
+      "Baldinho",
+      "Copo",
+      "Farelo de Arroz",
+      "Farinha de Trigo",
+      "Óleo de Piqui"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [],
+    "graos": [
+      "Arroz",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Paraná"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A massa não fica boa se guardada por muito tempo",
+      "A massa é preparada com poucos ingredientes",
+      "A massa é usada para pesca em pesqueiro e no rio"
+    ]
+  }
+}

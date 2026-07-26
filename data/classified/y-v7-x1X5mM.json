@@ -1,0 +1,45 @@
+{
+  "arquivo": "y-v7-x1X5mM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:41:04.071950",
+  "classificacao": {
+    "especies": [
+      "Baírdia",
+      "Bacalhau"
+    ],
+    "equipamentos": [
+      "Fieira",
+      "Covos de Iscas",
+      "Boias"
+    ],
+    "iscas": [
+      "Vira"
+    ],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Lançar",
+      "Puxar",
+      "Retirar Iscas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mar de Bering",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Caranguejo",
+      "Pesca de Bacalhau"
+    ],
+    "observacoes": [
+      "Condições climáticas adversas com ventos de 90 km/h e ondas de 8 metros",
+      "Dificuldade em localizar equipamentos devido ao mar agitado",
+      "Necessidade de usar peso no bolso para evitar ser levado pelo vento",
+      "Tempo de permanência no mar de 48 horas",
+      "Equipamento precisa ser colocado no barco para continuar a pesca",
+      "Necessidade de férias devido à intensidade da jornada"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "7LPbzy6tMDU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:42:24.576291",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Pano de corda",
+      "Anzol Gilzão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapecuru",
+      "Imearim"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Itapecuru Mirim",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "7UeFGZVeOnY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:03:08.679570",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Rede de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com rede",
+      "Liberação de peixes"
+    ],
+    "rios": [
+      "Rio Parnaíba",
+      "Delta do Parnaíba"
+    ],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com rede",
+      "Pesca recreativa"
+    ],
+    "observacoes": [
+      "Menciona a liberação de peixes para preservação",
+      "Destaca a paciência necessária na pesca",
+      "Referência à canoagem e ao ambiente do rio"
+    ]
+  }
+}

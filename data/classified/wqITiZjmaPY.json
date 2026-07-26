@@ -1,0 +1,32 @@
+{
+  "arquivo": "wqITiZjmaPY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:21:21.338757",
+  "classificacao": {
+    "species": [
+      "Tucunaré",
+      "Piranha"
+    ],
+    "equipment": [
+      "Ceñuelos",
+      "Caia",
+      "Boia",
+      "Triples",
+      "Motor elétrico"
+    ],
+    "baits": [
+      "Camarão",
+      "Bullet minnow",
+      "Señuelos de superficie"
+    ],
+    "locations": [
+      "Lago Iteipú",
+      "Amazonas"
+    ],
+    "season": "Janeiro e Fevereiro",
+    "notes": [
+      "Prática de devolver os peixes após a captura (conservação)",
+      "Uso de cañas cortas e flexibilidade para capturar tucunares grandes"
+    ]
+  }
+}

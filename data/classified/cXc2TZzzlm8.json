@@ -1,0 +1,35 @@
+{
+  "arquivo": "cXc2TZzzlm8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:35:21.696111",
+  "classificacao": {
+    "especies": [
+      "Porquinho",
+      "Cação",
+      "Cardume"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Varinha",
+      "Anzol",
+      "Chicotezinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria Embarcada",
+      "Cardume"
+    ],
+    "rios": [
+      "Cascalho"
+    ],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "tipo_pesca": [
+      "Pescaria Embarcada"
+    ],
+    "observacoes": []
+  }
+}

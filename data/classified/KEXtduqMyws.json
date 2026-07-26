@@ -1,0 +1,31 @@
+{
+  "arquivo": "KEXtduqMyws",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:37:08.231617",
+  "classificacao": {
+    "especies": [
+      "Surubim",
+      "Tucunaré",
+      "Curumata",
+      "Carazinho",
+      "Sublinho",
+      "Curi-mata"
+    ],
+    "equipamentos": [
+      "Câmera de ação",
+      "Arpão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Longar"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

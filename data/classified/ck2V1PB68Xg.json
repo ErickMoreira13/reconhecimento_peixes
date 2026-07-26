@@ -1,0 +1,39 @@
+{
+  "arquivo": "ck2V1PB68Xg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:41:11.739130",
+  "classificacao": {
+    "summary": "O texto é um transcripção de um vídeo de pesca, onde o narrador compartilha experiências e técnicas de pesca com outros pescadores, incluindo Claudio Mariscas, Gelson, Renaldi e Renan. O conteúdo destaca a excitação de capturar peixes como pirarara, tamba e outros, mencionando equipamentos como 'torpedinho', 'chumbinho' e 'anzol'. O narrador também descreve locais específicos de pesca, como 'Big River 6 barra zero', e usa linguagem dinâmica e onomatopéias para engajar o público. O diálogo inclui interações entre os pescadores e destaca desafios e conquistas durante a atividade.",
+    "key_points": {
+      "fishing_techniques": [
+        "Uso de 'torpedinho' e 'chumbinho' como iscas",
+        "Técnicas de pesca em locais específicos (ex: 'Big River 6 barra zero')",
+        "Métodos para capturar peixes grandes como pirarara"
+      ],
+      "fish_species": [
+        "Pirarara",
+        "Tamba",
+        "Outros peixes não especificados"
+      ],
+      "equipment": [
+        "Anzol",
+        "Luminoso (possivelmente luz para pesca noturna)"
+      ],
+      "interactions": [
+        "Conversas com Claudio Mariscas, Gelson, Renaldi e Renan",
+        "Compartilhamento de experiências e desafios"
+      ],
+      "locations": [
+        "Big River 6 barra zero"
+      ],
+      "tone": "Excitante, dinâmico, com uso de onomatopéias e linguagem informal para engajar o público"
+    },
+    "possible_user_needs": [
+      "Resumo do conteúdo",
+      "Tradução para inglês",
+      "Explicação de termos de pesca",
+      "Estrutura para criar conteúdo semelhante",
+      "Análise de técnicas de pesca mencionadas"
+    ]
+  }
+}

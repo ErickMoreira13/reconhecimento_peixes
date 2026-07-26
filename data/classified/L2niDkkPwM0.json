@@ -1,0 +1,35 @@
+{
+  "arquivo": "L2niDkkPwM0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:43:23.392944",
+  "classificacao": {
+    "species": [
+      "Piau",
+      "Pirarara"
+    ],
+    "equipment": [
+      "varinha",
+      "cana",
+      "alicate"
+    ],
+    "iscas": [
+      "beijinho de purga",
+      "sulapa de peixe"
+    ],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "lançar bem",
+      "desentortar",
+      "cortando água"
+    ],
+    "rivers": [
+      "Rio Miranda"
+    ],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "type_of_fishing": "pesca esportiva",
+    "observations": ""
+  }
+}

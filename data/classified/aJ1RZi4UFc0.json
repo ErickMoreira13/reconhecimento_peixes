@@ -1,0 +1,24 @@
+{
+  "arquivo": "aJ1RZi4UFc0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:48:06.732301",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Elastico",
+      "Anzol",
+      "Flutuador",
+      "Anel"
+    ],
+    "iscas": [],
+    "graos": [],
+    "tecnicas": [
+      "pescar com ração de coelho no anzol"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ]
+  }
+}

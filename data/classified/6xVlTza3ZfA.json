@@ -1,0 +1,26 @@
+{
+  "arquivo": "6xVlTza3ZfA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:53:38.467253",
+  "classificacao": {
+    "especies": [
+      "Paranazão"
+    ],
+    "equipamentos": [
+      "barco",
+      "pau"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "torando"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

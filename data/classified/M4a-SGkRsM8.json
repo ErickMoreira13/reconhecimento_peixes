@@ -1,0 +1,24 @@
+{
+  "arquivo": "M4a-SGkRsM8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:39:04.622457",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tapicuru"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Codó",
+    "tipo_pesca": [],
+    "observacoes": [
+      "rio Tapicuru está baixo",
+      "enchente grande em Codó"
+    ]
+  }
+}

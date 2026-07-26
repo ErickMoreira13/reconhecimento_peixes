@@ -1,0 +1,25 @@
+{
+  "arquivo": "41DpZBygw64",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:29:04.251755",
+  "classificacao": {
+    "especies": [
+      "Surubí"
+    ],
+    "equipamentos": [
+      "Linhada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

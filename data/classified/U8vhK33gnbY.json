@@ -1,0 +1,28 @@
+{
+  "arquivo": "U8vhK33gnbY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:51:31.142124",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

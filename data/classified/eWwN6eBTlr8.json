@@ -1,0 +1,25 @@
+{
+  "arquivo": "eWwN6eBTlr8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:56:01.454114",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha",
+      "Fisga"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Fazer silêncio para não assustar os peixes",
+      "Peixe lindo capturado"
+    ]
+  }
+}

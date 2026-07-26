@@ -1,0 +1,32 @@
+{
+  "arquivo": "wr2MWJN-Fw4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:32:13.802399",
+  "classificacao": {
+    "especies": [
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Anzol pequeno",
+      "Anzol mosquito",
+      "Sacola"
+    ],
+    "iscas": [
+      "Sardinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Lena"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Vinte e uma sardinhas pescadas",
+      "Pescaria realizada no rio Lena"
+    ]
+  }
+}

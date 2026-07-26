@@ -1,0 +1,29 @@
+{
+  "arquivo": "nA6Z7T3YABI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:26:38.529441",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massinha",
+      "Milho",
+      "Salsicha",
+      "Acerola",
+      "Caranguejo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

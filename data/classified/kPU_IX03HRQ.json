@@ -1,0 +1,71 @@
+{
+  "arquivo": "kPU_IX03HRQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:01:18.715868",
+  "classificacao": {
+    "especies": [
+      "Ariari",
+      "Macaúba",
+      "Mariquita",
+      "Biquara",
+      "Pirá"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Mulinete",
+      "Bicheiro",
+      "Arratela",
+      "Ceva",
+      "Galão Perfurado",
+      "Saco de Ráfia"
+    ],
+    "iscas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Milho",
+        "Soja",
+        "Trigo",
+        "Arroz",
+        "Quirera",
+        "Canjica",
+        "Grãos Naturais"
+      ],
+      "Ceva Proteica": [
+        "Ração",
+        "Farelo de Soja"
+      ],
+      "Ceva Aromática": [
+        "Baunilha",
+        "Alho"
+      ],
+      "Ceva de Partículas": [
+        "Galão Perfurado"
+      ]
+    },
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Grãos Naturais"
+    ],
+    "tecnicas": [
+      "Ferrimento",
+      "Arratela",
+      "Puxar a Linha",
+      "Usar Ceva"
+    ],
+    "localizacao": [
+      "Zariacó",
+      "Oma"
+    ],
+    "tempo": "",
+    "peso": ""
+  }
+}

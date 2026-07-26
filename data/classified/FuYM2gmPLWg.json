@@ -1,0 +1,30 @@
+{
+  "arquivo": "FuYM2gmPLWg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:57:04.878039",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Pintado",
+      "Tambaqui",
+      "Piau",
+      "Pacu",
+      "Surubim"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio São Francisco"
+    ],
+    "bacias": [
+      "Bacia do Rio São Francisco"
+    ],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

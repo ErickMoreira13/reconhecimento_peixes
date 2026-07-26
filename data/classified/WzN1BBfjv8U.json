@@ -1,0 +1,32 @@
+{
+  "arquivo": "WzN1BBfjv8U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:07:43.096503",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Trapicho",
+      "Cevador"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Cevar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

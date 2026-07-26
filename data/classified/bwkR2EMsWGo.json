@@ -1,0 +1,34 @@
+{
+  "arquivo": "bwkR2EMsWGo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:39:57.192832",
+  "classificacao": {
+    "species": [
+      "Dourado",
+      "Tucunaré",
+      "Barbado",
+      "Pacu",
+      "Jaú",
+      "Apalmito",
+      "Pintadinho",
+      "Piaussu"
+    ],
+    "equipment": [
+      "vara",
+      "chumbinho",
+      "tuveirinha"
+    ],
+    "techniques": [
+      "pescaria de rodada",
+      "arremesso mais longe",
+      "solta linha",
+      "paciência"
+    ],
+    "location": "Pantanal",
+    "guide": "Jefferson",
+    "company": [
+      "Joyce Tour",
+      "Cayamã 5 estrelas"
+    ]
+  }
+}

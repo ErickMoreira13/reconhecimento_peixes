@@ -1,0 +1,25 @@
+{
+  "arquivo": "KZxmL_lD1mQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:40:01.800349",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Varinha de mão"
+    ],
+    "iscas": [
+      "Soja com sabor de maracujá",
+      "Massinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "localizacao": "Rio Tocantins"
+  }
+}

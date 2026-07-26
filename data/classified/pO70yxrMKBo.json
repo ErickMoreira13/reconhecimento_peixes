@@ -1,0 +1,38 @@
+{
+  "arquivo": "pO70yxrMKBo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:14:57.981601",
+  "classificacao": {
+    "especies": [
+      "Mandi",
+      "Tuvira"
+    ],
+    "equipamentos": [
+      "Anzol sem fio",
+      "Cordinha",
+      "Opérculo inteiro da tuvira",
+      "Nós cegos"
+    ],
+    "iscas": [
+      "Opérculo da tuvira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Quebranzol"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de mandi com tuvira"
+    ],
+    "observacoes": [
+      "O mandi possui bigodes que funcionam como sensores",
+      "A tuvira é um peixe elétrico",
+      "A isca utiliza o opérculo inteiro da tuvira",
+      "O peixe capturado era um mandi velho e de grande porte"
+    ]
+  }
+}

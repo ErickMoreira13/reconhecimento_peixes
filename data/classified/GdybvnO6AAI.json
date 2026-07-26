@@ -1,0 +1,26 @@
+{
+  "arquivo": "GdybvnO6AAI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:34:08.838288",
+  "classificacao": {
+    "especies": [
+      "Bitelo",
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O peixe tem aproximadamente 200 quilos"
+    ]
+  }
+}

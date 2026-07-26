@@ -1,0 +1,21 @@
+{
+  "arquivo": "ObTXI7lSPZU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:25:24.420384",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "isca": [
+      "piado"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Distrito Federal",
+    "municipio": "Brasília",
+    "tipo_pesca": [],
+    "observacoes": "Não foi possível pescar peixes devido ao entardecer dourado e a ausência de peixes no lago."
+  }
+}

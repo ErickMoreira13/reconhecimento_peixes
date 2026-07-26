@@ -1,0 +1,28 @@
+{
+  "arquivo": "oZbJlH8tFwA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:44:43.429810",
+  "classificacao": {
+    "species": "Tilapia nilotica",
+    "equipment": [
+      "Varas telescópicas",
+      "Chinu número 5",
+      "Massa de tilapia com atrativo de peixe (essência de banana)",
+      "Farinha pegadeira de tilápia"
+    ],
+    "bait": {
+      "type": "Massa de tilapia com atrativo de peixe",
+      "components": [
+        "Farinha pegadeira de tilápia",
+        "Essência de banana"
+      ],
+      "technique": "Uso de única chinu com massa de tilapia"
+    },
+    "cevas": [
+      {
+        "type": "Massa de tilapia com atrativo de peixe",
+        "description": "Bait pastoso composto por farinha pegadeira de tilápia e essência de banana"
+      }
+    ]
+  }
+}

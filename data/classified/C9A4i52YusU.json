@@ -1,0 +1,16 @@
+{
+  "arquivo": "C9A4i52YusU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:17:03.838012",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca no Rio Doce, com o narrador compartilhando a emoção de capturar peixes como peva, dourado, robalo e outros. Ele descreve o processo de pesca, incluindo o uso de iscas (como manjuba), a preparação de uma refeição com os peixes capturados e a gratidão por essa experiência. O tom é entusiasmado e conversacional, destacando a conexão com a natureza e a satisfação de praticar pesca.",
+    "possible_needs": [
+      "Resumo estruturado do conteúdo",
+      "Tradução para outro idioma",
+      "Análise das técnicas de pesca mencionadas",
+      "Dicas para criar um vídeo semelhante",
+      "Informações sobre espécies de peixes no Rio Doce"
+    ],
+    "next_steps": "Por favor, me informe o que você deseja explorar em detalhes sobre o texto."
+  }
+}

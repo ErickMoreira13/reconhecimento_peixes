@@ -1,0 +1,22 @@
+{
+  "arquivo": "5oZLI8L4dI8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:19:34.601404",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Sono",
+      "Formiga"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "Jalapão",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

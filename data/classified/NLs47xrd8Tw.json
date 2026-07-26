@@ -1,0 +1,17 @@
+{
+  "arquivo": "NLs47xrd8Tw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:17:15.494993",
+  "classificacao": {
+    "summary": "O texto descreve uma conversa informal sobre pesca, mencionando diferentes espécies de peixes (pirarara, tucunaré azul, sampita, carpas, cachara, oscazinha), técnicas de pesca e interações com pessoas como Rodrigo, Vitinho, Jogoré e Yara. O narrador discute a compra de um toldo branco, a experiência de pesca em uma lagoa e o uso de iscas. O conteúdo parece ser de um vídeo ou transmissão ao vivo, com linguagem casual e foco em detalhes práticos da pesca.",
+    "fish_species": [
+      "pirarara",
+      "tucunaré azul",
+      "sampita",
+      "carpas",
+      "cachara",
+      "oscazinha"
+    ],
+    "context": "Conversa informal sobre pesca, provavelmente em um ambiente de lagoa, com referências a técnicas e interações sociais. O texto inclui termos regionais e coloquiais relacionados à pesca."
+  }
+}

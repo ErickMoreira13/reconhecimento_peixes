@@ -1,0 +1,33 @@
+{
+  "arquivo": "Ncoui00JVDo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:30:18.034396",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boia Cevadeira",
+      "Chumbada",
+      "Copinho",
+      "Girador",
+      "Borrachinha",
+      "Chicotinho",
+      "Multifilamento"
+    ],
+    "iscas": [
+      "Ração"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Boia Cevadeira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

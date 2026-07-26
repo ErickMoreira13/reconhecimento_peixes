@@ -1,0 +1,41 @@
+{
+  "arquivo": "7xHyB0v7VY4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:06:26.767878",
+  "classificacao": {
+    "especies": [
+      "Bacoreta",
+      "Barracuda",
+      "Jurela",
+      "Lubina",
+      "Maragota",
+      "Oblada",
+      "Sargo",
+      "Vaca Serrana"
+    ],
+    "equipamentos": [
+      "caña",
+      "carrete"
+    ],
+    "iscas": [
+      "señuelo artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com señuelos artificiais",
+      "pesca ultra-ligera",
+      "rockfishing"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com señuelos artificiais",
+      "pesca ultra-ligera",
+      "rockfishing"
+    ],
+    "observacoes": []
+  }
+}

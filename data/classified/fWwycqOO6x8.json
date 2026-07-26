@@ -1,0 +1,23 @@
+{
+  "arquivo": "fWwycqOO6x8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:58:47.446376",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Rubinéia",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

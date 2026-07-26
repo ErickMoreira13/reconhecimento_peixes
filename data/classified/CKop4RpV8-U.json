@@ -1,0 +1,35 @@
+{
+  "arquivo": "CKop4RpV8-U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:42:21.628764",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Jogo de Rir",
+      "Jogo Gig"
+    ],
+    "iscas": [
+      "Matrinchã"
+    ],
+    "cevas": [
+      "Jogo de Rir",
+      "Jogo Gig"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento"
+    ],
+    "rios": [],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe de tamanho impressionante, maior que 70 cm, agressivo, atacou a isca de matrinchã."
+    ]
+  }
+}

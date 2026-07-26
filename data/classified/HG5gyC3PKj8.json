@@ -1,0 +1,31 @@
+{
+  "arquivo": "HG5gyC3PKj8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:33:58.068845",
+  "classificacao": {
+    "especies": [
+      "Gurijuba"
+    ],
+    "equipamentos": [
+      "Espinhel",
+      "Âncora",
+      "Boia"
+    ],
+    "iscas": [
+      "Vômito de urubu"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Espinhel de anzóis múltiplos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com espinhel"
+    ],
+    "observacoes": []
+  }
+}

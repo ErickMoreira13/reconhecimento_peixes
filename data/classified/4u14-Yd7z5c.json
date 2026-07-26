@@ -1,0 +1,33 @@
+{
+  "arquivo": "4u14-Yd7z5c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:45:47.415259",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Isca Maverick da Stray"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso e recolhimento"
+    ],
+    "rios": [
+      "Rio Pardo"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Água suja",
+      "Peixe capturado em profundidade",
+      "Sucesso na captura de dourado"
+    ]
+  }
+}

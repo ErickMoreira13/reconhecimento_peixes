@@ -1,0 +1,33 @@
+{
+  "arquivo": "GkRXFIVWsAE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:55:01.313239",
+  "classificacao": {
+    "species": "Tambaqui",
+    "equipment": [
+      "Chicote (pescador)",
+      "Boia (torpedinho 30g)",
+      "Linha (0.33)",
+      "Anzol (Superchino 5, 4)",
+      "Cevadeira (gigante, atamba)"
+    ],
+    "baits": [
+      "Minhocu (minhoca)",
+      "Beijinho turbinado",
+      "Maficha",
+      "Pãozinho pra baixo",
+      "Palminho"
+    ],
+    "lures": [
+      "Cevadeira gigante",
+      "Cevadeira atamba"
+    ],
+    "other_details": [
+      "Evitar uso de chumbo (lead weights)",
+      "Usar linha leve (0.33)",
+      "Usar anzóis pequenos (Superchino 5, 4)",
+      "Usar boia leve (torpedinho 30g)",
+      "Ajustar configuração para sensibilidade"
+    ]
+  }
+}

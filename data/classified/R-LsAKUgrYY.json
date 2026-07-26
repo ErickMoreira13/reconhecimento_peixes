@@ -1,0 +1,38 @@
+{
+  "arquivo": "R-LsAKUgrYY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:52:04.472750",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Xilápia",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Canas",
+      "Peco"
+    ],
+    "iscas": [
+      "Fígado de Galinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Bacia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Pirarara gigante capturada com fígado de galinha",
+      "Tambacu capturado",
+      "Pirarara solta após captura",
+      "Uso de canas para pesca",
+      "Peixe de 8 kg capturado"
+    ]
+  }
+}

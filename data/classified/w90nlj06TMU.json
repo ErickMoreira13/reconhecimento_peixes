@@ -1,0 +1,31 @@
+{
+  "arquivo": "w90nlj06TMU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:57:32.689149",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Jundiá"
+    ],
+    "equipamentos": [
+      "Baldinho"
+    ],
+    "iscas": [
+      "Massa pegadeira"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "B0_Q2EJwtdU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:23:09.653136",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Vasolele"
+    ],
+    "equipamentos": [
+      "Amazonas",
+      "Bomber Long A17",
+      "Vara de 25 libras",
+      "Argolas reforçadas"
+    ],
+    "iscas": [
+      "Garateia",
+      "Caju vermelho",
+      "Maruri"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nado errático",
+      "Nado estreitinho",
+      "Flutuação intermediária"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Nova Olinda do Norte",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": []
+  }
+}

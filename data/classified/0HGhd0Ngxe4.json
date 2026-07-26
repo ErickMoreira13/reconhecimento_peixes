@@ -1,0 +1,23 @@
+{
+  "arquivo": "0HGhd0Ngxe4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T11:28:11.452832",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Linha 0,50",
+      "Anzol número 1"
+    ],
+    "iscas": [
+      "Pézinho de abacate",
+      "Laranja crava",
+      "Engajador"
+    ],
+    "outros": [
+      "Maracujá",
+      "Limão"
+    ]
+  }
+}

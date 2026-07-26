@@ -1,0 +1,31 @@
+{
+  "arquivo": "6f2DK0qfIes",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T01:00:22.763392",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Iscagem"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

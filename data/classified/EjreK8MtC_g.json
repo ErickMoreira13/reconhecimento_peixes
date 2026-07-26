@@ -1,0 +1,31 @@
+{
+  "arquivo": "EjreK8MtC_g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:03:29.722241",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Cará",
+      "Tirapinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca durante o dia",
+      "uso de iscas vivas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "a lua nova torna as traíras mais sensíveis e difíceis de soltar",
+      "a lua cheia é a melhor fase para pescar traíra",
+      "a pesca durante o dia com iscas vivas é eficaz na lua cheia"
+    ]
+  }
+}

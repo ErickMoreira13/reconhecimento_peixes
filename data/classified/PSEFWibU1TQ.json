@@ -1,0 +1,24 @@
+{
+  "arquivo": "PSEFWibU1TQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:19:45.164169",
+  "classificacao": {
+    "especies": [
+      "Mineiro"
+    ],
+    "equipamentos": [
+      "Bambus",
+      "Varinha improvisada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

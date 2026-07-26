@@ -1,0 +1,34 @@
+{
+  "arquivo": "GNjYHlDnO-8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:10:30.951088",
+  "classificacao": {
+    "species": [
+      "Tucunaré",
+      "Escamão"
+    ],
+    "equipment": [
+      "vara",
+      "ipão 65",
+      "slow float",
+      "jigui",
+      "barbela",
+      "sincara"
+    ],
+    "baits": [
+      "isca pequena",
+      "isca sincara",
+      "slow float",
+      "ipão 65"
+    ],
+    "techniques": [
+      "trabalho lento",
+      "slow float",
+      "jig",
+      "meia água"
+    ],
+    "location": "Três Marias",
+    "season": "inverno",
+    "duration": "duas horinhas"
+  }
+}

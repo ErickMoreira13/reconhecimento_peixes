@@ -1,0 +1,54 @@
+{
+  "arquivo": "AR0PMS9pOEs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:08:29.960077",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Matrinchinha"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Tralhas"
+    ],
+    "iscas": [
+      "Milho de lata",
+      "Salsicha",
+      "Fígado",
+      "Milho de ceva"
+    ],
+    "cevas": [
+      {
+        "nome": "Ceva do Jó Sábio",
+        "tipo": "Ceva Natural"
+      },
+      {
+        "nome": "Ceva do Eusébio",
+        "tipo": "Ceva Natural"
+      },
+      {
+        "nome": "Ceva do amigo",
+        "tipo": "Ceva Natural"
+      }
+    ],
+    "grandeza": "Mato Grosso",
+    "lua": "Lua cheia",
+    "local": "Rio Telespires, Nova Canaã do Norte, Mato Grosso",
+    "tempo": [
+      "Embaçando",
+      "Ventinho"
+    ],
+    "isca": [
+      "Milho de lata",
+      "Salsicha",
+      "Fígado",
+      "Milho de ceva"
+    ],
+    "peixes": [
+      "Pacu",
+      "Matrinchinha"
+    ],
+    "resultados": "Nenhum peixe pescado",
+    "observacoes": "Fase da lua cheia, mas não houve sucesso na pesca."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "Qw9q4OllvrA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:33:49.219355",
+  "classificacao": {
+    "especies": [
+      "Caranha",
+      "Piau"
+    ],
+    "equipamentos": [
+      "castuador",
+      "anzol chinu",
+      "linha 0,50",
+      "líder 1,20m",
+      "distorcedor",
+      "rosquinha"
+    ],
+    "iscas": [
+      "milho",
+      "bolinho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "castuador"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Sete Lagoas",
+    "tipo_pesca": [
+      "castuador"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "okFUC65jkls",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:54:17.683743",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Caranha",
+      "Boto",
+      "Tuiuiu"
+    ],
+    "equipamentos": [
+      "mureneiro",
+      "cardão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

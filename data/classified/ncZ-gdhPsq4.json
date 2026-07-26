@@ -1,0 +1,37 @@
+{
+  "arquivo": "ncZ-gdhPsq4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:40:08.348357",
+  "classificacao": {
+    "especies": [
+      "Galo",
+      "Jurel"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "carretel estrada",
+      "linha",
+      "popper"
+    ],
+    "iscas": [
+      "popper branco",
+      "señuelo matón"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "popear",
+      "uso de señuelo matón"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de orla"
+    ],
+    "observacoes": [
+      "Primeira pesca do ano, capturado um jurel de aproximadamente 5 kg, não foi o gallo esperado, pesca realizada na orla com popper branco e señuelo matón"
+    ]
+  }
+}

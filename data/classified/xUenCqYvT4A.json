@@ -1,0 +1,45 @@
+{
+  "arquivo": "xUenCqYvT4A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:25:00.740825",
+  "classificacao": {
+    "especies": [
+      "Surubim",
+      "Dourado",
+      "Piapau",
+      "Curimba",
+      "Piapara",
+      "Piau",
+      "Pintadão"
+    ],
+    "equipamentos": [
+      "Johnson 500",
+      "Yamaha",
+      "Barco",
+      "Saco de peixe",
+      "Canivete",
+      "Alicate",
+      "Bombardilho"
+    ],
+    "iscas": [
+      "Salsicha",
+      "Massa",
+      "Bolota"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com anzol simples",
+      "Pesca com Bombardilho",
+      "Pesca com isca de salsicha"
+    ],
+    "rios": [
+      "Rio Dourados"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Dourados",
+    "tipo_pesca": "Pesca esportiva",
+    "observacoes": []
+  }
+}

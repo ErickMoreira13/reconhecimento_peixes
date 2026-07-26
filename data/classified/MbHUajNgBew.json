@@ -1,0 +1,25 @@
+{
+  "arquivo": "MbHUajNgBew",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:55:17.311754",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Reel",
+      "Brake",
+      "Spool",
+      "Handle",
+      "Pick-up"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

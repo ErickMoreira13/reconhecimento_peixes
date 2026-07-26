@@ -1,0 +1,39 @@
+{
+  "arquivo": "CJcxDkK59og",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:40:18.097369",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Chinu",
+      "Elástico de silicone"
+    ],
+    "iscas": [
+      "Ração de coelho",
+      "Camarão vivo"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "local": [
+      "Rio",
+      "Lagoa",
+      "Represa"
+    ],
+    "tempo": [
+      "2 a 3 minutos",
+      "até 4 minutos"
+    ],
+    "dicas": [
+      "Usar a ração de coelho com um anzal específico",
+      "Monitorar a ponta da vara",
+      "Usar chinu 2 ou 3",
+      "Evitar usar com mulinete",
+      "Usar ceva para atrair as tilápias"
+    ]
+  }
+}

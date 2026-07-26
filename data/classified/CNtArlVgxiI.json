@@ -1,0 +1,33 @@
+{
+  "arquivo": "CNtArlVgxiI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:47:26.509933",
+  "classificacao": {
+    "especies": [
+      "Surubim",
+      "Jundiá",
+      "Cuiú",
+      "Pirarara",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Arpão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de arpão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "São Pedro",
+    "tipo_pesca": [
+      "Pesca de arpão"
+    ],
+    "observacoes": [
+      "Fishing in a lake during a cold period (friagem), with many dead fish observed. The fisherman mentions catching fish for consumption, not for sport, and notes the presence of various species like surubim, jundiá, and pirarara. The video shows the use of a harpoon (arpão) and the area is described as having a high density of small fish and dead fish along the shore."
+    ]
+  }
+}

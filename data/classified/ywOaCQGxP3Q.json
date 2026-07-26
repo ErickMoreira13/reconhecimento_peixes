@@ -1,0 +1,34 @@
+{
+  "arquivo": "ywOaCQGxP3Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:32:42.299408",
+  "classificacao": {
+    "especies": [
+      "Caixara",
+      "Pintado",
+      "Peixe de Couro",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Risca"
+    ],
+    "iscas": [
+      "Jejum"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Miranda"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Lugar preservado e agradável"
+    ]
+  }
+}

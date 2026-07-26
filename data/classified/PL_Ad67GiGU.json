@@ -1,0 +1,36 @@
+{
+  "arquivo": "PL_Ad67GiGU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:11:17.577471",
+  "classificacao": {
+    "especies": [
+      "Tainha",
+      "Canguá",
+      "Curimã",
+      "Rubalo",
+      "Cangoa",
+      "Vazinha",
+      "Taúga",
+      "Cobri",
+      "Purimã",
+      "Virote"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Fresteau",
+      "Barquinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

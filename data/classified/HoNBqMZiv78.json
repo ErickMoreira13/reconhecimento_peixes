@@ -1,0 +1,47 @@
+{
+  "arquivo": "HoNBqMZiv78",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:06:25.551405",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piranha",
+      "Pandeirão",
+      "Dedo do Cara"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Mergulhador",
+      "Pescaria Noturna"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria Noturna",
+      "Mergulho"
+    ],
+    "rios": [
+      "Rio Grande"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria Noturna"
+    ],
+    "observacoes": [
+      "A pessoa no piauzinho ali mas a piranha está perto",
+      "O bando já pegou outro aqui",
+      "Essa que deve ser o tempo a ela joga o segundo anzol",
+      "Hoje vamos fazer uma filmagem",
+      "Hoje vai ser na pescaria noturna de mergulho",
+      "Até eu vou mergulhar o famoso mergulhador bunda de isopor maiorzinha",
+      "Como é que é feita a pescaria aqui",
+      "A pescaria feita no rio meio que não dá um quilo folgado no rio grande",
+      "Rapaz é bonita ou danadona",
+      "O bicho que é bonito e gostoso nos pega no dedo do cara",
+      "A mulher de donário que ó ao seteba"
+    ]
+  }
+}

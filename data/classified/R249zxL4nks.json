@@ -1,0 +1,38 @@
+{
+  "arquivo": "R249zxL4nks",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:53:15.266882",
+  "classificacao": {
+    "species": [
+      "Lechegua",
+      "Serra"
+    ],
+    "equipment": [
+      "Long Jerk 140",
+      "Finder Jerk Molex 15 cm",
+      "Jig 30 grammi",
+      "Popper",
+      "Canna da spinning"
+    ],
+    "baits": [
+      "Popper",
+      "Jig",
+      "Needle"
+    ],
+    "location": "Mare",
+    "month": "Settembre",
+    "release": [
+      "Lechegua"
+    ],
+    "weight": [
+      "1,7 kg",
+      "6-7 etti"
+    ],
+    "number_of_fish_caught": 2,
+    "time_of_day": "Sole alto",
+    "other_details": {
+      "activity": "Pescato e rilasciato",
+      "additional_notes": "Utilizzo di esche artificiali e attrezzatura da spinning"
+    }
+  }
+}

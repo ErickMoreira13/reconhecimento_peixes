@@ -1,0 +1,50 @@
+{
+  "arquivo": "IKu_WzhZMUk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:47:24.471176",
+  "classificacao": {
+    "especies": [
+      "Bargada",
+      "Bagre",
+      "Barbado",
+      "Mandubé",
+      "Piraíba",
+      "Prateada"
+    ],
+    "equipamentos": [
+      "Agropó",
+      "Anzol",
+      "Linha",
+      "Vara"
+    ],
+    "iscas": [
+      "Frutinha",
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca",
+      "Pesca de Superfície",
+      "Solução de Ceva"
+    ],
+    "rios": [
+      "Araguaia",
+      "Goiás"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Conservação",
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Liberação de espécies protegidas (bargada e piraíba)",
+      "Uso de iscas e frutinha",
+      "Encontro com onça-pintada",
+      "Captura e liberação de bagre",
+      "Foco em pesca de conservação"
+    ]
+  }
+}

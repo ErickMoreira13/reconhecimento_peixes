@@ -1,0 +1,29 @@
+{
+  "arquivo": "9Z-u2bfSb-U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:51:15.011342",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Tarrafa",
+      "Chumbo caneta",
+      "Fio torcido"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de camarão"
+    ],
+    "observacoes": [
+      "Tarrafa de 3 metros de altura com 1.400 malhas",
+      "Uso de 4 malhas no chumbo e 3 malhas na encala",
+      "Teste planejado no estádio de futebol"
+    ]
+  }
+}

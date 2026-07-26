@@ -1,0 +1,38 @@
+{
+  "arquivo": "qN9CT_L1qlQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:53:17.815751",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Chuveiro"
+    ],
+    "iscas": [
+      "Tripa",
+      "Fígado Azedo"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Massa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Tempo nublado e chuvoso",
+      "Massa de trigo com banana aprovada para pescar curimba"
+    ]
+  }
+}

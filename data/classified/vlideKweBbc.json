@@ -1,0 +1,21 @@
+{
+  "arquivo": "vlideKweBbc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:10:45.447534",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Caiaque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

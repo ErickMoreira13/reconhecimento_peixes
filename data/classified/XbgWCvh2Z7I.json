@@ -1,0 +1,21 @@
+{
+  "arquivo": "XbgWCvh2Z7I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:44:06.654540",
+  "classificacao": {
+    "especies": [
+      "Rosco"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

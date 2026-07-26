@@ -1,0 +1,21 @@
+{
+  "arquivo": "PO4qshxUr4o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:14:45.949639",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo que parece ser uma apresentação de um evento de pesca ou competição. O conteúdo inclui conversas entre participantes, menções a prêmios (como uma canoa ou dinheiro), e detalhes sobre como participar de um sorteio (comprar ingressos por meio de um link). Há também referências a técnicas de pesca, interações sociais e possíveis instruções para o público. O texto contém linguagem informal, gírias e termos específicos de pesca, como 'paci' (possivelmente 'pacu', um tipo de peixe) e 'guarda-sol' (guarda-sol).",
+    "key_points": [
+      "Evento de pesca ou competição com prêmios (canoa, dinheiro).",
+      "Sorteio com venda de ingressos via link no descritivo do vídeo.",
+      "Mencões a técnicas de pesca e interações entre participantes.",
+      "Uso de linguagem informal e gírias.",
+      "Possível referência a 'paci' (peixe) e 'guarda-sol' (equipamento de pesca)."
+    ],
+    "possible_actions": [
+      "Resumir o conteúdo para o público.",
+      "Traduzir partes específicas para inglês ou outro idioma.",
+      "Explicar termos técnicos de pesca mencionados.",
+      "Ajudar a entender como participar do sorteio (comprar ingressos)."
+    ]
+  }
+}

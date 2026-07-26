@@ -1,0 +1,21 @@
+{
+  "arquivo": "nrBQP0W2nhI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:24:05.288339",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio São Francisco"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Sobradinho",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

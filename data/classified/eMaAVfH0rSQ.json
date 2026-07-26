@@ -1,0 +1,33 @@
+{
+  "arquivo": "eMaAVfH0rSQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:08:42.724472",
+  "classificacao": {
+    "espécies": {
+      "macaxeira": "Macaxeira",
+      "jaqueira": "Jaqueira",
+      "jaca dura": "Jaca Dura"
+    },
+    "equipamentos": [],
+    "iscas": {
+      "pó de macaxeira": "Macaxeira em Pó",
+      "castanha": "Castanha"
+    },
+    "cevas": {
+      "pó de macaxeira": "Ceva Natural",
+      "castanha": "Ceva Natural"
+    },
+    "grãos": {
+      "feijão": "Feijão",
+      "arroz": "Arroz",
+      "castanha": "Castanha"
+    },
+    "técnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observações": ""
+  }
+}

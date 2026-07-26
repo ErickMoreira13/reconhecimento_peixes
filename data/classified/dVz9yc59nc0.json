@@ -1,0 +1,9 @@
+{
+  "arquivo": "dVz9yc59nc0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:07:25.906636",
+  "classificacao": {
+    "size_threshold": "35-45 kg",
+    "explanation": "Based on the experiments described, a European catfish weighing around 35-45 kg could exert enough force in water to pull a human underwater. The narrator's own experience with a 74 kg catfish (which was more than half his body weight) demonstrated that even larger individuals can overpower a human, but the critical threshold for initiating an attack appears to be in the 35-45 kg range. This is due to the reduced effective weight of a human in water (about 1/7 of their body weight) and the catfish's ability to generate significant pulling force relative to their size."
+  }
+}

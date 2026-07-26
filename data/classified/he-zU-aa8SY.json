@@ -1,0 +1,27 @@
+{
+  "arquivo": "he-zU-aa8SY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:10:19.387912",
+  "classificacao": {
+    "species": [
+      "Pacu",
+      "Piau",
+      "Tilápia"
+    ],
+    "equipment": [],
+    "baits": [
+      "Massinha especial (dough made from fubá and farinha)"
+    ],
+    "cevas": [
+      "Ceva Natural (natural bait made from cornmeal and flour)"
+    ],
+    "grains": [
+      "Milho (cornmeal)",
+      "Farinha (flour)"
+    ],
+    "techniques": [],
+    "locations": [],
+    "people": [],
+    "other": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "bmsnJsJjTCY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:27:47.025194",
+  "classificacao": {
+    "especies": [
+      "Jaú"
+    ],
+    "equipamentos": [
+      "vara pesada",
+      "linha pesada",
+      "carretilha pesada",
+      "protetor de vara de couro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com vara pesada",
+      "uso de chumbada pesada"
+    ],
+    "rios": [
+      "Rio Paraná",
+      "Rio Paraguai",
+      "Rio Juruena"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": ""
+  }
+}

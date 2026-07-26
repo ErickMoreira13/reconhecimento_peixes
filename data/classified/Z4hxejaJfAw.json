@@ -1,0 +1,21 @@
+{
+  "arquivo": "Z4hxejaJfAw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:58:38.952560",
+  "classificacao": {
+    "isca": [
+      "milho cru",
+      "milho pré-cozido"
+    ],
+    "ceva": "azedo de milho com aditivos (vanilha, leite em pó condensado, outros atrativos)",
+    "tipo_de_ceva": "azedo",
+    "local_da_pescaria": "não especificado",
+    "tipo_de_peixe": "não especificado",
+    "observacoes": [
+      "O milho deve ser cozido sob pressão e deixado fermentar para atrair peixes.",
+      "É recomendado usar recipientes abertos inicialmente para permitir a fermentação.",
+      "A adição de vanilha, leite em pó condensado e outros atrativos pode aumentar a eficácia da ceva.",
+      "É importante ter o licenciamento adequado para pesca, conforme mencionado no contexto."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "Jt1MvIt7G70",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:15:48.072570",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Caminhão",
+      "Câmera",
+      "Facão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Água Fria",
+      "Rio Lira",
+      "Algarfia",
+      "Cantolão",
+      "Rio Verdeen",
+      "Rio Javaé"
+    ],
+    "bacias": [
+      "Tocantins",
+      "Tauzona"
+    ],
+    "estado": "Tocantins",
+    "municipio": "Tauzona",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Dificuldade em passar pela ilha devido a mamona, buracos e poeira",
+      "Uso de facão para cortar árvores",
+      "Temperatura elevada",
+      "Pescadores na ponte do Água Fria",
+      "Pescaria no Rio Javaé"
+    ]
+  }
+}

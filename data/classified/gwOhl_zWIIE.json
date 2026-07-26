@@ -1,0 +1,36 @@
+{
+  "arquivo": "gwOhl_zWIIE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:21:55.363420",
+  "classificacao": {
+    "species": [
+      "pescada branca",
+      "cação",
+      "porquinho",
+      "curvina",
+      "bagre",
+      "tambaqui",
+      "pacu",
+      "tainha",
+      "pescada cambucu",
+      "tilápia",
+      "corimba",
+      "pescadinha amarela",
+      "pescadinha branca",
+      "perna de moça",
+      "olho de cão",
+      "salmão",
+      "meca",
+      "camarão",
+      "sardinha",
+      "manjuba",
+      "polvo"
+    ],
+    "equipment": [],
+    "baits": [],
+    "techniques": [],
+    "locations": [],
+    "people": [],
+    "other": []
+  }
+}

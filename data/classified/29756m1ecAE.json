@@ -1,0 +1,21 @@
+{
+  "arquivo": "29756m1ecAE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:08:05.904218",
+  "classificacao": {
+    "especies": [
+      "Corimba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

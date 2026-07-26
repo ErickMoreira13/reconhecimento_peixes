@@ -1,0 +1,21 @@
+{
+  "arquivo": "pWRoi6Ls1Ws",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:23:38.232223",
+  "classificacao": {
+    "especies": [
+      "Corvina"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

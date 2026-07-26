@@ -1,0 +1,28 @@
+{
+  "arquivo": "YghkU5ucMvI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:12:32.677466",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Rovinha"
+    ],
+    "iscas": [
+      "Fisgadazinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fisgadazinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

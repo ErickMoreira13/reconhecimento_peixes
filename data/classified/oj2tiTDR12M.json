@@ -1,0 +1,21 @@
+{
+  "arquivo": "oj2tiTDR12M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:52:31.497334",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol",
+      "Vara",
+      "Lanterna"
+    ],
+    "isca": [
+      "Isca"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estados": [],
+    "municipios": []
+  }
+}

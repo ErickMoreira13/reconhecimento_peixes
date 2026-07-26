@@ -1,0 +1,32 @@
+{
+  "arquivo": "EEc7Aakcqws",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:55:50.023983",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol",
+      "Boinha"
+    ],
+    "iscas": [
+      "Ração"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com boinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em pesqueiro"
+    ],
+    "observacoes": [
+      "Sisteminha eficaz para capturar peixe em pesqueiro"
+    ]
+  }
+}

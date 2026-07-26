@@ -1,0 +1,21 @@
+{
+  "arquivo": "0I54NFh5Hr8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:22:59.833006",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Porto Amazonas",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "arquivo": "392aggnXVC4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T14:29:48.112137",
+  "classificacao": {
+    "especies": [
+      "Manduzão",
+      "Feroz",
+      "Piau",
+      "Bagueira",
+      "Trinchã"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Boia",
+      "Chumbada",
+      "Hélice",
+      "Motor",
+      "Barco",
+      "Barraca",
+      "Saco de ráfia",
+      "Saco furado",
+      "Saco telado",
+      "Saco de cebola",
+      "Tubo de PVC perfurado",
+      "Cano de PVC perfurado",
+      "Balde perfurado",
+      "Recipiente perfurado",
+      "Cocho perfurado"
+    ],
+    "iscas": [
+      "Soja",
+      "Resto de peixe",
+      "Arroz",
+      "Vinagrete"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja",
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Pescaria de fundo",
+      "Linhadinha",
+      "Frito",
+      "Merenda",
+      "Barriguinha cheia",
+      "Barraquinho",
+      "Guardar bagueira",
+      "Desenroscar",
+      "Chumbada",
+      "Hélice",
+      "Pontas",
+      "Varas",
+      "Fundo do rio",
+      "Água bruta",
+      "Chuva",
+      "Vento",
+      "Arroz",
+      "Vinagrete",
+      "Resto de peixe",
+      "Molho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipos_de_pesca": [
+      "Pescaria de fundo",
+      "Linhadinha"
+    ],
+    "observacoes": [
+      "Chuva intensa",
+      "Vento forte",
+      "Água bruta",
+      "Barco molhado",
+      "Barraca montada",
+      "Chumbada e hélice danificadas",
+      "Sacos de ceva de partículas",
+      "Resto de peixe usado como isca",
+      "Vinagrete e molho preparados"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "arquivo": "XreFqTToAzk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:19:17.032348",
+  "classificacao": {
+    "summary": "O vídeo apresenta um pescador compartilhando sua experiência de pesca com a audiência. Ele mostra os peixes capturados, descreve as condições atuais da água e o progresso da pesca. O conteúdo é informal e conversacional, com o pescador interagindo com os espectadores, agradecendo aos assinantes e amigos, e finalizando com um cumprimento. O vídeo parece ser parte de uma série contínua, com atualizações sobre a pesca e interações pessoais.",
+    "possible_needs": [
+      "Resumo do conteúdo do vídeo",
+      "Tradução do texto",
+      "Sugestões para melhorar o script",
+      "Estruturação do vídeo para engajamento",
+      "Análise de elementos do vídeo"
+    ],
+    "next_steps": [
+      "Perguntar ao usuário qual ação deseja tomar com base no resumo",
+      "Oferecer ajuda com tradução ou análise detalhada",
+      "Sugerir estratégias para aumentar o engajamento no vídeo"
+    ]
+  }
+}

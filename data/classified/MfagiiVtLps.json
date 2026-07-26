@@ -1,0 +1,26 @@
+{
+  "arquivo": "MfagiiVtLps",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:03:15.381515",
+  "classificacao": {
+    "summary": "O texto é um relato entusiasmado de uma pessoa compartilhando uma experiência de pesca em Baixada Maranhense, no Brasil. O narrador descreve a captura de peixes (piabas e camurim), o ambiente natural, a interação com o público (pedindo curtidas e inscrições no canal), e a importância de liberar alguns peixes para preservar a espécie. O conteúdo destaca a conexão com a natureza, a paixão pela pesca e uma mensagem ambientalista sutil.",
+    "key_points": [
+      "Descrição detalhada da pesca de piabas e camurim.",
+      "Localização: Baixada Maranhense, próximo à casa do narrador.",
+      "Mensagem de preservação ao liberar alguns peixes.",
+      "Interação com o público (inscrições, curtidas).",
+      "Culinarismo: menção à preparação dos peixes (fritos em óleo de coco).",
+      "Tom entusiasmado e envolvente, com uso de exclamações e repetições."
+    ],
+    "cultural_context": {
+      "piabas": "Espécie de peixe comum na região, valorizado por pescadores.",
+      "Baixada Maranhense": "Região costeira do Maranhão, conhecida por sua riqueza ecológica e pesqueiros artesanais.",
+      "camurim": "Peixe de grande porte, frequentemente preservado por pescadores para permitir seu crescimento."
+    },
+    "possible_interpretations": [
+      "O texto pode ser visto como uma celebração da vida rural e da conexão com a natureza.",
+      "A menção à preservação dos peixes sugere uma consciência ambiental, embora não seja o foco principal.",
+      "A interação com o público indica uma estratégia de conteúdo para canais de vídeo ou redes sociais."
+    ]
+  }
+}

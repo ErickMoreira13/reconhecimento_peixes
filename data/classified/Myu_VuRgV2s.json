@@ -1,0 +1,37 @@
+{
+  "arquivo": "Myu_VuRgV2s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:18:53.185297",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Tesoura",
+      "Faca",
+      "Elastofix"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca com camarão",
+      "Isca com camarão (menor)"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de praia"
+    ],
+    "observacoes": [
+      "Evitar amarrar o elastofix na ponta do anzol",
+      "Usar anzol proporcional ao tamanho da isca",
+      "Deixar a ponta do anzol exposta para facilitar a fisgada"
+    ]
+  }
+}

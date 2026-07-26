@@ -1,0 +1,45 @@
+{
+  "arquivo": "TOycRWUjv0o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:11:45.495408",
+  "classificacao": {
+    "especies": [
+      "gira",
+      "cocoruco",
+      "top gun",
+      "cunaré",
+      "amarelão",
+      "azulão",
+      "jimeno",
+      "plaquinha"
+    ],
+    "equipamentos": [
+      "motor elétrico",
+      "alicate",
+      "régua",
+      "cana de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca a pé",
+      "arremesso",
+      "soltação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca a pé"
+    ],
+    "observacoes": [
+      "primeira tarde pesca a pé",
+      "soltou",
+      "pegou",
+      "pescou",
+      "lagoa"
+    ]
+  }
+}

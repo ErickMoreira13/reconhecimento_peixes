@@ -1,0 +1,30 @@
+{
+  "arquivo": "I3469ViRCZ8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:21:46.859050",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Robalo"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Ina Pro 90",
+      "Brava 90",
+      "Lory Face",
+      "Destroyer 95",
+      "Encrenca 90"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Artificial"
+    ],
+    "observacoes": ""
+  }
+}

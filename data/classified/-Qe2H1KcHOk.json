@@ -1,0 +1,39 @@
+{
+  "arquivo": "-Qe2H1KcHOk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:50:01.014839",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Varinha de pesca de praia",
+      "Elástico",
+      "Anzol",
+      "Alicate"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Fisgar"
+    ],
+    "rios": [
+      "Itapocuã"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de praia"
+    ],
+    "observacoes": [
+      "Perda de alicate",
+      "Uso de anzol pequeno",
+      "Peixes de tamanho pequeno"
+    ]
+  }
+}

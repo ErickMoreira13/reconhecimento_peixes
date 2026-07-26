@@ -1,0 +1,27 @@
+{
+  "arquivo": "pFCNjgvFigs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:05:14.049347",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Lã"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Laço de Pesca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Laço de Pesca"
+    ],
+    "observacoes": [
+      "Tendência de pesca com laço"
+    ]
+  }
+}

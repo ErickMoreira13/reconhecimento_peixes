@@ -1,0 +1,41 @@
+{
+  "arquivo": "sN19d1xHJyY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T11:43:30.963683",
+  "classificacao": {
+    "especies": [
+      "Carabandeira",
+      "Frito",
+      "Passaguá",
+      "Tilápia"
+    ],
+    "equipamento": [
+      "Caiaque",
+      "Albatora",
+      "Chumbada",
+      "Pernada",
+      "Polinha",
+      "Câmera",
+      "Chumbo",
+      "Linha",
+      "Anzol"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Artificial"
+    ],
+    "grãos": [
+      "Cevada",
+      "Pão"
+    ],
+    "pães": [
+      "Pão"
+    ],
+    "estado": "Pará",
+    "municipio": "Sítios Novos",
+    "tipo_de_pesca": "",
+    "localizacao": "Sítios Novos, Pará",
+    "data": "",
+    "observacoes": ""
+  }
+}

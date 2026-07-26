@@ -1,0 +1,23 @@
+{
+  "arquivo": "6lfgH66NRAo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:36:58.451441",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Dourado",
+      "Black Bass"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Motor",
+      "Motor elétrico",
+      "Vara",
+      "Carretilha"
+    ],
+    "isca": [
+      "Isca"
+    ],
+    "outros": []
+  }
+}

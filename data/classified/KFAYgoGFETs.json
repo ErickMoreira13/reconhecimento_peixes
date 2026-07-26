@@ -1,0 +1,32 @@
+{
+  "arquivo": "KFAYgoGFETs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:37:28.309388",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tabarana",
+      "Carrapada"
+    ],
+    "equipamentos": [
+      "Vara Intensa"
+    ],
+    "iscas": [
+      "Traíra"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Meia Ponte"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O pessoal da Goinfra falou que vai consertar ainda esse mês",
+      "saldo hoje foi positivo. Uma traíra, uma tabarana e pelo menos 72 carrapadas"
+    ]
+  }
+}

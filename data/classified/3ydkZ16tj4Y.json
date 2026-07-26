@@ -1,0 +1,23 @@
+{
+  "arquivo": "3ydkZ16tj4Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:27:46.154547",
+  "classificacao": {
+    "especies": [
+      "trout"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescador observa um trout de tamanho considerável, possivelmente recorde estadual."
+    ]
+  }
+}

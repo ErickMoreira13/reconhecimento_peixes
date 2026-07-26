@@ -1,0 +1,25 @@
+{
+  "arquivo": "Ge2A290LW7k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:34:31.457194",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnicas de adaptação"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Impacto ambiental das barragens no rio, com aumento de vegetação, lodo e resíduos, exigindo adaptações técnicas na pesca"
+    ]
+  }
+}

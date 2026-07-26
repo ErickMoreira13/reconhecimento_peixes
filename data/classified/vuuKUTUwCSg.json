@@ -1,0 +1,24 @@
+{
+  "arquivo": "vuuKUTUwCSg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:28:00.966715",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Recuperação linear (retirada constante e uniforme do lure)",
+      "Recuperação frenética (movimento rápido e irregular para imitar presas em perigo)",
+      "Recuperação metronômica (ritmo constante e cadenciado para atrair predadores)",
+      "Recuperação cadenciada (alternância de velocidades para simular movimento natural)"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca com iscas artificiais (jerkbait e longjerk)",
+    "observacoes": "O vídeo foca exclusivamente em técnicas de recuperação de lures jerkbait e longjerk, sem mencionar espécies, equipamentos, localizações ou outros detalhes específicos."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "arquivo": "HvbaAutPeHk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:16:46.843519",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Passaú"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca com piranha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

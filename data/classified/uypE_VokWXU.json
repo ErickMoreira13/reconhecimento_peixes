@@ -1,0 +1,46 @@
+{
+  "arquivo": "uypE_VokWXU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:13:57.479001",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Espada",
+      "Pirarucu",
+      "Pirarara",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Carretilha",
+      "Varinha"
+    ],
+    "iscas": [
+      "Carne",
+      "Minhoca",
+      "Fruta doce"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca de fundo"
+    ],
+    "rios": [
+      "Rio Corvo",
+      "Barro Preto"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Vera Cruz",
+    "tipo_pesca": [
+      "Pesca de fundo"
+    ],
+    "observacoes": []
+  }
+}

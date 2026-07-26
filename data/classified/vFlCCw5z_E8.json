@@ -1,0 +1,53 @@
+{
+  "arquivo": "vFlCCw5z_E8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:04:27.089160",
+  "classificacao": {
+    "especies": [
+      "Mandir",
+      "Barbado",
+      "Jurururu",
+      "Pintado",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Varas",
+      "Carretilhas",
+      "Linhas",
+      "Anzóis",
+      "Mochilas"
+    ],
+    "iscas": [
+      "Ceva de milho",
+      "Ceva de soja"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "grãos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnica": [
+      "Pesca noturna",
+      "Pesca em lagoas"
+    ],
+    "rios": [
+      "Lagoa da Coina"
+    ],
+    "bacias": [
+      "Lagoa"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca noturna",
+      "Pesca em lagoas"
+    ],
+    "observacoes": [
+      "Dificuldade em capturar peixes devido à alta densidade de vegetação e correntes rápidas.",
+      "Uso de um tanque emprestado para armazenar peixes capturados temporariamente.",
+      "Liberação de alguns peixes capturados para preservar a população local."
+    ]
+  }
+}

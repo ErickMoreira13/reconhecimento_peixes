@@ -1,0 +1,29 @@
+{
+  "arquivo": "W4qye7IB7Ko",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:54:41.403200",
+  "classificacao": {
+    "especies": [
+      "Tainha",
+      "Bagre",
+      "Tilapia",
+      "Bagre Africano"
+    ],
+    "equipamentos": [
+      "Peneira",
+      "Luva",
+      "Cordão",
+      "Finheira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

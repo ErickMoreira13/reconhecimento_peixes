@@ -1,0 +1,35 @@
+{
+  "arquivo": "n1PHSoGRv8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:21:08.904934",
+  "classificacao": {
+    "especies": [
+      "Pucunaré"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Armadilha",
+      "Irapuca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Armadilha"
+    ],
+    "rios": [
+      "Rio Tapajós"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Belterra",
+    "tipo_pesca": [
+      "Pesca com Armadilha"
+    ],
+    "observacoes": [
+      "Não foi capturado nenhum peixe durante a pescaria",
+      "A experiência foi focada no prazer de estar na natureza",
+      "Menciona a presença de cardumes e a utilização de iscas artificiais"
+    ]
+  }
+}

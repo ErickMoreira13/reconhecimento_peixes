@@ -1,0 +1,33 @@
+{
+  "arquivo": "FRf_oeXf43M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:52:47.265746",
+  "classificacao": {
+    "especies": [
+      "Basa"
+    ],
+    "equipamentos": [
+      "Isca de jerkbait"
+    ],
+    "iscas": [
+      "Jerkbait"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Retrievo reto",
+      "Técnica de jerkbait",
+      "Cadência de pescaria com jerkbait"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície"
+    ],
+    "observacoes": [
+      "A técnica de jerkbait atrai basas eficientemente, com golpes frequentes durante as pausas"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "arquivo": "6HyY-KU3ji8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T01:01:59.615475",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Bote de vinho com furo"
+    ],
+    "iscas": [
+      "Pan"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Uso de ceva de partículas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca natural"
+    ],
+    "observacoes": ""
+  }
+}

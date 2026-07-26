@@ -1,0 +1,31 @@
+{
+  "arquivo": "yCD00sgl7Iw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:07:39.624965",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Carretilha",
+      "Girador",
+      "Anzol chinu",
+      "Chumbada",
+      "Linha",
+      "Flor carbono"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de pacu"
+    ],
+    "observacoes": []
+  }
+}

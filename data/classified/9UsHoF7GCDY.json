@@ -1,0 +1,25 @@
+{
+  "arquivo": "9UsHoF7GCDY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:49:47.357419",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Tábua de Maré"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Light"
+    ],
+    "observacoes": []
+  }
+}

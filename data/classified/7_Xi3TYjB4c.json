@@ -1,0 +1,23 @@
+{
+  "arquivo": "7_Xi3TYjB4c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:25:57.351676",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Faca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Belo Horizonte",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "GcgWANSw10Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:32:22.293852",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Espinhel"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Barreirinhas",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

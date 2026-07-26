@@ -1,0 +1,51 @@
+{
+  "arquivo": "Kpy_FhPRm08",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:01:41.551186",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Fio com nó",
+      "Laços",
+      "Pau",
+      "Gaios"
+    ],
+    "iscas": [
+      "Isca",
+      "Kakuruta"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Defender",
+      "Chupar a manga",
+      "Puxa a linha",
+      "Solta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O bicho é mais escuro",
+      "Mudou a cor da água",
+      "O fio nó diferente da do leire",
+      "O bicho enganou no gaios",
+      "O fio nó que é só que eu vou ensinar",
+      "O fio nó com mais a dois laços"
+    ]
+  }
+}

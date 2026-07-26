@@ -1,0 +1,45 @@
+{
+  "arquivo": "EX5Ve7P9Wzw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:56:14.478378",
+  "classificacao": {
+    "especies": [
+      "Tocunaré",
+      "Panharizo",
+      "Piranha",
+      "Pirambeba"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Canoeiros",
+      "Boia verde",
+      "Boia vermelhona",
+      "Corda",
+      "Galão perfurado"
+    ],
+    "iscas": [
+      "Iscazinha da Marina",
+      "Ceva"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca esportiva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Inscrito no canal Fábio Alves",
+      "Varinha verga",
+      "Pescaria realizada entre 5h30 e 6h da manhã"
+    ]
+  }
+}

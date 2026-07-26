@@ -1,0 +1,32 @@
+{
+  "arquivo": "BaVc0EW3jAo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:48:40.381803",
+  "classificacao": {
+    "especies": [
+      "Curvina",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Jig",
+      "Suporte de Hook",
+      "Carretilha Venza"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jumping Jig",
+      "Pescaria de Fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Curvina"
+    ],
+    "observacoes": []
+  }
+}

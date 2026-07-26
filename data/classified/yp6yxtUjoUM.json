@@ -1,0 +1,33 @@
+{
+  "arquivo": "yp6yxtUjoUM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:22:58.541958",
+  "classificacao": {
+    "especies": [
+      "Marreto"
+    ],
+    "equipamentos": [
+      "Motor Mercury 300 HP",
+      "Bass Boat Megabass"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Bacia do Rio Paraná"
+    ],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Guia Jacofish",
+      "Curvina e picanha no almoço",
+      "Diária do guia com churrasco custa R$500 por pessoa",
+      "Gasolina e bebida a parte"
+    ]
+  }
+}

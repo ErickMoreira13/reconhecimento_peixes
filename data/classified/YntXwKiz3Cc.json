@@ -1,0 +1,29 @@
+{
+  "arquivo": "YntXwKiz3Cc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:21:02.866934",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Bico de Pato"
+    ],
+    "equipamentos": [
+      "Câmera",
+      "Vara de Pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Claro"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Rio Claro",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

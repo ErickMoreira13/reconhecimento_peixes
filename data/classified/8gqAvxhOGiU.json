@@ -1,0 +1,21 @@
+{
+  "arquivo": "8gqAvxhOGiU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:14:56.921369",
+  "classificacao": {
+    "summary": "O texto é um relato informal de uma aventura de pesca, repleto de diálogo casual, humor e descrições detalhadas da experiência. O narrador descreve a preparação do equipamento, os desafios enfrentados (como a dificuldade de navegar no escuro), a variedade de iscas usadas (como minhoca, milho e salsicha) e os momentos de tensão e alegria ao pescar espécies como tilápia, traíra e até uma piranha. O tom é animado e envolvente, com referências a colaboração entre os pescadores e a conexão com a natureza.",
+    "key_points": [
+      "Uso de diferentes iscas para atrair peixes variados",
+      "Desafios de pesca em ambientes escuros e complexos",
+      "Momentos de tensão e sucesso ao capturar peixes",
+      "Tono informal e envolvente, com linguagem coloquial",
+      "Mencões a espécies específicas de peixes e a interação entre os pescadores"
+    ],
+    "suggestions": [
+      "Considerar adicionar timestamps no vídeo para marcar os momentos mais marcantes (como a captura da piranha)",
+      "Incluir legendas em português para reforçar o tom conversacional",
+      "Destacar a importância da paciência e da adaptação durante a pesca",
+      "Explorar a relação entre os pescadores e a natureza como tema central"
+    ]
+  }
+}

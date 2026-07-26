@@ -1,0 +1,25 @@
+{
+  "arquivo": "M97drKXYNUM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:51:01.466927",
+  "classificacao": {
+    "especies": [
+      "Cachorro"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Recolhimento lento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": "Nunca peguei cachorro num rápido"
+  }
+}

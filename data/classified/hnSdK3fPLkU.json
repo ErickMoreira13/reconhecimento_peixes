@@ -1,0 +1,48 @@
+{
+  "arquivo": "hnSdK3fPLkU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:04:28.106778",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Piampara"
+    ],
+    "equipamentos": [
+      "barco",
+      "chumbada",
+      "linha",
+      "trato",
+      "tratador",
+      "vara"
+    ],
+    "iscas": [
+      "caramujo",
+      "coração",
+      "trato solto"
+    ],
+    "cevas": [
+      "milho azedo",
+      "trato solto"
+    ],
+    "horários": [
+      "10 horas da manhã"
+    ],
+    "locais": [
+      "rio Quebranzol"
+    ],
+    "rios": [
+      "rio Quebranzol"
+    ],
+    "tipos de pesca": [
+      "pesca de anzol",
+      "pesca de dourado"
+    ],
+    "tratamento da ceva": [
+      "tratador",
+      "trato solto"
+    ],
+    "vídeo": [
+      "vídeo"
+    ]
+  }
+}

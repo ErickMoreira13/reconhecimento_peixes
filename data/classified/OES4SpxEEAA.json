@@ -1,0 +1,26 @@
+{
+  "arquivo": "OES4SpxEEAA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:29:30.105366",
+  "classificacao": {
+    "especies": [
+      "GT",
+      "Barracuda"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "popper"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "there was two or three GTs there, and I think there was a Barracuda also"
+    ]
+  }
+}

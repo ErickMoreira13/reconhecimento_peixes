@@ -1,0 +1,30 @@
+{
+  "arquivo": "0qs-2tmMJTg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:29:35.891213",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Varinha",
+      "Linha",
+      "Carretilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com vara"
+    ],
+    "observacoes": [
+      "Pescaria bem-sucedida com um lambari grande, utilizando varinha e carretilha, com dificuldade na linha."
+    ]
+  }
+}

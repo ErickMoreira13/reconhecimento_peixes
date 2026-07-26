@@ -1,0 +1,30 @@
+{
+  "arquivo": "dWaPg-qm3C0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:07:42.181906",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Jig head",
+      "Peso"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jigging"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": "Técnica adequada para iniciantes ou crianças"
+  }
+}

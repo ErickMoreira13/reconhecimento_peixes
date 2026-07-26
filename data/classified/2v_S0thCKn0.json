@@ -1,0 +1,33 @@
+{
+  "arquivo": "2v_S0thCKn0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:39:23.841390",
+  "classificacao": {
+    "especies": [
+      "Jaú",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Kayak",
+      "Drone"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em corredeira"
+    ],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [
+      "Bacia do Rio Araguaia"
+    ],
+    "estado": "Goiás",
+    "municipio": "Jaupassi",
+    "tipo_pesca": [
+      "Pesca em corredeira"
+    ],
+    "observacoes": []
+  }
+}

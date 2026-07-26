@@ -1,0 +1,39 @@
+{
+  "arquivo": "StYZMfEr40E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:13:39.871709",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Mulinetto",
+      "Castorzinho"
+    ],
+    "iscas": [
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Soja Temperada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Preparação da soja com água e exposição ao sol",
+      "Uso de soja como isca para piranha e pacu",
+      "Necessidade de deixar a soja emborrachada para melhor eficácia",
+      "Mencionado o frio afetando a pesca"
+    ]
+  }
+}

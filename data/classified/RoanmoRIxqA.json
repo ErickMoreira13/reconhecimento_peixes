@@ -1,0 +1,33 @@
+{
+  "arquivo": "RoanmoRIxqA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:24:22.356367",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Lixa",
+      "Micro-ondas",
+      "Molde de silicone"
+    ],
+    "iscas": [
+      "Isca dura",
+      "Isca soft",
+      "Isca de superfície"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Parece uma mistura de Piaba com camarão"
+    ]
+  }
+}

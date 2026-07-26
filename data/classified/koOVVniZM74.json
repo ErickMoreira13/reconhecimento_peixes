@@ -1,0 +1,33 @@
+{
+  "arquivo": "koOVVniZM74",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:00:13.539517",
+  "classificacao": {
+    "especies": [
+      "Passarão",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Barra Bonita"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Barra Bonita",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": ""
+  }
+}

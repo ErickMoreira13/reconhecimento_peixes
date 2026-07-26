@@ -1,0 +1,95 @@
+{
+  "arquivo": "LBz-NmeRzOE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:01:06.810026",
+  "classificacao": {
+    "fish": {
+      "robalo": {
+        "common_name": "Robalo",
+        "scientific_name": "Centropristis striata",
+        "category": "Perciformes",
+        "sub_category": "Carangidae"
+      },
+      "gaivira": {
+        "common_name": "Gaivira",
+        "scientific_name": "Lutjanus analis",
+        "category": "Perciformes",
+        "sub_category": "Lutjanidae"
+      },
+      "perva": {
+        "common_name": "Perva",
+        "scientific_name": "Lutjanus synagris",
+        "category": "Perciformes",
+        "sub_category": "Lutjanidae"
+      }
+    },
+    "equipment": {
+      "ultralight": {
+        "common_name": "Ultralight",
+        "description": "Lightweight fishing gear for small fish"
+      },
+      "micro gig head": {
+        "common_name": "Micro Gig Head",
+        "description": "Small jig head for micro baits"
+      },
+      "bolsinha de ultralight": {
+        "common_name": "Bolsa de Ultralight",
+        "description": "Small ultralight tackle bag"
+      }
+    },
+    "baits": {
+      "micro-camarão": {
+        "common_name": "Micro Camarão",
+        "description": "Tiny shrimp imitation for small fish"
+      },
+      "camarão snook": {
+        "common_name": "Camarão Snook",
+        "description": "Shrimp imitation for snook fishing"
+      },
+      "cor número 1": {
+        "common_name": "Cor 1",
+        "description": "Specific color code for baits"
+      }
+    },
+    "cevas": {
+      "micro-camarão": {
+        "common_name": "Micro Camarão",
+        "description": "Tiny shrimp imitation for small fish"
+      },
+      "camarão snook": {
+        "common_name": "Camarão Snook",
+        "description": "Shrimp imitation for snook fishing"
+      },
+      "ceva de tanhota": {
+        "common_name": "Tanhota",
+        "description": "Local bait type for specific fishing"
+      }
+    },
+    "graos": [],
+    "techniques": {
+      "engadinha": {
+        "common_name": "Engadinha",
+        "description": "Fishing technique using lures"
+      },
+      "tateando as pedras": {
+        "common_name": "Tateio em Pedras",
+        "description": "Rock probing technique"
+      }
+    },
+    "rios": [],
+    "bacias": [],
+    "state": "",
+    "municipality": "",
+    "tipo_pesca": {
+      "ultralight": {
+        "common_name": "Ultralight",
+        "description": "Lightweight fishing method"
+      },
+      "micro gig head": {
+        "common_name": "Micro Gig Head",
+        "description": "Micro jig head technique"
+      }
+    },
+    "observations": "Normalized names and categories based on transcript. Missing data fields left empty."
+  }
+}

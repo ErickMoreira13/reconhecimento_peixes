@@ -1,0 +1,28 @@
+{
+  "arquivo": "GEopEnSv6Cw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:35:40.404487",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "vara",
+      "stick"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tapajós",
+      "Assu"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

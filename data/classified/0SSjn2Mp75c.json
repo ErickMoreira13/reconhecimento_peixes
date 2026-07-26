@@ -1,0 +1,25 @@
+{
+  "arquivo": "0SSjn2Mp75c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:31:11.899872",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boia de correr",
+      "Stopper de nylon",
+      "Chumbada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Ajuste de profundidade com boia e stopper"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

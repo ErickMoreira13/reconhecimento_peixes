@@ -1,0 +1,40 @@
+{
+  "arquivo": "1IKmIn6GIu8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:23:46.712470",
+  "classificacao": {
+    "especies": [
+      "Manduca",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Churrasqueira",
+      "Vara"
+    ],
+    "iscas": [
+      "Coração de Boi",
+      "Filé de Manduca",
+      "Lambari",
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Rio bem cheio, água bem turva",
+      "Pescaria com diversos tipos de iscas, mas resultados limitados",
+      "Uso de minhoca como isca principal",
+      "Pescaria realizada no final da tarde"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "obLENUfTRW8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:25:04.403603",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Menção ao tamanho da piranha capturada com isca artificial"
+    ]
+  }
+}

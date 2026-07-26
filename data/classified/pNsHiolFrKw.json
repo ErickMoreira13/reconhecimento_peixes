@@ -1,0 +1,38 @@
+{
+  "arquivo": "pNsHiolFrKw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:14:20.009341",
+  "classificacao": {
+    "especies": [
+      "Biquiara",
+      "Pirambu",
+      "Sargo"
+    ],
+    "equipamentos": [
+      "vara telescópica",
+      "vara Grambuzão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pescaria raiz"
+    ],
+    "rios": [
+      "Ponta Grossa",
+      "Capuí Ceará"
+    ],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "Capuí Ceará",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "água muito limpa",
+      "uso de vara telescópica",
+      "captura de peixes grandes",
+      "pescaria realizada em praia"
+    ]
+  }
+}

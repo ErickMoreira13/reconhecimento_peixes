@@ -1,0 +1,35 @@
+{
+  "arquivo": "WGrHwSNnKaA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:06:54.883310",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Motorzinho",
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Tietê"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Camarão",
+      "Pesca de Tilápia"
+    ],
+    "observacoes": []
+  }
+}

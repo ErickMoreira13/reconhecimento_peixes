@@ -1,0 +1,21 @@
+{
+  "arquivo": "DOj5FNFemYo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:31:10.566134",
+  "classificacao": {
+    "summary": "O conteúdo é uma transmissão ao vivo de alguém pescando, com linguagem informal e repetitiva. O foco está em uma técnica chamada 'enroladinha', usada para pescar peixes grandes, como curimba. O narrador descreve a dificuldade de capturar o peixe, a frustração ao vê-lo escapar e a excitação ao final. Há um forte apelo para que os espectadores se inscrevam no canal. O texto contém erros gramaticais, gírias e uma narrativa envolvente, com ênfase em técnicas de pesca e a experiência de capturar um peixe grande.",
+    "key_points": [
+      "Técnica de pesca 'enroladinha' mencionada.",
+      "Foco em capturar peixes grandes (curimba).",
+      "Descreve a frustração ao perder o peixe.",
+      "Chamada para inscrições no canal.",
+      "Linguagem informal e repetitiva."
+    ],
+    "possible_needs": [
+      "Resumo estruturado do conteúdo.",
+      "Tradução para outro idioma.",
+      "Análise de técnicas de pesca mencionadas.",
+      "Limpeza do texto para uso em outro contexto."
+    ]
+  }
+}

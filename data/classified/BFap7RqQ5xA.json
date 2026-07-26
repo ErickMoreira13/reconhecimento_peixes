@@ -1,0 +1,59 @@
+{
+  "arquivo": "BFap7RqQ5xA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:53:32.753442",
+  "classificacao": {
+    "species": {
+      "caught": [
+        "pirambuzão",
+        "sargo de beijo",
+        "carapitanga",
+        "dentão",
+        "areacó",
+        "biquarão"
+      ],
+      "not_caught": []
+    },
+    "equipment": {
+      "lines": [
+        "chicotezinho"
+      ],
+      "sinker": [
+        "chumbinho de 20 gramas"
+      ],
+      "hooks": [
+        "anzol 14"
+      ],
+      "other": [
+        "MX pesca",
+        "Nalho"
+      ]
+    },
+    "baits": {
+      "natural": [
+        "camarão",
+        "sauna na gorda do camarão"
+      ],
+      "artificial": [
+        "Nalho"
+      ]
+    },
+    "location": {
+      "area": "near a river or coastal area",
+      "specific_location": "port or porto"
+    },
+    "time": {
+      "start": "7h35",
+      "end": "9h20"
+    },
+    "weather": {
+      "conditions": [
+        "strong wind",
+        "calm later"
+      ]
+    },
+    "notes": {
+      "additional": "Discussion about cooking the caught fish."
+    }
+  }
+}

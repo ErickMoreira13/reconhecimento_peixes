@@ -1,0 +1,44 @@
+{
+  "arquivo": "WStf3pL762U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:34:30.381601",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Jacaré",
+      "Sapinho"
+    ],
+    "equipamentos": [
+      "GoPro",
+      "Linha Comprida",
+      "Risca Viva",
+      "Saco de Ráfia"
+    ],
+    "iscas": [
+      "Sapinho",
+      "Descanso"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Risca Viva",
+      "Arremessinhos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Reportagem"
+    ],
+    "observacoes": [
+      "Muita água",
+      "Peixe grande",
+      "Descanso vivo",
+      "Sapinho usado como isca",
+      "GoPro utilizada para filmagem",
+      "Enrosco mencionado como possível confusão com peixe"
+    ]
+  }
+}

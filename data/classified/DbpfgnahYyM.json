@@ -1,0 +1,33 @@
+{
+  "arquivo": "DbpfgnahYyM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:46:16.251023",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Curimba"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa de fubá, farinha de trigo, guaraná e aromatizante"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Uso de restos de guaraná e fubá para criar uma isca aromática",
+      "Massa é indicada para pesca em pesqueiros"
+    ]
+  }
+}

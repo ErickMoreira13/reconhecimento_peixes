@@ -1,0 +1,22 @@
+{
+  "arquivo": "e34kVuSd3y4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:36:16.104364",
+  "classificacao": {
+    "especies": [
+      "Babia",
+      "Bicholão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

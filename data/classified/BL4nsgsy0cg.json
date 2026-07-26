@@ -1,0 +1,27 @@
+{
+  "arquivo": "BL4nsgsy0cg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:17:58.268482",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Varinha de pesca",
+      "Sobradinho",
+      "Regue pesado"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O bicho está pulando"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "2d9QGnuQaeA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:04:55.184288",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boia cevadeira",
+      "Chumbo",
+      "Boinha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

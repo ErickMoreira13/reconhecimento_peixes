@@ -1,0 +1,35 @@
+{
+  "arquivo": "5l3H4kELETk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:17:15.772013",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Dourado",
+      "Jaú",
+      "Lambari",
+      "Pintado",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "luva",
+      "pano"
+    ],
+    "iscas": [
+      "Espathinha",
+      "Tuvira",
+      "Traíra"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "São José do Rio Preto",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

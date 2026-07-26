@@ -1,0 +1,21 @@
+{
+  "arquivo": "FpUlnx4bZh0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:41:10.776791",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca em um ambiente natural, com foco em espécies como guasquinha, jundiá e lambari. O narrador compartilha técnicas utilizadas (como 'puxando' e 'engasinho'), descreve os desafios enfrentados (como a dificuldade de capturar certos peixes) e reflete sobre a satisfação de pescar em rios. Há menções a detalhes práticos, como o uso de minhocas como isca e a importância de paciência. O conteúdo também inclui uma conversa informal, sugerindo que o texto pode ser parte de um vídeo ou diário de pesca.",
+    "key_points": [
+      "Espécies mencionadas: guasquinha, jundiá, lambari",
+      "Técnicas de pesca: puxando, engasinho",
+      "Uso de isca: minhoca",
+      "Reflexões sobre a experiência de pesca",
+      "Contexto de conversa informal"
+    ],
+    "possible_questions": [
+      "Como identificar as espécies mencionadas?",
+      "Quais são as melhores técnicas para pescar guasquinha?",
+      "Como melhorar a eficiência do 'engasinho'?",
+      "Qual a importância da paciência na pesca?"
+    ]
+  }
+}

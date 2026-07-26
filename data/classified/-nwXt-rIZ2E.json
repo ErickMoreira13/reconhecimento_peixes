@@ -1,0 +1,37 @@
+{
+  "arquivo": "-nwXt-rIZ2E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:39:41.704818",
+  "classificacao": {
+    "especies": [
+      "Curvina",
+      "Tilápia",
+      "Tucunaré",
+      "Piaba",
+      "Piau",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Sonar Fish Finder",
+      "Caiaque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com sonar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca pesada",
+      "Pesca de curvina"
+    ],
+    "observacoes": [
+      "O sonar identifica a presença de peixes, mas não informa a espécie ou o tamanho",
+      "A utilização do sonar pode levar à frustração se o peixe encontrado não for o alvo da pesca"
+    ]
+  }
+}

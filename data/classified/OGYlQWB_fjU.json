@@ -1,0 +1,25 @@
+{
+  "arquivo": "OGYlQWB_fjU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:41:17.715498",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Poço dos Piau"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

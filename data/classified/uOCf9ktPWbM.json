@@ -1,0 +1,22 @@
+{
+  "arquivo": "uOCf9ktPWbM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:22:40.337748",
+  "classificacao": {
+    "summary": "El texto describe una emocionante aventura de pesca con Don Gerardo en Tamiarauca, Arauca, Colombia, donde logran capturar grandes yamuses (un tipo de pez). El relato incluye detalles sobre la preparación del pescado para hacer un guiso, la interacción con el público a través de redes sociales, y la promesa de un video seguimiento. El tono es entusiasta, lleno de exclamaciones y referencias a la cultura local.",
+    "key_points": [
+      "Aventura de pesca exitosa con Don Gerardo",
+      "Captura de grandes yamuses",
+      "Preparación de un guiso tradicional",
+      "Llamado a suscribirse y seguir en redes sociales",
+      "Anuncio de un video seguimiento"
+    ],
+    "possible_requests": [
+      "Traducción del texto",
+      "Resumen estructurado del contenido",
+      "Análisis de la estructura del video script",
+      "Consejos para crear contenido similar",
+      "Información sobre la cultura local y el tipo de pez"
+    ]
+  }
+}

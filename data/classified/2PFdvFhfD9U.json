@@ -1,0 +1,27 @@
+{
+  "arquivo": "2PFdvFhfD9U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:36:05.958365",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapucu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de robalo"
+    ],
+    "observacoes": [
+      "Finalizando a pescaria meio cedo devido a imprevistos e o parceiro ajeitando as coisas."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "WMEGNz9WLU8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:14:56.802406",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Peso de chumbada",
+      "Girador",
+      "Líder",
+      "Mudgape",
+      "Lure Super Highglom",
+      "Carretilha de spinning"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

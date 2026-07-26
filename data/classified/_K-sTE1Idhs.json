@@ -1,0 +1,45 @@
+{
+  "arquivo": "_K-sTE1Idhs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:27:46.384126",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra",
+      "Piau",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Corda",
+      "Caminhonete"
+    ],
+    "iscas": [
+      "Piranha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Branco"
+    ],
+    "bacias": [],
+    "estado": "Acre",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O Rio Branco não é considerado um rio muito produtivo para pesca",
+      "Dificuldade em manobrar o barco devido ao baixo nível da água",
+      "Plano de deslocar a pesca para a Amazônia em breve",
+      "Mencionado uso de iscas naturais e cevas em recipientes perfurados"
+    ]
+  }
+}

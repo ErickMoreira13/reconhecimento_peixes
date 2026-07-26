@@ -1,0 +1,35 @@
+{
+  "arquivo": "kAgvmtDdh7s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:45:24.296119",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tilapia"
+    ],
+    "equipamentos": [
+      "Garrafa PET",
+      "Anzol",
+      "Linha",
+      "Varinha"
+    ],
+    "iscas": [
+      "Gongo de coco babassu"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Espinhel de Garrafa PET"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A traíra pequena deu apenas um tiro leve",
+      "Não foi possível capturar traíras de dois quilos",
+      "A isca de tilapia foi usada em pedaços"
+    ]
+  }
+}

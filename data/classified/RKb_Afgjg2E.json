@@ -1,0 +1,27 @@
+{
+  "arquivo": "RKb_Afgjg2E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:11:19.720567",
+  "classificacao": {
+    "especies": [
+      "Palometa"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Paraná"
+    ],
+    "bacias": [
+      "Paraná"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

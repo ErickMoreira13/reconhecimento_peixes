@@ -1,0 +1,28 @@
+{
+  "arquivo": "lEQxPRU1oWQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:05:00.985900",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boia Palito",
+      "Linha 0,37",
+      "Borrachinha",
+      "Anzol Chinu",
+      "Chumbada Leve"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Montagem da Boia Palito",
+      "Uso de Chumbada Leve"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

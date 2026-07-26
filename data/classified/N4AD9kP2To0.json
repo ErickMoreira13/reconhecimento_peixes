@@ -1,0 +1,43 @@
+{
+  "arquivo": "N4AD9kP2To0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:22:19.855488",
+  "classificacao": {
+    "especies": [
+      "curimba",
+      "piapara"
+    ],
+    "equipamentos": [
+      "barco",
+      "barco de pesca"
+    ],
+    "iscas": [
+      "pelota de barro",
+      "farelo de arroz",
+      "sangue",
+      "terra"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "rio Pardo",
+      "varjão"
+    ],
+    "localidades": [
+      "pousada",
+      "Piapara"
+    ],
+    "problemas": [
+      "uso irregular de redes"
+    ],
+    "recomendacoes": [
+      "evitar o uso de redes no rio Pardo",
+      "usar sangue legalizado"
+    ]
+  }
+}

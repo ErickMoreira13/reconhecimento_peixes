@@ -1,0 +1,34 @@
+{
+  "arquivo": "AQYH0aaBsZg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:07:58.105776",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Boia louca",
+      "Pau"
+    ],
+    "iscas": [
+      "Óleo de soja"
+    ],
+    "cevas": [],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca com boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com boia"
+    ],
+    "observacoes": [
+      "Cachorra tentou morder o peixe"
+    ]
+  }
+}

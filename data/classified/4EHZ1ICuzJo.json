@@ -1,0 +1,25 @@
+{
+  "arquivo": "4EHZ1ICuzJo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:35:48.962006",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Tucunaré",
+      "Bocudo"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

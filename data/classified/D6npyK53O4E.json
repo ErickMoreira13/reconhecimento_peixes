@@ -1,0 +1,29 @@
+{
+  "arquivo": "D6npyK53O4E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:41:59.249351",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Riacho Grande"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Lambari"
+    ],
+    "observacoes": []
+  }
+}

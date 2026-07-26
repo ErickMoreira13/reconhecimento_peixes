@@ -1,0 +1,22 @@
+{
+  "arquivo": "Br8YzS7jC-I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:33:54.477361",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

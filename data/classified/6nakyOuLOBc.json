@@ -1,0 +1,28 @@
+{
+  "arquivo": "6nakyOuLOBc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:38:24.848843",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque S-Cruise 400"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "condições de remada",
+      "estabilidade primária e secundária",
+      "manter o tronco centralizado",
+      "técnica de lançamento com vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca morta"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "arquivo": "BQZum5YnerE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:33:35.534632",
+  "classificacao": {
+    "species": {
+      "Piau": {
+        "variations": [
+          "piau",
+          "piauzão",
+          "piauzinho",
+          "piau sul"
+        ]
+      },
+      "Passaguá": {
+        "variations": [
+          "passaguá"
+        ]
+      },
+      "Taguara": {
+        "variations": [
+          "taguara",
+          "taguarona"
+        ]
+      },
+      "Traíra": {
+        "variations": [
+          "trairão"
+        ]
+      }
+    },
+    "equipment": {
+      "Rod": {
+        "variations": [
+          "varinha"
+        ]
+      },
+      "Weight": {
+        "variations": [
+          "chumbada"
+        ]
+      },
+      "Line": {
+        "variations": [
+          "flição"
+        ]
+      },
+      "Hook": {
+        "variations": [
+          "anzol"
+        ]
+      },
+      "Bait": {
+        "variations": [
+          "cebo",
+          "massinha"
+        ]
+      }
+    },
+    "baits": {
+      "Corn": {
+        "variations": [
+          "milho"
+        ]
+      },
+      "Earthworm": {
+        "variations": [
+          "minhoquinha"
+        ]
+      },
+      "Grain": {
+        "variations": [
+          "cevada"
+        ]
+      }
+    },
+    "grains": {
+      "Corn": {
+        "variations": [
+          "milho"
+        ]
+      },
+      "Grain": {
+        "variations": [
+          "cevada"
+        ]
+      }
+    },
+    "other_terms": {
+      "Fishing": {
+        "variations": [
+          "pescaria"
+        ]
+      },
+      "River": {
+        "variations": [
+          "rio"
+        ]
+      },
+      "Rock": {
+        "variations": [
+          "pedra"
+        ]
+      }
+    }
+  }
+}

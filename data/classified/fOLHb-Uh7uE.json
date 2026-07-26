@@ -1,0 +1,37 @@
+{
+  "arquivo": "fOLHb-Uh7uE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:40:29.291352",
+  "classificacao": {
+    "species": [
+      "lambari",
+      "traíra"
+    ],
+    "equipment": [
+      "molinete",
+      "vara",
+      "boia",
+      "zóio",
+      "bala de house"
+    ],
+    "baits": [
+      "isca",
+      "manga com sal",
+      "soja",
+      "Nutella"
+    ],
+    "locations": [
+      "rio",
+      "ponte",
+      "trilha de pescador",
+      "sítio"
+    ],
+    "food_and_drinks": [
+      "fritada de lambari",
+      "saladinha de tomate",
+      "arroz",
+      "tubaína",
+      "refrigerante"
+    ]
+  }
+}

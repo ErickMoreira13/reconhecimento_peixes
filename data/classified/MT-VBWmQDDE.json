@@ -1,0 +1,36 @@
+{
+  "arquivo": "MT-VBWmQDDE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:04:17.055045",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Bola de farelo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz",
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca de fundo",
+      "Solta na água"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": [
+      "A ceva é excelente para curimba e tilápia"
+    ]
+  }
+}

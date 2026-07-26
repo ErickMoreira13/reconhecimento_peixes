@@ -1,0 +1,30 @@
+{
+  "arquivo": "EQ97va92jhM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:12:53.002378",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara de pesca dobrável",
+      "mulinete",
+      "gatilho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca artificial"
+    ],
+    "observacoes": [
+      "A vara de pesca dobrável quebrou ao capturar um peixe maior",
+      "Não recomendar a compra dessa vara de pesca"
+    ]
+  }
+}

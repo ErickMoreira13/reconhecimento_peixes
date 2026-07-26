@@ -1,0 +1,53 @@
+{
+  "arquivo": "DiLF6mlYkJg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:56:39.946603",
+  "classificacao": {
+    "especies": [
+      {
+        "nome": "tucunaré"
+      },
+      {
+        "nome": "rebojão"
+      }
+    ],
+    "equipamentos": [
+      {
+        "nome": "hélice"
+      },
+      {
+        "nome": "pau"
+      },
+      {
+        "nome": "base"
+      },
+      {
+        "nome": "rede"
+      },
+      {
+        "nome": "cocho"
+      }
+    ],
+    "cevas": [],
+    "baits": [
+      {
+        "nome": "erva"
+      },
+      {
+        "nome": "areia"
+      },
+      {
+        "nome": "vinho"
+      },
+      {
+        "nome": "placa"
+      }
+    ],
+    "grãos": [],
+    "tecnica": [],
+    "rios": [],
+    "bacias": [],
+    "estado": [],
+    "municipio": []
+  }
+}

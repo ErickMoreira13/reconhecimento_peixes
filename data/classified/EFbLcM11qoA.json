@@ -1,0 +1,23 @@
+{
+  "arquivo": "EFbLcM11qoA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:57:33.769036",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [
+      "Bacia do Rio Araguaia"
+    ],
+    "estado": "Mato Grosso",
+    "municipio": "São Félix do Araguaia",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

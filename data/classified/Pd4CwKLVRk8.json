@@ -1,0 +1,51 @@
+{
+  "arquivo": "Pd4CwKLVRk8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:02:06.829437",
+  "classificacao": {
+    "especies": [
+      "Carpa Cabeçuda",
+      "Tilápia Branca",
+      "Tambaqui",
+      "Carpa",
+      "Caranha",
+      "Pirarucu"
+    ],
+    "equipamentos": [
+      "Estilingue",
+      "Spincast",
+      "Seta",
+      "Setador de Motorista",
+      "Setinha",
+      "Esperança Verde",
+      "Canal de Pesca Coxilingue",
+      "Pesca Classe A"
+    ],
+    "iscas": [
+      "Esperança Verde",
+      "Seta do Seldeir"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Estilingue",
+      "Pesca Coxilingue",
+      "Uso de Seta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Estilingue",
+      "Pesca Coxilingue",
+      "Uso de Seta"
+    ],
+    "observacoes": [
+      "Reciclagem de lixo para preservar o local de pesca",
+      "Menciona a presença de um pirarucu gigante, mas não o pescou",
+      "Uso de equipamentos específicos como seta e spincast",
+      "Menciona a importância de não perturbar outros pescadores"
+    ]
+  }
+}

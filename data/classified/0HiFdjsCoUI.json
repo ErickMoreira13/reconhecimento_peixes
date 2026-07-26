@@ -1,0 +1,42 @@
+{
+  "arquivo": "0HiFdjsCoUI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:22:46.293622",
+  "classificacao": {
+    "fish_species": [
+      "barbadinho",
+      "dourada de escama",
+      "barbado",
+      "boto"
+    ],
+    "cooking_ingredients": [
+      "barbadinho",
+      "arroz",
+      "sal",
+      "pimenta calabresa",
+      "marisco",
+      "corantezinho",
+      "limão",
+      "cebola",
+      "tomate",
+      "ovo",
+      "batata",
+      "farofa de ovo com banana"
+    ],
+    "locations": [
+      "Lagiado",
+      "hidrelétrica"
+    ],
+    "activities": [
+      "pescaria",
+      "acampamento",
+      "jantar",
+      "encontro com boto"
+    ],
+    "other_mentions": [
+      "farofa",
+      "molho",
+      "caldo"
+    ]
+  }
+}

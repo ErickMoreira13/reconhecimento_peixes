@@ -1,0 +1,23 @@
+{
+  "arquivo": "I6WKUyBAo-M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:24:49.199743",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Jaú"
+    ],
+    "equipamentos": [
+      "vara de barranco",
+      "chumbada"
+    ],
+    "isca": [
+      "anzol de gado"
+    ],
+    "localizacao": "Corguinho",
+    "estado": "Mato Grosso do Sul",
+    "tecnicas": [],
+    "isca_artificial": [],
+    "isca_natural": []
+  }
+}

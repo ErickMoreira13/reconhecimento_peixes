@@ -1,0 +1,30 @@
+{
+  "arquivo": "GYRbC0m3srk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:35:57.695960",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Kit de pesca",
+      "Vara de pesca",
+      "Câmera",
+      "Régua de medição",
+      "Fotos"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Furnas"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

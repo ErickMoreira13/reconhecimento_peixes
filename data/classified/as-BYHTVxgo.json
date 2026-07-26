@@ -1,0 +1,22 @@
+{
+  "arquivo": "as-BYHTVxgo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:09:20.693951",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boinha",
+      "Boia Palito"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "arquivo": "nLGMmNwMxy4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:17:05.407882",
+  "classificacao": {
+    "species": [
+      "cavalo"
+    ],
+    "equipment": [
+      "caiaque",
+      "remo",
+      "régua",
+      "camera",
+      "lente"
+    ],
+    "iscas": [
+      "isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

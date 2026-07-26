@@ -1,0 +1,27 @@
+{
+  "arquivo": "-LAB1INWZmQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:37:37.883182",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio do Sul"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "o dourado é grande e forte"
+    ]
+  }
+}

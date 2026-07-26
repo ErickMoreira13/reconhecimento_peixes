@@ -1,0 +1,62 @@
+{
+  "arquivo": "IrDA-l0wTNs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:27:22.682566",
+  "classificacao": {
+    "species": [
+      "Tambaqui",
+      "Pirarucu",
+      "Curimã",
+      "Curimão",
+      "Espilata"
+    ],
+    "equipment": [
+      "saco",
+      "corda",
+      "tarrafa",
+      "ramada",
+      "cordão de mate",
+      "pintador de água",
+      "moe",
+      "bolo"
+    ],
+    "baits": [
+      "espilata",
+      "camarão",
+      "peixe",
+      "mate",
+      "bolo"
+    ],
+    "cevas": [
+      "tarrafa",
+      "cordão de mate",
+      "ramada",
+      "pintador de água",
+      "moe",
+      "bolo"
+    ],
+    "grains": [],
+    "techniques": [
+      "arrastando dentro d'água",
+      "joga a tarrafa",
+      "atira assim que ela cai lá",
+      "pesca de pirarucu",
+      "pesca de curimã"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "type_of_fishing": [
+      "pesca de pirarucu",
+      "pesca de curimã"
+    ],
+    "observations": [
+      "Muitos pescadores usam técnicas de arrasto e lançamento de tarrafa.",
+      "Espécies como tambaqui e pirarucu são comuns na região.",
+      "O uso de cevas como tarrafa e cordão de mate é frequente.",
+      "O ambiente de pesca inclui tanques e piscinas artificiais.",
+      "O processo de pesca envolve a captura de curimã e curimão."
+    ]
+  }
+}

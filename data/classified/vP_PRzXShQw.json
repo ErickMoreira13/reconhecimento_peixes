@@ -1,0 +1,34 @@
+{
+  "arquivo": "vP_PRzXShQw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:22:36.276379",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Panela",
+      "Óleo",
+      "Cebola",
+      "Pimentão",
+      "Tomate",
+      "Pimentinhas de cheiro",
+      "Molho de tomate",
+      "Água",
+      "Açafrão",
+      "Cheiro verde",
+      "Limão",
+      "Faca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "QHpRynslZ2I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:36:35.962312",
+  "classificacao": {
+    "especies": [
+      "Corvina",
+      "Tubarão",
+      "Vesúvio",
+      "Salmão",
+      "Cação"
+    ],
+    "equipamentos": [
+      "Embarcação"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Embarcado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Embarcado"
+    ],
+    "observacoes": [
+      "A pesca de embarcado está muito boa",
+      "O cardumen grande não chegou tanto como nos anos anteriores",
+      "Exemplares de corvinas grandes e cazões foram capturados",
+      "Tubarões de grande porte são devolvidos ao mar"
+    ]
+  }
+}

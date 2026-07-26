@@ -1,0 +1,21 @@
+{
+  "arquivo": "lynkL6S0Sbw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:23:04.884275",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Popper"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "KGsZPpRzxWk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:39:47.455317",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Vara de pescar",
+      "Camisa de proteção solar",
+      "Chapéu"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Trindade",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Liberação de uma tonelada de peixes no lago",
+      "Pescaria realizada no Parque Lara Guimarães",
+      "Participação de mais de 2.500 pessoas no feriado",
+      "Pescadores utilizando vara de pescar e equipamentos de proteção",
+      "Expectativa de captura de peixes com o aquecimento da água"
+    ]
+  }
+}

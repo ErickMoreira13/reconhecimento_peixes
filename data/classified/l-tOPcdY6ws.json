@@ -1,0 +1,27 @@
+{
+  "arquivo": "l-tOPcdY6ws",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:40:37.433638",
+  "classificacao": {
+    "especies": [
+      "abelha jataí"
+    ],
+    "equipamentos": [
+      "liquidificador",
+      "funil",
+      "garrafinha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

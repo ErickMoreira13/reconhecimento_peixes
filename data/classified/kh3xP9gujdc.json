@@ -1,0 +1,16 @@
+{
+  "arquivo": "kh3xP9gujdc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:40:34.404493",
+  "classificacao": {
+    "summary": "O vídeo apresenta uma receita de isca para pesca usando fígado de boi, com destaque para o uso de fubá (milho moído) e farinha de trigo para criar uma 'nuvem' que atrai os peixes. O processo envolve misturar o fígado com fubá, adicionar farinha de trigo para preservação, formar bolinhas e armazenar em um saco plástico sem ar. O criador menciona um 'segredo' (ingrediente não especificado) que aumenta a eficácia da isca. O vídeo também pede aos espectadores que comentem sobre onde estão localizados e os resultados obtidos com a isca.",
+    "steps": [
+      "Misturar fígado de boi com fubá (milho moído).",
+      "Adicionar farinha de trigo para preservação e consistência.",
+      "Formar bolinhas com a mistura.",
+      "Armazenar em um saco plástico hermético, sem ar, para manter a frescor."
+    ],
+    "secret_ingredient": "O 'segredo' não é explicitado no vídeo, mas é descrito como um ingrediente que potencializa a atração dos peixes para a isca.",
+    "call_to_action": "O criador pede aos espectadores que compartilhem onde estão localizados e os resultados obtidos ao usar a isca."
+  }
+}

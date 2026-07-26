@@ -1,0 +1,27 @@
+{
+  "arquivo": "cqG3g8ssp84",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:51:23.724420",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Cesta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca improvisada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca improvisada"
+    ],
+    "observacoes": [
+      "Atração rápida de peixes"
+    ]
+  }
+}

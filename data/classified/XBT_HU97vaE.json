@@ -1,0 +1,19 @@
+{
+  "arquivo": "XBT_HU97vaE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:44:39.662400",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de uma conversa entre Gilmar e Titão durante uma atividade de pesca. Eles discutem técnicas de pesca, como o uso de iscas (como 'fígado', 'lapa'), equipamentos (como 'gancho', 'linha'), e descrevem a ação de pescar, incluindo a excitação ao capturar peixes ('piau', 'mandizão'). Termos como 'cheque ouro' e 'pescando no fundo' são mencionados, sugerindo jargões específicos da pesca. A conversa é marcada por repetições e exclamações, indicando entusiasmo e envolvimento com a atividade.",
+    "key_terms": {
+      "fígado": "possivelmente uma isca ou parte de um animal usado como alimento para peixes",
+      "lapa": "molusco marinho, usado como isca",
+      "piau": "tipo de peixe",
+      "mandizão": "peixe grande",
+      "cheque ouro": "termo desconhecido, pode ser um apelido ou referência a uma técnica específica",
+      "gancho": "equipamento de pesca",
+      "linha": "equipamento de pesca",
+      "fundo": "local de pesca em áreas profundas"
+    },
+    "request": "Se você deseja uma tradução, análise detalhada ou explicações sobre termos específicos, por favor, me informe!"
+  }
+}

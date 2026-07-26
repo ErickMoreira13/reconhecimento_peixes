@@ -1,0 +1,38 @@
+{
+  "arquivo": "wqZb3qRSDUI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:22:37.329096",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Tuvira",
+      "Bananinha",
+      "Barcão"
+    ],
+    "iscas": [
+      "Isca viva",
+      "Articial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Bater isca",
+      "Rodar com isca viva"
+    ],
+    "rios": [
+      "Rio de Iema",
+      "Guiraí",
+      "Ivinhema"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Itacoaro Sul",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca com isca viva"
+    ],
+    "observacoes": []
+  }
+}

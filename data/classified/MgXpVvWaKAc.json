@@ -1,0 +1,28 @@
+{
+  "arquivo": "MgXpVvWaKAc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:04:45.558302",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "anzol",
+      "cabo de aço"
+    ],
+    "iscas": [
+      "isca da classe"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

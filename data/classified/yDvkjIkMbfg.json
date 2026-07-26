@@ -1,0 +1,30 @@
+{
+  "arquivo": "yDvkjIkMbfg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:09:09.441315",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Vara de Bambu"
+    ],
+    "iscas": [
+      "Calabrezinha Defumada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Anzol"
+    ],
+    "observacoes": [
+      "Uso de calabrezinha defumada preparada para atrair piaus",
+      "Técnica de uso em anzolzinho"
+    ]
+  }
+}

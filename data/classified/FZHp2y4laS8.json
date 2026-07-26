@@ -1,0 +1,44 @@
+{
+  "arquivo": "FZHp2y4laS8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:11:35.607897",
+  "classificacao": {
+    "species": [
+      "peixinhos",
+      "camarãozinho",
+      "cocoroca",
+      "Maria da Toca",
+      "cocoroquinha"
+    ],
+    "equipment": [
+      "cordinha",
+      "artificial",
+      "linha",
+      "isca",
+      "capa",
+      "bruxo na capa"
+    ],
+    "baits": [
+      "artificial",
+      "isca",
+      "bruxo na capa"
+    ],
+    "locations": [
+      "Lagoa de Itaipu",
+      "canal de Itaipu",
+      "Amarela"
+    ],
+    "techniques": [
+      "uso de iscas artificiais",
+      "arrear (lançar)",
+      "esperar na vinhada",
+      "fazer a técnica de 'ficar fazendo assim'"
+    ],
+    "other_terms": [
+      "vinhada",
+      "cordinha",
+      "capa",
+      "bruxo na capa"
+    ]
+  }
+}

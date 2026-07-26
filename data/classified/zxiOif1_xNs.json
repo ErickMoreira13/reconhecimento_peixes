@@ -1,0 +1,31 @@
+{
+  "arquivo": "zxiOif1_xNs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:02:02.292281",
+  "classificacao": {
+    "summary": {
+      "location": "Porto Rico",
+      "fishing_methods": [
+        "Uso de iscas artificiais (ex.: mandioca, milho da ceva)",
+        "Técnicas de pesca com vara e carretilha",
+        "Aproveitamento de recursos naturais locais (ex.: plantas e grãos)"
+      ],
+      "target_fish": [
+        "Piau",
+        "Piracara",
+        "Outras espécies nativas da região"
+      ],
+      "community_involvement": {
+        "collaboration": "Menciona Paulinho do Grupo Aqui Pesca",
+        "audience_engagement": "Conversa direta com espectadores sobre técnicas e experiências"
+      },
+      "context": "Vídeo que combina ensino prático de pesca, promoção de localidades turísticas e interação com a comunidade pesqueira."
+    },
+    "key_points": [
+      "Destaque para a simplicidade e eficácia das iscas artificiais",
+      "Importância da conexão com a natureza e o conhecimento local",
+      "Incentivo à pesca sustentável e à valorização do ecossistema aquático",
+      "Menciona a colaboração com influenciadores locais (ex.: Grupo Aqui Pesca)"
+    ]
+  }
+}

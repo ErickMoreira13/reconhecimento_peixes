@@ -1,0 +1,16 @@
+{
+  "arquivo": "PbgsE-fBhno",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:59:42.320956",
+  "classificacao": {
+    "summary": "O texto é um script de vídeo ou transmissão ao vivo de pesca, com o narrador descrevendo a captura de vários peixes (como piracanjuba, dourado e tambaqui) e o processo de soltura de alguns deles. O conteúdo inclui detalhes sobre equipamentos (ex.: vara Raphshot, linha 0.25, carretilha Joker), técnicas de pesca e a emoção do momento de capturar e soltar os peixes. O narrador também menciona a importância de soltar peixes para preservar a espécie e o ecossistema.",
+    "fish_release_tips": "Para soltar um peixe corretamente após a captura, siga estas etapas: 1) **Minimize o estresse**: Evite manusear o peixe por muito tempo e mantenha-o fora da água apenas o necessário. 2) **Lave as mãos**: Remova resíduos de lubrificantes ou produtos químicos das mãos antes de tocar o peixe. 3) **Solte com cuidado**: Coloque o peixe de volta à água com suavidade, preferencialmente em uma área com correnteza para ajudar na recuperação. 4) **Evite danos**: Não force a abertura da boca ou remova anzóis de forma brusca. 5) **Use equipamentos adequados**: Varas e carretilhas que permitem soltar o peixe rapidamente (como a técnica de 'soltura seca' ou 'soltura com a vara').",
+    "equipment_mentioned": [
+      "Vara Raphshot",
+      "Linha 0.25",
+      "Carretilha Joker",
+      "Anzol de 20/0",
+      "Lure (isca artificial)"
+    ]
+  }
+}

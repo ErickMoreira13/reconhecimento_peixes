@@ -1,0 +1,29 @@
+{
+  "arquivo": "luqsM__h79w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:58:01.488707",
+  "classificacao": {
+    "species": [
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "linha",
+      "anzol",
+      "chumbada",
+      "borrachinha",
+      "murinete"
+    ],
+    "iscas": [
+      "Soja"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [
+      "nó de pesca",
+      "uso do stop",
+      "preparação do anzol com soja"
+    ]
+  }
+}

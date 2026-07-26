@@ -1,0 +1,46 @@
+{
+  "arquivo": "XRmFVjFZ7OE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:19:48.737571",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tucunaré",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Armadilha",
+      "Castorzinho"
+    ],
+    "iscas": [
+      "Isca Viva",
+      "Carne",
+      "Castorzinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca à Noite",
+      "Pesca com Isca Viva",
+      "Esquema sem Chumbado"
+    ],
+    "rios": [
+      "Poço do Gaúcho",
+      "Poço do Bebedouro do Gado",
+      "Poço do Bebedouro"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca à Noite",
+      "Pesca com Isca Viva"
+    ],
+    "observações": [
+      "Abundância de peixe",
+      "Cenário lindo",
+      "Experiência abençoada"
+    ]
+  }
+}

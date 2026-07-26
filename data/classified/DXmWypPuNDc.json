@@ -1,0 +1,31 @@
+{
+  "arquivo": "DXmWypPuNDc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:06:10.352001",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Passaguá"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Tilápia"
+    ],
+    "observacoes": []
+  }
+}

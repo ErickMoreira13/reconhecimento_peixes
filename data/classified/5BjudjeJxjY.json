@@ -1,0 +1,40 @@
+{
+  "arquivo": "5BjudjeJxjY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:12:34.748070",
+  "classificacao": {
+    "especies": [
+      "Paratigata",
+      "Peixe Galo"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Chicote",
+      "Chumbada",
+      "Escada"
+    ],
+    "iscas": [
+      "Isquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Batida Leve",
+      "Uso de Peso",
+      "Ajuste do Isco",
+      "Escada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Praia"
+    ],
+    "observacoes": [
+      "Pescaria produtiva com muitos peixes pequenos",
+      "Vídeo mostra dicas para iniciantes em torneios de pesca de praia",
+      "Cobertura de torneios em Santa Catarina, Paraná e Rio Grande do Sul em janeiro"
+    ]
+  }
+}

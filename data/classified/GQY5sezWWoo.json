@@ -1,0 +1,33 @@
+{
+  "arquivo": "GQY5sezWWoo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:14:02.055701",
+  "classificacao": {
+    "summary": {
+      "context": "O texto é um relato de uma pessoa que está pescando no rio 'quebranzol', usando técnicas específicas e compartilhando experiências pessoais. O narrador menciona sua formação como biólogo, o que influencia sua abordagem para a pesca, e destaca a importância de preservar os ecossistemas aquáticos.",
+      "key_points": {
+        "location": "Rio 'quebranzol'",
+        "fish_species": [
+          "mandio",
+          "pial",
+          "tabarana",
+          "jaú",
+          "surubinho"
+        ],
+        "fishing_techniques": [
+          "uso de carretilhas",
+          "métodos de pesca com iscas artificiais"
+        ],
+        "personal_background": "Formação em biologia, influenciando a prática de pesca e a preservação dos recursos naturais.",
+        "conservation": "Menciona a liberação de peixes capturados, demonstrando respeito pelo meio ambiente.",
+        "platforms": "Conteúdo relacionado a YouTube e Instagram, sugerindo que o texto é parte de um vídeo ou postagem de redes sociais."
+      },
+      "tone": "Informal, com uso de gírias e termos técnicos de pesca, misturando experiência pessoal com conhecimento científico."
+    },
+    "analysis": {
+      "target_audience": "Amantes de pesca, especialmente aqueles interessados em técnicas de pesca sustentável e conservação de ecossistemas aquáticos.",
+      "unique_angle": "A combinação de formação científica (biologia) com prática de pesca, destacando a importância de equilibrar atividades recreativas com preservação ambiental.",
+      "potential_improvements": "Incluir mais detalhes sobre a localização exata do rio 'quebranzol' e exemplos específicos de como a biologia influencia as escolhas de equipamento ou técnicas de pesca."
+    }
+  }
+}

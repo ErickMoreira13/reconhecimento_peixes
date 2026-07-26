@@ -1,0 +1,16 @@
+{
+  "arquivo": "j1zVLY6-QKo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:37:49.733077",
+  "classificacao": {
+    "resumo_video": "O vídeo mostra a captura de um peixe elétrico (purauquê) no rio Amazonas, com o narrador e seu amigo Yano discutindo a técnica de pesca, os desafios de lidar com o peixe (que dá choques elétricos) e a preparação do peixe para consumo. Eles descrevem o processo de limpeza, a remoção de vísceras e a intenção de preparar uma receita tradicional com o peixe.",
+    "informacoes_chave": {
+      "especie_peixe": "Purauquê (peixe elétrico, provavelmente da família Gymnotidae, como o bagre elétrico ou o surubim elétrico)",
+      "desafios_captura": "O peixe é difícil de capturar devido à sua natureza elétrica e à habilidade de 'roubar' iscas, além de causar choques ao ser manipulado.",
+      "preparacao": "Remoção de vísceras, atenção ao fígado e gordura, e intenção de cozinhar o peixe de forma tradicional.",
+      "seguranca": "Cuidado ao manipular o peixe para evitar choques elétricos, especialmente ao tocar em partes como a cabeça ou a cauda."
+    },
+    "contexto_cultural": "O vídeo reflete práticas de pesca e culinária tradicionais em comunidades ribeirinhas da Amazônia, onde o consumo de peixes locais é comum e parte da cultura alimentar.",
+    "curiosidades": "O peixe elétrico é conhecido por gerar corrente elétrica para defesa e caça, e sua captura é uma experiência única e perigosa, exigindo conhecimento e respeito por parte dos pescadores."
+  }
+}

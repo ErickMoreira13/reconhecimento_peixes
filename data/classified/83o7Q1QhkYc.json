@@ -1,0 +1,46 @@
+{
+  "arquivo": "83o7Q1QhkYc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:08:38.558690",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Curimba",
+      "Iapara"
+    ],
+    "equipamentos": [
+      "Bitelo",
+      "Saco de Cebola",
+      "Linha 60"
+    ],
+    "iscas": [
+      "Farelo de Milho",
+      "Fígado",
+      "Ração de Coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Vestir",
+      "Saco de Cebola"
+    ],
+    "rios": [
+      "Rio Corrente"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca com Cevas",
+    "observacoes": [
+      "Vai acompanhando aí, pessoal",
+      "Deixando seu like",
+      "Se inscrevendo"
+    ]
+  }
+}

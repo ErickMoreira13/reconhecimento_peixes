@@ -1,0 +1,27 @@
+{
+  "arquivo": "z-0gGu6RD5Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:56:17.068279",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Banana",
+      "Açúcar",
+      "Farinha de Trigo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

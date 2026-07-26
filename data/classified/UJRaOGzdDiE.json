@@ -1,0 +1,34 @@
+{
+  "arquivo": "UJRaOGzdDiE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:47:08.244747",
+  "classificacao": {
+    "especies": [
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Rede de pesca",
+      "Rengai"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Soltura do material",
+      "Recolhida do material"
+    ],
+    "rios": [
+      "Rio Jaguaribe",
+      "Rio do Encontro"
+    ],
+    "bacias": [
+      "Bacia do Rio Jaguaribe"
+    ],
+    "estado": "Ceará",
+    "municipio": "Fortinho",
+    "tipo_pesca": [
+      "Pesca da tainha"
+    ],
+    "observacoes": []
+  }
+}

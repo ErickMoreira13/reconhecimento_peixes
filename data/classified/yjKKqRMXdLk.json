@@ -1,0 +1,40 @@
+{
+  "arquivo": "yjKKqRMXdLk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:16:11.914564",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Servinha",
+      "Balde"
+    ],
+    "iscas": [
+      "Milho",
+      "Ração de Coelho",
+      "Quiere"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio",
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ]
+  }
+}

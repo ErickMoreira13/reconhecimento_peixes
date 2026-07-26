@@ -1,0 +1,50 @@
+{
+  "arquivo": "xHvGOgJMK4E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:01:23.928733",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piau",
+      "Traíra",
+      "Cará Ferreira",
+      "Piranha",
+      "Bagre africano"
+    ],
+    "equipamentos": [
+      "Espetos",
+      "Saco de ráfia",
+      "PET furada",
+      "Galão perfurado",
+      "Cocho perfurado"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Cará Ferreira",
+      "Bitela",
+      "Piabinha"
+    ],
+    "cevas": [
+      "Ceva Natural (Minhoca, Cará Ferreira, Bitela, Piabinha)",
+      "Ceva de Partículas (PET furada, Galão perfurado, Cocho perfurado)"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca viva",
+      "Pesca com ceva",
+      "Pesca com ceva de partículas"
+    ],
+    "rios": [
+      "Córrego"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca com isca viva",
+      "Pesca com ceva",
+      "Pesca com ceva de partículas"
+    ]
+  }
+}

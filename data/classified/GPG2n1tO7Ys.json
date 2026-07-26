@@ -1,0 +1,38 @@
+{
+  "arquivo": "GPG2n1tO7Ys",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:12:44.087839",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Cevador",
+      "Panelinha",
+      "Fogão"
+    ],
+    "iscas": [
+      "Massinha",
+      "Bolinhas"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Trigo",
+      "Fubá"
+    ],
+    "tecnicas": [
+      "Massinha",
+      "Bolinhas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

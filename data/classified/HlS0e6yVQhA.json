@@ -1,0 +1,45 @@
+{
+  "arquivo": "HlS0e6yVQhA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:52:03.904311",
+  "classificacao": {
+    "especies": [
+      "Apapá"
+    ],
+    "equipamentos": [
+      "barcos"
+    ],
+    "iscas": [
+      "isca",
+      "isca artificial"
+    ],
+    "localização": [
+      "Rio Guaporé",
+      "fronteira Brasil-Bolívia"
+    ],
+    "parque": [
+      "Parque Noel Quinto"
+    ],
+    "aves": [
+      "621 espécies"
+    ],
+    "plantas": [
+      "4.000 espécies"
+    ],
+    "répteis": [
+      "74 espécies"
+    ],
+    "mamíferos": [
+      "319 espécies"
+    ],
+    "borboletas": [
+      "borboletas"
+    ],
+    "vitória régia": [
+      "Vitória Régia"
+    ],
+    "jibóia": [
+      "jibóia"
+    ]
+  }
+}

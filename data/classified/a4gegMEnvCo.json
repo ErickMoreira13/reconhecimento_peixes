@@ -1,0 +1,29 @@
+{
+  "arquivo": "a4gegMEnvCo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:06:32.113439",
+  "classificacao": {
+    "rio": "Rio Machado",
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "pesca esportiva",
+    "especies": [
+      "barba chata",
+      "pirarara"
+    ],
+    "cevas": [
+      "Ceva Artificial"
+    ],
+    "equipamentos": [
+      "jet ski",
+      "motor de popa 20 cavalos",
+      "rampa de embarque"
+    ],
+    "graos": [],
+    "tecnica": [
+      "pesca com isca artificial"
+    ],
+    "observacoes": "O rio está cheio, utilizamos iscas artificiais e a pesca foi boa com condições climáticas favoráveis."
+  }
+}

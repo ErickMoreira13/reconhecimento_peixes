@@ -1,0 +1,39 @@
+{
+  "arquivo": "q_WouuD7Too",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:35:51.533510",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Armadilha",
+      "Garrafa PET",
+      "Linha"
+    ],
+    "iscas": [
+      "Ração",
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Armadilha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Armadilha"
+    ],
+    "observacoes": [
+      "Teste de eficácia da armadilha com ração e milho"
+    ]
+  }
+}

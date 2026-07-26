@@ -1,0 +1,21 @@
+{
+  "arquivo": "1hkwNbjhFlk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:22:46.745030",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol de galha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

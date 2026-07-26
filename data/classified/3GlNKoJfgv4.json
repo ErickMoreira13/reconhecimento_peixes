@@ -1,0 +1,28 @@
+{
+  "arquivo": "3GlNKoJfgv4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:58:06.938939",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "canoa",
+      "vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com a mão"
+    ],
+    "rios": [
+      "Tapirapé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

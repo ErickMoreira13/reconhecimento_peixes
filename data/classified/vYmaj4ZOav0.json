@@ -1,0 +1,34 @@
+{
+  "arquivo": "vYmaj4ZOav0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:30:15.301012",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Cabeçudo",
+      "Caiquinha",
+      "Cirídeo",
+      "Siri",
+      "Urea seca",
+      "Uriacica"
+    ],
+    "equipamentos": [
+      "canoa",
+      "redinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com rede"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com rede"
+    ],
+    "observacoes": []
+  }
+}

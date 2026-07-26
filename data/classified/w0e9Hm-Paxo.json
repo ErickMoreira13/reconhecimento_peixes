@@ -1,0 +1,34 @@
+{
+  "arquivo": "w0e9Hm-Paxo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T12:54:06.427853",
+  "classificacao": {
+    "especies": [
+      "Pampo",
+      "Caralhozão",
+      "Raia"
+    ],
+    "equipamentos": [
+      "vara de long cast",
+      "porta-vara",
+      "cano",
+      "vara"
+    ],
+    "iscas": [
+      "camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso"
+    ],
+    "rios": [
+      "Maramá"
+    ],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "Luiz Corrêa",
+    "tipo_pesca": "pesca costeira",
+    "observacoes": "Pescaria foi bem-sucedida com captura de pampo, caralhozão e raia na praia de Luiz Corrêa, utilizando camarão como isca e técnica de arremesso."
+  }
+}

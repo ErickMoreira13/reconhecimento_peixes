@@ -1,0 +1,44 @@
+{
+  "arquivo": "gKZ6NQHmTDo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:55:53.684286",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Bagre",
+      "Pacu",
+      "Matrinchã",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Vara de bambu",
+      "Molinete",
+      "Vara",
+      "Linha fina"
+    ],
+    "iscas": [
+      "Carne da cabeça"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescar com vara de bambu",
+      "Uso de molinete",
+      "Pescar em corredeiras"
+    ],
+    "rios": [
+      "Iriponã"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em corredeiras"
+    ],
+    "observacoes": [
+      "Não foi possível filmar a fisgada",
+      "Choveu bastante",
+      "A linha é fina para pescar pacu"
+    ]
+  }
+}

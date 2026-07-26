@@ -1,0 +1,28 @@
+{
+  "arquivo": "Hf3KbRIgtkk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:22:12.739449",
+  "classificacao": {
+    "resumo": "O texto descreve uma experiência de pesca de traíra em um rio, com detalhes sobre os métodos utilizados (como iscas de minhoca e lambari), os desafios enfrentados (água rasa, árvore caída) e a interação com a natureza (como a presença de um jacaré). O narrador compartilha observações sobre a localização dos pontos de pesca, a dificuldade de capturar a traíra e a importância de adaptar a técnica conforme as condições do ambiente.",
+    "pontos_chave": {
+      "métodos_de_pesca": [
+        "uso de minhoca e lambari como iscas",
+        "pesca em diferentes pontos do rio"
+      ],
+      "desafios": [
+        "água muito rasa",
+        "obstáculos naturais (árvore caída)"
+      ],
+      "interação_com_a_natureza": [
+        "presença de jacaré",
+        "observação do comportamento da traíra"
+      ],
+      "equipamento": [
+        "cana de pesca",
+        "carretilha",
+        "fio e anzol"
+      ]
+    },
+    "análise": "O texto reflete a experiência prática de um pescador, destacando a importância da paciência, adaptação às condições do ambiente e conhecimento dos hábitos dos peixes. A menção ao jacaré sugere a necessidade de cuidado com a segurança durante a pesca, enquanto a descrição dos pontos de pesca indica familiaridade com o local."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "arquivo": "asqODSXVg3c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:10:32.556087",
+  "classificacao": {
+    "steps": [
+      {
+        "step": "1. Prepare the fishing line and attach it to the rod. Ensure the line is properly secured and free of tangles.",
+        "details": "Use a strong, thin fishing line suitable for the target species (e.g., tilapia)."
+      },
+      {
+        "step": "2. Attach a small lead weight (chumbo de arroz) to the line.",
+        "details": "The rice-weight is ideal for keeping the float stable and allowing the bait to sink slowly. It should be light enough to avoid sinking the float completely."
+      },
+      {
+        "step": "3. Adjust the float (boia) so that only a small portion is above water.",
+        "details": "Submerge most of the float to ensure sensitivity to bites. The small part above water helps detect subtle movements."
+      },
+      {
+        "step": "4. Set up the 'chicote' (a type of fishing rig) with the bait.",
+        "details": "The chicote is typically a simple rig with a hook and bait. Ensure the bait is securely attached and positioned below the float."
+      },
+      {
+        "step": "5. Use the 'sistema coxadinho' to secure the weight and float.",
+        "details": "This system involves tying the weight and float together in a way that prevents the weight from sliding down the line, keeping the setup stable in the water."
+      },
+      {
+        "step": "6. Cast the line into the water and monitor the float.",
+        "details": "Watch for any movement or changes in the float's position, which indicate a fish is biting. Adjust the setup as needed for optimal performance."
+      }
+    ],
+    "terms": {
+      "chumbo de arroz": "A small lead weight used in fishing to keep the float stable.",
+      "sistema coxadinho": "A rigging technique that secures the weight and float to prevent movement.",
+      "chicote": "A simple fishing rig consisting of a hook and bait, often used with floats."
+    },
+    "benefits": {
+      "productivity": "The float system is more effective for catching fish like tilapia due to its sensitivity and stability.",
+      "sensitivity": "The submerged float design allows for better detection of subtle bites.",
+      "stability": "The 'sistema coxadinho' ensures the weight and float remain in place, reducing tangles and improving casting accuracy."
+    },
+    "tips": {
+      "adjust_float": "Ensure only a small part of the float is above water for optimal sensitivity.",
+      "weight_selection": "Use a light weight to avoid sinking the float completely.",
+      "bait_position": "Position the bait below the float to attract fish effectively."
+    }
+  }
+}

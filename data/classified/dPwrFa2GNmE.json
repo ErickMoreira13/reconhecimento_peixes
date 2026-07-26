@@ -1,0 +1,29 @@
+{
+  "arquivo": "dPwrFa2GNmE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:32:24.026139",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em água barrenta"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água barrenta"
+    ],
+    "observacoes": [
+      "Se a isca sumir, não é possível pirar as costas"
+    ]
+  }
+}

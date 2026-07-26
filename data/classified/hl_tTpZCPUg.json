@@ -1,0 +1,17 @@
+{
+  "arquivo": "hl_tTpZCPUg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:50:53.403492",
+  "classificacao": {
+    "especie": "Curimba, Piau",
+    "localizacao": "Rio Dourados - Poço do Bambu, Carapó, Rancho dos Ipês",
+    "equipamento": "varinhas de mão, telescópica, bambu, mulinete",
+    "ceva": {
+      "ceva_natural": "fígado de boi",
+      "ceva_massa": "massa louca",
+      "ceva_artificial": "",
+      "ceva_outros": ""
+    },
+    "tecnica": "chicotinho com dois anzóis e molinha"
+  }
+}

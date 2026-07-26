@@ -1,0 +1,36 @@
+{
+  "arquivo": "UDPjU6L12x0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:21:02.366879",
+  "classificacao": {
+    "especies": [
+      "Jacundá",
+      "Mato grosso",
+      "Piranha",
+      "Piaba",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Aquário",
+      "Bombinha",
+      "Peneirão"
+    ],
+    "iscas": [
+      "Ração"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Peneirão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixes bonitos",
+      "Atividade com crianças"
+    ]
+  }
+}

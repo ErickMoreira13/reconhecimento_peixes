@@ -1,0 +1,36 @@
+{
+  "arquivo": "MYrAwSmEqao",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:18:42.111625",
+  "classificacao": {
+    "especies": [
+      "Mandioca",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Ceva",
+      "Fio"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Curvinha",
+      "Pesca na Arena"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Curvinha",
+      "Pesca na Arena"
+    ],
+    "observacoes": [
+      "O bicho tá vivo",
+      "Respeita o dia ação",
+      "Deixa o peixe na água de volta"
+    ]
+  }
+}

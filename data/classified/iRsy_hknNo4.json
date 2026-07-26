@@ -1,0 +1,43 @@
+{
+  "arquivo": "iRsy_hknNo4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:27:56.443079",
+  "classificacao": {
+    "especies": [
+      "Tubarão",
+      "Pescada",
+      "Coica"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Vara",
+      "Chumbada",
+      "Anzóis",
+      "Armadilhas",
+      "Galão Perfurado",
+      "Pedras"
+    ],
+    "iscas": [
+      "Massa",
+      "Farofa",
+      "Caldinha"
+    ],
+    "cevas": [
+      "Galão Perfurado"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Armadilhas",
+      "Pesca com Vara",
+      "Pesca com Ceva"
+    ],
+    "observacoes": []
+  }
+}

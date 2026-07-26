@@ -1,0 +1,53 @@
+{
+  "arquivo": "ndpV4KBDcCM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:41:37.987614",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Piau",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "vara",
+      "cabo",
+      "fixador",
+      "passador",
+      "munete",
+      "linha",
+      "líder",
+      "girador",
+      "rolamento",
+      "chumbada",
+      "sistema rodinha",
+      "azolzinho",
+      "minhoquinha"
+    ],
+    "iscas": [
+      "tratinho",
+      "feijão cozinhado"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Feijão",
+      "Arroz"
+    ],
+    "tecnicas": [
+      "ultralight",
+      "sistema rodinha"
+    ],
+    "rios": [
+      "Rio dos Bois"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "ultralight"
+    ],
+    "observacoes": []
+  }
+}

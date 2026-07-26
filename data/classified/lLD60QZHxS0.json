@@ -1,0 +1,33 @@
+{
+  "arquivo": "lLD60QZHxS0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:21:33.522480",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boia",
+      "Chumbada",
+      "Chicote de aço",
+      "Linha",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de boias menores",
+      "Uso de chumbada menor",
+      "Uso de chicote de linha",
+      "Uso de linhas finas",
+      "Uso de anzol menor"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Fundo"
+    ],
+    "observacoes": "Dicas para dias ruins de pesca no inverno"
+  }
+}

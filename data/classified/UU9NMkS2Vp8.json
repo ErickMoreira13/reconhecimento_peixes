@@ -1,0 +1,30 @@
+{
+  "arquivo": "UU9NMkS2Vp8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:27:43.265800",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Azhina",
+      "Ordão"
+    ],
+    "iscas": [
+      "Ração Furadinha"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Escagem"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

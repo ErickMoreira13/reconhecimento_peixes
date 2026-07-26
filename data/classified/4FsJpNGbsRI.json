@@ -1,0 +1,23 @@
+{
+  "arquivo": "4FsJpNGbsRI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:37:01.293586",
+  "classificacao": {
+    "peixes": [
+      "robalo"
+    ],
+    "iscas": [
+      "jig",
+      "micro jig"
+    ],
+    "equipamentos": [
+      "varinha",
+      "molinete",
+      "linha",
+      "cartilho"
+    ],
+    "cevadas": [],
+    "graos": [],
+    "outros": []
+  }
+}

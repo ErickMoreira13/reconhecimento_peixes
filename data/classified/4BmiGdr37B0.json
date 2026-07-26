@@ -1,0 +1,21 @@
+{
+  "arquivo": "4BmiGdr37B0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:34:31.347744",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Paraibuna"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "São José dos Campos",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

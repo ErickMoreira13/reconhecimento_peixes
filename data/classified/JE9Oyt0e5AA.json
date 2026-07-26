@@ -1,0 +1,30 @@
+{
+  "arquivo": "JE9Oyt0e5AA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:56:48.182072",
+  "classificacao": {
+    "especies": [
+      "Sardinha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Sardinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Cortar a isca e usar a parte da cola",
+      "Lançamento com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Técnica de pesca super eficaz com sardinha cortada e uso de parte da cola como isca"
+    ]
+  }
+}

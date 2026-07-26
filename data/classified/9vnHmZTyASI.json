@@ -1,0 +1,19 @@
+{
+  "arquivo": "9vnHmZTyASI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:50:08.202503",
+  "classificacao": {
+    "species_caught": [
+      "peixinho",
+      "jacunda",
+      "meridinha",
+      "Tucunaré"
+    ],
+    "location": "São Paulo, Brazil",
+    "fishing_methods": [
+      "line fishing with a hook",
+      "using bait (farinha and manteiga da pimentão)"
+    ],
+    "additional_details": "Mention of a trap (armadilha) for shrimp, though no shrimp were caught. The speaker also refers to cooking the fish."
+  }
+}

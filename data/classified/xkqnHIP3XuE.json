@@ -1,0 +1,36 @@
+{
+  "arquivo": "xkqnHIP3XuE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:04:30.422862",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tucunaré"
+    ],
+    "equipamento": [
+      "Vara",
+      "Narezinho",
+      "T10"
+    ],
+    "iscas": [
+      "Isca",
+      "Isquinha"
+    ],
+    "cevas": [
+      {
+        "tipo": "Ceva de Partículas",
+        "graos": []
+      }
+    ],
+    "tecnicas": [
+      "pesca esportiva"
+    ],
+    "rios": [
+      "Lago de Balbina",
+      "Rio do Rio"
+    ],
+    "estado": "Amazonas",
+    "localizacao": "Cabana Aquatá, Lago de Balbina, Amazonas",
+    "guia": "Johnny"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "2Kb11W4x4dQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:05:06.822102",
+  "classificacao": {
+    "especies": [
+      "Jaú",
+      "Piraíba"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Arame"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com vara pesada",
+      "Pesca de fundo"
+    ],
+    "rios": [
+      "Rio Negro",
+      "Rio Solimões"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "Amazonas",
+    "municipio": "Tokaia",
+    "tipo_pesca": [
+      "Pesca de bagres"
+    ],
+    "observacoes": [
+      "O jaú é um bagre perigoso que pode puxar a linha com força",
+      "A junção dos rios Rio Negro e Rio Solimões forma o Amazonas",
+      "A área tem mais de 60 metros de profundidade em alguns pontos"
+    ]
+  }
+}

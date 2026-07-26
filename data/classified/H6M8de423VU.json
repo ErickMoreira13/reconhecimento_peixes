@@ -1,0 +1,39 @@
+{
+  "arquivo": "H6M8de423VU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:42:47.385467",
+  "classificacao": {
+    "especies": [
+      "Curimã",
+      "Carapeba",
+      "Paru"
+    ],
+    "equipamentos": [
+      "Fio",
+      "Chumbo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lanço",
+      "Pescaria"
+    ],
+    "rios": [
+      "Rio da Bahia"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Perda de mais de 10 peixes durante a pescaria",
+      "Captura de 32 curimãs retadas",
+      "Uso de fios e chumbo de diferentes tamanhos",
+      "Mencionado o uso de carapebas como alimento",
+      "Mencionado o problema de coluna em uma curimã"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "Nj3ByMKegOk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:05:31.044613",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Bigato",
+      "Isquinhas"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Manga",
+      "Bolo"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio de Contas"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Rio de Contas",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A água está paradinha",
+      "As tilapias estão saindo mais com minhoca"
+    ]
+  }
+}

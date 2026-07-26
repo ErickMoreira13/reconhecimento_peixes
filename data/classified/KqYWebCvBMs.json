@@ -1,0 +1,30 @@
+{
+  "arquivo": "KqYWebCvBMs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:03:35.927759",
+  "classificacao": {
+    "especies": [
+      "Caranha"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Massa"
+    ],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Montagem de anzol com dois anzóis"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica de montagem do anzol com dois anzóis em direções opostas e uso de massa como isca."
+    ]
+  }
+}

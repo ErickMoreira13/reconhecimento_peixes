@@ -1,0 +1,26 @@
+{
+  "arquivo": "zm1SeZSurms",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:27:08.007295",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Bicho é bravo",
+      "A bicho é valente",
+      "Bebela",
+      "Foi embora"
+    ]
+  }
+}

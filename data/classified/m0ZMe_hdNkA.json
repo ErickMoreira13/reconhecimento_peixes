@@ -1,0 +1,39 @@
+{
+  "arquivo": "m0ZMe_hdNkA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:36:27.016898",
+  "classificacao": {
+    "species": [
+      "branquinhas",
+      "piabinha",
+      "corimbinha",
+      "pirarara",
+      "jundiá gigante",
+      "caparari"
+    ],
+    "equipment": [
+      "vara de bambu",
+      "vara telescópica de três metros",
+      "kayak",
+      "tubira",
+      "esquinhas nativa",
+      "passaguá"
+    ],
+    "baits": [
+      "esquinhas nativa",
+      "esquinhas do local",
+      "branquinha",
+      "passaguá",
+      "tubira"
+    ],
+    "other_details": {
+      "rod_length": "6 metros",
+      "rod_material": "noventa por cento carbono",
+      "fishing_location": "kayak",
+      "additional_terms": [
+        "sensei da e ela",
+        "bico de pata"
+      ]
+    }
+  }
+}

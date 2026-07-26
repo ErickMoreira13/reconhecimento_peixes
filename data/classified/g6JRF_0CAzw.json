@@ -1,0 +1,31 @@
+{
+  "arquivo": "g6JRF_0CAzw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:26:30.307233",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "iscas"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Esportiva"
+    ],
+    "rios": [
+      "Xingu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Projeto da aldeia para melhorar a renda com turismo. O trairão migra conforme o nível do rio."
+    ]
+  }
+}

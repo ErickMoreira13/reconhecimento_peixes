@@ -1,0 +1,44 @@
+{
+  "arquivo": "GUGgR6mLBSg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:18:58.178588",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Tabarana",
+      "Tilápia",
+      "Saicanga"
+    ],
+    "equipamentos": [
+      "1.070",
+      "OM 70",
+      "Vara",
+      "Isca Matias"
+    ],
+    "iscas": [
+      "Isca Matias"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Esportiva",
+      "Pesca de Fundo"
+    ],
+    "rios": [
+      "Rio São João"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Rio Paranaíba",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Fundo"
+    ],
+    "observacoes": [
+      "Acesso difícil à área",
+      "Presença de cardume de Tabarana",
+      "Captura de Saicanga",
+      "Uso de iscas Matias com sucesso"
+    ]
+  }
+}

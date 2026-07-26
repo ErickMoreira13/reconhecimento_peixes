@@ -1,0 +1,32 @@
+{
+  "arquivo": "JidOr_vMd-s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:03:54.244625",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha de nylon",
+      "Boia",
+      "Chumbada",
+      "Girador",
+      "Miçanga"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Boia de correr",
+      "Boia corredora"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em costão"
+    ],
+    "observacoes": [
+      "Sisteminha básico, pega peixe pra caramba no costão. Te economiza material, tu não fica perdendo muito"
+    ]
+  }
+}

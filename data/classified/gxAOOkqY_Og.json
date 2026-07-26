@@ -1,0 +1,40 @@
+{
+  "arquivo": "gxAOOkqY_Og",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:23:46.261951",
+  "classificacao": {
+    "especies": [
+      "Jamanta",
+      "Moleque",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Espinhel",
+      "Anzol",
+      "Corda",
+      "Pedra",
+      "Baldinho"
+    ],
+    "iscas": [
+      "Isca de Camarão",
+      "Bacana"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Espinhel"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Espinhel"
+    ],
+    "observacoes": [
+      "Plateia presente",
+      "Primeira pescaria com espinhel",
+      "Sucesso na captura de vários peixes"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "BZa7Whg40kA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:43:21.403291",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

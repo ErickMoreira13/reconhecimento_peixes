@@ -1,0 +1,40 @@
+{
+  "arquivo": "RYpm1_txIQY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:39:06.123015",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Ariramba",
+      "Surubim"
+    ],
+    "equipamentos": [
+      "linhas de fundo",
+      "linhada de mão",
+      "chumbada",
+      "arzol"
+    ],
+    "iscas": [
+      "sardinha",
+      "espiranha"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [
+      "pesca de fundo",
+      "linhada de mão"
+    ],
+    "rios": [
+      "Riozão",
+      "Amazonas"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de fundo",
+      "linhada de mão"
+    ],
+    "observacoes": ""
+  }
+}

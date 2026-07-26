@@ -1,0 +1,21 @@
+{
+  "arquivo": "yjXUJu0PIJc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:16:36.121315",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Alegre"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Santo Amaro",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

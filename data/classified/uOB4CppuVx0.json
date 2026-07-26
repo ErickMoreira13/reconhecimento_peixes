@@ -1,0 +1,57 @@
+{
+  "arquivo": "uOB4CppuVx0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:22:29.221959",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Azul"
+    ],
+    "equipment": [
+      "isquinha 190 da Kral",
+      "MD Giggs",
+      "Censse90 da Kral",
+      "Rei do Rio",
+      "skinny"
+    ],
+    "baits": [
+      "isquinha",
+      "MD Giggs",
+      "Censse90",
+      "Rei do Rio",
+      "skinny",
+      "isca subsuperfície",
+      "isca sink"
+    ],
+    "locations": [
+      "Represa de embarcação",
+      "Paranaíba",
+      "Minas Gerais",
+      "Três Maria",
+      "Nova Ponte",
+      "Grupe Ara",
+      "Serra do Facão",
+      "Três Ranchos",
+      "Mato Grosso"
+    ],
+    "techniques": [
+      "trabalhar ela desse jeito",
+      "toque de ponta de vara forte",
+      "zarado na água",
+      "subsurface",
+      "sink"
+    ],
+    "brands": [
+      "Kral"
+    ],
+    "time_of_day": [
+      "almoço",
+      "hora boa do peixe",
+      "3 horas",
+      "6 horas da tarde"
+    ],
+    "other_terms": [
+      "canoa embarcada"
+    ]
+  }
+}

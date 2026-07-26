@@ -1,0 +1,22 @@
+{
+  "arquivo": "awEMQNFmExw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:18:41.994447",
+  "classificacao": {
+    "especies": [
+      "Amarelão",
+      "Molecão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

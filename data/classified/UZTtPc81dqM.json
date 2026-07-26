@@ -1,0 +1,42 @@
+{
+  "arquivo": "UZTtPc81dqM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:24:12.714749",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Curimba"
+    ],
+    "equipment": [
+      "Boia",
+      "Boinha",
+      "Chumbada",
+      "Rolha de Garrafa",
+      "Câmera",
+      "Balazio"
+    ],
+    "baits": [
+      "Ceva",
+      "Anzol",
+      "Rolha"
+    ],
+    "techniques": [
+      "Rolha de Garrafa",
+      "Boia Servadeira",
+      "Boinha com Chumbada",
+      "Enroladinha",
+      "Solta o Peixe",
+      "Empurra o Peixe",
+      "Gritar Alô"
+    ],
+    "weight": "Peso",
+    "size": "Tamanho (Palm Width)",
+    "other": {
+      "ceva_ingredients": [
+        "Milho",
+        "Soja"
+      ],
+      "additional_notes": "Uso de ceva com ingredientes como milho e soja, técnicas de lançamento e recuperação com boia e rolha."
+    }
+  }
+}

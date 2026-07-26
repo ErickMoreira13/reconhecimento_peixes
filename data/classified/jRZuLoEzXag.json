@@ -1,0 +1,37 @@
+{
+  "arquivo": "jRZuLoEzXag",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:14:22.758939",
+  "classificacao": {
+    "especies": [
+      "Jundia",
+      "Pintado",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Varinha 17 libras",
+      "Molinete 3000",
+      "Caiaque"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Fígado de galinha"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [
+      "Pesca de caiaque"
+    ],
+    "rios": [
+      "Rio da Zanta",
+      "Corredeirão dos Dourados"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Capela Santo Antônio",
+    "tipo_pesca": [
+      "Pesca de caiaque"
+    ],
+    "observacoes": []
+  }
+}

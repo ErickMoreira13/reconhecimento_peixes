@@ -1,0 +1,41 @@
+{
+  "arquivo": "XpwzFyElm0Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:18:23.166455",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Cumbuca",
+      "Traíra",
+      "Raia",
+      "Pereba",
+      "Jacaré",
+      "Tripeba"
+    ],
+    "equipamentos": [
+      "Varinha de pesca",
+      "Linhas de pesca",
+      "Okuma Trio Light"
+    ],
+    "iscas": [
+      "Isquinha viva",
+      "Narelazinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Varinha de pesca quebrada",
+      "Pescador pegou um peixe de 60-up",
+      "Capivara apareceu perto do acampamento",
+      "Tripeba foi pescado",
+      "Linha arrebentou devido a um cocôzão",
+      "Acampamento com fogueira, barracas e cozinha"
+    ]
+  }
+}

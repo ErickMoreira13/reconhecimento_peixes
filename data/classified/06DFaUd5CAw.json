@@ -1,0 +1,61 @@
+{
+  "arquivo": "06DFaUd5CAw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:57:37.369594",
+  "classificacao": {
+    "especies": [
+      {
+        "nome_normalizado": "Tucunaré",
+        "quantidade": "1"
+      },
+      {
+        "nome_normalizado": "Traíra",
+        "quantidade": "1"
+      },
+      {
+        "nome_normalizado": "Tucunaré",
+        "quantidade": "1"
+      },
+      {
+        "nome_normalizado": "Sabão",
+        "quantidade": "1"
+      },
+      {
+        "nome_normalizado": "Piranha",
+        "quantidade": "1"
+      },
+      {
+        "nome_normalizado": "Pirarara",
+        "quantidade": "1"
+      }
+    ],
+    "equipamentos": [
+      {
+        "nome_normalizado": "canas de pesca",
+        "quantidade": "1"
+      },
+      {
+        "nome_normalizado": "redes de pesca",
+        "quantidade": "1"
+      },
+      {
+        "nome_normalizado": "alicates",
+        "quantidade": "1"
+      }
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      {
+        "nome": "Rio Flores",
+        "municipio": "Joselândia",
+        "estado": "Maranhão"
+      }
+    ],
+    "bacias": [],
+    "tipo_pesca": "",
+    "observacoes": "Transcrito em português, menciona espécies de peixes capturados, equipamentos utilizados (canas, redes, alicates) e localização (Rio Flores, Joselândia, Maranhão). Não há menção a iscas, cevas, grãos ou técnicas específicas."
+  }
+}

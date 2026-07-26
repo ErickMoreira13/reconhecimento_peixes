@@ -1,0 +1,37 @@
+{
+  "arquivo": "FcVjFB9AV0U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:09:15.127916",
+  "classificacao": {
+    "especies": [
+      "Cação"
+    ],
+    "equipamentos": [
+      "Panela de pressão",
+      "Faca",
+      "Vasilha"
+    ],
+    "iscas": [
+      "Cebola",
+      "Tomate",
+      "Sal",
+      "Cloreal",
+      "Temperinho",
+      "Pimenta rosa",
+      "Pimenta do reino",
+      "Folha de louro",
+      "Água",
+      "Vinagre",
+      "Óleo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "AO-dpqwHoNI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:05:00.053388",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica Tradicional"
+    ],
+    "rios": [
+      "Rio de Janeiro"
+    ],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "x48K0BHXRfs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:20:55.619283",
+  "classificacao": {
+    "especies": [
+      "Curimatá"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

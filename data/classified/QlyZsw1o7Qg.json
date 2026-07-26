@@ -1,0 +1,30 @@
+{
+  "arquivo": "QlyZsw1o7Qg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:42:41.155560",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Salsicha",
+      "Mortadela",
+      "Queijo",
+      "Calabresa",
+      "Mussarela"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Iscar com rasgo e esconder o anzol",
+      "Iscar com múltiplos pedaços e esconder o anzol"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

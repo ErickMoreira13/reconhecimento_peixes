@@ -1,0 +1,36 @@
+{
+  "arquivo": "as6NDy8GKjg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:09:43.536575",
+  "classificacao": {
+    "especies": [
+      "Biguá",
+      "Cachara",
+      "Piranha",
+      "Cachorra Larga"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Galão Perfurado",
+      "PET Furada"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guaporé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Cachara",
+      "Pesca de Caixara",
+      "Pesca de Cachorra Larga"
+    ],
+    "observacoes": []
+  }
+}

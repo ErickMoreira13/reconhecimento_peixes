@@ -1,0 +1,25 @@
+{
+  "arquivo": "Hbdq47Lcg58",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:56:28.450457",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Bacia do rio de La Plata"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Piracanjuba está em risco de extinção"
+    ]
+  }
+}

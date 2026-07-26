@@ -1,0 +1,30 @@
+{
+  "arquivo": "U0zwh0gG6OY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:35:55.917705",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Ebulidor"
+    ],
+    "iscas": [
+      "Milho",
+      "Farelo de Soja",
+      "Açúcar"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

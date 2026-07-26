@@ -1,0 +1,29 @@
+{
+  "arquivo": "KA9Hq38YQhk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:44:39.525529",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Corredeira"
+    ],
+    "iscas": [
+      "Verduras"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Corredeira"
+    ],
+    "rios": [
+      "Rio Arinos"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Plantar verduras para isca"
+    ]
+  }
+}

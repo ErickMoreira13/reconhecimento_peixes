@@ -1,0 +1,23 @@
+{
+  "arquivo": "QDQdiIKyHyE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:10:42.254948",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Arco",
+      "Pluma",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "KgrHhLk0h9Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:39:37.811111",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Roja",
+      "artesanais"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guaporé"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "soltura de peixes"
+    ]
+  }
+}

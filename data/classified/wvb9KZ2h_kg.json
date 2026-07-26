@@ -1,0 +1,26 @@
+{
+  "arquivo": "wvb9KZ2h_kg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:36:53.801395",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "popper"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "amarre para popper",
+      "nudo loop"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca artificial"
+    ],
+    "observacoes": []
+  }
+}

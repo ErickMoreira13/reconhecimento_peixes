@@ -1,0 +1,33 @@
+{
+  "arquivo": "HxrHgcsoyP8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:18:55.535101",
+  "classificacao": {
+    "especies": [
+      "Bandeirada",
+      "Jurupiranga"
+    ],
+    "equipamentos": [
+      "Espinhel",
+      "Anzol"
+    ],
+    "iscas": [
+      "Búzio"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Espinhel"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Espinhel"
+    ],
+    "observacoes": [
+      "Apenas dois peixes foram capturados com 100 anzóis, indicando baixa eficácia da isca ou ausência de peixe no rio"
+    ]
+  }
+}

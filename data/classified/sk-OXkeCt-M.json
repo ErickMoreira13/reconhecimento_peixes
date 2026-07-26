@@ -1,0 +1,29 @@
+{
+  "arquivo": "sk-OXkeCt-M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:05:03.835747",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Linha",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de anzol no nariz",
+      "Técnica de anzol na parte de trás",
+      "Técnica de anzol na cabeça"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

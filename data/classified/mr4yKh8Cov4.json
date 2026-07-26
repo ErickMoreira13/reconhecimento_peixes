@@ -1,0 +1,31 @@
+{
+  "arquivo": "mr4yKh8Cov4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:02:35.213198",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Boia"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Vermelho"
+    ],
+    "bacias": [
+      "Prata"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Tempo da piracema, soltar peixes capturados"
+    ]
+  }
+}

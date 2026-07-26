@@ -1,0 +1,29 @@
+{
+  "arquivo": "o8B7tPsOq7E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:13:49.750199",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Micro-ônibus",
+      "Embarcação",
+      "Motor de 250"
+    ],
+    "iscas": [
+      "Abacaxi",
+      "Carne"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Jatapu",
+      "Rio Preto da Eva"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Rio Preto da Eva",
+    "tipo_pesca": [],
+    "observacoes": "Pousada gigante da Amazônia, operação MG Pesca, Rio Jatapu, hotel, churrasquinho, flutuante Summer, abacaxi frito na hora, carne, embarcação, motor de 250, 4 horas de estrada, ramal, pousada, segurança na pesca"
+  }
+}

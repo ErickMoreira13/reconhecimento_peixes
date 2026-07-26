@@ -1,0 +1,29 @@
+{
+  "arquivo": "XJauaUHHlWg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:03:06.126763",
+  "classificacao": {
+    "ingredientes": [
+      "Ração de Coelho",
+      "Ração de Postura"
+    ],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva Proteica"
+    ],
+    "container": "Saco de Linhagem",
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "tecnicas": [
+      "Uso de ceva de partículas para atração de peixes"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca Esportiva",
+    "observacoes": "A ceva é preparada com ração de coelho e ração de postura, colocada em um saco de linhagem para liberação gradual de partículas."
+  }
+}

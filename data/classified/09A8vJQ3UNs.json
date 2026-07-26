@@ -1,0 +1,24 @@
+{
+  "arquivo": "09A8vJQ3UNs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:58:52.431669",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "canoa",
+      "canarezão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

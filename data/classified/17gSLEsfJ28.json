@@ -1,0 +1,23 @@
+{
+  "arquivo": "17gSLEsfJ28",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:58:35.273888",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Não foi uma pesca assim tão boa, mas conseguimos pegar alguns peixes."
+    ]
+  }
+}

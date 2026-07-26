@@ -1,0 +1,32 @@
+{
+  "arquivo": "rerrDHuo9ek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:06:01.458475",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Cascudo"
+    ],
+    "equipamentos": [
+      "vara",
+      "canoa"
+    ],
+    "isca": [
+      "isca artificial",
+      "isquinha"
+    ],
+    "local": [
+      "Rio Uruguai",
+      "São Isidro"
+    ],
+    "refeições": [],
+    "acampamento": [
+      "barraca",
+      "redes",
+      "capa"
+    ],
+    "alertas": [
+      "refil de gás"
+    ]
+  }
+}

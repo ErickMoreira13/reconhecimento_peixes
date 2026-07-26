@@ -1,0 +1,39 @@
+{
+  "arquivo": "zvJT8hSKOxI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:58:36.534786",
+  "classificacao": {
+    "resumo": {
+      "atividade_principal": "Pescaria de tilápia",
+      "localização": "De Lapa",
+      "participantes": [
+        "Antônio",
+        "João",
+        "Jô",
+        "Renato",
+        "Maura",
+        "Alícia"
+      ],
+      "interações": {
+        "conversas_casuais": true,
+        "compartilhamento_de_experiências": true,
+        "humor_relaxado": true
+      },
+      "conteúdo_video": {
+        "canal_youtube": "Pesca Fiche",
+        "chamadas_ao_acção": [
+          "curtir",
+          "inscrever-se",
+          "compartilhar"
+        ],
+        "formato": "vlog de pescaria"
+      },
+      "tom_geral": "informal, descontraído, com foco em entretenimento e compartilhamento de momentos"
+    },
+    "detalhes_adicionais": {
+      "linguagem": "colloquial, com uso de gírias e expressões regionais",
+      "estrutura": "alternância entre diálogo entre pescadores e narração do vídeo",
+      "objetivo": "documentar a experiência de pescaria e promover o canal no YouTube"
+    }
+  }
+}

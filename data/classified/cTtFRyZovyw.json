@@ -1,0 +1,29 @@
+{
+  "arquivo": "cTtFRyZovyw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:14:19.886043",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Carretilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em represa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Santa Bárbara",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Localização: Represa no fundo da Fazenda Santa Bárbara, Chapada Diamantina. Tempo de pesca: 40 minutos."
+    ]
+  }
+}

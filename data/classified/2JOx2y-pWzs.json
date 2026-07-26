@@ -1,0 +1,25 @@
+{
+  "arquivo": "2JOx2y-pWzs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:23:07.208584",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Pau"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chumagem"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

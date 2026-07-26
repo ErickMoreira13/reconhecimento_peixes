@@ -1,0 +1,24 @@
+{
+  "arquivo": "AuhLH4meHnw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:15:51.909262",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A lua nova é uma fase neutra, mas aconselhável para pescar predadores mais tímidos, que se sentem mais seguros no escuro.",
+      "Durante a lua nova, a baixa luminosidade reduz a visibilidade para atacar iscas.",
+      "A fase também é marcada por marés fortes, o que não é recomendado para pescaria em mar agitado.",
+      "Aconselha-se deixar essa fase passar para pescar em outras fases da lua mais favoráveis."
+    ]
+  }
+}

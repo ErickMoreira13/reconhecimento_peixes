@@ -1,0 +1,50 @@
+{
+  "arquivo": "hrifa90hPG8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:10:22.517339",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca e culinária, com destaque para a captura de peixes como piranhas e piaus, o uso de iscas e a interação com amigos e familiares. Após a pesca, o narrador prepara uma refeição com ingredientes como arroz, carne de porco e farinha de pulga, destacando a colaboração com Mariana e outros participantes. O conteúdo termina com um convite para os espectadores curtirem e se inscreverem no canal.",
+    "key_points": {
+      "pesca": {
+        "peixes_capturados": [
+          "piranhas",
+          "piaus"
+        ],
+        "técnicas_usadas": [
+          "uso de iscas",
+          "esbagaçar (método de pesca)"
+        ],
+        "desafios": [
+          "dificuldade em capturar piranhas",
+          "necessidade de paciência"
+        ]
+      },
+      "culinária": {
+        "ingredientes_principais": [
+          "arroz",
+          "carne de porco",
+          "farinha de pulga"
+        ],
+        "contexto": "preparação de uma refeição comunitária, envolvendo colaboração entre participantes"
+      },
+      "interação_social": {
+        "participantes": [
+          "Mariana",
+          "outros familiares e amigos"
+        ],
+        "atividades": [
+          "compartilhamento de experiências",
+          "diversão coletiva"
+        ]
+      },
+      "call_to_action": "convite para curtir e se inscrever no canal de vídeo"
+    },
+    "additional_notes": {
+      "termos_locais": [
+        "esbagaçar (método de pesca regional)",
+        "farinha de pulga (ingrediente típico da culinária local)"
+      ],
+      "tom_do_texto": "conversacional, informal e envolvente, com ênfase em experiências práticas e interação social"
+    }
+  }
+}

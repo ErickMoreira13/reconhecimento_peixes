@@ -1,0 +1,34 @@
+{
+  "arquivo": "KgVUdlPjXIA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:40:02.119213",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Molinete",
+      "Gigue de Pelo",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Arranco",
+      "Trabalho com Gigue"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica eficaz em águas rasas",
+      "Importância do movimento de arranco para abrir e fechar a pena do gigue",
+      "Uso do gigue de pelo com diferentes pesos conforme a profundidade da água"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "arquivo": "QSGkSELPP3M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:02:03.201758",
+  "classificacao": {
+    "especies": [
+      "Javali",
+      "Tigre"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

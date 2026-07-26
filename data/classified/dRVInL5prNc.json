@@ -1,0 +1,33 @@
+{
+  "arquivo": "dRVInL5prNc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:35:19.636592",
+  "classificacao": {
+    "espécies": [
+      "pacu",
+      "tambaqui",
+      "piau",
+      "jaú",
+      "filhote",
+      "pintado",
+      "curimbatau"
+    ],
+    "equipamentos": [
+      "azol",
+      "chumbada",
+      "linha",
+      "boia"
+    ],
+    "iscas": [
+      "frutos",
+      "isca artificial"
+    ],
+    "cevas": [],
+    "rios": [
+      "Rio do Sono"
+    ],
+    "regiões": [
+      "minha região"
+    ]
+  }
+}

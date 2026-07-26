@@ -1,0 +1,25 @@
+{
+  "arquivo": "PQSJOaHzOCM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:18:23.318397",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de preparação da minhoca com pontinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Dica de preparação da minhoca para pesca"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "F2vhpz5CgG8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:00:05.522454",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [
+      "bastinho"
+    ],
+    "iscas": [
+      "passa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "Barnaíba",
+    "tipo_pesca": [
+      "pesca em rio"
+    ],
+    "observacoes": [
+      "É pra tomar com o cafezinho de manhã",
+      "ensina aí pra galera como é que bota isso"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "1T1YiPQDSok",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:50:51.197558",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Flamengo",
+      "Piau"
+    ],
+    "equipamentos": [
+      "gadeiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

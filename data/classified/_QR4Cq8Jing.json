@@ -1,0 +1,23 @@
+{
+  "arquivo": "_QR4Cq8Jing",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:30:46.876129",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Banana"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

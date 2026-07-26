@@ -1,0 +1,23 @@
+{
+  "arquivo": "bvqlencKGwk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:38:54.407129",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Boiadeira"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

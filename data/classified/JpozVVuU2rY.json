@@ -1,0 +1,29 @@
+{
+  "arquivo": "JpozVVuU2rY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:12:16.264640",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "caiaque",
+      "régua"
+    ],
+    "iscas": [
+      "pão de ovo",
+      "pãozinho de amarela"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

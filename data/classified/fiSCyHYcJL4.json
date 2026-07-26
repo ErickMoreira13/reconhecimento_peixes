@@ -1,0 +1,45 @@
+{
+  "arquivo": "fiSCyHYcJL4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:14:33.774526",
+  "classificacao": {
+    "species": [
+      "pirarara",
+      "piranha",
+      "tambaqui",
+      "mandubé",
+      "corvina",
+      "pirarucu",
+      "barbadinho",
+      "pintadão",
+      "tartaruga",
+      "alicatinho",
+      "pombata",
+      "barba chata",
+      "raio"
+    ],
+    "equipment": [
+      "molinê",
+      "anzol",
+      "linha",
+      "frição",
+      "canoa",
+      "voadeira",
+      "motor 40",
+      "guia de pesca"
+    ],
+    "baits": [
+      "tigela"
+    ],
+    "lures": [
+      "tigela"
+    ],
+    "locations": [
+      "Rio Guaporé"
+    ],
+    "other_terms": [
+      "guia de pesca",
+      "molinê"
+    ]
+  }
+}

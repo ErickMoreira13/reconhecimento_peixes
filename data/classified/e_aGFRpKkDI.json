@@ -1,0 +1,36 @@
+{
+  "arquivo": "e_aGFRpKkDI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:49:19.096516",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "chumbada",
+      "paninho"
+    ],
+    "iscas": [
+      "cheirinho",
+      "paninho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "chumbar",
+      "jogar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "uso de bagaço como ceva natural",
+      "preparação de isca com paninho e cheirinho",
+      "pesca em local descrito como 'acampamento'"
+    ]
+  }
+}

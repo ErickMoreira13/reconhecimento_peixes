@@ -1,0 +1,106 @@
+{
+  "arquivo": "sBBWE7YgtXE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:59:35.506442",
+  "classificacao": {
+    "especies": [
+      "pacu",
+      "piau"
+    ],
+    "equipamentos": [
+      "canoa",
+      "barco",
+      "motor"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "localidades": [
+      "Impuca",
+      "Empuca"
+    ],
+    "municipio": "São Bernardo do Campo",
+    "regiao": "meio do mato",
+    "estado": "",
+    "pais": "",
+    "motor": "motor Honda Platinado",
+    "marca_do_motor": "Honda",
+    "modelo_do_motor": "Platinado",
+    "potencia_do_motor": [
+      "7,5 HP",
+      "76 HP",
+      "86 HP",
+      "87 HP"
+    ],
+    "tipo_de_pesca": "pesca no meio do mato",
+    "objetivo_da_pesca": [
+      "comer o peixe",
+      "fazer vídeos"
+    ],
+    "participantes": [
+      "usuário",
+      "esposa",
+      "cachorro",
+      "Dilcala",
+      "Juliano Motocest"
+    ],
+    "parceiros": [
+      "Dilcala",
+      "Juliano Motocest"
+    ],
+    "cliente": "cliente que precisava do trabalho do usuário",
+    "motivo_da_interrupcao": "cliente precisava do trabalho do usuário",
+    "data": "",
+    "horario": [
+      "umas 4 da manhã",
+      "7, 7,5 da manhã"
+    ],
+    "localizacao_do_acampamento": [
+      "sob uma árvore",
+      "perto do rio",
+      "no meio do mato"
+    ],
+    "condicoes_do_local": [
+      "presença de morcegos",
+      "fezes de morcegos",
+      "floresta densa"
+    ],
+    "problemas_encontrados": [
+      "fezes de morcegos",
+      "dificuldade na floresta",
+      "interrupção por causa do cliente"
+    ],
+    "solucao_para_os_problemas": [
+      "limpar a barraca",
+      "sair da área",
+      "continuar a pesca em outro local"
+    ],
+    "resultados_da_pesca": [
+      "4 pacus",
+      "2-3 piaus",
+      "outros peixes"
+    ],
+    "quantidade_de_peixes_capturados": [
+      "4 pacus",
+      "2-3 piaus",
+      "outros peixes"
+    ],
+    "especies_capturadas": [
+      "pacu",
+      "piau",
+      "outros peixes"
+    ],
+    "destino_dos_peixes_capturados": [
+      "comer",
+      "vídeos",
+      "venda"
+    ],
+    "comentarios_sobre_a_experiencia": [
+      "desafiadora",
+      "recompensadora",
+      "planejamento de mais vídeos"
+    ]
+  }
+}

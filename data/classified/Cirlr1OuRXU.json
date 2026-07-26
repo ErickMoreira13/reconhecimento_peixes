@@ -1,0 +1,23 @@
+{
+  "arquivo": "Cirlr1OuRXU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:38:45.480587",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Farinhada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A farinhada está cheia de caruchinhos e larvinhas, questionando se isso causa problemas e se deve descartar a farinhada."
+    ]
+  }
+}

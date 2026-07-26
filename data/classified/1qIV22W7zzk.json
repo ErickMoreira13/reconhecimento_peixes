@@ -1,0 +1,30 @@
+{
+  "arquivo": "1qIV22W7zzk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:47:52.634233",
+  "classificacao": {
+    "especies": [
+      "Minhoca"
+    ],
+    "equipamentos": [
+      "Espeto",
+      "Extensão 220V"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de atração elétrica"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de minhoca"
+    ],
+    "observacoes": [
+      "Técnica de atração elétrica para minhocas não funcionou conforme esperado, mas corrente foi verificada. Solicita feedback para correções futuras."
+    ]
+  }
+}

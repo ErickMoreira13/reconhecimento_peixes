@@ -1,0 +1,25 @@
+{
+  "arquivo": "_QCLZPTYWl0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:30:09.085004",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chuveirinho"
+    ],
+    "iscas": [
+      "Massinha de frutas"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Uso de massinha de frutas em chuveirinho artesanal"
+    ]
+  }
+}

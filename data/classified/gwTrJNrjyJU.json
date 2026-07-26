@@ -1,0 +1,23 @@
+{
+  "arquivo": "gwTrJNrjyJU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:22:09.656539",
+  "classificacao": {
+    "especies": [
+      "Beliscada"
+    ],
+    "equipamentos": [
+      "Molinete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "VL6l91URqWI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:09:58.573742",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Chumbada",
+      "Miçanga",
+      "Girador",
+      "Chicote",
+      "Anzol Gamakatsu Big River",
+      "Boia Tanaken",
+      "EVA"
+    ],
+    "iscas": [
+      "Pirarara"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de fundo",
+      "Pesca de boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fundo",
+      "Pesca de boia"
+    ],
+    "observacoes": []
+  }
+}

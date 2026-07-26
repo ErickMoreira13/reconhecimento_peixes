@@ -1,0 +1,34 @@
+{
+  "arquivo": "E1IZ--D4nyI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:35:47.368323",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Vara Black Eagle",
+      "Vara Black Eagle Go Style",
+      "Vara Forza"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fisgada forte (hooking technique)",
+      "Gerenciamento do drag (drag management)",
+      "Uso de vara com ação rápida/extra rápida (using rods with fast/extra-fast action)"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca de tambaqui",
+    "observacoes": [
+      "Evitar usar anzol fraco (avoid using a weak hook)",
+      "Não soltar a linha (don't loosen the line)",
+      "Ajustar o drag quando o peixe estiver perto da margem (adjust the drag when the fish is near the shore)",
+      "Recomendações para lojas de equipamentos (recommendations for equipment stores: Everest e SUGOI)"
+    ]
+  }
+}

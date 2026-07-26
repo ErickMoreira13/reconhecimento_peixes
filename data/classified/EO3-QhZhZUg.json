@@ -1,0 +1,44 @@
+{
+  "arquivo": "EO3-QhZhZUg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:10:51.385089",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Mapará"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Canoa"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca em águas paradas",
+      "Pescaria raiz"
+    ],
+    "rios": [],
+    "bacias": [
+      "Pantanal"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Preparação de caldeirada com os peixes capturados",
+      "Uso de ceva em recipiente perfurado"
+    ]
+  }
+}

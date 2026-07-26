@@ -1,0 +1,52 @@
+{
+  "arquivo": "nDBSa2q2wx4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:40:59.154504",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Carretilhas",
+      "Molinetes",
+      "Plugs",
+      "Flogues",
+      "Bolsas",
+      "Estojo",
+      "Roupas para pesca",
+      "Rabetas",
+      "Motores elétricos",
+      "Caiaque"
+    ],
+    "iscas": [
+      "Banana",
+      "Mel",
+      "Amendoim"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "grãos": [
+      "Trigo"
+    ],
+    "local": [
+      "Rio"
+    ],
+    "marca": [
+      "Carretilhas",
+      "Molinetes",
+      "Plugs",
+      "Flogues",
+      "Bolsas",
+      "Estojo",
+      "Roupas para pesca",
+      "Rabetas",
+      "Motores elétricos",
+      "Caiaque"
+    ],
+    "outros": [
+      "Massa banana, mel e amendoim"
+    ]
+  }
+}

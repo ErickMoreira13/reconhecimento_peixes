@@ -1,0 +1,35 @@
+{
+  "arquivo": "XfznkAj6AWo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:50:44.763732",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Jig"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Jigging"
+    ],
+    "rios": [
+      "Paranaíba"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Paranaíba",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": ""
+  }
+}

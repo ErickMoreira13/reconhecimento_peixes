@@ -1,0 +1,42 @@
+{
+  "arquivo": "draCiGz6xDs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:33:59.534540",
+  "classificacao": {
+    "species": [
+      "Lambari",
+      "Tambaqui"
+    ],
+    "equipment": [
+      "Varinha de Bambu",
+      "Ponteira de Vara de Fibra",
+      "Cana da Índia",
+      "Linhazinha",
+      "Boinha"
+    ],
+    "baits": [
+      "Minhoca",
+      "Massa"
+    ],
+    "cevas": [],
+    "grains": [
+      "Milho",
+      "Pipoca"
+    ],
+    "techniques": [
+      "Pescaria Tradicional",
+      "Batendo com Anzolzinho",
+      "Usando Boinha"
+    ],
+    "rivers": [
+      "Rio Verde"
+    ],
+    "basins": [],
+    "state": "Minas Gerais",
+    "municipality": "São Lourenço",
+    "type_fishing": [
+      "Pescaria de Lambari",
+      "Pescaria Tradicional"
+    ]
+  }
+}

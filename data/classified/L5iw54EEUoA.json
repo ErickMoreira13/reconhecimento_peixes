@@ -1,0 +1,26 @@
+{
+  "arquivo": "L5iw54EEUoA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:44:14.309692",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbada",
+      "Linha"
+    ],
+    "iscas": [
+      "Fígado de galinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

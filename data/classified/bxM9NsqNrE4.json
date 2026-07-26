@@ -1,0 +1,43 @@
+{
+  "arquivo": "bxM9NsqNrE4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:41:28.602618",
+  "classificacao": {
+    "especies": [
+      "Jaú",
+      "Bicuda"
+    ],
+    "equipamentos": [
+      "Reel",
+      "Vara",
+      "Linha 1.5",
+      "Freio",
+      "Posta de peixe"
+    ],
+    "iscas": [
+      "Posta de peixe",
+      "Rabo de bicuda"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de superfície",
+      "Manuseio rápido"
+    ],
+    "rios": [
+      "Telespires"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca desembarcada",
+      "Pesca de superfície"
+    ],
+    "observacoes": [
+      "Conservação e preservação do rio Telespires"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "arquivo": "U1e3KRz7Nr8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:36:43.538147",
+  "classificacao": {
+    "especies": [
+      "traíra",
+      "filapinho",
+      "bruta",
+      "bitelona",
+      "bitela",
+      "piaba",
+      "sol",
+      "lajota",
+      "camarão"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "linha",
+      "freio de vara",
+      "gancho",
+      "galão de ceva",
+      "garrafa PET",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "saco de cebola",
+      "tubo de PVC",
+      "cano de PVC",
+      "balde",
+      "recipiente",
+      "cocho de ceva"
+    ],
+    "iscas": [
+      "piaba",
+      "bitelona",
+      "bitela",
+      "camarão",
+      "sol",
+      "lajota"
+    ],
+    "cevas": {
+      "Ceva Natural": [],
+      "Ceva Proteica": [],
+      "Ceva Aromática": [],
+      "Ceva de Partículas": [
+        "galão perfurado",
+        "garrafa PET perfurada",
+        "saco de ráfia",
+        "saco furado",
+        "saco telado",
+        "saco de cebola",
+        "tubo de PVC perfurado",
+        "cano de PVC perfurado",
+        "balde perfurado",
+        "recipiente perfurado",
+        "cocho perfurado"
+      ]
+    },
+    "graos": [],
+    "local": [
+      "represa",
+      "beirada da represa",
+      "ponte",
+      "água",
+      "beira d'água",
+      "lago"
+    ],
+    "tempo": [
+      "manhã",
+      "dia"
+    ],
+    "condicoes_do_tempo": [
+      "água lenta",
+      "água normal",
+      "ventando",
+      "sol"
+    ],
+    "comportamento_dos_peixes": [
+      "briga",
+      "fisgada",
+      "encaixado",
+      "puxou",
+      "solta",
+      "correu",
+      "arraste",
+      "torrado",
+      "frito",
+      "sequinho",
+      "amarelinho",
+      "no ponte"
+    ],
+    "preparacao_do_peixe": [
+      "torrada",
+      "frito",
+      "assado",
+      "saborear",
+      "comer",
+      "servido",
+      "pente",
+      "farinha",
+      "girada"
+    ],
+    "comida": [
+      "torrada",
+      "frito",
+      "assado",
+      "saborear",
+      "comer",
+      "servido",
+      "pente",
+      "farinha",
+      "girada",
+      "camarão",
+      "sol",
+      "lajota",
+      "filapinho",
+      "traíra",
+      "bruta",
+      "bitelona",
+      "bitela",
+      "piaba"
+    ],
+    "outros": []
+  }
+}

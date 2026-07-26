@@ -1,0 +1,24 @@
+{
+  "arquivo": "Dup_1ymtnWA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:56:46.073722",
+  "classificacao": {
+    "especies": [
+      "pintado",
+      "imposta",
+      "geripoca"
+    ],
+    "equipamento": [],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [],
+    "rios": [
+      "Miranda"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_de_pesca": "",
+    "observacoes": "O conteúdo do vídeo está relacionado à preparação de uma receita culinária (moqueca) e não descreve atividades de pesca."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "P_6UaBsOqVo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:58:02.765986",
+  "classificacao": {
+    "summary": {
+      "energy_sustainability_program": {
+        "discount_on_energy_bills": "90%",
+        "payback_period": "4 years",
+        "warranty": "25 years",
+        "commitment": "Sustainable energy"
+      },
+      "fishing_resort": {
+        "name": "Programa Pesca e Sol",
+        "services": [
+          "Fishing experiences",
+          "Accommodation",
+          "Guided tours"
+        ],
+        "locations": [
+          "Ilha do Mel",
+          "Ilha Grande",
+          "Ilha de Itaparica"
+        ],
+        "hours": "08:00 to 18:00",
+        "contact": {
+          "phone": "+55 11 9999-9999",
+          "email": "reserva@pescaesol.com"
+        }
+      }
+    }
+  }
+}

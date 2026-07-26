@@ -1,0 +1,34 @@
+{
+  "arquivo": "1stZ0oNso5s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:50:28.457696",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Chumbinho",
+      "Boinha",
+      "Linha monofilamento 025",
+      "Alicate",
+      "Tesoura"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com boia"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "kwPELHpx9ww",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:16:09.735586",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Jundiá",
+      "Cará"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Lagoa do Lessa",
+      "Zambese"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A entrada aqui é franqueada, você pode entrar, pescar tranquilo e é um lugar que tem Traíra, Jundiá, Cará, muito, muito bom"
+    ]
+  }
+}

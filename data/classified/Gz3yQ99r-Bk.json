@@ -1,0 +1,35 @@
+{
+  "arquivo": "Gz3yQ99r-Bk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:36:23.879174",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Girador",
+      "Fluorocarbono",
+      "Boia",
+      "Chumbada",
+      "Anzol 2 barra zero"
+    ],
+    "iscas": [
+      "Isca Viva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nó de estrangulamento duplo",
+      "Fluorocarbono",
+      "Nó de correr"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca viva"
+    ],
+    "observacoes": []
+  }
+}

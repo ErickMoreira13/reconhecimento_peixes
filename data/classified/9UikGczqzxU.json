@@ -1,0 +1,44 @@
+{
+  "arquivo": "9UikGczqzxU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:49:27.072181",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Baldinho",
+      "Canequinha",
+      "Varas"
+    ],
+    "iscas": [
+      "Milho azedo",
+      "Milho duro"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca sem chumbado",
+      "Uso de ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "A ceva é nova e ainda está em fase inicial",
+      "O milho não azedou totalmente",
+      "O peixe está encostando, mas ainda não há capturas confirmadas",
+      "O local tem poucos lambari grandes",
+      "O usuário planeja retornar em dois dias para verificar o progresso"
+    ]
+  }
+}

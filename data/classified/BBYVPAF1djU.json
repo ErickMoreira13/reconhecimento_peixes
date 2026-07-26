@@ -1,0 +1,38 @@
+{
+  "arquivo": "BBYVPAF1djU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:49:49.770051",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [
+      "Ração de coelho",
+      "Ração de peixe",
+      "Farinha de rosca",
+      "Suco de pêssego"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Cevar",
+      "Fazer a ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Usar água do local e cevar corretamente para atrair tilápias"
+    ]
+  }
+}

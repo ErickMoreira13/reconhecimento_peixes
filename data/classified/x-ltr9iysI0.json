@@ -1,0 +1,43 @@
+{
+  "arquivo": "x-ltr9iysI0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:08:31.082829",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Cará",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Trias",
+      "Vara",
+      "Carretilha"
+    ],
+    "iscas": [
+      "Massa",
+      "Bichinho"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca ainda",
+      "Uso de anzol único",
+      "Lançamento de ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Interior de São Paulo",
+    "tipo_pesca": [
+      "Pesca ainda"
+    ],
+    "observacoes": [
+      "Condições climáticas adversas afetando a atividade dos peixes",
+      "Peixes gordos e comendo ceva, mas não se aproximando do anzol",
+      "Pescaria realizada durante a noite com baixo sucesso",
+      "Água suja e instável devido às chuvas"
+    ]
+  }
+}

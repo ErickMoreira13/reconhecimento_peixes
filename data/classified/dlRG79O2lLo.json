@@ -1,0 +1,39 @@
+{
+  "arquivo": "dlRG79O2lLo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:18:56.526119",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Traíra",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Passa-guá",
+      "Quadro de café",
+      "Foguete"
+    ],
+    "iscas": [
+      "Massa",
+      "Carne"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "IGnKEiEBInU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:33:49.095413",
+  "classificacao": {
+    "fishing_techniques": [
+      "Assembling a fishing rig for tilapia and lambari",
+      "Using a float (boinha) with a pin to adjust depth",
+      "Securing the line with a line stopper (enrolador de linha fácil)",
+      "Tying knots for the hook and float"
+    ],
+    "equipment_used": [
+      "Float (boinha) with a pin",
+      "Sinker (chumbadinha)",
+      "Hook (anzolzinho, X number 5)",
+      "Fishing line (linha)",
+      "Line stopper (enrolador de linha fácil)",
+      "Scissors (tesoura) for cutting excess line"
+    ],
+    "target_fish": [
+      "Tilapia",
+      "Lambari"
+    ],
+    "additional_details": {
+      "knots": [
+        "Basic knot for the hook",
+        "Stopper knot for the float"
+      ],
+      "line_securing_method": "Using a line stopper (enrolador de linha fácil) to prevent slipping",
+      "alternatives": "Durex adhesive or money band (elástico de dinheiro) as alternatives to the line stopper",
+      "tips": [
+        "Cut excess line after securing knots",
+        "Adjust float position using the pin for better control"
+      ]
+    }
+  }
+}

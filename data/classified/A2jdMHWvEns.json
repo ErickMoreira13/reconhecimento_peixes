@@ -1,0 +1,44 @@
+{
+  "arquivo": "A2jdMHWvEns",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:05:25.302397",
+  "classificacao": {
+    "espécies": [],
+    "equipamentos": [
+      "Anzol",
+      "EVA",
+      "Vara Crazy",
+      "Vara Lumes Intense",
+      "Carretilha FW2",
+      "Carretilha Alijos",
+      "Carretilha Sight",
+      "Camiseta Lumes",
+      "Camiseta Rota Fiche",
+      "Boné Rota Fiche",
+      "Kits Boiabarão"
+    ],
+    "iscas": [
+      "Massa branca"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Massa branca"
+      ],
+      "Ceva de Partículas": [
+        "Ração furadinha"
+      ]
+    },
+    "grãos": [
+      "Trigo"
+    ],
+    "técnicas": [
+      "Massa branca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "município": "Bauru",
+    "tipo_pesca": [],
+    "observações": "O conteúdo do vídeo descreve a preparação de uma isca (massa branca) e o uso de uma ceva (ração furadinha) como suporte. Não há menção a espécies de peixe, técnicas específicas de pesca além da preparação da isca, rios ou bacias. O local mencionado é Bauru, no estado de São Paulo."
+  }
+}

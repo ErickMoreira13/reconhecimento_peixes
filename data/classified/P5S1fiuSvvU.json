@@ -1,0 +1,23 @@
+{
+  "arquivo": "P5S1fiuSvvU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:55:45.770566",
+  "classificacao": {
+    "especies": [
+      "Pirarucu"
+    ],
+    "equipamentos": [
+      "Arpoada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

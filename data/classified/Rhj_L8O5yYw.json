@@ -1,0 +1,55 @@
+{
+  "arquivo": "Rhj_L8O5yYw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:08:47.088586",
+  "classificacao": {
+    "localizacao": [
+      "Barragem do Bizeiro",
+      "Barragem do Bezerra"
+    ],
+    "estado": "",
+    "municipio": "",
+    "especies": [
+      "Tucunaré",
+      "Piranha",
+      "Traíra",
+      "Tucunare"
+    ],
+    "equipamentos": [
+      "Nino 60",
+      "Hebet",
+      "Pescamp",
+      "Everett",
+      "Erbite"
+    ],
+    "iscas": [
+      "Camarão Artificial",
+      "Isca Corisco",
+      "Isca Usada"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Esportiva",
+      "Pesca com Isca Artificial"
+    ],
+    "rios": [
+      "Barragem do Bizeiro",
+      "Barragem do Bezerra"
+    ],
+    "bacias": [],
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Mencionado uso de cevas como cuscuz, carne, ovo e isopor.",
+      "Equipamentos incluem marcas como Nino 60, Hebet, Pescamp, Everett e Erbite.",
+      "Espécies alvo incluem tucunaré, piranha, traíra e tucunare.",
+      "Técnicas utilizadas: pesca esportiva e pesca com isca artificial."
+    ]
+  }
+}

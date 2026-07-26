@@ -1,0 +1,32 @@
+{
+  "arquivo": "g6gccM8QuXA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:16:30.183642",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Boia-pão"
+    ],
+    "iscas": [
+      "Sambiquira",
+      "Pele de Frango",
+      "Tripa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Boia-pão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "São Isabel",
+    "tipo_pesca": [
+      "Pesca na Superfície"
+    ],
+    "observacoes": []
+  }
+}

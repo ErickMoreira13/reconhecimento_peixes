@@ -1,0 +1,28 @@
+{
+  "arquivo": "MNha1hxWqZs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:57:43.810109",
+  "classificacao": {
+    "especies": [
+      "Papaterra",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Linha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Beiradão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "São Félix",
+    "tipo_pesca": [
+      "Pesca em rio"
+    ],
+    "observacoes": []
+  }
+}

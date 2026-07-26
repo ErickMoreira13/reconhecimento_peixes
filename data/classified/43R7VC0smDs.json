@@ -1,0 +1,34 @@
+{
+  "arquivo": "43R7VC0smDs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:29:59.661052",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol",
+      "Chumbinho",
+      "Camarão lastreado"
+    ],
+    "iscas": [
+      "Camarão lastreado"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de lançamento próximo à galhada",
+      "Técnica de recuperação lateral ou para cima",
+      "Variação na técnica de recuperação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de meia água"
+    ],
+    "observacoes": [
+      "Técnica produtiva e eficaz para pesca de meia água",
+      "Uso de isca comercial da marca Joey"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "6VQcsSkvLew",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:43:38.137128",
+  "classificacao": {
+    "especies": [
+      "Curimbatá",
+      "Lombão"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Motor",
+      "Piloteiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "Pimenteira do Oeste",
+    "tipo_pesca": [
+      "Pesca em Barco"
+    ],
+    "observacoes": []
+  }
+}

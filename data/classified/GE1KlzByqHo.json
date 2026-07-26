@@ -1,0 +1,36 @@
+{
+  "arquivo": "GE1KlzByqHo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:34:19.765760",
+  "classificacao": {
+    "species": [
+      "Caixara",
+      "Barbado",
+      "Barba Chata",
+      "Cachara",
+      "Cacharinha",
+      "Barbadinho",
+      "Barbadão"
+    ],
+    "equipment": [
+      "Vara Evolute",
+      "Molinete Tiga",
+      "Linha Dextra X8",
+      "Chubadinha",
+      "Nylon 080",
+      "Azol Circular"
+    ],
+    "baits": [
+      "Mussum de Isca",
+      "Torinha de Mussum"
+    ],
+    "location": "Rio Telespires (Amazon region)",
+    "techniques": [
+      "Ultralight fishing",
+      "Micro Light fishing",
+      "Using chubadinha to reach the river bottom",
+      "Waiting for strikes with a sensitive setup"
+    ],
+    "additional_notes": "Focus on species like Caixara and Barbado, using specialized equipment for light tackle fishing in the Amazon."
+  }
+}

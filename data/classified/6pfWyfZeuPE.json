@@ -1,0 +1,61 @@
+{
+  "arquivo": "6pfWyfZeuPE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:39:15.789704",
+  "classificacao": {
+    "especies": [
+      "Carapébão",
+      "Carazão",
+      "Curvinha",
+      "Voador",
+      "Baiacu",
+      "Cocoroca"
+    ],
+    "equipamentos": [
+      "Ultralight",
+      "Vara",
+      "Chumbada",
+      "Alicate",
+      "Barco",
+      "Isopor",
+      "Escada",
+      "Quartel",
+      "Panela"
+    ],
+    "iscas": [
+      "Artificial",
+      "Natural",
+      "Lula",
+      "Camarão",
+      "Esquinha Natural",
+      "Esquinha Gotinha",
+      "Manzol",
+      "Esquinha Leve"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Artificial",
+      "Pesca Natural",
+      "Arremesso",
+      "Pesca na Pedra",
+      "Pesca na Escada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca na Pedra",
+      "Pesca na Escada"
+    ],
+    "observacoes": [
+      "Diversidade de peixe",
+      "Disputa acirrada",
+      "Finalizar vídeo",
+      "Inscrever no canal",
+      "Deixar like"
+    ]
+  }
+}

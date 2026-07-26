@@ -1,0 +1,25 @@
+{
+  "arquivo": "tPnHlQ8iT_I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:12:42.697503",
+  "classificacao": {
+    "especies": [
+      "Piabanha",
+      "Prata",
+      "Exoles"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Serra do Mar"
+    ],
+    "bacias": [],
+    "estado": "Paraíba",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

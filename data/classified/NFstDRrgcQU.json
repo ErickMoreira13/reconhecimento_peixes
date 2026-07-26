@@ -1,0 +1,17 @@
+{
+  "arquivo": "NFstDRrgcQU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:01:23.155550",
+  "classificacao": {
+    "summary": "O texto é uma narrativa oral ou canção que retrata a experiência de pescar em um ambiente natural, com uma linguagem coloquial, rica em termos técnicos de pesca e interações sociais. Ele destaca a relação entre os pescadores e a natureza, a camaradagem entre os participantes, e a descrição detalhada de espécies de peixes e técnicas de pesca. O conteúdo inclui elementos como a descrição do comportamento dos peixes, a dinâmica de grupo entre os pescadores, e a utilização de termos específicos como 'bolachinha' (isca) e nomes de espécies como 'piava', 'dourado' e 'lambari'.",
+    "themes": [
+      "Relação homem-natureza",
+      "Camaradagem e interação social",
+      "Técnicas de pesca tradicionais",
+      "Cultura local e oralidade",
+      "Respeito e paciência no processo de pesca"
+    ],
+    "analysis": "O texto reflete uma tradição oral que valoriza o conhecimento local sobre ecossistemas aquáticos e a experiência prática de pesca. A linguagem informal e as repetições sugerem uma narrativa oral, possivelmente transmitida entre gerações. A ênfase em detalhes como o comportamento dos peixes e a interação entre os pescadores destaca a importância da observação e da colaboração no meio rural. Além disso, a menção a nomes de pessoas e a dinâmica de grupo sugerem uma comunidade unida por práticas compartilhadas.",
+    "cultural_context": "O conteúdo pode estar ligado a regiões de pescaria no Brasil, onde a pesca artesanal é uma prática cultural e econômica importante. A linguagem e os termos utilizados são típicos de comunidades rurais ou ribeirinhas, onde a relação com a natureza é central à sobrevivência e à identidade."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "arquivo": "i9qtr2TqHRM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:26:13.094559",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Aracu",
+      "Bodó",
+      "Sarapó",
+      "Piaba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "apneia",
+      "mergulho com compressor",
+      "câmaras de mergulho"
+    ],
+    "rios": [
+      "Otomã",
+      "Jatapô"
+    ],
+    "bacias": [
+      "Bacia do Otomã",
+      "Bacia do Jatapô"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

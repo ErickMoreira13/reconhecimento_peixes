@@ -1,0 +1,34 @@
+{
+  "arquivo": "Hi5zBXzJjUk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:45:56.270568",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Bomba potente",
+      "Mangueira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Drenagem do reservatório"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em reservatório"
+    ],
+    "observacoes": [
+      "Reservatório com mais de 200 anos de história",
+      "Profundidade estimada em 6 a 7 metros",
+      "Bagre solto há 5 anos e nunca capturado",
+      "Estimativa de crescimento de 30 kg após 5 anos",
+      "Uso de bomba potente para esvaziar o reservatório em 3 horas"
+    ]
+  }
+}

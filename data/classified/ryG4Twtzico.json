@@ -1,0 +1,33 @@
+{
+  "arquivo": "ryG4Twtzico",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:38:36.650381",
+  "classificacao": {
+    "especies": [
+      "Cangatã",
+      "Peixe árvore"
+    ],
+    "equipamentos": [
+      "Espinhel",
+      "Âncora",
+      "Boia",
+      "Corda"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com espinhel"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Espinhel"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "GtMZDpiqh7o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:17:06.144066",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara de pesca",
+      "gancho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "lançamento do anzol",
+      "recolhimento da vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "x44WktcMiCw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:20:46.415178",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Secagem do lago"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": "Os filhotinhos são oferecidos para galinhas, enquanto os adultos são capturados com rede após a secagem do lago e vendidos como filé."
+  }
+}

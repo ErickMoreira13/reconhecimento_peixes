@@ -1,0 +1,25 @@
+{
+  "arquivo": "oCn08_HvwHY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:26:10.517564",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Garrafa"
+    ],
+    "iscas": [
+      "Cheiro"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

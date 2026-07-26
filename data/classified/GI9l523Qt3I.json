@@ -1,0 +1,35 @@
+{
+  "arquivo": "GI9l523Qt3I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:50:46.202788",
+  "classificacao": {
+    "especies": [
+      "Cascudo",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca Viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de escar-viva e sardinha como iscas vivas",
+      "Menciona a captura de peixes de grande porte",
+      "Uso de varinha de bambu",
+      "Menciona a liberação de um peixe pequeno"
+    ]
+  }
+}

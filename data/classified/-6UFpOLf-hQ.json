@@ -1,0 +1,29 @@
+{
+  "arquivo": "-6UFpOLf-hQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:01:53.576960",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Zalmaro Seigo",
+      "chubadinha",
+      "linha 033 milímetros",
+      "maracuzão"
+    ],
+    "iscas": [
+      "caramujo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "isca imbatível que é caramujo",
+      "quase quebra meu maracuzão"
+    ]
+  }
+}

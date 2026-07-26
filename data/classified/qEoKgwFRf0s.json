@@ -1,0 +1,45 @@
+{
+  "arquivo": "qEoKgwFRf0s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:13:12.441555",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Sol"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Varado",
+      "Tesoura",
+      "Passador"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Fisgada curta"
+    ],
+    "rios": [
+      "Boquerão do Porto",
+      "Velha Paiaria"
+    ],
+    "bacias": [
+      "Velha Paiaria"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Não tava se encontrando tanto assim",
+      "Tá pegando umas diamantes aí no meio",
+      "Tá bonita, cara, nem força",
+      "É a única que é mais difícil de pescar que saem as cavalos"
+    ]
+  }
+}

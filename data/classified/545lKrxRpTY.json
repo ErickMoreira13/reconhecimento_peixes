@@ -1,0 +1,24 @@
+{
+  "arquivo": "545lKrxRpTY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:50:36.960404",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara curta",
+      "vara grande"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca embarcada em alto mar"
+    ],
+    "observacoes": []
+  }
+}

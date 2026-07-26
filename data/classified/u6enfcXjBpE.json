@@ -1,0 +1,27 @@
+{
+  "arquivo": "u6enfcXjBpE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T11:54:54.838892",
+  "classificacao": {
+    "especies": [
+      "Minhoca"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Telha",
+      "Caixa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Manter a umidade adequada, usar telha para evitar entrada de animais, regar sem encharcar, e substituir o esterco semanalmente."
+    ]
+  }
+}

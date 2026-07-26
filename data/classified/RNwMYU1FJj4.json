@@ -1,0 +1,35 @@
+{
+  "arquivo": "RNwMYU1FJj4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:24:08.275601",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Apaiari",
+      "Corimba"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "grãos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Sobradinho",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Importância de ter um parceiro na pesca",
+      "Frio da água e dificuldades com equipamento",
+      "Necessidade de levar equipamento de sobra",
+      "Importância de cuidar do ambiente após a pesca"
+    ]
+  }
+}

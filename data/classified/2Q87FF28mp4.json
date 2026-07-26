@@ -1,0 +1,27 @@
+{
+  "arquivo": "2Q87FF28mp4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:36:48.628071",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol",
+      "Borrachinha"
+    ],
+    "iscas": [
+      "Ração de coelho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Amarrar ração de coelho em borrachinha",
+      "Técnica de isca com ração de coelho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "oQsO3Lsb66g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T10:58:08.544789",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "saquinho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Quirera"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O saquinho dissolve na água, liberando a quireira junto com a isca."
+    ]
+  }
+}

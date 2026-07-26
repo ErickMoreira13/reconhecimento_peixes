@@ -1,0 +1,64 @@
+{
+  "arquivo": "8TA3oeNWhAg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:29:47.277109",
+  "classificacao": {
+    "species": [
+      {
+        "name": "Traíra",
+        "normalized_name": "Traíra",
+        "notes": "Mentioned as a target species in the context of fishing."
+      },
+      {
+        "name": "Piabanha",
+        "normalized_name": "Piabanha",
+        "notes": "Referenced as a fish species caught in the region."
+      },
+      {
+        "name": "Jacazinho",
+        "normalized_name": "Jacazinho",
+        "notes": "Mentioned in the transcript, though its classification as a fish requires further verification."
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Boiadeira",
+        "normalized_name": "Boiadeira",
+        "notes": "A type of fishing gear or line used in the activity."
+      },
+      {
+        "name": "Alinhada de mão",
+        "normalized_name": "Alinhada de mão",
+        "notes": "A hand line or manual fishing tool referenced in the transcript."
+      },
+      {
+        "name": "Cabrecho",
+        "normalized_name": "Cabrecho",
+        "notes": "A type of fishing rod or tackle mentioned in the context of preparation."
+      }
+    ],
+    "baits_and_lures": [
+      {
+        "name": "Sem vergonhinho",
+        "normalized_name": "Sem vergonhinho",
+        "notes": "A lure or bait type referenced in the transcript."
+      }
+    ],
+    "other_terms": [
+      {
+        "name": "Xingu Rusco",
+        "normalized_name": "Xingu Rusco",
+        "notes": "A YouTube channel or content creator associated with the video."
+      },
+      {
+        "name": "Bonézinhos",
+        "normalized_name": "Bonézinhos",
+        "notes": "Promotional items (hats) mentioned in the context of the video."
+      }
+    ],
+    "environmental_context": {
+      "location": "Brazilian rivers or lakes (implied by the fishing context).",
+      "currents": "Corredeira (rapids or currents) referenced as part of the environment."
+    }
+  }
+}

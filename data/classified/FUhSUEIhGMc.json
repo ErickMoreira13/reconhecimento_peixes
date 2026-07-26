@@ -1,0 +1,24 @@
+{
+  "arquivo": "FUhSUEIhGMc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:56:17.310709",
+  "classificacao": {
+    "fish": "tilapia",
+    "hook_size": "4",
+    "bait_type": [
+      "corn (on the cob)",
+      "corn kernels",
+      "stale corn",
+      "rabbit feed"
+    ],
+    "hooking_technique": [
+      "Insert the hook into the bottom part of the corn kernel",
+      "Cut the tip of the corn to expose the core",
+      "Use a smaller hook (size 6 or 3) for larger tilapia"
+    ],
+    "additional_notes": [
+      "Stale corn (milho azedo) is recommended for its juice as an attractant",
+      "Rabbit feed (ração de coelho) can be used as bait but is less effective when corn is the primary bait"
+    ]
+  }
+}

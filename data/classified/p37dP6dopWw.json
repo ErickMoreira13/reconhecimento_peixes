@@ -1,0 +1,27 @@
+{
+  "arquivo": "p37dP6dopWw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:53:42.110689",
+  "classificacao": {
+    "especies": [
+      "Piracema",
+      "Pial",
+      "Cu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "9Jm1n-AoaUw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:42:15.004811",
+  "classificacao": {
+    "summary": "O texto descreve a experiência de um pescador que utiliza uma canoa motorizada para pescar em uma área de mangue, enfrentando desafios como a pressão de outros pescadores, a degradação ambiental e a sobrepesca. Ele menciona o uso de redes (tarrafa) e a influência do desastre ambiental da Samarco, que afetou o ecossistema local. Além disso, o pescador promove kits de pesca e um curso sobre técnicas de pesca para robalo, destacando a importância de preservar os recursos marinhos e a necessidade de adaptação às mudanças ambientais.",
+    "environmental_concerns": [
+      "Sobrepesca",
+      "Degradation de mangues",
+      "Impacto do desastre da Samarco",
+      "Uso excessivo de redes (tarrafa)"
+    ],
+    "products_promoted": [
+      "Kits de pesca",
+      "Curso sobre pesca para robalo"
+    ],
+    "challenges": [
+      "Pressão de outros pescadores",
+      "Condições climáticas adversas (ventos fortes)",
+      "Degradation ambiental"
+    ]
+  }
+}

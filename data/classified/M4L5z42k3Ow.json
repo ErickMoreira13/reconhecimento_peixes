@@ -1,0 +1,27 @@
+{
+  "arquivo": "M4L5z42k3Ow",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:38:34.419207",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Ibitinga",
+    "tipo_pesca": [
+      "Pescaria"
+    ],
+    "observacoes": []
+  }
+}

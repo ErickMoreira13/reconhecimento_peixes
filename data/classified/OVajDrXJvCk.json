@@ -1,0 +1,36 @@
+{
+  "arquivo": "OVajDrXJvCk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:41:15.042676",
+  "classificacao": {
+    "estado": "Ceará",
+    "municipio": "",
+    "especies": [
+      "Serra",
+      "Ariacó"
+    ],
+    "equipamentos": [
+      "Anzol Cea Rook 5.0",
+      "Anzol MX Pesca",
+      "Linha MX Pesca",
+      "Carretazinhas",
+      "Malho 0.60 MX Pesca",
+      "Malho 0.70 MX Pesca",
+      "Ponteira",
+      "Linha cheinha",
+      "Nova linha",
+      "Isquinho",
+      "Marambaia",
+      "Pneus",
+      "Pedras",
+      "Fitas",
+      "Boia"
+    ],
+    "iscas": [
+      "Chila",
+      "Sardinha",
+      "Marambaia"
+    ],
+    "grãos": []
+  }
+}

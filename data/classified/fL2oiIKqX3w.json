@@ -1,0 +1,27 @@
+{
+  "arquivo": "fL2oiIKqX3w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:27:00.597321",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Tilápia",
+      "Pacu",
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa de Banana",
+      "Massa de Bolo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": "Massa de banana é uma ceva doce e versátil, pode ser armazenada na geladeira por até uma semana e é fácil de preparar com banana, farinha e açúcar."
+  }
+}

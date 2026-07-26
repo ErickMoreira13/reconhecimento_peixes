@@ -1,0 +1,23 @@
+{
+  "arquivo": "kRPDhQ-Iark",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:04:49.985832",
+  "classificacao": {
+    "especies": [
+      "camarão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Icaraú"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

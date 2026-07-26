@@ -1,0 +1,26 @@
+{
+  "arquivo": "5Xy_krGT1Ic",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:35:52.996130",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "massa de fubá"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

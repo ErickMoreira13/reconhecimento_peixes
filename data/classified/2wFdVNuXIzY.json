@@ -1,0 +1,32 @@
+{
+  "arquivo": "2wFdVNuXIzY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:40:14.884729",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "varinha de pesca",
+      "isca meia água"
+    ],
+    "iscas": [
+      "isca meia água",
+      "isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "recuperação média",
+      "toques na ponta da vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca artificial"
+    ],
+    "observacoes": [
+      "o pescador prefere recuperação contínua sem toques na ponta da vara"
+    ]
+  }
+}

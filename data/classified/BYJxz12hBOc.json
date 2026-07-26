@@ -1,0 +1,27 @@
+{
+  "arquivo": "BYJxz12hBOc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:42:33.821793",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "currículo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "currículo"
+    ],
+    "observacoes": [
+      "os dourados estavam pequenos"
+    ]
+  }
+}

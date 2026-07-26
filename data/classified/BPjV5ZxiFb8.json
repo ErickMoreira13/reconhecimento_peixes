@@ -1,0 +1,24 @@
+{
+  "arquivo": "BPjV5ZxiFb8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:31:13.072519",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "carretilhas",
+      "vara de carbono"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": ""
+  }
+}

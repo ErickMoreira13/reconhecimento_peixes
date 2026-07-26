@@ -1,0 +1,36 @@
+{
+  "arquivo": "lVFRxSHU-bI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:08:07.915731",
+  "classificacao": {
+    "especies": [
+      "Baírdia"
+    ],
+    "equipamentos": [
+      "Boia",
+      "Fieira",
+      "Hélice",
+      "Barco",
+      "Covo de iscas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Caranguejo"
+    ],
+    "observacoes": [
+      "Condições climáticas adversas com ventos de 90 km/h e ondas de 8 metros",
+      "Dificuldade em localizar equipamentos devido ao mar agitado",
+      "Necessidade de usar objetos pesados para evitar ser levado pelo vento",
+      "Tempo de permanência no mar de 48 horas",
+      "Equipamento danificado durante a navegação",
+      "Baixa quantidade de capturas apesar do tempo investido"
+    ]
+  }
+}

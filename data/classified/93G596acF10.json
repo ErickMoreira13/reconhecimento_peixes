@@ -1,0 +1,30 @@
+{
+  "arquivo": "93G596acF10",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:37:59.418400",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "cuidado não estourar a linha",
+      "olha o tamanho",
+      "ela engoliu",
+      "alcançou",
+      "vem tirando",
+      "vermelhona",
+      "lapa da tilapa",
+      "gogozinho"
+    ]
+  }
+}

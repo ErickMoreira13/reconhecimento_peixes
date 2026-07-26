@@ -1,0 +1,27 @@
+{
+  "arquivo": "okZ1IumuVtI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:54:44.130572",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Tralhas"
+    ],
+    "iscas": [
+      "Rockfish"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Um peixe foi abatido devido a lesões, enquanto outro foi solto."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "gX-N9CR_C2I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:23:09.466766",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Hélice",
+      "Boia",
+      "Artificial",
+      "Articulado",
+      "Grub"
+    ],
+    "iscas": [
+      "Franguinho",
+      "Isquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com artificial",
+      "Pescaria com boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com artificial",
+      "Pesca com boia"
+    ],
+    "observacoes": []
+  }
+}

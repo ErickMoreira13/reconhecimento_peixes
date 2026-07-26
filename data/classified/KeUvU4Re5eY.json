@@ -1,0 +1,29 @@
+{
+  "arquivo": "KeUvU4Re5eY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:36:35.261984",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "saco de ráfia",
+      "galão perfurado"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "iscas": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": ""
+  }
+}

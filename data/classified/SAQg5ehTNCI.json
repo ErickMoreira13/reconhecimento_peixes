@@ -1,0 +1,30 @@
+{
+  "arquivo": "SAQg5ehTNCI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:58:01.733001",
+  "classificacao": {
+    "species": [
+      "traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "ratinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca rápida",
+      "trabalhar a isca com movimentos rápidos e lentos"
+    ],
+    "rios": [
+      "Jaguaré Espírito Santo"
+    ],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "Jaguaré",
+    "tipo_pesca": [
+      "pesca rápida",
+      "pesca de traíra"
+    ]
+  }
+}

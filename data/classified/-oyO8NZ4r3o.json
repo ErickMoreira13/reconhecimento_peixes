@@ -1,0 +1,19 @@
+{
+  "arquivo": "-oyO8NZ4r3o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T11:26:37.351103",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca intensa, com o pescador utilizando duas carretilhas (Emery 8000 e Ceres 8000) e capturando múltiplos peixes (dublé e triplé). Ele menciona condições favoráveis (tempo, horário) e a qualidade dos peixes pescados. O relato é entusiasmado, destacando a eficiência do equipamento e a satisfação com o resultado.",
+    "key_points": [
+      "Uso de duas carretilhas diferentes (Emery 8000 e Ceres 8000).",
+      "Captura de múltiplos peixes (dublé e triplé).",
+      "Condições climáticas favoráveis.",
+      "Foco na qualidade dos peixes pescados.",
+      "Entusiasmo com o desempenho do equipamento."
+    ],
+    "terms": {
+      "dublé": "Captura de dois peixes simultaneamente.",
+      "triplé": "Captura de três peixes simultaneamente."
+    }
+  }
+}

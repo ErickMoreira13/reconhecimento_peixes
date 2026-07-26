@@ -1,0 +1,23 @@
+{
+  "arquivo": "RQNJgZVvsdM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:26:32.178388",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Xavantim"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

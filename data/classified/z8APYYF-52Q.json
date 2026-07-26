@@ -1,0 +1,50 @@
+{
+  "arquivo": "z8APYYF-52Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:01:35.244971",
+  "classificacao": {
+    "species": [
+      "Punaré",
+      "Matrinchã",
+      "Jacundá",
+      "Piau",
+      "Pacu",
+      "Cachara",
+      "Capareia",
+      "Traíra",
+      "Toconaré",
+      "Peixe elétrico",
+      "Pacu amarelo",
+      "Lapa de Pacu",
+      "Pacu rosa",
+      "Toconar",
+      "Peixe biabai"
+    ],
+    "equipment": [
+      "malinha",
+      "câmera"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "pescada",
+      "ir por cima das pedras",
+      "jogar de novo"
+    ],
+    "rivers": [
+      "Rio Curuá"
+    ],
+    "basins": [],
+    "state": "Pará",
+    "municipality": "",
+    "type_of_fishing": "pesca esportiva",
+    "observations": [
+      "Eles gostam de orar!",
+      "Léo do céu!",
+      "Borrachudo demais!",
+      "Toconar é violento!",
+      "peixe biabai está lá, hein!"
+    ]
+  }
+}

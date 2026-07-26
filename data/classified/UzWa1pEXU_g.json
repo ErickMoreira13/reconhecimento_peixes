@@ -1,0 +1,26 @@
+{
+  "arquivo": "UzWa1pEXU_g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:24:29.597091",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Vara telescópica",
+      "Vara de mão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe capturado com 60-61 cm de comprimento"
+    ]
+  }
+}

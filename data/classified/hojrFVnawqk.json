@@ -1,0 +1,43 @@
+{
+  "arquivo": "hojrFVnawqk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:05:59.893361",
+  "classificacao": {
+    "especies": [
+      "Tainha",
+      "Agulhinha",
+      "Carapeba",
+      "Judeu",
+      "Maranhinha"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Malha",
+      "Fogareira"
+    ],
+    "iscas": [
+      "Peixinhos"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com rede",
+      "Pescaria de ariacó"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "Capuí",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca com rede",
+      "Pescaria de ariacó"
+    ],
+    "observacoes": [
+      "Camera principal com problema",
+      "Localização perto de Fortaleza",
+      "Dificuldade em pegar peixe",
+      "Preparação do almoço com peixe pescado"
+    ]
+  }
+}

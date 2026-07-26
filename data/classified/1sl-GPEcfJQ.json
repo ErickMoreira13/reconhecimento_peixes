@@ -1,0 +1,34 @@
+{
+  "arquivo": "1sl-GPEcfJQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:49:52.246449",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Dourado",
+      "Piranha",
+      "Patinguinha",
+      "Piroca"
+    ],
+    "equipamentos": [
+      "coração de boi",
+      "skin"
+    ],
+    "iscas": [
+      "Anguila",
+      "Espada"
+    ],
+    "cevas": {
+      "ceva_particulas": "galão perfurado",
+      "ceva_proteica": "farinha de peixe",
+      "graos": ""
+    },
+    "tecnicas": [],
+    "rios": "",
+    "bacias": "",
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": "Temperatura baixa no local"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "qOQ3vbznXKA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:55:34.646920",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Azulão"
+    ],
+    "equipamentos": [
+      "Hélice",
+      "Turbo 90"
+    ],
+    "iscas": [
+      "Paradinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Paradinha"
+    ],
+    "rios": [
+      "Tocantins"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Fundo"
+    ],
+    "observacoes": [
+      "Preservação do local",
+      "Peixes saudáveis e fortes",
+      "Localização na ilha do Bananá"
+    ]
+  }
+}

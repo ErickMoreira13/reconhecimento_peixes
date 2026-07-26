@@ -1,0 +1,27 @@
+{
+  "arquivo": "7pMI0rLcQBo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:02:08.717365",
+  "classificacao": {
+    "especies": [
+      "piagunha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Imbé"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "pescaria de piagunha"
+    ],
+    "observacoes": [
+      "esperando pescar ambruta"
+    ]
+  }
+}

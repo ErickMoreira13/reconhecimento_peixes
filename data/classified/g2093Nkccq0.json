@@ -1,0 +1,16 @@
+{
+  "arquivo": "g2093Nkccq0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:13:57.998737",
+  "classificacao": {
+    "summary": "O texto é um script de vídeo em português do Brasil, provavelmente de um vlog ou canal de YouTube sobre pesca. O criador do conteúdo descreve a experiência de pescar peixes como 'piaus' e 'mamão', destacando a excitação e os detalhes do processo. Ele também menciona atingir 30.000 seguidores no YouTube, agradecendo aos espectadores e convidando-os a participar de um grupo no WhatsApp. O conteúdo é informal, cheio de entusiasmo e focado em compartilhar a experiência de pesca com a audiência.",
+    "possible_needs": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise de engajamento do público",
+      "Dicas para melhorar o script",
+      "Estratégias de marketing para o canal"
+    ],
+    "next_steps": "Por favor, me informe o que você gostaria de fazer com esse texto (ex: resumo, tradução, análise, etc.) para que eu possa ajudar de maneira mais específica."
+  }
+}

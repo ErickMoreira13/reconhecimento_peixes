@@ -1,0 +1,27 @@
+{
+  "arquivo": "z56sWAMLYuo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:59:03.186250",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Iscas Improváveis"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Piranha",
+      "Pesca de Pacu"
+    ],
+    "observacoes": []
+  }
+}

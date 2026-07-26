@@ -1,0 +1,28 @@
+{
+  "arquivo": "mpMhhtUNnBg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:00:21.422883",
+  "classificacao": {
+    "especies": [
+      "Corimba",
+      "Piapara"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Farinha de Trigo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

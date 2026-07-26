@@ -1,0 +1,29 @@
+{
+  "arquivo": "9ScrpHok-YM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:48:30.552998",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Anzol de haste longa",
+      "Marina Sports 1941N"
+    ],
+    "iscas": [
+      "Coração",
+      "Miocosu"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em águas abertas"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "veJzn4uQJ-c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:45:11.473742",
+  "classificacao": {
+    "especies": [
+      "Pirarucu",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Chumbinho",
+      "Boia",
+      "Chicotinho",
+      "Anzolzinho"
+    ],
+    "iscas": [
+      "Tilápia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com anzol pequeno e isca pequena"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "_BQD6rF0ySE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:55:56.629615",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tubarão"
+    ],
+    "equipamentos": [
+      "Esquinha de fundo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Apresentação de ponto"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "arquivo": "lCFBxIRBJiI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:02:02.915880",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "isca",
+      "Joana da borboleta"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Riozinho"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": [
+      "dificuldade em capturar",
+      "peixe escapando",
+      "uso da isca Joana da borboleta",
+      "trabalho é lento"
+    ]
+  }
+}

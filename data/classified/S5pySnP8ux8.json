@@ -1,0 +1,21 @@
+{
+  "arquivo": "S5pySnP8ux8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:44:05.683893",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Jota Power"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

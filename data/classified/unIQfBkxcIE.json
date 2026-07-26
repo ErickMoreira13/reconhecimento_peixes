@@ -1,0 +1,44 @@
+{
+  "arquivo": "unIQfBkxcIE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:21:21.805338",
+  "classificacao": {
+    "especies": [
+      "Campineiro",
+      "Chimburê",
+      "Curimba",
+      "Cascudo"
+    ],
+    "equipamentos": [
+      "Toça"
+    ],
+    "iscas": [
+      "Folha de Abóbora",
+      "Capim"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Uso de Toça com Capim e Folha de Abóbora",
+      "Posicionamento da Toça a 30 cm do Fundo",
+      "Evitar Amarrar Tudo o que é Tragado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Ceva"
+    ],
+    "observacoes": [
+      "A ceva foi feita com capim marmelo e folha de abóbora",
+      "O peixe comeu o talo do capim e parte da folha de abóbora",
+      "Recomenda-se amarrar apenas um terço da ceva para evitar que os peixes só consumam o que foi amarrado"
+    ]
+  }
+}

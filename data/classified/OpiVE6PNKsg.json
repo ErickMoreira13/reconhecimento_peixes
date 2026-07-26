@@ -1,0 +1,38 @@
+{
+  "arquivo": "OpiVE6PNKsg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:59:43.030617",
+  "classificacao": {
+    "especies": [
+      "Azulão",
+      "Amarelo"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Remo",
+      "Régua"
+    ],
+    "iscas": [
+      "Alho",
+      "Cebola",
+      "Salsinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Poitinha",
+      "Pesca Subsuperficial",
+      "Esquema Transparente"
+    ],
+    "rios": [
+      "Paranazão"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Tupã",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

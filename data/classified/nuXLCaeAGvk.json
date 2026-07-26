@@ -1,0 +1,28 @@
+{
+  "arquivo": "nuXLCaeAGvk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:36:41.950977",
+  "classificacao": {
+    "especies": [
+      "cará",
+      "barajuá",
+      "traíra",
+      "Aruanã",
+      "aramanã"
+    ],
+    "equipamentos": [
+      "arco e flecha",
+      "canoas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca silenciosa",
+      "uso de arco e flecha"
+    ],
+    "rios": [
+      "Rio Ariaú"
+    ]
+  }
+}

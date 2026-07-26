@@ -1,0 +1,70 @@
+{
+  "arquivo": "9yfOxvygoS4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:50:54.371270",
+  "classificacao": {
+    "summary": {
+      "main_topics": [
+        "Discussão sobre diferentes tipos de canas de pesca (Whitehawk, Jaú, PEN Mariner 2, Rio City, Ero Marathi) e seus recursos (materiais, potência, comprimento, ação da cana)."
+      ],
+      "products_features": {
+        "Whitehawk": {
+          "material": "fibra de carbono",
+          "action": "ação de curva",
+          "components": [
+            "gimbal de alumínio",
+            "cabo de EVA",
+            "trava na mão"
+          ]
+        },
+        "Jaú": {
+          "material": "fibra de carbono",
+          "action": "ação de curva",
+          "components": [
+            "gimbal de alumínio",
+            "cabo de EVA",
+            "trava na mão"
+          ]
+        },
+        "PEN Mariner 2": {
+          "material": "fibra de carbono",
+          "action": "ação de curva",
+          "components": [
+            "gimbal de alumínio",
+            "cabo de EVA",
+            "trava na mão"
+          ]
+        },
+        "Rio City": {
+          "material": "fibra de carbono",
+          "action": "ação de curva",
+          "components": [
+            "gimbal de alumínio",
+            "cabo de EVA",
+            "trava na mão"
+          ]
+        },
+        "Ero Marathi": {
+          "material": "fibra de carbono",
+          "action": "ação de curva",
+          "components": [
+            "gimbal de alumínio",
+            "cabo de EVA",
+            "trava na mão"
+          ]
+        }
+      },
+      "reels_mentioned": [
+        "Senator",
+        "Skol 60LD"
+      ],
+      "additional_info": {
+        "support": "suporte para canas fabricado por Rafa Fava",
+        "left-handed_conversions": "conversão para canas canhotos",
+        "warranty": "garantia de 1 ano",
+        "partnership": "nova parceria com Léo",
+        "website": "temraiba.com.br"
+      }
+    }
+  }
+}

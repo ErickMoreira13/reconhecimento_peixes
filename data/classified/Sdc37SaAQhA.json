@@ -1,0 +1,24 @@
+{
+  "arquivo": "Sdc37SaAQhA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:57:27.012012",
+  "classificacao": {
+    "species": [
+      "piranha",
+      "pacu"
+    ],
+    "equipment": [
+      "vara",
+      "rede"
+    ],
+    "baits": [],
+    "state": "Maranhão",
+    "municipality": "Coroatá",
+    "river": "",
+    "video_description": "A video showing the process of fishing in the region of Caxias do Maranhão, Codó, and Coroatá, focusing on the use of a fishing rod and net to catch piranha and pacu in a river near a mineral water spring.",
+    "other_details": {
+      "water_source": "fonte de água mineral",
+      "location_details": "Caxias do Maranhão, Codó, Coroatá"
+    }
+  }
+}

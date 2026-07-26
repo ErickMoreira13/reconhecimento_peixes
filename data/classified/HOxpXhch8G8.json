@@ -1,0 +1,32 @@
+{
+  "arquivo": "HOxpXhch8G8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:06:53.636781",
+  "classificacao": {
+    "especies": [
+      "Jaluzão",
+      "Centenário"
+    ],
+    "equipamentos": [
+      "Chumbi"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Ivaí"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "26 de outubro 2025, final da temporada",
+      "Rio Ivaí criação",
+      "chumbi em pesca",
+      "soltura do centenário",
+      "vozão do Ivaí"
+    ]
+  }
+}

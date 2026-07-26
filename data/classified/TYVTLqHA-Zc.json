@@ -1,0 +1,32 @@
+{
+  "arquivo": "TYVTLqHA-Zc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:32:48.048092",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Coração de Boi",
+      "Pinga"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Piau",
+      "Pesca de Rio",
+      "Pesca em Pesqueiro"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Piau",
+      "Pesca de Rio"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "-Y6Ok-46hE8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:55:05.546521",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Pirarara",
+      "Tilápia",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "hélice",
+      "vara de porco"
+    ],
+    "iscas": [
+      "inseto",
+      "minhoca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

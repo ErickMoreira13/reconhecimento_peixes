@@ -1,0 +1,25 @@
+{
+  "arquivo": "NfbTAa6WloI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:00:41.760783",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Chumbo"
+    ],
+    "iscas": [
+      "Isquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

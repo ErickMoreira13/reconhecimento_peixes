@@ -1,0 +1,22 @@
+{
+  "arquivo": "N-MytBpVznA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:20:22.575594",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Come e Suelta",
+      "Variação de cadência e velocidade"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "BrnuS-pAt90",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:34:29.329836",
+  "classificacao": {
+    "especies": [
+      "Cardumo",
+      "Chupo"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Barco",
+      "Carretilha",
+      "Carretilha folgadona"
+    ],
+    "iscas": [
+      "Farinxica"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Abre a flexão",
+      "Folga",
+      "Solta o bichão",
+      "Trabalha com ele"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Sol nem saiu",
+      "Pegou o bicho",
+      "Solta o bichão",
+      "Medição do monstro",
+      "Soltura do bichão"
+    ]
+  }
+}

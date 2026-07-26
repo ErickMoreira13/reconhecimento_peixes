@@ -1,0 +1,41 @@
+{
+  "arquivo": "Z7hKJNqidRo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:00:14.289185",
+  "classificacao": {
+    "especies": [
+      "Sargo"
+    ],
+    "equipamentos": [
+      "Dente",
+      "Lanterna",
+      "Arma de 70",
+      "GoPro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Atrativo Sonoro",
+      "Pescaria em Dupla",
+      "Desentocamento"
+    ],
+    "rios": [],
+    "bacias": [
+      "Baía de Guanabara"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Subaquática"
+    ],
+    "observacoes": [
+      "Água empoeirada",
+      "Visibilidade de 1,5 metro",
+      "Câmera embaçada",
+      "Condições típicas da Baía de Guanabara",
+      "Água no fundo",
+      "Necessidade de lanterna para enxergar"
+    ]
+  }
+}

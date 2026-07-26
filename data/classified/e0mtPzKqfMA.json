@@ -1,0 +1,21 @@
+{
+  "arquivo": "e0mtPzKqfMA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:34:26.562781",
+  "classificacao": {
+    "especies": [
+      "Peruai"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

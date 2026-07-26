@@ -1,0 +1,37 @@
+{
+  "arquivo": "QPiMtUBVVkM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:57:40.233182",
+  "classificacao": {
+    "especies": [
+      "Peixe de marra",
+      "Peixe de mão"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Caixa d'água",
+      "Saco",
+      "Balança"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com rede"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de transferência de peixes"
+    ],
+    "observacoes": [
+      "Uso de ração para atrair os peixes",
+      "Transferência de 300 kg de peixes",
+      "Utilização de sacos e balança para pesagem"
+    ]
+  }
+}

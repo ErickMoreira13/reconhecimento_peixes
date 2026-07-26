@@ -1,0 +1,36 @@
+{
+  "arquivo": "3cA5h8VxHn0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:56:49.283453",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Chicote",
+      "Boia torpedo",
+      "Seringa",
+      "Torpedo"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pão de fundo",
+      "Pão afundado",
+      "Pão na seringa",
+      "Boia-pão",
+      "Pão flutuante"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

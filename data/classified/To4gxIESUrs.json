@@ -1,0 +1,39 @@
+{
+  "arquivo": "To4gxIESUrs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:10:26.075484",
+  "classificacao": {
+    "summary": "The text is a casual conversation between friends during a fishing trip, discussing various fish species (pacu, tambaqui, lepa), technical aspects of fishing, and a humorous incident involving a kayak taking on water. The group also mentions preparing a meal with the caught fish for an upcoming birthday celebration.",
+    "key_points": {
+      "fish_species": [
+        "pacu",
+        "tambaqui",
+        "lepa",
+        "pacuzão"
+      ],
+      "fishing_techniques": [
+        "using bait",
+        "handling large fish"
+      ],
+      "incident": "kayak filling with water",
+      "cultural_context": [
+        "birthday meal preparation",
+        "local fish species"
+      ],
+      "language_notes": {
+        "portuguese_terms": [
+          "caiaque",
+          "lepa",
+          "pacuzão"
+        ],
+        "informal_conversation": "colloquial language, interruptions, humor"
+      }
+    },
+    "translation": "The conversation includes phrases like 'Vamos ver se dá pra pescar um pacu aqui' (Let's see if we can catch a pacu here) and 'O caiaque está cheio de água' (The kayak is full of water). They discuss the size of the fish, the difficulty of handling large catches, and the plan to cook the fish for a birthday party.",
+    "analysis": {
+      "social_dynamics": "Friends sharing a casual, humorous experience",
+      "practical_advice": "Handling water in a kayak, identifying fish species",
+      "cultural_insights": "Local fishing practices and meal preparation traditions"
+    }
+  }
+}

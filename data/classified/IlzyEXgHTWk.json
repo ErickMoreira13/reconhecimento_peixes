@@ -1,0 +1,36 @@
+{
+  "arquivo": "IlzyEXgHTWk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T16:45:13.630227",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Piraíba",
+      "Jaú",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Varavenza Big Game",
+      "Carretilha Titã TI-300",
+      "Linha Multifilamento Vexter X8",
+      "Anzol Circular",
+      "Lãdor Vexter Super Nylon",
+      "Linha Vexter Nylon 0,80 mm"
+    ],
+    "isca": [
+      "Tuvinha",
+      "Isca Branca",
+      "Pedaço de Peixe"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "localização": [
+      "Telespires Lodge",
+      "Pantanal",
+      "Amazônia"
+    ],
+    "outros detalhes": [
+      "Hospital do Câncer de Porto Velho e Rondônia"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "arquivo": "Qz3J7Lo0-bQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:40:18.588601",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Varinha",
+      "Chumbadinha",
+      "Anzol",
+      "Linha",
+      "Munilete"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Snap"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Guaratuba",
+    "tipo_pesca": [
+      "Pesca em Água Salgada",
+      "Pesca no Mar"
+    ],
+    "observacoes": [
+      "Primeira vez pescando no mar",
+      "Água muito funda",
+      "Usando técnica de snap",
+      "Equipamento barato"
+    ]
+  }
+}

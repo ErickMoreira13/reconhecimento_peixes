@@ -1,0 +1,38 @@
+{
+  "arquivo": "3hAFKpRDgww",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:58:36.998521",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Carpa",
+      "Mandi"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Pesqueiro"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em pesqueiro"
+    ],
+    "observacoes": [
+      "A massa pode ser armazenada na geladeira para uso posterior",
+      "Pode ser utilizado feromônio como alternativa",
+      "A massa é eficaz para pescar tilápia, carpa e mandi"
+    ]
+  }
+}

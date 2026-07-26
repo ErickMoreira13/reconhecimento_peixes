@@ -1,0 +1,32 @@
+{
+  "arquivo": "-GkgHmj-xt0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:17:33.477457",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Galão perfurado"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "O bagulho tá mil graus",
+      "não tá parecendo traíra",
+      "escapou Douglas",
+      "perdi uma aqui"
+    ]
+  }
+}

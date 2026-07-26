@@ -1,0 +1,23 @@
+{
+  "arquivo": "15eANk1f5yI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:57:28.710640",
+  "classificacao": {
+    "especies": [
+      "Cascavel"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tietê"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

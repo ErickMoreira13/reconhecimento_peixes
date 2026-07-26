@@ -1,0 +1,33 @@
+{
+  "arquivo": "kVOHCaug-EY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:15:20.108606",
+  "classificacao": {
+    "especies": [
+      "Canalha",
+      "Tubarana",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Linha fina",
+      "Fio"
+    ],
+    "iscas": [
+      "Baita",
+      "Frogzinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tibagi"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Jaguarão",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

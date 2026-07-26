@@ -1,0 +1,39 @@
+{
+  "arquivo": "FTHpuXYxqg8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:54:51.533189",
+  "classificacao": {
+    "especies": [
+      "Oscar",
+      "Tucundaré",
+      "Traíra",
+      "Tilápia",
+      "Carababona",
+      "Amarelão",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "ZigStick",
+      "GoPro",
+      "vara",
+      "carretilha",
+      "canivete"
+    ],
+    "iscas": [
+      "isca da Shopee",
+      "risquinha translúcida",
+      "rosante"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

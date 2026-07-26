@@ -1,0 +1,28 @@
+{
+  "arquivo": "nCZewddTXdE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:40:18.181063",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Mandi",
+      "Aruanã"
+    ],
+    "equipamentos": [
+      "Vara de pescar",
+      "Canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

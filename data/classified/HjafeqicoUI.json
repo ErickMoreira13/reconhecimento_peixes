@@ -1,0 +1,35 @@
+{
+  "arquivo": "HjafeqicoUI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:48:00.845884",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Pacu",
+      "Piau",
+      "Piau Sul",
+      "Piapara",
+      "Xamburê"
+    ],
+    "equipamentos": [
+      "Fio",
+      "Linha",
+      "Paralelepípedo",
+      "Saco de Cebola",
+      "Saco de Laranja"
+    ],
+    "iscas": [
+      "Milho Verde"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Uso de ceva em sacos com peso para atrair peixes a longo prazo"
+    ]
+  }
+}

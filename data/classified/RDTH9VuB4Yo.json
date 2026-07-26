@@ -1,0 +1,86 @@
+{
+  "arquivo": "RDTH9VuB4Yo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:05:01.457763",
+  "classificacao": {
+    "especies": [
+      "Curim",
+      "Barbado",
+      "Pacu",
+      "Piranha",
+      "Piapara",
+      "Porquinho"
+    ],
+    "equipamentos": [
+      "vara",
+      "anzol",
+      "traia",
+      "trainha",
+      "boia",
+      "cabo de aço",
+      "celular",
+      "wi-fi",
+      "barcaça",
+      "barco",
+      "cachaça",
+      "linguiça",
+      "arroz",
+      "caipirinha",
+      "suquinho de limão",
+      "cachaçinha",
+      "mexidinha",
+      "copa",
+      "banquinha",
+      "TT",
+      "pontão",
+      "ponte",
+      "barragem"
+    ],
+    "localidades": [
+      "Barragem",
+      "Vila dos Pescadores",
+      "Rio Tietê",
+      "Ubarana",
+      "Poção",
+      "TT"
+    ],
+    "técnicas": [
+      "usar boia",
+      "trocar a traia",
+      "usar traia mais forte",
+      "usar anzol maior",
+      "usar trainha",
+      "usar eco"
+    ],
+    "tipos de iscas": [
+      "linguiça mista",
+      "suquinho de limão",
+      "cachaçinha",
+      "caipirinha",
+      "eco"
+    ],
+    "tipos de anzóis": [
+      "anzol",
+      "anzol maior",
+      "anzol embora"
+    ],
+    "tipos de linhas": [
+      "traia",
+      "trainha",
+      "traia de piapara",
+      "traia mais forte"
+    ],
+    "tipos de bobinas": [],
+    "tipos de carretéis": [],
+    "tipos de caniços": [
+      "vara"
+    ],
+    "tipos de cabos": [
+      "cabo de aço"
+    ],
+    "tipos de flutuadores": [
+      "boia"
+    ],
+    "tipos de pesos": []
+  }
+}

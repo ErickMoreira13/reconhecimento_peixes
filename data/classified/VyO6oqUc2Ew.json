@@ -1,0 +1,21 @@
+{
+  "arquivo": "VyO6oqUc2Ew",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:30:34.884490",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Mete Pau"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

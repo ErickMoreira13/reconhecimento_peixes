@@ -1,0 +1,24 @@
+{
+  "arquivo": "5lyHAXMmLww",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:18:03.796008",
+  "classificacao": {
+    "especies": [
+      "Amarelo",
+      "Pirão"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Bolacha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "arquivo": "xkSQh7O3IbY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:04:43.502760",
+  "classificacao": {
+    "especies": [
+      "Camaron",
+      "Piranha",
+      "Tilapia",
+      "Carababona",
+      "Caraxi",
+      "Abona",
+      "Chinoca"
+    ],
+    "equipamentos": [
+      "Varinha telescópica",
+      "Linha 035 mm",
+      "Boinha",
+      "Chumbinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Lagoa do Aguiar",
+    "tipo_pesca": [
+      "Pesca de camarão",
+      "Pesca de peixe"
+    ],
+    "observacoes": [
+      "Uso de camarão em moqueca",
+      "Peixes capturados com varinha telescópica",
+      "Mencionado preparo de moqueca com camarão e peixe",
+      "Localização na Lagoa do Aguiar"
+    ]
+  }
+}

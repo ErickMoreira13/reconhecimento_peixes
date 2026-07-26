@@ -1,0 +1,36 @@
+{
+  "arquivo": "e8uJYn_zNHA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:48:21.756864",
+  "classificacao": {
+    "especies": [
+      "Fiotim"
+    ],
+    "equipamentos": [
+      "vara com carretilha",
+      "vara com molinete",
+      "chumbada",
+      "girador",
+      "chicote",
+      "anzol Mario Sego",
+      "anzol Pacu da Pinaco",
+      "anzol Edgap",
+      "anzol Roubaleiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca de fundo",
+      "máfiche"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de fundo"
+    ],
+    "observacoes": []
+  }
+}

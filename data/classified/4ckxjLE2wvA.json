@@ -1,0 +1,27 @@
+{
+  "arquivo": "4ckxjLE2wvA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:34:58.190313",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Jaca"
+    ],
+    "equipamentos": [
+      "Popper"
+    ],
+    "iscas": [
+      "Popper"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "rios": [],
+    "cevas": [],
+    "temperatura_da_agua": "",
+    "observacoes": ""
+  }
+}

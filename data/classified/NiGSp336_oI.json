@@ -1,0 +1,32 @@
+{
+  "arquivo": "NiGSp336_oI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:04:53.501636",
+  "classificacao": {
+    "especies": [
+      "Curvina",
+      "Papaterra"
+    ],
+    "equipamentos": [
+      "Pernadas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "ajuste de profundidade com pernadas"
+    ],
+    "rios": [
+      "Barrilha do Cabo Branco"
+    ],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca artificial"
+    ],
+    "observacoes": [
+      "peixes mais presentes em áreas profundas"
+    ]
+  }
+}

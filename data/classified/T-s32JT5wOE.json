@@ -1,0 +1,22 @@
+{
+  "arquivo": "T-s32JT5wOE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:41:03.539379",
+  "classificacao": {
+    "summary": "O vídeo apresenta um pescador amador que, após capturar um peixe, corta-o em duas partes para usar como iscas. Ele utiliza um cabo de aço e demonstra técnicas de pesca, enquanto expressa gratidão e menciona ações em nome de Jesus. O conteúdo inclui referências religiosas, nomes de participantes (Val, Diego, entre outros) e promove o canal de YouTube 'Pescador Amador'.",
+    "key_points": [
+      "Uso de peixe cortado como isca",
+      "Técnica com cabo de aço",
+      "Elementos religiosos",
+      "Promoção do canal de YouTube",
+      "Participação de Val e Diego"
+    ],
+    "possible_requests": [
+      "Tradução do vídeo",
+      "Resumo detalhado",
+      "Análise de técnicas de pesca",
+      "Dicas para criar conteúdo de YouTube",
+      "Explicação sobre a simbologia religiosa"
+    ]
+  }
+}

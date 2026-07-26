@@ -1,0 +1,44 @@
+{
+  "arquivo": "A2kZyBY6v4Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:05:37.155150",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Sardinha",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Caniço",
+      "Bote",
+      "Canoa",
+      "Espinhel"
+    ],
+    "iscas": [
+      "Isca",
+      "Titanga"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca com caniço"
+    ],
+    "rios": [
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Água encheu muito devido às chuvas",
+      "Encontro com cobra durante a pescaria",
+      "Uso de iscas molinhas que se degradam rapidamente"
+    ]
+  }
+}

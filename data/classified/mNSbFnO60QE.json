@@ -1,0 +1,24 @@
+{
+  "arquivo": "mNSbFnO60QE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:57:50.716629",
+  "classificacao": {
+    "especies": [
+      "Paca",
+      "Capivara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

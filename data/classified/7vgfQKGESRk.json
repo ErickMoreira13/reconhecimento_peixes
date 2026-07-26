@@ -1,0 +1,28 @@
+{
+  "arquivo": "7vgfQKGESRk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:04:06.530286",
+  "classificacao": {
+    "resumo": "O conteúdo é um relato de uma experiência de pesca, com destaque para a dificuldade em capturar uma matrinchã, a captura de outros peixes como pacu e tambaqui, e a menção a uma campanha de conservação (limite de 5 kg por pescador). Há também uma promoção de um sorteio em outro canal e referências a técnicas de pesca (uso de soja como isca).",
+    "pontos_chave": {
+      "especie_destaque": "Matrinchã (dificuldade na captura)",
+      "outras_espécies": [
+        "Pacu",
+        "Tambaqui",
+        "Piracanjuba",
+        "Surubim"
+      ],
+      "técnicas": [
+        "Uso de soja como isca",
+        "Pescaria em local com vegetação densa"
+      ],
+      "conservação": "Menciona o limite de 5 kg por pescador para preservação",
+      "promoção": "Sorteio de um kit de pesca em outro canal (canal do João)"
+    },
+    "contexto": {
+      "local": "Água doce (possivelmente Rio Amazonas ou região similar)",
+      "canal": "Vídeo produzido para um canal de pesca (não especificado)",
+      "tom": "Coloquial, com elementos de entretenimento e educação ambiental"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "wGZWR2lq7G0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:07:04.715913",
+  "classificacao": {
+    "especies": [
+      "Voadeira"
+    ],
+    "equipamentos": [
+      "Linha de mão",
+      "Balde",
+      "Anzol"
+    ],
+    "iscas": [
+      "Búzio"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de linha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de linha"
+    ],
+    "observacoes": [
+      "Voadeiras são raras nesse local"
+    ]
+  }
+}

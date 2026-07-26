@@ -1,0 +1,15 @@
+{
+  "arquivo": "g3y1AMqn8Ag",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:15:36.295599",
+  "classificacao": {
+    "summary": "O texto parece ser um roteiro de vídeo informal, provavelmente de um vlog, que descreve a preparação de um prato local (possivelmente 'amatrinchão', um tipo de peixe ou prato da região amazônica), incluindo detalhes sobre a receita (como o uso de 'vinagrete', uma salada de vinagre), a experiência de comer e, posteriormente, uma atividade de mergulho no rio Amazonas, com menções a 'raia' (tubarão) e 'Lompa' (possivelmente um apelido ou referência a alguém).",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução do texto",
+      "Análise da receita mencionada",
+      "Sugestões para melhorar o roteiro",
+      "Explicação sobre termos regionais (como 'amatrinchão')"
+    ]
+  }
+}

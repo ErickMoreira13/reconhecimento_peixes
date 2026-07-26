@@ -1,0 +1,27 @@
+{
+  "arquivo": "b1z_kZilWxk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T10:00:40.165204",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "São Francisco"
+    ],
+    "bacias": [
+      "Bacia do Rio São Francisco"
+    ],
+    "estado": "Minas Gerais",
+    "municipio": "Três Marias",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "A Represa de Três Marias é um polo de turismo e pesca esportiva, onde recordes são batidos"
+    ]
+  }
+}

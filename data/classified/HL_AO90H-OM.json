@@ -1,0 +1,25 @@
+{
+  "arquivo": "HL_AO90H-OM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:50:42.365264",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Frigideirona"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Amazonas"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Manacapuru",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "o2hMApPe6EI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:01:36.878625",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Isque",
+      "Boga",
+      "Snap"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "yev4b4PUXf8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:10:19.557189",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Girador",
+      "Empate de Aço",
+      "Buchine",
+      "Snap",
+      "Chumbada",
+      "Luminoso",
+      "Maruselho 30"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chicote"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Embarcado"
+    ],
+    "observacoes": ""
+  }
+}

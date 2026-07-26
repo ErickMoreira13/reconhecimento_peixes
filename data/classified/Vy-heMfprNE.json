@@ -1,0 +1,40 @@
+{
+  "arquivo": "Vy-heMfprNE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:29:44.161184",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Jurupoca",
+      "Pintado",
+      "Jaú",
+      "Piapara"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Caranguejo",
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Truvilha"
+    ],
+    "rios": [
+      "Rio Taquari",
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixes congelados e descongelados após captura",
+      "Uso de truvilha para pesca noturna em vídeo futuro"
+    ]
+  }
+}

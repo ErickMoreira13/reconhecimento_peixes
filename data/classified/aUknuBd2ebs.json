@@ -1,0 +1,23 @@
+{
+  "arquivo": "aUknuBd2ebs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:16:04.842830",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chuveirinho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Boituva",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "7P7p72akseM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:43:44.756726",
+  "classificacao": {
+    "especies": [
+      "Polvo"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itaipu"
+    ],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "Niterói",
+    "tipo_pesca": [],
+    "observacoes": "A pescaria foi considerada falhada, mas o pescador conseguiu capturar um polvo."
+  }
+}

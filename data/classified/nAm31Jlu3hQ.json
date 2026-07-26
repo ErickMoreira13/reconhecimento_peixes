@@ -1,0 +1,35 @@
+{
+  "arquivo": "nAm31Jlu3hQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:26:56.924241",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara Datson",
+      "Cabinho de aço",
+      "Líder"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de pesca em rio com pedras",
+      "Uso do líder",
+      "Pescar com líder em áreas rochosas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Importância do uso do líder em rios com pedras",
+      "Medir o peixe em vez de pesar para evitar danos",
+      "Uso de cabinho de aço para proteger a linha"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "6IlPYOFkNTU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:34:45.650742",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Cascudo",
+      "Piau",
+      "Morenita",
+      "Mussum",
+      "Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

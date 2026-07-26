@@ -1,0 +1,37 @@
+{
+  "arquivo": "vC3rCtGM0QE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:42:14.399917",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Bicha do Casulo",
+      "Corrupto",
+      "Filé de Carapicu",
+      "Filé de Sardinha",
+      "Minhoca de Praia",
+      "Sarnambi",
+      "Tatuíra"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Evitar Flutuadores",
+      "Pescar Após Frente Fria",
+      "Pescar Próximo ao Fundo",
+      "Usar Iscas Alternativas",
+      "Usar Iscas Maiores"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Observar a Segurança",
+      "Usar Iscas Alternativas",
+      "Pescar em Áreas com Valas e Lagamares"
+    ]
+  }
+}

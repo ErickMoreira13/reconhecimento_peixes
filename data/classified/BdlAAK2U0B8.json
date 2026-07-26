@@ -1,0 +1,17 @@
+{
+  "arquivo": "BdlAAK2U0B8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:51:40.954900",
+  "classificacao": {
+    "summary": "O texto descreve uma conversa animada durante uma atividade de pesca, com participantes discutindo técnicas, resultados e interações. Destacam-se termos relacionados a espécies de peixes (como 'espada', 'Parnamirinha', 'tubarãozinho'), equipamentos (carretilhas, anzóis) e ações como 'rodar' (provavelmente referindo-se a movimentos de linha ou isca). Há menções a nomes de pessoas (Nilson, Giovanni, Lucas) e a uma certa frustração com a falta de sucesso inicial, seguida por momentos de êxito. A linguagem é informal, com expressões como 'vai, vai' e 'vamos ver', indicando a dinâmica de grupo durante a pesca.",
+    "key_terms": {
+      "espada": "Possivelmente um tipo de peixe, como o 'espada' (Xiphias gladius), um peixe marinho.",
+      "Parnamirinha": "Espécie de peixe local, talvez específica da região.",
+      "carretilha": "Reel, equipamento de pesca usado para controlar a linha.",
+      "rodamos": "Ação de girar a carretilha ou manipular a linha, comum em técnicas de pesca.",
+      "tubarãozinho": "Pequeno tubarão, talvez referindo-se a uma espécie menor.",
+      "moriçoca": "Termo possível para um tipo de peixe ou isca, mas não identificado com certeza."
+    },
+    "context": "A conversa parece ocorrer durante uma pesca em grupo, com participantes compartilhando experiências, desafios e vitórias. Há uma mistura de frustração inicial com a ausência de capturas e alívio ao final, sugerindo que a atividade pode ter sido bem-sucedida após esforços iniciais."
+  }
+}

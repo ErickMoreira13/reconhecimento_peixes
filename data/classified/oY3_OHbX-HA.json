@@ -1,0 +1,23 @@
+{
+  "arquivo": "oY3_OHbX-HA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:44:16.323347",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "arpão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "ele foi tentar armar o arpão pela primeira vez e disse que por fazer academia seria tarefa fácil mas não demorou muito e logo começou a se estribuchar após fracassar ele disse que é impossível alguém conseguir então um senhor de cabeça branca com problemas no tendão do braço disse que queria tentar"
+    ]
+  }
+}

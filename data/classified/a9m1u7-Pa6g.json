@@ -1,0 +1,21 @@
+{
+  "arquivo": "a9m1u7-Pa6g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:09:28.664340",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "PR 900"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

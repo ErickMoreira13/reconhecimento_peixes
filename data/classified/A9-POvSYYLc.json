@@ -1,0 +1,50 @@
+{
+  "arquivo": "A9-POvSYYLc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:08:53.692643",
+  "classificacao": {
+    "especies": [
+      "azule",
+      "piru invocado",
+      "triquiseira",
+      "bicho"
+    ],
+    "equipamentos": [
+      "caiaques",
+      "escarcial",
+      "caixa",
+      "saco"
+    ],
+    "iscas": [
+      "pão",
+      "presunto",
+      "vinho"
+    ],
+    "localização": [
+      "ilha paraíso",
+      "mato grosso do sul",
+      "pousada do sol"
+    ],
+    "tempo": [
+      "frio",
+      "vento brabo",
+      "vinte quilômetros por hora"
+    ],
+    "peixes": [
+      "azule",
+      "piru invocado",
+      "triquiseira",
+      "bicho"
+    ],
+    "comida": [
+      "cafezinho",
+      "presunto",
+      "vinho",
+      "garapa"
+    ],
+    "organização": [
+      "organização da caixa",
+      "tabajara"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "KpPYnnbw7-8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:00:54.571660",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Calango",
+      "Piaba",
+      "Bitela",
+      "Garrota"
+    ],
+    "equipamentos": [
+      "Bolsa",
+      "Garrafa Verde"
+    ],
+    "iscas": [
+      "Isca na Boca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Puxada",
+      "Arraste"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

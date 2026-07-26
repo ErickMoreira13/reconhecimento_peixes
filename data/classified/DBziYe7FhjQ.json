@@ -1,0 +1,25 @@
+{
+  "arquivo": "DBziYe7FhjQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:46:45.101472",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Pacu",
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "massinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

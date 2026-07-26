@@ -1,0 +1,33 @@
+{
+  "arquivo": "r3g4KpE1dCg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:54:55.420581",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Recalca"
+    ],
+    "equipamentos": [
+      "Sapinho",
+      "Peixinho",
+      "Poléia"
+    ],
+    "iscas": [
+      "Sapinho",
+      "Peixinho",
+      "Buff"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescando com Sapinho",
+      "Pescando com Peixinho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

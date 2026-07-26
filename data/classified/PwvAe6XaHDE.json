@@ -1,0 +1,41 @@
+{
+  "arquivo": "PwvAe6XaHDE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:23:50.074561",
+  "classificacao": {
+    "especies": [
+      "Camurim",
+      "Barracuda",
+      "Moreia"
+    ],
+    "equipamentos": [
+      "Arbalete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca Noturna"
+    ],
+    "rios": [
+      "Massagueira"
+    ],
+    "bacias": [
+      "Boca da Barra"
+    ],
+    "estado": "Rio Grande do Norte",
+    "municipio": "Boca da Barra",
+    "tipo_pesca": [
+      "Pesca Subaquática"
+    ],
+    "observacoes": [
+      "Água cristalina e limpa",
+      "Primeiro vídeo noturno do Sissu Sub",
+      "Captura de camurim e barracuda",
+      "Pescaria realizada em lagoa"
+    ]
+  }
+}

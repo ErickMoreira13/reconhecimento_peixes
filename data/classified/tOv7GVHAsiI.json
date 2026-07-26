@@ -1,0 +1,29 @@
+{
+  "arquivo": "tOv7GVHAsiI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:11:12.295474",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca",
+      "Sagu",
+      "Bicho da Laranja",
+      "Massa Branca",
+      "Kit de Miçangas"
+    ],
+    "cevas": [],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

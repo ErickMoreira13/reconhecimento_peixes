@@ -1,0 +1,41 @@
+{
+  "arquivo": "xZRp7lKmUJQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:40:42.138273",
+  "classificacao": {
+    "summary": {
+      "objective": "Tutorial para montar um 'bigodinho' (tipo de isca artificial) para pesca em represas.",
+      "materials_needed": [
+        "Fio de nylon (escolher espessura adequada para a pesca)",
+        "Cano de pesca (com apropriada para a espécie alvo)",
+        "Isca artificial (ex.: 'bigodinho')",
+        "Cabeça de linha (com furo para passar o fio)",
+        "Cano de isca (opcional, para fixar o 'bigodinho')",
+        "Ferramentas (tesoura, linha de costura, etc.)"
+      ],
+      "steps": [
+        "1. Cortar o fio de nylon com o comprimento adequado (geralmente 15-20 cm).",
+        "2. Passar o fio pela cabeça de linha e amarrar com um nó simples (ex.: nó de palma).",
+        "3. Fixar o 'bigodinho' no fio, usando um cano de isca se necessário.",
+        "4. Ajustar o comprimento do fio para garantir que o 'bigodinho' fique bem equilibrado.",
+        "5. Finalizar com um nó de segurança (ex.: nó de clinch) para evitar que o 'bigodinho' se solte."
+      ],
+      "baits_and_techniques": {
+        "baits": [
+          "Isca artificial 'bigodinho' (com movimento de balanço)",
+          "Isca natural (ex.: minhoca, larva, etc.) para complementar a isca artificial."
+        ],
+        "techniques": [
+          "Usar a técnica de 'drop shot' para pesca em águas profundas.",
+          "Mover o 'bigodinho' com movimentos lentos e contínuos para atrair peixes.",
+          "Focar em áreas com vegetação ou estruturas para aumentar as chances de captura."
+        ]
+      },
+      "additional_tips": [
+        "Escolher o tamanho do 'bigodinho' de acordo com a espécie de peixe alvo.",
+        "Testar diferentes cores e tamanhos de isca para encontrar o que mais atrai os peixes.",
+        "Manter a linha bem esticada para detectar movimentos sutil dos peixes."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "suLYjIt_fZU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:14:43.894851",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Canal de Bertioga",
+      "Canal de Cananeia",
+      "Canal entre Cananeia e Guape",
+      "Rio da Fazenda",
+      "Rio da Praia"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Bertioga, Cananeia",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

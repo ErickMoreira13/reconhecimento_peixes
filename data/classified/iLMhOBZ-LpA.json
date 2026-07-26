@@ -1,0 +1,35 @@
+{
+  "arquivo": "iLMhOBZ-LpA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:51:07.356734",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol",
+      "Arpão",
+      "Linha",
+      "Vara"
+    ],
+    "iscas": [
+      "Carne",
+      "Massa de pão",
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Negro"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescar embaixo da ponte do Rio Negro enquanto o rio secava",
+      "Pilares à mostra indicando nível baixo da água",
+      "Muitas pessoas por perto no laguinho",
+      "Tentativas frustradas de cortar iscas"
+    ]
+  }
+}

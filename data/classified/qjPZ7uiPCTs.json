@@ -1,0 +1,29 @@
+{
+  "arquivo": "qjPZ7uiPCTs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:39:57.648693",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Varão"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Costão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Costão"
+    ],
+    "observacoes": []
+  }
+}

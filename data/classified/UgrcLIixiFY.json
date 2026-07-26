@@ -1,0 +1,32 @@
+{
+  "arquivo": "UgrcLIixiFY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:25:01.158538",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Sacola",
+      "Congelador",
+      "Copo",
+      "Anzol"
+    ],
+    "iscas": [
+      "Mandioca",
+      "Maracujá"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Piau e pacu não resiste, isca excelente. Até gruda no anzou pescadores."
+    ]
+  }
+}

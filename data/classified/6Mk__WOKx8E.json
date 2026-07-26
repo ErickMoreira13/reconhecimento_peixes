@@ -1,0 +1,34 @@
+{
+  "arquivo": "6Mk__WOKx8E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:37:51.325542",
+  "classificacao": {
+    "especies": [
+      "Azul",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Linha",
+      "Caiaque",
+      "Régua",
+      "Isquinha",
+      "Popper"
+    ],
+    "iscas": [
+      "Popperzinho"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [
+      "Pescaria",
+      "Solta",
+      "Medir",
+      "Filmagem"
+    ],
+    "rios": [],
+    "localização": "Três Marias, Minas Gerais",
+    "solução": "Solta de peixes",
+    "filmagem": "Gravação do processo de pesca"
+  }
+}

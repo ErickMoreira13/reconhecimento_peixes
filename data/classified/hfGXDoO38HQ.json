@@ -1,0 +1,41 @@
+{
+  "arquivo": "hfGXDoO38HQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:22:50.032346",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Linha",
+      "Snap",
+      "Motor"
+    ],
+    "iscas": [
+      "Isca de 100 milímetros"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Popper",
+      "Snap"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca com Isca Artificial"
+    ],
+    "observacoes": [
+      "Peixe de aproximadamente 59 cm",
+      "Uso de alicate para remoção",
+      "Linha resistente",
+      "Ambiente de pesca na Popper",
+      "Presença de piranhas",
+      "Peixe solto após captura"
+    ]
+  }
+}

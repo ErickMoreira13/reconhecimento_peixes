@@ -1,0 +1,26 @@
+{
+  "arquivo": "wNQ7QaHgxsI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:17:29.280493",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Linha verde",
+      "Anzol",
+      "Carretel",
+      "Vara de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de amarração do anzol para evitar desgaste e garantir firmeza na fisgada"
+    ],
+    "local": [],
+    "outros": [
+      "Uso de anzóis de diferentes tamanhos (número 8, 4, 5) e tipos (chinu, maruzeigo, escuros)"
+    ]
+  }
+}

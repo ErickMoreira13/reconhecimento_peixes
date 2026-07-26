@@ -1,0 +1,38 @@
+{
+  "arquivo": "Z5CVX6ugNk8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:59:29.389286",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tilápia",
+      "Trama"
+    ],
+    "equipamentos": [
+      "Varão",
+      "Varinha",
+      "Rude Power"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria na batida",
+      "Dando quieto as bocudas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície"
+    ],
+    "observacoes": [
+      "Vento forte dificultando a pesca",
+      "Duas horas de pesca",
+      "Temperatura da água boa"
+    ]
+  }
+}

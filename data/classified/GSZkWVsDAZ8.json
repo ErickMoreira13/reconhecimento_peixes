@@ -1,0 +1,32 @@
+{
+  "arquivo": "GSZkWVsDAZ8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:16:28.001224",
+  "classificacao": {
+    "species": [
+      "Dourado",
+      "Tambaqui"
+    ],
+    "equipment": [
+      "Canoa",
+      "Linha",
+      "Balde",
+      "Fogão"
+    ],
+    "baits": [],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "Puxar",
+      "Enrolar",
+      "Botar na Linha",
+      "Segurar na Boca"
+    ],
+    "rivers": [
+      "Rio"
+    ],
+    "basins": [],
+    "state": "",
+    "municipality": ""
+  }
+}

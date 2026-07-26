@@ -1,0 +1,31 @@
+{
+  "arquivo": "pz1m61_Uc0E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:27:31.519697",
+  "classificacao": {
+    "especies": [
+      "tambaqui",
+      "Piau Três Pintas",
+      "traíra"
+    ],
+    "equipamento": [
+      "vara de 3,60m",
+      "fluorocarbon line",
+      "corda",
+      "engate",
+      "correias apertadas"
+    ],
+    "isca": [
+      "isca artificial",
+      "isca de caranguejo"
+    ],
+    "localização": [
+      "Rio dos Bois",
+      "Rio Paranaíba",
+      "Rio Verdão",
+      "São João"
+    ],
+    "data e hora": "17/02 às 15h41",
+    "preservação do meio ambiente": true
+  }
+}

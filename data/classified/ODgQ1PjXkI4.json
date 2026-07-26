@@ -1,0 +1,25 @@
+{
+  "arquivo": "ODgQ1PjXkI4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:28:04.520015",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe não entra no passego",
+      "Tamanho do anzol",
+      "Virada no anzol"
+    ]
+  }
+}

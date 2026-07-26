@@ -1,0 +1,54 @@
+{
+  "arquivo": "tTGapN_G-nY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:34:59.298158",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Matrincha",
+      "Traíra",
+      "Piau",
+      "Corimba"
+    ],
+    "equipamentos": [
+      "Roda",
+      "Anzol",
+      "Carretilha",
+      "Saco de Ráfia",
+      "Galão Perfurado",
+      "PET Perfurada"
+    ],
+    "iscas": [
+      "Quirela"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Pesca com Ceva",
+      "Pesca com Isca Natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de ceva natural e proteica",
+      "Captura de peixes de tamanho variado",
+      "Necessidade de perseverança na pesca",
+      "Uso de sacos de ráfia e galões perfurados como ceva de partículas"
+    ]
+  }
+}

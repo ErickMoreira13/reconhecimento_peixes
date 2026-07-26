@@ -1,0 +1,73 @@
+{
+  "arquivo": "MoCryu1oUbw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:59:13.524128",
+  "classificacao": {
+    "especies": [
+      "Curu",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Isopor",
+      "Linha",
+      "Vara",
+      "Gastura"
+    ],
+    "iscas": [
+      "Massa Amarela",
+      "Massa de Rapaziada",
+      "Massa do Manzaca",
+      "Massa da Vovó",
+      "Açafrão"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Arroz",
+      "Canjica",
+      "Milho",
+      "Quirera",
+      "Soja",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Chumbado",
+      "Espalhada",
+      "Gastura",
+      "Isopor",
+      "Retura"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A linha está cheirosa",
+      "O piau gosta de soja",
+      "A soja é boa para chamar peixes",
+      "Deve deixar meio aberto para sair o gás",
+      "O peixe está enganchado",
+      "O peixe se jogou um pouco abaixo",
+      "Há uma pedra no local",
+      "A calça está rasgando",
+      "O piauzão está dançando em bodoca",
+      "A vara não conversa com os peixes",
+      "Os índios banharam o local",
+      "O copo foi colocado no cantinho",
+      "A comida é fácil de fazer",
+      "Vou sentar de novo",
+      "Há uma revista",
+      "O isopor é necessário",
+      "A gastura é ruim",
+      "A banana não está banalão",
+      "O peixe está chegando para pular",
+      "O peixe entra embaixo",
+      "Não quero refletir botar dentro da água",
+      "O peixe está brincando"
+    ]
+  }
+}

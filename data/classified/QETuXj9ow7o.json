@@ -1,0 +1,39 @@
+{
+  "arquivo": "QETuXj9ow7o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:13:26.225296",
+  "classificacao": {
+    "rivers": [
+      "rio Taquari",
+      "Rio de Aquari"
+    ],
+    "species": [
+      "carpa",
+      "pintado",
+      "brutinho"
+    ],
+    "equipment": [
+      "massa",
+      "minhocas",
+      "anzóis",
+      "chumbo",
+      "ceva"
+    ],
+    "grains": [
+      "milho"
+    ],
+    "ceva": [
+      "massa de banana e mel"
+    ],
+    "techniques": [
+      "massa",
+      "alinhada com minhocas",
+      "chuveirinho"
+    ],
+    "observations": [
+      "Localização: Colinas e Santo Antônio (Rio Grande do Sul)",
+      "Uso de ceva aromática (massa de banana e mel)",
+      "Mencionado o desafio de pescar 'brutinho'"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "HTu4UROZyu8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:15:23.800094",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "vara de 100 libras",
+      "mulinete tamanho 9 mil"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca em águas abertas"
+    ],
+    "observacoes": [
+      "peixe de grande porte",
+      "dificuldade em manusear a captura",
+      "uso de equipamentos de alta resistência",
+      "evento ocorrido durante gravação de vídeo"
+    ]
+  }
+}

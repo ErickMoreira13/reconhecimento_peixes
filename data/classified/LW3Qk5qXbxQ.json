@@ -1,0 +1,23 @@
+{
+  "arquivo": "LW3Qk5qXbxQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:19:05.974702",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque",
+      "caixa térmica",
+      "porta-vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

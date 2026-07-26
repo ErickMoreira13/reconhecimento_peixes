@@ -1,0 +1,38 @@
+{
+  "arquivo": "kOosR3M8MN0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:00:00.965159",
+  "classificacao": {
+    "resumo": "O vídeo apresenta uma análise de lures (isca artificial) para pesca, com foco nos modelos Megabass Rosante C7 e Destroyer. O locutor destaca o Rosante C7 como uma opção eficaz, mas ressalta a necessidade de equilibrá-lo com pesos para melhor desempenho. Ele também menciona uma versão mais barata do Rosante C7 disponível em AliExpress, que, embora não seja original, oferece resultados similares. Em seguida, o locutor fala sobre o Destroyer, que ele considera sua escolha número 1, apesar de ser uma cópia do Sasuke. Ele compara o Destroyer ao original e conclui que ambos têm desempenho semelhante, tornando o Destroyer uma opção mais acessível. O vídeo também aborda a importância de escolher cores e tamanhos adequados para diferentes espécies de peixe (como Tucunaré azul e amarelo) e finaliza com um convite para comentários e curtidas.",
+    "pontos_chave": {
+      "lures_destaque": [
+        {
+          "nome": "Megabass Rosante C7",
+          "vantagens": [
+            "Eficiente na pesca",
+            "Disponível em versão mais barata (AliExpress)"
+          ],
+          "desvantagens": [
+            "Necessita de equilíbrio com pesos para melhor desempenho"
+          ]
+        },
+        {
+          "nome": "Destroyer",
+          "vantagens": [
+            "Custo-benefício excelente",
+            "Desempenho comparável ao original (Sasuke)"
+          ],
+          "desvantagens": [
+            "É uma cópia, mas não compromete a eficácia"
+          ]
+        }
+      ],
+      "dicas_importantes": {
+        "escolha_de_cores_e_tamanhos": "Adaptar a cor e o tamanho da isca conforme a espécie de peixe (ex.: Tucunaré azul vs. amarelo).",
+        "equilíbrio": "O Rosante C7 precisa de pesos para funcionar de forma ideal.",
+        "comparação_de_precos": "O Destroyer é uma alternativa econômica ao Sasuke, com resultados similares."
+      },
+      "chamada_ao_acção": "O locutor pede aos espectadores que deixem comentários e curtam o vídeo para continuar a série de análises de lures."
+    }
+  }
+}

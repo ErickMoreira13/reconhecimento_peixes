@@ -1,0 +1,29 @@
+{
+  "arquivo": "QW4cjexNMGM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:33:21.865811",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Matrinchã"
+    ],
+    "equipamentos": [
+      "Barraca"
+    ],
+    "iscas": [
+      "Escama de peixe"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Matrinchã escapou",
+      "Matrinchã de 3,5 kg"
+    ]
+  }
+}

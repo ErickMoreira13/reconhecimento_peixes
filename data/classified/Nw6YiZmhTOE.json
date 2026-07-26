@@ -1,0 +1,22 @@
+{
+  "arquivo": "Nw6YiZmhTOE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:37:33.196691",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo de pesca ao vivo, onde um grupo de pescadores discute técnicas e experiências durante uma sessão de pesca. Eles usam iscas vivas (sardinhas), falam sobre a preparação da linha de pesca, a captura de peixes como barracuda e bicuda, e mencionam a influência da estação (inverno) no comportamento dos peixes. O conteúdo inclui termos específicos de pesca, como 'engordo' (isca), 'zanzol' (tipo de anzol) e 'bicuda' (espécie de peixe).",
+    "key_points": [
+      "Uso de iscas vivas (sardinhas) para atrair peixes.",
+      "Técnicas de preparação da linha de pesca e posicionamento do anzol.",
+      "Menciona a captura de barracuda e bicuda, com ênfase na dificuldade de pescar bicuda.",
+      "Discussão sobre a estação do inverno e como isso afeta a atividade dos peixes.",
+      "Interação social entre os pescadores, incluindo referências a um amigo chamado Darlan."
+    ],
+    "fishing_techniques": [
+      "Uso de iscas vivas (sardinhas) para atrair peixes grandes.",
+      "Preparação cuidadosa da linha de pesca, incluindo o uso de anzóis específicos (zanzol).",
+      "Técnica de 'engordo' para manter a isca viva e atraente.",
+      "Adaptação da estratégia de pesca conforme a estação do ano (inverno)."
+    ],
+    "additional_notes": "O conteúdo é rico em jargões de pesca e linguagem coloquial, com foco em experiências práticas e desafios enfrentados durante a pesca. A interação entre os pescadores sugere um ambiente colaborativo e informativo."
+  }
+}

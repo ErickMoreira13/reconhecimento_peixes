@@ -1,0 +1,29 @@
+{
+  "arquivo": "cLgnvXAOys8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:43:34.686257",
+  "classificacao": {
+    "especies": [
+      "Sucunduri",
+      "Tucunaré"
+    ],
+    "equipamento": [
+      "vara",
+      "barriga do peixe",
+      "bote",
+      "barco"
+    ],
+    "isca": [],
+    "localizacao": [
+      "bacia do Madeira"
+    ],
+    "outros_termos": [
+      "pesca predatória",
+      "piscicultura",
+      "turismo de pesca esportiva"
+    ],
+    "praticas": [
+      "pesque solte"
+    ]
+  }
+}

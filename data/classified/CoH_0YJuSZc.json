@@ -1,0 +1,24 @@
+{
+  "arquivo": "CoH_0YJuSZc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:48:55.114939",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "arma de chumbinho",
+      "cilindro de ar comprimido",
+      "chumbinho",
+      "travinha de segurança"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

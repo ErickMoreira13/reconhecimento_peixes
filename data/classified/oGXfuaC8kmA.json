@@ -1,0 +1,24 @@
+{
+  "arquivo": "oGXfuaC8kmA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:41:09.764414",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Barbado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Rio Grande",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

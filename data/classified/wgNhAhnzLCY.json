@@ -1,0 +1,34 @@
+{
+  "arquivo": "wgNhAhnzLCY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:06:21.122719",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Isca Artificial"
+    ],
+    "iscas": [
+      "Cebola",
+      "Limão",
+      "Shoyu"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Trabalho da Isca Artificial"
+    ],
+    "rios": [],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Preparação do piranha com cebola, limão e shoyu. Sabor surpreendente e delicioso."
+    ]
+  }
+}

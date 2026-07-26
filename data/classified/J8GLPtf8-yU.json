@@ -1,0 +1,22 @@
+{
+  "arquivo": "J8GLPtf8-yU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:50:33.543063",
+  "classificacao": {
+    "summary": "O vídeo é um registro informal de uma pescaria realizada por Matheus e Fabinho na Fazenda Floresta. Eles mostram os peixes capturados (como piau, tilápia e surubim), descrevem o equipamento usado (carretilha telescópica, linha Trilon) e interagem com o público, incentivando curtidas, inscrições e comentários. O conteúdo é repleto de repetições, gírias e linguagem coloquial típica de vídeos de YouTube.",
+    "key_points": [
+      "Local da pescaria: Fazenda Floresta",
+      "Espécies de peixe capturadas: piau, tilápia, surubim",
+      "Equipamento mencionado: carretilha telescópica, linha Trilon",
+      "Engajamento com o público (curtidas, inscrições, comentários)",
+      "Linguagem informal e repetitiva"
+    ],
+    "possible_tasks": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise de estrutura do vídeo",
+      "Sugestões para melhorar o script",
+      "Dicas de como criar vídeos similares"
+    ]
+  }
+}

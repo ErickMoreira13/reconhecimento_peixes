@@ -1,0 +1,40 @@
+{
+  "arquivo": "p6aii_FGRo4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:55:55.707370",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Traíra",
+      "Jundiá",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Boia",
+      "Fieira",
+      "Mochila"
+    ],
+    "iscas": [
+      "Isca",
+      "Girinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "A traíra agarrou na boia e ficou correndo",
+      "A piaba pequena foi usada como isca",
+      "O jundiá foi observado no local"
+    ]
+  }
+}

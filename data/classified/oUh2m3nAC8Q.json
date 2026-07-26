@@ -1,0 +1,45 @@
+{
+  "arquivo": "oUh2m3nAC8Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:40:24.215264",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Carpa",
+      "Peixe de couro"
+    ],
+    "equipamentos": [
+      "Chicote tradicional",
+      "Chicote pra isca viva",
+      "Chicote pra carpa",
+      "Chicote sensível",
+      "Girador",
+      "Linha de chicote",
+      "Chumbo de poita",
+      "Miçanga",
+      "One zone"
+    ],
+    "isca": [
+      "Isca viva",
+      "Pão de fundo",
+      "Massa",
+      "Beijinho",
+      "Sambiquira",
+      "Tilapinha",
+      "Lambari",
+      "Tuvira",
+      "Pirambói"
+    ],
+    "local": [],
+    "montagem": [
+      "Chicote tradicional",
+      "Chicote pra isca viva",
+      "Chicote pra carpa",
+      "Chicote sensível"
+    ],
+    "recomendacoes": [
+      "Nunca utilizar chumbo",
+      "Utilizar chumbo de poita para montagens sensíveis"
+    ]
+  }
+}

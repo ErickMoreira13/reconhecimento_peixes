@@ -1,0 +1,51 @@
+{
+  "arquivo": "Z7Ix0RmiERk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:00:31.323376",
+  "classificacao": {
+    "title": "Como Obter e Imprimir a Carteirinha de Pescador via gov.br",
+    "steps": [
+      {
+        "step": "1. Crie uma Conta no gov.br",
+        "details": "Acesse o site [gov.br](https://www.gov.br) e cadastre-se com seu CPF e e-mail. Siga as instruções para validar sua conta."
+      },
+      {
+        "step": "2. Acesse o Serviço de Carteirinha de Pescador",
+        "details": "Logue-se no gov.br e procure pelo serviço \"Carteirinha de Pescador\". Clique em \"Acessar\" ou \"Iniciar Solicitação\"."
+      },
+      {
+        "step": "3. Preencha os Dados Pessoais",
+        "details": "Complete o formulário com informações como nome, CPF, endereço e dados do local de pesca. Confirme os dados antes de enviar."
+      },
+      {
+        "step": "4. Verifique o Status da Solicitação",
+        "details": "Após submeter o formulário, acesse a seção \"Ver Solicitações\" no gov.br para acompanhar o andamento do processo. O tempo de análise pode variar de 5 a 10 dias úteis."
+      },
+      {
+        "step": "5. Baixe o Documento",
+        "details": "Quando a solicitação estiver aprovada, baixe o PDF da carteirinha de pescador. Guarde-o em um local seguro."
+      },
+      {
+        "step": "6. Imprima a Carteirinha",
+        "details": "Leve o PDF impresso a uma loja de cópias ou uma gráfica. Pergunte se eles aceitam impressão de documentos via WhatsApp (alguns estabelecimentos oferecem esse serviço)."
+      },
+      {
+        "step": "7. Plasticize a Carteirinha",
+        "details": "Para proteger o documento, solicite uma capa plástica resistente. Isso é importante para evitar danos durante o uso."
+      },
+      {
+        "step": "8. Renove Anualmente",
+        "details": "A carteirinha tem validade de 1 ano. Lembre-se de renovar antes do vencimento para evitar multas."
+      },
+      {
+        "step": "9. Participe do Grupo de Apoio",
+        "details": "Entre no grupo WhatsApp \"Pesca e Economia\" para obter dicas, atualizações e suporte sobre licenças e regulamentações de pesca."
+      }
+    ],
+    "notes": [
+      "Se não tiver acesso a um computador, use o app gov.br no celular para realizar o processo.",
+      "Confirme com o impressor se ele aceita documentos enviados via WhatsApp antes de enviar.",
+      "Guarde uma cópia digital da carteirinha em seu celular ou e-mail para emergências."
+    ]
+  }
+}

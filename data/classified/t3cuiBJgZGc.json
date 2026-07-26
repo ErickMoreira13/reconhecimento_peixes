@@ -1,0 +1,32 @@
+{
+  "arquivo": "t3cuiBJgZGc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:43:42.606862",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Trava-peixe",
+      "Alicate de bico",
+      "Kit"
+    ],
+    "iscas": [
+      "Isca",
+      "Isquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Otomão"
+    ],
+    "bacias": [
+      "Lago Araras"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

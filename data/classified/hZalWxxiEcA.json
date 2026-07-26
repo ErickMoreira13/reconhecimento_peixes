@@ -1,0 +1,35 @@
+{
+  "arquivo": "hZalWxxiEcA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:19:43.568574",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra",
+      "Pirapitinga"
+    ],
+    "equipamentos": [
+      "facão"
+    ],
+    "iscas": [
+      "piaba viva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Tucunaré",
+      "Pescaria noite de traíra",
+      "Pescaria com facão"
+    ],
+    "rios": [
+      "Rio Paraguaçu"
+    ],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Balneário Rio Doce",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

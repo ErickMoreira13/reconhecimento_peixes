@@ -1,0 +1,55 @@
+{
+  "arquivo": "ou9XkgNpMPA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:30:47.415236",
+  "classificacao": {
+    "species": [
+      "Carainha",
+      "Piau",
+      "Trincha",
+      "Passaguá",
+      "Pacu",
+      "Puçar",
+      "Salaminho",
+      "Piauzão"
+    ],
+    "equipment": [
+      "Puçar",
+      "Passaguá",
+      "Anzol",
+      "Linha",
+      "Vara"
+    ],
+    "baits": [
+      "Massinha de fubá e trigo",
+      "Milho cozido",
+      "Soja",
+      "Refrigerante",
+      "Cerveja",
+      "Querelinha de milho"
+    ],
+    "graos": [
+      "Fubá",
+      "Trigo",
+      "Milho",
+      "Soja"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Milho cozido",
+        "Soja"
+      ],
+      "Ceva Aromática": [
+        "Refrigerante",
+        "Cerveja"
+      ]
+    },
+    "rios": [],
+    "bacias": [
+      "Bacia de São Francisco"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Cevas"
+  }
+}

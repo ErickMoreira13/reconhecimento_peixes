@@ -1,0 +1,21 @@
+{
+  "arquivo": "QpOFPyB4YD0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:57:52.367722",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

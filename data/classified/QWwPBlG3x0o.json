@@ -1,0 +1,31 @@
+{
+  "arquivo": "QWwPBlG3x0o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:34:36.343700",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [
+      "Araguaia"
+    ],
+    "estado": "Tocantins",
+    "municipio": "São Domingo",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Cachoeira do Ponte de Pedra",
+      "Água mansa e perigosa",
+      "Localização em São Domingo",
+      "Água do Araguaia",
+      "Risco de descer de noite",
+      "Beleza da natureza",
+      "Poucos que visitam a área"
+    ]
+  }
+}

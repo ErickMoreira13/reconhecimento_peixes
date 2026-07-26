@@ -1,0 +1,23 @@
+{
+  "arquivo": "D5oPGa5DJB8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:41:18.800402",
+  "classificacao": {
+    "species": [
+      "matrinchã",
+      "piranha"
+    ],
+    "equipment": [],
+    "baits": [],
+    "techniques": [],
+    "locations": [
+      "Beiradão (North of Brazil)"
+    ],
+    "water_bodies": [
+      "engarapé"
+    ],
+    "other": {
+      "context": "The transcript describes a cooking show, not a fishing activity. The mention of 'matrinchã' and 'piranha' refers to ingredients used in the meal, not fishing species targeted in the wild. 'Engarapé' is a local term for a river or stream, but the context does not discuss fishing practices or equipment."
+    }
+  }
+}

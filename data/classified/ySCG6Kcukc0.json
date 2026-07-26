@@ -1,0 +1,37 @@
+{
+  "arquivo": "ySCG6Kcukc0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:28:20.900045",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Anzol TINU",
+      "Multifilamento",
+      "Girador",
+      "Miçanga",
+      "Chumbo",
+      "Carretel",
+      "Molinete",
+      "Vara",
+      "Suporte"
+    ],
+    "iscas": [
+      "Massa",
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pitting"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Bênigues",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

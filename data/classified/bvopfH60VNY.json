@@ -1,0 +1,23 @@
+{
+  "arquivo": "bvopfH60VNY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:38:28.412196",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Peixe pequeno"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com as mãos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

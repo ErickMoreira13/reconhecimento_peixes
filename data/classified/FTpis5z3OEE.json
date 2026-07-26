@@ -1,0 +1,30 @@
+{
+  "arquivo": "FTpis5z3OEE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:55:26.763293",
+  "classificacao": {
+    "especies": [
+      "Mandií",
+      "Mandubé"
+    ],
+    "equipamentos": [
+      "Linha de Mão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Linha de Mão"
+    ],
+    "rios": [
+      "Seisque Camarão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Linha de Mão"
+    ],
+    "observacoes": []
+  }
+}

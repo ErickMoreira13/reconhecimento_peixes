@@ -1,0 +1,28 @@
+{
+  "arquivo": "WCtEWTR5ap4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:01:59.872506",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "KVD",
+      "Strike King",
+      "Mega Bass",
+      "Twitchbait",
+      "Rapala Shadow Wrap",
+      "Ripbait"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com iscas artificiais"
+    ],
+    "observacoes": []
+  }
+}

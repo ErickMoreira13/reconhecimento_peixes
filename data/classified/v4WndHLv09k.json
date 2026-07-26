@@ -1,0 +1,35 @@
+{
+  "arquivo": "v4WndHLv09k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:36:06.391685",
+  "classificacao": {
+    "species": [
+      "Piau",
+      "Piranha",
+      "Tracajá",
+      "TKJ",
+      "Sauna",
+      "Zebrão",
+      "Rapo Vermelho"
+    ],
+    "equipment": [
+      "Anzol",
+      "Garatéia",
+      "Massinha",
+      "Varinha",
+      "Castor"
+    ],
+    "baits": [
+      "Massinha de Trigo",
+      "Massinha",
+      "Soja",
+      "Milho",
+      "Tracajá"
+    ],
+    "other_terms": [
+      "Pedãozol",
+      "Castor no Anzol",
+      "Pão"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "arquivo": "CRtWL0JzeKA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:53:12.602562",
+  "classificacao": {
+    "especies": [
+      "Lambarei",
+      "Piranha",
+      "Tilápia",
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Minhoca",
+      "Vara de Bambu",
+      "Filé de Piranha",
+      "Galão Perforado",
+      "Saco de Ráfia",
+      "Cocho Perforado"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Filé de Piranha",
+      "Suco de Acerola"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Bater na Água",
+      "Jogar a Isca",
+      "Pescaria Caipira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de filé de piranha como isca",
+      "Presença de muitas piranhas no local",
+      "Uso de iscas naturais como minhoca e suco de acerola"
+    ]
+  }
+}

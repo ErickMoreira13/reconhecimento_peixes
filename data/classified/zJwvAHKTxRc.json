@@ -1,0 +1,59 @@
+{
+  "arquivo": "zJwvAHKTxRc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:25:03.093382",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "gigue",
+      "Spinner",
+      "plugs",
+      "Brava",
+      "Lore",
+      "Sumax Devon",
+      "Kizu",
+      "Sumax Fusion Shed",
+      "Matrix da Alba Trois",
+      "Sumax Bullet"
+    ],
+    "iscas": [
+      "gigue",
+      "Spinner",
+      "plugs",
+      "Brava",
+      "Lore",
+      "Sumax Devon",
+      "Kizu",
+      "Sumax Fusion Shed",
+      "Matrix da Alba Trois",
+      "Sumax Bullet"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "trabalho de superfície",
+      "trabalho de meia água",
+      "trabalho de fundo",
+      "trabalho de contagem",
+      "trabalho de ponta de vara",
+      "trabalho de ponta de vara desbicando"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de tucunaré azul"
+    ],
+    "observacoes": [
+      "O uso de iscas artificiais como gigue e Spinner é eficaz para pescar tucunaré azul.",
+      "A escolha de cores vibrantes (como laranja e vermelho) pode aumentar a eficácia das iscas.",
+      "A técnica de 'trabalho de contagem' é recomendada para iscas como o Sumax Fusion Shed.",
+      "O uso de iscas de fundo (como plugs) é eficaz em áreas com vegetação densa.",
+      "A dica para iniciantes é experimentar diferentes técnicas de trabalho com o gigue para encontrar a que mais atrai os peixes."
+    ]
+  }
+}

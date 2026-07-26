@@ -1,0 +1,37 @@
+{
+  "arquivo": "QidMCeu47so",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:37:43.910898",
+  "classificacao": {
+    "especies": [
+      "Jatorana",
+      "Tucunaré",
+      "Sardinha",
+      "Tuvira"
+    ],
+    "equipamentos": [
+      "Isquinha",
+      "Varinha",
+      "Passagua",
+      "Caique"
+    ],
+    "iscas": [
+      "Cupim",
+      "Sardinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca viva",
+      "Pesca em águas abertas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

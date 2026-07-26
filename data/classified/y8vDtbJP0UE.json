@@ -1,0 +1,32 @@
+{
+  "arquivo": "y8vDtbJP0UE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:55:21.170902",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Caixa",
+      "Peneirada",
+      "Escora"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Peneirada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Camarão"
+    ],
+    "observacoes": [
+      "Limpagem da área após a pesca",
+      "Conscientização sobre o lixo deixado por pescadores"
+    ]
+  }
+}

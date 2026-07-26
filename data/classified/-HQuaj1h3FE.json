@@ -1,0 +1,40 @@
+{
+  "arquivo": "-HQuaj1h3FE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:18:09.647724",
+  "classificacao": {
+    "especies": [
+      "tilapia",
+      "traira"
+    ],
+    "equipamentos": [
+      "varinha",
+      "luminoso",
+      "anzol",
+      "chumbadas",
+      "linha",
+      "Light 38",
+      "borrachinha"
+    ],
+    "técnicas": [
+      "criar uma técnica com o luminoso no final da varinha",
+      "usar varinhas mais curtas para pesca noturna"
+    ],
+    "localizacao_fogueira": [
+      "preparar a fogueira antes do anoitecer",
+      "não deixar a fogueira muito distante do local de pesca"
+    ],
+    "combate_a_insetos": [
+      "usar ovo cartela",
+      "usar papel higiênico para fumigação",
+      "usar cura de cravo"
+    ],
+    "preparacao_antes_do_anoitecer": [
+      "reunir materiais necessários",
+      "preparar a fogueira",
+      "organizar equipamentos"
+    ],
+    "isca": [],
+    "ceva": []
+  }
+}

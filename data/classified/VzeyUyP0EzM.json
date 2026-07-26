@@ -1,0 +1,23 @@
+{
+  "arquivo": "VzeyUyP0EzM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:32:02.592697",
+  "classificacao": {
+    "especies": [
+      "Trinchando"
+    ],
+    "equipamentos": [
+      "Máquina"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

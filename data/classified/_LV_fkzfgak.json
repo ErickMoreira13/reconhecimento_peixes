@@ -1,0 +1,39 @@
+{
+  "arquivo": "_LV_fkzfgak",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:28:17.437756",
+  "classificacao": {
+    "resumo": {
+      "equipamento_usado": {
+        "linha": "YGK 1.2 X4",
+        "carretilha": "carretilha de 3000",
+        "vara": "vara de 3,5 metros com sensibilidade alta",
+        "flutuador": "flutuador de 100 gramas",
+        "gancho": "gancho de aço (Tinu e Pinacro Maruri)",
+        "anilha": "anilha de aço para evitar que os dentes do peixe cortem a linha"
+      },
+      "técnicas": {
+        "isca": "milho cozido e amassado",
+        "montagem": "montagem com anilha de aço e gancho de aço",
+        "profundidade": "água com profundidade de 1,5 a 2 metros",
+        "pescaria": "pescaria com flutuador e isca natural"
+      },
+      "desafios": {
+        "dentes_do_peixe": "dentes do piracanjuba podem cortar a linha",
+        "resistência_do_peixe": "peixe de grande porte exige paciência e força"
+      },
+      "interações_sociais": {
+        "participantes": [
+          "Victor",
+          "Nelson",
+          "Preguinho"
+        ],
+        "compartilhamento_de_conhecimento": "troca de experiências sobre técnicas e equipamentos"
+      },
+      "conservação": {
+        "libertação_do_peixe": "peixe foi liberado após a captura, demonstrando respeito ao meio ambiente"
+      },
+      "conclusão": "O conteúdo destaca a importância de equipamentos adequados, técnicas específicas e a prática de conservação na pesca esportiva, além de ressaltar a interação social entre os participantes."
+    }
+  }
+}

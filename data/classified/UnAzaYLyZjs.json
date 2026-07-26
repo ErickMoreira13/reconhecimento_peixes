@@ -1,0 +1,34 @@
+{
+  "arquivo": "UnAzaYLyZjs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:20:53.616269",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Cevadeira",
+      "Boia-pino"
+    ],
+    "iscas": [
+      "Pipoca doce",
+      "Salsicha",
+      "Mocotó",
+      "Pão",
+      "Ração"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície"
+    ],
+    "observacoes": []
+  }
+}

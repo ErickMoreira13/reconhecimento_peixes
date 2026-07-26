@@ -1,0 +1,37 @@
+{
+  "arquivo": "SvPj2rSljC0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:17:10.414114",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Joripense",
+      "Tucunaré",
+      "Silivão"
+    ],
+    "equipamentos": [
+      "Isca",
+      "Cachaça",
+      "Silivão Plástico"
+    ],
+    "iscas": [
+      "Isca",
+      "Cachaça"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jari"
+    ],
+    "bacias": [
+      "Amazônica"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

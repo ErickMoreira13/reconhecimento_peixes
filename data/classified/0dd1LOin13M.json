@@ -1,0 +1,8 @@
+{
+  "arquivo": "0dd1LOin13M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:01:15.321337",
+  "classificacao": {
+    "error": "O usuário não especificou uma pergunta clara. Por favor, informe o que você deseja: resumo, tradução, análise de conteúdo ou outra ação relacionada ao texto fornecido."
+  }
+}

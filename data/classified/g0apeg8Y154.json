@@ -1,0 +1,54 @@
+{
+  "arquivo": "g0apeg8Y154",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:12:46.437827",
+  "classificacao": {
+    "summary": {
+      "Lambari Kayak": {
+        "material": "High-density polyethylene",
+        "features": [
+          "Closed hull (buoy-like design)",
+          "Impact-resistant",
+          "Includes accessories (paddle, life jacket, anchor)"
+        ],
+        "capacity": "85 kg",
+        "use_case": "Fishing in rocky rivers",
+        "price": "R$1,100"
+      },
+      "Bestway Hydroforce Rapid": {
+        "material": "Durable vinyl",
+        "features": [
+          "Inflatable design",
+          "Adjustable seats",
+          "Drainage valve"
+        ],
+        "capacity": "160 kg (for two people)",
+        "use_case": "Recreational use",
+        "price": "R$1,900",
+        "notes": "More customer reviews available"
+      },
+      "Lacho (Aquamarine)": {
+        "material": "Polyester",
+        "features": [
+          "V-shaped hull for stability",
+          "Includes multiple accessories (seats, paddles, pump)",
+          "Drainage system and splash guards"
+        ],
+        "capacity": "210 kg (up to three people)",
+        "use_case": "Long trips and family use",
+        "price": "R$4,400"
+      }
+    },
+    "comparison": {
+      "price_range": "R$1,100 (Lambari) to R$4,400 (Lacho)",
+      "capacity": "85 kg (Lambari) to 210 kg (Lacho)",
+      "materials": "Polyethylene (Lambari), vinyl (Bestway), polyester (Lacho)",
+      "use_cases": [
+        "Fishing (Lambari)",
+        "Recreational (Bestway)",
+        "Long trips/family (Lacho)"
+      ],
+      "accessories": "Lacho includes the most comprehensive set (seats, paddles, pump)"
+    }
+  }
+}

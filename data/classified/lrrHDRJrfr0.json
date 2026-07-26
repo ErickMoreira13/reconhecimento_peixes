@@ -1,0 +1,27 @@
+{
+  "arquivo": "lrrHDRJrfr0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:36:47.221126",
+  "classificacao": {
+    "especies": [
+      "Baranda"
+    ],
+    "equipamentos": [
+      "Carretilinha",
+      "Varinha",
+      "Linha C-Knight",
+      "Líder Marinha Esporte",
+      "Snap Marinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "arquivo": "7GzecW6bQ0A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:39:41.435478",
+  "classificacao": {
+    "especies": [
+      "Tuna"
+    ],
+    "equipamentos": [
+      "Caixa",
+      "Carrete",
+      "Señuelo",
+      "Anzuelo",
+      "Líder"
+    ],
+    "iscas": [
+      "Popper",
+      "Señuelo"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [
+      "Popeando"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": [],
+    "municipio": [
+      "San Ignacio",
+      "Vallarta"
+    ],
+    "tipo de pesca": "Pesca de Atún",
+    "observações": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arquivo": "G9nWBrBjaZM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:27:24.043132",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Piapá"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Molinhas"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Massinha",
+      "Chuveirinho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

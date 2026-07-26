@@ -1,0 +1,28 @@
+{
+  "arquivo": "8OFAOxYndKI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:27:03.471728",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "garrafa plástica"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Preparação de ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

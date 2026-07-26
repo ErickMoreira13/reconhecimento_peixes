@@ -1,0 +1,23 @@
+{
+  "arquivo": "7_1ZDR3zfKI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:25:29.327462",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Negro"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

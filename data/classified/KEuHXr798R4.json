@@ -1,0 +1,27 @@
+{
+  "arquivo": "KEuHXr798R4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:36:22.775068",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Traíra amarela do brejo"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca viva",
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de traíra"
+    ],
+    "observacoes": []
+  }
+}

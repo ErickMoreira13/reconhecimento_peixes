@@ -1,0 +1,29 @@
+{
+  "arquivo": "wsnhB4V_eOA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:34:17.235118",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu",
+      "Caranguejo"
+    ],
+    "equipamentos": [
+      "Agulha de Caranguejo",
+      "Anzolzinho",
+      "Castor"
+    ],
+    "iscas": [
+      "Calabresa de Pizza"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

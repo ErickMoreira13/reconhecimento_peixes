@@ -1,0 +1,30 @@
+{
+  "arquivo": "BuSz3TEuzZo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:38:00.889603",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Joaninha Jacundá",
+      "Zoiuta",
+      "Pintadinha Amarela"
+    ],
+    "equipamentos": [
+      "Caíca",
+      "Caiaco",
+      "Barquinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "Água gelada, baixa atividade de peixe, equipamento enferrujado, dia ensolarado mas não favorável à pesca, uso de caíca e caiaco."
+  }
+}

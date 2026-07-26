@@ -1,0 +1,32 @@
+{
+  "arquivo": "qJ3IR4CYzns",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:39:10.590762",
+  "classificacao": {
+    "especies": [
+      "Buchinho"
+    ],
+    "equipamentos": [
+      "Régua",
+      "Buchinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Boca fechada",
+      "Rabo espalmado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Torneio"
+    ],
+    "observacoes": [
+      "51",
+      "Valeu?"
+    ]
+  }
+}

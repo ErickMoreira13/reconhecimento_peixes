@@ -1,0 +1,39 @@
+{
+  "arquivo": "-24mlD5jXXY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:00:40.508796",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Carazão",
+      "Lambari",
+      "Traíra",
+      "Cará",
+      "Brútil",
+      "Saricanga"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Lapadão",
+      "Filhotinho de cara",
+      "Enrosco"
+    ],
+    "iscas": [
+      "Isca de traíra",
+      "Carazão"
+    ],
+    "cevas": [
+      "Ceva",
+      "Ceva também"
+    ],
+    "localizacao": "",
+    "tecnica": "",
+    "clima": "",
+    "horario": "",
+    "comentarios": [
+      "Muita ação de peixe",
+      "É muita, muita, muita ação de peixe",
+      "Pois é, não se transforma"
+    ]
+  }
+}

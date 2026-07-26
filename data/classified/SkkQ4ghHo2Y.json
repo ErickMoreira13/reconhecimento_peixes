@@ -1,0 +1,28 @@
+{
+  "arquivo": "SkkQ4ghHo2Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:06:30.726299",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "bote",
+      "motor"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "chumbado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "bote e motor roubados",
+      "local de pesca considerado bom",
+      "participação de Davi na pesca"
+    ]
+  }
+}

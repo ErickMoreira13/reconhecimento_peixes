@@ -1,0 +1,36 @@
+{
+  "arquivo": "Akvmy-CpY5w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:50:45.168546",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Frog",
+      "Bad Line"
+    ],
+    "iscas": [
+      "Grilo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalho lento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Dia ruim de pescaria",
+      "Perda de fisgadas",
+      "Isca inadequada para o tamanho das traíras",
+      "Dificuldade devido ao frio",
+      "Uso de frog grande demais"
+    ]
+  }
+}

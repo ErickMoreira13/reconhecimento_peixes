@@ -1,0 +1,34 @@
+{
+  "arquivo": "YrHnlXH-B8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:26:03.160328",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Saco de cebola",
+      "Cordinha",
+      "Pedra"
+    ],
+    "iscas": [
+      "Macaxeira"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

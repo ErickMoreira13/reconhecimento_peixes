@@ -1,0 +1,46 @@
+{
+  "arquivo": "mqV6yvbhIjE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:02:03.685146",
+  "classificacao": {
+    "especies": [
+      "Sargo"
+    ],
+    "equipamentos": [
+      "barco",
+      "canoa",
+      "agarrador"
+    ],
+    "iscas": [
+      "milho",
+      "soja"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "lançamento"
+    ],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "peixe escasso",
+      "dificuldade devido ao caranguejo e piracema",
+      "maré de lançamento",
+      "pescaria realizada com amigos"
+    ]
+  }
+}

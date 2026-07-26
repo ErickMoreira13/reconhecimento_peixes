@@ -1,0 +1,24 @@
+{
+  "arquivo": "u8-mPOEOYhM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:50:35.245793",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Anzol"
+    ],
+    "cevas": [],
+    "iscas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Alto Alegre",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "ZakCQJ8iJ24",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:04:39.499290",
+  "classificacao": {
+    "especies": [
+      "Bitela",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Isca",
+      "Boia",
+      "Bisaco",
+      "Pica"
+    ],
+    "iscas": [
+      "Isca",
+      "Lambari",
+      "Mutuca",
+      "Lubizome"
+    ],
+    "cevadas": [],
+    "localizacao": [
+      "Açude",
+      "Lubizome"
+    ],
+    "tecnicas": [
+      "Embisar",
+      "Puxar",
+      "Desenganchar"
+    ]
+  }
+}

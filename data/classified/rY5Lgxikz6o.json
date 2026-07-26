@@ -1,0 +1,25 @@
+{
+  "arquivo": "rY5Lgxikz6o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:37:55.489735",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Cachara",
+      "Jiripoca"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Miguel pegou uma giripoca"
+    ]
+  }
+}

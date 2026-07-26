@@ -1,0 +1,39 @@
+{
+  "arquivo": "MUspeOvYFvQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:05:50.670938",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Vara de pesca",
+      "Nózol"
+    ],
+    "iscas": [
+      "Massa de ração"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Fazer farofa de ração"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em lagoa",
+      "Pesca em lagoa abandonada"
+    ],
+    "observacoes": [
+      "A massa é feita com ração de 42% proteína, incluindo farelo de glúteo de milho, arroz integral, farinha de víscera de frango, farelo de soja e farinha de peixe. A técnica envolve preparar a massa em forma de farofa para evitar que seque rapidamente. A ceva é classificada como proteica devido à alta concentração de proteína animal."
+    ]
+  }
+}

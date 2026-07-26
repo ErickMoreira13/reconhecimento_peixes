@@ -1,0 +1,34 @@
+{
+  "arquivo": "ifTMxHFq-9U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:32:59.941164",
+  "classificacao": {
+    "especies": [
+      "bacalhau"
+    ],
+    "equipamentos": [
+      "linha de fluorocarbono"
+    ],
+    "iscas": [
+      "isca de suspensão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "lançamento longo",
+      "recolher com a ponta da vara",
+      "jerk da ponta da vara",
+      "recuperação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de bacalhau"
+    ],
+    "observacoes": [
+      "peixe grosso"
+    ]
+  }
+}

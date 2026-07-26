@@ -1,0 +1,31 @@
+{
+  "arquivo": "LAvNYJMJemo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:49:47.849108",
+  "classificacao": {
+    "especies": [
+      "Curimbatá"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Tampa",
+      "Saco plástico"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Quirera",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

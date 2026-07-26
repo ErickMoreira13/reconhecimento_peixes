@@ -1,0 +1,17 @@
+{
+  "arquivo": "xE-Yr6_-8Ds",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:48:08.644010",
+  "classificacao": {
+    "summary": "O texto parece ser um roteiro ou transcrição de um vídeo informal, provavelmente de um vlog de pesca. O narrador descreve a experiência de pescar, usando iscas como minhocas, mencionando espécies de peixes como 'tabarana' e 'traíra', e compartilhando momentos de espera, desafios com a chuva e a preparação de um acampamento. Há referências a um amigo chamado Boris e uma atmosfera de descontração, com repetições e interjeções que reforçam o estilo casual do conteúdo. O vídeo termina com a conclusão da atividade e uma mensagem de encerramento.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise de técnicas de pesca mencionadas",
+      "Sugestões para melhorar o roteiro",
+      "Tradução formal do texto",
+      "Apoio emocional ao 'amigo' mencionado"
+    ],
+    "next_steps": "Para ajudar de maneira mais precisa, por favor, esclareça qual tipo de assistência você precisa (ex: resumo, tradução, análise, etc.)."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "3X_Rn1iUZEU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:27:26.757641",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha",
+      "Jangada de Garrafa PET",
+      "Barco com Escotilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

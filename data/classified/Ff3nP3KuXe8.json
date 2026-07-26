@@ -1,0 +1,27 @@
+{
+  "arquivo": "Ff3nP3KuXe8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:11:17.169811",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "varas telescópicas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [
+      "pescaria de espera",
+      "pescaria de mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pescaria de espera",
+      "pescaria de mão"
+    ],
+    "observacoes": []
+  }
+}

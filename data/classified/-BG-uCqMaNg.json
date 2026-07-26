@@ -1,0 +1,29 @@
+{
+  "arquivo": "-BG-uCqMaNg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:14:05.677333",
+  "classificacao": {
+    "especies": [
+      "Matrincha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fisgada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Pesca esportiva requer técnica e respeito ao ambiente"
+    ]
+  }
+}

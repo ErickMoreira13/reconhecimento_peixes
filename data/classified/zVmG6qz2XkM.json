@@ -1,0 +1,30 @@
+{
+  "arquivo": "zVmG6qz2XkM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:58:59.676002",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Barbado",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Cabreço",
+      "Carretilha",
+      "Linha",
+      "Toalhinha"
+    ],
+    "rios": [
+      "Turvo"
+    ],
+    "localidades": [
+      "Cachoeirão",
+      "Corredeira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "nome_do_rio": "Turvo",
+    "localidade": "Cachoeirão e Corredeira"
+  }
+}

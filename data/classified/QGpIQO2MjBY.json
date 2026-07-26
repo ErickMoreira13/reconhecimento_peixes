@@ -1,0 +1,38 @@
+{
+  "arquivo": "QGpIQO2MjBY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:35:29.564541",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Pintado",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Carretilha",
+      "Chicote",
+      "Chumbada",
+      "Linha Arati",
+      "Linha Equilon",
+      "Linha Fluocarbono"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chicote com linha fluocarbono"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria top do final de ano"
+    ],
+    "observacoes": [
+      "Com essa chuvinha Se Deus quiser vai dar tudo certo",
+      "Se Deus quiser amanhã tem peixe"
+    ]
+  }
+}

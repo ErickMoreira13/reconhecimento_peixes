@@ -1,0 +1,33 @@
+{
+  "arquivo": "YOHNlJhVjf4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:22:21.102225",
+  "classificacao": {
+    "especies": [
+      "robalo"
+    ],
+    "equipamentos": [
+      "vara",
+      "barco",
+      "cobi",
+      "arguel"
+    ],
+    "iscas": [
+      "calabrença",
+      "ciguiça caseira"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

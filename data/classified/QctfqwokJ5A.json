@@ -1,0 +1,48 @@
+{
+  "arquivo": "QctfqwokJ5A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:10:06.037300",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Corimba",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "girador",
+      "chumbada",
+      "anzol Chinu 6",
+      "chicote"
+    ],
+    "iscas": [
+      "massa",
+      "Milho",
+      "tripa de frango"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "suspensão",
+      "girador"
+    ],
+    "rios": [
+      "Rio Tomaizão"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Cardoso",
+    "tipo_pesca": [
+      "pesca de ceva",
+      "pesca com isca natural"
+    ],
+    "observacoes": [
+      "pescaria realizada cedo, com temperatura baixa",
+      "uso de ceva natural e iscas artificiais",
+      "equipamento com girador e chumbada de 4 gramas"
+    ]
+  }
+}

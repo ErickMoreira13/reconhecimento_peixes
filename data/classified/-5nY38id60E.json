@@ -1,0 +1,41 @@
+{
+  "arquivo": "-5nY38id60E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:01:34.164589",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Linha",
+      "Barbelão"
+    ],
+    "iscas": [
+      "Artificial",
+      "Isca de Fundo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca Artificial",
+      "Pesca de Fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Artificial",
+      "Pesca de Fundo"
+    ],
+    "observacoes": [
+      "A época não é boa, né? Tá bastante frio. As madrugadas são frias. A água fica fria durante o dia também.",
+      "Testando o final de tarde aí. Muita gente gosta de pescar. Eu geralmente não tenho tanto resultado. E não foi muito diferente hoje."
+    ]
+  }
+}

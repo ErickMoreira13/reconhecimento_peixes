@@ -1,0 +1,21 @@
+{
+  "arquivo": "JuaoaS5xLbk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:18:34.803859",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itopestão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

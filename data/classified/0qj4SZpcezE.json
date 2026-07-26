@@ -1,0 +1,28 @@
+{
+  "arquivo": "0qj4SZpcezE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:29:20.055752",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescar com isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": []
+  }
+}

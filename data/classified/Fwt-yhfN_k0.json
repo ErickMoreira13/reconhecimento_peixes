@@ -1,0 +1,37 @@
+{
+  "arquivo": "Fwt-yhfN_k0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:58:30.186875",
+  "classificacao": {
+    "especies": [
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Malha 6",
+      "Malha 7"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Cerco",
+      "Malhadeira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com tarrafa",
+      "Malhadeira"
+    ],
+    "observacoes": [
+      "Maré baixa",
+      "29 tainhas capturadas",
+      "Uso de cerco e malha 6/7",
+      "Peixe bravo e difícil de capturar",
+      "Pescaria realizada durante maré de vazante"
+    ]
+  }
+}

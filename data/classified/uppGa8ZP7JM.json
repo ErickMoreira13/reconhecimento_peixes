@@ -1,0 +1,25 @@
+{
+  "arquivo": "uppGa8ZP7JM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:24:16.447295",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Barco",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

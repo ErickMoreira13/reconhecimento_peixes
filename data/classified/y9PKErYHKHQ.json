@@ -1,0 +1,29 @@
+{
+  "arquivo": "y9PKErYHKHQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:56:26.990723",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [
+      "vara",
+      "carretilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itabapuana"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "água barrenta",
+      "peixes pequenos"
+    ]
+  }
+}

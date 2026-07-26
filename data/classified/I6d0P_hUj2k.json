@@ -1,0 +1,27 @@
+{
+  "arquivo": "I6d0P_hUj2k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:24:22.728729",
+  "classificacao": {
+    "especies": [
+      "Paca",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Banco",
+      "Cadeira",
+      "Varinha de Bambu",
+      "Anzol"
+    ],
+    "iscas": [
+      "Caju"
+    ],
+    "graos": [],
+    "cevadas": [
+      "Ceva Natural"
+    ],
+    "tecnica": "Técnica de Isca Natural com Caju",
+    "lugar": "",
+    "outros": []
+  }
+}

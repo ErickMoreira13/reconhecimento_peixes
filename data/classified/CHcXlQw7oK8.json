@@ -1,0 +1,45 @@
+{
+  "arquivo": "CHcXlQw7oK8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:37:33.869316",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau",
+      "Matrichan"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Anzol",
+      "Câmera",
+      "Panela"
+    ],
+    "iscas": [
+      "Milho cozido"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Uso de anzol que cobre a isca",
+      "Pesca de ceva",
+      "Cozimento de milho com banha de porco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca de ceva"
+    ],
+    "observacoes": [
+      "Milho cozido até rachar para isca",
+      "Uso de banha de porco e açúcar no cozimento",
+      "Deixar milho esfriar na própria panela",
+      "Pescaria mais eficaz em agosto",
+      "Peixe retorna após frio"
+    ]
+  }
+}

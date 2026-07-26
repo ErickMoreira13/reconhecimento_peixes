@@ -1,0 +1,33 @@
+{
+  "arquivo": "kyqGCeyaNoo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:38:55.613375",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Carretilha Contenda Ocean BG",
+      "Boia torpedo 30 gramas Barão"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de minhoca em boia torpedo",
+      "Iscação da minhoca sem cortar a ponta",
+      "Pescaria de espera com isca natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com boia torpedo",
+      "Pesca de espera"
+    ],
+    "observacoes": "A minhoca é uma isca universal e eficaz, especialmente em épocas frias. Recomenda-se usar minhocas brabas. O vídeo também menciona parcerias com marcas de equipamentos de pesca."
+  }
+}

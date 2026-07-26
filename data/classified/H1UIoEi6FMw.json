@@ -1,0 +1,37 @@
+{
+  "arquivo": "H1UIoEi6FMw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:39:01.851729",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Barco",
+      "Canoa",
+      "Caldeirão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Chapada"
+    ],
+    "estado": "São Paulo",
+    "municipio": "Botirama",
+    "tipo_pesca": [
+      "Pesca com Rede"
+    ],
+    "observacoes": [
+      "Acampamento na lagoa do Pichão",
+      "Uso de rede para pesca",
+      "Captura de piranhas e piaus",
+      "Localização na Chapada",
+      "Muitos piranhas capturados durante o dia"
+    ]
+  }
+}

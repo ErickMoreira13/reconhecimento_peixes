@@ -1,0 +1,30 @@
+{
+  "arquivo": "8F_2VjiK9ec",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:14:09.951280",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Cará"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu",
+      "Alicate",
+      "Nivela de Motor"
+    ],
+    "iscas": [
+      "Piscirica"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

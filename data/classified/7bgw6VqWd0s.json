@@ -1,0 +1,29 @@
+{
+  "arquivo": "7bgw6VqWd0s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:36:11.094693",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Nilkwak",
+      "Mexikishik 80",
+      "Uniuquak",
+      "Nukwaki",
+      "New car",
+      "quac"
+    ],
+    "isca": [
+      "Ratinho",
+      "Empate de aço",
+      "Charuta"
+    ],
+    "práticas": [
+      "Soltor"
+    ],
+    "localização": [],
+    "tempo": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "arquivo": "k3Zeo89n3_w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:29:19.274867",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Bicuda",
+      "Peixe de Couro"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Varinha",
+      "Chumbada",
+      "Distorcedor"
+    ],
+    "iscas": [
+      "Isca Cortada"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Isca Viva",
+      "Isca Cortada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca"
+    ],
+    "observacoes": [
+      "Liberação de piranhas no viveiro",
+      "Doação de peixes"
+    ]
+  }
+}

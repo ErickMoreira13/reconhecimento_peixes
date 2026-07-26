@@ -1,0 +1,58 @@
+{
+  "arquivo": "-MEagq4_X7w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:38:23.543884",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piau",
+      "Tilápia",
+      "Tabaraninha",
+      "Bagre",
+      "Pirarara",
+      "Muçum",
+      "Carcará",
+      "Peixe",
+      "Cabra",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Capineiro",
+      "Peneira",
+      "Pegador de camarão",
+      "Vara",
+      "Fisga"
+    ],
+    "iscas": [
+      "Isca de carne",
+      "Isca de peixe",
+      "Tuveira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com capineiro",
+      "Pesca com peneira",
+      "Pesca com pegador de camarão",
+      "Pesca na sombra",
+      "Pesca com isca natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Alterosa",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca de lambari",
+      "Pesca de tabaraninha",
+      "Pesca de camarão"
+    ],
+    "observacoes": [
+      "Não foi possível capturar peixes maiores devido à dificuldade de controle",
+      "Uso de iscas naturais e artificiais",
+      "Presença de muçum e carcará no local",
+      "Frio intenso afetou a atividade pesqueira",
+      "Muitos peixes escaparam durante a captura"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "arquivo": "Uluvj2nytbM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:08:20.351081",
+  "classificacao": {
+    "summary": {
+      "main_content": "The text appears to be a script or transcript from a Brazilian YouTube video, featuring a casual, interactive format. It includes cooking instructions (likely for a dish like 'feijoada'), promotional mentions of a land lottery ('Terreno da Sorte') and a fishing company ('JC Pesca'), and a conversational tone with audience engagement (e.g., 'vocês estão vendo?').",
+      "key_elements": {
+        "cooking": "Detailed steps for preparing a meal, possibly involving ingredients like beans, pork, and rice, with a focus on traditional Brazilian cuisine.",
+        "promotion": "References to a land lottery ('Terreno da Sorte') and a fishing business ('JC Pesca'), suggesting a mix of content creation and affiliate marketing.",
+        "community_interaction": "Frequent calls to the audience ('vocês', 'vamos'), indicating a participatory approach to content delivery.",
+        "characters": "Mentions of individuals like 'Dona Ju' and 'Dona Regina,' possibly representing family or community members involved in the cooking process."
+      },
+      "purpose": "The video likely serves as a blend of educational content (cooking), promotional material (land/fishing offers), and community-building through direct audience interaction."
+    }
+  }
+}

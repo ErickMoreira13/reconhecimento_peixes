@@ -1,0 +1,31 @@
+{
+  "arquivo": "pFROHrbUBOA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:06:22.165128",
+  "classificacao": {
+    "species": [
+      "Bagre",
+      "Traíra",
+      "Jundiá",
+      "Tilápia",
+      "Lambari"
+    ],
+    "equipment": [
+      "Vara",
+      "Chumbada",
+      "Anzol",
+      "Fio",
+      "Carretilha",
+      "Barbante"
+    ],
+    "iscas": [
+      "Fígado de galinha",
+      "Piava"
+    ],
+    "cevas": [
+      "Galão perfurado"
+    ],
+    "graos": [],
+    "others": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "VFhm2yjdA8U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:04:14.413579",
+  "classificacao": {
+    "especies": [
+      "Pirarucu",
+      "Jaú",
+      "Dourado",
+      "Jundiaí",
+      "Cachara",
+      "Barba Chata"
+    ],
+    "equipamentos": [
+      "Escada",
+      "Barco",
+      "Alicate",
+      "Pulsar"
+    ],
+    "iscas": [
+      "Isquinha de tuvira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jogada",
+      "Jogadinha no barranco",
+      "Jogada liberando o mato"
+    ],
+    "rios": [
+      "Rio Madeira"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "Rondônia",
+    "municipio": "Porto Velho",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Soltação de peixes"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "ua7HmRjG470",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:53:14.910979",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Linha esticada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Linha esticada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

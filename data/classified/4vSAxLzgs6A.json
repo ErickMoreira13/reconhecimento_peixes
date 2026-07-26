@@ -1,0 +1,36 @@
+{
+  "arquivo": "4vSAxLzgs6A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:46:37.702086",
+  "classificacao": {
+    "species": [
+      "tucunaré",
+      "carabatana",
+      "piranha",
+      "traíra"
+    ],
+    "equipment": [
+      "mato",
+      "serva",
+      "pau",
+      "boia",
+      "vara",
+      "castro"
+    ],
+    "baits": [
+      "camarão",
+      "castroinho"
+    ],
+    "location": "lago",
+    "other_details": {
+      "techniques": [
+        "fishing with floats (boia)",
+        "using rods (vara)"
+      ],
+      "additional_terms": [
+        "carababona bruta",
+        "morobá"
+      ]
+    }
+  }
+}

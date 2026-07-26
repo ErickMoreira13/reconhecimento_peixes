@@ -1,0 +1,34 @@
+{
+  "arquivo": "FmjHKoYsPLE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:28:46.347027",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Vara",
+      "Alicate",
+      "Remo",
+      "Linha"
+    ],
+    "iscas": [
+      "Lendária"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Dourado"
+    ],
+    "observacoes": []
+  }
+}

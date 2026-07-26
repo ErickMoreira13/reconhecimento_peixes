@@ -1,0 +1,37 @@
+{
+  "arquivo": "LsDOGmX2TOs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:46:52.854476",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Colher",
+      "Fire Tiger",
+      "Laranja",
+      "Preta",
+      "Prata",
+      "Vermelha",
+      "Verde Escura",
+      "Dourado"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de iscas com vibração e barulho",
+      "Uso de cores com alto contraste"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "A visão dos peixes é limitada em águas sujas, exigindo iscas com contraste, vibração e brilho",
+      "A isca preta e verde escura são eficazes em águas barrentas",
+      "O uso de iscas volumosas ajuda no deslocamento de água para atrair predadores"
+    ]
+  }
+}

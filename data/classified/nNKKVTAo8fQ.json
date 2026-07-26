@@ -1,0 +1,23 @@
+{
+  "arquivo": "nNKKVTAo8fQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:19:51.090761",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

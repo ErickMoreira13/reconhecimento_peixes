@@ -1,0 +1,34 @@
+{
+  "arquivo": "gAT75aeID74",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:29:36.556904",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Varinha de mão",
+      "Escar artificial",
+      "Estojo",
+      "Caiaque"
+    ],
+    "iscas": [
+      "Lambari"
+    ],
+    "graos": [],
+    "cevas": [],
+    "tecnicas": [
+      "Pescaria de raiz",
+      "Pescaria com lambari",
+      "Uso de escar artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca esportiva",
+    "observacoes": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "xxZCxwsA2QE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:37:38.737634",
+  "classificacao": {
+    "especies": [
+      "Jundiá",
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Anzol barra 4"
+    ],
+    "iscas": [
+      "Tripas do Jundiá",
+      "Piaba"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em água suja",
+      "Pesca com isca de tripas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca com isca natural"
+    ],
+    "observacoes": [
+      "Técnica eficaz com rio cheio",
+      "Uso de isca natural (tripas)"
+    ]
+  }
+}

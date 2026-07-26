@@ -1,0 +1,21 @@
+{
+  "arquivo": "5rvSYPd-1fo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:30:29.985365",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

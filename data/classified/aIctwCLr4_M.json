@@ -1,0 +1,26 @@
+{
+  "arquivo": "aIctwCLr4_M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:46:09.494714",
+  "classificacao": {
+    "species": [
+      "indagorinha",
+      "bagrão"
+    ],
+    "equipment": [
+      "varinha de armadilha",
+      "lenha",
+      "tábuas",
+      "lona",
+      "fogueira"
+    ],
+    "baits": [
+      "espinha de peixe"
+    ],
+    "lures": [],
+    "other_elements": [
+      "jacaré (mentioned but not caught)"
+    ],
+    "notes": "The transcript mentions 'coisinho com feijão' (something with beans) as a possible bait, but its use is not explicitly confirmed. Species names may require further validation for standardization."
+  }
+}

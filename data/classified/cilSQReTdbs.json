@@ -1,0 +1,22 @@
+{
+  "arquivo": "cilSQReTdbs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:38:37.137905",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha de pesca 0,30 kg",
+      "Linha de pesca 0,40 kg"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

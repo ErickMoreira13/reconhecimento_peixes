@@ -1,0 +1,26 @@
+{
+  "arquivo": "Hx_6GEcC-RA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:18:18.648208",
+  "classificacao": {
+    "especies": [
+      "Matrinxã",
+      "Curimacana"
+    ],
+    "equipamentos": [
+      "Faca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Remoção de espinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

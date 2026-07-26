@@ -1,0 +1,33 @@
+{
+  "arquivo": "ed76AlwxSro",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:54:43.399826",
+  "classificacao": {
+    "species": [
+      "Mandi"
+    ],
+    "equipment": [
+      "Varinha com molinete",
+      "Chumbada",
+      "Linha",
+      "Anzol",
+      "Nave",
+      "Alicate",
+      "Ferrão"
+    ],
+    "baits": [
+      "Minhoca"
+    ],
+    "river": [
+      "Riacho",
+      "Corredeira"
+    ],
+    "technique": [
+      "Pescaria de barranco",
+      "Jogar e tirar"
+    ],
+    "other": {
+      "fish_description": "Mandi amarelo (bruto)"
+    }
+  }
+}

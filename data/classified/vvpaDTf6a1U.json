@@ -1,0 +1,42 @@
+{
+  "arquivo": "vvpaDTf6a1U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:28:18.270588",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Jundia",
+      "Garopa",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Linha de nylon",
+      "Chumbada",
+      "Empates",
+      "Madeira",
+      "Anzóis",
+      "Madeirinha"
+    ],
+    "iscas": [
+      "Lula",
+      "Sapo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com linha de fundo"
+    ],
+    "rios": [],
+    "bacias": [
+      "Açude"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com linha de fundo"
+    ],
+    "observacoes": [
+      "Pescaria rápida, barata e simples de fazer"
+    ]
+  }
+}

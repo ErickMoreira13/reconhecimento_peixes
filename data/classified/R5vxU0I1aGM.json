@@ -1,0 +1,57 @@
+{
+  "arquivo": "R5vxU0I1aGM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:56:50.318198",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Carretilha",
+      "Girador",
+      "Drag"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "gra": [],
+    "tipo de pesca": [
+      "Pesca de fundo",
+      "Pesca na boia",
+      "Pesca com artificiais",
+      "Pesca pesada"
+    ],
+    "local de pesca": [
+      "Pesqueiro",
+      "Rio Araguaia"
+    ],
+    "marca de equipamento": [
+      "Tulo 6500 Marini"
+    ],
+    "tamanho do molinete": [
+      "1.000",
+      "3.000",
+      "4.000",
+      "5.000",
+      "8.000"
+    ],
+    "capacidade de linha": [],
+    "tipo de linha": [
+      "Linha grossa",
+      "Linha fina"
+    ],
+    "método de arremesso": [
+      "Arremesso com molinete para cima",
+      "Posição de mão exata"
+    ],
+    "técnica de pesca": [
+      "Arremesso longo",
+      "Uso do girador",
+      "Controle da briga com o peixe"
+    ],
+    "observação": [
+      "Torcimento da linha"
+    ]
+  }
+}

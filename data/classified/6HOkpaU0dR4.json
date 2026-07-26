@@ -1,0 +1,49 @@
+{
+  "arquivo": "6HOkpaU0dR4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T01:01:33.623311",
+  "classificacao": {
+    "especies": [
+      "Raia",
+      "Corruptor",
+      "Tampos",
+      "Paratigá",
+      "Pacu",
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Chumbada",
+      "Chicote",
+      "Anzol",
+      "Filé de paratigato",
+      "Minhoca de praia",
+      "Betara",
+      "Carnada"
+    ],
+    "iscas": [
+      "Filé de paratigato",
+      "Minhoca de praia",
+      "Betada",
+      "Carnada",
+      "Carnada com betada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Solta a frição",
+      "Deixar um pouco mais solco",
+      "Escalar uma outra",
+      "Riscas",
+      "Carnada"
+    ],
+    "local": "Litoral de Itapuá",
+    "horário": [
+      "Seis horas da manhã",
+      "Oito e meia da manhã"
+    ],
+    "observações": [
+      "A raia é uma espécie protegida e não pode ser levada para casa."
+    ]
+  }
+}

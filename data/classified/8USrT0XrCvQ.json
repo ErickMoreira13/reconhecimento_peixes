@@ -1,0 +1,41 @@
+{
+  "arquivo": "8USrT0XrCvQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:33:20.801262",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "bote",
+      "motor",
+      "rede",
+      "tripé"
+    ],
+    "iscas": [
+      "anzol",
+      "tarrafa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "tarrafa",
+      "anzol",
+      "soltar rede"
+    ],
+    "rios": [
+      "Rio 12"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Marabá",
+    "tipo_pesca": [
+      "Tarrafa",
+      "Anzol",
+      "Rede"
+    ],
+    "observacoes": [
+      "Dificuldade em usar a tarrafa",
+      "Ausência do tripé",
+      "Apoio dos caminhoneiros"
+    ]
+  }
+}

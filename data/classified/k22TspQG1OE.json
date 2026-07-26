@@ -1,0 +1,20 @@
+{
+  "arquivo": "k22TspQG1OE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:27:35.125984",
+  "classificacao": {
+    "summary": "O conteúdo é uma transcrição de um vídeo ao vivo de pesca, com o locutor descrevendo a captura de um peixe grande (possivelmente um roubalo) e a emoção do momento. Há menções a nomes como Breno, Tarsal e outros participantes, além de detalhes sobre equipamentos de pesca. No final, o locutor convida o público para um evento chamado 'Pesca e Fecha Sergipe', que ocorrerá em 6 de dezembro, gratuito e aberto ao público, com sorteio de prêmios e convite para doações de itens para o sorteio.",
+    "key_points": [
+      "Descrição da captura de um peixe grande (roubalo) durante a pesca.",
+      "Mencões a participantes (Breno, Tarsal) e equipamentos de pesca.",
+      "Convite para o evento 'Pesca e Fecha Sergipe' em 6 de dezembro, Sergipe, Brasil.",
+      "Evento gratuito com sorteio de prêmios e convite para doações de itens."
+    ],
+    "event_details": {
+      "name": "Pesca e Fecha Sergipe",
+      "date": "6 de dezembro",
+      "location": "Sergipe, Brasil",
+      "description": "Evento gratuito aberto ao público, com atividades de pesca e sorteio de prêmios. O público é convidado a doar itens para o sorteio."
+    }
+  }
+}

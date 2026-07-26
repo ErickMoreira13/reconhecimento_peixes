@@ -1,0 +1,24 @@
+{
+  "arquivo": "WULnzX8jf80",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:36:10.034283",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Kit de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Inundação recente reduziu a quantidade de peixes no rio",
+      "Uso de kit de pesca para pesca em rio grande"
+    ]
+  }
+}

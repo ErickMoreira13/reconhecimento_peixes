@@ -1,0 +1,37 @@
+{
+  "arquivo": "rEjoL_eKndo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:05:40.681812",
+  "classificacao": {
+    "especies": [
+      "Sargo",
+      "Bitelo"
+    ],
+    "equipamentos": [
+      "Marucego 20",
+      "Anzol"
+    ],
+    "iscas": [
+      "Dente de Uriço Amassado"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Amassar",
+      "Encobrir o Anzol",
+      "Mandar pra Dentro"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe grande",
+      "Uso de dente de uriço amassado",
+      "Técnica de amassar e encobrir o anzol"
+    ]
+  }
+}

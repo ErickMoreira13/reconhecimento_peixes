@@ -1,0 +1,44 @@
+{
+  "arquivo": "83z-XOdRXC0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:09:25.046320",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Caatinga"
+    ],
+    "equipamentos": [
+      "espinho",
+      "ferro",
+      "pneu",
+      "corda",
+      "motor",
+      "espiniel"
+    ],
+    "iscas": [
+      "isca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": [
+      "Amazonas",
+      "Maranhão",
+      "Pará",
+      "Paraná",
+      "Santa Catarina"
+    ],
+    "municipio": [
+      "Manaus",
+      "Turiaçu",
+      "Bragança Pará",
+      "Curitiba"
+    ],
+    "tipos_de_pesca": [],
+    "observacoes": []
+  }
+}

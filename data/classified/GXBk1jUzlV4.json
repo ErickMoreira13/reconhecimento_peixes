@@ -1,0 +1,22 @@
+{
+  "arquivo": "GXBk1jUzlV4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:24:00.060770",
+  "classificacao": {
+    "summary": "O texto parece ser um transcrição de um evento de pesca esportiva, com comentários informais de participantes. Destaca-se a competição entre participantes como Léo, Margo e Marcel, com foco em capturar peixes grandes (referidos como 'feixão', possivelmente um erro de 'peixão'). Há menções a desafios técnicos, como o motor do barco quebrando, e a cerimônia de premiação. O evento ocorre no 'terceiro festival de pesca esportiva Alto Conaré', em Jatapu, Entre Rios, com a participação de um barco chamado 'Hidro 2 Eco Motorizado'.",
+    "key_points": [
+      "Competição de pesca com participantes Léo, Margo e Marcel",
+      "Captura de peixes grandes ('feixão')",
+      "Problemas técnicos com o motor do barco",
+      "Cerimônia de premiação",
+      "Local: Jatapu, Entre Rios",
+      "Evento: terceiro festival de pesca esportiva Alto Conaré"
+    ],
+    "possible_requests": [
+      "Tradução para inglês",
+      "Resumo mais detalhado",
+      "Análise do conteúdo",
+      "Identificação de termos técnicos de pesca"
+    ]
+  }
+}

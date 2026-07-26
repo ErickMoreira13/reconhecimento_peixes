@@ -1,0 +1,109 @@
+{
+  "arquivo": "7XeBIiLkQ3Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:06:00.563779",
+  "classificacao": {
+    "especie": [
+      {
+        "nome": "dourado",
+        "quantidade": 1
+      },
+      {
+        "nome": "tucundaré",
+        "quantidade": 0
+      },
+      {
+        "nome": "luna",
+        "quantidade": 0
+      }
+    ],
+    "equipamento": [
+      {
+        "nome": "vara",
+        "quantidade": 1
+      },
+      {
+        "nome": "suporte do varpe",
+        "quantidade": 1
+      },
+      {
+        "nome": "bateria",
+        "quantidade": 1
+      },
+      {
+        "nome": "barco",
+        "quantidade": 1
+      },
+      {
+        "nome": "âncora",
+        "quantidade": 1
+      },
+      {
+        "nome": "freio",
+        "quantidade": 1
+      },
+      {
+        "nome": "garaté",
+        "quantidade": 1
+      }
+    ],
+    "isca": [
+      {
+        "nome": "isca pequena",
+        "quantidade": 1
+      },
+      {
+        "nome": "isquinha de oito centímetros",
+        "quantidade": 1
+      },
+      {
+        "nome": "isca 10 centímetros",
+        "quantidade": 1
+      },
+      {
+        "nome": "garaté",
+        "quantidade": 1
+      }
+    ],
+    "ceva": [],
+    "grao": [],
+    "tecnica": [
+      {
+        "nome": "técnica de varpe",
+        "quantidade": 1
+      },
+      {
+        "nome": "técnica de apoiar o barco",
+        "quantidade": 1
+      },
+      {
+        "nome": "técnica de mudar a bateria",
+        "quantidade": 1
+      },
+      {
+        "nome": "técnica de soltar o barco",
+        "quantidade": 1
+      },
+      {
+        "nome": "técnica de calibrar o freio",
+        "quantidade": 1
+      }
+    ],
+    "rio": [
+      {
+        "nome": "iguacu",
+        "quantidade": 1
+      }
+    ],
+    "bacia": [],
+    "estado": "parana",
+    "municipio": "iguacu",
+    "tipo_pesca": "pesca esportiva",
+    "observacao": [
+      "rio um pouco sujo",
+      "bateria da camera acabou",
+      "peixe grande",
+      "tempo frio"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "4LLb-Gx1Q9s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:41:05.960866",
+  "classificacao": {
+    "especies": [
+      "piau",
+      "sardinha",
+      "lambari"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "potinho de isca",
+      "garrafinha de sinalização",
+      "câmera"
+    ],
+    "isca": [
+      "massa",
+      "manga"
+    ],
+    "localizacao": [
+      "Rio Parnaíba",
+      "Rio Puti"
+    ],
+    "observacoes": "Mencionado o uso de uma garrafinha de sinalização para marcar pontos de pesca, presença de águapé (uma planta aquática) que pode dificultar a pesca, e condições de vento e ondas no local."
+  }
+}

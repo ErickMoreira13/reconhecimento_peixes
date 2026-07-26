@@ -1,0 +1,38 @@
+{
+  "arquivo": "bhuZW4ACjoE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:14:59.251612",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Anzol Mário Seigo 14",
+      "Anzol Mário Seigo 16",
+      "Anzol 18"
+    ],
+    "iscas": [
+      "Corozinho",
+      "Massinha de groselha com ração de coelho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Lançamento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Tilápia"
+    ],
+    "observacoes": []
+  }
+}

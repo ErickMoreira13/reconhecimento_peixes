@@ -1,0 +1,28 @@
+{
+  "arquivo": "2rpxJgI_egs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:37:36.712025",
+  "classificacao": {
+    "species_caught": [
+      "raia",
+      "bag",
+      "pump",
+      "arráia"
+    ],
+    "fishing_method": "espinhão fishing",
+    "location": [
+      "praia do Pará",
+      "cru praia do Farão"
+    ],
+    "time_of_day": [
+      "early morning",
+      "afternoon"
+    ],
+    "other_details": [
+      "caught 10 kg of arráia",
+      "sold fish for R$100",
+      "interactions with partner Fabinho",
+      "video includes commentary on the process and results"
+    ]
+  }
+}

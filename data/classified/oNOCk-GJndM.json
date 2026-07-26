@@ -1,0 +1,15 @@
+{
+  "arquivo": "oNOCk-GJndM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:57:19.030434",
+  "classificacao": {
+    "resumo": "O pescador compartilha frustrações com redes antigas que causaram a perda de um peixe grande e problemas técnicos com a internet durante o upload de vídeos. Ele menciona a necessidade de reduzir a duração dos vídeos para facilitar o upload e pede aos espectadores que curtam e se inscrevam no canal.",
+    "pontos_chave": [
+      "Frustração com redes antigas que prejudicaram a pesca.",
+      "Problemas de conexão de internet durante o upload de vídeos.",
+      "Decisão de encurtar vídeos para melhorar a experiência de upload.",
+      "Chamada para ações (curtidas e inscrições) do público."
+    ],
+    "chamada_ao_acao": "O pescador pede aos espectadores que curtam e se inscrevam no canal para continuar recebendo conteúdo."
+  }
+}

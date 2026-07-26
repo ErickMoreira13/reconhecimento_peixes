@@ -1,0 +1,30 @@
+{
+  "arquivo": "gahJGs5Q1eA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:28:38.376107",
+  "classificacao": {
+    "especies": [
+      "Curimbatá"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "cevinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com ceva"
+    ],
+    "observacoes": []
+  }
+}

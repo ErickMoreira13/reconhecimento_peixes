@@ -1,0 +1,35 @@
+{
+  "arquivo": "308Lp9-zybM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:42:43.630754",
+  "classificacao": {
+    "especies": [
+      "Açu",
+      "Paca"
+    ],
+    "equipamentos": [
+      "barco",
+      "pousada",
+      "celular",
+      "câmera",
+      "gopro",
+      "alicate",
+      "passaguá",
+      "linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio de Atapu"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Urucurituba",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

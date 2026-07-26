@@ -1,0 +1,38 @@
+{
+  "arquivo": "A8MaAaYfTPc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:08:26.992454",
+  "classificacao": {
+    "especies": [
+      "Tainha",
+      "Boto",
+      "Siri",
+      "Praia",
+      "Tanhota"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Colete",
+      "Argola"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com tarrafa"
+    ],
+    "rios": [
+      "Tramandaí"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Tramandaí",
+    "tipo_pesca": [
+      "Pesca com tarrafa"
+    ],
+    "observacoes": [
+      "Presença de botos que sinalizam a presença de peixes",
+      "Uso de tarrafas para capturar tainhas e outros peixes"
+    ]
+  }
+}

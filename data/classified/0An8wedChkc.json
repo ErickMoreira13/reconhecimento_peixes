@@ -1,0 +1,25 @@
+{
+  "arquivo": "0An8wedChkc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:00:15.863334",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Descrição da maré de lança na Ilha das Onças",
+      "Mudanças na maré durante o inverno e março",
+      "Impacto da maré na estrutura de uma casa e em um colégio",
+      "Passeio de casquete durante a maré",
+      "Mencionada a possibilidade de tomar banho durante a maré cheia"
+    ]
+  }
+}

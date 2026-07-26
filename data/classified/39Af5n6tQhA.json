@@ -1,0 +1,33 @@
+{
+  "arquivo": "39Af5n6tQhA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:54:02.752967",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Crazy Frog",
+      "vara 17 libras",
+      "carretil de perfil baixo",
+      "linha 0,23",
+      "líder 0,52"
+    ],
+    "iscas": [
+      "Crazy Frog"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso",
+      "trabalho com pequenos toques de ponta de vara",
+      "levantar o peixe com a vara pra cima"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca artificial"
+    ],
+    "observacoes": "O pesquisador não se considera o melhor, mas compartilha sua técnica. Destaca que cada pessoa deve adaptar o método ao seu estilo e equipamento."
+  }
+}

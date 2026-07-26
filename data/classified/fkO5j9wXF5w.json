@@ -1,0 +1,39 @@
+{
+  "arquivo": "fkO5j9wXF5w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:26:30.701622",
+  "classificacao": {
+    "especies": [
+      "Surubim",
+      "Caparari",
+      "Pacu",
+      "Paralisão",
+      "Pirapitinga"
+    ],
+    "equipamentos": [
+      "Flecha de Zagaia",
+      "Arpoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Flecha de Zagaia",
+      "Arpoar"
+    ],
+    "rios": [
+      "Bordo"
+    ],
+    "bacias": [
+      "Amazonas"
+    ],
+    "estado": "Amazonas",
+    "municipio": "Maraná",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A diferença entre Surubim e Caparari: Surubim tem manchas na barriga e cabeça mais larga; Caparari tem bolinhas e cara mais fina",
+      "Pescaria realizada na boca do lago comunidade",
+      "Capturados dois peixes: um Surubim e um Caparari"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arquivo": "0Dfi25yqN-M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T11:28:02.004654",
+  "classificacao": {
+    "species": [
+      "Barbudo",
+      "Papaita",
+      "Papinho Galhudo",
+      "Sawara"
+    ],
+    "equipment": [
+      "Vara",
+      "Descanso de Cantoneira",
+      "Chumbada Lamego",
+      "Girador na Haste",
+      "Case CR2",
+      "Case MG Solution",
+      "Boinha",
+      "Pernada Longa"
+    ],
+    "baits": [
+      "Isca",
+      "Sardinha",
+      "Carnada"
+    ],
+    "cevadas": [],
+    "techniques": [
+      "Arremesso",
+      "Pernada Longa",
+      "Chumbada com Girador",
+      "Chicote Longa",
+      "Boinha"
+    ],
+    "local": "Mar",
+    "tipo de pesca": "Pesca em Família",
+    "inscritos": "Quase 9 Mil"
+  }
+}

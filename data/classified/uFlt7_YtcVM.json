@@ -1,0 +1,33 @@
+{
+  "arquivo": "uFlt7_YtcVM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:22:58.800582",
+  "classificacao": {
+    "especies": [
+      "Joana"
+    ],
+    "equipamentos": [
+      "câmera",
+      "monitoramento eletrônico"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Iguaçu",
+      "Rio Iguaçu do Paraná"
+    ],
+    "estado": "Paraná",
+    "municipio": "",
+    "bacias": [
+      "Bacia do Paraná"
+    ],
+    "tipo_pesca": [],
+    "observacoes": [
+      "filmagem de segurança",
+      "localização não revelada",
+      "área com comunidade próxima"
+    ]
+  }
+}

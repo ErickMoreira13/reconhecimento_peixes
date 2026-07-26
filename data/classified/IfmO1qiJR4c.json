@@ -1,0 +1,38 @@
+{
+  "arquivo": "IfmO1qiJR4c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:32:25.366979",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piau",
+      "Curimba",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Azol",
+      "Isquinhas"
+    ],
+    "iscas": [
+      "Bacon"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca única"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Época do tambiu",
+      "Época do piau",
+      "Época do piapara",
+      "Época da curimba"
+    ]
+  }
+}

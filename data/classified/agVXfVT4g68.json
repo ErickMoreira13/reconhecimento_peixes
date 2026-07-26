@@ -1,0 +1,41 @@
+{
+  "arquivo": "agVXfVT4g68",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:44:28.808354",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "ADK",
+      "CMC",
+      "linhas",
+      "ceva",
+      "galão perfurado",
+      "saco furado",
+      "tubo de PVC perfurado"
+    ],
+    "iscas": [
+      "Isca Net"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Cinchada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "escapou",
+      "aracujudo",
+      "falou como se inscrever",
+      "se inscreve no canal do regão",
+      "meio viadinho"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "arquivo": "21XBe8_1nck",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:06:02.668683",
+  "classificacao": {
+    "especies": [
+      "Envelado",
+      "Arasagi"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

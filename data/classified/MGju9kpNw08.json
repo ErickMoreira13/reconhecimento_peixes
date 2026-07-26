@@ -1,0 +1,28 @@
+{
+  "arquivo": "MGju9kpNw08",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:04:16.801555",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "carretel"
+    ],
+    "iscas": [
+      "Bala"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "recuperação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "casa de chapéu",
+      "perda de peixe durante recuperação"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "gmcPIxhXrQw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:58:50.423528",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Ponteirinha",
+      "Varinha na boia"
+    ],
+    "iscas": [
+      "Milho verde",
+      "Milho azedo",
+      "Bichinho de laranja",
+      "Massinha de milho verde"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "técnicas": [
+      "Pescaria no fundo",
+      "Uso da boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O uso de milho verde e azedo como iscas principais, combinados com bichinho de laranja e massinha de milho verde.",
+      "A preparação da isca envolve o uso de um galão perfurado para armazenar e liberar o milho gradualmente.",
+      "A prática de soltar os peixes capturados para evitar assustar outros pescadores."
+    ]
+  }
+}

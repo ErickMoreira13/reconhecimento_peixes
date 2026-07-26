@@ -1,0 +1,40 @@
+{
+  "arquivo": "m3DAlse0NHw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:38:39.540883",
+  "classificacao": {
+    "especies": [
+      "Morena",
+      "Bacu"
+    ],
+    "equipamentos": [
+      "Máquina",
+      "Linha",
+      "Varas",
+      "Aquário"
+    ],
+    "iscas": [
+      "Farofa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Corredeira",
+      "Puxar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Esqueceu de trazer farofa, isqueira e sal",
+      "Aquário não está em condições",
+      "Solteu alguns peixes por saúde",
+      "Pegou dois bacus simultaneamente",
+      "Mencionou a dificuldade de filmar o puxo"
+    ]
+  }
+}

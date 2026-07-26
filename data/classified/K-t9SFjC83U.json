@@ -1,0 +1,37 @@
+{
+  "arquivo": "K-t9SFjC83U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:25:55.500629",
+  "classificacao": {
+    "especies": [
+      "Rolapé",
+      "Barbado",
+      "Piau",
+      "Mandi",
+      "Moriçoca",
+      "Giripoca",
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Vara",
+      "Anzol Cunha",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Canoa",
+      "Aventamento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

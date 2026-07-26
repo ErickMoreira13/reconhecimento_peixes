@@ -1,0 +1,74 @@
+{
+  "arquivo": "kT2GpFBWPdw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:10:07.132810",
+  "classificacao": {
+    "especies": [
+      "tilápia",
+      "traíra",
+      "lambari",
+      "taíra",
+      "pacu",
+      "bitela",
+      "chilape"
+    ],
+    "equipamentos": [
+      "rede",
+      "tambor",
+      "polo",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "saco de cebola",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [],
+    "cevas": [
+      "milho",
+      "água",
+      "barro",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "saco de cebola",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "cocho perfurado"
+    ],
+    "localização": [
+      "represa",
+      "represinha",
+      "Zambaria",
+      "canal"
+    ],
+    "temperatura da água": [
+      "frio"
+    ],
+    "observações": [
+      "peixe furado",
+      "bitela demais",
+      "tilapia filhotinho",
+      "soltaça",
+      "abate",
+      "limpeza",
+      "oxigênese",
+      "morrer",
+      "crescer",
+      "panela",
+      "chilape",
+      "latinha",
+      "cerveja",
+      "barro",
+      "água",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "saco de cebola",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "cocho perfurado"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "byR4sfHi2WM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:42:46.137786",
+  "classificacao": {
+    "especies": [
+      "Barbo",
+      "Boga",
+      "Pardilla",
+      "Cachuelo",
+      "Lucio",
+      "Black Bass"
+    ],
+    "equipamentos": [
+      "Lure flotante",
+      "Bomber Long A"
+    ],
+    "iscas": [
+      "Lure"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de recuperação com puxões curtos e pausas",
+      "Técnica de movimento em recantos do rio"
+    ],
+    "rios": [
+      "Río"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "O rio possui uma cadeia alimentar ativa com pequenos peixes que atraem predadores como o Lucio. O ambiente é selvagem, com a presença de espécies como Barbo, Boga e Black Bass. A pesca envolve técnicas específicas para correntes e recantos."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "moylM1X0PTw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:59:49.593010",
+  "classificacao": {
+    "especies": [
+      "Apapá",
+      "Raia"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Linhada de mão",
+      "Varinha de pesca"
+    ],
+    "iscas": [
+      "Vitória Régia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Linhada de mão",
+      "Pesca com varinha de pesca"
+    ],
+    "rios": [
+      "Rio Escondido",
+      "Rio Guaporé"
+    ],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Presença de jacaré e sucuri",
+      "Peixes se escondem na floresta durante a cheia",
+      "Vitória Régia com estrutura reforçada",
+      "Peixes em cardume",
+      "Navegação por território boliviano"
+    ]
+  }
+}

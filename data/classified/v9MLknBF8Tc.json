@@ -1,0 +1,22 @@
+{
+  "arquivo": "v9MLknBF8Tc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:38:10.782863",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Popper",
+      "canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

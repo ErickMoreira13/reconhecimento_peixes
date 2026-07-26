@@ -1,0 +1,42 @@
+{
+  "arquivo": "mGlb_U0PR7Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:04:23.371932",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "vara",
+      "alicate",
+      "linha"
+    ],
+    "iscas": [
+      "isca com dois anzóis"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "pesca com ceva natural",
+      "uso de isca com dois anzóis"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "pescaria realizada cedo pela manhã",
+      "ceva de milho eficaz",
+      "captura de tilápia",
+      "uso de duas varas durante a pescaria",
+      "importância de trocar a linha regularmente"
+    ]
+  }
+}

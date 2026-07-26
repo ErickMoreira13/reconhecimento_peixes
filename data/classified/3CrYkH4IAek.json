@@ -1,0 +1,22 @@
+{
+  "arquivo": "3CrYkH4IAek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:57:12.281845",
+  "classificacao": {
+    "summary": "O texto é uma narração de Marlon sobre uma expedição de pesca na Ilha do Bananal, no Brasil, onde ele descreve o ambiente único da região, marcado pela cheia sazonal que transforma a ilha em uma extensa planície alagada. Ele fala sobre as técnicas de pesca utilizadas para capturar pirarucu (um grande peixe-palha) e pirarara (um tipo de piranha), destacando a excitação ao pescar um pirarara de grande porte. A narrativa também menciona planos para uma caminhada noturna e observação do nascer do sol, sugerindo uma experiência imersiva na natureza. O conteúdo combina elementos de ecologia, cultura local e aventura, com ênfase na biodiversidade da região.",
+    "key_points": [
+      "Ilha do Bananal: localização e características ecológicas (cheia sazonal, biodiversidade).",
+      "Técnicas de pesca: uso de iscas e estratégias para capturar pirarucu e pirarara.",
+      "Experiência pessoal de Marlon: descrição do momento de captura do pirarara e reflexões sobre a natureza.",
+      "Plano para atividades futuras: caminhada noturna e observação do nascer do sol.",
+      "Contexto ambiental: importância do ciclo de cheias para a ecologia da região."
+    ],
+    "possible_questions": [
+      "Qual a diferença entre pirarucu e pirarara?",
+      "Como a cheia sazonal afeta a vida na Ilha do Bananal?",
+      "Quais são as técnicas específicas de pesca mencionadas no texto?",
+      "O que é a Ilha do Bananal e por que é importante?",
+      "Como a narrativa reflete a relação entre o homem e a natureza?"
+    ]
+  }
+}

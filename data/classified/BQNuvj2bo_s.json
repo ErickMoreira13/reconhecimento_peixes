@@ -1,0 +1,22 @@
+{
+  "arquivo": "BQNuvj2bo_s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:33:10.751801",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jerk",
+      "Long Jerk"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

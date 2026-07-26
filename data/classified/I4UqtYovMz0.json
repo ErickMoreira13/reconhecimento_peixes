@@ -1,0 +1,37 @@
+{
+  "arquivo": "I4UqtYovMz0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:23:23.813932",
+  "classificacao": {
+    "especies": [
+      "Amarelão"
+    ],
+    "equipamentos": [
+      "caiaque",
+      "régua"
+    ],
+    "iscas": [
+      "garatainha"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca em caiaque",
+      "soltação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Pirapitinga",
+    "tipo_pesca": [
+      "pesca em caiaque",
+      "torneio virtual"
+    ],
+    "observacoes": [
+      "soltação do peixe",
+      "medição do peixe com régua (45 cm e 41 cm)"
+    ]
+  }
+}

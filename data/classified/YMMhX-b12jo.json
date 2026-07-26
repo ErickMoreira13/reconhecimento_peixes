@@ -1,0 +1,34 @@
+{
+  "arquivo": "YMMhX-b12jo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:19:35.831298",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Caranhona"
+    ],
+    "equipamentos": [
+      "Boia",
+      "Canoa",
+      "Motor",
+      "Gasolina",
+      "Varinha",
+      "Anzol",
+      "Fio"
+    ],
+    "iscas": [
+      "Biscoito frito"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Claro"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

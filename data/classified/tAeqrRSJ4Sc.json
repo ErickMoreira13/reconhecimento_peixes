@@ -1,0 +1,42 @@
+{
+  "arquivo": "tAeqrRSJ4Sc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:47:53.122162",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Garrafa",
+      "Varinha"
+    ],
+    "iscas": [
+      "Ração de peixe",
+      "Ração de coelho",
+      "Suco de morango"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Mandioca"
+    ],
+    "tecnicas": [
+      "Pinga",
+      "Curtido na pinga"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com ceva"
+    ],
+    "resultados": []
+  }
+}

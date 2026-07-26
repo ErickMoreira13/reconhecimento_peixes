@@ -1,0 +1,42 @@
+{
+  "arquivo": "EeSfCewiWC4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:56:41.458085",
+  "classificacao": {
+    "especie": "tilapia",
+    "equipamento": [
+      "carretilha",
+      "linha",
+      "azul",
+      "luva"
+    ],
+    "cevas": [
+      {
+        "tipo": "Ceva Proteica",
+        "descricao": "ração de coelho"
+      },
+      {
+        "tipo": "Ceva Natural",
+        "descricao": "massinha"
+      },
+      {
+        "tipo": "Ceva Natural",
+        "descricao": "bichinho de laranja"
+      },
+      {
+        "tipo": "Ceva Proteica",
+        "descricao": "ração de peixe"
+      }
+    ],
+    "tecnica": [
+      "amarrado no anzal",
+      "coloca a ração",
+      "enrola o azar"
+    ],
+    "localizacao": {
+      "estado": "",
+      "municipio": "",
+      "ambiente": "lagoa"
+    }
+  }
+}

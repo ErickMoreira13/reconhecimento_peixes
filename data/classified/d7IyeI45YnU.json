@@ -1,0 +1,20 @@
+{
+  "arquivo": "d7IyeI45YnU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:42:13.576080",
+  "classificacao": {
+    "resumo": "O texto descreve a experiência de alguém que pescou, preparou uma fogueira, cozinhado um peixe e compartilhou o momento com outras pessoas. O processo inclui a preparação do peixe (remoção de escamas e ossos), o uso de carvão e óleo de frigideira para cozinhar, e a descrição do ambiente ao redor, como o pôr do sol. Há também menções à alegria de capturar diferentes tipos de peixe e à convivência com outros pescadores.",
+    "elementos_chave": {
+      "preparação_do_peixe": "Remoção de escamas e ossos, uso de carvão e óleo para cozinhar.",
+      "ambiente": "Fogueira, pôr do sol, natureza ao redor.",
+      "interação_social": "Compartilhamento com outros pescadores, celebração da captura.",
+      "técnicas_de_pescaria": "Uso de iscas (jig), descrição de movimentos para atrair peixes.",
+      "emoções": "Alegria, satisfação, conexão com a natureza."
+    },
+    "análise": "O texto transmite uma sensação de conexão com a natureza e a satisfação de um trabalho bem-sucedido. A linguagem coloquial e as expressões de entusiasmo (como 'vai, vai, vai!') reforçam a vivência intensa do momento. A descrição detalhada do processo de preparo do peixe e da fogueira destaca a improvisação e a habilidade do personagem. O pôr do sol no final sugere um ciclo completo, unindo ação e reflexão.",
+    "termos_técnicos": {
+      "jig": "Isca usada em pesca, geralmente com movimentos específicos para atrair peixes.",
+      "trimilicador": "Termo que pode se referir a um tipo de isca ou equipamento de pesca, mas seu significado exato depende do contexto regional."
+    }
+  }
+}

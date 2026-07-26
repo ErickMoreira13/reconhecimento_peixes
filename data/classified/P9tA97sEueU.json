@@ -1,0 +1,33 @@
+{
+  "arquivo": "P9tA97sEueU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:57:32.232677",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Chumbada"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Dublê"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Itaibaté",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

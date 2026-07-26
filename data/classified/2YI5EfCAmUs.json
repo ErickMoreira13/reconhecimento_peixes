@@ -1,0 +1,28 @@
+{
+  "arquivo": "2YI5EfCAmUs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:41:45.957820",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Repiquete"
+    ],
+    "rios": [
+      "Rio Baixo",
+      "Rio Alto"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Barcelos",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "Melhor condição de pesca quando o rio está secando, com sol forte e temperatura da água em torno de 30 graus. O Tucunaré tende a parar de comer durante o período de enchente (outubro a janeiro)."
+  }
+}

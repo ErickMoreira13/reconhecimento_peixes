@@ -1,0 +1,50 @@
+{
+  "arquivo": "7HaPEMjTw38",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:40:13.051181",
+  "classificacao": {
+    "especies": [
+      "Amarelo",
+      "Tucuninha",
+      "Tucunão",
+      "Traíra",
+      "Araca",
+      "Bicuda",
+      "Tucunaré",
+      "Aranjadão"
+    ],
+    "equipamentos": [
+      "T10",
+      "Shad",
+      "Shed",
+      "Lance",
+      "Lã",
+      "Canga"
+    ],
+    "iscas": [
+      "Isca",
+      "Ceva",
+      "Massa",
+      "Chad"
+    ],
+    "cevas": [
+      "Ceva",
+      "Massa"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Sol",
+      "Tempo Agradável",
+      "Chuva",
+      "Pastel"
+    ]
+  }
+}

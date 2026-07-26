@@ -1,0 +1,22 @@
+{
+  "arquivo": "fMB_0bVON5U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:28:03.685935",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Bad Dog 120 Prateada",
+      "Garateia"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

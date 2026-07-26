@@ -1,0 +1,52 @@
+{
+  "arquivo": "Hsr5SMGOmkw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:14:22.138861",
+  "classificacao": {
+    "especies": [
+      "Tucunareva",
+      "Traíra",
+      "Piracema"
+    ],
+    "equipamentos": [
+      "Kayak",
+      "GoPro",
+      "Motor Elétrico"
+    ],
+    "iscas": [
+      "Isca",
+      "Taba"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "grãos": [
+      "Soja",
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca com Isca",
+      "Pesca com Ceva",
+      "Pesca com Ceva de Partículas"
+    ],
+    "rios": [
+      "Lago Serra da Mesa"
+    ],
+    "bacias": [
+      "Bacia do Serra da Mesa"
+    ],
+    "estado": "Goiás",
+    "municipio": "Campo Norte",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca com Ceva"
+    ],
+    "observacoes": [
+      "Soltando o peixe",
+      "Uso de GoPro",
+      "Localização em Campo Norte"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "arquivo": "MY3_YesRUPE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:17:39.954761",
+  "classificacao": {
+    "especies": [
+      "Espargo",
+      "Goldenfish"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "Búzio",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

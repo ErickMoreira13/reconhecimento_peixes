@@ -1,0 +1,26 @@
+{
+  "arquivo": "NutPxUYy_ao",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:36:23.777281",
+  "classificacao": {
+    "especies": [
+      "Barra de Ouro",
+      "Lubina",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

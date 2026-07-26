@@ -1,0 +1,31 @@
+{
+  "arquivo": "YjQ5k573puk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:16:28.098004",
+  "classificacao": {
+    "especies": [
+      "Banhinha",
+      "Bruto"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jari"
+    ],
+    "bacias": [
+      "Amazônica"
+    ],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Grupos de pescadores informais"
+    ]
+  }
+}

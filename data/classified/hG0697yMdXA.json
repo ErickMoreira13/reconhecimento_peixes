@@ -1,0 +1,25 @@
+{
+  "arquivo": "hG0697yMdXA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:28:57.639938",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Iriri"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Deus nos leve em paz"
+    ]
+  }
+}

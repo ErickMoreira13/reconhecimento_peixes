@@ -1,0 +1,37 @@
+{
+  "arquivo": "GKF8MZDguCE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:54:26.627968",
+  "classificacao": {
+    "especies": [
+      "Patins",
+      "Pacu",
+      "Piau",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Varas",
+      "Caiaque",
+      "Cadeirinhas"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Machado",
+      "Rio Paraná"
+    ],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Pacu",
+      "Pesca de Piau"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "PK3DpGD1j0k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:10:08.419807",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Trairão",
+      "Curvina",
+      "Bicuda",
+      "Matrinchã",
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Molinetes",
+      "Varinha",
+      "Linha",
+      "Molinete Evox 1000",
+      "Wx8",
+      "Jampingig"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Iriri"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca"
+    ],
+    "observacoes": ""
+  }
+}

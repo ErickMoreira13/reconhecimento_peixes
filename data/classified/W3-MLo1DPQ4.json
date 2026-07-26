@@ -1,0 +1,18 @@
+{
+  "arquivo": "W3-MLo1DPQ4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:53:48.839730",
+  "classificacao": {
+    "species": [],
+    "equipment": [],
+    "baits": [],
+    "grains": [],
+    "techniques": [],
+    "rivers": [],
+    "basins": [],
+    "states": [],
+    "municipalities": [],
+    "fishing_types": [],
+    "observations": []
+  }
+}

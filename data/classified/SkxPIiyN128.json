@@ -1,0 +1,26 @@
+{
+  "arquivo": "SkxPIiyN128",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:07:35.016812",
+  "classificacao": {
+    "especies": [
+      "Lapa"
+    ],
+    "equipamentos": [
+      "bomba",
+      "chicó"
+    ],
+    "iscas": [
+      "camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "6qhh-PV8AEM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:40:26.284301",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

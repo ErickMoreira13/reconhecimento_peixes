@@ -1,0 +1,32 @@
+{
+  "arquivo": "zjkSPfm8DG0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:24:25.202256",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Flecha",
+      "Piranha",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Lanterna",
+      "Pá"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Doce"
+    ],
+    "bacias": [
+      "Bacia do Rio Doce"
+    ],
+    "estado": "Espírito Santo",
+    "municipio": "Linhares",
+    "tipo_pesca": "Pesca Esportiva",
+    "observacoes": []
+  }
+}

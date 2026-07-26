@@ -1,0 +1,30 @@
+{
+  "arquivo": "KHWRc7ZeR10",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:41:49.691768",
+  "classificacao": {
+    "pescador": "Matuto do Brejo",
+    "especie": [
+      "Tilápia",
+      "Piau",
+      "Curimba",
+      "Pelapão"
+    ],
+    "equipamento": [
+      "Anzol Marino Sport Venza",
+      "Borrachinha de cabelo"
+    ],
+    "cevas": {
+      "Ceva Proteica": [
+        "Ração de coelho"
+      ],
+      "Ceva de Partículas": [],
+      "Ceva de Fermentação": [],
+      "Ceva de Atração": []
+    },
+    "graos": [],
+    "tecnica": "Isca com ração de coelho e borrachinha de cabelo",
+    "localizacao": "",
+    "outros": ""
+  }
+}

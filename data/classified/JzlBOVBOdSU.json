@@ -1,0 +1,48 @@
+{
+  "arquivo": "JzlBOVBOdSU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:24:11.086868",
+  "classificacao": {
+    "especies": [
+      "robalo"
+    ],
+    "equipamentos": [
+      "microchede",
+      "jig head",
+      "offset",
+      "barco"
+    ],
+    "iscas": [
+      "isca arua",
+      "camarão artificial",
+      "camarãozinho suspende",
+      "microchede",
+      "jig head"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "lançamento",
+      "trabalhar meia água",
+      "paralela pedra",
+      "bater paralela pedra",
+      "deslocar muito",
+      "moendo na pedra"
+    ],
+    "rios": [
+      "Itapocu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com iscas artificiais",
+      "pesca com jig head"
+    ],
+    "observacoes": [
+      "peixe machucado na lateral",
+      "uso de iscas artificiais e jig head",
+      "planejamento para pesca no dia seguinte"
+    ]
+  }
+}

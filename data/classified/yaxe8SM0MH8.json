@@ -1,0 +1,29 @@
+{
+  "arquivo": "yaxe8SM0MH8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:06:34.724333",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Paconta"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Fogueira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Bartolomeu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "Pescaria realizada no final da tarde, com captura de múltiplos peixes. Vídeo postado após um período de atraso devido à correria."
+  }
+}

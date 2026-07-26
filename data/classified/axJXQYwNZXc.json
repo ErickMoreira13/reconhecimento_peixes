@@ -1,0 +1,27 @@
+{
+  "arquivo": "axJXQYwNZXc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:20:25.068930",
+  "classificacao": {
+    "especies": [
+      "Pretão",
+      "Bonito"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

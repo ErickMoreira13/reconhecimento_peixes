@@ -1,0 +1,25 @@
+{
+  "arquivo": "wpcN5Wtbzv8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:19:51.244212",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Lobó",
+      "Piau",
+      "Piapá",
+      "Pisciroca",
+      "Calabro"
+    ],
+    "pescaria": "Corregozinho e Corre Carumbezinho",
+    "isca": "Calabresa",
+    "local": "Corregozinho e Corre Carumbezinho",
+    "nome do vídeo": "Pescaria hoje aqui no Corre Carumbezinho",
+    "nome do pescador": [
+      "Gilmar",
+      "Daniel"
+    ],
+    "tipo de pescaria": "Pescaria de barranco",
+    "tipo de isca": "Calabresa"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "1-8YBlR_bxo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:45:11.339407",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tocantins"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "pescando com fumo"
+    ]
+  }
+}

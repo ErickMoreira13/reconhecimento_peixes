@@ -1,0 +1,32 @@
+{
+  "arquivo": "zbUt07_FBI0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:06:23.303566",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Morobá"
+    ],
+    "equipamentos": [
+      "vara de bambu",
+      "isca artificial"
+    ],
+    "iscas": [
+      "isca artificial",
+      "isca natural"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "as pequenas não escapam",
+      "as grandes estão escapando tudo",
+      "a traíra pequena está bem ativa"
+    ]
+  }
+}

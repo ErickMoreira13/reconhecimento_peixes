@@ -1,0 +1,26 @@
+{
+  "arquivo": "9NqcKBpxVwI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:45:33.944194",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Cachara"
+    ],
+    "equipamentos": [
+      "guelva"
+    ],
+    "iscas": [
+      "risquinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

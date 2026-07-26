@@ -1,0 +1,25 @@
+{
+  "arquivo": "lt29q-0QZgk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:47:51.982451",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Varinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio do Sono"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Montes Claros",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "TJfeXkLYFfE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T11:53:08.538056",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Massinha de alho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca"
+    ],
+    "observacoes": [
+      "Uso de massinha de alho misturada com trigo como isca"
+    ]
+  }
+}

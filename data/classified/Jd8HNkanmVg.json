@@ -1,0 +1,15 @@
+{
+  "arquivo": "Jd8HNkanmVg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:55:30.264070",
+  "classificacao": {
+    "summary": "O texto parece ser um script de vídeo ou transmissão ao vivo de alguém pescando, repleto de linguagem informal, nomes de pessoas, lugares e termos de pesca. Há menções a técnicas como 'chumada', 'surro', 'cioba', e espécies de peixes como 'garapinha', 'mucuripe', 'carajuba', 'guarajuba', entre outros. O conteúdo inclui interações com espectadores, agradecimentos a colaboradores e referências a locais como 'Itaqui' e 'Biculinho'.",
+    "key_points": [
+      "Menciona técnicas de pesca e espécies de peixes.",
+      "Inclui nomes de pessoas e lugares.",
+      "Linguagem coloquial e interações com o público.",
+      "Agradecimentos a colaboradores e apoio da comunidade."
+    ],
+    "request": "Você gostaria de uma tradução do texto, uma explicação detalhada de termos específicos, ou uma análise do conteúdo?"
+  }
+}

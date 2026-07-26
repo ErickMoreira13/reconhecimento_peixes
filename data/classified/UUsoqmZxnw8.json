@@ -1,0 +1,43 @@
+{
+  "arquivo": "UUsoqmZxnw8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T12:25:53.461299",
+  "classificacao": {
+    "species": [
+      "bico de patozinho",
+      "giripoquinha"
+    ],
+    "equipment": [
+      "varinha de pesca",
+      "anzol",
+      "canoa",
+      "motor",
+      "equipamento de pesca"
+    ],
+    "iscas": [
+      "piabinhas"
+    ],
+    "grains": [],
+    "techniques": [
+      "cor de frango",
+      "deixando boiar",
+      "jogando no canal",
+      "deixa descer"
+    ],
+    "rivers": [
+      "Rio Claro"
+    ],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "fishing_types": [
+      "pesca"
+    ],
+    "observations": [
+      "A beleza do local e a dificuldade em capturar peixes.",
+      "Uso de uma bombinha com bateria para evitar perda de isca.",
+      "Preparação de alimentos (ex.: arroz) durante a pesca.",
+      "Muitos peixes no rio, mas poucos capturados."
+    ]
+  }
+}

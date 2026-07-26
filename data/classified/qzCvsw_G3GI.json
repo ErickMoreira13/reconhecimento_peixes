@@ -1,0 +1,33 @@
+{
+  "arquivo": "qzCvsw_G3GI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:41:01.673871",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Rebelzinha",
+      "Ninfa",
+      "Mini Crank",
+      "Mini Crank Deep",
+      "Ferrinho"
+    ],
+    "iscas": [
+      "Rebelzinha",
+      "Ninfa",
+      "Mini Crank",
+      "Mini Crank Deep",
+      "Ferrinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

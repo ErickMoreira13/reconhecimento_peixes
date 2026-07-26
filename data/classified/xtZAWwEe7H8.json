@@ -1,0 +1,23 @@
+{
+  "arquivo": "xtZAWwEe7H8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:24:43.463864",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Jig Head"
+    ],
+    "iscas": [
+      "Filé"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

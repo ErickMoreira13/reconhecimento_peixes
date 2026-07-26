@@ -1,0 +1,33 @@
+{
+  "arquivo": "_sBjv-TQ2hY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:31:05.797427",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "instalada"
+    ],
+    "iscas": [
+      "dedo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "A piranha é perigosa",
+      "Uso de dedo como isca",
+      "Piranha de grande tamanho"
+    ]
+  }
+}

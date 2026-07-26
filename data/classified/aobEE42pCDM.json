@@ -1,0 +1,41 @@
+{
+  "arquivo": "aobEE42pCDM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:05:21.578175",
+  "classificacao": {
+    "especies": [
+      "Tucunare",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Vara de bambu",
+      "Facão",
+      "Barraca",
+      "Rede",
+      "Fogão de lenha",
+      "Mesa de lenha"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com vara de bambu"
+    ],
+    "rios": [
+      "Represa"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Pescaria bem-sucedida com captura de Tucunare de grande porte",
+      "Montagem de acampamento próximo a represa",
+      "Preparação de peixe frito no fogão de lenha"
+    ]
+  }
+}

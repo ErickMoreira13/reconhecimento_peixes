@@ -1,0 +1,25 @@
+{
+  "arquivo": "WpUJmQgrURA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:20:34.151208",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "massa de trigo e gelatina"
+    ],
+    "cevas": [],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A isca é eficaz para qualquer tipo de peixe"
+    ]
+  }
+}

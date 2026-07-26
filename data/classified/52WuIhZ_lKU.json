@@ -1,0 +1,33 @@
+{
+  "arquivo": "52WuIhZ_lKU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:49:57.959529",
+  "classificacao": {
+    "especies": [
+      "Matazinha",
+      "Baita"
+    ],
+    "equipamentos": [
+      "Cabelinho",
+      "Bala de Bandir"
+    ],
+    "iscas": [
+      "Bala de Bandir"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jiri"
+    ],
+    "bacias": [
+      "Bacia do Paraná"
+    ],
+    "estado": "Paraná",
+    "municipio": "Jiri",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

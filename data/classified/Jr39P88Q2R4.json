@@ -1,0 +1,25 @@
+{
+  "arquivo": "Jr39P88Q2R4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:13:13.913264",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com carretilha"
+    ],
+    "observacoes": []
+  }
+}

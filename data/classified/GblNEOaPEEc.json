@@ -1,0 +1,36 @@
+{
+  "arquivo": "GblNEOaPEEc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:30:48.713117",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Lepa"
+    ],
+    "equipamentos": [
+      "álcool",
+      "régua",
+      "colar"
+    ],
+    "iscas": [
+      "álcool",
+      "isca",
+      "garoté",
+      "amarelão"
+    ],
+    "cevas": [
+      "saco de ráfia",
+      "saco furado",
+      "tubo de PVC perfurado",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "recipiente perfurado",
+      "cocho perfurado"
+    ],
+    "grandeza": [
+      "barra de ouro"
+    ],
+    "localizacao": [],
+    "tipo_de_pesca": []
+  }
+}

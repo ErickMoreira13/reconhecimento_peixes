@@ -1,0 +1,25 @@
+{
+  "arquivo": "pFmtrfHPlcE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:05:51.530221",
+  "classificacao": {
+    "especies": [
+      "Jubara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Jatapu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria clandestina"
+    ],
+    "observacoes": []
+  }
+}

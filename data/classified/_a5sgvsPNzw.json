@@ -1,0 +1,37 @@
+{
+  "arquivo": "_a5sgvsPNzw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:54:41.903584",
+  "classificacao": {
+    "equipamentos": [
+      "JR Pesca robusta",
+      "Curô",
+      "JR's ecological models",
+      "Anzol Pacu 1,0",
+      "Anzol chinuzinho número 5, 6"
+    ],
+    "iscas": [
+      "Aquamil furada",
+      "ração",
+      "especial dog"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "especies": [
+      "lambari",
+      "pacu"
+    ],
+    "cevas": [],
+    "tecnicas": [
+      "pescar de superfície com antena no palminho",
+      "regulagem da altura",
+      "copadas"
+    ],
+    "outros": [
+      "pinga",
+      "chicote",
+      "girador"
+    ]
+  }
+}

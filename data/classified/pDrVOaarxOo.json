@@ -1,0 +1,29 @@
+{
+  "arquivo": "pDrVOaarxOo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:02:58.986188",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Teres Pires",
+      "Rio Cururur Lod"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Água cristalina",
+      "Preparação para subir no rio"
+    ]
+  }
+}

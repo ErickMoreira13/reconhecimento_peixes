@@ -1,0 +1,35 @@
+{
+  "arquivo": "Hc_Vh5CzBRE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:57:47.898116",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "anzol chinuzinho 9"
+    ],
+    "iscas": [
+      "calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "cortar cubinhos",
+      "iscagem com caroninho",
+      "exposição parcial da ponta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "boia torpedo",
+      "direitinho"
+    ],
+    "observacoes": [
+      "isca produtiva para tamba",
+      "várias maneiras de iscar a calabresa"
+    ]
+  }
+}

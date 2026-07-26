@@ -1,0 +1,18 @@
+{
+  "arquivo": "9nMeigjR5ho",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:45:09.729301",
+  "classificacao": {
+    "especies": [
+      "Peixe",
+      "Baiacudo"
+    ],
+    "equipamentos": [
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "localizacao": "Lagoa e mangue",
+    "observacoes": "Uso de peixe capturado como isca para outras pesca"
+  }
+}

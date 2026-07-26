@@ -1,0 +1,27 @@
+{
+  "arquivo": "QfDehP2aPRk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:23:58.082471",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Free Shed",
+      "chicote",
+      "vara"
+    ],
+    "iscas": [
+      "Free Shed"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de arremesso com chicote ajustável"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

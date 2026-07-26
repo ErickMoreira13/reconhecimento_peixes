@@ -1,0 +1,8 @@
+{
+  "arquivo": "FIF9pXEBU6A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:13:57.785612",
+  "classificacao": {
+    "error": "O usuário forneceu um texto em português, mas não fez uma pergunta específica. Para ajudá-lo melhor, por favor, informe o que você deseja saber sobre o conteúdo do vídeo (ex: resumo, análise, tradução, etc.)."
+  }
+}

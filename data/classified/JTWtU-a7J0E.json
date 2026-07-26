@@ -1,0 +1,21 @@
+{
+  "arquivo": "JTWtU-a7J0E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:18:23.292426",
+  "classificacao": {
+    "resumo": "O vídeo mostra um pescador no rio Araguaia, em Goiás, descrevendo a experiência de pescar em um dia de quinta-feira (embora mencione 'sexta-feira', possivelmente um erro). Ele expressa nervosismo ao mencionar a possibilidade de ser flagrado por autoridades ambientais (IBAMA e SEMAD) durante a temporada de piracema, quando a pesca é proibida para proteger a reprodução dos peixes. O pescador enfatiza a importância de respeitar as regras para evitar multas e problemas legais, destacando a tensão entre a necessidade de sobrevivência e a conservação dos recursos naturais.",
+    "pontos_chave": [
+      "Menciona a proibição da pesca durante a piracema (temporada de reprodução dos peixes).",
+      "Referência a autoridades ambientais (IBAMA e SEMAD) e risco de multas.",
+      "Tensão entre a atividade de pesca e a conservação dos recursos naturais.",
+      "Contexto geográfico: rio Araguaia, estado de Goiás.",
+      "Possível erro na data mencionada (quinta-feira vs. sexta-feira).",
+      "Importância de seguir regulamentações para evitar consequências legais."
+    ],
+    "informacao_adicional": {
+      "piracema": "Período de reprodução dos peixes, quando a pesca é proibida em áreas protegidas para garantir a reprodução e a sobrevivência das espécies.",
+      "IBAMA": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis, órgão responsável por fiscalizar e proteger o meio ambiente no Brasil.",
+      "SEMAD": "Secretaria de Meio Ambiente e Desenvolvimento Sustentável, órgão estadual que atua na gestão ambiental."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "178XKZUFwxA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:58:26.294911",
+  "classificacao": {
+    "especies": [
+      "Pangas",
+      "Tilápia",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Redada"
+    ],
+    "rios": [
+      "Arroio",
+      "Arroio da Fauna"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Rede"
+    ],
+    "observacoes": []
+  }
+}

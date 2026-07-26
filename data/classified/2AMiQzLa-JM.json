@@ -1,0 +1,23 @@
+{
+  "arquivo": "2AMiQzLa-JM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:08:44.843364",
+  "classificacao": {
+    "summary": "O texto é uma narração em primeira pessoa de uma experiência de pesca, destacando técnicas, equipamentos e interações com outros pescadores. O narrador descreve o uso de iscas como 'salsicha inteira', equipamentos como 'gizirato' (possivelmente um tipo de isca artificial) e marcas como 'Lumes', 'Peraíba' e 'Crazy Edge'. Ele menciona o 'Clube Pescar' como local de pesca e a colaboração com pessoas como Cássio, Marta e Xuxa. O conteúdo aborda estratégias de pesca, desafios enfrentados e a importância da comunidade no esporte.",
+    "key_points": [
+      "Uso de iscas naturais (salsicha inteira) e artificiais (gizirato).",
+      "Equipamentos mencionados: Lumes, Peraíba, Crazy Edge.",
+      "Localização: Clube Pescar (possivelmente um local de pesca recreativa).",
+      "Colaboração com outros pescadores (Cássio, Marta, Xuxa).",
+      "Técnicas de pesca descritas, incluindo estratégias para diferentes espécies (tilápia, pirarara, tamba).",
+      "Menciona a importância da paciência e da experiência no esporte."
+    ],
+    "equipment_details": [
+      "Lumes: Marca de equipamentos de pesca (possivelmente caniços ou carretilhas).",
+      "Peraíba: Marca de iscas artificiais (gizirato).",
+      "Crazy Edge: Marca de equipamentos de pesca (possivelmente anzóis ou iscas).",
+      "Salsicha inteira: Isca natural usada para atrair peixes."
+    ],
+    "community_aspect": "O texto ressalta a colaboração entre pescadores, com menções a Cássio, Marta e Xuxa, sugerindo que o Clube Pescar é um espaço de convivência e troca de conhecimentos no meio pesqueiro."
+  }
+}

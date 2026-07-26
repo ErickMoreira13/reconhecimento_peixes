@@ -1,0 +1,21 @@
+{
+  "arquivo": "rUEl0W8W8Z8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:32:49.527903",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Caxê",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O rio não está muito cheio, mas possui água até a parte inferior."
+    ]
+  }
+}

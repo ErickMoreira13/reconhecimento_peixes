@@ -1,0 +1,25 @@
+{
+  "arquivo": "5kpDVhOiSpk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:16:48.522312",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Forma de chumbada",
+      "Panela de alumínio",
+      "Fogareiro",
+      "Alicate de corte"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fabricação de chumbada com forma de chumbada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": ""
+  }
+}

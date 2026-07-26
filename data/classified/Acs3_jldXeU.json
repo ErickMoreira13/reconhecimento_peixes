@@ -1,0 +1,36 @@
+{
+  "arquivo": "Acs3_jldXeU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:21:34.126408",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Equipamento de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em corredeiras",
+      "Pesca em cachoeira"
+    ],
+    "rios": [
+      "Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Local com muitas cobras, incluindo jararacas",
+      "Necessidade de atravessar corredeiras e ilhas",
+      "Pescaria de dourado de grande porte (73 cm)",
+      "Risco envolvido na pescaria",
+      "Mencionado o canal do YouTube Mesadre Pesca"
+    ]
+  }
+}

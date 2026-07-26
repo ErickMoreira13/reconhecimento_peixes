@@ -1,0 +1,33 @@
+{
+  "arquivo": "JwyqfcF--2o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:20:15.982522",
+  "classificacao": {
+    "especies": [
+      "Caranha",
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Jighead",
+      "Anzol"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de isca viva",
+      "Lançamento de isca",
+      "Recolhimento de linha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca viva"
+    ],
+    "observacoes": []
+  }
+}

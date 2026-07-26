@@ -1,0 +1,28 @@
+{
+  "arquivo": "3TLRfGECbWw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:24:09.341257",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Chumbo"
+    ],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Joinville",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Método de pesca com salsicha no anzol direto, sem uso de chumbo, próximo a galhos ou estruturas"
+    ]
+  }
+}

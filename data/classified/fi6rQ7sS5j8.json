@@ -1,0 +1,24 @@
+{
+  "arquivo": "fi6rQ7sS5j8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:13:41.652957",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Linha de pesca",
+      "Espinhel"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

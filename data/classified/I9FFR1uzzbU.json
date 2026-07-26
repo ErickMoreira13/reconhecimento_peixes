@@ -1,0 +1,25 @@
+{
+  "arquivo": "I9FFR1uzzbU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:25:57.699672",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha de fly"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nó de chumbada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fly"
+    ],
+    "observacoes": []
+  }
+}

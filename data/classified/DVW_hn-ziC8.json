@@ -1,0 +1,37 @@
+{
+  "arquivo": "DVW_hn-ziC8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:07:15.602238",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Copo de medida",
+      "Liquidificador",
+      "Potinho",
+      "Tampa"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Massa sem trigo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": [
+      "Água limpa (não usar água da torneira com cloro), armazenamento na geladeira"
+    ]
+  }
+}

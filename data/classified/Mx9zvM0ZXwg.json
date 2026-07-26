@@ -1,0 +1,28 @@
+{
+  "arquivo": "Mx9zvM0ZXwg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:16:49.092918",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbada de correr",
+      "Miçanga"
+    ],
+    "iscas": [
+      "Pão de queijo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso longo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

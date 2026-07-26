@@ -1,0 +1,46 @@
+{
+  "arquivo": "NRFWDexS3tU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:24:21.772542",
+  "classificacao": {
+    "species": [
+      "Dourado",
+      "Pintado",
+      "Jaú",
+      "Mangurujú",
+      "Piapara",
+      "Pacu",
+      "Pirarara"
+    ],
+    "equipment": [
+      "Monete Venza 5000",
+      "Vexter Nylon 0,80",
+      "Venza 7 pés",
+      "Vexter X8 de 40 libras",
+      "tuvilha gigante",
+      "azol duplo",
+      "suporte hook",
+      "alicate",
+      "micanha"
+    ],
+    "baits": [
+      "isca"
+    ],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "Descompressão",
+      "Briga com o peixe",
+      "Levantar a vara com as duas mãos",
+      "Recolher suave"
+    ],
+    "rivers": [
+      "Rio Paranazão"
+    ],
+    "basins": [],
+    "state": "Argentina",
+    "municipality": "",
+    "type_of_fishing": "Pesca em rio",
+    "observations": "Muita variedade de peixe. Muita preservação. Conservação."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "arquivo": "Bp18fV3KqPM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:30:46.283474",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Pacu",
+      "Curimba",
+      "Carpa"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa de pesca pegadeira"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Isca de massa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": []
+  }
+}

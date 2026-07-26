@@ -1,0 +1,26 @@
+{
+  "arquivo": "M-CvbIu15hE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:25:31.719276",
+  "classificacao": {
+    "especies": [
+      "Pirarucu"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com anzol"
+    ],
+    "observacoes": []
+  }
+}

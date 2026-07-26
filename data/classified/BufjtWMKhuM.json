@@ -1,0 +1,19 @@
+{
+  "arquivo": "BufjtWMKhuM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:37:20.161958",
+  "classificacao": {
+    "summary": "O texto é um monólogo informal em português, provavelmente de um vídeo ou vlog, onde o narrador compartilha uma experiência de cozinhar e compartilhar uma refeição com a parceira Adriane. Ele descreve a captura de um peixe (traíra), a preparação de um jantar, a adaptação à chuva para fritar o peixe, e a preparação de um pão caseiro chamado 'bolinho de chuva' no dia seguinte. O tom é casual, cheio de interjeições, repetições e referências a momentos cotidianos, com uma atmosfera agradável e familiar. O conteúdo inclui elementos culturais, como a receita do bolinho de chuva, e interações afetuosas com Adriane, além de uma menção final a Deus, comum em vídeos brasileiros.",
+    "cultural_elements": [
+      "Mention of 'bolinho de chuva' (a type of wheat-based bread, possibly regional),",
+      "Use of 'trairinha' as an affectionate term for the fish (a play on 'traição', but used endearingly).",
+      "Casual, conversational tone typical of Brazilian Portuguese videos."
+    ],
+    "language_style": [
+      "Informal and repetitive phrasing (e.g., 'É, meus amigos', 'Né, Adriane').",
+      "Use of colloquial expressions and interjections.",
+      "Natural speech patterns with grammatical flexibility."
+    ],
+    "context": "The narrative spans a day's events, from fishing and cooking to breakfast, highlighting shared experiences with a partner and friends. The rain is a minor obstacle overcome by adapting the cooking plan, emphasizing flexibility and togetherness. The closing mention of God reflects a common cultural practice in Brazilian media."
+  }
+}

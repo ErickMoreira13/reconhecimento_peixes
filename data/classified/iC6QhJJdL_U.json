@@ -1,0 +1,28 @@
+{
+  "arquivo": "iC6QhJJdL_U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:29:08.760661",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Acamar"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Arinos"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Nova Mutum",
+    "tipo_pesca": [],
+    "observacoes": [
+      "4 kg limpo",
+      "só de escama"
+    ]
+  }
+}

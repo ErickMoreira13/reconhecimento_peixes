@@ -1,0 +1,40 @@
+{
+  "arquivo": "XoGSGxrBwjw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:16:56.749558",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Barracozinho",
+      "Lona",
+      "Telefone",
+      "Panela"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Arroz",
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Igarapézão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Piranha"
+    ],
+    "observacoes": [
+      "Piranhas estão se alimentando de arroz e milho",
+      "Condições climáticas favoráveis para pesca",
+      "Uso de ceva de partículas (arroz e milho) para atrair os peixes"
+    ]
+  }
+}

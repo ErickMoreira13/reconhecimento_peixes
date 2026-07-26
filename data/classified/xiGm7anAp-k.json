@@ -1,0 +1,26 @@
+{
+  "arquivo": "xiGm7anAp-k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:02:14.884428",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Lanterna",
+      "Fisguinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Noturna"
+    ],
+    "observacoes": ""
+  }
+}

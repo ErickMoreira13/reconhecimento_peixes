@@ -1,0 +1,25 @@
+{
+  "arquivo": "dJQ9Zvz8g_0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:17:50.862916",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Lençóis",
+    "tipo_pesca": [],
+    "observacoes": [
+      "As lagoas ficam secas no período de final de ano",
+      "A internet só está disponível subindo na duna",
+      "A areia é fria devido à ventania",
+      "A água é doce e a temperatura é agradável",
+      "Acesso ao parque só é permitido por agência credenciada"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "RslDm-kfh30",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:29:51.615687",
+  "classificacao": {
+    "especies": [
+      "Bitelo",
+      "Palmito"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio das Pacas"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

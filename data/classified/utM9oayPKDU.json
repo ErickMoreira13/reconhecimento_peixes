@@ -1,0 +1,23 @@
+{
+  "arquivo": "utM9oayPKDU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:26:35.521959",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Jundiaí"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Itupeva",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

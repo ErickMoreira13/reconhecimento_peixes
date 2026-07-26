@@ -1,0 +1,26 @@
+{
+  "arquivo": "1LVsiA9dgw0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T11:55:47.788973",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Capitólio",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": ""
+  }
+}

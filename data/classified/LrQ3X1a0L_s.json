@@ -1,0 +1,31 @@
+{
+  "arquivo": "LrQ3X1a0L_s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:37:01.342226",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Carrinho",
+      "Remo",
+      "Cordinha de elástico"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de descarregar caiaque com cordinha de elástico e carrinho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de caiaque",
+      "Pesca de curimba"
+    ],
+    "observacoes": []
+  }
+}

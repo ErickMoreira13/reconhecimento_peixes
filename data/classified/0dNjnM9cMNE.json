@@ -1,0 +1,26 @@
+{
+  "arquivo": "0dNjnM9cMNE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:11:07.687690",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Amarelo",
+      "Cupim",
+      "Gig",
+      "Bitelo",
+      "Branquinho",
+      "Tricão"
+    ],
+    "tecnicas": [
+      "jigging"
+    ],
+    "rio": "Tietê",
+    "equipamentos": [
+      "jig",
+      "caiaque"
+    ],
+    "isca": [],
+    "local": "rio Tietê"
+  }
+}

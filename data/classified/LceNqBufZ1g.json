@@ -1,0 +1,100 @@
+{
+  "arquivo": "LceNqBufZ1g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:01:43.086657",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Kayak",
+      "Assento",
+      "Finca-pé",
+      "Drainos",
+      "Porta-objeto",
+      "Porta-água",
+      "Porta-garrafa",
+      "Bagageiro",
+      "Elásticos",
+      "Estojos de isca",
+      "Vedação"
+    ],
+    "varas": [
+      "Varas"
+    ],
+    "isca": [
+      "Isca"
+    ],
+    "porta-objeto": [
+      "Porta-objeto"
+    ],
+    "porta-água": [
+      "Porta-água"
+    ],
+    "porta-garrafa": [
+      "Porta-garrafa"
+    ],
+    "bagageiro": [
+      "Bagageiro"
+    ],
+    "drainos": [
+      "Drainos"
+    ],
+    "finca-pé": [
+      "Finca-pé"
+    ],
+    "elásticos": [
+      "Elásticos"
+    ],
+    "estojos-de-isca": [
+      "Estojos de isca"
+    ],
+    "vedação": [
+      "Vedação"
+    ],
+    "altura-da-cadeira": [
+      "Altura da cadeira"
+    ],
+    "posição-do-pegador": [
+      "Posição do pegador"
+    ],
+    "opção-de-instalação": [
+      "Opção de instalação"
+    ],
+    "estabilidade": [
+      "Estabilidade"
+    ],
+    "velocidade": [
+      "Velocidade"
+    ],
+    "capacidade-de-carga": [
+      "Capacidade de carga"
+    ],
+    "facilidade-de-uso": [
+      "Facilidade de uso"
+    ],
+    "design": [
+      "Design"
+    ],
+    "material": [],
+    "cor": [],
+    "marca": [],
+    "modelo": [
+      "Caimã",
+      "Tuna"
+    ],
+    "dimensões": [
+      "Dimensões"
+    ],
+    "preço": [],
+    "garantia": [],
+    "vantagens": [
+      "Estabilidade (Caimã)",
+      "Capacidade de carga (Caimã)",
+      "Facilidade de uso (Tuna)",
+      "Velocidade (Tuna)"
+    ],
+    "desvantagens": [
+      "Ausência de certas características em Caimã",
+      "Ausência de certas características em Tuna"
+    ]
+  }
+}

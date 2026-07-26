@@ -1,0 +1,34 @@
+{
+  "arquivo": "FT9GfMwSFKA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:54:28.159688",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Alinha",
+      "Tesourinha",
+      "Aranhinha"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Paraibuna",
+    "tipo_pesca": [
+      "Pesca em represa"
+    ],
+    "observacoes": []
+  }
+}

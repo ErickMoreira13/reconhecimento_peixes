@@ -1,0 +1,60 @@
+{
+  "arquivo": "F5AIzLf_Gpo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:01:25.887844",
+  "classificacao": {
+    "species": [],
+    "equipment": [],
+    "techniques": [],
+    "locations": [],
+    "manufacturers": [
+      "Rossi",
+      "Wingun",
+      "Airsoft",
+      "CO2 Pistols",
+      "Airsoft Supplies",
+      "CO2 Airsoft",
+      "Airsoft Shop",
+      "CO2 Airsoft Shop",
+      "Airsoft Supplies Store",
+      "CO2 Airsoft Supplies"
+    ],
+    "models": [
+      "CO2 Pistol",
+      "CO2 Airsoft Pistol",
+      "CO2 Airsoft Gun",
+      "CO2 Airsoft Rifle",
+      "CO2 Airsoft Shotgun",
+      "CO2 Airsoft SMG",
+      "CO2 Airsoft Pistol Kit",
+      "CO2 Airsoft Pistol with Magazine",
+      "CO2 Airsoft Pistol with Scope",
+      "CO2 Airsoft Pistol with Holster"
+    ],
+    "specifications": [
+      "CO2 powered",
+      "Airsoft compatible",
+      "Pistol design",
+      "Caliber: 6mm",
+      "Magazine capacity: 20 rounds",
+      "Weight: 1.2kg",
+      "Length: 25cm",
+      "Material: Plastic and metal",
+      "CO2 cylinder included",
+      "CO2 cylinder capacity: 12g"
+    ],
+    "purchase_locations": [
+      "Airsoft stores",
+      "CO2 Airsoft shops",
+      "Online retailers",
+      "CO2 Airsoft suppliers",
+      "Airsoft equipment stores",
+      "CO2 Airsoft kits",
+      "Airsoft pistol dealers",
+      "CO2 Airsoft pistol kits",
+      "Airsoft pistol suppliers",
+      "CO2 Airsoft pistol dealers"
+    ],
+    "fishing_related_terms": []
+  }
+}

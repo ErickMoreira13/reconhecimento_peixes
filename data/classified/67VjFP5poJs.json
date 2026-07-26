@@ -1,0 +1,21 @@
+{
+  "arquivo": "67VjFP5poJs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:38:10.264500",
+  "classificacao": {
+    "summary": "O texto é um script de vídeo informal de João Paulo, que compartilha sua experiência de pesca com um caiaque. Ele descreve a localização (interior de São Paulo e Amazônia), os tipos de peixe capturados (lambari, corvina, camarão), técnicas de pesca usadas (isca, anzol, linha), e interage com o público (pedindo curtidas e inscrições). Menciona amigos (Pedro e Elisiana) e descreve o ambiente natural, incluindo detalhes sobre a água, a vegetação e a interação com a natureza. O conteúdo é casual, com repetições e linguagem coloquial, típico de vídeos de redes sociais.",
+    "key_points": [
+      "Localização: interior de São Paulo e Amazônia",
+      "Espécies de peixe: lambari, corvina, camarão",
+      "Técnicas de pesca: isca, anzol, linha",
+      "Interação com o público (curtidas, inscrições)",
+      "Menciona amigos (Pedro e Elisiana)",
+      "Descrição do ambiente natural e interação com a natureza"
+    ],
+    "possible_next_steps": [
+      "Traduzir o script para outro idioma",
+      "Analisar a estrutura do vídeo para melhorar o engajamento",
+      "Identificar oportunidades de conteúdo relacionado (ex.: dicas de pesca, viagens, natureza)"
+    ]
+  }
+}

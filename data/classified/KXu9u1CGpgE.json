@@ -1,0 +1,32 @@
+{
+  "arquivo": "KXu9u1CGpgE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:16:57.137349",
+  "classificacao": {
+    "especies": [
+      "Jaú"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Alicate",
+      "Câmera"
+    ],
+    "iscas": [
+      "Massa de missouro",
+      "Mamacinha matadeira"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Kidawana",
+      "Rio Aquidauana"
+    ],
+    "tipo_pesca": [],
+    "observacoes": [
+      "Liberação de peixes após captura"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "aJ0FjiK2pqY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:47:17.613334",
+  "classificacao": {
+    "especies": [
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Arapuca"
+    ],
+    "iscas": [
+      "Manga"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com armadilha"
+    ],
+    "observacoes": ""
+  }
+}

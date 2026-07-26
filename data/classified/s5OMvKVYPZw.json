@@ -1,0 +1,23 @@
+{
+  "arquivo": "s5OMvKVYPZw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:43:55.625251",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Shimano MGL 150"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "cabeleira, zero"
+    ]
+  }
+}

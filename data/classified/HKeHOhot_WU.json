@@ -1,0 +1,31 @@
+{
+  "arquivo": "HKeHOhot_WU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:48:58.320801",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Balde plástico"
+    ],
+    "iscas": [
+      "Minhoca comum"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Camadas de terra, esterco e minhocas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas vivas"
+    ],
+    "observacoes": [
+      "Uso de balde plástico velho e camadas de terra, esterco e minhocas"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "ek1z0smMBz4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:03:46.285782",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "saco de batata",
+      "pedras",
+      "nó",
+      "linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca viva"
+    ],
+    "observacoes": ""
+  }
+}

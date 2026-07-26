@@ -1,0 +1,31 @@
+{
+  "arquivo": "7KbxXGktXy0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:41:39.785508",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque",
+      "galão",
+      "corda",
+      "garrafa"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Quirera"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": "Ceva muito boa para pescar peixe grande, fácil de fazer. Usar garrafa para sinalizar a posição da ceva."
+  }
+}

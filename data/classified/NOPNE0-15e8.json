@@ -1,0 +1,42 @@
+{
+  "arquivo": "NOPNE0-15e8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:21:04.084042",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Marobá",
+      "Mandi"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [
+      "Caranguejo",
+      "Caramujo",
+      "Minhoco",
+      "Coraçãozinho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Uso de isca viva",
+      "Pesca com linha de mão"
+    ],
+    "rios": [
+      "Tibagi"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Tibagi",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Captura de Mandi preso em linha de mão",
+      "Uso de iscas naturais como caranguejo e caramujo"
+    ]
+  }
+}

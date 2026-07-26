@@ -1,0 +1,23 @@
+{
+  "arquivo": "tAjygBSLngw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:48:21.399733",
+  "classificacao": {
+    "species": [
+      "porquinho",
+      "zóiuto",
+      "traíra"
+    ],
+    "equipment": [
+      "faca",
+      "panela",
+      "fogão"
+    ],
+    "baits": [],
+    "other": {
+      "location": null,
+      "time": null,
+      "methods": null
+    }
+  }
+}

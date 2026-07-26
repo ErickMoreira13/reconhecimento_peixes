@@ -1,0 +1,39 @@
+{
+  "arquivo": "4NQlz7IeI3w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:42:39.639473",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Rig de Munete",
+      "Chumbada",
+      "Anzolzão",
+      "Multifilamento"
+    ],
+    "iscas": [
+      "Massa de Farelo de Soja",
+      "Banana",
+      "Suco de Maracujá"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca"
+    ],
+    "observacoes": [
+      "Massa de farelo de soja e banana com suco de maracujá foi utilizada. Três munetes foram armados com diferentes pesos e anzóis. O pacu foi capturado com a massa recomendada por um seguidor."
+    ]
+  }
+}

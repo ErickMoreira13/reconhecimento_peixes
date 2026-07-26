@@ -1,0 +1,31 @@
+{
+  "arquivo": "2fn8P0W9ab4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:20:36.531805",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "molinete",
+      "fluorocarbono",
+      "chicote",
+      "chumbada",
+      "girador",
+      "argola"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "nó de estrangulamento duplo",
+      "nó simples",
+      "nó borboleta",
+      "ajuste de distância da chumbada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

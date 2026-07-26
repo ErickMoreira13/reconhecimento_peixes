@@ -1,0 +1,31 @@
+{
+  "arquivo": "VBOcDwYVE3U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:41:24.512372",
+  "classificacao": {
+    "especies": [
+      "Pintado"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca viva"
+    ],
+    "rios": [
+      "Rio Araguaia"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "O povo aqui é difícil, viu? Eu tive que aprender sozinho."
+    ]
+  }
+}

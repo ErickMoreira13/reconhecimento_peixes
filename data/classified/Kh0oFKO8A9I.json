@@ -1,0 +1,26 @@
+{
+  "arquivo": "Kh0oFKO8A9I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:40:19.399041",
+  "classificacao": {
+    "species_caught": [
+      "melosa",
+      "peixinhos"
+    ],
+    "fishing_techniques": [
+      "uso de tralha (armadilha de pesca)",
+      "pesca com caiaque"
+    ],
+    "equipment_used": [
+      "caiaque",
+      "tralha",
+      "telescópio (pode ser uma vara de pesca)",
+      "bambuzinho (pode ser um tipo de vara ou haste de pesca)"
+    ],
+    "location": "Rio (rio) em Santa Fé do Sul e Fora Araújo",
+    "additional_details": {
+      "time_of_activity": "tarde (tarde)",
+      "culinary_practice": "preparo de frito com tempero, farinha e limão"
+    }
+  }
+}

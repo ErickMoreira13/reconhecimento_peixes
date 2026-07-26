@@ -1,0 +1,24 @@
+{
+  "arquivo": "ws9c2fYg1OI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:33:39.924130",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara",
+      "linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca amadora"
+    ],
+    "observacoes": []
+  }
+}

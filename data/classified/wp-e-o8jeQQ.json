@@ -1,0 +1,31 @@
+{
+  "arquivo": "wp-e-o8jeQQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:19:35.627183",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Tela"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de tela com isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com tela"
+    ],
+    "observacoes": [
+      "Uso repetido de pão como isca para piabas"
+    ]
+  }
+}

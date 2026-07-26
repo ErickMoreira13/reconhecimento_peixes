@@ -1,0 +1,40 @@
+{
+  "arquivo": "XP_D6gOUlDQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:17:38.964308",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Joaninha",
+      "Trinchã",
+      "Piau Flamengo"
+    ],
+    "equipamentos": [
+      "Caísca",
+      "Enrosco",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento"
+    ],
+    "rios": [
+      "Rio Eliponá"
+    ],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Rio está muito ruim de peixe",
+      "Água está suja",
+      "Peixes estão difíceis de pegar",
+      "Chuva pode alagar a região",
+      "Pescaria pouco eficiente"
+    ]
+  }
+}

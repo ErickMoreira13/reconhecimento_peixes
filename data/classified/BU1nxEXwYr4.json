@@ -1,0 +1,35 @@
+{
+  "arquivo": "BU1nxEXwYr4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:36:57.235125",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Cachorra",
+      "Mandi",
+      "Chorão",
+      "Jundiá",
+      "Passarinhos"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Barcão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guaporé"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Vila Neide",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe pequeno",
+      "Passarinhos",
+      "Saco de lixo"
+    ]
+  }
+}

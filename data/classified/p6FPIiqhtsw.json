@@ -1,0 +1,26 @@
+{
+  "arquivo": "p6FPIiqhtsw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:56:18.667148",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [
+      "Branca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Espera",
+      "Aproximação Silenciosa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

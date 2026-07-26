@@ -1,0 +1,31 @@
+{
+  "arquivo": "Ax0XwuRCWaw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:19:33.921644",
+  "classificacao": {
+    "species": [
+      "Ariacó",
+      "Arabaiana",
+      "Lebre",
+      "Macaçuzinho",
+      "Arraia de pedra",
+      "Papão"
+    ],
+    "equipment": [
+      "anzol",
+      "linhada",
+      "balde",
+      "espinhãozinho",
+      "agulha",
+      "pedaços de agulha"
+    ],
+    "baits": [
+      "isca de macaço",
+      "isca de agulha",
+      "macacuzinho",
+      "farofa de mortadela"
+    ],
+    "location": "alto mar",
+    "time": "cinco horas da manhã, nove horas e quarenta, onze horas e vinte"
+  }
+}

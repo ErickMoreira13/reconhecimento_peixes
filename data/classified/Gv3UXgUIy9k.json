@@ -1,0 +1,45 @@
+{
+  "arquivo": "Gv3UXgUIy9k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:19:35.457358",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Mandi"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Linha"
+    ],
+    "iscas": [
+      "Ceva de Milho",
+      "Ceva de Soja"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca com Ceva",
+      "Pesca em Águas Profundas"
+    ],
+    "rios": [
+      "Rio Mamoré"
+    ],
+    "bacias": [
+      "Bacia do Rio Paraguai"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Corumbá",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "A bateria do celular acabou, impossibilitando a gravação contínua",
+      "Captura de um peixe de grande porte foi registrada"
+    ]
+  }
+}

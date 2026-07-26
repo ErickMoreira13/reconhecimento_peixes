@@ -1,0 +1,24 @@
+{
+  "arquivo": "jetlPF21Nps",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:57:33.827543",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "câmera"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

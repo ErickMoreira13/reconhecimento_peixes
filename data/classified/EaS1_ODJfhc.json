@@ -1,0 +1,34 @@
+{
+  "arquivo": "EaS1_ODJfhc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:52:48.440752",
+  "classificacao": {
+    "especies": [
+      "Tainha",
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Corda",
+      "Remo",
+      "Barco",
+      "Fumeiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Picaré"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Peruíbe",
+    "tipo_pesca": [
+      "Pesca Artesanal"
+    ],
+    "observacoes": []
+  }
+}

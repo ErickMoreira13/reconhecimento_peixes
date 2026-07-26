@@ -1,0 +1,30 @@
+{
+  "arquivo": "4Hf3fJOIupg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:38:21.238076",
+  "classificacao": {
+    "especies": [
+      "Tucunã",
+      "Bitelão"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "GoPro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescaria realizada no local conhecido como Itaipu",
+      "Dificuldade em encontrar cardumes",
+      "Captura de dois peixes",
+      "Uso de caiaque para deslocamento"
+    ]
+  }
+}

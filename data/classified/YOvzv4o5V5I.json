@@ -1,0 +1,21 @@
+{
+  "arquivo": "YOvzv4o5V5I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:22:43.354701",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "M-Action 15"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Serra da Mesa",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

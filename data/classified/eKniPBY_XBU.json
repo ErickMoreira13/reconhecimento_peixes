@@ -1,0 +1,25 @@
+{
+  "arquivo": "eKniPBY_XBU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:04:45.554446",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Iscar salsicha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

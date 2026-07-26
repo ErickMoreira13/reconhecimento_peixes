@@ -1,0 +1,58 @@
+{
+  "arquivo": "Zn9tVZeR7yE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:37:27.249622",
+  "classificacao": {
+    "resumo": "O texto descreve uma sequência de atividades culinárias e sociais, incluindo a preparação de um bolo com vegetais, farofa com proteína vegetal, peixe frito e uma refeição familiar. Há menções a pescaria, uso de ingredientes como ovos, farinha de mandioca, leite vegetal, e uma atmosfera de convivência. O conteúdo termina com cumprimentos e referências a pessoas presentes no momento da refeição.",
+    "detalhes": {
+      "receitas": [
+        {
+          "nome": "Bolo com vegetais",
+          "ingredientes": [
+            "ovos grandes",
+            "farinha de trigo",
+            "leite vegetal",
+            "vegetais (não especificados)"
+          ],
+          "passos": [
+            "misturar ovos, farinha e leite",
+            "adicionar vegetais",
+            "assar"
+          ]
+        },
+        {
+          "nome": "Farofa com proteína vegetal",
+          "ingredientes": [
+            "farinha de mandioca",
+            "proteína vegetal (ex.: feijão, lentilha)"
+          ],
+          "passos": [
+            "fritar a farinha",
+            "adicionar proteína vegetal",
+            "misturar"
+          ]
+        },
+        {
+          "nome": "Peixe frito",
+          "ingredientes": [
+            "peixe",
+            "farinha de trigo",
+            "óleo"
+          ],
+          "passos": [
+            "tempere o peixe",
+            "revestir com farinha",
+            "fritar"
+          ]
+        }
+      ],
+      "atividades": [
+        "Pescaria (menção a peixe capturado)",
+        "Preparação de refeições em grupo",
+        "Convivência familiar e social"
+      ],
+      "contexto": "Ambiente doméstico com ênfase em culinária caseira, uso de ingredientes acessíveis e interação comunitária."
+    },
+    "observações": "O texto mistura instruções culinárias com elementos narrativos, sugerindo uma cena de cozinha em família, possivelmente em um contexto cultural brasileiro, com ênfase em pratos tradicionais e sustentabilidade (uso de proteína vegetal)."
+  }
+}

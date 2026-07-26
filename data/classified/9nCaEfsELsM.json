@@ -1,0 +1,24 @@
+{
+  "arquivo": "9nCaEfsELsM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:44:56.543324",
+  "classificacao": {
+    "species": [
+      "tuvira"
+    ],
+    "equipment": [
+      "anzóis",
+      "cabos de aço",
+      "luvinha",
+      "termo retrátil",
+      "alicate"
+    ],
+    "techniques": [
+      "fixar o anzol na boca do peixe",
+      "fixar o anzol sob o queixo do peixe",
+      "fixar o anzol na parte de trás do peixe",
+      "usar múltiplas costuras no corpo do peixe"
+    ],
+    "other": {}
+  }
+}

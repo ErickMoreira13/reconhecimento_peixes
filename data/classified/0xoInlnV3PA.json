@@ -1,0 +1,21 @@
+{
+  "arquivo": "0xoInlnV3PA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:43:35.562012",
+  "classificacao": {
+    "summary": "O texto descreve um método para preparar milho fermentado, usado como isca para pesca. Os passos incluem: cozinhar o milho em uma panela de pressão com leite e água, deixar fermentar por 2-3 dias em um recipiente com tampa de malha (para evitar insetos), e armazenar em recipientes herméticos após a fermentação. O processo utiliza leite para acelerar a fermentação e a pressão para cozinhar o milho rapidamente.",
+    "validação": "O método parece viável, mas há algumas considerações: a fermentação com leite pode ser eficaz, mas o uso de leite pasteurizado ou não é importante para evitar contaminação. A cozedura em pressão por 10-12 minutos é adequada para amolecer o milho, mas o tempo pode variar dependendo do tipo de milho. A tampa de malha permite a ventilação, mas recipientes herméticos são mais eficazes para controlar a umidade e evitar insetos. A fermentação por 2-3 dias é comum, mas o tempo pode ser ajustado conforme a temperatura ambiente.",
+    "dicas_adicionais": [
+      "Use recipientes de vidro ou plástico rígido herméticos para melhor controle da fermentação.",
+      "Verifique a temperatura ambiente durante a fermentação (ideal entre 20-25°C).",
+      "Se o milho ficar muito seco, adicione um pouco de água durante a cozedura.",
+      "Para iscas mais atraentes, adicione ingredientes como mel ou proteínas (ex.: farinha de peixe) durante a fermentação."
+    ],
+    "perguntas_frequentes": [
+      "O leite pode ser substituído por outros líquidos (ex.: água com açúcar)?",
+      "Como evitar odores desagradáveis durante a fermentação?",
+      "Quanto tempo dura o milho fermentado após a preparação?"
+    ],
+    "sugestão": "Se você precisar de uma tradução do texto, um aprofundamento em algum passo ou ajuda com ajustes no método, posso ajudar!"
+  }
+}

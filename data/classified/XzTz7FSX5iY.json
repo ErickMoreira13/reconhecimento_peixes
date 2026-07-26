@@ -1,0 +1,26 @@
+{
+  "arquivo": "XzTz7FSX5iY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:40:52.856057",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "plomos",
+      "linha de pesca",
+      "sacavueltas",
+      "funda térmica"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de fabricação de plomos antifixação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

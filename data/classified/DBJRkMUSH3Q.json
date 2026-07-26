@@ -1,0 +1,38 @@
+{
+  "arquivo": "DBJRkMUSH3Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:45:51.414792",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "colher de pau",
+      "colher de sopa",
+      "peneira",
+      "saco plástico"
+    ],
+    "iscas": [
+      "sagu"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "preparo do sagu",
+      "dança do sagu"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca"
+    ],
+    "observacoes": [
+      "uso de dois sacos plásticos e chacoalhar para soltar o sagu",
+      "menção de 'argente' no final do vídeo"
+    ]
+  }
+}

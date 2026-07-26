@@ -1,0 +1,34 @@
+{
+  "arquivo": "wK83Pv5LH2s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:10:23.785418",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "vara",
+      "molinete"
+    ],
+    "iscas": [
+      "milho"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "a emoção de pescar",
+      "a necessidade de paciência",
+      "a força dos peixes mesmo pequenos"
+    ]
+  }
+}

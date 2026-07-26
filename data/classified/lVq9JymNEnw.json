@@ -1,0 +1,27 @@
+{
+  "arquivo": "lVq9JymNEnw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:08:56.301604",
+  "classificacao": {
+    "especies": [
+      "Jargo",
+      "Zolão",
+      "Peitão",
+      "Roxinho",
+      "Muta"
+    ],
+    "equipamentos": [
+      "Linha fina"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

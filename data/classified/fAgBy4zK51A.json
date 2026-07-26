@@ -1,0 +1,14 @@
+{
+  "arquivo": "fAgBy4zK51A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:04:38.675165",
+  "classificacao": {
+    "summary": "O texto é um roteiro de vídeo informal em português, provavelmente de um vlog de pesca. O narrador descreve a experiência de pescar no Poço Bonito, usando uma vara de bambu, e menciona desafios como ficar preso no anzol e contar os peixes capturados (23 bagrinhos). Ele também fala sobre uma ponte construída pelo pai e interage com o público, pedindo curtidas e inscrições. O conteúdo é casual, com linguagem direta e repetição de frases para engajar o espectador.",
+    "possible_requests": [
+      "Resumo do vídeo",
+      "Tradução do script",
+      "Dicas para melhorar o conteúdo",
+      "Explicação de termos específicos (ex: bagrinho)"
+    ]
+  }
+}

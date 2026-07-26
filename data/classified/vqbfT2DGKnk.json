@@ -1,0 +1,23 @@
+{
+  "arquivo": "vqbfT2DGKnk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:23:39.431656",
+  "classificacao": {
+    "especies": [
+      "Jatuarana"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Laje"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

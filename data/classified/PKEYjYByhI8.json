@@ -1,0 +1,40 @@
+{
+  "arquivo": "PKEYjYByhI8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:10:40.881112",
+  "classificacao": {
+    "especies": [
+      "Jundiá",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Chatter",
+      "Varinha",
+      "Caiaque",
+      "Barco",
+      "Boia",
+      "Bracinhos"
+    ],
+    "iscas": [
+      "Baita",
+      "Entrecozinho",
+      "Pisticete"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Negro",
+      "Rio Uruguai"
+    ],
+    "bacias": [
+      "Bacia do Uruguai"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "4JqW_QXM7_Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:40:25.826891",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Pintado",
+      "Matriz"
+    ],
+    "equipamentos": [
+      "Rogerinho de pesca",
+      "Garra"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Miranda"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

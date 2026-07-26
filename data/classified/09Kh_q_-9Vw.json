@@ -1,0 +1,26 @@
+{
+  "arquivo": "09Kh_q_-9Vw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:59:02.535743",
+  "classificacao": {
+    "species": [
+      "Lontra",
+      "Tucano",
+      "Piranha preta",
+      "Piau",
+      "Pacu"
+    ],
+    "equipment": [
+      "Lanterna",
+      "Barraco"
+    ],
+    "baits": [
+      "Peixe"
+    ],
+    "grains": [],
+    "other_terms": [
+      "Cacharinha",
+      "Frito"
+    ]
+  }
+}

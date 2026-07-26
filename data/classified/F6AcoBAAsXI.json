@@ -1,0 +1,43 @@
+{
+  "arquivo": "F6AcoBAAsXI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:01:41.473719",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Vara de mão",
+      "Vara ultralight"
+    ],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Milho azedo"
+    ],
+    "tecnicas": [
+      "Pescando com molinete",
+      "Pescando com vara curta",
+      "Chapada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "A pesca foi feita com massa e milho azedo cozido",
+      "O peixe estava mais ativo no final da tarde",
+      "Foi necessário persistir para encontrar o horário certo de pesca",
+      "Troca de equipamentos para capturar peixes maiores"
+    ]
+  }
+}

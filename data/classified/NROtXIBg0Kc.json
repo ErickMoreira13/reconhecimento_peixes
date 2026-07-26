@@ -1,0 +1,35 @@
+{
+  "arquivo": "NROtXIBg0Kc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:25:06.184622",
+  "classificacao": {
+    "especies": [
+      "Tucuna",
+      "Traíra",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "vara",
+      "carretilha",
+      "motor"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Sorgo",
+      "Aveia",
+      "Ervilha",
+      "Feijão",
+      "Amendoim",
+      "Girassol",
+      "Alpiste",
+      "Linhaça"
+    ]
+  }
+}

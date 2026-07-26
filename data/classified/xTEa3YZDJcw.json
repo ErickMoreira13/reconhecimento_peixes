@@ -1,0 +1,30 @@
+{
+  "arquivo": "xTEa3YZDJcw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:24:03.487038",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Tainha viva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pesca insana é o nome disso. O canal de pesca mais insano do Brasil."
+    ]
+  }
+}

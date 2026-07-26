@@ -1,0 +1,42 @@
+{
+  "arquivo": "lfrwzNEiqs8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:07:07.484332",
+  "classificacao": {
+    "species": [
+      "Jaú",
+      "Pintado",
+      "Dourado",
+      "Piraputinga",
+      "Pirarara",
+      "Trincha"
+    ],
+    "equipment": [
+      "Artesialzinho",
+      "Armal",
+      "Varinha",
+      "Prainha",
+      "Lancha",
+      "Cegador",
+      "Bicheiro"
+    ],
+    "baits_and_lures": [],
+    "fishing_techniques": [
+      "Joga limpo (casting)",
+      "Uso de prainha (landing net)",
+      "Manipulação de peixes grandes"
+    ],
+    "locations": [
+      "Rio",
+      "Pantanal",
+      "Parais das Águas"
+    ],
+    "other_details": {
+      "fish_weight": "Mais de 20kg",
+      "environment": "Mato (jungle)",
+      "additional_methods": [
+        "Pesca de caiaque (kayak fishing)"
+      ]
+    }
+  }
+}

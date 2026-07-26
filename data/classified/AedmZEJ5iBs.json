@@ -1,0 +1,27 @@
+{
+  "arquivo": "AedmZEJ5iBs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:41:10.703702",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Bichinho de laranja"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de iscação com bichinho de laranja"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

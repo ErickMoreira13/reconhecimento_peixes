@@ -1,0 +1,38 @@
+{
+  "arquivo": "v7u2kfL_oc0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:37:08.945191",
+  "classificacao": {
+    "species": [
+      "curvina"
+    ],
+    "equipment": {
+      "lines": [
+        "Max 030",
+        "Max 035"
+      ],
+      "hooks": [
+        "anzol pernudo",
+        "anzolzinho"
+      ],
+      "baits": [
+        "lambari vivo"
+      ],
+      "accessories": [
+        "girador",
+        "chicote"
+      ]
+    },
+    "locations": [
+      "rio Tietê",
+      "rio Barra Mansa",
+      "condomínio Morumbi",
+      "ponte que liga Sales a Mendonça"
+    ],
+    "techniques": [
+      "fishing with live lambari bait",
+      "using swivels and leaders for rigging",
+      "targeting curvina in high-water river areas"
+    ]
+  }
+}

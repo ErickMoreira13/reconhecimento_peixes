@@ -1,0 +1,26 @@
+{
+  "arquivo": "zioMfLCF8dk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:23:32.628276",
+  "classificacao": {
+    "especies": [
+      "salmão",
+      "truta"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rogue River"
+    ],
+    "bacias": [],
+    "estado": "Oregon",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Esforços de conservação mantiveram o rio vibrante, com paisagens florestais e cânions que enriquecem a experiência de pesca."
+    ]
+  }
+}

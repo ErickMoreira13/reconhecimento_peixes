@@ -1,0 +1,21 @@
+{
+  "arquivo": "hXGQBZtj9A8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:18:27.330842",
+  "classificacao": {
+    "especies": [
+      "Traga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

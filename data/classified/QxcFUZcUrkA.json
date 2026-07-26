@@ -1,0 +1,26 @@
+{
+  "arquivo": "QxcFUZcUrkA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:35:30.676414",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Molinete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Guarujá",
+    "tipo_pesca": [
+      "Pesca em alto mar"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "arquivo": "4kmzoOjg818",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:40:47.146252",
+  "classificacao": {
+    "summary": "O texto é uma narrativa informal e conversacional, provavelmente de um vídeo ou monólogo, onde o falante compartilha experiências pessoais, interações familiares e comunitárias, e atividades como pesca e culinária. Ele menciona nomes como Marlão, Miriam, Leandro e Rafael, descreve ações como preparar comida, brincar com crianças, e interagir com amigos. O tom é leve, humorístico e cheio de referências locais, com linguagem coloquial e repetições que reforçam a informalidade. O conteúdo aborda temas como conexão com a família, a importância da comida e da convivência social, e a vida em um ambiente comunitário.",
+    "possible_requests": [
+      "Resumo do texto",
+      "Tradução para outro idioma",
+      "Análise cultural ou linguística",
+      "Explicação de termos específicos (ex.: 'catraca', 'brambona')",
+      "Ajuda para entender o contexto regional"
+    ]
+  }
+}

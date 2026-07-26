@@ -1,0 +1,31 @@
+{
+  "arquivo": "jESoBKEOXaw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:57:26.312271",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "rede"
+    ],
+    "iscas": [
+      "ração"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca seletiva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca em tanque"
+    ],
+    "observacoes": [
+      "uso de ração para atrair peixes para um canto do tanque antes da pesca seletiva"
+    ]
+  }
+}

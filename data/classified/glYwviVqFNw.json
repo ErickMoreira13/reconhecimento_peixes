@@ -1,0 +1,36 @@
+{
+  "arquivo": "glYwviVqFNw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:57:31.814932",
+  "classificacao": {
+    "especies": [
+      "Alvino",
+      "Bari",
+      "Dublé",
+      "Lambari",
+      "Miçanga",
+      "Prateada"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Varinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Meringuava"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de power bank e microfone durante a pescaria",
+      "Menciona preparo de frito com os peixes capturados"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arquivo": "UTSBsGehgJ8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:26:45.220229",
+  "classificacao": {
+    "especies": [
+      "Pampo",
+      "Bagre",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Molinete TX-8000 Maruli",
+      "Vara",
+      "Cadeira Dobrada",
+      "Mesa",
+      "Sacola"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Vertical",
+      "Lançamento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Salvador",
+    "tipo_pesca": [
+      "Pesca de Praia"
+    ],
+    "observacoes": [
+      "Falta de ação em Salvador",
+      "Uso de molinete TX-8000 Maruli",
+      "Temperatura elevada",
+      "Mare baixo"
+    ]
+  }
+}

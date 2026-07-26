@@ -1,0 +1,24 @@
+{
+  "arquivo": "pUhQdQ_EZ4A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:21:43.208543",
+  "classificacao": {
+    "especies": [
+      "Aracu",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Pescaria"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

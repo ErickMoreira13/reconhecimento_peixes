@@ -1,0 +1,36 @@
+{
+  "arquivo": "Bb7BaCVqf98",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:48:56.414683",
+  "classificacao": {
+    "especies": [
+      "Tubarão"
+    ],
+    "equipamentos": [
+      "TUNO 6500",
+      "Varadjain Catfish",
+      "120 libras",
+      "6.6 pés"
+    ],
+    "iscas": [
+      "gigue"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com anzol circular",
+      "pesca de espera"
+    ],
+    "estado": "Rondônia",
+    "municipio": "Porto Velho",
+    "tipo_pescaria": [
+      "pesca esportiva",
+      "pesca de tubarão"
+    ],
+    "observacoes": [
+      "revanche contra tubarões por comerem robalos e tarpon",
+      "uso de anzol circular para captura segura",
+      "localização no Everglades (possível referência a área de Rondônia)"
+    ]
+  }
+}

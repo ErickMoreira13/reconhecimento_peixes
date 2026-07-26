@@ -1,0 +1,31 @@
+{
+  "arquivo": "A2CS_-Gn4Ew",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:04:55.036598",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [
+      "GoPro",
+      "Plugue",
+      "Gigue",
+      "Isquinha",
+      "Bola Quadrada"
+    ],
+    "iscas": [
+      "Isca Fritada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "eO5rGhXsm_s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:11:03.209806",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Tralha de pesca",
+      "Molinete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Durante a Piracema, é necessário operar com iscas permitidas e navegação nos locais autorizados",
+      "Transportar tralha de pesca requer a licença nacional de pesca, mesmo quando não se está pescando",
+      "O molinete dentro do veículo exige a apresentação da licença de pesca durante todo o ano, especialmente durante a Piracema"
+    ]
+  }
+}

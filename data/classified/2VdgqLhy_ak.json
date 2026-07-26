@@ -1,0 +1,38 @@
+{
+  "arquivo": "2VdgqLhy_ak",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:39:34.254416",
+  "classificacao": {
+    "fishing_activity": {
+      "tool_used": "peneirão (fishing net)",
+      "person_involved": "Tião",
+      "location": "river (implied by context of fishing and capybara encounter)",
+      "fish_caught": [
+        "piranhas",
+        "tilapia (tilápia)",
+        "invasive fish species referred to as 'africano'"
+      ],
+      "other_encounters": [
+        "capybara (animal encountered during activity)"
+      ],
+      "additional_details": {
+        "tools_mentioned": {
+          "facão (machete)": "used for cutting tomatoes and onions for moqueca preparation",
+          "oil": "used in cooking moqueca"
+        },
+        "reactions": {
+          "piranha_bite": "Tião was bitten by piranhas",
+          "fish_release": "some fish were released back into the water"
+        },
+        "meal_preparation": {
+          "dish": "moqueca (Brazilian seafood stew)",
+          "ingredients": [
+            "tomatoes",
+            "onions",
+            "oil"
+          ]
+        }
+      }
+    }
+  }
+}

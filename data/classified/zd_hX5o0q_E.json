@@ -1,0 +1,36 @@
+{
+  "arquivo": "zd_hX5o0q_E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:08:39.182346",
+  "classificacao": {
+    "especies": [
+      "Tucuna",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "viveiro",
+      "aerador",
+      "barco"
+    ],
+    "iscas": [
+      "superfície",
+      "dublezinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "superfície",
+      "dublezinho",
+      "pesca junto"
+    ],
+    "rios": [
+      "Iguaçu"
+    ],
+    "estados": [
+      "Santa Catarina"
+    ],
+    "localidades": [
+      "lagão"
+    ]
+  }
+}

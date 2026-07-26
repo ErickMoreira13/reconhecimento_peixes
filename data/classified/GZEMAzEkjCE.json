@@ -1,0 +1,37 @@
+{
+  "arquivo": "GZEMAzEkjCE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:36:58.772188",
+  "classificacao": {
+    "fish_species_caught": [
+      "porquinho (piranha)",
+      "tucunaré (yellow and blue)",
+      "pial",
+      "traíra",
+      "jacundá",
+      "piar",
+      "piranha (red-bellied piranha)"
+    ],
+    "location": "Rio Tietê (Tietê River)",
+    "fishing_gear_used": [
+      "vara de bambu (bamboo rod)",
+      "anzol roubaleiro (robber hook)",
+      "chumbadinha (lead weight)",
+      "boinha guia (float)",
+      "linha Max (Max line)",
+      "anzol chinu (Chinese hook)"
+    ],
+    "additional_details": {
+      "fishing_regulations": {
+        "piracema_season": "Mentioned as a regulated period, with restrictions on certain species (e.g., piau, traíra, piranha).",
+        "protected_species": [
+          "piau (native fish, prohibited)",
+          "atraíra (traíra), piranha (during Piracema)"
+        ]
+      },
+      "conservation_practices": "Release of some fish (e.g., tucunaré and piranha) to comply with regulations.",
+      "fishing_period": "Pescaria de meio período (half-period fishing), likely during the Piracema season.",
+      "bait_usage": "No bait used ('nem cevei'), but fish were still caught."
+    }
+  }
+}

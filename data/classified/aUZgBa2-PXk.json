@@ -1,0 +1,27 @@
+{
+  "arquivo": "aUZgBa2-PXk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:16:45.923145",
+  "classificacao": {
+    "species": [
+      "dourado",
+      "piavinho",
+      "grum"
+    ],
+    "equipment": [
+      "molineta",
+      "agulha",
+      "linha"
+    ],
+    "baits": [
+      "massa",
+      "baita"
+    ],
+    "locations": {
+      "river": "Uruguai",
+      "state": "Rio Grande do Sul",
+      "municipality": "Injuí"
+    },
+    "techniques": []
+  }
+}

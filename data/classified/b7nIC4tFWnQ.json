@@ -1,0 +1,37 @@
+{
+  "arquivo": "b7nIC4tFWnQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:45:12.455119",
+  "classificacao": {
+    "especies": [
+      "Tambor"
+    ],
+    "equipamentos": [
+      "Funil",
+      "Garrafa PET",
+      "Paninho"
+    ],
+    "iscas": [
+      "Massa Branca"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Fermentação",
+      "Amassar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Fundo"
+    ],
+    "observacoes": []
+  }
+}

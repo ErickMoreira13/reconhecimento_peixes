@@ -1,0 +1,33 @@
+{
+  "arquivo": "wQ3al_iSNRk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:20:53.407760",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Pirambeba",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Quebradeira"
+    ],
+    "rios": [
+      "Corró"
+    ],
+    "bacias": [
+      "Baiana"
+    ],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fundo"
+    ],
+    "observacoes": ""
+  }
+}

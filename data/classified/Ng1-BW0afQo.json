@@ -1,0 +1,30 @@
+{
+  "arquivo": "Ng1-BW0afQo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:02:06.303546",
+  "classificacao": {
+    "especies": [
+      "Jaú"
+    ],
+    "equipamentos": [
+      "Carreta",
+      "Câmera GoPro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Jaú",
+      "Pescadinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Jaú",
+      "Pescadinha"
+    ],
+    "observacoes": []
+  }
+}

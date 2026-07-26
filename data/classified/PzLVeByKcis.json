@@ -1,0 +1,35 @@
+{
+  "arquivo": "PzLVeByKcis",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:28:13.823008",
+  "classificacao": {
+    "especies": [
+      "traíra",
+      "piranha",
+      "tucunaré",
+      "palharinho"
+    ],
+    "equipamentos": [
+      "caiaque",
+      "ganchinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tipo_pesca": [
+      "pesca artificial",
+      "pesca com caiaque"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estados": [],
+    "cidades": [],
+    "observacoes": [
+      "O pescador utilizou um caiaque para a pesca, mas mencionou que a área estava fechada por algas, dificultando o acesso.",
+      "A pesca foi realizada com iscas artificiais, e o pescador destacou a captura de traíras, piranhas, tucunarés e palharinhos.",
+      "Houve uma interrupção devido à bateria da câmera, e o pescador mencionou que começou a chover durante a atividade.",
+      "O pescador soltou uma traíra capturada, demonstrando práticas de pesca sustentável.",
+      "O local da pesca não foi especificado, mas o pescador mencionou a presença de traíras e piranhas em uma lagoa próxima."
+    ]
+  }
+}

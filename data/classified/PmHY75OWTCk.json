@@ -1,0 +1,21 @@
+{
+  "arquivo": "PmHY75OWTCk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:12:23.395489",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Maquiné",
+    "tipo_pesca": [],
+    "observacoes": [
+      "água fria"
+    ]
+  }
+}

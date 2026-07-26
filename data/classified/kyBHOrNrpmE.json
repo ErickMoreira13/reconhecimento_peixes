@@ -1,0 +1,33 @@
+{
+  "arquivo": "kyBHOrNrpmE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:18:45.292272",
+  "classificacao": {
+    "especies": [
+      "Piraíba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "tomada de linha virada",
+      "furgir linha",
+      "apoiar",
+      "puxar braba"
+    ],
+    "rios": [
+      "Madureira"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pousada Monteiro",
+      "Alta Floresta",
+      "tamanho da piraíba",
+      "braço do pescador doendo"
+    ]
+  }
+}

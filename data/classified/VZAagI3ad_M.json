@@ -1,0 +1,26 @@
+{
+  "arquivo": "VZAagI3ad_M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:31:51.321125",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Miçangue",
+      "Penca"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

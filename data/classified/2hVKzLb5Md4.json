@@ -1,0 +1,21 @@
+{
+  "arquivo": "2hVKzLb5Md4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:21:49.390798",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

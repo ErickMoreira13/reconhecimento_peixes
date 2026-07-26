@@ -1,0 +1,25 @@
+{
+  "arquivo": "p8E4KWP_pmw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:57:11.157941",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Itapoca",
+    "tipo_pesca": [
+      "Pesca Traíra"
+    ],
+    "observacoes": []
+  }
+}

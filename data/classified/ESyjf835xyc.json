@@ -1,0 +1,23 @@
+{
+  "arquivo": "ESyjf835xyc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T23:16:33.024020",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Ilha Solteira",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": "Prêmios e troféus para participantes, convite para trazer a família"
+  }
+}

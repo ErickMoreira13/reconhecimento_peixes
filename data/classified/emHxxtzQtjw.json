@@ -1,0 +1,43 @@
+{
+  "arquivo": "emHxxtzQtjw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:09:09.849826",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "varas de 14 a 20 libras",
+      "multifilamento de 40 a 50 libras",
+      "flúor de 40 a 50 libras",
+      "fluorocarbono grosso"
+    ],
+    "baits": [
+      "Jackbait 100 SP",
+      "Jackbait 110 SP"
+    ],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "recolhimento contínuo",
+      "trabalho lento",
+      "ação rolling"
+    ],
+    "rivers": [],
+    "basins": [
+      "represas"
+    ],
+    "state": "",
+    "municipality": "",
+    "tipo de pesca": [
+      "pescaria de Tucunaré",
+      "pescaria de Dourado"
+    ],
+    "observacoes": [
+      "coloração holográfica",
+      "upgrade de garateias para ação sinking",
+      "uso de equipamentos robustos para arremessos longos"
+    ]
+  }
+}

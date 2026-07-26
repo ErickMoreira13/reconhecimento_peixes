@@ -1,0 +1,49 @@
+{
+  "arquivo": "gXOWgMx1ylA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:24:45.866920",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Piapara",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Balde",
+      "Azol",
+      "Sininho"
+    ],
+    "iscas": [
+      "Tripa Branca"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Arroz",
+      "Sorgo"
+    ],
+    "tecnicas": [
+      "Arremesso Próximo à Ceva",
+      "Cevagem",
+      "Sistema de Ceva"
+    ],
+    "rios": [
+      "Rio Pardo"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Ceva",
+      "Pesca Rural"
+    ],
+    "observacoes": [
+      "Captura de curimba de grande porte",
+      "Sistema de ceva eficaz",
+      "Uso de sininho para atrair peixes"
+    ]
+  }
+}

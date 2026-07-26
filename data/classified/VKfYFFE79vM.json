@@ -1,0 +1,60 @@
+{
+  "arquivo": "VKfYFFE79vM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:09:32.110080",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "varas",
+      "linhas",
+      "alicate",
+      "motorzinho"
+    ],
+    "isca": [
+      "minhoca"
+    ],
+    "localizacao": [
+      "rio Atumã",
+      "Amazonas"
+    ],
+    "especies_capturadas": [
+      "Pacu",
+      "Piau"
+    ],
+    "medidas": [
+      "63 cm",
+      "59 cm",
+      "67 cm"
+    ],
+    "outras_referencias": [
+      "churrasco",
+      "sangrando",
+      "rosca",
+      "pedra",
+      "barco",
+      "férias",
+      "gatilho",
+      "carnais",
+      "cheirozinho",
+      "montagem",
+      "arranjo",
+      "cabeleira",
+      "brabo",
+      "valente",
+      "recolhendo",
+      "puxar",
+      "chegou",
+      "soltar",
+      "nervoso",
+      "cate",
+      "cheddar",
+      "limão",
+      "ajear",
+      "volta",
+      "escapou"
+    ]
+  }
+}

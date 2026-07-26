@@ -1,0 +1,24 @@
+{
+  "arquivo": "06OIjHgCaxU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:57:51.710784",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "corda"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "nó pescador simples",
+      "nó pescador duplo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

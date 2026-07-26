@@ -1,0 +1,31 @@
+{
+  "arquivo": "HACfAOmZywo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:55:20.648205",
+  "classificacao": {
+    "fish_species": [
+      "tilapia",
+      "carp",
+      "capim"
+    ],
+    "ingredients": [
+      "ração",
+      "trigo",
+      "açúcar"
+    ],
+    "equipment": [
+      "maruceico hook",
+      "mola",
+      "alzal"
+    ],
+    "techniques": [
+      "using a mola to prevent small fish from stealing bait",
+      "casting the bait far",
+      "using a specific bait (massa) with wheat and fish food"
+    ],
+    "location": [
+      "poço",
+      "murinetinho"
+    ]
+  }
+}

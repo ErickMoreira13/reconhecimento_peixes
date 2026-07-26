@@ -1,0 +1,25 @@
+{
+  "arquivo": "gjcNGI0hC7I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:52:32.387193",
+  "classificacao": {
+    "species": [
+      "Matrinchã",
+      "Tambaqui"
+    ],
+    "equipment": [
+      "massinha de pão",
+      "bolinha ração",
+      "isquinha"
+    ],
+    "baits": [
+      "massinha de pão",
+      "bolinha ração"
+    ],
+    "cevadas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "grãos": []
+  }
+}

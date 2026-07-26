@@ -1,0 +1,40 @@
+{
+  "arquivo": "sR9m87z2tyE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:51:05.472129",
+  "classificacao": {
+    "especies": [
+      "Lobina"
+    ],
+    "equipamentos": [
+      "Cana",
+      "Carrete",
+      "Jerkbait",
+      "Lancha"
+    ],
+    "iscas": [
+      "Jerkbait",
+      "Rapala X-Rap"
+    ],
+    "cevas": [
+      "Carnada de Trigomil"
+    ],
+    "grains": [],
+    "tecnicas": [
+      "Uso de jerkbait com lançamento à margem e recolhimento com puxões bruscos"
+    ],
+    "rios": [],
+    "bacias": [
+      "Trigomil"
+    ],
+    "estado": "México",
+    "municipio": "Trigomil",
+    "tipos_de_pesca": [
+      "Captura y libera"
+    ],
+    "observaciones": [
+      "Langostino grande",
+      "Blue gill"
+    ]
+  }
+}

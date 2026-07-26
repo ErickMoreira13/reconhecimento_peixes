@@ -1,0 +1,21 @@
+{
+  "arquivo": "klfLQE8nVjk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:57:05.204229",
+  "classificacao": {
+    "especies": [
+      "Pampo"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

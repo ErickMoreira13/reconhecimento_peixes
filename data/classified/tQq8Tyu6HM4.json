@@ -1,0 +1,23 @@
+{
+  "arquivo": "tQq8Tyu6HM4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:22:55.762258",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Molinete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Overhead cast"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

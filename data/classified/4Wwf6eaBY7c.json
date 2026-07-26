@@ -1,0 +1,26 @@
+{
+  "arquivo": "4Wwf6eaBY7c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:47:00.642783",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Paraná"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Pauliceia",
+    "tipo_pesca": [
+      "amadora",
+      "esportiva"
+    ],
+    "observacoes": []
+  }
+}

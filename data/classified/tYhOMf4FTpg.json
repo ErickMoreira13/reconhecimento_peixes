@@ -1,0 +1,30 @@
+{
+  "arquivo": "tYhOMf4FTpg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:12:17.254014",
+  "classificacao": {
+    "especies": [
+      "Garoupa",
+      "Badejo"
+    ],
+    "equipamentos": [
+      "Linha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com linha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "O peixe foi solto para continuar crescendo"
+    ]
+  }
+}

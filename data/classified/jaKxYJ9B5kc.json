@@ -1,0 +1,36 @@
+{
+  "arquivo": "jaKxYJ9B5kc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:52:03.444278",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tupunaré"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Snap",
+      "Alicate"
+    ],
+    "iscas": [
+      "Wopeprop"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Recolhimento lento e contínuo"
+    ],
+    "rios": [],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "A isca é eficaz para pescar traíra e tupunaré em águas com peixes grandes, como na Amazônia. Recolhimento rápido pode assustar os peixes. A técnica exige movimento lento e contínuo. O usuário perdeu uma traíra devido a uma falha na câmera durante a captura."
+    ]
+  }
+}

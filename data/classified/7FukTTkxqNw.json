@@ -1,0 +1,21 @@
+{
+  "arquivo": "7FukTTkxqNw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:38:41.016645",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

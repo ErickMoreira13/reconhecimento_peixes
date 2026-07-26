@@ -1,0 +1,40 @@
+{
+  "arquivo": "RvZtOA2WY58",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:35:31.845780",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra",
+      "Pacu",
+      "Piau",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "sistema leve e sensível"
+    ],
+    "iscas": [
+      "bicho da laranja",
+      "minhoca",
+      "fígado",
+      "filé de peixe",
+      "milho azedo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "isca natural com cheiro e movimento leve",
+      "sistema leve e sensível"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Comente quais peixes você quer ver na parte 2."
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arquivo": "StiaKncDY3U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:03:55.589611",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Tilápia",
+      "Baleia"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Carretilha",
+      "Linha"
+    ],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Vara"
+    ],
+    "observacoes": [
+      "Boa pesca",
+      "A gente tem uma boquinha",
+      "Vamos lá, Marimão, boa pesca aí, meu irmão"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "nFsuzbCu00g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:01:35.288868",
+  "classificacao": {
+    "especie": [
+      "carpa"
+    ],
+    "equipamento": [
+      "chumbada oliva",
+      "girador",
+      "bolinha de jamel"
+    ],
+    "ceva": [
+      "milho",
+      "massinha"
+    ],
+    "ceva_tipo": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "grãos": [
+      "milho"
+    ],
+    "tecnica": [
+      "Montagem de anzol com chumbada e girador"
+    ],
+    "rio": [
+      "Rio Canoas"
+    ],
+    "estado": [],
+    "municipio": [],
+    "tipo_pescaria": [
+      "Pesca de carpa"
+    ],
+    "observacoes": []
+  }
+}

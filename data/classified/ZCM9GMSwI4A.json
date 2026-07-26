@@ -1,0 +1,33 @@
+{
+  "arquivo": "ZCM9GMSwI4A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:08:00.363259",
+  "classificacao": {
+    "especies": [
+      "Guaru",
+      "Tapata-terra"
+    ],
+    "equipamentos": [
+      "equipamento de pesca"
+    ],
+    "iscas": [
+      "minhoca de praia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca em praia"
+    ],
+    "observacoes": [
+      "dia 12 de janeiro",
+      "calor",
+      "loja do Dedé no Florida",
+      "desconto legal"
+    ]
+  }
+}

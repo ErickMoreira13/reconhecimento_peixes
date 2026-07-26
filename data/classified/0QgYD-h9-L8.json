@@ -1,0 +1,35 @@
+{
+  "arquivo": "0QgYD-h9-L8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:29:06.756010",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Carretilha marina",
+      "Carretilha titã SW Big 400",
+      "Linha zero",
+      "Linha platina um zero sessenta"
+    ],
+    "iscas": [
+      "Piranha",
+      "Rapa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de piranha"
+    ],
+    "observacoes": [
+      "Menciona a captura de piranhas grandes (piazão)",
+      "Uso de equipamentos específicos para pesca de piranha",
+      "Referências religiosas durante a pescaria"
+    ]
+  }
+}

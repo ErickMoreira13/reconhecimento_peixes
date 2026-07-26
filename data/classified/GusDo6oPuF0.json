@@ -1,0 +1,43 @@
+{
+  "arquivo": "GusDo6oPuF0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:19:18.926773",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Chorão",
+      "Lambari",
+      "Mandi",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Apetrechos",
+      "Molinete",
+      "Vara",
+      "Varinha"
+    ],
+    "iscas": [
+      "Carne",
+      "Linguiça"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Iguaçu",
+      "Porto Amazonas"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Guzunas",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pescaria Noturna"
+    ],
+    "observacoes": [
+      "Pescaria noturna rendeu mais que o dia inteiro",
+      "Solzão não permite pescar",
+      "Pescaria noturna rendeu mais que o dia inteiro"
+    ]
+  }
+}

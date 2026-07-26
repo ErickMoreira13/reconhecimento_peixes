@@ -1,0 +1,32 @@
+{
+  "arquivo": "GBlpt7JAnAI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:30:56.624262",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "micro-ônibus",
+      "lancha rápida",
+      "motor de 250"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Jatapur"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Itapiranga",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "baixa pressão de pesca",
+      "internet Starlink disponível na pousada",
+      "guia local especializado",
+      "acesso por micro-ônibus e lancha rápida"
+    ]
+  }
+}

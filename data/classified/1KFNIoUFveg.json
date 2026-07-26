@@ -1,0 +1,23 @@
+{
+  "arquivo": "1KFNIoUFveg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:24:22.071053",
+  "classificacao": {
+    "especies": [
+      "Sobradinho"
+    ],
+    "equipamentos": [
+      "Barra"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "SZXeDYSfAEg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:40:46.834491",
+  "classificacao": {
+    "summary": "O texto é um transcripção informal de um vídeo que mostra o processo de pesca, preparação e cozinha de peixe. O narrador descreve os desafios da pesca em lama, a preparação do peixe (limpeza, corte e uso de farinha de pulpa), e a confecção de um molho com ingredientes como cebola, tomate, pimenta e alho. Há menções a pessoas envolvidas (Valdeslinha e Valderlene) e interações sociais, com um tom casual e repetitivo, típico de vídeos de vlog. O conteúdo também inclui detalhes sobre o uso de um \"moio\" (instrumento de moagem) e a importância de ingredientes locais na culinária.",
+    "key_points": [
+      "Desafios da pesca em lama",
+      "Preparação do peixe com farinha de pulpa",
+      "Cozinha de peixe no espeto",
+      "Uso de ingredientes locais (cebola, tomate, pimenta)",
+      "Interações sociais com Valdeslinha e Valderlene",
+      "Mencione ao \"moio\" como ferramenta de cozinha"
+    ],
+    "possible_needs": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise cultural ou culinária",
+      "Estruturação de um roteiro semelhante",
+      "Explicação de termos específicos (ex: farinha de pulpa, moio)"
+    ]
+  }
+}

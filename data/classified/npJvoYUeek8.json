@@ -1,0 +1,39 @@
+{
+  "arquivo": "npJvoYUeek8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:21:22.672146",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "chicotão",
+      "balde"
+    ],
+    "iscas": [
+      "massinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca com boia",
+      "pesca de fundo"
+    ],
+    "rios": [
+      "Paranapanema"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "campeonato"
+    ],
+    "observacoes": [
+      "utilização de massinha branca e vermelha",
+      "participação em campeonato com prêmio de R$ 2.500,00",
+      "captura de 35 kg de peixe",
+      "segunda colocação no torneio"
+    ]
+  }
+}

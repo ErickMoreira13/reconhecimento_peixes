@@ -1,0 +1,31 @@
+{
+  "arquivo": "woctnaofNOg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:18:34.476669",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha",
+      "Luz",
+      "Corda"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com linha larga",
+      "Pesca noturna com luz"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca marítima"
+    ],
+    "observacoes": [
+      "A linha larga demora a desenrolar",
+      "Necessidade de esforço para recolher a linha após capturar peixes pequenos"
+    ]
+  }
+}

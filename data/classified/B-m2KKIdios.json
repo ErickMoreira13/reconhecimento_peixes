@@ -1,0 +1,28 @@
+{
+  "arquivo": "B-m2KKIdios",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:22:37.698786",
+  "classificacao": {
+    "especies": [
+      "Porco",
+      "Tucunaré",
+      "Piranha",
+      "Traíra",
+      "Piau",
+      "Lambari"
+    ],
+    "equipamento": [
+      "Vara de Bambu",
+      "Linha Max",
+      "Boiaguia",
+      "Chumbadinha",
+      "Anzalzinho Roubaleiro"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "localizacao": "Rio Tietê, próximo a Kiko Castilho",
+    "periodo": "Piracema"
+  }
+}

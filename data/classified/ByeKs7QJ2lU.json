@@ -1,0 +1,47 @@
+{
+  "arquivo": "ByeKs7QJ2lU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:42:11.046117",
+  "classificacao": {
+    "análise": {
+      "temas_principais": [
+        "Vida comunitária na floresta amazônica",
+        "Práticas tradicionais de pesca e uso de recursos naturais",
+        "Impacto da desflorestação e mudanças no modo de vida",
+        "Preservação de línguas e tradições indígenas",
+        "Conexão entre o meio ambiente e a cultura local"
+      ],
+      "elementos_culturais": {
+        "práticas_tradicionais": [
+          "Uso de redes de pesca artesanais",
+          "Preparação de pratos típicos como o *chilcano* (com *bocachico*, um tipo de peixe)",
+          "Uso de hamacas como forma de habitação e descanso"
+        ],
+        "nomes_indígenas": [
+          "O lago *Pablo Cocha* (anteriormente chamado *Ucayali*)",
+          "Referências a *anguilas* (sapos de água) como parte da biodiversidade local"
+        ]
+      },
+      "desafios": [
+        "Ameaças à floresta devido à exploração madeireira e à expansão agrícola",
+        "Mudança de hábitos tradicionais para atividades como a medicina e o comércio",
+        "Perda de conhecimento ancestral devido à globalização"
+      ],
+      "importância_da_preservação": [
+        "Manutenção da diversidade biológica e cultural",
+        "Valor histórico e simbólico dos nomes de rios e lagos",
+        "Necessidade de equilibrar desenvolvimento e conservação"
+      ]
+    },
+    "ensinamentos": {
+      "ecologia": "A floresta amazônica é um ecossistema complexo, onde a interdependência entre espécies e comunidades humanas é crucial. A pesca sustentável e o uso consciente de recursos são exemplos de como a natureza pode ser preservada.",
+      "cultura": "As tradições locais, como a preparação de pratos típicos e a linguagem oral, são testemunhos vivos da história e da identidade das comunidades indígenas. Sua preservação é essencial para evitar a homogeneização cultural.",
+      "linguística": "A mistura de línguas (espanhol, português e termos indígenas) reflete a riqueza linguística da região, mas também destaca a necessidade de documentar e valorizar as línguas ameaçadas.",
+      "sustentabilidade": "A narrativa mostra como a desflorestação e a exploração de recursos naturais afetam diretamente a vida das comunidades. Isso reforça a importância de políticas públicas que priorizem a conservação e o direito à terra dos povos indígenas."
+    },
+    "reflexões": {
+      "sobre_a_educação": "A menção à educação (como a menção a *Manuel* e a importância de ensinar aos filhos) sugere que a transmissão de conhecimento é uma forma de resistência cultural e de fortalecer a identidade local.",
+      "sobre_a_história": "O nome *Pablo Cocha* e a referência ao rio *Ucayali* ilustram como a história geográfica e cultural de uma região pode ser reescrita por fatores externos, como a colonização e a exploração."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "t31Th9vvsUg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:43:31.015062",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Piraíba",
+      "Traíra",
+      "Turveira"
+    ],
+    "equipamentos": [
+      "Peneira",
+      "Reduzida"
+    ],
+    "iscas": [
+      "Água suja"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Sapateio",
+      "Uso de peneira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Atividade de alto risco devido a cobras",
+      "Uso de medidas de proteção contra cobras",
+      "Pescaria em área de brejo"
+    ]
+  }
+}

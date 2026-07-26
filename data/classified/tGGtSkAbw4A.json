@@ -1,0 +1,40 @@
+{
+  "arquivo": "tGGtSkAbw4A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:55:10.086152",
+  "classificacao": {
+    "especies": [
+      "Aracu",
+      "Piranha",
+      "Pacu",
+      "Surubim",
+      "Piracuí",
+      "Pirapetiga",
+      "Pirapitinga"
+    ],
+    "equipamentos": [
+      "Malhadeira",
+      "Bote",
+      "Saco"
+    ],
+    "iscas": [
+      "Farinha de Tapioca",
+      "Farofa de Peixe",
+      "Piracuí"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

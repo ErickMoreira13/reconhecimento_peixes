@@ -1,0 +1,27 @@
+{
+  "arquivo": "iLSHJZJVDHw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:51:40.304463",
+  "classificacao": {
+    "especies": [
+      "Mandi",
+      "Curimatã",
+      "Piau",
+      "Gragiola",
+      "Peixe Encascado",
+      "Branquinha",
+      "Gato"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

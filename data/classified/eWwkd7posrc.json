@@ -1,0 +1,29 @@
+{
+  "arquivo": "eWwkd7posrc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:55:47.115453",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha Vesa",
+      "Linha Super High Long",
+      "Varilubina"
+    ],
+    "iscas": [
+      "EVAzinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Remesso"
+    ],
+    "rios": [
+      "Paredão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Paraiso Verde",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

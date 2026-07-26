@@ -1,0 +1,21 @@
+{
+  "arquivo": "1DmYKA-5fb4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:21:41.779232",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Batutas",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "Jrmic0pImVI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:13:47.838096",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Balsa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

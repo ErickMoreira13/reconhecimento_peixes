@@ -1,0 +1,41 @@
+{
+  "arquivo": "PcUT2S5HzGs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:01:28.102311",
+  "classificacao": {
+    "species": [
+      "bagre",
+      "carpa",
+      "bitela",
+      "lambari",
+      "trairão",
+      "dourado"
+    ],
+    "equipment": [
+      "varinhas",
+      "chuveirinho",
+      "tralhas",
+      "samburá",
+      "boias de piscina",
+      "macarrão",
+      "saco de ráfia"
+    ],
+    "baits": [
+      "milho",
+      "lambari",
+      "pega lambari"
+    ],
+    "fishing_techniques": [
+      "arrasta pra cima",
+      "arrasta pra baixo",
+      "totózinho",
+      "desperjou"
+    ],
+    "location": "toco",
+    "time_of_day": "final da tarde",
+    "additional_details": {
+      "catch_method": "saco",
+      "fish_preparation": "frito"
+    }
+  }
+}

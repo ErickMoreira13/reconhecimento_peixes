@@ -1,0 +1,44 @@
+{
+  "arquivo": "1nTN3qPjbeA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:47:03.176329",
+  "classificacao": {
+    "especies": [
+      "Azulão",
+      "Tucunaré",
+      "Piranha",
+      "Pirarara",
+      "Pirarucu",
+      "Piapá",
+      "Piabanha",
+      "Pirosca"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Pneus",
+      "Galão Perfurado",
+      "Saco Furado"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "iscas": [],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Reservatório"
+    ],
+    "estado": "Mato Grosso do Norte",
+    "municipio": "Confresa",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca em Lagoa"
+    ],
+    "observacoes": []
+  }
+}

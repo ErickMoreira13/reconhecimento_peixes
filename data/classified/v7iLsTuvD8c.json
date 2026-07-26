@@ -1,0 +1,33 @@
+{
+  "arquivo": "v7iLsTuvD8c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:36:47.721901",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Rancho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio do Peixe"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Dourado"
+    ],
+    "observacoes": [
+      "Rio enchendo",
+      "Água suja",
+      "Muita siltificação",
+      "Dificuldade em capturar peixes"
+    ]
+  }
+}

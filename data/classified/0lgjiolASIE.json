@@ -1,0 +1,43 @@
+{
+  "arquivo": "0lgjiolASIE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:25:04.604412",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Açu Vermelhão"
+    ],
+    "equipamentos": [
+      "Encrenca",
+      "Passaguá",
+      "Bitelão",
+      "Vermelhão"
+    ],
+    "iscas": [
+      "Encrenca",
+      "Ara",
+      "Isca de Subsuperfície"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso Longo",
+      "Trabalho de Ponta de Vara para Baixo",
+      "Isca de Subsuperfície"
+    ],
+    "rios": [
+      "Rio Itapará"
+    ],
+    "bacias": [],
+    "estado": "Roraima",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Água extremamente limpa",
+      "Peixe não está querendo superfície",
+      "Uso de isca de subsuperfície para atrair peixes do fundo"
+    ]
+  }
+}

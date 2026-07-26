@@ -1,0 +1,32 @@
+{
+  "arquivo": "LnosFBFEYqw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:24:07.083772",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Garrafa",
+      "Prego",
+      "Corda"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": "Método eficaz para pescar Tilápia usando ceva de milho azedo em garrafas perfuradas."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "mI1s6mJmDAs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:15:34.774984",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Faca",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Lance de Linha",
+      "Pesca com Ceva"
+    ],
+    "rios": [
+      "Taquari"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Não foi possível capturar nenhum peixe",
+      "Uso de galão perfurado para ceva",
+      "Menciona dificuldade em encontrar peixe"
+    ]
+  }
+}

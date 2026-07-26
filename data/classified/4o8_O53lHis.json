@@ -1,0 +1,15 @@
+{
+  "arquivo": "4o8_O53lHis",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:42:55.567342",
+  "classificacao": {
+    "summary": "O texto é um relato informal de uma experiência de acampamento, narrado de forma descontraída e cheia de detalhes sobre a natureza, os desafios do acampamento e as interações com o ambiente. O narrador descreve a preparação de alimentos (como peixe frito), o cenário ao redor (como o amanhecer, a presença de animais como o tamanduá-mirim), as atividades realizadas (como dormir, acordar cedo) e a sensação de conexão com a natureza. O final inclui um agradecimento e um convite para curtir e se inscrever no canal.",
+    "possible_requests": [
+      "Traduzir o texto para o inglês",
+      "Resumir o conteúdo",
+      "Analisar a estrutura do roteiro",
+      "Sugerir melhorias para o script",
+      "Identificar temas principais"
+    ]
+  }
+}

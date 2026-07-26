@@ -1,0 +1,30 @@
+{
+  "arquivo": "na1zv2sGqTg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:26:19.386110",
+  "classificacao": {
+    "especies": [
+      "Morrachudo",
+      "Muriçoca"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Viola",
+      "Ônibus",
+      "Caixas de cerveja",
+      "Destilado"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

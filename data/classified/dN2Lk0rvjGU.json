@@ -1,0 +1,40 @@
+{
+  "arquivo": "dN2Lk0rvjGU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:30:16.528245",
+  "classificacao": {
+    "especies": [
+      "Palharinho",
+      "Carniça",
+      "Porquinho",
+      "Tucunã",
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha",
+      "Chumbada",
+      "Anzol",
+      "Copo"
+    ],
+    "iscas": [
+      "Camarão",
+      "Tilápia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com anzol",
+      "Pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

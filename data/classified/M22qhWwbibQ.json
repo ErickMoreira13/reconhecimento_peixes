@@ -1,0 +1,28 @@
+{
+  "arquivo": "M22qhWwbibQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:37:21.560630",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Corrente aprimorada",
+      "Mola"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Corrente aprimorada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

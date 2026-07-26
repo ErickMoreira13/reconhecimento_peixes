@@ -1,0 +1,61 @@
+{
+  "arquivo": "yXSOMn_4GLw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:52:43.007969",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Piau",
+      "Pacu",
+      "Piau Flamengo",
+      "Piauçu",
+      "Piaparinha",
+      "Piapara Dividida",
+      "Piapara Piopardo",
+      "Piapara de Mocoaca"
+    ],
+    "equipamentos": [
+      "Vara de Mão",
+      "Vara Ultralight",
+      "Carretilha Perfil Baixo",
+      "Linha Multifilamento",
+      "Chumbadinha",
+      "Giradorzinho",
+      "Chicotinho",
+      "Azolzinho",
+      "Caramujo"
+    ],
+    "iscas": [
+      "Caramujo"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Quirera"
+    ],
+    "tecnicas": [
+      "Pesca de Barranco",
+      "Cevas",
+      "Varinha de Mão"
+    ],
+    "rios": [
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Rural",
+      "Pesca Caipira"
+    ],
+    "observacoes": [
+      "Ceva eficaz para pescaria de piau e outros peixes",
+      "Uso de caramujo como isca eficaz",
+      "Técnica de pesca de barranco com ceva fixa"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "arquivo": "LECjysiMCpQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:04:44.226974",
+  "classificacao": {
+    "especies": [
+      "Tuvira"
+    ],
+    "equipamentos": [
+      "peneira",
+      "balde",
+      "saco de ráfia"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [
+      "peneirada",
+      "mergulhada",
+      "rapar"
+    ],
+    "rios": [
+      "Rio Jamari",
+      "Candeias"
+    ],
+    "bacias": [
+      "pântano",
+      "canal"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipos_de_pesca": [
+      "pesca amadora",
+      "pesca com peneira"
+    ],
+    "observacoes": [
+      "O guia está explicando a técnica de pesca com peneira.",
+      "Uso de um saco de ráfia para armazenar iscas.",
+      "Menciona a necessidade de usar uma caixa de engorda para preparar iscas.",
+      "A pesca é realizada em áreas de pântano e canais."
+    ]
+  }
+}

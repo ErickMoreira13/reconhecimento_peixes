@@ -1,0 +1,46 @@
+{
+  "arquivo": "O6bM8GCMQ2s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:12:49.342434",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Carpa"
+    ],
+    "equipamento": [
+      "Sistema Bigodinho",
+      "Anzol"
+    ],
+    "iscas": [
+      "Ração de Codorninha",
+      "Ração de Peixe",
+      "Ração de Coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "tecnica": [
+      "Cevar",
+      "Pescaria com bolotas",
+      "Uso do sistema bigodinho"
+    ],
+    "rios": [
+      "Represa",
+      "Lagoa",
+      "Açude",
+      "Pesqueiro"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca Esportiva por Quilo",
+      "Pesca em Pesqueiro"
+    ],
+    "observacoes": "A isca pode ser ajustada com a adição de ração de coelho e variações no tamanho das bolotas. A mistura é usada tanto para cevar quanto para pescaria direta."
+  }
+}

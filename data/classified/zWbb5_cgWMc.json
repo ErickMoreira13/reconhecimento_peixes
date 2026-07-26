@@ -1,0 +1,31 @@
+{
+  "arquivo": "zWbb5_cgWMc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:00:30.552420",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Killer"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Recolhimento simples",
+      "Toque para baixo rápido e forte",
+      "Dois toques para baixo",
+      "Puxo bem forte com recolhimento"
+    ],
+    "rios": [
+      "Tietê",
+      "Tucunaré"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

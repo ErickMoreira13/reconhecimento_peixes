@@ -1,0 +1,23 @@
+{
+  "arquivo": "V9EqSI7QEEc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:37:41.972815",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Uruguai"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

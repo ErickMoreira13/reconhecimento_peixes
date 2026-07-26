@@ -1,0 +1,36 @@
+{
+  "arquivo": "WJvBFBy6yc8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:09:27.025474",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Cheladre"
+    ],
+    "equipamentos": [
+      "Caminhão",
+      "Canoa",
+      "Linha de pesca"
+    ],
+    "iscas": [
+      "Isca de peixe frito"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Linha de pesca",
+      "Técnica de cura"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Vídeo de teste com pequena captura",
+      "Uso de canoas e caminhão para pesca"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "jM-E41tFTpo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:08:07.853176",
+  "classificacao": {
+    "estado": "Rio Grande do Sul",
+    "municipio": "Chapada",
+    "especies_de_peixes": [
+      "jundiá",
+      "lambari",
+      "junjaz"
+    ],
+    "metodos_de_pesca": [
+      "pescaria de barranco",
+      "pescaria raiz",
+      "uso de iscas artificiais (spinnerbaits, jigs)"
+    ],
+    "equipamentos_usados": [
+      "caniço",
+      "bitcrank",
+      "fígado",
+      "spinnerzinho",
+      "tarrafa"
+    ],
+    "termos_locais": [
+      "rei do rio",
+      "latão",
+      "caiaque"
+    ]
+  }
+}

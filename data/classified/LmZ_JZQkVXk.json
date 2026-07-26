@@ -1,0 +1,24 @@
+{
+  "arquivo": "LmZ_JZQkVXk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:22:48.681252",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque",
+      "telefone"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Nenhuma câmera funcionou direito, filmando no telefone agora"
+    ]
+  }
+}

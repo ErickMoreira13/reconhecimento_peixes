@@ -1,0 +1,33 @@
+{
+  "arquivo": "trUHeTdUfaM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:23:36.383802",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "girador",
+      "líder",
+      "anzol",
+      "chumbada",
+      "fusível"
+    ],
+    "iscas": [
+      "isca natural de fundo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "técnica de fusível"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca natural de fundo"
+    ],
+    "observacoes": [
+      "uso de linha fusível para evitar perda de linha principal em áreas com pedras"
+    ]
+  }
+}

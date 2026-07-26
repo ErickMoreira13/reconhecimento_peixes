@@ -1,0 +1,45 @@
+{
+  "arquivo": "VTNx-cb8kQA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:26:08.167641",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Chilique"
+    ],
+    "equipamentos": [
+      "Ferro de Construção",
+      "Garrafa PET"
+    ],
+    "iscas": [
+      "Ração de Coelho",
+      "Ração de Peixe",
+      "Quirera Azena",
+      "Banana",
+      "Salsicha"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Quirera",
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Pesca com Ceva",
+      "Cevador Infinito"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Ceva",
+      "Pesca de Tilápia"
+    ],
+    "observacoes": [
+      "Ceva azeda",
+      "Uso de banana e salsicha como atrativos"
+    ]
+  }
+}

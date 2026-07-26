@@ -1,0 +1,40 @@
+{
+  "arquivo": "YXK72SKq7nA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:52:11.034273",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Garrafas pequenas",
+      "Garrafão",
+      "Chave de fenda"
+    ],
+    "iscas": [
+      "Ração de cachorro"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Construção de armadilha com garrafas",
+      "Uso de ração como isca"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com armadilha"
+    ],
+    "observacoes": [
+      "Uso de ração de cachorro barata",
+      "Localização no rio para instalação da armadilha"
+    ]
+  }
+}

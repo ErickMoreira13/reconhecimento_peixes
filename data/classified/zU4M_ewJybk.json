@@ -1,0 +1,22 @@
+{
+  "arquivo": "zU4M_ewJybk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:47:30.980969",
+  "classificacao": {
+    "summary": "O vídeo mostra um pescador descrevendo a captura de um peixe grande em Lago Azul, com características que o fazem suspeitar que seja um jundiara, pintado ou surubim. Ele descreve o peixe como branco com manchas pretas, com uma cabeça grande e uma boca imensa, e menciona a dificuldade de identificá-lo com certeza. O pescador também fala sobre técnicas de pesca, como o uso de iscas artificiais (salsichinha) e a importância de usar equipamento adequado (carretilha de fundo, linha grossa). Ele expressa frustração por não conseguir identificar o peixe com certeza e menciona a possibilidade de ser um surubim, que é um peixe grande e comum na região.",
+    "fish_species": [
+      "jundiara",
+      "pintado",
+      "surubim"
+    ],
+    "fishing_techniques": [
+      "pesca de fundo (massa de fundo)",
+      "uso de iscas artificiais (salsichinha)"
+    ],
+    "equipment": [
+      "carretilha de fundo",
+      "linha grossa"
+    ],
+    "location": "Lago Azul"
+  }
+}

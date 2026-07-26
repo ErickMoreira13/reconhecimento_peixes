@@ -1,0 +1,32 @@
+{
+  "arquivo": "d6HO2mGkq5E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:41:51.785799",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pascaí"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Manaus",
+    "tipo_pesca": [
+      "Pascaí do Tucunaré"
+    ],
+    "observacoes": [
+      "Não conseguiu pegar os peixes desejados",
+      "Menciona gratidão por doações de oxigênio durante a pandemia",
+      "Localização no sítio de Manaus",
+      "Vídeo feito após um período sem pescar"
+    ]
+  }
+}

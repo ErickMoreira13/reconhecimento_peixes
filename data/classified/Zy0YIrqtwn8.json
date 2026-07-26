@@ -1,0 +1,45 @@
+{
+  "arquivo": "Zy0YIrqtwn8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:02:48.320461",
+  "classificacao": {
+    "municipio": "Camboinhas",
+    "estado": "Rio Grande do Norte",
+    "especies": [
+      "Charéu Amarelo",
+      "Robalhinho Peva",
+      "Xerelete",
+      "Xarelzinho",
+      "Xarel",
+      "Bocão",
+      "Balão"
+    ],
+    "equipamentos": [
+      "Casta de vara telescópica Majorcraft Sol Pará",
+      "Linha X-Braid X4",
+      "Carretilha Floor Carbon Frontier",
+      "Cabeça de jig com microjig"
+    ],
+    "iscas": [
+      "Microjig",
+      "Camarão"
+    ],
+    "cevas": {
+      "ceva_natural": [
+        "Camarão"
+      ],
+      "ceva_proteica": [],
+      "ceva_artificial": [
+        "Microjig"
+      ],
+      "ceva_graos": []
+    },
+    "tecnicas": [
+      "Microjig",
+      "Recolhimento Contínuo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "tipo_pesca": "Pesca de Pé no Chão"
+  }
+}

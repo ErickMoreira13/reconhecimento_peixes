@@ -1,0 +1,32 @@
+{
+  "arquivo": "uK9y977vfas",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:47:28.838035",
+  "classificacao": {
+    "especies": [
+      "Corimatado",
+      "Joari",
+      "Trinca"
+    ],
+    "equipamentos": [
+      "arco",
+      "flecha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com arco e flecha"
+    ],
+    "rios": [],
+    "bacias": [
+      "Amazonas"
+    ],
+    "estado": "São Paulo",
+    "municipio": "Cardoso",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

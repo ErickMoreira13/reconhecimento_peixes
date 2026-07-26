@@ -1,0 +1,25 @@
+{
+  "arquivo": "sPeNPEIvHQE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:49:16.559287",
+  "classificacao": {
+    "species": [
+      "Lambari",
+      "Mandi",
+      "Piaba",
+      "Peixe Elétrico"
+    ],
+    "equipment": [
+      "Facão",
+      "Rede",
+      "Isopor"
+    ],
+    "iscas": [
+      "Piaba"
+    ],
+    "cevas": [
+      "Piaba"
+    ],
+    "location": "Rio do Sono, entre Lisado e Novator"
+  }
+}

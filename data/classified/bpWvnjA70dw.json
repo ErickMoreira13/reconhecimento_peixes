@@ -1,0 +1,51 @@
+{
+  "arquivo": "bpWvnjA70dw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:32:04.550559",
+  "classificacao": {
+    "especies": [
+      "Injaú",
+      "Injaúzinho",
+      "Jaú",
+      "Lolinete",
+      "Morena",
+      "Pirapitinga",
+      "Piraíba"
+    ],
+    "equipamentos": [
+      "alicate",
+      "embarcação",
+      "sapos",
+      "vara"
+    ],
+    "iscas": [
+      "isca de coração"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pelo selo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Mandaré",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "Cristo Rei",
+      "Filhão",
+      "Praia do Acácio",
+      "charotou",
+      "desenvoliu",
+      "embarcação",
+      "filhote de Piraíba",
+      "isca de coração",
+      "Lolinete",
+      "morena",
+      "precobino",
+      "tombo"
+    ]
+  }
+}

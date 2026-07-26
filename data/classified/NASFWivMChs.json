@@ -1,0 +1,31 @@
+{
+  "arquivo": "NASFWivMChs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:27:09.959222",
+  "classificacao": {
+    "especies": [
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca sem isca"
+    ],
+    "rios": [
+      "Aripuanã"
+    ],
+    "bacias": [
+      "Amazonas"
+    ],
+    "estado": "Amazonas",
+    "municipio": "Manaus",
+    "tipo_pesca": [
+      "Pesca sem isca"
+    ],
+    "observacoes": ""
+  }
+}

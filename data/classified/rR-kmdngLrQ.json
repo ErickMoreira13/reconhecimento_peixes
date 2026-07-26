@@ -1,0 +1,21 @@
+{
+  "arquivo": "rR-kmdngLrQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:27:02.109810",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca no Rio Doce, com destaque para a captura de peixes como robalo, tucunaré e dourado. O narrador expressa entusiasmo ao descrever a luta contra os peixes, o uso de iscas e equipamentos (como vara e linha), e a interação com o público (pedindo curtidas e compartilhamentos). O conteúdo é repleto de expressões coloquiais, onomatopeias e repetições, transmitindo a emoção e a intensidade da atividade.",
+    "key_points": [
+      "Captura de peixes grandes (robalo, tucunaré, dourado)",
+      "Descrição técnica de métodos de pesca (uso de isca, vara, linha)",
+      "Localização: Rio Doce",
+      "Interação com o público (pedidos de curtidas e compartilhamentos)",
+      "Linguagem coloquial e emocional"
+    ],
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise das técnicas de pesca mencionadas",
+      "Transcrição estruturada do texto"
+    ]
+  }
+}

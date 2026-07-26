@@ -1,0 +1,23 @@
+{
+  "arquivo": "F4pXQQSkxpw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:01:03.187147",
+  "classificacao": {
+    "especies": [
+      "Ritapecuru",
+      "Mandizão",
+      "Criancinha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

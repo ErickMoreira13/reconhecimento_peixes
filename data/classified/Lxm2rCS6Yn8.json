@@ -1,0 +1,44 @@
+{
+  "arquivo": "Lxm2rCS6Yn8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:21:42.401992",
+  "classificacao": {
+    "especies": [
+      "tainha",
+      "sardinha"
+    ],
+    "equipamentos": [
+      "rede",
+      "pano",
+      "espinhel",
+      "boias",
+      "saco",
+      "malhadeira",
+      "caixa",
+      "manga",
+      "calça",
+      "coroa",
+      "mangueiro"
+    ],
+    "localidades": [
+      "rio",
+      "beirada",
+      "mar",
+      "porto",
+      "sol",
+      "mangueiro",
+      "coroa",
+      "tacanô"
+    ],
+    "termos_comuns": [
+      "maré",
+      "enchente",
+      "carduma",
+      "bronze",
+      "filé",
+      "taxibão",
+      "joio"
+    ],
+    "observacoes": "Ocorre repetição de 'tainha' e 'espinhel' no texto. Termos como 'manga', 'coroa' e 'mangueiro' podem ter duplo significado (objeto/local). Menção a 'sardinha' e 'carduma' sugere contexto de pesca em grupo."
+  }
+}

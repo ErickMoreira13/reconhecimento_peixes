@@ -1,0 +1,22 @@
+{
+  "arquivo": "ellSmLWNCiQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:07:56.043639",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Serra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

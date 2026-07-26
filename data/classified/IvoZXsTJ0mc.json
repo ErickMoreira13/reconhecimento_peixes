@@ -1,0 +1,28 @@
+{
+  "arquivo": "IvoZXsTJ0mc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:31:33.417615",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Vara Venza Big Game",
+      "Carretilha Titã 300"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Bacia do Prata"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca em águas abertas"
+    ],
+    "observacoes": []
+  }
+}

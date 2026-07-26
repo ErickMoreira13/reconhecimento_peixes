@@ -1,0 +1,25 @@
+{
+  "arquivo": "ZWsAegoxFHY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:00:57.774749",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "embarcada",
+      "barranco"
+    ],
+    "observacoes": [
+      "Carteira de pesca amadora deve ser mantida com o rodapé legível",
+      "É necessário ter o comprovante de pagamento da carteira de pesca"
+    ]
+  }
+}

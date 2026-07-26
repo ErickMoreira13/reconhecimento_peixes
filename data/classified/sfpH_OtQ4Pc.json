@@ -1,0 +1,32 @@
+{
+  "arquivo": "sfpH_OtQ4Pc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:00:09.157878",
+  "classificacao": {
+    "especies": [
+      "Sardinha",
+      "Lambare",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Boinha",
+      "Anzol",
+      "Zorro",
+      "Caiaque"
+    ],
+    "iscas": [
+      "Parmo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em Lagoa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

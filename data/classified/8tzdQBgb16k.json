@@ -1,0 +1,42 @@
+{
+  "arquivo": "8tzdQBgb16k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:30:35.340786",
+  "classificacao": {
+    "especies": [
+      "Curimbatá",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Linha de pesca"
+    ],
+    "iscas": [
+      "Lambari vivo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca com isca viva",
+      "Pesca de curimbatá"
+    ],
+    "rios": [
+      "Rio Barra Mansa"
+    ],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "Barra Mansa",
+    "tipo_pesca": [
+      "Pesca com isca viva",
+      "Pesca de curimbatá"
+    ],
+    "observacoes": [
+      "Sol quente",
+      "Quantidade moderada de curvinhas pescadas",
+      "Uso de lambari vivo como isca"
+    ]
+  }
+}

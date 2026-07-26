@@ -1,0 +1,20 @@
+{
+  "arquivo": "YeaxoquDPSU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:09:18.755919",
+  "classificacao": {
+    "summary": "O texto é um relato em primeira pessoa de uma pessoa que está pescando em um rio, descrevendo o processo de pesca, os tipos de peixes capturados (como branquinha, pacu e acaradisco), os equipamentos utilizados (molhadeiras, pincar) e interações com outras pessoas. O narrador também menciona o ambiente natural, como a floresta e a vida selvagem (papagaio, tucano), e explica técnicas de pesca. Há menção à liberação de alguns peixes de volta ao rio e ao final, um convite para os espectadores curtirem, comentarem, compartilharem e se inscreverem no canal.",
+    "structure": {
+      "introdução": "Descrição do local e início da pesca",
+      "processo de pesca": "Técnicas utilizadas, equipamentos e tipos de peixes capturados",
+      "interações": "Conversas com outras pessoas e observações do ambiente",
+      "conclusão": "Liberação de peixes e convite para engajamento com o público"
+    },
+    "possible_requests": [
+      "Tradução do texto",
+      "Explicação de termos técnicos de pesca",
+      "Análise cultural do contexto de pesca",
+      "Ajuda para criar um roteiro semelhante"
+    ]
+  }
+}

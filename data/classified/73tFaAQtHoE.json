@@ -1,0 +1,38 @@
+{
+  "arquivo": "73tFaAQtHoE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:14:56.962103",
+  "classificacao": {
+    "species": [
+      "Pacu",
+      "Paca"
+    ],
+    "equipment": [
+      "Vara",
+      "Isca Zeta Marina Sports",
+      "Magic Stick Nelson Nakamura",
+      "Cabo de Aço Flexível"
+    ],
+    "baits": [
+      "Isca Zeta",
+      "Magic Stick"
+    ],
+    "cevas": [],
+    "grains": [
+      "Arroz"
+    ],
+    "techniques": [
+      "Pesca com Isca Artificial"
+    ],
+    "rivers": [
+      "Rio Juma"
+    ],
+    "basins": [],
+    "state": "Amazonas",
+    "municipality": "Novo Horizonte",
+    "type_of_fishing": [
+      "Pesca Esportiva"
+    ],
+    "observations": "Pescaria com sucesso, captura de pacu e paca, uso de cabo de aço para acender fogo, soltura de peixes após captura."
+  }
+}

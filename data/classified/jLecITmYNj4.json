@@ -1,0 +1,37 @@
+{
+  "arquivo": "jLecITmYNj4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:07:31.783040",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Piau",
+      "Tambaqui",
+      "Pacu",
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Canjica",
+      "Aveia",
+      "Feijão",
+      "Amendoim",
+      "Girassol",
+      "Alpiste",
+      "Linhaça"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

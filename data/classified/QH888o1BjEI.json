@@ -1,0 +1,29 @@
+{
+  "arquivo": "QH888o1BjEI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:36:15.030388",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Pescadinha",
+      "Caíca"
+    ],
+    "equipamentos": [
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com tarrafa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "São José dos Campos",
+    "tipo_pesca": [
+      "Pesca com tarrafa"
+    ],
+    "observacoes": []
+  }
+}

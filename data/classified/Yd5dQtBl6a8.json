@@ -1,0 +1,41 @@
+{
+  "arquivo": "Yd5dQtBl6a8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:08:48.421130",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piapara",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Recipientes transparentes",
+      "Balde",
+      "Bacia",
+      "Tampa"
+    ],
+    "iscas": [
+      "Milho azedo"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Azedar milho rápido",
+      "Uso de leite para acelerar fermentação",
+      "Uso de fermento biológico",
+      "Adição de suco para sabor e aroma"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "outros": []
+  }
+}

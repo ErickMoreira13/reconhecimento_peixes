@@ -1,0 +1,46 @@
+{
+  "arquivo": "geZ7-Uvfk8Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:36:23.214805",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Vara telescópia",
+      "Varinha de bambu",
+      "Varinha de mão"
+    ],
+    "iscas": [
+      "Milhão",
+      "Chaminha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pescaria de tilápia gigante",
+      "Pescaria caipira",
+      "Pesca rural"
+    ],
+    "rios": [
+      "Represa da Gigantona",
+      "Represa da Mata Selvagem"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Presidente Prudente",
+    "tipo_pesca": [
+      "Pescaria de tilápia gigante",
+      "Pescaria caipira",
+      "Pesca rural"
+    ],
+    "observacoes": [
+      "Top demais essa pescaria",
+      "Gigante ou não é?"
+    ]
+  }
+}

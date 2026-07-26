@@ -1,0 +1,31 @@
+{
+  "arquivo": "rsuyaAgRNdE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:30:15.042812",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Ração"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca"
+    ],
+    "observacoes": [
+      "O pescador menciona que não pegou nenhum peixe durante a tentativa"
+    ]
+  }
+}

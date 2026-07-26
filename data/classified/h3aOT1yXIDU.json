@@ -1,0 +1,24 @@
+{
+  "arquivo": "h3aOT1yXIDU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:39:42.815103",
+  "classificacao": {
+    "especies": [
+      "Pampo"
+    ],
+    "cevas": [
+      "corrupto"
+    ],
+    "iscas": [
+      "isca natural"
+    ],
+    "equipamento": [
+      "vara 30 libras",
+      "molinete Maruri Nakajima 3000",
+      "linha 0,28 40 libras"
+    ],
+    "local": [
+      "costão rochoso"
+    ]
+  }
+}

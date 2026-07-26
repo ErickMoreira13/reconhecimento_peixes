@@ -1,0 +1,41 @@
+{
+  "arquivo": "DH6OipEAsuI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:54:04.982626",
+  "classificacao": {
+    "resumo": {
+      "historia_principal": {
+        "personagem": "Ademar",
+        "evento": "Morte de Ademar após um bezerro ser jogado em um lago e ser devorado por piranhas",
+        "detalhes": "O bezerro foi lançado ao lago, onde piranhas o devoraram, levando à morte de Ademar. A história parece ter uma conexão simbólica ou narrativa com o evento."
+      },
+      "aventura_de_pesca": {
+        "local": "Rio Uatumã",
+        "atividades": [
+          "Pescaria com Roberto e sua esposa Anny",
+          "Captura de peixes como tambaqui e tucunaré",
+          "Mencione de Zeca Fera, um personagem associado à pesca"
+        ]
+      },
+      "pousada_zarara": {
+        "localizacao": "Rio Uatumã",
+        "detalhes": "Pousada mencionada como um ponto de referência durante a aventura, possivelmente ligada à história de Ademar e à pesca."
+      },
+      "entrevistas": {
+        "personagens": [
+          {
+            "nome": "Roberto",
+            "papel": "Participante da pescaria e entrevistado"
+          },
+          {
+            "nome": "Anny",
+            "papel": "Esposa de Roberto e participante da pescaria"
+          }
+        ]
+      },
+      "contexto_geral": {
+        "tema": "Combinação de elementos narrativos (morte de Ademar) com aventura de pesca no Amazonas, destacando a cultura local e a natureza."
+      }
+    }
+  }
+}

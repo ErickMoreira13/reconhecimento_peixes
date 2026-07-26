@@ -1,0 +1,33 @@
+{
+  "arquivo": "31JrH6Nm6C4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:43:23.900264",
+  "classificacao": {
+    "especies": [
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [
+      "Sardinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Parnaíba"
+    ],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "Parnaíba",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O rio Parnaíba é considerado muito bom."
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "ZF2i0UXcdbc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:10:03.469997",
+  "classificacao": {
+    "especies": [
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Litro",
+      "Chumbo",
+      "Linha de anzol",
+      "Furado"
+    ],
+    "iscas": [
+      "Trigo",
+      "Fubá",
+      "Amido",
+      "Lodo"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Pesca com litro descartável"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

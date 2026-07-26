@@ -1,0 +1,35 @@
+{
+  "arquivo": "2J5e8cxU_Y8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:22:46.043889",
+  "classificacao": {
+    "ingredients": [
+      "fubá (cornmeal)",
+      "farinha de trigo (wheat flour)",
+      "sal (salt)",
+      "açúcar refinado (refined sugar)",
+      "açafrão (saffron)"
+    ],
+    "preparation_steps": [
+      "Mix fubá, wheat flour, salt, and saffron in a bowl",
+      "Gradually add water while kneading the dough until it becomes elastic",
+      "Form small balls and boil them three times (each time boiling and cooling in cold water)",
+      "Dry the balls completely",
+      "Coat the balls with fubá for storage in the fridge"
+    ],
+    "fishing_techniques": [
+      "Use small bait balls for Piau (small fish)",
+      "Use medium-sized bait balls for Piapara",
+      "Use larger bait balls for Pacu and Piau Sul",
+      "Combine with corn or bigato (another bait type) for better results",
+      "Use a carretilha (reel) with a specific tackle setup",
+      "Adjust hook size based on target fish species"
+    ],
+    "equipment_used": [
+      "Rossin Custo rod (fiberglass)",
+      "Oscar da Junko reel",
+      "Carretilha (reel) from China",
+      "Leaders, weights, and fishing lines"
+    ]
+  }
+}

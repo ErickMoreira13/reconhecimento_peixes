@@ -1,0 +1,71 @@
+{
+  "arquivo": "nJlkIcn4aMM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:06:22.556081",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Carazão",
+      "Bugio"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Anzão",
+      "Ceva",
+      "Massinha",
+      "T40",
+      "Essência de Milho Verde",
+      "Ração de Coelho",
+      "Farol de Arroz",
+      "Milho Azedo",
+      "Baldão",
+      "Lãzinha",
+      "Ponta da Vara"
+    ],
+    "iscas": [
+      "Massinha",
+      "T40",
+      "Essência de Milho Verde",
+      "Ração de Coelho",
+      "Farol de Arroz",
+      "Milho Azedo",
+      "Lãzinha"
+    ],
+    "cevas": [
+      "Ração de Coelho",
+      "Farol de Arroz",
+      "Milho Azedo",
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Pesca com Ceva",
+      "Pesca com Isca Artificial",
+      "Uso de Lãzinha",
+      "Uso de Anzão de Costa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Nazaré Paulista",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca Recreativa"
+    ],
+    "observacoes": [
+      "Pescaria realizada no reservatório de Nazaré Paulista",
+      "Uso de ceva com ração de coelho e farol de arroz",
+      "Captura de tilápia e carazão",
+      "Menciona a ausência de pescaria há mais de seis meses no local"
+    ]
+  }
+}

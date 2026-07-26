@@ -1,0 +1,41 @@
+{
+  "arquivo": "tj1V2d4634I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:56:40.516574",
+  "classificacao": {
+    "especies": [
+      "Caranha",
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Câmera"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio",
+      "Rio Grande"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "São Inglaterra",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Caranha"
+    ],
+    "observacoes": [
+      "Rio está muito baixo e seco",
+      "Pescaria com Beto Santos",
+      "Captura de caranha, pacu e piaus",
+      "Almoço no local",
+      "Água forte no final da pescaria"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "arquivo": "cGp_febRgpI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:36:51.782928",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra",
+      "Piranha",
+      "Saicanga",
+      "Tucundaré"
+    ],
+    "equipamentos": [
+      "Porta-vara",
+      "Vara",
+      "Alicate",
+      "Barco",
+      "Hélice do motor",
+      "Risca artificial"
+    ],
+    "iscas": [
+      "Risca artificial",
+      "Isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria no lago",
+      "Bater tucunaré",
+      "Usar risca artificial",
+      "Pescar com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_de_pesca": "Pesca esportiva",
+    "observacoes": [
+      "Localização próxima à Fronteira",
+      "Dificuldade em encontrar tucunaré",
+      "Presença de piranha lazarenta",
+      "Filme da Netflix gravado no local",
+      "Muita alga e toco no local",
+      "Peixe morto há dias",
+      "Viagem sem sucesso em capturar muitos tucunaré"
+    ]
+  }
+}

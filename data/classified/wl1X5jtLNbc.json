@@ -1,0 +1,41 @@
+{
+  "arquivo": "wl1X5jtLNbc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:12:25.950205",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Fio de luz",
+      "Pau"
+    ],
+    "iscas": [
+      "Silagem",
+      "Leite azedo",
+      "Melado de cana"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Silagem"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Carpas"
+    ],
+    "observacoes": [
+      "Ceva deixada por 3 dias",
+      "Uso de bolsa perfurada para espalhar o odor"
+    ]
+  }
+}

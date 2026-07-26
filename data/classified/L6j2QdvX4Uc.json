@@ -1,0 +1,20 @@
+{
+  "arquivo": "L6j2QdvX4Uc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:45:22.762467",
+  "classificacao": {
+    "species": [
+      "tucunaré"
+    ],
+    "equipment": [],
+    "baits": [],
+    "location": [
+      "Rio Paraná",
+      "Susanapis"
+    ],
+    "other_details": {
+      "environmental_practices": "Preserve nature, avoid leaving fire traces, use fire pits with tiles to protect trees",
+      "cooking_methods": "Grill the fish"
+    }
+  }
+}

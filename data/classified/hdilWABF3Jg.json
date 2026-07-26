@@ -1,0 +1,51 @@
+{
+  "arquivo": "hdilWABF3Jg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:28:40.696825",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Tilapia",
+      "Jacundá",
+      "Capim",
+      "Coita",
+      "Pedro de Caudas",
+      "Tucunaré"
+    ],
+    "localidades": [
+      "Harmonia",
+      "Serrania",
+      "Posse de Caudas"
+    ],
+    "equipamentos": [
+      "vara",
+      "anzol",
+      "fio",
+      "carretilha",
+      "espelho"
+    ],
+    "isca": [
+      "milho verde",
+      "capim",
+      "parminho"
+    ],
+    "metodos": [
+      "pescaria",
+      "competição",
+      "filmando",
+      "pescar tilapa",
+      "pescar no capim",
+      "pescar no milho verde"
+    ],
+    "observacoes": [
+      "calor forte",
+      "chuva",
+      "antes do almoço",
+      "depois do almoço",
+      "grandonas",
+      "pititinha",
+      "muita pedra",
+      "muito vento"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "PcPHYRYgYMo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:00:59.325059",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Pequenininha"
+    ],
+    "equipamentos": [
+      "Câmera",
+      "Sininho"
+    ],
+    "iscas": [
+      "Fritadinha",
+      "Barrigada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "mDfDj2WvlJw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:01:53.090974",
+  "classificacao": {
+    "especies": [
+      "Tabarana",
+      "Tuvira"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Carretilha",
+      "Vara de ação rápida",
+      "Anzol maruceigo encastuado",
+      "Chumbo leve"
+    ],
+    "iscas": [
+      "Tuvira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de isca com chumbo leve",
+      "Técnica de encastuado"
+    ],
+    "rios": [
+      "Tibagi"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

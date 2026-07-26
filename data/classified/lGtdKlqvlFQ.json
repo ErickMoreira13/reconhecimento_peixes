@@ -1,0 +1,40 @@
+{
+  "arquivo": "lGtdKlqvlFQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:07:59.553391",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Vara",
+      "Chumbada",
+      "Miçanga",
+      "Líder",
+      "Anzol",
+      "Isca-viva",
+      "Monster 3X"
+    ],
+    "iscas": [
+      "Lambari",
+      "Monster 3X"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com isca-viva",
+      "Pescaria com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Coxim",
+    "tipo_de_pesca": "Pesca com isca-viva e isca artificial",
+    "observacoes": [
+      "Primeiro dourado pescado pela Karol",
+      "Uso de caiaque inflável",
+      "Localização na Pousada das Palmeiras 2"
+    ]
+  }
+}

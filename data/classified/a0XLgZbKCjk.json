@@ -1,0 +1,36 @@
+{
+  "arquivo": "a0XLgZbKCjk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T09:42:16.223452",
+  "classificacao": {
+    "especies": [
+      "piranha",
+      "clarote",
+      "pirambeba",
+      "tambaqui",
+      "pacu",
+      "barbado"
+    ],
+    "equipamentos": [
+      "caixa",
+      "drone",
+      "sanelo",
+      "motorzinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com drone",
+      "variança"
+    ],
+    "rios": [
+      "Rio Castalino",
+      "Rio Telespires"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Divinópolis",
+    "tipo_pesca": "pesca esportiva"
+  }
+}

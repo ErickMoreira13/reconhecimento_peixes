@@ -1,0 +1,32 @@
+{
+  "arquivo": "s8eSFVaC-FQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:56:32.844213",
+  "classificacao": {
+    "especies": [
+      "Tenebro"
+    ],
+    "equipamentos": [
+      "Caixinha furadinha"
+    ],
+    "iscas": [
+      "Besouro"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Fermentação",
+      "Separação de besouros"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca viva"
+    ],
+    "observacoes": []
+  }
+}

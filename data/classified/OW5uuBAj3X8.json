@@ -1,0 +1,43 @@
+{
+  "arquivo": "OW5uuBAj3X8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:41:59.847410",
+  "classificacao": {
+    "especies": [
+      "Carapé",
+      "Carapela",
+      "Corvina",
+      "Espada",
+      "Espadinha",
+      "Badejinho",
+      "Raia",
+      "Robalo Flecha"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Linha",
+      "Varinha",
+      "Celular"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Embarcada",
+      "Pesca no Mar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Ubatuba",
+    "tipo_pesca": [
+      "Pesca Embarcada",
+      "Pesca no Mar"
+    ],
+    "observacoes": [
+      "Não levar peixes menores",
+      "Peixe solto devido ao tamanho",
+      "Bateria do celular acabando"
+    ]
+  }
+}

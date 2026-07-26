@@ -1,0 +1,25 @@
+{
+  "arquivo": "Wg6nXOA7sc4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:05:31.884063",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "barco",
+      "hélice",
+      "luz"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Aracá"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

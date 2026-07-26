@@ -1,0 +1,33 @@
+{
+  "arquivo": "0MdYmQGQvzs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:26:12.306685",
+  "classificacao": {
+    "especies": [
+      "Oriço",
+      "Sargo"
+    ],
+    "equipamentos": [
+      "Isca de cabo de vassoura",
+      "Fio",
+      "Canivete"
+    ],
+    "iscas": [
+      "Oriço",
+      "Dente de oriço"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca natural"
+    ],
+    "observacoes": []
+  }
+}

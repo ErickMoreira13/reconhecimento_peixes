@@ -1,0 +1,23 @@
+{
+  "arquivo": "kk4vxGYxbM8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:55:05.167403",
+  "classificacao": {
+    "especies": [
+      "Polvo"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O polvo gruda na mão e precisa ser removido rapidamente."
+    ]
+  }
+}

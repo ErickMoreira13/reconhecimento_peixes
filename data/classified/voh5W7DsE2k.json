@@ -1,0 +1,38 @@
+{
+  "arquivo": "voh5W7DsE2k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:21:44.297065",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Suporte",
+      "Verdinha",
+      "Varinha azul",
+      "Varinha marrom",
+      "Tralha"
+    ],
+    "iscas": [
+      "Massinha",
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Vento forte",
+      "Dificuldade de visualização",
+      "Risco de queda de árvore",
+      "Necessidade de segurança"
+    ]
+  }
+}

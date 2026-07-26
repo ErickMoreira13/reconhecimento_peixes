@@ -1,0 +1,21 @@
+{
+  "arquivo": "F4ve6hos1NA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:01:09.397370",
+  "classificacao": {
+    "especies": [
+      "Pintado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

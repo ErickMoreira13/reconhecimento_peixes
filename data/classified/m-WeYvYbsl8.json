@@ -1,0 +1,30 @@
+{
+  "arquivo": "m-WeYvYbsl8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:25:57.244010",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Maletinha",
+      "Barquinho"
+    ],
+    "iscas": [
+      "Mago 60"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Isca Mago 60 custa 45 reais",
+      "Pescou três traíras",
+      "Isca foi bem-sucedida"
+    ]
+  }
+}

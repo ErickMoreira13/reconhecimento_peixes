@@ -1,0 +1,27 @@
+{
+  "arquivo": "HeM8O8cvXhs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:10:54.084193",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Murinete Shark 3",
+      "Selena"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de barranco",
+      "pesca na beira do mar"
+    ],
+    "observacoes": []
+  }
+}

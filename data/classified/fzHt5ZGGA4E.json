@@ -1,0 +1,87 @@
+{
+  "arquivo": "fzHt5ZGGA4E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:11:54.662940",
+  "classificacao": {
+    "species": [
+      "Traíra",
+      "Piranha",
+      "Tucunaré"
+    ],
+    "equipment": [
+      "Alicate",
+      "Caiaque",
+      "Câmera",
+      "Celular",
+      "Fio"
+    ],
+    "iscas": [
+      "Isca",
+      "Isca Parada",
+      "Vulcan",
+      "Popper"
+    ],
+    "grains": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Feijão",
+      "Amendoim",
+      "Girassol",
+      "Alpiste",
+      "Linhaça"
+    ],
+    "cevadas": {
+      "Ceva Natural": [
+        "Milho",
+        "Soja",
+        "Trigo",
+        "Arroz",
+        "Quirera",
+        "Canjica",
+        "Grãos"
+      ],
+      "Ceva Proteica": [
+        "Ração de Peixe",
+        "Ração de Galinha",
+        "Ração de Cachorro",
+        "Farinha de Peixe"
+      ],
+      "Ceva Aromática": [
+        "Vanilha",
+        "Alho",
+        "Edulcorante"
+      ],
+      "Ceva de Partículas": [
+        "Recipientes Perforados"
+      ]
+    },
+    "techniques": [
+      "Automático",
+      "Meia Água",
+      "Fotografia",
+      "Pescar",
+      "Solta"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "type_of_fishing": [
+      "Frito",
+      "Solteiro",
+      "Macho",
+      "Fêmea",
+      "Tucunaré"
+    ],
+    "observations": [
+      "Essa aqui vai virar fritinha!",
+      "Linda!",
+      "Valeu com você!",
+      "Que alegria!"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "cP5ooZG0S4c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:49:29.975954",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Alicate"
+    ],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Jatobá",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

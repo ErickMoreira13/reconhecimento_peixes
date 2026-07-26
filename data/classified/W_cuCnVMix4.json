@@ -1,0 +1,26 @@
+{
+  "arquivo": "W_cuCnVMix4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:58:07.443964",
+  "classificacao": {
+    "especies": [
+      "Curvina",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "chicote"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Barra Mansa"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Morumbi",
+    "tipo_de_pesca": ""
+  }
+}

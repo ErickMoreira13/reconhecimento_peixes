@@ -1,0 +1,61 @@
+{
+  "arquivo": "yxOHm4XCAi0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:52:27.339204",
+  "classificacao": {
+    "especies": [
+      "Peixe",
+      "Pacu",
+      "Chavinho Verde"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Hélice",
+      "Fiadaço",
+      "Espumeiro",
+      "X-Rap"
+    ],
+    "iscas": [
+      "Isca",
+      "Sarassara",
+      "Spinner"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Pesca Esportiva",
+      "Pesca com Isca Artificial",
+      "Pesca com Isca Natural",
+      "Solta a Isca",
+      "Levantar a Isca",
+      "Acelerar o Passo da Isca"
+    ],
+    "rios": [],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca com Isca Artificial",
+      "Pesca com Isca Natural"
+    ],
+    "observacoes": [
+      "Peixe grande",
+      "Dificuldade em capturar",
+      "Uso de técnicas específicas",
+      "Menciona 'chavinho verde'"
+    ]
+  }
+}

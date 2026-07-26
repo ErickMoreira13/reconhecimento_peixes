@@ -1,0 +1,28 @@
+{
+  "arquivo": "fCKCkWTIS5Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:08:30.891841",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Isca de meia-água",
+      "Barbela longa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento além da estrutura"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "A isca demora a atingir a profundidade máxima"
+    ]
+  }
+}

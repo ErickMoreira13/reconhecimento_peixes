@@ -1,0 +1,32 @@
+{
+  "arquivo": "s8e1q7Lttm4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:56:18.834884",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Motor Elétrico",
+      "Vara",
+      "Barco",
+      "Rampa",
+      "Passaguai"
+    ],
+    "iscas": [
+      "GS Fish Torpedinha",
+      "Primal Garatéias"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso do motor elétrico para estabilização",
+      "Casting da isca"
+    ],
+    "localização": "Região do Borrachudo, Três Marias",
+    "municipio": "Três Marias",
+    "estado": "Minas Gerais",
+    "outros": []
+  }
+}

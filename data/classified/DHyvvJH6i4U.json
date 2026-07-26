@@ -1,0 +1,34 @@
+{
+  "arquivo": "DHyvvJH6i4U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:55:11.734553",
+  "classificacao": {
+    "especies": "Traíra",
+    "equipamentos": [
+      "Monster 3X",
+      "ZSX Pro",
+      "Black Hawk",
+      "Lure",
+      "Isca Soft",
+      "Isca Hard"
+    ],
+    "iscas": [
+      "Paddle Frog",
+      "Big Toad",
+      "Baby Toad",
+      "Tail Frog",
+      "Shads"
+    ],
+    "cevas": [],
+    "graos": [],
+    "estado": "",
+    "municipio": "",
+    "rios": [],
+    "bacias": [],
+    "tecnicas": [
+      "Pescaria na superfície",
+      "Pescaria com iscas soft"
+    ],
+    "tipo_pesca": "Pescaria com iscas soft"
+  }
+}

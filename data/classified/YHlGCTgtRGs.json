@@ -1,0 +1,68 @@
+{
+  "arquivo": "YHlGCTgtRGs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:13:47.694025",
+  "classificacao": {
+    "especies": [
+      "Aracu",
+      "Piau",
+      "Piau Flamengo",
+      "Aracuzinho",
+      "Jacundazinho",
+      "Piauzinho",
+      "Mandizinho Casaca",
+      "Mandi",
+      "Mandi Iguaçu",
+      "Tucunaré",
+      "Piauzão Flamengo",
+      "Piaba",
+      "Aracuco",
+      "Aracu Duas Pintas",
+      "Aracu Cabeça Gorda",
+      "Piabinha"
+    ],
+    "equipamentos": [
+      "Trato",
+      "Pratinho",
+      "Chumbadinha",
+      "Graminha",
+      "Giradorzinho",
+      "Mozolzinho",
+      "Chinozinho Branco",
+      "Mosquitinho"
+    ],
+    "iscas": [
+      "Milho Verde",
+      "Camarão",
+      "Camarãozinho",
+      "Camarão Fresquinho"
+    ],
+    "cevas": [
+      "Trato"
+    ],
+    "localização": [
+      "Nordeste",
+      "Sul",
+      "Sudeste",
+      "Minas Gerais"
+    ],
+    "região": [
+      "Sudeste",
+      "Nordeste",
+      "Sul",
+      "Minas Gerais"
+    ],
+    "temporada": [
+      "Inverno",
+      "Verão"
+    ],
+    "especie_alvo": [
+      "Piau Três Pintas",
+      "Aracu Cabeça Gorda",
+      "Piaba Três Pintas",
+      "Piau Flamengo",
+      "Aracu",
+      "Piauzão Flamengo"
+    ]
+  }
+}

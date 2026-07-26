@@ -1,0 +1,42 @@
+{
+  "arquivo": "i-NHjmp7m28",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:20:40.821746",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Indicador",
+      "Linha",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca à Vara",
+      "Pesca Esportiva"
+    ],
+    "rios": [
+      "Rio Xingu"
+    ],
+    "bacias": [
+      "Bacia do Rio Xingu"
+    ],
+    "estado": "Mato Grosso",
+    "municipio": "Parque Indígena do Xingu",
+    "tipo_pesca": [
+      "Pesca à Vara",
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "A pirarara está presente no rio Xingu o ano inteiro",
+      "A pirarara é difícil de pescar, especialmente durante a época do rio Mais Baixo",
+      "A pirarara é encontrada em áreas profundas e com correnteza forte",
+      "A pirarara é mais fácil de capturar à noite",
+      "A pirarara é um peixe típico do rio Xingu",
+      "A pirarara é encontrada em diferentes tamanhos, incluindo filhotes"
+    ]
+  }
+}

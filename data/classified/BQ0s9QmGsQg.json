@@ -1,0 +1,19 @@
+{
+  "arquivo": "BQ0s9QmGsQg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:32:20.605351",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo de pesca, provavelmente gravado em um ambiente informal, com participantes discutindo técnicas de pesca, compartilhando experiências e usando gírias locais. Os participantes mencionados incluem Diego, Renato, Max, Alex e outros, e há referências a locais como Ribeiro e Ilha Solteira. O conteúdo aborda a captura de peixes como azulzinho, cardúma e Passaguá, com frases repetitivas e humor, como 'azulzinho é vida?'. O vídeo termina com um chamado para curtir, compartilhar e se inscrever, seguido por uma despedida informal.",
+    "key_terms": {
+      "azulzinho": "Tipo de peixe, provavelmente um termo regional para espécies como o peixe azul (como o peixe-palha ou outros da família Clupeidae).",
+      "chuminha": "Pode se referir a uma técnica de pesca ou a um equipamento (como uma vara ou anzol), dependendo do contexto local.",
+      "varinha": "Termo informal para 'vara de pesca'.",
+      "puxar a chuminha": "Expressão que pode indicar a ação de puxar uma vara ou equipamento de pesca, ou uma brincadeira entre os participantes.",
+      "cardúma": "Espécie de peixe, possivelmente um termo regional para cardume (aglomeração de peixes) ou uma espécie específica.",
+      "Passaguá": "Espécie de peixe, talvez referindo-se ao 'passarinho' (como o peixe-palha) ou outro termo local."
+    },
+    "translation": "The text is a transcript of a fishing video, likely recorded in an informal setting, with participants discussing fishing techniques, sharing experiences, and using local slang. The participants mentioned include Diego, Renato, Max, Alex, and others, with references to locations like Ribeiro and Ilha Solteira. The content covers the capture of fish such as azulzinho, cardúma, and Passaguá, with repetitive phrases and humor, such as 'azulzinho é vida?'. The video ends with a call to like, share, and subscribe, followed by an informal goodbye.",
+    "video_structure": "O vídeo parece seguir um formato comum de canais de pesca no YouTube, incluindo: 1) Introdução com ações de pesca e conversas entre participantes; 2) Comentários sobre técnicas e resultados (captura de peixes); 3) Humor e interação entre os participantes; 4) Chamada para engajamento (curtir, compartilhar, inscrever-se); 5) Despedida informal com frases repetitivas (como 'Tchau. Tchau. Tchau.').",
+    "additional_notes": "O conteúdo é altamente contextualizado, com termos e expressões que podem variar conforme a região ou cultura local. Para uma compreensão mais precisa, seria útil saber o local exato da gravação ou o contexto cultural específico."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "aACmqrUA6jE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:10:10.896793",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Tucunaré",
+      "Traíra",
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Molinete Dyson Icari",
+      "Alicate"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Doce"
+    ],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "Itapina e Colatina",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A vara quebrou durante a pescaria",
+      "Não houve capturas registradas no vídeo",
+      "Foi realizado o lançamento de três tucunarezes e uma traíra",
+      "A bateria do celular acabou antes da captura",
+      "Houve tentativa de captura de um tucunaré pequeno"
+    ]
+  }
+}

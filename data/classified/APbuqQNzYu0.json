@@ -1,0 +1,22 @@
+{
+  "arquivo": "APbuqQNzYu0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:06:39.458586",
+  "classificacao": {
+    "especies": [
+      "Biteiro",
+      "Bigodão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

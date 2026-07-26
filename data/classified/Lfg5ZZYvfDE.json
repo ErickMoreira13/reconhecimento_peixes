@@ -1,0 +1,34 @@
+{
+  "arquivo": "Lfg5ZZYvfDE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:06:31.974493",
+  "classificacao": {
+    "species": [
+      "dourado",
+      "pintado",
+      "piranha",
+      "piranha louca"
+    ],
+    "location": {
+      "river": "Rio Tietê",
+      "municipality": "Barra Bonita",
+      "state": "São Paulo"
+    },
+    "equipment": [
+      "143 do João Peia",
+      "Torzão V8",
+      "450 cavalo",
+      "caminhão",
+      "carreta"
+    ],
+    "baits": [],
+    "grains": [],
+    "techniques": [
+      "pescaria de agulha"
+    ],
+    "other": {
+      "social_aspect": "pescaria de agulha (needle fishing) as a social activity",
+      "context": "fishing in the Rio Tietê with a focus on community and tradition"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "arquivo": "NC39E3tsAO4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:29:19.920723",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo que promove uma experiência de pesca no Rio Atumã, no Amazonas, com destaque para a pousada Pedras do Atumã e a empresa BCA Fishing. O narrador, entusiasmado, descreve a beleza do local, a riqueza da fauna (incluindo a captura de grandes peixes, possivelmente 'pacas' ou piranhas), e a atuação do guia Jeffers. O conteúdo mistura emoção pessoal, promoção de serviços turísticos e destaque para a experiência única de pesca no Amazonas. Termos como 'paca' (possivelmente um tipo de peixe local) e 'boto' (normalmente o boto, um peixe do Amazonas, mas também pode se referir ao boto, um peixe doce-água) são mencionados, embora haja ambiguidade em alguns termos. O tom geral é animado e convidativo, incentivando visitas ao local.",
+    "key_points": [
+      "Promoção da pousada Pedras do Atumã e da BCA Fishing.",
+      "Destaque para a experiência de pesca no Rio Atumã.",
+      "Mencione de peixes grandes ('pacas') e a atuação do guia Jeffers.",
+      "Descrição da beleza do ambiente e da fauna local.",
+      "Possível ambiguidade em termos como 'paca' e 'boto'."
+    ],
+    "clarifications": [
+      "O termo 'paca' pode se referir a um tipo de peixe local, embora haja possibilidade de confusão com 'piranha'.",
+      "O 'boto' geralmente se refere ao boto, um peixe doce-água do Amazonas, mas pode ser usado de forma ambígua no texto."
+    ]
+  }
+}

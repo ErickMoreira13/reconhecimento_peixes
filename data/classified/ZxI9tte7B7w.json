@@ -1,0 +1,37 @@
+{
+  "arquivo": "ZxI9tte7B7w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:01:53.534045",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Bitelão"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Ipiranga",
+      "Tamanduateí"
+    ],
+    "bacias": [
+      "Tamanduateí"
+    ],
+    "estado": "São Paulo",
+    "municipio": "São Paulo",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O riacho do Ipiranga está poluído e não é próprio para consumo",
+      "A tilápia é altamente adaptável e pode conter contaminação",
+      "A pescaria no local é feita para diversão e não para consumo",
+      "A presença de tilápias indica adaptação da natureza à poluição"
+    ]
+  }
+}

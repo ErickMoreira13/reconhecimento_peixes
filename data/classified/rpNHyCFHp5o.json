@@ -1,0 +1,41 @@
+{
+  "arquivo": "rpNHyCFHp5o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:26:02.407277",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Varinha de mulinete",
+      "Linha 020",
+      "Anzózinho pequeno"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Mulinete",
+      "Lança"
+    ],
+    "rios": [
+      "Tietêzão"
+    ],
+    "bacias": [
+      "Tietê"
+    ],
+    "estado": "São Paulo",
+    "municipio": "Barra Bonita e Graça do Tietê",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca recreativa"
+    ],
+    "observacoes": [
+      "Rio abaixou bastante",
+      "Dificuldade em capturar peixes",
+      "Dia do peixe"
+    ]
+  }
+}

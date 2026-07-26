@@ -1,0 +1,30 @@
+{
+  "arquivo": "_wL464SWq4g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:42:34.311111",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "TAP 6",
+      "PARK 2"
+    ],
+    "iscas": [
+      "Carnes de Sapinho",
+      "Jig",
+      "Criatura Soft",
+      "Minhocas"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

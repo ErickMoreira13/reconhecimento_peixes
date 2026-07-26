@@ -1,0 +1,42 @@
+{
+  "arquivo": "BGzZ5DskPps",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:04:36.546727",
+  "classificacao": {
+    "especies": [
+      "Garapuá",
+      "Levezão"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Barraquinha",
+      "Rede",
+      "Fogo",
+      "Madeira",
+      "Cafezinho",
+      "Fogozinho"
+    ],
+    "iscas": {
+      "graos": [
+        "Arroz",
+        "Milho",
+        "Soja",
+        "Trigo",
+        "Feijão",
+        "Amendoim",
+        "Girassol",
+        "Alpiste",
+        "Linhaça",
+        "Canjica"
+      ],
+      "cevas": [
+        "Ceva Natural"
+      ]
+    },
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "localizacao": "",
+    "observacoes": "Noite calma, sem incidentes, não choveu, utilização de fogo e madeira para preparação de alimentos."
+  }
+}

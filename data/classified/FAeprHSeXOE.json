@@ -1,0 +1,27 @@
+{
+  "arquivo": "FAeprHSeXOE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:04:28.681298",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Drone"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "São Benedito"
+    ],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "Pará",
+    "municipio": "Telespires",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

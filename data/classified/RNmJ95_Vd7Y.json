@@ -1,0 +1,32 @@
+{
+  "arquivo": "RNmJ95_Vd7Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:23:55.506235",
+  "classificacao": {
+    "especies": [
+      "Mandi"
+    ],
+    "equipamentos": [
+      "vara",
+      "anzol",
+      "linha",
+      "chumbo"
+    ],
+    "iscas": [
+      "massinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Parnaíba"
+    ],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

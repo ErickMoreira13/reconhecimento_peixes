@@ -1,0 +1,43 @@
+{
+  "arquivo": "OhueJySdNxs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:42:20.445700",
+  "classificacao": {
+    "especies": [
+      "peixe"
+    ],
+    "equipamentos": [
+      "cabo",
+      "flecha",
+      "cebro",
+      "carretilha",
+      "linha",
+      "gancho",
+      "isca",
+      "ceva",
+      "galão perfurado",
+      "saco de ráfia",
+      "tubo de PVC perfurado",
+      "balde perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [
+      "camarão",
+      "farinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "farinha"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

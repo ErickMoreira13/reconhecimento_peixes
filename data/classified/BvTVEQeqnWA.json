@@ -1,0 +1,35 @@
+{
+  "arquivo": "BvTVEQeqnWA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:39:02.659310",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [
+      "canoa",
+      "material de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca em águas correntes"
+    ],
+    "rios": [
+      "Rio Grande",
+      "Pardo"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "início da temporada 2022",
+      "captura de curimba em águas correntes",
+      "atividades em desembarques municipais"
+    ]
+  }
+}

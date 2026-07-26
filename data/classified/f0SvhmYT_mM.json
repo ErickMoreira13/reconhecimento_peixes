@@ -1,0 +1,28 @@
+{
+  "arquivo": "f0SvhmYT_mM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:59:15.426815",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "balde",
+      "garrafa"
+    ],
+    "iscas": [
+      "massa de farinha de trigo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "massa barata e eficaz"
+    ]
+  }
+}

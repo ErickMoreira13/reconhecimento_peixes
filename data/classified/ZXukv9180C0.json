@@ -1,0 +1,90 @@
+{
+  "arquivo": "ZXukv9180C0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:02:35.252785",
+  "classificacao": {
+    "especies": [
+      "Curimã",
+      "Canguá",
+      "Corocum",
+      "Tainha",
+      "Rubalhinho",
+      "Parazinho",
+      "Tatarraba",
+      "Cardume",
+      "Bonito",
+      "Heró",
+      "Canguá Bonita"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Canoa",
+      "Barca",
+      "Remo",
+      "Malha",
+      "Vinha",
+      "Cabo",
+      "Guarda",
+      "Bico"
+    ],
+    "isca": [
+      "Pedras",
+      "Sangue doce"
+    ],
+    "grãos": [
+      "Grau"
+    ],
+    "trabalho": [
+      "Lanço",
+      "Relanço",
+      "Retaz",
+      "Retado",
+      "Descida",
+      "Descer devagarzinho",
+      "Enganchador",
+      "Topa no fundo"
+    ],
+    "rios": [
+      "Rio de casa",
+      "Rio",
+      "Maré",
+      "Vazante",
+      "Enchente",
+      "Maré secou"
+    ],
+    "bacias": [],
+    "estado": [
+      "Bahia",
+      "Espírito Santo"
+    ],
+    "municipio": [
+      "Colatina",
+      "Canavieiras"
+    ],
+    "tipo_de_pesca": [
+      "Pesca",
+      "Marézinha",
+      "Pescaria",
+      "Cardume",
+      "Rubalhinho",
+      "Canguá",
+      "Canguazinha",
+      "Corocumeu",
+      "Tainha",
+      "Parazinho",
+      "Tatarraba",
+      "Bonitones",
+      "Heró",
+      "Canguá Bonita"
+    ],
+    "observacoes": [
+      "Vento surfou embora",
+      "Vento ficou ruim de pescar",
+      "Deus nos abençoou",
+      "Correr atrás de um peixinho",
+      "Parceria",
+      "Espero que vocês tenham gostado",
+      "Deixar o like, comentar, compartilhar"
+    ]
+  }
+}

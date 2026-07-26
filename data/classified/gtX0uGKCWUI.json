@@ -1,0 +1,38 @@
+{
+  "arquivo": "gtX0uGKCWUI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:17:51.117462",
+  "classificacao": {
+    "especies": [
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Minhoquinha",
+      "Chumbada",
+      "Chumbadinha",
+      "Linha 0 35",
+      "Anzol 8"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Frango com Groselha"
+    ],
+    "cevas": [
+      {
+        "tipo": "Ceva Natural",
+        "ingredientes": [
+          "Frango com Groselha"
+        ]
+      },
+      {
+        "tipo": "Ceva Aromática",
+        "ingredientes": [
+          "Groselha"
+        ]
+      }
+    ],
+    "grãos": [
+      "Groselha"
+    ]
+  }
+}

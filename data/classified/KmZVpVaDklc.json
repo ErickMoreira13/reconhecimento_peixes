@@ -1,0 +1,25 @@
+{
+  "arquivo": "KmZVpVaDklc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:59:05.149010",
+  "classificacao": {
+    "especie": "Piau Vermelho",
+    "equipamento": [
+      "Vara",
+      "Secretária",
+      "Barco"
+    ],
+    "ceva": [
+      "Lesma",
+      "Minhoca"
+    ],
+    "localizacao": "Rio Doce, Minas Gerais, Brasil",
+    "tipo_de_pesca": "Pesca de Ceva",
+    "tecnica_de_pesca": [
+      "Pescaria de Ceva",
+      "Arremesso"
+    ],
+    "observacoes": "O pescador menciona a utilização de camisas novas e a importância da Oficina Esportes para a prática da pesca esportiva.",
+    "peixe_nativo": true
+  }
+}

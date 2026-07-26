@@ -1,0 +1,57 @@
+{
+  "arquivo": "_HYBH9nZRCc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:09:07.103158",
+  "classificacao": {
+    "especies": [
+      "Curimatã",
+      "Pacu",
+      "Piau",
+      "Piranha",
+      "Caparari",
+      "Surubim",
+      "Sulamba",
+      "Aruanã",
+      "Macaco-d'água",
+      "Traíra",
+      "Capararizão",
+      "Branquinha"
+    ],
+    "malhadeiras": [
+      "Malhadeira"
+    ],
+    "localização": [
+      "Lago",
+      "Rio"
+    ],
+    "equipamentos": [
+      "Bote",
+      "Arpão",
+      "Chumbo",
+      "Boias",
+      "Malhadeira"
+    ],
+    "termos_técnicos": [
+      "Cabação de maradeira",
+      "Caldo afrodisíaco",
+      "Picha",
+      "Sulamba",
+      "Sarrafo",
+      "Boicão",
+      "Cachorrando",
+      "Mocinha",
+      "Padrão",
+      "Malha 35",
+      "Branquinha"
+    ],
+    "outros_termos": [
+      "Temporal",
+      "Chuva",
+      "Like",
+      "Inscriva",
+      "Canal",
+      "Guerreiros do Norte",
+      "Tchau"
+    ]
+  }
+}

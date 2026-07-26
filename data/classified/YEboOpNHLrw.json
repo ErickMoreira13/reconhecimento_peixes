@@ -1,0 +1,29 @@
+{
+  "arquivo": "YEboOpNHLrw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:09:30.179127",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "calabresa",
+      "ferramenta de tirasol",
+      "travessa",
+      "cabozinho de aço",
+      "chavezinha",
+      "bem bolado",
+      "chumuzinho"
+    ],
+    "iscas": [
+      "calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

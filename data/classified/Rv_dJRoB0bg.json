@@ -1,0 +1,35 @@
+{
+  "arquivo": "Rv_dJRoB0bg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:34:08.478814",
+  "classificacao": {
+    "especies": [
+      "Tupi"
+    ],
+    "equipamentos": [
+      "Mochinha",
+      "Anzol Maruceico 14"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescar Tupi na Areia com Camarão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca Viva"
+    ],
+    "observacoes": [
+      "Camarãozinho grande",
+      "Camarão aperreado pelo algosso"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "arquivo": "tx5Hlgzq7KA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T11:54:16.967238",
+  "classificacao": {
+    "estado": "Goiás",
+    "municipio": "São José",
+    "especies": [
+      "Azulão",
+      "Amarelo",
+      "Lobo",
+      "Cardume",
+      "Nave",
+      "Cupim"
+    ],
+    "equipamentos": [
+      "Bomba",
+      "Vara",
+      "Galão perfurado",
+      "Cocho perfurado",
+      "Saco de ráfia",
+      "Saco furado",
+      "Saco telado",
+      "Saco de cebola",
+      "Tubo de PVC perfurado",
+      "Cano de PVC perfurado",
+      "Balde perfurado",
+      "Recipiente perfurado"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "grãos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ]
+  }
+}

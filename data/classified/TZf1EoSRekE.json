@@ -1,0 +1,36 @@
+{
+  "arquivo": "TZf1EoSRekE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:34:09.330254",
+  "classificacao": {
+    "especies": [
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Trato",
+      "Máscara",
+      "Luva",
+      "Sacolinha"
+    ],
+    "iscas": [
+      "Sangue de boi"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Trato de Sangue"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca Artificial"
+    ],
+    "observacoes": [
+      "O sangue de boi tem um forte odor e deve ser manipulado com cuidado, usando máscara ou luvas. O trato deve ser preparado com antecedência e temperado na beira do rio antes da pesca."
+    ]
+  }
+}

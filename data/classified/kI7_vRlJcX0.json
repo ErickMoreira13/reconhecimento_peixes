@@ -1,0 +1,31 @@
+{
+  "arquivo": "kI7_vRlJcX0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:42:24.712936",
+  "classificacao": {
+    "especies": [
+      "Pati"
+    ],
+    "equipamentos": [
+      "plomo",
+      "cancha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com plomo pesado",
+      "araneando o fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Gualeguay",
+    "tipo_pesca": [
+      "pesca deportiva"
+    ],
+    "observacoes": [
+      "O pati não é valorizado na pesca esportiva, mas merece mais reconhecimento. A luta é espetacular."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "arquivo": "DYmmaH3Hfa0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:21:37.035205",
+  "classificacao": {
+    "species": "Tucunaré",
+    "river": "Rio Grande, Mira Estrela",
+    "event_type": "torneio de pesca",
+    "equipment": [
+      "varas de travessado",
+      "GoPro"
+    ],
+    "bait": "porquinho",
+    "techniques": [
+      "curro"
+    ],
+    "catch_details": {
+      "length": "5 metros e meio",
+      "weight": "35, 32, 34 gramas",
+      "quantity": "vários"
+    },
+    "other_info": "Mention of religious phrase 'Glória a Deus' during the event."
+  }
+}

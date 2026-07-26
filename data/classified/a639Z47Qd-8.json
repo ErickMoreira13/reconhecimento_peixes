@@ -1,0 +1,23 @@
+{
+  "arquivo": "a639Z47Qd-8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:07:49.883226",
+  "classificacao": {
+    "especies": [
+      "Cegre"
+    ],
+    "equipamentos": [
+      "Chufa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "sj2JO9vqLUA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:04:04.804184",
+  "classificacao": {
+    "species": [
+      "Piaba",
+      "Sericóia",
+      "Traíra",
+      "Lambari"
+    ],
+    "equipment": [
+      "Carretilha",
+      "Varinha",
+      "Caiaque",
+      "Remo"
+    ],
+    "baits": [
+      "Isca"
+    ],
+    "grains": [
+      "Milho",
+      "Soja"
+    ],
+    "cevas": [],
+    "techniques": [
+      "Pescar com motor elétrico",
+      "Pescar com isquinha"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "Espírito Santo",
+    "municipality": "",
+    "other": {
+      "actions": [
+        "Pescar com isquinha",
+        "Usar ceva de partículas"
+      ],
+      "rifa": "Rifa para pescar"
+    }
+  }
+}

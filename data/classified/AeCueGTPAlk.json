@@ -1,0 +1,26 @@
+{
+  "arquivo": "AeCueGTPAlk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T07:44:07.841551",
+  "classificacao": {
+    "especies": [
+      "Tucuna",
+      "Piau",
+      "Jatapio"
+    ],
+    "equipamentos": [
+      "alicate",
+      "linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "milho",
+      "soja",
+      "trigo"
+    ],
+    "rios": [
+      "Black River"
+    ]
+  }
+}

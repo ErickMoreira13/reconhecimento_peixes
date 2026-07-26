@@ -1,0 +1,23 @@
+{
+  "arquivo": "npv9mXAXCJI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:21:53.538325",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A raiz pode ser encontrada em qualquer lugar, inclusive no meio da estrada"
+    ]
+  }
+}

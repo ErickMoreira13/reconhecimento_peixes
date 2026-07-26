@@ -1,0 +1,32 @@
+{
+  "arquivo": "ZZLvexp-Mss",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:04:39.074806",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Caiaque de Arco",
+      "Cadeira 360",
+      "Hidrofólio",
+      "Motor",
+      "Nilpampo",
+      "Jig Pro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Curricar",
+      "Jig"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Curricar",
+      "Pesca com Jig"
+    ],
+    "observacoes": ""
+  }
+}

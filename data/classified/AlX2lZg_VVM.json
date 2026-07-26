@@ -1,0 +1,23 @@
+{
+  "arquivo": "AlX2lZg_VVM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:01:20.223693",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Observação sobre pescadores durante uma cheia no rio"
+    ]
+  }
+}

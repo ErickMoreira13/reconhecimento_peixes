@@ -1,0 +1,28 @@
+{
+  "arquivo": "HLG-8pvqnL0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:51:07.858889",
+  "classificacao": {
+    "summary": "O texto narra uma série de histórias interligadas, destacando a resiliência humana e a conexão com a natureza no Pantanal. Seu Dito sobrevive a um ataque de jaguar, retornando ao local do incidente como símbolo de superação. Dona Joana, uma figura central, mora em uma casa repleta de potes, representando uma tradição local. Seu Joaquim, um idoso que viveu mais de 100 anos no Pantanal, sobreviveu a um jacaré e perdeu sua esposa, Tarsila, à morte do câncer, vivendo sozinho e refletindo sobre a vida. As narrativas exploram temas como sobrevivência, memória, e a relação entre humanos e o ambiente natural, com elementos culturais e emocionais típicos da região.",
+    "themes": [
+      "Resiliência",
+      "Conexão com a natureza",
+      "Tradições locais",
+      "Perda e memória",
+      "Cultura do Pantanal"
+    ],
+    "cultural_elements": [
+      "Coleta de potes por Dona Joana",
+      "Histórias de sobrevivência no Pantanal",
+      "Referências a animais como jaguar e jacaré",
+      "Contexto geográfico e social do Pantanal"
+    ],
+    "key_characters": [
+      "Seu Dito",
+      "Dona Joana",
+      "Seu Joaquim",
+      "Tarsila"
+    ],
+    "analysis": "O texto mescla realidade e folclore, destacando a luta dos habitantes do Pantanal contra os desafios naturais e a importância das tradições para preservar a identidade cultural. As histórias de sobrevivência e perda ressaltam a fragilidade e a força humana, enquanto a coleta de potes por Dona Joana simboliza a preservação de um legado coletivo."
+  }
+}

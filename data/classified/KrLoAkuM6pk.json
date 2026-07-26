@@ -1,0 +1,34 @@
+{
+  "arquivo": "KrLoAkuM6pk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:04:31.713029",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Neon",
+      "Cardinal",
+      "Bodó",
+      "Ancistus do Helicópteros",
+      "Leozomadoras oncinos",
+      "Onça"
+    ],
+    "equipamentos": [
+      "Piabeira",
+      "Madeira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Negro"
+    ],
+    "bacias": [
+      "Bacia do Rio Negro"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

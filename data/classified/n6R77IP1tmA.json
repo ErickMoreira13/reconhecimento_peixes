@@ -1,0 +1,30 @@
+{
+  "arquivo": "n6R77IP1tmA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:23:18.726402",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "anzol de gai"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Viama"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "marcação do local com sacolinha branca",
+      "ausência de capturas",
+      "precauções com marimbondos",
+      "uso de equipamento de pesca com anzol de gai"
+    ]
+  }
+}

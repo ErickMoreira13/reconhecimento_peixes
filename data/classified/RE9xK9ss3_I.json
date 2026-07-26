@@ -1,0 +1,27 @@
+{
+  "arquivo": "RE9xK9ss3_I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:05:26.489618",
+  "classificacao": {
+    "species": [
+      "Roubalo",
+      "Tilapia",
+      "Carapeba"
+    ],
+    "equipment": [
+      "Mulhernetão Vector 4000",
+      "Vector 4000"
+    ],
+    "baits": [
+      "Tilapia viva",
+      "Carapeba",
+      "Tainha (isca do Matheus)"
+    ],
+    "location": "",
+    "team": "Vitória Team",
+    "activity": "Pesca insana (insane fishing), Pesca de isca viva (live bait fishing)",
+    "other_elements": [
+      "Tamanho dos monstros (referring to large fish size)"
+    ]
+  }
+}

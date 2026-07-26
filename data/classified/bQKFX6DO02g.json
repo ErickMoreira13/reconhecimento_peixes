@@ -1,0 +1,33 @@
+{
+  "arquivo": "bQKFX6DO02g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:32:50.228322",
+  "classificacao": {
+    "fish_species_caught": [
+      "tambacu",
+      "piranha",
+      "surubim",
+      "tucunaré",
+      "pescada"
+    ],
+    "techniques_used": [
+      "arremesso com vara de 3,5 metros",
+      "uso de iscas artificiais",
+      "pesca com vara de 2,5 metros",
+      "pesca com vara de 3 metros"
+    ],
+    "observations": [
+      "tambacu foi difícil de pescar",
+      "piranha foi capturada com vara de 3,5 metros",
+      "surubim foi solto após captura",
+      "tucunaré foi capturado com vara de 2,5 metros",
+      "pescada foi capturada com vara de 3 metros"
+    ],
+    "personal_reflections": [
+      "é importante soltar os peixes após captura",
+      "a pesca é uma atividade que exige paciência",
+      "a experiência de pescar é enriquecedora",
+      "a interação com o público no Instagram é importante para compartilhar a experiência"
+    ]
+  }
+}

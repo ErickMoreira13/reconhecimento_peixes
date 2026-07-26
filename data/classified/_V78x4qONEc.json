@@ -1,0 +1,24 @@
+{
+  "arquivo": "_V78x4qONEc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:32:54.046312",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Corimba"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Garateia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

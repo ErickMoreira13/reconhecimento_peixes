@@ -1,0 +1,38 @@
+{
+  "arquivo": "Q4wBD3LLnAo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:32:26.597103",
+  "classificacao": {
+    "especies": [
+      "Bacuri",
+      "Filozão",
+      "Taraíra",
+      "Lombriga",
+      "Carijó",
+      "Carijózinha"
+    ],
+    "equipamentos": [
+      "Caiaca",
+      "Linha",
+      "Remo"
+    ],
+    "iscas": [
+      "Iudinho",
+      "Lombriga"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Dublê"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Cinco minutos de pescaria",
+      "Lombriga desse tamanho"
+    ]
+  }
+}

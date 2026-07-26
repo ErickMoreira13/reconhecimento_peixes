@@ -1,0 +1,32 @@
+{
+  "arquivo": "PJM6F7UZpas",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:09:42.233039",
+  "classificacao": {
+    "especies": [
+      "Cavalinha",
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Molinete",
+      "Palco",
+      "Roa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalhar o peixe",
+      "Tira e vira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

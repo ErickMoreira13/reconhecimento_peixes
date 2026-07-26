@@ -1,0 +1,28 @@
+{
+  "arquivo": "o13AWyIPsqo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:51:43.770758",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca noturna",
+      "localização em áreas sombreadas",
+      "técnica de espera após engodo",
+      "uso de anzol de tamanho adequado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de bagre"
+    ],
+    "observacoes": []
+  }
+}

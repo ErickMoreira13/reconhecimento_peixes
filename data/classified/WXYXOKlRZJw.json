@@ -1,0 +1,30 @@
+{
+  "arquivo": "WXYXOKlRZJw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:05:44.449601",
+  "classificacao": {
+    "species": [
+      "Lambari",
+      "Piapara",
+      "Barbado"
+    ],
+    "equipment": {
+      "rod": "Blackmon rod (10-20 lbs)",
+      "reel": "BG reel",
+      "line": "027 Max 4 fios (0.27 mm) and 062 line (0.62 mm)",
+      "accessories": [
+        "Stop regulator"
+      ]
+    },
+    "baits": {
+      "primary": "Small Lambari (prepared as 'bucha')",
+      "other": [
+        "Minhoca (earthworm)"
+      ]
+    },
+    "notes": {
+      "lambari_availability": "Large Lambari are scarce due to high demand; smaller ones are used as bait.",
+      "target_species": "Piapara and Barbado are the primary target species."
+    }
+  }
+}

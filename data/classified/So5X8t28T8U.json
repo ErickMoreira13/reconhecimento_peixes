@@ -1,0 +1,37 @@
+{
+  "arquivo": "So5X8t28T8U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:29:48.456578",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "vara",
+      "anzor",
+      "gaiada",
+      "tarrafiada",
+      "inchada"
+    ],
+    "iscas": [
+      "farelinho",
+      "minhoca",
+      "bandioca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "rosca o anzor",
+      "tarrafiada",
+      "cevar o poço"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

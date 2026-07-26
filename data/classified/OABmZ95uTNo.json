@@ -1,0 +1,23 @@
+{
+  "arquivo": "OABmZ95uTNo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:23:53.078804",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara de pesca",
+      "barbante",
+      "anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

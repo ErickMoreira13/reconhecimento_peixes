@@ -1,0 +1,32 @@
+{
+  "arquivo": "AdxB_oWE15s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:31:58.235503",
+  "classificacao": {
+    "species": [
+      "Pirarucu",
+      "Aruanã",
+      "Aracu",
+      "Bodó",
+      "Broca"
+    ],
+    "equipamentos": [
+      "Malhadeira"
+    ],
+    "iscas": [
+      "Farinha"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "tecnicas": [
+      "Malhadeira"
+    ],
+    "tipo_pesca": "Pesca com Malhadeira",
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "observations": []
+  }
+}

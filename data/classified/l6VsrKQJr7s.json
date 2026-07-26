@@ -1,0 +1,23 @@
+{
+  "arquivo": "l6VsrKQJr7s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:45:50.777041",
+  "classificacao": {
+    "summary": "O texto é um registro de uma experiência de pesca em um reservatório, com foco na captura de lambari e tilápia. O narrador descreve os desafios enfrentados, como a baixa quantidade de peixe devido à seca, a dificuldade em capturar tilápia maiores e a influência das condições climáticas (chuva e temperatura) no comportamento dos peixes. Há uma interação com uma pessoa chamada André, que discute estratégias de pesca, como o uso de iscas específicas e a importância de adaptar-se às condições do ambiente. O texto também menciona a preocupação com a redução do nível do reservatório (29% da capacidade) e seu impacto na pesca.",
+    "key_points": [
+      "Baixa disponibilidade de peixe devido à seca e ao nível baixo do reservatório.",
+      "Dificuldade em capturar tilápia maiores, que se escondem em áreas com vegetação densa.",
+      "Influência da chuva e da temperatura na atividade dos peixes.",
+      "Discussão sobre técnicas de pesca, como o uso de iscas e a adaptação às condições do ambiente.",
+      "Interação entre o narrador e André, que compartilham experiências e estratégias de pesca."
+    ],
+    "environmental_factors": [
+      "Nível do reservatório em 29% da capacidade, indicando seca prolongada.",
+      "Impacto da chuva e da temperatura na distribuição e comportamento dos peixes."
+    ],
+    "fishing_techniques": [
+      "Uso de iscas específicas para atrair lambari e tilápia.",
+      "Adaptação das estratégias de pesca às condições do ambiente (ex.: evitar áreas com vegetação densa para tilápia)."
+    ]
+  }
+}

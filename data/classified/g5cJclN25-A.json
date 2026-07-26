@@ -1,0 +1,28 @@
+{
+  "arquivo": "g5cJclN25-A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:16:00.260257",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Cunha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca Viva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca Viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

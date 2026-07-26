@@ -1,0 +1,31 @@
+{
+  "arquivo": "BcKPtO-cKJY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:50:21.884308",
+  "classificacao": {
+    "especies": [
+      "Paca",
+      "Pássaro"
+    ],
+    "equipamentos": [
+      "Motoserra",
+      "Canoa",
+      "Fogo",
+      "Panelão",
+      "Fogozinho",
+      "Lona",
+      "Óleo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "tipo_pesca": [
+      "Caça"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "observacoes": ""
+  }
+}

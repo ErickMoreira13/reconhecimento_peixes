@@ -1,0 +1,28 @@
+{
+  "arquivo": "XS30mZC441Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:22:06.540908",
+  "classificacao": {
+    "especies": [
+      "Carapato de peixe",
+      "Carrapato",
+      "Carrapatinho"
+    ],
+    "equipamentos": [
+      "Roupão",
+      "Bico"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

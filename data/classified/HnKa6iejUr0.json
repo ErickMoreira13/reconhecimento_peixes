@@ -1,0 +1,23 @@
+{
+  "arquivo": "HnKa6iejUr0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:03:48.202321",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Nudo de pescador"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nudo de pescador"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

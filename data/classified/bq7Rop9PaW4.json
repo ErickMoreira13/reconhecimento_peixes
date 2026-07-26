@@ -1,0 +1,29 @@
+{
+  "arquivo": "bq7Rop9PaW4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:32:31.938764",
+  "classificacao": {
+    "species": [
+      "jacaré",
+      "pinima",
+      "piranha",
+      "tucunaré"
+    ],
+    "equipment": [
+      "caiaque",
+      "alicate",
+      "popper",
+      "supera"
+    ],
+    "baits": [
+      "popper",
+      "supera"
+    ],
+    "location": "rio (river)",
+    "environment": "vegetação (vegetation), pedras (rocks)",
+    "techniques": [
+      "pesca com isca artificial (artificial bait fishing)"
+    ],
+    "additional_notes": "uso de caiaque para navegação (kayak used for navigation), alicate para manipular peixes (plier for handling fish)"
+  }
+}

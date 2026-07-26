@@ -1,0 +1,30 @@
+{
+  "arquivo": "nzDnuks8xwQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:49:20.993059",
+  "classificacao": {
+    "species": [
+      "Piau",
+      "Piapara",
+      "Piauçu",
+      "Tilápia",
+      "Papo"
+    ],
+    "equipment": [
+      "garrafinha",
+      "baldinho",
+      "baldinho de ceba"
+    ],
+    "preparation_methods": [
+      "deixar o milho em água por uma semana",
+      "cozinhar o milho por 40 minutos",
+      "deixar o milho em leite com água (com um furo no gargalo da garrafinha)",
+      "colocar o milho no baldinho de ceba com quirela e farela de arroz"
+    ],
+    "notes": [
+      "O cheiro do milho azedo é crucial para atrair os peixes",
+      "Quanto mais tempo o milho fica azedo, melhor para as pescarias",
+      "Comparação entre milho azedo e não azedo mostrando a diferença no resultado"
+    ]
+  }
+}

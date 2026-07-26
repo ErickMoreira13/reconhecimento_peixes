@@ -1,0 +1,28 @@
+{
+  "arquivo": "N8gsO_byuHE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:24:53.804158",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A pirarara ainda está viva e mexendo a boca",
+      "O boto provavelmente predou a pirarara",
+      "O restante da pirarara será consumido pelas piranhas",
+      "A pirarara será solta para a cadeia alimentar cuidar do restante"
+    ]
+  }
+}

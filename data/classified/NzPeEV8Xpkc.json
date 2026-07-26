@@ -1,0 +1,28 @@
+{
+  "arquivo": "NzPeEV8Xpkc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:49:33.369735",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca",
+      "Milho",
+      "Pastilha",
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

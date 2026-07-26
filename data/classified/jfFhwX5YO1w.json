@@ -1,0 +1,34 @@
+{
+  "arquivo": "jfFhwX5YO1w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:59:03.635458",
+  "classificacao": {
+    "species": [
+      "Curimba",
+      "Piau",
+      "Lambari",
+      "Pacu"
+    ],
+    "equipment": [
+      "Balde",
+      "Liquidificador"
+    ],
+    "iscas": [
+      "Banana (nanica, prata, maçã quase podre)",
+      "Farinha de trigo",
+      "Ração de cavalo triturada",
+      "Quirera (fina ou média)"
+    ],
+    "cevas": [],
+    "grãos": [
+      "Trigo",
+      "Quirera"
+    ],
+    "location": "Rio Atibaia, Campinas, São Paulo",
+    "techniques": [
+      "Preparação da isca com mistura de banana, farinha de trigo, ração de cavalo e quirera",
+      "Ajuste da consistência com água e farinha de trigo",
+      "Uso da isca em chuveirinho"
+    ]
+  }
+}

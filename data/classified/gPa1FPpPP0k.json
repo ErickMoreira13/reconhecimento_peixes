@@ -1,0 +1,31 @@
+{
+  "arquivo": "gPa1FPpPP0k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:12:15.470693",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Anzal duplo"
+    ],
+    "iscas": [
+      "Calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Anzal duplo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Hoje não tá dando tanto resultado, mas muitas vezes dá"
+    ]
+  }
+}

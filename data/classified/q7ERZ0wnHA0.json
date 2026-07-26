@@ -1,0 +1,20 @@
+{
+  "arquivo": "q7ERZ0wnHA0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:33:40.838197",
+  "classificacao": {
+    "summary": "O vídeo apresenta um vlogger que compartilha sua experiência de pesca, prepara uma refeição com peixe capturado, e reflete sobre os desafios de pescar. Ele também menciona um concurso para ganhar um barco, incentivando o público a participar. O conteúdo é informal e envolvente, com transições entre preparação de comida, ação de pesca e promoção de um evento.",
+    "key_points": [
+      "Preparação de uma refeição com peixe capturado.",
+      "Desafios enfrentados durante a pesca.",
+      "Menciona um concurso para ganhar um barco.",
+      "Tono informal e engajador, com transições entre diferentes atividades."
+    ],
+    "structure_analysis": "O vídeo começa com a preparação de comida, passa para a ação de pesca, e termina com uma promoção de concurso, mantendo o espectador envolvido com diferentes elementos. A transição entre os temas é fluida, mas poderia ser aprimorada com mais transições visuais ou narração para conectar as partes.",
+    "suggestions": [
+      "Incluir mais detalhes sobre a técnica de pesca utilizada.",
+      "Adicionar elementos visuais que destaquem o concurso (como imagens do barco ou informações sobre como participar).",
+      "Explorar mais a narrativa pessoal do vlogger para criar conexão emocional com o público."
+    ]
+  }
+}

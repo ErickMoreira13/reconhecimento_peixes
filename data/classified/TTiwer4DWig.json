@@ -1,0 +1,28 @@
+{
+  "arquivo": "TTiwer4DWig",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:35:17.901299",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Bandeirado"
+    ],
+    "equipamentos": [
+      "Mazão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Costão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "Parnaíba",
+    "tipo_pesca": [
+      "Pescaria de Costão"
+    ],
+    "observacoes": ""
+  }
+}

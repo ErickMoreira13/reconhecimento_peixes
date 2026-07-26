@@ -1,0 +1,29 @@
+{
+  "arquivo": "OK6FP_w0j9g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:53:47.592542",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "linha de polipropeno",
+      "anzol de 12",
+      "espinhel",
+      "chumbada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "nó encastor",
+      "nó para anzol de galho/espinhel"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de peixe grande"
+    ],
+    "observacoes": []
+  }
+}

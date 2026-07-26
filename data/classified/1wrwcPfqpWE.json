@@ -1,0 +1,26 @@
+{
+  "arquivo": "1wrwcPfqpWE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:52:36.705684",
+  "classificacao": {
+    "especies": [
+      "Pavão"
+    ],
+    "equipamentos": [
+      "Nylon",
+      "Anzuelo"
+    ],
+    "iscas": [
+      "Carnada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

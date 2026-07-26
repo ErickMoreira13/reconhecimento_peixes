@@ -1,0 +1,23 @@
+{
+  "arquivo": "EvkXAtupzU0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:53:38.407362",
+  "classificacao": {
+    "especies": [
+      "Jundiá"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O jundiá capturado é maior que outro exemplar anterior, destacando seu tamanho impressionante."
+    ]
+  }
+}

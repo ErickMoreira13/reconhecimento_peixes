@@ -1,0 +1,26 @@
+{
+  "arquivo": "wePLrFco60Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:04:42.946935",
+  "classificacao": {
+    "especies": [
+      "Passaúra",
+      "Lapa"
+    ],
+    "equipamentos": [
+      "Molinete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com molinete"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

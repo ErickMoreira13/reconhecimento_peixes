@@ -1,0 +1,29 @@
+{
+  "arquivo": "dCoAdqXc1DM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:48:01.252657",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Carretilha Lubininha Black Widow",
+      "Vara Viper 6 pés 20 libras",
+      "Linha 0,25 mm Dual",
+      "Líder 0,49 Saigon"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Traíra",
+      "Pesca com Iscas Artificiais"
+    ],
+    "observacoes": []
+  }
+}

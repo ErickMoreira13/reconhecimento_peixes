@@ -1,0 +1,41 @@
+{
+  "arquivo": "0wVaDz6GIqI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:43:12.764168",
+  "classificacao": {
+    "especies": [
+      {
+        "nome": "Siri"
+      },
+      {
+        "nome": "Pimenta"
+      }
+    ],
+    "equipamentos": [
+      {
+        "nome": "Balde"
+      },
+      {
+        "nome": "Faca"
+      },
+      {
+        "nome": "Repelente"
+      }
+    ],
+    "cevas": [
+      {
+        "tipo": "Aromática",
+        "descricao": "Fumaça (repelente à base de óleo de coco)"
+      }
+    ],
+    "tecnicas": [
+      {
+        "descricao": "Uso de fumaça para repelir insetos"
+      },
+      {
+        "descricao": "Lançamento (pescaria em maré de lançamento)"
+      }
+    ],
+    "graos": []
+  }
+}

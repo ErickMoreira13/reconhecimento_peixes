@@ -1,0 +1,37 @@
+{
+  "arquivo": "qSOrWzVcT0I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:35:31.227345",
+  "classificacao": {
+    "species": [
+      "Dourado",
+      "Pampo",
+      "Sarguinho",
+      "Pampinho",
+      "Galhundinho",
+      "Banana",
+      "Pintelão",
+      "Sargão",
+      "Biguizinho"
+    ],
+    "equipment": [
+      "Sporthook",
+      "varas (rods)",
+      "anzóis (hooks)",
+      "carretilhas (reels)",
+      "barco (boat)"
+    ],
+    "baits": [
+      "isca (bait)"
+    ],
+    "location": "Ubatuba, Brazil",
+    "techniques": [
+      "bater costeiras (beating the shores)",
+      "uso de barco para navegação (using a boat for navigation)",
+      "lançamento e recolhimento com Sporthook (casting and retrieving with Sporthook)"
+    ],
+    "other_details": [
+      "Mention of releasing some fish (prática de pesca com liberação de peixes)"
+    ]
+  }
+}

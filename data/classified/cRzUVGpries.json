@@ -1,0 +1,61 @@
+{
+  "arquivo": "cRzUVGpries",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:53:37.143498",
+  "classificacao": {
+    "species": [
+      "Lambari",
+      "Piau",
+      "Barra",
+      "Chumada",
+      "Lambada",
+      "Mutuca",
+      "Porco",
+      "Lambarizão"
+    ],
+    "equipment": [
+      "Boia",
+      "Varas",
+      "Galão perfurado",
+      "Saco furado",
+      "Saco de ráfia",
+      "Saco telado",
+      "Saco de cebola",
+      "Tubo de PVC perfurado",
+      "Cano de PVC perfurado",
+      "Balde perfurado",
+      "Recipiente perfurado",
+      "Cocho perfurado"
+    ],
+    "baits": [
+      "Isca",
+      "Ceva",
+      "Isca de porco",
+      "Isca de chumada"
+    ],
+    "locations": [
+      "Corguinho",
+      "Posto",
+      "Corredeira",
+      "Moito",
+      "Areia",
+      "Correntezona",
+      "Poço",
+      "Mato",
+      "Lagoa",
+      "Correnteza"
+    ],
+    "other_terms": [
+      "Pesca no corguinho",
+      "Posto",
+      "Corredeira",
+      "Moito",
+      "Areia",
+      "Correntezona",
+      "Poço",
+      "Mato",
+      "Lagoa",
+      "Correnteza"
+    ]
+  }
+}

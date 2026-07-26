@@ -1,0 +1,42 @@
+{
+  "arquivo": "L7blIPNXbs0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:46:22.169590",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Cará",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara Telescópica",
+      "Vara de Bambu"
+    ],
+    "iscas": [
+      "Milhão"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Pescaria de Barranco"
+    ],
+    "rios": [],
+    "bacias": [
+      "Represa do Tablado"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Rural",
+      "Pesca Caipira"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "EI2X_SmFqKQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:01:23.485006",
+  "classificacao": {
+    "especies": [
+      "Mandi"
+    ],
+    "equipamentos": [
+      "caiaque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

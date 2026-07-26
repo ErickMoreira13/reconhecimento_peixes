@@ -1,0 +1,36 @@
+{
+  "arquivo": "kNfC_UTEXmw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:59:14.012127",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Massa"
+    ],
+    "iscas": [
+      "Massa",
+      "Mosquito"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento",
+      "Uso de iscas artificiais"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "Dificuldade em capturar o lambari",
+      "Uso de massinha e mosquito como iscas",
+      "Menciona tentativa de pescar com narizinho"
+    ]
+  }
+}

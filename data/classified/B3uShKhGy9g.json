@@ -1,0 +1,33 @@
+{
+  "arquivo": "B3uShKhGy9g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:33:25.033690",
+  "classificacao": {
+    "especies": [
+      "Chicharro"
+    ],
+    "equipamentos": [
+      "Compasso",
+      "Anzuelos"
+    ],
+    "iscas": [
+      "Carnada",
+      "Carnada de Fundo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Profunda"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Profunda"
+    ],
+    "observacoes": [
+      "Uso de carnada de fundo e manutenção da carne fresca com gelo"
+    ]
+  }
+}

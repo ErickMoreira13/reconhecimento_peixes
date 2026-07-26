@@ -1,0 +1,47 @@
+{
+  "arquivo": "EkbirnsheFM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:04:26.221539",
+  "classificacao": {
+    "especies": [
+      "Jundiá",
+      "Sardinha",
+      "Traíra",
+      "Bigodão"
+    ],
+    "equipamento": [
+      "vara",
+      "anzol",
+      "boia",
+      "balde",
+      "carazão",
+      "carazote",
+      "carretilha"
+    ],
+    "isca": [
+      "minhoquinha",
+      "crairinha",
+      "piquinotinha"
+    ],
+    "grãos": [],
+    "técnicas": [
+      "uso de boia rasinha",
+      "ajuste da profundidade da boia (2 a 2,5 metros)",
+      "liberação de peixes para preservação"
+    ],
+    "rios": [
+      "rio",
+      "riozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_de_pesca": "",
+    "observacoes": [
+      "liberação de peixes para preservação",
+      "rio muito cheio",
+      "peixes de grande porte",
+      "local adequado para acampamento"
+    ]
+  }
+}

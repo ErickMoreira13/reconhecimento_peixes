@@ -1,0 +1,24 @@
+{
+  "arquivo": "WmVKznWoTlU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:15:36.409959",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol",
+      "Tuveira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Escalada de Tuveira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

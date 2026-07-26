@@ -1,0 +1,23 @@
+{
+  "arquivo": "6jxBnM61GPw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:35:18.063386",
+  "classificacao": {
+    "species": [
+      "Gogo",
+      "Belisca"
+    ],
+    "equipment": [
+      "Anzol",
+      "Balde",
+      "Boia",
+      "Balança"
+    ],
+    "iscas": [
+      "Gogo"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "other": {}
+  }
+}

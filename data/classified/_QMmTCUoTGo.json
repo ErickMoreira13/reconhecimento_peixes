@@ -1,0 +1,31 @@
+{
+  "arquivo": "_QMmTCUoTGo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:30:27.077368",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Minhoca"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com minhoca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

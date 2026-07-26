@@ -1,0 +1,34 @@
+{
+  "arquivo": "4yq_FiVgkcw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:48:36.938949",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tilápia",
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca viva"
+    ],
+    "observacoes": [
+      "alimentação com peixe vivo",
+      "predadores como tucunarés",
+      "uso de lambari vivo como isca",
+      "não é calimbalismo"
+    ]
+  }
+}

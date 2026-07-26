@@ -1,0 +1,42 @@
+{
+  "arquivo": "8OsqFakJZNw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:27:39.037089",
+  "classificacao": {
+    "especies": [
+      "Matrinchã",
+      "Piau",
+      "Bicuda",
+      "Piracanjuba",
+      "Pirarara",
+      "Pacu",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Mulinete",
+      "Vara de Bambu",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Molinete",
+      "Pesca com Anzol"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Vara de bambu quebrou",
+      "Pescando com molinete devido à quebra da vara",
+      "Dificuldade em pescar bicuda",
+      "Muitas pedras no local",
+      "Uso de anzol para pescar piau e matrinchã"
+    ]
+  }
+}

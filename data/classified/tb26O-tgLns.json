@@ -1,0 +1,22 @@
+{
+  "arquivo": "tb26O-tgLns",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:49:29.477503",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbada",
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

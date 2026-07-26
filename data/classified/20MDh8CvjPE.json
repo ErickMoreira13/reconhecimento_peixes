@@ -1,0 +1,30 @@
+{
+  "arquivo": "20MDh8CvjPE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:05:16.829495",
+  "classificacao": {
+    "especies": [
+      "Matrinchã",
+      "Piracanjuba",
+      "Piapara",
+      "Piaussu"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "42 centímetros"
+    ]
+  }
+}

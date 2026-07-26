@@ -1,0 +1,27 @@
+{
+  "arquivo": "9yzwpP3Bp3Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:51:05.030403",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Carro"
+    ],
+    "iscas": [
+      "Raguinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Funilão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

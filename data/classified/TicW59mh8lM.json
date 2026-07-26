@@ -1,0 +1,35 @@
+{
+  "arquivo": "TicW59mh8lM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:56:16.672871",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau",
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massinha",
+      "Paçoquinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Arroz",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em Rio",
+      "Pesca em Pesqueiro"
+    ],
+    "observacoes": []
+  }
+}

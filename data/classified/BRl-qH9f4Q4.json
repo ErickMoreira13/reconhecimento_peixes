@@ -1,0 +1,30 @@
+{
+  "arquivo": "BRl-qH9f4Q4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:34:06.297495",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Quirera",
+      "Soja",
+      "Milho",
+      "Farelo de Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

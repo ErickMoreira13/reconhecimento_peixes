@@ -1,0 +1,19 @@
+{
+  "arquivo": "C8BirTC-_0o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:16:46.882143",
+  "classificacao": {
+    "especie": "tucunaré",
+    "equipamento": [
+      "vara",
+      "rede"
+    ],
+    "isca": "",
+    "localização": "Rio Paranazão, Mato Grosso do Sul",
+    "tipo de pesca": [
+      "pesca com vara",
+      "pesca com rede"
+    ],
+    "observações": "Menciona a clareza da água do rio e a preparação de um prato com o peixe capturado."
+  }
+}

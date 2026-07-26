@@ -1,0 +1,38 @@
+{
+  "arquivo": "Q5kc70T0zXc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:33:02.865968",
+  "classificacao": {
+    "especies": [
+      "Corimata",
+      "Tucunaré",
+      "Jaraqui",
+      "Coriá"
+    ],
+    "equipamentos": [
+      "Arco",
+      "Flecha",
+      "Câmera"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca a Arco e Flecha"
+    ],
+    "rios": [
+      "Friagem"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca a Arco e Flecha"
+    ],
+    "observacoes": [
+      "Menciona a dificuldade de flechar devido à chuva",
+      "Destaca a adrenalina e a dificuldade em capturar grandes peixes",
+      "Menciona a presença de Tucunaré e Jaraqui"
+    ]
+  }
+}

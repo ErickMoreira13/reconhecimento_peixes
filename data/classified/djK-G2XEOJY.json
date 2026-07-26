@@ -1,0 +1,35 @@
+{
+  "arquivo": "djK-G2XEOJY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:07:43.110882",
+  "classificacao": {
+    "species": [
+      "Curimba",
+      "Corvina",
+      "Jacundá",
+      "Chadão"
+    ],
+    "equipment": [
+      "barco",
+      "fogão",
+      "lenha",
+      "churrasqueira",
+      "saco de ráfia",
+      "balde"
+    ],
+    "baits": [
+      "isca",
+      "carcaça"
+    ],
+    "location": [
+      "Promissão",
+      "Rio Tietê"
+    ],
+    "other_details": [
+      "arroz carreteiro",
+      "fritamento do peixe",
+      "macarronadinha",
+      "carne seca"
+    ]
+  }
+}

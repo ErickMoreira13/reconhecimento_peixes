@@ -1,0 +1,42 @@
+{
+  "arquivo": "IDfjqulXfeY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:30:34.747965",
+  "classificacao": {
+    "especies": [
+      "pirarucu",
+      "arraia"
+    ],
+    "equipamento": [
+      "porrete",
+      "barco",
+      "linha",
+      "cabo de aço"
+    ],
+    "isca": [],
+    "ceva": [
+      "milho",
+      "soja",
+      "trigo",
+      "canjica"
+    ],
+    "grãos": [
+      "milho",
+      "soja",
+      "trigo",
+      "arroz",
+      "canjica"
+    ],
+    "técnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "monstro",
+      "gigante",
+      "pesado"
+    ]
+  }
+}

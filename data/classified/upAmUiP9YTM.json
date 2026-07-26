@@ -1,0 +1,29 @@
+{
+  "arquivo": "upAmUiP9YTM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:23:40.259867",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Espinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Amazonas"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria Bruta"
+    ],
+    "observacoes": [
+      "Peixe grande e resistente, necessitando de anestesia para captura."
+    ]
+  }
+}

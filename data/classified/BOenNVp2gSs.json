@@ -1,0 +1,30 @@
+{
+  "arquivo": "BOenNVp2gSs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:29:58.777050",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Gic",
+      "Furamão"
+    ],
+    "iscas": [
+      "Camarão vivo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de camarão"
+    ],
+    "observacoes": []
+  }
+}

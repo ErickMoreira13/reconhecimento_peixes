@@ -1,0 +1,28 @@
+{
+  "arquivo": "1WFmVV04ESg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:52:28.002928",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Boiazinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Alinhada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

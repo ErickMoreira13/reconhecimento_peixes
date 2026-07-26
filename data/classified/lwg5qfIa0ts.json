@@ -1,0 +1,36 @@
+{
+  "arquivo": "lwg5qfIa0ts",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:19:44.788398",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Tilápia",
+      "Tucunaré",
+      "Piranha",
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Roupa de borracha 3mm",
+      "Roupa de pano 1,5mm",
+      "Arpão"
+    ],
+    "isca": [],
+    "isca_artificial": [],
+    "grãos": [],
+    "técnicas": [
+      "Mergulho",
+      "Exploração de lagoa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Piauí",
+    "município": "José de Freitas",
+    "tipo_de_pesca": "Pesca subaquática",
+    "observações": [
+      "Água muito limpa e transparente",
+      "Presença de piau, tucunaré, piranha e sardinha",
+      "Experiência pessoal com a água fria e dificuldade em capturar peixes maiores"
+    ]
+  }
+}

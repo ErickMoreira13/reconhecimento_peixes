@@ -1,0 +1,41 @@
+{
+  "arquivo": "GEIZg8fva5Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:35:05.530907",
+  "classificacao": {
+    "especies": [
+      "Piraputanga",
+      "Pacu",
+      "Pintaria",
+      "Piraíba",
+      "Iapa",
+      "Jaú",
+      "Rimba",
+      "Tampacu",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Carretilha de mar",
+      "Vara de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pisgada solta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Jataí",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca de fundo"
+    ],
+    "observacoes": [
+      "Pescaria entre amigos com familiares e amigos",
+      "Localização no Rancho da Aquaria",
+      "Música e cânticos relacionados à pesca"
+    ]
+  }
+}

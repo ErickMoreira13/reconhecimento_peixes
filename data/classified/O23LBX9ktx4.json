@@ -1,0 +1,27 @@
+{
+  "arquivo": "O23LBX9ktx4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:52:07.653796",
+  "classificacao": {
+    "especies": [
+      "Amarelo",
+      "Tucunaré",
+      "Pinima"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Mencionado filhote de Pinima",
+      "Destaque para o tamanho do Tucunaré capturado",
+      "Uso de anzol para capturar peixes"
+    ]
+  }
+}

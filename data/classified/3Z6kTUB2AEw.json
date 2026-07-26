@@ -1,0 +1,42 @@
+{
+  "arquivo": "3Z6kTUB2AEw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:28:01.659219",
+  "classificacao": {
+    "especies": [
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Molinete",
+      "Linha multifilamento",
+      "Metal gig",
+      "Cabo de aço",
+      "Girador",
+      "Metal gig NS Giggs 40g",
+      "Suporte hook solto"
+    ],
+    "iscas": [
+      "Metal gig"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria vertical",
+      "Metal jig"
+    ],
+    "rios": [
+      "Rio Trombetas"
+    ],
+    "bacias": [
+      "Bacia do Trombetas"
+    ],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pescaria vertical"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "nVfkKQnptq8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:37:12.510649",
+  "classificacao": {
+    "species": [
+      "camarão da Malásia",
+      "bitelo"
+    ],
+    "equipment": [
+      "varetas",
+      "linhas",
+      "carretilhas",
+      "isca viva",
+      "isca artificial",
+      "galão perfurado",
+      "calça",
+      "dedos"
+    ],
+    "bait": [
+      "isca viva",
+      "isca artificial",
+      "filézinho de peixe",
+      "filé de peixe"
+    ],
+    "other_details": {
+      "bet": "50 reais",
+      "shrimp_size": "comparado a um metro de comprimento (exagero)",
+      "shrimp_behavior": "alguns ficam presos na calça",
+      "bait_usage": "uso de ceva e filés de peixe"
+    }
+  }
+}

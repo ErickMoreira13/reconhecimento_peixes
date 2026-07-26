@@ -1,0 +1,24 @@
+{
+  "arquivo": "K-JHlemeKnw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:25:30.834698",
+  "classificacao": {
+    "summary": "O vídeo apresenta a experiência de um pescador que capturou um grande peixe (possivelmente um trairão ou pirarucu) durante uma jornada de pesca. Ele compartilha os desafios enfrentados, a emoção do momento e reflexões pessoais sobre a ausência da família. O conteúdo também destaca a colaboração com um parceiro chamado Paulo e a importância do canal para o público. O local mencionado (Massachusetts) pode ser um equívoco, já que pirarucus são nativos da Amazônia. O vídeo termina com um convite para os espectadores se inscreverem no canal.",
+    "key_points": [
+      "Captura de um peixe grande",
+      "Desafios durante a pesca",
+      "Reflexões pessoais",
+      "Colaboração com Paulo",
+      "Importância do canal",
+      "Possível equívoco geográfico (Massachusetts vs. Amazônia)"
+    ],
+    "emotional_tone": "Excitante, reflexivo, conectado à natureza e à família",
+    "possible_tasks": [
+      "Resumo do vídeo",
+      "Tradução do texto",
+      "Análise do conteúdo",
+      "Identificação de termos técnicos de pesca",
+      "Correção de inconsistências geográficas"
+    ]
+  }
+}

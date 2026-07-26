@@ -1,0 +1,44 @@
+{
+  "arquivo": "gMeABblMAY0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:59:03.656670",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piau Flamengo",
+      "Cucunaré"
+    ],
+    "equipamentos": [
+      "Linha de mão",
+      "Varinha",
+      "Vara",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca com linha de mão",
+      "Lançamento de linha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em lago"
+    ],
+    "observacoes": [
+      "Muitas piabas foram pescadas",
+      "Um piau flamengo de grande tamanho foi capturado",
+      "A linha e o anzol arrebentaram devido ao peso do peixe",
+      "Um pequeno cucunaré foi solto após a captura"
+    ]
+  }
+}

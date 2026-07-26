@@ -1,0 +1,21 @@
+{
+  "arquivo": "WlKFvesCv_k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:13:43.360371",
+  "classificacao": {
+    "especies": [
+      "Bitelo"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

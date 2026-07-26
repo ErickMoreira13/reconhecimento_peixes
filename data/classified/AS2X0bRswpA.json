@@ -1,0 +1,16 @@
+{
+  "arquivo": "AS2X0bRswpA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:09:29.234199",
+  "classificacao": {
+    "species": [
+      "tucunaré",
+      "paca"
+    ],
+    "equipment": [
+      "gigue (Gig streamer by Johnny Hoffman)"
+    ],
+    "location": "Rio Negro",
+    "technique": "Casting the gigue near confluence areas and lagoon mouths during high water, using fast and slow water movements to mimic prey."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "08cJunSlb9Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:58:10.675432",
+  "classificacao": {
+    "especies": [
+      "Piracanjuva",
+      "Caldentão"
+    ],
+    "equipamentos": [
+      "Carretilha Venator SE",
+      "Vara Venator SE",
+      "5, 6, 12 libras",
+      "Split 5",
+      "Dublê",
+      "Porrada",
+      "Parazinha"
+    ],
+    "iscas": [
+      "Split 5",
+      "Porrada",
+      "Parazinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "slow retrieve"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com iscas artificiais"
+    ],
+    "observacoes": []
+  }
+}

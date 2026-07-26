@@ -1,0 +1,22 @@
+{
+  "arquivo": "irsdUbzwqBo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:27:37.285809",
+  "classificacao": {
+    "species_caught": [
+      "agulha",
+      "tainha",
+      "sardinha",
+      "carapacu",
+      "judeu"
+    ],
+    "equipment_used": [
+      "tarrafa"
+    ],
+    "location": "praia (100 metros da praia) e Mara",
+    "fishing_techniques": [
+      "tarrafada"
+    ],
+    "baits_or_lures_used": []
+  }
+}

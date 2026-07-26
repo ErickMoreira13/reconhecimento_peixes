@@ -1,0 +1,32 @@
+{
+  "arquivo": "myN-wDWKfiE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:18:20.624246",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Varinha Triton",
+      "Linha Laiglon",
+      "Anzol Chinoo 6",
+      "Boia sinalizadora",
+      "Tesoura"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nó cego",
+      "Nó de seis voltas",
+      "Montagem de varinha de mão",
+      "Uso de boia sinalizadora"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca de Tilápia",
+    "observacoes": "Evitar uso de linha colorida (como amarela) para tilápia; utilizar linha transparente."
+  }
+}

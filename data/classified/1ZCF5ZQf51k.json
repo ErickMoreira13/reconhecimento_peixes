@@ -1,0 +1,21 @@
+{
+  "arquivo": "1ZCF5ZQf51k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:02:29.538562",
+  "classificacao": {
+    "especies": [
+      "Bugio"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "arquivo": "CkxAxi8k1e4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:42:53.700232",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um relato casual de alguém que está pescando, provavelmente em um ambiente natural como um rio ou lago. O narrador expressa entusiasmo ao capturar peixes, especialmente 'traíra' (um tipo de peixe comum no Brasil), usando exclamações, repetições e frases como 'Ixi Maria', 'Zé Biquinho' e 'Ave Maria', que podem ser nomes de pessoas, expressões culturais ou referências locais. O conteúdo é informal, cheio de emoção e detalhes sobre a técnica de pesca, como o uso de iscas, a luta contra o peixe e a satisfação ao pescar peixes grandes. O texto parece ser uma narração em tempo real, com pausas e interrupções, sugerindo que pode ser uma gravação de áudio ou vídeo.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise cultural ou linguística",
+      "Dicas de pesca com base no relato",
+      "Identificação de termos específicos (ex: 'traíra')"
+    ]
+  }
+}

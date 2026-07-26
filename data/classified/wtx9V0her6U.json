@@ -1,0 +1,36 @@
+{
+  "arquivo": "wtx9V0her6U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:35:30.151414",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Octopus 6",
+      "Flu Carbono 052",
+      "EVA",
+      "poita"
+    ],
+    "iscas": [
+      "pão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca natural",
+      "uso de poita para estabilização"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca natural"
+    ],
+    "observacoes": [
+      "uso de pão amanhecido",
+      "evitar uso de farpa para proteger o peixe"
+    ]
+  }
+}

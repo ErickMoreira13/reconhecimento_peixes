@@ -1,0 +1,22 @@
+{
+  "arquivo": "wr612LtnRmE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:32:27.331836",
+  "classificacao": {
+    "especies": [],
+    "equipamento": [],
+    "isca": [],
+    "grao": [],
+    "tecnica": [],
+    "rio": [],
+    "bacia": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Amadora",
+      "Embarcada",
+      "Desembarcada"
+    ],
+    "observacoes": ""
+  }
+}

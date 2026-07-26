@@ -1,0 +1,13 @@
+{
+  "arquivo": "cLdlEINO814",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:43:26.452694",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca e preparo de um peixe (traíra) de forma informal e entusiasmada. O narrador descreve o momento de capturar o peixe, sua aparência (grande, colorido), o processo de preparação (limpeza, corte, uso de temperos como cebola, pimenta, sal e açafrão) e a culinária (cozimento em panela com molho cremoso). O tom é animado, com linguagem coloquial, e enfatiza a satisfação de compartilhar a refeição com outras pessoas. A narrativa também inclui detalhes sobre a textura do peixe, o sabor do molho e a interação social durante o jantar.",
+    "additional_info": {
+      "tipo_de_peixe": "Traíra (um peixe comum no Brasil, especialmente em rios e lagos)",
+      "método_de_preparo": "Cozimento em panela com temperos e molho cremoso",
+      "contexto_cultural": "Reflete uma prática comum em regiões rurais ou de pescadores, onde a pesca e a culinária caseira são parte da vida cotidiana."
+    }
+  }
+}

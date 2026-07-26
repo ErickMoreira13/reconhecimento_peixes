@@ -1,0 +1,40 @@
+{
+  "arquivo": "igS1UeoEz38",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:34:16.435776",
+  "classificacao": {
+    "species": [
+      "paca",
+      "açu",
+      "pacão",
+      "peixe"
+    ],
+    "equipment": [
+      "isquinha",
+      "vara",
+      "canoa",
+      "madeira",
+      "tábua",
+      "linha"
+    ],
+    "baits": [
+      "isca",
+      "resto de borracha",
+      "prástico"
+    ],
+    "locations": [
+      "ponte do GU",
+      "pontão",
+      "Amazônia"
+    ],
+    "other_terms": [
+      "churrasquinho",
+      "assado",
+      "arrozinho",
+      "farofinha",
+      "papá",
+      "Baby Rex",
+      "Pauleira"
+    ]
+  }
+}

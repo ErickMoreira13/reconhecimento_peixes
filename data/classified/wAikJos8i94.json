@@ -1,0 +1,40 @@
+{
+  "arquivo": "wAikJos8i94",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:59:18.948552",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Aruanã"
+    ],
+    "equipamentos": [
+      "Zara",
+      "Maripen",
+      "Pencil 100",
+      "Pencil Zona",
+      "gig"
+    ],
+    "iscas": [
+      "hélice",
+      "meia água",
+      "superfície"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca de hélice",
+      "pesca com isca de meia água",
+      "pesca com isca de superfície"
+    ],
+    "rios": [
+      "rio Atumã"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

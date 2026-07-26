@@ -1,0 +1,64 @@
+{
+  "arquivo": "Czi7SlaadRA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:37:39.078166",
+  "classificacao": {
+    "Chapada dos Veadeiros Attractions Summary": {
+      "Cachoeira do Degrau": {
+        "Location": "Near Cavalcante, 75km via dirt road",
+        "Highlights": [
+          "Sandy beach with clear blue water",
+          "Family-friendly with shallow pools",
+          "Snorkeling and swimming opportunities"
+        ],
+        "Accessibility": "Accessible by 4x4 vehicle; less crowded on Sundays",
+        "Best Time to Visit": "Early mornings for fewer crowds"
+      },
+      "Piscina da Borda Infinita": {
+        "Location": "Kanjika Complex (opened 2020)",
+        "Highlights": [
+          "Edge of a cliff with panoramic views",
+          "Dangerous due to steep drop",
+          "Popular for photos and social media"
+        ],
+        "Accessibility": "Accessible via the complex's trails",
+        "Best Time to Visit": "Dry season (May–September) for safety and visibility"
+      },
+      "Poço das Águas Lindas": {
+        "Location": "Near the main trail network",
+        "Highlights": [
+          "Crystal-clear blue water",
+          "Multiple interconnected pools",
+          "Ideal for swimming and relaxation"
+        ],
+        "Accessibility": "Easy access from main roads",
+        "Best Time to Visit": "Anytime, but avoid midday heat"
+      },
+      "Cachoeira Rei do Prata": {
+        "Location": "Near the main trail network",
+        "Highlights": [
+          "Most beautiful waterfall in the region",
+          "Long trail with scenic views",
+          "Less crowded than Santa Bárbara"
+        ],
+        "Accessibility": "Accessible via well-maintained trails",
+        "Best Time to Visit": "Early mornings for fewer crowds"
+      },
+      "Vale da Lua": {
+        "Location": "Near the main trail network",
+        "Highlights": [
+          "Unique lunar-like rock formations",
+          "Scenic hiking trails",
+          "Bonus attraction for visitors"
+        ],
+        "Accessibility": "Easy access from main roads",
+        "Best Time to Visit": "Anytime, but early visits are recommended"
+      },
+      "General Notes": {
+        "Crowd Management": "Weekdays and early mornings are less crowded than weekends.",
+        "Seasonal Tips": "Dry season (May–September) is ideal for most attractions due to safety and visibility.",
+        "Comparison": "Cachoeira Rei do Prata is often preferred over Santa Bárbara for its natural beauty and fewer crowds."
+      }
+    }
+  }
+}

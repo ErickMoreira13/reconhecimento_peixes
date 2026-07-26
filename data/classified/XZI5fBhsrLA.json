@@ -1,0 +1,32 @@
+{
+  "arquivo": "XZI5fBhsrLA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:40:28.859211",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Carretilha Avenado GS",
+      "Varinha Trio Light 20 Libras",
+      "Isquinha Hunter Bait 75"
+    ],
+    "iscas": [
+      "Isquinha Hunter Bait 75",
+      "Stick"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca na Superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

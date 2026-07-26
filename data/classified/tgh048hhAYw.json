@@ -1,0 +1,36 @@
+{
+  "arquivo": "tgh048hhAYw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:55:24.285614",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tambaqui",
+      "Mandi",
+      "Muçu"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Chumbada"
+    ],
+    "iscas": [
+      "Peixe",
+      "Muçu"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com anzol",
+      "Pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com anzol",
+      "Pesca com isca viva"
+    ],
+    "observacoes": []
+  }
+}

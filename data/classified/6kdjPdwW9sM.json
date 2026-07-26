@@ -1,0 +1,28 @@
+{
+  "arquivo": "6kdjPdwW9sM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:35:28.193523",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "GoPro"
+    ],
+    "iscas": [
+      "Massa",
+      "Massinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

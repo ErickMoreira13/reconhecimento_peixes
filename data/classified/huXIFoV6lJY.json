@@ -1,0 +1,43 @@
+{
+  "arquivo": "huXIFoV6lJY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:16:23.596418",
+  "classificacao": {
+    "especies": [
+      "Curvina"
+    ],
+    "equipamentos": [
+      "Pote",
+      "Tampa de alumínio",
+      "Corda",
+      "Vidro",
+      "Linha transparente 0,30"
+    ],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Ceva de pote",
+      "Pescaria em áreas sombreadas",
+      "Ajuste de profundidade",
+      "Uso de linha leve",
+      "Isca pelo rabo do lambari"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de curvina"
+    ],
+    "observacoes": [
+      "Limite de captura de 15 kg para pescadores não profissionais",
+      "Importância de seguir as regulamentações de pesca"
+    ]
+  }
+}

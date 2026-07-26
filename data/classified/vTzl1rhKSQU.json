@@ -1,0 +1,25 @@
+{
+  "arquivo": "vTzl1rhKSQU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:26:52.066923",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Atumã"
+    ],
+    "bacias": [
+      "Morena"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

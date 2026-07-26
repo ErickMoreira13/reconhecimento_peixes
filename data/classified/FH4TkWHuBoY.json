@@ -1,0 +1,23 @@
+{
+  "arquivo": "FH4TkWHuBoY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:12:53.058837",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara",
+      "Facão",
+      "Cinta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

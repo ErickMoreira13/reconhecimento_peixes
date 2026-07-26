@@ -1,0 +1,30 @@
+{
+  "arquivo": "Z8i_bJ6R2t8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:01:50.789821",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Spinner Laser Marine Sports"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Curricar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Piranha"
+    ],
+    "observacoes": [
+      "tratou da tilápia"
+    ]
+  }
+}

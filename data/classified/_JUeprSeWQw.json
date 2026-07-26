@@ -1,0 +1,47 @@
+{
+  "arquivo": "_JUeprSeWQw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T07:34:37.977672",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Tucunaré",
+      "Traíra",
+      "Piranha",
+      "Lambari",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Motor elétrico",
+      "Câmera de celular",
+      "Anzol",
+      "Isca de tilápia",
+      "Risca artificial"
+    ],
+    "iscas": [
+      "Isca de tilápia",
+      "Risca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lure artificial",
+      "Pescaria de curimba"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Itaipulândia",
+    "tipo_pesca": [
+      "Curimba",
+      "Tucunaré"
+    ],
+    "observacoes": [
+      "Tempo ruim com chuva e vento",
+      "Lago cheio de vegetação",
+      "Pescaria com uso de iscas artificiais",
+      "Presença de cardumes de peixes"
+    ]
+  }
+}

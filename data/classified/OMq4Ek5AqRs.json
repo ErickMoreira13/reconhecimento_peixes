@@ -1,0 +1,27 @@
+{
+  "arquivo": "OMq4Ek5AqRs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:56:36.989148",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de bagre a mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de mão"
+    ],
+    "observacoes": [
+      "Aviso sobre o risco de lesão por bagre adulto"
+    ]
+  }
+}

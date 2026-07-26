@@ -1,0 +1,44 @@
+{
+  "arquivo": "LOxHHjW3Zdc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:25:37.003294",
+  "classificacao": {
+    "especies": [
+      "Uretinga"
+    ],
+    "equipamentos": [
+      "canoa de alumínio",
+      "varinha",
+      "lanchazinha",
+      "motorzão",
+      "mochila",
+      "material de pesca",
+      "pousada",
+      "barreirinha"
+    ],
+    "iscas": [
+      "farofa"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [],
+    "rios": [
+      "Delta do Parnaíba",
+      "Delta das Américas"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "primeiro dia foi fraco",
+      "peixes pequenos",
+      "chovendo",
+      "aventura",
+      "falta de peixe no primeiro dia",
+      "peixe foi pescado no segundo dia"
+    ]
+  }
+}

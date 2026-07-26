@@ -1,0 +1,37 @@
+{
+  "arquivo": "vDWeTRjobqo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:44:26.737233",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Carretilha Viso da Sante",
+      "Vara R1 Redai Blanque 25 libras",
+      "Chumbada oliva",
+      "Encastuado"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalhar a isca no fundo",
+      "Apoiado",
+      "Rodada",
+      "Ajustar a carretilha para 80% de travamento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Usar encastuado para proteger a isca",
+      "Evitar usar fluorocarbon diretamente para não perder isca",
+      "Ajustar a carretilha após a penetração do peixe"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "Qf56ShDfTFA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:23:45.270513",
+  "classificacao": {
+    "species": [
+      "Lambari",
+      "Tucunaré",
+      "Piaba",
+      "Calanga",
+      "Tucunarézão",
+      "Lambarizão",
+      "Chaveirinho"
+    ],
+    "equipment": [
+      "Vara de bambu",
+      "Linha multifilamento 0,40",
+      "Anzol",
+      "Escar",
+      "Narezinho"
+    ],
+    "baits": [
+      "Isca viva",
+      "Calabresa",
+      "Milho",
+      "Lambari (como isca viva)"
+    ],
+    "techniques": [
+      "Pescar com vara de bambu",
+      "Uso de isca viva",
+      "Emprego de linha multifilamento"
+    ],
+    "locations": [
+      "Rios de água doce do Brasil"
+    ],
+    "notes": [
+      "O uso de 'varona bruta' é mencionado como equipamento, mas não está claramente definido no texto.",
+      "O termo 'tucunaré bruto' é usado como sinônimo de 'tucunarézão'."
+    ]
+  }
+}

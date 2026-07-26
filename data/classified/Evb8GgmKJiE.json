@@ -1,0 +1,31 @@
+{
+  "arquivo": "Evb8GgmKJiE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:53:21.692057",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piapara",
+      "Paco-caranha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Soja borrachinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

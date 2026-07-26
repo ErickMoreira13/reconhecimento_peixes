@@ -1,0 +1,33 @@
+{
+  "arquivo": "sBenCo0dQ-k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T19:00:04.119193",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Piau",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "astilato",
+      "curindo"
+    ],
+    "iscas": [
+      "massinha com ração de coelho",
+      "farinha de trigo"
+    ],
+    "cevas": {
+      "Ceva Proteica": [
+        "ração de coelho"
+      ],
+      "Ceva Natural": []
+    },
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "fazer massinha com ração de coelho e farinha de trigo"
+    ],
+    "rios": []
+  }
+}

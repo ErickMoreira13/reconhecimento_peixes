@@ -1,0 +1,44 @@
+{
+  "arquivo": "CKy84l9TFrQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:43:05.174393",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Corda",
+      "Saco",
+      "Liquidificador"
+    ],
+    "iscas": [
+      "Massinha de Morango",
+      "Ração de Peixe"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Fubá",
+      "Ração de Peixe"
+    ],
+    "tecnicas": [
+      "Cevar",
+      "Massinha"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Ceiva",
+      "Pesca de Tilápia"
+    ],
+    "observacoes": [
+      "A ceva deve ser persistente para atrair a tilápia",
+      "A tilápia pode demorar até 2 horas para encostar",
+      "A ceva feita com ração de peixe é mais econômica",
+      "A ceva deve ser armazenada em saco e amarrada com corda"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "arquivo": "GV_sROlDPU4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:20:19.201979",
+  "classificacao": {
+    "summary": "O texto é um script de vídeo ao vivo de pesca, com o locutor compartilhando sua experiência em tempo real. Ele descreve o uso de equipamentos como a vara Aracnid Custom, molinete C10 e GoPro, enquanto discute técnicas de pesca, desafios (como peixes escapando) e interage com o público, pedindo curtidas e inscrições. O conteúdo é informal, cheio de entusiasmo e detalhes sobre a pesca de robalo, peixe e camarão.",
+    "equipment_used": [
+      "vara Aracnid Custom",
+      "molinete C10",
+      "GoPro"
+    ],
+    "fishing_techniques": [
+      "pesca com iscas",
+      "uso de equipamentos específicos para capturar robalo",
+      "técnicas de manuseio para evitar que o peixe escape"
+    ],
+    "audience_engagement": [
+      "pedidos de curtidas",
+      "interação direta com o público",
+      "compartilhamento de emoções e desafios"
+    ],
+    "challenges_mentioned": [
+      "peixes escapando",
+      "bateria da GoPro acabando",
+      "dificuldade em capturar certos tipos de peixe"
+    ],
+    "key_terms": [
+      "robalo",
+      "peixe",
+      "camarão",
+      "Universo Fishing",
+      "tenhotas (termo local ou slang)"
+    ]
+  }
+}

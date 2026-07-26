@@ -1,0 +1,38 @@
+{
+  "arquivo": "OV3Fu6H64t0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:40:49.882221",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Copo",
+      "Colher",
+      "Corota"
+    ],
+    "iscas": [
+      "Fubá",
+      "Farinha de Trigo",
+      "Suco de Manga"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Massinha",
+      "Cozinhar",
+      "Mexer"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "0Zfk299cLKQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:44:44.551083",
+  "classificacao": {
+    "especies": [
+      "Bagre do Madeira"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Canal"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

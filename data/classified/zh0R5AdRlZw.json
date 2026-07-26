@@ -1,0 +1,42 @@
+{
+  "arquivo": "zh0R5AdRlZw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:12:28.906930",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Bigodudo",
+      "Bagrão",
+      "Pintado",
+      "Piaba",
+      "Nambari",
+      "Mata-cobre"
+    ],
+    "equipamentos": [
+      "Morinete",
+      "Balde",
+      "Janzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com vara"
+    ],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Porto Amazona",
+    "tipo_pesca": [
+      "Pesca com vara"
+    ],
+    "observacoes": [
+      "O rio está muito cheio e com forte correnteza",
+      "A água está turva",
+      "Foram pescados peixes pequenos e alguns exemplares de bagre, pintado e bigodudo",
+      "O local é considerado bonito e com muita vegetação"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "x0dcVHyQ-ow",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:08:59.583783",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca noturna, destacando desafios como a resistência de animais marinhos (como o 'siri de praia' e a 'embola chicote') e a importância de proteger a ecologia ao liberar certos animais. O narrador também menciona técnicas práticas, como cortar a perna de um caranguejo para evitar que ele se enrole na linha de pesca, e ressalta os benefícios mentais da atividade. A mensagem central é a preservação do ecossistema marinho e a coexistência com a natureza.",
+    "key_points": [
+      "Desafios na pesca devido a animais marinhos",
+      "Técnicas para lidar com caranguejos e outros animais",
+      "Importância da conservação ecológica",
+      "Benefícios mentais da pesca noturna",
+      "Conscientização sobre a proteção do ambiente marinho"
+    ],
+    "translations": {
+      "Maria Farinha": "Maria Farinha (espécie de caranguejo)",
+      "embola chicote": "embola chicote (serpente ou peixe marinho)",
+      "siri de praia": "caranguejo da praia"
+    },
+    "practical_tips": [
+      "Cortar a perna de caranguejos para liberá-los sem danos",
+      "Evitar usar veículos na praia para proteger a vida marinha",
+      "Liberar animais capturados para manter o equilíbrio ecológico"
+    ]
+  }
+}

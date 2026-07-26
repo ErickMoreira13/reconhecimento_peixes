@@ -1,0 +1,63 @@
+{
+  "arquivo": "3V3ONXMZzwI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:25:56.838475",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Jacundar",
+      "Paiaria",
+      "Traíra",
+      "Cunaré"
+    ],
+    "equipamentos": [
+      "Pauleiras",
+      "Guia"
+    ],
+    "iscas": [
+      "Cebo",
+      "Canzão",
+      "Gazão",
+      "Pauzinho",
+      "Rasão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fisgadas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "A pescaria chegou ao fim",
+      "Hoje o dia não ventou muito",
+      "A pesca foi boa",
+      "Não saiu muito do cunaré",
+      "A paiaria aqui é praga",
+      "Fica conosco aí",
+      "Assiste as fisgadas aí",
+      "Você que assistiu as fisgadas",
+      "Obrigado aí pelo apoio",
+      "A pesca foi boa",
+      "Lugar top",
+      "Vou voltar mais vezes aqui",
+      "Peguei só um",
+      "Pegou três traídas",
+      "Perdeu uma grandona",
+      "Tá achapado",
+      "Tá ira velha de cabelo",
+      "O cara que acabou com o piso",
+      "Vi cada porcão ali",
+      "Os caras batendo um rasão",
+      "Nenhum ponto aqui",
+      "Comeu mais um pauzinho",
+      "Ninguém é feito de ferro",
+      "Lugar secreto"
+    ]
+  }
+}

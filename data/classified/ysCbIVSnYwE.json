@@ -1,0 +1,26 @@
+{
+  "arquivo": "ysCbIVSnYwE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:28:07.979551",
+  "classificacao": {
+    "especies": [
+      "Manduca"
+    ],
+    "equipamentos": [
+      "vara",
+      "campanha Rainha do Rio"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio dos Bois"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "arquivo": "QyAdOSolKrc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:38:15.552997",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Girador",
+      "Linha fluorocarbono",
+      "Fisga",
+      "Barra de aço"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial",
+      "Arremesso longo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de isca artificial sem chumbada",
+      "Técnica de arremesso longo"
+    ]
+  }
+}

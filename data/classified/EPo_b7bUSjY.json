@@ -1,0 +1,63 @@
+{
+  "arquivo": "EPo_b7bUSjY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:12:23.846647",
+  "classificacao": {
+    "species": [
+      "Pacu",
+      "Júpensem",
+      "Giripoca",
+      "Mandia Amarelo",
+      "Xaximim",
+      "Tiavossu",
+      "Armão"
+    ],
+    "equipment": [
+      "Varinhas",
+      "Anzolzinho Caneludo",
+      "Massinha",
+      "Castor"
+    ],
+    "baits": [
+      "Massinha de Soja"
+    ],
+    "cevas": [
+      "Castor"
+    ],
+    "other": [
+      "Rio Miranda",
+      "Pescaria 2026",
+      "Tarciso",
+      "Carlos Herdeiro",
+      "Vanessa",
+      "Chasqueira",
+      "Frito",
+      "Carninha Assada",
+      "Resenha Esperta",
+      "Rifa",
+      "Ponte de Pescaria",
+      "Café da Manhã",
+      "Moçano",
+      "Combustível",
+      "Morreiro",
+      "Pontos de Apoio",
+      "Churrasco",
+      "Champanhe",
+      "Reserva",
+      "Telefone",
+      "Ambiental",
+      "Exemplar",
+      "Piranha",
+      "Transporte",
+      "Leis",
+      "Chásminho",
+      "Fritado",
+      "Assado",
+      "Separar",
+      "Esclarecida",
+      "Postar",
+      "Críticas",
+      "Leis Ambientais"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "R34r20gPZ_w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:54:02.482815",
+  "classificacao": {
+    "equipamentos": [
+      "Varinha",
+      "Murinete",
+      "Boia",
+      "Estojo",
+      "Anzol",
+      "Rãzinha",
+      "Camarãozinho",
+      "Sininho"
+    ],
+    "especies": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "OzfuDxfOnlw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:45:27.383366",
+  "classificacao": {
+    "especies": [
+      "Branquinho",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Varão de Bambu",
+      "Carretinha Alfa",
+      "Motor Mercury Super 18 15 HP"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Escaviva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

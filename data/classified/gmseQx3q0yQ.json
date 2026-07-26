@@ -1,0 +1,40 @@
+{
+  "arquivo": "gmseQx3q0yQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:59:48.378791",
+  "classificacao": {
+    "especies": [
+      "Arari",
+      "Guarari",
+      "Jacundá",
+      "Rapalhão",
+      "Saikanga",
+      "Tucunaré",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Micro anzol",
+      "Vara",
+      "Verrêdinha"
+    ],
+    "iscas": [
+      "Isquinha",
+      "Verrêdinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento e recolhimento",
+      "Pesca com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": ""
+  }
+}

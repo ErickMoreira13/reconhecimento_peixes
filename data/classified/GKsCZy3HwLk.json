@@ -1,0 +1,45 @@
+{
+  "arquivo": "GKsCZy3HwLk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:55:18.920237",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Vara Flecha",
+      "Carretilha Aquila",
+      "Carretel Fundo",
+      "Linha Top Platinum",
+      "Octopus Vermelho",
+      "EVAzinho",
+      "Salsicha"
+    ],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Cevadeira",
+      "Arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goias",
+    "municipio": "Goiânia",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Tempo fechado",
+      "Choveu",
+      "Vento",
+      "Bateria da GoPro acabou"
+    ]
+  }
+}

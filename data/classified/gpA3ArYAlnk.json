@@ -1,0 +1,40 @@
+{
+  "arquivo": "gpA3ArYAlnk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:12:25.825973",
+  "classificacao": {
+    "especies": [
+      "tubarão",
+      "bacora",
+      "lajeira",
+      "pitangola",
+      "oliboi"
+    ],
+    "equipamento": [
+      "molinete",
+      "freio",
+      "linha",
+      "roda"
+    ],
+    "isca": [
+      "pãozinho",
+      "suco",
+      "manilha",
+      "lamego",
+      "chibata",
+      "sonho",
+      "lape"
+    ],
+    "localizacao": [
+      "oceânica",
+      "islô",
+      "município"
+    ],
+    "outros": [
+      "troféu",
+      "pescaria",
+      "capitão",
+      "canal"
+    ]
+  }
+}

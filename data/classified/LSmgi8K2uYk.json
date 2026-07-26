@@ -1,0 +1,43 @@
+{
+  "arquivo": "LSmgi8K2uYk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:47:07.877990",
+  "classificacao": {
+    "especies": [
+      "Munsum",
+      "Traíra",
+      "Jejum",
+      "Sapinho de Rabo",
+      "Girino"
+    ],
+    "equipamentos": [
+      "Facão",
+      "Sacão"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca Noturna",
+      "Mata Munsum"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Cevas",
+      "Pesca de Iscas"
+    ],
+    "observacoes": [
+      "A pescaria foi fraca",
+      "A farofa pode ser feita com os peixes capturados",
+      "Presença de sapinhos de rabo e girinos na região"
+    ]
+  }
+}

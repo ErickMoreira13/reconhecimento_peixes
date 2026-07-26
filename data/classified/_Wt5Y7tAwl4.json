@@ -1,0 +1,27 @@
+{
+  "arquivo": "_Wt5Y7tAwl4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:42:55.394196",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Sacola",
+      "Régua"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Valeu pela companhia",
+      "Vamos soltar",
+      "Tá difícil mas fazendo a coisa certinha",
+      "Trabalhando a isca"
+    ]
+  }
+}

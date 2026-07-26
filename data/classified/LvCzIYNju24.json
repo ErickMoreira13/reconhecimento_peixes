@@ -1,0 +1,73 @@
+{
+  "arquivo": "LvCzIYNju24",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:37:23.291911",
+  "classificacao": {
+    "especies": [
+      "Cangua",
+      "Coara",
+      "Curimanga",
+      "Paruzete",
+      "Tuba",
+      "Carapébo",
+      "Sapo"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Boiana",
+      "Rima",
+      "Maia",
+      "Ponte"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Grãos",
+      "Farinha de peixe",
+      "Farelo de arroz",
+      "Farelo de soja",
+      "Proteína animal",
+      "Baunilha",
+      "Alho",
+      "Erva-doce",
+      "Mel",
+      "Açúcar",
+      "Frutas",
+      "Essências",
+      "Atrativos líquidos",
+      "Atrativos em pó"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Sorgo",
+      "Aveia",
+      "Ervilha",
+      "Feijão",
+      "Amendoim",
+      "Girassol",
+      "Alpiste",
+      "Linhaça"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

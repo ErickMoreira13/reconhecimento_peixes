@@ -1,0 +1,41 @@
+{
+  "arquivo": "Z1xDTPgDqp4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:57:40.852619",
+  "classificacao": {
+    "especies": [
+      "Porquinho"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Fita",
+      "Moulona"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Camarão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Uso de iscas vivas",
+      "Lançamento de iscas"
+    ],
+    "rios": [
+      "Rio Santa Bárbara"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Zacarias",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Condições climáticas instáveis",
+      "Dificuldade em capturar peixes sensíveis",
+      "Uso de técnicas de pesca em águas paradas"
+    ]
+  }
+}

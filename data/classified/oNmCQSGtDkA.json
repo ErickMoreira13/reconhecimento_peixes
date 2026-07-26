@@ -1,0 +1,33 @@
+{
+  "arquivo": "oNmCQSGtDkA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:57:08.642563",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Agulha"
+    ],
+    "iscas": [
+      "Calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Feio",
+      "Rio Paraná"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "tem que testar isso aqui no Rio e Paraná"
+    ]
+  }
+}

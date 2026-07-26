@@ -1,0 +1,23 @@
+{
+  "arquivo": "0p8jTIVI39s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:28:04.387515",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Amazônia",
+      "Superaçu",
+      "Guia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

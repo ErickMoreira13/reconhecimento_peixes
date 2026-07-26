@@ -1,0 +1,50 @@
+{
+  "arquivo": "4Gwtx_ae6Hc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:38:10.081628",
+  "classificacao": {
+    "especies": [
+      "Caranha",
+      "Pacu",
+      "Sorrisal",
+      "Trinchã",
+      "Piau",
+      "Piau Borrachudo",
+      "Taquara",
+      "Matrinchã"
+    ],
+    "equipamento": [
+      "Vara",
+      "Cordão branco",
+      "Protetor",
+      "GoPro",
+      "Guarda-sol"
+    ],
+    "técnicas": [
+      "Palma",
+      "Linha grossa",
+      "Pescando na chuva"
+    ],
+    "localização": [
+      "Rio",
+      "Secha"
+    ],
+    "condições climáticas": [
+      "Chuva",
+      "Tempo fechado"
+    ],
+    "isca": [
+      "Bolinho de milho"
+    ],
+    "observações": [
+      "Peixe guloso",
+      "Força do peixe",
+      "Proteção do peixe",
+      "Gosma",
+      "Sangue de mãe",
+      "Peixe pequeno",
+      "Peixe forte",
+      "Cardume"
+    ]
+  }
+}

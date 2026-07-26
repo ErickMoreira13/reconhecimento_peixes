@@ -1,0 +1,33 @@
+{
+  "arquivo": "QjpJFeSdwUo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:39:40.510489",
+  "classificacao": {
+    "resumo": "O texto descreve uma experiência de pesca em tempo real, com o narrador compartilhando emoções, ações e interações durante a captura de peixes. Destacam-se os seguintes elementos:",
+    "pontos_chave": {
+      "localização": "Rio Cinza e a praia do porto",
+      "especimens_capturados": [
+        "cabeça gorda",
+        "piau",
+        "tucunaré",
+        "piracema",
+        "piranha"
+      ],
+      "interações": {
+        "com_amigos": "Menciona Amanda e Maria, com quem compartilha a experiência",
+        "com_audience": "Conversa com espectadores, pedindo feedback sobre a pesca"
+      },
+      "emoções": [
+        "excitação",
+        "satisfação",
+        "desafio",
+        "diversão"
+      ],
+      "detalhes_técnicos": {
+        "equipamento": "Uso de iscas e técnicas de pesca",
+        "dificuldades": "Menciona a dificuldade em capturar o tucunaré"
+      },
+      "conclusão": "O narrador expressa satisfação com a captura de peixes e o momento de convivência com amigos e espectadores."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "isjjiQrmVtM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:28:55.984495",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "garrafa"
+    ],
+    "iscas": [
+      "ração de peixe"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "usar ração de peixe em garrafa",
+      "evitar encharcar a ração",
+      "deixar a garrafa fechada por pelo menos um dia"
+    ]
+  }
+}

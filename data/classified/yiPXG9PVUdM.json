@@ -1,0 +1,35 @@
+{
+  "arquivo": "yiPXG9PVUdM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:15:02.287137",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Varinhas de pesca"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pescaria rápida",
+      "Bate e volta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": [
+      "Pescaria rápida e bate e volta com duas varinhas de pesca para tilápia e carpa. Utilização de milho verde como ceva natural. Poucas capturas devido ao tempo curto e início da melhoria das condições de pesca."
+    ]
+  }
+}

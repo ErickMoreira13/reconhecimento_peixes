@@ -1,0 +1,88 @@
+{
+  "arquivo": "QC5Bcdgn354",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:17:14.468237",
+  "classificacao": {
+    "especies": [
+      "Acaraú",
+      "Oscar",
+      "Ticuna",
+      "Piranha",
+      "Chaveirinho",
+      "Bitelo"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Ceva",
+      "Isca",
+      "Fio",
+      "Carretilha",
+      "Caniço",
+      "Mola",
+      "Gancho",
+      "Massa",
+      "Galão Perfurado",
+      "Saco de Ráfia",
+      "Saco Furado",
+      "Tubo de PVC Perfurado",
+      "Cano de PVC Perfurado",
+      "Balde Perfurado",
+      "Recipiente Perfurado",
+      "Cocho Perfurado"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Ração",
+      "Farinha de Peixe",
+      "Farelo de Arroz",
+      "Farelo de Soja",
+      "Proteína Animal",
+      "Baunilha",
+      "Alho",
+      "Erva-Doce",
+      "Mel",
+      "Açúcar",
+      "Frutas",
+      "Essências",
+      "Atrativos Líquidos",
+      "Atrativos em Pó"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Pescaria",
+      "Pescar",
+      "Fisgar",
+      "Briga",
+      "Puxar",
+      "Soltar",
+      "Filmar",
+      "Fotografa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

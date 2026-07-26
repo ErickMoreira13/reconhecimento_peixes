@@ -1,0 +1,28 @@
+{
+  "arquivo": "K9-McjhkXqI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:42:42.785528",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Linha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chicote Costa a Costa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

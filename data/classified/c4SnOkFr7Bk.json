@@ -1,0 +1,49 @@
+{
+  "arquivo": "c4SnOkFr7Bk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:14:57.577179",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Dourado",
+      "Pintado",
+      "Mandi",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "vareta",
+      "fricção",
+      "caiaque"
+    ],
+    "iscas": [
+      "massa"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "pesca de piava",
+      "pesca de dourado"
+    ],
+    "rios": [
+      "Rio Taquari",
+      "Rio Carreiro",
+      "Rio das Antas"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Porto Xavier",
+    "tipo_pesca": [
+      "pesca de piava",
+      "pesca de dourado"
+    ],
+    "observacoes": [
+      "Dia fraco, perdendo peixes",
+      "Conhecimento do ponto de pesca",
+      "Evento futuro no Rancho Costeiro"
+    ]
+  }
+}

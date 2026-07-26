@@ -1,0 +1,79 @@
+{
+  "arquivo": "teVUxiDQq4w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:53:06.896331",
+  "classificacao": {
+    "espécies": [
+      "Açuzão",
+      "Carpeiro",
+      "Pintura",
+      "Suzinha",
+      "Paca",
+      "Maceto"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Barco",
+      "Lancha",
+      "Redinha",
+      "Pau",
+      "Câmera",
+      "Baterias"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Canjica"
+    ],
+    "cevas": {
+      "Ceva Natural": [],
+      "Ceva Proteica": [],
+      "Ceva Aromática": [],
+      "Ceva de Partículas": [
+        "Galão perfurado"
+      ]
+    },
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Canjica"
+    ],
+    "locais": [
+      "Rio Jatapu",
+      "Pousada da Amazônia",
+      "Sebastião do Atumã",
+      "Amazônia",
+      "Lago dos Brutos",
+      "Trombetas",
+      "Juma"
+    ],
+    "técnicas": [],
+    "detalhes_adicionais": {
+      "redes_sociais": [
+        "Instagram"
+      ],
+      "alimentação": [
+        "Almoço",
+        "Suco de caju",
+        "Farofa",
+        "Feijãozinho",
+        "Frito"
+      ],
+      "outros": [
+        "Mosca",
+        "Câmera",
+        "Baterias",
+        "Redinha",
+        "Barco",
+        "Lancha",
+        "Pau",
+        "Camaninha",
+        "Pousada"
+      ]
+    }
+  }
+}

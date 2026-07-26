@@ -1,0 +1,29 @@
+{
+  "arquivo": "jBVtbCQfSuI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:53:17.311615",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Arco e Flecha",
+      "Fisga",
+      "Pena de Mergulhão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Arco e Flecha"
+    ],
+    "rios": [
+      "Riacho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Arco e Flecha"
+    ],
+    "observacoes": ""
+  }
+}

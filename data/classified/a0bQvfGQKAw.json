@@ -1,0 +1,38 @@
+{
+  "arquivo": "a0bQvfGQKAw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:54:36.239071",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [
+      "molinete",
+      "caiaque",
+      "GoPro",
+      "vara",
+      "linha",
+      "nó SF"
+    ],
+    "iscas": [
+      "camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "nó SF",
+      "pescaria",
+      "reboque"
+    ],
+    "rios": [
+      "delta"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Panaíba",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

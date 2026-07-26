@@ -1,0 +1,27 @@
+{
+  "arquivo": "2_Zhisr9CNQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:08:32.663448",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "arpão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com arpão"
+    ],
+    "rios": [
+      "Paraná"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com arpão"
+    ],
+    "observacoes": []
+  }
+}

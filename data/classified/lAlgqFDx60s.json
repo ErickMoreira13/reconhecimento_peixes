@@ -1,0 +1,36 @@
+{
+  "arquivo": "lAlgqFDx60s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:49:13.365217",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Tabarana"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Vara",
+      "Isca da Tabarana"
+    ],
+    "iscas": [
+      "Isca da Tabarana"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria convencional",
+      "Tabarana"
+    ],
+    "rios": [
+      "Rio São João"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca convencional",
+      "Pesca de Tabarana"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "aCf07iKHKKg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:20:54.807290",
+  "classificacao": {
+    "species": [
+      "toros"
+    ],
+    "equipment": [
+      "carretilha Bionny Blade de Bass Pro Shop",
+      "carretilha Stradys 5000",
+      "linha de 15 libras de la marca Pesca Fácil",
+      "popercito"
+    ],
+    "baits": [
+      "popper",
+      "jeep",
+      "comedero de toros"
+    ],
+    "location": "Área de pesca específica (no se menciona nombre concreto)",
+    "techniques": [
+      "pesca en superficie (superficiales)",
+      "uso de lures de superficie"
+    ],
+    "comments": [
+      "Los toros son difíciles de capturar y requieren paciencia",
+      "Se menciona el comportamiento de los toros (borbollona)",
+      "Se practica la liberación de los peces capturados"
+    ],
+    "language": "Español/Portugués (mixto)"
+  }
+}

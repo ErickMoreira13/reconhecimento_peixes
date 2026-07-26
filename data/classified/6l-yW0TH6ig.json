@@ -1,0 +1,49 @@
+{
+  "arquivo": "6l-yW0TH6ig",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:36:17.448986",
+  "classificacao": {
+    "especies": [
+      "Trapa",
+      "Dourado",
+      "Piau",
+      "Chimboré",
+      "Mandi",
+      "Bagrinho",
+      "Fidalgo"
+    ],
+    "equipamentos": [
+      "tovilhas",
+      "vara de mão",
+      "carretilha",
+      "vara"
+    ],
+    "iscas": [
+      "calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com tovilhas",
+      "pesca com vara de mão"
+    ],
+    "rios": [
+      "Riozinho",
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com tovilhas",
+      "pesca com vara de mão"
+    ],
+    "observacoes": [
+      "rio muito sujo",
+      "dificuldade em pescar trapa e dourado",
+      "captura de mandi e bagrinho",
+      "uso de isca calabresa",
+      "atividade de pesca em período de cheia"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "arquivo": "Xh9iU5OnYAE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:00:33.468941",
+  "classificacao": {
+    "especies": [
+      "pirarara",
+      "pirararinha",
+      "piramutaba",
+      "piraíba",
+      "piranha",
+      "dourado",
+      "trairão",
+      "tucunaré",
+      "piapara",
+      "peixe de mar"
+    ],
+    "equipamento": [
+      "vara Giant Catfish 120 libras",
+      "freio",
+      "suporte hook",
+      "chumbada",
+      "linha 0,50",
+      "linha 2mm",
+      "linha 1,5mm",
+      "anzol 12-146-10-0",
+      "girador",
+      "snap com girador"
+    ],
+    "isca": [
+      "isca",
+      "curimbinha com dois anzóis"
+    ],
+    "localizacao": [
+      "Suriname",
+      "rio Cabalebo",
+      "rio Corantem",
+      "pocinho"
+    ],
+    "outros_detalhes": [
+      "pirarara",
+      "piraíba",
+      "piranha",
+      "dourado",
+      "Hospital do Câncer de Porto Velho, Rondônia"
+    ]
+  }
+}

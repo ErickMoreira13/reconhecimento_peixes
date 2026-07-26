@@ -1,0 +1,47 @@
+{
+  "arquivo": "9LEneyEGN8M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:43:45.714090",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Vara",
+      "Carretel"
+    ],
+    "iscas": [
+      "Massinha",
+      "Massa de Jaca",
+      "Massa de Trigo",
+      "Massa de Amendoim"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Jaca",
+      "Trigo",
+      "Amendoim"
+    ],
+    "tecnicas": [
+      "Pesca de Curimba",
+      "Pesca de Barranco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Curimba",
+      "Pesca de Barranco"
+    ],
+    "observacoes": [
+      "Dificuldade em capturar o peixe",
+      "Tamanho grande do tambaqui",
+      "Linha foi levada por um peixe grande"
+    ]
+  }
+}

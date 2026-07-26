@@ -1,0 +1,25 @@
+{
+  "arquivo": "OB2JbBnSUkM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:24:39.923207",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol de galha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de água suja"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de água suja"
+    ],
+    "observacoes": []
+  }
+}

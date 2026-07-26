@@ -1,0 +1,40 @@
+{
+  "arquivo": "BfLz9VGyDaA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:03:03.801355",
+  "classificacao": {
+    "especies": [
+      "Carapé",
+      "Pampo"
+    ],
+    "equipamentos": [
+      "Varinhas",
+      "Anzol",
+      "Linha",
+      "Chumbada",
+      "Desembuchador"
+    ],
+    "iscas": [
+      "Corrupto",
+      "Camarão do Mar",
+      "Camarão de Viveiro"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio Grande do Norte",
+    "municipio": "Búzios",
+    "tipo_pesca": [
+      "Pesca de Fundo"
+    ],
+    "observacoes": [
+      "A pesca não está muito produtiva, apenas pegando alguns peixes.",
+      "O tempo está muito quente, e a pesca está difícil.",
+      "A pesca está sendo feita com iscas artificiais e cevas naturais."
+    ]
+  }
+}

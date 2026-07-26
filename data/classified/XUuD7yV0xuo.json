@@ -1,0 +1,23 @@
+{
+  "arquivo": "XUuD7yV0xuo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:25:19.977259",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

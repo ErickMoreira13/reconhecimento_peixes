@@ -1,0 +1,38 @@
+{
+  "arquivo": "LvxxGcRxnCI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:09:16.443758",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Pintado",
+      "Panga",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Varinha de mão"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Filé de tilápia",
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de varinha de mão",
+      "Teste de iscas variadas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em pesqueiro"
+    ],
+    "observacoes": [
+      "Uso de iscas baratas e gratuitas",
+      "Demonstração de captura com equipamento simples"
+    ]
+  }
+}

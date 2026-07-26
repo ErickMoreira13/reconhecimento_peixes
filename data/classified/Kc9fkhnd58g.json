@@ -1,0 +1,21 @@
+{
+  "arquivo": "Kc9fkhnd58g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:59:31.306347",
+  "classificacao": {
+    "especies": [
+      "Cará",
+      "Lambari",
+      "Monobar",
+      "Morobá",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Anzal",
+      "Minhoca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arquivo": "3KNdW-tC0HM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:10:12.753450",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Piau",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "GoPro"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Arroz",
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Ceba"
+    ],
+    "observacoes": [
+      "A ceva é feita com arroz, ração de coelho, quirela (milho triturado), farinha de trigo e pó de queijo. Deve ser deixada no sol por dois dias para endurecer e evitar que desmanche na água.",
+      "A técnica envolve a preparação de bolas de ceva com consistência semelhante a uma bola de sinuca, que são arremessadas na água para atrair os peixes."
+    ]
+  }
+}

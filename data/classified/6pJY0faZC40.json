@@ -1,0 +1,25 @@
+{
+  "arquivo": "6pJY0faZC40",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:39:55.004970",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "jerk bait"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "twitching",
+      "popping",
+      "mantendo a linha apertada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

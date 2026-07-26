@@ -1,0 +1,47 @@
+{
+  "arquivo": "vlWc0D0k0Ic",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:11:39.718367",
+  "classificacao": {
+    "species": [
+      "piaba",
+      "pirapitinga (pinhal)",
+      "piranha",
+      "matupiri (matu-piri)",
+      "toara (toarana)",
+      "jatuarana (jatoarana)",
+      "psicolota (psica, psiquinha)",
+      "calango (calanguinho)",
+      "cupim vermelho"
+    ],
+    "equipment": [
+      "vara (rod)",
+      "car (botei em cima do carro)",
+      "pisca alerta (flasher)",
+      "vara canicim (canicim rod)",
+      "vara de bambu (bamboo rod)"
+    ],
+    "baits": [
+      "queijo (cheese)",
+      "aveia (oat)",
+      "piaba",
+      "psicolota (psiquinha)"
+    ],
+    "cevadas": [
+      "queijo",
+      "aveia"
+    ],
+    "grãos": [
+      "aveia"
+    ],
+    "techniques": [
+      "anzol purinho (pure hook)",
+      "anzol puro (pure hook)",
+      "solta a vara (letting the rod go)",
+      "coloca aqui (placing the bait)",
+      "deixa cair fazendo barulho (letting it fall making noise)"
+    ],
+    "rios": [],
+    "bacias": []
+  }
+}

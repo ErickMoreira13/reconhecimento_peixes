@@ -1,0 +1,62 @@
+{
+  "arquivo": "btkOlUJ149g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:36:42.999570",
+  "classificacao": {
+    "especies": [
+      "tucunaré",
+      "azulão",
+      "lambari",
+      "corvina",
+      "piranha",
+      "curvinha",
+      "piranhão",
+      "barraçu",
+      "marozego"
+    ],
+    "equipamentos": [
+      "carretilha Ventura da Marinha Esporte",
+      "caiaque",
+      "barco",
+      "chumbada"
+    ],
+    "iscas": [
+      "garaté",
+      "garaté reforçada",
+      "lambari",
+      "corvina"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pescaria de tucunaré",
+      "pescaria de curvinha",
+      "pescaria de curimba",
+      "pescaria meio ligeiro",
+      "pescaria cabeceira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de caiaque",
+      "pesca de barco",
+      "pesca de curvinha",
+      "pesca de tucunaré",
+      "pesca de curimba"
+    ],
+    "outros": [
+      "curvinha",
+      "curimba",
+      "corvina",
+      "lambari",
+      "piranha",
+      "piranhão",
+      "barraçu",
+      "marozego",
+      "azulão",
+      "tucunaré"
+    ]
+  }
+}

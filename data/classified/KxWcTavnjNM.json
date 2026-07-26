@@ -1,0 +1,28 @@
+{
+  "arquivo": "KxWcTavnjNM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:17:57.821093",
+  "classificacao": {
+    "species": [
+      "Baiacu",
+      "Robalo",
+      "Oveva"
+    ],
+    "equipment": [
+      "micro shed",
+      "ultralight",
+      "plug",
+      "varinha"
+    ],
+    "baits": [
+      "manjuvinha",
+      "sabinho de pedra",
+      "trickzinhos",
+      "trickzinho"
+    ],
+    "grains": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ]
+  }
+}

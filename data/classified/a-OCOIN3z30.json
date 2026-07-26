@@ -1,0 +1,36 @@
+{
+  "arquivo": "a-OCOIN3z30",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:54:09.581586",
+  "classificacao": {
+    "species": [
+      "Brantos",
+      "Pirarubu",
+      "Aruana",
+      "Tucunará"
+    ],
+    "equipment": [
+      "e-cranque spin",
+      "colher",
+      "curisca",
+      "Mad Dog",
+      "carbono M6/M11"
+    ],
+    "baits": [
+      "e-cranque spin",
+      "colher",
+      "curisca",
+      "Mad Dog"
+    ],
+    "techniques": [
+      "meia água casting"
+    ],
+    "river": "Rio Xeruini",
+    "state": "Amazonas",
+    "municipality": "Manaus",
+    "basin": "",
+    "other_terms": [
+      "rebojo"
+    ]
+  }
+}

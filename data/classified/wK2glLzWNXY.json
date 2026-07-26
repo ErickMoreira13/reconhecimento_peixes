@@ -1,0 +1,38 @@
+{
+  "arquivo": "wK2glLzWNXY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:10:01.964411",
+  "classificacao": {
+    "especie": "Tilápia",
+    "equipamentos": [
+      "Chinú número 2",
+      "Chinú número 3",
+      "Elástico de silicone para mechas e cabelo"
+    ],
+    "iscas": [
+      "Ração de coelho",
+      "Bichinho da laranja",
+      "Larva"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em lagoa",
+      "Pesca em represa",
+      "Pesca em rio"
+    ],
+    "observacoes": [
+      "A ração de coelho dissolve-se rapidamente (2-4 minutos) dependendo da correnteza da água.",
+      "A dificuldade com o mulinete pode ocorrer devido à natureza da ceva.",
+      "A eficácia da ceva depende da qualidade da ração e da técnica de apresentação."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "-lbJWuwB01Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:37:44.709193",
+  "classificacao": {
+    "especies": [
+      "Campineiro"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

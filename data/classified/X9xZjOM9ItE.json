@@ -1,0 +1,23 @@
+{
+  "arquivo": "X9xZjOM9ItE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:32:49.474178",
+  "classificacao": {
+    "especies": [
+      "Tuconará"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Igarapé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

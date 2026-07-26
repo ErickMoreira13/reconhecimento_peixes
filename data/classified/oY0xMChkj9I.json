@@ -1,0 +1,26 @@
+{
+  "arquivo": "oY0xMChkj9I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:43:54.456305",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "señuelo popper"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pop",
+      "jerk"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "utilizar variantes de colores dependendo do clima e da zona onde vivem"
+    ]
+  }
+}

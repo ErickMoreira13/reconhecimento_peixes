@@ -1,0 +1,28 @@
+{
+  "arquivo": "rw-viifG43k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:35:45.109726",
+  "classificacao": {
+    "summary": "O vídeo apresenta uma experiência de pesca no rio Araguaia, no Mato Grosso, com o narrador compartilhando técnicas tradicionais e interagindo com o público. Ele descreve a captura de espécies como pacu, piau, caranha e um boto (delfim do rio Amazonas), destacando práticas sustentáveis, como a liberação dos peixes após a captura. O conteúdo inclui detalhes sobre equipamentos (como vara de bambu), métodos de pesca e referências a termos locais, como 'marmelada' e 'saran', possivelmente nomes de espécies ou técnicas regionais. O narrador também menciona um viveiro de peixes e convida o público a assistir a vídeos futuros, sugerindo que o conteúdo faz parte de uma série sobre pesca no local.",
+    "key_points": {
+      "location": "Rio Araguaia, Mato Grosso",
+      "fish_species": [
+        "pacu",
+        "piau",
+        "caranha",
+        "boto (delfim do Amazonas)"
+      ],
+      "fishing_methods": [
+        "vara de bambu",
+        "técnicas tradicionais",
+        "liberação de peixes após captura"
+      ],
+      "cultural_aspects": [
+        "práticas sustentáveis",
+        "interação com o público",
+        "uso de termos locais"
+      ],
+      "additional_notes": "Menciona um viveiro de peixes e a importância de preservar espécies protegidas, como o boto."
+    }
+  }
+}

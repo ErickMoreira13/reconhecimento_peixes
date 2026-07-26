@@ -1,0 +1,23 @@
+{
+  "arquivo": "XxSCCU4F_zk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:37:27.016338",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Gaporé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

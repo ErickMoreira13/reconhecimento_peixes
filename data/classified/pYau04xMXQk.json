@@ -1,0 +1,38 @@
+{
+  "arquivo": "pYau04xMXQk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:25:40.821117",
+  "classificacao": {
+    "especies": [
+      "Espada"
+    ],
+    "equipamentos": [
+      "Chicote de espada",
+      "Luvinha de alumínio",
+      "Girador",
+      "Miçanguinha",
+      "Chumbada",
+      "Snap de engate rápido"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca noturna",
+      "Pescaria de espada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca noturna",
+      "Pescaria de espada"
+    ],
+    "observacoes": [
+      "Uso de luminoso para atrair espada",
+      "Posicionamento do luminoso acima da isca",
+      "Uso de snap de engate rápido para facilitar ajustes"
+    ]
+  }
+}

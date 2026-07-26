@@ -1,0 +1,33 @@
+{
+  "arquivo": "xDyZZjXT34c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:47:56.520217",
+  "classificacao": {
+    "localizacao": "Balneário Barra do Sul, Santa Catarina",
+    "equipamentos": {
+      "varinha": "rod",
+      "carretilha": "reel",
+      "iscas": [
+        "popper",
+        "Popper Aníbal da Borboleta",
+        "Zig-zara 130"
+      ]
+    },
+    "tecnicas": [
+      "pesca de superfície",
+      "uso de popper"
+    ],
+    "especies": [
+      "anchova",
+      "sororoca"
+    ],
+    "tipo_pesca": [
+      "pesca de superfície",
+      "pesca de sororoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "rios": [],
+    "bacias": []
+  }
+}

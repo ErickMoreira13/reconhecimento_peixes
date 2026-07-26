@@ -1,0 +1,36 @@
+{
+  "arquivo": "EwQv9FyhtV0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:55:29.371367",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Trichia"
+    ],
+    "equipamentos": [
+      "Reel",
+      "Rod",
+      "Kayak",
+      "Pliers",
+      "Fishing Line"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Ipiranga"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Preservação do ambiente",
+      "Liberação de peixes",
+      "Tamanho dos peixes capturados"
+    ]
+  }
+}

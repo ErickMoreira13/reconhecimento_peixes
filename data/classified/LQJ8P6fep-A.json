@@ -1,0 +1,39 @@
+{
+  "arquivo": "LQJ8P6fep-A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:35:53.237164",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Piraíba",
+      "Tucunaré",
+      "Pirarucu"
+    ],
+    "equipamentos": [
+      "Vara Intergrim Durmalina",
+      "Multifilamento",
+      "Pen Squall 15LW",
+      "Cinto de Apoio"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Tucunaré",
+      "Pescaria de Peixe Grande",
+      "Pescaria de Peixe de Couro"
+    ],
+    "rios": [
+      "Rio Branco"
+    ],
+    "bacias": [],
+    "estado": "Roraima",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Tucunaré",
+      "Pescaria de Peixe Grande",
+      "Pescaria de Peixe de Couro"
+    ],
+    "observacoes": []
+  }
+}

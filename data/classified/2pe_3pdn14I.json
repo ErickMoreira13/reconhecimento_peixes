@@ -1,0 +1,48 @@
+{
+  "arquivo": "2pe_3pdn14I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:35:52.032788",
+  "classificacao": {
+    "especies": [
+      "Vasolere",
+      "Brutão"
+    ],
+    "equipamentos": [
+      "carretilha",
+      "caniço",
+      "bobina",
+      "linha",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "tubo de PVC perfurado",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "recipiente perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [
+      "isca",
+      "massa"
+    ],
+    "graos": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "tecnicas": [
+      "alvarezinho",
+      "zara"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "types of fishing": [],
+    "observations": [
+      "chuva",
+      "almoço",
+      "inscrição",
+      "pescaria marcada"
+    ]
+  }
+}

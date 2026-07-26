@@ -1,0 +1,30 @@
+{
+  "arquivo": "j9sexaPSrYY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:51:17.642650",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Lambari",
+      "Mandi",
+      "Saicanga"
+    ],
+    "equipamentos": [
+      "Speed Prime 10 libras",
+      "Mornetinha Speed Prime 800",
+      "Varo Speed Prime 10 libras",
+      "capa de blanque"
+    ],
+    "isca": [
+      "meia água",
+      "isquinha"
+    ],
+    "localização": "Rio Canoas, em Curitibanos",
+    "tipo de pesca": "mochilada",
+    "varas": [
+      "Speed Prime 10 libras",
+      "Mornetinha Speed Prime 800"
+    ],
+    "rebojo": "rebojo"
+  }
+}

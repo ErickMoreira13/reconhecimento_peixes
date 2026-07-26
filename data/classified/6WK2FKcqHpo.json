@@ -1,0 +1,27 @@
+{
+  "arquivo": "6WK2FKcqHpo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:44:17.538760",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Soroca"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "madeiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Desenroscar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "-enc0JqdgXI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:16:31.705312",
+  "classificacao": {
+    "especies": [
+      "Lepa",
+      "Tambaqui",
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Bruta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Bruta"
+    ],
+    "observacoes": [
+      "não foi de milhões",
+      "chegamos 4 horas",
+      "só comendo"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "Zt4ocWCQHRE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:46:06.854539",
+  "classificacao": {
+    "especies": [
+      "Três Marias",
+      "Tucunaré",
+      "Pirraça",
+      "Catucuninha"
+    ],
+    "equipamentos": [
+      "Bad Dog",
+      "75 Chavante"
+    ],
+    "iscas": [
+      "Isquinha",
+      "Tsunami da Lisa de Feixe"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Superfície",
+      "Seco"
+    ],
+    "rios": [],
+    "bacias": [
+      "Três Marias"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Dificuldade em capturar tucunaré devido à movimentação dos peixes. Uso de isquinhas de tsunami e isquinhas tradicionais. Peixes mostram comportamento de refugio e ataque à isca."
+    ]
+  }
+}

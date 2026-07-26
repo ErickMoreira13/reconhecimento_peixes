@@ -1,0 +1,21 @@
+{
+  "arquivo": "UWkIRBZ8gNk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:47:25.067196",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O pescador teve que abandonar a pescaria devido a uma situação perigosa, onde um animal ou objeto aproximou-se dele, obrigando-o a sair correndo do local."
+    ]
+  }
+}

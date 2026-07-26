@@ -1,0 +1,25 @@
+{
+  "arquivo": "AM1_9_GF9sc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:01:52.124995",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Bolas"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "que ataca esse ano é grande"
+    ]
+  }
+}

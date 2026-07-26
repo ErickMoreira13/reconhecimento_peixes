@@ -1,0 +1,27 @@
+{
+  "arquivo": "eu8VZK6-6L8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:43:14.296808",
+  "classificacao": {
+    "especies": [
+      "Lambare",
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Lambare",
+      "Piranha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Guarapiranga",
+    "tipo_pesca": [
+      "Pesca com isca viva"
+    ],
+    "observacoes": []
+  }
+}

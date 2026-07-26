@@ -1,0 +1,21 @@
+{
+  "arquivo": "43MtoWhiUgE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:29:43.865382",
+  "classificacao": {
+    "especies": [
+      "Cunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Adolfo",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

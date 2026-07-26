@@ -1,0 +1,39 @@
+{
+  "arquivo": "Qb3U-GAoE8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:47:35.876345",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Mortandela",
+      "Azor",
+      "Saco"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca"
+    ],
+    "rios": [
+      "Tapajós"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Santarém",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca com isca"
+    ],
+    "observacoes": [
+      "Momento especial de pescaria no Rio Tapajós",
+      "Paciência necessária para a pesca",
+      "Presença de barcos e pescadores na região",
+      "Atividade de caminhada e exercício na orla"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "eAbdoe6LBuo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:51:34.963208",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra",
+      "Cachorra",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Popper"
+    ],
+    "iscas": [
+      "Isca artificial de superfície Popper"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalho lento",
+      "Trabalho devagarzinho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "14_CcDrkyQo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:57:02.187680",
+  "classificacao": {
+    "especies": [
+      "Piranduba"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

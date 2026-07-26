@@ -1,0 +1,25 @@
+{
+  "arquivo": "NMzzwLJ5Rr4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:19:10.267781",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Rocket 140 by Lucky"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaria"
+    ],
+    "bacias": [],
+    "estado": "Amapá",
+    "municipio": "Rio Araguaria",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "MNAxE1wHarI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:57:30.691012",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Pacu",
+      "Pirarara",
+      "Curimba",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Varinha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

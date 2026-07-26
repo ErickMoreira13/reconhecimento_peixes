@@ -1,0 +1,40 @@
+{
+  "arquivo": "nHBi9L2n0WY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:03:33.069593",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra",
+      "Tambaqui",
+      "Pirarara",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Azadinho",
+      "Barbeiro",
+      "Ficha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "O usuário e sua esposa pescaram Tilápia, Traíra, Tambaqui, Pirarara e Dourado. Eles filaram os peixes e mencionaram que a câmera descarregou, impedindo a exibição do resultado completo."
+  }
+}

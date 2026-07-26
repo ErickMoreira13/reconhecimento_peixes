@@ -1,0 +1,31 @@
+{
+  "arquivo": "ovsqlQsmz1g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:41:41.986583",
+  "classificacao": {
+    "especies": [
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Barranco"
+    ],
+    "iscas": [
+      "Carduno"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Barranco",
+      "Pesca de Caiaque"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

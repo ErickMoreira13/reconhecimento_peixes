@@ -1,0 +1,21 @@
+{
+  "arquivo": "BiD_cgWAneE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:15:29.545466",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência emocionante de pesca de um pirarara de 44 kg, destacando a luta intensa, a preparação e a emoção do momento. O narrador enfatiza a magnitude do peixe, a resistência durante a captura e a importância do registro como marco pessoal. A narrativa é repleta de entusiasmo, com detalhes sobre a técnica usada, a tensão durante a luta e a satisfação ao final. O texto também menciona a conexão com a natureza e a importância de preservar a experiência para futuras gerações.",
+    "key_points": [
+      "Tamanho do pirarara (44 kg)",
+      "Luta intensa e técnica de pesca",
+      "Emoção e significado pessoal",
+      "Conexão com a natureza",
+      "Registro como marco"
+    ],
+    "possible_next_steps": [
+      "Solicitar uma tradução para outro idioma",
+      "Pedir ajuda para estruturar a narrativa",
+      "Saber mais sobre técnicas de pesca de pirarara",
+      "Obter feedback sobre o conteúdo"
+    ]
+  }
+}

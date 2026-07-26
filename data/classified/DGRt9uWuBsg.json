@@ -1,0 +1,23 @@
+{
+  "arquivo": "DGRt9uWuBsg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:53:15.990208",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Trinchã",
+      "Piracanjuba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

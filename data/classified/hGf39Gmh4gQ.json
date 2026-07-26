@@ -1,0 +1,30 @@
+{
+  "arquivo": "hGf39Gmh4gQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:34:22.598974",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Lambari",
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Pan de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Viacho Grande"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Tilápia",
+      "Pescaria Rápida"
+    ],
+    "observacoes": []
+  }
+}

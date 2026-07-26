@@ -1,0 +1,25 @@
+{
+  "arquivo": "nCtHOQ8XWtI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T17:44:24.239359",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Barbado"
+    ],
+    "equipamentos": [
+      "Barro",
+      "Isquinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

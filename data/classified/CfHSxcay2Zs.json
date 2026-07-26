@@ -1,0 +1,33 @@
+{
+  "arquivo": "CfHSxcay2Zs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:33:16.265961",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Vara",
+      "Saitman",
+      "Marini",
+      "Avenge",
+      "Sarasara",
+      "Fatal",
+      "Zigzarinha",
+      "Machi Stick"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Teste na pescaria do Tucunaré"
+    ]
+  }
+}

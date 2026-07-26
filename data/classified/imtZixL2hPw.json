@@ -1,0 +1,27 @@
+{
+  "arquivo": "imtZixL2hPw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:03:16.055737",
+  "classificacao": {
+    "especies": [
+      "Bicudo",
+      "Tabarana"
+    ],
+    "equipamentos": [
+      "Jigs",
+      "Shed",
+      "Estojinho",
+      "Zisca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

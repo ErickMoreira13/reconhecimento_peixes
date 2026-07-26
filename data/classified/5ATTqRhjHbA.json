@@ -1,0 +1,18 @@
+{
+  "arquivo": "5ATTqRhjHbA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:11:17.155839",
+  "classificacao": {
+    "resumo": "O texto apresenta uma conversa entre amigos que estão pescando, destacando os nomes Gabriel, José, Diego, Igor, Alitiza e outros. Eles discutem técnicas de pesca, como o uso de 'enrosco', 'curvinas', 'barbadinho' e 'molinete', além de desafios como perder linhas e capturar peixes. Há menções ao uso de uma GoPro para filmar, momentos de frustração ao perder peixes e alegria ao conseguir capturar alguns. A conversa tem um tom casual e camaradiero, com trocas de experiências e humor entre os participantes.",
+    "termos_chave": [
+      "enrosco",
+      "curvinas",
+      "barbadinho",
+      "molinete",
+      "GoPro",
+      "perda de linha",
+      "captura de peixe"
+    ],
+    "dinâmica_social": "Os participantes interagem de forma amigável, compartilhando conhecimentos, expressando frustração e celebração, e demonstrando solidariedade ao discutir desafios comuns na pesca."
+  }
+}

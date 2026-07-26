@@ -1,0 +1,21 @@
+{
+  "arquivo": "LMOhVpXGex4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:22:35.203050",
+  "classificacao": {
+    "especies": [
+      "Sol"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "Kk2xNckr0_M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:54:51.859921",
+  "classificacao": {
+    "especies": [
+      "Piraputanga",
+      "Pacu",
+      "Mandi",
+      "Bagre",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "canoa"
+    ],
+    "iscas": [
+      "massinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Taquari"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Coxim",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

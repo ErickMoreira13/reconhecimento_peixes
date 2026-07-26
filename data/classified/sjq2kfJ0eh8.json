@@ -1,0 +1,35 @@
+{
+  "arquivo": "sjq2kfJ0eh8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:04:41.289460",
+  "classificacao": {
+    "especies": [
+      "Dentão",
+      "Pirambu",
+      "Carapeba"
+    ],
+    "equipamentos": [
+      "Caiaque ARQ 1290",
+      "Sub",
+      "Arbalete",
+      "Linha"
+    ],
+    "tecnicas": [
+      "Pesca submersiva",
+      "Espera para disparo",
+      "Navegação em caiaque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca esportiva",
+    "observacoes": [
+      "Água turva",
+      "Vento forte",
+      "Dificuldade em transportar o caiaque"
+    ]
+  }
+}

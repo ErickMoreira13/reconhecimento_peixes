@@ -1,0 +1,45 @@
+{
+  "arquivo": "qPTOEliGXhA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:58:14.571065",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Taco",
+      "Carretilha",
+      "Linha",
+      "Isca",
+      "Ceva",
+      "Galão Perfurado",
+      "Saco de Ráfia"
+    ],
+    "iscas": [
+      "Isca de Milho",
+      "Isca de Soja",
+      "Isca de Trigo"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Pesca com Ceva",
+      "Pesca com Isca",
+      "Pesca com Ceva de Partículas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "Ho-coPFDuhc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:04:55.491477",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "cevinha",
+      "fulsa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tocantins"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "mafGT0nZ9ok",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:54:20.708025",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "cana",
+      "carreto",
+      "multifilamento",
+      "Fluocarbono"
+    ],
+    "iscas": [
+      "Jerk Baits",
+      "KVD300 Deep Diver",
+      "Pointer",
+      "Megabass 110"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "trabalho errático",
+      "variação de cadência",
+      "lançamento longo",
+      "uso de toques intermitentes"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com Jerk Baits"
+    ],
+    "observacoes": []
+  }
+}

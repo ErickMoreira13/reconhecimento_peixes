@@ -1,0 +1,45 @@
+{
+  "arquivo": "kC1Ib0V-sNA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:05:39.443976",
+  "classificacao": {
+    "species": [
+      "traíra",
+      "piava",
+      "lambari",
+      "joaninha"
+    ],
+    "equipment": [
+      "caniço",
+      "boia",
+      "tralhas",
+      "varas",
+      "caiaque",
+      "poita",
+      "fígado",
+      "minhoca"
+    ],
+    "locations": [
+      "beira do rio",
+      "curva",
+      "aguapé",
+      "ponte"
+    ],
+    "bait": [
+      "milho",
+      "fígado",
+      "minhoca"
+    ],
+    "time_of_day": [
+      "manhã",
+      "meio-dia"
+    ],
+    "weather": [
+      "chuva chegando"
+    ],
+    "other_activities": [
+      "coletar lixo",
+      "ensinar para canais do YouTube"
+    ]
+  }
+}

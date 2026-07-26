@@ -1,0 +1,33 @@
+{
+  "arquivo": "ZAAmmx0JuEA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:04:08.410609",
+  "classificacao": {
+    "Espécies": [
+      "Barbado",
+      "Pirarucu",
+      "Tucunaré",
+      "Bicuda",
+      "Traíra",
+      "Cachorra"
+    ],
+    "Equipamentos": [
+      "Vara de 5 libras",
+      "Vara de 25 libras",
+      "Linha"
+    ],
+    "Iscas": [],
+    "Cevas": [],
+    "Grãos": [],
+    "Técnicas": [
+      "Jiguezinho"
+    ],
+    "Rios": [
+      "Rio Telespires"
+    ],
+    "Bacias": [],
+    "Estado": "Mato Grosso",
+    "Município": "Alta Floresta",
+    "Tipo_pesca": "Pesca de diversidade"
+  }
+}

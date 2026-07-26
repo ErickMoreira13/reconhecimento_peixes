@@ -1,0 +1,27 @@
+{
+  "arquivo": "mrl7q_PtEsg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:02:58.072993",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Minhocário",
+      "Canteiros",
+      "Recipientes",
+      "Caixa",
+      "Sítio"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

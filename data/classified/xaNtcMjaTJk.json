@@ -1,0 +1,31 @@
+{
+  "arquivo": "xaNtcMjaTJk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:43:02.480723",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Bichinho da laranja"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Isca Artificial"
+    ],
+    "observacoes": [
+      "Utilização de farelo de arroz e laranja para a confecção do bichinho da laranja",
+      "Inserção de suco de laranja para atrair larvas",
+      "Mention of filming the result after some days"
+    ]
+  }
+}

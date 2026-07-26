@@ -1,0 +1,39 @@
+{
+  "arquivo": "fCgiMwFzDP0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:08:17.068705",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Cachara"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Coletes",
+      "Corda"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Liadão",
+      "Armadilhas"
+    ],
+    "rios": [
+      "Rio Arinos"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "Juara",
+    "tipo_pesca": [
+      "Pesca com Armadilhas",
+      "Pesca de Molinete"
+    ],
+    "observacoes": [
+      "Chuva intensa durante a atividade",
+      "Uso de coletes de segurança",
+      "Pesca realizada em horário noturno e matinal",
+      "Nível do rio elevado devido às chuvas"
+    ]
+  }
+}

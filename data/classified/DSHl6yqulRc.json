@@ -1,0 +1,23 @@
+{
+  "arquivo": "DSHl6yqulRc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:36:05.757420",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Ração"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Mistura de ração com ferro em vez de ovo"
+    ]
+  }
+}

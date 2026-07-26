@@ -1,0 +1,28 @@
+{
+  "arquivo": "jtkG_Eps5qA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:17:01.729054",
+  "classificacao": {
+    "peixes": [
+      "Três Marias",
+      "Amarelo",
+      "Azul",
+      "Bitelo",
+      "Gig"
+    ],
+    "equipamentos": [
+      "vara",
+      "âncora",
+      "passaguá",
+      "régua",
+      "pedra"
+    ],
+    "iscas": [
+      "jigue"
+    ],
+    "cevas": [],
+    "outros": [
+      "Angler"
+    ]
+  }
+}

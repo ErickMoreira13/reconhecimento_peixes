@@ -1,0 +1,41 @@
+{
+  "arquivo": "ZqVYPJFX-5Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:42:30.778098",
+  "classificacao": {
+    "especies": [
+      "Jau",
+      "Paraquê"
+    ],
+    "equipamentos": [
+      "vara",
+      "tria",
+      "isca",
+      "radinho",
+      "lanterna",
+      "canoa",
+      "frigideira",
+      "óleo",
+      "pão",
+      "linguiça",
+      "carro",
+      "4x4"
+    ],
+    "iscas": [
+      "isca",
+      "pássaro",
+      "beijosa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Preto"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

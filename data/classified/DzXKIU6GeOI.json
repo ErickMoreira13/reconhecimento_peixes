@@ -1,0 +1,32 @@
+{
+  "arquivo": "DzXKIU6GeOI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:34:05.726832",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Espinhel"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "episódios da pesca mortal",
+      "pesca mortal paraíso",
+      "situação",
+      "comandante aqui mandando ver no timão",
+      "trabalhando",
+      "chaga do espinhel",
+      "salve peixe",
+      "aguardando a primeira pescada amarela que vai subir",
+      "agora saindo para a noção",
+      "duas horas e meia de espinhel na água"
+    ]
+  }
+}

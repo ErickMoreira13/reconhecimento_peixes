@@ -1,0 +1,25 @@
+{
+  "arquivo": "MHhhfDnX9JI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:15:07.336563",
+  "classificacao": {
+    "especies": [
+      "Baiacu"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "Jl_dqYAAL60",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:07:02.740431",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Erva de mata fechada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

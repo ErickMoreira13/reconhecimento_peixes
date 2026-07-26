@@ -1,0 +1,46 @@
+{
+  "arquivo": "pWbHrLAFn60",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:23:05.967839",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Caixa de isca",
+      "Anzol",
+      "Fio de linha",
+      "Isca de alta pressão",
+      "Isca de alta pressão (high reed)",
+      "Agulha especial",
+      "Massa de isca",
+      "Cebador"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Aveia",
+      "Farinha de milho",
+      "Milho doce"
+    ],
+    "tecnicas": [
+      "Montagem com stopper e perlita",
+      "Uso de isca de alta pressão (high reed)",
+      "Preparação da massa de isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Guanajuato",
+    "municipio": "León",
+    "tipo_pesca": [
+      "Pesca de carpa"
+    ],
+    "observacoes": [
+      "Efetividade do montagem com stopper e perlita",
+      "Uso de massa de isca com aveia, farinha de milho e milho doce",
+      "Menciona a marca 'corda' como ingrediente"
+    ]
+  }
+}

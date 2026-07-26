@@ -1,0 +1,48 @@
+{
+  "arquivo": "NBultvOLTBU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:28:57.879456",
+  "classificacao": {
+    "especies": [
+      "Aracu",
+      "Cará",
+      "Peixe de Couro"
+    ],
+    "equipamentos": [
+      "Embarcação de Pesca",
+      "Sarda",
+      "Linha Chumbadinha"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca com Isca Viva",
+      "Lançamento de Isca",
+      "Retirada de Isca"
+    ],
+    "rios": [
+      "Tapajós"
+    ],
+    "bacias": [
+      "Bacia do Tapajós"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Rios"
+    ],
+    "observacoes": [
+      "Água poluída com lixo",
+      "Presença de peixes grandes",
+      "Necessidade de preservação do ambiente"
+    ]
+  }
+}

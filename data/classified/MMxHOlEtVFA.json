@@ -1,0 +1,28 @@
+{
+  "arquivo": "MMxHOlEtVFA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:39:24.403039",
+  "classificacao": {
+    "species": [
+      "mandi",
+      "mandiozinho amarelo",
+      "mandiaçu"
+    ],
+    "equipment": [
+      "vara",
+      "carretilha",
+      "linha",
+      "guarda-sol",
+      "barco"
+    ],
+    "baits": [
+      "salsicha",
+      "milho",
+      "calabresa",
+      "minhoca"
+    ],
+    "location": "Viamo",
+    "river": "Rio",
+    "other_notes": "Pacu was mentioned but not caught; fishing occurred in August."
+  }
+}

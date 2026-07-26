@@ -1,0 +1,30 @@
+{
+  "arquivo": "vJtrutzgRhM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:08:45.486467",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chão",
+      "Amortecedor",
+      "Girador",
+      "Chicote",
+      "Anzol",
+      "Encastanhado"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

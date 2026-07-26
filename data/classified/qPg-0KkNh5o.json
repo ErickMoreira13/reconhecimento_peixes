@@ -1,0 +1,44 @@
+{
+  "arquivo": "qPg-0KkNh5o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:57:13.584733",
+  "classificacao": {
+    "espécies": [
+      "Tucunaré Pinima",
+      "Bicuda",
+      "Cachorra",
+      "Peixe de Couro"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Câmera",
+      "Jig",
+      "Snap Show",
+      "Pau do Pau"
+    ],
+    "iscas": [
+      "Killer Jig",
+      "Jig",
+      "Encrenca",
+      "Trinchãzinha"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "técnicas": [
+      "Pesca Predatória",
+      "Pesca com Artificial",
+      "Uso de Jig",
+      "Uso de Killer Jig",
+      "Troca de Isca"
+    ],
+    "rios": [
+      "Rio Roosevelt"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "",
+    "contato": ""
+  }
+}

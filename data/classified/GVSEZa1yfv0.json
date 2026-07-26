@@ -1,0 +1,23 @@
+{
+  "arquivo": "GVSEZa1yfv0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:21:09.647626",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Traia"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca no alagado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "CMrrNxgPZvg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:46:13.749514",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Cariúi"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

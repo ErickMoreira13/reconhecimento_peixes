@@ -1,0 +1,26 @@
+{
+  "arquivo": "-toigqvhc0M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:52:30.868357",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Aracu",
+      "Sardinha",
+      "Matupiri",
+      "Tambaqui",
+      "Sargão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

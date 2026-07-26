@@ -1,0 +1,47 @@
+{
+  "arquivo": "gQlMulUhtmg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:13:12.410198",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Matrinchã",
+      "Dourado",
+      "Tilápia",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Molinetes ultralight",
+      "Varinha de 5 libras",
+      "Spinnerzinho",
+      "Spinner bait duplo",
+      "Rubber jig",
+      "Alicate"
+    ],
+    "iscas": [
+      "Spinnerzinho",
+      "Spinner bait duplo",
+      "Rubber jig",
+      "Hard spinnerbait",
+      "Colherzinha",
+      "Softzinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de spinnerzinho",
+      "Uso de spinner bait duplo",
+      "Uso de hard spinnerbait"
+    ],
+    "local": "Big Peixe",
+    "tempo": [
+      "Meio dia",
+      "Lua"
+    ],
+    "observacoes": [
+      "Peixes escaparam",
+      "Tipamentos quebrados",
+      "Isca eficaz no pesqueiro"
+    ]
+  }
+}

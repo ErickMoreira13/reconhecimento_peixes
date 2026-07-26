@@ -1,0 +1,27 @@
+{
+  "arquivo": "LYuQZWwC1I4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:23:43.337858",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "ceva"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Parnaíba"
+    ],
+    "bacias": [
+      "Bacia do Parnaíba"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

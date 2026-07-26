@@ -1,0 +1,17 @@
+{
+  "arquivo": "11diq_nRBbs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:56:15.294198",
+  "classificacao": {
+    "summary": "O vídeo apresenta uma conversa entre participantes de uma atividade de pesca, destacando os desafios enfrentados devido ao clima, a importância da pesca como atividade para crianças e saúde mental, e a conexão comunitária do canal no YouTube. Eles discutem técnicas de pesca, equipamentos e a experiência de passar tempo na natureza, enfatizando a diversão e o bem-estar. O conteúdo também inclui um fechamento com mensagens de paz e apreciação pela paisagem da Praia de Caueira.",
+    "key_points": [
+      "Promoção da pesca como alternativa para crianças se afastarem do excesso de internet.",
+      "Benefícios da pesca para a saúde mental e conexão com a natureza.",
+      "Desafios climáticos enfrentados durante a atividade.",
+      "Técnicas e equipamentos mencionados (ex.: iscas, linhas, carretilhas).",
+      "Enfoque na comunidade e interação com o público via YouTube.",
+      "Mensagens de encerramento com ênfase em paz e apreciação pela paisagem."
+    ],
+    "structure_suggestion": "1. Introdução: Apresentação do canal e propósito do vídeo. 2. Desafios climáticos: Como o tempo afeta a pesca. 3. Técnicas e equipamentos: Explicação prática de métodos de pesca. 4. Benefícios para crianças e saúde mental: Conexão com a natureza e educação. 5. Comunidade e interação: Destaque ao engajamento do público. 6. Conclusão: Mensagens de encerramento e apreciação pela experiência."
+  }
+}

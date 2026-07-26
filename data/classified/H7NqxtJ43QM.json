@@ -1,0 +1,36 @@
+{
+  "arquivo": "H7NqxtJ43QM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:43:13.459116",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Perinha"
+    ],
+    "equipamentos": [
+      "Vara de Bambu",
+      "Anzol",
+      "Coquinho",
+      "Massa"
+    ],
+    "iscas": [
+      "Coquinho",
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Batida"
+    ],
+    "rios": [],
+    "bacias": [
+      "Pantanal"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Batida"
+    ],
+    "observacoes": []
+  }
+}

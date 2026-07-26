@@ -1,0 +1,38 @@
+{
+  "arquivo": "maFg0P2GgmA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:54:09.413023",
+  "classificacao": {
+    "localizacao": {
+      "lugar": "Represa de Três Marias",
+      "estado": "Minas Gerais",
+      "municipio": "Três Marias"
+    },
+    "especies": [
+      "Piau",
+      "Pirapara",
+      "Pacu",
+      "Tambaqui",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "barcos",
+      "motor de popa",
+      "pier",
+      "chalés",
+      "fogão",
+      "forno elétrico",
+      "micro-ondas",
+      "air fry",
+      "freezer",
+      "geladeira",
+      "chuveiro quente"
+    ],
+    "grande_peixe": "Piau",
+    "cevada": "cevado",
+    "outros": {
+      "lugar_quieto": "lugar tranquilo",
+      "pousada": "pousada"
+    }
+  }
+}

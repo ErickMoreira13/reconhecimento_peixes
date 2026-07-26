@@ -1,0 +1,40 @@
+{
+  "arquivo": "1Hr0XcXQFLM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:23:20.620226",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Piau",
+      "Duco",
+      "Fura"
+    ],
+    "equipamentos": [
+      "Pau"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Definitiva",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Furar",
+      "Deixar na Pirada do Barranco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "vai passar de um mês aqui",
+      "os curimbas vêm chupa, chupando esses ingredientes aqui",
+      "furar também",
+      "vai acostumando os peixes aqui"
+    ]
+  }
+}

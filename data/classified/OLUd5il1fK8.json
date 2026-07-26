@@ -1,0 +1,31 @@
+{
+  "arquivo": "OLUd5il1fK8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:55:40.056754",
+  "classificacao": {
+    "especies": [
+      "tambaqui",
+      "lambari",
+      "piau",
+      "passaguá",
+      "ouro"
+    ],
+    "equipamentos": [
+      "varas",
+      "anzol",
+      "carvão"
+    ],
+    "iscas": [
+      "milho",
+      "trato",
+      "lambarinho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "grãos": [
+      "milho"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "arquivo": "nezjVVlKwGM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:51:12.877547",
+  "classificacao": {
+    "resumo_video": {
+      "tema_principal": "Fishing and cooking session with friends",
+      "atividades_realizadas": [
+        {
+          "atividade": "Pescaria",
+          "detalhes": {
+            "método": "Uso de iscas e observação do movimento da boia",
+            "interação": "Conversas informais com amigos (Sarto, Larissa, Jussara) sobre a experiência de pescar",
+            "termos_usados": [
+              "bater boia",
+              "fago",
+              "fogo",
+              "fisgada",
+              "pescado"
+            ]
+          }
+        },
+        {
+          "atividade": "Cozinha",
+          "detalhes": {
+            "prato_principal": "Frango cozido",
+            "comparação": "Melhor que o preparado anteriormente em casa",
+            "detalhes_receita": "Menciona ingredientes e técnicas de preparo, com ênfase na qualidade do resultado"
+          }
+        }
+      ],
+      "ambiente": "Ao ar livre, provavelmente em uma área de pesca com elementos naturais (água, vegetação)",
+      "tom_e_estilo": {
+        "linguagem": "Informal, repetitiva e coloquial",
+        "interação": "Muita troca de palavras com os companheiros, uso de expressões como 'tchau' e 'vamos ver'",
+        "objetivo": "Criar um clima descontraído e envolvente para o espectador"
+      },
+      "ponto_forte": "Combinação de entretenimento (pesca) e demonstração de habilidades culinárias, com destaque para a interação social"
+    },
+    "sugestões": {
+      "melhorias": [
+        "Incluir legendas ou subtítulos para facilitar a compreensão de partes repetitivas",
+        "Destacar momentos-chave da pescaria (ex.: quando o peixe é puxado)",
+        "Explicar melhor a receita do frango para engajar o público interessado em culinária"
+      ],
+      "pontos_fortes_a_mantener": [
+        "Estilo casual e autêntico, que conecta com o público",
+        "Presença de amigos, que adiciona dinamismo e realismo"
+      ]
+    }
+  }
+}

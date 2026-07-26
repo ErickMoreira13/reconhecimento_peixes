@@ -1,0 +1,25 @@
+{
+  "arquivo": "1zNdMlbkQFA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:03:03.284702",
+  "classificacao": {
+    "especies": [
+      "Iguaçuzão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "mar"
+    ]
+  }
+}

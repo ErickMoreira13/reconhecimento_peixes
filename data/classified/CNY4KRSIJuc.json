@@ -1,0 +1,52 @@
+{
+  "arquivo": "CNY4KRSIJuc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:47:51.270520",
+  "classificacao": {
+    "especies": [
+      "Lagarto",
+      "Araçatuba",
+      "Matrinchã",
+      "Matrinchão",
+      "Tucuna",
+      "Piau",
+      "Lambari",
+      "Caiau",
+      "Bicuda"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Câmera"
+    ],
+    "iscas": [
+      "Isca barbeluda",
+      "Totop"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Totop",
+      "Arremesso",
+      "Espichar linha",
+      "Deixar isca afundar",
+      "Chamar cachorrinho"
+    ],
+    "rios": [
+      "Rio Claro",
+      "Rio Arinos"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "São José do Rio Claro",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca de superfície"
+    ],
+    "observacoes": [
+      "Água limpa",
+      "Vegetação abundante",
+      "Lugar lindo",
+      "Cardume de peixes pequenos"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "xE4rAgPk4GI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:48:32.389228",
+  "classificacao": {
+    "especies": [
+      "camarão"
+    ],
+    "equipamentos": [
+      "rede de camarão",
+      "balde",
+      "canoa"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "grãos": [],
+    "local": "Garapé",
+    "clima": "muita chuva",
+    "esforço": "esforço para puxar a rede"
+  }
+}

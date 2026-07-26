@@ -1,0 +1,21 @@
+{
+  "arquivo": "kmMnV4PpPik",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:58:28.818730",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Porto Amazonas",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

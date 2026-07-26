@@ -1,0 +1,29 @@
+{
+  "arquivo": "ZFKEFmWC_Po",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:11:01.102970",
+  "classificacao": {
+    "species": [
+      "Traíra"
+    ],
+    "equipment": [
+      "Carretilha",
+      "Vara",
+      "Alicate"
+    ],
+    "baits": [],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "Superfície"
+    ],
+    "rivers": [],
+    "basins": [
+      "Billings"
+    ],
+    "state": "São Paulo",
+    "municipality": "São Paulo",
+    "type_of_fishing": "Pesca Esportiva",
+    "observations": "Uso de isca de soft e garateia. Filmando à noite sem lanterna de cabeça. Desafio de medir o peixe sem alicate."
+  }
+}

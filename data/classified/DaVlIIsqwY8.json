@@ -1,0 +1,29 @@
+{
+  "arquivo": "DaVlIIsqwY8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:45:15.668326",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Barba Chata",
+      "Cachara",
+      "Pintado",
+      "Alheio"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guaporé"
+    ],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "São Francisco do Guaporé, Costa Marques",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

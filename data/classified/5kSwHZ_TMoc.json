@@ -1,0 +1,32 @@
+{
+  "arquivo": "5kSwHZ_TMoc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:16:59.733224",
+  "classificacao": {
+    "especies": [
+      "Serra",
+      "Barracuda"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Subaquática",
+      "Caça Subaquática"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Subaquática",
+      "Pesca de Alto Mar"
+    ],
+    "observacoes": [
+      "Água turva na superfície, mas boa embaixo",
+      "Clima favorável",
+      "Captura de 40 kg de serra e 7,2 kg de barracuda"
+    ]
+  }
+}

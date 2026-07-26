@@ -1,0 +1,28 @@
+{
+  "arquivo": "-e5iUbVnJlc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:16:12.070618",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Disco de corte de metal",
+      "Martelo",
+      "Pregos",
+      "Peça de bicicleta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arpão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com arpão"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "arquivo": "5LJGOp-dkZw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:17:43.894847",
+  "classificacao": {
+    "especies": [
+      "Tucunore",
+      "Roubalo"
+    ],
+    "equipamentos": [
+      "VMC 7237",
+      "Maruri Caju Vermelho"
+    ],
+    "iscas": [
+      "Realis Jerkbait 85 SP"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "chamadinha",
+      "intermediário",
+      "recolhimento contínuo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de Tucunores",
+      "pesca de Roubalos"
+    ],
+    "observacoes": []
+  }
+}

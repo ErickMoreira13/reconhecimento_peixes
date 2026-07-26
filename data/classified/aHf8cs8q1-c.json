@@ -1,0 +1,41 @@
+{
+  "arquivo": "aHf8cs8q1-c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:45:09.274694",
+  "classificacao": {
+    "especies": [
+      "Tabarana"
+    ],
+    "equipamentos": [
+      "Shark 3000",
+      "Fisher",
+      "castor",
+      "chumbada",
+      "anzol 2-0",
+      "pino de boia"
+    ],
+    "iscas": [
+      "lambari",
+      "iscas artificiais"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pescaria com isca viva",
+      "pescaria com iscas artificiais",
+      "uso de pino de boia como stop"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca viva",
+      "pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "usar chumbada mais pesada em correntezas fortes",
+      "usar iscas artificiais como alternativa"
+    ]
+  }
+}

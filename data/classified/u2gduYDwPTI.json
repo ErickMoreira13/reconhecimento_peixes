@@ -1,0 +1,23 @@
+{
+  "arquivo": "u2gduYDwPTI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:37:46.530090",
+  "classificacao": {
+    "especies": [
+      "Tabaqueiro"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Moriaé",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescaria em 2020 no lago da Fundação Cristiano Varela, próximo ao Hospital do Cancian de Moriaé. Tabaqueiro de 60 kg capturado pelo senador Léo Varela e seu filho Luciano Varela."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "tljc5fwbE1Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:08:40.374777",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Super bonde"
+    ],
+    "iscas": [
+      "Azorzinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de bater e puxar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

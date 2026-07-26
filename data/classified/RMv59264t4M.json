@@ -1,0 +1,25 @@
+{
+  "arquivo": "RMv59264t4M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:13:15.358434",
+  "classificacao": {
+    "especies": [
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Menciona jacaré e palaquedo (termo não padronizado), com advertências sobre aproximação"
+    ]
+  }
+}

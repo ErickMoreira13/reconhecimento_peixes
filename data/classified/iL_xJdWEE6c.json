@@ -1,0 +1,26 @@
+{
+  "arquivo": "iL_xJdWEE6c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:50:46.868169",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "varinha",
+      "barranco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Arinas"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

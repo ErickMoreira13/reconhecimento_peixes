@@ -1,0 +1,34 @@
+{
+  "arquivo": "OJXr2xVDqK0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:53:07.240592",
+  "classificacao": {
+    "especies": [
+      "curimba",
+      "piau",
+      "piapara",
+      "pacu",
+      "lambari"
+    ],
+    "equipamentos": [
+      "anzóis (Super Maru Seicon e Mariner Sports, tamanhos 12 ou 14)",
+      "monofilamento (0,35 a 0,40 mm de espessura)",
+      "chumbo de 60 gramas"
+    ],
+    "comportamento_de_peixes": [
+      "curimba é lenta e sensível a anzóis e linhas",
+      "requer paciência para pescar",
+      "evita áreas com equipamentos de pesca visíveis"
+    ],
+    "local_de_ceva": [
+      "áreas onde a correnteza encontra água parada (remansos)",
+      "profundidade e distância para lançar dependem da profundidade local"
+    ],
+    "segredos_de_pesca": [
+      "usar anzóis pequenos e fortes",
+      "usar chumbo pesado para manter a isca no lugar",
+      "ter paciência",
+      "não mover a linha excessivamente"
+    ]
+  }
+}

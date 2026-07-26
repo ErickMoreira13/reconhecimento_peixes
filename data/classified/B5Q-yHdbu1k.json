@@ -1,0 +1,13 @@
+{
+  "arquivo": "B5Q-yHdbu1k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:34:35.203286",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de uma conversa informal entre pessoas, provavelmente amigos ou familiares, durante uma atividade ao ar livre, como pesca. Eles discutem detalhes sobre a pesca (tipos de peixe, equipamentos como enfieiro e molinete), preparação de alimentos (churrasco), e interações sociais, como o consumo de mate. O tom é casual, com repetições e linguagem coloquial típica de conversas informais. O conteúdo menciona nomes como Vilma, Larissa, Bodes, Vuma e outros, sugerindo que se trata de um grupo de pessoas com laços sociais próximos.",
+    "next_steps": [
+      "Oferecer tradução para inglês ou outro idioma",
+      "Solicitar análise de termos específicos (ex.: tipos de peixe, equipamentos de pesca)",
+      "Perguntar se há necessidade de identificar contextos culturais ou regionais mencionados no texto"
+    ]
+  }
+}

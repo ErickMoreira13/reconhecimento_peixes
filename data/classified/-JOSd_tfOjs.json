@@ -1,0 +1,29 @@
+{
+  "arquivo": "-JOSd_tfOjs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:19:48.195886",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Baita"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca e soltura"
+    ],
+    "rios": [
+      "Rio Grande"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

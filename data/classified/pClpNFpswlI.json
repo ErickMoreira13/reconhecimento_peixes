@@ -1,0 +1,23 @@
+{
+  "arquivo": "pClpNFpswlI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:00:31.960353",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Ilha Solteira",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Tamanho da criança capturada (mais de 2 kg)",
+      "Menciona a boca da espécie",
+      "Não revela localização do recanto"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "arquivo": "TWjem-H_9cw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:01:04.550143",
+  "classificacao": {
+    "isca": [
+      "Piaba viva",
+      "Sardinha",
+      "Piau",
+      "Isca artificial"
+    ],
+    "ceva": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "equipamento": [
+      "Caiaque",
+      "Vara",
+      "Alisol",
+      "Fricção",
+      "Alicate"
+    ],
+    "especie": [
+      "Piaba",
+      "Sardinha",
+      "Piau",
+      "Bicuda",
+      "Tucunaré",
+      "Piranha"
+    ],
+    "local": "Areia",
+    "tipo_de_pesca": "Pesca esportiva",
+    "observacoes": "A pesca foi realizada em um local com areia, utilizando iscas naturais e artificiais. Houve excitação ao capturar peixes grandes, como tucunaré e piranha. Alguns iscas foram perdidos durante a pesca, e a equipe utilizou iscas artificiais quando as naturais se esgotaram."
+  }
+}

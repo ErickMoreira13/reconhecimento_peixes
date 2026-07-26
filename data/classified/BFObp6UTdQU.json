@@ -1,0 +1,28 @@
+{
+  "arquivo": "BFObp6UTdQU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:03:19.353306",
+  "classificacao": {
+    "especies": [
+      "Jopal"
+    ],
+    "equipamentos": [
+      "Tarraca",
+      "Atarrapada"
+    ],
+    "iscas": [
+      "Moceguinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "arquivo": "d4UrjXvo4nA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:41:08.372631",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "hidrocevador"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "fermentação acelerada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "uso de leite e vinagre de maçã como aditivos",
+      "ceva deixada por até quatro dias",
+      "uso de balde de 15 quilos"
+    ]
+  }
+}

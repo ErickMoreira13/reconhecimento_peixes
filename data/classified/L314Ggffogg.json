@@ -1,0 +1,46 @@
+{
+  "arquivo": "L314Ggffogg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:43:44.702298",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Branquinha",
+      "Jaraki",
+      "Nascida",
+      "Fritinho"
+    ],
+    "equipamentos": [
+      "vara de pescar",
+      "rede",
+      "malha 35",
+      "malha 40"
+    ],
+    "iscas": [
+      "isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pescaria de rede",
+      "arrastadeira"
+    ],
+    "rios": [
+      "Rio Negro"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Cacau Pereira",
+    "tipo_pesca": [
+      "pesca artesanal",
+      "pesca de rede"
+    ],
+    "observacoes": [
+      "pescador utiliza rede para subsistência e comercializa o excedente",
+      "presença de boto na região",
+      "malha 35 para capturar branquinhas maiores",
+      "malha 40 para jaraki",
+      "uso de isca artificial para tucunaré"
+    ]
+  }
+}

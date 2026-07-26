@@ -1,0 +1,46 @@
+{
+  "arquivo": "o5j9isxV0u8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:11:38.809183",
+  "classificacao": {
+    "especies": [
+      "Pirapitingua",
+      "Matupiri",
+      "Sardinha",
+      "Pacu",
+      "Piau",
+      "Piranha",
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Varas",
+      "Remo",
+      "Cadeira",
+      "Deitadeira",
+      "Bolsa térmica",
+      "GoPro",
+      "Óculos",
+      "Alicates",
+      "Faca",
+      "Celular",
+      "Capa de chuva",
+      "Boné",
+      "Facão",
+      "Varinha de bambu"
+    ],
+    "isca": [
+      "Isca",
+      "Queijo",
+      "Mussarela de búfala",
+      "Mussarela"
+    ],
+    "local": [],
+    "tipo de pesca": [
+      "Pesca com isca",
+      "Pesca com varinha de bambu",
+      "Pesca com queijo",
+      "Pesca com mussarela"
+    ]
+  }
+}

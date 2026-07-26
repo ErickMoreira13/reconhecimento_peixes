@@ -1,0 +1,44 @@
+{
+  "arquivo": "OoPyy0cZlFE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:58:02.553781",
+  "classificacao": {
+    "species": [
+      "amarelão",
+      "trairão"
+    ],
+    "equipment": {
+      "brands": [
+        "Fichinco",
+        "Sumax",
+        "Marina Sport",
+        "Ventura"
+      ],
+      "lures": [
+        "Joker 113",
+        "Plusone",
+        "Minion Pro",
+        "isquinha soft"
+      ],
+      "other": [
+        "GoPro (for filming)",
+        "luva da Fichinco (glove)"
+      ]
+    },
+    "techniques": [
+      "fishing with surface lures (superfície)",
+      "using soft lures (isquinha soft)",
+      "casting to the bottom (no fundo)",
+      "adjusting reel drag (frição)"
+    ],
+    "locations": [
+      "middle of the river (meio do rio)",
+      "bottom of the river (fundo do rio)",
+      "shore (beirada)"
+    ],
+    "additional_details": {
+      "fish_handling": "releasing fish after catching",
+      "testing": "experimenting with different lures and techniques"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "e6JfRsgJ92Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:37:59.881449",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Lambari",
+      "Pirã"
+    ],
+    "equipamentos": [
+      "Boia",
+      "Anzol"
+    ],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca viva"
+    ],
+    "rios": [
+      "Paraguaçu"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca viva"
+    ],
+    "observacoes": [
+      "O tucunaré é um predador que observa objetos em movimento na água"
+    ]
+  }
+}

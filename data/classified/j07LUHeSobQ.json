@@ -1,0 +1,33 @@
+{
+  "arquivo": "j07LUHeSobQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:36:46.220105",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Lambari"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca viva"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em águas paradas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Não foi pescado os apanharia devido à época de reprodução",
+      "Os peixes capturados foram utilizados como isca viva para a próxima pescaria"
+    ]
+  }
+}

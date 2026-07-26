@@ -1,0 +1,71 @@
+{
+  "arquivo": "C3MZCSwEfjI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:13:15.278687",
+  "classificacao": {
+    "especies": [
+      "Quagésima",
+      "Caixara",
+      "Prateada",
+      "Estiva",
+      "Piraíba",
+      "Barguinha",
+      "Mandubinha",
+      "Lambari",
+      "Surubim-sote",
+      "Lambarizinho",
+      "Mandubé",
+      "Barguinha",
+      "Bocuda",
+      "Bargadita",
+      "Cótica"
+    ],
+    "equipamentos": [
+      "carretilha",
+      "linha",
+      "anzol",
+      "chumbada",
+      "caixa",
+      "corredeira",
+      "praias",
+      "drop",
+      "banco de areia"
+    ],
+    "iscas": [
+      "biquinho de pato",
+      "minhocas",
+      "Manduguinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "cortar um pedaço da linha",
+      "amarrar normalmente o anzol",
+      "trocar de lado a linha",
+      "pescar com o mesmo equipamento",
+      "usar isca de Piraíba",
+      "pescar na beirada do rio",
+      "penteando a praia",
+      "deixar o lambari correr a praia"
+    ],
+    "rios": [
+      "Rio de Fishing",
+      "Araguaia"
+    ],
+    "bacias_hidrograficas": [],
+    "localidades": [
+      "pontinho de bargada",
+      "cabeceira de uma praia",
+      "banco de areia",
+      "corredeira",
+      "altura da praia",
+      "lugar do ano"
+    ],
+    "nomes_de_pessoas": [
+      "Luiz",
+      "João Vitão",
+      "Vitito",
+      "Guilherme"
+    ]
+  }
+}

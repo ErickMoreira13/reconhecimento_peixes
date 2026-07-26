@@ -1,0 +1,29 @@
+{
+  "arquivo": "Dm92p5S1BNU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:29:09.197405",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Lapia",
+      "Porquinho da Índia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca"
+    ],
+    "observacoes": [
+      "A ração de coelho e a ceva-peixe, apesar de ter a mesma utilidade, não é o mesmo produto."
+    ]
+  }
+}

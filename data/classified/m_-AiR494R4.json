@@ -1,0 +1,33 @@
+{
+  "arquivo": "m_-AiR494R4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:52:21.392881",
+  "classificacao": {
+    "especies": [
+      "carapateira",
+      "sarguinho",
+      "parati",
+      "baiacu",
+      "roubalo"
+    ],
+    "equipamentos": [
+      "chumbo",
+      "jig head",
+      "linha fina",
+      "varinha",
+      "chicote",
+      "anzóis"
+    ],
+    "iscas": [
+      "camarão morto",
+      "camarão branco"
+    ],
+    "métodos": [
+      "microjig",
+      "ultralight"
+    ],
+    "localização": "boca da barra Moçada",
+    "maré": "muito fraca",
+    "outros": []
+  }
+}

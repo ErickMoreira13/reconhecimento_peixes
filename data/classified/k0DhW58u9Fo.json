@@ -1,0 +1,44 @@
+{
+  "arquivo": "k0DhW58u9Fo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:26:27.708210",
+  "classificacao": {
+    "baits": [
+      {
+        "name": "Massa",
+        "duration": "10 minutes",
+        "notes": "Replaced after 10 minutes if no action. Used with a weight (Marine brand)."
+      },
+      {
+        "name": "Mafiche",
+        "duration": "10 minutes",
+        "notes": "Does not dissolve. Adjusted slightly after 10 minutes if no action."
+      },
+      {
+        "name": "Salsicha",
+        "duration": "15-40 minutes",
+        "notes": "Left in the water for 15-40 minutes depending on the situation."
+      },
+      {
+        "name": "Ficha",
+        "duration": "1-2 hours",
+        "notes": "Used for 1-2 hours. Not typically used with weights."
+      },
+      {
+        "name": "Sambiqueira",
+        "duration": "2-3 hours",
+        "notes": "Used for 2-3 hours. Not typically used with weights."
+      },
+      {
+        "name": "Ração de fundo",
+        "duration": "10 minutes",
+        "notes": "Used with a weight (Marine brand). Flavor changed after 1.5 hours if no action."
+      }
+    ],
+    "additional_notes": [
+      "Bait rotation is recommended if there's no action after the specified duration.",
+      "Weights are used only for 'massa' and 'ração de fundo' (Marine brand).",
+      "The speaker emphasizes adjusting baits based on environmental conditions and fish behavior."
+    ]
+  }
+}

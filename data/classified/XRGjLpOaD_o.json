@@ -1,0 +1,38 @@
+{
+  "arquivo": "XRGjLpOaD_o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:19:28.744770",
+  "classificacao": {
+    "especies": [
+      "Esturjão",
+      "Siluro",
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Armadilhas",
+      "Vara de pesca",
+      "Rede de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Armadilha",
+      "Rede de pesca"
+    ],
+    "rios": [
+      "Danúbio"
+    ],
+    "bacias": [],
+    "estado": "Romênia",
+    "municipio": "St. George",
+    "tipo_pesca": [
+      "Pesca com armadilha",
+      "Pesca com rede"
+    ],
+    "observacoes": [
+      "Declínio da população do esturjão beluga",
+      "Aumento da pressão sobre outras espécies devido à proibição da pesca do esturjão"
+    ]
+  }
+}

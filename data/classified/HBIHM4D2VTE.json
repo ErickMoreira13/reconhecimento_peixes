@@ -1,0 +1,28 @@
+{
+  "arquivo": "HBIHM4D2VTE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:56:44.107637",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Piaba viva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraíba",
+    "municipio": "Reiruraí",
+    "tipo_pesca": [
+      "Pesca com isca viva"
+    ],
+    "observacoes": []
+  }
+}

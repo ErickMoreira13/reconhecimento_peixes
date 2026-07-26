@@ -1,0 +1,28 @@
+{
+  "arquivo": "PPDxU85eqVo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:16:18.907404",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Pirarucu",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Sacola de água",
+      "Saquinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pirarara com coloração diferente"
+    ]
+  }
+}

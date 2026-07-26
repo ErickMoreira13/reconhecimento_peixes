@@ -1,0 +1,25 @@
+{
+  "arquivo": "D_jntmTOwuE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:44:06.282503",
+  "classificacao": {
+    "summary": "O texto descreve uma sessão de pesca com uso de sonar, técnicas de jigging e equipamentos específicos para capturar anchovas. O narrador compartilha experiências práticas, incluindo a preparação do equipamento, estratégias de pesca e detalhes sobre o uso de iscas e ferramentas como o 'gig' (possivelmente um gaff) e o 'suporte hook' (suporte para anzóis).",
+    "key_points": [
+      "Uso de sonar para localizar cardumes de peixe",
+      "Técnica de jigging com iscas específicas (jump jig)",
+      "Equipamentos mencionados: gig (ferramenta de pesca), suporte hook, anzóis",
+      "Foco na pesca de anchovas",
+      "Descrição de métodos para preparar e armazenar o pescado capturado"
+    ],
+    "equipment_explanation": {
+      "gig": "Ferramenta usada para capturar peixes grandes, geralmente com uma haste e ponta afiada",
+      "suporte hook": "Dispositivo que ajuda a manter o anzol em posição durante a pesca"
+    },
+    "fishing_techniques": [
+      "Jigging: técnica de movimento vertical com iscas para atrair peixes",
+      "Uso de sonar para identificar áreas com alta densidade de peixes",
+      "Preparação de iscas (como anchovas) para a pesca"
+    ],
+    "additional_notes": "O texto parece ser uma narrativa prática, com dicas de campo e observações sobre a eficácia dos métodos utilizados."
+  }
+}

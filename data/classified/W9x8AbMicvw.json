@@ -1,0 +1,28 @@
+{
+  "arquivo": "W9x8AbMicvw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:57:49.524029",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Isca de Meia Água"
+    ],
+    "iscas": [
+      "Isca de Meia Água"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalho imediato da isca após o arremesso",
+      "Arremesso com maniveladas iniciais para atingir profundidade"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Observar o comportamento do peixe para determinar se ele prefere áreas mais profundas ou superficiais"
+    ]
+  }
+}

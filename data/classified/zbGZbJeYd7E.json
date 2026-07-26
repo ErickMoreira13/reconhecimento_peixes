@@ -1,0 +1,24 @@
+{
+  "arquivo": "zbGZbJeYd7E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:05:52.628491",
+  "classificacao": {
+    "especies": [
+      "Pescada",
+      "Surubim"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapecuru"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

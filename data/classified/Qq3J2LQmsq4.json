@@ -1,0 +1,39 @@
+{
+  "arquivo": "Qq3J2LQmsq4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:58:58.956887",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Motorzão 50",
+      "Canoe"
+    ],
+    "iscas": [
+      "Isca em vermelhinha",
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de barranquinho"
+    ],
+    "rios": [
+      "Rio Araguaia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de barranquinho"
+    ],
+    "observacoes": [
+      "Presença de polícia ambiental e polícia militar no local",
+      "Dificuldade em pescar devido à fiscalização",
+      "Menciona a importância do Rio Araguaia e a dificuldade de pesca no ano atual",
+      "Reflexões sobre a vida e a luta pessoal"
+    ]
+  }
+}

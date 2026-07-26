@@ -1,0 +1,42 @@
+{
+  "arquivo": "YIxwsqIvDho",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:15:21.113407",
+  "classificacao": {
+    "species": [
+      "traíra",
+      "japa"
+    ],
+    "equipment": {
+      "rod": "Saitama",
+      "reel": "Curado",
+      "accessories": [
+        "support for rods",
+        "remos (oars)"
+      ]
+    },
+    "baits": [
+      "frog (surface bait)",
+      "soft (soft plastic lure)"
+    ],
+    "techniques": [
+      "surface fishing",
+      "using frog and soft lures"
+    ],
+    "location": "mountainous area (zona de serra)",
+    "other_details": {
+      "environmental_factors": [
+        "wind affecting boat position"
+      ],
+      "equipment_brands": [
+        "Saitama",
+        "Curado",
+        "perfil 200"
+      ],
+      "challenges": [
+        "difficulty in casting due to wind",
+        "adjusting to terrain in mountainous regions"
+      ]
+    }
+  }
+}

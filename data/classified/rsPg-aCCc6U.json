@@ -1,0 +1,28 @@
+{
+  "arquivo": "rsPg-aCCc6U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:30:06.217768",
+  "classificacao": {
+    "especies": [
+      "Lubina"
+    ],
+    "equipamentos": [
+      "Yozuri Surfate 90"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca em profundidade pequena",
+      "uso de semele com rolling e bowling marcados"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de lubinas"
+    ],
+    "observacoes": []
+  }
+}

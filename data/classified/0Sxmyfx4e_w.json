@@ -1,0 +1,29 @@
+{
+  "arquivo": "0Sxmyfx4e_w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:31:35.762158",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbinho",
+      "Miçanga",
+      "Dabarão"
+    ],
+    "iscas": [
+      "Dabarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pescar com vento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Usar miçanga para evitar danificar o nó ao pescar com vento"
+    ]
+  }
+}

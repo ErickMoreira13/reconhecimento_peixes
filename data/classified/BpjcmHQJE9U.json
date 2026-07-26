@@ -1,0 +1,37 @@
+{
+  "arquivo": "BpjcmHQJE9U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:31:06.082103",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Jundiá",
+      "Mandia"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Chicote",
+      "Chumbada",
+      "Distorcedor",
+      "Molinete",
+      "Stopper"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de montagem de chicote"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de bagres"
+    ],
+    "observacoes": [
+      "O chicote é feito com comprimento reduzido para demonstração",
+      "Uso de distorcedor para facilitar a manipulação da linha do molinete"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "PnJYBlPH0RQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:13:56.631023",
+  "classificacao": {
+    "especie": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "chuveirinho",
+      "linha de monofilamento 0.40"
+    ],
+    "iscas": [
+      "massinha",
+      "milho",
+      "minhoca",
+      "pastilha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "batata",
+      "mandioca"
+    ],
+    "localizacao": "",
+    "profundidade": "",
+    "outros": []
+  }
+}

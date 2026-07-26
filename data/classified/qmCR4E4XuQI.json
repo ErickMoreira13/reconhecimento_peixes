@@ -1,0 +1,31 @@
+{
+  "arquivo": "qmCR4E4XuQI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:35:16.771359",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "forma",
+      "suco de limão",
+      "vinagre branco",
+      "água"
+    ],
+    "iscas": [
+      "suco de limão",
+      "vinagre branco"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

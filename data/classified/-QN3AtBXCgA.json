@@ -1,0 +1,29 @@
+{
+  "arquivo": "-QN3AtBXCgA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:50:11.144984",
+  "classificacao": {
+    "especies": [
+      "Truta",
+      "Salmão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Riozinho"
+    ],
+    "bacias": [
+      "Monte Rude"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Frio intenso na região",
+      "Menciona a presença de truta e salmão no rio"
+    ]
+  }
+}

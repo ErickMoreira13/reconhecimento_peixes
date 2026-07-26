@@ -1,0 +1,23 @@
+{
+  "arquivo": "n_OsAkZlpro",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:25:39.475197",
+  "classificacao": {
+    "especies": [
+      "Pescada"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapecuru"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

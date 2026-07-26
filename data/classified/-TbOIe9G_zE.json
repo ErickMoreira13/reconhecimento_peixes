@@ -1,0 +1,23 @@
+{
+  "arquivo": "-TbOIe9G_zE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:52:02.769761",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Ferro de solda",
+      "Alicate de bico",
+      "Alicate de corte"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

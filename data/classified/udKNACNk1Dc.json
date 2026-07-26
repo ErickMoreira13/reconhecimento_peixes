@@ -1,0 +1,30 @@
+{
+  "arquivo": "udKNACNk1Dc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:20:48.228804",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha Furo Carbono",
+      "Distorcedor",
+      "Nó Trilene",
+      "Chumbada",
+      "Pingalim",
+      "Raglou"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca à baila"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca à baila"
+    ],
+    "observacoes": []
+  }
+}

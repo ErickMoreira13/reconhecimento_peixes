@@ -1,0 +1,32 @@
+{
+  "arquivo": "HKxMkTfol88",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:49:58.224925",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "frog",
+      "bad line"
+    ],
+    "iscas": [
+      "frog"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com frog"
+    ],
+    "rios": [],
+    "bacias": [
+      "Represa Guarapiranga"
+    ],
+    "estado": "São Paulo",
+    "municipio": "Guarapiranga",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

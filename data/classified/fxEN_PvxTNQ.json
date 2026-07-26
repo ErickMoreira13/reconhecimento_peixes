@@ -1,0 +1,32 @@
+{
+  "arquivo": "fxEN_PvxTNQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:59:31.496486",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Varinha",
+      "Molinete",
+      "Varinha Seca",
+      "Balancinho"
+    ],
+    "iscas": [
+      "Tesourinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Abatida",
+      "Pesca no Beto"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Abatida",
+      "Pesca no Beto"
+    ],
+    "observacoes": []
+  }
+}

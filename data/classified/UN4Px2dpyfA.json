@@ -1,0 +1,60 @@
+{
+  "arquivo": "UN4Px2dpyfA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:20:40.550629",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau",
+      "Piapara",
+      "Bagrú"
+    ],
+    "equipamentos": [
+      "motor 30HB",
+      "fogareira",
+      "guarda-sol",
+      "barco",
+      "celular"
+    ],
+    "iscas": [
+      "Tenebrio",
+      "massa de soja",
+      "milho",
+      "polentinha",
+      "salsicha"
+    ],
+    "cevas": [
+      "Ceva Natural (Tenebrio)",
+      "Ceva Proteica (massa de soja, milho)",
+      "Ceva de Partículas (galão perfurado)"
+    ],
+    "graos": [
+      "milho",
+      "soja"
+    ],
+    "tecnicas": [
+      "mudar o ponto",
+      "uso de iscas variadas",
+      "tentativa de pesca com diferentes métodos"
+    ],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [
+      "Poção"
+    ],
+    "estado": "Mato Grosso",
+    "municipio": "não especificado",
+    "tipos_de_pesca": [
+      "pesca de escama",
+      "pesca de couro"
+    ],
+    "observacoes": [
+      "dificuldade em capturar peixes devido à água fria",
+      "uso de fogareira para cozinhar",
+      "guarda-sol quebrado",
+      "poucos pescadores no rio",
+      "tentativa de pesca com diferentes iscas e técnicas"
+    ]
+  }
+}

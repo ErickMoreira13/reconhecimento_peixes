@@ -1,0 +1,34 @@
+{
+  "arquivo": "13kgK8Zjmis",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:56:32.324763",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Caixa"
+    ],
+    "iscas": [
+      "Tuvira"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Sacoalhada"
+    ],
+    "rios": [
+      "Rio Pelotas"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Sábado vamos pro Rio Pelotas"
+    ]
+  }
+}

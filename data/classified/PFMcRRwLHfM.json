@@ -1,0 +1,21 @@
+{
+  "arquivo": "PFMcRRwLHfM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:05:29.044378",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Isca Torpedo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

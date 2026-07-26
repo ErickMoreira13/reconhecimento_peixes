@@ -1,0 +1,25 @@
+{
+  "arquivo": "Z9DbRv1tQmQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:02:38.112917",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Uruguai"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Não é troféu, que é lindo dourado!"
+    ]
+  }
+}

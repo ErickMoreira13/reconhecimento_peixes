@@ -1,0 +1,46 @@
+{
+  "arquivo": "wAGYU1A71Us",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:58:59.931791",
+  "classificacao": {
+    "especies": {
+      "Barbado": {
+        "normalizado": "Barbado",
+        "ocorrencias": 3
+      },
+      "Piapara": {
+        "normalizado": "Piapara",
+        "ocorrencias": 1
+      }
+    },
+    "equipamentos": {
+      "Linha": {
+        "normalizado": "Linha",
+        "ocorrencias": 1
+      },
+      "Rodador": {
+        "normalizado": "Rodador",
+        "ocorrencias": 1
+      }
+    },
+    "iscas": {},
+    "cevas": {
+      "Ceva de Partículas": {
+        "normalizado": "Ceva de Partículas",
+        "ocorrencias": 0
+      }
+    },
+    "graos": {},
+    "rios": {
+      "Rio Grande": {
+        "normalizado": "Rio Grande",
+        "ocorrencias": 1
+      }
+    },
+    "bacias": {},
+    "estado": {},
+    "municipio": {},
+    "tipo_pesca": {},
+    "observacoes": {}
+  }
+}

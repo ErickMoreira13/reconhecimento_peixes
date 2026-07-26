@@ -1,0 +1,14 @@
+{
+  "arquivo": "IaQisUe6diw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:27:43.176485",
+  "classificacao": {
+    "summary": "O texto é uma transcrição informal de uma conversa durante uma pescaria, provavelmente em Miranda, Uberlândia, Minas Gerais. Os participantes discutem técnicas de pesca, a captura de um tilápia grande, e a preparação do peixe para fritar. Há interações sociais, exclamações de surpresa (como 'Ô, coisa linda' e 'Nossa senhora') e menções a equipamentos de pesca (como o 'passaguai'). O conteúdo termina com repetições de 'E aí', possivelmente como um chamado para o público ou encerramento do vídeo.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução para outro idioma",
+      "Análise das técnicas de pesca mencionadas",
+      "Explicação do contexto geográfico (Miranda, Uberlândia)"
+    ]
+  }
+}

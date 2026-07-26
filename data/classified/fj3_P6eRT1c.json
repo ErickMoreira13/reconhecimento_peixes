@@ -1,0 +1,21 @@
+{
+  "arquivo": "fj3_P6eRT1c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:24:54.748733",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio das Mortes"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

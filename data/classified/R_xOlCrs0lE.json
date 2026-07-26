@@ -1,0 +1,42 @@
+{
+  "arquivo": "R_xOlCrs0lE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:01:08.722695",
+  "classificacao": {
+    "especies": [
+      "Lapa",
+      "Bico de Pata",
+      "Corvinho"
+    ],
+    "equipamentos": [
+      "Linha de mão",
+      "Lanterna"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com linha de mão",
+      "Uso de iscas naturais"
+    ],
+    "rios": [
+      "Itapecuru"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície",
+      "Pesca com iscas vivas"
+    ],
+    "observacoes": [
+      "Condições climáticas nubladas e chuvosas",
+      "Rio Itapecuru com nível de água reduzido",
+      "Presença de camarões e peixes no local"
+    ]
+  }
+}

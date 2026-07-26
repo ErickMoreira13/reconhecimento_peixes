@@ -1,0 +1,40 @@
+{
+  "arquivo": "gV8f785HPI4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:19:50.062513",
+  "classificacao": {
+    "especies": [
+      "Chorão",
+      "Potoque",
+      "Dourado",
+      "Mandi prata",
+      "Piranha",
+      "Traíra",
+      "Lobó"
+    ],
+    "equipamento": [
+      "Isca de mortadela",
+      "Minhoca",
+      "Anzol",
+      "Ferrão"
+    ],
+    "isca": [
+      "Minhoca",
+      "Mortadela"
+    ],
+    "localização": [
+      "Mata fechada",
+      "Rio Dourado",
+      "Itaporã Montese",
+      "Dourado"
+    ],
+    "tempo": [
+      "Chuvoso",
+      "Garuando",
+      "Intransitável"
+    ],
+    "comida_do_pescador": [
+      "Pão mortadela"
+    ]
+  }
+}

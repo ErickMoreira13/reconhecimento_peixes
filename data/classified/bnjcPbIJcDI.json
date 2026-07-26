@@ -1,0 +1,40 @@
+{
+  "arquivo": "bnjcPbIJcDI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:28:44.178137",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "barco",
+      "motor",
+      "equipamentos de pesca"
+    ],
+    "iscas": [
+      "Tuvira",
+      "iscas artificiais"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "bater com Tuvira",
+      "pesca com iscas artificiais"
+    ],
+    "rios": [
+      "Tietê",
+      "Lençóis"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Barra Bonita",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "falta de sucesso na pesca",
+      "pneu da carreta em mau estado",
+      "paisagem maravilhosa do rio Tietê"
+    ]
+  }
+}

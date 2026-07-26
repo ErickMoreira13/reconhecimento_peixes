@@ -1,0 +1,25 @@
+{
+  "arquivo": "nlFMGlCYRv8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:16:46.847938",
+  "classificacao": {
+    "especies": [
+      "bagre negro",
+      "bagre blanco",
+      "guapote",
+      "pipona"
+    ],
+    "actividades": [
+      "pesca con chicharra",
+      "liberación de peces pequeños"
+    ],
+    "contexto": "competencia entre compañeros con apuesta de cerveza en un río",
+    "detalles_de_la_captura": {
+      "tamaño": "parte y media (medida local)",
+      "liberación": "peces pequeños o hembras liberados por conservación",
+      "herramientas": [
+        "sartenómetro (medidor de tamaño de peces)"
+      ]
+    }
+  }
+}

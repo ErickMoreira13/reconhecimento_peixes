@@ -1,0 +1,28 @@
+{
+  "arquivo": "6UuW2ObC6jE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:43:25.049878",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de chumbagem",
+      "Pesca leve"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de praia",
+      "Pesca embarcada",
+      "Pesca leve"
+    ],
+    "observacoes": []
+  }
+}

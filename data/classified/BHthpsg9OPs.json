@@ -1,0 +1,21 @@
+{
+  "arquivo": "BHthpsg9OPs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:14:40.092425",
+  "classificacao": {
+    "summary": "O texto é um relato informal de uma experiência de pesca em Jundiaí, no Brasil, com o uso de iscas artificiais e naturais (como minhoca e fígado). O narrador descreve a localização do local, a técnica de pesca, e uma experiência inesperada com javalis (porcos-do-mato) que invadiram a área, causando preocupação. Ele também menciona a captura de peixes, como saizanga e jundiá, e compartilha detalhes sobre a preparação do equipamento e a interação com a natureza. O tom é casual, com repetições e expressões coloquiais típicas de um vlog ou transmissão ao vivo.",
+    "key_points": [
+      "Localização: Jundiaí, SP",
+      "Técnicas de pesca: iscas artificiais e naturais",
+      "Encontro com javalis",
+      "Espécies capturadas: saizanga e jundiá",
+      "Contexto de segurança e interação com a natureza"
+    ],
+    "possible_requests": [
+      "Tradução para inglês",
+      "Resumo mais conciso",
+      "Análise de técnicas de pesca mencionadas",
+      "Explicação de termos específicos (ex: saizanga, jundiá)"
+    ]
+  }
+}

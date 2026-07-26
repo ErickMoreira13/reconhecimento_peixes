@@ -1,0 +1,21 @@
+{
+  "arquivo": "YC-sxn1XD8Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:07:09.388458",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca com o uso de iscas artificiais e técnicas específicas para capturar peixes como o piapara (possivelmente um tipo de piranha) e o dourado (peixe dourado). O autor menciona a preparação de iscas, como a megalóptera (um inseto aquático), e destaca a emoção do momento da captura. Além disso, há uma ênfase na prática de soltar o peixe após a captura, refletindo uma abordagem conservacionista. O conteúdo também inclui detalhes sobre o ambiente de pesca, o equipamento utilizado e a descrição do comportamento dos peixes durante a luta.",
+    "key_points": [
+      "Espécies de peixe alvo: piapara e dourado",
+      "Uso de iscas artificiais (megalóptera)",
+      "Técnica de pesca com foco em captura e liberação",
+      "Descrição do processo de luta do peixe",
+      "Mencione a importância da conservação na pesca"
+    ],
+    "possible_requests": [
+      "Tradução do texto para outro idioma",
+      "Análise técnica da pesca descrita",
+      "Dicas para melhorar a técnica de pesca",
+      "Explicação de termos específicos de pesca"
+    ]
+  }
+}

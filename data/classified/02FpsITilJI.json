@@ -1,0 +1,44 @@
+{
+  "arquivo": "02FpsITilJI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:56:54.422781",
+  "classificacao": {
+    "especies": [
+      "Mandi Prata",
+      "Chorão",
+      "Bitelão",
+      "Cascudo",
+      "Tabarana",
+      "Dourado"
+    ],
+    "equipamento": [
+      "Vara",
+      "Rede",
+      "Escascudo",
+      "Bitoneira",
+      "Artificial"
+    ],
+    "isca": [
+      "Minhoca",
+      "Pão doce",
+      "Caramelo"
+    ],
+    "local": [
+      "Rio Dourado",
+      "Ponte"
+    ],
+    "horário": [
+      "Meio dia e cinquenta e nove"
+    ],
+    "comentarios": [
+      "Água suja",
+      "Fraco de peixe",
+      "Tá fácil só pra comer",
+      "Vai ser usado para isca",
+      "É muito curso e tecnologia",
+      "Tá bom Graças a Deus",
+      "Tem dia que pega e dia que não pega",
+      "Se Deus quiser"
+    ]
+  }
+}

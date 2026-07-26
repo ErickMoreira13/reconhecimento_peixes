@@ -1,0 +1,44 @@
+{
+  "arquivo": "d2JRIrAQ18k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:39:47.911776",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Fundaça Boia",
+      "GoPro",
+      "Larinha Telescópica",
+      "Vara Telescópica"
+    ],
+    "iscas": [
+      "Filé de Traíra",
+      "Minhocas"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria Caipira",
+      "Pescaria com Boia"
+    ],
+    "rios": [
+      "Rio",
+      "Riozinho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria Caipira",
+      "Pescaria com Boia"
+    ],
+    "observacoes": [
+      "Uso de filé de traíra como isca",
+      "Captura e liberação de espécies invasoras",
+      "Menciona a pescaria tradicional e a nostalgia da infância",
+      "Uso de minhocas como isca para lambari"
+    ]
+  }
+}

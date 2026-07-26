@@ -1,0 +1,42 @@
+{
+  "arquivo": "NZwy58RcRIU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:50:16.092105",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "varinha curtinha",
+      "Linha de um metro",
+      "Anzolzinho duplo"
+    ],
+    "iscas": [
+      "peito de frango"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "pesca com anzol duplo",
+      "pesca em cantos do rio"
+    ],
+    "rios": [
+      "Rio dos Bois"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "Piau de 3 kg capturado",
+      "Uso de peito de frango como isca",
+      "Localização no Rio dos Bois"
+    ]
+  }
+}

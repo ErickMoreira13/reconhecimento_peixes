@@ -1,0 +1,44 @@
+{
+  "arquivo": "XT_Uyy4RsAU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:23:36.669578",
+  "classificacao": {
+    "especies": [
+      "Caranha",
+      "Piau"
+    ],
+    "equipamentos": [
+      "vara",
+      "carretilha",
+      "linha"
+    ],
+    "iscas": [
+      "massa de soja",
+      "farelo de soja"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Massa de Soja",
+      "Técnica de preparação de massa de soja"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "massa de soja feita com farelo de soja e água",
+      "massa mantém consistência por mais tempo",
+      "não precisa ser refrigerada",
+      "massa fica mais consistente ao ser preparada com antecedência"
+    ]
+  }
+}

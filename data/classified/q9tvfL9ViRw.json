@@ -1,0 +1,29 @@
+{
+  "arquivo": "q9tvfL9ViRw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:34:26.986049",
+  "classificacao": {
+    "fish": "Traíra",
+    "equipment": {
+      "cevas": [
+        "alface",
+        "piqui"
+      ],
+      "tools": [
+        "passaguá"
+      ]
+    },
+    "lures": [
+      "Grube",
+      "EWG Offset",
+      "Vibra"
+    ],
+    "location": {
+      "reservoir": "represa",
+      "regions": [
+        "Minas Gerais",
+        "Goiás"
+      ]
+    }
+  }
+}

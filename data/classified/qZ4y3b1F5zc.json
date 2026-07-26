@@ -1,0 +1,33 @@
+{
+  "arquivo": "qZ4y3b1F5zc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:40:32.989033",
+  "classificacao": {
+    "especies": [
+      "Filapia"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Linha",
+      "Ponteira"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com varinha curta",
+      "Frente e lado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria com varinha curta",
+      "Frente e lado"
+    ],
+    "observacoes": []
+  }
+}

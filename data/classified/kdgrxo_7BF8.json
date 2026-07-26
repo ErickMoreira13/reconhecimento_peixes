@@ -1,0 +1,38 @@
+{
+  "arquivo": "kdgrxo_7BF8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:25:04.771457",
+  "classificacao": {
+    "especies": [
+      "Aracu"
+    ],
+    "equipamentos": [
+      "Celular",
+      "Canoa",
+      "Barco",
+      "Ferramentas",
+      "Equipamento"
+    ],
+    "iscas": [
+      "Isqueiro"
+    ],
+    "graos": [],
+    "cevas": [],
+    "tecnicas": [
+      "Pesca à Noite",
+      "Pesca com Anzol",
+      "Pesca em Canoa"
+    ],
+    "rios": [
+      "Rio Paru",
+      "Rio Caracuru Velho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "Gravação com celular, pesca em canoa, experiência divertida"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "CykvcPYEUKc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:36:29.250238",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "caiaque",
+      "vara",
+      "anzol",
+      "chumbada",
+      "linha",
+      "rebarba de linha"
+    ],
+    "isca": [
+      "milho cozido",
+      "frango",
+      "calabresa",
+      "tripa",
+      "tenebrio"
+    ],
+    "montagem": [
+      "nó especial para água suja",
+      "uso de um anzol só",
+      "montagem com dois anzóis (mas não recomendado)"
+    ]
+  }
+}

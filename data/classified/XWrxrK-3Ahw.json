@@ -1,0 +1,37 @@
+{
+  "arquivo": "XWrxrK-3Ahw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:27:09.932654",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Curvina"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Anzalzinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria Bruta",
+      "Pescaria com Lambari Vivo"
+    ],
+    "rios": [
+      "Tietê"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "pegamos a cota",
+      "muita curvina",
+      "lambari vivo é com nota fiscal",
+      "participação da sogra"
+    ]
+  }
+}

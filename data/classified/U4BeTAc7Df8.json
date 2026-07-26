@@ -1,0 +1,32 @@
+{
+  "arquivo": "U4BeTAc7Df8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:38:19.094225",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu",
+      "Unha de Gato"
+    ],
+    "iscas": [
+      "Calabresa de Churrasco"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca de Calabresa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca Natural"
+    ],
+    "observacoes": [
+      "Uso de calabresa crua como isca foi eficaz na pesca de bagres"
+    ]
+  }
+}

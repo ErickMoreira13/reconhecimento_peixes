@@ -1,0 +1,31 @@
+{
+  "arquivo": "-JJXkod1V0U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:19:28.589434",
+  "classificacao": {
+    "especies": [
+      "Surubim"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Anzol",
+      "Enfieira"
+    ],
+    "iscas": [
+      "Mursum vivo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Longar"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

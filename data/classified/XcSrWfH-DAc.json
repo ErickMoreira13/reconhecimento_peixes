@@ -1,0 +1,24 @@
+{
+  "arquivo": "XcSrWfH-DAc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:46:12.377241",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Aremeço"
+    ],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

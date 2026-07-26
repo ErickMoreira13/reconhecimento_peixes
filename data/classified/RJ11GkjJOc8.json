@@ -1,0 +1,32 @@
+{
+  "arquivo": "RJ11GkjJOc8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:09:59.025824",
+  "classificacao": {
+    "especies": [
+      "Pirarara Albina",
+      "Pirarara",
+      "Pintado",
+      "Jaú",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Vara Tambatinga",
+      "Carretilha Black Tamba"
+    ],
+    "iscas": [
+      "Lambarelo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "grãos": [],
+    "local": "Nindoia",
+    "atividade": "Solta de Peixes",
+    "detalhes": {
+      "responsavel": "Piscicultura Nutrimix em parceria com o Tigrão",
+      "tempo": "Noite",
+      "clima": "Chuva com relâmpagos"
+    }
+  }
+}

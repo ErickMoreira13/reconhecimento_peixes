@@ -1,0 +1,33 @@
+{
+  "arquivo": "likX_AC_vbs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:09:24.508338",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Rancho de barote",
+      "Cipó cambira",
+      "Paineira",
+      "Falejão de guaiupira",
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Munir"
+    ],
+    "bacias": [
+      "Pantanal"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca artesanal"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "arquivo": "t-YEm7PmBXM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:41:17.664366",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Flip Cast",
+      "Arremesso por cima da cabeça"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

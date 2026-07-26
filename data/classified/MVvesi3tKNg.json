@@ -1,0 +1,35 @@
+{
+  "arquivo": "MVvesi3tKNg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:15:23.067751",
+  "classificacao": {
+    "summary": {
+      "main_activity": "Fishing in the Rio Verde and São Lourenço rivers, focusing on catching lambari, mandi, and guaçu fish.",
+      "locations": [
+        "Rio Verde",
+        "São Lourenço",
+        "Serra da Mantiqueira"
+      ],
+      "techniques": [
+        "Using a fishing rod and reels",
+        "Employing blackberry (amora) as bait"
+      ],
+      "species_caught": [
+        "Lambari",
+        "Mandi",
+        "Guaçu"
+      ],
+      "cultural_elements": {
+        "local_plants": [
+          "Amora (blackberry) used for cooking and as bait"
+        ],
+        "community": "Mention of 'família Julião Pesca' and family involvement in fishing activities."
+      },
+      "additional_details": {
+        "time_of_day": "Evening fishing session",
+        "fish_counting": "Counting the number of fish caught",
+        "future_plans": "Cooking the fish later."
+      }
+    }
+  }
+}

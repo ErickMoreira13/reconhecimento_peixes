@@ -1,0 +1,32 @@
+{
+  "arquivo": "op-mWDizFCE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:58:43.698789",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Vara de pesca"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com minhoca"
+    ],
+    "rios": [
+      "Rio Vermelho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Rio está cheio e com sujeira devido à chuva ontem à noite"
+    ]
+  }
+}

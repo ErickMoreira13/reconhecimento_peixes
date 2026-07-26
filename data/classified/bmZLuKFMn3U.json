@@ -1,0 +1,25 @@
+{
+  "arquivo": "bmZLuKFMn3U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:28:23.676806",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "gato"
+    ],
+    "iscas": [
+      "pesadinho de risco"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Claro"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Caçu",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "iK3VI9zVuUo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:39:29.851762",
+  "classificacao": {
+    "tilapia": "Tilapia",
+    "equipamentos": [
+      "Galão Perfurado",
+      "Saco de Ráfia",
+      "Saco Furado",
+      "Saco Telado",
+      "Tubo de PVC Perfurado",
+      "Cano de PVC Perfurado",
+      "Balde Perfurado",
+      "Recipiente Perfurado",
+      "Cocho Perfurado"
+    ],
+    "iscas": [
+      "Farinha",
+      "Maranhinha",
+      "Ave Maria",
+      "Boiolinha",
+      "Linha",
+      "Carne",
+      "Peixe",
+      "Mi"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "local": []
+  }
+}

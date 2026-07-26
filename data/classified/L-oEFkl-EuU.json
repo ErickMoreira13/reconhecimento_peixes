@@ -1,0 +1,42 @@
+{
+  "arquivo": "L-oEFkl-EuU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:40:22.210590",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Garrafa perfurada"
+    ],
+    "iscas": [
+      "Cuscuz"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Cuscuz"
+    ],
+    "tecnicas": [
+      "Ceva de Partículas"
+    ],
+    "rios": [
+      "Açude"
+    ],
+    "bacias": [
+      "Reservatório"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de ceva"
+    ],
+    "observacoes": [
+      "Uso de garrafa perfurada com cuscuz velho vencido como ceva",
+      "Método tradicional aprendido na infância",
+      "Local de pesca no açude",
+      "Captura de piabas de tamanho variado"
+    ]
+  }
+}

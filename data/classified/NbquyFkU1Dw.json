@@ -1,0 +1,25 @@
+{
+  "arquivo": "NbquyFkU1Dw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:28:42.297496",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Caranguejo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Miranda",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

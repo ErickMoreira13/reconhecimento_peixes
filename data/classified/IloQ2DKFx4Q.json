@@ -1,0 +1,29 @@
+{
+  "arquivo": "IloQ2DKFx4Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:51:25.331302",
+  "classificacao": {
+    "especies": [
+      "Rhu"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "isca",
+      "massinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

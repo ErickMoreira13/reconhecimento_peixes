@@ -1,0 +1,30 @@
+{
+  "arquivo": "bSdaDjWe5SU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:35:13.470578",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Massa",
+      "Farinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de tilápia"
+    ],
+    "observacoes": [
+      "A massa deve ser farelenta e mole, não dura. O anzol é colocado no meio da massa. A massa deve soltar na água para atrair a tilápia. Há um segredo especial mencionado no canal do criador."
+    ]
+  }
+}

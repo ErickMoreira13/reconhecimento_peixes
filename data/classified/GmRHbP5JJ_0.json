@@ -1,0 +1,39 @@
+{
+  "arquivo": "GmRHbP5JJ_0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:59:33.870101",
+  "classificacao": {
+    "especies": [
+      "Bicuda",
+      "Manjuba",
+      "Pescada"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Varinha",
+      "Lure (Deep Shadow)",
+      "Chicote"
+    ],
+    "iscas": [
+      "Piché",
+      "Manjuba"
+    ],
+    "graos": [],
+    "ceva": [
+      "Ceva Natural"
+    ],
+    "tecnicas": [
+      "Corricada",
+      "Pescaria de Fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em Caiaque",
+      "Pesca de Fundo"
+    ],
+    "observacoes": []
+  }
+}

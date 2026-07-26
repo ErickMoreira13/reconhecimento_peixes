@@ -1,0 +1,22 @@
+{
+  "arquivo": "ExzevaGnocY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:57:10.513266",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Pirarara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

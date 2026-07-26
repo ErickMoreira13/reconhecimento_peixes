@@ -1,0 +1,39 @@
+{
+  "arquivo": "nqR957-WwLM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:23:12.662331",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Boinha com chumbo",
+      "Multifilamento 0.20",
+      "Anzol 6 ou 7"
+    ],
+    "iscas": [
+      "Ração de peixe",
+      "Cachaça"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescar com boia flutuante",
+      "Curtir ração na cachaça"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Não deixar a ração encharcar muito",
+      "Usar garrafa com tampa para manter a umidade"
+    ]
+  }
+}

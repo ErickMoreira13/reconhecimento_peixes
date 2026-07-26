@@ -1,0 +1,25 @@
+{
+  "arquivo": "qFrb0EzUJ-A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:24:25.834079",
+  "classificacao": {
+    "especies": [
+      "tucunaré",
+      "carababuna"
+    ],
+    "equipamentos": [
+      "peneira",
+      "balde"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": []
+  }
+}

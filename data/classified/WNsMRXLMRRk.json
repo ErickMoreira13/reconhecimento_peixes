@@ -1,0 +1,22 @@
+{
+  "arquivo": "WNsMRXLMRRk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:17:40.555791",
+  "classificacao": {
+    "summary": "O texto parece ser uma transcrição informal de um vídeo ou áudio de uma pescaria, com conversas casuais entre participantes (Eto, Deva, Keshe) e descrições de atividades como pescar, preparar o peixe capturado e interações sociais. Há repetições, gírias e possíveis erros de digitação, como 'Pirae' no final. O conteúdo inclui menções a 'canal WK' e 'Arrocha', possivelmente referências a um canal de YouTube. O tom é descontraído, com foco em experiências práticas e interações entre as pessoas.",
+    "translation": "The text appears to be an informal transcription of a video or audio recording of a fishing trip, with casual conversations between participants (Eto, Deva, Keshe) and descriptions of activities such as fishing, preparing the caught fish, and social interactions. There are repetitions, slang, and possible typos, such as 'Pirae' at the end. The content includes mentions of 'canal WK' and 'Arrocha', possibly references to a YouTube channel. The tone is relaxed, focusing on practical experiences and interactions between people.",
+    "key_points": [
+      "Pescaria e preparação do peixe",
+      "Conversas informais entre participantes",
+      "Mencões a 'canal WK' e 'Arrocha'",
+      "Tom descontraído e repetições no texto",
+      "Possíveis erros de digitação ou termos locais (como 'saideira')"
+    ],
+    "possible_requests": [
+      "Tradução do texto",
+      "Resumo do conteúdo",
+      "Explicação de termos específicos",
+      "Extração de informações sobre o canal de YouTube mencionado"
+    ]
+  }
+}

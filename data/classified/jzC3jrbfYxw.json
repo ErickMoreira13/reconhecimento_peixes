@@ -1,0 +1,44 @@
+{
+  "arquivo": "jzC3jrbfYxw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:23:15.591907",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Piranha",
+      "Traíra",
+      "Jacundá"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Varinhas",
+      "Molinetes",
+      "Massinha",
+      "Boné",
+      "Tripé",
+      "Câmera",
+      "Cestinho"
+    ],
+    "iscas": [
+      "Milho",
+      "Calabresa",
+      "Minhoca",
+      "Massinha",
+      "Trato"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Milho",
+        "Calabresa",
+        "Minhoca"
+      ],
+      "Ceva Proteica": [
+        "Massinha"
+      ],
+      "Ceva de Partículas": []
+    },
+    "localização": "Serra",
+    "data": "2026"
+  }
+}

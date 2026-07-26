@@ -1,0 +1,41 @@
+{
+  "arquivo": "j_pPTA702ek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:51:32.230978",
+  "classificacao": {
+    "especies": [
+      "Peixe de couro",
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Mulinetão",
+      "Varas"
+    ],
+    "iscas": [
+      "Meia branquinha",
+      "Jack 100"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pinchando",
+      "Artificial"
+    ],
+    "rios": [
+      "Rio Madeira"
+    ],
+    "bacias": [
+      "Bacia do Amazonas"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Pescador capturou um jacaré de grande porte",
+      "A linha foi rompida durante a captura",
+      "O peixe de couro foi capturado com isca artificial"
+    ]
+  }
+}

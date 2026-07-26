@@ -1,0 +1,44 @@
+{
+  "arquivo": "ZSuDpzl1rEc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:45:29.913755",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Passaú",
+      "Piracanjuba",
+      "Carapicuiba",
+      "Piraputanga"
+    ],
+    "equipamentos": [
+      "carretilha",
+      "linha",
+      "GoPro",
+      "barco",
+      "pau",
+      "destrutora"
+    ],
+    "iscas": [
+      "destroyer"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca artificial"
+    ],
+    "rios": [
+      "Extremer"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "filme com GoPro",
+      "peixe de 70 cm",
+      "uso de isca artificial"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "rGXoepVVgCU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:07:50.766944",
+  "classificacao": {
+    "peixes": [
+      "jacaré",
+      "piranha",
+      "tucunaré",
+      "jacaré-açu",
+      "piranha preta",
+      "jacaré azul"
+    ],
+    "isca": "isca artificial",
+    "localizacao": "Marro da Visão, barragem, represa",
+    "observacoes": [
+      "Rio está seco",
+      "Construção da barragem",
+      "Poucos peixes capturados",
+      "Presença de jacaré morto"
+    ],
+    "videos": [
+      "vídeozinho",
+      "vídeo do tucunaré"
+    ]
+  }
+}

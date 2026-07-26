@@ -1,0 +1,25 @@
+{
+  "arquivo": "C4KsbuNfYyQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:14:44.400805",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Timbó",
+      "Rio Iguaçu",
+      "Rio Curuá"
+    ],
+    "bacias": [],
+    "estado": "Paraná,Rio Grande do Sul,Pará",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

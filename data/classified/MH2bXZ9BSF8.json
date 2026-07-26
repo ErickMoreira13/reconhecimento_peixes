@@ -1,0 +1,31 @@
+{
+  "arquivo": "MH2bXZ9BSF8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:04:53.836733",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Carretilha",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Esperar o peixe cansar",
+      "Evitar puxar a vara com força",
+      "Manter a linha tensionada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em águas abertas"
+    ],
+    "observacoes": []
+  }
+}

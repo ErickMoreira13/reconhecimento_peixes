@@ -1,0 +1,23 @@
+{
+  "arquivo": "sLff4xdWwgA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T19:15:56.172408",
+  "classificacao": {
+    "especies": [
+      "Baleia"
+    ],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "_hjlRgQ9CCc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T09:15:01.040424",
+  "classificacao": {
+    "especies": [
+      "Matrinxã",
+      "Tilápia",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Açougueiro"
+    ],
+    "iscas": [
+      "Filé",
+      "Rancho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Anzol",
+      "Pesca com Ceva"
+    ],
+    "observacoes": [
+      "Barragem de Xeré",
+      "Pescariazinha",
+      "Finalizar comendo picanha"
+    ]
+  }
+}

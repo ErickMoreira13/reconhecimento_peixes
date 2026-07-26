@@ -1,0 +1,32 @@
+{
+  "arquivo": "7NIB_JW2EDE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:42:57.703732",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Varinha"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Linha de fundo"
+    ],
+    "rios": [
+      "Rio Jacaré"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fundo"
+    ],
+    "observacoes": []
+  }
+}

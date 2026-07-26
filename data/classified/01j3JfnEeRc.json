@@ -1,0 +1,40 @@
+{
+  "arquivo": "01j3JfnEeRc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:56:41.727787",
+  "classificacao": {
+    "fish_caught": [
+      "carp",
+      "lambari",
+      "traíra",
+      "saikangão"
+    ],
+    "baits_used": [
+      "dough bait (massinha)",
+      "Jamel balls (bolinhas de jamel)",
+      "chicotinho rig"
+    ],
+    "equipment_used": {
+      "rods": [
+        "Dyson",
+        "Zeu",
+        "Roxton",
+        "Albatross",
+        "Infinite",
+        "Lumis"
+      ],
+      "reels": [
+        "not explicitly mentioned (focus on rods and lines)"
+      ],
+      "lines": [
+        "40mm",
+        "30lb",
+        "45lb",
+        "50lb",
+        "60lb"
+      ]
+    },
+    "location": "near Correia Pinto, Brazil",
+    "channel_name": "Serra Ficha"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "arquivo": "wMmidJ0ZXek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:15:16.593680",
+  "classificacao": {
+    "summary": "O vídeo apresenta uma experiência de pesca e preparação de alimentos em um ambiente natural, com destaque para a interação com o público e a descrição detalhada de espécies de peixes capturados, como caranha, mandique e piauçu. O conteúdo é carregado de entusiasmo, linguagem informal e um forte apelo para engajamento (curtidas, inscrições).",
+    "key_points": {
+      "atividades": [
+        "Pesca",
+        "Cozinha ao ar livre",
+        "Interação com o público"
+      ],
+      "espécies_de_peixe": [
+        "Caranha",
+        "Mandique",
+        "Piauçu"
+      ],
+      "tom": "Entusiasmado, informal, com uso de gírias (ex: 'bora', 'ô', 'né')",
+      "contexto": "Ambiente natural (rio), foco em compartilhar experiências e ensinar sobre pesca",
+      "chamada_para_acão": "Pedidos de curtidas e inscrições no canal"
+    },
+    "translation": "The video shows a fishing experience and outdoor cooking, with detailed descriptions of the caught fish (caranha, mandique, piauçu). The tone is enthusiastic, informal, and uses slang ('bora', 'ô', 'né'). It emphasizes sharing experiences, engaging with the audience, and includes calls to action for likes and channel subscriptions."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "jCRLg_cqShE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:54:16.158083",
+  "classificacao": {
+    "especies": [
+      "Tuvira"
+    ],
+    "equipamentos": [
+      "Pineira",
+      "Facinha"
+    ],
+    "iscas": [
+      "Tuvira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

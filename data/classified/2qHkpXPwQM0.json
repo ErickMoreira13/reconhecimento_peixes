@@ -1,0 +1,41 @@
+{
+  "arquivo": "2qHkpXPwQM0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:37:06.794204",
+  "classificacao": {
+    "especies": [
+      "piranha",
+      "caixara"
+    ],
+    "equipamentos": [
+      "canoa",
+      "motores",
+      "linhas"
+    ],
+    "iscas": [
+      "palmito",
+      "açaí"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca esportiva",
+      "pesca e solte"
+    ],
+    "rios": [
+      "Rio Verde"
+    ],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca e solte"
+    ],
+    "observacoes": [
+      "preservar a natureza",
+      "uso de recursos naturais",
+      "autorização do exército para pesca"
+    ]
+  }
+}

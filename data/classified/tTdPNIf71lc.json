@@ -1,0 +1,17 @@
+{
+  "arquivo": "tTdPNIf71lc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:34:45.296438",
+  "classificacao": {
+    "summary": "El texto describe una experiencia de pesca en el río Meta, Colombia, donde el narrador captura varios tipos de peces, como 'nicuros' y 'cuchareto', utilizando técnicas tradicionales. Menciona el uso de cañas de pescar, anzuelos y el proceso de preparación de los peces para su consumo, destacando la importancia de la pesca en la dieta local y la necesidad de su madre de consumir pescado para su salud. También se refiere a la dificultad de capturar ciertos peces y la importancia de la paciencia en el proceso.",
+    "key_points": [
+      "Uso de técnicas tradicionales de pesca en el río Meta.",
+      "Captura de peces como 'nicuros' y 'cuchareto' con cañas y anzuelos.",
+      "Preparación de los peces para su consumo (limpieza, cocción).",
+      "Mención de la importancia de la pesca en la dieta local y la salud de la madre.",
+      "Dificultad en la captura de ciertos peces y la necesidad de paciencia."
+    ],
+    "cultural_context": "La pesca es una actividad fundamental en la región del río Meta, donde se practica con métodos tradicionales. Los términos como 'nicuro' y 'cuchareto' son nombres locales de especies de peces, y la preparación de los peces para su consumo refleja prácticas culinarias regionales. La mención de la salud de la madre sugiere que el pescado es una fuente importante de nutrientes, como el colágeno, en la dieta local.",
+    "additional_info": "Para obtener más detalles sobre los términos específicos (ej. 'nicuro'), la geografía del río Meta o técnicas de pesca tradicionales, por favor indique su interés en un aspecto concreto."
+  }
+}

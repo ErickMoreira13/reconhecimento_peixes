@@ -1,0 +1,34 @@
+{
+  "arquivo": "6RI_a5jiYiE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:41:30.216146",
+  "classificacao": {
+    "especies": [
+      "Pirapitinga",
+      "Pataca"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Motor",
+      "Chumbado",
+      "Anzol"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca à Noite",
+      "Pesca à Tarde"
+    ],
+    "observacoes": [
+      "Praia da Cebolinha"
+    ]
+  }
+}

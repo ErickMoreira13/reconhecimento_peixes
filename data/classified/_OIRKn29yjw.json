@@ -1,0 +1,38 @@
+{
+  "arquivo": "_OIRKn29yjw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:29:10.357850",
+  "classificacao": {
+    "especies": [
+      "pirarara",
+      "tucunaré"
+    ],
+    "equipamento": [
+      "barco",
+      "vara",
+      "carretel",
+      "frição",
+      "alarme"
+    ],
+    "iscas": [
+      "isca na boca",
+      "drop"
+    ],
+    "grãos": [],
+    "localização": [
+      "Amazon Advent",
+      "canal"
+    ],
+    "técnicas": [
+      "arremesso",
+      "solta"
+    ],
+    "detalhes_adicionais": {
+      "tipo_de_barco": "barcotão Amazon Advent",
+      "tipo_de_vara": "vara de pesca",
+      "tipo_de_carretel": "carretel de pesca",
+      "tipo_de_frição": "frição ajustável",
+      "tipo_de_alarme": "alarme de pescaria"
+    }
+  }
+}

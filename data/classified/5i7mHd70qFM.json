@@ -1,0 +1,33 @@
+{
+  "arquivo": "5i7mHd70qFM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:14:09.029206",
+  "classificacao": {
+    "iscas": [
+      "farinha de trigo",
+      "fubá",
+      "suco de manga",
+      "açúcar"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "cevas": [],
+    "peixes": [
+      "piapara",
+      "piau",
+      "lambari",
+      "piaba",
+      "piau três pintas",
+      "pacu",
+      "mandeiros",
+      "curimba"
+    ],
+    "tecnicas": [],
+    "equipamentos": [],
+    "localidades": [
+      "rio",
+      "lagoa"
+    ]
+  }
+}

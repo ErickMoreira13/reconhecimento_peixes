@@ -1,0 +1,42 @@
+{
+  "arquivo": "8u6oy6pbqyM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:30:50.362440",
+  "classificacao": {
+    "especies": [
+      "Manduzão",
+      "Bico de Pato"
+    ],
+    "equipamentos": [
+      "Amatona",
+      "Bolsona",
+      "Ferrão",
+      "Ponte"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Dedo",
+      "Ferrão"
+    ],
+    "rios": [
+      "Riozão",
+      "Rio do Rochedo Goiás"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Dedo",
+      "Pesca com Ferrão"
+    ],
+    "observacoes": [
+      "Água suja",
+      "Peixinhos bons",
+      "Quase um quilo",
+      "Manduzão grande",
+      "Bico de Pato encontrado"
+    ]
+  }
+}

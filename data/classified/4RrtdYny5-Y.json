@@ -1,0 +1,40 @@
+{
+  "arquivo": "4RrtdYny5-Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:44:45.666811",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Pacu",
+      "Matrinchã",
+      "Dourado",
+      "Tambaqui",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Maroseigo 16",
+      "Anzol"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca com minhoca em movimento",
+      "Costura de minhoca no anzol"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com minhoca",
+      "Pesca de superfície"
+    ],
+    "observacoes": [
+      "Uso de múltiplas minhocas no mesmo anzol para atrair peixes",
+      "Técnica eficaz para pescar diversos tipos de peixe"
+    ]
+  }
+}

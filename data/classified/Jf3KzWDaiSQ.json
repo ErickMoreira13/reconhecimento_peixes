@@ -1,0 +1,28 @@
+{
+  "arquivo": "Jf3KzWDaiSQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:58:19.380676",
+  "classificacao": {
+    "especies": [
+      "Pial",
+      "Cavarinha"
+    ],
+    "equipamentos": [
+      "Vara de bambu",
+      "Molinete"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja",
+      "Calabresa"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "grãos": [
+      "Milho",
+      "Soja"
+    ],
+    "localização": "Serra Pescana"
+  }
+}

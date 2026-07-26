@@ -1,0 +1,45 @@
+{
+  "arquivo": "eSnMKpKgFmw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T08:31:12.073434",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piafarona",
+      "Zoiudo",
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Chumbadinha",
+      "Onzolzão",
+      "Urnetão",
+      "Murinete",
+      "Bolotinha"
+    ],
+    "iscas": [
+      "Massinha",
+      "Massinha de Queijo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca",
+      "Uso de Massinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca"
+    ],
+    "observacoes": [
+      "Dificuldade em capturar lambari",
+      "Uso de massinha de queijo como isca",
+      "Captura de piafarona",
+      "Emoção ao capturar peixes grandes"
+    ]
+  }
+}

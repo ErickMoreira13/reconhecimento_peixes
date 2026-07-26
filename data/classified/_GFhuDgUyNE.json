@@ -1,0 +1,23 @@
+{
+  "arquivo": "_GFhuDgUyNE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:58:53.836038",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de Pêndulo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

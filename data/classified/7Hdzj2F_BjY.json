@@ -1,0 +1,31 @@
+{
+  "arquivo": "7Hdzj2F_BjY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:40:26.972578",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Circle Hook",
+      "Mutsu da Marina"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Montagem de vara para pesca de fundo",
+      "Uso de suporte para manter a vara inclinada",
+      "Ajuste do drag para fisgada",
+      "Uso do alarme na carretilha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de fundo"
+    ],
+    "observacoes": []
+  }
+}

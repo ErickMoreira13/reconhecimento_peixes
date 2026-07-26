@@ -1,0 +1,25 @@
+{
+  "arquivo": "5woNSyhOie0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:34:51.730134",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "não foi um dia de muitos peixes, mas... Foi bem divertido."
+    ]
+  }
+}

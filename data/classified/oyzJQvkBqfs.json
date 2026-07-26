@@ -1,0 +1,29 @@
+{
+  "arquivo": "oyzJQvkBqfs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:44:32.255854",
+  "classificacao": {
+    "resumen": "El video muestra una experiencia de pesca en la selva, donde se captura un gran pescado de río (posiblemente un tucunaré o un pez cebra) que casi es llevado por un caimán. Luego, se prepara un sancocho, un guiso típico de la región, con ingredientes como yuca, plátanos, cebolla, pimientos, cilantro y otros elementos locales. El proceso de cocción se lleva a cabo en una fogata, con la participación de personas en una finca, y se destaca la importancia de compartir la comida en un entorno comunitario. El sancocho se sirve como plato principal, acompañado de arroz y otros ingredientes, y se resalta el sabor y la tradición culinaria del lugar.",
+    "detalles_clave": {
+      "pesca": "Captura de un pescado grande en un río, con una amenaza de caimán.",
+      "ingredientes_sancocho": [
+        "yuca",
+        "plátanos",
+        "cebolla",
+        "pimientos",
+        "cilantro",
+        "carne de pescado",
+        "arroz"
+      ],
+      "ambiente": "Fogata en una finca, con participación de personas y un enfoque en la comida compartida.",
+      "cultura": "Mención de la tradición culinaria local y el uso de ingredientes típicos de la región."
+    },
+    "temas_principales": [
+      "aventura de pesca",
+      "cocina tradicional",
+      "comida compartida",
+      "vida en la selva",
+      "interacción comunitaria"
+    ]
+  }
+}

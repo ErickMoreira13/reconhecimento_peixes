@@ -1,0 +1,19 @@
+{
+  "arquivo": "L92bbDtEOjY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:47:20.145735",
+  "classificacao": {
+    "especies": [
+      "barbudão",
+      "cangatão",
+      "gatanzão",
+      "corretão"
+    ],
+    "equipamento": [
+      "espinhão",
+      "canos",
+      "anzol"
+    ],
+    "localização": "Rosário Maranhão"
+  }
+}

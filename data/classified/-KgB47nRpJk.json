@@ -1,0 +1,32 @@
+{
+  "arquivo": "-KgB47nRpJk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:37:23.705169",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba",
+      "Piau"
+    ],
+    "equipamentos": [
+      "molinete",
+      "caiaque"
+    ],
+    "iscas": [
+      "calabresa",
+      "minhoca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "grãos": [],
+    "técnicas": [],
+    "rios": [
+      "Rio Dourado"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Poço do Capim",
+    "tipo_pesca": [],
+    "observações": "Piracanjuba é um peixe proibido e foi solto após ser capturado."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "GWYammB9oRw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:22:47.726778",
+  "classificacao": {
+    "especies": [
+      "Pulo"
+    ],
+    "equipamentos": [
+      "Alicate"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

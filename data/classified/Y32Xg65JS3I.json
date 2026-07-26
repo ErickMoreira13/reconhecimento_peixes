@@ -1,0 +1,41 @@
+{
+  "arquivo": "Y32Xg65JS3I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:42:54.095408",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Snap",
+      "Boia de Arremesso",
+      "Linha",
+      "Espine",
+      "Carretilha"
+    ],
+    "iscas": [
+      "Isquinha de Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso com Boia",
+      "Uso de Snap com Girador",
+      "Técnica de Arremesso para Evitar Enrosco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Lambari",
+      "Pesca de Tilápia"
+    ],
+    "observacoes": [
+      "A isquinha de lambari é eficaz para pescaria de lambari e tilápia",
+      "Técnica de arremesso evita enrosco da isca na linha",
+      "Linha fina (0,15 a 0,18) é recomendada para pesca de lambari"
+    ]
+  }
+}

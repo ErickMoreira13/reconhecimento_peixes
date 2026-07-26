@@ -1,0 +1,48 @@
+{
+  "arquivo": "1lVycVC6Vvc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:45:18.593825",
+  "classificacao": {
+    "especies": [
+      "Espada",
+      "Garateia"
+    ],
+    "equipamentos": [
+      "Cabo de aço",
+      "Chumbo",
+      "Empatão",
+      "Girador",
+      "Kitzinho",
+      "Maruceigo",
+      "Molinete",
+      "Snap",
+      "Vara de mão"
+    ],
+    "iscas": [
+      "Peixe",
+      "Sardinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Escado",
+      "Técnica de chicotinho",
+      "Uso de chumbo",
+      "Uso de girador",
+      "Uso de snap"
+    ],
+    "rios": [
+      "Riacho Grande"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Riacho Grande",
+    "tipo_pesca": [
+      "Pescaria de espada",
+      "Pescaria embarcada"
+    ],
+    "observacoes": "Teste de diferentes métodos de pesca, Uso de equipamentos específicos, Eficiência do chicotinho na pescaria de espada"
+  }
+}

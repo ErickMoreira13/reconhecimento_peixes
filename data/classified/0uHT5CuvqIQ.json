@@ -1,0 +1,40 @@
+{
+  "arquivo": "0uHT5CuvqIQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:32:26.897724",
+  "classificacao": {
+    "especies": [
+      "mandinho",
+      "piau",
+      "Lopa"
+    ],
+    "varas": [
+      "vara raiz",
+      "varinha raiz"
+    ],
+    "engenhoca": [
+      "engenhoca"
+    ],
+    "anzol": [
+      "anzol de xíno bitelão",
+      "anzol de xíno"
+    ],
+    "chumbada": [
+      "chumbada do tempo que amarrava cachorro com linguiça"
+    ],
+    "massa": [
+      "massinha",
+      "massa",
+      "fígado"
+    ],
+    "tempero": [
+      "tempero"
+    ],
+    "rosco": [
+      "rosco"
+    ],
+    "linha": [
+      "0,40"
+    ]
+  }
+}

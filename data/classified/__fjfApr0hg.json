@@ -1,0 +1,33 @@
+{
+  "arquivo": "__fjfApr0hg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:53:48.991527",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "molinete",
+      "linha de nylon transparente",
+      "chumbada",
+      "caninho de boia",
+      "girador micro",
+      "líder",
+      "anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca no molinete"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca no molinete"
+    ],
+    "observacoes": []
+  }
+}

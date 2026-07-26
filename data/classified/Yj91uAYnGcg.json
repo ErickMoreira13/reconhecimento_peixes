@@ -1,0 +1,43 @@
+{
+  "arquivo": "Yj91uAYnGcg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:15:33.753086",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Tartaruga d'água"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Anzol",
+      "Chumbada",
+      "Cabo de aço"
+    ],
+    "iscas": [
+      "Frango",
+      "Piabinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de beirada",
+      "Pescaria de piranha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de piranha",
+      "Pescaria de beirada"
+    ],
+    "observacoes": [
+      "Piranhas são rápidas e perigosas",
+      "Uso de anzol pequeno e isca de frango",
+      "Encontro com tartaruga d'água que atrapalha a pesca",
+      "A isca deve ser colocada à vista para atrair os peixes"
+    ]
+  }
+}

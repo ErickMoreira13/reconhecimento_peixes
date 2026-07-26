@@ -1,0 +1,26 @@
+{
+  "arquivo": "MPvF9NGNu6U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:01:21.426915",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Magic Stick 80"
+    ],
+    "iscas": [
+      "Isca de superfície"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chamadinha",
+      "Trabalho de stick"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

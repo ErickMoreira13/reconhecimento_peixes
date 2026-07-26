@@ -1,0 +1,38 @@
+{
+  "arquivo": "krg4GaLqYak",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:04:12.309141",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Vara",
+      "Beta 300",
+      "Protune da Marina Esporte"
+    ],
+    "iscas": [
+      "Isca de Meia-Água",
+      "Protune da Marina Esporte"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca Artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Brejinho",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de molinete quebrado remendado com chapa",
+      "Uso de óculos polarizados para visualização do peixe",
+      "Nível da água baixando significativamente"
+    ]
+  }
+}

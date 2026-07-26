@@ -1,0 +1,32 @@
+{
+  "arquivo": "WlWsMMQ2I7Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:14:23.490440",
+  "classificacao": {
+    "estado": "Costa Selvagem",
+    "municipio": "Panamá",
+    "especies": [
+      "Rooster",
+      "Tubarão",
+      "Cobera"
+    ],
+    "equipamentos": [
+      "vara",
+      "jig",
+      "porta-var",
+      "remo",
+      "caiaque",
+      "alicate",
+      "linha",
+      "pedal"
+    ],
+    "iscas": [
+      "jig",
+      "balinha"
+    ],
+    "cevas": [],
+    "outros": [
+      "saco de ráfia"
+    ]
+  }
+}

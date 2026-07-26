@@ -1,0 +1,40 @@
+{
+  "arquivo": "VqJcXfGOoOQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:24:01.577620",
+  "classificacao": {
+    "especies": [
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Linha"
+    ],
+    "iscas": [
+      "Tripa de Galinha",
+      "Fígado de Boi",
+      "Fígado de Porco",
+      "Massinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de isca com tripa curtida em groselha",
+      "Uso de fígado curtido",
+      "Preparação de isca com massinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Rural"
+    ],
+    "observacoes": [
+      "A tripa de galinha deve ser lavada e escorrida antes do processo de cura",
+      "O fígado é curado em groselha e pode ser armazenado na geladeira",
+      "A massinha é usada para iscar com anzolzinho",
+      "A isca pode atrair outros peixes como piapara e piau"
+    ]
+  }
+}

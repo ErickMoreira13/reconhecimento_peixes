@@ -1,0 +1,32 @@
+{
+  "arquivo": "9A8PFVLNmDM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:39:01.410747",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Linha elástica",
+      "Anzol",
+      "Maruzego 12",
+      "Chinu 3",
+      "Chinu 4",
+      "Chinu 2"
+    ],
+    "iscas": [
+      "Ração de coelho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com ceva"
+    ],
+    "observacoes": []
+  }
+}

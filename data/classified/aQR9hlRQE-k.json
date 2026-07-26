@@ -1,0 +1,23 @@
+{
+  "arquivo": "aQR9hlRQE-k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:07:29.977941",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Tazão"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

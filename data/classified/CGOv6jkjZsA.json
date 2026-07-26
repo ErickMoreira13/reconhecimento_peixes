@@ -1,0 +1,32 @@
+{
+  "arquivo": "CGOv6jkjZsA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:36:32.777384",
+  "classificacao": {
+    "especies": [
+      "Curvina",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Cavalha"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Curvina"
+    ],
+    "rios": [
+      "Rio Tietê"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Curvina"
+    ],
+    "observacoes": []
+  }
+}

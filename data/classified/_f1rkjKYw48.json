@@ -1,0 +1,23 @@
+{
+  "arquivo": "_f1rkjKYw48",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:57:36.474091",
+  "classificacao": {
+    "especies": [
+      "Onça-pintada"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Atumã"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Atumã",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "biXaXxVE9So",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:16:42.442910",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Varinha telescópica",
+      "Navalinha telescópica"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Guia",
+      "Puxar para trás"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria"
+    ],
+    "observacoes": []
+  }
+}

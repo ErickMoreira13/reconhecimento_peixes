@@ -1,0 +1,17 @@
+{
+  "arquivo": "koLVnGGcLq4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:59:43.996670",
+  "classificacao": {
+    "especies_de_peixes": [
+      "lambari",
+      "tilápia",
+      "tucunaré"
+    ],
+    "tipo_de_isca": [
+      "bichinho de laranja",
+      "isca artificial"
+    ],
+    "localizacao": "Lago de Furnas, na região de Alteirosa, próximo à Serra Negra (com o mirante Totem Serra Negra)"
+  }
+}

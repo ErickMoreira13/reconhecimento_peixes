@@ -1,0 +1,23 @@
+{
+  "arquivo": "19TFTpoJwpw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:00:00.642895",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Molinete"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

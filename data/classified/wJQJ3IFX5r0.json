@@ -1,0 +1,24 @@
+{
+  "arquivo": "wJQJ3IFX5r0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:08:42.537755",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Sapinho",
+      "Pneu"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

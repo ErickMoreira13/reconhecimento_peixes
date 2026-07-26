@@ -1,0 +1,36 @@
+{
+  "arquivo": "7wqYyeO_wAQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:05:20.030333",
+  "classificacao": {
+    "species": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Isca Morta",
+      "Roscada",
+      "Top Gun"
+    ],
+    "iscas": [
+      "Isca Morta",
+      "Verde Limão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca Morta",
+      "Pesca na Superfície",
+      "Uso de Lure (Top Gun)"
+    ],
+    "rios": [
+      "Balbina"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Cabana Quatá",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "aX5g-aqN5yM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:19:47.598971",
+  "classificacao": {
+    "summary": "O texto é um tutorial informal de pesca, com linguagem coloquial e repetitiva, que descreve técnicas tradicionais para capturar peixes como pairi e tucunaré, usando equipamentos como varinha de bambu, anzóis e boinhas (flutuadores). O conteúdo inclui instruções práticas, interações com o público ('minha galerinha') e dicas sobre como preparar iscas (como a cauda de camarão).",
+    "key_points": {
+      "equipment": [
+        "varinha de bambu",
+        "boinhas",
+        "anzóis",
+        "isca (cauda de camarão)"
+      ],
+      "techniques": [
+        "uso de iscas naturais",
+        "preparação da isca na cauda do camarão",
+        "colocação da isca no anzol"
+      ],
+      "target_fish": [
+        "pairi",
+        "tucunaré"
+      ],
+      "tone": "informal, entusiasmado, com linguagem popular",
+      "audience": "pescadores amadores ou iniciantes"
+    },
+    "possible_translations": {
+      "boinhas": "flutuadores",
+      "taca": "lançar (em contexto de pesca)",
+      "pairi": "espécie de peixe (possivelmente 'piranha' ou outro termo regional)"
+    },
+    "structure": {
+      "introduction": "Apresentação do método de pesca com varinha de bambu",
+      "steps": [
+        "Preparar a isca (cauda de camarão)",
+        "Montar o anzol com a isca",
+        "Usar boinhas para localizar a isca na água",
+        "Lançar a isca e aguardar a captura"
+      ],
+      "conclusion": "Encorajamento para experimentar a técnica e destacar a eficácia do método"
+    }
+  }
+}

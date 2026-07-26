@@ -1,0 +1,39 @@
+{
+  "arquivo": "RRxyqStPwoc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:28:56.521323",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Tucunaré",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Molineta",
+      "Boia",
+      "Anzol"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca com Boia"
+    ],
+    "rios": [
+      "Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "São Mateus",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "YRKB3A0EjOI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:26:34.533769",
+  "classificacao": {
+    "espécies": [
+      "Lambari",
+      "Piranha",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Rosol",
+      "Monjolo",
+      "Barco"
+    ],
+    "iscas": [
+      "Isca Vermelha",
+      "Isca Maior"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "outros": []
+  }
+}

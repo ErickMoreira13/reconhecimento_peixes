@@ -1,0 +1,32 @@
+{
+  "arquivo": "RGOWSqJJWdM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:07:34.951252",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "pompa de água",
+      "rede grande",
+      "saco de algodão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com rede"
+    ],
+    "rios": [],
+    "bacias": [
+      "waduk"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca comercial"
+    ],
+    "observacoes": [
+      "uso de bombas para esvaziar o waduk antes da pesca",
+      "captura de peixes de grande porte"
+    ]
+  }
+}

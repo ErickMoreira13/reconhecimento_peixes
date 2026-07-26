@@ -1,0 +1,29 @@
+{
+  "arquivo": "VDeCu16AO8o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:43:58.024150",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Varinha de mão",
+      "Varinha ultralight",
+      "Massinha de morango"
+    ],
+    "iscas": [
+      "Massinha de morango",
+      "Ração de coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

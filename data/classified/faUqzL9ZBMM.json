@@ -1,0 +1,32 @@
+{
+  "arquivo": "faUqzL9ZBMM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:05:06.723756",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Boia",
+      "Miçanga",
+      "Chumbada",
+      "Anzolzinho",
+      "Linha mono",
+      "Linha multifilamento",
+      "Giradorzinho",
+      "Tesoura"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chicote para pescar piau"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

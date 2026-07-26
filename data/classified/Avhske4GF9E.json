@@ -1,0 +1,31 @@
+{
+  "arquivo": "Avhske4GF9E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:17:44.736297",
+  "classificacao": {
+    "especies": [
+      "Piapara"
+    ],
+    "equipamentos": [
+      "peneira",
+      "potinho com tampa"
+    ],
+    "iscas": [
+      "massinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

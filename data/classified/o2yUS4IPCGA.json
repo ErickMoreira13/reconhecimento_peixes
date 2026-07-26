@@ -1,0 +1,47 @@
+{
+  "arquivo": "o2yUS4IPCGA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T18:09:05.301816",
+  "classificacao": {
+    "especies": [
+      "Sargo",
+      "Carapema",
+      "Coruco",
+      "Boé",
+      "Tarrafa",
+      "Carapé",
+      "Caratinga",
+      "Serioba",
+      "Piaba",
+      "Seriobinha",
+      "Peixe-galo",
+      "Sincharro",
+      "Peixe-filé",
+      "Flechazão",
+      "Carapeba",
+      "Escarapébão",
+      "Carapeta",
+      "Tubal"
+    ],
+    "equipamentos": [
+      "Rede de pesca"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca noturna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "Vila Velha",
+    "tipo_pesca": "Pesca esportiva"
+  }
+}

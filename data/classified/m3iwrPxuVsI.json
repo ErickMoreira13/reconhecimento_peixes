@@ -1,0 +1,24 @@
+{
+  "arquivo": "m3iwrPxuVsI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:38:51.751454",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Jurupoca"
+    ],
+    "equipamentos": [
+      "alças em barra quatro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

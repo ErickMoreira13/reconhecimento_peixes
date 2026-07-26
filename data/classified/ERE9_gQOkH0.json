@@ -1,0 +1,57 @@
+{
+  "arquivo": "ERE9_gQOkH0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:14:01.730709",
+  "classificacao": {
+    "species": [
+      "Paca",
+      "Tucunaré",
+      "Tocona",
+      "Pacão",
+      "Madak",
+      "Açu",
+      "Ciclatemensis",
+      "Rapaz",
+      "Pacu",
+      "Pirarara",
+      "Dourado",
+      "Tambaqui",
+      "Piau",
+      "Traíra",
+      "Piranha"
+    ],
+    "equipment": [
+      "vara Viking",
+      "vara mamuche",
+      "vara Black Mamba",
+      "carretilha de perfil baixo",
+      "Ygk G-SOUL WX8 Upgrade",
+      "gig de pena",
+      "shed",
+      "trailer",
+      "Little Bob",
+      "M-Action",
+      "Devasa",
+      "Killer gig"
+    ],
+    "baits": [
+      "gig de pena",
+      "shed",
+      "trailer",
+      "Little Bob",
+      "M-Action",
+      "Devasa",
+      "Killer gig"
+    ],
+    "locations": [
+      "Barcelos",
+      "Amazônia",
+      "Açú Rio Culliuní"
+    ],
+    "other_information": [
+      "Lei municipal proibindo a pesca abaixo do Tucunaré para preservação da espécie",
+      "Importância da preservação do Tucunaré para o turismo ecológico",
+      "Técnica de ataque na superfície com hélice (propeller)"
+    ]
+  }
+}

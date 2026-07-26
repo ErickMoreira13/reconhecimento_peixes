@@ -1,0 +1,21 @@
+{
+  "arquivo": "LTTr2Rbrl60",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:57:20.240711",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "São Francisco"
+    ],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "Petrolina",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

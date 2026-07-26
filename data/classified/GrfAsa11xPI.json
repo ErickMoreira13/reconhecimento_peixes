@@ -1,0 +1,26 @@
+{
+  "arquivo": "GrfAsa11xPI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:15:01.793329",
+  "classificacao": {
+    "especies": [
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Tacho",
+      "Tamborzinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

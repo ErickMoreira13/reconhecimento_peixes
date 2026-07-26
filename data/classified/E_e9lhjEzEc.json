@@ -1,0 +1,31 @@
+{
+  "arquivo": "E_e9lhjEzEc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:49:27.201823",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Líder de flucarbono",
+      "Linha de multifilamento",
+      "Carretilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Não usar linha de nylon",
+      "Usar linha de multifilamento",
+      "Ajustar a fricção da carretilha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de robalo"
+    ],
+    "observacoes": []
+  }
+}

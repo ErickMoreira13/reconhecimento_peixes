@@ -1,0 +1,25 @@
+{
+  "arquivo": "2i0tU83wWL0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:21:57.438584",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha",
+      "Linha de fly",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nó fisgador"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

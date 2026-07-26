@@ -1,0 +1,45 @@
+{
+  "arquivo": "VzrPsRx7Mts",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:41:34.152485",
+  "classificacao": {
+    "especies": [
+      "piapara",
+      "amarelinho",
+      "dourado",
+      "pacu",
+      "piauçu",
+      "piracanjuba",
+      "tigre",
+      "piaussu"
+    ],
+    "equipamentos": [
+      "balancinho",
+      "cevador",
+      "vara",
+      "linha",
+      "anzol",
+      "motor"
+    ],
+    "isca": [
+      "bigato",
+      "bolinha de maracujá",
+      "caramujo",
+      "caranguejo",
+      "milho"
+    ],
+    "anzol": [
+      "bigato",
+      "líder",
+      "pingadinha"
+    ],
+    "localização": [
+      "rio"
+    ],
+    "observações": [
+      "A dificuldade do dia foi capturar o piapara, que escapou após ser puxado.",
+      "O uso de diferentes iscas (como bigato e bolinha de maracujá) foi necessário para atrair os peixes.",
+      "O pescador mencionou a importância de usar equipamentos adequados, como o cevador e o balancinho."
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arquivo": "D7qHyiZrF9o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:42:24.515958",
+  "classificacao": {
+    "especies": [
+      "Filhote",
+      "Mãe-d'água",
+      "Traíra",
+      "Jararaca"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Anzol",
+      "Cebo"
+    ],
+    "iscas": [
+      "Cebo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Pescador de lambira não escapa nada",
+      "Tudo para frigideira",
+      "Frita aberta lambirota",
+      "Arrebentou a linha toda"
+    ]
+  }
+}

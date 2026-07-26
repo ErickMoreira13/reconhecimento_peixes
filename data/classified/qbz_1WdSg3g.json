@@ -1,0 +1,70 @@
+{
+  "arquivo": "qbz_1WdSg3g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:59:03.356269",
+  "classificacao": {
+    "species": [
+      {
+        "name": "Piau",
+        "normalized_name": "Piau"
+      }
+    ],
+    "equipment": [
+      {
+        "name": "varinha de ponta bem flexível",
+        "normalized_name": "varinha de ponta bem flexível"
+      },
+      {
+        "name": "mulinetezinho simples",
+        "normalized_name": "mulinetezinho simples"
+      },
+      {
+        "name": "linha de 0.30",
+        "normalized_name": "linha de 0.30"
+      }
+    ],
+    "baits": [
+      {
+        "name": "milho azedo",
+        "normalized_name": "Milho"
+      },
+      {
+        "name": "quirera azeda",
+        "normalized_name": "Quirera"
+      }
+    ],
+    "grains": [
+      {
+        "name": "milho azedo",
+        "normalized_name": "Milho"
+      },
+      {
+        "name": "quirera azeda",
+        "normalized_name": "Quirera"
+      }
+    ],
+    "ceva": [
+      {
+        "name": "milho azedo",
+        "normalized_name": "Milho"
+      },
+      {
+        "name": "quirera azeda",
+        "normalized_name": "Quirera"
+      }
+    ],
+    "techniques": [
+      {
+        "name": "maneira de atrair o peixe",
+        "normalized_name": "maneira de atrair o peixe"
+      },
+      {
+        "name": "montar o chicote com dois anzóis",
+        "normalized_name": "montar o chicote com dois anzóis"
+      }
+    ],
+    "regions": [],
+    "state": "",
+    "city": ""
+  }
+}

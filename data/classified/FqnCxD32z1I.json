@@ -1,0 +1,29 @@
+{
+  "arquivo": "FqnCxD32z1I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:43:04.740492",
+  "classificacao": {
+    "especies": [
+      "Garateja"
+    ],
+    "equipamentos": [
+      "Inline"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Nublar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Ação intensa de peixe, com abertura da boca e captura de garateia"
+    ]
+  }
+}

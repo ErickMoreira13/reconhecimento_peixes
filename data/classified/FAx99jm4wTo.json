@@ -1,0 +1,40 @@
+{
+  "arquivo": "FAx99jm4wTo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:05:14.720203",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Litro descartável",
+      "Arame",
+      "Linha"
+    ],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Uso de ceva de partículas",
+      "Atração com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de ceva"
+    ],
+    "observacoes": [
+      "Uso de litro transparente",
+      "Necessidade de retirar o ar do recipiente",
+      "Localização da ceva próxima ao lançamento da isca"
+    ]
+  }
+}

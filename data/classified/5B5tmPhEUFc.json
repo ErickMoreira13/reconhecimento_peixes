@@ -1,0 +1,34 @@
+{
+  "arquivo": "5B5tmPhEUFc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:11:58.878594",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Liquidificador"
+    ],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Açude",
+      "Lagoa"
+    ],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "N6SPOpDqnfM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:23:37.584389",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "carretilha de perfil baixo",
+      "linha 35mm",
+      "vara de 25 libras",
+      "chumbada leve",
+      "anzol 7/0"
+    ],
+    "iscas": [
+      "Tuvira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pescaria de rodada"
+    ],
+    "rios": [
+      "Rio Paraguai"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Conumbá",
+    "tipo_pesca": [
+      "pescaria de rodada"
+    ],
+    "observacoes": []
+  }
+}

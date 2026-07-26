@@ -1,0 +1,21 @@
+{
+  "arquivo": "qTL994XX5LQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:21:50.720227",
+  "classificacao": {
+    "species": [
+      "piaba",
+      "piabona",
+      "piabão",
+      "bitela"
+    ],
+    "equipment": [
+      "cevada",
+      "carretilha",
+      "linha"
+    ],
+    "location": "Rio de Dona Valda",
+    "method": "arrasto",
+    "other_details": []
+  }
+}

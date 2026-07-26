@@ -1,0 +1,16 @@
+{
+  "arquivo": "7-t668nQuqY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:01:03.573280",
+  "classificacao": {
+    "summary": "O texto descreve uma narrativa em primeira pessoa de alguém investigando uma criatura misteriosa chamada 'Blue' ou 'Algramarra' no oceano. O protagonista usa um imã para pescar, encontra uma câmera e um diário com pistas sobre a criatura, e enfrenta a polícia ao tentar provar sua existência. A história tem elementos de suspense, descoberta e confronto, culminando com o protagonista preso pela criatura no final.",
+    "possible_requests": [
+      "Resumo da narrativa",
+      "Tradução para outro idioma",
+      "Análise de elementos narrativos",
+      "Sugestões para melhorar o roteiro",
+      "Informações sobre a criatura 'Blue' ou 'Algramarra'"
+    ],
+    "next_steps": "Por favor, esclareça o que você precisa: um resumo, tradução, análise, sugestões de roteiro ou informações sobre a criatura?"
+  }
+}

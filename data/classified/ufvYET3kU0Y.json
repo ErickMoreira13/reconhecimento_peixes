@@ -1,0 +1,22 @@
+{
+  "arquivo": "ufvYET3kU0Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:23:33.781536",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia",
+      "Javaés"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "arquivo": "0GSQgauro8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:13:13.054068",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Gancho"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Trolling"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Luta prolongada de quase 4 horas"
+    ]
+  }
+}

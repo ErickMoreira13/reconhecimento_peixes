@@ -1,0 +1,31 @@
+{
+  "arquivo": "PYqysZRfpsg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:26:48.484150",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Xeréu"
+    ],
+    "equipamentos": [
+      "Bicicleta",
+      "Drone",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com linha"
+    ],
+    "observacoes": [
+      "Linha quebrou, mas a linha boa aguentou o peso do peixe",
+      "O peixe foi forte"
+    ]
+  }
+}

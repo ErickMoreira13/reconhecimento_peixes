@@ -1,0 +1,52 @@
+{
+  "arquivo": "Xyundj4FSxo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:38:50.671877",
+  "classificacao": {
+    "species": [
+      "paca",
+      "cardume",
+      "peixe",
+      "pacão",
+      "carduminho",
+      "monstrão",
+      "dublê",
+      "jamanta",
+      "nazaro"
+    ],
+    "equipment": [
+      "barco",
+      "vara",
+      "alicate",
+      "portão",
+      "GoPro"
+    ],
+    "baits": [
+      "isca"
+    ],
+    "lures": [
+      "Zara"
+    ],
+    "locations": [
+      "Rio",
+      "lago",
+      "Barcelos",
+      "Curva de Rio",
+      "Árvore caída"
+    ],
+    "environmental_factors": [
+      "água muito seca",
+      "lagoas secas",
+      "peste",
+      "sol"
+    ],
+    "obstacles": [
+      "árvore caída"
+    ],
+    "other_details": {
+      "water_conditions": "água muito seca",
+      "equipment_usage": "GoPro for recording",
+      "environmental_impact": "sol affecting boat color"
+    }
+  }
+}

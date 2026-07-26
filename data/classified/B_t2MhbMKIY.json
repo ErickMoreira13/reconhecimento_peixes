@@ -1,0 +1,49 @@
+{
+  "arquivo": "B_t2MhbMKIY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:47:11.412151",
+  "classificacao": {
+    "summary": {
+      "china": {
+        "fishing_methods": [
+          "Use of trawling nets, GPS, and sonar technology for efficient fishing.",
+          "Cold storage on boats to preserve freshness, especially for crabs during molting seasons.",
+          "Processing and distribution in Jiangsu province, with a focus on early autumn crab season."
+        ],
+        "economic_impact": "Significant contribution to local economies through seafood exports and domestic consumption."
+      },
+      "south_korea": {
+        "fishing_methods": [
+          "Selective trawling to minimize bycatch and protect juvenile fish.",
+          "Protected fishing periods to ensure sustainable shrimp populations.",
+          "Jeju Island as a key hub for shrimp processing and export."
+        ],
+        "sustainability": "Emphasis on selective fishing and seasonal restrictions to maintain ecological balance."
+      },
+      "japan": {
+        "fishing_methods": [
+          "Advanced trawling nets and refrigeration systems for high-quality shrimp and crab preservation.",
+          "Use of sonar and GPS for precise targeting of fishing grounds.",
+          "Export of processed seafood to global markets, leveraging Japan's reputation for quality."
+        ],
+        "economic_impact": "High-value exports of premium seafood, supporting both domestic and international markets."
+      }
+    },
+    "comparison": {
+      "technologies": "All three countries use GPS and sonar, but Japan and South Korea emphasize selective fishing, while China focuses on large-scale trawling.",
+      "sustainability": "South Korea and Japan have stricter regulations for bycatch and seasonal restrictions, whereas China's methods are more industrialized with less emphasis on sustainability.",
+      "economic_focus": "China prioritizes volume and domestic processing, South Korea balances sustainability with export, and Japan focuses on high-value exports and quality control."
+    },
+    "key_factors_for_success": [
+      "Advanced technology (GPS, sonar, refrigeration) for efficiency and preservation.",
+      "Strategic processing and distribution networks (e.g., Jiangsu, Jeju Island).",
+      "Sustainability practices in South Korea and Japan to maintain long-term fish stocks.",
+      "Strong export markets for high-quality seafood, particularly in Japan."
+    ],
+    "challenges": {
+      "china": "Environmental concerns due to large-scale trawling and overfishing risks.",
+      "south_korea": "Balancing economic growth with ecological protection.",
+      "japan": "Maintaining quality standards while meeting global demand."
+    }
+  }
+}

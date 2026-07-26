@@ -1,0 +1,40 @@
+{
+  "arquivo": "9zppYJiBWaM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:51:47.820500",
+  "classificacao": {
+    "especies": [
+      "Tucunaré Amarelo",
+      "Tucunaré Azul"
+    ],
+    "equipamentos": [
+      "Titan X 14 Libras",
+      "Carretilha Venza 11 Mil",
+      "Brava 90",
+      "Brava 77"
+    ],
+    "iscas": [
+      "Brava 90",
+      "Brava 77",
+      "Rei do Rio"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Retirada lenta com toques diretos de ponta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Presidente Epitácio",
+    "tipo_pesca": [
+      "Pesca de Tucunaré"
+    ],
+    "observacoes": [
+      "Local com grande quantidade de peixe",
+      "Técnica eficaz mesmo em condições adversas",
+      "Acesso fácil a partir da capital",
+      "Indicação de uso de iscas de meia água"
+    ]
+  }
+}

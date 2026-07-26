@@ -1,0 +1,36 @@
+{
+  "arquivo": "ZPhfDvkCbUg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:40:07.517136",
+  "classificacao": {
+    "especies": [
+      "Jaú",
+      "Bicuda"
+    ],
+    "equipamentos": [
+      "Molinete Tunos",
+      "Vara Tunos"
+    ],
+    "iscas": [
+      "Posta de peixe"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de cima das pedras",
+      "Pesca com isca viva"
+    ],
+    "rios": [
+      "Telespires"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Aqui tem peixe porque tem conservação e preservação"
+    ]
+  }
+}

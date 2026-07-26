@@ -1,0 +1,22 @@
+{
+  "arquivo": "WMe_MGmXDE4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:14:42.964905",
+  "classificacao": {
+    "summary": "O conteúdo apresenta um vídeo ao vivo de pesca, com foco em técnicas e equipamentos. O locutor discute o uso de iscas (como Guaruzinho Barbela Curta/Longa), métodos de pesca (retrieval contínuo, puxada de ponta), e destaca o uso adequado do Snap (com recomendações de tamanho). Também menciona outros pescadores, canais de referência e um cupom de desconto (DOG5) para equipamentos. O vídeo inclui interações com a audiência, experimentos com iscas e reflexões sobre a eficácia de diferentes abordagens.",
+    "key_points": {
+      "técnicas_de_pesca": [
+        "Retrieval contínuo",
+        "Puxada de ponta (tip-pulling)"
+      ],
+      "equipamentos": [
+        "Snap (tamanho adequado para iscas)",
+        "Guaruzinho Barbela Curta/Longa",
+        "Shedzinho"
+      ],
+      "cupom": "DOG5 (desconto em equipamentos de pesca)",
+      "interações": "Menciona outros pescadores e canais, como 'Pescando com o João' e 'Linha de Água'."
+    },
+    "observações": "O conteúdo mistura demonstração prática, dicas técnicas e elementos de entretenimento (como a menção ao 'cupom' e a interação com a audiência). O foco está em experimentação com iscas e adaptação de métodos para diferentes condições de pesca."
+  }
+}

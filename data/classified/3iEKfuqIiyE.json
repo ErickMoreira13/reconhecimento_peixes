@@ -1,0 +1,32 @@
+{
+  "arquivo": "3iEKfuqIiyE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:15:13.845142",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "massinha"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "tecnicas": [
+      "massinha cozida"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Guaratiguetá",
+    "tipo_pesca": "pesca com ceva natural",
+    "observacoes": [
+      "massinha não sai fácil do anzol"
+    ]
+  }
+}

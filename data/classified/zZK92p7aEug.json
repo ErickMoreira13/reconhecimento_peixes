@@ -1,0 +1,44 @@
+{
+  "arquivo": "zZK92p7aEug",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:04:26.415325",
+  "classificacao": {
+    "analysis": {
+      "themes": [
+        "Fishing as a recreational activity",
+        "Interaction with nature and wildlife",
+        "Conservation through fish release",
+        "Personal achievement and frustration",
+        "Social interaction and storytelling"
+      ],
+      "language_style": {
+        "colloquial_language": true,
+        "use_of_slang": true,
+        "informal_tone": true,
+        "emotional_expression": true
+      },
+      "cultural_context": {
+        "regional_terms": [
+          "bruto (big fish)",
+          "viveiro (fish farm)"
+        ],
+        "local_fishing_practices": [
+          "fish release",
+          "use of specific fishing techniques"
+        ],
+        "social_media_influence": true
+      },
+      "structure": {
+        "narrative_flow": "chronological with interruptions for real-time events",
+        "interactive_elements": true,
+        "emotional_highs_and_lows": true
+      },
+      "notable_elements": [
+        "Use of humor and self-deprecation",
+        "Mention of specific locations (e.g., 'lagoa')",
+        "Technical fishing terms mixed with casual language",
+        "Emphasis on the unpredictability of fishing"
+      ]
+    }
+  }
+}

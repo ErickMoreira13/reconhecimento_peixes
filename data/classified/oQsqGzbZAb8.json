@@ -1,0 +1,16 @@
+{
+  "arquivo": "oQsqGzbZAb8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:09:57.623424",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de uma conversa entre Rodrigo e outro participante, discutindo pesca no Rio Paraná, com foco em piracanjuba (proibida) e piapara (permitida com limites de tamanho). Eles mencionam a abundância de piapara menores e a expectativa de piapara maiores no próximo ano. Há referências a uma ilha (Ilha do Jacaré) e a história de um macaco que vivia lá. Além disso, há promoção de um plano de compra de barco pela Fluvimar, com parcelamento em 12 meses. O conteúdo termina com a frase 'E boas fisgadas', comum em contextos de pesca.",
+    "key_points": [
+      "Proibição de pesca de piracanjuba",
+      "Permissão para pesca de piapara com limites de tamanho",
+      "Abundância de piapara menores",
+      "Expectativa de piapara maiores no próximo ano",
+      "Menciona a Ilha do Jacaré e a história de um macaco",
+      "Promoção de compra de barco pela Fluvimar (12 parcelas)"
+    ]
+  }
+}

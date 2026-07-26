@@ -1,0 +1,39 @@
+{
+  "arquivo": "xWsd1VTdmGE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:27:20.798781",
+  "classificacao": {
+    "especies": [
+      "Caparari",
+      "Passaguá"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Motor"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca à Vara",
+      "Solta Linha"
+    ],
+    "rios": [
+      "Goporei"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca à Vara"
+    ],
+    "observacoes": []
+  }
+}

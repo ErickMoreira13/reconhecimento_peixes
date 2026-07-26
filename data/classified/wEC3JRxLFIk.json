@@ -1,0 +1,39 @@
+{
+  "arquivo": "wEC3JRxLFIk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:03:59.061014",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Tampa"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Arroz",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Serva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": [
+      "Manter o ponto servado por pelo menos duas a três semanas",
+      "Usar água sem cloro para a preparação da serva"
+    ]
+  }
+}

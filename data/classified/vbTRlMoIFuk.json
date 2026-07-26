@@ -1,0 +1,33 @@
+{
+  "arquivo": "vbTRlMoIFuk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:41:53.457030",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Remo"
+    ],
+    "iscas": [
+      "Farofazinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Garapé",
+      "Garapézinho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Água suja e turva",
+      "Peixe manhoso e difícil de pescar",
+      "Área preservada com vegetação e estruturas naturais"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "nPy1jLdbvs4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:22:15.589276",
+  "classificacao": {
+    "especies": [
+      "Amarelinho",
+      "Canivete",
+      "Choupi",
+      "Cisne",
+      "Fatihão",
+      "Tucuninha",
+      "Uísca"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Uísca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Balanhada"
+    ],
+    "rios": [
+      "Imbó",
+      "Melion"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Paredona"
+    ],
+    "observacoes": []
+  }
+}

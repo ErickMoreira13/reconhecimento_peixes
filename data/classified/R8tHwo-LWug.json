@@ -1,0 +1,22 @@
+{
+  "arquivo": "R8tHwo-LWug",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:00:01.934763",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzolzinho Marozego 24 Desgamassada",
+      "Elastico"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

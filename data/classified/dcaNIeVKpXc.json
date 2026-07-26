@@ -1,0 +1,33 @@
+{
+  "arquivo": "dcaNIeVKpXc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:47:29.609877",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Nozol 12"
+    ],
+    "iscas": [
+      "Piau"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "escaminho",
+      "onçol"
+    ],
+    "rios": [
+      "Rio Telespires"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "escaminho do robicó",
+      "onçol"
+    ]
+  }
+}

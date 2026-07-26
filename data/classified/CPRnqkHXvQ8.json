@@ -1,0 +1,41 @@
+{
+  "arquivo": "CPRnqkHXvQ8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:50:41.763393",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Vara de mão",
+      "Varinha curta",
+      "Elástico"
+    ],
+    "iscas": [
+      "Pão",
+      "Massa",
+      "Mandioca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com varinha de mão no fundo",
+      "Acostumar peixe a comer"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Tilapias muito manhosas",
+      "Treinamento com pão por duas semanas",
+      "Uso de pão e massa como iscas",
+      "Pescaria em área particular"
+    ]
+  }
+}

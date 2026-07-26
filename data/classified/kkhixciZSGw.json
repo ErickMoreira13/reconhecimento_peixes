@@ -1,0 +1,28 @@
+{
+  "arquivo": "kkhixciZSGw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:55:44.916517",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O rio está muito sujo e com poucos espaços para arremessar a linha",
+      "O local não apresentou capturas significativas durante a pesca",
+      "O rio está em processo de enchimento e baixa, o que dificulta a aplicação de cevas",
+      "Planejamento de retornar na próxima semana para pesca em locais mais abertos"
+    ]
+  }
+}

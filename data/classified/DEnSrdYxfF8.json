@@ -1,0 +1,41 @@
+{
+  "arquivo": "DEnSrdYxfF8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:51:01.216176",
+  "classificacao": {
+    "especies": [
+      "Paca",
+      "Cutia",
+      "Javali",
+      "Capivara",
+      "Cateta"
+    ],
+    "equipamentos": [
+      "Prego",
+      "Laço",
+      "Gatilho",
+      "Armadilha"
+    ],
+    "iscas": [
+      "Milho",
+      "Batata",
+      "Aipim"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Armadilha com prego e laço"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Secado em volta da armadilha para evitar que a caça venha do lado ou por trás",
+      "A caça entra pela frente e solta o gatilho ao mexer a pata"
+    ]
+  }
+}

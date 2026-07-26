@@ -1,0 +1,33 @@
+{
+  "arquivo": "MYye6oTYeXg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:19:28.287786",
+  "classificacao": {
+    "resumo": "O vídeo apresenta técnicas de pesca com foco em equipamentos específicos e métodos para atrair peixes. Abaixo, os pontos principais são organizados de forma clara:",
+    "equipamentos": {
+      "linha": "Linha 020 (fina, ideal para evitar assustar os peixes)",
+      "chumbado": "Chumbado número 0 (pequeno, para manter a isca natural)",
+      "gancho": "Gancho tamanho 10 (adequado para iscas menores)",
+      "nós": {
+        "nó_8": "Usado para fixar o chumbado à linha",
+        "nó_cego": "Empregado para unir o gancho à linha"
+      }
+    },
+    "isca": {
+      "opções": [
+        "milho",
+        "vermes"
+      ],
+      "dica": "Escolher iscas que sejam fáceis de engolir e que imitem a presa natural dos peixes"
+    },
+    "montagem": {
+      "passo_1": "Preparar a linha, cortando o comprimento adequado e fazendo o nó 8 no final para fixar o chumbado.",
+      "passo_2": "Unir o gancho à linha usando o nó cego, garantindo que fique firme.",
+      "passo_3": "Fixar a isca no gancho, ajustando o chumbado para que a isca fique na posição correta na água."
+    },
+    "dicas_importantes": {
+      "chumbado_pequeno": "O uso de um chumbado pequeno evita assustar os peixes, permitindo que a isca se mova de forma natural.",
+      "observação": "A escolha da isca e do equipamento depende do tipo de peixe alvo e das condições do local de pesca."
+    }
+  }
+}

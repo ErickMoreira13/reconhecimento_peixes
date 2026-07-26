@@ -1,0 +1,21 @@
+{
+  "arquivo": "LwVkBTAn8Jk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:20:12.160745",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Tuna Pro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": []
+  }
+}

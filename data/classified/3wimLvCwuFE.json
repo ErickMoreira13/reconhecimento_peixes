@@ -1,0 +1,28 @@
+{
+  "arquivo": "3wimLvCwuFE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:26:43.413472",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Wave da Marine Sports"
+    ],
+    "iscas": [
+      "Borá verde limão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Doce"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

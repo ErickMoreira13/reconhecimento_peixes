@@ -1,0 +1,22 @@
+{
+  "arquivo": "LKOoKFPrfhM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:36:23.126398",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "slugs",
+      "chumbos"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

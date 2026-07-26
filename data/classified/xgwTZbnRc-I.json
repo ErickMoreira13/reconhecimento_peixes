@@ -1,0 +1,39 @@
+{
+  "arquivo": "xgwTZbnRc-I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:00:21.387577",
+  "classificacao": {
+    "especies": [
+      "Curimbatá"
+    ],
+    "equipamentos": [
+      "chumbada",
+      "suporte de isca",
+      "câmera"
+    ],
+    "iscas": [
+      "isca caseira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "tirolesa"
+    ],
+    "rios": [
+      "riozinho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "captura de curimbatá de grande porte",
+      "libertação do peixe após captura",
+      "uso de isca caseira",
+      "filmagem com câmera e celular",
+      "preparação do peixe para consumo"
+    ]
+  }
+}

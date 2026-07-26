@@ -1,0 +1,26 @@
+{
+  "arquivo": "MMEnB94O1tE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:29:31.000787",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbada",
+      "Linha",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chumbada antes do anzol",
+      "Chumbada depois do anzol"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

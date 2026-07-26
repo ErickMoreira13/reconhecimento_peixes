@@ -1,0 +1,40 @@
+{
+  "arquivo": "mIhr0uRwYig",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:16:17.949132",
+  "classificacao": {
+    "especies": [
+      "Tucunaré Amarelo",
+      "Tucunaré Azul",
+      "Piranha",
+      "Tocuna",
+      "Brancona",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "isca",
+      "sashimi"
+    ],
+    "iscas": [
+      "sashimi",
+      "chumaço"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "parada da isca",
+      "chamada do peixe"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "os peixes estão mais no raso",
+      "os peixes estão na frente das pontas",
+      "os peixes estão do lado da isca",
+      "os peixes estão caçando"
+    ]
+  }
+}

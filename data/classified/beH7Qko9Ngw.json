@@ -1,0 +1,31 @@
+{
+  "arquivo": "beH7Qko9Ngw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:53:02.862373",
+  "classificacao": {
+    "especies": [
+      "Lula"
+    ],
+    "equipamentos": [
+      "Bruxinha",
+      "Zangarilho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de lula"
+    ],
+    "observacoes": [
+      "Pescaria inusitada no canal",
+      "Retorno à praia à noite para pescar novamente"
+    ]
+  }
+}

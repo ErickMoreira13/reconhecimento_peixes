@@ -1,0 +1,18 @@
+{
+  "arquivo": "VoTinqOVEg0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:22:00.973392",
+  "classificacao": {
+    "summary": "The transcript appears to be a casual, conversational account of a trip to the Rio Araguaia region, likely in Goiás, Brazil. The speaker describes activities such as fishing, navigating through canals and rivers, and social interactions with locals (e.g., Elisão, Nilson). Key elements include: a boat journey, a sunset scene, a car used for transportation, references to local landmarks (e.g., 'sarau' and 'cachada'), and a focus on the natural beauty and cultural aspects of the area. The tone is informal, with frequent use of colloquial language and personal anecdotes.",
+    "key_points": [
+      "Trip to Rio Araguaia, Goiás, Brazil",
+      "Fishing and river navigation as central activities",
+      "Mentions of local interactions and names (Elisão, Nilson)",
+      "Descriptions of natural scenery (sunset, canals, rivers)",
+      "Use of a boat and car for travel",
+      "Cultural references ('sarau' and 'cachada')",
+      "Casual, conversational tone with personal storytelling"
+    ],
+    "possible_intent": "The user may seek a summary of the transcript, translation into English, or analysis of the content's themes (e.g., travel, local culture, outdoor activities)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "9uPtCsa30Cw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:49:35.894051",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha"
+    ],
+    "iscas": [
+      "Isca Artificial",
+      "Isca de Superfície"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Uso de Isca de Superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Carretilha"
+    ],
+    "observacoes": [
+      "Evitar emboleira (cabeleira) durante o arremesso"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "arquivo": "0IUpsQoa43Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:23:46.733039",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Piabanha",
+      "Tucunaré",
+      "Traíra"
+    ],
+    "equipment": [
+      "barco",
+      "passaguá",
+      "óculos"
+    ],
+    "baits": [
+      "artificial",
+      "superfície",
+      "super"
+    ],
+    "grains": [],
+    "techniques": [
+      "uso de iscas artificiais",
+      "pesca com superfície",
+      "desligar o motor",
+      "posicionar o barco em áreas limpas"
+    ],
+    "rivers": [
+      "Rio Paraíba do Sul"
+    ],
+    "basins": [
+      "bancão de areia"
+    ],
+    "state": "Rio Grande do Sul",
+    "municipality": "",
+    "fishing_types": [
+      "pesca com artificial",
+      "pesca com superfície",
+      "pesca com isca"
+    ],
+    "observations": [
+      "água muito suja e poluída",
+      "dificuldade em capturar peixes devido à poluição",
+      "presença de Tilápia e Piabanha",
+      "peixes assustados por causa da poluição"
+    ]
+  }
+}

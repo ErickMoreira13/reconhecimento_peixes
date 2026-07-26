@@ -1,0 +1,42 @@
+{
+  "arquivo": "bDYR7YCd9fg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:52:22.872495",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Pirapitinga",
+      "Piraputanga",
+      "Traíra",
+      "Camarão",
+      "Grus"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu",
+      "Molinete",
+      "Varinha de Mão"
+    ],
+    "iscas": [
+      "Estilápia",
+      "Piaba",
+      "Camarão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria Raiz",
+      "Uso de Molinete",
+      "Varinha de Bambu"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

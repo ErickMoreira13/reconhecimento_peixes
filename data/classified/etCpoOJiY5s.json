@@ -1,0 +1,43 @@
+{
+  "arquivo": "etCpoOJiY5s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:33:12.838527",
+  "classificacao": {
+    "especies": [
+      "Corimbo",
+      "Curimbo",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Barquinho"
+    ],
+    "iscas": [
+      "Isca de fundo",
+      "Isca"
+    ],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz",
+      "Grão"
+    ],
+    "tecnicas": [
+      "Molinete",
+      "Isca de fundo"
+    ],
+    "rios": [
+      "Rio Tocantins"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca de fundo"
+    ],
+    "observacoes": []
+  }
+}

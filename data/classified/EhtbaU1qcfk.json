@@ -1,0 +1,36 @@
+{
+  "arquivo": "EhtbaU1qcfk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:00:34.447301",
+  "classificacao": {
+    "especies": [
+      "Traira"
+    ],
+    "equipamentos": [
+      "Tube",
+      "Bi",
+      "Arinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria rápida",
+      "Medição para torneio"
+    ],
+    "rios": [
+      "Billings"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "São Paulo",
+    "tipo_pesca": [
+      "Pescaria rápida"
+    ],
+    "observacoes": [
+      "Quebra de equipamento",
+      "Pescaria rápida",
+      "Chuva durante a pescaria"
+    ]
+  }
+}

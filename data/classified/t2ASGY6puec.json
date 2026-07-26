@@ -1,0 +1,38 @@
+{
+  "arquivo": "t2ASGY6puec",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:43:15.620095",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Pucunaré"
+    ],
+    "equipamentos": [
+      "Cevinha",
+      "P40"
+    ],
+    "iscas": [
+      "Caçãozinha de coelho",
+      "Cupim"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Cevada no Ponto"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Paraibuna",
+    "tipo_pesca": [
+      "Pesca de Cevas",
+      "Pesca de Iscas"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "RJEqtmgY06o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:10:36.660145",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

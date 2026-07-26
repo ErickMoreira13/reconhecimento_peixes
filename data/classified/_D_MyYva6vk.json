@@ -1,0 +1,44 @@
+{
+  "arquivo": "_D_MyYva6vk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:56:59.475373",
+  "classificacao": {
+    "especies": [
+      "Barra",
+      "Dourado",
+      "Jiripoca",
+      "Onça Pintada",
+      "Piraputanga"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Inchada",
+      "Peixeira",
+      "Vara",
+      "Varelinho"
+    ],
+    "iscas": [
+      "Caipira",
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Enrosca anzol",
+      "Fisgar",
+      "Selar poço",
+      "Tarrafear"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com anzol",
+      "Pesca com rede"
+    ],
+    "observacoes": [
+      "Descrição da vida do pescador e suas práticas de pesca"
+    ]
+  }
+}

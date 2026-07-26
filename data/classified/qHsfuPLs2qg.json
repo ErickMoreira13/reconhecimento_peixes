@@ -1,0 +1,37 @@
+{
+  "arquivo": "qHsfuPLs2qg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:36:46.922942",
+  "classificacao": {
+    "especies": [
+      "Surubim"
+    ],
+    "equipamentos": [
+      "Equipamento top",
+      "Sarapó",
+      "Vara",
+      "G7"
+    ],
+    "iscas": [
+      "Mandio mole"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Cachoeira do Urubu"
+    ],
+    "bacias": [
+      "Piauizão"
+    ],
+    "estado": "Piauí",
+    "municipio": "Batalha",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Surubim de grande tamanho e gordo",
+      "Equipamento novo e top utilizado"
+    ]
+  }
+}

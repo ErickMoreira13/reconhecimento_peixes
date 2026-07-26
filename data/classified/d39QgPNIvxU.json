@@ -1,0 +1,31 @@
+{
+  "arquivo": "d39QgPNIvxU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:40:08.472893",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Tilápia",
+      "Piau",
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Baixada Maranhense"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Após as chuvas, a pesca está difícil",
+      "Foram capturados Piau, Piaba, Lambari e Tilápia",
+      "A região da Baixada Maranhense ainda possui pesca disponível"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "arquivo": "ZrvzS_VrmVc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:43:01.316107",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "balde",
+      "tambor",
+      "bombona",
+      "saco furado"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "azedamento",
+      "preparação de ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

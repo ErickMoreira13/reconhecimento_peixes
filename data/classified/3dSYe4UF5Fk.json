@@ -1,0 +1,49 @@
+{
+  "arquivo": "3dSYe4UF5Fk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:57:38.891874",
+  "classificacao": {
+    "especies": [
+      "Tuvera",
+      "Caixara",
+      "Barbado",
+      "Pintado",
+      "Cachara",
+      "Pacu",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Carretilha Fatão",
+      "Vara 17 Libras",
+      "Carretilha de Perfil Baixo",
+      "Linha de Monofilamento 0,50 Milímetros",
+      "Chumbada Pequena",
+      "Anzol 7,0",
+      "Anzol Rancho do Pescador",
+      "Carretilinha Fatom da Penha"
+    ],
+    "iscas": [
+      "Pial",
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Remessa",
+      "Espera",
+      "Aproximação Devagar",
+      "Uso de Linha de Monofilamento"
+    ],
+    "rios": [
+      "Rio Guaporé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca em Rios"
+    ],
+    "observacoes": "Quantidade e variedade de peixe incríveis."
+  }
+}

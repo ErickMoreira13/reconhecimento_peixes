@@ -1,0 +1,36 @@
+{
+  "arquivo": "wbzgAb7WgEU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:00:33.595832",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Piau",
+      "Cabeça Gorda"
+    ],
+    "equipamentos": [
+      "Cego",
+      "Carretilha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Andamento",
+      "Fishing with water"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

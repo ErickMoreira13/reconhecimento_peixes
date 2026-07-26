@@ -1,0 +1,22 @@
+{
+  "arquivo": "dQWUdvzK9tk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:33:17.987746",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Alicate",
+      "Garra"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

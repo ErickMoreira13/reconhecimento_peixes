@@ -1,0 +1,38 @@
+{
+  "arquivo": "gcCmtq5uqLI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:31:58.239463",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Paloneta",
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Milho",
+      "Massinha",
+      "Caramujo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Isca Artificial",
+      "Isca Natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Piau"
+    ],
+    "observacoes": [
+      "Poucos peixes capturados, apenas palonetas e tucunaré."
+    ]
+  }
+}

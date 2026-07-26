@@ -1,0 +1,34 @@
+{
+  "arquivo": "B_rOCZ9BVfQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:46:57.826738",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Barco",
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Tarrafa",
+      "Pesca em Maré Baixa"
+    ],
+    "rios": [
+      "Ritapecuru"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em Rio"
+    ],
+    "observacoes": [
+      "A maré baixa é favorável para a pesca na região da encosta da beira do rio",
+      "A maré sobe até uma altura de quase dois metros na área"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "lcL_ZS5iuAw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:02:33.777239",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Robalo",
+      "Tanhota"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Itapocu"
+    ],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Araquari",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Local popular entre pescadores de Joinville e região",
+      "Presença de estrutura urbana (iluminação, pavimentação)",
+      "Menciona captura de bagres e robalos",
+      "Menciona presença ocasional de tanhota"
+    ]
+  }
+}

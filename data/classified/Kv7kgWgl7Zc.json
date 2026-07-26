@@ -1,0 +1,26 @@
+{
+  "arquivo": "Kv7kgWgl7Zc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:14:28.571561",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Espinquete SC330",
+      "Setinha artesanal"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Uso de setinha artesanal com pó de ferro, colatec bond e furadeira"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "V3Yl0RIbCCI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:35:53.636045",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Boia",
+      "Linha 035",
+      "Anzol Chinu",
+      "Chumbada de Apertar Leve",
+      "Chumbada Arroz"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com Boia",
+      "Pescaria sem Boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

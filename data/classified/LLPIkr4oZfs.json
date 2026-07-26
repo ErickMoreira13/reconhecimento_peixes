@@ -1,0 +1,39 @@
+{
+  "arquivo": "LLPIkr4oZfs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:21:51.838418",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Piraíba"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Vara",
+      "Colete",
+      "Cinto de apoio",
+      "Pé da vara"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de peixe grande",
+      "Pesca de PEN Raíba"
+    ],
+    "observacoes": [
+      "O peixe está protegido com cota zero na região",
+      "Aumento da quantidade e tamanho dos peixes ao longo dos anos",
+      "Uso de equipamento pesado para pescaria de grandes peixes"
+    ]
+  }
+}

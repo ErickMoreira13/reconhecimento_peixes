@@ -1,0 +1,39 @@
+{
+  "arquivo": "JWP-y_IvK3M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:19:46.755940",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Linha 030"
+    ],
+    "iscas": [
+      "Carne de churrasco"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca com isca artificial",
+      "Pesca com ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial",
+      "Pesca com ceva"
+    ],
+    "observacoes": [
+      "Presença de familiares durante a pescaria",
+      "Uso de carne de churrasco e soja como iscas"
+    ]
+  }
+}

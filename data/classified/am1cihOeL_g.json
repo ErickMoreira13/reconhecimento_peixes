@@ -1,0 +1,28 @@
+{
+  "arquivo": "am1cihOeL_g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:02:25.977841",
+  "classificacao": {
+    "especies": [
+      "Ubarana"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Metalzinho"
+    ],
+    "iscas": [
+      "Anchova",
+      "Anchovinha Frita"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "local": "",
+    "tecnica": "",
+    "horario": "",
+    "tempo": "",
+    "clima": "",
+    "comentarios": ""
+  }
+}

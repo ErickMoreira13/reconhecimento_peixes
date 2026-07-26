@@ -1,0 +1,23 @@
+{
+  "arquivo": "l11rfAepMlw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:41:55.260953",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

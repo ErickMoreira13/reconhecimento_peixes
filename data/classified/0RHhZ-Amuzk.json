@@ -1,0 +1,29 @@
+{
+  "arquivo": "0RHhZ-Amuzk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:30:42.999481",
+  "classificacao": {
+    "equipamentos": [],
+    "iscas": [
+      "ferrinho"
+    ],
+    "cevas": [],
+    "trabalho": [
+      "trabalho rápido",
+      "trabalho contínuo"
+    ],
+    "horário": [
+      "4:30 às 6"
+    ],
+    "local": [
+      "represa de tilápias"
+    ],
+    "dicas": [
+      "trabalho rápido",
+      "trabalho contínuo",
+      "horário ideal: 4:30 às 6",
+      "vir pescar no período da tarde",
+      "represa de tilápias"
+    ]
+  }
+}

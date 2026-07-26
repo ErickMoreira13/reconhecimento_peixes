@@ -1,0 +1,38 @@
+{
+  "arquivo": "Q-CSPmI6Pc0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:29:16.872405",
+  "classificacao": {
+    "especies": [
+      "Pescada",
+      "Pepirão"
+    ],
+    "equipamentos": [
+      "baladeira",
+      "gelada"
+    ],
+    "iscas": [
+      "castanha",
+      "farinha",
+      "limão",
+      "pimenta",
+      "tomate",
+      "vinagrete"
+    ],
+    "cevas": [
+      "Ceva Aromática",
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "castanha"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

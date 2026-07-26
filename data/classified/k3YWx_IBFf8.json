@@ -1,0 +1,32 @@
+{
+  "arquivo": "k3YWx_IBFf8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:29:04.787733",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "carretilha",
+      "varetinha",
+      "linha 0.35",
+      "anzol",
+      "Aperto Play Octopus 4.0"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "uisco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "uso de anzol direto na linha",
+      "técnica de varar com introdução lateral"
+    ]
+  }
+}

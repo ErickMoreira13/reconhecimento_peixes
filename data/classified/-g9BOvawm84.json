@@ -1,0 +1,25 @@
+{
+  "arquivo": "-g9BOvawm84",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:17:01.451588",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "chuveirinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio de São Francisco"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

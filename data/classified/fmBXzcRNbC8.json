@@ -1,0 +1,39 @@
+{
+  "arquivo": "fmBXzcRNbC8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:28:21.812771",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Varinha de Bambu",
+      "Molinete"
+    ],
+    "iscas": [
+      "Soja",
+      "Sardinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pescaria de Rodada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe pequeno foi devolvido ao rio",
+      "Mudança de estratégia com o uso do molinete",
+      "Sardinha utilizada como isca"
+    ]
+  }
+}

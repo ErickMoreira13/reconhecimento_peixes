@@ -1,0 +1,33 @@
+{
+  "arquivo": "owmrpm6ATns",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:42:16.840955",
+  "classificacao": {
+    "especies": [
+      "Roubalo",
+      "Pescadinha",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "conjunto ultralight",
+      "mulete FX Shimano",
+      "gig head",
+      "balão ultralight"
+    ],
+    "iscas": [
+      "camarão",
+      "camarão Snook",
+      "ferrinho com glitter vermelho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "grãos": [],
+    "tecnicas": [
+      "pescaria de barranco",
+      "pescaria em rio"
+    ],
+    "localizacao": "Rio do Morro do Amaral, Joinville, Santa Catarina",
+    "observacoes": "Pescaria realizada em condições de maré de enchente e vazante, com uso de cevas naturais e iscas artificiais."
+  }
+}

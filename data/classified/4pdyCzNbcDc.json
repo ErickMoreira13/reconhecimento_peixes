@@ -1,0 +1,33 @@
+{
+  "arquivo": "4pdyCzNbcDc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:43:27.977800",
+  "classificacao": {
+    "especies": [
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Cedida",
+      "Saco"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescadores esperando peixe em condições de chuva",
+      "Muita sujeira no rio devido à chuva",
+      "Não foi capturado nenhum peixe durante a pescaria",
+      "Uso de massinha como isca",
+      "Menciona a presença de jacaré no local"
+    ]
+  }
+}

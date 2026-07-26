@@ -1,0 +1,27 @@
+{
+  "arquivo": "shH1Bk-xcTE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:02:03.897446",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Preguiça"
+    ],
+    "bacias": [
+      "Lençóis Maranhenses"
+    ],
+    "estado": "Maranhão",
+    "municipio": "Barreirinhas",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Localização remota no Lençóis Maranhenses",
+      "Hospedagem na pousada La Ferme de Jorge",
+      "Atividade de kitesurf no local"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "gcjvfGt3JVo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:32:34.403100",
+  "classificacao": {
+    "especies": [
+      "Jaú"
+    ],
+    "equipamentos": [
+      "vara de bambu",
+      "chumbada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca em corredeira"
+    ],
+    "rios": [
+      "Rio Telespires"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Barretes",
+    "tipo_pesca": [
+      "Pesca em Corredeira"
+    ],
+    "observacoes": [
+      "Liberação do peixe após a captura"
+    ]
+  }
+}

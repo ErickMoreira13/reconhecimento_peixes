@@ -1,0 +1,28 @@
+{
+  "arquivo": "qaNfop1NAaU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:47:04.203012",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Canoa",
+      "Canoinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Arco e Flecha"
+    ],
+    "rios": [
+      "Igapó"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Arco e Flecha"
+    ],
+    "observacoes": []
+  }
+}

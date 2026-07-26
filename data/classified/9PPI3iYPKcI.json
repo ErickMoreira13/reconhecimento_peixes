@@ -1,0 +1,50 @@
+{
+  "arquivo": "9PPI3iYPKcI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:47:13.442670",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Lambari",
+      "Tucunaré",
+      "Tabarana",
+      "Mandizão",
+      "Lambari do Robo Vermelho"
+    ],
+    "equipamentos": [
+      "Trato",
+      "Zato Vira",
+      "Lampião"
+    ],
+    "iscas": [
+      "Isca Natural",
+      "Minhoca"
+    ],
+    "cevas": {
+      "Ceva Proteica": [
+        "Ração"
+      ],
+      "Ceva Natural": [
+        "Zato Vira"
+      ]
+    },
+    "graos": [],
+    "tecnicas": [
+      "Pescar com Isca Natural",
+      "Pesca Noturna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Carmo do Rio Claro",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca Noturna"
+    ],
+    "observacoes": [
+      "Termos locais como 'cadinho' e 'velhaco' referem-se a espécies de peixe, mas não são classificados como espécies oficiais.",
+      "Uso de 'lampião' (lanterna) para pesca noturna.",
+      "Método de uso de 'ração' (alimento proteico) para atrair peixes nativos."
+    ]
+  }
+}

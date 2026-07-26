@@ -1,0 +1,31 @@
+{
+  "arquivo": "qfX_cPFYErU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:35:00.853080",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Iscas Naturais"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Doce"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Mascaranhas",
+    "tipo_pesca": [
+      "Pesca de Dourado"
+    ],
+    "observacoes": [
+      "A informação que eu tive que não está muito boa não devido ao período, devido à lua"
+    ]
+  }
+}

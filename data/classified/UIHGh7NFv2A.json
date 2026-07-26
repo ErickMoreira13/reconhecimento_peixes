@@ -1,0 +1,23 @@
+{
+  "arquivo": "UIHGh7NFv2A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:45:21.273498",
+  "classificacao": {
+    "summary": "O texto parece ser um script de vídeo ou transmissão ao vivo de um pescador em Pernambuco, Brasil. Ele descreve a mudança de local de pesca, a captura de diferentes espécies de peixes (como oriócô, ariacol, tucunaré e piranha), um acidente com um anzol que causou uma lesão, e interações com o público. O conteúdo é informal, com repetições e linguagem coloquial, comum em transmissões ao vivo.",
+    "key_points": [
+      "Mudança de local de pesca para evitar a falta de peixe.",
+      "Captura de várias espécies de peixe, incluindo oriócô, ariacol, tucunaré e piranha.",
+      "Acidente com um anzol que resultou em uma lesão no dedo, destacando a importância da segurança ao pescar.",
+      "Interações com o público, incluindo perguntas sobre técnicas de pesca e a experiência de pescar em diferentes locais.",
+      "Menciona a região de Pernambuco e o uso de termos locais, como 'oriocó' e 'Ariacol'."
+    ],
+    "cultural_context": "O conteúdo reflete a cultura de pesca em Pernambuco, com referências a espécies típicas da região e a prática de pesca em ambientes naturais. A linguagem informal e as interações com o público são comuns em transmissões ao vivo de pescadores, que muitas vezes compartilham experiências pessoais e técnicas de pesca.",
+    "safety_note": "O acidente com o anzol serve como um lembrete da importância de usar equipamentos adequados e tomar precauções ao manipular anzóis e outros materiais de pesca.",
+    "possible_follow_up_questions": [
+      "Como posso traduzir partes específicas do script para outro idioma?",
+      "Quais são as técnicas de pesca mais comuns para capturar oriócô e ariacol?",
+      "Como os pescadores em Pernambuco lidam com a segurança ao usar anzóis e equipamentos de pesca?",
+      "O que é um 'oriocó' e quais são suas características?"
+    ]
+  }
+}

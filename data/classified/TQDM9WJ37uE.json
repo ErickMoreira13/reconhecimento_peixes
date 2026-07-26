@@ -1,0 +1,28 @@
+{
+  "arquivo": "TQDM9WJ37uE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:22:40.901679",
+  "classificacao": {
+    "especies": [
+      "cálculo"
+    ],
+    "equipamentos": [
+      "anzola",
+      "alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "soltação de peixe"
+    ]
+  }
+}

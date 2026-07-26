@@ -1,0 +1,42 @@
+{
+  "arquivo": "yMpHEcoRDMA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:19:54.844055",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Curimba",
+      "Piau",
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Copo de 250 ml",
+      "Prato",
+      "Scoop de açúcar",
+      "Vasilha",
+      "Farinha de trigo"
+    ],
+    "iscas": [
+      "Massinha poderosa"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Massa de isca",
+      "Formação de bolinhas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A massa é eficaz e atrai peixes com seu forte cheiro de banana"
+    ]
+  }
+}

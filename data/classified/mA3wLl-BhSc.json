@@ -1,0 +1,23 @@
+{
+  "arquivo": "mA3wLl-BhSc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:53:23.667397",
+  "classificacao": {
+    "summary": "O texto é um relato animado de uma jornada de pesca no Rio Uruguai, com diálogos entre participantes como Dudu, Jato, Jaca e outros. Eles descrevem a experiência de pescar com iscas artificiais, a dificuldade de capturar peixes (como o surubim) devido à sua cautela, e a prática de soltar os peixes após a captura. Há menções a desafios como a chuva que interrompeu a atividade e a preparação de um almoço no local. O conteúdo destaca a interação entre os pescadores, a técnica de pesca e a consciência ambiental (solta dos peixes).",
+    "key_points": [
+      "Uso de iscas artificiais",
+      "Desafios na captura de peixes",
+      "Prática de soltar os peixes",
+      "Interação entre os participantes",
+      "Interrupção por chuva",
+      "Preparação de almoço no local"
+    ],
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Análise de técnicas de pesca",
+      "Tradução do texto",
+      "Dicas para criar um roteiro de vídeo",
+      "Informações sobre conservação de peixes"
+    ]
+  }
+}

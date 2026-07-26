@@ -1,0 +1,27 @@
+{
+  "arquivo": "Cei7v1zDN7o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:32:34.796421",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Vara Alteza",
+      "Carretilha Blade",
+      "V73 Magnus"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

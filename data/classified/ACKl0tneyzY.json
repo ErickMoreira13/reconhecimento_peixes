@@ -1,0 +1,35 @@
+{
+  "arquivo": "ACKl0tneyzY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:21:07.070410",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Lambari",
+      "Cará"
+    ],
+    "equipamentos": [
+      "Massinha",
+      "Minhoca",
+      "Varinha"
+    ],
+    "iscas": [
+      "Massinha",
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Bacia do Rio Paraná"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescaria realizada na Represa de São João com uso de massinha e minhoca, resultando na captura de tilápia, piau, lambari e cará. Foi preparado um frito com os peixes capturados."
+    ]
+  }
+}

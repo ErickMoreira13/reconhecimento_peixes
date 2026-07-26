@@ -1,0 +1,27 @@
+{
+  "arquivo": "7wl-mmwSN_U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:05:02.853386",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Carpa Vermelha",
+      "Panga",
+      "Cachorro-do-rio",
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

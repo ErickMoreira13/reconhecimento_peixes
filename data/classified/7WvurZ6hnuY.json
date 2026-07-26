@@ -1,0 +1,21 @@
+{
+  "arquivo": "7WvurZ6hnuY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:05:29.640130",
+  "classificacao": {
+    "summary": "O texto é uma transcrição informal de uma sessão de pesca ao vivo, com diálogos entre participantes. Beni está usando uma vara de pesca e discutindo técnicas, como soltar a linha e ajustar o anzol. Há menções a espécies de peixe (piranha, cachorra) e interações sociais, como a participação da família. O ambiente parece ser uma pescaria em grupo, com linguagem coloquial e repetições comuns em conversas ao vivo.",
+    "key_points": [
+      "Técnicas de pesca mencionadas: soltar a linha, ajustar o anzol",
+      "Espécies de peixe: piranha, cachorra",
+      "Contexto social: pescaria em família",
+      "Ambiente: Vale do Bambu",
+      "Linguagem informal e interações entre participantes"
+    ],
+    "possible_needs": [
+      "Tradução para inglês",
+      "Explicação de termos técnicos de pesca",
+      "Resumo mais detalhado",
+      "Análise cultural do contexto da pescaria"
+    ]
+  }
+}

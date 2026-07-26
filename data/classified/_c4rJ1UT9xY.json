@@ -1,0 +1,35 @@
+{
+  "arquivo": "_c4rJ1UT9xY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:56:18.396368",
+  "classificacao": {
+    "especies": [
+      "Balbina",
+      "Curucu",
+      "Piranha",
+      "Tucunaré",
+      "Traíra",
+      "Cunha Bravo"
+    ],
+    "equipamentos": [
+      "Rebojo",
+      "Varinha"
+    ],
+    "iscas": [
+      "Meia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": []
+  }
+}

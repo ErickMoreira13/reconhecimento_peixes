@@ -1,0 +1,27 @@
+{
+  "arquivo": "uMMa2q9BDSE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:09:49.167785",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "canoa",
+      "rede",
+      "colher"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Amazonas",
+      "Tularé"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Parintins",
+    "tipo_pesca": []
+  }
+}

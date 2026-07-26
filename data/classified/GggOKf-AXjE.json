@@ -1,0 +1,41 @@
+{
+  "arquivo": "GggOKf-AXjE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:38:17.280274",
+  "classificacao": {
+    "especies": [
+      "Sororoca",
+      "Traíra",
+      "Piaba",
+      "Lambari",
+      "Vale de Anzal"
+    ],
+    "equipamentos": [
+      "Anzóis",
+      "Piaba",
+      "Filé de Piaba",
+      "Batome"
+    ],
+    "iscas": [
+      "Piaba",
+      "Filé de Piaba"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Corta piaba no meio",
+      "Anzóis miudinhos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Sororoca",
+      "Pesca"
+    ],
+    "observacoes": [
+      "Chuva intensa impedindo a pesca"
+    ]
+  }
+}

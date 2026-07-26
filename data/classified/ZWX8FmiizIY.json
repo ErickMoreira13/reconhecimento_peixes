@@ -1,0 +1,21 @@
+{
+  "arquivo": "ZWX8FmiizIY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:01:10.897318",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Torá"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Sobradinho",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

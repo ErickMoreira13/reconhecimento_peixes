@@ -1,0 +1,40 @@
+{
+  "arquivo": "82bJUEv4zyo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:07:56.479090",
+  "classificacao": {
+    "especies": [
+      "Cabeçudo",
+      "Guaraçá",
+      "Guaricema",
+      "Pititinga",
+      "Sambá"
+    ],
+    "equipamentos": [
+      "Varinha light",
+      "Varinha artesanal",
+      "Chuberga"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com linha simples",
+      "Uso de anzol",
+      "Uso de chumbo",
+      "Lançamento de isca"
+    ],
+    "rios": [
+      "Rio Vermelho"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Salvador",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

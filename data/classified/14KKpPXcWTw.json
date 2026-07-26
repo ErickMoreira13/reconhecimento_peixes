@@ -1,0 +1,40 @@
+{
+  "arquivo": "14KKpPXcWTw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:57:11.911384",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Traíra",
+      "Tucunaré",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Cana de pesca",
+      "Galão perfurado"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca em corrente"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

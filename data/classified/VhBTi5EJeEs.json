@@ -1,0 +1,27 @@
+{
+  "arquivo": "VhBTi5EJeEs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:05:36.037787",
+  "classificacao": {
+    "especie": "Curimbatá",
+    "equipamento": [
+      "Peso",
+      "Spinter",
+      "Monofilamento",
+      "Multifilamento"
+    ],
+    "iscas": [
+      "Ambari",
+      "Lambari"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Sertanópolis",
+    "tipo_pesca": "Pesca de curimbatá",
+    "observacoes": "Fishing for Curimbatá in Sertanópolis, Paraná, using specific equipment and lures."
+  }
+}

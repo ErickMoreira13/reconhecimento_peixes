@@ -1,0 +1,25 @@
+{
+  "arquivo": "sXBZrUFnzvE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:19:29.092934",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boiaguia"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Boiaguia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

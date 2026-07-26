@@ -1,0 +1,31 @@
+{
+  "arquivo": "1Mq-SvOsGKA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:45:54.074400",
+  "classificacao": {
+    "especies": [
+      "Pescada"
+    ],
+    "equipamentos": [
+      "Tarrafiada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Tarrafiada"
+    ],
+    "rios": [
+      "Itapecuru"
+    ],
+    "bacias": [
+      "Bacia do Rio Itapecuru"
+    ],
+    "estado": "Maranhão",
+    "municipio": "Timbiras",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

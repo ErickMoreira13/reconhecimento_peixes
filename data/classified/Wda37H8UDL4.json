@@ -1,0 +1,55 @@
+{
+  "arquivo": "Wda37H8UDL4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:02:59.382913",
+  "classificacao": {
+    "especies": [
+      {
+        "nombre_normalizado": "Amarillo",
+        "nombre_comun": "Amarillo",
+        "nombre_cientifico": "No disponible"
+      },
+      {
+        "nombre_normalizado": "Moncholo",
+        "nombre_comun": "Moncholo",
+        "nombre_cientifico": "No disponible"
+      },
+      {
+        "nombre_normalizado": "Pati",
+        "nombre_comun": "Pati",
+        "nombre_cientifico": "No disponible"
+      }
+    ],
+    "equipo": [
+      "canobote",
+      "piragua",
+      "parrilla",
+      "varitas verdes",
+      "llamas",
+      "choris",
+      "fritanga",
+      "mates"
+    ],
+    "iscas": [
+      "pata de araña",
+      "podrido",
+      "tripa de saba",
+      "lombriz"
+    ],
+    "cevadas": [
+      "podrido",
+      "tripa de saba"
+    ],
+    "grãos": [],
+    "técnicas": [],
+    "rios": [
+      {
+        "nombre": "Ramallo",
+        "estado": "",
+        "municipio": ""
+      }
+    ],
+    "bacias": [],
+    "tipo_pesca": []
+  }
+}

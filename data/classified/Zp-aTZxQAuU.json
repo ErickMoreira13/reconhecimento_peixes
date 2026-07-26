@@ -1,0 +1,37 @@
+{
+  "arquivo": "Zp-aTZxQAuU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:39:45.622304",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Carbontech",
+      "Fiberflex",
+      "Sarasara"
+    ],
+    "iscas": [
+      "Sarasara"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca artificial"
+    ],
+    "rios": [
+      "Rio Tocantins"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "perda de isca verde florescente",
+      "peixe ativo mesmo com tempo nublado e ventoso",
+      "uso de isca Sarasara tamanho 100"
+    ]
+  }
+}

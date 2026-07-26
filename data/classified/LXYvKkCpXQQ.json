@@ -1,0 +1,38 @@
+{
+  "arquivo": "LXYvKkCpXQQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:22:19.458159",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Dourado",
+      "Pirarara",
+      "Trairão",
+      "Piraíba",
+      "Pintado",
+      "Cachorra",
+      "Jaú",
+      "Bicuda"
+    ],
+    "equipamento": "",
+    "isca": "",
+    "cevas": "",
+    "grãos": "",
+    "técnicas": "",
+    "rios": "",
+    "bacias": [
+      "Bacia Amazônica",
+      "Bacia Araguaia-Tocantins",
+      "Bacia do Prata",
+      "Bacia do São Francisco"
+    ],
+    "estado": "",
+    "município": "",
+    "tipo de pesca": "",
+    "observações": [
+      "O bicuda é altamente esportivo e procurado por pescadores, mas não tem importância comercial.",
+      "O bicuda é conhecido por saltar fora da água durante a captura.",
+      "O piraíba pode atingir tamanhos consideráveis, mas capturas atuais são inferiores a 20 kg."
+    ]
+  }
+}

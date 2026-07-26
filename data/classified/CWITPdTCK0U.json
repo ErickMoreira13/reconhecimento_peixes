@@ -1,0 +1,25 @@
+{
+  "arquivo": "CWITPdTCK0U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:34:33.312284",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piau",
+      "Pacu",
+      "Traíra",
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

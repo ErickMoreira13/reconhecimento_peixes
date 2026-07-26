@@ -1,0 +1,49 @@
+{
+  "arquivo": "4X0XiRh0gCk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:47:21.700530",
+  "classificacao": {
+    "especies": [
+      "Acurimatã",
+      "Abessudo",
+      "Apiri",
+      "Piapara",
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Corda",
+      "Pau",
+      "Pedra",
+      "Vaso"
+    ],
+    "iscas": [
+      "Ração de Cachorro",
+      "Ração de Coelho",
+      "Farelo de Milho",
+      "Canjica",
+      "Milho",
+      "Queijo",
+      "Coco",
+      "Empim"
+    ],
+    "localização": [
+      "Barragem",
+      "Poço",
+      "Raseira"
+    ],
+    "profundidade": [
+      "2 a 3 metros",
+      "4 metros"
+    ],
+    "metodo_de_ceva": [
+      "Ceva com ração, farelo, canjica, milho, queijo, coco e empim em um vaso, deixando fermentar e colocando em áreas específicas da barragem"
+    ],
+    "observações": [
+      "Ceva duradoura que dura dias",
+      "Uso de peso pesado para sustentar o vaso",
+      "Localização secreta para proteger os amigos piratas"
+    ]
+  }
+}

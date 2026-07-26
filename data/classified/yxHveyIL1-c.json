@@ -1,0 +1,37 @@
+{
+  "arquivo": "yxHveyIL1-c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:43:05.759880",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Lã 30",
+      "Lã 35",
+      "Lã 40",
+      "Snap"
+    ],
+    "iscas": [
+      "Sarasara",
+      "Medic Stick",
+      "Boni",
+      "Zig Zara",
+      "Dorialis",
+      "Prateada",
+      "Snake",
+      "Popper Pop R",
+      "Brava",
+      "Rei do Rio"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

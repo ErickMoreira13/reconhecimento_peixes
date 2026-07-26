@@ -1,0 +1,29 @@
+{
+  "arquivo": "yWyyaiO10ac",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:42:20.936694",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa de pesca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em pesqueiros"
+    ],
+    "observacoes": [
+      "A massa é feita com banana e farinha, sendo eficiente e não sai fácil do anzol",
+      "Pode ser usada como alternativa à massa branca ou massa de beijinho",
+      "Adições como açúcar, leite, fubá ou sachê de suco em pó podem ser feitas para tornar mais atrativo"
+    ]
+  }
+}

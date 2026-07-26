@@ -1,0 +1,29 @@
+{
+  "arquivo": "J-cF2nPwqkY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:35:48.572688",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "cevador",
+      "anzol"
+    ],
+    "iscas": [
+      "carne",
+      "carne assada"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

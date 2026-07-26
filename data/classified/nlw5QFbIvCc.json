@@ -1,0 +1,21 @@
+{
+  "arquivo": "nlw5QFbIvCc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:17:24.935862",
+  "classificacao": {
+    "especies": [
+      "Barbado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

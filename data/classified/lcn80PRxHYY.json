@@ -1,0 +1,37 @@
+{
+  "arquivo": "lcn80PRxHYY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:03:16.361247",
+  "classificacao": {
+    "especies": [
+      "Psica"
+    ],
+    "equipamentos": [
+      "Isopor"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Linha de pesca",
+      "Casting"
+    ],
+    "rios": [
+      "Mamoré",
+      "Guajará-Mirim"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Guajará-Mirim",
+    "tipo_pesca": [
+      "Linha de pesca"
+    ],
+    "observacoes": [
+      "Fartura de peixe",
+      "Sol quente",
+      "Localização em Guajará-Mirim"
+    ]
+  }
+}

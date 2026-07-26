@@ -1,0 +1,35 @@
+{
+  "arquivo": "k4vGH6DNsoA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:58:57.156573",
+  "classificacao": {
+    "species": [
+      "Caranha",
+      "Matrinchã",
+      "Mandi",
+      "Tilápia",
+      "Piau",
+      "Lambari",
+      "Mandi"
+    ],
+    "equipment": [
+      "tablado",
+      "barco",
+      "baleira",
+      "hidra",
+      "balão cabeceiro"
+    ],
+    "baits": [],
+    "cevas": [],
+    "grains": [],
+    "techniques": [],
+    "rivers": [
+      "Represa de Emborcação"
+    ],
+    "basins": [],
+    "state": "Minas Gerais",
+    "municipality": "Itumbiara",
+    "type_pesca": [],
+    "observations": []
+  }
+}

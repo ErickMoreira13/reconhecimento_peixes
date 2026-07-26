@@ -1,0 +1,26 @@
+{
+  "arquivo": "TpjS7Kz4Lhc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:12:20.696704",
+  "classificacao": {
+    "species": [
+      "Trinca",
+      "Pacu"
+    ],
+    "equipment": [
+      "Almara 114",
+      "Vara telescópica aberta 5000",
+      "Flucarbon 047 Vexter"
+    ],
+    "baits": [
+      "Trinca",
+      "Pacu"
+    ],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "Pescaria de vara telescópica na batida",
+      "Pescaria de varejão"
+    ]
+  }
+}

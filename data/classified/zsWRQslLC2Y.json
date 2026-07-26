@@ -1,0 +1,34 @@
+{
+  "arquivo": "zsWRQslLC2Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:45:40.149784",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "barco",
+      "pedral"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio Atumã"
+    ],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "Amazonas",
+    "municipio": "Itapiranga",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "reserva com baixa pressão de pesca",
+      "acesso fácil a partir de Manaus",
+      "estrutura aconchegante da pousada"
+    ]
+  }
+}

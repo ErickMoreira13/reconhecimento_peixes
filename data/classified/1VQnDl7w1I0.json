@@ -1,0 +1,40 @@
+{
+  "arquivo": "1VQnDl7w1I0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:52:03.377843",
+  "classificacao": {
+    "especie": [
+      "piauçu",
+      "Passaguá",
+      "Tucunarézinho",
+      "caranha"
+    ],
+    "tamanho": [
+      "pequeno",
+      "bruto",
+      "medida",
+      "grande",
+      "maiorzão"
+    ],
+    "local": [
+      "rio",
+      "lagoas"
+    ],
+    "metodo": [
+      "varinha na mão",
+      "CD",
+      "camarão"
+    ],
+    "isca": [
+      "milho",
+      "camarão",
+      "quirela"
+    ],
+    "equipamento": [
+      "varinha",
+      "carretilha",
+      "corda"
+    ],
+    "observacao": "O piauçu não tem milho inteiro no estômago, apenas quirela."
+  }
+}

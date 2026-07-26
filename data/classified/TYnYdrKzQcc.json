@@ -1,0 +1,31 @@
+{
+  "arquivo": "TYnYdrKzQcc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T11:54:28.086654",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tucunaré",
+      "Verdão"
+    ],
+    "equipamentos": [
+      "vara tucuna pro",
+      "alicate de bico longo"
+    ],
+    "iscas": [
+      "isca mad dog",
+      "bitelo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Curuá"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

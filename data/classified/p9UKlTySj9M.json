@@ -1,0 +1,44 @@
+{
+  "arquivo": "p9UKlTySj9M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:57:44.059695",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Traíra",
+      "Ouro Velho"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Plugzinho",
+      "Lunizinho"
+    ],
+    "iscas": [
+      "Chumbo",
+      "Lunizinho Grafite",
+      "Lunizinho Ouro Velho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Bater um Camarão",
+      "Bater nas Valetas",
+      "Plugzinho",
+      "Recolhimento Contínuo"
+    ],
+    "rios": [
+      "Itapucu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Aprendizados",
+      "Surpresa",
+      "Baita Pescaria"
+    ]
+  }
+}

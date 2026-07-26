@@ -1,0 +1,39 @@
+{
+  "arquivo": "jxT01GqCUHQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:21:27.784626",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Moriguinho",
+      "Castoado",
+      "Agulha",
+      "Castor"
+    ],
+    "iscas": [
+      "Isquinha",
+      "Mosquita",
+      "Cheirosa",
+      "Calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Preparação de isca",
+      "Uso de isquinha",
+      "Corte de calabresa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "Uso de isca fragrante",
+      "Preparação com corte em X",
+      "Uso de equipamento específico"
+    ]
+  }
+}

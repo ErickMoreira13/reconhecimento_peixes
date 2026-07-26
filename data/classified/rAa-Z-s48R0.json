@@ -1,0 +1,36 @@
+{
+  "arquivo": "rAa-Z-s48R0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:01:51.578425",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Caranha"
+    ],
+    "equipamentos": [
+      "garrafinha"
+    ],
+    "iscas": [
+      "soja cozida com álcool e choque térmico"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "isca de soja cozida com álcool e choque térmico"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "soja rendeu rapidamente após 10 minutos de molho"
+    ]
+  }
+}

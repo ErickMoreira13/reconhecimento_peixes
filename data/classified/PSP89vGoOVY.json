@@ -1,0 +1,51 @@
+{
+  "arquivo": "PSP89vGoOVY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:20:30.239572",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Pescada",
+      "Tuvira"
+    ],
+    "equipamentos": [
+      "Saquinho",
+      "Anzol",
+      "Passaguá",
+      "Barco"
+    ],
+    "iscas": [
+      "Isca viva",
+      "Tuvira"
+    ],
+    "grãos": [
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "técnicas": [
+      "Anestesia dental",
+      "Manobra cega"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Enganei vocês tudo",
+      "Aproveita Daniel, não desliga não",
+      "Você vai machucar ela sim",
+      "Aplicando uma técnica de anestesia dental nela",
+      "Apresentar o peixe ao óleo de soja",
+      "Pescam pra comer",
+      "Tirar uma foto e sortar de voz",
+      "Não adianta nada pescar",
+      "Sai daí, maluco",
+      "Já me siga"
+    ]
+  }
+}

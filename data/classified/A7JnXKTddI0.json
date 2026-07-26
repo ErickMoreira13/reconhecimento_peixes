@@ -1,0 +1,72 @@
+{
+  "arquivo": "A7JnXKTddI0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:08:11.415750",
+  "classificacao": {
+    "fisherman": {
+      "name": "Pescador Mestre",
+      "items": {
+        "high_level_fishing_line": {
+          "description": "Evita que a linha quebre, garantindo que você não perca nada! 🎣",
+          "effect": "Protege contra quebras de linha"
+        },
+        "fisherman_earrings": {
+          "description": "Aumenta o poder de pesca em 10% 🎯",
+          "effect": "+10% poder de pesca"
+        },
+        "bait_box": {
+          "description": "Reduz a chance de isca ser consumida 🐟",
+          "effect": "Menos desperdício de isca"
+        },
+        "fisherman_bag": {
+          "description": "Combina linha, brinco e caixa de isca para um acessório poderoso 🎒",
+          "effect": "Combinação perfeita para pesca eficiente"
+        },
+        "lava_fishing_hook": {
+          "description": "Pesca em lava sem precisar de iscas específicas 🔥",
+          "effect": "Funciona em lava"
+        },
+        "floating_bait": {
+          "description": "Aumenta o poder de pesca em 10% 🌊",
+          "effect": "+10% poder de pesca"
+        },
+        "fishing_quest_items": {
+          "items": [
+            "Guia da Bolsa do Pescador",
+            "Rádio do Tempo",
+            "Sextante"
+          ],
+          "effect": "Necessários para criar o detector de peixe 📡"
+        },
+        "potions": {
+          "fishing_potion": {
+            "description": "Aumenta o poder de pesca em 15% 🧪",
+            "effect": "+15% poder de pesca"
+          },
+          "chest_potion": {
+            "description": "Aumenta a chance de obter caixas de 10% para 25% 🎁",
+            "effect": "+15% chance de caixas"
+          },
+          "sonar_potion": {
+            "description": "Mostra o que você vai pescar 📡",
+            "effect": "Visualização do que está sendo pescado"
+          },
+          "combined_chest_sonar": {
+            "description": "Combinando as duas, você tem 100% de chance de obter caixas! 🎉",
+            "effect": "100% chance de caixas"
+          }
+        },
+        "luck": {
+          "description": "A sorte afeta o poder de pesca e a qualidade dos itens 🎲",
+          "effects": {
+            "negative": "Reduz o poder de pesca em 10-40%",
+            "positive": "Aumenta o poder de pesca em 10-40%",
+            "item_quality": "Aumenta a qualidade dos itens obtidos (ex: caixas de ouro, prata, platina?) 🎁"
+          },
+          "note": "Ainda não temos certeza se existem caixas de platina, mas a sorte pode ajudar!"
+        },
+        "call_to_action": "Curtam, comentem e se inscrevam para mais dicas de pesca! 🎣❤️"
+      }
+    }
+  }
+}

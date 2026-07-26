@@ -1,0 +1,58 @@
+{
+  "arquivo": "zSBAN3ro2fs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:43:29.877112",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Rosco",
+      "Joaninha",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Anzol",
+      "Potinho"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Mora aventureira"
+    ],
+    "rios": [
+      "Praia da Barra Bonita"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Barra Bonita",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Louco zóia de banha",
+      "Achei que eu vou querer dar uma brincada",
+      "Vou meter um anzol aqui",
+      "Vai dar bom aqui",
+      "Bonita bonitona",
+      "Não tem as mães",
+      "Olha o pinicão",
+      "Vou livrar isso aqui",
+      "Cheguei na hora",
+      "Baita do joanão",
+      "Rendeu o sol",
+      "Tamanho da bicha",
+      "Está comendo",
+      "Vem aqui que elas estão vindo atrás da isca",
+      "Estreia da bicha",
+      "Parece um tucunarezão",
+      "Fica tipo um tucunarezão",
+      "Faço a mora aventureira",
+      "Só que a pronta estraguei o ponto"
+    ]
+  }
+}

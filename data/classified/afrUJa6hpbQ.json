@@ -1,0 +1,30 @@
+{
+  "arquivo": "afrUJa6hpbQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:42:58.959391",
+  "classificacao": {
+    "especies": [
+      "Robalinho",
+      "Triquinho"
+    ],
+    "equipamentos": [
+      "Carretilha Marina Sports Brisa",
+      "Varinha Zeste Fox Carbon 14 libras",
+      "Esquinha roxinho",
+      "Líder 0,53",
+      "Linha multifilamento quatro fios 0,18"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Laguna",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

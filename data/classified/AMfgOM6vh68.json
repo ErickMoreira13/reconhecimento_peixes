@@ -1,0 +1,56 @@
+{
+  "arquivo": "AMfgOM6vh68",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:03:23.633616",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Bague",
+      "Manduzão",
+      "Bagre",
+      "Brancão",
+      "Blanco",
+      "Borrela"
+    ],
+    "equipamentos": [
+      "Vara de Bambu",
+      "Vara Telescópio",
+      "Lanterna",
+      "Glow 5000"
+    ],
+    "iscas": [
+      "Massa",
+      "Milho Azedo",
+      "Bichinho",
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca com Vara de Bambu",
+      "Pesca com Bichinho",
+      "Pesca com Luz",
+      "Pesca Noturna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca Noturna",
+      "Pesca com Vara de Bambu",
+      "Pesca com Luz",
+      "Pesca com Bichinho",
+      "Pesca com Massa"
+    ],
+    "observacoes": [
+      "Local propício para pesca",
+      "Uso de Glow 5000",
+      "Primeira pescaria no local",
+      "Pescaria noturna com lanternas"
+    ]
+  }
+}

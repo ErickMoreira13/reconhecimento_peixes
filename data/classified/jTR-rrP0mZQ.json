@@ -1,0 +1,52 @@
+{
+  "arquivo": "jTR-rrP0mZQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:17:30.505746",
+  "classificacao": {
+    "especies": [
+      "Aracu",
+      "Peixe de Couro",
+      "Traíra",
+      "Tambaqui",
+      "Boto",
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Linha",
+      "Anzol",
+      "Carabina",
+      "Lanterna"
+    ],
+    "iscas": [],
+    "cevas": {
+      "Ceva Natural": [
+        "Milho",
+        "Soja",
+        "Trigo",
+        "Arroz",
+        "Canjica"
+      ],
+      "Ceva de Partículas": [
+        "Galão Perforado"
+      ]
+    },
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Tarrafa",
+      "Pesca de Linha"
+    ],
+    "rios": [
+      "Rio Negro",
+      "Ri ozão"
+    ],
+    "localidades": [],
+    "experiencias": []
+  }
+}

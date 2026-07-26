@@ -1,0 +1,30 @@
+{
+  "arquivo": "R21ehD6e_EM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:53:00.266777",
+  "classificacao": {
+    "especies": [
+      "Pirapara",
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Ri ozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Churrasqueira, mesa, rede, banheiro, riozão com visão de peixes nadando, localização próxima ao ponto curva do gato"
+    ]
+  }
+}

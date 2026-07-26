@@ -1,0 +1,43 @@
+{
+  "arquivo": "BfC57KN7Q-I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T20:11:32.381416",
+  "classificacao": {
+    "especies": [
+      "Piava",
+      "Mandi",
+      "Pintado",
+      "Jundiá",
+      "Lambari",
+      "Tambaqui",
+      "Branco",
+      "Ginga",
+      "Pitanga"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Vara",
+      "Carretilha"
+    ],
+    "iscas": [
+      "Açaí Canga",
+      "Bolinho",
+      "Bifezinho"
+    ],
+    "cevas": [
+      "Ceva Natural (Açaí Canga)"
+    ],
+    "graos": [],
+    "localizacao": [
+      "Rio Taparia",
+      "Taquarimirim"
+    ],
+    "comentarios": [
+      "Foi boa, foi boa",
+      "Bastante ação",
+      "Água estava bastante suja",
+      "Deu pra se divertir",
+      "Passar o dia tranquilo"
+    ]
+  }
+}

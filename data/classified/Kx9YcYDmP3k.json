@@ -1,0 +1,24 @@
+{
+  "arquivo": "Kx9YcYDmP3k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:16:39.579127",
+  "classificacao": {
+    "species": [
+      "Guapote"
+    ],
+    "equipment": [
+      "Tubo de PVC (reel)",
+      "Tapones (cork stoppers)",
+      "Sartuino (measuring tool)",
+      "Sartenometro (measuring tool)"
+    ],
+    "baits": [
+      "Chicharras (crickets)",
+      "Chilito (spicy sauce)",
+      "Escabeche (bait preparation)"
+    ],
+    "other_terms": [
+      "Aguisote (preparation method)"
+    ]
+  }
+}

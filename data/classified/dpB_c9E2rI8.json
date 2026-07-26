@@ -1,0 +1,33 @@
+{
+  "arquivo": "dpB_c9E2rI8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:31:57.653733",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Tucunaré",
+      "Pirarucu"
+    ],
+    "equipamentos": [
+      "Lãder Trançado",
+      "Vara",
+      "Caiaque",
+      "Isca"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [
+      "Pescaria"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "comentarios": [
+      "Comentários"
+    ]
+  }
+}

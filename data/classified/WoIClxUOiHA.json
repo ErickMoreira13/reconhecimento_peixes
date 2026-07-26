@@ -1,0 +1,30 @@
+{
+  "arquivo": "WoIClxUOiHA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:18:56.547251",
+  "classificacao": {
+    "species": [
+      "Curimba",
+      "Tilápia",
+      "Lambari",
+      "Pirapara"
+    ],
+    "cevas": {
+      "Ceva Proteica": [
+        "Farelo de Arroz",
+        "Quirera de Arroz"
+      ],
+      "Ceva Natural": [
+        "Milho",
+        "Pão Velho"
+      ],
+      "Ceva de Partículas": [
+        "Bola de Farelo"
+      ]
+    },
+    "location": "Poço (well/pond)",
+    "equipment": [
+      "Bola de Farelo (slow-release bait ball)"
+    ]
+  }
+}

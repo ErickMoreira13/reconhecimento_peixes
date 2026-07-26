@@ -1,0 +1,17 @@
+{
+  "arquivo": "3ZbRTK00lMU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:28:14.084858",
+  "classificacao": {
+    "summary": "O texto é um relato informal de uma experiência de pesca no Rio Vermelho, provavelmente em um contexto de vlog ou vídeo de redes sociais. O narrador descreve o processo de pesca, incluindo a preparação de iscas (como minhoca e 'soja', que pode ser uma referência a um tipo de isca local ou um erro de digitação), a interação com outros participantes (como Gilvânia, que prepara comida, e Daina), e a captura de peixes como lepa, curimba e pacu. O conteúdo é coloquial, com linguagem desinibida e humor, e termina com um apelo para curtidas e inscrições no canal. O foco está na experiência coletiva, na diversão e na conexão com a natureza, além de destacar a cultura local de pesca.",
+    "key_points": [
+      "Descrição detalhada do processo de pesca e dos desafios enfrentados.",
+      "Menciona nomes de participantes e a colaboração entre eles (ex.: Gilvânia cozinhando).",
+      "Listagem de espécies de peixes capturadas (lepa, curimba, pacu).",
+      "Uso de linguagem informal e humor, típico de vídeos de entretenimento.",
+      "Apelo para engajamento nas redes sociais (curtidas, inscrições).",
+      "Contexto cultural de pesca no Rio Vermelho, com referências locais (nomes de rios, técnicas de pesca)."
+    ],
+    "possible_intent": "O texto parece ser parte de um conteúdo de entretenimento, destinado a compartilhar uma experiência pessoal de pesca, promover interação com o público e destacar a cultura local. Pode ser usado para atrair espectadores interessados em pesca, natureza ou vlogs de estilo de vida."
+  }
+}

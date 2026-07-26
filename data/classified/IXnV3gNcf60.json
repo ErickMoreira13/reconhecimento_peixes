@@ -1,0 +1,25 @@
+{
+  "arquivo": "IXnV3gNcf60",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:32:59.240175",
+  "classificacao": {
+    "especies": [
+      "Piramotaba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Flechal"
+    ],
+    "bacias": [],
+    "estado": "Amapá",
+    "municipio": "Amapá",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

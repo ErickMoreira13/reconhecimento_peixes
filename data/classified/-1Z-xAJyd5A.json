@@ -1,0 +1,43 @@
+{
+  "arquivo": "-1Z-xAJyd5A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:00:25.305221",
+  "classificacao": {
+    "especies": [
+      "Manduca",
+      "Lambari",
+      "Joana",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Barco de madeira",
+      "Molinete",
+      "Carretilha",
+      "Vara"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca embarcada",
+      "Pesca no barranco"
+    ],
+    "rios": [
+      "Rio Iguaçu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de isca"
+    ],
+    "observacoes": [
+      "Vento forte atrapalhando a pescaria",
+      "Rio enchendo com limão",
+      "Dificuldade em pescar devido às condições climáticas"
+    ]
+  }
+}

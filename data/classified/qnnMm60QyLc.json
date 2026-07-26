@@ -1,0 +1,32 @@
+{
+  "arquivo": "qnnMm60QyLc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:54:25.741930",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Rapala"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial"
+    ],
+    "rios": [
+      "Rio do Sono"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Bolitizeiro",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "O peixe foi solto após a captura",
+      "Foi utilizado uma câmera GoPro para filmagem"
+    ]
+  }
+}

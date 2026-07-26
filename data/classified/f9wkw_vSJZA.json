@@ -1,0 +1,31 @@
+{
+  "arquivo": "f9wkw_vSJZA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:03:12.307111",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Max 9.8 HP",
+      "Tanque 12 litros",
+      "Bolsa de tralhas Pesca Brasil",
+      "Prolongador GVA Náutica",
+      "Piso de tapete vulcanizado",
+      "Sonar",
+      "Sideview",
+      "Garmin Striker 7",
+      "Autobot",
+      "Porta-vara Octos",
+      "Porta-isca Octos"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

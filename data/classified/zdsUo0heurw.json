@@ -1,0 +1,36 @@
+{
+  "arquivo": "zdsUo0heurw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:08:51.949823",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Mandio"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Linha 0 60",
+      "Carne e fígado de boi"
+    ],
+    "iscas": [
+      "Carne e fígado de boi"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com linha segurada manualmente"
+    ],
+    "rios": [],
+    "bacias": [
+      "Bacia do Parnaíba"
+    ],
+    "estado": "Piauí",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": [
+      "Pescaria realizada em condições climáticas adversas, uso de canoa e técnicas simples de pesca, como a linha segurada manualmente"
+    ]
+  }
+}

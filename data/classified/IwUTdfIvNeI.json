@@ -1,0 +1,24 @@
+{
+  "arquivo": "IwUTdfIvNeI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:32:37.457686",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "lancha",
+      "motor"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Santa Cruz",
+    "municipio": "Trinidad",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "arquivo": "H-I9WgT2HVQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:37:42.665767",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo em português, com conteúdo misto de conversa casual, reflexões espirituais e uma narrativa sobre atividades no campo. O locutor, que parece estar em uma chacra (fazenda), compartilha experiências de pesca, encontros com uma jararaca (serpente), e reflexões sobre gratidão a Deus. Ele também menciona um projeto de vídeo e pede que os espectadores se inscrevam. O conteúdo inclui elementos de vida rural, espiritualidade e comunicação com a audiência.",
+    "key_points": [
+      "Atividades no campo (chacra) e pesca",
+      "Encontro com uma jararaca",
+      "Reflexões sobre gratidão a Deus",
+      "Mensagem de vídeo e convite para inscrição",
+      "Contexto de vida rural e comunidade"
+    ],
+    "themes": [
+      "Espiritualidade e gratidão",
+      "Vida no campo",
+      "Comunicação com a audiência",
+      "Desafios e experiências pessoais"
+    ],
+    "call_to_action": "O locutor pede que os espectadores se inscrevam no canal e curtam o vídeo."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "Pfmyfm2lqII",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:05:59.740422",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Fumo preto"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de fumo preto na isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

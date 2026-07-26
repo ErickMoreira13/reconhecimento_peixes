@@ -1,0 +1,21 @@
+{
+  "arquivo": "0_qYkZjQTSg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:59:37.870601",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Diana"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

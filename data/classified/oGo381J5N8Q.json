@@ -1,0 +1,38 @@
+{
+  "arquivo": "oGo381J5N8Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:40:39.880857",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Jacundá"
+    ],
+    "equipamentos": [
+      "Varinha de mão",
+      "Massinha de pão",
+      "Bichinho da Laranja",
+      "Ração de coelho"
+    ],
+    "iscas": [
+      "Massinha de pão",
+      "Bichinho da Laranja",
+      "Ração de coelho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Reservatório cheio",
+      "Dificuldade em capturar peixes",
+      "Experiência valiosa mesmo sem capturas"
+    ]
+  }
+}

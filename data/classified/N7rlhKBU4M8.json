@@ -1,0 +1,33 @@
+{
+  "arquivo": "N7rlhKBU4M8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:24:11.539227",
+  "classificacao": {
+    "especies": [
+      "Alvo",
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Boia"
+    ],
+    "iscas": [
+      "Panetone"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lança na beira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em lago"
+    ],
+    "observacoes": [
+      "Lago infestado de alvo",
+      "Soltura de carpa capim para controle de vegetação"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "387bLU90y_Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:44:31.565938",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha de pesca",
+      "Tralha leve",
+      "Varinha leve",
+      "Isca artificial"
+    ],
+    "iscas": [
+      "Isca artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com isca artificial",
+      "Pescaria de superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca com vara"
+    ],
+    "observacoes": []
+  }
+}

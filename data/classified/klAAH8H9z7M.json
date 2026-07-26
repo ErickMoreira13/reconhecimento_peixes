@@ -1,0 +1,43 @@
+{
+  "arquivo": "klAAH8H9z7M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:56:42.204277",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Barbadinho",
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Chumbada",
+      "Glow",
+      "Molinetão",
+      "Varinha"
+    ],
+    "iscas": [
+      "Fígado de frango"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca natural",
+      "Pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca natural",
+      "Pesca com isca viva"
+    ],
+    "observacoes": [
+      "Inverno",
+      "Lua nova",
+      "Presença de pernilongos"
+    ]
+  }
+}

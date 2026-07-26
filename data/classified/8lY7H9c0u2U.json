@@ -1,0 +1,25 @@
+{
+  "arquivo": "8lY7H9c0u2U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:16:55.461687",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Vitelo"
+    ],
+    "equipamentos": [
+      "Tivão",
+      "Pote"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

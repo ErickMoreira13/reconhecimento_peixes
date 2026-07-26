@@ -1,0 +1,36 @@
+{
+  "arquivo": "CHhIYchJBB8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:37:59.992548",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Shed",
+      "Don Shot",
+      "Molinete",
+      "Varinha",
+      "Venato",
+      "Canivete",
+      "Barco",
+      "Alicate de Poda",
+      "Câmera",
+      "Celular"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [
+      "Zara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "município": "",
+    "tipo_pesca": "Pesca Esportiva",
+    "observacoes": "Pescador captura um Pacu de grande porte, medido como 'meia, meia, bem medido'. Utiliza equipamentos como Shed, Don Shot, Molinete e Varinha. Comenta sobre a adrenalina da pesca e a necessidade de usar um alicate de poda para remover a isca com segurança. O peixe foi capturado em um local com nível de água alto, e o pescador menciona a dificuldade de capturar peixes maiores."
+  }
+}

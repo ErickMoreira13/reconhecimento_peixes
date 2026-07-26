@@ -1,0 +1,53 @@
+{
+  "arquivo": "mdpBab9UeBo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:02:32.115506",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Pote de Minhoca",
+      "Redeiro"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guarapiranga"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Santo André",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Primeira do ano",
+      "Sorte que eu tinha um pote de bichinho velho",
+      "Deus abençoou",
+      "Feliz ano novo",
+      "Chama na calanga",
+      "Água batendo",
+      "Tá no peixinho",
+      "Primeira do ano já teve resultado",
+      "Água batendo",
+      "Tá o bicho",
+      "Canal hoje foi só sucesso",
+      "Solzão tá trincando",
+      "Esperar as bruta",
+      "Fiz um rancho no espraiado",
+      "Derrubei um pé de cedre",
+      "Construí minha canoa",
+      "Matula vai na proa",
+      "Tem um cachorro maiá rada rada rada"
+    ]
+  }
+}

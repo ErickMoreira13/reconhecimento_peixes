@@ -1,0 +1,27 @@
+{
+  "arquivo": "N7oJ9LnxdMk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:23:57.552546",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbo",
+      "Barco",
+      "Varinha"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Tuiuti",
+    "tipo_pesca": [
+      "Torneio"
+    ],
+    "observacoes": ""
+  }
+}

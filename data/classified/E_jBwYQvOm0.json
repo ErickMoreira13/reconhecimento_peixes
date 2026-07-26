@@ -1,0 +1,33 @@
+{
+  "arquivo": "E_jBwYQvOm0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:49:53.293013",
+  "classificacao": {
+    "especies": [
+      "Avalo",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "caiaque",
+      "balanceado"
+    ],
+    "iscas": [],
+    "cevas": [
+      "bisopor"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "delta do Luiz Correia"
+    ],
+    "bacias": [
+      "Chapaiu"
+    ],
+    "estado": "Piauí",
+    "municipio": "Luiz Correia",
+    "tipo_pesca": [
+      "pesca"
+    ],
+    "observacoes": []
+  }
+}

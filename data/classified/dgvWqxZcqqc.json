@@ -1,0 +1,27 @@
+{
+  "arquivo": "dgvWqxZcqqc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:53:32.554229",
+  "classificacao": {
+    "especies": [
+      "Tupinambá",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "remo",
+      "vara"
+    ],
+    "iscas": [
+      "Biruta Turbo da Deconto (Cinza perolado)",
+      "Biruta Turbo da Deconto (Verde limão)",
+      "Biruta Turbo da Deconto (Costas pretas tigrado preto)"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "localização": "",
+    "data": "",
+    "participantes": [],
+    "sorteio": "sorteio de nove iscas Biruta Turbo da Deconto"
+  }
+}

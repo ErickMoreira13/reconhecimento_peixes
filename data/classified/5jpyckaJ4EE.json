@@ -1,0 +1,32 @@
+{
+  "arquivo": "5jpyckaJ4EE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:15:24.124398",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra",
+      "Carpa",
+      "Barilha",
+      "Piabinha"
+    ],
+    "equipamentos": [
+      "Varinha de pesca",
+      "Magnete",
+      "Balde",
+      "Churrasqueira"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Massa"
+    ],
+    "cevas": [
+      "Milho cozido",
+      "Xerém com maracujá"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "localizacao": "Represa Bires"
+  }
+}

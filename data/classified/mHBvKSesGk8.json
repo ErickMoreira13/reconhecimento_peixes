@@ -1,0 +1,62 @@
+{
+  "arquivo": "mHBvKSesGk8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:05:13.707060",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      {
+        "nome": "Boia Torpedo 70 gramas",
+        "marca": "Marroma",
+        "tipo": "Charuto"
+      },
+      {
+        "nome": "Boia Torpedo 60 gramas",
+        "marca": "Marroma",
+        "tipo": "Charuto"
+      },
+      {
+        "nome": "Boia Torpedo 45 gramas",
+        "marca": "Marroma",
+        "tipo": "Charuto"
+      },
+      {
+        "nome": "Boia Torpedo 30 gramas",
+        "marca": "Marroma",
+        "tipo": "Charuto"
+      },
+      {
+        "nome": "Boia Torpedo 40 gramas",
+        "marca": "Barão",
+        "tipo": "Charutão"
+      },
+      {
+        "nome": "Boia Torpedo 55 gramas",
+        "marca": "Barão",
+        "tipo": "Charutão"
+      },
+      {
+        "nome": "Boia Torpedo 100 gramas",
+        "marca": "Barão",
+        "tipo": "Charutão"
+      }
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Pino"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "tipo_pescaria": [
+      "Pescaria de Pino"
+    ],
+    "observacoes": [
+      "Utilização de variedade de cores para melhor visualização",
+      "Uso de luminoso em pescarias noturnas"
+    ]
+  }
+}

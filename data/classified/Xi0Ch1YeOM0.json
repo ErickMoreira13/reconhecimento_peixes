@@ -1,0 +1,27 @@
+{
+  "arquivo": "Xi0Ch1YeOM0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:01:37.818205",
+  "classificacao": {
+    "summary": "O texto é um roteiro de vídeo em português, provavelmente de um vlogger que compartilha experiências de pesca e culinária. O narrador descreve o processo de preparo de um prato típico da região amazônica, o **pirão** (um tipo de sopa de peixe), enquanto interage com uma pessoa chamada Zébiquinho. O conteúdo mistura instruções culinárias, conversas informais, humor e reflexões pessoais. No final, o narrador expressa saudade da comida da mãe e menciona seu canal de YouTube, 'Doce Pescador', localizado em áreas como Lagoa e Quebrangula. O tom é casual, com repetições e expressões coloquiais, sugerindo uma abordagem descontraída e autêntica.",
+    "key_elements": {
+      "cultural_context": "Menciona práticas culinárias amazônicas (pirão) e referências a locais como Lagoa e Quebrangula, possivelmente no Brasil. A interação com Zébiquinho e o uso de expressões regionais reforçam o contexto cultural e social da região.",
+      "structure": "O texto segue uma estrutura narrativa: preparação do prato, diálogo com Zébiquinho, reflexões pessoais e encerramento com agradecimentos e divulgação do canal.",
+      "themes": [
+        "Culinária regional",
+        "Conexão com a natureza",
+        "Memórias familiares",
+        "Comunidade local",
+        "Humor e autenticidade"
+      ],
+      "language_style": "Coloquial, com repetições e tom informal, comum em vídeos de vloggers e conteúdo de entretenimento."
+    },
+    "possible_requests": [
+      "Tradução do texto para outro idioma",
+      "Análise cultural do pirão e sua importância na culinária amazônica",
+      "Dicas para replicar o prato descrito",
+      "Explicação sobre o significado de 'quilombos' mencionados no texto",
+      "Revisão do roteiro para melhorar a estrutura narrativa"
+    ]
+  }
+}

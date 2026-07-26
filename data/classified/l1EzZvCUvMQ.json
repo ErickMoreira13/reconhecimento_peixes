@@ -1,0 +1,24 @@
+{
+  "arquivo": "l1EzZvCUvMQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:42:36.875815",
+  "classificacao": {
+    "fish_species": [
+      "jundiazinho",
+      "jundiazão",
+      "cascudinho",
+      "cascuda",
+      "tuveirinha"
+    ],
+    "bait_used": [
+      "fígado (liver)",
+      "minhoca (earthworm)",
+      "tabuara (fish used as bait)"
+    ],
+    "additional_details": {
+      "fishing_environment": "remanso (backwater/still water area)",
+      "fish_size": "from 2 kg to 10 kg",
+      "techniques": "linha de mão (hand line) with tabuara as bait"
+    }
+  }
+}

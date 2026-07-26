@@ -1,0 +1,36 @@
+{
+  "arquivo": "4r6kzgxQPDc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:44:27.393105",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Linha 0,50",
+      "Boia",
+      "Chumbada",
+      "Miçanga",
+      "Girador",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com boia e chumbada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com boia"
+    ],
+    "observacoes": [
+      "Uso de linha grossa (0,50 ou mais) para evitar quebra",
+      "Não utilização de castor",
+      "Técnica com boia e chumbada"
+    ]
+  }
+}

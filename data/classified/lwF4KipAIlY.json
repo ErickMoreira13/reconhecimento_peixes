@@ -1,0 +1,28 @@
+{
+  "arquivo": "lwF4KipAIlY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:19:28.448817",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tubarão"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pegou um peixão e ainda me deu um susto"
+    ]
+  }
+}

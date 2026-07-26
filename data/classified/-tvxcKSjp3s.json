@@ -1,0 +1,37 @@
+{
+  "arquivo": "-tvxcKSjp3s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:52:42.483418",
+  "classificacao": {
+    "especies": [
+      "Abertaria",
+      "Zambara"
+    ],
+    "equipamentos": [
+      "Varinha telescópica",
+      "Linha 0,35",
+      "Chumbada de 40 gramas",
+      "Ketaketsune 7",
+      "Camarão branco"
+    ],
+    "iscas": [
+      "Camarão branco"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso lateral",
+      "Fishing em canal",
+      "Sentir o pique na mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Marzão",
+    "tipo_pesca": [
+      "Pesca em canal",
+      "Pesca marinha"
+    ],
+    "observacoes": []
+  }
+}

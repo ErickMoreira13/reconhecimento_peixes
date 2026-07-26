@@ -1,0 +1,37 @@
+{
+  "arquivo": "oKAhxY1XkPk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:54:05.290512",
+  "classificacao": {
+    "especies": [
+      "Adi",
+      "Tricão",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Hélice"
+    ],
+    "iscas": [
+      "Top Gun"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pinchar meia água"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "Outono é um espetáculo",
+      "Muita pancada na superfície",
+      "Bastante ação",
+      "Peixes bons",
+      "Brigas boas"
+    ]
+  }
+}

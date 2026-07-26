@@ -1,0 +1,39 @@
+{
+  "arquivo": "dj8Hpw6jn1o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:06:57.677800",
+  "classificacao": {
+    "especies": [
+      "Tabarana",
+      "Matrichampera",
+      "Putanga"
+    ],
+    "equipamentos": [
+      "alicate",
+      "impressora 3D de resina",
+      "isca J-Sonic Floating 65"
+    ],
+    "iscas": [
+      "isca J-Sonic Floating 65",
+      "águia dourada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Umberlândia",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "uso de semente como tento para jogar truco",
+      "isca produzida pelo André",
+      "liberação da pescada após captura",
+      "uso de tecnologia 3D para fabricação da isca"
+    ]
+  }
+}

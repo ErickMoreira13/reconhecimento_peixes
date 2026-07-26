@@ -1,0 +1,23 @@
+{
+  "arquivo": "3LblT-DA6GU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:10:43.389253",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Menciona o tamanho da carpa, estimando peso acima de 20kg, e pede interação do público (curtidas, comentários e compartilhamento)."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "OEfhTonX208",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:28:34.121883",
+  "classificacao": {
+    "especies": [
+      "Sargo",
+      "Raias"
+    ],
+    "equipamentos": [
+      "vara Sainte STP",
+      "linete Trulli 500",
+      "linha multifilamento Finesse 010",
+      "microgigs"
+    ],
+    "iscas": [
+      "pequenos camarões"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria Vertical",
+      "Pescaria de Metal"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "Ilha do Governador",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

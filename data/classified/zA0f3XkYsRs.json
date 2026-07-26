@@ -1,0 +1,22 @@
+{
+  "arquivo": "zA0f3XkYsRs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:03:28.286162",
+  "classificacao": {
+    "especies": [
+      "Jundiá",
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

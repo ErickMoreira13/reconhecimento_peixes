@@ -1,0 +1,42 @@
+{
+  "arquivo": "GXS7v2MQKag",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:19:20.592981",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Chorão",
+      "Manduca",
+      "Bagre",
+      "Lambari",
+      "Discão",
+      "Lobotão",
+      "Valetinha",
+      "Corrente",
+      "Bagrinho",
+      "Sapo",
+      "Boca de Batomzinho",
+      "Boca de Batão",
+      "Roncador",
+      "Armal",
+      "Chamo",
+      "Faranguejo",
+      "Lambari do Rabo Vermelho",
+      "Disco Voador"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Valetinha",
+      "Corrente"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "iscas": [
+      "Vinho Cozinhado"
+    ],
+    "graos": [],
+    "local": "Corguinho",
+    "tempo": "Tempo de Chuva"
+  }
+}

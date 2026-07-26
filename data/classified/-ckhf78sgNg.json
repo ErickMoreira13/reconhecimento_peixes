@@ -1,0 +1,40 @@
+{
+  "arquivo": "-ckhf78sgNg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:15:07.930201",
+  "classificacao": {
+    "summary": {
+      "overview": "O texto narra a experiência de uma expedição fluvial pelo rio Araguaia, com destaque para a conexão com a natureza, a interação com comunidades locais e a reflexão sobre a importância da preservação ambiental. O relato é pessoal, repleto de detalhes sensoriais e emocionais, destacando a beleza do cenário, os desafios do percurso e a riqueza cultural encontrada ao longo do caminho.",
+      "key_themes": [
+        "Conexão com a natureza e a importância da preservação ambiental",
+        "Interação com comunidades indígenas e locais",
+        "Desafios físicos e emocionais da expedição",
+        "Reflexão sobre a identidade e a cultura brasileira",
+        "A experiência como um momento de transformação pessoal"
+      ],
+      "cultural_and_environmental_insights": {
+        "environment": "O texto destaca a biodiversidade do rio Araguaia, mencionando a presença de animais como jacarés, araras e onças-pintadas, além da riqueza de flora e da importância do rio como um ecossistema frágil e ameaçado por atividades humanas.",
+        "culture": "Há referências à interação com comunidades indígenas e ribeirinhos, destacando a sabedoria tradicional, a relação com a terra e a necessidade de respeito e diálogo para garantir a sustentabilidade das práticas locais."
+      },
+      "personal_reflection": "O narrador expressa uma profunda gratidão pela experiência, descrevendo-a como um momento de reencontro com a natureza, a descoberta de novas perspectivas e a compreensão da importância de proteger os recursos naturais para as gerações futuras."
+    },
+    "translation": {
+      "title": "Expedição pelo rio Araguaia: uma jornada de conexão e reflexão",
+      "content": "O texto descreve uma expedição pelo rio Araguaia, destacando a beleza do cenário natural, os desafios do percurso e a interação com comunidades locais. O narrador reflete sobre a importância da preservação ambiental, a riqueza cultural encontrada e a transformação pessoal vivida durante a jornada. A experiência é retratada como um momento de conexão com a natureza, a descoberta de novas perspectivas e a compreensão da necessidade de proteger os ecossistemas ameaçados."
+    },
+    "analysis": {
+      "narrative_structure": "O relato segue uma estrutura cronológica, com destaque para os momentos mais marcantes da expedição, como a navegação pelo rio, as interações com a natureza e as conversas com os moradores locais. A linguagem é poética e introspectiva, com uso de metáforas e descrições sensoriais.",
+      "symbolism": "O rio Araguaia é simbolizado como um elemento de conexão entre o passado e o presente, entre a natureza e a cultura humana. A expedição representa uma jornada de descoberta e redescoberta, tanto do ambiente quanto da própria identidade.",
+      "cultural_significance": "O texto ressalta a importância de preservar as tradições locais e os ecossistemas naturais, apresentando a expedição como um exemplo de como a interação respeitosa com a natureza pode gerar aprendizados e transformações positivas."
+    },
+    "additional_notes": {
+      "possible_use_cases": [
+        "Estudo acadêmico sobre ecoturismo e preservação ambiental",
+        "Análise de narrativas de viagem e identidade cultural",
+        "Base para projetos de educação ambiental",
+        "Inspiração para escrita criativa ou documentários"
+      ],
+      "recommendations": "Para aprofundar o tema, sugere-se explorar a relação entre turismo e conservação, o papel das comunidades locais na gestão de recursos naturais e a importância de iniciativas de proteção do rio Araguaia."
+    }
+  }
+}

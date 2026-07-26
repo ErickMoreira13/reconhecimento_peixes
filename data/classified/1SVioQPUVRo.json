@@ -1,0 +1,28 @@
+{
+  "arquivo": "1SVioQPUVRo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:50:37.713310",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "aquela típica pergunta que todo pescador se faz",
+      "ó rio aqui e aqui uma entradinha de garapé de mata fechada entra ou não entra",
+      "sozinho eu não vou só com vocês",
+      "bora lá",
+      "essa entradinha aqui é raso e tá muito fechado lá dentro",
+      "caraca",
+      "bora ver se tem aqui",
+      "olha isso cartão de visita"
+    ]
+  }
+}

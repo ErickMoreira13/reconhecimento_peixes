@@ -1,0 +1,40 @@
+{
+  "arquivo": "gajHPJicK5c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:29:02.718701",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Caiaque",
+      "Vara de pesca",
+      "Linha de pesca",
+      "Faca",
+      "Alicate",
+      "Porta-vara",
+      "Trilho para suporte",
+      "GoPro",
+      "Mochila"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso lateral",
+      "Remada lenta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de caiaque"
+    ],
+    "observacoes": [
+      "Mantenha facas e alicate à mão para cortar linha rapidamente",
+      "Evite movimentos bruscos no caiaque",
+      "Use arremesso lateral para evitar obstruções",
+      "Reme devagar para manter a estabilidade do caiaque",
+      "Mantenha a vara presa no porta-vara quando não estiver pescando"
+    ]
+  }
+}

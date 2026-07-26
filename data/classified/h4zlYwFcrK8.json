@@ -1,0 +1,41 @@
+{
+  "arquivo": "h4zlYwFcrK8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:42:00.805412",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Tambor",
+      "Corda",
+      "Garrafa PET",
+      "Peso"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Mandioca"
+    ],
+    "tecnicas": [
+      "Uso de ceva com milho azedo",
+      "Preparo de ceva com mandioca cozida",
+      "Utilização de ceva de partículas em recipiente perfurado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de ceva"
+    ],
+    "observacoes": [
+      "Ceva utilizada para atrair piaus",
+      "Milho e mandioca são deixados para azedar",
+      "Ceva é colocada em tambor perfurado"
+    ]
+  }
+}

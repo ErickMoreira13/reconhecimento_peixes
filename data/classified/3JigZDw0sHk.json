@@ -1,0 +1,50 @@
+{
+  "arquivo": "3JigZDw0sHk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:09:28.321168",
+  "classificacao": {
+    "especies": [
+      "Cachara",
+      "Caparari",
+      "Pirarucu",
+      "Barbado"
+    ],
+    "equipamentos": [
+      "Carretilha de perfil baixo",
+      "Vara de pesca",
+      "Multi",
+      "Chumbada",
+      "Linha",
+      "Canoa"
+    ],
+    "iscas": [
+      "Isca branca",
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Cachara",
+      "Pescaria de Caixara",
+      "Isca com chumbada"
+    ],
+    "rios": [
+      "Guaporé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Cachara",
+      "Pesca de Caixara",
+      "Pesca de Pirarucu"
+    ],
+    "observacoes": [
+      "Qualidade do anzol 8 barra 0",
+      "Piranha cortou a linha",
+      "Pescaria com isca branca e minhoca",
+      "Peixe capturado com dificuldade",
+      "Pescaria em área rasa"
+    ]
+  }
+}

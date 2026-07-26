@@ -1,0 +1,47 @@
+{
+  "arquivo": "fzMwcpDIqW4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:12:12.386989",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra",
+      "Carazinha",
+      "Piaba",
+      "Piabona"
+    ],
+    "equipamentos": [
+      "Varinha de bambu",
+      "Boia",
+      "Minhoquinha",
+      "Boiazinha",
+      "Manilha",
+      "Ponte",
+      "Ombau de portinho"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Carne de boi",
+      "Carne de porco",
+      "Lingui de porco caipira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com boia",
+      "Pesca com minhoquinha",
+      "Pesca em córrego",
+      "Pesca em área funda"
+    ],
+    "rios": [
+      "Córrego"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

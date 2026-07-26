@@ -1,0 +1,35 @@
+{
+  "arquivo": "GBnjK8BEgq8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:31:07.420950",
+  "classificacao": {
+    "especies": [
+      "Mandi"
+    ],
+    "equipamentos": [
+      "Varinha de molinete chumbadinha",
+      "Anzol número 4",
+      "Chumbada"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca na corredeira"
+    ],
+    "rios": [
+      "Rio Pardo"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Mococa",
+    "tipo_pesca": [
+      "Pesca rural"
+    ],
+    "observacoes": [
+      "Pescaria exclusivamente para fazer um ensopado de mandi"
+    ]
+  }
+}

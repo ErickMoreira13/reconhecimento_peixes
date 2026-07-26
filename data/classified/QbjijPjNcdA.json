@@ -1,0 +1,40 @@
+{
+  "arquivo": "QbjijPjNcdA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:16:54.178504",
+  "classificacao": {
+    "especies": [
+      "Matrinxã",
+      "Piau",
+      "Pacu",
+      "Lúcio"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Carocinha",
+      "Chumbada",
+      "Valinha",
+      "Fio de pesca"
+    ],
+    "iscas": [
+      "Carocinha de soja"
+    ],
+    "cevas": [
+      "Carocinha de soja"
+    ],
+    "localizacao": "",
+    "metodologia": [
+      "Jogar pra cima, deixar descer",
+      "Dar toque de ponta de vara",
+      "Esperar um pouquinho"
+    ],
+    "observacoes": [
+      "Peixe pequeno",
+      "Lambari",
+      "Peixe burro"
+    ],
+    "solto": [
+      "Solto"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "CrmRnZUZdlE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:52:44.082082",
+  "classificacao": {
+    "especies": [
+      "Colasco",
+      "Choco"
+    ],
+    "equipamentos": [
+      "Pesqueta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Alterosa",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Perto de Alterosa, a pesca foi realizada após uma longa caminhada, considerada divertida e uma forma de relaxar. O local foi descrito como bonito e bacana para quem gosta de pesca."
+    ]
+  }
+}

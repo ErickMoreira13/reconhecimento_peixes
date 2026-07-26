@@ -1,0 +1,40 @@
+{
+  "arquivo": "LlAw0mYE6HE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:21:22.634214",
+  "classificacao": {
+    "especies": [
+      "Jundiá"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Linha de fluorocarbono",
+      "Chumbada",
+      "Anzol circular",
+      "Snap",
+      "Jig head"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de fundo",
+      "Pesca com chumbo",
+      "Uso de chicote com snap e jig head"
+    ],
+    "rios": [
+      "Rio Palmares"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fundo",
+      "Pesca com chumbo"
+    ],
+    "observacoes": [
+      "Uso de diferentes pesos de chumbada para adaptação à correnteza",
+      "Montagem de equipamento com snap e jig head para pesca em estruturas"
+    ]
+  }
+}

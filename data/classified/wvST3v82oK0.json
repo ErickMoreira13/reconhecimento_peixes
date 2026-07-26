@@ -1,0 +1,38 @@
+{
+  "arquivo": "wvST3v82oK0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:38:18.862959",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Suture"
+    ],
+    "equipamentos": [
+      "barco",
+      "elfa",
+      "cachorra"
+    ],
+    "iscas": [
+      "milho",
+      "soja",
+      "trigo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "filhote de suture"
+    ]
+  }
+}

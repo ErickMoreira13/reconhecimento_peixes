@@ -1,0 +1,24 @@
+{
+  "arquivo": "on-AZylaTcw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:56:46.038019",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Barra Bonita",
+    "tipo_pesca": [],
+    "observacoes": [
+      "que maravilha",
+      "bicho lindo"
+    ]
+  }
+}

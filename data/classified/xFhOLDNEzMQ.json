@@ -1,0 +1,23 @@
+{
+  "arquivo": "xFhOLDNEzMQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:50:00.289646",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo de pesca, onde o narrador descreve o processo de preparação para a pesca, a instalação de iscas, a captura de peixes (como curiós), e a preparação de uma refeição com os peixes capturados. O narrador também menciona a necessidade de limpar o rio de lixo, a movimentação para novos locais de pesca, e a intenção de postar vídeos semanais. Há referências a técnicas de pesca, interação com o público (pedindo curtidas e inscrições), e uma abordagem informal e envolvente.",
+    "key_points": [
+      "Preparação de iscas e equipamentos",
+      "Captura de peixes (curiós)",
+      "Limpeza do rio de lixo",
+      "Mudança de local para pesca",
+      "Plano de postar vídeos semanais",
+      "Interação com o público (curtidas, inscrições)"
+    ],
+    "translation": "The text is a transcript of a fishing video, where the narrator describes the preparation for fishing, the setup of baits, the capture of fish (such as curiós), and the preparation of a meal with the caught fish. The narrator also mentions the need to clean the river of trash, moving to new fishing locations, and the intention to post weekly videos. There are references to fishing techniques, audience interaction (asking for likes and subscriptions), and an informal and engaging approach.",
+    "cultural_notes": [
+      "'Curió' é um tipo de peixe comum em rios da América do Sul",
+      "A prática de limpar rios de lixo é uma preocupação ambiental crescente",
+      "A interação com o público em vídeos de YouTube é comum para aumentar o engajamento"
+    ],
+    "environmental_issue": "Mention of trash in the river highlights environmental concerns related to pollution in natural water bodies."
+  }
+}

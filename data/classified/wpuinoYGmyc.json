@@ -1,0 +1,23 @@
+{
+  "arquivo": "wpuinoYGmyc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:20:19.063547",
+  "classificacao": {
+    "summary": "El texto describe una experiencia de pesca entre amigos, lleno de emoción y momentos humorísticos. Los participantes capturan varios tipos de peces, como 'yamu', 'cachama' y 'bagre', usando técnicas como el nylon. Se mencionan frustraciones al perder peces y un incidente divertido donde un 'gorrito' (posiblemente un sombrero) se atasca en el torso. El tono es informal, con interjecciones y referencias a la camaradería durante la actividad.",
+    "fish_species": [
+      "yamu",
+      "cachama",
+      "bagre"
+    ],
+    "key_events": [
+      "Captura de peces",
+      "Pérdida de peces",
+      "Mishap con el 'gorrito'"
+    ],
+    "tone": "Excitado, humorístico, informal",
+    "possible_cultural_terms": {
+      "tocayito": "Apodo o término cariñoso",
+      "nylon": "Material usado en la pesca"
+    }
+  }
+}

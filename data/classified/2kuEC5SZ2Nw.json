@@ -1,0 +1,21 @@
+{
+  "arquivo": "2kuEC5SZ2Nw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:32:58.730920",
+  "classificacao": {
+    "especies": [
+      "Atum"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

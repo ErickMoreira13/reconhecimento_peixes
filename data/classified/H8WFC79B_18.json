@@ -1,0 +1,34 @@
+{
+  "arquivo": "H8WFC79B_18",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:44:15.646876",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Garrafa",
+      "Faca",
+      "Bolacha"
+    ],
+    "iscas": [
+      "Bolacha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Armadilha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Armadilha"
+    ],
+    "observacoes": "O menino e seu irmão estavam tentando pescar piaba sem sucesso e utilizaram uma garrafa com furos e bolachas como isca para criar uma armadilha."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "arquivo": "YIa6UO_2lUs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:14:20.728091",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

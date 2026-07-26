@@ -1,0 +1,25 @@
+{
+  "arquivo": "o2H2L3Q0X_0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:01:26.780827",
+  "classificacao": {
+    "especies": [
+      "Bacalhau"
+    ],
+    "equipamentos": [
+      "Popper"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "arquivo": "W7OIxeKcMVU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:56:42.377380",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Arpão",
+      "Varinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "Momento estressante durante a pesca com arpão quando a varinha não funciona corretamente."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "arquivo": "RaouUYdAtvo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:02:29.133586",
+  "classificacao": {
+    "especies": [
+      "Barba-chata",
+      "Surubim",
+      "Traíra",
+      "Turubim"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Canivete",
+      "Isca",
+      "Vara"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnica": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pescaria": "",
+    "observacoes": ""
+  }
+}

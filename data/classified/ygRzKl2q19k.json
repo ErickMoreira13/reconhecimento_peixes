@@ -1,0 +1,36 @@
+{
+  "arquivo": "ygRzKl2q19k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:13:12.320306",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Vara",
+      "Linha",
+      "Capa de frio"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em rio"
+    ],
+    "observacoes": [
+      "Chuva forte",
+      "Rio subiu",
+      "Uso de capa de frio"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "sy0lubgrQ5M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:20:27.813264",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara de fibra de vidro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca leve"
+    ],
+    "observacoes": [
+      "não vai me colocar isso aqui pra pegar tucunaré"
+    ]
+  }
+}

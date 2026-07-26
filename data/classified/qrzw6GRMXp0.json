@@ -1,0 +1,37 @@
+{
+  "arquivo": "qrzw6GRMXp0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:01:23.382494",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra",
+      "Pinima"
+    ],
+    "equipamentos": [
+      "Top Gun",
+      "Remo"
+    ],
+    "iscas": [
+      "Rei do Rio"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Represa da Bahia"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Pescaria realizada em represa da Bahia com dificuldade devido à chuva",
+      "Uso de isca maior (Rei do Rio tamanho 95) para capturar tucunaré grandes",
+      "Mencionado o tamanho e coloração dos peixes capturados",
+      "Mencione da dificuldade em capturar peixes devido às condições climáticas"
+    ]
+  }
+}

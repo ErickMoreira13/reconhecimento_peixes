@@ -1,0 +1,31 @@
+{
+  "arquivo": "DENxpPr9D0A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:51:10.573924",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Molinete"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento com molinete"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em lago"
+    ],
+    "observacoes": []
+  }
+}

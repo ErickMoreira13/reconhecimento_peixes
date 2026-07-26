@@ -1,0 +1,39 @@
+{
+  "arquivo": "gyoRhWf2Y3Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:35:43.657157",
+  "classificacao": {
+    "iscas": [
+      "Rei do Rio",
+      "Savage",
+      "Top Gun",
+      "Liron Junior"
+    ],
+    "equipamentos": [
+      "vara de mão",
+      "spin tail",
+      "GoPro"
+    ],
+    "especies": [
+      "Piapara",
+      "Piau",
+      "Mandi",
+      "Azul"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesquinha com vara de mão",
+      "Pesca com vara de mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Nova Ponte",
+    "tipo_pesca": [
+      "Pesca com vara de mão",
+      "Pesca artificial"
+    ],
+    "observacoes": "A represa possui estrutura íngreme, sem formação de praias, dificultando a pesca visual."
+  }
+}

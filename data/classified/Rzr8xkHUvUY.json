@@ -1,0 +1,29 @@
+{
+  "arquivo": "Rzr8xkHUvUY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:40:37.098975",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Ricana",
+      "Bitela"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Miranda",
+      "Rio Vermelho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "KivXYEPPGKg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:52:44.269072",
+  "classificacao": {
+    "especies": [
+      "Pocomãs",
+      "Matrinxã",
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

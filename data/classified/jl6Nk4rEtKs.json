@@ -1,0 +1,38 @@
+{
+  "arquivo": "jl6Nk4rEtKs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:06:42.739492",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tucunaré",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Vara",
+      "Fio"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Perdi minha melhor isca"
+    ]
+  }
+}

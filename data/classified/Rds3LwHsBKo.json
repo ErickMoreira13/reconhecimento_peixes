@@ -1,0 +1,30 @@
+{
+  "arquivo": "Rds3LwHsBKo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:04:31.782614",
+  "classificacao": {
+    "summary": {
+      "location": "Trombetas River",
+      "fish_species": [
+        "Tucunaré Tirolus",
+        "Trairón",
+        "Corvina",
+        "Vicuda"
+      ],
+      "fishing_techniques": [
+        "Baitcasting",
+        "Using lures (popper, chic)"
+      ],
+      "experience_highlights": {
+        "emotions": [
+          "Excitement",
+          "Admiration for nature",
+          "Challenge of catching Tucunaré"
+        ],
+        "conservation": "Release of fish after catching (e.g., Tucunaré Tirolus)",
+        "description_of_river": "Beautiful, vibrant, and full of life"
+      },
+      "repetition_notes": "Exclamation marks and repeated phrases (e.g., 'Um sonho', 'Hermoso Tucunaré') emphasize enthusiasm and passion for the experience."
+    }
+  }
+}

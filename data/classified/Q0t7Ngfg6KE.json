@@ -1,0 +1,26 @@
+{
+  "arquivo": "Q0t7Ngfg6KE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:30:00.485305",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Anzózinho Xingu"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

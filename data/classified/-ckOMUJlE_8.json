@@ -1,0 +1,50 @@
+{
+  "arquivo": "-ckOMUJlE_8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:15:29.542346",
+  "classificacao": {
+    "species": [],
+    "equipment": [
+      "trato",
+      "varas",
+      "anzol",
+      "capimzinho",
+      "saquinho",
+      "boletinho"
+    ],
+    "baits": [
+      "milho azedo",
+      "ração de coelho",
+      "capimzinho"
+    ],
+    "cevas": [
+      {
+        "name": "milho azedo",
+        "type": "Ceva Natural"
+      },
+      {
+        "name": "ração de coelho",
+        "type": "Ceva Proteica"
+      }
+    ],
+    "grains": [
+      "Milho"
+    ],
+    "techniques": [
+      "pesca no capim",
+      "pesca no automático",
+      "uso de anzol pequeno com capimzinho em saquinho"
+    ],
+    "rivers": [
+      "Represa de Piracaia"
+    ],
+    "basins": [],
+    "state": "São Paulo",
+    "municipality": "Piracaia",
+    "fishing_type": [
+      "pesca no capim",
+      "pesca no automático"
+    ],
+    "observations": "Uso de anzol pequeno, corte do capimzinho, preparação do cevado com capimzinho em saquinho e uso de milho azedo e ração de coelho como cevas."
+  }
+}

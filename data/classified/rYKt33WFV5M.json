@@ -1,0 +1,24 @@
+{
+  "arquivo": "rYKt33WFV5M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:38:46.241010",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Linha de mão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

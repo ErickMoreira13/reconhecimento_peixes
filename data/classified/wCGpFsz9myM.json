@@ -1,0 +1,35 @@
+{
+  "arquivo": "wCGpFsz9myM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:01:18.198226",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Linha 090mm",
+      "Cabo de aço",
+      "Girador 1 barra 0",
+      "Boia de isopor",
+      "Chumbada de 40 gramas",
+      "Snap de engate rápido",
+      "Anzol Maroseigo 30"
+    ],
+    "iscas": [
+      "Sardinha",
+      "Luga"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com boia",
+      "Chicote com boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca esportiva",
+    "observacoes": "Uso de linha 090mm, cabos de aço, boia de isopor e anzol Maroseigo 30 para pesca de dourado com iscas vivas (sardinha e luga)."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "arquivo": "22vJ_L2b6nQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:06:41.759562",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Grande",
+      "Rio Sapucaí"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

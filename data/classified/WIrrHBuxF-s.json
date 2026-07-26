@@ -1,0 +1,51 @@
+{
+  "arquivo": "WIrrHBuxF-s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:08:14.328080",
+  "classificacao": {
+    "especies": [
+      "piaba",
+      "lambari",
+      "cativa"
+    ],
+    "equipamentos": [
+      "tarrafa",
+      "viveiro",
+      "barreira",
+      "durei"
+    ],
+    "iscas": [
+      "farinha",
+      "massa"
+    ],
+    "cevas": {
+      "Natural": [],
+      "Proteica": [
+        "farinha"
+      ],
+      "Artificial": [],
+      "Graos": []
+    },
+    "tecnicas": [
+      "tarrafa",
+      "durei"
+    ],
+    "rios": [
+      "rio Tinga"
+    ],
+    "bacias": [
+      "represa"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca de anzol"
+    ],
+    "observacoes": [
+      "pescar, né",
+      "divertir",
+      "fazer parte da cultura local"
+    ]
+  }
+}

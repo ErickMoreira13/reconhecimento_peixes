@@ -1,0 +1,47 @@
+{
+  "arquivo": "ZPQViTggHm0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:41:11.675213",
+  "classificacao": {
+    "especies": [
+      "Zébala",
+      "Camarão Zabalo",
+      "Camarão roxo",
+      "Maranhão da Heckman"
+    ],
+    "equipamentos": [
+      "celular",
+      "barco",
+      "tarrafas",
+      "redes"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca com tarrafas",
+      "competição de pesca"
+    ],
+    "rios": [
+      "rio Palmital",
+      "rio Perequê",
+      "rio Cajai"
+    ],
+    "bacias": [
+      "Baía da Babitonga"
+    ],
+    "estado": "Santa Catarina",
+    "municipio": "Garuva",
+    "tipo_pescaria": [
+      "pesca com tarrafas",
+      "competição de pesca"
+    ],
+    "observacoes": [
+      "Fugir das redes, das tarrafas e dos nossos pescadores",
+      "Competição entre Jorge e Giovanni",
+      "Uso de celular para filmagem"
+    ]
+  }
+}

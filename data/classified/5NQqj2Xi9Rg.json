@@ -1,0 +1,25 @@
+{
+  "arquivo": "5NQqj2Xi9Rg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:18:45.989901",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Claro"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Caçu",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Piracema"
+    ]
+  }
+}

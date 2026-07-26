@@ -1,0 +1,23 @@
+{
+  "arquivo": "WH30FzyfDdE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:07:13.079036",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "saco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

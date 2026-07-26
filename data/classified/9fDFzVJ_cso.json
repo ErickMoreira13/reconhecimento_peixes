@@ -1,0 +1,26 @@
+{
+  "arquivo": "9fDFzVJ_cso",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:40:05.268965",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Pirapitinga",
+      "Tambaqui",
+      "Tambacu",
+      "Patinga",
+      "Tambatinga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

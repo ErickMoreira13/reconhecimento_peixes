@@ -1,0 +1,29 @@
+{
+  "arquivo": "YMPkde-Cyfo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:20:05.620420",
+  "classificacao": {
+    "especies": [
+      "carpa",
+      "tilápia"
+    ],
+    "equipamento": [
+      "chicotinho com dois anzol",
+      "molinete",
+      "passaguá",
+      "chuveirinho"
+    ],
+    "isca": [
+      "massinha de morango",
+      "camarãozinho",
+      "bichinho da laranja"
+    ],
+    "local": "Rio Bonito",
+    "metodo": "Uso da massinha de morango com chicotinho e dois anzóis, além do chuveirinho para isca. Aguardar o peixe enganchar com firmeza, especialmente com a massinha.",
+    "observacoes": [
+      "Temperatura baixa influenciando o comportamento dos peixes.",
+      "Dificuldade em capturar peixes devido ao ambiente (ex.: guarda-sol interferindo).",
+      "Uso de diferentes iscas e equipamentos para adaptar-se às condições."
+    ]
+  }
+}

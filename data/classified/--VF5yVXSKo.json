@@ -1,0 +1,39 @@
+{
+  "arquivo": "--VF5yVXSKo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T22:59:54.228614",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Rede Armada",
+      "Linha",
+      "Anzol",
+      "Ceva"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescar com a Mão",
+      "Uso de Rede Armada",
+      "Lançamento de Ceva"
+    ],
+    "rios": [
+      "Rio Miarinho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Vídeo Não Filmado de Forma Adequada",
+      "Muitos Peixes Capturados",
+      "Uso de Ceva Eficaz"
+    ]
+  }
+}

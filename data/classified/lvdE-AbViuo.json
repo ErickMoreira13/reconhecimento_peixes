@@ -1,0 +1,52 @@
+{
+  "arquivo": "lvdE-AbViuo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:07:49.024099",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Tramelão"
+    ],
+    "equipamentos": [
+      "vara",
+      "chupeta",
+      "traias"
+    ],
+    "iscas": [
+      "massa secreta",
+      "cevinha"
+    ],
+    "cevas": [
+      {
+        "tipo": "Ceva Natural",
+        "nome": "Milho azedo"
+      },
+      {
+        "tipo": "Ceva Proteica",
+        "nome": "Farinha de bolacha"
+      }
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "pesca noturna",
+      "uso de vara de mesmo tamanho",
+      "uso de ceva em pontos específicos"
+    ],
+    "rios": [],
+    "localidades": [
+      "fazendona"
+    ],
+    "horarios": [
+      "manhã",
+      "noite"
+    ],
+    "temporadas": [
+      "temporada final"
+    ],
+    "comentarios": [
+      "comentários sobre a massa secreta"
+    ]
+  }
+}

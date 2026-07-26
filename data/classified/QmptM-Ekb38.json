@@ -1,0 +1,20 @@
+{
+  "arquivo": "QmptM-Ekb38",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:52:45.808445",
+  "classificacao": {
+    "species": [
+      "Tucunaré",
+      "Azul"
+    ],
+    "equipment": [
+      "Colher"
+    ],
+    "iscas": [
+      "Skin Cake"
+    ],
+    "graos": [],
+    "cevas": [],
+    "location": "Paranazão"
+  }
+}

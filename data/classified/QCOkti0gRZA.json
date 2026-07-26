@@ -1,0 +1,31 @@
+{
+  "arquivo": "QCOkti0gRZA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:09:37.640395",
+  "classificacao": {
+    "especies": [
+      "Lapa",
+      "Camaron"
+    ],
+    "equipamentos": [
+      "Linha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em fundo",
+      "Técnica de fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe muito pesado",
+      "Possivelmente peixe de fundo",
+      "Tomada de linha registrada"
+    ]
+  }
+}

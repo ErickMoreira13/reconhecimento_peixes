@@ -1,0 +1,19 @@
+{
+  "arquivo": "_jnl-4yRrig",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:18:40.030087",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "corda",
+      "carreiro",
+      "anzóis",
+      "canoa",
+      "tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": []
+  }
+}

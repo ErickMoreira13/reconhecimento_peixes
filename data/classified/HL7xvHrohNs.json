@@ -1,0 +1,92 @@
+{
+  "arquivo": "HL7xvHrohNs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:50:29.444180",
+  "classificacao": {
+    "video_script": {
+      "title": "Pescando Piranhas e Cozinhando no Campo",
+      "introduction": {
+        "scene": "Câmera mostra um rio com águas turvas e uma rede de pesca no chão.",
+        "narration": "Hoje, vamos explorar como pescar piranhas (piaba) e transformar esse peixe em uma refeição simples e deliciosa. Vamos ao trabalho!"
+      },
+      "fishing_section": {
+        "scene": "O narrador joga a rede no rio e espera.",
+        "dialogue": [
+          {
+            "speaker": "Narrador",
+            "line": "Vamos ver se a piranha vai morde... Ah, ela morde! Cuidado, ela pode arrancar um dedinho se não for rápido!"
+          },
+          {
+            "speaker": "Karine",
+            "line": "Você tem que ser rápido, senão ela pega você de surpresa!"
+          }
+        ],
+        "action": "O narrador pega a piranha e a coloca em uma cesta."
+      },
+      "preparation_section": {
+        "scene": "O narrador e Karine estão no chão, limpar a piranha.",
+        "dialogue": [
+          {
+            "speaker": "Narrador",
+            "line": "Agora, vamos preparar a piranha para fritar. Primeiro, lavamos bem e cortamos em pedaços."
+          },
+          {
+            "speaker": "Karine",
+            "line": "Vamos usar um pouco de sal e limão para dar um toque especial."
+          }
+        ],
+        "action": "Eles cortam a piranha e misturam com sal e limão."
+      },
+      "cooking_section": {
+        "scene": "Uma frigideira com óleo quente e a piranha sendo frita.",
+        "dialogue": [
+          {
+            "speaker": "Narrador",
+            "line": "Agora, vamos fritar! A piranha é muito saborosa, mas tem que ficar bem dourada."
+          },
+          {
+            "speaker": "Karine",
+            "line": "Vamos aproveitar o restante do arroz e feijão do almoço para completar a refeição."
+          }
+        ],
+        "action": "A piranha é frita e servida com arroz e feijão."
+      },
+      "rain_interrupts": {
+        "scene": "Chuva começa a cair, mas o narrador e Karine continuam cozinhando.",
+        "dialogue": [
+          {
+            "speaker": "Narrador",
+            "line": "A chuva chegou, mas não vamos desistir! Vamos aproveitar o momento e continuar com a comida."
+          },
+          {
+            "speaker": "Karine",
+            "line": "É uma refeição simples, mas cheia de sabor e de momentos com a natureza."
+          }
+        ]
+      },
+      "horticulture_note": {
+        "scene": "O narrador planta ervas em um canteiro.",
+        "dialogue": [
+          {
+            "speaker": "Narrador",
+            "line": "Enquanto esperamos a comida, vamos plantar algumas ervas para o próximo dia. A horticultura é parte do processo!"
+          }
+        ]
+      },
+      "conclusion": {
+        "scene": "O narrador e Karine comem juntos, com a piranha frita, arroz e feijão.",
+        "dialogue": [
+          {
+            "speaker": "Narrador",
+            "line": "E aí, o que acharam? Pescar e cozinhar no campo é uma experiência única. Vamos tentar também?"
+          },
+          {
+            "speaker": "Karine",
+            "line": "Sim! A natureza nos dá tudo o que precisamos, se soubermos aproveitar."
+          }
+        ],
+        "closing_line": "Até a próxima, pessoal! Não esqueçam de curtir e compartilhar!"
+      }
+    }
+  }
+}

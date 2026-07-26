@@ -1,0 +1,39 @@
+{
+  "arquivo": "xNksHJiNCUo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:16:12.623026",
+  "classificacao": {
+    "species": [
+      "bicoara",
+      "bicoarinha",
+      "peixe gato",
+      "moreia",
+      "polvo",
+      "dentão"
+    ],
+    "equipment": [
+      "arbalete",
+      "mulinetes",
+      "linhas",
+      "balde"
+    ],
+    "baits": [
+      "chiclete",
+      "amaciante de peixe"
+    ],
+    "techniques": [
+      "pesca sub",
+      "alinhada",
+      "mudada",
+      "espera",
+      "disparo",
+      "mergulho",
+      "subir aquática"
+    ],
+    "other_terms": [
+      "maré de vazante",
+      "água limpa",
+      "temporada de inverno"
+    ]
+  }
+}

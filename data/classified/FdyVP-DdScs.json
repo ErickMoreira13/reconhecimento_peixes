@@ -1,0 +1,14 @@
+{
+  "arquivo": "FdyVP-DdScs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:10:04.395627",
+  "classificacao": {
+    "summary": "O texto é um relato entusiasmado de uma experiência de pesca, repleto de exclamações, termos carinhosos e descrições vivas. O narrador descreve a captura de peixes como 'grandão', 'lambari' e 'piau', destacando a alegria de pescar e a interação com outras pessoas ('amor' como termo de carinho). Há menções à preparação dos peixes capturados, ao uso de uma vara de bambu e à adaptação ao tempo chuvoso. O tom é animado, com repetições e expressões coloquiais que reforçam a energia do momento. O conteúdo parece ser parte de um vídeo ou diário de bordo, com foco na experiência sensorial e emocional da pesca.",
+    "possible_next_steps": [
+      "Traduzir o texto para outro idioma",
+      "Analisar o uso de expressões regionais ou culturais",
+      "Criar um roteiro semelhante com base no estilo",
+      "Identificar termos técnicos relacionados à pesca"
+    ]
+  }
+}

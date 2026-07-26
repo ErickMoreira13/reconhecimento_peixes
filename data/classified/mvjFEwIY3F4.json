@@ -1,0 +1,66 @@
+{
+  "arquivo": "mvjFEwIY3F4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:15:11.669756",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Curimba",
+      "Corimba",
+      "Lambada",
+      "Lobó",
+      "Jijum",
+      "Piau",
+      "Piauzinho",
+      "Três Pintas",
+      "Curimbo"
+    ],
+    "equipamentos": [
+      "Vara pré-histórica",
+      "Galão perfurado"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Curis",
+      "Fior de sucuris"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "cevadas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "tecnica": [
+      "Pescaria de barranco",
+      "Pescaria de curimbo",
+      "Pescaria de lobó",
+      "Pescaria de jijum",
+      "Pescaria de lambada"
+    ],
+    "rios": [
+      "Rio Dourado"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Poção",
+    "tipo_pesca": [
+      "Pesca de barranco",
+      "Pesca de curimbo",
+      "Pesca de lobó",
+      "Pesca de jijum",
+      "Pesca de lambada"
+    ],
+    "observacoes": [
+      "Nenhuma pescaria bem-sucedida durante o vídeo",
+      "Uso de ceva natural e ceva de partículas",
+      "Localização no Rio Dourado, município de Poção"
+    ]
+  }
+}

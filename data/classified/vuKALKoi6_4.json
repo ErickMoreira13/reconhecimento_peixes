@@ -1,0 +1,37 @@
+{
+  "arquivo": "vuKALKoi6_4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:27:42.539797",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Curimba",
+      "Piau",
+      "Lambari",
+      "Baga africano"
+    ],
+    "equipment": [
+      "Vara",
+      "Anzol",
+      "Borrachinha",
+      "Frasco",
+      "Copo"
+    ],
+    "baits": [
+      "Ração de coelho",
+      "Ração de peixe na cachaça",
+      "Bichinho da laranja"
+    ],
+    "ceva_types": {
+      "Ceva Proteica": [
+        "Ração de coelho",
+        "Ração de peixe na cachaça"
+      ],
+      "Ceva Natural": [
+        "Bichinho da laranja"
+      ]
+    },
+    "location": "Rio",
+    "method": "Pescaria caipira com varinha de mão"
+  }
+}

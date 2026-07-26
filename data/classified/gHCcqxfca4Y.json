@@ -1,0 +1,26 @@
+{
+  "arquivo": "gHCcqxfca4Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:49:12.264183",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Sacola de plástico",
+      "Aquário"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A Tilápia demonstra alta capacidade de adaptação e resistência à falta de oxigenação, o que pode ser prejudicial às espécies nativas. Cuidado ao manusear espécies invasoras."
+    ]
+  }
+}

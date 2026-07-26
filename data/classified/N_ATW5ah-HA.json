@@ -1,0 +1,36 @@
+{
+  "arquivo": "N_ATW5ah-HA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:25:24.468660",
+  "classificacao": {
+    "especies": [
+      "dourado",
+      "curimbo",
+      "tucunaré"
+    ],
+    "equipamentos": [
+      "caixa d'água de amianto",
+      "saco de cebola",
+      "saco de ráfia",
+      "vara",
+      "nylon",
+      "anzol",
+      "isca artificial"
+    ],
+    "iscas": [
+      "isca artificial"
+    ],
+    "cevas": [
+      "mandioca",
+      "milho",
+      "farelo de trigo",
+      "ração de coelho"
+    ],
+    "reservatório": [
+      "caixa d'água de amianto (250L)",
+      "tambor (200L)"
+    ],
+    "localização": "Rio",
+    "vídeo": "montar equipamento pra cada peixe"
+  }
+}

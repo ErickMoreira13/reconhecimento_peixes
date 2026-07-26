@@ -1,0 +1,36 @@
+{
+  "arquivo": "-lFwy46PlOI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:37:57.803866",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Asa Delta"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Balde"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Barracão"
+    ],
+    "bacias": [
+      "Represa"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Água muito suja",
+      "Solta peixes em represa"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "TqSrcMb2jlM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:23:04.827902",
+  "classificacao": {
+    "resumo": "O relato descreve uma experiência de pesca no Orotory Camp, destacando o uso de diferentes iscais como Pencil 100 e 110, Spinner Bait, e técnicas específicas como zara, stick e jump. O autor enfatiza a importância do local, do horário (manhã e tarde), e da paciência. O Orotory Camp é mencionado como um local sustentável, com práticas que preservam a natureza e garantem a experiência dos pescadores. A escolha de iscais e técnicas parece ter sido fundamental para o sucesso, com destaque para a eficácia do Pencil 110 e a importância de observar o comportamento dos peixes.",
+    "pontos_chave": {
+      "iscais_usados": [
+        "Pencil 100",
+        "Pencil 110",
+        "Spinner Bait"
+      ],
+      "técnicas_aplicadas": [
+        "zara",
+        "stick",
+        "jump"
+      ],
+      "horários_ideais": [
+        "manhã",
+        "tarde"
+      ],
+      "local": "Orotory Camp",
+      "dicas_importantes": [
+        "observar o comportamento dos peixes",
+        "escolher iscais adequados",
+        "praticar a paciência"
+      ]
+    },
+    "recomendações": "Para quem busca sucesso na pesca, é recomendável testar diferentes iscais e técnicas, especialmente no Orotory Camp, onde a sustentabilidade e a preservação do ambiente são prioridades. A escolha do horário e a adaptação às condições do local podem aumentar significativamente as chances de captura."
+  }
+}

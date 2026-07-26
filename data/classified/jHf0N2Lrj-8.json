@@ -1,0 +1,40 @@
+{
+  "arquivo": "jHf0N2Lrj-8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:01:58.142945",
+  "classificacao": {
+    "especies": [
+      "Camarão",
+      "Tubarão",
+      "Lagosta"
+    ],
+    "equipamentos": [
+      "Covo",
+      "Balde",
+      "Garrafa"
+    ],
+    "iscas": [
+      "Arroz"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Pescaria com Cova"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Camarão"
+    ],
+    "observacoes": [
+      "Filhote de Tubarão",
+      "Filhote de Lagosta"
+    ]
+  }
+}

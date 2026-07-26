@@ -1,0 +1,27 @@
+{
+  "arquivo": "ZfI0zHi78hI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:10:31.874691",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Quirera"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

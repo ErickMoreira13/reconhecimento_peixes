@@ -1,0 +1,33 @@
+{
+  "arquivo": "rlH7F-ikCUo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:12:23.207661",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Piranha"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial",
+      "Uso de dedo como isca",
+      "Pescar piranha na superfície"
+    ],
+    "rios": [
+      "Passaguá"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial",
+      "Pesca na superfície"
+    ],
+    "observacoes": []
+  }
+}

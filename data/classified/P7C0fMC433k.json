@@ -1,0 +1,32 @@
+{
+  "arquivo": "P7C0fMC433k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:56:51.198095",
+  "classificacao": {
+    "species": [
+      "Tucunaré"
+    ],
+    "equipment": [
+      "molinete",
+      "vara",
+      "dedo",
+      "barco"
+    ],
+    "baits": [],
+    "cevas": [],
+    "techniques": [
+      "pisada",
+      "desarremessos",
+      "mudar de ponto"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Sítios Novos",
+    "tipo_pesca": "",
+    "other": [
+      "produção de manhã",
+      "cardume"
+    ]
+  }
+}

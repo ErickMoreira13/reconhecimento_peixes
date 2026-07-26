@@ -1,0 +1,23 @@
+{
+  "arquivo": "cK13pursx2U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:40:58.428644",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "seis mil tilápias soltos"
+    ]
+  }
+}

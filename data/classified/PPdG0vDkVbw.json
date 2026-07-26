@@ -1,0 +1,29 @@
+{
+  "arquivo": "PPdG0vDkVbw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:16:09.554369",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Boia de pesca",
+      "Mola comprimida",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A mola espanta os peixes",
+      "Testado e desaprovado",
+      "O peixe foi embora com a comida"
+    ]
+  }
+}

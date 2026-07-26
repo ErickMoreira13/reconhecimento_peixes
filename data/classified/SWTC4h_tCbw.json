@@ -1,0 +1,37 @@
+{
+  "arquivo": "SWTC4h_tCbw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:18:48.246386",
+  "classificacao": {
+    "especies": [
+      "Cacharão",
+      "Piraíba",
+      "Butuado",
+      "Cunho",
+      "Moleque"
+    ],
+    "equipamentos": [
+      "Câmera",
+      "Caiaque",
+      "Barco",
+      "Marmitas",
+      "Cadeirinha",
+      "Anzal"
+    ],
+    "iscas": [
+      "Farinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Cunho",
+      "Córrego"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

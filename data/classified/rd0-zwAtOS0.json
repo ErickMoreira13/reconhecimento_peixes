@@ -1,0 +1,25 @@
+{
+  "arquivo": "rd0-zwAtOS0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:03:31.472721",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

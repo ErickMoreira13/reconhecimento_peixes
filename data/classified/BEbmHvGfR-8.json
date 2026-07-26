@@ -1,0 +1,38 @@
+{
+  "arquivo": "BEbmHvGfR-8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:52:44.139623",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Âncora",
+      "Caiaque",
+      "Garrafa",
+      "Óculos"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Tarrafeiro"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Carpa pulou",
+      "Começou a chover",
+      "Milho solto no chão"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "__kRR7IbYIg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:54:00.032431",
+  "classificacao": {
+    "especies": [
+      "Tucunaré Azul",
+      "Tucunaré Paca Gigante"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Brava 110",
+      "Brava Grand 100",
+      "Gigue",
+      "Iná",
+      "Popperham da Marini",
+      "Rei do Rio 120 Verde Limão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Watumã"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

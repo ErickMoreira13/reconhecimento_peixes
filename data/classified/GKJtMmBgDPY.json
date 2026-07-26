@@ -1,0 +1,29 @@
+{
+  "arquivo": "GKJtMmBgDPY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:54:37.382342",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara telescópica",
+      "Boia",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de pesca com boia no bico da vara"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com boia"
+    ],
+    "observacoes": "Água um pouco corrida; técnica de pesca com boia no bico da vara para melhor visibilidade da ponta da vara"
+  }
+}

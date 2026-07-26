@@ -1,0 +1,27 @@
+{
+  "arquivo": "jN-s4J-AKM0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:10:17.327314",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Anzal duplo"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Anzal duplo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "arquivo": "iNpf_QHX8kc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:04:28.363219",
+  "classificacao": {
+    "species": [
+      "piranha",
+      "caroço"
+    ],
+    "equipment": [
+      "alicate",
+      "hélice",
+      "canivete",
+      "saco",
+      "sacola",
+      "linha",
+      "placa",
+      "nádeira dorsal"
+    ],
+    "baits": [],
+    "cevas": [],
+    "techniques": [
+      "uso de hélice",
+      "pesca com isca",
+      "recuperação da isca",
+      "pesca de superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca",
+      "pesca de superfície"
+    ],
+    "observacoes": [
+      "peixes fortes",
+      "processo desafiador",
+      "uso de hélice para atrair",
+      "múltiplos peixes capturados"
+    ]
+  }
+}

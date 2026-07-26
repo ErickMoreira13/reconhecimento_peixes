@@ -1,0 +1,34 @@
+{
+  "arquivo": "beLxlEyEX0A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:53:13.026955",
+  "classificacao": {
+    "Resumo": {
+      "Localização": "Tacaiô, próximo a Goiânia, no rio Araguaia",
+      "Espécies de peixes mencionadas": [
+        "piraruba",
+        "tambaqui",
+        "piranha",
+        "piracanjuba",
+        "piraputanga",
+        "surubim",
+        "tucunaré",
+        "dourado",
+        "pescada"
+      ],
+      "Técnicas de pesca": [
+        "uso de iscas artificiais",
+        "pesca com vara de Big Game",
+        "pesca em águas profundas"
+      ],
+      "Equipamentos": "Varas de Big Game, carretilhas de pesca",
+      "Práticas de conservação": "Liberação de peixes após a captura",
+      "Pessoas mencionadas": [
+        "Cacá",
+        "Renato",
+        "Pua Wendel Bijou"
+      ],
+      "Mensagem principal": "Importância da preservação dos ecossistemas aquáticos e da prática de pesca sustentável"
+    }
+  }
+}

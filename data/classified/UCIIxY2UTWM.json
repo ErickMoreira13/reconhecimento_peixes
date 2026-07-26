@@ -1,0 +1,25 @@
+{
+  "arquivo": "UCIIxY2UTWM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:20:04.302773",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "chicote",
+      "linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "montagem de chicote",
+      "nó T"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

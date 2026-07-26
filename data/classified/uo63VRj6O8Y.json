@@ -1,0 +1,27 @@
+{
+  "arquivo": "uo63VRj6O8Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:21:51.908348",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Traia"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com traia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em águas paradas"
+    ],
+    "observacoes": []
+  }
+}

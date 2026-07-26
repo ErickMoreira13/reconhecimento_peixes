@@ -1,0 +1,26 @@
+{
+  "arquivo": "HZNBlOpc1ZE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:20:24.256209",
+  "classificacao": {
+    "species": [
+      "Acará"
+    ],
+    "equipment": [
+      "varinha de telescópio",
+      "linha 045",
+      "chumbadinha",
+      "boinha"
+    ],
+    "iscas": [
+      "minhoca"
+    ],
+    "cevas": [],
+    "habitat": [
+      "tabu"
+    ],
+    "technique": [
+      "pesca caipira"
+    ]
+  }
+}

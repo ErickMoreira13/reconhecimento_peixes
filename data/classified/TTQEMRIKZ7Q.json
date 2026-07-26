@@ -1,0 +1,44 @@
+{
+  "arquivo": "TTQEMRIKZ7Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:35:40.033996",
+  "classificacao": {
+    "species": [
+      "Ariacó",
+      "Xila",
+      "Guarajuba",
+      "Serra",
+      "Aliacózão",
+      "Chincharro"
+    ],
+    "equipment": [
+      "Xilá batida",
+      "Xilá viva",
+      "Velinha",
+      "Cajá",
+      "Bichara",
+      "Pirão"
+    ],
+    "baits_and_lures": [
+      "Coloral",
+      "Bichara",
+      "Pirão"
+    ],
+    "fishing_techniques": [
+      "Alinhada de mão",
+      "Sub",
+      "Paração da maré"
+    ],
+    "locations": [
+      "Surcaria do Zariacó",
+      "Barraqueiro"
+    ],
+    "other_details": {
+      "species_notes": {
+        "Guarajuba": "Also known as 'Chincharro' in some regions",
+        "Aliacózão": "A large variant of 'Ariacó'"
+      },
+      "cooking": "Guarajuba amarela is prepared as a dish"
+    }
+  }
+}

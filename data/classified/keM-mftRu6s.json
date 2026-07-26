@@ -1,0 +1,24 @@
+{
+  "arquivo": "keM-mftRu6s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:35:49.136187",
+  "classificacao": {
+    "especies": [
+      "Tuviro",
+      "Cará"
+    ],
+    "equipamentos": [
+      "varinha de pescar"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

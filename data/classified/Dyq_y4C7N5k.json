@@ -1,0 +1,27 @@
+{
+  "arquivo": "Dyq_y4C7N5k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:06:37.638853",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Paranapanema",
+      "Tibagi"
+    ],
+    "bacias": [
+      "Paranapanema"
+    ],
+    "estado": "Paraná",
+    "municipio": "Alvorada do Sul",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

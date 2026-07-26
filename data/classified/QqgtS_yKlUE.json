@@ -1,0 +1,57 @@
+{
+  "arquivo": "QqgtS_yKlUE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:59:41.432336",
+  "classificacao": {
+    "especies": [
+      "Papá",
+      "Cavalo"
+    ],
+    "equipamentos": [
+      "vara",
+      "carretilha",
+      "fio",
+      "gancho",
+      "isca",
+      "ceva",
+      "galão perfurado",
+      "garrafa PET perfurada",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "tubo de PVC perfurado",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "recipiente perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [
+      "isca",
+      "ceva"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "arremesso",
+      "trabalho da isca",
+      "fingir de morta",
+      "escapar",
+      "correr para o barco",
+      "trabalho do fundo",
+      "escando",
+      "saltar"
+    ],
+    "rios": [
+      "Rio Tocantins"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": [],
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

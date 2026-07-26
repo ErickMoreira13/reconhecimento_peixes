@@ -1,0 +1,38 @@
+{
+  "arquivo": "BFe4K_svwA4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:02:41.939636",
+  "classificacao": {
+    "especies": [
+      "Charuto",
+      "Aracu",
+      "Carvinha",
+      "Sardinha",
+      "Carazinha"
+    ],
+    "equipamentos": [
+      "Malhadeira",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Malhadeira"
+    ],
+    "rios": [],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Rede"
+    ],
+    "observacoes": [
+      "Desafio com o boto",
+      "Área da Amazônia",
+      "Impacto da água não descer muito"
+    ]
+  }
+}

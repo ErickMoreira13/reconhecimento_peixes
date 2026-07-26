@@ -1,0 +1,29 @@
+{
+  "arquivo": "hsm1x82vMJ4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:13:30.761426",
+  "classificacao": {
+    "especies": [
+      "Garateia"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Luva",
+      "Ponta da Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Roraima",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Explosão",
+      "Monstro",
+      "Peixe Grande"
+    ]
+  }
+}

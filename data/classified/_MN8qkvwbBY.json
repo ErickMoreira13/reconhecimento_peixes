@@ -1,0 +1,21 @@
+{
+  "arquivo": "_MN8qkvwbBY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:28:40.953566",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Castelo de Piafas",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

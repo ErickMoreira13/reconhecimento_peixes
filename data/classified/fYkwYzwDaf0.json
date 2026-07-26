@@ -1,0 +1,104 @@
+{
+  "arquivo": "fYkwYzwDaf0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T08:59:33.818968",
+  "classificacao": {
+    "especies": [
+      "redbait",
+      "Estirne",
+      "Musclecracker",
+      "Wanda Worm",
+      "galjoen",
+      "Jun"
+    ],
+    "equipamento": [
+      "Float",
+      "sinker",
+      "hook",
+      "line",
+      "malet",
+      "chocca",
+      "tentacos",
+      "sinkers",
+      "floats",
+      "bait",
+      "clips",
+      "dynamics",
+      "pêrção"
+    ],
+    "isca": [
+      "redbait",
+      "Wanda Worm",
+      "chocca",
+      "Estirne",
+      "Musclecracker",
+      "galjoen",
+      "P.B."
+    ],
+    "isca_artificial": [
+      "chocca",
+      "tentacos",
+      "malet",
+      "float",
+      "sinkers",
+      "hook",
+      "line",
+      "clips",
+      "dynamics",
+      "pêrção"
+    ],
+    "isca_natural": [
+      "Wanda Worm",
+      "redbait",
+      "Estirne",
+      "Musclecracker",
+      "galjoen",
+      "Jun"
+    ],
+    "localizacao": [
+      "água",
+      "coro",
+      "muda",
+      "brown Chocolate color",
+      "barbel",
+      "pequena copia",
+      "verde"
+    ],
+    "tempo": [
+      "dezembro",
+      "end of novembro"
+    ],
+    "condicoes_do_ambiente": [
+      "água é bonita",
+      "muito coro",
+      "muito coro não é bom para cop",
+      "condições",
+      "muda",
+      "brown Chocolate color",
+      "barbel",
+      "pequena copia",
+      "verde"
+    ],
+    "comportamento_dos_peixes": [
+      "não funciona",
+      "não é ideal",
+      "você pode copar em esses tipos condições",
+      "muito coro",
+      "muda",
+      "brown Chocolate color",
+      "barbel",
+      "pequena copia",
+      "verde"
+    ],
+    "outras_observacoes": [
+      "Andrew tem um P.B. para o Jun",
+      "Tem dois copios",
+      "você perdeu um bom",
+      "fissão",
+      "Tchau",
+      "Obrigado por assistir",
+      "Se inscreve",
+      "nos vemos na semana"
+    ]
+  }
+}

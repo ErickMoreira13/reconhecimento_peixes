@@ -1,0 +1,26 @@
+{
+  "arquivo": "Q4hF30fQ-aQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:31:55.786204",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "embarcação",
+      "gavetas",
+      "linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "custo da embarcação de 180 a 220",
+      "partes da embarcação como gavetes e linha"
+    ]
+  }
+}

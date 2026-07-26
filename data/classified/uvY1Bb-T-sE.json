@@ -1,0 +1,25 @@
+{
+  "arquivo": "uvY1Bb-T-sE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:03:26.810568",
+  "classificacao": {
+    "especies": [
+      "Aracu"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Jujuba"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "vamos testar, ver se pega peixe"
+    ]
+  }
+}

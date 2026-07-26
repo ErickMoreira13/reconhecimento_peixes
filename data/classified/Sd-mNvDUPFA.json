@@ -1,0 +1,36 @@
+{
+  "arquivo": "Sd-mNvDUPFA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:56:49.237499",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara de pesca",
+      "Sapinho"
+    ],
+    "iscas": [
+      "Frog"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "A vara utilizada tinha ponta mole inicialmente",
+      "A troca da vara para uma com ponta mais grossa foi necessária",
+      "A traíra capturada tinha aproximadamente quatro quilos",
+      "A isca utilizada foi um sapinho (frog)",
+      "A pescaria ocorreu em um local com presença de traíra"
+    ]
+  }
+}

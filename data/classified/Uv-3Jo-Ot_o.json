@@ -1,0 +1,34 @@
+{
+  "arquivo": "Uv-3Jo-Ot_o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:37:05.913140",
+  "classificacao": {
+    "species": [],
+    "equipment": [],
+    "baits": [
+      "J-Strike",
+      "Top Gun",
+      "Boni",
+      "Fake Dog",
+      "T10",
+      "Real Spence",
+      "Artist",
+      "Boni 85",
+      "Spitfire"
+    ],
+    "location": {
+      "region": "Itaipu",
+      "city": "Santa Helena",
+      "state": "Paraná"
+    },
+    "techniques": [
+      "Using large lures for casting to structures",
+      "Adjusting lure size based on time of day",
+      "Fishing with surface lures"
+    ],
+    "notes": [
+      "Soft lures and rubber lures are emphasized for effectiveness",
+      "Lure selection depends on environmental conditions and target species"
+    ]
+  }
+}

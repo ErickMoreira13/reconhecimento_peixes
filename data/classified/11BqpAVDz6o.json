@@ -1,0 +1,24 @@
+{
+  "arquivo": "11BqpAVDz6o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:56:04.054296",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "arpão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com arpão",
+      "pesca à distância"
+    ],
+    "observacoes": []
+  }
+}

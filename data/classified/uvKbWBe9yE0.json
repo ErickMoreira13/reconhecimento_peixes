@@ -1,0 +1,27 @@
+{
+  "arquivo": "uvKbWBe9yE0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:37:47.571254",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Posicionamento do anzol próximo à cauda do camarão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Preferência por fixar o anzol bem próximo à cauda do camarão para evitar batidas perdidas"
+    ]
+  }
+}

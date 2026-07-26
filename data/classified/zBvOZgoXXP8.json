@@ -1,0 +1,44 @@
+{
+  "arquivo": "zBvOZgoXXP8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:06:42.915777",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Zol"
+    ],
+    "equipamentos": [
+      "Varinha de Mão",
+      "Boinha",
+      "Anzolzinho",
+      "Linha",
+      "Garotinho",
+      "Anzol Modelo Chinu"
+    ],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria Caipira",
+      "Montagem de Isca",
+      "Arremesso Longo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pescaria Caipira"
+    ],
+    "observacoes": [
+      "Não consegui pegar mais nenhum",
+      "Muita piranha",
+      "Solta o peixe",
+      "Pedindo inscrições no canal",
+      "Usando isca de lambari"
+    ]
+  }
+}

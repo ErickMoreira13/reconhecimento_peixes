@@ -1,0 +1,75 @@
+{
+  "arquivo": "IJJZ2ynN87M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:37:53.305587",
+  "classificacao": {
+    "especies": [
+      "Jurupecém",
+      "Juruboca",
+      "lambari",
+      "dourado",
+      "piranha",
+      "piau",
+      "Matuvira",
+      "piraca",
+      "douradão",
+      "passaguá",
+      "jararaca"
+    ],
+    "equipamentos": [
+      "vara",
+      "GoPro",
+      "balde",
+      "garatéia",
+      "ceva",
+      "linha",
+      "ferramentas",
+      "alicate"
+    ],
+    "iscas": [
+      "isca",
+      "ceva",
+      "massas",
+      "garateias"
+    ],
+    "recursos": [],
+    "localização": [
+      "Laranjal",
+      "ponte",
+      "cidade",
+      "fazenda",
+      "posto da fazenda",
+      "ponta do Laranjal",
+      "praias"
+    ],
+    "metodologia": [
+      "arremesso na beirada",
+      "recolhimento lento",
+      "recolhimento na velocidade",
+      "isca rápida",
+      "batendo isca"
+    ],
+    "desafios": [
+      "escapou",
+      "não consegui ligar a GoPro",
+      "embolou tudo",
+      "não tem alicate",
+      "perdi um dourado"
+    ],
+    "recompensas": [
+      "peguei dourado",
+      "peguei piranha",
+      "peguei piau",
+      "peguei piraca",
+      "peguei passaguá",
+      "show de pescaria",
+      "recompensa garantida"
+    ],
+    "conclusão": [
+      "pescaria deu top",
+      "agradecimento ao Zé Roberto",
+      "inscreva-se no canal",
+      "curtir e compartilhar"
+    ]
+  }
+}

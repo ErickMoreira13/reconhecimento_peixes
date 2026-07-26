@@ -1,0 +1,62 @@
+{
+  "arquivo": "lBALDEOe5Jc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:50:25.912281",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piapara",
+      "Corimbo",
+      "Piauzinho",
+      "Bitelinho",
+      "Piaparinha",
+      "Bicuda",
+      "Bicudinha",
+      "Dourado",
+      "Capuador",
+      "Batorla",
+      "Piga",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Varas",
+      "Linha",
+      "Coadão",
+      "Fogueira",
+      "Facão",
+      "Lata"
+    ],
+    "iscas": [
+      "Massinha branca",
+      "Massinha",
+      "Peito de frango",
+      "Fritas"
+    ],
+    "grãos": [
+      "Milhinho"
+    ],
+    "tecnicas": [
+      "Pesca com vara de bambu",
+      "Uso de iscas artificiais",
+      "Lançamento de iscas na fogueira"
+    ],
+    "rios": [
+      "Rio Dourado"
+    ],
+    "bacias": [],
+    "estados": [],
+    "municipios": [],
+    "tipos_de_pesca": [
+      "Pesca",
+      "Pesca com vara de bambu",
+      "Pesca de corimbo"
+    ],
+    "observacoes": [
+      "O negócio não tá muito bom hoje não, viu?",
+      "Primeira vez que nós tá vindo aqui nesse poço aqui, ó.",
+      "A gente tem que ter paciência, viu?",
+      "A gente tem que saber onde o peixe tá, viu?"
+    ]
+  }
+}

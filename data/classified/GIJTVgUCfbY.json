@@ -1,0 +1,26 @@
+{
+  "arquivo": "GIJTVgUCfbY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:51:03.592588",
+  "classificacao": {
+    "espécies": [
+      "Tilápia"
+    ],
+    "iscas": [
+      "massa",
+      "filé"
+    ],
+    "equipamentos": [
+      "anzol",
+      "vara"
+    ],
+    "locais": [
+      "pesqueiro"
+    ],
+    "métodos": [
+      "Adicionar água à isca para formar uma consistência adequada",
+      "Preparar a isca com água antes de usá-la",
+      "Cevar o local para atrair os peixes"
+    ]
+  }
+}

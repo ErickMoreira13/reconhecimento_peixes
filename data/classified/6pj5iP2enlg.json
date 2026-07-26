@@ -1,0 +1,40 @@
+{
+  "arquivo": "6pj5iP2enlg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:39:33.520910",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "GoPro",
+      "Hélice",
+      "Passaguá",
+      "Coletivo",
+      "Régua",
+      "Alicate"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jogar a isca",
+      "Puxa",
+      "Solta o coletivo",
+      "Passa o passaguá",
+      "Trabalha o peixe"
+    ],
+    "rios": [
+      "Lago de Balbina"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Presidente Figueiredo",
+    "tipo_de_pesca": "Pesca Esportiva",
+    "observacoes": [
+      "Pousada com estrutura bacana",
+      "Material comprado na loja Aulemak",
+      "Equipamento de pesca esportiva"
+    ]
+  }
+}

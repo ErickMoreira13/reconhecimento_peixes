@@ -1,0 +1,51 @@
+{
+  "arquivo": "2wdXxFFyJXk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:40:03.769829",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Linha",
+      "Molinete",
+      "Chumbada",
+      "Anzol",
+      "Linha multifilamento",
+      "Linha mono"
+    ],
+    "iscas": [
+      "Massinha",
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática",
+      "Ceva com Atrativo"
+    ],
+    "grains": [
+      "Milho",
+      "Milho azedo"
+    ],
+    "techniques": [
+      "Nó fisgador",
+      "Uso de chumbada",
+      "Uso de molinete",
+      "Arremesso"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "fishing_types": [
+      "Pescaria com ceva",
+      "Pescaria com vara de mão"
+    ],
+    "observations": [
+      "A eficácia da ceva e do milho foi destacada como fatores importantes para o sucesso da pesca.",
+      "A captura de tilápias de grande porte foi mencionada como uma conquista significativa.",
+      "A experiência de pescar em ambientes desafiadores foi descrita como emocionante e envolvente."
+    ]
+  }
+}

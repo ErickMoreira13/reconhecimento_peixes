@@ -1,0 +1,26 @@
+{
+  "arquivo": "ApR6MzyrTzA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:07:06.782619",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Barco",
+      "Canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Oroz"
+    ],
+    "bacias": [
+      "Cariri"
+    ],
+    "estado": "Ceará",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "imtrl512xl0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:02:58.770263",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Anzol Offset 4/0"
+    ],
+    "iscas": [
+      "Isca Soft"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Montagem de anzol para isca anti-enroso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Técnica de montagem do anzol para isca anti-enroso"
+    ]
+  }
+}

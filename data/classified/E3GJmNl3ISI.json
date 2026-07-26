@@ -1,0 +1,25 @@
+{
+  "arquivo": "E3GJmNl3ISI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:36:26.835465",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca de salsicha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Os peixes de couro encostam um barbilhão e não percebem"
+    ]
+  }
+}

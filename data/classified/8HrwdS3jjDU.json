@@ -1,0 +1,23 @@
+{
+  "arquivo": "8HrwdS3jjDU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:15:32.873525",
+  "classificacao": {
+    "especies": [
+      "Jacaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de alimento"
+    ],
+    "observacoes": []
+  }
+}

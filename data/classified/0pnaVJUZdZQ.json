@@ -1,0 +1,39 @@
+{
+  "arquivo": "0pnaVJUZdZQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:28:35.020308",
+  "classificacao": {
+    "species": [
+      "Traíra",
+      "Piau"
+    ],
+    "equipment": [
+      "barco",
+      "vara",
+      "anzol",
+      "faca",
+      "isqueira"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "techniques": [
+      "pesca com vara",
+      "rebojo",
+      "varação",
+      "fritura"
+    ],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [],
+    "other": []
+  }
+}

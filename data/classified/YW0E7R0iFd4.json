@@ -1,0 +1,23 @@
+{
+  "arquivo": "YW0E7R0iFd4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:31:15.295766",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Varinha de pescar"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Tremedeira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "0oxRfvnUNCc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:27:35.602278",
+  "classificacao": {
+    "especies": [
+      "Cará",
+      "Dourado",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Vara Magnus",
+      "Carretilha Blade"
+    ],
+    "iscas": [
+      "Cará",
+      "Tambaqui"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Barra de ouro de mais de 10 quilos",
+      "um dos peixes mais agressivos da natureza"
+    ]
+  }
+}

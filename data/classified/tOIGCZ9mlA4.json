@@ -1,0 +1,23 @@
+{
+  "arquivo": "tOIGCZ9mlA4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:10:42.646555",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "sangue bom aí ó, groteiro"
+    ]
+  }
+}

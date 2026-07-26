@@ -1,0 +1,27 @@
+{
+  "arquivo": "gqm9BSrGVxg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:13:22.914763",
+  "classificacao": {
+    "especies": [
+      "Bico de Pato"
+    ],
+    "equipamentos": [
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Tarrafa"
+    ],
+    "rios": [
+      "Xingu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

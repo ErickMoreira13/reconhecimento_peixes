@@ -1,0 +1,24 @@
+{
+  "arquivo": "HsVxJKumvqo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:14:34.365930",
+  "classificacao": {
+    "summary": {
+      "main_topic": "Fishing experience and social media promotion",
+      "key_points": {
+        "activity": "Discussion of fishing techniques and results, focusing on catching bagres (catfish) and papaterras in Santo Antônio.",
+        "people_mentioned": [
+          "Junior (YouTube channel: 'Junior Pescando')",
+          "Rafael (YouTube channel: 'Rafael Pescando')",
+          "Denis (from 'Rios e Mares' channel, who provided a tip about fish location)"
+        ],
+        "products_services": [
+          "Copa Terra (product mentioned)",
+          "Fishing Store (product mentioned)"
+        ],
+        "social_media": "Promotion of YouTube channels and engagement with the audience through live stream interaction."
+      },
+      "purpose": "Share fishing experiences, promote social media channels, and engage with viewers by discussing techniques, results, and collaborations with other content creators."
+    }
+  }
+}

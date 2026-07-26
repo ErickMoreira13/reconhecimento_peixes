@@ -1,0 +1,45 @@
+{
+  "arquivo": "2irqA1cqJcE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:22:17.692103",
+  "classificacao": {
+    "especies": [
+      "pirarara",
+      "caranha",
+      "trinchã",
+      "barbadinho",
+      "piauzinho",
+      "cachara",
+      "barbado",
+      "jaú",
+      "pacu",
+      "piranha",
+      "curvininha",
+      "pirandirá",
+      "cachorra",
+      "três garatéis"
+    ],
+    "molinete": "Júpiter 5000 da Daiva",
+    "vara": "Bluebird da Tacom",
+    "linha": "Magic Stick 90",
+    "equipamento": [
+      "chumbo de 20 gramas",
+      "girador",
+      "líderzinho 0,50",
+      "Super Mario Seigo",
+      "molinete da Daiva Júpiter 5000"
+    ],
+    "isca": [
+      "piauzinho (vivo)",
+      "restinho de minhoca",
+      "Magic Stick 90"
+    ],
+    "local": [
+      "Rio Claro",
+      "Rio Araguaia"
+    ],
+    "outros": [
+      "método de repelente de mosquito usando cartela de ovo queimada para fumar"
+    ]
+  }
+}

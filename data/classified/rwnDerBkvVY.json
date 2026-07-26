@@ -1,0 +1,61 @@
+{
+  "arquivo": "rwnDerBkvVY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:36:48.197069",
+  "classificacao": {
+    "especies": [
+      "Minhoca",
+      "Pintado",
+      "Piava"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Carretilha",
+      "Linha",
+      "Isca",
+      "Ceva",
+      "Galão Perfurado",
+      "Saco Furado",
+      "Cocho Perfurado"
+    ],
+    "iscas": [
+      "Isca de Fígado",
+      "Isca de Açúcar",
+      "Isca Feita"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Pesca com Isca de Fígado",
+      "Pesca com Isca de Açúcar",
+      "Pesca com Ceva de Partículas",
+      "Pesca com Isca Feita"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Fundo",
+      "Pesca com Ceva"
+    ],
+    "observacoes": [
+      "Preservar peixes pequenos",
+      "Uso de isca de fígado com açúcar",
+      "Eficiência da ceva de partículas",
+      "Liberação de peixes capturados"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "lo5UZa0p22Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:24:45.497663",
+  "classificacao": {
+    "especies": [
+      "Surubim"
+    ],
+    "equipamentos": [
+      "Pau de pesca"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arregaçar"
+    ],
+    "rios": [
+      "Tapecuru"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Caxias",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Água limpa e natural",
+      "Pescaria noturna planejada"
+    ]
+  }
+}

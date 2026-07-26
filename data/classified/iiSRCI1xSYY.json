@@ -1,0 +1,34 @@
+{
+  "arquivo": "iiSRCI1xSYY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:36:04.270669",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Linha",
+      "Molinete",
+      "Vara"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com anzol múltiplo"
+    ],
+    "rios": [
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

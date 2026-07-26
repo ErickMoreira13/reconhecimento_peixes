@@ -1,0 +1,41 @@
+{
+  "arquivo": "5uAu8f3wizI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:32:45.249471",
+  "classificacao": {
+    "especies": [
+      "pacu",
+      "tambaqui",
+      "tambacu",
+      "matadeira",
+      "borrachadinha"
+    ],
+    "equipamentos": [
+      "Copo americano",
+      "Caneco",
+      "Saquinho de plástico"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Massinha cozida"
+      ],
+      "Ceva de Partículas": [
+        "Massinha cozida"
+      ]
+    },
+    "ingredientes": [
+      "Fubá",
+      "Farinha de trigo",
+      "Polvilho",
+      "Suco de goiaba"
+    ],
+    "tecnica": [
+      "Cozinhar a massa até ficar macia e elástica",
+      "Empanar a massa cozida no fubá para aumentar a aderência",
+      "Usar a ceva em métodos como pescar de fundo, com pino, com cevadeira ou na batida"
+    ]
+  }
+}

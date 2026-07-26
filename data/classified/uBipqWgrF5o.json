@@ -1,0 +1,32 @@
+{
+  "arquivo": "uBipqWgrF5o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:13:36.717579",
+  "classificacao": {
+    "especies": [
+      "Sucuri"
+    ],
+    "equipamentos": [
+      "Prancha",
+      "Caba"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Seca"
+    ],
+    "observacoes": [
+      "pescando em área seca",
+      "água baixa devido à seca",
+      "área seca após chuvas recentes",
+      "falta de água no local",
+      "possível deslocamento de peixes para áreas com mais água"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "RFd8bjyUgQE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:06:46.650538",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "graveto",
+      "pau"
+    ],
+    "iscas": [
+      "minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "raspagem com gravetos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com minhoca"
+    ],
+    "observacoes": [
+      "não encontrou minhocas após o teste"
+    ]
+  }
+}

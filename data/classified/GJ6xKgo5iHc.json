@@ -1,0 +1,125 @@
+{
+  "arquivo": "GJ6xKgo5iHc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:52:16.473801",
+  "classificacao": {
+    "species": {
+      "Mandi": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Lapa": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Bagre": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Tambaqui": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Piracanjuba": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Piraputanga": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Surubim": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Pescada": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Pirapitinga": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      },
+      "Pacu": {
+        "count": 1,
+        "notes": "Mentioned as a target species."
+      }
+    },
+    "equipment": {
+      "Varinha de Bambu": {
+        "count": 1,
+        "notes": "Used for fishing."
+      },
+      "Carretilha": {
+        "count": 1,
+        "notes": "Used for fishing."
+      },
+      "Chumbada": {
+        "count": 1,
+        "notes": "Used for fishing."
+      },
+      "Anzolzinho": {
+        "count": 1,
+        "notes": "Used for fishing."
+      },
+      "Linha": {
+        "count": 1,
+        "notes": "Used for fishing."
+      }
+    },
+    "baits": {
+      "Fígado": {
+        "count": 1,
+        "notes": "Used as bait."
+      },
+      "Frango com Groselha": {
+        "count": 1,
+        "notes": "Used as bait."
+      },
+      "Minhoca": {
+        "count": 1,
+        "notes": "Used as bait."
+      }
+    },
+    "grains": {
+      "Groselha": {
+        "count": 1,
+        "notes": "Used in bait preparation."
+      }
+    },
+    "cevadas": {
+      "Ceva Natural": {
+        "count": 1,
+        "notes": "Fígado used as natural bait."
+      },
+      "Ceva Aromática": {
+        "count": 1,
+        "notes": "Frango com Groselha used for scent."
+      }
+    },
+    "techniques": {
+      "Técnica de Cheiro": {
+        "count": 1,
+        "notes": "Used to attract fish with scent."
+      },
+      "Técnica de Movimento": {
+        "count": 1,
+        "notes": "Used to mimic movement of prey."
+      }
+    },
+    "rios": {
+      "Rio": {
+        "count": 1,
+        "notes": "Not explicitly named in the transcript."
+      }
+    },
+    "bacias": {
+      "Bacia": {
+        "count": 1,
+        "notes": "Not explicitly named in the transcript."
+      }
+    },
+    "state": "Minas Gerais",
+    "city": "Arati"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "arquivo": "2byD5Pu-pDc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:09:17.578288",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Filápia",
+      "Caranha"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu",
+      "Varinha de 20 a 50 Libras",
+      "Chumbada",
+      "Chinu",
+      "Geradorzinho",
+      "Massinha",
+      "Sistema com Dois Anzóis"
+    ],
+    "iscas": [
+      "Massinha do Tirapananzol",
+      "Massinha Branca",
+      "Massinha do Tilapia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Sistema com Dois Anzóis",
+      "Chuveirinho",
+      "Massinha"
+    ],
+    "rios": [
+      "Rio Paranaíba"
+    ],
+    "bacias": [
+      "Represa de Borcação"
+    ],
+    "estado": "Minas Gerais",
+    "municipio": "Cascalho Rico",
+    "tipo_pesca": [
+      "Pesca em Reservatório"
+    ],
+    "observacoes": [
+      "Não foi possível capturar caranha, mas foram capturados outros peixes como tilápia e piau."
+    ]
+  }
+}

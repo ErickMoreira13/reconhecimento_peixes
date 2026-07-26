@@ -1,0 +1,34 @@
+{
+  "arquivo": "L0XJlqAnFAw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:41:31.323101",
+  "classificacao": {
+    "especies": [
+      "Peixe",
+      "Camarão Rei"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Fomeira"
+    ],
+    "iscas": [
+      "Vinho",
+      "Camarão",
+      "Pedacinho de Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Afrouxar a Linha",
+      "Pescar pelo Meio"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

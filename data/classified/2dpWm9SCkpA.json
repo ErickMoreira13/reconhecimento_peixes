@@ -1,0 +1,25 @@
+{
+  "arquivo": "2dpWm9SCkpA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:20:03.561926",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Bote",
+      "Balinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Passaguá",
+      "Açaguá"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "wgEccgiY8tQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:05:44.259099",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "peixe defumado"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "roçada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

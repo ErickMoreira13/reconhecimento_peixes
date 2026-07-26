@@ -1,0 +1,30 @@
+{
+  "arquivo": "GCM7wbdEfXY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:32:55.805108",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

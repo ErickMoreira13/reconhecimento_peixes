@@ -1,0 +1,42 @@
+{
+  "arquivo": "SRi8RmSwwAE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:52:32.145307",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Catá"
+    ],
+    "equipamentos": [
+      "Resorte",
+      "Carrete",
+      "Anzuelo",
+      "Rede"
+    ],
+    "iscas": [
+      "Carnada secreta",
+      "Harina",
+      "Gelatina",
+      "Pan molido"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho",
+      "Avena"
+    ],
+    "tecnicas": [
+      "Pesca com ceva",
+      "Uso de resorte para fixar carnada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com ceva"
+    ],
+    "observacoes": []
+  }
+}

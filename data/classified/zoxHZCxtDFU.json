@@ -1,0 +1,27 @@
+{
+  "arquivo": "zoxHZCxtDFU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:39:19.504176",
+  "classificacao": {
+    "especies": [
+      "Piabanha"
+    ],
+    "equipamentos": [
+      "Passaguá",
+      "Carritinho Aldebaran"
+    ],
+    "iscas": [
+      "Isquinha",
+      "Hipheiser"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "sAAY6KH881g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:57:36.877808",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Alinhada de mão"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Alinhada de mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "arquivo": "rrpgFe-FKzw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:28:14.425585",
+  "classificacao": {
+    "especies": [
+      "robalo",
+      "peva",
+      "jacunda",
+      "jundiá",
+      "bagre"
+    ],
+    "equipamentos": [
+      "Ultralight",
+      "jighead",
+      "camarãozinho",
+      "jokerzinho",
+      "trickzinho",
+      "snookzinho",
+      "jighead cinco gramas"
+    ],
+    "localização": [
+      "Rio Itapocu",
+      "Água Doce"
+    ],
+    "guia": "Michel",
+    "profundidade": "quatro metros",
+    "gramas": [
+      "cinco gramas",
+      "sete gramas",
+      "quatro gramas"
+    ],
+    "peixes_capturados": [
+      "robalo",
+      "peva",
+      "jacunda",
+      "jundiá",
+      "bagre"
+    ],
+    "tipos_de_iscas": [
+      "camarãozinho",
+      "jighead",
+      "jokerzinho",
+      "trickzinho",
+      "snookzinho"
+    ]
+  }
+}

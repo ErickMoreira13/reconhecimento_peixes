@@ -1,0 +1,45 @@
+{
+  "arquivo": "zEhdTu2kc1I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:09:29.528970",
+  "classificacao": {
+    "especies": [
+      "Jaraqui",
+      "Borboleta",
+      "Garboletão",
+      "Naré"
+    ],
+    "equipamentos": [
+      "Risca de Superfície",
+      "Saracá",
+      "Jig de Pena",
+      "Jig"
+    ],
+    "iscas": [
+      "Isquinha",
+      "Chucumã",
+      "Borboleta"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Risca de Superfície",
+      "Jig",
+      "Jig de Pena"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Caniço",
+      "Maradeira",
+      "Borboleta"
+    ],
+    "observacoes": [
+      "O Naré está com frio",
+      "O peixe está preguiçoso",
+      "O peixe foi recolhido e devolvido à natureza"
+    ]
+  }
+}

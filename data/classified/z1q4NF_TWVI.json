@@ -1,0 +1,34 @@
+{
+  "arquivo": "z1q4NF_TWVI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:57:32.627466",
+  "classificacao": {
+    "especies": [
+      "Pescada",
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "barco",
+      "giguezinho",
+      "linha"
+    ],
+    "iscas": [
+      "isca",
+      "giguezinho"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [],
+    "rios": [
+      "rio Xingu"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Altamira",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

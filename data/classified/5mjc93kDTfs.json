@@ -1,0 +1,26 @@
+{
+  "arquivo": "5mjc93kDTfs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:18:31.303916",
+  "classificacao": {
+    "especies": [
+      "piapara",
+      "piau",
+      "curimbatá",
+      "dourado"
+    ],
+    "equipamentos": [
+      "balde"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Quirera",
+      "Arroz",
+      "Pellet"
+    ]
+  }
+}

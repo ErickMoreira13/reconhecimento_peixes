@@ -1,0 +1,47 @@
+{
+  "arquivo": "LcmSyQKtuDk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:03:00.922319",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Netuno 6.0 Soldado 2023",
+      "Flaps Estabilizadores",
+      "Banco do Piloto Fechado",
+      "Porta-Remo",
+      "Viveiro",
+      "Chapa de 1,5mm",
+      "Plataforma de Proa",
+      "Tapetes em EVA",
+      "Porta-Vara",
+      "Caixa Seca",
+      "Suporte para Motor Elétrico",
+      "Suporte para Isca Artificial",
+      "Porta-Copa",
+      "Lata Térmico",
+      "Picador de Isca",
+      "Porta-Sol",
+      "Cavernas",
+      "Base para Cadeira Giratória",
+      "Frisos de Reforço",
+      "Aderência",
+      "Afuração Passa-Cabos",
+      "Pintura Automotiva",
+      "Soldas de Primeira Linha"
+    ],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

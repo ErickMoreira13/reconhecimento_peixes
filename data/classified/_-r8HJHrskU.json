@@ -1,0 +1,29 @@
+{
+  "arquivo": "_-r8HJHrskU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:52:11.706221",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Chumbada",
+      "Miçanga",
+      "Girador",
+      "Anzol",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Fundo"
+    ],
+    "observacoes": []
+  }
+}

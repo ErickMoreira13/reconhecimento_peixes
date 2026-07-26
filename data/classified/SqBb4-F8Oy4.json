@@ -1,0 +1,63 @@
+{
+  "arquivo": "SqBb4-F8Oy4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:50:12.910552",
+  "classificacao": {
+    "especies": [
+      "curimba",
+      "pacu",
+      "mandio",
+      "piau",
+      "traira",
+      "curimbinha",
+      "piauí",
+      "piseira",
+      "saguá",
+      "sanza",
+      "pacu caranha",
+      "mandizinho",
+      "pratinha"
+    ],
+    "equipamento": [
+      "varinhas",
+      "traias",
+      "pernos",
+      "fogãozinho de lenha",
+      "panela",
+      "carne",
+      "fritar",
+      "lenha"
+    ],
+    "isca": [
+      "cuscuz",
+      "café descafeinado",
+      "água e pó",
+      "carne"
+    ],
+    "local": [
+      "rio",
+      "Piracema",
+      "Piau"
+    ],
+    "tempo": [
+      "manhã",
+      "almoço",
+      "chuvando",
+      "tempo bonito"
+    ],
+    "comida": [
+      "cuscuz",
+      "café descafeinado",
+      "peixe frito",
+      "carne",
+      "fritar"
+    ],
+    "comentarios": [
+      "A pesca no rio durante a manhã e almoço é produtiva, especialmente quando chove.",
+      "O uso de cuscuz e café descafeinado como isca atrai espécies como curimba e pacu.",
+      "O fogãozinho de lenha e a panela são essenciais para cozinhar a carne e o peixe frito.",
+      "O tempo bonito e a água do rio influenciam diretamente a atividade de pesca.",
+      "A experiência de pesca em Piracema e Piau é enriquecedora, com uma variedade de espécies."
+    ]
+  }
+}

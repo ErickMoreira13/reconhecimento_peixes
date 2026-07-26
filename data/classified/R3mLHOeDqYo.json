@@ -1,0 +1,34 @@
+{
+  "arquivo": "R3mLHOeDqYo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:55:39.342298",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Traíra",
+      "Tilápia",
+      "Lambari",
+      "Jacundá",
+      "Minhoca"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Varinha",
+      "Enrosco"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Enrosco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

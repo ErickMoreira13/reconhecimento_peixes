@@ -1,0 +1,39 @@
+{
+  "arquivo": "hF8RINvAFoc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:22:34.248840",
+  "classificacao": {
+    "especies": [
+      "Peixe Bruto",
+      "Piau",
+      "Três Pintas",
+      "Esturão"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu",
+      "Linha 0,23",
+      "Salsicha",
+      "Milho Verde em Conserva",
+      "Nó de Pescador Básico"
+    ],
+    "iscas": [
+      "Salsicha",
+      "Milho Verde em Conserva"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Caipira"
+    ],
+    "observacoes": []
+  }
+}

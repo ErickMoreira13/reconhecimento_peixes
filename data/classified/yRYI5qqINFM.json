@@ -1,0 +1,29 @@
+{
+  "arquivo": "yRYI5qqINFM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:27:42.480946",
+  "classificacao": {
+    "resumo": "O vídeo apresenta uma sessão de pesca noturna com o participante capturando diversos tipos de peixes, como Scania, Babigol, Pacu, Tilapia, Pirarara e Pirarucu. O conteúdo é repleto de entusiasmo, com o narrador destacando a técnica de pesca com vara ultraleve e iscas pequenas (massinha). Há interações informais com espectadores (Lucas, Gabi) e um chamado para engajamento nas redes sociais: pedindo curtidas e comentários com a palavra 'Pirarucu' para que o participante produza um vídeo específico sobre essa espécie. O tom é casual, dinâmico e repleto de expressões coloquiais, destacando a experiência de pesca e a conexão com a audiência.",
+    "pontos_chave": {
+      "especies_de_peixe": [
+        "Scania",
+        "Babigol",
+        "Pacu",
+        "Tilapia",
+        "Pirarara",
+        "Pirarucu"
+      ],
+      "equipamento": [
+        "vara ultraleve",
+        "massinha (isca)"
+      ],
+      "contexto": "pesca noturna",
+      "engajamento": [
+        "curtidas",
+        "comentários com 'Pirarucu'"
+      ],
+      "tom": "entusiasmado, informal, coloquial"
+    },
+    "chamada_de_acao": "O participante pede aos espectadores que deixem curtidas e comentem 'Pirarucu' para que ele produza um vídeo específico sobre essa espécie de peixe."
+  }
+}

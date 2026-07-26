@@ -1,0 +1,27 @@
+{
+  "arquivo": "DMsMeDNwcZw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:29:47.308225",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Choque",
+      "Socorro"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Choque",
+      "Socorro"
+    ],
+    "observacoes": []
+  }
+}

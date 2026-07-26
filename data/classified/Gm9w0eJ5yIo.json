@@ -1,0 +1,50 @@
+{
+  "arquivo": "Gm9w0eJ5yIo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:58:08.337494",
+  "classificacao": {
+    "species": [
+      "pintado",
+      "piranha",
+      "piau",
+      "juridica",
+      "coelha"
+    ],
+    "equipment": [
+      "linhas de multifilamento",
+      "varas mais grossas",
+      "molinetezinho",
+      "fogo",
+      "grelhazinha",
+      "facão",
+      "pauzinhos secos",
+      "madeira bola",
+      "vão bobo"
+    ],
+    "grains": [
+      "arroz"
+    ],
+    "cevas": [],
+    "techniques": [
+      "pescaria noturna",
+      "pescaria de madrugada"
+    ],
+    "rivers": [
+      "lago",
+      "boca de um lago"
+    ],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "fishing_types": [
+      "pescaria noturna",
+      "pescaria de madrugada"
+    ],
+    "observations": [
+      "captura de piranhas, pintados e outros peixes",
+      "uso de fogo e grelha para preparar o alimento",
+      "pesca realizada durante a noite e pela madrugada",
+      "utilização de madeira bola e pauzinhos secos para o fogo"
+    ]
+  }
+}

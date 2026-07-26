@@ -1,0 +1,28 @@
+{
+  "arquivo": "p3L8jrSS1qo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:54:26.691778",
+  "classificacao": {
+    "location": {
+      "estado": "Rio Grande do Norte",
+      "municipio": "Taipu"
+    },
+    "species": [
+      "Michole",
+      "Cocoroca"
+    ],
+    "equipment": [
+      "vara",
+      "ferro"
+    ],
+    "techniques": [
+      "casting",
+      "waiting for a bite"
+    ],
+    "weather_conditions": [
+      "rain",
+      "wind",
+      "sun"
+    ]
+  }
+}

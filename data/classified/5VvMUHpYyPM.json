@@ -1,0 +1,34 @@
+{
+  "arquivo": "5VvMUHpYyPM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:34:19.734398",
+  "classificacao": {
+    "species": [
+      "Dourado",
+      "Traíra",
+      "Tilápia",
+      "Tambaqui",
+      "Lambari"
+    ],
+    "equipment": [
+      "Oxigênio em pó",
+      "Caixa d'água",
+      "Passaguá"
+    ],
+    "baits": [],
+    "cevas": [],
+    "grains": [],
+    "techniques": [],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "type_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Os peixes vão se alimentar muito aqui no lago",
+      "A intenção dos dourados é controlar a tilápia"
+    ]
+  }
+}

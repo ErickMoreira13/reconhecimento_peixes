@@ -1,0 +1,30 @@
+{
+  "arquivo": "XVLIgkdvWxA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:25:42.744597",
+  "classificacao": {
+    "especies": [
+      "Paca",
+      "Pirarara",
+      "Tucunaré",
+      "Tupunaré"
+    ],
+    "equipamentos": [
+      "Régua",
+      "Barco",
+      "Motor elétrico"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Negro"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

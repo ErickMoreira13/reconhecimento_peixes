@@ -1,0 +1,30 @@
+{
+  "arquivo": "jCw9VGzZOBg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:54:40.141974",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Pintado",
+      "Pacu",
+      "Dourado",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Caixa fechada",
+      "Linha",
+      "Traia de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

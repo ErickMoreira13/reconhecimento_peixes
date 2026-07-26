@@ -1,0 +1,34 @@
+{
+  "arquivo": "9pCZDU3-So8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:46:57.074507",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Aruá",
+      "Traíra",
+      "Piau",
+      "Lambarezinho",
+      "Espiabinha"
+    ],
+    "equipamentos": [
+      "Varinha telescópica"
+    ],
+    "iscas": [
+      "Mortadela"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio São Miguel"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Piau"
+    ],
+    "observacoes": []
+  }
+}

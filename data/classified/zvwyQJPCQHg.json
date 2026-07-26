@@ -1,0 +1,33 @@
+{
+  "arquivo": "zvwyQJPCQHg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:00:02.975166",
+  "classificacao": {
+    "especies": [
+      "Cunarézinho",
+      "Joana",
+      "Abicuda",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Tovira",
+      "Linha"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fescando"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

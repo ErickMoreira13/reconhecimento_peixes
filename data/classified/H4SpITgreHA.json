@@ -1,0 +1,60 @@
+{
+  "arquivo": "H4SpITgreHA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:41:19.627203",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Surubim",
+      "Aruanã",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Motor",
+      "Rede",
+      "Lanterna",
+      "Fogão",
+      "Panela",
+      "Garrafa",
+      "Saco de gelo",
+      "Mesa",
+      "Cadeira",
+      "Jogo de cartas",
+      "Fogareiro"
+    ],
+    "iscas": [
+      "Isca de Traíra",
+      "Isca de Surubim",
+      "Isca de Aruanã"
+    ],
+    "grãos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Feijão",
+      "Amedoim",
+      "Girassol",
+      "Alpiste",
+      "Linhaça",
+      "Canjica",
+      "Sorgo"
+    ],
+    "cevas": [],
+    "técnicas": [],
+    "rios": [
+      "Rio Caiapó"
+    ],
+    "bacias": [
+      "Bacia do Tocantins"
+    ],
+    "estado": "Tocantins",
+    "municipio": "Miranorte",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca recreativa"
+    ],
+    "observacoes": []
+  }
+}

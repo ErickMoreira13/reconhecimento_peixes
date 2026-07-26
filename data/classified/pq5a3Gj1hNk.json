@@ -1,0 +1,28 @@
+{
+  "arquivo": "pq5a3Gj1hNk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:17:45.898646",
+  "classificacao": {
+    "species": [
+      "pirarucu"
+    ],
+    "equipamentos": [
+      "carretilha de perfil baixo",
+      "vara Aventurina Intergrim 25 libras",
+      "azol encastuado Rancho do Pescador 8 barra 0",
+      "azão encastuado"
+    ],
+    "iscas": [
+      "isquinha branca",
+      "tambiozinho",
+      "pedaço de traíra",
+      "pedaço de pial",
+      "tuvira"
+    ],
+    "grains": [],
+    "techniques": [
+      "pesca de pirarucu com iscas naturais, usando motor desligado e movimentando a canoa com remo para minimizar o barulho"
+    ],
+    "location": "Rio Guaporé, Porto Rolim Pescotel"
+  }
+}

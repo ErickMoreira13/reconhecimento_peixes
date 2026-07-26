@@ -1,0 +1,31 @@
+{
+  "arquivo": "8XVKN8diYx4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:35:14.088961",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Kayak"
+    ],
+    "iscas": [
+      "Juguetito"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Bacia do Rio Acre"
+    ],
+    "estado": "Acre",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Captura de carpas durante a pre-pesca, uso do 'Juguetito' como isca eficaz, menção ao torneio organizado pelo Sr. Hilmer, dificuldade com o kayak durante a pesca"
+    ]
+  }
+}

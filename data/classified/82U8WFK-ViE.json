@@ -1,0 +1,29 @@
+{
+  "arquivo": "82U8WFK-ViE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:08:12.164753",
+  "classificacao": {
+    "especies": [
+      "Curvina"
+    ],
+    "equipamentos": [
+      "varinha"
+    ],
+    "iscas": [
+      "lambari vivo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tietê"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Sales",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

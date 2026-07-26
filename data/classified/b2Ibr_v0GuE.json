@@ -1,0 +1,35 @@
+{
+  "arquivo": "b2Ibr_v0GuE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:32:32.561156",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Vara de pesca"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de fundo"
+    ],
+    "rios": [
+      "Rio Vermelho"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de câmera para filmagem",
+      "Presença de aves (trairão)",
+      "Mencionado uso de galha como isca"
+    ]
+  }
+}

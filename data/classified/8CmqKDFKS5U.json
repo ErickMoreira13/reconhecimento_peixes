@@ -1,0 +1,24 @@
+{
+  "arquivo": "8CmqKDFKS5U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:12:28.292871",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Robalo Flecha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio de Aguaribe"
+    ],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "Aracati",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

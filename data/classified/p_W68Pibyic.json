@@ -1,0 +1,34 @@
+{
+  "arquivo": "p_W68Pibyic",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:58:29.633109",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Carne Nobre",
+      "Chatella",
+      "Morrão"
+    ],
+    "equipamentos": [
+      "Murinete",
+      "Foguete",
+      "Garrador",
+      "Tronco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arrastada",
+      "Cozido"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "lcfnow0Jk54",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:02:14.298876",
+  "classificacao": {
+    "especies": [
+      "Tuvira"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Noturna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Noturna"
+    ],
+    "observacoes": []
+  }
+}

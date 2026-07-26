@@ -1,0 +1,8 @@
+{
+  "arquivo": "Yf0SCPzTQCA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:10:42.344452",
+  "classificacao": {
+    "error": "The user has provided a text in Portuguese but has not explicitly asked a question. Please clarify what assistance is needed (e.g., translation, summary, analysis, etc.)."
+  }
+}

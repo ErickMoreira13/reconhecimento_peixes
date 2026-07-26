@@ -1,0 +1,49 @@
+{
+  "arquivo": "nSVoUj09nZA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:25:57.719844",
+  "classificacao": {
+    "especies": [
+      "tilápia",
+      "bagre",
+      "pampo",
+      "betara",
+      "parati",
+      "barbado",
+      "raia",
+      "robalo"
+    ],
+    "equipamentos": [
+      "vara",
+      "suporte de vara",
+      "porta isca",
+      "balde",
+      "potinho com barbante",
+      "linha",
+      "pegador de peixe",
+      "saca anzol",
+      "pulsar",
+      "bomba",
+      "suportes",
+      "malinha",
+      "isca artificial",
+      "porta elástico",
+      "tesoura",
+      "alicate",
+      "chumbos",
+      "porta pernada",
+      "chicote",
+      "miçanga",
+      "pernada",
+      "boia",
+      "miçanguinha vermelha"
+    ],
+    "iscas": [
+      "camarão",
+      "sarnambi",
+      "minhoca"
+    ],
+    "cevas": [],
+    "localização": ""
+  }
+}

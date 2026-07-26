@@ -1,0 +1,32 @@
+{
+  "arquivo": "VaGnYrmfGSY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:39:40.287791",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Carpa",
+      "Redondo",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Saco plástico"
+    ],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "grain": [
+      "Pão",
+      "Farinha de mandioca",
+      "Ração",
+      "Suco de caju"
+    ],
+    "techniques": [
+      "Técnica de preparo de massa com textura adequada"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "uFrAlnpYogg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:23:16.580893",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Boinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Corguinho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Tentativa de captura de Traíra com boinha, mas a espécie escapou"
+    ]
+  }
+}

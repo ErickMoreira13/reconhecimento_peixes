@@ -1,0 +1,33 @@
+{
+  "arquivo": "8hFvZ6h_dQI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:15:24.343394",
+  "classificacao": {
+    "especies": [
+      "Cambojo",
+      "Curimatã",
+      "Piabinha"
+    ],
+    "equipamentos": [
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Tarrafa"
+    ],
+    "rios": [
+      "Jaguaribe"
+    ],
+    "bacias": [],
+    "estado": "Ceará",
+    "municipio": "Jucasa",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Ação de soltar cambojos em açudes para reprodução",
+      "Preservação de curimatã e piabinha",
+      "Impacto da enchente na presença do cambojo no rio Jaguaribe"
+    ]
+  }
+}

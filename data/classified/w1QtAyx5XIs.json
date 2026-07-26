@@ -1,0 +1,37 @@
+{
+  "arquivo": "w1QtAyx5XIs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:53:07.319894",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Carretilha Sumax 10",
+      "Varinha Evolution 817 Libra",
+      "Linha Max Force 18mm",
+      "Cabo Cabreço Rabiola",
+      "Anzol Cavazeme 4"
+    ],
+    "iscas": [
+      "Calabresa",
+      "Salsicha",
+      "Caranguejo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Bater Pocinhos",
+      "Pingadinha",
+      "Pescaria de Pé"
+    ],
+    "localizacao": [],
+    "outras informacoes": [
+      "Tralha",
+      "Chumbadinha de 25g",
+      "Correnteza Forte"
+    ]
+  }
+}

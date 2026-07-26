@@ -1,0 +1,23 @@
+{
+  "arquivo": "cCA0BX3BXj0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:30:02.879441",
+  "classificacao": {
+    "especies": [
+      "Mandi"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe grande e pesado"
+    ]
+  }
+}

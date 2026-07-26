@@ -1,0 +1,19 @@
+{
+  "arquivo": "QQuRLCRk_gI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:00:12.384782",
+  "classificacao": {
+    "summary": "O texto é uma narrativa entusiasmada de uma experiência de pesca no Lago Balbina, com foco em técnicas de pesca com iscas artificiais (como Zig Zara 90 e Magic Stick 110), a captura de peixes (como vasoleiro, provavelmente um tipo de peixe de água doce), e interações sociais com guias e outros participantes. O relato abrange a estrutura do dia (manhã, tarde, noite), descreve detalhes sobre os equipamentos, estratégias de pesca e a atmosfera do local. O tom é animado, com ênfase na emoção de capturar peixes e na convivência com a natureza.",
+    "analysis": {
+      "techniques": "As técnicas de pesca mencionadas (como o uso de poppers e lures específicas) são comuns em pesca de superfície, indicando uma abordagem focada em imitar movimentos de presas. A descrição detalhada dos equipamentos sugere experiência do narrador.",
+      "fish_species": "O termo 'vasoleiro' pode se referir a espécies como piranha ou outros peixes de água doce do Amazonas, mas a identificação precisa exigir contexto regional.",
+      "structure": "O relato tem uma estrutura clara, seguindo a sequência do dia, o que facilita a imersão do leitor. A inclusão de interações sociais (como conversas com guias) enriquece a narrativa.",
+      "engagement": "O tom entusiasmado e os detalhes sensoriais (sons, movimentos dos peixes) tornam o texto envolvente, ideal para audiências interessadas em pesca ou turismo de aventura."
+    },
+    "suggestions": [
+      "Considerar incluir termos técnicos explicados para leitores não familiarizados com pesca.",
+      "Adicionar descrições visuais do ambiente do lago para reforçar a imersão.",
+      "Explorar a sustentabilidade da pesca mencionada, se relevante para o público-alvo."
+    ]
+  }
+}

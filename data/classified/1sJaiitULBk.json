@@ -1,0 +1,36 @@
+{
+  "arquivo": "1sJaiitULBk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:49:34.832919",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Pirarara",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Popper",
+      "Stick Shed",
+      "Chad",
+      "Alicate de contenção"
+    ],
+    "iscas": [
+      "Isca do Matias",
+      "Chad preto"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Risca de Meia Água",
+      "Superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": ""
+  }
+}

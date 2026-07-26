@@ -1,0 +1,100 @@
+{
+  "arquivo": "syyy6lVSNKE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T19:37:53.970219",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Trator",
+      "Pedral",
+      "Boia",
+      "Vara",
+      "Caniço",
+      "Ceva",
+      "Galão Perfurado",
+      "Saco de Ráfia"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Grãos Naturais",
+      "Ração",
+      "Farinha de Peixe",
+      "Farelo de Soja",
+      "Farelos em Geral",
+      "Proteína Animal",
+      "Alho",
+      "Erva-Doce",
+      "Mel",
+      "Açúcar",
+      "Frutas",
+      "Essências",
+      "Atrativos Líquidos",
+      "Atrativos em Pó"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Milho",
+        "Soja",
+        "Trigo",
+        "Arroz",
+        "Quirera",
+        "Canjica",
+        "Grãos Naturais",
+        "Grãos em Geral"
+      ],
+      "Ceva Proteica": [
+        "Ração",
+        "Farinha de Peixe",
+        "Farelo de Soja",
+        "Farelos em Geral",
+        "Proteína Animal"
+      ],
+      "Ceva Aromática": [
+        "Alho",
+        "Erva-Doce",
+        "Mel",
+        "Açúcar",
+        "Frutas",
+        "Essências",
+        "Atrativos Líquidos",
+        "Atrativos em Pó"
+      ],
+      "Ceva de Partículas": [
+        "Galão Perfurado",
+        "Saco de Ráfia",
+        "Saco Furado",
+        "Saco Telado",
+        "Saco de Cebola",
+        "Tubo de PVC Perfurado",
+        "Cano de PVC Perfurado",
+        "Balde Perfurado",
+        "Recipiente Perfurado",
+        "Cocho Perfurado"
+      ]
+    },
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica",
+      "Grãos Naturais",
+      "Grãos em Geral"
+    ],
+    "localizacao": [
+      "Rio"
+    ],
+    "condicoes_ambientais": [
+      "Vento",
+      "Tempestade"
+    ]
+  }
+}

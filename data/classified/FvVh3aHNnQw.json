@@ -1,0 +1,25 @@
+{
+  "arquivo": "FvVh3aHNnQw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:58:12.246530",
+  "classificacao": {
+    "species": [
+      "piau",
+      "pacu",
+      "jundiá",
+      "pirarara"
+    ],
+    "equipment": [],
+    "iscas": [
+      "cevinha",
+      "baitela"
+    ],
+    "techniques": [
+      "using lures",
+      "fishing with bait"
+    ],
+    "location": "região do Paraná",
+    "river": "",
+    "region": "Paraná"
+  }
+}

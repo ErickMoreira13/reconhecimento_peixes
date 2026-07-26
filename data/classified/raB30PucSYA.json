@@ -1,0 +1,21 @@
+{
+  "arquivo": "raB30PucSYA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:02:00.603293",
+  "classificacao": {
+    "especies": [
+      "Camarão-Tigre"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Barreirinhas",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

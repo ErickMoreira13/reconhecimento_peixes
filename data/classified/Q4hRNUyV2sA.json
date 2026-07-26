@@ -1,0 +1,29 @@
+{
+  "arquivo": "Q4hRNUyV2sA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:32:05.850125",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "translúcida",
+      "marrom escuro",
+      "bege",
+      "amarelo",
+      "branca",
+      "rátule"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "escolha de cores",
+      "uso de rátule"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

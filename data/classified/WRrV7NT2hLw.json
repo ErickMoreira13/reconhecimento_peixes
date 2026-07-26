@@ -1,0 +1,21 @@
+{
+  "arquivo": "WRrV7NT2hLw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:33:20.028980",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Isca translúcida"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

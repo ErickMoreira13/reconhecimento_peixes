@@ -1,0 +1,23 @@
+{
+  "arquivo": "ielP1_AOHkM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:31:30.984032",
+  "classificacao": {
+    "summary": "O texto descreve uma sequência de ações de uma pessoa que verifica linhas de pesca, lida com a chuva, prepara comida com outras pessoas, e interage com indivíduos chamados Nivaldo, Maria e Marguerra. O ambiente é de uma atividade coletiva em meio à chuva, com momentos de conversa, preparação de alimentos e despedidas. O conteúdo também inclui cumprimentos e abraços enviados a amigos, sugerindo um contexto social e familiar.",
+    "key_points": [
+      "Verificação de linhas de pesca e adaptação à chuva.",
+      "Preparação de comida em grupo (ex.: arroz, feijão, carne).",
+      "Interações com Nivaldo, Maria e Marguerra.",
+      "Mencione de um possível encontro futuro com Marguerra.",
+      "Despedidas e cumprimentos entre os participantes.",
+      "Mensagem de abraço para amigos (ex.: 'abraço pra vocês, pessoal').",
+      "Contexto de atividade ao ar livre, com elementos de convivência e colaboração."
+    ],
+    "possible_requests": [
+      "Tradução do texto para outro idioma.",
+      "Análise do tom ou contexto social da narrativa.",
+      "Resumo mais detalhado das interações entre os personagens.",
+      "Identificação de elementos culturais ou regionais (ex.: pratos típicos, nomes locais)."
+    ]
+  }
+}

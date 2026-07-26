@@ -1,0 +1,41 @@
+{
+  "arquivo": "CMqRll96Mjg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:45:45.991841",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piau",
+      "Tambiú"
+    ],
+    "equipamentos": [
+      "Corda",
+      "Galão de Água",
+      "Martelo"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Ceva de Galão"
+    ],
+    "rios": [
+      "Riozão"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Barranco"
+    ],
+    "observacoes": [
+      "Ceva de galão com milho cozido e azedo, dura até um ano",
+      "Método eficaz para atrair piaus, piaparas e lambaris",
+      "Utilização de galão perfurado para liberar alimento gradualmente"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "gx3Ehxqw5_M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:23:19.561288",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Conceição do Araguaia",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

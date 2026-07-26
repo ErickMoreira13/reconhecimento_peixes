@@ -1,0 +1,41 @@
+{
+  "arquivo": "CTdFJbDuwPE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:04:08.140191",
+  "classificacao": {
+    "especies": [
+      "Olhudo",
+      "Olho de Boi",
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Rede"
+    ],
+    "isca": [
+      "Carro do Milho",
+      "Sardinha"
+    ],
+    "localização": [
+      "Praia Grande",
+      "São Paulo",
+      "Jaraguá, São Paulo"
+    ],
+    "temporada": [
+      "Baixa temporada da pesca",
+      "Verão",
+      "Ano passado, em abril"
+    ],
+    "pessoas_envolvidas": [
+      "Tiel",
+      "Isis",
+      "Pedro",
+      "Rafael",
+      "Donatello",
+      "Michaelangelo",
+      "Leonardo",
+      "Otávio",
+      "Gui"
+    ]
+  }
+}

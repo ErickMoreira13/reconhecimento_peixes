@@ -1,0 +1,21 @@
+{
+  "arquivo": "WkU1JXDtSqw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:11:03.205735",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Ojo de Água Sul"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Miranda",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

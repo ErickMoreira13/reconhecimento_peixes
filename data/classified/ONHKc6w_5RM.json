@@ -1,0 +1,23 @@
+{
+  "arquivo": "ONHKc6w_5RM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:56:56.062525",
+  "classificacao": {
+    "especies": [
+      "Pulpo"
+    ],
+    "equipamentos": [
+      "Linha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "66NJFQs1Xso",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:37:52.320524",
+  "classificacao": {
+    "espécies": [
+      "Curvina"
+    ],
+    "equipamentos": [
+      "vara Venza de seis pés, carbono sólido, 17 libras",
+      "molinete Venza 3 mil",
+      "linha multifilamento Vexter X8, 30 libras",
+      "líder de flucavo 0,52",
+      "Jumping Jig da NS",
+      "Billy 4 de 60 gramas",
+      "caiaque Samurai da Bruder"
+    ],
+    "iscas": [
+      "Jumping Jig da NS"
+    ],
+    "cevadas": [],
+    "graos": [],
+    "técnicas": [
+      "pescaria vertical",
+      "pesca de caiaque",
+      "pesca com metal gig",
+      "solta a curvina viva",
+      "técnica de pescaria com metal jig",
+      "usar freio",
+      "dois toquinhos",
+      "baixa"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "localização": [
+      "represa artificial",
+      "represas hidrelétricas"
+    ]
+  }
+}

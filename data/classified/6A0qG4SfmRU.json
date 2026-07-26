@@ -1,0 +1,27 @@
+{
+  "arquivo": "6A0qG4SfmRU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:48:04.146299",
+  "classificacao": {
+    "especies": [
+      "Pirapé"
+    ],
+    "equipamentos": [
+      "Cama"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Puxada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Chuva mais tarde"
+    ]
+  }
+}

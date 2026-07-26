@@ -1,0 +1,34 @@
+{
+  "arquivo": "EtYr78--n4I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:42:50.695666",
+  "classificacao": {
+    "especies": [
+      "Aracuzão"
+    ],
+    "equipamentos": [
+      "Azão",
+      "Azãozinho"
+    ],
+    "iscas": [
+      "Tucumã",
+      "Catauari",
+      "Massinha de Tucumã"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Iscas"
+    ],
+    "observacoes": [
+      "Atraente para iniciantes"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "9sCwuuPglgg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:48:44.471027",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Discador"
+    ],
+    "iscas": [
+      "Disca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

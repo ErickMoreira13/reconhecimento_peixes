@@ -1,0 +1,23 @@
+{
+  "arquivo": "KFhEEvsO8LM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:38:02.724786",
+  "classificacao": {
+    "especies": [
+      "Unha"
+    ],
+    "equipamentos": [
+      "canoa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

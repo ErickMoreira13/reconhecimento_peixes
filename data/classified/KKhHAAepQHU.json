@@ -1,0 +1,54 @@
+{
+  "arquivo": "KKhHAAepQHU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:55:33.016023",
+  "classificacao": {
+    "especies": [
+      "Xaréu",
+      "Robalo",
+      "Pampo"
+    ],
+    "equipamentos": [
+      "Mochila",
+      "Celular",
+      "Câmera",
+      "Bateria",
+      "Vara",
+      "Linha",
+      "Gessô",
+      "Amador",
+      "Camarão Pipicão",
+      "Farol"
+    ],
+    "iscas": [
+      "Camarão",
+      "Artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Bater Artificial"
+    ],
+    "rios": [
+      "Fortin"
+    ],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "Ceará",
+    "municipio": "Fortaleza",
+    "tipo_pesca": [
+      "Embarcada",
+      "Pescaria"
+    ],
+    "observacoes": [
+      "Comunidade de pescadores",
+      "Expedição para Amazônia",
+      "Equipamentos utilizados",
+      "Pescaria com camarão",
+      "Técnica de bater artificial"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "arquivo": "vc6HVb8MGZw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:42:31.385818",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau",
+      "Peixe de couro",
+      "Jahu",
+      "Mandia",
+      "Mandi bicudo",
+      "Mandi toado"
+    ],
+    "equipamentos": [
+      "tubira",
+      "varinha telescópica",
+      "alicate",
+      "canoa",
+      "saguar",
+      "poçai"
+    ],
+    "iscas": [
+      "soja",
+      "quirela",
+      "minhoquinha"
+    ],
+    "cevas": [
+      "ceva natural",
+      "ceva proteica",
+      "ceva de partículas"
+    ],
+    "localização": [
+      "rio",
+      "poço",
+      "sombra",
+      "pedras"
+    ],
+    "metodologia": [
+      "isquei",
+      "escondendo a ponta do anzol",
+      "jogar no poço",
+      "usar saguar"
+    ],
+    "observações": [
+      "peixe engoliu o anzol",
+      "uso de faca para remover anzol",
+      "tamanho dos peixes capturados",
+      "Giant fish"
+    ]
+  }
+}

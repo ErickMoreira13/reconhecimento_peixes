@@ -1,0 +1,24 @@
+{
+  "arquivo": "uhUqnPt4WmE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:35:33.046399",
+  "classificacao": {
+    "especie": "Tucunaré",
+    "equipamento": [
+      "barcos"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Flores",
+      "Rio Mearim"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Tumtum",
+    "tipo_pesca": "pesca esportiva",
+    "observacoes": "O evento destaca a pesca esportiva como uma prática sustentável, com ênfase na conservação dos recursos pesqueiros. A liberação de peixes capturados durante a competição é uma prática comum para preservar a população de Tucunaré. A SEBRAE participa do evento, promovendo ações de conscientização ambiental e a sustentabilidade no setor pesqueiro."
+  }
+}

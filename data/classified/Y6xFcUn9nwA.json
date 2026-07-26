@@ -1,0 +1,16 @@
+{
+  "arquivo": "Y6xFcUn9nwA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:44:58.537530",
+  "classificacao": {
+    "estado": "Amazonas",
+    "municipio": "Figueiredo",
+    "especies": [
+      "Matrinxã",
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": []
+  }
+}

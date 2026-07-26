@@ -1,0 +1,28 @@
+{
+  "arquivo": "u9iRf9BZbbY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:52:29.642099",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Curimatã"
+    ],
+    "equipamentos": [
+      "galão",
+      "espinhedos"
+    ],
+    "tecnicas": [
+      "pescaria",
+      "colocar os galão"
+    ],
+    "tipo_pescaria": "pesca com galão",
+    "localizacao": {
+      "rio": "",
+      "bacia_hidrografica": "",
+      "estado": "",
+      "municipio": ""
+    },
+    "cebo": "",
+    "observacoes": ""
+  }
+}

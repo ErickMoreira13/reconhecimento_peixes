@@ -1,0 +1,36 @@
+{
+  "arquivo": "8y4KzoHT_Zk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:35:39.208013",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Mandi",
+      "Tilápia",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "varinha",
+      "anzol",
+      "ferrão",
+      "linha"
+    ],
+    "iscas": [
+      "piaba"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio São Marcos",
+      "Rio Paranaíba"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Uberlândia",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

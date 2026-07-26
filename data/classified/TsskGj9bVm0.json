@@ -1,0 +1,35 @@
+{
+  "arquivo": "TsskGj9bVm0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:25:08.166356",
+  "classificacao": {
+    "especies": [
+      "Minhoca"
+    ],
+    "equipamentos": [
+      "Anzol Octop 2 Barra 0",
+      "Cevadeira",
+      "Piso"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Escada de Minhoca",
+      "Escadinha Padrão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca Diária"
+    ],
+    "observacoes": [
+      "Pode ser usada tanto em pesqueiro quanto em rio"
+    ]
+  }
+}

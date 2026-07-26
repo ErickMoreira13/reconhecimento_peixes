@@ -1,0 +1,28 @@
+{
+  "arquivo": "GblftgjrQpA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:30:08.705554",
+  "classificacao": {
+    "especies": [
+      "Bandeira"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [
+      "Marisco",
+      "Tatuí",
+      "Carnadinho",
+      "Bandeira"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

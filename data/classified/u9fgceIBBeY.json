@@ -1,0 +1,30 @@
+{
+  "arquivo": "u9fgceIBBeY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:52:21.257423",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara",
+      "saquão"
+    ],
+    "iscas": [
+      "Balinha de peixe"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "não apareceu nenhum peixe"
+    ]
+  }
+}

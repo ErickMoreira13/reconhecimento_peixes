@@ -1,0 +1,27 @@
+{
+  "arquivo": "G8eb17kIMTU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:26:41.107891",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha",
+      "Freio",
+      "Galeta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de Rebolear"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica de rebolear com uso do freio e galeta da carretilha"
+    ]
+  }
+}

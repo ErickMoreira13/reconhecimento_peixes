@@ -1,0 +1,24 @@
+{
+  "arquivo": "8oiTd8uCZ0s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:27:10.794013",
+  "classificacao": {
+    "especies": [
+      "Baiacu"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "motor de barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

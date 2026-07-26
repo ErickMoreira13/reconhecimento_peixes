@@ -1,0 +1,27 @@
+{
+  "arquivo": "CfJR2Hn1QfA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:33:31.062809",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Ração de coelho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de anzol com ração"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica simples e fácil de aplicar"
+    ]
+  }
+}

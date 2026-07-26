@@ -1,0 +1,33 @@
+{
+  "arquivo": "-cHKaGhgPX4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:14:48.410155",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Peixe Grande"
+    ],
+    "equipamentos": [
+      "Faca",
+      "Anzol",
+      "Couro de Bacon"
+    ],
+    "iscas": [
+      "Couro de Bacon",
+      "Escada de Bacon"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Preparação da Isca de Couro de Bacon"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Isca eficaz para peixes grandes e fácil de preparar"
+    ]
+  }
+}

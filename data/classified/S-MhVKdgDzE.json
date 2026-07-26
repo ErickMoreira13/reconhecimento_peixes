@@ -1,0 +1,40 @@
+{
+  "arquivo": "S-MhVKdgDzE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:41:48.142837",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Trato",
+      "Anzol",
+      "Linha",
+      "Chumbo",
+      "Varinha"
+    ],
+    "iscas": [
+      "Massinha",
+      "Caranguejo"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Paranaíba"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Uberlândia",
+    "tipo_pesca": [
+      "Pesca em Água Doce"
+    ],
+    "observacoes": []
+  }
+}

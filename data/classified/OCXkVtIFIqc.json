@@ -1,0 +1,35 @@
+{
+  "arquivo": "OCXkVtIFIqc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:26:40.292180",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Rod",
+      "Reel",
+      "Line",
+      "Pliers",
+      "Friction",
+      "String",
+      "Knife"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Grande"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Rio Grande",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Peixe grande (5-7 kg), uso de alicate e canivete, dificuldade em puxar a vara, soltura do peixe após filmagem"
+    ]
+  }
+}

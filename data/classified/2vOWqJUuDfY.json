@@ -1,0 +1,37 @@
+{
+  "arquivo": "2vOWqJUuDfY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:39:47.081182",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra",
+      "Dourado",
+      "Cachorra"
+    ],
+    "equipamentos": [
+      "Yamaha",
+      "Isca artificial de meia água"
+    ],
+    "iscas": [
+      "Isca artificial de meia água"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Recolhimento contínuo",
+      "Toque de ponta de vara"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de predadores"
+    ],
+    "observacoes": [
+      "Uso em água doce e salgada",
+      "Técnica eficiente com toque de ponta de vara"
+    ]
+  }
+}

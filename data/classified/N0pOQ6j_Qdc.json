@@ -1,0 +1,28 @@
+{
+  "arquivo": "N0pOQ6j_Qdc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:20:50.227386",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Agulha",
+      "High-reed",
+      "Lazada"
+    ],
+    "iscas": [
+      "Lombriz"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Atorar",
+      "Jalar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

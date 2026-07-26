@@ -1,0 +1,44 @@
+{
+  "arquivo": "CaX90Y_KFqE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:19:34.628169",
+  "classificacao": {
+    "cevas": [
+      {
+        "tipo": "Ceva Natural",
+        "ingredientes": [
+          {
+            "nome_normalizado": "Arroz",
+            "tipo": "Grão"
+          },
+          {
+            "nome_normalizado": "Milho",
+            "tipo": "Grão"
+          }
+        ]
+      },
+      {
+        "tipo": "Ceva de Partículas",
+        "ingredientes": [
+          {
+            "nome_normalizado": "Arroz",
+            "tipo": "Grão"
+          },
+          {
+            "nome_normalizado": "Milho",
+            "tipo": "Grão"
+          }
+        ]
+      }
+    ],
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Curimba"
+    ],
+    "grãos": [
+      "Arroz",
+      "Milho"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "7JNmLsFObOA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:41:15.528302",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Xeringa"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de isca com xeringa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

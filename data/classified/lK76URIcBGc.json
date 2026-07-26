@@ -1,0 +1,21 @@
+{
+  "arquivo": "lK76URIcBGc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:10:54.794763",
+  "classificacao": {
+    "especies": [
+      "Araguai"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "psuN5i_KPdg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:20:49.997013",
+  "classificacao": {
+    "summary": {
+      "topic": "Preparation of a fishing bait (massinha) for 'pesca do tio Paulo' (Uncle Paulo's fishing)",
+      "ingredients": [
+        "saffron (açafrão)",
+        "flour (farinha)"
+      ],
+      "cooking_process": {
+        "steps": [
+          "Mix saffron with flour to create a dough (massinha)",
+          "Cook the dough until it reaches the right consistency (avoid overcooking to maintain color and texture)",
+          "Lighting affects the final color of the bait (saffron's hue is emphasized under certain light conditions)"
+        ]
+      },
+      "usage": {
+        "target_fish": [
+          "piau",
+          "piapara",
+          "taguara"
+        ],
+        "location": "Castilho, Paraná",
+        "application": "Used as bait for fishing in the region"
+      },
+      "storage": "Proper storage is recommended to maintain the bait's effectiveness"
+    }
+  }
+}

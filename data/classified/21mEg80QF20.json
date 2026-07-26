@@ -1,0 +1,27 @@
+{
+  "arquivo": "21mEg80QF20",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:05:43.496236",
+  "classificacao": {
+    "especies": [
+      "Piracutinga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Vadeio"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de tirar o fôlego"
+    ],
+    "observacoes": [
+      "Um peixe que vai desafiar qualquer mosqueiro brasileiro"
+    ]
+  }
+}

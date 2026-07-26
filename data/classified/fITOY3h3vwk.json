@@ -1,0 +1,30 @@
+{
+  "arquivo": "fITOY3h3vwk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:14:47.274835",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "grilhuevito",
+      "sonho",
+      "galleta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "ajustar o grilhuevito",
+      "mudar o señuelo",
+      "baixar despacito"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "ajustar o grilhuevito para evitar galleta",
+      "mudar o señuelo e ajustar novamente"
+    ]
+  }
+}

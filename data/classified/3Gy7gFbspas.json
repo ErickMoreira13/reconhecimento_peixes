@@ -1,0 +1,34 @@
+{
+  "arquivo": "3Gy7gFbspas",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:58:25.239738",
+  "classificacao": {
+    "especies": [
+      "jatoarana",
+      "piauzinho radioativo",
+      "dourado"
+    ],
+    "isca": [
+      "Bacapopper 75",
+      "Baka Popper 75",
+      "lagartas"
+    ],
+    "localização": "Rondônia",
+    "equipamento": [
+      "vara",
+      "carretilha",
+      "linha"
+    ],
+    "técnicas": [
+      "poupadinhas",
+      "recolhimento contínuo"
+    ],
+    "outros": {
+      "cor_da_isca": [
+        "verde limão",
+        "costinha roxa"
+      ],
+      "tamanho_da_isca": "75"
+    }
+  }
+}

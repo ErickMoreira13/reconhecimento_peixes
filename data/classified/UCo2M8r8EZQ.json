@@ -1,0 +1,64 @@
+{
+  "arquivo": "UCo2M8r8EZQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:20:20.058285",
+  "classificacao": {
+    "summary": {
+      "video_content": {
+        "main_activity": "Preparation of a traditional Brazilian fish stew (ensopado) with pirão de feijão (bean puree), accompanied by social interactions and personal anecdotes.",
+        "key_elements": {
+          "ingredients": [
+            "fish (curvinha)",
+            "onions",
+            "garlic",
+            "tomatoes",
+            "beans",
+            "salt",
+            "pepper",
+            "oil"
+          ],
+          "social_interactions": [
+            "Erivelto taking fish home",
+            "collaboration with others in cooking",
+            "shoutouts to family and friends"
+          ],
+          "cultural_context": "Highlighting traditional Brazilian cuisine and community bonding through food."
+        },
+        "structure": {
+          "introduction": "Greeting and setup of the cooking scene.",
+          "preparation_process": "Step-by-step cooking of the ensopado and pirão de feijão.",
+          "social_elements": "Interactions with others, sharing of food, and personal messages.",
+          "conclusion": "Blessings, thanks, and a call to action for viewers to engage with the content."
+        }
+      },
+      "recipe": {
+        "ensopado": {
+          "steps": [
+            "Clean and cut the fish into pieces.",
+            "Sauté onions, garlic, and tomatoes in oil until softened.",
+            "Add the fish and cook until tender.",
+            "Season with salt, pepper, and other spices as desired."
+          ]
+        },
+        "pirão_de_feijão": {
+          "steps": [
+            "Boil beans until soft.",
+            "Blend the cooked beans with water or broth to create a smooth puree.",
+            "Adjust consistency with additional liquid or seasoning."
+          ]
+        }
+      },
+      "cultural_notes": {
+        "ensopado": "A traditional dish in northeastern Brazil, often made with local fish and served with pirão de feijão.",
+        "pirão_de_feijão": "A thick bean-based sauce or puree, commonly paired with fish or other dishes in the region."
+      },
+      "personal_messages": {
+        "shoutouts": [
+          "To Erivelto for taking fish home",
+          "To family and friends for support"
+        ],
+        "closing": "Gratitude and blessings for the audience, encouraging engagement with the content."
+      }
+    }
+  }
+}

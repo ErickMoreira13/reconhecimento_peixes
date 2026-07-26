@@ -1,0 +1,23 @@
+{
+  "arquivo": "chY6crnh5Uk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:38:09.850340",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe de tamanho gigantesco com marcações de impacto no focinho e próximo ao olho, cabeça inchada e buracos visíveis na região da boca"
+    ]
+  }
+}

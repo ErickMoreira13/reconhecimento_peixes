@@ -1,0 +1,39 @@
+{
+  "arquivo": "3ABjxo8Sulw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:54:15.948093",
+  "classificacao": {
+    "especies": [
+      "Flecha",
+      "Pevão",
+      "Roubalo",
+      "Tainha",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Bateria Estacionária",
+      "Boinha",
+      "Engatado",
+      "Minhoquinha"
+    ],
+    "iscas": [
+      "Boinha",
+      "Minhoquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Tubarão"
+    ],
+    "bacias": [],
+    "estado": "Santa Catarina",
+    "municipio": "Tubarão",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescaria com caiaque",
+      "Parceria com caiaqueiros",
+      "Uso de drone para imagens aéreas"
+    ]
+  }
+}

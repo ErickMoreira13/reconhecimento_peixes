@@ -1,0 +1,27 @@
+{
+  "arquivo": "P08F8AXOLT4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:46:54.420384",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Chumbada",
+      "Linha de flúor",
+      "Anzol encastuado",
+      "Girador com rolamento e amortecedor"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

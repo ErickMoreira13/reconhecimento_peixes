@@ -1,0 +1,27 @@
+{
+  "arquivo": "MzJXs2rQ_KY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:19:53.544835",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "barco"
+    ],
+    "iscas": [
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "Tangará da Serra",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

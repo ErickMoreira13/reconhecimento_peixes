@@ -1,0 +1,42 @@
+{
+  "arquivo": "6mTk7IMZwuQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:38:12.972630",
+  "classificacao": {
+    "species": [
+      "Tucunaré",
+      "Tucunaré Amarelo"
+    ],
+    "equipment": [
+      "Jackbait 8.5 SP",
+      "Rosante 77",
+      "Du International",
+      "Cia Fishing"
+    ],
+    "baits": [
+      "Jackbait",
+      "Rosante"
+    ],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "rolling",
+      "wobbling",
+      "shed"
+    ],
+    "rivers": [
+      "rio Paraná"
+    ],
+    "basins": [
+      "represa do rio Paraná"
+    ],
+    "state": "Tocantins",
+    "municipality": "Palmas",
+    "type_of_fishing": "pesca com iscas artificiais",
+    "observations": [
+      "Jackbait 8.5 SP e Rosante 77 são eficazes em competições como o torneio de Palmas.",
+      "Técnicas como rolling e wobbling são utilizadas com sucesso no rio Paraná e sua represa.",
+      "O uso de iscas artificiais é comum em áreas como a represa do rio Paraná."
+    ]
+  }
+}

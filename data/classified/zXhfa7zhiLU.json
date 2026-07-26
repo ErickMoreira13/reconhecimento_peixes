@@ -1,0 +1,35 @@
+{
+  "arquivo": "zXhfa7zhiLU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:01:43.189163",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Linha",
+      "Super Bonde"
+    ],
+    "iscas": [
+      "Isquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de lambari com anzol e super bonde"
+    ],
+    "rios": [
+      "Siputuba"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "Tangará da Serra",
+    "tipo_pesca": [
+      "Pesca de lambari"
+    ],
+    "observacoes": [
+      "Apenas lambari grandes são capturados"
+    ]
+  }
+}

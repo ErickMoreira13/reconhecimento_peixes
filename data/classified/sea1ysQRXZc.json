@@ -1,0 +1,29 @@
+{
+  "arquivo": "sea1ysQRXZc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:58:46.012277",
+  "classificacao": {
+    "especies": [
+      "Trinalina"
+    ],
+    "equipamentos": [
+      "Comparo",
+      "Boia",
+      "Barco Pesqueiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio da Norte"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Santa Paulina",
+    "tipo_pesca": [
+      "Pesca em Pinhão"
+    ],
+    "observacoes": []
+  }
+}

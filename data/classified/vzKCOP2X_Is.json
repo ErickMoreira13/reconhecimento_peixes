@@ -1,0 +1,42 @@
+{
+  "arquivo": "vzKCOP2X_Is",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T12:53:54.560852",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Chumbada",
+      "Pino de boia",
+      "Girador",
+      "Nó de laçada duplo",
+      "Linha 060",
+      "Nó de estrangulamento",
+      "Anzol tamba",
+      "Anzol 2 barra 0"
+    ],
+    "iscas": [
+      "Milho",
+      "Fígado",
+      "Frutas"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Sistema de pesca com chumbada e girador"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca natural"
+    ],
+    "observacoes": [
+      "Sistema eficaz para pescar tambaquis gigantes"
+    ]
+  }
+}

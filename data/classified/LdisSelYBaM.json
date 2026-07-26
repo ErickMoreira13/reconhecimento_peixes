@@ -1,0 +1,27 @@
+{
+  "arquivo": "LdisSelYBaM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:04:08.780134",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamento": [
+      "hélice"
+    ],
+    "observacoes": [
+      "Ataques pela garateia da frente",
+      "Uso de cabo de aço para evitar afundamento da isca",
+      "Peixes escapando após ataques",
+      "Comportamento dos peixes ao atacar a isca"
+    ],
+    "tempo": "7h20 e 15 minutos",
+    "local": "não especificado",
+    "comentarios": [
+      "Muitos ataques, mas dificuldade em capturar duas de uma vez",
+      "Isca desgastada após uso",
+      "Peixe grande capturado no final",
+      "Comentários sobre a necessidade de mais likes e comentários para o próximo vídeo"
+    ]
+  }
+}

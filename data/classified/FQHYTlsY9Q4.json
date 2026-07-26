@@ -1,0 +1,45 @@
+{
+  "arquivo": "FQHYTlsY9Q4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:42:54.520813",
+  "classificacao": {
+    "species": [
+      "lambari",
+      "agiripoca",
+      "pacu",
+      "piranha",
+      "mandi"
+    ],
+    "equipment": [
+      "varinha",
+      "anzóis",
+      "chumbada",
+      "corrente",
+      "vitão"
+    ],
+    "baits": [
+      "milho",
+      "massa de soja",
+      "pingada"
+    ],
+    "techniques": [
+      "enroscou",
+      "solta",
+      "puxar"
+    ],
+    "location": "rio",
+    "time": "dia 6 de março de 2026",
+    "participants": [
+      "Carlos Herdeiro",
+      "Vanessa",
+      "Ronaldo",
+      "Tarcís",
+      "Marco"
+    ],
+    "activities": [
+      "pescaria",
+      "churrasquinha",
+      "sopá"
+    ]
+  }
+}

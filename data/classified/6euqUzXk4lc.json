@@ -1,0 +1,40 @@
+{
+  "arquivo": "6euqUzXk4lc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T01:00:14.201482",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "vara de bambu",
+      "alicate",
+      "colete",
+      "seringa",
+      "anzão",
+      "faca",
+      "caiaque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "batida",
+      "abatida",
+      "galhada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca de bruto"
+    ],
+    "observacoes": [
+      "uso de colete por segurança durante a pesca",
+      "preparação do peixe para consumo após a captura",
+      "tentativa de captura em diferentes técnicas (batida, galhada)"
+    ]
+  }
+}

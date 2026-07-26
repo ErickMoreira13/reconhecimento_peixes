@@ -1,0 +1,35 @@
+{
+  "arquivo": "XAoplCfbhM0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:43:17.612286",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Cabo de aço",
+      "Vara de batida",
+      "Hélice",
+      "Caiaque",
+      "Alicate",
+      "Bota de caiaque",
+      "Rim"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Amazonas"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

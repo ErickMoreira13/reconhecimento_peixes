@@ -1,0 +1,27 @@
+{
+  "arquivo": "AmTyihqQ7Qo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:03:48.940006",
+  "classificacao": {
+    "especies": [
+      "Guará"
+    ],
+    "equipamentos": [
+      "Mutuca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Atins",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Guarais vermelhos devido à presença de cariodeno e pôr do sol no final do passeio."
+    ]
+  }
+}

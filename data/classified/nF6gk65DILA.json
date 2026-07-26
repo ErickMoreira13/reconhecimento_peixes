@@ -1,0 +1,31 @@
+{
+  "arquivo": "nF6gk65DILA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T10:20:56.624583",
+  "classificacao": {
+    "especies": [
+      "MyFrame",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "caixa",
+      "galão perfurado",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "tubo de PVC perfurado",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "recipiente perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [
+      "rabiola",
+      "tirinha de rabiola"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "64TA-KK0Q_w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:36:55.559101",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "vara de bambu"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Pantanal"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com vara de bambu"
+    ],
+    "observacoes": []
+  }
+}

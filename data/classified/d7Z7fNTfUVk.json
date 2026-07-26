@@ -1,0 +1,29 @@
+{
+  "arquivo": "d7Z7fNTfUVk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:42:32.968777",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Óculos Polarizado"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Uso de Óculos Polarizados"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em Pesqueiro"
+    ],
+    "observacoes": [
+      "Uso de óculos polarizados facilita a visualização de cardumes"
+    ]
+  }
+}

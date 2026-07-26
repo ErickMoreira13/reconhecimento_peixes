@@ -1,0 +1,33 @@
+{
+  "arquivo": "b612xA0jSg4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:43:45.982634",
+  "classificacao": {
+    "summary": "The text is a first-person account of a fishing trip, detailing the setup (short nylon line, lead weight, hook), the process of casting, and the fish caught (bagre and boga). The author reflects on the fishing spot, mentions a competition/giveaway for a tackle organizer, and plans to return for night fishing. Key elements include the use of specific baits, the presence of frogs, and the location's characteristics (e.g., reeds, water depth).",
+    "key_points": {
+      "fishing_techniques": [
+        "Short nylon line (approx. 1 meter)",
+        "Lead weight (plomo pasante)",
+        "Hook and bait setup"
+      ],
+      "fish_caught": [
+        "Bagre",
+        "Boga"
+      ],
+      "location_details": [
+        "Reeds and shallow water",
+        "Presence of frogs",
+        "Suitable for night fishing"
+      ],
+      "additional_info": [
+        "Mention of a competition/giveaway for a tackle organizer",
+        "Plan to return for night fishing"
+      ]
+    },
+    "terms_explained": {
+      "bagre": "A type of catfish commonly found in freshwater",
+      "boga": "A type of fish, possibly a carp or similar species",
+      "plomo pasante": "A sliding lead weight used in fishing to help cast the line"
+    }
+  }
+}

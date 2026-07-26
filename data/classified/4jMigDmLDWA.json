@@ -1,0 +1,55 @@
+{
+  "arquivo": "4jMigDmLDWA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:40:06.398969",
+  "classificacao": {
+    "especies": [
+      "Apapá",
+      "Dourada",
+      "Pirarara",
+      "Piraíba",
+      "Tucunaré",
+      "Garateia",
+      "Bagre",
+      "Caxara",
+      "Bicuda",
+      "Piau",
+      "Mandubé",
+      "Abapá"
+    ],
+    "equipamentos": [
+      "vara de pescar",
+      "tralha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [
+      "Bacia do Araguaia"
+    ],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca de ceva"
+    ],
+    "observacoes": [
+      "preservação ambiental",
+      "libertação de peixes capturados",
+      "importância da conservação dos rios",
+      "respeito à natureza"
+    ]
+  }
+}

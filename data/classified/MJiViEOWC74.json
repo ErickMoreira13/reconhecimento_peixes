@@ -1,0 +1,25 @@
+{
+  "arquivo": "MJiViEOWC74",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:17:35.024963",
+  "classificacao": {
+    "especies": [
+      "Curvininha"
+    ],
+    "equipamentos": [
+      "Molinete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de lançamento com molinete"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

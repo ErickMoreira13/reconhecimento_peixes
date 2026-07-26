@@ -1,0 +1,25 @@
+{
+  "arquivo": "hh2axoFaDwE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:35:07.637775",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Varejão de Bambu"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Vara de Bambu"
+    ],
+    "observacoes": ""
+  }
+}

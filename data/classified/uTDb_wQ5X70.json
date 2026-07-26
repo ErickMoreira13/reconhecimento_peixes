@@ -1,0 +1,25 @@
+{
+  "arquivo": "uTDb_wQ5X70",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:26:30.068184",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Chumbado"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescadeira Raiz"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

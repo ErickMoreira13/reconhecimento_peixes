@@ -1,0 +1,21 @@
+{
+  "arquivo": "IFJtUp8m9j0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:32:05.365522",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tietê"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

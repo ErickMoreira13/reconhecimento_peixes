@@ -1,0 +1,34 @@
+{
+  "arquivo": "8_QbZFS9haQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:10:55.514809",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Colete Salva-vida",
+      "Capa de Chuva",
+      "Faca",
+      "Facão",
+      "Remo com Cordinha",
+      "Mosquetão",
+      "Base da GoPro",
+      "Vara",
+      "Salva-Vara",
+      "Engate Rápido",
+      "Kit Primeiro Socorro",
+      "Cooler",
+      "Gelo",
+      "Garrafinhas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

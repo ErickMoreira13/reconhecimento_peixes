@@ -1,0 +1,36 @@
+{
+  "arquivo": "GgwyLfGp5aU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:48:47.328123",
+  "classificacao": {
+    "species": [
+      "Robalo",
+      "Pescada"
+    ],
+    "equipment": [
+      "Conjunto Ultralight",
+      "Microgig",
+      "Conjunto 14 libras",
+      "Shedzinho",
+      "Sabantinho Rosco",
+      "Bitelo",
+      "Motor",
+      "Balaço",
+      "Âncora",
+      "Embarcação",
+      "Polpa da Embarcação",
+      "Antirrosco",
+      "Microjig"
+    ],
+    "lures": [
+      "Isca GT Shed da Maré",
+      "Camarão",
+      "Shed",
+      "Microjig"
+    ],
+    "other_details": {
+      "lure_weight": "13 grãos (10 gramas)",
+      "fishing_practice": "Release of the fish (conservation practice)"
+    }
+  }
+}

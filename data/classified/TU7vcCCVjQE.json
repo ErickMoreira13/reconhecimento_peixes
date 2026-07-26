@@ -1,0 +1,18 @@
+{
+  "arquivo": "TU7vcCCVjQE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:48:55.725185",
+  "classificacao": {
+    "summary": "O texto descreve uma narrativa casual de alguém que prepara café, discute uma experiência com gastrite, descreve uma jornada de pesca bem-sucedida, e compartilha a preparação de pratos típicos (como 'chilezão' e 'caldinho de peixe com leite de coco'). O relato inclui detalhes sobre o local (piscina, praia), o clima, e interações sociais (envio de mensagens a amigos). O tom é informal, com expressões regionais e uma ênfase na conexão com a natureza e a culinária.",
+    "key_points": [
+      "Preparação de café",
+      "Mencção à gastrite",
+      "Jornada de pesca",
+      "Pratos típicos (chilezão, caldinho de peixe)",
+      "Localização (piscina, praia)",
+      "Interações sociais",
+      "Tom informal e regional"
+    ],
+    "request": "Você deseja uma tradução do texto, uma análise mais detalhada, ou ajuda com algo específico relacionado ao conteúdo?"
+  }
+}

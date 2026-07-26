@@ -1,0 +1,37 @@
+{
+  "arquivo": "dH6-OJ5P-6E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:53:46.912137",
+  "classificacao": {
+    "regiao": "São José dos Dourados",
+    "estado": "Mato Grosso do Sul",
+    "bacia": "Bacia do Paranazão",
+    "rio": "Paranazão",
+    "especies": [
+      "Azulão",
+      "Azurelo",
+      "Piranha",
+      "Amarelão"
+    ],
+    "equipamentos": [
+      "Kayaker Pro",
+      "GoPro",
+      "Motor Mercury 5 HP",
+      "Jig"
+    ],
+    "iscas": [
+      "Gig",
+      "Jig"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [
+      "Pesca em águas abertas",
+      "Pesca com jig"
+    ],
+    "observacoes": [
+      "Participação em torneio virtual Casa Esporte Camp",
+      "Captura de peixes com medidas acima de 50 cm"
+    ]
+  }
+}

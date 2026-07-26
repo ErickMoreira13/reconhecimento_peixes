@@ -1,0 +1,47 @@
+{
+  "arquivo": "5P4zeQsfL-w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:20:08.723085",
+  "classificacao": {
+    "especies": [
+      "Obalo",
+      "Robalo-pérola",
+      "Vermelha",
+      "Raia",
+      "Bocudo"
+    ],
+    "equipamentos": [
+      "Drop",
+      "Linha"
+    ],
+    "iscas": [
+      "Camarão",
+      "Ceva"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Pituaçu"
+    ],
+    "bacias": [],
+    "estado": "Espírito Santo",
+    "municipio": "Nova Viçosa",
+    "tipo_pesca": [
+      "Pesca de Fundo"
+    ],
+    "observacoes": [
+      "Peixes agressivos e difíceis de capturar"
+    ]
+  }
+}

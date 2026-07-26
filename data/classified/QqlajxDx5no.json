@@ -1,0 +1,32 @@
+{
+  "arquivo": "QqlajxDx5no",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:59:58.928456",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piaba"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Vara",
+      "Caixa"
+    ],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fisgada múltipla"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "yD5knli0HZU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:08:58.514717",
+  "classificacao": {
+    "especies": [
+      "Peixinho",
+      "Coara"
+    ],
+    "equipamentos": [
+      "Vara telescópica",
+      "Saco australho",
+      "Boia"
+    ],
+    "iscas": [
+      "Camarão",
+      "Sururu"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnicas": [
+      "Jogar isca",
+      "Usar boia",
+      "Puxar linha"
+    ],
+    "localidades": [
+      "Ilha da Praia do Riacho",
+      "Canal do André"
+    ],
+    "ambiente": "Mar",
+    "tempo": "não especificado"
+  }
+}

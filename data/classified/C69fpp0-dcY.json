@@ -1,0 +1,38 @@
+{
+  "arquivo": "C69fpp0-dcY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:15:56.546292",
+  "classificacao": {
+    "especies": [
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Reel",
+      "Spinning Rod",
+      "Sinker",
+      "Bead",
+      "Float Pin",
+      "Swivel",
+      "Line"
+    ],
+    "iscas": [
+      "Lambari",
+      "Shrimp"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Leader Setup with Swivel and Sinker"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Bottom Fishing"
+    ],
+    "observacoes": [
+      "Using a loose sinker to make it easier for the fish to take the bait and avoid the weight dragging"
+    ]
+  }
+}

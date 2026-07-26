@@ -1,0 +1,38 @@
+{
+  "arquivo": "zd4bGS1xDI0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:08:08.883889",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Zara",
+      "Magic Stick",
+      "Ina 60",
+      "Crank"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalho em Z",
+      "Trabalho de superfície",
+      "Trabalho de meia água",
+      "Recolhimento contínuo",
+      "Chamadinhas"
+    ],
+    "rios": [
+      "Três Marias"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": []
+  }
+}

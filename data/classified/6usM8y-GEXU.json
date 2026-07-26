@@ -1,0 +1,44 @@
+{
+  "arquivo": "6usM8y-GEXU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:43:16.622539",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Mandi",
+      "Curimba",
+      "Peixe de Couro"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Multifilamento",
+      "Monofilamento",
+      "Enrosco",
+      "Molinetes",
+      "Varinha"
+    ],
+    "iscas": [
+      "Gordurinha de Frango",
+      "Massa com Queijo",
+      "Frango com Groselha"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "localização": [
+      "São Lourenço",
+      "Minas"
+    ],
+    "tempo": [
+      "Inverno",
+      "Fim de Tarde"
+    ],
+    "temperatura": [
+      "Muito Frio"
+    ],
+    "observações": [
+      "Peixe não boiando",
+      "Peixe acostumado com massa",
+      "Necessidade de cevada"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "Pob1LO63vNc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:15:22.829841",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Armadilha de garrafa PET"
+    ],
+    "iscas": [
+      "Iscas vivas",
+      "Faralhinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de lambari"
+    ],
+    "observacoes": []
+  }
+}

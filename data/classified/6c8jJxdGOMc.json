@@ -1,0 +1,31 @@
+{
+  "arquivo": "6c8jJxdGOMc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:58:25.065567",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "litro descartável",
+      "faquinha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "soja",
+      "milho"
+    ],
+    "tecnicas": [
+      "fermentação de soja",
+      "uso de recipientes perfurados para ceva"
+    ],
+    "localização": [
+      "rio"
+    ],
+    "outros": []
+  }
+}

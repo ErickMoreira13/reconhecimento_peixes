@@ -1,0 +1,29 @@
+{
+  "arquivo": "PaU8pJlkihw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:59:17.113601",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Espera"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Água suja dificulta a pesca",
+      "Técnica de espera utilizada para tilápia",
+      "Fundos de rios geralmente areia"
+    ]
+  }
+}

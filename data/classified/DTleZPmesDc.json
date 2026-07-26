@@ -1,0 +1,25 @@
+{
+  "arquivo": "DTleZPmesDc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T10:56:50.268706",
+  "classificacao": {
+    "especies": [
+      "azul"
+    ],
+    "equipamentos": [
+      "Gopro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Três Maria",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

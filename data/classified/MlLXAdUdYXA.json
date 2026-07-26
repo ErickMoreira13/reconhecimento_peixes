@@ -1,0 +1,39 @@
+{
+  "arquivo": "MlLXAdUdYXA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:28:36.786362",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Pescador",
+      "Bloco",
+      "Alicate",
+      "Barco"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Artificial",
+      "Coroçado"
+    ],
+    "rios": [
+      "Rio Tapirapé"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Norte",
+    "municipio": "Tupinambá",
+    "tipo_pesca": [
+      "Pesca Artificial"
+    ],
+    "observacoes": [
+      "Aqui no Mato Grosso, a beira do Rio Tapirapé",
+      "Mato Grosso do Norte",
+      "Pegamos uns tucunarezinhos aí pra mostrar pra vocês"
+    ]
+  }
+}

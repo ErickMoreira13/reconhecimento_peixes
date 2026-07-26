@@ -1,0 +1,30 @@
+{
+  "arquivo": "NgHP6ir3RQw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:02:25.513095",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Cevador automático"
+    ],
+    "iscas": [
+      "Coco bacuri",
+      "Suquinho de maracujá",
+      "Saleirinho com sal"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

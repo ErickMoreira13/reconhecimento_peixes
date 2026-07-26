@@ -1,0 +1,34 @@
+{
+  "arquivo": "8Agy2Uxkgog",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:11:15.550100",
+  "classificacao": {
+    "especies": [
+      "Robalo"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Bay Hunter Mino 70",
+      "Iná Pro Tunnel",
+      "Savage",
+      "Raptor Mino",
+      "Raptor Shed",
+      "Rei do Rio",
+      "Brava"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "catimba",
+      "chamadinha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Robalos"
+    ],
+    "observacoes": "As iscas e cores podem variar de local para local e de dia para dia, dependendo de fatores como tábua de maré, pressão barométrica e estações do ano. Recomenda-se buscar conselhos de guias locais e pescadores da região."
+  }
+}

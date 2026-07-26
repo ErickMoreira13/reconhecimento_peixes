@@ -1,0 +1,34 @@
+{
+  "arquivo": "cCiuSaIKGb0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:30:45.675178",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Lambari",
+      "Tabarana",
+      "Mandir",
+      "Cará"
+    ],
+    "equipamentos": [
+      "vara",
+      "molinete",
+      "massa",
+      "chambada"
+    ],
+    "iscas": [
+      "Ração de coelho",
+      "Bichinho de laranja",
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "grãos": [],
+    "localização": [
+      "Silveiro",
+      "Gérsaro"
+    ],
+    "observações": "Pescaria mais calma, sem muita ação. Tilápias não saíram, apenas lambariz e mandir foram capturados."
+  }
+}

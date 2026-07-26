@@ -1,0 +1,25 @@
+{
+  "arquivo": "8n3p6SQ28RI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:17:41.858552",
+  "classificacao": {
+    "especies": [
+      "Capanga"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Branca da capanga"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

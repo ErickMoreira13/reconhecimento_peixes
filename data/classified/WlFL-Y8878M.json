@@ -1,0 +1,38 @@
+{
+  "arquivo": "WlFL-Y8878M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:13:34.361769",
+  "classificacao": {
+    "especies": [
+      "Azulão",
+      "Colherzinha"
+    ],
+    "equipamentos": [
+      "varas",
+      "linhas",
+      "galão perfurado",
+      "anti-rosque"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "enroscar",
+      "trabalhar no macho"
+    ],
+    "rios": [
+      "Paranazão"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Ilha Solteira",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca visual"
+    ],
+    "observacoes": []
+  }
+}

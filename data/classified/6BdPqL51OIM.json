@@ -1,0 +1,38 @@
+{
+  "arquivo": "6BdPqL51OIM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:34:34.084451",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Matrinchã",
+      "Piaba",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Facão",
+      "Pau",
+      "Cave"
+    ],
+    "iscas": [
+      "Serva",
+      "Ração de Cachorro",
+      "Farinha de Trigo"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

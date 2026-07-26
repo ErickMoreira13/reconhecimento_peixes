@@ -1,0 +1,34 @@
+{
+  "arquivo": "YytS_dcRvgw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:54:45.023791",
+  "classificacao": {
+    "Peixe de couro": {
+      "Espécies": [
+        "Pirarara",
+        "Pincaxara",
+        "Cachapira",
+        "Cachara",
+        "Pintado",
+        "Jaús"
+      ],
+      "Equipamento": {
+        "Anzol": [
+          "Super Maroseigo 24",
+          "Super Maroseigo 26",
+          "Super Maroseigo 28",
+          "Circo Rook Mutsu",
+          "Circo Rook número 6 barra 0",
+          "8 barra 0",
+          "10 barra 0",
+          "Live bait 7 barra 0",
+          "12-146-8 barra 0",
+          "12-146-10 barra 0"
+        ],
+        "Isca": [],
+        "Localização": [],
+        "Técnica": []
+      }
+    }
+  }
+}

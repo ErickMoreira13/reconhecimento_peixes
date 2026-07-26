@@ -1,0 +1,39 @@
+{
+  "arquivo": "DHPqAkWS2XE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:54:44.789174",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Scorpion XG 70",
+      "Enzo Premium da Albatross",
+      "Fluor 0,70",
+      "X-Win 17",
+      "Safira",
+      "Abu Garcia",
+      "LX"
+    ],
+    "iscas": [
+      "Slow Shed",
+      "Monster",
+      "Snap da Glico 90 Libra",
+      "verdinha limão"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "localização": [
+      "pousada de iguá",
+      "corredeira"
+    ],
+    "data": [
+      "início de sábado"
+    ],
+    "horário": [],
+    "temperatura": [],
+    "pressão": [],
+    "vento": [],
+    "outras observações": []
+  }
+}

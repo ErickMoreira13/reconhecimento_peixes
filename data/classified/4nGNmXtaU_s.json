@@ -1,0 +1,30 @@
+{
+  "arquivo": "4nGNmXtaU_s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:42:27.292090",
+  "classificacao": {
+    "especies": [
+      "Mudskipper"
+    ],
+    "equipamentos": [
+      "anzuelos"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca manual",
+      "pesca em manguezais"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de peixes anfíbios"
+    ],
+    "observacoes": [
+      "O peixe é semi-anfíbio e sua carne é valorizada nos mercados."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "8e5_LYw9CP8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:13:21.184552",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Zaru",
+      "Frog Life"
+    ],
+    "iscas": [
+      "isquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Guarapiranga"
+    ],
+    "bacias": [
+      "Guará"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

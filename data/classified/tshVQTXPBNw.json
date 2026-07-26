@@ -1,0 +1,24 @@
+{
+  "arquivo": "tshVQTXPBNw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T19:49:20.362070",
+  "classificacao": {
+    "resumen": "El video muestra una experiencia de pesca en un entorno acuático con condiciones específicas, como la presencia de algas y la claridad del agua. El narrador describe el uso de cebo artificial (yerbait) en colores translúcidos y tonos naturales, destacando la importancia de adaptar el cebo al entorno. Menciona la captura de especies como la 'lobina' y el 'tlacuache', y menciona una captura notable de una 'lobina' de gran tamaño, que podría ser un récord. También se detalla el equipo utilizado: una caña de 3.5 metros, línea de 20 libras y un carrete con relación 5:1. Finalmente, el narrador invita a suscriptores para más contenido.",
+    "detalles_clave": {
+      "condiciones_del_agua": "Agua con algas, claridad moderada",
+      "cebo_utilizado": "Yerbait en colores translúcidos y naturales",
+      "especies_capturadas": [
+        "Lobina",
+        "Tlacuache",
+        "Mojarra azul"
+      ],
+      "equipo": {
+        "caña": "3.5 metros",
+        "linea": "20 libras",
+        "carrete": "Relación 5:1"
+      },
+      "captura_destacada": "Lobina de gran tamaño (posible récord)"
+    },
+    "invitacion": "Suscribirse para más contenido de pesca"
+  }
+}

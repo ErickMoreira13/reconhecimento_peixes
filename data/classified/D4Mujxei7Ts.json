@@ -1,0 +1,31 @@
+{
+  "arquivo": "D4Mujxei7Ts",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:41:01.140786",
+  "classificacao": {
+    "summary": {
+      "açaí_preparation": {
+        "method": "Manual grinding using a mortar and pestle",
+        "wood_type": "Avoid cedar to prevent unwanted flavors",
+        "steps": [
+          "Washing the açaí",
+          "Pressing it",
+          "Filtering the pulp"
+        ]
+      },
+      "camping_setup": {
+        "materials_used": "Plastic from a canoe as a cover",
+        "sleeping_arrangement": "Sleeping on the ground with precautions against wildlife",
+        "challenges": "Insects during the night"
+      },
+      "video_conclusion": {
+        "future_plans": "Continuing content creation despite winter challenges"
+      }
+    },
+    "key_takeaways": [
+      "Traditional açaí preparation requires careful material selection and manual effort.",
+      "Camping in the wild involves resourcefulness and attention to safety (e.g., avoiding predators).",
+      "The video highlights both practical skills and the challenges of outdoor living."
+    ]
+  }
+}

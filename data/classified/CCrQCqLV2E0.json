@@ -1,0 +1,37 @@
+{
+  "arquivo": "CCrQCqLV2E0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:31:17.837979",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Jaú",
+      "Pirarara",
+      "Piraíba",
+      "Armado",
+      "Jundiá",
+      "Caixara",
+      "Jalzinho",
+      "Armau Tigre",
+      "Armau Pretão"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Carretilha Croma Big Game",
+      "Manivela de Força",
+      "Linha Multifilamento",
+      "Vexter X8 40 libras",
+      "Líder de Flucar",
+      "Anzol Marcego Venza Número 30"
+    ],
+    "isca": [
+      "Minhoca",
+      "Tuvira"
+    ],
+    "local": [
+      "Rio Telespires",
+      "Telespires Lodge"
+    ],
+    "resultados": "Minhoca 4, Tuvira 2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "4Ep6Yzh2yq0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:35:55.337946",
+  "classificacao": {
+    "especies": [
+      "Corvina",
+      "Pescada"
+    ],
+    "equipamentos": [
+      "Microjig",
+      "Snap",
+      "Suporte hook",
+      "Linha de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com microjig",
+      "Pesca com snap"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": ""
+  }
+}

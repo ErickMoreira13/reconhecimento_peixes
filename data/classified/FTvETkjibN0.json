@@ -1,0 +1,26 @@
+{
+  "arquivo": "FTvETkjibN0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:55:45.491197",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Bariz"
+    ],
+    "iscas": [
+      "Leite",
+      "Carne"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

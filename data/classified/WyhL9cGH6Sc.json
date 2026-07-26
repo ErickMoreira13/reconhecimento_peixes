@@ -1,0 +1,36 @@
+{
+  "arquivo": "WyhL9cGH6Sc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:06:11.311353",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Pacu",
+      "Piau",
+      "Pirarara",
+      "Tambaqui",
+      "Tilápia",
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Arroz",
+      "Canjica",
+      "Milho",
+      "Quirera",
+      "Soja",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

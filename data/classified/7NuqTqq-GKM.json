@@ -1,0 +1,59 @@
+{
+  "arquivo": "7NuqTqq-GKM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:43:13.755059",
+  "classificacao": {
+    "species": [
+      "Piava",
+      "Bigode",
+      "Badejão",
+      "Tábua",
+      "Jundiá",
+      "Milinete",
+      "Cheba"
+    ],
+    "equipment": [
+      "Anzol",
+      "Baldinho",
+      "Capa de Chuva",
+      "Balde",
+      "Galão Perfurado"
+    ],
+    "baits": [
+      "Minhoca",
+      "Isca de Milho"
+    ],
+    "grains": [
+      "Milho",
+      "Soja"
+    ],
+    "cevadas": {
+      "natural": [
+        "Milho"
+      ],
+      "artificial": []
+    },
+    "techniques": [
+      "Pescaria de Noite",
+      "Pescaria de Milinete",
+      "Solta"
+    ],
+    "rivers": [
+      "Sul de Santa Catarina",
+      "Orleans"
+    ],
+    "basins": [],
+    "state": "Santa Catarina",
+    "municipality": "Orleans",
+    "fishing_types": [
+      "Pescaria de Noite",
+      "Pescaria de Milinete"
+    ],
+    "observations": [
+      "Uso de capa de chuva para proteção durante a pesca noturna.",
+      "Emprego de balde e galão perfurado para armazenamento de peixes capturados.",
+      "Prática de solta (liberação) de peixes após a captura.",
+      "Uso de iscas naturais (minhoca) e artificiais (isca de milho)."
+    ]
+  }
+}

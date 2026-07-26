@@ -1,0 +1,14 @@
+{
+  "arquivo": "drM7v_3u_uY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:34:39.957013",
+  "classificacao": {
+    "summary": "O texto descreve uma experiência de pesca em tempo real no rio Cadorzinho, com o uso de iscas artificiais, iscas vivas e armadilhas para peixes. O pesquisador menciona a captura de um peixe chamado 'piau' e a tentativa de capturar um peixe maior, embora não esteja claro se foi bem-sucedido. Há referências a condições climáticas adversas, como chuva, e ao uso de uma armadilha ('viveiro') para peixes. O conteúdo parece ser uma transmissão ao vivo com linguagem informal e repetições, possivelmente devido a distrações ou dificuldades de comunicação.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Explicação sobre técnicas de pesca mencionadas",
+      "Tradução de partes específicas do texto",
+      "Dicas para pesca em condições climáticas adversas"
+    ]
+  }
+}

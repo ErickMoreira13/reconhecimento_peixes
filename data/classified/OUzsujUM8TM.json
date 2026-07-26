@@ -1,0 +1,33 @@
+{
+  "arquivo": "OUzsujUM8TM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:40:40.138308",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Linha 025",
+      "Anzol cristal 12 Marine",
+      "Misanga amarela",
+      "Chumbo arroz",
+      "Girador"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Amarrar anzóis com linha e usar chicote com quatro anzóis"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com misangas"
+    ],
+    "observacoes": [
+      "Até um bebê de 5 meses consegue fazer esse processo"
+    ]
+  }
+}

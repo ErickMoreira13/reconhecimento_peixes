@@ -1,0 +1,35 @@
+{
+  "arquivo": "3oDMwe8KbEE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:12:32.254565",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Piracanjuba"
+    ],
+    "equipamentos": [
+      "molinete",
+      "varinha",
+      "ricari da dyson",
+      "tric júnior"
+    ],
+    "iscas": [
+      "esquinhas",
+      "tric júnior"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "barranco"
+    ],
+    "rivers": [
+      "riozinho"
+    ],
+    "municipality": "Aracruz",
+    "state": "Espírito Santo",
+    "tipo_pesca": [
+      "pescaria de barranco"
+    ],
+    "observacoes": ""
+  }
+}

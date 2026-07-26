@@ -1,0 +1,21 @@
+{
+  "arquivo": "hlRRTKwhdS4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:51:30.914774",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Belo Horizonte",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "arquivo": "kexO4kULIXY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:36:59.321395",
+  "classificacao": {
+    "especies": [
+      "Bicuda",
+      "Sardinha",
+      "Guarajuba",
+      "Skazinha",
+      "Picuda"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Bado",
+      "Vara",
+      "Mulinetto",
+      "Converte",
+      "Linha de Mão"
+    ],
+    "iscas": [
+      "Isca Viva",
+      "Isca de Peixe Grande",
+      "Sardinha Viva"
+    ],
+    "cevas": [],
+    "grains": [],
+    "tecnicas": [
+      "Pescar com Linha",
+      "Linha de Mão",
+      "Método Tradicional"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "tipo_pescaria": [
+      "Pescaria com Linha",
+      "Método Tradicional"
+    ],
+    "observacoes": [
+      "Dia abençoado com muita ação",
+      "Uso de isca viva (sardinha)",
+      "Método tradicional de pesca com linha de mão",
+      "Quantidade significativa de peixe capturado (bicuda)"
+    ]
+  }
+}

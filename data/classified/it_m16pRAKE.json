@@ -1,0 +1,22 @@
+{
+  "arquivo": "it_m16pRAKE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:29:40.805240",
+  "classificacao": {
+    "especies": [
+      "Jiboia",
+      "Tartaruga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

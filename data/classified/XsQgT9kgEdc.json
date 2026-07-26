@@ -1,0 +1,22 @@
+{
+  "arquivo": "XsQgT9kgEdc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:22:23.220496",
+  "classificacao": {
+    "resumo": {
+      "escolha_do_local": {
+        "vegetacao": "Escolha locais com vegetação densa, como juncos e gramíneas, que oferecem abrigo e alimento para a tilápia.",
+        "profundidade": "Prefira áreas com profundidade de cerca de 2 metros, onde a tilápia se sente mais segura e encontra alimento abundante."
+      },
+      "evitacao_de_predadores": "Evite áreas com predadores como lontras, que podem ameaçar a tilápia e reduzir a eficácia da pesca.",
+      "isca": {
+        "tipos": "Use iscas como mandioca e milho estragado, que atraem a tilápia devido ao seu cheiro e sabor.",
+        "manutencao": "Reponha a isca a cada três dias para manter o interesse dos peixes e garantir uma captura contínua."
+      },
+      "especies_de_tilapia": {
+        "tilapia_nilo": "A tilápia do Nilo prefere iscas mais ricas em proteínas, como camarão ou carne de peixe.",
+        "tilapia_vermelha": "A tilápia vermelha é atraída por iscas vegetais, como folhas de alface ou frutas em decomposição."
+      }
+    }
+  }
+}

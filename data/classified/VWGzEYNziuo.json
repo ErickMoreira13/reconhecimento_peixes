@@ -1,0 +1,37 @@
+{
+  "arquivo": "VWGzEYNziuo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:28:28.445493",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra",
+      "Turcunara"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Tampa Perfurada",
+      "Celular"
+    ],
+    "iscas": [
+      "Lambari Vivo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca Viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Traíra",
+      "Pesca de Turcunara"
+    ],
+    "observacoes": [
+      "Lambari morre fácil",
+      "Necessário colocar o peixe na água para manter fresco"
+    ]
+  }
+}

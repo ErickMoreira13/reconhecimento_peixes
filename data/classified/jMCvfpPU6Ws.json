@@ -1,0 +1,38 @@
+{
+  "arquivo": "jMCvfpPU6Ws",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:08:38.769623",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Traíra",
+      "Lambari",
+      "Matrincha",
+      "Cachara",
+      "Caixara"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Caiaque",
+      "Mochila",
+      "Lona",
+      "Panela",
+      "Forquinha",
+      "Lamparinha",
+      "Motor",
+      "Varinha",
+      "Isca Artificial"
+    ],
+    "iscas": [
+      "Turvinha",
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "lugar": "Rio do Peixe",
+    "tempo": "Manhã",
+    "tipo_de_pesca": "Pesca de fundo",
+    "dificuldade": "Média",
+    "observacoes": "A pesca foi realizada em águas profundas com uso de iscas artificiais e turvinhas."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "MkriNBg5rDk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:18:09.751756",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "offset",
+      "isca soft",
+      "don't shot"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jatapur"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Ribeirão Preto",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

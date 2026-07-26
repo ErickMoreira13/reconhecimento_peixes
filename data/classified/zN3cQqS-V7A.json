@@ -1,0 +1,42 @@
+{
+  "arquivo": "zN3cQqS-V7A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:37:11.025227",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piapara",
+      "Carpa",
+      "Tilapão"
+    ],
+    "equipamentos": [
+      "Panela de pressão",
+      "Balde",
+      "Bambuzinho",
+      "Linha"
+    ],
+    "iscas": [
+      "Milho",
+      "Leite americano"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca com ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

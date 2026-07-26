@@ -1,0 +1,24 @@
+{
+  "arquivo": "QOos8Vc0ccs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:55:26.906431",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "massinha",
+      "ração de coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

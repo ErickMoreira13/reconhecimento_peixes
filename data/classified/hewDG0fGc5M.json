@@ -1,0 +1,29 @@
+{
+  "arquivo": "hewDG0fGc5M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:21:58.546493",
+  "classificacao": {
+    "especies": [
+      "Bonito"
+    ],
+    "equipamentos": [
+      "Monilete",
+      "Vinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jogar monilete"
+    ],
+    "rios": [
+      "Rio",
+      "Rio Dirce"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

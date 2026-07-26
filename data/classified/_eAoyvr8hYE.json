@@ -1,0 +1,26 @@
+{
+  "arquivo": "_eAoyvr8hYE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:57:12.332641",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tietê"
+    ],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "Campos dos Goitacazes",
+    "tipo_pesca": [
+      "Subsistência",
+      "Comercial"
+    ],
+    "observacoes": []
+  }
+}

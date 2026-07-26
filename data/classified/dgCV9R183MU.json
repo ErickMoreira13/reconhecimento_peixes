@@ -1,0 +1,40 @@
+{
+  "arquivo": "dgCV9R183MU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:52:38.904310",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Bagre"
+    ],
+    "equipamentos": [
+      "Carreteiro",
+      "Barco",
+      "Tralhas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Detalhes",
+      "Abarrantando"
+    ],
+    "rios": [
+      "Rio Uruguai"
+    ],
+    "bacias": [
+      "Bacia do Rio Uruguai"
+    ],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Porto Mauá",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Detalhes"
+    ],
+    "observacoes": [
+      "Menciona temporal",
+      "Localização na divisa Brasil-Argentina",
+      "Colaboração com Cassiano Hans"
+    ]
+  }
+}

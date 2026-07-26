@@ -1,0 +1,22 @@
+{
+  "arquivo": "9GWw4NnBLhg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:41:22.363244",
+  "classificacao": {
+    "especies": [
+      "Urubu dos Mares",
+      "Pema"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "arquivo": "AHGItouB364",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:45:21.936047",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha",
+      "Anzol",
+      "Isca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Pescaria em corredeira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Aquidauana",
+    "tipo_pesca": [
+      "Pesca de Dourado",
+      "Pesca de Arremesso"
+    ],
+    "observacoes": [
+      "O peixe escapou após a captura. A persistência foi necessária para capturar o dourado. O peixe foi solto após a captura."
+    ]
+  }
+}

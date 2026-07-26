@@ -1,0 +1,38 @@
+{
+  "arquivo": "qXATXfPd_4A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:35:15.414284",
+  "classificacao": {
+    "especies": [
+      "Tabarana",
+      "Pirarara",
+      "Arva"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Cabeleiro",
+      "Galão Perfurado"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Fisgada",
+      "Recolhimento",
+      "Abaixar a Vara",
+      "Deixar Descer"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

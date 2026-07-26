@@ -1,0 +1,23 @@
+{
+  "arquivo": "bUBdzMMsyFk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:37:06.046923",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carritilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Becco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

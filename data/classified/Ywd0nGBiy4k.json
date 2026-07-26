@@ -1,0 +1,28 @@
+{
+  "arquivo": "Ywd0nGBiy4k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:32:08.967975",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "barcos",
+      "lanchonas",
+      "escada",
+      "rego",
+      "régua"
+    ],
+    "graos": [],
+    "cevas": [],
+    "tecnicas": [
+      "isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Três Marias",
+    "tipo_pesca": "pesca esportiva",
+    "observacoes": ""
+  }
+}

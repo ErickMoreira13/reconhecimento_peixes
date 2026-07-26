@@ -1,0 +1,36 @@
+{
+  "arquivo": "7vpChNgxGbw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:04:17.540961",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Tartaruga"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [
+      "Ração de Coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescar com Ração de Coelho",
+      "Encaixado"
+    ],
+    "rios": [
+      "Rio Piracicaba"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Piracicaba",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Quesol (mostarda e número seis da Noruega)"
+    ]
+  }
+}

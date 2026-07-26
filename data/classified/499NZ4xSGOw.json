@@ -1,0 +1,41 @@
+{
+  "arquivo": "499NZ4xSGOw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:32:09.530072",
+  "classificacao": {
+    "especies": [
+      "Conaré mirim",
+      "Pinhaba"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Garrafa",
+      "Ispa",
+      "Caixa",
+      "Cocho"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial",
+      "Mergulhar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com ceva",
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de garrafa como isca",
+      "Presença de jararaca"
+    ]
+  }
+}

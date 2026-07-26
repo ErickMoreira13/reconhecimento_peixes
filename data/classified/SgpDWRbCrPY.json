@@ -1,0 +1,38 @@
+{
+  "arquivo": "SgpDWRbCrPY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:01:23.472987",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Linha mono",
+      "Ozol"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Canal"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de lambari"
+    ],
+    "observacoes": [
+      "Água suja devido à chuva",
+      "Chuva afeta comportamento dos peixes",
+      "Milho verde não é eficaz nesse local",
+      "Sugestão de uso de minhoca como isca"
+    ]
+  }
+}

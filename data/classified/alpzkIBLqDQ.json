@@ -1,0 +1,24 @@
+{
+  "arquivo": "alpzkIBLqDQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:00:22.325242",
+  "classificacao": {
+    "especies": [
+      "Jaú",
+      "Caixara",
+      "Jurupe",
+      "Jurupoca"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

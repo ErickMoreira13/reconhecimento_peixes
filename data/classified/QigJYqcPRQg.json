@@ -1,0 +1,35 @@
+{
+  "arquivo": "QigJYqcPRQg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:38:16.563018",
+  "classificacao": {
+    "species": [
+      "sardinha",
+      "caranguejo",
+      "pescado",
+      "babão",
+      "surubim",
+      "jaú"
+    ],
+    "equipamentos": [
+      "molinete",
+      "canoa",
+      "barcos"
+    ],
+    "iscas": [
+      "minhoca"
+    ],
+    "cevas": [
+      "molinete vazio de minhoca"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Mamoré"
+    ],
+    "bacias": [],
+    "estado": "Rondônia",
+    "municipio": "Guajaramirim",
+    "tipo_pesca": []
+  }
+}

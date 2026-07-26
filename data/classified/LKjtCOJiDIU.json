@@ -1,0 +1,30 @@
+{
+  "arquivo": "LKjtCOJiDIU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:11:41.105428",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Tambaqui",
+      "Pintado",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Balança",
+      "Caixas de Transporte"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

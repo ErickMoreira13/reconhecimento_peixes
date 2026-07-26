@@ -1,0 +1,34 @@
+{
+  "arquivo": "uatxS6fQ6IE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:12:49.700640",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Quirera"
+    ],
+    "tecnicas": [
+      "Pescaria de Espera"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Panorama",
+    "tipo_pesca": [
+      "Pescaria de Espera"
+    ],
+    "observacoes": [
+      "O Piau é um peixe onívoro que se alimenta de diversos tipos de alimentos, incluindo sementes, capim, insetos, massa e minhoca. A ceva com extratos azedos é importante para atrair o peixe, que depende do olfato para localizar a presa."
+    ]
+  }
+}

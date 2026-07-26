@@ -1,0 +1,56 @@
+{
+  "arquivo": "M5Reg0zQykM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:49:28.640513",
+  "classificacao": {
+    "species": [
+      "tucunaré",
+      "azulzão",
+      "bedelão",
+      "traíra",
+      "gigão"
+    ],
+    "equipment": [
+      "barco",
+      "jet ski",
+      "casinha",
+      "imã",
+      "régua",
+      "trator"
+    ],
+    "baits": [
+      "isca"
+    ],
+    "cevas": [
+      "ceva de partículas"
+    ],
+    "grains": [
+      "milho",
+      "soja",
+      "trigo",
+      "arroz",
+      "quirera",
+      "canjica",
+      "sorgo",
+      "aveia",
+      "ervilha",
+      "feijão",
+      "amendoim",
+      "girassol",
+      "alpiste",
+      "linhaça"
+    ],
+    "techniques": [
+      "caveia"
+    ],
+    "rios": [
+      "represa de nova ponte"
+    ],
+    "bacias": [
+      "represa de nova ponte"
+    ],
+    "estado": "minas gerais",
+    "municipio": "nova ponte",
+    "tipo_pesca": "pesca esportiva"
+  }
+}

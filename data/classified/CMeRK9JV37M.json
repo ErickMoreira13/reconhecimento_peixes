@@ -1,0 +1,45 @@
+{
+  "arquivo": "CMeRK9JV37M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:44:54.341445",
+  "classificacao": {
+    "Pescado": [
+      "peixe bom",
+      "peixe graúdo",
+      "peixe de tamanho do tamanho do tamanho do tamanho desse animal",
+      "peixe bonito",
+      "peixe de 3 a 4 quilos",
+      "peixe de fossa",
+      "tamba",
+      "Pacu",
+      "Pacuzinho",
+      "piranha"
+    ],
+    "Técnicas de Pesca": [
+      "sangrar o peixe",
+      "dando sangria",
+      "cortar",
+      "furar",
+      "varando a malha",
+      "engatado",
+      "fechar no jeito de novo",
+      "bodeco",
+      "molhadeira",
+      "puxar a vara",
+      "solta o peixe"
+    ],
+    "Equipamentos": [
+      "cana",
+      "vara",
+      "malha",
+      "facinha",
+      "molhadeira",
+      "filé"
+    ],
+    "Localização": [
+      "lago do tartaruga",
+      "rio ilho",
+      "lago"
+    ]
+  }
+}

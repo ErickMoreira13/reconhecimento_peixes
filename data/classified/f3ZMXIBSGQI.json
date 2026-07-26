@@ -1,0 +1,30 @@
+{
+  "arquivo": "f3ZMXIBSGQI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:00:52.927100",
+  "classificacao": {
+    "especies": [
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Assado",
+      "Passagor",
+      "Picô"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "4 kg",
+      "o assado",
+      "vira para cá",
+      "a cabeça tá lá no passo"
+    ]
+  }
+}

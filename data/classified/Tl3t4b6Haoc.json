@@ -1,0 +1,31 @@
+{
+  "arquivo": "Tl3t4b6Haoc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:07:25.834541",
+  "classificacao": {
+    "especies": [
+      "Enchoveta",
+      "Anchova"
+    ],
+    "equipamentos": [
+      "Garaté",
+      "Sport Hook",
+      "Snap",
+      "Fio",
+      "Argola",
+      "Chumbo",
+      "Jumping Jig"
+    ],
+    "iscas": [
+      "Isca de Fundo",
+      "Isquinha",
+      "Garaté",
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "grandeza": "",
+    "localizacao": "Ponte da Cabeçuda"
+  }
+}

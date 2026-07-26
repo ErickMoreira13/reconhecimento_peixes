@@ -1,0 +1,50 @@
+{
+  "arquivo": "qKekfSNK9A0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:41:49.820759",
+  "classificacao": {
+    "espécies": [
+      "Lota do Rio",
+      "peixe gato",
+      "perca",
+      "truta marrom",
+      "Brema",
+      "esturjão",
+      "truta cinzenta",
+      "bacalhau",
+      "escamudo",
+      "linguado",
+      "Savel",
+      "Halibut",
+      "Haddock",
+      "Salmão",
+      "enguia",
+      "Cantarilho",
+      "Cavalinha",
+      "Pescada",
+      "Truta do Ártico"
+    ],
+    "localização": [
+      "Essex",
+      "Kent",
+      "Hampshire",
+      "Gloucestershire",
+      "Lincolnshire",
+      "Farnberg",
+      "Noruega"
+    ],
+    "técnicas": [
+      "uso de barco pequeno",
+      "alternância entre dia e noite",
+      "uso do 'olho de Odin' (possivelmente uma técnica específica)"
+    ],
+    "equipamentos": [
+      "barco pequeno"
+    ],
+    "observações": [
+      "algumas espécies são encontradas em rios ou no mar",
+      "certas espécies aparecem durante o dia e não à noite, e vice-versa",
+      "a localização e o comportamento dos peixes variam conforme a região"
+    ]
+  }
+}

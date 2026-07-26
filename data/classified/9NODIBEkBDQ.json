@@ -1,0 +1,48 @@
+{
+  "arquivo": "9NODIBEkBDQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:45:20.831319",
+  "classificacao": {
+    "especies": [
+      "flechinha",
+      "triquinho",
+      "pevo",
+      "peva",
+      "robalo",
+      "sepia",
+      "naca",
+      "pevinho"
+    ],
+    "equipamento": [
+      "barquinho",
+      "lãpada",
+      "canivete",
+      "viveiro",
+      "cavalo"
+    ],
+    "isca": [
+      "camarãozinho roxo",
+      "gighead",
+      "RR Giggs"
+    ],
+    "localização": [
+      "rio",
+      "mangue",
+      "ponto novo"
+    ],
+    "tempo": [
+      "inverno"
+    ],
+    "comentários": [
+      "dificuldade em pescar",
+      "poucos peixes pescados",
+      "libertação de peixes"
+    ],
+    "outros": [
+      "Instagram",
+      "solução",
+      "vivo",
+      "like"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "P7XeebR54g4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:56:59.689268",
+  "classificacao": {
+    "especies": [
+      "Tamuatá"
+    ],
+    "equipamentos": [
+      "martelo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

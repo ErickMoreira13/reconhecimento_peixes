@@ -1,0 +1,26 @@
+{
+  "arquivo": "rW9TKiOJ4c0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:36:25.376198",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "azol",
+      "linha elástica"
+    ],
+    "iscas": [
+      "ração de coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

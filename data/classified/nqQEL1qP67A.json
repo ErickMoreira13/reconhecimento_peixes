@@ -1,0 +1,30 @@
+{
+  "arquivo": "nqQEL1qP67A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:23:02.010042",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Arpão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca noturna",
+      "Pesca de arpão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca noturna",
+      "Pesca de arpão"
+    ],
+    "observacoes": [
+      "Espécie não identificada",
+      "Foco na técnica de pesca noturna com arpão"
+    ]
+  }
+}

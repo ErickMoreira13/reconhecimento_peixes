@@ -1,0 +1,33 @@
+{
+  "arquivo": "HS-9dluXcdU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:12:08.391201",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Vara Esparta",
+      "Carretilha V73 Albatross Fischer",
+      "Multifilamento 047 Albatross Fischer",
+      "Girador"
+    ],
+    "iscas": [
+      "Miçanguinha",
+      "EVA"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Campo Magro",
+    "tipo_pesca": [
+      "Pesca de Fundo"
+    ],
+    "observacoes": []
+  }
+}

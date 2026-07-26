@@ -1,0 +1,49 @@
+{
+  "arquivo": "x_czgCsgRNM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:33:09.628574",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Carpa",
+      "Pacu",
+      "Tuvira",
+      "Cascudo"
+    ],
+    "equipamentos": [
+      "Pescas Sub",
+      "Paulada",
+      "Linha"
+    ],
+    "iscas": [
+      "Linguiça Campeira",
+      "Churrascão",
+      "Sinuca",
+      "Carpinhas"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescas Sub",
+      "Paulada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Sub",
+      "Pescaria"
+    ],
+    "observacoes": [
+      "Nenhum peixe capturado",
+      "Congestão no rio",
+      "Dor de cabeça",
+      "Frio intenso",
+      "Encontro com polícia rodoviária"
+    ]
+  }
+}

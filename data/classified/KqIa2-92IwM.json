@@ -1,0 +1,47 @@
+{
+  "arquivo": "KqIa2-92IwM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:03:02.645925",
+  "classificacao": {
+    "especies": [
+      "piau",
+      "piaba",
+      "lambari",
+      "troto",
+      "garrancho",
+      "chascada"
+    ],
+    "equipamentos": [
+      "varinha telescópica",
+      "mulinetinho",
+      "gaia",
+      "gainha",
+      "pangue",
+      "varão",
+      "gaiado",
+      "corinho",
+      "beijo",
+      "chafabelão"
+    ],
+    "cevas": [
+      "calabresa"
+    ],
+    "iscas": [
+      "maruzeigo",
+      "chinuzinho",
+      "gainha",
+      "gaia",
+      "pangue",
+      "corinho",
+      "beijo",
+      "chafabelão"
+    ],
+    "local": [
+      "córrego",
+      "poço"
+    ],
+    "tempo": [
+      "finalzinho de tarde"
+    ]
+  }
+}

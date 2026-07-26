@@ -1,0 +1,28 @@
+{
+  "arquivo": "7_GAJrea6c4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:25:46.764593",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Caixa",
+      "Espada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de 12 horas no cascalho",
+      "Hibertioga noturna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de 12 horas",
+      "Hibertioga"
+    ],
+    "observacoes": []
+  }
+}

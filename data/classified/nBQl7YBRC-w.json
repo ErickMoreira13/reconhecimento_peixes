@@ -1,0 +1,77 @@
+{
+  "arquivo": "nBQl7YBRC-w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:28:34.509955",
+  "classificacao": {
+    "especies": [
+      "cascudo",
+      "traíra",
+      "carazinho da terra",
+      "trabuçu",
+      "carapitinga",
+      "tilápia",
+      "dedé",
+      "lombondelo",
+      "piranha de mão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": {
+      "Ceva Natural": [
+        "milho",
+        "soja",
+        "trigo",
+        "arroz",
+        "quirera",
+        "canjica",
+        "grãos naturais"
+      ],
+      "Ceva Proteica": [
+        "ração",
+        "farinha de peixe",
+        "farelo de soja",
+        "farelos em geral",
+        "proteína animal"
+      ],
+      "Ceva de Partículas": [
+        "galão perfurado",
+        "saco de ráfia",
+        "saco furado",
+        "saco telado",
+        "saco de cebola",
+        "tubo de PVC perfurado",
+        "cano de PVC perfurado",
+        "balde perfurado",
+        "recipiente perfurado",
+        "cocho perfurado"
+      ]
+    },
+    "graos": [
+      "milho",
+      "soja",
+      "trigo",
+      "arroz",
+      "quirera",
+      "canjica"
+    ],
+    "tecnicas": [
+      "pescaria de mão",
+      "pescaria de mão velho",
+      "pegando bodol",
+      "pegando cascudo",
+      "pegando traíra",
+      "pegando carazinho da terra",
+      "pegando trabuçu",
+      "pegando carapitinga",
+      "pegando tilápia",
+      "pegando dedé",
+      "pegando lombondelo",
+      "pegando piranha de mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "pescaria de mão"
+  }
+}

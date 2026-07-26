@@ -1,0 +1,21 @@
+{
+  "arquivo": "3tQy2fs3wb8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:24:44.678091",
+  "classificacao": {
+    "especies": [
+      "Black Eagle"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

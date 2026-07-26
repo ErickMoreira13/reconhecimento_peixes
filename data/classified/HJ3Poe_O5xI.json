@@ -1,0 +1,33 @@
+{
+  "arquivo": "HJ3Poe_O5xI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:47:34.178487",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Gaiolas"
+    ],
+    "iscas": [
+      "Cuscuz amarelo"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Uso de gaiolas"
+    ],
+    "rios": [
+      "Sobradinho"
+    ],
+    "bacias": [],
+    "estado": "Bahia",
+    "municipio": "Sobradinho",
+    "tipo_pesca": [
+      "Pesca com gaiolas"
+    ],
+    "observacoes": [
+      "O pescador não se molhou"
+    ]
+  }
+}

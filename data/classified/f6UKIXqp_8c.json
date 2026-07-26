@@ -1,0 +1,37 @@
+{
+  "arquivo": "f6UKIXqp_8c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:02:16.770084",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Bruto"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Carretilha",
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Calibrar linha"
+    ],
+    "rios": [
+      "Rio da Bala",
+      "Iriri"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de diesel para abastecer o carro",
+      "Menciona 'farofre' como alimento"
+    ]
+  }
+}

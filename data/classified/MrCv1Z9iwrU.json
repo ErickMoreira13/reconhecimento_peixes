@@ -1,0 +1,21 @@
+{
+  "arquivo": "MrCv1Z9iwrU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:02:46.639319",
+  "classificacao": {
+    "especies": [
+      "Cupim"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

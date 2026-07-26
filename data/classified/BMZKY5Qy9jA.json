@@ -1,0 +1,23 @@
+{
+  "arquivo": "BMZKY5Qy9jA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:28:12.025816",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Alicate de proteção"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

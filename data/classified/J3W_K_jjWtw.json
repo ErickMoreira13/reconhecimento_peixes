@@ -1,0 +1,25 @@
+{
+  "arquivo": "J3W_K_jjWtw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:38:10.649432",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Cabo de aço",
+      "Alicate de bicolunga",
+      "Linha de quatro fios"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

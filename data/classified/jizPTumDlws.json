@@ -1,0 +1,31 @@
+{
+  "arquivo": "jizPTumDlws",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:04:22.810753",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Motor",
+      "Artificial"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Artificial"
+    ],
+    "rios": [
+      "Rio Tapirapé"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

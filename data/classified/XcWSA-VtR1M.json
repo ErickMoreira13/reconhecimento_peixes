@@ -1,0 +1,32 @@
+{
+  "arquivo": "XcWSA-VtR1M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:46:42.972760",
+  "classificacao": {
+    "especies": [
+      "Tabarana",
+      "Curimba",
+      "Passaguá"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Votorantim",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "A tabarana é um peixe protegido por lei",
+      "Várias tabaranas escaparam durante a pescaria",
+      "A curimba foi solta após a captura",
+      "O passaguá foi solto após a captura"
+    ]
+  }
+}

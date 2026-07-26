@@ -1,0 +1,46 @@
+{
+  "arquivo": "ywBEY6rzoNE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:31:50.675511",
+  "classificacao": {
+    "especies": [
+      "Profiche",
+      "Truta"
+    ],
+    "equipamentos": [
+      "Molinete",
+      "Cavaletos"
+    ],
+    "iscas": [
+      "Carabinho",
+      "Ranguinho",
+      "Bagra"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Descida"
+    ],
+    "rios": [
+      "Itapocu",
+      "Eliazinha"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O local é muito bonito",
+      "A descida do rio é desafiadora",
+      "Foram capturados um profiche e um truta",
+      "O grupo planeja explorar a ponta do Três do Sul",
+      "Há uma descida pela frente",
+      "Os cavaletos serão usados para as câmeras",
+      "Foram feitos alguns arremessos",
+      "O objetivo foi conhecer o trecho do rio"
+    ]
+  }
+}

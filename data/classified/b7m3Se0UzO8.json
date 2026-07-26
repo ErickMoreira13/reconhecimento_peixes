@@ -1,0 +1,21 @@
+{
+  "arquivo": "b7m3Se0UzO8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:45:02.964274",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Mandolim"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

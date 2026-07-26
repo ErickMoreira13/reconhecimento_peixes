@@ -1,0 +1,31 @@
+{
+  "arquivo": "yzyK3QtnxAk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:55:58.514211",
+  "classificacao": {
+    "especies": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "equipamentos": [
+      "Frasco",
+      "Anzol"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Técnica de cura com vinagre"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "arquivo": "sDFt51Jra9M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:57:48.115086",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Tomada de Linha",
+      "Espial"
+    ],
+    "iscas": [
+      "Milho",
+      "Canjica"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Tomada de Linha"
+    ],
+    "rios": [
+      "Rio Feio"
+    ],
+    "bacias": [
+      "Paranazão"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Piau de tamanho considerável (um palmo e meio)",
+      "Uso de anzol duplo",
+      "Localização no Rio Feio",
+      "Método de pesca com ceva em recipiente perfurado"
+    ]
+  }
+}

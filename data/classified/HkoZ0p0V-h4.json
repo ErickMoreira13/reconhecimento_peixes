@@ -1,0 +1,64 @@
+{
+  "arquivo": "HkoZ0p0V-h4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:49:23.700808",
+  "classificacao": {
+    "species": [
+      "bagaceira",
+      "tilapia",
+      "traíra",
+      "piaba",
+      "tilapinha"
+    ],
+    "equipment": [
+      "rede",
+      "morgueira",
+      "caixa",
+      "fundo",
+      "ponta"
+    ],
+    "baits": {
+      "grains": [
+        "milho",
+        "soja",
+        "trigo",
+        "arroz",
+        "quirera",
+        "canjica"
+      ],
+      "aromatic": [
+        "essências",
+        "atrativos líquidos"
+      ]
+    },
+    "cevas": {
+      "particle": [
+        "galão perfurado",
+        "saco furado",
+        "cocho perfurado"
+      ],
+      "protein": [
+        "ração",
+        "farelo de soja"
+      ]
+    },
+    "techniques": [
+      "uso de rede",
+      "uso de morgueira",
+      "curvar o peixe",
+      "fechar a rede",
+      "puxar o peixe"
+    ],
+    "rivers": [],
+    "basins": [],
+    "state": "",
+    "municipality": "",
+    "type_of_fishing": "pesca esportiva",
+    "observations": [
+      "tamanho dos peixes (ex.: 'grande', 'pequeno')",
+      "dificuldade em manusear peixes grandes",
+      "uso de diferentes iscas e técnicas",
+      "referência a 'água quente' e 'furo na furadeira' (possivelmente observações sobre condições ambientais ou equipamentos)"
+    ]
+  }
+}

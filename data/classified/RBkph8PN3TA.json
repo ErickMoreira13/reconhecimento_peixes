@@ -1,0 +1,15 @@
+{
+  "arquivo": "RBkph8PN3TA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:02:46.184679",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo de pesca no qual o narrador compartilha sua experiência capturando piranhas e um tucunaré em uma região selvagem, provavelmente na Amazônia. Ele descreve o processo de pesca, a interação com outros participantes (como Daniel e Josias), a preparação dos peixes para consumo e a convite aos espectadores para se inscreverem no canal. O conteúdo é informal, repleto de gírias e detalhes sobre técnicas de pesca, localização e interação com a audiência.",
+    "possible_requests": [
+      "Resumo do conteúdo",
+      "Tradução do texto",
+      "Dicas para criar vídeos de pesca",
+      "Estratégias para aumentar engajamento no canal",
+      "Análise do conteúdo para melhorias"
+    ]
+  }
+}

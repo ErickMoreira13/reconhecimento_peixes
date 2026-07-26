@@ -1,0 +1,24 @@
+{
+  "arquivo": "s8obRfgiQqA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:56:42.516110",
+  "classificacao": {
+    "especie": [
+      "carazinha",
+      "acarai",
+      "furubinho"
+    ],
+    "equipamento": [
+      "garrafas de PET",
+      "linha",
+      "anzol",
+      "castor",
+      "carazinha (isca)"
+    ],
+    "tecnica": "uso de boia louca com garrafas de PET e isca de carazinha",
+    "local": "não informado",
+    "data": "05/09/2023",
+    "hora": "15:00",
+    "observacao": "montagem de boia louca com garrafas de PET, uso de carazinha como isca, menção a dificuldade em pescar acarai e furubinho, e indicação de que a técnica foi testada no dia 5 de setembro às 15h."
+  }
+}

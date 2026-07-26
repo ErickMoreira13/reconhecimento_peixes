@@ -1,0 +1,29 @@
+{
+  "arquivo": "dFo_OA6NNQM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:51:58.942912",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca em Maré Alta",
+      "Pesca em Maré Baixa",
+      "Pesca sob Influência da Lua Cheia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Praia"
+    ],
+    "observacoes": [
+      "A lua cheia influencia o metabolismo dos peixes, tornando-os mais ativos durante o dia e a noite.",
+      "A maré alta e baixa afeta a localização e a atividade dos peixes.",
+      "A pesca durante a maré morta pode ser mais eficaz em áreas com correntes ou obstáculos."
+    ]
+  }
+}

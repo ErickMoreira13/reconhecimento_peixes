@@ -1,0 +1,30 @@
+{
+  "arquivo": "s65ygLLYTrE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T11:55:20.738725",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Traíra",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Hélice",
+      "Carretilha",
+      "Remo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "arquivo": "YlOUmFpCDRM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:18:18.322434",
+  "classificacao": {
+    "especies": [
+      "Robalo",
+      "Perna de moça",
+      "Skin",
+      "Pirarara",
+      "Tambaqui",
+      "Pacu",
+      "Dourado",
+      "Trairira",
+      "Tilapia",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Agulha",
+      "Faca",
+      "Alicate",
+      "Bateria",
+      "Câmera",
+      "Moto",
+      "Carro"
+    ],
+    "iscas": [
+      "Isca laranja",
+      "Isca parou"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Puxar faca",
+      "Puxar isca",
+      "Cirurgia de isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca esportiva",
+    "observacoes": [
+      "Esqueci a bateria da câmera",
+      "Pneu da moto furou",
+      "Pescaria perrengue",
+      "Sem bateria da câmera"
+    ]
+  }
+}

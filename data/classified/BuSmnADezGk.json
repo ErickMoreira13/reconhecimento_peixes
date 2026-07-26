@@ -1,0 +1,35 @@
+{
+  "arquivo": "BuSmnADezGk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:37:50.779390",
+  "classificacao": {
+    "especies": [
+      "Jundiá"
+    ],
+    "equipamentos": [
+      "caiaque",
+      "remo",
+      "chaleira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio",
+      "lagoa"
+    ],
+    "bacias": [
+      "Sul Vale do Taquari"
+    ],
+    "estado": "Rio Grande do Sul",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Rio alto e perigoso",
+      "Áreas destruídas pela enchente",
+      "Uso de banha para acender fogo",
+      "Preparação de fritada com peixes capturados"
+    ]
+  }
+}

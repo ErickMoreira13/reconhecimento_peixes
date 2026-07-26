@@ -1,0 +1,46 @@
+{
+  "arquivo": "dAt9cuNqPpU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:45:05.563567",
+  "classificacao": {
+    "especies": [
+      "Oscar",
+      "Tucunaré",
+      "Filápio",
+      "Coral"
+    ],
+    "equipamentos": [
+      "Harpoa",
+      "Traje de mergulho",
+      "Equipamento",
+      "Harpoa 60"
+    ],
+    "iscas": [
+      "Isca artificial",
+      "Isca de pena"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com anzol artificial",
+      "Pesca com harpoa",
+      "Mergulho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com anzol artificial",
+      "Pesca com harpoa",
+      "Mergulho"
+    ],
+    "observacoes": [
+      "Clima está indo e voltando",
+      "Pescaria realizada de manhã cedo",
+      "Pescaria finalizada às 9h30",
+      "Pescadores encontraram condições de tempo variáveis",
+      "Pescadores capturaram uma quantidade considerável de peixes"
+    ]
+  }
+}

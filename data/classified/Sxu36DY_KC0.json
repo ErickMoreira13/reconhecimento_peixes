@@ -1,0 +1,40 @@
+{
+  "arquivo": "Sxu36DY_KC0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:20:14.907174",
+  "classificacao": {
+    "especies": [
+      "Azulzinho",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Gancho",
+      "Isca"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de isca",
+      "Soltura de peixe"
+    ],
+    "rios": [],
+    "bacias": [
+      "Bacia do Rio Tocantins"
+    ],
+    "estado": "Goiás",
+    "municipio": "Água Fria de Goiás",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca de fundo"
+    ],
+    "observacoes": [
+      "Peixe de 58 centímetros",
+      "Soltura de peixe",
+      "Uso de isca"
+    ]
+  }
+}

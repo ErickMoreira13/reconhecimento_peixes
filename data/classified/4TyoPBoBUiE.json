@@ -1,0 +1,41 @@
+{
+  "arquivo": "4TyoPBoBUiE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:45:41.048828",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piranha",
+      "Surubim",
+      "Manduca amarelo",
+      "Azalão"
+    ],
+    "equipamento": [
+      "Ferrada",
+      "Canoa",
+      "Treina"
+    ],
+    "iscas": [
+      "Milho",
+      "Miocosur"
+    ],
+    "cevas": [
+      "Milho"
+    ],
+    "grãos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Ferrada",
+      "Pescaria"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

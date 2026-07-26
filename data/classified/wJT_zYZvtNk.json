@@ -1,0 +1,27 @@
+{
+  "arquivo": "wJT_zYZvtNk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:09:17.411764",
+  "classificacao": {
+    "especies": [
+      "Peixe"
+    ],
+    "equipamentos": [
+      "Ferrada"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "o Gabriel não dá bem será?"
+    ]
+  }
+}

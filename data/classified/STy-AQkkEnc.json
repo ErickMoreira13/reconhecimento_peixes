@@ -1,0 +1,57 @@
+{
+  "arquivo": "STy-AQkkEnc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T11:44:05.451632",
+  "classificacao": {
+    "species": [
+      "Piau",
+      "Pacu",
+      "Tucunaré",
+      "Surubim",
+      "Piranha",
+      "Baiacu",
+      "Pirarara"
+    ],
+    "equipment": [
+      "canoa",
+      "linha",
+      "alicate"
+    ],
+    "baits": [
+      "farofa"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "grains": [],
+    "techniques": [
+      "pesca de linha",
+      "pesca de mão",
+      "pesca com ceva"
+    ],
+    "rivers": [
+      "Rio Santa Tereza"
+    ],
+    "basins": [],
+    "state": "Pará",
+    "municipality": "",
+    "type_of_fishing": [
+      "pesca de piau",
+      "pesca de piranha",
+      "pesca de linha",
+      "pesca de mão",
+      "pesca com ceva"
+    ],
+    "observations": [
+      "peixe estourou minha linha",
+      "não está servado",
+      "peixe estourou minha linha, não sei o que foi, eu acho que foi uma Pacu",
+      "tinha areia, muito perigoso",
+      "escurecer nós lá",
+      "tivemos uma pequena pausa",
+      "muita areia, muito perigoso",
+      "escurecer nós lá",
+      "tivemos aqui já estamos aqui na beira da BR pra pegar a estrada"
+    ]
+  }
+}

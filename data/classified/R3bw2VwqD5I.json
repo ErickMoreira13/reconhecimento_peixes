@@ -1,0 +1,33 @@
+{
+  "arquivo": "R3bw2VwqD5I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:54:37.702761",
+  "classificacao": {
+    "especies": [
+      "Biguá",
+      "Pirarucu"
+    ],
+    "equipamentos": [
+      "Carretilho",
+      "Vara de molho"
+    ],
+    "iscas": [
+      "Sardinha",
+      "Isca para pirarucu"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Presença de jacarés gigantes",
+      "Dificuldade em pescar peixes grandes devido à quantidade de peixes miúdos",
+      "Presença de pirarucu",
+      "Localização remota com matagal denso"
+    ]
+  }
+}

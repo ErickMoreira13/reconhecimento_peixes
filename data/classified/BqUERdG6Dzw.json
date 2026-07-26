@@ -1,0 +1,27 @@
+{
+  "arquivo": "BqUERdG6Dzw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:33:21.832898",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Caniço",
+      "Sarzinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Caniço"
+    ],
+    "observacoes": []
+  }
+}

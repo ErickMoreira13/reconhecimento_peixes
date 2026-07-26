@@ -1,0 +1,38 @@
+{
+  "arquivo": "eRaXYxsFuGQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:13:48.627072",
+  "classificacao": {
+    "especies": [
+      "Carazinho",
+      "Dourado",
+      "Pirarara",
+      "Tilápia",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Armadilha",
+      "Passaguá",
+      "Varinha"
+    ],
+    "iscas": [
+      "Isca viva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Busca em áreas com capim e saídas de água",
+      "Uso do passaguá na vertical"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca viva"
+    ],
+    "observacoes": [
+      "Técnica simples para capturar isca viva utilizando passaguá em áreas com capim e saídas de água"
+    ]
+  }
+}

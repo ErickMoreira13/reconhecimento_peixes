@@ -1,0 +1,26 @@
+{
+  "arquivo": "jepAvqs8EZQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:57:17.862436",
+  "classificacao": {
+    "especies": [
+      "Escarja",
+      "Sardinha"
+    ],
+    "equipamentos": [
+      "Circo hook"
+    ],
+    "iscas": [
+      "Sardinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

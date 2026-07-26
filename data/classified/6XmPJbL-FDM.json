@@ -1,0 +1,168 @@
+{
+  "arquivo": "6XmPJbL-FDM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:00:52.530815",
+  "classificacao": {
+    "especies": [
+      "Paquinho",
+      "Traíra",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "vara",
+      "canoa",
+      "alicate",
+      "hélice",
+      "barco",
+      "saco de ráfia",
+      "galão perfurado"
+    ],
+    "iscas": [
+      "folhas",
+      "massa"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "grãos": [],
+    "tecnicas": [
+      "arremesso",
+      "solta",
+      "pescaria",
+      "espera",
+      "chamar a atenção do peixe"
+    ],
+    "rios": [
+      "rio Jatapu"
+    ],
+    "bacias": [],
+    "regiões": [
+      "Amazônia"
+    ],
+    "estados": [],
+    "países": [
+      "Brasil"
+    ],
+    "tempo": [
+      "6:30",
+      "almoço",
+      "manhã",
+      "tarde"
+    ],
+    "datas": [],
+    "eventos": [
+      "almoço",
+      "solta",
+      "pescaria",
+      "filme",
+      "fotografia"
+    ],
+    "pessoas": [
+      "Lídia",
+      "Zezinho",
+      "Joginho",
+      "Turma",
+      "Guia",
+      "Rapaz",
+      "Pessoal",
+      "Comunidade"
+    ],
+    "locais": [
+      "lago",
+      "rio Jatapu",
+      "barco",
+      "canoa",
+      "comunidade"
+    ],
+    "animais": [
+      "Paquinho",
+      "Traíra",
+      "Tucunaré",
+      "Boto",
+      "Peixe"
+    ],
+    "plantas": [
+      "folhas",
+      "batata doce",
+      "ovinho",
+      "pãozinho",
+      "tomatezinho",
+      "frango",
+      "carinha assada"
+    ],
+    "objetos": [
+      "vara",
+      "canoa",
+      "alicate",
+      "hélice",
+      "barco",
+      "saco de ráfia",
+      "galão perfurado",
+      "ceva",
+      "massa",
+      "folhas",
+      "isca",
+      "assado",
+      "tomatezinho",
+      "frango",
+      "carinha assada"
+    ],
+    "ações": [
+      "arremesso",
+      "solta",
+      "pescaria",
+      "espera",
+      "chamar a atenção do peixe",
+      "almoço",
+      "filme",
+      "fotografia",
+      "assado",
+      "solta",
+      "espera",
+      "chamar a atenção do peixe"
+    ],
+    "sentimentos": [
+      "nervoso",
+      "assustar",
+      "valer",
+      "lindo",
+      "perigoso",
+      "faminto",
+      "cedo",
+      "tarde",
+      "espera",
+      "chamar a atenção do peixe"
+    ],
+    "palavras-chave": [
+      "paquinho",
+      "trai",
+      "tucunaré",
+      "Amazônia",
+      "rio Jatapu",
+      "almoço",
+      "solta",
+      "pescaria",
+      "espera",
+      "chamar a atenção do peixe",
+      "assado",
+      "filme",
+      "fotografia",
+      "comunidade",
+      "barco",
+      "canoa",
+      "vara",
+      "alicate",
+      "hélice",
+      "saco de ráfia",
+      "galão perfurado",
+      "ceva",
+      "massa",
+      "folhas",
+      "isca",
+      "papagaio",
+      "tomatezinho",
+      "frango",
+      "carinha assada"
+    ]
+  }
+}

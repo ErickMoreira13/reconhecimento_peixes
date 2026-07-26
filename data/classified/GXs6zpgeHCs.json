@@ -1,0 +1,22 @@
+{
+  "arquivo": "GXs6zpgeHCs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:24:54.921052",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Canoa",
+      "Motor"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

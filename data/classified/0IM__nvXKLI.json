@@ -1,0 +1,36 @@
+{
+  "arquivo": "0IM__nvXKLI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:23:24.608669",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Tilápia",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Cabo de aço",
+      "Multifilamento"
+    ],
+    "iscas": [
+      "Tilápia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Recolhimento"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Menciona o tamanho da bote da traíra",
+      "Destaca a tensão na linha durante a captura"
+    ]
+  }
+}

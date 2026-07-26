@@ -1,0 +1,26 @@
+{
+  "arquivo": "TtzT7QqlHKA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T11:53:41.091222",
+  "classificacao": {
+    "especies": [
+      "Mandinha Amarela",
+      "Mandinha Surro"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

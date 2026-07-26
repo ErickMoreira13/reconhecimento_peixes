@@ -1,0 +1,32 @@
+{
+  "arquivo": "ikgMlNubbf4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:40:19.627025",
+  "classificacao": {
+    "especies": [
+      "Canguçu",
+      "Bague Africano"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Colete",
+      "Apito"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Calmaria"
+    ],
+    "rios": [
+      "Rio Salsa"
+    ],
+    "bacias": [],
+    "estado": "Sergipe",
+    "municipio": "Itabaiana",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

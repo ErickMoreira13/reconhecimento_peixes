@@ -1,0 +1,21 @@
+{
+  "arquivo": "TuWJQDYD--k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:50:25.982914",
+  "classificacao": {
+    "summary": "O conteúdo apresenta um relato de uma sessão de pesca, destacando o uso da vara Red Fox, a captura de espécies como piaus e branquinhas, o uso de iscas como abóbora e detalhes sobre a configuração do equipamento. O local mencionado é 'Minha Ponte' e 'Minha Cata', com observações sobre as condições da água e a intenção de retornar para mais pesca.",
+    "key_points": [
+      "Vara Red Fox utilizada",
+      "Espécies capturadas: piaus e branquinhas",
+      "Isca: abóbora",
+      "Locais: Minha Ponte e Minha Cata",
+      "Condições da água e planejamento para futuras pescarias"
+    ],
+    "possible_needs": [
+      "Resumo em português",
+      "Tradução para inglês",
+      "Dicas de pesca com base no conteúdo",
+      "Análise técnica do equipamento mencionado"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "dechY9xbwGE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:50:40.487546",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tilápia",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Varinha",
+      "Anzal",
+      "Saco"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja",
+      "Quirera"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

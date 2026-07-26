@@ -1,0 +1,36 @@
+{
+  "arquivo": "zOKRTuGyPek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:38:32.210974",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Flutuador",
+      "Linha fininha"
+    ],
+    "iscas": [
+      "Mortandelazinha",
+      "Pedaço forte"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Flutuador",
+      "Lançamento"
+    ],
+    "rios": [
+      "Rio Machado"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Giparaná",
+    "tipo_pesca": [
+      "Pesca de anzol",
+      "Pesca de superfície"
+    ],
+    "observacoes": []
+  }
+}

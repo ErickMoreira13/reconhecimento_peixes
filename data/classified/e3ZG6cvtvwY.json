@@ -1,0 +1,37 @@
+{
+  "arquivo": "e3ZG6cvtvwY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:37:09.395242",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Peixe de couro"
+    ],
+    "equipamentos": [
+      "Torpedo",
+      "Fundos",
+      "Caroninha"
+    ],
+    "iscas": [
+      "Linguiça defumada"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Escar de fundo",
+      "Isca no torpedo",
+      "Isca de fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fundo",
+      "Pesca com torpedo"
+    ],
+    "observacoes": "Técnica eficaz para pesca de Tambaqui e peixe de couro, usando linguiça defumada em diferentes formatos."
+  }
+}

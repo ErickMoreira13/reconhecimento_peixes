@@ -1,0 +1,25 @@
+{
+  "arquivo": "yQOwyl5eMCY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:24:42.126684",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Puxada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "BWntSl47htQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:40:20.487727",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Draga",
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Parnaíba"
+    ],
+    "bacias": [],
+    "estado": "Piauí",
+    "municipio": "Teresina",
+    "tipo_pesca": [
+      "pesca com rede"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "pqB3DdXoIno",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:18:04.292725",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Linha direta",
+      "Carretilha",
+      "Boinha",
+      "EVA",
+      "Furadorzinho",
+      "Canudinho"
+    ],
+    "iscas": [
+      "Salsicha"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca à superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Goiânia",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de salsicha como isca com EVA para apresentação",
+      "Técnica específica de montagem com furadorzinho e canudinho",
+      "Menciona kit do estilo goiano da CL Anteninhas"
+    ]
+  }
+}

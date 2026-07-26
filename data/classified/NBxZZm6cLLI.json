@@ -1,0 +1,23 @@
+{
+  "arquivo": "NBxZZm6cLLI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:29:07.229521",
+  "classificacao": {
+    "especies": [
+      "Pirandirá"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O pirandirá (cachorra larga) possui dentes grandes que podem quebrar facilmente, com substituição constante de dentes. A espécie é encontrada na Amazônia e na região do Paraná, onde é conhecida como cachorra facão."
+    ]
+  }
+}

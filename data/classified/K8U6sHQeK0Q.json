@@ -1,0 +1,21 @@
+{
+  "arquivo": "K8U6sHQeK0Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:42:34.806522",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Cana"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Maraã",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

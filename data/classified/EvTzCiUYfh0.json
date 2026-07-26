@@ -1,0 +1,43 @@
+{
+  "arquivo": "EvTzCiUYfh0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:53:51.194932",
+  "classificacao": {
+    "especies": [
+      "Jaú",
+      "Pirarara",
+      "Tambaqui",
+      "Pirapitinga",
+      "Pirarucu",
+      "Caxaras",
+      "Caparari"
+    ],
+    "equipamentos": [
+      "embarcação",
+      "cana de pesca",
+      "carretilha",
+      "linhas",
+      "isca",
+      "ceva"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Madeira",
+      "Jaci",
+      "Mutum Paraná",
+      "Formoso"
+    ],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "Rondônia",
+    "municipio": "Porto Velho",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

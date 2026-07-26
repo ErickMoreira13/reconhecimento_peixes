@@ -1,0 +1,27 @@
+{
+  "arquivo": "1RonutjFgGA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:49:00.786711",
+  "classificacao": {
+    "especies": [
+      "Trairão",
+      "Pintado"
+    ],
+    "equipamento": [],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [],
+    "rios": [],
+    "bacias": [
+      "Rio Grande",
+      "São Francisco"
+    ],
+    "estado": "",
+    "município": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observações": ""
+  }
+}

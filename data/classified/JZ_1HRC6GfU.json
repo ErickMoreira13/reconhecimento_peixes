@@ -1,0 +1,41 @@
+{
+  "arquivo": "JZ_1HRC6GfU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:22:34.132716",
+  "classificacao": {
+    "Resumo": {
+      "Produtos e Serviços": {
+        "Itens Vendidos": [
+          "Camisetas Lumes",
+          "Chapéus Lumes",
+          "Isca de banana",
+          "Isca de mel (Leo Aperto Play)",
+          "Isca de miçanga vermelha (Sorocaba)"
+        ],
+        "Equipamentos": [
+          "Barão boia número 3",
+          "Rig trenzinho",
+          "Rig palminho"
+        ],
+        "Parcerias": [
+          "Leo's",
+          "Claudio Omar"
+        ]
+      },
+      "Técnicas de Pesca": {
+        "Rigs Utilizados": [
+          "Trenzinho",
+          "Palminho"
+        ],
+        "Estratégias": "Uso de iscas específicas (banana, mel, miçanga) e adaptação de equipamentos para diferentes condições de pesca."
+      },
+      "Plano de Ações Futuras": {
+        "Website": "Criação de um site para facilitar vendas e divulgação de produtos.",
+        "Comunicação": "Mantenha contato via WhatsApp para atendimento personalizado."
+      },
+      "Filosofia Pessoal": {
+        "Credibilidade": "Venda apenas produtos que usa e testa pessoalmente, garantindo qualidade e eficácia."
+      }
+    }
+  }
+}

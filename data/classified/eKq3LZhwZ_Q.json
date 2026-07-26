@@ -1,0 +1,28 @@
+{
+  "arquivo": "eKq3LZhwZ_Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:05:08.246406",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Bote"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Atumã",
+      "Guatumã"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Madrubá",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

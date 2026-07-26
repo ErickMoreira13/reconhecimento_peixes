@@ -1,0 +1,36 @@
+{
+  "arquivo": "viUOPhyJZu4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:07:18.471986",
+  "classificacao": {
+    "species": [
+      "Piau",
+      "Piranha",
+      "Piapara"
+    ],
+    "equipment": [
+      "Embarcação",
+      "Soia"
+    ],
+    "baits": [
+      "Carangueijo",
+      "Filé de curimbo"
+    ],
+    "grains": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "techniques": [
+      "Pesca em embarcação"
+    ],
+    "rios": [
+      "Rio Taquari"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em embarcação"
+    ]
+  }
+}

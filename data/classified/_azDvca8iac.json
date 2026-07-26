@@ -1,0 +1,33 @@
+{
+  "arquivo": "_azDvca8iac",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:55:39.044129",
+  "classificacao": {
+    "especies": [
+      "Trato"
+    ],
+    "equipamentos": [
+      "Cevinha"
+    ],
+    "iscas": [
+      "Caldão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Quirera"
+    ],
+    "tecnicas": [
+      "Pesca com cevinha"
+    ],
+    "rios": [
+      "Poço do Piau"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

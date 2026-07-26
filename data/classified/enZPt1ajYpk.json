@@ -1,0 +1,23 @@
+{
+  "arquivo": "enZPt1ajYpk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:10:42.215760",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "sarapó"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Vale de Bom"
+    ],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Januária",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

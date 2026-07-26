@@ -1,0 +1,24 @@
+{
+  "arquivo": "sNU1cJ3opgY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:29:09.808506",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

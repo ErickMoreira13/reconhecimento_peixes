@@ -1,0 +1,26 @@
+{
+  "arquivo": "Rd9cF_2YPTc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:03:54.816990",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "uso de chumbo",
+      "arremesso",
+      "pesca de fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de fundo",
+      "pesca de superfície"
+    ],
+    "observacoes": []
+  }
+}

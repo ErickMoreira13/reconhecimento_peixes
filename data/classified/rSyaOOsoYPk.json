@@ -1,0 +1,38 @@
+{
+  "arquivo": "rSyaOOsoYPk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:31:43.876634",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Bandeira"
+    ],
+    "equipamentos": [
+      "Enxada",
+      "Anzol",
+      "Gaiola de Taboca"
+    ],
+    "iscas": [
+      "Farelinho",
+      "Minhoca"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Localização remota para pescar",
+      "Dificuldade na vida do pescador",
+      "Uso de equipamentos simples",
+      "Rotina matinal de preparação de iscas"
+    ]
+  }
+}

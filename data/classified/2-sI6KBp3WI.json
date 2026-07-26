@@ -1,0 +1,31 @@
+{
+  "arquivo": "2-sI6KBp3WI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:03:43.564612",
+  "classificacao": {
+    "especies": [
+      "Siri"
+    ],
+    "equipamentos": [
+      "Landuá"
+    ],
+    "iscas": [
+      "isca de peixe"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "uso de armadilha landuá"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Armadilha"
+    ],
+    "observacoes": [
+      "A armadilha landuá é colocada no fundo do rio com uma isca de peixe para atrair o siri."
+    ]
+  }
+}

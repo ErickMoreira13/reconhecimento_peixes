@@ -1,0 +1,37 @@
+{
+  "arquivo": "byhdXjtjDwA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:42:20.604687",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Carlão",
+      "Pescador de Barranco"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca na Chuva",
+      "Pesca de Pilar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Pesca de Pilar"
+    ],
+    "observacoes": []
+  }
+}

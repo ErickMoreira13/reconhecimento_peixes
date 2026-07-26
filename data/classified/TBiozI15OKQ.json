@@ -1,0 +1,26 @@
+{
+  "arquivo": "TBiozI15OKQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:50:04.002071",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Jaú",
+      "Pintado",
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Viema"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

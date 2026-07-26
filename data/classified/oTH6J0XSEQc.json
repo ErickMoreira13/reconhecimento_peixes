@@ -1,0 +1,21 @@
+{
+  "arquivo": "oTH6J0XSEQc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:30:12.078021",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jaguaribe"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Itauá",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

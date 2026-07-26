@@ -1,0 +1,47 @@
+{
+  "arquivo": "6eccJTiU06o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:59:36.056123",
+  "classificacao": {
+    "species": [
+      "pacu",
+      "sarda",
+      "sarda de piaba"
+    ],
+    "equipment": [
+      "malhadeira",
+      "mola",
+      "gremona",
+      "piaba",
+      "cacete",
+      "caçapa"
+    ],
+    "iscas": [
+      "piaba"
+    ],
+    "graos": [
+      "arroz"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "tecnicas": [
+      "linha parada",
+      "malhadeira"
+    ],
+    "rios": [
+      "riozão",
+      "Rio de Aracu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com rede",
+      "pesca com isca"
+    ],
+    "observacoes": [
+      "nossa isca não é das melhores"
+    ]
+  }
+}

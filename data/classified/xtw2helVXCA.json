@@ -1,0 +1,21 @@
+{
+  "arquivo": "xtw2helVXCA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:24:36.433830",
+  "classificacao": {
+    "especies": [
+      "Oscar"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

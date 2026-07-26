@@ -1,0 +1,28 @@
+{
+  "arquivo": "EeCkXTYdX_I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:56:06.566159",
+  "classificacao": {
+    "especies": [
+      "lambari",
+      "carpa"
+    ],
+    "equipamentos": [
+      "carração de coelho",
+      "boinha",
+      "linha híbrida"
+    ],
+    "isca": [
+      "manjoca",
+      "ração"
+    ],
+    "condicoes_ambientais": [
+      "mormaço"
+    ],
+    "tipo_pesca": "pesca esportiva",
+    "local": [
+      "Matuto do Brejo",
+      "Bibiscava"
+    ]
+  }
+}

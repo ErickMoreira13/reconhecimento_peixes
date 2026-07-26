@@ -1,0 +1,45 @@
+{
+  "arquivo": "2m2RzhODOe8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:33:31.597786",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "varinha",
+      "ponteira inteligente",
+      "linha 0.25",
+      "girador 0",
+      "chumbinho 2g",
+      "chinu ringue 1",
+      "maroseigo 12",
+      "maroseigo 10",
+      "maroseigo 14",
+      "Ultralight",
+      "chinurring 1"
+    ],
+    "iscas": [
+      "massa de coelho P40",
+      "farelo de arroz"
+    ],
+    "cevas": [],
+    "graos": [
+      "arroz"
+    ],
+    "tecnicas": [
+      "pesca com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "clima quente",
+      "capturas limitadas",
+      "uso de iscas artificiais e naturais",
+      "equipamentos variados"
+    ]
+  }
+}

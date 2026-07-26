@@ -1,0 +1,30 @@
+{
+  "arquivo": "ndnA9wIOYsg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:41:24.066459",
+  "classificacao": {
+    "especies": [
+      "Bitelão",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Varejão de Bambu",
+      "Alicate com Contenção"
+    ],
+    "iscas": [
+      "Alabama"
+    ],
+    "cevadas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca Artificial",
+      "Varejão de Bambu"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "Pesca Esportiva",
+    "observacoes": ""
+  }
+}

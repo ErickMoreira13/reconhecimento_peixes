@@ -1,0 +1,31 @@
+{
+  "arquivo": "aV-ifGPQsvc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:17:12.179536",
+  "classificacao": {
+    "espécies": [
+      "azulão",
+      "azulirão",
+      "serras"
+    ],
+    "equipamentos": [
+      "mulinete",
+      "carretilha",
+      "linha",
+      "anilha de split"
+    ],
+    "iscas": [
+      "carne",
+      "arroz"
+    ],
+    "cevas": [],
+    "grãos": [
+      "arroz"
+    ],
+    "técnicas": [
+      "meia água",
+      "solução",
+      "rebojado"
+    ]
+  }
+}

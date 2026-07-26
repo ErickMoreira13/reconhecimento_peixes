@@ -1,0 +1,30 @@
+{
+  "arquivo": "gQYaQEwsAJM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:14:20.722546",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra",
+      "Roubalo"
+    ],
+    "equipamentos": [
+      "vara"
+    ],
+    "iscas": [
+      "camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "solta peixes",
+      "seleciona peixes maiores"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "43786qPHBlM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:29:31.599444",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Tarrafa"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Muitos peixes capturados (aproximadamente 300), felicidade do enfermeiro Hugo"
+    ]
+  }
+}

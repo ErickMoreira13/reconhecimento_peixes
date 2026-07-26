@@ -1,0 +1,29 @@
+{
+  "arquivo": "Xcj0HB-BLHE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:45:17.646990",
+  "classificacao": {
+    "especies": [
+      "Peixe"
+    ],
+    "equipamentos": [
+      "Casca de pau"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca tradicional indígena"
+    ],
+    "rios": [
+      "Charvantim"
+    ],
+    "bacias": "",
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca tradicional"
+    ],
+    "observacoes": []
+  }
+}

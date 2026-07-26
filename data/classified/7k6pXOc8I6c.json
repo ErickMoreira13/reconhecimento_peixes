@@ -1,0 +1,36 @@
+{
+  "arquivo": "7k6pXOc8I6c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:41:28.642305",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "vara de pesca",
+      "carretilha",
+      "línea 0,23",
+      "línea 0,62",
+      "línea de nylon"
+    ],
+    "iscas": [
+      "gig rig"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "arremesso",
+      "fisgada"
+    ],
+    "rios": [
+      "barragem"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de superfície"
+    ],
+    "observacoes": []
+  }
+}

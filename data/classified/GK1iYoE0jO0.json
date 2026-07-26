@@ -1,0 +1,24 @@
+{
+  "arquivo": "GK1iYoE0jO0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:53:51.978613",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Que peixe resiste",
+      "Topzera"
+    ]
+  }
+}

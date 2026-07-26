@@ -1,0 +1,23 @@
+{
+  "arquivo": "Y4ThBbO8Hk4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:43:48.875373",
+  "classificacao": {
+    "especies": [
+      "Cunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jatapu"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Foz do Iguaçu",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

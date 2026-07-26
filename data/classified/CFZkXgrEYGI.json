@@ -1,0 +1,8 @@
+{
+  "arquivo": "CFZkXgrEYGI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:35:28.584197",
+  "classificacao": {
+    "error": "O campo 'observacoes' está presente no JSON, mas não foi fornecido no exemplo de transcrição. De acordo com o esquema JSON, 'observacoes' é um campo opcional (não requerido) e, quando ausente, deve ser omitido ou definido como um array vazio. No entanto, no exemplo fornecido, o campo 'observacoes' foi incluído com um valor vazio, o que não está alinhado com o esquema. Para corrigir, remova o campo 'observacoes' do JSON ou defina-o como um array vazio: 'observacoes': []."
+  }
+}

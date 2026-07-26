@@ -1,0 +1,27 @@
+{
+  "arquivo": "QWdLg2ipq-0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:34:02.731452",
+  "classificacao": {
+    "especies": [
+      "Chumbinho"
+    ],
+    "equipamentos": [
+      "barra de doca",
+      "isca artificial Sabki"
+    ],
+    "cevadas": {
+      "Ceva Aromática": [
+        "atrativo"
+      ],
+      "Ceva Natural": [
+        "pititinga",
+        "camarão"
+      ]
+    },
+    "graos": [],
+    "outros_elementos": [
+      "maré"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "zTz8YljWyPU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:47:12.218678",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo de pesca, provavelmente feito por um vlogger ou pessoa que está documentando uma experiência de pesca. O conteúdo inclui conversas entre os participantes, com destaque para a captura de peixes como 'Pitangola', 'Inga' e 'Guarajuba'. Há repetições e comentários entusiasmados sobre o tamanho dos peixes, interações com o público (como 'olha o tamanho do parco, aí') e menções a edição de vídeo. O objetivo parece ser entreter o espectador, mostrar a experiência de pesca e destacar os momentos mais marcantes, como a captura de peixes grandes ou a interação com outros pescadores (como Maurício).",
+    "key_points": [
+      "Transcrição de um vídeo de pesca",
+      "Menciona tipos de peixes capturados",
+      "Repetições para enfatizar o tamanho dos peixes",
+      "Interação com o público e edição de vídeo",
+      "Contexto informal e entusiasmado"
+    ],
+    "participants": [
+      "Pescadores (não nomeados)",
+      "Maurício (mencionado)",
+      "O vlogger/pessoa que está filmando"
+    ],
+    "purpose": "Entreter o público, mostrar a experiência de pesca e destacar os momentos mais interessantes da atividade."
+  }
+}

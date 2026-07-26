@@ -1,0 +1,15 @@
+{
+  "arquivo": "QNlemtc1Hxw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:54:13.976648",
+  "classificacao": {
+    "summary": "The text is a transcript of a YouTube video where the creator shares a fishing experience, prepares a meal, and engages with viewers. Key elements include: 1) **Fishing Adventure**: Describes catching fish, challenges faced (e.g., missing some fish), and the process of preparing the catch. 2) **Meal Preparation**: Details cooking a meal with fish, rice, beans, salad, and fried banana, emphasizing effort and sharing the experience. 3) **Viewer Engagement**: Frequent calls for subscriptions, likes, and notifications, along with personal interactions (e.g., virtual hugs, mentioning names like 'Léo' and 'Rafael'). 4) **Community Building**: Uses casual, conversational language and regional terms (e.g., 'Itamanduá' for a hug) to foster a sense of connection. 5) **Storytelling**: Includes anecdotes (e.g., a snake encounter) to add drama and relatability.",
+    "engagement_strategies": [
+      "Direct calls to action (subscribes, likes, notifications)",
+      "Personalized interactions (naming viewers, virtual hugs)",
+      "Casual, enthusiastic tone to build rapport",
+      "Incorporating storytelling for viewer interest"
+    ],
+    "analysis": "The creator effectively blends practical content (fishing, cooking) with viewer engagement tactics. The use of humor, personal touches, and relatable challenges helps maintain viewer interest. However, repetition in calls to action might be optimized for better impact. The emphasis on community and shared experiences strengthens viewer loyalty."
+  }
+}

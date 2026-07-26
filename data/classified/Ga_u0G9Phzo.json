@@ -1,0 +1,38 @@
+{
+  "arquivo": "Ga_u0G9Phzo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:28:10.829916",
+  "classificacao": {
+    "especie": "Cachara",
+    "equipamento": [
+      "Carretilha Chroma Big Game",
+      "Vara Benza Big Game",
+      "Linha Multifilamento Vexel X8",
+      "Vara Longa"
+    ],
+    "ceva": [
+      {
+        "tipo": "Ceva Natural",
+        "descricao": "Filé de Piau"
+      },
+      {
+        "tipo": "Ceva Natural",
+        "descricao": "Isquinha"
+      }
+    ],
+    "cevadas": [
+      {
+        "tipo": "Ceva Natural",
+        "descricao": "Filé de Piau"
+      },
+      {
+        "tipo": "Ceva Natural",
+        "descricao": "Isquinha"
+      }
+    ],
+    "grãos": [],
+    "rivers": [
+      "Rio Bararaty"
+    ]
+  }
+}

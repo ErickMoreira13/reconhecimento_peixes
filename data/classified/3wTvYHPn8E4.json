@@ -1,0 +1,33 @@
+{
+  "arquivo": "3wTvYHPn8E4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:27:03.315414",
+  "classificacao": {
+    "species": [
+      "Tilápia",
+      "Corral"
+    ],
+    "equipment": [
+      "Tarrafa",
+      "Enganche"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Jogação de Tarrafa"
+    ],
+    "rios": [
+      "Rio Parnaíba"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

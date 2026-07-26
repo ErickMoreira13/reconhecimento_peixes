@@ -1,0 +1,35 @@
+{
+  "arquivo": "8TNtXCEekZE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:30:12.795746",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Bagre",
+      "Mandi"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Anzol",
+      "Minhoca",
+      "Tratinho"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Tratinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [
+      "Lagoa"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

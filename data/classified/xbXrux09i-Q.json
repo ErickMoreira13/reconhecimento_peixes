@@ -1,0 +1,34 @@
+{
+  "arquivo": "xbXrux09i-Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:45:03.020684",
+  "classificacao": {
+    "especies": [
+      "Pernilongo",
+      "Mandi",
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Drone"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Viemo"
+    ],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Enchente no rio Viemo",
+      "Presença de peixes mortos",
+      "Uso de drone para filmagem",
+      "Muita água no rio",
+      "Jacaré encontrado na margem"
+    ]
+  }
+}

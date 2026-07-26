@@ -1,0 +1,23 @@
+{
+  "arquivo": "hM4O_k4wS2U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:52:25.572098",
+  "classificacao": {
+    "especies": [
+      "Barbado",
+      "Cruzada",
+      "Sucuri"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "vJDzcdXfg4E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:07:51.947729",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "varão de bambu",
+      "escaviva",
+      "anzol"
+    ],
+    "iscas": [
+      "isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Capiranga",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

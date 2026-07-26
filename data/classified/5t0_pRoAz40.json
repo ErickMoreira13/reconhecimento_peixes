@@ -1,0 +1,28 @@
+{
+  "arquivo": "5t0_pRoAz40",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:31:08.563308",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Soja com açúcar"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

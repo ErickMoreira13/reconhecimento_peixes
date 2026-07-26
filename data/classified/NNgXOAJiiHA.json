@@ -1,0 +1,33 @@
+{
+  "arquivo": "NNgXOAJiiHA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:19:43.807397",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha",
+      "Vara",
+      "Linha",
+      "Freio magnético"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Ajuste da sintonia fina",
+      "Posicionamento da mão",
+      "Carregamento e descarregamento da ação da vara",
+      "Ajuste do freio magnético"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com carretilha"
+    ],
+    "observacoes": []
+  }
+}

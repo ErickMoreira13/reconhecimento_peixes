@@ -1,0 +1,27 @@
+{
+  "arquivo": "WRmwleu6NVI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:32:57.798898",
+  "classificacao": {
+    "species": [
+      "surubinho",
+      "sarapó"
+    ],
+    "equipment": [
+      "canoa",
+      "matadeira",
+      "barreirões",
+      "anzal",
+      "tarrafa"
+    ],
+    "baits": [
+      "camarão"
+    ],
+    "grains": [],
+    "cevas": [],
+    "location": "rio",
+    "other_terms": [
+      "fogo"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "r9JQTk2HciI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:00:13.370441",
+  "classificacao": {
+    "resumen": {
+      "pesca": {
+        "especie": "basecito",
+        "tamaño": "pequeño",
+        "método": "pesca con cebo",
+        "ambiente": "río o lago",
+        "dificultad": "moderada",
+        "consejo": "usar cebo de insectos o lombrices"
+      },
+      "cocina": {
+        "plato": "salsa picante",
+        "ingredientes": [
+          "chiles",
+          "cebolla",
+          "ajo",
+          "vinagre",
+          "sal",
+          "aceite"
+        ],
+        "preparación": "picar y mezclar ingredientes, cocinar a fuego lento",
+        "uso": "acompañar carnes, pescados o arroz",
+        "variedad": "ajustar picante según preferencia"
+      }
+    },
+    "observaciones": "El texto combina instrucciones prácticas para la pesca y la cocina, enfocándose en técnicas sencillas y ingredientes accesibles. Ambos temas están conectados por el uso de recursos naturales (pescado y vegetales)."
+  }
+}

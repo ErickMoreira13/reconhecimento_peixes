@@ -1,0 +1,23 @@
+{
+  "arquivo": "5odkMt7yrow",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:19:08.539221",
+  "classificacao": {
+    "especies": [
+      "Piranha Preta"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Três Marias",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Aqui na represa de Três Marias tem as maiores piranhas pretas do Brasil"
+    ]
+  }
+}

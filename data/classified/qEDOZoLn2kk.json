@@ -1,0 +1,32 @@
+{
+  "arquivo": "qEDOZoLn2kk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:12:35.470105",
+  "classificacao": {
+    "iscas": [
+      "Coração de boi",
+      "milho",
+      "calabresa",
+      "massa",
+      "massa P45"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "equipamentos": [
+      "Varinha"
+    ],
+    "rios": [
+      "Riozão",
+      "Piracicaba"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Santa Maria da Serra",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "lF6AQ-7cqPg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:06:00.019433",
+  "classificacao": {
+    "especies": [
+      "Caranha"
+    ],
+    "equipamentos": [
+      "Castor",
+      "Fluorocarbono",
+      "Girador",
+      "Chumbada",
+      "Miçanga"
+    ],
+    "iscas": [
+      "Massa",
+      "Milho",
+      "Ração",
+      "Salsicha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pescaria com castor de dois anzóis"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de caranha"
+    ],
+    "observacoes": ""
+  }
+}

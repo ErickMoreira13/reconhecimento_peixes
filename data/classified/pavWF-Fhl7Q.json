@@ -1,0 +1,28 @@
+{
+  "arquivo": "pavWF-Fhl7Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:59:27.376136",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Jatarana"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

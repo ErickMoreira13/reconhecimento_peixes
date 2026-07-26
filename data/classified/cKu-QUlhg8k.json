@@ -1,0 +1,45 @@
+{
+  "arquivo": "cKu-QUlhg8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:42:43.991288",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piaba",
+      "Acará",
+      "Tilápia Bruta"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Chicote",
+      "Boia",
+      "Borracha",
+      "Anzol",
+      "Sobrazinha"
+    ],
+    "iscas": [
+      "Ração de Coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de Fundo",
+      "Pesca sem Boia",
+      "Pesca com Boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "tilapa bruta",
+      "piaba roendo",
+      "mudança de local",
+      "chuva",
+      "finalização da pescaria"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "HS5zXL3TGik",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:12:44.551730",
+  "classificacao": {
+    "especies": [
+      "Tranchão",
+      "Trinchinha",
+      "Piaba",
+      "Carnezinha"
+    ],
+    "equipamentos": [
+      "canoa"
+    ],
+    "iscas": [
+      "vinagrete"
+    ],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Preto da Eva"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

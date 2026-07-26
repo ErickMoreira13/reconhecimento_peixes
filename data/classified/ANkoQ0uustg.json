@@ -1,0 +1,28 @@
+{
+  "arquivo": "ANkoQ0uustg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:04:32.885743",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca viva (lambari)"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

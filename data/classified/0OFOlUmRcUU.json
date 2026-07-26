@@ -1,0 +1,41 @@
+{
+  "arquivo": "0OFOlUmRcUU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:26:41.203188",
+  "classificacao": {
+    "especies": [
+      "curica",
+      "Kurimatá",
+      "Carauaçu de faixa",
+      "Samorado"
+    ],
+    "equipamentos": [
+      "malhadeira",
+      "palheta"
+    ],
+    "isca": [
+      "arati",
+      "cheiro verde"
+    ],
+    "graos": [],
+    "ceva_natural": [
+      "arati"
+    ],
+    "ceva_aromatica": [
+      "cheiro verde"
+    ],
+    "ceva_proteica": [],
+    "ceva_particulada": [],
+    "ceva_sintetica": [],
+    "tecnica": [
+      "pesca de malhadeira"
+    ],
+    "rios": [],
+    "bacias": [
+      "Pantanal"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "pesca de malhadeira"
+  }
+}

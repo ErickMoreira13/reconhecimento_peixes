@@ -1,0 +1,28 @@
+{
+  "arquivo": "UVP2rdU3-FM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:38:11.718183",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "zap"
+    ],
+    "iscas": [
+      "isca zap"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "correnteza ao seu favor",
+      "trabalhar a isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

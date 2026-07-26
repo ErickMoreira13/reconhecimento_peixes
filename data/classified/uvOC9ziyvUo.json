@@ -1,0 +1,28 @@
+{
+  "arquivo": "uvOC9ziyvUo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:37:57.461392",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca",
+      "Escar Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [
+      "Barragem"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

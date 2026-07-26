@@ -1,0 +1,47 @@
+{
+  "arquivo": "-AMdIRAyTK4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:37:11.454210",
+  "classificacao": {
+    "especies": [
+      "Tracajá",
+      "Guará",
+      "Caramuru",
+      "Tarpão",
+      "Curimã",
+      "Carapé",
+      "Canguçu"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Escadinha",
+      "Escorou"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Jogar a tarrafa com a escadinha",
+      "Escorou",
+      "Pescariazinha top",
+      "Maré de quebra"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ]
+  }
+}

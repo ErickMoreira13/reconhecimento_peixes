@@ -1,0 +1,32 @@
+{
+  "arquivo": "ZFSE-FBD_-I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:11:35.585415",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Canoa telescópica",
+      "Canoa de fibra de vidro",
+      "Canoa de carbono",
+      "Passaguá"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "rios": [],
+    "bacias": [],
+    "municipio": "Montemor",
+    "estado": "",
+    "tipo_pesca": "Pesca de Tilápia",
+    "tecnicas": [
+      "Uso de canoa telescópica",
+      "Uso de passaguá",
+      "Atração com massinha"
+    ],
+    "observacoes": "Recomenda-se o uso de passaguá para manipular a tilápia após a captura. A pesca ocorre no Akira fish farm, localizado em Montemor."
+  }
+}

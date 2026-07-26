@@ -1,0 +1,49 @@
+{
+  "arquivo": "uLcNh6zLloQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:07:25.680194",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Corimba",
+      "Tucunaré",
+      "Oscar",
+      "Pairarara",
+      "Merluza",
+      "Porquinho",
+      "Camaronzinho"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Cede",
+      "Disco"
+    ],
+    "iscas": [
+      "Massa",
+      "Saquinho",
+      "Alface"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Ceva",
+      "Pescaria",
+      "Bater"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Ceva",
+      "Pescaria"
+    ],
+    "observacoes": [
+      "Peixe com mandíbula arrancada",
+      "Calor intenso",
+      "Uso de guarda-sol"
+    ]
+  }
+}

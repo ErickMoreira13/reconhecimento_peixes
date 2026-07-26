@@ -1,0 +1,43 @@
+{
+  "arquivo": "bcxric79Qvg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:50:56.454499",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tilápia",
+      "Cavala"
+    ],
+    "equipamentos": [
+      "Lampião",
+      "Palanque",
+      "Varinha"
+    ],
+    "iscas": [
+      "Bichinho",
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Kinder Ovo",
+      "Pescar de Noite"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Noite"
+    ],
+    "observacoes": [
+      "Uso da técnica 'kinder ovo' com massa e bichinho",
+      "Presença de muitos peixes pequenos (miúdos)"
+    ]
+  }
+}

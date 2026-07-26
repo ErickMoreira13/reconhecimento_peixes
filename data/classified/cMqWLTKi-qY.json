@@ -1,0 +1,41 @@
+{
+  "arquivo": "cMqWLTKi-qY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:46:05.171325",
+  "classificacao": {
+    "especies": [
+      "Papaya",
+      "Peixe Voador"
+    ],
+    "equipamentos": [
+      "Garrafa",
+      "Pedra"
+    ],
+    "iscas": [
+      "Arroz"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Isca de Garrafa"
+    ],
+    "rios": [
+      "Rio Xingu"
+    ],
+    "bacias": [
+      "Bacia do Rio Xingu"
+    ],
+    "estado": "Pará",
+    "municipio": "São Félix do Xingu",
+    "tipo_pesca": [
+      "Pesca com Isca de Garrafa"
+    ],
+    "observacoes": [
+      "Uso de garrafas como isca com pedra para fixar no fundo, arroz como isca, captura de dois peixes (papaya e peixe voador)"
+    ]
+  }
+}

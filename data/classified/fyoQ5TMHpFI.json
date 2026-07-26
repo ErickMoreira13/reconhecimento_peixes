@@ -1,0 +1,30 @@
+{
+  "arquivo": "fyoQ5TMHpFI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:10:44.760961",
+  "classificacao": {
+    "fish_species": [
+      "lambari",
+      "bitelo",
+      "piranha",
+      "bagre"
+    ],
+    "additional_details": {
+      "bait_used": [
+        "minhocas",
+        "isca fresquinha"
+      ],
+      "fishing_techniques": [
+        "mudar de local",
+        "usar anzol de traíra"
+      ],
+      "challenges": [
+        "perda de peixe devido a linha emaranhada"
+      ],
+      "environmental_notes": [
+        "formigueiro",
+        "formigas bravas"
+      ]
+    }
+  }
+}

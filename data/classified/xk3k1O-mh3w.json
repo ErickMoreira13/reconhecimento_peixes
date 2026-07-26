@@ -1,0 +1,38 @@
+{
+  "arquivo": "xk3k1O-mh3w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:03:48.133655",
+  "classificacao": {
+    "especies": [
+      "pescada",
+      "bagote",
+      "jurupiranga",
+      "lourona"
+    ],
+    "equipamentos": [
+      "malhadeiras",
+      "motor",
+      "rabeta",
+      "espinhão"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "grãos": [],
+    "tecnicas": [
+      "vazante",
+      "enchente"
+    ],
+    "rios": [
+      "Rosário"
+    ],
+    "bacias": [
+      "Maranhão"
+    ],
+    "estado": "Maranhão",
+    "municipio": "Rosário",
+    "tipo_pescaria": "pesca com rede",
+    "observacoes": []
+  }
+}

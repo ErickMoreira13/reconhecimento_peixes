@@ -1,0 +1,34 @@
+{
+  "arquivo": "vL7BeUQDwGg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:10:14.603441",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piabanha"
+    ],
+    "equipamentos": [
+      "Garrafa PET",
+      "Corda",
+      "Peso"
+    ],
+    "iscas": [
+      "Soja",
+      "Mandioca"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "arquivo": "JLyIL3GV8J4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:07:57.967246",
+  "classificacao": {
+    "especies": [
+      "jaú",
+      "piraíba"
+    ],
+    "equipamento": [
+      "carretilha grande",
+      "carretilha pesada",
+      "carretilha média",
+      "vara",
+      "linha 60"
+    ],
+    "iscas": [
+      "isca viva",
+      "jacundá"
+    ],
+    "cevadas": [],
+    "grãos": [],
+    "tecnica": [
+      "pesca com isca viva",
+      "estratégia de lançamento na boca dos peixes"
+    ],
+    "rios": [
+      "rio Telespires"
+    ],
+    "localidades": [
+      "Poço do Marimbondo",
+      "Ilha da Confusão"
+    ]
+  }
+}

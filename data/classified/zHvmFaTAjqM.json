@@ -1,0 +1,33 @@
+{
+  "arquivo": "zHvmFaTAjqM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:22:44.586150",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "vara"
+    ],
+    "iscas": [
+      "minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "pesca com isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

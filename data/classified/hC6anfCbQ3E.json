@@ -1,0 +1,26 @@
+{
+  "arquivo": "hC6anfCbQ3E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:57:30.268376",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Linha",
+      "Bolsa",
+      "Barco",
+      "Celular"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

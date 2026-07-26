@@ -1,0 +1,33 @@
+{
+  "arquivo": "jmdz6yloXMs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:09:42.008559",
+  "classificacao": {
+    "species": [
+      "tucunaré",
+      "traíra",
+      "peixe azul",
+      "peixe amarelo"
+    ],
+    "location": "Minas Gerais",
+    "size": "46.5 cm",
+    "time": "midday",
+    "difficulty": "fish escaping",
+    "equipment": [
+      "anzol",
+      "linha",
+      "régua",
+      "fiote"
+    ],
+    "techniques": [],
+    "results": [
+      "caught a large fish",
+      "some smaller fish"
+    ],
+    "comments": [
+      "que situação doida hein",
+      "poxa vida",
+      "não pode nem reclamar da pescaria"
+    ]
+  }
+}

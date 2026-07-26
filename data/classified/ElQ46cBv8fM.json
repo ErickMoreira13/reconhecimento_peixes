@@ -1,0 +1,34 @@
+{
+  "arquivo": "ElQ46cBv8fM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:08:08.500727",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "vara",
+      "mulinete",
+      "varal",
+      "aquário"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Ponta Negra"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Norte",
+    "municipio": "Natal",
+    "tipo_pesca": [
+      "pesca com vara"
+    ],
+    "observacoes": [
+      "peixe de grande porte",
+      "preparação de refeições com o peixe capturado",
+      "uso de ceva em recipiente perfurado"
+    ]
+  }
+}

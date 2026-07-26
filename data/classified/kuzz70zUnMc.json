@@ -1,0 +1,27 @@
+{
+  "arquivo": "kuzz70zUnMc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:14:21.270804",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Atabarana"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Uruguai",
+      "Paranã"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": "Dourados praticam canibalismo em cardumes. Machos raramente ultrapassam 8 kg, enquanto fêmeas podem atingir mais de 12 kg em ambientes favoráveis. Atabarana é um parente próximo do dourado, com cor prateada e tamanho menor, vivendo em águas rápidas e cachoeiras."
+  }
+}

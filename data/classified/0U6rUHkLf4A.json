@@ -1,0 +1,29 @@
+{
+  "arquivo": "0U6rUHkLf4A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:32:06.649418",
+  "classificacao": {
+    "especies": [
+      "Raia",
+      "Cação",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Espinhel"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Espinhel"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Espinhel"
+    ],
+    "observacoes": []
+  }
+}

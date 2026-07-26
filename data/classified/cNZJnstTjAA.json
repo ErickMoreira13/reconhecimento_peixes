@@ -1,0 +1,23 @@
+{
+  "arquivo": "cNZJnstTjAA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:48:02.912151",
+  "classificacao": {
+    "especies": [
+      "Lepa",
+      "Bitelo",
+      "Monstro"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

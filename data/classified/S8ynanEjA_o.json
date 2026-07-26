@@ -1,0 +1,33 @@
+{
+  "arquivo": "S8ynanEjA_o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:57:03.976823",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "ganheta",
+      "vara",
+      "chicote",
+      "antena",
+      "palminho",
+      "boiadinho",
+      "cevadeira"
+    ],
+    "tecnicas": [
+      "Torpedo",
+      "Direitinho",
+      "Meia água",
+      "Superfície"
+    ],
+    "iscas": [
+      "palminho",
+      "boiadinho"
+    ],
+    "localidades": [],
+    "produtos": [],
+    "marcas": [],
+    "observacoes": []
+  }
+}

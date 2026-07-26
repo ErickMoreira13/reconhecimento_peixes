@@ -1,0 +1,30 @@
+{
+  "arquivo": "x22gcCh2nOo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:09:53.662251",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A soja deve ser colocada no balde deixando espaço para inchar",
+      "Água quente acelera o processo de inchaço",
+      "Vinagre, açúcar e sal são adicionados para finalizar a ceva",
+      "A ceva é deixada para azedar por até 10 dias"
+    ]
+  }
+}

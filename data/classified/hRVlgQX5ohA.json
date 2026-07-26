@@ -1,0 +1,25 @@
+{
+  "arquivo": "hRVlgQX5ohA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:11:34.794248",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

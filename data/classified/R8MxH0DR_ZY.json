@@ -1,0 +1,26 @@
+{
+  "arquivo": "R8MxH0DR_ZY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:59:09.572873",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "multifilamento",
+      "girador",
+      "chumbo",
+      "stop",
+      "anzol",
+      "castor"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "dfzNfFONjrg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:52:20.728434",
+  "classificacao": {
+    "especies": [
+      "Tabarana"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Boia",
+      "Carretilha",
+      "Escada",
+      "Raminha de cobre",
+      "Vara"
+    ],
+    "iscas": [
+      "Tuvida"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Deixar o peixe comer",
+      "Pesca com boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "O peixe estava comendo no fundo",
+      "As tabaranas estavam manhosas e não queriam pular",
+      "Duas tabaranas foram pescadas, cada uma com aproximadamente um quilo"
+    ]
+  }
+}

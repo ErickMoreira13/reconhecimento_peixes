@@ -1,0 +1,24 @@
+{
+  "arquivo": "mAeKWBkn0rE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:53:50.533787",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Red Dot",
+      "Monóculo de Visão Noturna"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Noturna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

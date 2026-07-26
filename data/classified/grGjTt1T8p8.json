@@ -1,0 +1,35 @@
+{
+  "arquivo": "grGjTt1T8p8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:15:37.011397",
+  "classificacao": {
+    "especies": [
+      "Siluridae"
+    ],
+    "equipamentos": [
+      "Chifrinho"
+    ],
+    "iscas": [
+      "Massa com Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Massa mole"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Técnica de uso da massa mole com chifrinho para atrair silapia"
+    ]
+  }
+}

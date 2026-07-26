@@ -1,0 +1,23 @@
+{
+  "arquivo": "7oOMfKkEhUY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:43:35.941076",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Gazalha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

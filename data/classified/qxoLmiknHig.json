@@ -1,0 +1,39 @@
+{
+  "arquivo": "qxoLmiknHig",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:36:42.558984",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Cabo de aço",
+      "Garateia",
+      "Snap",
+      "Anzol rubaleiro"
+    ],
+    "iscas": [
+      "Sardinha",
+      "Camarão",
+      "Lula"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Cortar a isca ao meio",
+      "Usar cabo de aço e garateia",
+      "Fazer pequenos cortes na isca",
+      "Formar penca de camarões",
+      "Preparar lula com rebarba"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca no mar"
+    ],
+    "observacoes": [
+      "Usar camarão fresco e evitar conservantes",
+      "Fazer pequenos cortes na sardinha para atrair mais o peixe"
+    ]
+  }
+}

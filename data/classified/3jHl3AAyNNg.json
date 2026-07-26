@@ -1,0 +1,48 @@
+{
+  "arquivo": "3jHl3AAyNNg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:09:14.948709",
+  "classificacao": {
+    "especies": [
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Carretilha de perfil baixo",
+      "Linha de multi fina",
+      "Vara para pescar piapara",
+      "Chumbada",
+      "Amortecedor",
+      "Girador",
+      "Líder de flúor",
+      "Anzolzinho"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "tecnicas": [
+      "Rodadinha"
+    ],
+    "rivers": [
+      "Rio Paraná"
+    ],
+    "bacias": [],
+    "estado": "Argentina",
+    "municipio": "La Serena",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Uso de linha colorida não afeta a pesca",
+      "Importância de usar linha fina e de qualidade",
+      "Técnica de usar líder de flúor longo",
+      "Necessidade de colocar bastante linha",
+      "A boca da piapara é molinha e pode ser difícil de subir"
+    ]
+  }
+}

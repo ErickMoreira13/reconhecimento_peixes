@@ -1,0 +1,25 @@
+{
+  "arquivo": "ktTmB9Q5yWM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:11:48.811867",
+  "classificacao": {
+    "especies": [
+      "Tubarão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio da fome"
+    ],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Paulino Neves",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Tubarão lixa preso em laguna de água salobra durante maré cheia, esperando maré alta para retornar ao mar"
+    ]
+  }
+}

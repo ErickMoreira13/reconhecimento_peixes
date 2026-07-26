@@ -1,0 +1,25 @@
+{
+  "arquivo": "EZ1Su0KhCZs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:57:32.051864",
+  "classificacao": {
+    "especies": [
+      "Espinhão"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "cortar isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

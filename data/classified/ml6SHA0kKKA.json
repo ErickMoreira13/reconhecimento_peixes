@@ -1,0 +1,29 @@
+{
+  "arquivo": "ml6SHA0kKKA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:18:33.498938",
+  "classificacao": {
+    "especies": [
+      "Jacaré"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Parnaíba",
+      "Rio Igarassu",
+      "Rio Tatus"
+    ],
+    "bacias": [
+      "Bacia do Parnaíba"
+    ],
+    "estado": "Piauí",
+    "municipio": "Parnaíba",
+    "tipo_pesca": [],
+    "observacoes": "Documentário sobre o Delta do Parnaíba, incluindo paisagens, dunas, manguezais e a presença de jacarés."
+  }
+}

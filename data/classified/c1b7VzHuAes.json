@@ -1,0 +1,34 @@
+{
+  "arquivo": "c1b7VzHuAes",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:54:16.579319",
+  "classificacao": {
+    "especies": [
+      "caixara"
+    ],
+    "equipamento": {
+      "vara": [
+        "vara de 50 libras (Evolution GT, carbono sólido)",
+        "vara de 60 libras (GT2, carbono sólido)"
+      ],
+      "carretilha": "Big Game, 100 metros de linha, 0,35 (multifilamento), 0,60 (monofilamento)",
+      "molinete": "tamanho 4 mil a 5 mil"
+    },
+    "isca": [
+      "isca branca",
+      "pial",
+      "branquinha",
+      "papaterra",
+      "matrinchã"
+    ],
+    "locais": [
+      "paredão de pedra",
+      "praia",
+      "mato"
+    ],
+    "anzol": [
+      "anzol 8 barra 0",
+      "anzol 10 barra 0"
+    ]
+  }
+}

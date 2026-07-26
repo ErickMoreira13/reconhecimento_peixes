@@ -1,0 +1,37 @@
+{
+  "arquivo": "gFsnjXnE-u8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:37:36.195725",
+  "classificacao": {
+    "resumo_da_receita": {
+      "ingredientes_principais": [
+        "piranha (peixe)",
+        "molho de tomate",
+        "batata",
+        "leite de coco (ou leite de vaca, conforme a preferência)",
+        "temperos: pimenta limão, pimenta paprika fumegada, colorau, açafrão, manjericão, louro, alho, cebola",
+        "arroz",
+        "queijo ralado",
+        "milho",
+        "abobrinha verde (opcional)"
+      ],
+      "passos_principais": [
+        "Cozinhar a piranha em água com temperos (alho, cebola, louro, manjericão) até ficar macia.",
+        "Preparar um molho com molho de tomate, batata, leite de coco e temperos (pimenta limão, paprika fumegada, colorau, açafrão).",
+        "Misturar o molho com a piranha cozida e deixar ferver por mais alguns minutos.",
+        "Servir o molho sobre arroz cozido, polvilhado com queijo ralado e milho. A abobrinha verde pode ser adicionada como acompanhamento.",
+        "Ajustar o sal no final, pois o molho já contém sal devido aos temperos."
+      ],
+      "dicas_e_variações": {
+        "tempero_da_lu": "Uma combinação específica de temperos (pimenta limão, paprika fumegada, colorau, açafrão) usada para dar sabor característico ao molho.",
+        "substituições": "O leite de coco pode ser substituído por leite de vaca para uma versão mais leve.",
+        "servir_com": "O prato é servido com arroz, queijo ralado e milho. A abobrinha verde é opcional, mas complementa o sabor."
+      },
+      "contexto_cultural": {
+        "nome_do_prato": "Molho de piranha",
+        "origem": "Receita tradicional da região do Rio Grande do Sul, Brasil, com influências culinárias locais.",
+        "anecdota": "A receita inclui uma referência pessoal à "
+      }
+    }
+  }
+}

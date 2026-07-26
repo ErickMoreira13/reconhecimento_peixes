@@ -1,0 +1,30 @@
+{
+  "arquivo": "BhqL9K-Am7A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:14:29.617087",
+  "classificacao": {
+    "especies": [
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Swivel",
+      "Olive Sinker",
+      "Hook",
+      "Line",
+      "Nail Clipper",
+      "Leader"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Chicotinho"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

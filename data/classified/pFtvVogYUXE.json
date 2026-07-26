@@ -1,0 +1,29 @@
+{
+  "arquivo": "pFtvVogYUXE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:06:30.270780",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Bomba"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com bomba",
+      "Pesca destrutiva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca ilegal"
+    ],
+    "observacoes": [
+      "Método de pesca que causa morte de peixes",
+      "Prática prejudicial ao ecossistema aquático"
+    ]
+  }
+}

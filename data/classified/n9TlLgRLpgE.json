@@ -1,0 +1,22 @@
+{
+  "arquivo": "n9TlLgRLpgE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:25:13.030797",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "base piloto",
+      "equipe naka"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Itanhaém",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

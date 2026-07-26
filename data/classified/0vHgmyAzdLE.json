@@ -1,0 +1,34 @@
+{
+  "arquivo": "0vHgmyAzdLE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:33:14.284074",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau",
+      "Branquinha",
+      "Matrincha"
+    ],
+    "equipamentos": [
+      "Tambor",
+      "Trato"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Ceva"
+    ],
+    "observacoes": []
+  }
+}

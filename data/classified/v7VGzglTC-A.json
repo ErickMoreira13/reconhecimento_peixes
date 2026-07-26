@@ -1,0 +1,40 @@
+{
+  "arquivo": "v7VGzglTC-A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:37:20.578946",
+  "classificacao": {
+    "especies": [
+      "Pirarucu",
+      "Traíra",
+      "Pirapitinga",
+      "Piranha",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Machado",
+      "Câmera",
+      "Caiaque"
+    ],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Teste",
+      "Passagem de isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Chuva durante a pesca",
+      "Pescaria em ambiente com chuva",
+      "Captura de pirarucu, traíra, pirapitinga e piranha",
+      "Uso de caiaque e câmera durante a pescaria"
+    ]
+  }
+}

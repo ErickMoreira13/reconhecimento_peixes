@@ -1,0 +1,37 @@
+{
+  "arquivo": "FBN9TCV7vLM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:06:28.015950",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Lambari",
+      "Jacundá"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Anzol",
+      "Chumbada"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Bichinho de Laranja"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Areado",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Liberação de peixes menores",
+      "Uso de minhoca e bichinho de laranja como iscas"
+    ]
+  }
+}

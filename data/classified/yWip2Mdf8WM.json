@@ -1,0 +1,30 @@
+{
+  "arquivo": "yWip2Mdf8WM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:32:26.980890",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Traia"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Lambada",
+      "Trapeia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Santana da Varge",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

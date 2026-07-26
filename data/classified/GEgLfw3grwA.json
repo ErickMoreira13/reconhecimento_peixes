@@ -1,0 +1,15 @@
+{
+  "arquivo": "GEgLfw3grwA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:34:48.454295",
+  "classificacao": {
+    "summary": "O texto parece ser um relato informal de uma pessoa que está pescando, descrevendo o processo de captura de peixes, os tipos de peixes pegos (como um 'julhão', que pode ser um apelido ou termo específico de pesca), e compartilhando anedotas pessoais. O tom é entusiasmado e envolvente, com detalhes sobre a experiência de pesca e possivelmente uma conexão emocional com a atividade.",
+    "possible_requests": [
+      "Traduzir o texto para o inglês",
+      "Resumir o conteúdo em português",
+      "Analisar o tom e o propósito do texto",
+      "Identificar termos específicos de pesca mencionados"
+    ],
+    "next_steps": "Por favor, esclareça qual ação deseja que eu execute com o texto (ex: traduzir, resumir, analisar, etc.)."
+  }
+}

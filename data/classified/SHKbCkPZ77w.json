@@ -1,0 +1,46 @@
+{
+  "arquivo": "SHKbCkPZ77w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:02:27.731700",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Shimano Curado 50",
+      "Benkei Major Craft",
+      "YGK",
+      "Venator 5,6",
+      "Venator 70",
+      "Ocuma 10 a 20 libras",
+      "Molinete Venator"
+    ],
+    "iscas": [
+      "isca de superfície",
+      "isca de stick",
+      "isca meia água suspending",
+      "isca meia água sinking",
+      "isca floating",
+      "isca barbeluda",
+      "isca soft",
+      "gig",
+      "gigues de penacho",
+      "gigues de pena"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "trabalho de toque de vara com recolhimento contínuo",
+      "trabalho de esticar a isca",
+      "trabalho com gig tocando no fundo",
+      "recolhimento contínuo",
+      "trabalho de isca na meia água"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

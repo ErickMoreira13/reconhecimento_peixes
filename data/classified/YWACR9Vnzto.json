@@ -1,0 +1,40 @@
+{
+  "arquivo": "YWACR9Vnzto",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:31:28.625812",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Pintado",
+      "Tambaqui",
+      "Jundiá",
+      "Caixara",
+      "Pincaixara",
+      "Caixapira"
+    ],
+    "equipamentos": [
+      "Super Catfish da Croll 2 barra 0",
+      "Anzol 2 barra 0"
+    ],
+    "iscas": [
+      "Calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Iscagem de calabresa",
+      "Trabalho na costura",
+      "Solto na beira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "A calabresa é utilizada como isca para peixes de couro, pirarara, pincaxara, pintado, cachapira e jundiá. A técnica de isca pode variar conforme o gosto pessoal, incluindo cortar a calabresa no meio ou usar a isca inteira."
+    ]
+  }
+}

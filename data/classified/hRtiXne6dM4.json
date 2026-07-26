@@ -1,0 +1,29 @@
+{
+  "arquivo": "hRtiXne6dM4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:11:20.857070",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Kayak"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Pescaria em caiaque",
+      "Presença de um pirarara de grande porte",
+      "Menciona o pescador Baca"
+    ]
+  }
+}

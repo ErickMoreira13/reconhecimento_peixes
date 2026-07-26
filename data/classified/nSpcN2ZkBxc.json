@@ -1,0 +1,44 @@
+{
+  "arquivo": "nSpcN2ZkBxc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:25:39.750778",
+  "classificacao": {
+    "summary": {
+      "location": "Rio Araguaia, Brazil",
+      "hotel": "Hotel do Pescador",
+      "participants": [
+        "Maurício",
+        "Kim",
+        "Gerson",
+        "Jesse (guide)"
+      ],
+      "activities": {
+        "fishing": {
+          "fish_caught": [
+            "dourada (golden fish)",
+            "cachorra (another fish species)"
+          ],
+          "challenges": "difficulty in catching large fish",
+          "tools": "fishing rods, reels, bait"
+        },
+        "experience": "excitement, camaraderie, and technical discussions about fishing techniques"
+      },
+      "hotel_details": {
+        "services": "good food, friendly staff, comfortable accommodations",
+        "recommendation": "highly recommended for fishing trips"
+      },
+      "mood": "enthusiastic, celebratory, and focused on the adventure"
+    },
+    "key_points": {
+      "1": "The group successfully caught several fish, including dourada and cachorra, despite challenges with larger fish.",
+      "2": "Jesse, the guide, played a crucial role in the fishing process, providing expertise and support.",
+      "3": "The Hotel do Pescador is highlighted as a great base for the trip, with positive feedback on its services and food.",
+      "4": "The text reflects the group's excitement and the collaborative nature of the fishing experience."
+    },
+    "additional_notes": {
+      "language": "Portuguese",
+      "tone": "informal, enthusiastic, and repetitive (likely a transcription of a conversation or voice recording)",
+      "possible_cultural_context": "Fishing in the Rio Araguaia is a popular activity in Brazil, often associated with adventure and local traditions."
+    }
+  }
+}

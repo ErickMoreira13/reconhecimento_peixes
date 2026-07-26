@@ -1,0 +1,31 @@
+{
+  "arquivo": "qsUw4rvAb4A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:21:18.447724",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "pedra"
+    ],
+    "iscas": [
+      "cabeça de salmão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca com ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com ceva"
+    ],
+    "observacoes": []
+  }
+}

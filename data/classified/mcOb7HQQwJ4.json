@@ -1,0 +1,61 @@
+{
+  "arquivo": "mcOb7HQQwJ4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:56:41.249740",
+  "classificacao": {
+    "especies": [
+      "Pirapitinga",
+      "Jaú",
+      "Piranha",
+      "Piranha (grande)",
+      "Pacia",
+      "Peixe de couro"
+    ],
+    "equipamentos": [
+      "Isca",
+      "Linha",
+      "Molinete",
+      "Alicate"
+    ],
+    "iscas": [
+      "Isca",
+      "Sangue",
+      "Milho"
+    ],
+    "cevas": [
+      {
+        "tipo": "Ceva Natural",
+        "descricao": "Milho"
+      },
+      {
+        "tipo": "Ceva Aromática",
+        "descricao": "Sangue"
+      }
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca com isca",
+      "Pesca com linha",
+      "Pesca com molinete"
+    ],
+    "rios": [],
+    "bacias": [
+      "Bacia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipos_de_pesca": [
+      "Pesca com isca",
+      "Pesca com ceva",
+      "Pesca com linha",
+      "Pesca com molinete"
+    ],
+    "observacoes": [
+      "Pescaria não rendeu muita coisa",
+      "Convidadas pegaram os peixes",
+      "Gravando o vídeo"
+    ]
+  }
+}

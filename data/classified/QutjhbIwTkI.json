@@ -1,0 +1,25 @@
+{
+  "arquivo": "QutjhbIwTkI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:22:51.453204",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com as mãos"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A estratégia das carpas capim que buscam alimento nas margens, ou oxigênio nos dias quentes, principalmente em águas paradas, torna-as presas fáceis para os pescadores que conseguem pegar muitas sem nem usarem varas de pesca."
+    ]
+  }
+}

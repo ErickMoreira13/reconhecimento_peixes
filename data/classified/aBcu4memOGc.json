@@ -1,0 +1,22 @@
+{
+  "arquivo": "aBcu4memOGc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:19:52.278799",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra"
+    ],
+    "localizacao": "Presidente Figueiredo, Amazonas",
+    "regiao": "Amazônia",
+    "equipamento": [],
+    "tecnicas": [
+      "arremesso próximo a tocos grandes",
+      "uso de iscas"
+    ],
+    "observacoes": [
+      "O Tucunaré Vazoleri foi identificado como a última espécie da família Cichlidae no Brasil em 2006",
+      "A área possui presença de araras (arara-azul e arara-vermelha)"
+    ]
+  }
+}

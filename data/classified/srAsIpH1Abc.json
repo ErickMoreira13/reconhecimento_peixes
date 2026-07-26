@@ -1,0 +1,35 @@
+{
+  "arquivo": "srAsIpH1Abc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:51:27.003502",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Piramboia",
+      "Dourado",
+      "Piaparinha",
+      "Isquinha",
+      "Sardinhão",
+      "Saguiru"
+    ],
+    "equipamentos": [
+      "Peneirão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria com peneirão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria com peneirão"
+    ],
+    "observacoes": [
+      "Problema no cartão de memória que cortou o vídeo. Preparação para a abertura da piracema."
+    ]
+  }
+}

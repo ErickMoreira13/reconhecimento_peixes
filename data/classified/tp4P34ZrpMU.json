@@ -1,0 +1,32 @@
+{
+  "arquivo": "tp4P34ZrpMU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:12:02.686988",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque",
+      "Tuna 115"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca de caiaque"
+    ],
+    "rios": [
+      "riozinho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de caiaque"
+    ],
+    "observacoes": [
+      "espinhel amarrado com cordas no rio",
+      "discussão sobre a remoção de espinhel por segurança",
+      "presença de árvores caídas e poeira no local"
+    ]
+  }
+}

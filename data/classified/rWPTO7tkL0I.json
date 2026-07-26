@@ -1,0 +1,30 @@
+{
+  "arquivo": "rWPTO7tkL0I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:37:13.150985",
+  "classificacao": {
+    "especies": [
+      "Tucunaré Azul"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Bitella",
+      "Midori",
+      "Yoshi",
+      "Caiaque",
+      "Robo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Santa Fé",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

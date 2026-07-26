@@ -1,0 +1,23 @@
+{
+  "arquivo": "McdYdi1mKqM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:56:21.344473",
+  "classificacao": {
+    "especies": [
+      "Surubim"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca noturna"
+    ],
+    "observacoes": "A lua nova e a minguante são as melhores, porque a noite fica mais escura e o surubim se sente seguro para caçar. Já na lua cheia, ele enxerga melhor e costuma ficar mais desconfiado."
+  }
+}

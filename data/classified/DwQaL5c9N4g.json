@@ -1,0 +1,34 @@
+{
+  "arquivo": "DwQaL5c9N4g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:08:42.163566",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "vara de três metros",
+      "linha fina 0.25",
+      "chumbadinha solta",
+      "serva"
+    ],
+    "ceva": [
+      "milho",
+      "ceva nova"
+    ],
+    "isca": [
+      "grãozinho de milho"
+    ],
+    "local": "Reservatório Jaguari, Bragança",
+    "dicas": [
+      "Usar linha fina (0.25) devido ao vento",
+      "Lançar contra o vento",
+      "Usar chumbadinha solta para manter a isca na água"
+    ],
+    "técnicas": [
+      "Lançar a isca para o lado onde o vento está soprando",
+      "Usar linha fina para reduzir resistência na água",
+      "Ajustar a isca com chumbadinha solta"
+    ]
+  }
+}

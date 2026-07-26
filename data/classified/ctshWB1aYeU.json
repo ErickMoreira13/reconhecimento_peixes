@@ -1,0 +1,35 @@
+{
+  "arquivo": "ctshWB1aYeU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:14:13.455322",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Corimba",
+      "Trinchã",
+      "Matrinchão"
+    ],
+    "equipamentos": [
+      "Sufix Dura Flex",
+      "Maroseigo",
+      "Super Maroseigo"
+    ],
+    "iscas": [
+      "isca-viva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca-viva",
+      "pesca na ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

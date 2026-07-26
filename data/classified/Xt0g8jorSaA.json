@@ -1,0 +1,29 @@
+{
+  "arquivo": "Xt0g8jorSaA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:22:48.903307",
+  "classificacao": {
+    "especies": [
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Fisga"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

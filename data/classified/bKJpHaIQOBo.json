@@ -1,0 +1,34 @@
+{
+  "arquivo": "bKJpHaIQOBo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:17:21.367252",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Jundiá",
+      "Carazão"
+    ],
+    "equipamentos": [
+      "Boia",
+      "Anzol",
+      "Câmera"
+    ],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Curva do rio",
+      "Peixada"
+    ]
+  }
+}

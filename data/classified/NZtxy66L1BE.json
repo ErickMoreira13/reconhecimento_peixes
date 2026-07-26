@@ -1,0 +1,65 @@
+{
+  "arquivo": "NZtxy66L1BE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:49:59.021172",
+  "classificacao": {
+    "especies": [
+      "Alobó",
+      "Traíra",
+      "Saicanga",
+      "Lambari",
+      "Tucunaré",
+      "Curvinha",
+      "Jurupena",
+      "Pernilongo",
+      "Mosquitinho",
+      "Curvina",
+      "Limão"
+    ],
+    "equipamentos": [
+      "Zig Zarin",
+      "Fire Stick",
+      "Barco",
+      "Espetos",
+      "Câmera",
+      "Baterias",
+      "Luz"
+    ],
+    "iscas": [
+      "Spinner"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca noturna",
+      "Uso de luz",
+      "Lançamento de isca",
+      "Pescaria com spinner",
+      "Pesca em lagoas",
+      "Pesca em rios"
+    ],
+    "rios": [
+      "Rio",
+      "Rio da beira",
+      "Rio do cordão",
+      "Rio do Mato Grosso"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca noturna",
+      "Pesca em lagoas",
+      "Pesca em rios"
+    ],
+    "observacoes": [
+      "Água clara",
+      "Muita isca no rio",
+      "Encontro com jacaré",
+      "Dificuldade para pescar",
+      "Fogo no local",
+      "Uso de câmera com baterias"
+    ]
+  }
+}

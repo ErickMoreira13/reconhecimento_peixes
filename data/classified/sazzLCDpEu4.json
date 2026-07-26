@@ -1,0 +1,23 @@
+{
+  "arquivo": "sazzLCDpEu4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:58:57.538219",
+  "classificacao": {
+    "especies": [
+      "Turvira"
+    ],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

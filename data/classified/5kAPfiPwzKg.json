@@ -1,0 +1,22 @@
+{
+  "arquivo": "5kAPfiPwzKg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:16:27.870782",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": "Uso de essência de baunilha vencida, substituível por suco em pó, gelatina ou sem saborizante. Adição de farinha de mandioca para melhorar textura e consistência."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "vD1O0yW4zH0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:43:47.562299",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pirarara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Lagão Curumbá"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Água meio suja, dificuldade em pescar Piau"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "soYPQH3b0iA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T19:26:21.802480",
+  "classificacao": {
+    "especies": [
+      "Surubim",
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Paraupeba",
+      "São Francisco",
+      "Indaiá"
+    ],
+    "bacias": [
+      "Bacia do São Francisco"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

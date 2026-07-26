@@ -1,0 +1,43 @@
+{
+  "arquivo": "O4UCLxMCePM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:11:04.960757",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Carpa",
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Vara",
+      "Anzol"
+    ],
+    "iscas": [
+      "Bichinho",
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Fermentação",
+      "Umedecimento",
+      "Preparação de ceva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Ceva fermentada",
+      "Uso de fubá e bolacha",
+      "Eficiência na pesca de tilápia"
+    ]
+  }
+}

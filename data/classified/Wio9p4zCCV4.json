@@ -1,0 +1,29 @@
+{
+  "arquivo": "Wio9p4zCCV4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:07:45.166245",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Atumã"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "Amazonas",
+    "municipio": "Rio Atumã",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

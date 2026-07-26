@@ -1,0 +1,26 @@
+{
+  "arquivo": "cynFsY99lhY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:36:42.237358",
+  "classificacao": {
+    "especies": [
+      "Raia",
+      "Pilombeta"
+    ],
+    "equipamentos": [
+      "Pilombeta"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

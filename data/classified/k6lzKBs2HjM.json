@@ -1,0 +1,31 @@
+{
+  "arquivo": "k6lzKBs2HjM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:41:14.105822",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "girador snap miçanga",
+      "rotor pargueira light",
+      "rotor florescente",
+      "pernada",
+      "chumbo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de praia",
+      "pesca em pier"
+    ],
+    "observacoes": [
+      "o rotor de baixo deve ficar próximo do chumbo",
+      "a pernada inferior deve ser mais longa (até 80 cm) para que o anzol encoste na areia"
+    ]
+  }
+}

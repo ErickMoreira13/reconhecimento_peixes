@@ -1,0 +1,26 @@
+{
+  "arquivo": "XS-G8kA9hc4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:21:38.311797",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Casca de batata"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

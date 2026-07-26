@@ -1,0 +1,26 @@
+{
+  "arquivo": "MLbreC7Pvbw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T23:18:53.171274",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "tarrafa",
+      "rede de pesca",
+      "malhadeira de agulhinha",
+      "agulha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca de tarrafa",
+      "pesca sub"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "pesca de tarrafa",
+    "observacoes": "O vídeo destaca a pesca em águas cristalinas, com ênfase na técnica de tarrafa e na beleza do ambiente natural. O local é descrito como uma área com piscinas naturais, mas não são mencionados nomes específicos de rios ou bacias."
+  }
+}

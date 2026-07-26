@@ -1,0 +1,28 @@
+{
+  "arquivo": "JmYL5Mgj4q4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:10:06.935742",
+  "classificacao": {
+    "especies": [
+      "Caranha"
+    ],
+    "equipamentos": [
+      "Equipamento de arpão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Disparo de Frente",
+      "Pesca Subaquática"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Subaquática"
+    ],
+    "observacoes": []
+  }
+}

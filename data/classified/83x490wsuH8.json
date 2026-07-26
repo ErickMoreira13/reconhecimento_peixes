@@ -1,0 +1,38 @@
+{
+  "arquivo": "83x490wsuH8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:08:53.824445",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Passaguá"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Carretilha BFS",
+      "Varinha 2,6 Libras"
+    ],
+    "iscas": [
+      "Sardinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio do Barranco"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Anzal"
+    ],
+    "observacoes": [
+      "Pescaria muito difícil",
+      "Rio com correnteza forte",
+      "Uso de peixe como isca"
+    ]
+  }
+}

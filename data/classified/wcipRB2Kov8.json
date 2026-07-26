@@ -1,0 +1,23 @@
+{
+  "arquivo": "wcipRB2Kov8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:01:37.554381",
+  "classificacao": {
+    "especies": [
+      "Bagre"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Uruguai"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

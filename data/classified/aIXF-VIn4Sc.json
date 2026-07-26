@@ -1,0 +1,22 @@
+{
+  "arquivo": "aIXF-VIn4Sc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:47:01.339286",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "ganchos",
+      "plomo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

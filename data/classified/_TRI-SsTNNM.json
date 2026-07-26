@@ -1,0 +1,20 @@
+{
+  "arquivo": "_TRI-SsTNNM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:31:59.109647",
+  "classificacao": {
+    "summary": "O texto é uma transcrição de um vídeo informal, provavelmente relacionado a pesca, com conversas entre participantes que discutem técnicas, equipamentos e experiências. Destacam-se termos como 'milho' (isca), 'chuveirinho rabiola' (tipo de isca), e referências a locais como 'Jardim Represa' e 'Marina Dona Rosa'. Há menções a nomes de pessoas (Daltão, Marcelão, Adalto, etc.) e uma linguagem coloquial com interjeições e expressões informais. O conteúdo parece ser uma discussão entre amigos sobre práticas de pesca, possivelmente com elementos de humor ou troca de experiências.",
+    "key_points": [
+      "Menciona técnicas de pesca com iscas específicas (milho, chuveirinho rabiola).",
+      "Referências a locais de pesca (Jardim Represa, Marina Dona Rosa).",
+      "Conversas informais entre participantes com nomes como Daltão, Marcelão e Adalto.",
+      "Linguagem coloquial e interações sociais."
+    ],
+    "possible_requests": [
+      "Tradução para outro idioma",
+      "Análise de técnicas de pesca mencionadas",
+      "Identificação de locais ou termos específicos",
+      "Resumo mais detalhado das interações sociais"
+    ]
+  }
+}

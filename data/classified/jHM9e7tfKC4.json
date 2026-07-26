@@ -1,0 +1,23 @@
+{
+  "arquivo": "jHM9e7tfKC4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:02:24.296012",
+  "classificacao": {
+    "especies": [
+      "xarel"
+    ],
+    "equipamentos": [
+      "anzal"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

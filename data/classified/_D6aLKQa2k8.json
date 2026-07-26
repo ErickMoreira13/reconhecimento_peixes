@@ -1,0 +1,24 @@
+{
+  "arquivo": "_D6aLKQa2k8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:56:42.433048",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "canoa",
+      "anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio claro"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

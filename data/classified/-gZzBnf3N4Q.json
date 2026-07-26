@@ -1,0 +1,53 @@
+{
+  "arquivo": "-gZzBnf3N4Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:17:47.071069",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Manduca",
+      "Lambari",
+      "Barbado"
+    ],
+    "equipamentos": [
+      "Varinha de molinete",
+      "Telescópica"
+    ],
+    "iscas": [
+      "Artificial",
+      "Quirera",
+      "Milho",
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Quirera"
+    ],
+    "tecnicas": [
+      "Pesca de peste-couro",
+      "Pesca com iscas artificiais",
+      "Pesca com iscas naturais"
+    ],
+    "rios": [
+      "Rio Claro"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Rio Claro",
+    "tipo_pesca": [
+      "Pesca esportiva",
+      "Pesca recreativa"
+    ],
+    "observacoes": [
+      "Pescaria realizada no final do dia",
+      "Dificuldade em capturar peixes",
+      "Uso de iscas naturais e artificiais",
+      "Liberação de alguns peixes capturados"
+    ]
+  }
+}

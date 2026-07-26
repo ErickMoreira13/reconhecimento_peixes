@@ -1,0 +1,53 @@
+{
+  "arquivo": "MRuSzwesXF4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:03:22.763513",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha",
+      "Anzol",
+      "Molinetes",
+      "Carretilhas",
+      "Empates de aço"
+    ],
+    "iscas": [
+      "Farinha",
+      "Caranguejos",
+      "Massinha",
+      "Minhocas",
+      "Fígados de boi",
+      "Frutas",
+      "Embutidos"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com cevadeira",
+      "Uso de iscas naturais",
+      "Trabalho com carretilha ou molinete",
+      "Manuseio do peixe"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [
+      "Bacia da Prata"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de pacu",
+      "Pesca em rios",
+      "Pesca em pesqueiros"
+    ],
+    "observacoes": [
+      "Tomar cuidado ao manusear o peixe",
+      "Vista-se para a briga",
+      "Evitar comidas muito diferentes"
+    ]
+  }
+}

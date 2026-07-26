@@ -1,0 +1,21 @@
+{
+  "arquivo": "O91qiYdruI0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:13:54.837087",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "5KBgAefOlvA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:16:35.093606",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Trinchada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

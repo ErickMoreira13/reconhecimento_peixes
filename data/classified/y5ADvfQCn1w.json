@@ -1,0 +1,37 @@
+{
+  "arquivo": "y5ADvfQCn1w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:44:14.152724",
+  "classificacao": {
+    "species": [
+      "Curvina",
+      "Sucuri"
+    ],
+    "equipment": [
+      "varinha de pesca",
+      "caiaque",
+      "gig",
+      "jig",
+      "tupperware"
+    ],
+    "baits": [
+      "isca",
+      "esquinha"
+    ],
+    "locations": [
+      "Ilha Paraíso do Sol",
+      "Ilha Solteira",
+      "acampamento"
+    ],
+    "techniques": [
+      "curricada",
+      "gig",
+      "jig"
+    ],
+    "other_terms": [
+      "jumping jig",
+      "curvina",
+      "sucunaré"
+    ]
+  }
+}

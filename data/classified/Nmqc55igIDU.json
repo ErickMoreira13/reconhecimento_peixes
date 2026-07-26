@@ -1,0 +1,25 @@
+{
+  "arquivo": "Nmqc55igIDU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:18:50.613875",
+  "classificacao": {
+    "especies": [
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Jala"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com jala"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

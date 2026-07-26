@@ -1,0 +1,21 @@
+{
+  "arquivo": "HO2fTP-h67A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:05:08.884922",
+  "classificacao": {
+    "especies": [
+      "Bruta"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

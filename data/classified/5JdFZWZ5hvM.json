@@ -1,0 +1,23 @@
+{
+  "arquivo": "5JdFZWZ5hvM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:15:07.146999",
+  "classificacao": {
+    "especies": [
+      "Piaba"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

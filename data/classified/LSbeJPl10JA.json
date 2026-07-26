@@ -1,0 +1,32 @@
+{
+  "arquivo": "LSbeJPl10JA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:46:39.321507",
+  "classificacao": {
+    "especies": [
+      "Carazinha",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "martelo",
+      "boia"
+    ],
+    "iscas": [
+      "minhoca",
+      "cebolinha",
+      "farinha de rosca",
+      "pés de cana"
+    ],
+    "graos": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": ""
+  }
+}

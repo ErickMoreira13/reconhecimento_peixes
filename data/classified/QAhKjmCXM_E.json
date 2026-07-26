@@ -1,0 +1,41 @@
+{
+  "arquivo": "QAhKjmCXM_E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:46:38.001994",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Pirapitinga"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Garateia",
+      "Passaguá",
+      "Vara de Mão"
+    ],
+    "iscas": [
+      "Frutinha",
+      "Isca Artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca Artificial",
+      "Pesca com Vara de Mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Peixe de grande porte",
+      "Linha quebrada devido à força do peixe",
+      "Uso de frutinha como isca eficaz"
+    ]
+  }
+}

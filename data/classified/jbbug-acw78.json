@@ -1,0 +1,32 @@
+{
+  "arquivo": "jbbug-acw78",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:52:25.117923",
+  "classificacao": {
+    "fish_caught": [
+      "cavala",
+      "bicudinha",
+      "baiacu arara"
+    ],
+    "bait_used": [
+      "sardinha viva",
+      "isca viva"
+    ],
+    "fishing_techniques": [
+      "uso de isca viva",
+      "engordar a isca",
+      "atarrafa (rig de pesca)"
+    ],
+    "location": "not specified",
+    "time_of_day": [
+      "early morning",
+      "later in the day (meal preparation)"
+    ],
+    "weather_conditions": "not specified",
+    "notes": [
+      "preparação de pirão com cavala, usando dendê e pimenta do reino",
+      "sucesso na pesca com uso de isca viva",
+      "menção à maré enchente como condição ambiental"
+    ]
+  }
+}

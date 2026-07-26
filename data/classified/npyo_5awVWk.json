@@ -1,0 +1,21 @@
+{
+  "arquivo": "npyo_5awVWk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:22:26.764400",
+  "classificacao": {
+    "especies": [
+      "Espada"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

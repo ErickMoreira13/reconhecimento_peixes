@@ -1,0 +1,21 @@
+{
+  "arquivo": "Gndn3tbxRYs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:00:30.696488",
+  "classificacao": {
+    "especies": [
+      "Boga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

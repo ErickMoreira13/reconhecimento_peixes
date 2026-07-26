@@ -1,0 +1,27 @@
+{
+  "arquivo": "X2vmvIZ7-1o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:10:44.956105",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caixa",
+      "balde"
+    ],
+    "iscas": [
+      "uva",
+      "camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Saco da Pombela"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

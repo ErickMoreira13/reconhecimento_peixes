@@ -1,0 +1,38 @@
+{
+  "arquivo": "v5_i_l2-9ZM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:36:17.518192",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piranha",
+      "Traíra",
+      "Sarapó"
+    ],
+    "equipamentos": [
+      "Socorro",
+      "Varinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Socorro",
+      "Pescaria de Choque"
+    ],
+    "rios": [],
+    "bacias": [
+      "Baixada Maranhense"
+    ],
+    "estado": "Maranhão",
+    "municipio": "Bequimão",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Captura de uma tartaruga chamada cangapara",
+      "Uso de técnicas de pescaria sem luvas",
+      "Mencionado o uso de um socorro feito por André"
+    ]
+  }
+}

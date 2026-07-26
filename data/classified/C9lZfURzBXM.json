@@ -1,0 +1,36 @@
+{
+  "arquivo": "C9lZfURzBXM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:17:19.094440",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Curimba"
+    ],
+    "equipamentos": [
+      "Anzol Mario Seigo 14",
+      "Borrachinha",
+      "Ração de coelho"
+    ],
+    "iscas": [
+      "Ração de coelho",
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Tilápia",
+      "Pesca de Curimba"
+    ],
+    "observacoes": [
+      "Uso de borrachinha transparente para esconder a ponta do anzol"
+    ]
+  }
+}

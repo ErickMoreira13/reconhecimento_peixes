@@ -1,0 +1,36 @@
+{
+  "arquivo": "200TpBToAz8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:04:22.176098",
+  "classificacao": {
+    "especies": [
+      "Tainha"
+    ],
+    "equipamentos": [
+      "Boia",
+      "Garrafinha"
+    ],
+    "iscas": [
+      "Fubá",
+      "Trigo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Pesca com Boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Boia"
+    ],
+    "observacoes": ""
+  }
+}

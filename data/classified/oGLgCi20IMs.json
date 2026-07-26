@@ -1,0 +1,42 @@
+{
+  "arquivo": "oGLgCi20IMs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:40:07.016896",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Minhoca"
+    ],
+    "equipamentos": [
+      "Lubina 2000",
+      "Saigon 35 libras",
+      "multifilamento",
+      "anzol 12-146",
+      "vara de 6.6 pés",
+      "Flu Carbon",
+      "cabo rígido",
+      "azol 12,146"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial"
+    ],
+    "rios": [
+      "Rio Telespílios"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca artificial"
+    ],
+    "observacoes": []
+  }
+}

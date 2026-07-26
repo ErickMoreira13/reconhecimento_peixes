@@ -1,0 +1,42 @@
+{
+  "arquivo": "Fvot6IwOPoM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:57:41.394658",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Saicanga",
+      "Branca",
+      "Jacundá",
+      "Joana",
+      "Traíra",
+      "Pintado",
+      "Jundiar",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Frigideira"
+    ],
+    "iscas": [
+      "Mortadela",
+      "Farinha de Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Isca de Mortadela"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A isca é eficaz para diversos peixes de água doce",
+      "A mortadela rende por muito tempo e pode ser congelada",
+      "A farinha de milho é usada para evitar que os cubos grudem e aumentar o atrativo"
+    ]
+  }
+}

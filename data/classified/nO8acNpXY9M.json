@@ -1,0 +1,78 @@
+{
+  "arquivo": "nO8acNpXY9M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:20:56.203544",
+  "classificacao": {
+    "species": [
+      "Cação-viola",
+      "Caçãozinho",
+      "Cação",
+      "Viola",
+      "Mara Brancinha",
+      "Dourado",
+      "Barba Branca",
+      "Raia",
+      "Pitelo",
+      "Bagre"
+    ],
+    "equipment": [
+      "Barco",
+      "Canabela",
+      "Linha",
+      "Anjol",
+      "Motor"
+    ],
+    "baits": [
+      "Queijo",
+      "Molho"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "grãos": [],
+    "techniques": [
+      "Pescaria Embarcada",
+      "Contenção",
+      "Soltura",
+      "Alçar",
+      "Remoção de Anjol"
+    ],
+    "rios": [
+      "Pir da Figueira"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria Embarcada"
+    ],
+    "observacoes": [
+      "Água-viva",
+      "Caramelo",
+      "Censura nos vídeos",
+      "Tupu na areia",
+      "Norteza",
+      "Arati",
+      "Taça e Pesca",
+      "Ferrão",
+      "Balão",
+      "Sensei",
+      "Coração",
+      "Parabéns",
+      "Fraca a pescaria",
+      "Pescador Marcão",
+      "Fotógrafo",
+      "Demone",
+      "Nota de 100",
+      "Garofona",
+      "Marcão",
+      "Barqueiro",
+      "Motorzão",
+      "Coração André",
+      "Troféu",
+      "Moleque",
+      "Pescador do jogo",
+      "Obrigado"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "RdoTUHrSdEk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:04:21.252616",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Chupanica"
+    ],
+    "equipamentos": [
+      "vara",
+      "quadradão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca de Tucunaré"
+    ],
+    "rios": [
+      "Javaé",
+      "Araguaia"
+    ],
+    "bacias": [
+      "Tocantins",
+      "Araguaia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de Tucunaré"
+    ],
+    "observacoes": [
+      "dia 20 de setembro",
+      "52 centímetros",
+      "soltura",
+      "pesca de Tucunaré no Javaé",
+      "lugar excepcional"
+    ]
+  }
+}

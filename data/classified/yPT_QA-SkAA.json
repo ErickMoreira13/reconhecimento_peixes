@@ -1,0 +1,42 @@
+{
+  "arquivo": "yPT_QA-SkAA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:24:10.322314",
+  "classificacao": {
+    "especies": [
+      "Bicuda",
+      "Tucunaré",
+      "Trinchada"
+    ],
+    "equipamentos": [
+      "Boga",
+      "Canizete",
+      "Pulsar"
+    ],
+    "iscas": [
+      "Meia-água",
+      "Rebojo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com meia-água",
+      "Pesca em rio"
+    ],
+    "rios": [
+      "Tocantins"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "Canabrava",
+    "tipo_pesca": [
+      "Pesca com meia-água",
+      "Pesca em rio"
+    ],
+    "observacoes": [
+      "Menciona a dificuldade de capturar bicuda em rios secos.",
+      "Destaca a experiência emocional de pescar em ambientes naturais.",
+      "Refere-se à técnica de uso de pulsar e boga para capturar bicuda."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "wfoRVV7_fa4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:05:11.601443",
+  "classificacao": {
+    "especies": [
+      "distraída"
+    ],
+    "equipamentos": [
+      "galão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Galão pintado de vermelho para melhor visibilidade durante a pesca."
+    ]
+  }
+}

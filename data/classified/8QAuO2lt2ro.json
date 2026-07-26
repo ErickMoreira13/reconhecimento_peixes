@@ -1,0 +1,22 @@
+{
+  "arquivo": "8QAuO2lt2ro",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:28:30.967949",
+  "classificacao": {
+    "especie": "Tilápia",
+    "equipamento": {
+      "vara": "vara",
+      "fisga": "fisga",
+      "chinuzinho": "Chinuzinho 5"
+    },
+    "isca": "Milho",
+    "ceva": {
+      "tipo": "Ceva Natural",
+      "grao": "Milho",
+      "container": "saco de milho"
+    },
+    "localizacao": {
+      "rio": "Riozão"
+    }
+  }
+}

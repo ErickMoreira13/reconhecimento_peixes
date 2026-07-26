@@ -1,0 +1,35 @@
+{
+  "arquivo": "Zq-YdXIqiSg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:41:26.530975",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Drill",
+      "Bits",
+      "PVC Pipe",
+      "Caps",
+      "Screws",
+      "Glue"
+    ],
+    "iscas": [
+      "Massa",
+      "Corn"
+    ],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Observação: Teste da ceva na represa no dia 23 de segunda-feira."
+    ]
+  }
+}

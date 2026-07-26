@@ -1,0 +1,36 @@
+{
+  "arquivo": "c_6IZA8mLYM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:17:55.281815",
+  "classificacao": {
+    "especies": [
+      "Piabinha",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Ina 60",
+      "Anzol Chinú"
+    ],
+    "iscas": [
+      "Isca parada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Iscação"
+    ],
+    "rios": [
+      "Rio São Mateus"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Peixe bastante astuto, difícil de tirar",
+      "Escapa demais"
+    ]
+  }
+}

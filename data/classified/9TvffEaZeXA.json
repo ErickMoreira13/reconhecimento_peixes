@@ -1,0 +1,88 @@
+{
+  "arquivo": "9TvffEaZeXA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:49:15.424586",
+  "classificacao": {
+    "species": [
+      "Curimba",
+      "Bitelão",
+      "Prateada",
+      "Tambaqui"
+    ],
+    "equipment": [
+      "Linha",
+      "Canhão",
+      "Galão Perfurado",
+      "Saco de Ráfia"
+    ],
+    "baits": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Ração"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Milho",
+        "Soja",
+        "Trigo"
+      ],
+      "Ceva Proteica": [
+        "Ração"
+      ],
+      "Ceva de Partículas": [
+        "Galão Perfurado",
+        "Saco Furado"
+      ]
+    },
+    "grãos": [
+      "Milho",
+      "Soja",
+      "Trigo"
+    ],
+    "techniques": [
+      "Tiro no Apagador",
+      "Cansar o Peixe",
+      "Tirar na Paciência"
+    ],
+    "other_terms": [
+      "Curimba",
+      "Corimba",
+      "Bitela",
+      "Prateadão",
+      "Tambaqui",
+      "Assado",
+      "Frito",
+      "Troféu",
+      "Churrasco",
+      "Pescaria",
+      "Linha Passou na Pedra",
+      "Escapou",
+      "Garantir",
+      "Tiro no Lombo",
+      "Escama Dura",
+      "Disparo Atravessou",
+      "Escapando",
+      "Pescaria Garantida",
+      "Curimba de Dois Palmos",
+      "Largura",
+      "Três Quilos",
+      "Dada",
+      "Fácil",
+      "Escapou Um",
+      "Tiro Pegou",
+      "Beiradinha",
+      "Não Vai Morrer",
+      "Valeu",
+      "Show de Bola",
+      "Curtida",
+      "Inscrito",
+      "Canal",
+      "Abraço",
+      "Até o Próximo Vídeo",
+      "Danilo",
+      "Nóis",
+      "Tchau"
+    ]
+  }
+}

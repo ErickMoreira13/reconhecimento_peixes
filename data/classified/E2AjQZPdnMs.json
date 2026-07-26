@@ -1,0 +1,21 @@
+{
+  "arquivo": "E2AjQZPdnMs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:36:03.838478",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "massinha de pesca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Auma",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

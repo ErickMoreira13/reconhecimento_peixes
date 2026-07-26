@@ -1,0 +1,38 @@
+{
+  "arquivo": "QZ30zKzX4eU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T17:40:01.953475",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Piapara",
+      "Piau"
+    ],
+    "equipamentos": [
+      "garrafas de 5 litros",
+      "trato"
+    ],
+    "iscas": [
+      "milho azedo",
+      "tenebro desidratado",
+      "bichinho de laranja",
+      "bichinho vivo",
+      "quiere"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

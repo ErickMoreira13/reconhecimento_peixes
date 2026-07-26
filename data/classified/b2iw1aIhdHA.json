@@ -1,0 +1,34 @@
+{
+  "arquivo": "b2iw1aIhdHA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:32:43.239749",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Isca Artificial",
+      "Top Mino",
+      "Esquinha"
+    ],
+    "iscas": [
+      "Amarelinha",
+      "Top Mino",
+      "Esquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Barranco",
+      "Pescaria Topado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "Menciona a importância da preservação, o impacto da pesca esportiva na natureza e a eficácia de iscas artificiais como a 'Amarelinha' e 'Top Mino'. Destaca a prática de devolver os peixes capturados."
+  }
+}

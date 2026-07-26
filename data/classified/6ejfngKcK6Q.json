@@ -1,0 +1,44 @@
+{
+  "arquivo": "6ejfngKcK6Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:59:51.759321",
+  "classificacao": {
+    "especies": [
+      "piava"
+    ],
+    "equipamentos": [
+      "caiaque",
+      "varinha",
+      "linha",
+      "motor",
+      "barco",
+      "balsa",
+      "churrasqueira",
+      "banheiro",
+      "tomadas",
+      "disjuntor",
+      "torneiras",
+      "rampa",
+      "rede",
+      "mangueia",
+      "gasolina"
+    ],
+    "iscas": [
+      "salinha fina",
+      "chapa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca de piava"
+    ],
+    "rios": [
+      "rio Jacuí",
+      "rio Taquari"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "pesca esportiva"
+  }
+}

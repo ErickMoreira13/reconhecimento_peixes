@@ -1,0 +1,33 @@
+{
+  "arquivo": "0JEKEDCybJQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:24:12.628593",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Tambaqui",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Ultralight"
+    ],
+    "iscas": [
+      "Massa de ração de coelho e trigo"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Ultralight"
+    ],
+    "observacoes": []
+  }
+}

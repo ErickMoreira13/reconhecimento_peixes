@@ -1,0 +1,32 @@
+{
+  "arquivo": "utSfMtRnYOM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:27:01.934887",
+  "classificacao": {
+    "especie": [
+      "Piau",
+      "Piava"
+    ],
+    "equipamento": [
+      "varinha curta (Concept da Maruri 7 a 14 libras)",
+      "carretilha Venator GS",
+      "linha nylon 0,30",
+      "chumbada de borracha",
+      "chinuzinho número 2",
+      "tratador"
+    ],
+    "isca": [
+      "grão de milho",
+      "cebadorzinho"
+    ],
+    "local": [
+      "Bonito",
+      "Rancho Tarumã"
+    ],
+    "observacao": "Pescaria realizada no final da tarde em um rio calmo, com uso de equipamentos específicos para capturar Piau e Piava.",
+    "data": "",
+    "hora": "",
+    "latitude": "",
+    "longitude": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "6iRe3E6Yswg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:34:55.429015",
+  "classificacao": {
+    "especies": [
+      "Espada de Yara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Orinoco"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

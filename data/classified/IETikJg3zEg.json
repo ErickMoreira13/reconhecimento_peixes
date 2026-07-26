@@ -1,0 +1,19 @@
+{
+  "arquivo": "IETikJg3zEg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:31:41.971086",
+  "classificacao": {
+    "especies": [
+      "Jurupecém"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Peixe",
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": []
+  }
+}

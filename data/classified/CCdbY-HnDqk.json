@@ -1,0 +1,45 @@
+{
+  "arquivo": "CCdbY-HnDqk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:30:17.776677",
+  "classificacao": {
+    "especies": [
+      "Banquinha",
+      "Dourado",
+      "Joaninha",
+      "Lombari",
+      "Pintado",
+      "Piava"
+    ],
+    "equipamentos": [
+      "Caiaque",
+      "Churrasqueira",
+      "Foguinho",
+      "Grelha",
+      "Lenha",
+      "Rampa",
+      "Reboque",
+      "Carro"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Taquari"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Venâncio Aires",
+    "tipo_pesca": [
+      "Pesca com Isca"
+    ],
+    "observacoes": "Dificuldade em capturar peixes, uso de caiaque, localização no Rio Taquari, ausência de sucesso na pesca."
+  }
+}

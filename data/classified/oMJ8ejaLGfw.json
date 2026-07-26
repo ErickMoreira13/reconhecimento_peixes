@@ -1,0 +1,42 @@
+{
+  "arquivo": "oMJ8ejaLGfw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:56:12.679723",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Massa",
+      "Agulha",
+      "Chumbo",
+      "Varinhas",
+      "Toco"
+    ],
+    "iscas": [
+      "Massa",
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Arrasta pra cima",
+      "Servar",
+      "Pescaria nos tocos"
+    ],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "observacoes": [
+      "Uso de milho em galão perfurado para ceva de partículas",
+      "Liberação de peixes após captura",
+      "Pescaria realizada no início do ano (2026)"
+    ]
+  }
+}

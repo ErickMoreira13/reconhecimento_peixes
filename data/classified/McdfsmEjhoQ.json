@@ -1,0 +1,16 @@
+{
+  "arquivo": "McdfsmEjhoQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:55:56.317801",
+  "classificacao": {
+    "summary": "O texto é um roteiro de vídeo em português que aborda uma experiência de pesca em um ambiente natural, com destaque para a captura e consumo de piranha. O narrador descreve a jornada, incluindo a interação com o público, agradecimentos a fãs, e uma ênfase na preservação ambiental. O conteúdo também menciona a relação com a família (como a mãe) e a cultura local, com referências a locais como Rio de Janeiro. Há uma lista de nomes de fãs e uma desculpa por não conseguir mencionar todos, além de uma crítica à exploração excessiva de recursos naturais. O tom é informal, com elementos de humor e conexão com o público.",
+    "key_points": [
+      "Experiência de pesca e consumo de piranha",
+      "Interação com o público e agradecimentos",
+      "Mencione à família e ao respeito ambiental",
+      "Lista de fãs e reconhecimento",
+      "Crítica à exploração de recursos naturais"
+    ],
+    "cultural_context": "O conteúdo reflete práticas de pesca tradicionais no Brasil, com ênfase na relação com a natureza e a comunidade local. A menção à piranha, um animal comum em rios brasileiros, destaca a cultura de consumo de peixes em regiões rurais ou de interior."
+  }
+}

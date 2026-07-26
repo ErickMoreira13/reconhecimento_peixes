@@ -1,0 +1,36 @@
+{
+  "arquivo": "udRkzv704d8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:21:21.736933",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Araçá"
+    ],
+    "equipamentos": [
+      "Motor elétrico",
+      "Fio da Santa"
+    ],
+    "iscas": [
+      "Isca para chuchu"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Remada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Dificuldade de pescar sem o motor elétrico",
+      "Presença de outros peixes como Araçá"
+    ]
+  }
+}

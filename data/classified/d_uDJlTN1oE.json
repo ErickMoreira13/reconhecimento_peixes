@@ -1,0 +1,24 @@
+{
+  "arquivo": "d_uDJlTN1oE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:44:14.480787",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Chumbada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

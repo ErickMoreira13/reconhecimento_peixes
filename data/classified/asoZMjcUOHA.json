@@ -1,0 +1,30 @@
+{
+  "arquivo": "asoZMjcUOHA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:10:17.446204",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "concha"
+    ],
+    "iscas": [
+      "isca líquida"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "colocar a isca em uma concha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "o produto atraiu grande quantidade de peixes",
+      "funcionou conforme demonstrado no teste"
+    ]
+  }
+}

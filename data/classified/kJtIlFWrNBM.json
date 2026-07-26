@@ -1,0 +1,27 @@
+{
+  "arquivo": "kJtIlFWrNBM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:54:19.739746",
+  "classificacao": {
+    "summary": "El texto describe una experiencia de pesca con mosca en el río Cochran, Chile, en el lodge Greenbacker. El narrador comparte desafíos al pescar truchas arcoíris y marrón, destacando la dificultad de capturarlas en un entorno natural. Se mencionan técnicas de pesca, intercambios con Rafa y Pablo, y la importancia de la paciencia y la adaptación. El relato resalta la belleza del lugar, la conexión con la naturaleza y la satisfacción de la captura, incluso en condiciones desafiantes. También se incluyen detalles sobre el equipo (como el uso de '5X' y 'suelo 20') y la colaboración entre los pescadores.",
+    "key_points": {
+      "location": "Río Cochran, Chile (Greenbacker Lodge)",
+      "species_caught": [
+        "Trucha arcoíris",
+        "Trucha marrón"
+      ],
+      "challenges": [
+        "Agua fría",
+        "Truchas difíciles de capturar",
+        "Necesidad de técnicas específicas"
+      ],
+      "techniques": [
+        "Uso de moscas",
+        "Adaptación a condiciones del río",
+        "Colaboración con otros pescadores"
+      ],
+      "experience": "Experiencia enriquecedora, con énfasis en la conexión con la naturaleza y la perseverancia."
+    },
+    "additional_notes": "El texto mezcla español, inglés y portugués, reflejando la interacción entre pescadores de diferentes orígenes. Se destacan términos técnicos de pesca y la importancia del entorno natural en la actividad."
+  }
+}

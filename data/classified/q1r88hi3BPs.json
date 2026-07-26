@@ -1,0 +1,29 @@
+{
+  "arquivo": "q1r88hi3BPs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:30:20.125259",
+  "classificacao": {
+    "especies": [
+      "Tuna"
+    ],
+    "equipamentos": [
+      "Popper"
+    ],
+    "iscas": [
+      "Popper"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície"
+    ],
+    "observacoes": [
+      "Popper de 13 centímetros, peso de 63 gramas, com boa distância de lançamento e eficácia para atuns"
+    ]
+  }
+}

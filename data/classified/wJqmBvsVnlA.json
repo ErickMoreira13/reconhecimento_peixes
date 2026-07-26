@@ -1,0 +1,37 @@
+{
+  "arquivo": "wJqmBvsVnlA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:08:53.221892",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Cotonete",
+      "Palitinho",
+      "Soldador",
+      "Varinha de Pesca",
+      "Boinha de Pesca",
+      "Anzol",
+      "Chumbo",
+      "Linha 030",
+      "Cola Quente"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Isca Artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca Artificial"
+    ],
+    "observacoes": [
+      "Peixes serão soltos em um laguinho ornamental"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "arquivo": "i5kQOzcqu1Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:23:50.629775",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Campineirão",
+      "Tambaqui",
+      "Marobá",
+      "Jacundá",
+      "Flamenguinho",
+      "Lambari",
+      "Mandizinho Chorão"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Linha",
+      "Galão",
+      "Cevador"
+    ],
+    "iscas": [
+      "Milho",
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Ceba"
+    ]
+  }
+}

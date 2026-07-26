@@ -1,0 +1,70 @@
+{
+  "arquivo": "5bf86u3w2n8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:12:11.303252",
+  "classificacao": {
+    "sinkers_comparison": [
+      {
+        "type": "Pirâmide (Pyramid)",
+        "advantages": [
+          "Fixa-se bem na areia, mesmo em mar agitado",
+          "Ideal para pesca em águas profundas",
+          "Resistente a correntes fortes"
+        ],
+        "disadvantages": [
+          "Menos aerodinâmico, reduzindo a distância de lançamento",
+          "Pode ser difícil de encaixar em certos tipos de anzol"
+        ]
+      },
+      {
+        "type": "Pinhão (Pineapple)",
+        "advantages": [
+          "Aerodinâmico, permitindo lançamentos longos",
+          "Fácil de encaixar em anzóis",
+          "Versátil para diferentes condições de mar"
+        ],
+        "disadvantages": [
+          "Menos eficaz em areias muito grossas",
+          "Pode se enterrar parcialmente na areia"
+        ]
+      },
+      {
+        "type": "Torpedo",
+        "advantages": [
+          "Aerodinâmico, ideal para lançamentos longos",
+          "Fixa-se bem em areias médias",
+          "Boa estabilidade em correntes leves"
+        ],
+        "disadvantages": [
+          "Menos eficaz em mar muito agitado",
+          "Pode ser difícil de ajustar em certos modelos"
+        ]
+      },
+      {
+        "type": "Garateia",
+        "advantages": [
+          "Ideal para correntes fortes",
+          "Fixa-se firmemente na areia",
+          "Resistente a movimentos laterais"
+        ],
+        "disadvantages": [
+          "Menos aerodinâmico, reduzindo a distância de lançamento",
+          "Pode ser pesado para lançamentos longos"
+        ]
+      },
+      {
+        "type": "Capela",
+        "advantages": [
+          "Muito aerodinâmico, permitindo lançamentos extremamente longos",
+          "Leve e fácil de manipular",
+          "Ideal para pesca em águas calmas"
+        ],
+        "disadvantages": [
+          "Menos eficaz em areias grossas ou em mar agitado",
+          "Pode se deslocar facilmente na areia"
+        ]
+      }
+    ],
+    "summary": "A escolha do sinker depende das condições do mar e do objetivo da pesca. Para mar agitado ou correntes fortes, o pirâmide ou garateia são ideais. Para lançamentos longos em águas calmas, o capela ou torpedo são preferíveis. O pinhão oferece um equilíbrio entre aerodinâmica e estabilidade em condições variadas."
+  }
+}

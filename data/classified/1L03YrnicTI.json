@@ -1,0 +1,24 @@
+{
+  "arquivo": "1L03YrnicTI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:34:27.388682",
+  "classificacao": {
+    "especies": [
+      "cioba",
+      "dentão",
+      "peixe galo",
+      "xarel"
+    ],
+    "equipamentos": [
+      "conjunto ultralight",
+      "varinha de 6 libras",
+      "gig head de 3 gramas",
+      "micro camarão Snook"
+    ],
+    "isca": "micro camarão Snook",
+    "local": "curva da jurema",
+    "tipo_de_pesca": "ultralight",
+    "metodo_de_pesca": "isca viva",
+    "peso_da_vara": "6 libras"
+  }
+}

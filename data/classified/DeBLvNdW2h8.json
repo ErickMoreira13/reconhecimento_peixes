@@ -1,0 +1,35 @@
+{
+  "arquivo": "DeBLvNdW2h8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:50:10.952603",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Linha 020",
+      "Boia de madeira",
+      "Cordinha"
+    ],
+    "iscas": [
+      "Bitu",
+      "Siriri"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca na superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca na superfície"
+    ],
+    "observacoes": []
+  }
+}

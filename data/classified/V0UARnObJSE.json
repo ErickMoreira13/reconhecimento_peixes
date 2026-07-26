@@ -1,0 +1,33 @@
+{
+  "arquivo": "V0UARnObJSE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:34:36.704092",
+  "classificacao": {
+    "especies": [
+      "Serra",
+      "Sororoca"
+    ],
+    "equipamentos": [
+      "jangadinha",
+      "motor",
+      "linhas",
+      "ganchos"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca subaquática",
+      "armadilhas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Maranhão",
+    "municipio": "Redonda",
+    "tipo_pesca": [
+      "pesca artesanal",
+      "pesca subaquática"
+    ],
+    "observacoes": "A pesca inicial no frigorífico não foi bem-sucedida devido às marés ruins, mas a pesca subaquática resultou na captura de Serra e Sororoca. O preparo de um prato com os peixes capturados foi mencionado."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "arquivo": "6TpAy2To6jw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:42:27.714367",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Papaterra",
+      "Pico de Pato",
+      "Gilipoca",
+      "Lambari",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Motor",
+      "Gerador de Energia",
+      "Lona",
+      "Fogueira",
+      "Barraca",
+      "Linhada"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Noturna"
+    ],
+    "rios": [
+      "Rio Vermelho"
+    ],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Matrinchan",
+    "tipo_pesca": [
+      "Pesca Noturna"
+    ],
+    "observacoes": ""
+  }
+}

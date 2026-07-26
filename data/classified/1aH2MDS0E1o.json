@@ -1,0 +1,27 @@
+{
+  "arquivo": "1aH2MDS0E1o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:00:31.025495",
+  "classificacao": {
+    "especies": [
+      "Tubarão"
+    ],
+    "equipamentos": [
+      "Raia"
+    ],
+    "iscas": [
+      "Abaca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Riacho"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

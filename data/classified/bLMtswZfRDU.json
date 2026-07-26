@@ -1,0 +1,33 @@
+{
+  "arquivo": "bLMtswZfRDU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:18:16.107754",
+  "classificacao": {
+    "especies": [
+      "peixe",
+      "amarelão"
+    ],
+    "equipamento": [
+      "vara telescópica",
+      "molinete",
+      "boia",
+      "chumbada",
+      "fita isolada"
+    ],
+    "isca": [
+      "camarão",
+      "camarãozinha"
+    ],
+    "amarras": [
+      "nó",
+      "chinuno número 6"
+    ],
+    "linhas": [
+      "Platinho 035 (19 kg)"
+    ],
+    "outros": [
+      "reforço da ponteira com fita isolada",
+      "uso de duas linhas médias"
+    ]
+  }
+}

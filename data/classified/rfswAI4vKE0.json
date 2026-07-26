@@ -1,0 +1,45 @@
+{
+  "arquivo": "rfswAI4vKE0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:06:59.721046",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Piraíba",
+      "Tucunaré",
+      "Guapapá",
+      "Cachorra",
+      "Bicurda",
+      "Palmito",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Carretilha Isqual 40LD",
+      "Vara PEN Mariner 2",
+      "Vara Rampage",
+      "Monofilamento 0,90 mm",
+      "Multifilamento",
+      "Colete de apoio",
+      "Cinto de apoio"
+    ],
+    "iscas": [
+      "Piranha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia"
+    ],
+    "bacias": [
+      "Bacia do Araguaia"
+    ],
+    "estado": "Tocantins",
+    "municipio": "Cidade do Luiz Alves",
+    "tipo_pesca": [
+      "Pirarara",
+      "Piraíba"
+    ],
+    "observacoes": []
+  }
+}

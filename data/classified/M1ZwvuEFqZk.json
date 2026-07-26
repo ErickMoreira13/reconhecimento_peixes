@@ -1,0 +1,55 @@
+{
+  "arquivo": "M1ZwvuEFqZk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:37:11.009796",
+  "classificacao": {
+    "species": [
+      "Guarajuba",
+      "Pirão",
+      "Dentão",
+      "Badéjo",
+      "Charelozão",
+      "Budião Azul",
+      "Barracuda",
+      "Xarel"
+    ],
+    "equipment": [
+      "Arma",
+      "Barco",
+      "Barqueiro",
+      "Flecha",
+      "Lombo",
+      "Coral",
+      "Pedras",
+      "Areia",
+      "Corredor de Areia",
+      "Saco de Ráfia"
+    ],
+    "baits": [
+      "Peixe fresquinho"
+    ],
+    "cevas": [],
+    "grains": [],
+    "techniques": [
+      "Espera",
+      "Descida",
+      "Atirar",
+      "Filmar o disparo",
+      "Insistida",
+      "Corredor de areia"
+    ],
+    "rivers": [],
+    "basins": [
+      "Recife"
+    ],
+    "state": "Pernambuco",
+    "municipality": "Recife",
+    "type_of_fishing": "Pesca com arco e flecha",
+    "observations": [
+      "O local planejado (polpa verde) não estava acessível devido às condições da água, mas outro local foi encontrado.",
+      "Captura bem-sucedida de dentão, badéjo, barracuda e xarel.",
+      "Preparação de moqueca com os peixes capturados.",
+      "A pesca foi considerada 'ralada' (difícil), mas o grupo teve diversão."
+    ]
+  }
+}

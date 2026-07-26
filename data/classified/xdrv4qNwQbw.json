@@ -1,0 +1,47 @@
+{
+  "arquivo": "xdrv4qNwQbw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:47:39.912688",
+  "classificacao": {
+    "steps": [
+      {
+        "title": "Access the Government Website",
+        "description": "Navigate to the official government website for fishing licenses. Ensure you are on the correct page to avoid errors."
+      },
+      {
+        "title": "Select Payment Method",
+        "description": "Choose between Pix or boleto. Pix is recommended for faster processing, while boleto may take longer due to banking delays."
+      },
+      {
+        "title": "Complete the Payment",
+        "description": "Follow the prompts to complete the payment. If using Pix, scan the QR code or enter the payment details. If using boleto, print or save the receipt for later verification."
+      },
+      {
+        "title": "Do Not Close the Window",
+        "description": "After payment, avoid closing the browser tab or window. Wait for the confirmation message to ensure the transaction is processed successfully."
+      },
+      {
+        "title": "Check Payment Status",
+        "description": "Log in to the \"Solicitações Gov.br\" section to check the status of your payment. This is where you can view provisional and definitive license details."
+      },
+      {
+        "title": "Verify License Status",
+        "description": "Provisional licenses are issued immediately, while definitive licenses may take up to 10 business days. Ensure you do not proceed with fishing until the definitive license is confirmed."
+      },
+      {
+        "title": "Avoid Common Mistakes",
+        "description": "Do not close the payment window prematurely, and always verify the payment status through the official portal. If using boleto, allow extra time for processing to avoid delays."
+      }
+    ],
+    "warnings": [
+      "Using boleto may result in delays due to banking processing times. Pix is the preferred method for immediate confirmation.",
+      "Closing the browser window after payment may lead to loss of the transaction and require restarting the process.",
+      "Always check the license status through the official portal to ensure validity before using it for fishing."
+    ],
+    "key_takeaways": [
+      "Pix is faster and more reliable for immediate license confirmation.",
+      "Provisional licenses are temporary; wait for the definitive license before fishing.",
+      "Double-check all steps to avoid errors and ensure a smooth payment process."
+    ]
+  }
+}

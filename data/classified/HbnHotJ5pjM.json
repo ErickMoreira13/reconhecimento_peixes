@@ -1,0 +1,30 @@
+{
+  "arquivo": "HbnHotJ5pjM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:56:53.292688",
+  "classificacao": {
+    "especies": [
+      "Brabo",
+      "Xarazão",
+      "Aracanguíra",
+      "Caceteira"
+    ],
+    "equipamentos": [
+      "Linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Peixe grande"
+    ]
+  }
+}

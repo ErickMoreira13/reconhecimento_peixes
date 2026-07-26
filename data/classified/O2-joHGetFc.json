@@ -1,0 +1,24 @@
+{
+  "arquivo": "O2-joHGetFc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:51:58.451628",
+  "classificacao": {
+    "especies": [
+      "bicha",
+      "boi"
+    ],
+    "equipamentos": [
+      "vara xingu"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "arquivo": "A60byqeQFD0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:07:22.242189",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A captura foi rápida, em menos de 10 segundos",
+      "O tambaqui era pequeno, mas forte",
+      "A pesca foi realizada em um lago particular",
+      "O vídeo mostra a captura ao vivo para demonstração"
+    ]
+  }
+}

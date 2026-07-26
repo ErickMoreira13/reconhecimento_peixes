@@ -1,0 +1,30 @@
+{
+  "arquivo": "oEUUwepq5_Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:29:53.720350",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba"
+    ],
+    "equipamentos": [
+      "Régua",
+      "Venda"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Boquinha Fechada",
+      "Solta",
+      "Deságua"
+    ],
+    "rios": [
+      "Paranaíba"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

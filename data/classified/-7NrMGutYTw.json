@@ -1,0 +1,21 @@
+{
+  "arquivo": "-7NrMGutYTw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:01:59.351381",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Mata Mata"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

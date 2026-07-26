@@ -1,0 +1,28 @@
+{
+  "arquivo": "P56DPbNHGOU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:55:37.512435",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Fogão"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "arquivo": "z7iymrjU1pc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:00:59.855058",
+  "classificacao": {
+    "especies": [
+      "Pirarucu",
+      "Pirarara"
+    ],
+    "equipamento": [
+      "Canoa",
+      "Bote",
+      "Motor",
+      "Remo",
+      "Bolsa"
+    ],
+    "isca": [
+      "Isca",
+      "Pial"
+    ],
+    "tackle": [
+      "Anzol"
+    ],
+    "localização": [
+      "Rio Guaporé",
+      "Rondônia"
+    ],
+    "empresa": [
+      "Porto Rolim Pesco Hotel",
+      "Rancho do Pescador Viagens"
+    ],
+    "guia": [
+      "Mateus"
+    ],
+    "peixe": [
+      "Pirarucu"
+    ],
+    "fotos": [
+      "Foto"
+    ],
+    "pescaria": [
+      "Pescaria"
+    ],
+    "região": [
+      "Rio Guaporé"
+    ],
+    "estado": [
+      "Rondônia"
+    ],
+    "hotel": [
+      "Porto Rolim Pesco Hotel"
+    ],
+    "curtida": [
+      "Curta"
+    ],
+    "comentário": [
+      "Comente"
+    ],
+    "compartilhamento": [
+      "Compartilhe"
+    ],
+    "convite": [
+      "Convite"
+    ],
+    "volta": [
+      "Volta"
+    ],
+    "novidade": [
+      "Novidade"
+    ],
+    "agradecimento": [
+      "Agradecimento"
+    ],
+    "encerramento": [
+      "Encerramento"
+    ],
+    "despedida": [
+      "Despedida"
+    ]
+  }
+}

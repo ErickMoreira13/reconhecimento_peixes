@@ -1,0 +1,29 @@
+{
+  "arquivo": "J4BpIjUBI8A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:38:27.294539",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Zona Varinha",
+      "Molinetinho",
+      "Saturno"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Repesa Guarapiranga"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Guarapiranga",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "Pescaria com baixa ação, tempo favorável, uso de carretilhas Zona Varinha, Molinetinho e Saturno."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "DhsQ5z_4qKA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:54:59.634855",
+  "classificacao": {
+    "especies": [
+      "Garateia"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Barco",
+      "Viveiro"
+    ],
+    "iscas": [
+      "Peixinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

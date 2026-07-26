@@ -1,0 +1,42 @@
+{
+  "arquivo": "HEPDx6nJOa0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T15:21:06.535420",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa de jaca",
+      "Massa de higiene de papo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Doce",
+      "Rio Manhoaçu",
+      "Rio Guandu"
+    ],
+    "bacias": [
+      "Conselheiro Pena",
+      "Resplendor",
+      "Aimorés",
+      "Valadares",
+      "Itapina",
+      "Fontenelle"
+    ],
+    "estado": "Minas Gerais",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Água do Rio Doce está turva devido às chuvas nas cabeceiras",
+      "Condições de pesca não estão favoráveis devido ao nível alto do rio",
+      "Espera-se que a água clareie após um período sem chuvas nas cabeceiras"
+    ]
+  }
+}

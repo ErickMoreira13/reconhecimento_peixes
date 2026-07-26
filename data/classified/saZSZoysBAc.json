@@ -1,0 +1,32 @@
+{
+  "arquivo": "saZSZoysBAc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:58:48.786745",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol Offset",
+      "Cola Pedal",
+      "Micro-Shed"
+    ],
+    "iscas": [
+      "Micro-Shed"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Isca Micro-Shed",
+      "Montagem Anti-Rosco"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Ultralight"
+    ],
+    "observacoes": [
+      "O shed utilizado tem 9cm de comprimento e é utilizado na pesca ultralight."
+    ]
+  }
+}

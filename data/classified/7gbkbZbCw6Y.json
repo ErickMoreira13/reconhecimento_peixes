@@ -1,0 +1,30 @@
+{
+  "arquivo": "7gbkbZbCw6Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:39:02.371993",
+  "classificacao": {
+    "especies": [
+      "Bitelão",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "barco",
+      "danzol",
+      "balança"
+    ],
+    "iscas": [
+      "farinha de rosto"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "rio Gopareia"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

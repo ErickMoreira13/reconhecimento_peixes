@@ -1,0 +1,64 @@
+{
+  "arquivo": "viB-4jlwonI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:06:50.777431",
+  "classificacao": {
+    "especies": [
+      "Xarelzinho",
+      "Cocoroca",
+      "Parana",
+      "Charelzinho",
+      "Chalhãozinho"
+    ],
+    "equipamentos": [
+      "Varinha 2,6 libras",
+      "Varinha 1,80",
+      "Linha 0,12 milímetros",
+      "Líder de 0,40",
+      "Plug",
+      "Micro jig",
+      "Micro camarão",
+      "Chitara da China",
+      "OutKit",
+      "Surinóia",
+      "Hunch House",
+      "Sport Hulk"
+    ],
+    "iscas": [
+      "Plug",
+      "Micro jig",
+      "Micro camarão",
+      "Plugzinho",
+      "Pluguezinho",
+      "Sardinha da Hunch House"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso",
+      "Micro jig",
+      "Plug"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": [
+      "Água quente",
+      "Peixe no fundo",
+      "Corrente mansa",
+      "Primeira ação",
+      "Peixe engatado pela barriga",
+      "Garaté aumenta chances",
+      "Coraquinho liberado",
+      "Peixe galo",
+      "Peixe pequeno",
+      "Pluguezinho da Hunch House",
+      "Peixe correndo pra cá",
+      "Água mudou",
+      "Pescaria só o luxo",
+      "Braço doendo"
+    ]
+  }
+}

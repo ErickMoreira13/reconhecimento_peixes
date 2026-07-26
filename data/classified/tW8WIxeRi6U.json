@@ -1,0 +1,66 @@
+{
+  "arquivo": "tW8WIxeRi6U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:00:30.416169",
+  "classificacao": {
+    "especies": [
+      "Carapau",
+      "Serigado",
+      "Caranguejo",
+      "Canapitanga",
+      "Vermelhinha",
+      "Baiúda"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Molinete",
+      "Carretilha",
+      "Linha"
+    ],
+    "isca": [
+      "Isca de caranguejo",
+      "Isca de alface",
+      "Isca artificial",
+      "Isca de camarão",
+      "Isca de lodo",
+      "Isca de azul",
+      "Isca de serigado",
+      "Isca de canapitanga",
+      "Isca de vermelhinha",
+      "Isca de baiúda"
+    ],
+    "grãos": [
+      "Tempero",
+      "Leite",
+      "Bicu de camarão",
+      "Fete escuro"
+    ],
+    "rios": [
+      "Rio Jaguaribe"
+    ],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "",
+    "tipos_de_pesca": [
+      "Pesca de vara",
+      "Pesca de molinete",
+      "Pesca de carretilha",
+      "Pesca de caranguejo",
+      "Pesca de serigado",
+      "Pesca de canapitanga",
+      "Pesca de vermelhinha",
+      "Pesca de baiúda",
+      "Pesca de alface",
+      "Pesca artificial",
+      "Pesca de tempero"
+    ],
+    "observacoes": [
+      "O rio Jaguaribe é considerado um dos mais difíceis de pesca devido à sua correnteza e profundidade.",
+      "A pesca de serigado e carapau exige equipamentos robustos e técnicas específicas.",
+      "O uso de iscas artificiais e naturais (como caranguejo e alface) é comum.",
+      "A preparação de temperos e a inclusão de leite em iscas são práticas locais.",
+      "A interação com a audiência durante a pesca é parte do processo de ensino.",
+      "A pesca é uma atividade cultural e econômica importante na região."
+    ]
+  }
+}

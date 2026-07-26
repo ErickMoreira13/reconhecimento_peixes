@@ -1,0 +1,41 @@
+{
+  "arquivo": "sqAhrteE2sM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:49:55.076336",
+  "classificacao": {
+    "especie": [
+      "carpa",
+      "passaguá",
+      "brutona",
+      "traíra"
+    ],
+    "equipo": [
+      "varinha",
+      "massinha",
+      "fiote",
+      "telinha",
+      "couro",
+      "escama",
+      "ferramanhã"
+    ],
+    "tecnica": [
+      "usar massinha",
+      "jogar a varinha",
+      "puxar o fiote",
+      "tirar o couro",
+      "limpar a escama",
+      "escolher o momento da água"
+    ],
+    "local": [
+      "cachoeira",
+      "serva",
+      "Uda"
+    ],
+    "comentarios": [
+      "pescaria é foda",
+      "água azulzinha",
+      "massinha chamativa",
+      "peixe bem lindo"
+    ]
+  }
+}

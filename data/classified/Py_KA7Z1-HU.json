@@ -1,0 +1,21 @@
+{
+  "arquivo": "Py_KA7Z1-HU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:25:30.855808",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Machado"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

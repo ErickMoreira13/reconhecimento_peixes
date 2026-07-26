@@ -1,0 +1,28 @@
+{
+  "arquivo": "rmELKhq-6xE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:12:55.573686",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Linha",
+      "Ferrinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalha o peixe"
+    ],
+    "rios": [
+      "Rio do Sol"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

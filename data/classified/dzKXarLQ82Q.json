@@ -1,0 +1,38 @@
+{
+  "arquivo": "dzKXarLQ82Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:33:31.322241",
+  "classificacao": {
+    "especies": [
+      "Corvina",
+      "Pescada",
+      "Curvinha",
+      "Passaguá",
+      "Bagre",
+      "Bagrinho"
+    ],
+    "equipamentos": [
+      "Jigue",
+      "Vara Tunisa IM8",
+      "Carretilha Sainte Viesel 12.000"
+    ],
+    "iscas": [
+      "Pindoca",
+      "Sapinhos"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalho vertical",
+      "Arremesso para frente"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fundo"
+    ],
+    "observacoes": []
+  }
+}

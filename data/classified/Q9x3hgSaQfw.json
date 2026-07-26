@@ -1,0 +1,8 @@
+{
+  "arquivo": "Q9x3hgSaQfw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:34:53.622309",
+  "classificacao": {
+    "error": "The user provided a long text in Portuguese but did not specify a clear request. Please clarify what you need help with (e.g., translation, summary, analysis, or other tasks related to the text)."
+  }
+}

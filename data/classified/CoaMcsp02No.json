@@ -1,0 +1,29 @@
+{
+  "arquivo": "CoaMcsp02No",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:48:44.005257",
+  "classificacao": {
+    "especies": [
+      "Caranha"
+    ],
+    "equipamentos": [
+      "Anzol com elástico"
+    ],
+    "iscas": [
+      "Linguiça calabresa defumada"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Dentes da caranha são fortes, não se deve colocar o dedo."
+    ]
+  }
+}

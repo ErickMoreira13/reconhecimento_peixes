@@ -1,0 +1,28 @@
+{
+  "arquivo": "Jbn6Mrw5qnk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:52:39.438526",
+  "classificacao": {
+    "especies": [
+      "Mamurinha"
+    ],
+    "equipamentos": [
+      "Shark"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Parima"
+    ],
+    "bacias": [],
+    "estado": "Roraima",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pescado em linha 060",
+      "Peça grande, considerada monstro"
+    ]
+  }
+}

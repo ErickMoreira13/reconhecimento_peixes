@@ -1,0 +1,23 @@
+{
+  "arquivo": "tfL6Xg_P-bI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:53:38.192358",
+  "classificacao": {
+    "especies": [
+      "Mandinho"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A correnteza é boa, mas costuma garranchar. O poço tem água parada, zero garrancho e zero peixe."
+    ]
+  }
+}

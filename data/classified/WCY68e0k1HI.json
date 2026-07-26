@@ -1,0 +1,30 @@
+{
+  "arquivo": "WCY68e0k1HI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:02:17.148032",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Barco",
+      "Hélice",
+      "Zolzinho"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Pode ser piranha",
+      "Esse ponto realmente tá muito difícil de pegar peixe"
+    ]
+  }
+}

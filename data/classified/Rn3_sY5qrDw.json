@@ -1,0 +1,49 @@
+{
+  "arquivo": "Rn3_sY5qrDw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:13:29.994363",
+  "classificacao": {
+    "análise": {
+      "tema_principal": "Experiência de pesca de tucunarezes com elementos de promoção de um método de pesca",
+      "elementos_chave": {
+        "experiência_de_pesca": {
+          "espécie": "tucunarezes",
+          "local": "rio (não especificado)",
+          "técnicas_mencionadas": [
+            "fishing",
+            "lure",
+            "técnicas de pesca específicas (não detalhadas)"
+          ],
+          "emoções": [
+            "excitação",
+            "satisfação",
+            "conversa informal"
+          ]
+        },
+        "interação_social": {
+          "participantes": [
+            "Rafael",
+            "outros pescadores (não nomeados)"
+          ],
+          "tipo_de_conversa": "colaborativa, com troca de experiências e opiniões",
+          "linguagem": "colloquial, uso de gírias e expressões informais"
+        },
+        "promoção": {
+          "conteúdo": "método chamado 'Hacks do Tucuna'",
+          "objetivo": "vender um sistema de pesca ou técnica",
+          "estratégia": "transição suave da experiência pessoal para o anúncio, usando o contexto da conversa"
+        }
+      },
+      "estrutura_do_video": {
+        "introdução": "conversa informal sobre a pesca",
+        "desenvolvimento": "detalhes da experiência e interação com outros pescadores",
+        "conclusão": "promoção do método 'Hacks do Tucuna' com chamada para ação"
+      },
+      "observações": {
+        "linguagem": "muito informal, com uso de expressões como 'você viu?', 'não é?', 'vamos ver'",
+        "tom": "entusiasmado, com pausas e interrupções que reforçam a naturalidade da conversa",
+        "contexto_cultural": "referências a práticas de pesca locais, possivelmente no Brasil"
+      }
+    }
+  }
+}

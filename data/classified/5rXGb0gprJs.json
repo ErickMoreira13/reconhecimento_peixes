@@ -1,0 +1,45 @@
+{
+  "arquivo": "5rXGb0gprJs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:30:47.578139",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Garaté"
+    ],
+    "equipamentos": [
+      "GoPro",
+      "fado"
+    ],
+    "iscas": [
+      "caco de isca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "fisgar",
+      "enroscar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "que douradão",
+      "6 quilos",
+      "maior que o outro",
+      "gurizada",
+      "encerrando a pescaria"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "gjFo3lQ_VyA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:52:43.569319",
+  "classificacao": {
+    "especies": [
+      "piau"
+    ],
+    "equipamentos": [
+      "vara",
+      "linha",
+      "anzol",
+      "esqueminha",
+      "bambu"
+    ],
+    "ceva": [
+      "ração de peixe",
+      "ração de coelho",
+      "milho"
+    ],
+    "massa": "massa",
+    "localização": [
+      "Cidade de Reolândia",
+      "Santa Fé do Sul"
+    ],
+    "tempo": [
+      "7 horas",
+      "1h51 da tarde",
+      "manhã",
+      "tarde"
+    ],
+    "peixes capturados": [
+      "piau (25 cm)",
+      "piau (27 cm)"
+    ],
+    "outros termos": [
+      "CD",
+      "porquinho"
+    ]
+  }
+}

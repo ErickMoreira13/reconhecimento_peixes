@@ -1,0 +1,21 @@
+{
+  "arquivo": "pIjI5QTHuZY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:09:12.528128",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Magnética"
+    ],
+    "observacoes": []
+  }
+}

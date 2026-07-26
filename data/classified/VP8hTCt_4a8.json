@@ -1,0 +1,27 @@
+{
+  "arquivo": "VP8hTCt_4a8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:22:26.068416",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Traia de pesca"
+    ],
+    "iscas": [
+      "Ovo com banana"
+    ],
+    "cevas": [],
+    "graos": [
+      "Banana"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Preto"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Rio Preto",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

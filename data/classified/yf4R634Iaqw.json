@@ -1,0 +1,37 @@
+{
+  "arquivo": "yf4R634Iaqw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:10:50.750223",
+  "classificacao": {
+    "species": [
+      "tambatinga",
+      "8 kg fish"
+    ],
+    "equipment": [
+      "varinha do bambu (bamboo rod)",
+      "linha (fishing line)",
+      "anzol (hook)",
+      "knife",
+      "bucket"
+    ],
+    "baits": [],
+    "tools": [
+      "knife",
+      "bucket"
+    ],
+    "environment": "lagoa (lake)",
+    "activities": [
+      "cleaning the fish",
+      "removing guts",
+      "using water to clean the fish",
+      "frying the fish"
+    ],
+    "other_details": {
+      "family_members_involved": [
+        "Dudinha",
+        "brother"
+      ],
+      "fish_preparation": "cleaning and frying"
+    }
+  }
+}

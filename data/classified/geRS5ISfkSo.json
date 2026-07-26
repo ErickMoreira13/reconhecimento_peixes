@@ -1,0 +1,24 @@
+{
+  "arquivo": "geRS5ISfkSo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:35:58.076525",
+  "classificacao": {
+    "especies": [
+      "Bitelão"
+    ],
+    "equipamentos": [
+      "Balança",
+      "Baldes"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

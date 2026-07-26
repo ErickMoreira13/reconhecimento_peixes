@@ -1,0 +1,33 @@
+{
+  "arquivo": "MsSDRAn5fz8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:03:51.493124",
+  "classificacao": {
+    "especies": [
+      "Piracanjuba"
+    ],
+    "equipamentos": [
+      "Barbante",
+      "Licar de contenção",
+      "Pliers",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Pescador descreve a captura de um piracanjuba de até 200 kg",
+      "Menciona dificuldade em controlar o peixe",
+      "Uso de equipamentos para contenção e segurança",
+      "Referência a técnicas de soltar e manusear o peixe"
+    ]
+  }
+}

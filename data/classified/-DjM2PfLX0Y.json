@@ -1,0 +1,36 @@
+{
+  "arquivo": "-DjM2PfLX0Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-17T23:15:49.032539",
+  "classificacao": {
+    "especies": [
+      "corvina",
+      "pampo",
+      "tilapia"
+    ],
+    "equipamentos": [
+      "pegador de tatuí"
+    ],
+    "iscas": [
+      "farofa",
+      "tempero"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Jaconé",
+    "tipo_pesca": [
+      "pescaria de massa",
+      "pescaria de tilapia"
+    ],
+    "observacoes": [
+      "churrasqueira",
+      "farofa",
+      "tempero",
+      "Jaconeca"
+    ]
+  }
+}

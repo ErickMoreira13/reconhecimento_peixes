@@ -1,0 +1,36 @@
+{
+  "arquivo": "QPbnqrbFozc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:56:31.975842",
+  "classificacao": {
+    "espécies": [
+      "Piau Flamengo",
+      "Piau Cabeça Gorda",
+      "Pacu Branco",
+      "Pacu Folha",
+      "Pacu Ferrado",
+      "Piau Voador",
+      "Tracajá",
+      "Tartaruga"
+    ],
+    "equipamentos": [
+      "Câmera",
+      "Linha de Pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "grãos": [],
+    "técnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "município": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observações": [
+      "Liberação de peixes após captura",
+      "Dificuldade em filmar enquanto pescava"
+    ]
+  }
+}

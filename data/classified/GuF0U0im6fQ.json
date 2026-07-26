@@ -1,0 +1,46 @@
+{
+  "arquivo": "GuF0U0im6fQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:18:46.265709",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Picoar",
+      "Vara",
+      "Boia",
+      "Massa"
+    ],
+    "iscas": [
+      "Massa azeda",
+      "Ração de coelho",
+      "Pão duro",
+      "Tratinho"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pescaria com massa azeda",
+      "Pescaria com ceva proteica"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Pirajuí",
+    "tipo_pesca": [
+      "Pesca em lagoa"
+    ],
+    "observacoes": [
+      "Uso de ração de coelho para segurar o peixe",
+      "Aplicação de tratinho para manter o interesse do peixe",
+      "Pescaria realizada em local com água parada"
+    ]
+  }
+}

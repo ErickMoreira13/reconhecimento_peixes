@@ -1,0 +1,44 @@
+{
+  "arquivo": "1qZtfD-WsqM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:48:41.447034",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Linha Dourado 040",
+      "Carretilha Tatula",
+      "Boia-Guia Barão Número 4",
+      "Girador",
+      "Vara Essence 240"
+    ],
+    "iscas": [
+      "Tuvirinha Desidratada",
+      "Tripa Desidratada",
+      "Fígado de Frango",
+      "Fígado de Corpo",
+      "Coração de Boi",
+      "Minhoco"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Sistema de Boia-Guia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Cevadeira",
+      "Sistema Goiano"
+    ],
+    "observacoes": [
+      "Uso de linha dourado 040 para o sistema de boia-guia",
+      "Regulagem da carretilha para evitar cabeleira",
+      "Importância de ajustar a sintonia fina conforme a isca",
+      "Uso de iscas variadas como tuvirinha desidratada, tripas, fígados e corações"
+    ]
+  }
+}

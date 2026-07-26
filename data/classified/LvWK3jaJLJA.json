@@ -1,0 +1,32 @@
+{
+  "arquivo": "LvWK3jaJLJA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:09:07.766630",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Peixe vivo",
+      "Isca artificial sapinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com isca artificial em movimento",
+      "Uso de isca viva em superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície",
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "A Traíra é uma predadora que requer movimento na isca para ser atraída."
+    ]
+  }
+}

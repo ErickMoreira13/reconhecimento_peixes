@@ -1,0 +1,26 @@
+{
+  "arquivo": "Dgl48c7a8kc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:52:54.733089",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Bala"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento"
+    ],
+    "rios": [
+      "Rio Atraíro",
+      "Lagoa"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "p2yeTu37ogA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:53:30.572967",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Açu"
+    ],
+    "equipamentos": [
+      "Gig",
+      "Hélice",
+      "Barco"
+    ],
+    "iscas": [
+      "Hélice",
+      "Isca de superfície",
+      "Isca de hélice",
+      "Gig de pena"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca na superfície",
+      "Uso de hélice",
+      "Explorando um meio"
+    ],
+    "rios": [
+      "Rio Juma"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

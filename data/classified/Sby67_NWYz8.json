@@ -1,0 +1,18 @@
+{
+  "arquivo": "Sby67_NWYz8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T19:00:42.797892",
+  "classificacao": {
+    "especie": "",
+    "tipo_de_pescaria": "pesca de praia",
+    "equipamento": [
+      "chicote (rig personalizado)",
+      "gancho (hook)",
+      "snap (anilha de conexão)",
+      "peso (weight)"
+    ],
+    "tecnica": "montagem de chicote com nós específicos, uso de snap para conexão, e fixação de gancho e peso",
+    "local": "",
+    "observacoes": "sistema reduz o emaranhamento da linha e é adequado para pesca em mar aberto ou em águas turbulentas"
+  }
+}

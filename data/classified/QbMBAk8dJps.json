@@ -1,0 +1,31 @@
+{
+  "arquivo": "QbMBAk8dJps",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:58:22.522160",
+  "classificacao": {
+    "especies": [
+      "Dourado",
+      "Corimba"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Linha",
+      "Pulsar",
+      "Ferro"
+    ],
+    "iscas": [
+      "Papá Black"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Corredeiro"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

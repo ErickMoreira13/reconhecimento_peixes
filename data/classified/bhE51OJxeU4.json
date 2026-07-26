@@ -1,0 +1,60 @@
+{
+  "arquivo": "bhE51OJxeU4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:05:02.262531",
+  "classificacao": {
+    "especies": [
+      "lambari",
+      "siote",
+      "piaba",
+      "piau",
+      "mandir",
+      "babachata",
+      "pintado"
+    ],
+    "equipamentos": [
+      "tarrafa",
+      "varinha",
+      "linha de multifilamento",
+      "guia",
+      "anzol",
+      "quilhera"
+    ],
+    "iscas": [
+      "lambari",
+      "siote"
+    ],
+    "cevas": [
+      "Ceva Natural: Milho",
+      "Ceva Proteica: Ração",
+      "Ceva de Partículas: Quilhera"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnica": [
+      "pesca com rede",
+      "pesca com vara",
+      "pesca noturna"
+    ],
+    "rios": [
+      "rio Machado",
+      "rio Urupá"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipos_de_pesca": [
+      "pesca com rede",
+      "pesca com vara",
+      "pesca noturna"
+    ],
+    "observacoes": [
+      "Água muito suja, dificultando a visibilidade.",
+      "Fishing at night (pesca noturna) was practiced.",
+      "Used green corn (milho verde) as bait.",
+      "Difficulty in catching fish due to environmental conditions.",
+      "Pescaria (fishing trip) occurred until 9 PM."
+    ]
+  }
+}

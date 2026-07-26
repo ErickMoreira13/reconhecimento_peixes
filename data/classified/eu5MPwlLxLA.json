@@ -1,0 +1,32 @@
+{
+  "arquivo": "eu5MPwlLxLA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:43:00.930069",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [
+      "EVA",
+      "canudinho",
+      "tesoura",
+      "macarrãozinho"
+    ],
+    "iscas": [
+      "Mortadela"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca"
+    ],
+    "observacoes": [
+      "Ajuste da forma da mortadela para melhor apresentação"
+    ]
+  }
+}

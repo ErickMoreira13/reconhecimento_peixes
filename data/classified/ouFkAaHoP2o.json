@@ -1,0 +1,26 @@
+{
+  "arquivo": "ouFkAaHoP2o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:40:04.018864",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Antares DC"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Vem embalada perfeitamente",
+      "Possui um ajuste de configuração para cada tipo de pescaria",
+      "Contém o melhor sistema anticabeleira do mundo",
+      "Vendida por R$ 8 mil"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "wOxU4zTJkiQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:19:28.302635",
+  "classificacao": {
+    "species": [
+      "Curimbatá",
+      "Piau"
+    ],
+    "equipment": [
+      "bar",
+      "boia",
+      "chumbada",
+      "anzol",
+      "gancho",
+      "barcos"
+    ],
+    "baits": [],
+    "fishing_techniques": [],
+    "location": [
+      "Rio Miranda",
+      "posto 21",
+      "Monte Castelo",
+      "pesqueiro Monte Castela"
+    ],
+    "other": [
+      "ar-condicionado",
+      "bitela",
+      "camas",
+      "janela"
+    ]
+  }
+}

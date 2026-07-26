@@ -1,0 +1,31 @@
+{
+  "arquivo": "laRnvFy0AIs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:49:32.371398",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Hammer",
+      "Zetop",
+      "Marinha Sport",
+      "Vulcan",
+      "Brava",
+      "Iná",
+      "Rei do Rio",
+      "Mad Dog",
+      "Eduardo Monteiro",
+      "Fly Shot",
+      "Top Shot"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "arquivo": "uI1NSkmrtSU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:35:58.967787",
+  "classificacao": {
+    "summary": "O texto é um script de vídeo ou transcrição de uma live stream de alguém pescando, com interação direta com o público. O conteúdo aborda uma rifa, menções ao Instagram, técnicas de pesca, interação com um companheiro chamado Mirtinho, e mencões a alimentos como mandioca e doce de coco. O tom é casual e envolvente, com chamadas para ação e informações sobre locais de pesca e métodos utilizados.",
+    "key_elements": [
+      "Rifa como estratégia de engajamento",
+      "Mencões a redes sociais (Instagram)",
+      "Descrição de técnicas de pesca (uso de mulinete, tipos de peixe)",
+      "Interação com o público e com Mirtinho",
+      "Mencões a alimentos típicos (mandioca, doce de coco)",
+      "Estrutura do vídeo: introdução, processo de pesca, pausas para alimentação, interação contínua com o público"
+    ],
+    "analysis": {
+      "purpose": "O vídeo parece ter dupla finalidade: educar sobre pesca e engajar o público através de interações, rifa e conteúdo visual.",
+      "engagement_strategies": [
+        "Uso de chamadas para ação (rifa, convites para seguir no Instagram)",
+        "Interação direta com o público (perguntas, respostas, comentários)",
+        "Inclusão de elementos cotidianos (alimentos, interação com Mirtinho) para criar conexão",
+        "Demonstração prática de técnicas de pesca para valorizar o conteúdo"
+      ],
+      "cultural_aspects": [
+        "Mencões a alimentos típicos da região (mandioca, doce de coco)",
+        "Uso de linguagem informal e regional, comum em contextos de live stream",
+        "Referência a uma comunidade de pesca, possivelmente local"
+      ]
+    }
+  }
+}

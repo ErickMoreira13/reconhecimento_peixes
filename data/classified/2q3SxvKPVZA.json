@@ -1,0 +1,37 @@
+{
+  "arquivo": "2q3SxvKPVZA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:36:38.201779",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Tucunaré",
+      "Piaba"
+    ],
+    "equipamentos": [
+      "GoPro",
+      "freio"
+    ],
+    "iscas": [
+      "isca viva",
+      "isca artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca viva",
+      "pesca com isca artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca viva",
+      "pesca com isca artificial"
+    ],
+    "observacoes": ""
+  }
+}

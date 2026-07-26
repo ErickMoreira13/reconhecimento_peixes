@@ -1,0 +1,49 @@
+{
+  "arquivo": "_vOcY0wQ-Qc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T09:33:07.294544",
+  "classificacao": {
+    "especies": [
+      "Azulão",
+      "Azulzinho"
+    ],
+    "equipamentos": [
+      "44",
+      "solta",
+      "régua",
+      "gravação",
+      "soltura",
+      "confere",
+      "PET furada",
+      "saco furado",
+      "saco de ráfia",
+      "galão perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [],
+    "graos": [
+      "milho",
+      "soja",
+      "trigo",
+      "arroz",
+      "quirera",
+      "canjica"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "tecnica": [
+      "soltura"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Niquelândia",
+    "tipo_pesca": [
+      "Torneio"
+    ],
+    "observacoes": []
+  }
+}

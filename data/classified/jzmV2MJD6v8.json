@@ -1,0 +1,36 @@
+{
+  "arquivo": "jzmV2MJD6v8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:24:28.975717",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Chumbo leve",
+      "Girador",
+      "Linha monofilamento",
+      "Anzol número 8"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Uso de chumbo leve solto",
+      "Uso de girador",
+      "Arremesso próximo à vegetação"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca"
+    ],
+    "observacoes": ""
+  }
+}

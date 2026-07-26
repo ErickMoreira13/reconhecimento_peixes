@@ -1,0 +1,31 @@
+{
+  "arquivo": "fKy4xYIpT7w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:26:39.337031",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Crankbait"
+    ],
+    "iscas": [
+      "Crankbait"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Artificial"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Artificial"
+    ],
+    "observacoes": [
+      "A Tilápia ataca a isca por intuito de defesa e não alimentação, sendo mais agressiva durante a desova"
+    ]
+  }
+}

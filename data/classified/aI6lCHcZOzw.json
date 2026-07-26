@@ -1,0 +1,22 @@
+{
+  "arquivo": "aI6lCHcZOzw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:45:51.863453",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Boia-cevadeira",
+      "Boia-torpedo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

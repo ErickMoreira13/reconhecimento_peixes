@@ -1,0 +1,21 @@
+{
+  "arquivo": "rgbp_GFwMds",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:07:10.862123",
+  "classificacao": {
+    "especies": [
+      "Patinga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

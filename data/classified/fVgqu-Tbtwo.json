@@ -1,0 +1,20 @@
+{
+  "arquivo": "fVgqu-Tbtwo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:57:29.997132",
+  "classificacao": {
+    "species": [
+      "Jaú",
+      "Pirarara",
+      "Piraíba"
+    ],
+    "equipment": [
+      "barco",
+      "linha",
+      "carretilha"
+    ],
+    "baits": [],
+    "location": "pousada Remanso",
+    "guide": "Henrique"
+  }
+}

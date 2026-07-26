@@ -1,0 +1,28 @@
+{
+  "arquivo": "Fr0IvypLlsU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T08:58:47.745670",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Cevar"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

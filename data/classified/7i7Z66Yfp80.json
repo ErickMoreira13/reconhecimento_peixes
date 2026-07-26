@@ -1,0 +1,25 @@
+{
+  "arquivo": "7i7Z66Yfp80",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:40:35.461799",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Hidrocervador"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

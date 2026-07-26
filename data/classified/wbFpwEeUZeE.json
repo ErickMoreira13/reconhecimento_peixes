@@ -1,0 +1,29 @@
+{
+  "arquivo": "wbFpwEeUZeE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:00:05.252259",
+  "classificacao": {
+    "especies": [
+      "Pirarucu"
+    ],
+    "equipamentos": [
+      "Tralha pesada",
+      "P6",
+      "Oito mil"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de espera"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de espera"
+    ],
+    "observacoes": []
+  }
+}

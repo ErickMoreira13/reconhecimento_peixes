@@ -1,0 +1,38 @@
+{
+  "arquivo": "m_zGe1-pqH8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:53:06.442729",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "líder",
+      "vara de pesca",
+      "caetilha",
+      "molinete",
+      "snap",
+      "nó rapala"
+    ],
+    "iscas": [
+      "zigzara",
+      "queen",
+      "gigue"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "uso do líder",
+      "nó rapala/snap",
+      "variação de profundidade da isca",
+      "seleção de vara",
+      "postura no arremesso"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca artificial"
+    ],
+    "observacoes": []
+  }
+}

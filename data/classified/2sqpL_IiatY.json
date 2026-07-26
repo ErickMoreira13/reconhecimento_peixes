@@ -1,0 +1,107 @@
+{
+  "arquivo": "2sqpL_IiatY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:38:22.157323",
+  "classificacao": {
+    "species": [
+      {
+        "name": "Tilápia",
+        "common_name": "Tilápia",
+        "type": "fish"
+      },
+      {
+        "name": "Porquinho",
+        "common_name": "Porquinho",
+        "type": "fish"
+      },
+      {
+        "name": "Piau",
+        "common_name": "Piau",
+        "type": "fish"
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Varinha de pesca",
+        "common_name": "Varinha de pesca",
+        "type": "fishing rod"
+      }
+    ],
+    "baits": [
+      {
+        "name": "Ração de coelho",
+        "common_name": "Ração de coelho",
+        "type": "baits"
+      },
+      {
+        "name": "Quirela de arroz",
+        "common_name": "Quirela de arroz",
+        "type": "baits"
+      },
+      {
+        "name": "Quirela de milho",
+        "common_name": "Quirela de milho",
+        "type": "baits"
+      },
+      {
+        "name": "Farelo de soja",
+        "common_name": "Farelo de soja",
+        "type": "baits"
+      },
+      {
+        "name": "Farelo de arroz",
+        "common_name": "Farelo de arroz",
+        "type": "baits"
+      },
+      {
+        "name": "Farelo de trigo",
+        "common_name": "Farelo de trigo",
+        "type": "baits"
+      }
+    ],
+    "cevas": [
+      {
+        "name": "Ceva natural",
+        "common_name": "Ceva natural",
+        "type": "natural bait"
+      },
+      {
+        "name": "Ceva proteica",
+        "common_name": "Ceva proteica",
+        "type": "proteic bait"
+      },
+      {
+        "name": "Ceva de partículas",
+        "common_name": "Ceva de partículas",
+        "type": "particle bait"
+      }
+    ],
+    "grains_and_agricultural_products": [
+      {
+        "name": "Quirela de arroz",
+        "common_name": "Quirela de arroz",
+        "type": "grain product"
+      },
+      {
+        "name": "Quirela de milho",
+        "common_name": "Quirela de milho",
+        "type": "grain product"
+      },
+      {
+        "name": "Farelo de soja",
+        "common_name": "Farelo de soja",
+        "type": "agricultural product"
+      },
+      {
+        "name": "Farelo de arroz",
+        "common_name": "Farelo de arroz",
+        "type": "agricultural product"
+      },
+      {
+        "name": "Farelo de trigo",
+        "common_name": "Farelo de trigo",
+        "type": "agricultural product"
+      }
+    ]
+  }
+}

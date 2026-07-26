@@ -1,0 +1,23 @@
+{
+  "arquivo": "UZYFPcjjZ5k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:24:45.837232",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "reel rotativo",
+      "freio centrífugo",
+      "freio magnético"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

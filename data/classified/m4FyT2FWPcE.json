@@ -1,0 +1,34 @@
+{
+  "arquivo": "m4FyT2FWPcE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:39:18.055656",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Garrafa"
+    ],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [
+      "Isca de Massa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Piau"
+    ],
+    "observacoes": []
+  }
+}

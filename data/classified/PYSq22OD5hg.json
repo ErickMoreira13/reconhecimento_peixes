@@ -1,0 +1,35 @@
+{
+  "arquivo": "PYSq22OD5hg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:27:10.127779",
+  "classificacao": {
+    "resumo_da_viagem": {
+      "equipamento_usado": {
+        "pescador": "R1 rod (blank)",
+        "carretilha": "Evox",
+        "linha": "Castman",
+        "amarras": "YGK",
+        "isca": "GIG",
+        "isca_secundária": "King Spinner",
+        "isca_adicional": "Slow Shed",
+        "outras_iscas": [
+          "Shotgun",
+          "Tweetbait"
+        ]
+      },
+      "proteção_e_conforto": {
+        "roupa": "Fishing Cor",
+        "proteção_contra_chuva": "Sea Fishing rain cover",
+        "ferramentas": "Albatrosh pliers"
+      },
+      "motorização": {
+        "motor": "Mercury",
+        "motor_electrico": "Motor Guide X3"
+      },
+      "localização": "Amazonas",
+      "técnicas_usadas": "Técnicas específicas para pesca no ambiente amazônico",
+      "resultado": "Pescada bem-sucedida",
+      "reconhecimento": "Agradecimento à equipe envolvida"
+    }
+  }
+}

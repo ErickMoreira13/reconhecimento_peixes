@@ -1,0 +1,24 @@
+{
+  "arquivo": "LE3cwu7Wblw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T21:04:18.216632",
+  "classificacao": {
+    "especies": [
+      "Tabarana"
+    ],
+    "equipamentos": [
+      "Jig",
+      "Shed"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

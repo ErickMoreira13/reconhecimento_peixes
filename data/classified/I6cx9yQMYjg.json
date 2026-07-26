@@ -1,0 +1,22 @@
+{
+  "arquivo": "I6cx9yQMYjg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:24:10.312972",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carregadeira",
+      "Lona de silo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": "Menciona custo da lona de silo (R$1/m²) e parceria com pá carregadeira para escavação do lago. Dimensões do lago: 20 por 20 metros."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "WXV48MplKDk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:05:26.161641",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Jacundá"
+    ],
+    "equipamentos": [
+      "Barraca",
+      "Canoa",
+      "Lanterna",
+      "Tanques"
+    ],
+    "iscas": [
+      "Arroz",
+      "Chamariz"
+    ],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [
+      "Lançamento",
+      "Teste de Lure",
+      "Pescaria com Isca Artificial"
+    ],
+    "rios": []
+  }
+}

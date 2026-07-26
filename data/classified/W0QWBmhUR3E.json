@@ -1,0 +1,27 @@
+{
+  "arquivo": "W0QWBmhUR3E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:52:02.451757",
+  "classificacao": {
+    "especies": [
+      "Bichinho de laranja"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca sensacional",
+      "Isca viva",
+      "Bichinho de laranja"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Larvinhas são eficazes na pescaria"
+    ]
+  }
+}

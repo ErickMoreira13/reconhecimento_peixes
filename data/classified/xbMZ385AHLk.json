@@ -1,0 +1,37 @@
+{
+  "arquivo": "xbMZ385AHLk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:44:28.223582",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Tarrafa",
+      "Socorro",
+      "Cofinho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria de Socó",
+      "Pescaria de Choque"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de Socó",
+      "Pescaria de Choque"
+    ],
+    "observacoes": [
+      "Campo sujo e revirado",
+      "Possibilidade de peixes morrerem por falta de chuva",
+      "Peixes pequenos e dormindo na beira",
+      "Área com tendência a secar em dezembro"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "arquivo": "rgM0rCAQ4Nc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:07:28.278205",
+  "classificacao": {
+    "espécies": [],
+    "equipamentos": [],
+    "iscas": [
+      "massinha (mistura de suco de caju, farinha de trigo, farinha de milho, tapioca e amido de milho)",
+      "sausages de massa (formados com a mistura)"
+    ],
+    "cevas": [
+      "Ceva de Partículas (massinha colocada em galão perfurado)"
+    ],
+    "grãos": [
+      "milho (3,7 litros de milho mencionados no contexto)"
+    ],
+    "técnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": "",
+    "observacoes": [
+      "A massa é preparada com água quente e misturada até formar uma consistência adequada.",
+      "O galão perfurado é usado para permitir a liberação gradual da ceva de partículas."
+    ]
+  }
+}

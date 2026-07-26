@@ -1,0 +1,36 @@
+{
+  "arquivo": "Nsz5UhOr3Ek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:26:06.419142",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [
+      "Pinga"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Piau",
+      "Pesca de Piapara"
+    ],
+    "observacoes": [
+      "A soja é preparada com pinga para ficar borrachuda e não rachar no anzol",
+      "A técnica envolve mergulhar a soja em pinga por alguns dias"
+    ]
+  }
+}

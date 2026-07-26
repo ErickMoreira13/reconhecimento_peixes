@@ -1,0 +1,50 @@
+{
+  "arquivo": "jcx38QGuiMo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:54:49.618120",
+  "classificacao": {
+    "especies": [
+      "Laranjinha",
+      "Tambaqui",
+      "Pacu",
+      "Pirarara",
+      "Dourado",
+      "Camarão"
+    ],
+    "equipamentos": [
+      "Balde"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Camarão de água doce"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Quirera",
+      "Amendoim",
+      "Banana",
+      "Mel"
+    ],
+    "tecnicas": [
+      "Cevas de partículas",
+      "Cevas naturais"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com ceva",
+      "Pesca de ceva"
+    ],
+    "observacoes": [
+      "Utilização de quirera grossa, ração de coelho e massinha de amendoim, banana e mel",
+      "Mistura com água do rio",
+      "Aplicação na beira do barranco"
+    ]
+  }
+}

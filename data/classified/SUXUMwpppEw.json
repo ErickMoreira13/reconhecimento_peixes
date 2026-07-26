@@ -1,0 +1,43 @@
+{
+  "arquivo": "SUXUMwpppEw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:15:38.002597",
+  "classificacao": {
+    "Espécies": [
+      "Dorado",
+      "Anguila",
+      "Sábalo",
+      "Morena"
+    ],
+    "Equipamentos": [
+      "Barbijo",
+      "Caña",
+      "Poscaño",
+      "Boya",
+      "Cable",
+      "Anzulo",
+      "Ranita"
+    ],
+    "Iscas": [
+      "Maíz",
+      "Anguila",
+      "Lombre",
+      "Carnada",
+      "Bollita",
+      "Sinuelitos"
+    ],
+    "Cevadas": {
+      "Ceva Natural": [
+        "Maíz",
+        "Lombre",
+        "Anguila"
+      ],
+      "Ceva Proteica": [],
+      "Ceva Aromática": [],
+      "Ceva de Partículas": []
+    },
+    "Graos": [
+      "Maíz"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "arquivo": "FqDeq1nusbY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:42:20.963077",
+  "classificacao": {
+    "especies": [
+      "Garabébel",
+      "Carapitanga",
+      "Robalo",
+      "Dentão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva de Partículas"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca Sub",
+      "Pesca Seletiva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Sub",
+      "Pesca Seletiva"
+    ],
+    "observacoes": [
+      "Água não tava 100% Tava 65%",
+      "Na maré mais seca Na vazando",
+      "Deu mais uma clareada Assentou o pozinho"
+    ]
+  }
+}

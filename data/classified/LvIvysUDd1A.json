@@ -1,0 +1,35 @@
+{
+  "arquivo": "LvIvysUDd1A",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:08:18.370898",
+  "classificacao": {
+    "especies": [
+      "Açúcar",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Ultralight",
+      "Shad"
+    ],
+    "iscas": [
+      "Shad",
+      "Speed Shad",
+      "Jig Head"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Ultralight"
+    ],
+    "rios": [],
+    "bacias": [
+      "Amazônia"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Ultralight"
+    ],
+    "observacoes": []
+  }
+}

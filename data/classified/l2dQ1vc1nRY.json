@@ -1,0 +1,38 @@
+{
+  "arquivo": "l2dQ1vc1nRY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:43:03.149070",
+  "classificacao": {
+    "species": [
+      "Pacu",
+      "Charlão",
+      "Setentão"
+    ],
+    "equipment": [
+      "vara",
+      "líder",
+      "garaté",
+      "alisca azul",
+      "régua",
+      "fio",
+      "pau"
+    ],
+    "baits": [
+      "isca"
+    ],
+    "location": [
+      "margem"
+    ],
+    "time": [],
+    "techniques": [
+      "cirurgia para soltar garapéias"
+    ],
+    "challenges": [
+      "peixe preso em galhos"
+    ],
+    "other_terms": [
+      "ebola",
+      "porca"
+    ]
+  }
+}

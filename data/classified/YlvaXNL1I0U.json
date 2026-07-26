@@ -1,0 +1,33 @@
+{
+  "arquivo": "YlvaXNL1I0U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:18:45.405206",
+  "classificacao": {
+    "especies": [
+      "Flamengão"
+    ],
+    "equipamentos": [
+      "Varinha Armada",
+      "Chuveirinha"
+    ],
+    "iscas": [
+      "Chuveirinha",
+      "Frito"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Lugar bonito",
+      "Pescaria na Praia do Paredão",
+      "É nós, é nós, só nós dois, as ozinhas armadas, Zacarias aí, aprendemos, aprendi meu primo, é só puxar, show de bola, valeu, valeu, tamo junto."
+    ]
+  }
+}

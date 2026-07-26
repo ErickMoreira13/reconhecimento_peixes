@@ -1,0 +1,29 @@
+{
+  "arquivo": "4Oq1WVqdzuY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:43:16.015351",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Temporal"
+    ],
+    "equipamentos": [
+      "Balsa"
+    ],
+    "iscas": [
+      "Carne de boi",
+      "Cebos"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tapajós"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Itaituba",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

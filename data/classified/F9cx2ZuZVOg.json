@@ -1,0 +1,18 @@
+{
+  "arquivo": "F9cx2ZuZVOg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:02:51.863248",
+  "classificacao": {
+    "species": [
+      "Traíra",
+      "Ribeirão",
+      "Bitelo"
+    ],
+    "equipment": [
+      "Linha de pesca"
+    ],
+    "baits": [],
+    "grains": [],
+    "other": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "gyFK-Jghkz8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:35:12.594194",
+  "classificacao": {
+    "analysis": {
+      "context": "The text is a live stream or video script from a fishing enthusiast sharing their experience on a fishing trip. The content includes personal anecdotes, technical details about fishing equipment, challenges faced (e.g., wind), and promotional elements for a course and products. The tone is informal, conversational, and engaging, typical of social media or live-streaming content.",
+      "key_elements": {
+        "fishing_experience": "The speaker describes the process of catching fish, including the use of specific equipment (e.g., 'lãder 073 da Vexter') and techniques. They mention catching fish like 'peva' and 'flecha,' which are types of fish common in Brazilian waters.",
+        "challenges": "The wind is highlighted as a significant obstacle, affecting the fishing process and requiring adjustments in technique.",
+        "equipment": "The speaker emphasizes the importance of quality gear, such as the 'lãder 073 da Vexter,' and may be promoting it as part of their product list.",
+        "promotion": "The content includes a call to action for a course with 400 students and a link to a product list on Mercado Livre, indicating a commercial intent.",
+        "audience_interaction": "The speaker uses phrases like 'vocês sabem?' and 'vamos ver?' to engage viewers, creating a sense of shared experience and participation."
+      },
+      "promotional_aspects": {
+        "course_promotion": "The speaker mentions a course with 400 students, likely aimed at teaching fishing techniques, and may be using the live stream to attract new participants.",
+        "product_promotion": "The text includes a reference to a product list on Mercado Livre, suggesting the speaker is promoting fishing-related items for sale.",
+        "branding": "The use of specific product names (e.g., 'lãder 073 da Vexter') and the mention of a course indicate an effort to build a personal brand around fishing expertise."
+      },
+      "language_style": {
+        "informal_tone": "The language is casual, with contractions, slang, and colloquial expressions (e.g., 'vocês sabem?'), typical of live-streaming or social media content.",
+        "technical_terms": "Fishing-specific terminology is used (e.g., 'lãder,' 'peva,' 'flecha'), which may be familiar to the target audience but could require context for outsiders.",
+        "engagement": "The speaker frequently addresses the audience directly, using rhetorical questions and exclamations to maintain interest."
+      },
+      "cultural_notes": {
+        "regional_terms": "Terms like 'peva' and 'flecha' refer to specific fish species common in Brazilian waters, reflecting the local context of the content.",
+        "product_reference": "The mention of Mercado Livre, a popular e-commerce platform in Brazil, highlights the regional audience and commercial focus."
+      },
+      "conclusion": "The text serves a dual purpose: sharing a personal fishing experience and promoting a course and products. The informal, engaging tone and technical details cater to an audience interested in fishing, while the promotional elements aim to drive engagement and sales. The content reflects the speaker's expertise and their strategy to build a community around their brand."
+    }
+  }
+}

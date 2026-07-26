@@ -1,0 +1,35 @@
+{
+  "arquivo": "QPFOkTpn0Fo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:56:53.547055",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "anzol pessoal",
+      "empate de aço",
+      "chumbo",
+      "linha multifilamento",
+      "boia",
+      "varinha"
+    ],
+    "iscas": [
+      "Lambari"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "bagunça na água"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "utilizar uma boia grande para criar barulho e bagunça na água",
+      "insistir no mesmo local após o lançamento da isca"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arquivo": "_yRPZW2vZMk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:44:35.322343",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Linha de pesca",
+      "Azol"
+    ],
+    "iscas": [
+      "Isca branca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com linhada"
+    ],
+    "rios": [
+      "Rio Branco"
+    ],
+    "bacias": [
+      "Bacia do Rio"
+    ],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com linhada"
+    ],
+    "observacoes": [
+      "Viajei 800km para vir pegar esse peixe",
+      "Soltar esse exemplar porque ele não dava medida"
+    ]
+  }
+}

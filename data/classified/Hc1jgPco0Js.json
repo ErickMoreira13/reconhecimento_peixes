@@ -1,0 +1,46 @@
+{
+  "arquivo": "Hc1jgPco0Js",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:57:16.584410",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "vara de 10 a 20 libras",
+      "vara de 15 a 16 libras",
+      "vara de 16 a 17 libras",
+      "vara de 17 libras"
+    ],
+    "iscas": [
+      "calesma",
+      "isquinha",
+      "ziguezara",
+      "farestique",
+      "sarasara",
+      "isca da Cabana Coatá"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com iscas artificiais",
+      "uso de iscas com movimentos específicos (pop, zara, zarastique)"
+    ],
+    "rios": [
+      "Lago de Balbina"
+    ],
+    "bacias": [
+      "Bacia Amazônica"
+    ],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "os maiores tucunarés no Lago de Balbina têm até 64 centímetros",
+      "é recomendado usar equipamento de 15 a 17 libras",
+      "a isca da Cabana Coatá é eficaz com quatro tipos de movimento"
+    ]
+  }
+}

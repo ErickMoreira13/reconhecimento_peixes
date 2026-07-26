@@ -1,0 +1,48 @@
+{
+  "arquivo": "sRPGp68LJr0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:52:47.306872",
+  "classificacao": {
+    "especies": [
+      "Amarela",
+      "Piapara"
+    ],
+    "equipamentos": [
+      "Loninha",
+      "Varona",
+      "Marimba"
+    ],
+    "iscas": [
+      "Ceba",
+      "Milho",
+      "Cevinha"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Rodar",
+      "Aumentar as bolinhas",
+      "Jogar ceba"
+    ],
+    "rios": [
+      "Rio",
+      "Rio do Limpo"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em rio"
+    ],
+    "observacoes": [
+      "Água amarelona",
+      "Chuva",
+      "25 kg de milho por 1.049 real",
+      "Medo de tomar uma molhada"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "-W6CxLITAGc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:54:17.277474",
+  "classificacao": {
+    "especies": [
+      "Gadeia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

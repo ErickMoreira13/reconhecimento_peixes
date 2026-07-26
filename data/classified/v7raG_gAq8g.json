@@ -1,0 +1,33 @@
+{
+  "arquivo": "v7raG_gAq8g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:36:58.406853",
+  "classificacao": {
+    "especies": [
+      "Mariquita"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu",
+      "Varinha de Mão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Varinha de Mão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Varinha de Mão"
+    ],
+    "observacoes": [
+      "O peixe possui espinhos na cabeça",
+      "O pescador solta peixes menores e retém os maiores",
+      "A pesca é realizada em áreas com pedras",
+      "O pescador usa cuidado ao manipular o peixe para evitar ferimentos"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "WT13_yRZSGA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:34:48.712830",
+  "classificacao": {
+    "species": [
+      "robalo (camurim)",
+      "moreia (moreia)",
+      "bagre (bagre)",
+      "siri (siri)",
+      "camarão (camarão)",
+      "morena (morena)",
+      "baiacu (baiacu)"
+    ],
+    "equipment": [
+      "rede (net)",
+      "saquinho (small bag)",
+      "pau (stick)"
+    ],
+    "baits": [],
+    "other": [
+      "A atividade é realizada por mulheres da comunidade local, que dependem do rio para alimentação e subsistência.",
+      "O uso da rede é uma prática tradicional e comunitária, sem fins comerciais.",
+      "O processo inclui a limpeza da rede após a pesca e a coleta seletiva de espécies."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "arquivo": "mP4Hazzmhhs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:59:59.236522",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "caixa de alevinas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

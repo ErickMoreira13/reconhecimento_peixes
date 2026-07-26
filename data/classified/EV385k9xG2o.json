@@ -1,0 +1,24 @@
+{
+  "arquivo": "EV385k9xG2o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:52:58.068046",
+  "classificacao": {
+    "especies": [
+      "Piranhã",
+      "Corvina"
+    ],
+    "equipamentos": [
+      "Risca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

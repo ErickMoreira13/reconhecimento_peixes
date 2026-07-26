@@ -1,0 +1,31 @@
+{
+  "arquivo": "mY1YRl81N5I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:17:27.123551",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Pacu",
+      "Lapa",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Pulsar",
+      "Alicate"
+    ],
+    "iscas": [
+      "Iscaína"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Alto Jari"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

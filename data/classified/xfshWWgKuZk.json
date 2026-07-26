@@ -1,0 +1,41 @@
+{
+  "arquivo": "xfshWWgKuZk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:50:36.468853",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Malhadeira",
+      "Sininho"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de uso do sininho",
+      "Zoada"
+    ],
+    "rios": [
+      "Rio Tapajós"
+    ],
+    "bacias": [
+      "Bacia do Rio Tapajós"
+    ],
+    "estado": "Pará",
+    "municipio": "Itaituba",
+    "tipo_pesca": [
+      "Pesca com malhadeira",
+      "Pesca de cardume"
+    ],
+    "observacoes": [
+      "Presença de boto (peixe-boi) perturbando as redes",
+      "Custo elevado dos panos de malhadeira",
+      "Pescaria realizada sozinho",
+      "Uso de sininho para detectar entrada de peixes",
+      "Mencionado cardume de piau e tambaqui"
+    ]
+  }
+}

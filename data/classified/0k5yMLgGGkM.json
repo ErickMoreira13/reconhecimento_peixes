@@ -1,0 +1,21 @@
+{
+  "arquivo": "0k5yMLgGGkM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:24:20.850045",
+  "classificacao": {
+    "especies": [
+      "Arapaima"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Joatuba",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

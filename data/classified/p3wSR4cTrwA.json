@@ -1,0 +1,30 @@
+{
+  "arquivo": "p3wSR4cTrwA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:54:46.073221",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Garrafa PET",
+      "Arame"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Armadilha com garrafa PET"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com armadilha"
+    ],
+    "observacoes": [
+      "Não foi possível capturar peixes durante o experimento"
+    ]
+  }
+}

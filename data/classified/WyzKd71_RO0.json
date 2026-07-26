@@ -1,0 +1,30 @@
+{
+  "arquivo": "WyzKd71_RO0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:06:55.607428",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "jerkbait"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Adjusting retrieval based on current",
+      "Fast retrieval with multiple twitches",
+      "Fast retrieval",
+      "Slow retrieval with pauses"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Lure fishing"
+    ],
+    "observacoes": [
+      "Tips for retrieving jerkbait based on current and bite activity"
+    ]
+  }
+}

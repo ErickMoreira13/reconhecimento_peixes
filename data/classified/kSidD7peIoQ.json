@@ -1,0 +1,32 @@
+{
+  "arquivo": "kSidD7peIoQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:09:10.654067",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Filhote"
+    ],
+    "equipamentos": [
+      "Galão",
+      "Saco",
+      "Tampa"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Fubá"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

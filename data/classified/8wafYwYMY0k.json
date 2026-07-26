@@ -1,0 +1,36 @@
+{
+  "arquivo": "8wafYwYMY0k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:34:13.905804",
+  "classificacao": {
+    "species": [
+      "Corvina",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "chapéu",
+      "tiro"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Tietê",
+      "Tumarete"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Dutra",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca de corvina"
+    ],
+    "observacoes": [
+      "Menciona a persistência necessária para capturar corvina",
+      "Referência a 'dengue' e 'dengoso' (possivelmente relacionado a condições de saúde ou ambiente)",
+      "Menciona variações de corvina ('curvinha', 'curvinhão')",
+      "Comentário sobre o tamanho da corvina ('bruta', 'rala')"
+    ]
+  }
+}

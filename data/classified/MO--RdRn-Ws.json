@@ -1,0 +1,39 @@
+{
+  "arquivo": "MO--RdRn-Ws",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T10:58:31.862722",
+  "classificacao": {
+    "especies": [
+      {
+        "nome": "Traíra",
+        "categoria": "Pescado"
+      },
+      {
+        "nome": "Piranha",
+        "categoria": "Pescado"
+      }
+    ],
+    "equipamentos": [
+      {
+        "nome": "Barco",
+        "categoria": "Veículo"
+      },
+      {
+        "nome": "Carburetor",
+        "categoria": "Mecânico"
+      },
+      {
+        "nome": "Ferramentas",
+        "categoria": "Manutenção"
+      }
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Itaipu"
+  }
+}

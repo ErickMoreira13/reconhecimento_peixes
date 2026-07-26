@@ -1,0 +1,39 @@
+{
+  "arquivo": "3NOL04e5OqY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:11:44.589208",
+  "classificacao": {
+    "especies": [
+      "Bague",
+      "Papaterra",
+      "Sardinha",
+      "Siri"
+    ],
+    "equipamentos": [
+      "Alicates",
+      "Molinete",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio São Francisco"
+    ],
+    "bacias": [
+      "Bacia do Rio São Francisco"
+    ],
+    "estado": "Minas Gerais",
+    "municipio": "Uriacica",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Briga com o peixe",
+      "Luz escuro",
+      "Maré baixa",
+      "Pescaria maravilhosa"
+    ]
+  }
+}

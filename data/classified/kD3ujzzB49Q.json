@@ -1,0 +1,40 @@
+{
+  "arquivo": "kD3ujzzB49Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T19:24:44.707761",
+  "classificacao": {
+    "summary": {
+      "main_points": [
+        {
+          "topic": "Pescaria de tucunaré azul",
+          "details": "O narrador descreve a captura de um tucunaré azul de aproximadamente 60 cm, destacando a emoção do momento e a dificuldade da pescaria. O peixe foi medido e, após a fotografia, foi liberado de volta ao rio."
+        },
+        {
+          "topic": "Localização",
+          "details": "A pescaria ocorreu no rio Três Marias, uma região conhecida por pesca esportiva e turismo."
+        },
+        {
+          "topic": "Colaboração",
+          "details": "O narrador agradece a Marcondes e Chiquinha, provavelmente parceiros ou guias que auxiliaram na pescaria."
+        },
+        {
+          "topic": "Promoção de pousada",
+          "details": "O conteúdo inclui uma divulgação da pousada Chalés do Conde, localizada em Três Marias, com informações de contato (WhatsApp, Instagram) e apelo para visitas."
+        }
+      ],
+      "tone": "Entusiasmado, informal e promocional, com uso de gírias e expressões de excitação (ex.: 'vai ser um dia inesquecível', 'vai ser um dia de louco').",
+      "key_terms": [
+        "tucunaré azul",
+        "Três Marias",
+        "Chalés do Conde",
+        "trairão",
+        "60 cm",
+        "liberação do peixe"
+      ]
+    },
+    "additional_notes": {
+      "context": "O texto parece ser parte de um vídeo de pescaria, combinando entretenimento, promoção de turismo e divulgação de um empreendimento local (a pousada).",
+      "possible_intent": "O usuário pode estar buscando uma análise do conteúdo, extração de informações-chave ou tradução para outro idioma."
+    }
+  }
+}

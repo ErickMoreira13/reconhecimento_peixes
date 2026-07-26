@@ -1,0 +1,27 @@
+{
+  "arquivo": "pI2k0_v6SEg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:08:30.627784",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Piau",
+      "Curimba"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Sangue de boi"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

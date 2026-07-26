@@ -1,0 +1,33 @@
+{
+  "arquivo": "ZzwnCizuMBQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T17:05:12.205177",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca de Superfície",
+      "Isca de Meia Água",
+      "Impom",
+      "Queen"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de Isca de Superfície",
+      "Técnica de Isca de Meia Água"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Isca Artificial"
+    ],
+    "observacoes": [
+      "A isca de superfície é eficaz para vídeos, mas a isca de meia água é mais produtiva. O uso do alicate é importante para evitar machucar o peixe."
+    ]
+  }
+}

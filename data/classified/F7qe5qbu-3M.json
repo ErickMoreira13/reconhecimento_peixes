@@ -1,0 +1,29 @@
+{
+  "arquivo": "F7qe5qbu-3M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T12:02:26.705133",
+  "classificacao": {
+    "especies": [
+      "Tambaqui",
+      "Tabaco"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Carretilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Machado"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": []
+  }
+}

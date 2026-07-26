@@ -1,0 +1,44 @@
+{
+  "arquivo": "uGT8tsLsl-8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:25:13.427953",
+  "classificacao": {
+    "especies": [
+      "Truta"
+    ],
+    "equipamentos": [
+      "Indicador",
+      "Líder Francês",
+      "Mosca Seca",
+      "Hilo",
+      "Linha",
+      "Flotes"
+    ],
+    "iscas": [
+      "Mosca Seca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescar com Indicador",
+      "Pescar com Líder Francês",
+      "Mosca Seca",
+      "Hilo",
+      "Linha",
+      "Pescar Upstream"
+    ],
+    "rios": [
+      "Rio Mendoza"
+    ],
+    "bacias": [
+      "Bacia do Rio Mendoza"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Mosca Seca",
+      "Pesca com Indicador"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "arquivo": "AEuvYzV606o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:42:05.042798",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Trigo",
+      "Fubá"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

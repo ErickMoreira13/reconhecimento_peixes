@@ -1,0 +1,39 @@
+{
+  "arquivo": "SrEP-lemwIM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:52:02.866970",
+  "classificacao": {
+    "especies": [
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Rede",
+      "Abajara",
+      "Malhadeira"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Rede",
+      "Malhadeira"
+    ],
+    "rios": [
+      "Tapajós"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "Santarém",
+    "tipo_pesca": [
+      "Pesca com Rede",
+      "Pesca de Peixes",
+      "Pesca em Águas Abertas"
+    ],
+    "observacoes": [
+      "Uso de assado como alimento durante a pesca",
+      "Localização na Floresta Nacional do Tapajós",
+      "Preparação de comida sem gás utilizando recursos da natureza",
+      "Paisagem descrita como linda e bacana"
+    ]
+  }
+}

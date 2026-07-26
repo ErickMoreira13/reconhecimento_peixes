@@ -1,0 +1,36 @@
+{
+  "arquivo": "av6ZrWAr1EM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:17:19.696693",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Borrachinha"
+    ],
+    "iscas": [
+      "Ração de coelho"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria na borrachinha"
+    ],
+    "rios": [
+      "Chaca"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pescaria de tilápia"
+    ],
+    "observacoes": [
+      "Mãos sujas devido ao contato com a borrachinha",
+      "Menciona inscrição no canal para apoio"
+    ]
+  }
+}

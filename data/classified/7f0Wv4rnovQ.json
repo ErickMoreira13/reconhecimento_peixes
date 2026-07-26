@@ -1,0 +1,51 @@
+{
+  "arquivo": "7f0Wv4rnovQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:37:50.179676",
+  "classificacao": {
+    "especies": [
+      "Lambari",
+      "Traíra",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Varinha",
+      "Linha",
+      "Fio",
+      "Multifilamento",
+      "Bolinha",
+      "Cesto",
+      "Fogo",
+      "Lenhas",
+      "Vassouras",
+      "Acampamento",
+      "Frouxada",
+      "Toca"
+    ],
+    "iscas": [
+      "Fígado",
+      "Quirela"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Quirera"
+    ],
+    "tecnicas": [
+      "Armar as esperas",
+      "Pegar coisa grossa",
+      "Frouxada",
+      "Firmada",
+      "Pescar"
+    ],
+    "rios": [
+      "Rio das Antas"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

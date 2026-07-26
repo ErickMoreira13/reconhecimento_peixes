@@ -1,0 +1,32 @@
+{
+  "arquivo": "j-IFq7JzCek",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:36:14.481678",
+  "classificacao": {
+    "especies": [
+      "Piapara",
+      "Lambari",
+      "Mandi"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Tabuado",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Enroscar a linha",
+      "Quebrar a ponta"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em rio"
+    ],
+    "observacoes": []
+  }
+}

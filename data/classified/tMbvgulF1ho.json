@@ -1,0 +1,30 @@
+{
+  "arquivo": "tMbvgulF1ho",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T14:09:21.615402",
+  "classificacao": {
+    "especies": [
+      "Paratigato",
+      "Parati",
+      "Pé"
+    ],
+    "equipamentos": [
+      "vara",
+      "snap",
+      "azolzinho",
+      "gig head"
+    ],
+    "isca": [
+      "cor Head Shatter",
+      "azolzinho",
+      "gig head"
+    ],
+    "cores": [
+      "cor Head Shatter"
+    ],
+    "tecnicas": [
+      "Vertical",
+      "suporte de hook"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "kRNlKc1lEWo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:04:40.093383",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Corró"
+    ],
+    "equipamentos": [
+      "Boia"
+    ],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

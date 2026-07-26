@@ -1,0 +1,38 @@
+{
+  "arquivo": "h4AaOWQsAXc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:40:29.556501",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Piranha",
+      "Dourado"
+    ],
+    "equipamentos": [
+      "Anzol barra 8",
+      "Empate de aço comprido",
+      "Chumbo pequeno",
+      "Girador"
+    ],
+    "iscas": [
+      "Molinita"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arrasto",
+      "Beirando os camalotes"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Currículo"
+    ],
+    "observacoes": [
+      "Os peixes estão próximos aos camalotes porque a região é arenosa e os camalotes servem como refúgio para peixes menores",
+      "O peixe capturado tinha dois caninos aparentes e corpo fino"
+    ]
+  }
+}

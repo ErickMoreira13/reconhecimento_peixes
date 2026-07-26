@@ -1,0 +1,41 @@
+{
+  "arquivo": "ahjPNup6yM0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:45:41.554649",
+  "classificacao": {
+    "especies": [
+      "Prejereba"
+    ],
+    "equipamentos": [
+      "Girador",
+      "Engate rápido",
+      "Boia",
+      "Espada grande",
+      "Garateia",
+      "Nó de lenda",
+      "Nó multiuso",
+      "Nó de stop",
+      "Alicate tripador"
+    ],
+    "iscas": [
+      "Isca curta",
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Montagem de chicotilho",
+      "Uso de engate rápido"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas artificiais"
+    ],
+    "observacoes": [
+      "Dica de montagem prévia da isca dentro da boia para evitar perda de equipamentos no barco"
+    ]
+  }
+}

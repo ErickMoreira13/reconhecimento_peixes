@@ -1,0 +1,41 @@
+{
+  "arquivo": "pARpV2_PMgc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:59:08.731749",
+  "classificacao": {
+    "especies": [
+      "Piaba",
+      "Marimão",
+      "Traíra",
+      "Cachorro D'água"
+    ],
+    "equipamentos": [
+      "vara",
+      "boia",
+      "linha"
+    ],
+    "iscas": [
+      "Piaba",
+      "Piabona"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "carregamento",
+      "uso de boia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com boia"
+    ],
+    "observacoes": [
+      "muitas traíras grandes",
+      "perda de iscas",
+      "agressividade dos peixes",
+      "dificuldade em capturar"
+    ]
+  }
+}

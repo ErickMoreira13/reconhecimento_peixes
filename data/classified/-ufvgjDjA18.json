@@ -1,0 +1,30 @@
+{
+  "arquivo": "-ufvgjDjA18",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:53:15.058828",
+  "classificacao": {
+    "species": [
+      "tilápia"
+    ],
+    "equipment": [
+      "vara (fishing rod)",
+      "linha (fishing line)",
+      "anzol (hook)",
+      "nó fisgador (fisgador knot)"
+    ],
+    "baits": [
+      "massa (bait)",
+      "milho (corn)"
+    ],
+    "techniques": [
+      "Construção de 'chicote' (rig com dois anzóis, um maior e um menor)",
+      "Uso do 'nó fisgador' para fixar o anzol na linha",
+      "Técnica de 'chicote misto' (com e sem massa de isca)",
+      "Esticar a linha para criar uma 'barriga' (bulge) ao lançar a isca"
+    ],
+    "other_terms": [
+      "ceva (bait)",
+      "esticada (stretched line)"
+    ]
+  }
+}

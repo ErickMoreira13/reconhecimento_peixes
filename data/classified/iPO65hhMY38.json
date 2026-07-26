@@ -1,0 +1,29 @@
+{
+  "arquivo": "iPO65hhMY38",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T09:57:13.653833",
+  "classificacao": {
+    "especies": [
+      "piracanjuba",
+      "piracanjuva",
+      "piau",
+      "dourado",
+      "piracutanga"
+    ],
+    "equipamentos": [
+      "trato",
+      "vara",
+      "cabo",
+      "alicate",
+      "caixa",
+      "barco"
+    ],
+    "iscas": [
+      "salsicha",
+      "mortadela",
+      "pão de linha"
+    ],
+    "localizacao": "Riozão",
+    "cancao": "Coisa boa"
+  }
+}

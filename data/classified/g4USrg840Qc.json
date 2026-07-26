@@ -1,0 +1,25 @@
+{
+  "arquivo": "g4USrg840Qc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:15:48.871469",
+  "classificacao": {
+    "especies": [
+      "Lambari"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Ultralight"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Recorde de tamanho de lambari (13cm)"
+    ]
+  }
+}

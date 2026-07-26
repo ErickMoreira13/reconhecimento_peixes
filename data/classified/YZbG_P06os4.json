@@ -1,0 +1,42 @@
+{
+  "arquivo": "YZbG_P06os4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:55:23.681924",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Palometra",
+      "Mandinho",
+      "Capão",
+      "Pintado"
+    ],
+    "equipamentos": [
+      "Caniço",
+      "Varinhas",
+      "Anzol",
+      "Linhazinha"
+    ],
+    "iscas": [
+      "Mandim",
+      "Dublê"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com caniço",
+      "Puxada"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Mencionado uso de caniço e varinhas",
+      "Captura de piranha, palometra, mandinho, capão e pintado",
+      "Referência a 'dublê de mandinho' como isca"
+    ]
+  }
+}

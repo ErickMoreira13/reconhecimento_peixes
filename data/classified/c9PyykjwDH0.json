@@ -1,0 +1,26 @@
+{
+  "arquivo": "c9PyykjwDH0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:17:30.187106",
+  "classificacao": {
+    "especies": [
+      "Pirarara",
+      "Garateia"
+    ],
+    "equipamentos": [
+      "Passaguá"
+    ],
+    "iscas": [
+      "Bocó"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

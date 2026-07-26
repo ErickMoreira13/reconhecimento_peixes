@@ -1,0 +1,30 @@
+{
+  "arquivo": "aFOuHLpv3OA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:42:44.853949",
+  "classificacao": {
+    "summary": "O vídeo apresenta uma experiência de pesca e preparação de caldeirada (um prato típico da Amazônia) no rio Cacau Pereira, em Iranduba, Amazonas. O narrador descreve a captura de peixes como jacundá, caravaçu e curimatã, destacando a colaboração com outro pescador, Natanael, e a competição amigável entre eles. O processo de preparo da caldeirada é detalhado, com uso de ingredientes como tucupi (molho de mandioca), farinha de mandioca e especiarias. O vídeo também inclui uma oração antes da refeição, expressando gratidão a Deus, e um convite para o público se inscrever no canal. O conteúdo enfatiza a cultura local, a conexão com a natureza e a importância da comunidade na preparação de pratos tradicionais.",
+    "key_points": {
+      "location": "Rio Cacau Pereira, Iranduba, Amazonas, Brasil",
+      "activities": [
+        "Pesca de peixes (jacundá, caravaçu, curimatã)",
+        "Preparação de caldeirada"
+      ],
+      "ingredients": [
+        "Tucupi",
+        "Farinha de mandioca",
+        "Espécias"
+      ],
+      "cultural_elements": [
+        "Oração antes da refeição",
+        "Tradição culinária amazônica",
+        "Colaboração comunitária"
+      ],
+      "interaction": "Competição amigável com Natanael, outro pescador"
+    },
+    "additional_notes": {
+      "caldeirada": "Prato típico da Amazônia, feito com peixes, tucupi e farinha de mandioca, comum em celebrações e refeições tradicionais.",
+      "fish_species": "Peixes mencionados são comuns nos rios da Amazônia e têm importância econômica e cultural para as comunidades locais."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "arquivo": "7bPrFK_LR-w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:36:41.850332",
+  "classificacao": {
+    "especies": [
+      "Arraia"
+    ],
+    "equipamentos": [
+      "Espinheiro",
+      "Anzol",
+      "Boia",
+      "Corda",
+      "Peso",
+      "Pedra"
+    ],
+    "iscas": [
+      "Sardinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Espeto",
+      "Uso de Anzol",
+      "Uso de Boia",
+      "Colocação de Peso",
+      "Armar Espeto"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Espeto",
+      "Pesca com Anzol"
+    ],
+    "observacoes": [
+      "Evitar pesca em áreas rasas para prevenir acidentes com embarcações",
+      "Respeitar o próximo e a responsabilidade ao pescar",
+      "Usar sardinha como isca eficaz"
+    ]
+  }
+}

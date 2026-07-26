@@ -1,0 +1,21 @@
+{
+  "arquivo": "Z3itQLekuho",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:58:12.652564",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "turbira"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

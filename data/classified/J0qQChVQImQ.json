@@ -1,0 +1,29 @@
+{
+  "arquivo": "J0qQChVQImQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:37:02.911385",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca de praia"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de uso de saco com peixe para atrair minhocas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com iscas naturais"
+    ],
+    "observacoes": [
+      "Minhoca de praia mede aproximadamente 1 metro, utilizada da cabeça até o meio do corpo"
+    ]
+  }
+}

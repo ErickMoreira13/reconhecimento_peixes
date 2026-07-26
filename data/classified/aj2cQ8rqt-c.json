@@ -1,0 +1,30 @@
+{
+  "arquivo": "aj2cQ8rqt-c",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:48:19.041679",
+  "classificacao": {
+    "especies": [
+      "Antilápia",
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Vasilhinha"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Milho processado não é recomendado, mas pode ser usado após fermentação com açúcar"
+    ]
+  }
+}

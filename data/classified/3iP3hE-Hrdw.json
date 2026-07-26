@@ -1,0 +1,32 @@
+{
+  "arquivo": "3iP3hE-Hrdw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:08:49.839583",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Anzol duplo",
+      "Agulha",
+      "Espeto"
+    ],
+    "iscas": [
+      "Calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de anzol duplo",
+      "Preparação de calabresa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de superfície"
+    ],
+    "observacoes": []
+  }
+}

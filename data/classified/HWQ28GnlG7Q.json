@@ -1,0 +1,24 @@
+{
+  "arquivo": "HWQ28GnlG7Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:18:02.023503",
+  "classificacao": {
+    "especies": [
+      "Tiroros",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Girador rolamentado"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

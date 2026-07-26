@@ -1,0 +1,34 @@
+{
+  "arquivo": "C7TACArgJjg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:16:36.835328",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Lambari",
+      "Piau",
+      "Tilápia",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Cruzeta",
+      "Estojo de tecido",
+      "Fibra de carbono",
+      "Fibra de vidro",
+      "Gomo retrátil",
+      "Kit de varas de pesca",
+      "Sistema telescópico",
+      "Vara de pesca telescópica"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

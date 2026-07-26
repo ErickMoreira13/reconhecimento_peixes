@@ -1,0 +1,39 @@
+{
+  "arquivo": "6QLXI4ztsY8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:40:51.878674",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Anzol Duplo",
+      "Agulha"
+    ],
+    "iscas": [
+      "Calabresa",
+      "Salsicha",
+      "Minhoca",
+      "Caranguejo"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Testando Iscas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O uso de calabresa e salsicha mostrou resultados positivos, com a captura de pacus de até 10kg. O piau sul também foi capturado, e a isca foi testada com diferentes opções como minhoca e caranguejo."
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "arquivo": "sPYHOgsrqdw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:49:44.240210",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Vara de ação média",
+      "Molinete",
+      "Linha parruda",
+      "Flúor carbono"
+    ],
+    "iscas": [
+      "Milho",
+      "Boilies",
+      "Pão amanhecido"
+    ],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Paciência",
+      "Técnica de espera"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de carpa"
+    ],
+    "observacoes": [
+      "Mantenha calma e a mão firme durante a fisgada",
+      "Evite puxar com força ou rapidez excessiva"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "ZBlxwguJfQM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:06:12.513031",
+  "classificacao": {
+    "especies": [
+      "Lambarei"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Técnica de iscar pelo nariz com anzol fino"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Técnica para manter o lambarei vivo por mais tempo e atrair peixes"
+    ]
+  }
+}

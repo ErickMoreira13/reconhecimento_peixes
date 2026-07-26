@@ -1,0 +1,22 @@
+{
+  "arquivo": "4g6fRiEgbpA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:37:19.797064",
+  "classificacao": {
+    "especies": [
+      "Salto",
+      "Trinchão"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

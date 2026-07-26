@@ -1,0 +1,23 @@
+{
+  "arquivo": "4qcBfubsF24",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:43:56.801451",
+  "classificacao": {
+    "especies": [
+      "Ponhariazinha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Açude"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

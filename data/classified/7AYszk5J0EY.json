@@ -1,0 +1,21 @@
+{
+  "arquivo": "7AYszk5J0EY",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T13:35:37.283169",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio de Manga"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

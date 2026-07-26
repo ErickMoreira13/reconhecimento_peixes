@@ -1,0 +1,27 @@
+{
+  "arquivo": "V1jqhMfmSIQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:35:21.402640",
+  "classificacao": {
+    "summary": "O texto descreve uma jornada pelo Rio Iriri e áreas adjacentes na Amazônia, destacando a riqueza natural da região, como a flora (banana, cacau) e a fauna (pavonça, jacaré, bacurauz). O narrador reflete sobre a influência de políticas governamentais que restringem o acesso a comunidades locais, levando à abandono de áreas tradicionais. Há menção ao uso de drones para filmagem e à preservação de tradições indígenas (ziberinhos). O relato mistura admiração pela beleza do ambiente com preocupação sobre os impactos sociais e ambientais causados por ações externas.",
+    "key_points": {
+      "environment": "Descrição detalhada da flora e fauna, incluindo cacau, banana, jacarés e aves como o bacurauz.",
+      "social_impact": "Políticas governamentais que limitam o acesso a comunidades locais, resultando em deslocamento e abandono de áreas tradicionais.",
+      "technology": "Uso de drones para documentação da região, possivelmente para fins de conservação ou monitoramento.",
+      "indigenous_relations": "Menciona a presença de grupos indígenas (ziberinhos) e a preservação de suas tradições apesar das pressões externas.",
+      "personal_reflection": "O narrador expressa uma mistura de respeito pela natureza e preocupação com os desafios enfrentados pelas comunidades locais."
+    },
+    "contextual_notes": {
+      "locations": [
+        "Rio Iriri",
+        "Canópolis",
+        "Pichigú"
+      ],
+      "terms": {
+        "ziberinhos": "Possivelmente um grupo indígena local da região.",
+        "pavonça": "Ave ou animal local, talvez uma espécie de jacaré ou pássaro.",
+        "bacurauz": "Ave típica da Amazônia, conhecida por sua plumagem colorida."
+      }
+    }
+  }
+}

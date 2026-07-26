@@ -1,0 +1,33 @@
+{
+  "arquivo": "OI-rTDMbXtU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:42:34.105615",
+  "classificacao": {
+    "especies": [
+      "Moreia"
+    ],
+    "equipamentos": [
+      "sauninha",
+      "bicheiro"
+    ],
+    "iscas": [
+      "polvo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca com isca viva"
+    ],
+    "observacoes": [
+      "polvo se camufla com a pedra",
+      "polvo é isca predileta para moreia"
+    ]
+  }
+}

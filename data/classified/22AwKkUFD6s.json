@@ -1,0 +1,36 @@
+{
+  "arquivo": "22AwKkUFD6s",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:06:19.130192",
+  "classificacao": {
+    "species": [
+      "Tucunaré",
+      "Paca"
+    ],
+    "equipment": [
+      "vara",
+      "sarasará"
+    ],
+    "iscas": [
+      "Mad dog",
+      "isca"
+    ],
+    "cevas": [
+      "sarasará"
+    ],
+    "techniques": [
+      "enrola",
+      "lenta",
+      "solta",
+      "dedão"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "oEOXbrphb1I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:29:05.976314",
+  "classificacao": {
+    "especie": [
+      "Dourado"
+    ],
+    "equipamento": [
+      "Alicate",
+      "Lirinha"
+    ],
+    "isca": [
+      "Toystick"
+    ],
+    "ceva": [],
+    "grao": [],
+    "tecnica": [
+      "Bater uma isca",
+      "Trabalhar a isca",
+      "Solta o bicho"
+    ],
+    "localizacao": "Rio do Sono"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "GbXqER8efks",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:31:25.575759",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Piau",
+      "Lambari",
+      "Carpa"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Insetos"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "uso de insetos vivos no anzol de forma natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

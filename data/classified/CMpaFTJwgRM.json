@@ -1,0 +1,30 @@
+{
+  "arquivo": "CMpaFTJwgRM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:45:36.074258",
+  "classificacao": {
+    "especies": [
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Batida"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de pacu"
+    ],
+    "observacoes": [
+      "Importância do cheiro e consistência da massa",
+      "Massa de tangerina com consistência macia e aderente ao anzol"
+    ]
+  }
+}

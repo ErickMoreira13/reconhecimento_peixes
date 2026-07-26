@@ -1,0 +1,31 @@
+{
+  "arquivo": "qKZzOy5i694",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:42:13.346999",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Rede de lã",
+      "Canoa"
+    ],
+    "iscas": [
+      "Timbo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Rede de umbreu"
+    ],
+    "rios": [
+      "Rio",
+      "Avazente"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com rede"
+    ],
+    "observacoes": []
+  }
+}

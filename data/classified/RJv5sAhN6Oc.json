@@ -1,0 +1,35 @@
+{
+  "arquivo": "RJv5sAhN6Oc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:11:10.139359",
+  "classificacao": {
+    "species": [
+      "guajo",
+      "dorado",
+      "tuna",
+      "Blue Trevally",
+      "Snook"
+    ],
+    "equipment": [
+      "Hawke",
+      "Big Blue",
+      "Spinning reel 6500",
+      "carrete de 6500 de Spinning"
+    ],
+    "locations": [
+      "Vallarta",
+      "arrecife"
+    ],
+    "techniques": [
+      "casting con stick baits",
+      "trolling con runners",
+      "popper"
+    ],
+    "additional_info": [
+      "captura y libera",
+      "Snook Mafia",
+      "long casting",
+      "experiencia en el arrecife"
+    ]
+  }
+}

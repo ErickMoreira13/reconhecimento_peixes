@@ -1,0 +1,29 @@
+{
+  "arquivo": "2yWMyQ_P97M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:41:53.969306",
+  "classificacao": {
+    "especies": [
+      "Carpa"
+    ],
+    "equipamentos": [
+      "Stop",
+      "Anzol chinês",
+      "Brocas de EVA"
+    ],
+    "iscas": [
+      "Bolinhas de EVA"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Sistema para carpa"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

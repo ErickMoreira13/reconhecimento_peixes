@@ -1,0 +1,27 @@
+{
+  "arquivo": "Gb6NuUgVLaQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:29:46.142061",
+  "classificacao": {
+    "especies": [
+      "camarão"
+    ],
+    "equipamentos": [
+      "anel de borracha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "técnica de isca viva"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de camarão"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "H-qUnYRACjQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:37:56.276906",
+  "classificacao": {
+    "especies": [
+      "Piracema"
+    ],
+    "equipamentos": [
+      "Foguete"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "Cuiabá",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

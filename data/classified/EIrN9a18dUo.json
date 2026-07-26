@@ -1,0 +1,22 @@
+{
+  "arquivo": "EIrN9a18dUo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:01:59.496122",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Araguaia",
+      "Javaés"
+    ],
+    "bacias": [],
+    "estado": "Tocantins",
+    "municipio": "Formoso do Araguaia, Lagoa da Confusão, Piúm",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

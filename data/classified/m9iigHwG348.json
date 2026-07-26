@@ -1,0 +1,44 @@
+{
+  "arquivo": "m9iigHwG348",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:51:33.196221",
+  "classificacao": {
+    "especies": [
+      "Curimba",
+      "Piau"
+    ],
+    "equipamentos": [
+      "Balde",
+      "Serva"
+    ],
+    "iscas": [
+      "Farelo de milho",
+      "Ração de coelho",
+      "Pó de grude",
+      "Terra de formigueiro",
+      "Farelo de arroz"
+    ],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho",
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em água doce"
+    ],
+    "observacoes": [
+      "Bola de serva para curimba e piau",
+      "Mistura com farelo de milho e ração de coelho",
+      "Uso de terra de formigueiro e pó de grude",
+      "Material deixado para secar por dois dias",
+      "Cheiro descrito como 'chique'"
+    ]
+  }
+}

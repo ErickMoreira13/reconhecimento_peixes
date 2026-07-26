@@ -1,0 +1,42 @@
+{
+  "arquivo": "n3gjZLiQncQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:21:50.236400",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "vara",
+      "carretilha",
+      "isca artificial",
+      "câmera"
+    ],
+    "iscas": [
+      "isquinha de superfície",
+      "zig-zarinha",
+      "isquinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca com isca artificial",
+      "pesca na superfície"
+    ],
+    "rios": [
+      "açude"
+    ],
+    "bacias": [],
+    "estado": "Nordeste",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "águas fartas",
+      "dificuldade em capturar traíras",
+      "uso de iscas artificiais",
+      "ambiente com muita vegetação"
+    ]
+  }
+}

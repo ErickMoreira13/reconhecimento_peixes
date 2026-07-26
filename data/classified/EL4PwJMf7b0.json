@@ -1,0 +1,24 @@
+{
+  "arquivo": "EL4PwJMf7b0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:07:22.284838",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Uso de minhoca artificial de borracha",
+      "Deixar iscas na água"
+    ]
+  }
+}

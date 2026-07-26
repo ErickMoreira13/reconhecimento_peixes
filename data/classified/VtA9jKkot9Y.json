@@ -1,0 +1,31 @@
+{
+  "arquivo": "VtA9jKkot9Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:25:25.349542",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Palanquinho"
+    ],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Minas Gerais",
+    "municipio": "Areado",
+    "tipo_pesca": [
+      "Pesca com ceva",
+      "Pesca com isca artificial"
+    ],
+    "observacoes": [
+      "Necessidade de manutenção na rampa náutica",
+      "Nível do Lago de Furnas em 60% do volume útil"
+    ]
+  }
+}

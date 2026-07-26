@@ -1,0 +1,57 @@
+{
+  "arquivo": "VPS6J4w6qpU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:23:09.985663",
+  "classificacao": {
+    "especies": [
+      "Pé de Vaca",
+      "Baiacu",
+      "Snook"
+    ],
+    "equipamentos": [
+      "Vara Rapala (6 a 12 libras)",
+      "Mulinete Protissuri SD1000",
+      "Linha YGK G-SOUL X4 (25 libras)",
+      "Vara Lumis Intense (12 libras)",
+      "Mulinete Abu Garcia",
+      "Mulinete Shimano (tamanho 1000)"
+    ],
+    "isca": [
+      "Camarão (6 cm)",
+      "Camarão (7 cm)",
+      "Shedzinho micro",
+      "Micro-shed",
+      "Jig red",
+      "Dig red",
+      "Cachinha (várias cores)",
+      "Verdinho"
+    ],
+    "anzol": [
+      "Anzolzinho",
+      "Anzol parrudo",
+      "Anzol fraco",
+      "Jig red"
+    ],
+    "localizacao": "Rio (com pedras lisas e correnteza)",
+    "tipo_de_pesca": "Pesca de fundo",
+    "condicoes_do_ambiente": [
+      "Maré de vazante",
+      "Maré seca",
+      "Pedras lisas",
+      "Correnteza"
+    ],
+    "peixes_capturados": [
+      "Pé de Vaca",
+      "Baiacu"
+    ],
+    "peixes_perdidos": [
+      "Baiacu",
+      "Snook"
+    ],
+    "outras_observacoes": [
+      "Uso de iscas de cor verde (verdinho) e micro-shed para atrair peixes em áreas rochosas.",
+      "Técnica de lançamento contra a correnteza para melhor eficácia.",
+      "Adaptação da isca e anzol conforme a força da maré e a densidade do fundo."
+    ]
+  }
+}

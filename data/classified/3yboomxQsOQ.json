@@ -1,0 +1,26 @@
+{
+  "arquivo": "3yboomxQsOQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:27:35.573407",
+  "classificacao": {
+    "especies": [
+      "Jundiá",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Elástico"
+    ],
+    "iscas": [
+      "Fígado de galinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

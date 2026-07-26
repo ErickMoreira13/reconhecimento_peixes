@@ -1,0 +1,23 @@
+{
+  "arquivo": "uxH6BmEYyjQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:13:01.583762",
+  "classificacao": {
+    "especies": [
+      "Caranguejo das Neves"
+    ],
+    "equipamentos": [
+      "Covos de Caranguejo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_de_pesca": "Pesca Comercial de Caranguejo",
+    "observacoes": ""
+  }
+}

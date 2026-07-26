@@ -1,0 +1,34 @@
+{
+  "arquivo": "M8rTjWStg-Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T22:50:51.283414",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "bote",
+      "lancha"
+    ],
+    "iscas": [
+      "feijão",
+      "jurimum"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "feijão"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "3 peixes pesando 150kg cada um",
+      "espi essa traíra que ele pegou mustra, dá uns 7kg mais ou menos"
+    ]
+  }
+}

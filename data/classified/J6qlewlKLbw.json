@@ -1,0 +1,36 @@
+{
+  "arquivo": "J6qlewlKLbw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:50:00.055856",
+  "classificacao": {
+    "summary": "O texto é um relato entusiasmado de uma experiência de pesca, repleto de termos técnicos, marcas de equipamentos e localizações específicas. O narrador descreve o uso de iscas como o 'Pencil 100' e 'Big Bait', mencionando marcas como Laca Custom, Tokuriu Jigin Pro e Mar Negro Fishing. Destaca a eficácia de técnicas de pesca em locais como Orotori Camp e Ilha do Bananal, com ênfase na captura de peixes grandes e a experiência física intensa (como a fadiga no braço). O conteúdo também inclui uma chamada para ações em redes sociais (Instagram) e uma recomendação para visitar o local. O tom é animado, com linguagem coloquial e referências a equipamentos específicos, sugerindo uma comunidade de pescadores apaixonados.",
+    "key_points": {
+      "equipamentos": [
+        "Pencil 100",
+        "Big Bait",
+        "Laca Custom",
+        "Tokuriu Jigin Pro",
+        "Mar Negro Fishing"
+      ],
+      "locais": [
+        "Orotori Camp",
+        "Ilha do Bananal"
+      ],
+      "técnicas": [
+        "uso de iscas específicas",
+        "pesca em águas profundas",
+        "captura de peixes grandes"
+      ],
+      "experiência_pessoal": [
+        "fadiga física",
+        "satisfação com os resultados",
+        "conexão com a natureza"
+      ],
+      "redes_sociais": [
+        "Instagram",
+        "chamada para engajamento"
+      ]
+    },
+    "insights": "O texto reflete a paixão pelo esporte da pesca, destacando a importância de equipamentos especializados e locais estratégicos. A linguagem informal e o entusiasmo sugerem que o conteúdo visa engajar uma audiência de pescadores amadores ou entusiastas, com foco em compartilhar experiências e recomendar locais de pesca. A menção a marcas específicas pode indicar parcerias ou promoções, enquanto a ênfase em resultados concretos (captura de peixes grandes) serve como incentivo para visitar o local mencionado."
+  }
+}

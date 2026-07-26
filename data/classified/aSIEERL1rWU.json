@@ -1,0 +1,39 @@
+{
+  "arquivo": "aSIEERL1rWU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:10:09.836815",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piau"
+    ],
+    "equipamentos": [
+      "canoas",
+      "varas"
+    ],
+    "iscas": [
+      "massinha",
+      "pepeau",
+      "chuposta",
+      "apacu",
+      "iraptanga"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Vermelho"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "Rondonópolis",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

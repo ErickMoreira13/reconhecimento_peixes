@@ -1,0 +1,34 @@
+{
+  "arquivo": "h9QlY3pWAc4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:44:49.764035",
+  "classificacao": {
+    "especies": [
+      "Caranha"
+    ],
+    "equipamentos": [
+      "Cabo de aço",
+      "Linha cor-de-rosa",
+      "Linha nylon 090",
+      "Líder",
+      "Girador",
+      "Chumbo",
+      "Boia",
+      "Anzol",
+      "Filézão",
+      "Cabeça de bicuda",
+      "Cabeça de espada"
+    ],
+    "iscas": [
+      "Filézão",
+      "Cabeça de bicuda",
+      "Cabeça de espada"
+    ],
+    "tecnicas": [
+      "Pesca de espera",
+      "Pesca de fundo"
+    ],
+    "rios": [],
+    "bacias": []
+  }
+}

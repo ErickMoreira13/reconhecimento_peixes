@@ -1,0 +1,46 @@
+{
+  "arquivo": "3QpUkxQK58I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:22:41.110849",
+  "classificacao": {
+    "espécies": [
+      "Piapara",
+      "Piau",
+      "Piauçu",
+      "Pacu"
+    ],
+    "equipamentos": [
+      "Panela de Pressão",
+      "Vidro de Gatorade"
+    ],
+    "iscas": [
+      "Milho",
+      "Sal",
+      "Açúcar",
+      "Açafrão da Terra"
+    ],
+    "cevas": {
+      "Ceva Natural": [
+        "Milho cozido"
+      ],
+      "Ceva de Partículas": [
+        "Milho cozido em vidro de Gatorade"
+      ]
+    },
+    "grãos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Cozinhar o milho para uso como ceva"
+    ],
+    "rios": [
+      "Rio Paraná"
+    ],
+    "capturas": [
+      {
+        "espécie": "Piapara",
+        "tamanho_cm": 62
+      }
+    ]
+  }
+}

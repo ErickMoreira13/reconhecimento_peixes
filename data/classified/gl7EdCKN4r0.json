@@ -1,0 +1,28 @@
+{
+  "arquivo": "gl7EdCKN4r0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:57:14.003519",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Caixara",
+      "Pirarara",
+      "Arraio"
+    ],
+    "equipamentos": [
+      "Tralho",
+      "Canoa",
+      "Chumbada"
+    ],
+    "iscas": [
+      "Feijão",
+      "Farinha de Pão",
+      "Farinha de Trigo"
+    ],
+    "localizacao": "Rio Javaé",
+    "outros": [
+      "Troféu",
+      "Picanha"
+    ]
+  }
+}

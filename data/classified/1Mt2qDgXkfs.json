@@ -1,0 +1,29 @@
+{
+  "arquivo": "1Mt2qDgXkfs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T21:46:18.451572",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Rancho de barote",
+      "Cipó gambinha",
+      "Canoa",
+      "Varejão de guaiovira",
+      "Remos de sucupira",
+      "Carrafa",
+      "Gatilha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

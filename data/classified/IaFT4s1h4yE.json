@@ -1,0 +1,37 @@
+{
+  "arquivo": "IaFT4s1h4yE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:27:18.850504",
+  "classificacao": {
+    "especies": [
+      "Jundiá",
+      "Traíra"
+    ],
+    "equipamentos": [
+      "Chater",
+      "Spinner"
+    ],
+    "iscas": [
+      "Isca artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca artificial"
+    ],
+    "rios": [
+      "Rio Negro"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Bagé",
+    "tipo_pesca": [
+      "Pesca artificial"
+    ],
+    "observacoes": [
+      "Captura de Jundiá com isca artificial",
+      "Dificuldade em filmar devido a limitações de bateria e material de edição",
+      "Menciona a captura de Traíra em outro grupo de iscas"
+    ]
+  }
+}

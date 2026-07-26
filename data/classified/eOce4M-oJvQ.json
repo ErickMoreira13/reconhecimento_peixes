@@ -1,0 +1,30 @@
+{
+  "arquivo": "eOce4M-oJvQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:11:25.057108",
+  "classificacao": {
+    "especies": [
+      "Cainha",
+      "Otahy"
+    ],
+    "equipamentos": [
+      "Rede"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com rede"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com rede"
+    ],
+    "observacoes": [
+      "Vídeo mostra captura de grande quantidade de peixes utilizando redes"
+    ]
+  }
+}

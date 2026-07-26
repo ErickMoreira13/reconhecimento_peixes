@@ -1,0 +1,32 @@
+{
+  "arquivo": "VcX4vIr7NCU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:43:36.455979",
+  "classificacao": {
+    "análise": {
+      "tema_principal": "Experiência de pesca e conexão com o público",
+      "elementos_chave": {
+        "equipamento": [
+          "XT reel",
+          "maruzego 16",
+          "carretilha"
+        ],
+        "desafios": [
+          "perda de peixes para piranhas",
+          "dificuldade em capturar peixes maiores"
+        ],
+        "sucessos": [
+          "captura de sete curvinas",
+          "interação com espectadores"
+        ],
+        "planos_futuros": [
+          "pescaria raiz",
+          "captura de peixes maiores"
+        ]
+      },
+      "tom": "Coloquial, empolgado, gratificado",
+      "contexto": "Vídeo de pesca com interação com o público, destacando a paixão pelo esporte e a importância da comunidade."
+    },
+    "resumo": "O narrador compartilha uma experiência de pesca, descrevendo o uso de equipamentos específicos, os desafios enfrentados (como a perda de peixes para piranhas) e a satisfação ao capturar sete curvinas. Ele expressa gratidão a uma jovem que comprou um uniforme do canal e menciona planos futuros de realizar pescarias mais desafiadoras, como a 'pescaria raiz', com o objetivo de capturar peixes maiores. O conteúdo reflete a paixão pela pesca e a conexão com o público."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "arquivo": "9k9U-A5zwa0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:42:48.117459",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Soja Borrachinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Teste com feromônio",
+      "Preparação de soja com vinagre de álcool"
+    ]
+  }
+}

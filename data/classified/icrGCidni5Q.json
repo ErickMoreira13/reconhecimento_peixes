@@ -1,0 +1,43 @@
+{
+  "arquivo": "icrGCidni5Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:29:41.676821",
+  "classificacao": {
+    "species": [
+      "Tambaqui",
+      "Pirarucu",
+      "Dourado",
+      "Piau",
+      "Traíra",
+      "Lambari",
+      "Olhete",
+      "Pacu",
+      "Tucunaré",
+      "Jaú",
+      "Piraíba",
+      "Roubalo",
+      "Atum",
+      "Black Bass",
+      "Piapara",
+      "Cachorra Larga da Amazônia",
+      "Pacu Borracha",
+      "Pacu Bicuda",
+      "Tarpa",
+      "Marle",
+      "Olho de Boi"
+    ],
+    "equipment": [
+      "Anzol Super Marucego",
+      "Líder Flucama 0,62",
+      "Anzol Marucego 30"
+    ],
+    "baits": [
+      "Massa de Isca"
+    ],
+    "location": "Rondônia",
+    "channel": "Hospital do Amor (Cuiabá)",
+    "course": "Segredos da Pesca",
+    "promotion": "40% da inscrição",
+    "group": "WhatsApp"
+  }
+}

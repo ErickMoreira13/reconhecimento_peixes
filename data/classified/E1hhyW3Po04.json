@@ -1,0 +1,31 @@
+{
+  "arquivo": "E1hhyW3Po04",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:35:23.883573",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Canoa",
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com tarrafa",
+      "Pesca de espera"
+    ],
+    "rios": [
+      "Rio Claro"
+    ],
+    "bacias": [
+      "Lagoa"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

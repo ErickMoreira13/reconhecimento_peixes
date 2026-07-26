@@ -1,0 +1,21 @@
+{
+  "arquivo": "0UYsNXuci0I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:32:45.540228",
+  "classificacao": {
+    "especies": [
+      "Piabanha"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "nAWKkHiybKA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:27:23.129952",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Parnaíba"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arquivo": "qMk9zLigzxA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:52:21.782035",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Varinha de 2,70",
+      "Sistema Boinha",
+      "Anzol Chinosuro Número 5"
+    ],
+    "iscas": [
+      "Milho Verde",
+      "Bichinho de Laranja",
+      "Ração de Coelho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Tilápia Selvagem"
+    ],
+    "observacoes": [
+      "A pesca não foi muito produtiva, mas saiu uma boa tilápia",
+      "Chamada para inscrição no canal e ativação do sininho"
+    ]
+  }
+}

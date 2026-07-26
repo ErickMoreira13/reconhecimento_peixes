@@ -1,0 +1,37 @@
+{
+  "arquivo": "kQ0VP4lNQ4o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:02:15.324728",
+  "classificacao": {
+    "title": "Amazon's Deadliest Creatures: A Survival Guide",
+    "introduction": "The Amazon rainforest is home to some of the most dangerous animals on Earth. From stealthy predators to venomous surprises, here's a breakdown of the creatures that could turn your adventure into a nightmare.",
+    "dangerous_animals": [
+      {
+        "name": "Black Caiman",
+        "description": "The largest crocodilian in the Amazon, this 5-meter-long, 400-kilogram predator is a master of ambush. Its powerful jaws can crush bones, and it’s a top-tier hunter of capybaras and even jaguars. Avoid swimming in murky waters—its eyesight is poor, but its sense of smell is razor-sharp.",
+        "warning": "Never underestimate its patience. It can wait hours for the perfect strike."
+      },
+      {
+        "name": "Electric Eel",
+        "description": "This 2.5-meter-long fish generates up to 800 volts of electricity—enough to knock out a human. It uses electric shocks to stun prey and navigate in dark waters. Its jaws are lined with needle-like teeth, and it’s not afraid to attack if provoked.",
+        "warning": "Stay out of its territory. Even a small splash could trigger a deadly zap."
+      },
+      {
+        "name": "Xingu River Stingray",
+        "description": "This 2-meter-wide ray has a venomous sting that can cause severe pain, swelling, and even death. Its flat body makes it nearly invisible in shallow waters, and it’s often mistaken for a rock or log. A single sting can lead to necrosis and require amputation.",
+        "warning": "Wear protective footwear in rivers. Don’t step into the water without knowing the terrain."
+      },
+      {
+        "name": "Piranhas",
+        "description": "These 30-centimeter-long fish have razor-sharp teeth and a taste for flesh. While they rarely attack humans, they’ll swarm in groups to devour anything that bleeds. Their jaws can tear through flesh in seconds, and their teeth are replaced every few weeks.",
+        "warning": "Avoid wounding yourself in the water. A drop of blood could summon a feeding frenzy."
+      },
+      {
+        "name": "Candiru",
+        "description": "This 15-centimeter-long catfish is infamous for its ability to swim into human urinary tracts. It uses its barbed spines to anchor itself and then injects venom to paralyze the host. Survivors describe excruciating pain and the need for surgical removal.",
+        "warning": "Never urinate in the river. This tiny fish is a nightmare waiting to happen."
+      }
+    ],
+    "conclusion": "The Amazon is a place of wonder and danger. While these animals are rarely aggressive toward humans, their sheer power and unpredictability make them a force to be reckoned with. Stay alert, respect the wild, and remember: the jungle doesn’t forgive mistakes. Like and comment below to share your own Amazon survival stories!"
+  }
+}

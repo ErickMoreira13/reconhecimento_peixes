@@ -1,0 +1,85 @@
+{
+  "arquivo": "OZzq7NJ8Ohg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:45:54.251561",
+  "classificacao": {
+    "especies": [
+      "Mandi",
+      "Pintado",
+      "Armão",
+      "Armal"
+    ],
+    "equipamentos": [
+      "vara",
+      "molinete",
+      "galão perfurado",
+      "saco de ráfia",
+      "saco furado",
+      "saco telado",
+      "saco de cebola",
+      "tubo de PVC perfurado",
+      "cano de PVC perfurado",
+      "balde perfurado",
+      "recipiente perfurado",
+      "cocho perfurado"
+    ],
+    "iscas": [],
+    "cevas": {
+      "ceva natural": [
+        "milho",
+        "soja",
+        "trigo",
+        "arroz",
+        "quirera",
+        "canjica",
+        "grãos naturais em geral"
+      ],
+      "ceva proteica": [
+        "ração",
+        "farinha de peixe",
+        "farelo de soja",
+        "farelo de arroz",
+        "farelos em geral",
+        "proteína animal"
+      ],
+      "ceva aromática": [
+        "baunilha",
+        "alho",
+        "erva-doce",
+        "mel",
+        "açúcar",
+        "frutas",
+        "essências",
+        "atrativos líquidos",
+        "atrativos em pó"
+      ],
+      "ceva de partículas": [
+        "galão perfurado",
+        "saco de ráfia",
+        "saco furado",
+        "saco telado",
+        "saco de cebola",
+        "tubo de PVC perfurado",
+        "cano de PVC perfurado",
+        "balde perfurado",
+        "recipiente perfurado",
+        "cocho perfurado"
+      ]
+    },
+    "grãos": [
+      "milho",
+      "soja",
+      "trigo",
+      "arroz",
+      "quirera",
+      "canjica",
+      "grãos naturais em geral"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Telespires"
+    ],
+    "municipio": "Sorriso",
+    "estado": "Mato Grosso do Sul"
+  }
+}

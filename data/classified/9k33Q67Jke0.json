@@ -1,0 +1,39 @@
+{
+  "arquivo": "9k33Q67Jke0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:42:34.143126",
+  "classificacao": {
+    "especies": [
+      "Tucunaré Azul",
+      "Tucunaré Amarelo"
+    ],
+    "equipamentos": [
+      "Jack Bates SP",
+      "Split Ring",
+      "Garateia VVMC 43X",
+      "Garateia 46X",
+      "Garateia Heavy Dutch Treble Yara"
+    ],
+    "iscas": [
+      "Jack Bates SP"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalho Suspende",
+      "Slow Sinker"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Fundo"
+    ],
+    "observacoes": [
+      "A isca Jack Bates SP pode ser configurada com diferentes garateias e split rings para modificar seu comportamento de afundamento",
+      "A garateia 46X com split ringue 45 libras reduz o tempo de afundamento para cerca de 10 segundos",
+      "A garateia Heavy Dutch Treble Yara oferece maior peso e modifica a flutuação da isca"
+    ]
+  }
+}

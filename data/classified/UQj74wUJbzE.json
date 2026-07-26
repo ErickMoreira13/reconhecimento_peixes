@@ -1,0 +1,26 @@
+{
+  "arquivo": "UQj74wUJbzE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:25:04.190826",
+  "classificacao": {
+    "species": [
+      "Piraúna",
+      "Zambaio",
+      "Sirigado",
+      "Peixe gato",
+      "Guarajuba",
+      "Cirigadão",
+      "Serra"
+    ],
+    "equipment": [
+      "Anzol",
+      "Linha",
+      "Alça",
+      "Poita",
+      "Jangada"
+    ],
+    "baits": [],
+    "grains": [],
+    "techniques": []
+  }
+}

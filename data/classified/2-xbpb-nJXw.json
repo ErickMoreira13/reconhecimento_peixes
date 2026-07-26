@@ -1,0 +1,29 @@
+{
+  "arquivo": "2-xbpb-nJXw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:03:57.928064",
+  "classificacao": {
+    "especies": [
+      "Surubim",
+      "Cachara"
+    ],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Água demais",
+      "Rio encheu muito"
+    ]
+  }
+}

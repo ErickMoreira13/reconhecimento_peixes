@@ -1,0 +1,52 @@
+{
+  "arquivo": "_WBmG5jwqIw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T17:42:26.160849",
+  "classificacao": {
+    "especies": [
+      "Mandi",
+      "Cascudo",
+      "Piapara",
+      "Bagre",
+      "Piau",
+      "Curimba",
+      "Piaçu"
+    ],
+    "equipamentos": [
+      "Varinha curta",
+      "Enrosco",
+      "Linha"
+    ],
+    "iscas": [
+      "Tolcinho de porco",
+      "Salaminho",
+      "Mortadela",
+      "Franguinho azedo",
+      "Massa branca"
+    ],
+    "cevas": [
+      "Ração de cavalo",
+      "Quirela grossa",
+      "Massa grossa",
+      "Ceva pesada"
+    ],
+    "massa": [
+      "Massa branca",
+      "Massa marrom"
+    ],
+    "varas": [
+      "Varinha curta",
+      "Ultralight",
+      "Varinha Joker",
+      "Varinha Ghost"
+    ],
+    "dicas": [
+      "Cevar com ceva pesada na beirinha",
+      "Utilizar iscas com cheiro forte e sabor",
+      "Usar varas curtas para pescar próximo da barranca",
+      "Evitar jogar no meio do rio",
+      "Utilizar iscas brancas",
+      "Priorizar massa branca com cheiro"
+    ]
+  }
+}

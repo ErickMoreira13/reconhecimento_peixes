@@ -1,0 +1,17 @@
+{
+  "arquivo": "0LzRYUdYBQo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:25:48.354138",
+  "classificacao": {
+    "summary": "O texto descreve uma atividade de pesca com diálogos entre pescadores, instruções sobre como lidar com a linha de pesca, menções a diferentes tipos de peixes e interações entre os participantes (Wagner, Silvano, Jô, Jordan, etc.). O conteúdo inclui termos específicos de pesca, como 'costeira' (referindo-se a uma área costeira), 'vaga' (onda), e 'arro' (possivelmente um tipo de peixe). Há também uma ênfase em técnicas de pesca, como a necessidade de manter a calma e a cooperação entre os pescadores. O texto termina com uma instrução para 'fechar a chave de ouro', que pode ser uma expressão local relacionada ao sucesso na pesca.",
+    "key_points": [
+      "Diálogos entre pescadores durante a atividade de pesca.",
+      "Instruções sobre como lidar com a linha de pesca e a necessidade de calma.",
+      "Mencões a diferentes tipos de peixes e técnicas de pesca.",
+      "Interações entre os participantes, incluindo nomes como Wagner, Silvano, Jô e Jordan.",
+      "Uso de termos específicos de pesca, como 'costeira', 'vaga' e 'arro'.",
+      "Expressão 'fechar a chave de ouro', que pode indicar o sucesso na pesca."
+    ],
+    "possible_cultural_context": "O texto pode estar relacionado a práticas de pesca costeira em regiões como Aracaju, no Brasil, onde a pesca é uma atividade comunitária e cultural. A linguagem usada sugere uma tradição oral e colaborativa entre os pescadores, com expressões locais que refletem a experiência e o conhecimento do meio."
+  }
+}

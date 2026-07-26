@@ -1,0 +1,24 @@
+{
+  "arquivo": "c44T0N8twr0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:14:17.998458",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Proteica"
+    ],
+    "graos": [
+      "Farelo de Arroz",
+      "Farinha de Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

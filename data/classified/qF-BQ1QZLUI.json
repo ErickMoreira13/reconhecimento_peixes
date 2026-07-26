@@ -1,0 +1,51 @@
+{
+  "arquivo": "qF-BQ1QZLUI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T18:42:56.080760",
+  "classificacao": {
+    "species": [
+      "cioba",
+      "vermelho",
+      "sardinha",
+      "cotonete caroneiro",
+      "chicharro",
+      "peruá",
+      "dinossauro",
+      "capitão fura-onda",
+      "cavalinha",
+      "raroquinha",
+      "raroca"
+    ],
+    "equipment": [
+      "fita",
+      "gancho",
+      "linha",
+      "material leve",
+      "espessura da linha",
+      "automático"
+    ],
+    "baits": [
+      "isca de fundo",
+      "sardinha"
+    ],
+    "fishing_techniques": [
+      "isca de fundo",
+      "automático",
+      "material leve",
+      "espessura da linha",
+      "trocou de peixe"
+    ],
+    "locations": [
+      "mar",
+      "capixaba"
+    ],
+    "other_details": {
+      "cooking_methods": [
+        "panela de barro",
+        "muqueca",
+        "temperinho verde",
+        "coentro"
+      ]
+    }
+  }
+}

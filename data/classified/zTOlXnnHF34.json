@@ -1,0 +1,14 @@
+{
+  "arquivo": "zTOlXnnHF34",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:46:33.528630",
+  "classificacao": {
+    "resumo": "O vídeo apresenta uma comparação entre diferentes carretilhas de pesca, destacando marcas como Yokota, Marino Sport e Shimano. O locutor recomenda opções acessíveis para iniciantes, destacando o desempenho e a experiência pessoal com cada marca. A análise aborda aspectos como qualidade, durabilidade e custo-benefício, ajudando o espectador a escolher a melhor opção de acordo com seu orçamento e necessidades.",
+    "recomendações": {
+      "Yokota": "Opção econômica e confiável para iniciantes, com boa relação qualidade-preço.",
+      "Marino Sport": "Destaca-se por durabilidade e resistência, ideal para quem busca um equipamento mais robusto.",
+      "Shimano": "Recomendado para quem busca tecnologia avançada e desempenho superior, mesmo com um preço mais elevado."
+    },
+    "conclusão": "A escolha da carretilha depende do orçamento e do nível de experiência do pescador. Para iniciantes, marcas como Yokota e Marino Sport oferecem boas alternativas, enquanto Shimano é uma excelente opção para quem busca o melhor desempenho."
+  }
+}

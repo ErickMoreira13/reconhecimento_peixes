@@ -1,0 +1,89 @@
+{
+  "arquivo": "UGnYS5ZlRAA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T21:24:38.194756",
+  "classificacao": {
+    "species": [
+      {
+        "normalized_name": "Mojarra",
+        "original_names": [
+          "mojarra"
+        ]
+      },
+      {
+        "normalized_name": "Brótula",
+        "original_names": [
+          "brótula"
+        ]
+      },
+      {
+        "normalized_name": "Taracha",
+        "original_names": [
+          "taracha",
+          "taruchón",
+          "taruchita"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "normalized_name": "Caña",
+        "original_names": [
+          "caña"
+        ]
+      },
+      {
+        "normalized_name": "Señuelo",
+        "original_names": [
+          "señuelo"
+        ]
+      },
+      {
+        "normalized_name": "Boya",
+        "original_names": [
+          "boya"
+        ]
+      },
+      {
+        "normalized_name": "Goga",
+        "original_names": [
+          "goga"
+        ]
+      }
+    ],
+    "iscas": [
+      {
+        "normalized_name": "Carnada",
+        "original_names": [
+          "carnada"
+        ]
+      },
+      {
+        "normalized_name": "Mojarra",
+        "original_names": [
+          "mojarra"
+        ]
+      },
+      {
+        "normalized_name": "Señuelo",
+        "original_names": [
+          "señuelo"
+        ]
+      }
+    ],
+    "cevas": [
+      {
+        "normalized_name": "Carnada",
+        "original_names": [
+          "carnada"
+        ]
+      },
+      {
+        "normalized_name": "Taracha",
+        "original_names": [
+          "taracha"
+        ]
+      }
+    ]
+  }
+}

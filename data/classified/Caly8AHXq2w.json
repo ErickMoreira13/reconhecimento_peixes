@@ -1,0 +1,23 @@
+{
+  "arquivo": "Caly8AHXq2w",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:18:26.567089",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Rio de Janeiro",
+    "municipio": "Itaguaí",
+    "tipo_pesca": [
+      "Pesca de Dourado"
+    ],
+    "observacoes": []
+  }
+}

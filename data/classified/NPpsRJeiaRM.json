@@ -1,0 +1,27 @@
+{
+  "arquivo": "NPpsRJeiaRM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T12:21:31.444604",
+  "classificacao": {
+    "especie": [
+      "Truta"
+    ],
+    "equipamento": [
+      "Roda",
+      "Linha",
+      "Mosca",
+      "Bucle"
+    ],
+    "isca": [
+      "Mosca seca"
+    ],
+    "tecnica": [
+      "Lance rodado",
+      "Lance curto",
+      "Posição agachada",
+      "Movimento de cotovelo",
+      "Movimento de pulso"
+    ],
+    "localizacao": []
+  }
+}

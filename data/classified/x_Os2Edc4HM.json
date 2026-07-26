@@ -1,0 +1,36 @@
+{
+  "arquivo": "x_Os2Edc4HM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T13:33:21.817850",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Piau",
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Massinha",
+      "Soja"
+    ],
+    "cevas": [
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Soja"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca em rio"
+    ],
+    "observacoes": [
+      "O ferormônio líquido não atraiu peixes no rio, não houve capturas durante o teste"
+    ]
+  }
+}

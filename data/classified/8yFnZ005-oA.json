@@ -1,0 +1,23 @@
+{
+  "arquivo": "8yFnZ005-oA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:36:01.711410",
+  "classificacao": {
+    "especies": [
+      "Pirarara"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Isca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

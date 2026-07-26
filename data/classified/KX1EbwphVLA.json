@@ -1,0 +1,36 @@
+{
+  "arquivo": "KX1EbwphVLA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:16:23.404146",
+  "classificacao": {
+    "especies": [
+      "Mocotó"
+    ],
+    "equipamentos": [
+      "Boia pão"
+    ],
+    "iscas": [
+      "Pão"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com boia",
+      "Uso de isca natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com isca natural",
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Ajuste do tamanho do pão para atrair o peixe",
+      "Sucesso após reduzir o tamanho do pão"
+    ]
+  }
+}

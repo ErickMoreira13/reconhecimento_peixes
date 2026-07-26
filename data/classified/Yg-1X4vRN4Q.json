@@ -1,0 +1,26 @@
+{
+  "arquivo": "Yg-1X4vRN4Q",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:12:13.391666",
+  "classificacao": {
+    "summary": "O texto é um relato de uma sessão de pesca, provavelmente em formato de vídeo ou transmissão ao vivo, com linguagem informal e interativa. O narrador descreve o processo de pesca, mencionando espécies como tibiro, salteira, pescadinha, fofa e xixarro, e compartilha técnicas de captura e preparação dos peixes (como uso de limão). Há referências a colaborações (ex.: Igor, que transporta pessoas para pesca) e um apelo para engajamento do público (inscrições, compras de equipamentos). O conteúdo mistura instrução prática, entretenimento e promoção de serviços relacionados à pesca.",
+    "key_points": [
+      "Espécies de peixe mencionadas",
+      "Técnicas de pesca e preparação",
+      "Interação com o público",
+      "Mencione a colaboração com Igor",
+      "Apelo para engajamento e promoção"
+    ],
+    "structure": [
+      "Introdução/Contexto",
+      "Descrição do processo de pesca",
+      "Detalhes sobre espécies e técnicas",
+      "Preparação dos peixes",
+      "Interação com o público e promoção"
+    ],
+    "cultural_notes": [
+      "Termos regionais como 'xixarro' e 'xerelete' podem exigir contextualização",
+      "Uso de linguagem coloquial e informal"
+    ]
+  }
+}

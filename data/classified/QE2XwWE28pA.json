@@ -1,0 +1,23 @@
+{
+  "arquivo": "QE2XwWE28pA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:11:25.496591",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Sombrinha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Delta de Luiz Correio"
+    ],
+    "bacias": [],
+    "estado": "Rio Grande do Sul",
+    "municipio": "Luiz Correio",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

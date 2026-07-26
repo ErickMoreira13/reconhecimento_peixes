@@ -1,0 +1,27 @@
+{
+  "arquivo": "t1GrTxjHlj8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:42:24.390517",
+  "classificacao": {
+    "especies": [
+      "Tuvira"
+    ],
+    "equipamentos": [
+      "empate de aço",
+      "linha de nylon",
+      "linha monofilamento"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "escar peixe"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

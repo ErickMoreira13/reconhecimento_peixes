@@ -1,0 +1,41 @@
+{
+  "arquivo": "_A6pyjIA8pI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:55:02.324012",
+  "classificacao": {
+    "species": [
+      "tilapia",
+      "pirarara"
+    ],
+    "equipment": [
+      "vara",
+      "anzol",
+      "costa",
+      "cavo",
+      "gai"
+    ],
+    "baits": [
+      "massa",
+      "massa do canal de João Paulo Pesca de caiaque"
+    ],
+    "locations": [
+      "Riolândia",
+      "Cardoso",
+      "Prainha de Cardoso",
+      "desembarcador",
+      "rio"
+    ],
+    "other": {
+      "terreno": "lote",
+      "comércio": "casa",
+      "ranchinho": "desembarcador",
+      "esquina": "20 por 20",
+      "escritura": "registro",
+      "preço": "imperdível",
+      "canal": "João Paulo Pesca de Cayaque",
+      "promoção": "super promoção",
+      "contato": "inscrito",
+      "descrição": "vídeo"
+    }
+  }
+}

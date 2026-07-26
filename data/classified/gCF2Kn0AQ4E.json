@@ -1,0 +1,41 @@
+{
+  "arquivo": "gCF2Kn0AQ4E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:32:12.091405",
+  "classificacao": {
+    "summary": {
+      "overview": "O texto descreve uma jornada de pesca no rio Jari, no Tocantins, envolvendo um grupo de amigos (Raimundinho, Léo Sem, Leandro Sem, William Rocha, entre outros) que se preparam para uma aventura em uma fazenda chamada Tapewara e uma cachoeira chamada Itacará. A narrativa inclui detalhes sobre o transporte de equipamentos, a logística da viagem, e interações entre os participantes.",
+      "key_points": {
+        "locations": [
+          "Rio Jari",
+          "Fazenda Tapewara",
+          "Cachoeira Itacará"
+        ],
+        "activities": [
+          "Pesca",
+          "Exploração da natureza",
+          "Preparação de acampamento"
+        ],
+        "equipment": [
+          "Barco (batelão)",
+          "Equipamentos de pesca",
+          "Bateria de lítio (do Tocantins)",
+          "Tenda e equipamentos de acampamento"
+        ],
+        "logistics": {
+          "transport": "Uso de um veículo para transportar equipamentos e materiais para a viagem.",
+          "setup": "Instalação de um acampamento com foco em conforto e tecnologia (menção a Starlink)."
+        },
+        "group_dynamics": {
+          "collaboration": "Membros do grupo assumem papéis específicos, como organização de equipamentos e planejamento da viagem.",
+          "interactions": "Conversas informais e planejamento coletivo para garantir o sucesso da aventura."
+        }
+      },
+      "notable_details": {
+        "technology": "Menção à utilização de uma bateria de lítio e ao Starlink, indicando uma abordagem moderna para o acampamento.",
+        "environment": "Destaque para a beleza natural da região, como a cachoeira Itacará e o rio Jari.",
+        "preparation": "Enfoque no planejamento detalhado, incluindo transporte de equipamentos e organização do acampamento."
+      }
+    }
+  }
+}

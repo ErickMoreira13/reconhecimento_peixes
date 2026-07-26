@@ -1,0 +1,25 @@
+{
+  "arquivo": "yZ0K6nUmbN4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:55:04.287563",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Pirambeba",
+      "Canhona"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Sobradinho"
+    ],
+    "estado": "Goiás",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

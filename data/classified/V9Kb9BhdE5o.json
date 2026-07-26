@@ -1,0 +1,26 @@
+{
+  "arquivo": "V9Kb9BhdE5o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:38:01.687347",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "varinha telescópica",
+      "cordões"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "método de amarração de linha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

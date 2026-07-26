@@ -1,0 +1,25 @@
+{
+  "arquivo": "p0Qcut51dh0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:47:26.175261",
+  "classificacao": {
+    "especies": [
+      "Sardina",
+      "Tuna"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Gusano",
+      "Sardina"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

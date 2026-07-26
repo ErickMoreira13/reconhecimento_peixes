@@ -1,0 +1,36 @@
+{
+  "arquivo": "IZSgXFQeSBE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:35:29.212082",
+  "classificacao": {
+    "especies": [
+      "Amarelo",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Motor",
+      "Hélice",
+      "Caiaque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Drop Shot",
+      "Lança e Recolhe"
+    ],
+    "rios": [
+      "Rio Verde",
+      "Rio Paraná"
+    ],
+    "bacias": [
+      "Bacia do Paraná"
+    ],
+    "estado": "Mato Grosso do Sul",
+    "municipio": "Pauliceia",
+    "tipo_pesca": [
+      "Pesca de Caiaque"
+    ],
+    "observacoes": "Último dia da piraceno (28 de fevereiro). Piranha capturada e preparada para fritar. Amarelo capturado com grande movimento. Câmera GoPro utilizada para gravação. Comentário sobre o canto de um pássaro não identificado. Almoço realizado em clareira no meio da mata."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "arquivo": "w1GL7szGOBA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:52:35.917113",
+  "classificacao": {
+    "especies": [
+      "Robales",
+      "Cordinorra",
+      "Burra"
+    ],
+    "equipamentos": [
+      "Fluorocarbono",
+      "Destrocedor",
+      "Raglou",
+      "Alfinete",
+      "Multifilar"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trolling"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Trolling"
+    ],
+    "observacoes": ""
+  }
+}

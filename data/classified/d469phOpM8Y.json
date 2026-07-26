@@ -1,0 +1,27 @@
+{
+  "arquivo": "d469phOpM8Y",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:40:27.692397",
+  "classificacao": {
+    "especies": [
+      "Minhoca Gigante Africana"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Minhoca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "São José dos Pinhais",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Venda de minhocas gigantes africanas para pesca e alimentação de aves"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "arquivo": "aAyv5v3euFs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:10:47.824148",
+  "classificacao": {
+    "especies": [
+      "Macaco"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

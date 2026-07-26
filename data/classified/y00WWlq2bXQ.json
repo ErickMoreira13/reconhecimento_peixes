@@ -1,0 +1,54 @@
+{
+  "arquivo": "y00WWlq2bXQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:41:28.454346",
+  "classificacao": {
+    "species": [
+      "Piau",
+      "Piau Sul",
+      "Pirarara"
+    ],
+    "equipment": [
+      "mochilão",
+      "toverix",
+      "cadeira",
+      "suporte de vara",
+      "vara",
+      "maleta"
+    ],
+    "baits": [
+      "massa"
+    ],
+    "cevas": [
+      {
+        "name": "ração de coelho",
+        "type": "Ceva Proteica"
+      },
+      {
+        "name": "farelo",
+        "type": "Ceva Proteica"
+      },
+      {
+        "name": "trigo",
+        "type": "Ceva de Partículas"
+      }
+    ],
+    "grains": [
+      "trigo"
+    ],
+    "techniques": [
+      "longa distância"
+    ],
+    "rios": [
+      "Cachoeira de Emas",
+      "Pirassumunga"
+    ],
+    "bacias": [],
+    "estado": "São Paulo",
+    "municipio": "Pirassumunga",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

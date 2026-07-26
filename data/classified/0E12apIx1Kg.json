@@ -1,0 +1,34 @@
+{
+  "arquivo": "0E12apIx1Kg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:11:22.783149",
+  "classificacao": {
+    "especies": [
+      "piapara",
+      "pacu",
+      "piracanjuba",
+      "piraputanga",
+      "poitado"
+    ],
+    "equipamentos": [
+      "carretilha Venza 8000",
+      "varinha Titan X de 17 libras, 6 pés",
+      "coador"
+    ],
+    "cevas": [
+      "grão de milho",
+      "grão de soja",
+      "massinha"
+    ],
+    "localização": [
+      "Paranazão",
+      "Passo de la Pátria, Argentina"
+    ],
+    "técnica": "rodadinha",
+    "canal": [
+      "Fichalona",
+      "Amazon"
+    ],
+    "observações": ""
+  }
+}

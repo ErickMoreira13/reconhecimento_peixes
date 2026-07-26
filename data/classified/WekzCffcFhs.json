@@ -1,0 +1,33 @@
+{
+  "arquivo": "WekzCffcFhs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:04:32.518529",
+  "classificacao": {
+    "especies": [
+      "Peixe Espada",
+      "Robalo"
+    ],
+    "equipamentos": [
+      "Alicate",
+      "Linha",
+      "Molinete"
+    ],
+    "iscas": [
+      "Isca",
+      "Massa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Peixe Ferido",
+      "Solta",
+      "Uso de Alicate"
+    ]
+  }
+}

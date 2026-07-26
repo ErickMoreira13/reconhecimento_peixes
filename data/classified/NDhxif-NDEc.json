@@ -1,0 +1,43 @@
+{
+  "arquivo": "NDhxif-NDEc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T11:41:12.964982",
+  "classificacao": {
+    "especies": [
+      "Aruanã",
+      "Piranha",
+      "Pirarara"
+    ],
+    "equipamentos": [
+      "Lola",
+      "Molinete",
+      "Reel"
+    ],
+    "iscas": [
+      "Isca",
+      "Sará",
+      "Verde limão",
+      "Branca"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Trabalho rápido"
+    ],
+    "rios": [
+      "Rio Jatapu",
+      "Maripen"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Catching a large aruanã",
+      "Using specific bait colors like green lemon and white",
+      "Mention of fishing during August to November season"
+    ]
+  }
+}

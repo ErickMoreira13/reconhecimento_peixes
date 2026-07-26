@@ -1,0 +1,23 @@
+{
+  "arquivo": "3MWc53-lZHE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:11:31.000846",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Doce"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O pescador soltou mais de 3 mil peixes no Rio Doce e pediu aos demais pescadores que não levassem os peixes capturados, solicitando que fossem soltos para reprodução"
+    ]
+  }
+}

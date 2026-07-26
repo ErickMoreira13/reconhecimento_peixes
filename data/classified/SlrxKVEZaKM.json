@@ -1,0 +1,23 @@
+{
+  "arquivo": "SlrxKVEZaKM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T12:17:51.443170",
+  "classificacao": {
+    "especies": [
+      "Dourado"
+    ],
+    "equipamentos": [],
+    "iscas": [
+      "Sangue"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

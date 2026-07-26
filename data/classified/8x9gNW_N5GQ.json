@@ -1,0 +1,38 @@
+{
+  "arquivo": "8x9gNW_N5GQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:34:48.965672",
+  "classificacao": {
+    "especies": [
+      "Bagre",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Chumbada",
+      "Molinete",
+      "Vara de Bambu"
+    ],
+    "iscas": [
+      "Minhoca",
+      "Pelote de Minhoca"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Bagre",
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "O rio está sujo e a pescaria foi feita de forma improvisada devido às condições da água",
+      "A pescaria inicialmente planejada para piau foi substituída por bagre devido à poluição"
+    ]
+  }
+}

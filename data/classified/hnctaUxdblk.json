@@ -1,0 +1,38 @@
+{
+  "arquivo": "hnctaUxdblk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:03:34.493446",
+  "classificacao": {
+    "especies": [
+      "piranha",
+      "buri"
+    ],
+    "equipamentos": [
+      "anzol",
+      "barco macaco",
+      "astralho"
+    ],
+    "iscas": [
+      "cebo",
+      "cebola",
+      "alho"
+    ],
+    "cevas": [],
+    "graos": [
+      "Arroz"
+    ],
+    "tecnicas": [],
+    "rios": [
+      "Rio Preto"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "o rio não baixou nada, só aumentando",
+      "chegando o final aqui de mais uma aventura",
+      "grças a deus se você gostou deixa o joinha"
+    ]
+  }
+}

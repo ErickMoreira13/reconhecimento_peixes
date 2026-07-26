@@ -1,0 +1,38 @@
+{
+  "arquivo": "eVvb8soz-Dg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:53:58.356753",
+  "classificacao": {
+    "especies": [
+      "Tabarana"
+    ],
+    "equipamentos": [
+      "Câmera",
+      "Garateia"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Arremesso"
+    ],
+    "rios": [
+      "Rio Pardo"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Vento gelado",
+      "Sol saiu",
+      "Rio meio baixo",
+      "Peixe de grande porte",
+      "Fisgada na guelra",
+      "Liberado após captura",
+      "Localização maravilhosa"
+    ]
+  }
+}

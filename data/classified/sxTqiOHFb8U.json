@@ -1,0 +1,89 @@
+{
+  "arquivo": "sxTqiOHFb8U",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:20:05.430556",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Tapajó",
+      "Jacundá",
+      "Maria Mole",
+      "Soapfish"
+    ],
+    "equipamentos": [
+      "Cabo Líder",
+      "Fluorocarbon Line",
+      "Carretel"
+    ],
+    "iscas": [],
+    "cevas": {
+      "ceva natural": [
+        "Milho",
+        "Soja",
+        "Trigo",
+        "Arroz",
+        "Quirera",
+        "Canjica"
+      ],
+      "ceva proteica": [
+        "Ração",
+        "Farinha de Peixe",
+        "Farelo de Soja"
+      ],
+      "ceva de partículas": [
+        "Galão Perfurado",
+        "Saco Furado",
+        "Cocho Perfurado"
+      ]
+    },
+    "graos": [
+      "Milho",
+      "Soja",
+      "Trigo",
+      "Arroz",
+      "Quirera",
+      "Canjica"
+    ],
+    "tecnicas": [
+      "Trabalho Rápido da Isca",
+      "Trabalho Lento da Isca",
+      "Isca Calma",
+      "Nó",
+      "Ataque",
+      "Pescaria Esportiva"
+    ],
+    "rios": [
+      "Rio Lajeado",
+      "Rio"
+    ],
+    "lagos": [
+      "Lago"
+    ],
+    "localidades": [
+      "Estruturas de Pedra",
+      "Madeira",
+      "Pedra"
+    ],
+    "temperatura_da_agua": "30.4°C",
+    "fundura": "8 metros (7-8 metros)",
+    "observacoes": [
+      "Sensibilidade muito grande dos pescadores",
+      "Tendência do rio ter tucunaré grande",
+      "Problemas que afetam os peixes",
+      "Necessidade de subir para cima das boias",
+      "Proibição de certas áreas",
+      "Escapou um tucunaré grande",
+      "Presença de tucunaré bravo",
+      "Tucunaré pequeno",
+      "Peixe brincadeira",
+      "Técnica de pegar e soltar",
+      "Menciona 'cachorro tucunaré'",
+      "Menciona 'tucunaré daqui tágio'",
+      "Menciona 'esclatura'",
+      "Menciona 'Two irmãos'",
+      "Menciona 'feel free R. craque'",
+      "Menciona 'gel carretel'",
+      "Menciona 'Welcome e b i ah make ó e i i i i i i i a x e i i i i'"
+    ]
+  }
+}

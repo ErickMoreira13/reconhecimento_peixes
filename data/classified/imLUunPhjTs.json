@@ -1,0 +1,43 @@
+{
+  "arquivo": "imLUunPhjTs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:02:50.365070",
+  "classificacao": {
+    "especies": [
+      "Traíra",
+      "Tilápia",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Tripé",
+      "Câmera de peitoral",
+      "Alicate de contenção",
+      "Alicate de remoção de isca"
+    ],
+    "iscas": [
+      "Isca soft"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pescaria caipira",
+      "Pescaria de Traíra",
+      "Pescaria de Tilápia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "Guarapiranga",
+    "tipo_pesca": [
+      "Pesca esportiva"
+    ],
+    "observacoes": [
+      "Pescaria realizada em ambiente natural",
+      "Uso de equipamentos específicos para Traíra",
+      "Dificuldade em capturar Traíra no final do inverno",
+      "Muitas tentativas e perdas durante a pescaria",
+      "Uso de isca soft com sucesso",
+      "Mencionado uso de alicates para contenção e remoção de isca"
+    ]
+  }
+}

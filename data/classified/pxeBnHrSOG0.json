@@ -1,0 +1,31 @@
+{
+  "arquivo": "pxeBnHrSOG0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:24:27.809846",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Spinning Setup",
+      "Baitcasting Setup",
+      "Fluorocarbon Line",
+      "Reels",
+      "Vision 110 Silent Colors Math Chat",
+      "Ronin",
+      "Chunky Smallies 110 Silent"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jackbaiting",
+      "Cadence",
+      "Drag"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

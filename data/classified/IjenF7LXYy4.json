@@ -1,0 +1,28 @@
+{
+  "arquivo": "IjenF7LXYy4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:37:34.070170",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Tarrafa",
+      "Chumbada"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Jogar tarrafa sem segurar a chumbada na boca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com tarrafa"
+    ],
+    "observacoes": [
+      "Deu bom, viu? Deu bom!"
+    ]
+  }
+}

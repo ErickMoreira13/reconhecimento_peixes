@@ -1,0 +1,30 @@
+{
+  "arquivo": "9mn1nAoY8fg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:44:41.207971",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Pintado",
+      "Dourado",
+      "Pirarucu",
+      "Pacu",
+      "Traíra",
+      "Tilápia",
+      "Surubim Caxara",
+      "Jaraki",
+      "Pial"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

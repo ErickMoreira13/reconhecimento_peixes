@@ -1,0 +1,37 @@
+{
+  "arquivo": "9GCl982TCaI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:40:42.655611",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Tucunaré Vasoleri",
+      "Paca",
+      "Acará Papagaio",
+      "Roial",
+      "Folho Amarelo",
+      "Acarás"
+    ],
+    "equipamentos": [
+      "Máscara",
+      "Snorkel",
+      "Lanterna"
+    ],
+    "iscas": [
+      "Isca de superfície"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca à superfície",
+      "Pesca noturna",
+      "Mergulho"
+    ],
+    "rios": [
+      "Rio Inhamundá"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arquivo": "jhXi2kHvI4g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T18:03:25.060166",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Uatumã"
+    ],
+    "bacias": [
+      "Amazônica"
+    ],
+    "estado": "Amazonas",
+    "municipio": "Presidente Figueiredo",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

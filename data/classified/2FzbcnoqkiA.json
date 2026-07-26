@@ -1,0 +1,35 @@
+{
+  "arquivo": "2FzbcnoqkiA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T22:21:06.301606",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Popoca",
+      "Charlão"
+    ],
+    "equipamentos": [
+      "T20",
+      "Alicate",
+      "Régua",
+      "Máquina"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Jatapu"
+    ],
+    "bacias": [],
+    "estado": "Amazonas",
+    "municipio": "Manaus",
+    "tipo_pesca": [],
+    "observacoes": [
+      "pescaria de hoje foi bem fraca",
+      "água baixou muito",
+      "média de um dois peixes por barco",
+      "vamos para lagos mais distantes"
+    ]
+  }
+}

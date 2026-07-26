@@ -1,0 +1,41 @@
+{
+  "arquivo": "I_7oX9Wbr84",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T16:26:55.810157",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Curimba",
+      "Tilápia",
+      "Traíra",
+      "Pirarara",
+      "Lambari",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Varinhas",
+      "Kit"
+    ],
+    "isca": [
+      "Massinha",
+      "Milho",
+      "Massa",
+      "Ceva Natural",
+      "Ceva Proteica",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "local": "Esse local",
+    "tipo_de_pescaria": [
+      "Pescaria de Ceva",
+      "Pescaria de Lambari",
+      "Pescaria de Traíra",
+      "Pescaria de Tilápia",
+      "Pescaria de Curimba",
+      "Pescaria de Tucunaré"
+    ],
+    "outras_informacoes": [
+      "O vídeo não foi concluído devido à bateria do celular acabar."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "Ajb5pzSzy3I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:49:01.900419",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Escolher profundidade adequada",
+      "Usar ceva natural"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de tilápia"
+    ],
+    "observacoes": [
+      "Evitar locais com água cristalina",
+      "Usar ceva natural como atrativo"
+    ]
+  }
+}

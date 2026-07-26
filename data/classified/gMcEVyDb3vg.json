@@ -1,0 +1,23 @@
+{
+  "arquivo": "gMcEVyDb3vg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:58:36.168379",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Anzol"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Lançamento longo de anzol"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "arquivo": "p444qAoJ3bs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:55:03.678125",
+  "classificacao": {
+    "especies": [
+      "Silapão",
+      "Tucundaré",
+      "Palharinha",
+      "Amarelo"
+    ],
+    "equipamentos": [
+      "vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Promissão",
+      "Tucundaré",
+      "Palharinha"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "H4dXsnIjUzU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:40:53.311459",
+  "classificacao": {
+    "especies": [
+      "Surubim"
+    ],
+    "equipamentos": [
+      "Barco"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "São Francisco"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca ritualística"
+    ],
+    "observacoes": []
+  }
+}

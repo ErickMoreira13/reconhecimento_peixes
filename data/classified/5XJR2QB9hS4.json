@@ -1,0 +1,26 @@
+{
+  "arquivo": "5XJR2QB9hS4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:35:24.830510",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "massinha"
+    ],
+    "cevas": [
+      "Ceva Proteica",
+      "Ceva Aromática"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

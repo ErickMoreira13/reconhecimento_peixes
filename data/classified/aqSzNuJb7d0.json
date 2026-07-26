@@ -1,0 +1,41 @@
+{
+  "arquivo": "aqSzNuJb7d0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:07:41.756744",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Piau",
+      "Traíra",
+      "Surubim",
+      "Jiqui",
+      "Tuvira",
+      "Suvela"
+    ],
+    "equipamentos": [
+      "Arpão",
+      "Lanterna",
+      "Lanterna Tática"
+    ],
+    "iscas": [],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho",
+      "Soja"
+    ],
+    "tecnicas": [
+      "Pesca Subnoturna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Subnoturna"
+    ],
+    "observacoes": []
+  }
+}

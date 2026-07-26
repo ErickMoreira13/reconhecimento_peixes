@@ -1,0 +1,23 @@
+{
+  "arquivo": "H8UIpxvk4rE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:43:55.327355",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Carretel",
+      "Linha",
+      "Barco",
+      "Caiaque"
+    ],
+    "iscas": [
+      "Isca",
+      "Hélice"
+    ],
+    "cevas": [],
+    "graos": []
+  }
+}

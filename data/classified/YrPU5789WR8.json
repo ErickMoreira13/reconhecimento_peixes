@@ -1,0 +1,29 @@
+{
+  "arquivo": "YrPU5789WR8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:27:19.029523",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Varinha",
+      "Linha"
+    ],
+    "iscas": [
+      "Massa de fundo"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Fisgada",
+      "Luta com o peixe"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de fundo"
+    ],
+    "observacoes": []
+  }
+}

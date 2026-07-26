@@ -1,0 +1,40 @@
+{
+  "arquivo": "iwJZo0dOsTs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:32:08.298549",
+  "classificacao": {
+    "especies": [
+      "Tucunaré",
+      "Traíra",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "GIG"
+    ],
+    "iscas": [
+      "GIG"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "trabalho no fundo",
+      "trabalho na superfície",
+      "variação de velocidade de recolhimento",
+      "uso de diferentes pesos"
+    ],
+    "rios": [
+      "Lago de Itaipu"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": [
+      "versatilidade da isca GIG em diferentes condições de pesca",
+      "eficácia em diversas estações do ano",
+      "aplicação em diferentes profundidades da água"
+    ]
+  }
+}

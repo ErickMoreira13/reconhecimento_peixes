@@ -1,0 +1,23 @@
+{
+  "arquivo": "DMEQ1u4Hqbk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T23:29:29.664079",
+  "classificacao": {
+    "especies": [
+      "Açude"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [
+      "Açude"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

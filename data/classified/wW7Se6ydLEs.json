@@ -1,0 +1,33 @@
+{
+  "arquivo": "wW7Se6ydLEs",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T15:38:52.061462",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "caiaque",
+      "isca",
+      "isca grande",
+      "isca barulhenta",
+      "isca hunter bait",
+      "rede velha"
+    ],
+    "iscas": [
+      "isca grande",
+      "isca barulhenta",
+      "isca hunter bait",
+      "isca iara"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca esportiva"
+    ],
+    "observacoes": []
+  }
+}

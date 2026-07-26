@@ -1,0 +1,29 @@
+{
+  "arquivo": "y1-FyEibdMg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:41:54.725419",
+  "classificacao": {
+    "especies": [
+      "Giripoca",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "Linha 20 libras",
+      "Vara 10 e 20 libras"
+    ],
+    "iscas": [
+      "Salazinho"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Mexendo com a isca"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

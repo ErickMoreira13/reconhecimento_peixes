@@ -1,0 +1,40 @@
+{
+  "arquivo": "aG58dwu08QM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T18:43:48.942061",
+  "classificacao": {
+    "especies": [
+      "Tucunaré Azul",
+      "Traíra",
+      "Curimbá"
+    ],
+    "equipamentos": [
+      "carretilha",
+      "bastão",
+      "sonda",
+      "LiveScope",
+      "viveiro",
+      "caninho",
+      "bombinha"
+    ],
+    "iscas": [],
+    "graos": [],
+    "cevas": [],
+    "tecnicas": [
+      "sonar",
+      "pesca em águas profundas",
+      "uso de viveiro"
+    ],
+    "rios": [],
+    "bacias": [
+      "Bacia do Paranoá"
+    ],
+    "estado": "Goiás",
+    "municipio": "Serra da Mesa",
+    "tipo_pesca": [
+      "pesca esportiva",
+      "pesca recreativa"
+    ],
+    "observacoes": "Uso de tecnologia como LiveScope para localização de peixes e utilização de viveiro para manter os peixes capturados antes do lançamento."
+  }
+}

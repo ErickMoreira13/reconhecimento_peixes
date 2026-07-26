@@ -1,0 +1,25 @@
+{
+  "arquivo": "u8BQrnn_4dc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T20:50:53.341255",
+  "classificacao": {
+    "especies": [
+      "Jau",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "fio",
+      "linha"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

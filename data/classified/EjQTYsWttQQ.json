@@ -1,0 +1,27 @@
+{
+  "arquivo": "EjQTYsWttQQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T01:03:14.494495",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Corda de pesca"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapecuru"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Fundura de 30 metros",
+      "Horário de 6h40 da manhã",
+      "Pescaria realizada no início da manhã"
+    ]
+  }
+}

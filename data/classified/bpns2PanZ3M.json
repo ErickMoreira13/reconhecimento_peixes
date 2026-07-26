@@ -1,0 +1,37 @@
+{
+  "arquivo": "bpns2PanZ3M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:31:29.929476",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Montagem Carolina",
+      "Tenso Comprido",
+      "Vinilo",
+      "Bola de Chumbo",
+      "Jarco Feito"
+    ],
+    "iscas": [
+      "Boilhoto",
+      "Erva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Finesse",
+      "Jerkbait",
+      "Shutter Bait",
+      "Lipless",
+      "Gigas"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Finesse",
+      "Jerkbait"
+    ],
+    "observacoes": "O peixe estava ativo durante chuvas fortes, usando técnicas como shutter baits, lipless e gigas. Com o tempo frio e céus limpos, a pesca voltou ao finesse e erpeites. Utilizou uma montagem carolina com peso de 20 gramas, tenso comprido e vinilo solto. O peixe estava gelado e reagia com força ao jerkbait, sendo pescado principalmente em áreas suspensas acima de quebrazitas."
+  }
+}

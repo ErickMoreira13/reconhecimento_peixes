@@ -1,0 +1,33 @@
+{
+  "arquivo": "Q69oEgtddME",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T15:33:20.321751",
+  "classificacao": {
+    "especies": [
+      "Piau"
+    ],
+    "equipamentos": [
+      "Varinha de Bambu",
+      "Canivete com Alicate"
+    ],
+    "iscas": [],
+    "graos": [
+      "Arroz",
+      "Feijão"
+    ],
+    "lugar": [
+      "Pantanal, Rio Miranda",
+      "Vale do Babu"
+    ],
+    "tipo_de_pesca": [
+      "Pesca com Varinha de Bambu"
+    ],
+    "outras_informacoes": [
+      "Pescaria top de Piauçu na varinha de bambu",
+      "É raiz pura",
+      "É uma nave",
+      "Melhor do...",
+      "Vamos comer arroz, feijão e costelinha de Piauçu"
+    ]
+  }
+}

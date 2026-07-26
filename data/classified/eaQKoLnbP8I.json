@@ -1,0 +1,35 @@
+{
+  "arquivo": "eaQKoLnbP8I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:52:29.645792",
+  "classificacao": {
+    "espécies": [
+      "piau",
+      "pial de coco"
+    ],
+    "equipamentos": [
+      "canoe",
+      "motor",
+      "esteira",
+      "curral",
+      "caçoeira"
+    ],
+    "cevas": {
+      "Ceva Proteica": [
+        "ração"
+      ],
+      "Ceva de Partículas": [
+        "galão perfurado"
+      ]
+    },
+    "iscas": [],
+    "ambiente": {
+      "tipo": "rio",
+      "correnteza": "forte"
+    },
+    "técnicas": [
+      "pesca em curral",
+      "uso de cevas proteicas"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "EQKUlVZ-poI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:13:16.457138",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Cabeça Gorda",
+      "Assadinho",
+      "Tucunaré",
+      "Pacu"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

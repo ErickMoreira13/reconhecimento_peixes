@@ -1,0 +1,21 @@
+{
+  "arquivo": "-Ya4RgqeG-E",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:55:17.509682",
+  "classificacao": {
+    "summary": "O texto é uma narrativa em português de um pescador que relata uma experiência frustrante ao tentar pescar um Piauçu (um tipo de peixe) em Santa Maria da Serra. Ele descreve o uso de um anzol pequeno, a dificuldade de puxar o peixe devido ao enrosco (vegetação ou raízes submersas), e a frustração ao ver o peixe escapar. O relato inclui elementos de drama, descrições detalhadas do processo de pesca e um apelo para que o público se inscreva no canal do pescador.",
+    "key_points": [
+      "Tentativa de pescar um Piauçu com um anzol pequeno",
+      "Dificuldades devido ao enrosco (vegetação submersa)",
+      "Frustração ao ver o peixe escapar",
+      "Contexto geográfico: Santa Maria da Serra",
+      "Apelo para inscrições no canal de vídeo"
+    ],
+    "fishing_terms": {
+      "Piauçu": "Espécie de peixe comum no Brasil, frequentemente alvo de pescadores amadores",
+      "Enrosco": "Vegetação ou raízes submersas que dificultam a pesca",
+      "Anzol pequeno": "Equipamento usado para pescar peixes de tamanho médio"
+    },
+    "analysis": "O texto combina elementos de narrativa pessoal, instrução prática de pesca e marketing de conteúdo. O pescador usa linguagem coloquial e repetição para transmitir emoção, destacando a luta contra a natureza (o enrosco) e a frustração de uma captura perdida. O apelo para inscrições sugere que o conteúdo é parte de um canal de vídeo, comum em plataformas como YouTube."
+  }
+}

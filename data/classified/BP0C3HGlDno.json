@@ -1,0 +1,34 @@
+{
+  "arquivo": "BP0C3HGlDno",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:30:29.197828",
+  "classificacao": {
+    "especies": [
+      "Tilápia",
+      "Curimba",
+      "Piau",
+      "Carpa"
+    ],
+    "equipamentos": [
+      "copo",
+      "vasilha",
+      "prato",
+      "scoopzinho",
+      "colher"
+    ],
+    "iscas": [
+      "massa"
+    ],
+    "cevas": [],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

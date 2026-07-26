@@ -1,0 +1,74 @@
+{
+  "arquivo": "3JL-TBtM82M",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:09:42.393847",
+  "classificacao": {
+    "especies": [
+      {
+        "nome": "Traíra",
+        "categoria": "Pescado"
+      },
+      {
+        "nome": "Caixara",
+        "categoria": "Pescado"
+      }
+    ],
+    "equipamentos": [
+      {
+        "nome": "Alça Circular",
+        "categoria": "Equipamento de Pesca"
+      },
+      {
+        "nome": "Tubirinha",
+        "categoria": "Equipamento de Pesca"
+      },
+      {
+        "nome": "Disca",
+        "categoria": "Equipamento de Pesca"
+      },
+      {
+        "nome": "Vara Black Eagle",
+        "categoria": "Equipamento de Pesca"
+      },
+      {
+        "nome": "Linha Multifilamento Vexter X8",
+        "categoria": "Equipamento de Pesca"
+      },
+      {
+        "nome": "Azor Circular Mutsu",
+        "categoria": "Equipamento de Pesca"
+      }
+    ],
+    "iscas": [
+      {
+        "nome": "Milho",
+        "categoria": "Isca"
+      },
+      {
+        "nome": "Soja",
+        "categoria": "Isca"
+      }
+    ],
+    "cevadas": {
+      "Natural": [
+        {
+          "nome": "Milho",
+          "categoria": "Cevada"
+        },
+        {
+          "nome": "Soja",
+          "categoria": "Cevada"
+        }
+      ],
+      "Proteica": [],
+      "Aromática": [],
+      "Partículas": []
+    },
+    "localizacao": {
+      "rio": "Arapari",
+      "rio2": "Cururu Selvagem",
+      "estado": "Rondônia",
+      "pais": "Brasil"
+    }
+  }
+}

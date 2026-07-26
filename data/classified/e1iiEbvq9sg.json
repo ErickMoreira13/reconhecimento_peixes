@@ -1,0 +1,29 @@
+{
+  "arquivo": "e1iiEbvq9sg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:35:35.108028",
+  "classificacao": {
+    "especies": [
+      "Saicanga",
+      "Lambari"
+    ],
+    "equipamentos": [
+      "vara telescópica",
+      "linha",
+      "boia",
+      "anzol"
+    ],
+    "iscas": [
+      "calabresa"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "arquivo": "Ok-5sofoaF0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T13:53:23.441807",
+  "classificacao": {
+    "especies": [
+      "Pintado",
+      "Surubim",
+      "Caixara",
+      "Suruvi",
+      "Jundiaonça",
+      "Pincaxara",
+      "Pintado Real",
+      "Pintado Gaúcho"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

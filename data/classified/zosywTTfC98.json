@@ -1,0 +1,37 @@
+{
+  "arquivo": "zosywTTfC98",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:39:09.696475",
+  "classificacao": {
+    "especies": [
+      "Peixe",
+      "Arraia",
+      "Piranha",
+      "Mandi"
+    ],
+    "equipamentos": [
+      "Canoa",
+      "Fio",
+      "Alicate",
+      "Escudeira",
+      "Cachara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva",
+      "Piracema"
+    ],
+    "observacoes": [
+      "Piracema",
+      "Soltura de peixes",
+      "Preparação de moqueca e frito"
+    ]
+  }
+}

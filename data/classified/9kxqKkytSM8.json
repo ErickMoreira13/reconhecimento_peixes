@@ -1,0 +1,23 @@
+{
+  "arquivo": "9kxqKkytSM8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T16:43:19.173631",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "Goiás",
+    "municipio": "Morro Redondo",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Saiu um tamba aqui no Morro Redondo 15 quilos"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "arquivo": "rA0HorUPqNQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:01:24.345713",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carretilha"
+    ],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Ajuste Fino da Carretilha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

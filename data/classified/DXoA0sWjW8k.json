@@ -1,0 +1,25 @@
+{
+  "arquivo": "DXoA0sWjW8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:20:06.478149",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Vara de choque"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca de choque"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Pernambuco",
+    "municipio": "Santo Amaro",
+    "tipo_pesca": [
+      "Pesca de choque"
+    ],
+    "observacoes": []
+  }
+}

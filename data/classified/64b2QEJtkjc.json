@@ -1,0 +1,34 @@
+{
+  "arquivo": "64b2QEJtkjc",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T00:36:31.270937",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Boinha",
+      "Varinha"
+    ],
+    "iscas": [
+      "Mandioca",
+      "Erva"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Menciona preservação de peixes durante a piracema",
+      "Uso de iscas naturais como mandioca e erva",
+      "Liberação de peixes capturados"
+    ]
+  }
+}

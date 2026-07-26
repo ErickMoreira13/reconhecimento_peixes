@@ -1,0 +1,23 @@
+{
+  "arquivo": "UrXknqSMqk8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T22:25:38.036458",
+  "classificacao": {
+    "especies": [
+      "Coral",
+      "Chopis",
+      "Plásticos"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

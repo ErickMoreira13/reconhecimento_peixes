@@ -1,0 +1,32 @@
+{
+  "arquivo": "l6zQYio7k9g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T20:46:05.845137",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "popper"
+    ],
+    "iscas": [
+      "popper"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "imitação de peixe se alimentando na superfície"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "pesca de superfície"
+    ],
+    "observacoes": [
+      "eficaz em locais com Tucunaré territorialista",
+      "utilizado durante período de acasalamento (choqueiro)"
+    ]
+  }
+}

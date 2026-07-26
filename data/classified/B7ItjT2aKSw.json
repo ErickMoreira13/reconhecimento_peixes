@@ -1,0 +1,23 @@
+{
+  "arquivo": "B7ItjT2aKSw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:44:42.925311",
+  "classificacao": {
+    "summary": "O texto é um monólogo de alguém que está pescando, descrevendo sua experiência em um local chamado Recanto Tambaqui. Ele fala sobre os desafios da pesca, a excitação de capturar peixes como tambaqui e pacu, as condições climáticas (chuva chegando), e a interação com a audiência (pedindo curtidas e inscrições). O conteúdo é informal, repleto de exclamações e repetições, com ênfase na autenticidade da experiência e na qualidade do vídeo (sem cortes).",
+    "key_points": [
+      "Localização: Recanto Tambaqui",
+      "Espécies de peixe capturadas: tambaqui e pacu",
+      "Condições climáticas: chuva iminente",
+      "Duração da filmagem: 30-35 minutos",
+      "Engajamento com a audiência (curtidas, inscrições)",
+      "Menciona uso de equipamentos (câmera, edição)"
+    ],
+    "possible_requests": [
+      "Resumo estruturado do conteúdo",
+      "Tradução do texto",
+      "Análise de técnicas de pesca mencionadas",
+      "Ajuda para criar um script semelhante",
+      "Extração de elementos culturais ou contextuais"
+    ]
+  }
+}

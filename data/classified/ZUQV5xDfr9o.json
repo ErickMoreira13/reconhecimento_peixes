@@ -1,0 +1,27 @@
+{
+  "arquivo": "ZUQV5xDfr9o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:48:30.266377",
+  "classificacao": {
+    "especies": [
+      "Tambaqui"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Esqueminha",
+      "Vara"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "O pescador está cansado e o peixe é forte. Há frustração com a linha arrebentando."
+    ]
+  }
+}

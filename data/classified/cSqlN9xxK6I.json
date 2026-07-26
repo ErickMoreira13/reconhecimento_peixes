@@ -1,0 +1,24 @@
+{
+  "arquivo": "cSqlN9xxK6I",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T21:54:17.292656",
+  "classificacao": {
+    "especies": [
+      "Traíra"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Alagado",
+      "Vera do Alagado"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

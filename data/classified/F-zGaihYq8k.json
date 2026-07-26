@@ -1,0 +1,25 @@
+{
+  "arquivo": "F-zGaihYq8k",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:58:33.732850",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [
+      "Camarão"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Itapocu"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "Itapocu",
+    "tipo_pesca": [
+      "Pesca com isca natural"
+    ],
+    "observacoes": "Retorno após ausência e compromisso de postar vídeos semanais."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "arquivo": "VAQGpJMfnLI",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T13:39:55.138215",
+  "classificacao": {
+    "summary": "O vídeo mostra uma experiência de pesca com sucesso após tentativas iniciais sem resultados. O pesquisador mudou de local e conseguiu capturar espécies como Paco CD, piapara, piau e piracanjuba. No final, há menção a um evento de pesca em 1º de março e a um sorteio de um Hilux e outros prêmios, com contato via WhatsApp (11 99999-9999).",
+    "fish_caught": [
+      "Paco CD",
+      "piapara",
+      "piau",
+      "piracanjuba"
+    ],
+    "event_details": {
+      "date": "1º de março",
+      "prizes": [
+        "Hilux",
+        "outros prêmios"
+      ],
+      "contact": "WhatsApp: 11 99999-9999"
+    }
+  }
+}

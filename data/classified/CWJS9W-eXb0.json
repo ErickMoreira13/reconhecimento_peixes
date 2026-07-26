@@ -1,0 +1,21 @@
+{
+  "arquivo": "CWJS9W-eXb0",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T22:35:00.400888",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Rio Arinos"
+    ],
+    "bacias": [],
+    "estado": "Mato Grosso",
+    "municipio": "Juara",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

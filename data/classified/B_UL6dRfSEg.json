@@ -1,0 +1,21 @@
+{
+  "arquivo": "B_UL6dRfSEg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T19:47:18.790905",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [
+      "Kumai"
+    ],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

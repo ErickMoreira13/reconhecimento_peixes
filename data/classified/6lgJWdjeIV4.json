@@ -1,0 +1,30 @@
+{
+  "arquivo": "6lgJWdjeIV4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:37:29.311636",
+  "classificacao": {
+    "especies": [
+      "Jaú",
+      "Dourado",
+      "Traíra",
+      "Barbado"
+    ],
+    "equipamentos": [
+      "Vara",
+      "Alicate",
+      "Isca Artificial"
+    ],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

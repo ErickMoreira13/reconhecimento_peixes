@@ -1,0 +1,42 @@
+{
+  "arquivo": "BssQ2H1jDH8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T20:35:44.949172",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Piranha"
+    ],
+    "equipamentos": [
+      "Vareia de Bambu",
+      "Varinha",
+      "Cavarinho de Bambu"
+    ],
+    "iscas": [
+      "Milho"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Cevar",
+      "Deixar Afundar",
+      "Jogar",
+      "Deixar Chegar no Fundo"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "A filmagem está escura devido à localização dentro da mata",
+      "Precisa de um barco para filmagem melhor",
+      "Abandonou o melendete para pescar com o cavarinho de bambu"
+    ]
+  }
+}

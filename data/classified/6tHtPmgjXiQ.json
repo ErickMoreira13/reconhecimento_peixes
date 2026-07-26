@@ -1,0 +1,38 @@
+{
+  "arquivo": "6tHtPmgjXiQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-19T12:42:03.361248",
+  "classificacao": {
+    "especies": [
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Carretilha",
+      "Caniço"
+    ],
+    "iscas": [
+      "Isca Artificial"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [
+      "Pesca em Águas Abertas"
+    ],
+    "rios": [
+      "Rio Paraná"
+    ],
+    "bacias": [],
+    "estado": "Paraná",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": [
+      "Uso de isca artificial e ceva de milho"
+    ]
+  }
+}

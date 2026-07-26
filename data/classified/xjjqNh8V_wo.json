@@ -1,0 +1,23 @@
+{
+  "arquivo": "xjjqNh8V_wo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T14:03:21.550731",
+  "classificacao": {
+    "especies": [
+      "Paca"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [
+      "Milho"
+    ],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

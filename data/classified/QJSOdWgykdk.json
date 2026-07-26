@@ -1,0 +1,27 @@
+{
+  "arquivo": "QJSOdWgykdk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T16:40:24.020808",
+  "classificacao": {
+    "summary": {
+      "main_topics": [
+        "Fishing for dorados using a specific technique (casting with a lure and waiting for the fish to strike),",
+        "Cooking the caught dorado (grilling it with salt and olive oil),",
+        "Discussion on the reproductive behavior of dorados (spawning in shallow waters during specific seasons),",
+        "Emphasis on conservation and responsible fishing practices."
+      ],
+      "key_points": {
+        "fishing_technique": "Used a lure (likely a metal spoon or similar) and waited for the fish to strike, highlighting patience and understanding of dorado behavior.",
+        "cooking_method": "Simple preparation with salt and olive oil, emphasizing the fish's natural flavor.",
+        "reproductive_insights": "Mentioned that dorados spawn in shallow waters during certain seasons, which is crucial for their population sustainability.",
+        "conservation_message": "Stressed the importance of respecting fish populations and avoiding overfishing, especially for species like dorados that are sensitive to environmental changes."
+      }
+    },
+    "analysis": {
+      "educational_value": "The video combines practical fishing knowledge with ecological awareness, making it informative for both anglers and nature enthusiasts.",
+      "engagement_strategy": "Balances action (fishing and cooking) with educational content, keeping the audience interested while promoting conservation.",
+      "target_audience": "Anglers, seafood lovers, and individuals interested in marine biology or sustainable practices."
+    },
+    "conservation_note": "The mention of dorado spawning habits underscores the need for protecting their habitats and managing fishing efforts to ensure long-term population health."
+  }
+}

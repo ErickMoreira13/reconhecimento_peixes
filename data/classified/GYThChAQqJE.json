@@ -1,0 +1,28 @@
+{
+  "arquivo": "GYThChAQqJE",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T14:36:11.055677",
+  "classificacao": {
+    "especies": [
+      "Camurupim",
+      "Arraia"
+    ],
+    "equipamentos": [
+      "Espinhel"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com Espinhel"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca com Espinhel"
+    ],
+    "observacoes": []
+  }
+}

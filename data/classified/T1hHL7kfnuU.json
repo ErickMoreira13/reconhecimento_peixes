@@ -1,0 +1,25 @@
+{
+  "arquivo": "T1hHL7kfnuU",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-22T13:42:41.353797",
+  "classificacao": {
+    "especies": [
+      "Campineiro",
+      "Piau",
+      "Taguara"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "capturado durante o inverno"
+    ]
+  }
+}

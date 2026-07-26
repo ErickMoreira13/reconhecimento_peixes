@@ -1,0 +1,30 @@
+{
+  "arquivo": "ItU2eUJPnkk",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T17:30:16.165223",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Carabina",
+      "FXR",
+      "gás grande",
+      "chumbinho",
+      "Thunder",
+      "Titã",
+      "2.20 gramas"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": [
+      "Compatível com chumbinhos maiores",
+      "Necessário posicionar o chumbinho até o cano para baixo"
+    ]
+  }
+}

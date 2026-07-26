@@ -1,0 +1,34 @@
+{
+  "arquivo": "g1_mt15NTeM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T13:13:23.260808",
+  "classificacao": {
+    "especies": [
+      "Cangrejo"
+    ],
+    "equipamentos": [
+      "Caula",
+      "Barco",
+      "Boia",
+      "Escotilha"
+    ],
+    "iscas": [
+      "Carnada"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca com armadilha"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de cangrejo"
+    ],
+    "observacoes": [
+      "Condições climáticas adversas, uso de caulas e jaulas, captura de 185 mil kg de cangrejos"
+    ]
+  }
+}

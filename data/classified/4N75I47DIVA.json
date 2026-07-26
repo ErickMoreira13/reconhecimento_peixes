@@ -1,0 +1,26 @@
+{
+  "arquivo": "4N75I47DIVA",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T23:42:04.458790",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Lanterna",
+      "Facão"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Pesca à lanterna"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca à lanterna"
+    ],
+    "observacoes": []
+  }
+}

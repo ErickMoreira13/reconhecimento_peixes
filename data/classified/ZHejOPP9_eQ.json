@@ -1,0 +1,27 @@
+{
+  "arquivo": "ZHejOPP9_eQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:22:07.956797",
+  "classificacao": {
+    "especies": [
+      "Tupi"
+    ],
+    "equipamentos": [
+      "isqueira"
+    ],
+    "iscas": [
+      "iscavia"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "pesca na areia"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

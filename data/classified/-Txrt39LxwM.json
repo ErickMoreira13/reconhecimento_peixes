@@ -1,0 +1,58 @@
+{
+  "arquivo": "-Txrt39LxwM",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T19:52:53.627526",
+  "classificacao": {
+    "especies": [
+      "Porco Espinho",
+      "Traíra",
+      "Tilápia"
+    ],
+    "equipamentos": [
+      "Anzol",
+      "Carretilha",
+      "Linha",
+      "Régua",
+      "Vara"
+    ],
+    "iscas": [
+      "Arroz",
+      "Ração",
+      "Soja",
+      "Trigo"
+    ],
+    "cevas": [
+      "Ceva de Partículas",
+      "Ceva Natural"
+    ],
+    "graos": [
+      "Arroz",
+      "Milho",
+      "Soja",
+      "Trigo"
+    ],
+    "tecnicas": [
+      "Pesca com Cevas",
+      "Pesca com Isca Viva",
+      "Pesca com Isca Artificial"
+    ],
+    "rios": [
+      "Rio Claro"
+    ],
+    "bacias": [
+      "Bacia do Rio Claro"
+    ],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca de Fundo",
+      "Pesca com Cevas",
+      "Pesca com Isca Viva"
+    ],
+    "observacoes": [
+      "O peixe está meio ruim",
+      "O rio está meio baixo",
+      "A pescaria não foi tão produtiva quanto esperada"
+    ]
+  }
+}

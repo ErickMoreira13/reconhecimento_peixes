@@ -1,0 +1,21 @@
+{
+  "arquivo": "p2xbWlIXDDQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T14:53:15.719906",
+  "classificacao": {
+    "especies": [
+      "Tartaruga"
+    ],
+    "equipamentos": [],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": ""
+  }
+}

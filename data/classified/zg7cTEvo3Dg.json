@@ -1,0 +1,23 @@
+{
+  "arquivo": "zg7cTEvo3Dg",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:11:50.695118",
+  "classificacao": {
+    "especies": [
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Remo"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

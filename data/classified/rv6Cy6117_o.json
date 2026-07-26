@@ -1,0 +1,62 @@
+{
+  "arquivo": "rv6Cy6117_o",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:33:59.651864",
+  "classificacao": {
+    "especies": [
+      "Piau",
+      "Sucuri",
+      "Caneludo",
+      "Lambaria",
+      "Cheque Ouro",
+      "Fígado",
+      "Lapa"
+    ],
+    "equipamentos": [
+      "Bitelo",
+      "Gaia",
+      "Facão",
+      "Anzol",
+      "Canivete",
+      "Crevex",
+      "Reito"
+    ],
+    "iscas": [
+      "Fígado",
+      "Chama no Tempero",
+      "Amarelão",
+      "Chama",
+      "Tempero"
+    ],
+    "cevas": [
+      "Fígado",
+      "Chama no Tempero",
+      "Amarelão",
+      "Chama",
+      "Tempero"
+    ],
+    "localização": [
+      "Rio Testo"
+    ],
+    "métodos_de_pesca": [
+      "Enroscou",
+      "Pescar",
+      "Cortar o Reito",
+      "Trabalhar"
+    ],
+    "técnica_de_pesca": [
+      "Enroscou",
+      "Pescar",
+      "Cortar o Reito"
+    ],
+    "comentários": [
+      "Vai escapar!",
+      "Vai quebrar!",
+      "Engoliu!",
+      "Pegou um monstro!",
+      "Vamos encher o potinho!",
+      "Vamos dar umas voltas!",
+      "Vamos trabalhar!"
+    ]
+  }
+}

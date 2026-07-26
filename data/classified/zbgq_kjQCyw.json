@@ -1,0 +1,33 @@
+{
+  "arquivo": "zbgq_kjQCyw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T16:05:44.003563",
+  "classificacao": {
+    "especies": [],
+    "equipamentos": [
+      "Bote de plástico perfurado",
+      "Plomadas",
+      "Fio"
+    ],
+    "iscas": [
+      "Farinha úmida"
+    ],
+    "cevas": [
+      "Ceva Natural"
+    ],
+    "graos": [],
+    "tecnicas": [
+      "Técnica artesanal com bote de plástico perfurado"
+    ],
+    "rios": [],
+    "bacias": [],
+    "estado": "Índia",
+    "municipio": "Kanur",
+    "tipo_pesca": [
+      "Pesca artesanal"
+    ],
+    "observacoes": [
+      "Técnica simples e eficaz que utiliza um bote de plástico perfurado com farinha úmida como cebo, capturando peixes sem o uso de anzóis"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "arquivo": "yx3szGGnhFw",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:42:36.439922",
+  "classificacao": {
+    "especies": [
+      "Sucunará"
+    ],
+    "equipamentos": [
+      "Vara"
+    ],
+    "iscas": [
+      "Iscas Artificiais"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "Meia Água"
+    ],
+    "rios": [
+      "Rio Cururu"
+    ],
+    "bacias": [],
+    "estado": "Pará",
+    "municipio": "",
+    "tipo_pesca": [
+      "Pesca Esportiva"
+    ],
+    "observacoes": "O rio Cururu é super preservado, sem pressão de pesca, pesca predatória ou comercial. Utiliza iscas artificiais para pescar sucunarés vermelhos."
+  }
+}

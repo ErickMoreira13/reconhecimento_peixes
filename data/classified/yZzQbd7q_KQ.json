@@ -1,0 +1,28 @@
+{
+  "arquivo": "yZzQbd7q_KQ",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-24T15:56:09.927991",
+  "classificacao": {
+    "especie": "Tucunaré",
+    "localizacao": {
+      "rio": "Rio Jatapu",
+      "municipio": "Caroebe",
+      "bacia": ""
+    },
+    "equipamentos": [
+      "Vara 20 livros",
+      "Vara 12 livros",
+      "Caiaque"
+    ],
+    "iscas": [
+      "River Jump",
+      "Cor nova",
+      "Cor arari",
+      "Cor transparente rosa"
+    ],
+    "cevas": [],
+    "grãos": [],
+    "tecnica": "",
+    "observacoes": "Pescaria de Tucunaré Vazoleri em corredeiras do Rio Jatapu, com uso de iscas artificiais e equipamentos específicos."
+  }
+}

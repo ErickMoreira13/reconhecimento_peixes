@@ -1,0 +1,29 @@
+{
+  "arquivo": "0zjSKcMNzU4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-18T20:44:57.122275",
+  "classificacao": {
+    "especies": [
+      "Piranha",
+      "Tucunaré"
+    ],
+    "equipamentos": [
+      "Churrasqueira",
+      "Linha",
+      "Saco"
+    ],
+    "iscas": [
+      "Isca",
+      "Gorinha"
+    ],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [],
+    "rios": [],
+    "bacias": [],
+    "estado": "",
+    "municipio": "",
+    "tipo_pesca": [],
+    "observacoes": []
+  }
+}

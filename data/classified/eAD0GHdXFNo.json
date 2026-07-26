@@ -1,0 +1,42 @@
+{
+  "arquivo": "eAD0GHdXFNo",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T00:51:54.402343",
+  "classificacao": {
+    "especies": [
+      "Pacu",
+      "Dourado",
+      "Piavassu",
+      "Caranha"
+    ],
+    "equipamentos": [
+      "arbalete",
+      "corda",
+      "flecha",
+      "câmera"
+    ],
+    "iscas": [],
+    "cevas": [],
+    "graos": [],
+    "tecnicas": [
+      "espera",
+      "uso de barulho para atrair",
+      "disparo no momento certo"
+    ],
+    "rios": [
+      "Rio São Francisco"
+    ],
+    "bacias": [
+      "Bacia do Rio São Francisco"
+    ],
+    "estado": "Bahia",
+    "municipio": "Sobradinho",
+    "tipo_pesca": "pesca com arco e flecha",
+    "observacoes": [
+      "câmera caiu durante a pescaria",
+      "água turva em alguns pontos",
+      "peixe se aproximou mais devido à turbidez",
+      "experiência emocional com a captura do dourado"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "arquivo": "eNRymlo-Q2g",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-20T11:10:03.152624",
+  "classificacao": {
+    "species": [
+      "dourado"
+    ],
+    "equipment": [
+      "varela",
+      "carretel",
+      "linhas",
+      "multifilamento",
+      "trenzão filé",
+      "New Diamond",
+      "Albatroso",
+      "Dinamica",
+      "oficina"
+    ],
+    "baits": [
+      "sarapó de conforto",
+      "isca do dourado"
+    ],
+    "techniques": [
+      "limbo",
+      "moinho dourado"
+    ],
+    "brands": [
+      "New Diamond",
+      "Albatroso",
+      "Dinamica"
+    ],
+    "other_terms": [
+      "3 top da Galáxia",
+      "6 a 2 liga",
+      "sorteio",
+      "dinamica",
+      "oficina"
+    ]
+  }
+}

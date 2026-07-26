@@ -1,0 +1,21 @@
+{
+  "arquivo": "vPvLUlhNjT8",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-23T14:23:18.964952",
+  "classificacao": {
+    "summary": "O texto parece ser um script ou transcrição de um vídeo ao vivo de pesca, onde o narrador descreve o processo de captura de um peixe chamado 'Tabarana' usando equipamento específico, como uma vara 'Ultralight', linha multifilamento e um 'shedzinho' (possivelmente um pequeno peso ou isca). O conteúdo inclui detalhes sobre a técnica de pesca, os desafios enfrentados (como o peixe escapar), e interações com o público (pedindo curtidas e comentários).",
+    "key_points": [
+      "Equipamento usado: vara 'Ultralight', linha multifilamento, 'shedzinho'.",
+      "Espécie de peixe: 'Tabarana'.",
+      "Descrição do processo de pesca e interação com o público.",
+      "Mencões a desafios, como o peixe escapar."
+    ],
+    "possible_requests": [
+      "Resumo do conteúdo.",
+      "Tradução do texto.",
+      "Análise das técnicas de pesca mencionadas.",
+      "Explicação de termos específicos (como 'shedzinho').",
+      "Feedback sobre o conteúdo do vídeo."
+    ]
+  }
+}

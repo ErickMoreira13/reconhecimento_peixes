@@ -1,0 +1,27 @@
+{
+  "arquivo": "retF0TDsNn4",
+  "modelo": "qwen3:14b",
+  "data_classificacao": "2026-07-21T18:06:22.784406",
+  "classificacao": {
+    "especies": [
+      "Carpa",
+      "Carpa comum",
+      "Carpa espelho"
+    ],
+    "equipamentos": [
+      "Chuveirinho"
+    ],
+    "iscas": [
+      "Massinha"
+    ],
+    "cevas": [
+      "Ceva Natural",
+      "Ceva Aromática",
+      "Ceva de Partículas"
+    ],
+    "graos": [
+      "Trigo"
+    ],
+    "tecnicas": []
+  }
+}
